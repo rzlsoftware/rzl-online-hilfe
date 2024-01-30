@@ -1,0 +1,21 @@
+
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install MkDocs
+        run: pip install mkdocs-material
+
+      - name: Build Docs
+        run: mkdocs build --clean -d output
