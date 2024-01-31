@@ -1,8 +1,16 @@
 site_name: RZL Hilfe
-
+site_url: https://purple-wave-084806310.4.azurestaticapps.net
+site_description: Die RZL online Hilfe
+  
+nav:
+  - Home: index.md
+  - FIBU Next: FIBUNext.md
+  - RZL Software: https://rzlsoftware.at
+    
 theme:
   name: material
   language: de
+  logo: assets/RZL_Herz_rot.svg
   favicon: assets/RZL_Herz_rot.svg
   features:
     - navigation.instant
@@ -10,5 +18,6 @@ theme:
     - navigation.tabs
   icon:
     repo: fontawesome/brands/github      
+  custom_dir: overrides
 
 repo_url: https://github.com/rzlsoftware/test-rzl-hilfe
