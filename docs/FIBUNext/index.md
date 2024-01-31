@@ -1,3 +1,6 @@
+---
+title: FIBU Next Handbuch
+---
 # FIBU Next Handbuch
 
 ## Table of contents
