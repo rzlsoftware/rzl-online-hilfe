@@ -1,5 +1,14 @@
 site_name: RZL Hilfe
+
 theme:
   name: material
   language: de
   favicon: assets/RZL_Herz_rot.svg
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+  icon:
+    repo: fontawesome/brands/github      
+
+repo_url: https://github.com/rzlsoftware/test-rzl-hilfe
