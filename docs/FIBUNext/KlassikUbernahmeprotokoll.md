@@ -16,7 +16,7 @@ Um mit der Umstellung von FIBU Next auf FIBU Klassik beginnen zu können, müsse
 
 Abb. 1 Datenübernahme aus FIBU-Klassik
 
-![Image](<../lib/NeuesElement10.png>)
+![Image](<../assets/NeuesElement10.png>)
 
 &nbsp;
 
@@ -26,7 +26,7 @@ Im Anschluss erhalten Sie eine Liste aller noch nicht übernommenen FIBU Klassik
 
 Abb. 2 Übergabe an FIBU Next I
 
-![Image](<../lib/NeuesElement9.png>)
+![Image](<../assets/NeuesElement9.png>)
 
 &nbsp;
 
@@ -36,7 +36,7 @@ Abb. 2 Übergabe an FIBU Next I
 
 Abb. 3 Datenübernahme aus FIBU-Klassik II
 
-![Image](<../lib/NeuesElement8.png>)
+![Image](<../assets/NeuesElement8.png>)
 
 &nbsp;
 
@@ -46,7 +46,7 @@ Nach erfolgter Übernahme erhalten Sie ein Protokoll über den Datenexport für 
 
 Abb. 4 Übergabe an FIBU Next II
 
-![Image](<../lib/NeuesElement7.png>)
+![Image](<../assets/NeuesElement7.png>)
 
 &nbsp;
 
@@ -54,7 +54,7 @@ Abb. 4 Übergabe an FIBU Next II
 
 Abb. 5 Übergabe an FIBU Next II
 
-![Image](<../lib/NeuesElement6.png>)
+![Image](<../assets/NeuesElement6.png>)
 
 &nbsp;
 
@@ -64,5 +64,5 @@ Wurde ein Klient bereits in die FIBU Next übernommen und anschließend wieder i
 
 Abb. 6 Hinweismeldung FIBU Next
 
-![Image](<../lib/NeuesElement5.png>)
+![Image](<../assets/NeuesElement5.png>)
 

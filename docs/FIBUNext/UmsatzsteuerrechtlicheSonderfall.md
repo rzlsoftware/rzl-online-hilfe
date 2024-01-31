@@ -53,7 +53,7 @@ Ein Dreiecksgeschäft liegt vor, wenn mehrere Unternehmer in mehrere verschieden
 
 Abb. 1 Dreiecksgeschäft
 
-![Image](<../lib/NeuesElement138.png>)
+![Image](<../assets/NeuesElement138.png>)
 
 &nbsp;
 
@@ -111,7 +111,7 @@ Sie können dazu im Buchungsdialog im Feld *Datum* mit rechter Maustaste oder F1
 
 Abb. 2 abweichendes USt-Monat
 
-![Image](<../lib/NeuesElement136.png>)
+![Image](<../assets/NeuesElement136.png>)
 
 ### Aufteilung nichtabzugsfähige Vorsteuer
 

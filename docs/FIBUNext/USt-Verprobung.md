@@ -14,7 +14,7 @@ Die Verprobung kann für alle Wirtschaftsjahre ***(1)*** in der FIBU Next und di
 
 Abb. 1 Auswertung USt-Verprobung
 
-![Image](<../lib/NeuesElement169.png>)
+![Image](<../assets/NeuesElement169.png>)
 
 **TIPP**
 

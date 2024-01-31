@@ -8,7 +8,7 @@ Wenn Sie in den allgemeinen Stammdaten die Schaltfläche *KER Gliederungen* anw�
 
 Abb. 1 FIBU Stammdaten
 
-![Image](<../lib/NeuesElement189.png>)
+![Image](<../assets/NeuesElement189.png>)
 
 &nbsp;
 
@@ -16,7 +16,7 @@ Sie erhalten eine Liste aller vorhandenen Gliederungen. Die weiteren Funktionen 
 
 Abb. 2 KER Gliederungen
 
-![Image](<../lib/NeuesElement187.png>)
+![Image](<../assets/NeuesElement187.png>)
 
 ### Neue Gliederung anlegen
 
@@ -26,7 +26,7 @@ Mit einem Klick auf die Schaltfläche *Neue Gliederung* öffnet sich ein Dialog 
 
 Abb. 3 KER Gliederungen – Neue Gliederung anlegen – Vergabe Bezeichnung
 
-![Image](<../lib/NeuesElement186.png>)
+![Image](<../assets/NeuesElement186.png>)
 
 &nbsp;
 
@@ -34,7 +34,7 @@ Nach Vergabe einer Bezeichnung für die KER Gliederung öffnet sich ein neues Re
 
 Abb. 4 KER Gliederungen – Neue Gliederungsposition anlegen
 
-![Image](<../lib/NeuesElement185.png>)
+![Image](<../assets/NeuesElement185.png>)
 
 &nbsp;
 
@@ -58,7 +58,7 @@ Im Anschluss öffnet sich unten das Detailfenster, wo folgende Felder befüllt w
 
 Abb. 5 KER Gliederungen – Gliederungspositionen
 
-![Image](<../lib/NeuesElement184.png>)
+![Image](<../assets/NeuesElement184.png>)
 
 &nbsp;
 
@@ -74,7 +74,7 @@ Wechseln Sie anschließend in einen der angelegten Kontenpläne unter dem Menüp
 
 Abb. 6 KER Gliederungen – Zuordnung zu Kontenplan
 
-![Image](<../lib/NeuesElement183.png>)
+![Image](<../assets/NeuesElement183.png>)
 
 &nbsp;
 
@@ -82,7 +82,7 @@ Anschließend können Sie im Register *Konten* pro Konto die Zuordnung zu der in
 
 Abb. 7 KER Gliederungen – Zuordnung zu Konto I
 
-![Image](<../lib/NeuesElement182.png>)
+![Image](<../assets/NeuesElement182.png>)
 
 &nbsp;
 
@@ -90,7 +90,7 @@ In der angelegten KER-Gliederung sind anschließend die zugeordneten Konten je G
 
 Abb. 8 KER Gliederungen – Zuordnung zu Konto II
 
-![Image](<../lib/NeuesElement181.png>)
+![Image](<../assets/NeuesElement181.png>)
 
 &nbsp;
 
@@ -102,7 +102,7 @@ Wurde in der Liste der KER-Gliederungen eine Gliederung angewählt, können Sie 
 
 Abb. 9 KER Gliederung bearbeiten
 
-&nbsp;![Image](<../lib/NeuesElement180.png>)
+&nbsp;![Image](<../assets/NeuesElement180.png>)
 
 &nbsp;
 
@@ -130,7 +130,7 @@ Hier können Sie anschließend die Bezeichnung für die zu duplizierende Glieder
 
 Abb. 10 KER Gliederungen duplizieren – Vergabe Bezeichnung
 
-![Image](<../lib/NeuesElement179.png>)
+![Image](<../assets/NeuesElement179.png>)
 
 &nbsp;
 

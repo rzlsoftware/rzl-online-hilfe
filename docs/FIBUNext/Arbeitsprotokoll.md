@@ -8,7 +8,7 @@
 
 Abb. 1 Auswertung Arbeitsprotokoll
 
-![Image](<../lib/NeuesElement170.png>)
+![Image](<../assets/NeuesElement170.png>)
 
 &nbsp;
 

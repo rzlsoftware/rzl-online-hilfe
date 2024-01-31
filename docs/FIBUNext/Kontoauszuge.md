@@ -8,7 +8,7 @@
 
 Abb. 1 Kontoauszüge verbuchen
 
-![Image](<../lib/NeuesElement53.png>)
+![Image](<../assets/NeuesElement53.png>)
 
 &nbsp;
 
@@ -26,7 +26,7 @@ Im Anschluss daran können Sie sich die hereingespielten Kontoauszüge über den
 
 Abb. 2 Kontoauszüge verarbeiten
 
-![Image](<../lib/NeuesElement52.png>)&nbsp;
+![Image](<../assets/NeuesElement52.png>)&nbsp;
 
 &nbsp;
 
@@ -38,7 +38,7 @@ Zusätzlich haben Sie hier auch noch die Möglichkeit, Auszüge zu einem bestehe
 
 Abb. 3 Kontoauszüge auswählen
 
-![Image](<../lib/NeuesElement51.png>)
+![Image](<../assets/NeuesElement51.png>)
 
 &nbsp;
 
@@ -63,7 +63,7 @@ Sobald auf *Kontoauszug buchen* geklickt wird, öffnet sich ein Buchungsstapel m
 
 Abb. 4 Buchungsstapel
 
-![Image](<../lib/NeuesElement50.png>)
+![Image](<../assets/NeuesElement50.png>)
 
 &nbsp;
 
@@ -71,7 +71,7 @@ Abb. 4 Buchungsstapel
 
 Abb. 5 Buchungsdialog Camt
 
-![Image](<../lib/NeuesElement49.png>)
+![Image](<../assets/NeuesElement49.png>)
 
 &nbsp;
 
@@ -118,7 +118,7 @@ Beispielsweise können Sie mit der Tastenkombination **Umschalt+F11** automatisc
 
 Abb. 6 Kontextmenü Buchungstext
 
-![Image](<../lib/NeuesElement48.png>)
+![Image](<../assets/NeuesElement48.png>)
 
 &nbsp;
 
@@ -132,7 +132,7 @@ Sollten gewisse Bankverbindungen bei keinen Personenkonten hinterlegt werden (z.
 
 Abb. 7 Ausschlussliste IBAN
 
-![Image](<../lib/NeuesElement47.png>)
+![Image](<../assets/NeuesElement47.png>)
 
 &nbsp;
 
@@ -160,7 +160,7 @@ Wird jedoch ein geringerer Betrag als der offene Posten überwiesen, so wird ein
 
 Abb. 8 Ausgleich OP
 
-![Image](<../lib/NeuesElement46.png>)
+![Image](<../assets/NeuesElement46.png>)
 
 &nbsp;
 
@@ -170,7 +170,7 @@ Erscheint in dieser Darstellung ein gelbes Rufzeichen ***(1)***, so wurde zwar e
 
 Abb. 9 neuer OP
 
-![Image](<../lib/NeuesElement45.png>)
+![Image](<../assets/NeuesElement45.png>)
 
 &nbsp;
 

@@ -10,7 +10,7 @@ Durch Anwählen der Schaltfläche *Buchungstextgruppen* in den allgemeinen FIBU 
 
 Abb. 1 FIBU Stammdaten
 
-![Image](<../lib/NeuesElement198.png>)
+![Image](<../assets/NeuesElement198.png>)
 
 &nbsp;
 
@@ -18,7 +18,7 @@ Es wird eine Liste aller angelegten Buchungstextgruppen angezeigt
 
 Abb. 2 Buchungstextgruppen&nbsp;
 
-![Image](<../lib/NeuesElement196.png>)
+![Image](<../assets/NeuesElement196.png>)
 
 ### Buchungstextgruppe anlegen
 
@@ -28,7 +28,7 @@ Mit einem Klick auf die Schaltfläche *Neue Buchungstextgruppe **(1)*** öffnet 
 
 Abb. 3 Buchungstextgruppe– Neue Buchungstextgruppe anlegen – Vergabe Bezeichnung
 
-![Image](<../lib/NeuesElement195.png>)
+![Image](<../assets/NeuesElement195.png>)
 
 &nbsp;
 
@@ -36,7 +36,7 @@ Nach Vergabe einer Bezeichnung für die neue Buchungstextgruppe öffnet sich ein
 
 Abb. 4 Buchungstextgruppe–Buchungstext anlegen
 
-![Image](<../lib/NeuesElement194.png>)
+![Image](<../assets/NeuesElement194.png>)
 
 Im Anschluss öffnet sich unten das Detail und Sie müssen folgende Felder befüllen:
 
@@ -51,7 +51,7 @@ Haben Sie einen Buchungstext ausgewählt kann dieser Mithilfe der Schaltfläche 
 
 Abb. 5 Buchungstextgruppe–Buchungstext löschen
 
-&nbsp;![Image](<../lib/NeuesElement193.png>)
+&nbsp;![Image](<../assets/NeuesElement193.png>)
 
 ### Buchungstextgruppe bearbeiten
 
@@ -61,7 +61,7 @@ Durch Anwahl einer der Buchungstextgruppen in der Liste und der Schaltfläche *B
 
 Abb. 6 Buchungstextgruppe bearbeiten
 
-![Image](<../lib/NeuesElement192.png>)
+![Image](<../assets/NeuesElement192.png>)
 
 Anschließend öffnet sich die ausgewählte Buchungstextgruppe im Detail und Sie haben die Möglichkeit diese zu bearbeiten.
 
@@ -87,7 +87,7 @@ Hier können Sie die Bezeichnung für die zu duplizierende Buchungstextgruppe ve
 
 Abb. 7 Buchungstextgruppe duplizieren – Vergabe Bezeichnung
 
-![Image](<../lib/NeuesElement191.png>)
+![Image](<../assets/NeuesElement191.png>)
 
 ### Buchungstextgruppe auf Klient überspielen
 
@@ -99,7 +99,7 @@ Im Anschluss öffnet sich die Klientenliste und Sie können die gewählte Buchun
 
 Abb. 8 Buchungstextgruppe auf Klient überspielen
 
-![Image](<../lib/NeuesElement190.png>)
+![Image](<../assets/NeuesElement190.png>)
 
 &nbsp;
 
@@ -111,7 +111,7 @@ In den FIBU-Klientenstammdaten finden Sie im Menü den Punkt *Buchungstexte*. W�
 
 Abb. 9 Buchungstexte Klientenebene
 
-![Image](<../lib/NeuesElement127.png>)
+![Image](<../assets/NeuesElement127.png>)
 
 &nbsp;
 

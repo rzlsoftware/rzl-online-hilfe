@@ -10,7 +10,7 @@ Bevor Sie mit dem Buchen starten können, müssen Sie die Buchungsoptionen *Bele
 
 Abb. 1 Buchungsansicht
 
-![Image](<../lib/NeuesElement36.png>)
+![Image](<../assets/NeuesElement36.png>)
 
 &nbsp;
 
@@ -30,7 +30,7 @@ Bei der Buchungsart Sammelbuchung muss das jeweilige Sammelkonto angegeben werde
 
 Abb. 2 Sammelbuchung
 
-![Image](<../lib/NeuesElement35.png>)
+![Image](<../assets/NeuesElement35.png>)
 
 &nbsp;
 
@@ -80,7 +80,7 @@ Sie können in der FIBU Next mehrere Stapel gleichzeitig führen. Je Stapel wird
 
 Abb. 3 Buchen
 
-![Image](<../lib/NeuesElement34.png>)
+![Image](<../assets/NeuesElement34.png>)
 
 &nbsp;
 
@@ -103,7 +103,7 @@ Ebenfalls mit rechter Maustaste oder *F11-Taste* kann das Feld *Eingabe abw. USt
 
 Abb. 4 Eingabe abweichendes USt-Monat
 
-![Image](<../lib/NeuesElement33.png>)
+![Image](<../assets/NeuesElement33.png>)
 
 &nbsp;
 
@@ -159,7 +159,7 @@ Mit der F2-Taste können Sie im Feld *OP-Nummer* alle bestehenden offenen Posten
 
 Abb. 5 OP Auswahl
 
-![Image](<../lib/NeuesElement32.png>)
+![Image](<../assets/NeuesElement32.png>)
 
 &nbsp;
 
@@ -190,7 +190,7 @@ Im Buchungsdialog können Sie im Feld *Datum* die F5-Taste drücken (oder die Ei
 
 Abb. 6 Splitbuchung neu
 
-![Image](<../lib/NeuesElement31.png>)
+![Image](<../assets/NeuesElement31.png>)
 
 &nbsp;
 
@@ -202,7 +202,7 @@ Abschließend muss noch der Buchungstext eingegeben werden. Im Kontrollfeld - re
 
 Abb. 7 Splitbuchung auszugl. Betrag
 
-![Image](<../lib/NeuesElement30.png>)
+![Image](<../assets/NeuesElement30.png>)
 
 &nbsp;
 
@@ -240,7 +240,7 @@ Es gibt im Feld *Betrag* die Möglichkeit Nullrechnungen einzubuchen. Wählen Si
 
 Abb. 8 Nullrechnung buchen
 
-![Image](<../lib/NeuesElement29.png>)
+![Image](<../assets/NeuesElement29.png>)
 
 &nbsp;
 

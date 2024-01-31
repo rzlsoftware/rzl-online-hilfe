@@ -14,7 +14,7 @@ Sofern ein Klient als Einnahmen-/Ausgaben-Rechner (Ist-Versteuerer) mit Belastun
 
 Abb. 1 USt-Einstellungen
 
-![Image](<../lib/NeuesElement145.png>)
+![Image](<../assets/NeuesElement145.png>)
 
 &nbsp;
 
@@ -24,7 +24,7 @@ Abb. 1 USt-Einstellungen
 
 Abb. 2 USt-Pflichtkonten
 
-![Image](<../lib/NeuesElement143.png>)&nbsp;
+![Image](<../assets/NeuesElement143.png>)&nbsp;
 
 ### Direktbuchungen auf Zahlungsmittelkonten&nbsp;
 
@@ -55,7 +55,7 @@ Im Journal und am jeweiligen Personenkonto wird der Steuercode mit einem W (für
 
 Abb. 3 Buchen AR mit OP-Verwaltung
 
-![Image](<../lib/NeuesElement142.png>)
+![Image](<../assets/NeuesElement142.png>)
 
 &nbsp;
 
@@ -69,7 +69,7 @@ Bei Buchung der Eingangsrechnungen (Aufwands-/Anlagekonto gegen Kreditor) wird d
 
 Abb. 4 Buchen ER mit OP-Verwaltung
 
-![Image](<../lib/NeuesElement141.png>)
+![Image](<../assets/NeuesElement141.png>)
 
 &nbsp;
 
@@ -96,7 +96,7 @@ In diesem Fall wird im Journal als Steuercode M+ angezeigt. In der Spalte Detail
 
 Abb. 5 Sonderfälle I
 
-![Image](<../lib/NeuesElement140.png>)
+![Image](<../assets/NeuesElement140.png>)
 
 &nbsp;
 
@@ -131,7 +131,7 @@ Als Besonderheit werden hier zusätzlich die noch offenen Posten auf den Debitor
 
 Abb. 6 USt Verprobung Ist-Versteuerer
 
-![Image](<../lib/NeuesElement139.png>)
+![Image](<../assets/NeuesElement139.png>)
 
 &nbsp;
 

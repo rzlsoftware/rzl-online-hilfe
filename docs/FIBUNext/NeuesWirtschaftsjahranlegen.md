@@ -10,7 +10,7 @@ Durch Auswahl eines Klienten im RZL Board unter dem Menüpunkt *STAMM / Klienten
 
 Abb. 1 Wirtschaftsjahr anlegen mit Neuanlage
 
-![Image](<../lib/NeuesElement201.png>)
+![Image](<../assets/NeuesElement201.png>)
 
 &nbsp;
 
@@ -20,7 +20,7 @@ Anschließend kann der Zeitraum für das anzulegende FIBU-Wirtschaftsjahr eingeg
 
 Abb. 2 Wirtschaftsjahr anlegen – Eingabe Zeitraum
 
-![Image](<../lib/NeuesElement2.png>)
+![Image](<../assets/NeuesElement2.png>)
 
 &nbsp;
 
@@ -34,7 +34,7 @@ Musterkontenpläne bzw. Muster-KER-Gliederungen, die von RZL mitgeliefert werden
 
 Abb. 3 Kontenplan überspielen/KER-Gliederungen zuordnen
 
-![Image](<../lib/NeuesElement1.png>)
+![Image](<../assets/NeuesElement1.png>)
 
 &nbsp;
 
@@ -44,7 +44,7 @@ Nach Durchführung obiger Schritte ist unter dem Menüpunkt *FIBU/Allgemein* ers
 
 Abb. 4 Kontenplan überspielen
 
-![Image](<../lib/NeuesElement202.png>)
+![Image](<../assets/NeuesElement202.png>)
 
 &nbsp;
 
@@ -74,7 +74,7 @@ Wenn Sie unter *STAMM* einen Klienten auswählen und in das Register *FIBU/Allge
 
 Abb. 5 Neues Wirtschaftsjahr mit Jahresübernahme anlegen I
 
-![Image](<../lib/NeuesElement71.png>)
+![Image](<../assets/NeuesElement71.png>)
 
 &nbsp;
 
@@ -82,7 +82,7 @@ Anschließend öffnet sich der Dialog zur Anlage eines neuen WJ-Zeitraumes. Dabe
 
 Abb. 6 Neues Wirtschaftsjahr mit Jahresübernahme anlegen II
 
-![Image](<../lib/NeuesElement69.png>)
+![Image](<../assets/NeuesElement69.png>)
 
 &nbsp;
 
@@ -90,7 +90,7 @@ Wenn Sie den Dialog mit *Anlegen* bestätigen, wird das neue Wirtschaftsjahr ang
 
 Abb. 7 Zwischen Wirtschaftsjahren navigieren
 
-![Image](<../lib/NeuesElement72.png>)
+![Image](<../assets/NeuesElement72.png>)
 
 &nbsp;
 

@@ -12,7 +12,7 @@ Das Umsatzsteuerland des Klienten können Sie unter *STAMM / FIBU / Umsatzsteuer
 
 Abb. 1 USt-Land
 
-![Image](<../lib/NeuesElement146.png>)
+![Image](<../assets/NeuesElement146.png>)
 
 &nbsp;
 

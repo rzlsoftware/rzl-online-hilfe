@@ -8,7 +8,7 @@ Möchten Sie offene Posten importieren, so ist der Menüpunkt *Datenimport / RZL
 
 Abb. 1 Datenimport OP
 
-![Image](<../lib/NeuesElement177.png>)
+![Image](<../assets/NeuesElement177.png>)
 
 &nbsp;
 

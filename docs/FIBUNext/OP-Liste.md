@@ -14,5 +14,5 @@ Im Bereich *Gruppieren und Sortieren* finden Sie verschiedenste Möglichkeiten u
 
 Abb. 1 Auswertung OP-Liste Menüpunkte
 
-![Image](<../lib/NeuesElement167.png>)
+![Image](<../assets/NeuesElement167.png>)
 

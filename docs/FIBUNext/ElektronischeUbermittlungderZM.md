@@ -28,7 +28,7 @@ Nach Anwahl einer der beiden oben genannten Möglichkeiten gelangen Sie in das R
 
 Abb. 1 ZM erstellen
 
-![Image](<../lib/NeuesElement160.png>)
+![Image](<../assets/NeuesElement160.png>)
 
 Wählen Sie hier das Register mit dem zu übermittelnden Zeitraum und den Klienten. Anschließend können Sie über die Schaltfläche *Meldung erstellen* die Zusammenfassende Meldung erstellen.
 
@@ -58,7 +58,7 @@ Die Gesamtrückziehung können Sie über *Auswertungen / Zusammenfassende Meldun
 
 Abb. 2 ZM erstellen
 
-![Image](<../lib/NeuesElement159.png>)
+![Image](<../assets/NeuesElement159.png>)
 
 Sie gelangen automatisch in das Modul PORTALE und können über die Schaltfläche *Meldung erstellen* die Gesamtrückziehung erstellen.
 

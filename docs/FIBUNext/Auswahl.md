@@ -18,7 +18,7 @@ Falls die OP Nr. bekannt ist, können Sie diese direkt im Feld *OP* eingeben. En
 
 Abb. 1 OP Ausgleich
 
-![Image](<../lib/NeuesElement40.png>)
+![Image](<../assets/NeuesElement40.png>)
 
 &nbsp;
 
@@ -34,7 +34,7 @@ Ist die OP Nr. unbekannt, können Sie im Feld *OP* mit der F2-Taste die offenen 
 
 Abb. 2 Dialog 1 – OP Auswahl
 
-![Image](<../lib/NeuesElement39.png>)
+![Image](<../assets/NeuesElement39.png>)
 
 &nbsp;
 
@@ -44,7 +44,7 @@ Abb. 2 Dialog 1 – OP Auswahl
 
 Abb. 3 Dialog 2 – Skontoausgleich
 
-![Image](<../lib/NeuesElement38.png>)
+![Image](<../assets/NeuesElement38.png>)
 
 &nbsp;
 
@@ -100,5 +100,5 @@ Anschließend können Sie mit *Übernehmen* bestätigen und die Buchung abschlie
 
 Abb. 4 OP Ausgleich bei Teilzahlung
 
-![Image](<../lib/NeuesElement37.png>)
+![Image](<../assets/NeuesElement37.png>)
 

@@ -22,7 +22,7 @@ Nach Anwahl der Schaltfläche *OP bearbeiten* öffnet sich ein neues Register *K
 
 Abb. 1 OP bearbeiten
 
-![Image](<../lib/NeuesElement56.png>)
+![Image](<../assets/NeuesElement56.png>)
 
 &nbsp;
 
@@ -40,7 +40,7 @@ Sie können händisch angelegte Offene Posten dadurch erkennen, da bei diesen ei
 
 Abb. 2 OP bearbeiten – weitere Funktionen
 
-![Image](<../lib/NeuesElement55.png>)
+![Image](<../assets/NeuesElement55.png>)
 
 &nbsp;
 
@@ -58,7 +58,7 @@ Im Register *Konto - OP bearbeiten* gibt es vier Optionen um Offenen Posten zu v
 
 Abb. 3 OP bearbeiten - Funktionen
 
-![Image](<../lib/NeuesElement54.png>)
+![Image](<../assets/NeuesElement54.png>)
 
 #### Neuer OP
 

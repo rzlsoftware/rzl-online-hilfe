@@ -7,7 +7,7 @@ Bevor die erste UVA übermittelt werden kann, ist einmalig pro Kanzlei der Klien
 
 Abb. 1 Zuordnung KIS
 
-![Image](<../lib/NeuesElement158.png>)
+![Image](<../assets/NeuesElement158.png>)
 
 &nbsp;
 
@@ -17,7 +17,7 @@ Zur Erstellung und elektronischen Abgabe der UVA sind für den jeweiligen Klient
 
 Abb. 2 Stammdaten USt
 
-![Image](<../lib/NeuesElement157.png>)
+![Image](<../assets/NeuesElement157.png>)
 
 Die Finanzamt-Daten werden aus den Personen- bzw. Firmenstammdaten übernommen.
 
@@ -54,7 +54,7 @@ Sie können die UVA über folgende Menüpunkte erstellen:
 
 Abb. 3 zur UVA Übermittlung
 
-![Image](<../lib/NeuesElement156.png>)
+![Image](<../assets/NeuesElement156.png>)
 
 &nbsp;
 
@@ -62,7 +62,7 @@ Nach Anwahl einer der oben genannten Möglichkeiten gelangen Sie in das *Registe
 
 Abb. 4 UVA erstellen
 
-![Image](<../lib/NeuesElement155.png>)
+![Image](<../assets/NeuesElement155.png>)
 
 &nbsp;
 
@@ -80,7 +80,7 @@ Die im vorigen Kapitel erstellte UVA finden Sie nun im Modul *PORTALE* im Regist
 
 Abb. 5 UVA übermitteln
 
-![Image](<../lib/NeuesElement154.png>)
+![Image](<../assets/NeuesElement154.png>)
 
 In diesem Dialog könne Sie die gewünschten Meldungen auswählen und mit der Schaltfläche *Senden* die UVA (U30) direkt an FinanzOnline übermitteln.
 

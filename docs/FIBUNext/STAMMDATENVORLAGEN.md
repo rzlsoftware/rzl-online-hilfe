@@ -9,5 +9,5 @@ Wechseln Sie dazu auf den Menüpunkt *FIBU Next* ohne zuvor einen Klienten auszu
 
 Abb. 1 Allgemeine Stammdaten
 
-![Image](<../lib/NeuesElement74.png>)
+![Image](<../assets/NeuesElement74.png>)
 

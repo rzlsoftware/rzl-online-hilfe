@@ -10,7 +10,7 @@ Zur automatischen Verbuchung von Kreditkartenumsätzen bzw. Umsätzen von Zahlun
 
 Abb. 1 Kreditkartenverbuchungsregeln
 
-![Image](<../lib/NeuesElement119.png>)
+![Image](<../assets/NeuesElement119.png>)
 
 &nbsp;
 

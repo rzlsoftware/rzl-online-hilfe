@@ -14,7 +14,7 @@ Folgende Einstellungen sind in der FIBU Next notwendig um Anzahlungen von Debito
 
 Abb. 1 OP-Verwaltung
 
-&nbsp; &nbsp; ![Image](<../lib/NeuesElement152.png>)
+&nbsp; &nbsp; ![Image](<../assets/NeuesElement152.png>)
 
 &nbsp;
 
@@ -84,5 +84,5 @@ Ist der Betrag der Schlussrechnung höher als die Anzahlung, so erscheint eine A
 
 Abb. 10‑2 Anzahlungen
 
-![Image](<../lib/NeuesElement153.png>)
+![Image](<../assets/NeuesElement153.png>)
 

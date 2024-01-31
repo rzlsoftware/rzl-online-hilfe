@@ -8,7 +8,7 @@ Die RZL FIBU Next ist in das RZL Board integriert und kann über den Menüpunkt 
 
 Abb. 1 FIBU Next ohne Klient öffnen
 
-![Image](<../lib/NeuesElement64.png>)
+![Image](<../assets/NeuesElement64.png>)
 
 &nbsp;
 
@@ -16,7 +16,7 @@ Wenn Sie im Klientensuchfeld im RZL Board ***(2)*** einen Klienten auswählen, k
 
 Abb. 2 FIBU Next mit Klient öffnen
 
-![Image](<../lib/NeuesElement65.png>)
+![Image](<../assets/NeuesElement65.png>)
 
 ### Listenfunktionen&nbsp;
 
@@ -24,7 +24,7 @@ In diesem Kapitel werden die unterschiedlichen Funktionen innerhalb einer Liste 
 
 Abb. 3 Listenfunktionen - Übersicht
 
-![Image](<../lib/NeuesElement66.png>)
+![Image](<../assets/NeuesElement66.png>)
 
 #### Liste drucken (1)
 
@@ -32,7 +32,7 @@ Mithilfe der Funktion *Liste drucken* öffnet sich die RZL Druckvorschau. Hier h
 
 Abb. 4 Listenfunktionen – Liste drucken
 
-![Image](<../lib/NeuesElement67.png>)
+![Image](<../assets/NeuesElement67.png>)
 
 #### Liste exportieren (2)
 
@@ -40,7 +40,7 @@ Wenn Sie die Funktion *Liste exportieren* wählen, können Sie die angezeigte Li
 
 Abb. 5 &nbsp; &nbsp; Listenfunktionen – Liste exportieren
 
-![Image](<../lib/NeuesElement58.png>)
+![Image](<../assets/NeuesElement58.png>)
 
 #### Liste kopieren (3)
 

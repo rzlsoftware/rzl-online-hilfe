@@ -8,13 +8,13 @@ Im Menüpunkt *Stammdaten / FIBU Bankverbindungen* können Sie die Bankkonten pr
 
 Abb. 1 Verwaltung Bankverbindungen
 
-![Image](<../lib/NeuesElement118.png>)
+![Image](<../assets/NeuesElement118.png>)
 
 Neue Bankverbindungen können über die Schaltfläche *Neue FIBU Bankverbindung* ***(1)*** angelegt werden.
 
 Abb. 2 Anlage Bankverbindung
 
-![Image](<../lib/NeuesElement117.png>)
+![Image](<../assets/NeuesElement117.png>)
 
 Hier müssen Sie schließlich den IBAN des jeweiligen Bankkontos ***(2)***, das dazugehörige FIBU Konto ***(3)*** und den Ordnerpfad, in dem die camt-Dateien abgelegt sind bzw. aus Ihrem Electronic Banking Programm abgespeichert werden, ***(4)*** eingeben.\
 Mit dem Häkchen *Verwendungszweck als Buchungstext verwenden* ***(5)*** können Sie steuern, ob der Verwendungszweck der Überweisung als Buchungstext vorgeschlagen werden soll.\
@@ -26,7 +26,7 @@ Wenn Sie hier eine neue Bankverbindung eingeben, öffnet sich automatisch die Pe
 
 Abb. 3 Bankverbindung Personenstammdaten
 
-![Image](<../lib/NeuesElement116.png>)
+![Image](<../assets/NeuesElement116.png>)
 
 &nbsp;
 

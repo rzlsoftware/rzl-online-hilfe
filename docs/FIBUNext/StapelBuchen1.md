@@ -18,7 +18,7 @@ Die Einstellung, dass bei einem Konto die Eröffnungsbilanz gebucht werden soll,
 
 Abb. 1 EB-Stapel aktualisieren
 
-![Image](<../lib/NeuesElement44.png>)
+![Image](<../assets/NeuesElement44.png>)
 
 &nbsp;
 
@@ -38,7 +38,7 @@ Bei händischen Eröffnungsbilanzbuchungen ist es wichtig, dass diese unter *Erf
 
 Abb. 2 Eröffnungsbilanz
 
-![Image](<../lib/NeuesElement43.png>)
+![Image](<../assets/NeuesElement43.png>)
 
 &nbsp;
 
@@ -56,7 +56,7 @@ Beachten Sie, dass händische EB-Buchungen auf Konten mit der Option „*Eröffn
 
 Abb. 3 Belegkreis EB
 
-![Image](<../lib/NeuesElement42.png>)
+![Image](<../assets/NeuesElement42.png>)
 
 &nbsp;
 

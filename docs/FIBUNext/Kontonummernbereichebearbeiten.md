@@ -8,5 +8,5 @@ Die Definition der Kontenbereiche wird im Kapitel [Kontenplan anlegen](FIBUNext/
 
 Abb. 1 Klientenstammdaten - Kontenbereiche
 
-![Image](<../lib/NeuesElement111.png>)
+![Image](<../assets/NeuesElement111.png>)
 

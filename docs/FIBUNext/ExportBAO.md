@@ -8,7 +8,7 @@ Unter dem Menüpunkt *Datenimport/-export / Datenexport / BP gemäß* *BAO* kön
 
 Abb. 1 Datenexport
 
-![Image](<../lib/NeuesElement178.png>)
+![Image](<../assets/NeuesElement178.png>)
 
 &nbsp;
 

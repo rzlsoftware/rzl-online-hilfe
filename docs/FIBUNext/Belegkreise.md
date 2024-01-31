@@ -8,7 +8,7 @@ Unter *Stammdaten / Belegkreise* können Sie die Belegkreise für den geöffnete
 
 Abb. 1 Verwaltung Belegkreise
 
-&nbsp;![Image](<../lib/NeuesElement126.png>)
+&nbsp;![Image](<../assets/NeuesElement126.png>)
 
 ### Belegkreis anlegen
 
@@ -20,7 +20,7 @@ Die weiteren Einstellungsmöglichkeiten pro Belegkreis finden Sie im folgenden K
 
 Abb. 2 Belegkreis anlegen
 
-### ![Image](<../lib/NeuesElement125.png>)
+### ![Image](<../assets/NeuesElement125.png>)
 
 ### Belegkreis bearbeiten
 
@@ -30,7 +30,7 @@ Wählen Sie einen der angelegten Belegkreise in der Liste aus, können Sie diese
 
 Abb. 3 Belegkreis bearbeiten
 
-![Image](<../lib/NeuesElement124.png>)
+![Image](<../assets/NeuesElement124.png>)
 
 ### Beschreibung der Eingabefelder:
 
@@ -60,11 +60,11 @@ Mit einem Klick auf die Schaltfläche *Belegkreis löschen* wird der angelegte B
 
 Abb. 4 Belegkreis löschen I
 
-&nbsp;![Image](<../lib/NeuesElement123.png>)
+&nbsp;![Image](<../assets/NeuesElement123.png>)
 
 Abb. 5 Belegkreis löschen II
 
-![Image](<../lib/NeuesElement122.png>)
+![Image](<../assets/NeuesElement122.png>)
 
 &nbsp;
 
@@ -72,7 +72,7 @@ Die RZL-Standardbelegkreise (ER, AR, KA) können nicht gelöscht werden.
 
 Abb. 6 Belegkreis löschen III
 
-![Image](<../lib/NeuesElement121.png>)
+![Image](<../assets/NeuesElement121.png>)
 
 &nbsp;
 
@@ -80,5 +80,5 @@ Ein angelegter Belegkreis kann nur dann gelöscht werden, wenn alle Buchungen in
 
 Abb. 7 Belegkreis löschen IV
 
-![Image](<../lib/NeuesElement120.png>)
+![Image](<../assets/NeuesElement120.png>)
 

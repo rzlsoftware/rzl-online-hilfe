@@ -12,4 +12,4 @@ Möchten Sie die kurzfristige Erfolgsrechnung für mehrere Monate sehen, so kön
 
 Abb. 1 Auswertung KER
 
-![Image](<../lib/NeuesElement168.png>)
+![Image](<../assets/NeuesElement168.png>)

@@ -39,7 +39,7 @@ Dazu müssen Sie in der FIBU unter *Stammdaten / Konten* beim gewünschten Aufwa
 
 Abb. 1 Anlagevermögen KU1
 
-![Image](<../lib/NeuesElement161.png>)
+![Image](<../assets/NeuesElement161.png>)
 
 &nbsp;
 

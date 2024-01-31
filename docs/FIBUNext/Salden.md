@@ -8,11 +8,11 @@ Unter *Datenimport / RZL Format / Salden/Konten…*&nbsp; können Sie Salden in 
 
 Abb. 1 Import Salden/Konten
 
-![Image](<../lib/NeuesElement175.png>)
+![Image](<../assets/NeuesElement175.png>)
 
 &nbsp;
 
-Über die Schaltfläche ![Image](<../lib/NeuesElement174.png>) können Sie die zu importierende Datei aus dem Explorer auswählen. Weiters ist die Option *Importdatei enthält Spaltenüberschriften* zu setzen, *falls dies zutrifft*.
+Über die Schaltfläche ![Image](<../assets/NeuesElement174.png>) können Sie die zu importierende Datei aus dem Explorer auswählen. Weiters ist die Option *Importdatei enthält Spaltenüberschriften* zu setzen, *falls dies zutrifft*.
 
 **Pflichtkonto:**\
 Die importierten Salden werden nach Übernahme in einem nicht finalisierten Stapel unter *Erfassen / Salden* als Buchungen verwaltet. Geben Sie dazu im Feld *Pflichtkonto* die Kontonummer für das Sammelkonto ein. Falls das Konto noch nicht existiert, wird dieses im Zuge des Imports angelegt.
