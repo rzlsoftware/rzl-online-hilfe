@@ -4,9 +4,6 @@ site_description: Die RZL online Hilfe
 
 docs_dir: docs  
 
-nav:
-  - FIBU Next: ./docs/FIBUNext
-    
 theme:
   name: material
   language: de
@@ -28,5 +25,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+          
+plugins:
+  - search
+  - awesome-pages
 
 repo_url: https://github.com/rzlsoftware/test-rzl-hilfe
