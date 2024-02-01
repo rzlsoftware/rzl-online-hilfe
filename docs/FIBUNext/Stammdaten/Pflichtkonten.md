@@ -8,5 +8,5 @@ Unter *Stammdaten / Pflichtkonten* kann von den im Kontenplan festgelegten Pflic
 
 Abb. 1 Klientenstammdaten - Pflichtkonten
 
-![Image](<../assets/NeuesElement110.png>)
+![Image](<img/NeuesElement110.png>)
 
