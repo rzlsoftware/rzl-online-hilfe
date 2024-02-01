@@ -8,7 +8,7 @@ Im Board unter *STAMM* finden Sie beim jeweiligen Klienten das *Sicherungscenter
 
 Abb. 1 Sicherungscenter
 
-![Image](<../assets/NeuesElement200.png>)
+![Image](<img/NeuesElement200.png>)
 
 ### &nbsp;
 
@@ -22,7 +22,7 @@ Zusätzlich können Sie beim Erstellen die Sicherung mit einem Kommentar versehe
 
 Abb. 2 Sicherungscenter
 
-![Image](<../assets/NeuesElement199.png>)
+![Image](<img/NeuesElement199.png>)
 
 \
 &nbsp;

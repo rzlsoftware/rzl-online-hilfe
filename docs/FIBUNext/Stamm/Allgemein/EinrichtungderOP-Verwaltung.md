@@ -8,7 +8,7 @@ Wenn Sie mit der Offenen Postenverwaltung auf **Personenkonten** arbeiten möcht
 
 Abb. 1 Stamm – OP Verwaltung
 
-![Image](<../assets/NeuesElement130.png>)
+![Image](<img/NeuesElement130.png>)
 
 &nbsp;
 
@@ -16,7 +16,7 @@ Für **Bestandskonten** wird die Offene Postenverwaltung im Modul FIBU unter *St
 
 Abb. 2 Kontostamm - OP Verwaltung
 
-![Image](<../assets/NeuesElement128.png>)
+![Image](<img/NeuesElement128.png>)
 
 &nbsp;
 

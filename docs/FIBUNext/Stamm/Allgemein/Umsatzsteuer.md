@@ -20,5 +20,5 @@ Mithilfe der Schaltfläche *Neues USt-Land **(4)*** kann ein weiteres USt-Land (
 
 Abb. 1 FIBU-Stammdaten - Umsatzsteuer
 
-![Image](<../assets/NeuesElement4.png>)
+![Image](<img/NeuesElement4.png>)
 
