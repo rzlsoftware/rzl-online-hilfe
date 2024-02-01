@@ -8,5 +8,5 @@ Nach der Anlage eines Wirtschaftsjahres in den Klientenstammdaten kann der Klien
 
 Abb. 1 FIBU-Stammdaten
 
-&nbsp;![Image](<../assets/NeuesElement203.png>)
+&nbsp;![Image](<img/NeuesElement203.png>)
 

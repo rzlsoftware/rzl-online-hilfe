@@ -8,13 +8,13 @@ Mit einem Klick auf die Schaltfläche *Konten* ***(1)*** öffnen sich die Kontos
 
 Abb. 1 Auswahl Kontenstammdaten
 
-![Image](<../assets/NeuesElement109.png>)
+![Image](<img/NeuesElement109.png>)
 
 Anschließend können Sie über das Eingabefeld *Kontonummer **(1)*** eines der angelegten Konten auswählen und es öffnen sich die zugehörigen Kontenstammdaten.&nbsp;
 
 Abb. 2 Kontostammdaten
 
-![Image](<../assets/NeuesElement108.png>)
+![Image](<img/NeuesElement108.png>)
 
 Für die Beschreibung der verfügbaren Eingabefelder siehe Kapitel [Kontenplan anlegen](FIBUNext/Kontenplane.md#Kontenplan\_anlegen). Die Funktionen *Neues Konto **(2)*** sowie *Konto löschen **(3)*** und *Kontonummer ändern **(4)*** werden ebenso in diesem Kapitel beschrieben.
 
@@ -22,13 +22,13 @@ Mit einem Klick auf die Schaltfläche *Kontosperre **(5)*** im Menü öffnet sic
 
 Abb. 3 Kontensperre setzen
 
-![Image](<../assets/NeuesElement107.png>)
+![Image](<img/NeuesElement107.png>)
 
 Über den Button *Gesperrte Konten anzeigen **(6)*** werden die gesperrten Konten ausgegraut wieder eingeblendet. Die Kontosperre kann anschließend über die Schaltfläche *Kontosperre / Aufheben* wieder aufgehoben werden.
 
 Abb. 4 Kontensperre aufheben
 
-![Image](<../assets/NeuesElement106.png>)
+![Image](<img/NeuesElement106.png>)
 
 &nbsp;
 
@@ -38,7 +38,7 @@ Wählen Sie die Schaltfläche *Neues Konto* ***(1)*** an und vergeben Sie eine N
 
 Abb. 5 Neuanlage Personenkonto
 
-![Image](<../assets/NeuesElement105.png>)
+![Image](<img/NeuesElement105.png>)
 
 Klicken Sie auf die Schaltfläche *zur FIBU Firmenansicht,* wechselt das Programm zur angelegten FIBU Person. Dort können Sie die allgemeinen Stammdaten dieser Person sowie Telefonnummern, E-Mail-Adressen, Adressen und Bankverbindungen erfassen. Die Erläuterungen zu diesen Feldern finden Sie im Handbuch Board.&nbsp;
 
@@ -52,7 +52,7 @@ Mithilfe der Funktion *Alle UID-Nummern mit FinanzOnline prüfen* werden alle be
 
 Abb. 6 Überprüfung UID-Nummer
 
-![Image](<../assets/NeuesElement104.png>)
+![Image](<img/NeuesElement104.png>)
 
 &nbsp;
 

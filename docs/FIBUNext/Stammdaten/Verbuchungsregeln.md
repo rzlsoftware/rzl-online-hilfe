@@ -10,7 +10,7 @@ Unter *Stammdaten / Verbuchungsregeln* ***(1)*** können Sie neue Verbuchungsreg
 
 Abb. 1 Verbuchungsregeln
 
-![Image](<../assets/NeuesElement150.png>)
+![Image](<img/NeuesElement150.png>)
 
 **TIPP**
 
@@ -18,7 +18,7 @@ Verbuchungsregeln sollten am besten direkt im Zuge der Retourdatenverarbeitung h
 
 Abb. 2 Verbuchungsregel Retourdaten I
 
-![Image](<../assets/NeuesElement149.png>)
+![Image](<img/NeuesElement149.png>)
 
 &nbsp;
 
@@ -43,7 +43,7 @@ Im zweiten Registerblatt wird der dazugehörige Buchungsvorschlag eingegeben.
 
 Abb. 3 Verbuchungsregel Retourdaten II
 
-![Image](<../assets/NeuesElement148.png>)
+![Image](<img/NeuesElement148.png>)
 
 Der Buchungsvorschlag kann mit den Feldern *FIBU Konto*, *Steuercode* und *Buchungstext* festgelegt werden.
 
@@ -100,7 +100,7 @@ Möchten Sie eine Verbuchungsregel auf eine bestimmte Zeile anwenden, auf die di
 
 Abb. 4 Verbuchungsegel anwenden
 
-![Image](<../assets/NeuesElement147.png>)
+![Image](<img/NeuesElement147.png>)
 
 &nbsp;
 
