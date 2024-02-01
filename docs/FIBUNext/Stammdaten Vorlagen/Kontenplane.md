@@ -8,7 +8,7 @@ Durch Anwahl der Schaltfläche K*ontenpläne* in den allgemeinen FIBU-Stammdaten
 
 Abb. 1 Allgemeine Stammdaten
 
-![Image](<../assets/NeuesElement97.png>)
+![Image](<img/NeuesElement97.png>)
 
 ### Kontenplan anlegen&nbsp;
 
@@ -23,13 +23,13 @@ Im Register *Allgemein* können Sie zu Beginn eine Bezeichnung für den Kontenpl
 
 Abb. 2 Kontenplan Neuanlage
 
-![Image](<../assets/NeuesElement99.png>)
+![Image](<img/NeuesElement99.png>)
 
 Weiters können Sie hier die Maximalanzahl der Stellen für Sachkonten und Personenkonten über die jeweiligen Dropdownfelder ***(1)*** festlegen. Dabei ist eine Auswahl zwischen drei und neun Stellen möglich.
 
 Abb. 3 - Stellen Sach- und Personenkonten
 
-![Image](<../assets/NeuesElement94.png>)
+![Image](<img/NeuesElement94.png>)
 
 Die Option *Kontonummernbereiche prüfen **(2)*** bewirkt, dass in den angelegten Kontenbereichen überprüft wird, ob bereits angelegte Konten vorhanden sind, die nicht der hinterlegten Validierung entsprechen. (siehe Kapitel [Kontenplan anlegen](<Kontenplane.md#Kontenplan\_anlegen>))
 
@@ -43,7 +43,7 @@ Wenn für ein USt-Land Konten im Kontenplan oder in den Pflichtkonten oder in be
 
 Abb. 4 - USt-Länder I
 
-![Image](<../assets/NeuesElement93.png>)
+![Image](<img/NeuesElement93.png>)
 
 Wird hier der Button *Fortsetzen* angewählt, werden alle hinterlegten Pflichtkonten sowie Konten im Kontenplan für das deaktivierte USt-Land unwiderruflich gelöscht.
 
@@ -53,7 +53,7 @@ Im Register *Gliederungen* haben Sie die Möglichkeit eine oder mehrere der ange
 
 Abb. 5 - Kontenplan – Zuordnung KER-Gliederung
 
-![Image](<../assets/NeuesElement92.png>)
+![Image](<img/NeuesElement92.png>)
 
 &nbsp;
 
@@ -63,7 +63,7 @@ Die in diesem Kontenplan angelegten Konten sind im Register *Konten* ersichtlich
 
 Abb. 6 - Kontenplan – Konten
 
-![Image](<../assets/NeuesElement101.png>)
+![Image](<img/NeuesElement101.png>)
 
 &nbsp;
 
@@ -75,7 +75,7 @@ Mit einem Klick auf die Schaltfläche *Neues Konto **(1)*** im oberen Menü#8202
 
 Abb. 7 - Kontenplan – Neuanlage Ertragskonto
 
-![Image](<../assets/NeuesElement90.png>)
+![Image](<img/NeuesElement90.png>)
 
 &nbsp;
 
@@ -98,7 +98,7 @@ Im Register *Gliederung FIBU* können Sie das jeweilige Konto einer KER-Gliederu
 
 Abb. 8 - Kontenplan – Neuanlage Ertragskonto II
 
-![Image](<../assets/NeuesElement89.png>)
+![Image](<img/NeuesElement89.png>)
 
 #### Aufwandskonto anlegen
 
@@ -106,7 +106,7 @@ Legen Sie ein Aufwandskonto an, erscheint zusätzlich das Feld *Anlagevermögen 
 
 Abb. 9 - Kontenplan – Neuanlage Aufwandskonto
 
-![Image](<../assets/NeuesElement88.png>)
+![Image](<img/NeuesElement88.png>)
 
 #### Bestandskonto anlegen
 
@@ -115,7 +115,7 @@ Diese Option kann ebenso in den Klientenstammdaten für alle Bestandskonten eine
 
 Abb. 10 - Kontenplan – Neuanlage Bestandskonto
 
-![Image](<../assets/NeuesElement87.png>)
+![Image](<img/NeuesElement87.png>)
 
 &nbsp;
 
@@ -124,7 +124,7 @@ Ist innerhalb der Kontenstammdaten kein Konto als Zahlungsmittelkonto angelegt, 
 
 Abb. 11 - Kontenplan – Neuanlage Bestanskonto II
 
-![Image](<../assets/NeuesElement86.png>)
+![Image](<img/NeuesElement86.png>)
 
 &nbsp;
 
@@ -135,31 +135,31 @@ Ist eines dieser Konten noch nicht angelegt, können Sie dieses mit der F4-Taste
 
 Abb. 12 - Kontenplan – Pflichtkonten Sammelkonten
 
-![Image](<../assets/NeuesElement85.png>)
+![Image](<img/NeuesElement85.png>)
 
 Im Bereich ***USt*** können Sie die Konten für die automatische Verbuchung der Umsatzsteuer bzw. Vorsteuer hinterlegen. Diese Konten werden anschließend beim Buchen je nach verwendetem Steuercode automatisiert bebucht. Haben Sie im Register *Allgemein* zusätzliche USt-Länder definiert, haben Sie neben *Österreich* noch weitere Register ***(1)*** mit den jeweiligen USt-Ländern zur Verfügung und müssen dort ebenso die notwendigen Pflichtkonten hinterlegen.
 
 Abb. 13 - Kontenplan – Pflichtkonten USt
 
-![Image](<../assets/NeuesElement84.png>)
+![Image](<img/NeuesElement84.png>)
 
 Im Bereich ***Skontoaufwand*** können Sie für jeden umsatzsteuerrechtlich relevanten Sachverhalt ein eigenes Pflichtkonto für die automatische Verbuchung des Skontoaufwandes hinterlegen. Haben Sie im Register *Allgemein* zusätzliche USt-Länder aktiviert, stehen hier ebenso weitere Register mit den jeweiligen USt-Ländern zur Hinterlegung der Konten zur Verfügung.
 
 Abb. 14 - Kontenplan – Pflichtkonten Skontoaufwand
 
-![Image](<../assets/NeuesElement83.png>)
+![Image](<img/NeuesElement83.png>)
 
 Im Bereich ***Skontoertrag*** haben Sie die Möglichkeit die Konten für die automatische Verbuchung des Skontoertrages für jedes USt-Land zu hinterlegen.
 
 Abb. 15 - Kontenplan – Pflichtkonten Skontoertrag
 
-![Image](<../assets/NeuesElement82.png>)
+![Image](<img/NeuesElement82.png>)
 
 Im Bereich ***Anzahlungen*** können Sie die Pflichtkonten für die Verbuchung von Anzahlungen hinterlegen. Genaueres zur Anzahlungsverbuchung finden Sie im Kapitel [Anzahlungen](FIBUNext/Anzahlungen.md)*.*
 
 Abb. 16 - Kontenplan – Pflichtkonten Anzahlungen
 
-![Image](<../assets/NeuesElement81.png>)
+![Image](<img/NeuesElement81.png>)
 
 #### Register Kontenbereiche
 
@@ -167,13 +167,13 @@ In diesem Register können Kontenbereiche neu angelegt sowie bestehende Kontonum
 
 Abb. 17 - Kontenplan – Kontenbereiche
 
-![Image](<../assets/NeuesElement102.png>)
+![Image](<img/NeuesElement102.png>)
 
 Im Dialog *Kontonummernbereiche bearbeiten* können Sie definieren, welche Kontonummern für welche Kontoart innerhalb dieses Kontenplanes gelten sollen.
 
 Abb. 18 - Kontenplan – Kontonummernbereiche bearbeiten
 
-![Image](<../assets/NeuesElement79.png>)
+![Image](<img/NeuesElement79.png>)
 
 **Bindestrich** **(-)** Definiert den Bereich zwischen zwei Kontonummern für die ausgewählte Kontoart
 
@@ -183,7 +183,7 @@ Wählen Sie die Schaltfläche *Neuer Kontenbereich **(1)*** an kann für die Kon
 
 Abb. 19 - Kontenplan – Neuer Kontenbereich
 
-![Image](<../assets/NeuesElement78.png>)
+![Image](<img/NeuesElement78.png>)
 
 &nbsp;
 
@@ -193,7 +193,7 @@ Wurde in der Liste der Kontenpläne ein Kontenplan, können Sie diesen über die
 
 Abb. 20 - Kontenplan – Kontenplan bearbeiten
 
-![Image](<../assets/NeuesElement77.png>)
+![Image](<img/NeuesElement77.png>)
 
 ### Kontenplan umbenennen
 
@@ -211,7 +211,7 @@ Hier können Sie die Bezeichnung für den zu duplizierenden Kontenplan vergeben.
 
 Abb. 21 - Kontenplan – Kontenplan duplizieren II
 
-![Image](<../assets/NeuesElement76.png>)
+![Image](<img/NeuesElement76.png>)
 
 ### Kontenplan von Klient übernehmen
 
@@ -221,5 +221,5 @@ Im folgenden Dialog müssen Sie eine Bezeichnung für den Kontenplan vergeben, d
 
 Abb. 22 - Kontenplan – Kontenplan von Klient übernehmen II
 
-![Image](<../assets/NeuesElement75.png>)
+![Image](<img/NeuesElement75.png>)
 
