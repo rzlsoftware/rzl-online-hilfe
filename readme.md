@@ -8,5 +8,5 @@ Die RZL Hilfe gebaut aus Markdown File mit Hilfe von [Material for MkDocs](https
 
 Eine live Preview kann lokal mit diesem Befehl gestartet werdern:
 ```
-mkdocs server
+mkdocs serve
 ```
