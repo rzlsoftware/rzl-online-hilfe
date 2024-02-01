@@ -10,7 +10,7 @@ Sind beim geöffneten Klienten bereits Buchungsstapel vorhanden, gelangen Sie ü
 
 Abb. 1 Stapelverwaltung
 
-![Image](<../assets/NeuesElement28.png>)
+![Image](<img/NeuesElement28.png>)
 
 &nbsp;
 
@@ -22,7 +22,7 @@ Abb. 1 Stapelverwaltung
 
 **Neuer** **Buchungsstapel** ***(2)***
 
-Auch über die Schaltfläche ![Image](<../assets/NeuesElement27.png>)&nbsp; können Sie einen neuen Stapel öffnen.
+Auch über die Schaltfläche ![Image](<img/NeuesElement27.png>)&nbsp; können Sie einen neuen Stapel öffnen.
 
 &nbsp;
 
@@ -34,7 +34,7 @@ Mit den Filter- und Sortieroptionen können Sie die Ansicht der Stapelverwaltung
 
 Abb. 2 Filter- und Sortieroptionen
 
-![Image](<../assets/NeuesElement26.png>)
+![Image](<img/NeuesElement26.png>)
 
 &nbsp;
 
@@ -48,7 +48,7 @@ Die ***Stapelfunktionen*** finden Sie auch direkt beim Buchen im Buchungsstapel 
 
 Abb. 3 Stapelfunktionen im Buchungsstapel
 
-![Image](<../assets/NeuesElement25.png>)
+![Image](<img/NeuesElement25.png>)
 
 &nbsp;
 
@@ -62,7 +62,7 @@ Beim erstmaligen Schließen des Buchungsstapels öffnet sich der Dialog *Buchung
 
 Abb. 4 Buchungsstapel benennen
 
-![Image](<../assets/NeuesElement24.png>)
+![Image](<img/NeuesElement24.png>)
 
 &nbsp;
 
@@ -78,7 +78,7 @@ Solange der Stapel noch nicht finalisiert wurde, gibt es die Möglichkeit, eine 
 
 Abb. 5 Buchungsfunktionen
 
-![Image](<../assets/NeuesElement23.png>)
+![Image](<img/NeuesElement23.png>)
 
 &nbsp;
 
@@ -110,7 +110,7 @@ Wurde der Stapel bereits finalisiert, kann eine Buchung nur mehr durch eine Stor
 
 Abb. 6 Belegverarbeitung
 
-![Image](<../assets/NeuesElement22.png>)
+![Image](<img/NeuesElement22.png>)
 
 &nbsp;
 

@@ -30,4 +30,9 @@ plugins:
   - search
   - awesome-pages
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 repo_url: https://github.com/rzlsoftware/test-rzl-hilfe
