@@ -26,11 +26,9 @@ Ergibt sich zwischen Zahlungsbetrag und OP Betrag eine Differenz, öffnet sich d
 
 &nbsp;
 
-**Option** **2** **–** **OP** **Nr.** **ist** **unbekannt:**
+**Option 2 – OP Nr. ist unbekannt:**
 
 Ist die OP Nr. unbekannt, können Sie im Feld *OP* mit der F2-Taste die offenen Posten aufrufen und die auszugleichenden Zeilen mit Hilfe der Pfeiltasten anwählen und mit der Leertaste markieren.
-
-&nbsp;
 
 Abb. 2 Dialog 1 – OP Auswahl
 
