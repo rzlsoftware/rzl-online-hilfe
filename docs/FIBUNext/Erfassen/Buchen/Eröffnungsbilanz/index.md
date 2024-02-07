@@ -32,7 +32,7 @@ Die Option *Eröffnungsbilanz automatisch aktualisieren* bewirkt eine automatisc
 
 Abb. 1 Eröffnungsbilanz autom. aktualisieren
 
-![Image](<../assets/NeuesElement41.png>)
+![Image](<img/NeuesElement41.png>)
 
 &nbsp;
 

@@ -3,7 +3,7 @@ site_url: https://purple-wave-084806310.4.azurestaticapps.net
 site_description: Die RZL online Hilfe
 
 docs_dir: docs  
-
+  
 theme:
   name: material
   language: de
@@ -18,16 +18,26 @@ theme:
   custom_dir: overrides
   palette: 
     - scheme: default
+      primary: custom
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
     - scheme: slate
+      primary: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
           
 plugins:
   - search
   - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 repo_url: https://github.com/rzlsoftware/test-rzl-hilfe

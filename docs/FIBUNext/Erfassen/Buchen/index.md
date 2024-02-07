@@ -10,7 +10,7 @@ Im Register *Erfassen* können Sie Buchungen durchführen und Offene Posten hän
 
 Abb. 1 Erfassen
 
-![Image](<../assets/NeuesElement13.png>)
+![Image](<img/NeuesElement13.png>)
 
 &nbsp;
 

@@ -10,16 +10,16 @@ Die OP-Nr. ist ein Pflichtfeld, da nur durch die Eingabe der Nummer später bei 
 
 &nbsp;
 
-**Tipp**
+!!! info "Tipp"
 
-Es ist auch die Buchung zwischen zwei OP-führenden Konten möglich. In diesem Fall müssen Sie für beide Konten eine OP-Nr. vergeben.
+    Es ist auch die Buchung zwischen zwei OP-führenden Konten möglich. In diesem Fall müssen Sie für beide Konten eine OP-Nr. vergeben.
 
 &nbsp;
 
-**Hinweis**
+!!! info "Hinweis"
 
-Existiert bereits ein weiteres Wirtschaftsjahr, das durch Jahresübernahme angelegt wurde, werden neu angelegt Offenen Posten automatisch in das Folgejahr übernommen und die Eröffnungsbilanz aktualisiert.\
-Auch Änderungen der OP werden im Folgejahr automatisch angepasst.
+    Existiert bereits ein weiteres Wirtschaftsjahr, das durch Jahresübernahme angelegt wurde, werden neu angelegt Offenen Posten automatisch in das Folgejahr übernommen und die Eröffnungsbilanz aktualisiert.  
+    Auch Änderungen der OP werden im Folgejahr automatisch angepasst.
 
 &nbsp;
 

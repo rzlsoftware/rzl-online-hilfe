@@ -2,29 +2,19 @@
 
 ### OP Bearbeiten
 
-&nbsp;
+Dieser Programmteil ermöglicht Ihnen die händische Bearbeitung von Offenen Posten. Dies kann nützlich sein, wenn Sie bspw. während des Jahres mit der Offenen Postenverwaltung (siehe Kapitel [Offene Postenverwaltung](<FIBUNextHandbuch1.md#\_Ref74745126>)) beginnen.
 
-Dieser Programmteil ermöglicht Ihnen die händische Bearbeitung von Offenen Posten. Dies kann nützlich sein, wenn Sie bspw. während des Jahres mit der Offenen Postenverwaltung (siehe Kapitel [Offene Postenverwaltung](<FIBUNextHandbuch1.md#\_Ref74745126>)) beginnen.&nbsp;
+Alle in diesem Menüpunkt durchgeführten Änderungen betreffen nur die Offenen Posten bzw OP Liste – es erfolgt keine Buchung!
 
-Alle in diesem Menüpunkt durchgeführten Änderungen betreffen nur die Offenen Posten bzw OP Liste – es erfolgt keine Buchung\!&nbsp;
+!!! info "Tipp"
 
-&nbsp;
-
-**Tipp**
-
-Wird auf der OP-Liste eine Differenz ausgewiesen, so bedeutet dies, dass entweder offene Posten fehlen oder Rechnungen noch als offene Posten aufscheinen, obwohl diese schon ausgeglichen sind.
-
-&nbsp;
+    Wird auf der OP-Liste eine Differenz ausgewiesen, so bedeutet dies, dass entweder offene Posten fehlen oder Rechnungen noch als offene Posten aufscheinen, obwohl diese schon ausgeglichen sind.
 
 Nach Anwahl der Schaltfläche *OP bearbeiten* öffnet sich ein neues Register *Konto - OP bearbeiten.*
 
-&nbsp;
-
 Abb. 1 OP bearbeiten
 
-![Image](<../assets/NeuesElement56.png>)
-
-&nbsp;
+![Image](<img/NeuesElement56.png>)
 
 Geben Sie im Feld *Kontonummer **(1)*** die gewünschte Kontonummer ein, anschließend werden die Offenen Posten aufgelistet.
 
@@ -40,7 +30,7 @@ Sie können händisch angelegte Offene Posten dadurch erkennen, da bei diesen ei
 
 Abb. 2 OP bearbeiten – weitere Funktionen
 
-![Image](<../assets/NeuesElement55.png>)
+![Image](<img/NeuesElement55.png>)
 
 &nbsp;
 
@@ -58,7 +48,7 @@ Im Register *Konto - OP bearbeiten* gibt es vier Optionen um Offenen Posten zu v
 
 Abb. 3 OP bearbeiten - Funktionen
 
-![Image](<../assets/NeuesElement54.png>)
+![Image](<img/NeuesElement54.png>)
 
 #### Neuer OP
 

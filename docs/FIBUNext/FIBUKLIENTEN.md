@@ -10,7 +10,7 @@
 
 Abb. 1 FIBU Klienten
 
-![Image](<../assets/NeuesElement12.png>)
+![Image](<img/NeuesElement12.png>)
 
 &nbsp;
 
@@ -20,7 +20,7 @@ In der Spalte *Wirtschaftsjahre* sehen Sie stets das neueste Wirtschaftsjahr. Si
 
 Abb. 2 FIBU Klienten II
 
-![Image](<../assets/NeuesElement11.png>)
+![Image](<img/NeuesElement11.png>)
 
 &nbsp;
 

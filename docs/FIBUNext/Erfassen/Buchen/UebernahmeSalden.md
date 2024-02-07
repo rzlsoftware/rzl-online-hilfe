@@ -10,7 +10,7 @@ Im Menüpunkt *Erfassen* / *Salden* werden die importierten Salden in einem eige
 
 Abb. 1 Erfassen - Salden
 
-![Image](<../assets/NeuesElement57.png>)
+![Image](<img/NeuesElement57.png>)
 
 &nbsp;
 
