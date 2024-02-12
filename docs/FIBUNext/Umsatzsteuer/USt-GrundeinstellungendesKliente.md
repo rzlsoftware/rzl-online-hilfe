@@ -15,4 +15,4 @@ Darunter können Sie die jeweilige Ziffer für steuerfreie Umsätze ohne Vorsteu
 
 Abb. 1 FIBU-Stammdaten - Umsatzsteuer
 
-![Image](<../assets/NeuesElement135.png>)
+![Image](<img/NeuesElement135.png>)

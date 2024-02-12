@@ -11,7 +11,7 @@ Das Umsatzsteuerland des Klienten können Sie unter *STAMM / FIBU / Umsatzsteuer
 
 Abb. 1 USt-Land
 
-![Image](<../assets/NeuesElement146.png>)
+![Image](<img/NeuesElement146.png>)
 
 
 In diesem Menü können Sie über die Schaltfläche *Neues USt-Land* weitere Länder anlegen, für die die Umsatzsteuer verwaltet werden soll. Im Drop-Down Menü können Sie alle buchbaren Länder aufrufen und auswählen. Dadurch ändern sich auch die verfügbaren USt-Sätze in den Kontostammdaten des Klienten.

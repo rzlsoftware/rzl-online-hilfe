@@ -12,7 +12,7 @@
 
 
 
-**Notwendige** **Einstellungen:**
+**Notwendige Einstellungen:**
 
 * In den Stammdaten des Debitors darf *keine* UID-Nummer eingeben sein.
 * Anlage eines separaten Erlöskontos mit korrekter Steuerhinterlegung.
@@ -47,7 +47,7 @@ Ein Dreiecksgeschäft liegt vor, wenn mehrere Unternehmer in mehrere verschieden
 
 Abb. 1 Dreiecksgeschäft
 
-![Image](<../assets/NeuesElement138.png>)
+![Image](<img/NeuesElement138.png>)
 
 
 **Lieferant**\
@@ -98,7 +98,7 @@ Sie können dazu im Buchungsdialog im Feld *Datum* mit rechter Maustaste oder F1
 
 Abb. 2 abweichendes USt-Monat
 
-![Image](<../assets/NeuesElement136.png>)
+![Image](<img/NeuesElement136.png>)
 
 ### Aufteilung nichtabzugsfähige Vorsteuer
 

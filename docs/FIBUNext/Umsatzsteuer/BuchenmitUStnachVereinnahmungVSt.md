@@ -11,7 +11,7 @@ Sofern ein Klient als Einnahmen-/Ausgaben-Rechner (Ist-Versteuerer) mit Belastun
 
 Abb. 1 USt-Einstellungen
 
-![Image](<../assets/NeuesElement145.png>)
+![Image](<img/NeuesElement145.png>)
 
 
 * Außerdem müssen Sie in der FIBU Next unter *Stammdaten / Pflichtkonten* im Bereich USt eigene Wartekonten für die Umsatzsteuer und die Vorsteuer hinterlegen.
@@ -19,7 +19,7 @@ Abb. 1 USt-Einstellungen
 
 Abb. 2 USt-Pflichtkonten
 
-![Image](<../assets/NeuesElement143.png>)
+![Image](<img/NeuesElement143.png>)
 
 ### Direktbuchungen auf Zahlungsmittelkonten
 
@@ -45,7 +45,7 @@ Im Journal und am jeweiligen Personenkonto wird der Steuercode mit einem W (für
 
 Abb. 3 Buchen AR mit OP-Verwaltung
 
-![Image](<../assets/NeuesElement142.png>)
+![Image](<img/NeuesElement142.png>)
 
 
 Erfolgt der Zahlungsausgleich (Zahlungsmittelkonto gegen Debitor) werden im OP-Feld die offenen Posten des Personenkontos mit der F2-Taste aufgerufen und die Rechnungs-OPs angewählt. Der Steuercode muss bei Buchung der Zahlung nicht mehr eingegeben werden – dieser wird vom ausgewählten offenen Posten übernommen. Dadurch erfolgt beim Abschluss der Buchung eine automatische Umbuchung vom USt-Wartekonto auf das Sammelkonto. Die Steuer wird somit in der Umsatzsteuervoranmeldung berücksichtigt.
@@ -57,7 +57,7 @@ Bei Buchung der Eingangsrechnungen (Aufwands-/Anlagekonto gegen Kreditor) wird d
 
 Abb. 4 Buchen ER mit OP-Verwaltung
 
-![Image](<../assets/NeuesElement141.png>)
+![Image](<img/NeuesElement141.png>)
 
 
 Rufen Sie sich beim anschließenden Zahlungsausgleich im OP-Feld mit der F2-Taste die Rechnungs-OPs auf und wählen Sie die auszugleichenden OPs an. Bei der Zahlung muss kein Steuercode eingegeben werden, dieser wird automatisch vom jeweiligen ausgewählten offenen Posten übernommen. Nach Abschluss der Buchung erfolgt wiederum eine automatische Umbuchung vom Wartekonto auf das Sammelkonto und Berücksichtigung der Steuer in der Umsatzsteuervoranmeldung.\
@@ -79,7 +79,7 @@ In diesem Fall wird im Journal als Steuercode M+ angezeigt. In der Spalte Detail
 
 Abb. 5 Sonderfälle I
 
-![Image](<../assets/NeuesElement140.png>)
+![Image](<img/NeuesElement140.png>)
 
 
 * Die Zahlung wird vor der Rechnung eingebucht
@@ -109,7 +109,7 @@ Als Besonderheit werden hier zusätzlich die noch offenen Posten auf den Debitor
 
 Abb. 6 USt Verprobung Ist-Versteuerer
 
-![Image](<../assets/NeuesElement139.png>)
+![Image](<img/NeuesElement139.png>)
 
 
 Schließlich ergibt sich daraus die Umsatzsteuerschuld der jeweiligen Periode.
