@@ -2,7 +2,6 @@
 
 ## Ausdruck Journal
 
-&nbsp;
 
 Über den Menüpunkt *Ausdruck / Journal* können Sie das Journal drucken.
 

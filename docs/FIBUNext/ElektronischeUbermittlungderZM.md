@@ -2,22 +2,20 @@
 
 ## Elektronische Übermittlung der ZM
 
-&nbsp;
 
-Unternehmer, die im Meldezeitraum *steuerfreie innergemeinschaftliche Lieferungen* bzw. *grenzüberschreitende sonstige Dienstleistungen* (bei denen die Steuerschuld gemäß Art. 196 auf den Leistungsempfänger im Gemeinschaftsgebiet übergeht) ausführen, sind verpflichtet eine Zusammenfassende Meldung (ZM) abzugeben.&nbsp;
+Unternehmer, die im Meldezeitraum *steuerfreie innergemeinschaftliche Lieferungen* bzw. *grenzüberschreitende sonstige Dienstleistungen* (bei denen die Steuerschuld gemäß Art. 196 auf den Leistungsempfänger im Gemeinschaftsgebiet übergeht) ausführen, sind verpflichtet eine Zusammenfassende Meldung (ZM) abzugeben.
 
-Durch die korrekten Steuerhinterlegungen der betroffenen Erlöskonten werden die Buchungen automatisch in die ZM aufgenommen.&nbsp;
+Durch die korrekten Steuerhinterlegungen der betroffenen Erlöskonten werden die Buchungen automatisch in die ZM aufgenommen.
 
 Die Übermittlung der ZM muss bis zum Ablauf des auf den Meldezeitraum folgenden Kalendermonats erfolgen. Ausschlaggebend dabei ist das Rechnungsdatum. Die Abgabe erfolgt grundsätzlich in elektronischer Form über FinanzOnline.
 
-In der RZL FIBU Next erfolgt die Abgabe der ZM in zwei Schritten:&nbsp;
+In der RZL FIBU Next erfolgt die Abgabe der ZM in zwei Schritten:
 
-1. Erstellung der ZM-Datei&nbsp;
+1. Erstellung der ZM-Datei
 1. Übermittlung der ZM-Datei an FinanzOnline
 
 ### Erstellung der ZM-Datei
 
-&nbsp;
 
 Sie können die ZM über folgende Menüpunkte erstellen:
 
@@ -32,11 +30,9 @@ Abb. 1 ZM erstellen
 
 Wählen Sie hier das Register mit dem zu übermittelnden Zeitraum und den Klienten. Anschließend können Sie über die Schaltfläche *Meldung erstellen* die Zusammenfassende Meldung erstellen.
 
-&nbsp;
 
 ### Übermittlung der ZM-Datei
 
-&nbsp;
 
 Die im vorigen Kapitel bereits erstellte ZM Meldung finden Sie nun im Modul *PORTALE* im Register *FinanzOnline* unter *Offene Übermittlungen*.
 
@@ -48,7 +44,6 @@ Alle bereits gesendeten Übermittlungen finden Sie in der Liste *Gesendete Über
 
 ### Gesamtrückziehung
 
-&nbsp;
 
 Ist eine nachträgliche Berichtigung einer unvollständigen oder falsch abgegebenen ZM (z.B. falsche UID-Nr., fehlende Buchungen) notwendig, muss zunächst eine *Gesamtrückziehung* der ZM erstellt und abgegeben werden.
 
@@ -68,7 +63,6 @@ Anschließend finden Sie die Meldung unter den offenen FinanzOnline Übermittlun
 
 Damit Sie die ZM nach den Korrekturen erneut übermitteln können, muss die ursprüngliche Übermittlung zurückgesetzt werden.
 
-Im Modul *PORTALE* unter *Gesendete Übermittlungen* können Sie die bereits übermittelte ZM mit der Schaltfläche *Zurücksetzen* zurücksetzen. Abschließend kann die ZM nochmals erstellt und übermittelt werden.&nbsp;
+Im Modul *PORTALE* unter *Gesendete Übermittlungen* können Sie die bereits übermittelte ZM mit der Schaltfläche *Zurücksetzen* zurücksetzen. Abschließend kann die ZM nochmals erstellt und übermittelt werden.
 
-&nbsp;
 

@@ -2,7 +2,6 @@
 
 ## Allgemeine Hinweise zur Berechnung der Kammerumlage
 
-&nbsp;
 
 Die Berechnung der Kammerumlage erfolgt auf Basis der Vorsteuer (einschließlich Einfuhrumsatzsteuer und Erwerbsteuer), unabhängig davon, ob eine Berechtigung zum Vorsteuerabzug besteht. In der RZL FIBU Next wird daher die Kammerumlage auf Basis der Vorsteuer lt. Umsatzsteuervoranmeldung ermittelt. Im Falle eines abweichenden Wirt­schaftsjahres wird automatisch auch auf die Daten des Vorjahres zugegriffen.
 
@@ -19,19 +18,15 @@ In der RZL FIBU Next wird die KU1 nach dem (seit 01.01.2019 gültigen) degressiv
 | Über 32,5 Millionen Euro | &#50;,552 Promille |
 
 
-&nbsp;
 
-&nbsp;
 
 ## Grundeinstellungen zur KU1
 
-&nbsp;
 
 Ist der Klient kammerumlagepflichtig, müssen Sie unter *STAMM / FIBU / Allgemein* die Option *Kammerumlage (KU1)* aktivieren.
 
 ### Hinterlegung am Aufwandskonto
 
-&nbsp;
 
 Sie können auch Aufwandskonten als Anlagevermögen definieren, damit die Umsatzsteuer bei der Bemessungsgrundlage der KU1 in Abzug gebracht wird (z.B. geringwertige Wirtschaftsgüter).
 
@@ -41,11 +36,9 @@ Abb. 1 Anlagevermögen KU1
 
 ![Image](<../assets/NeuesElement161.png>)
 
-&nbsp;
 
 ## Ausdruck Kammerumlage KU1
 
-&nbsp;
 
 Die Kammerumlage wird am Ausdruck *USt-Aufstellung* quartalsweise berechnet und mitangeführt. (siehe Kapitel [Ausdruck USt-Aufstellung](<USt-Aufstellung1.md>))
 

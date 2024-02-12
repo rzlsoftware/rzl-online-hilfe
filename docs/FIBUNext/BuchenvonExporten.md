@@ -2,7 +2,6 @@
 
 ## Buchen von Exporten
 
-&nbsp;
 
 Zur Buchung von Exporten ins Drittland ist folgende Kontohinterlegung notwendig:
 

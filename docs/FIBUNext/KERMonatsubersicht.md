@@ -2,9 +2,8 @@
 
 ## Auswertung KER
 
-&nbsp;
 
-Über den Menüpunkt *Auswertung / KER* kann eine *Monatsübersicht* oder eine *Jahresübersicht* aufgerufen werden.&nbsp;
+Über den Menüpunkt *Auswertung / KER* kann eine *Monatsübersicht* oder eine *Jahresübersicht* aufgerufen werden.
 
 Bei beiden Aufrufen können Sie links oben die gewünschte *KER Gliederung* auswählen. Weiters können Sie bei der *KER Monatsübersicht* noch Anzeigeeinstellungen zu den Vorjahren, Prozenten, kumulierten Werten und Monatswerten treffen.
 

@@ -2,15 +2,13 @@
 
 ### Datenimport – OP
 
-&nbsp;
 
-Möchten Sie offene Posten importieren, so ist der Menüpunkt *Datenimport / RZL Format* / *OP*… anzuwählen.&nbsp;
+Möchten Sie offene Posten importieren, so ist der Menüpunkt *Datenimport / RZL Format* / *OP*… anzuwählen.
 
 Abb. 1 Datenimport OP
 
 ![Image](<../assets/NeuesElement177.png>)
 
-&nbsp;
 
 Hinterlegen Sie im Menü *OP* den Dateipfad und -namen der Importdatei. Anschließend kann eine Vorprüfung durchgeführt werden oder direkt mit Überprüfung importiert werden.
 
@@ -23,7 +21,6 @@ Wird die Option *OP-Differenzen ignorieren* nicht gewählt, erhalten Sie pro Kon
 Beachten Sie: Es können nur für OP-führende Konten offenen Posten importiert werden. Durch den Import können offene Posten auch ausgeglichen werden. \
 Unter *Auswertung / OP* sind importierte OP anhand eines „I“ zu erkennen.
 
-&nbsp;
 
 **Tipp**
 

@@ -2,7 +2,6 @@
 
 ## Auswertung OP
 
-&nbsp;
 
 Über den Menüpunkt *Auswertung / OP* können Sie bei aktiver OP-Verwaltung (siehe Kapitel [Einrichtung der OP-Verwaltung](<OPVERWALTUNG.md#Einrichtung\_OPVerwaltung>)) die Offenen Posten aufrufen.
 
@@ -10,7 +9,7 @@ Abb. 1 Auswertung OP
 
 ![Image](<../assets/NeuesElement165.png>)
 
-Geben Sie die gewünschte *Kontonummer **(1)*** ein und bestätigen Sie diese mit der *ENTER-Taste.* Anschließend sind alle Offene Posten des Personenkontos im gewählten *Wirtschaftsjahr **(2)*** ersichtlich.&nbsp;
+Geben Sie die gewünschte *Kontonummer **(1)*** ein und bestätigen Sie diese mit der *ENTER-Taste.* Anschließend sind alle Offene Posten des Personenkontos im gewählten *Wirtschaftsjahr **(2)*** ersichtlich.
 
 Im unteren Bereich wird Ihnen die Summe der Offenen Posten, der Kontosaldo und die Differenz zwischen den Offenen Posten und dem Kontosaldo angeführt ***(3)**.*
 

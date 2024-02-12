@@ -2,7 +2,6 @@
 
 ## Ausdruck Kassajournal
 
-&nbsp;
 
 Das Kassajournal kann sowohl nach Kontenbereichen, als auch für Einzelkonten gedruckt werden. Auch hier gibt es ähnliche Optionen wie beim Kontendruck.
 

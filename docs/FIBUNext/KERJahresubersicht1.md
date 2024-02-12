@@ -2,7 +2,6 @@
 
 ## Ausdruck KER Jahresübersicht
 
-&nbsp;
 
 Über den Menüpunkt *Ausdruck / KER Jahresübersicht* können Sie eine jährliche Kurzfristige Erfolgsrechnung drucken.
 

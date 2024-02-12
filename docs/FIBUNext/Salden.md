@@ -2,15 +2,13 @@
 
 ### Datenimport – Salden \& Konten
 
-&nbsp;
 
-Unter *Datenimport / RZL Format / Salden/Konten…*&nbsp; können Sie Salden in die FIBU Next importieren.
+Unter *Datenimport / RZL Format / Salden/Konten…* können Sie Salden in die FIBU Next importieren.
 
 Abb. 1 Import Salden/Konten
 
 ![Image](<../assets/NeuesElement175.png>)
 
-&nbsp;
 
 Über die Schaltfläche ![Image](<../assets/NeuesElement174.png>) können Sie die zu importierende Datei aus dem Explorer auswählen. Weiters ist die Option *Importdatei enthält Spaltenüberschriften* zu setzen, *falls dies zutrifft*.
 
@@ -27,7 +25,7 @@ Wählen Sie in diesem Feld das Buchungsdatum des Saldos. Das Datum muss im ausge
 Dieses Feld ist ein Pflichtfeld, es wird daher automatisch der Buchungstext *„Saldenimport*“ von RZL vorgeschlagen. Sie können den Text jedoch frei wählen und abändern.
 
 **Stapelname:**\
-Die importierten Salden werden nach Übernahme in einem nicht finalisierten Stapel unter *Erfassen / Salden* verwaltet. Geben Sie dazu im Feld *Stapelname* eine Bezeichnung für den Stapel an.&nbsp;
+Die importierten Salden werden nach Übernahme in einem nicht finalisierten Stapel unter *Erfassen / Salden* verwaltet. Geben Sie dazu im Feld *Stapelname* eine Bezeichnung für den Stapel an.
 
 **OP** **in** **Höhe** **des** **Saldos** **anlegen:**\
 Es wird ein OP pro Konto in Höhe des Saldos (Soll oder Haben) angelegt.

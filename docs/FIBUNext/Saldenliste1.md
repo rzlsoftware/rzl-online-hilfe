@@ -2,7 +2,6 @@
 
 ## Ausdruck Saldenliste
 
-&nbsp;
 
 Unter *Ausdruck / Saldenliste* können Sie eine monatliche Saldenliste getrennt nach Sachkonten, Debitoren, Kreditoren oder Erfolgskonten drucken.
 

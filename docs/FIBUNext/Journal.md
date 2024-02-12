@@ -2,11 +2,9 @@
 
 ## Auswertung Journal
 
-&nbsp;
 
 Durch die Anwahl des Menüpunktes *Auswertung / Journal* können Sie das Journal mit sämtlichen Buchungen aufrufen.
 
-&nbsp;
 
 **Tipp**
 

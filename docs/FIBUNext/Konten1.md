@@ -2,7 +2,6 @@
 
 ## Ausdruck Konten
 
-&nbsp;
 
 Unter *Ausdruck / Konten* können Sie entweder alle Konten, nur Teilbereiche von Konten oder auch Einzelkonten drucken.
 
@@ -14,7 +13,6 @@ Es sind verschiedenste Einstellungen möglich.
 * *Mit Fremdbelegnummer*: Neben der Belegnummer finden Sie mit dieser Option auch die jeweilige Fremdbelegnummer der Buchung.
 * *Nach Buchungsdatum sortieren*: Statt der Sortierung nach Erfassungsdatum wird mit dieser Option die Liste an Buchungen nach dem Buchungsdatum sortiert.
 
-&nbsp;
 
 Die hier gewählten Optionen werden gespeichert und beim nächsten Aufruf dieses Dialogs vorgeschlagen.
 

@@ -2,9 +2,8 @@
 
 ## USt-Grundeinstellungen des Klienten
 
-&nbsp;
 
-Die Grundeinstellungen für den jeweiligen Klienten finden Sie im Modul *STAMM* unter *FIBU/ Umsatzsteuer.*&nbsp;
+Die Grundeinstellungen für den jeweiligen Klienten finden Sie im Modul *STAMM* unter *FIBU/ Umsatzsteuer.*
 
 Das Finanzamt und die UID-Nummer werden standardmäßig aus den Personenstammdaten des Klienten übernommen. \
 \

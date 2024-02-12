@@ -2,7 +2,6 @@
 
 ## Ausdruck KER Monatsübersicht
 
-&nbsp;
 
 Über den Menüpunkt *Ausdruck / KER Monatsübersicht* können Sie eine monatliche Kurzfristige Erfolgsrechnung drucken.
 

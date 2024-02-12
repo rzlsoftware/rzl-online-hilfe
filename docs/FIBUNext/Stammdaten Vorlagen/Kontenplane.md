@@ -1,8 +1,7 @@
 # Kontenpläne
 
-### Kontenpläne&nbsp;
+### Kontenpläne
 
-&nbsp;
 
 Durch Anwahl der Schaltfläche K*ontenpläne* in den allgemeinen FIBU-Stammdaten gelangen Sie zur Verwaltung der Kontenpläne. Darunter wird eine Liste aller bereits angelegten Kontenpläne angezeigt.
 
@@ -10,16 +9,15 @@ Abb. 1 Allgemeine Stammdaten
 
 ![Image](<img/NeuesElement97.png>)
 
-### Kontenplan anlegen&nbsp;
+### Kontenplan anlegen
 
 Mit Klick auf die Schaltfläche *Kontenplan anlegen* öffnet sich ein neues Fenster für die Anlage eines neuen Kontenplans. \
-Im linken Bereich des Fensters sind einzelne Registerblätter für die Bearbeitung des Kontenplans anwählbar.&nbsp;
+Im linken Bereich des Fensters sind einzelne Registerblätter für die Bearbeitung des Kontenplans anwählbar.
 
 Im Register *Allgemein* können Sie zu Beginn eine Bezeichnung für den Kontenplan vergeben.
 
 #### Register Allgemein
 
-&nbsp;
 
 Abb. 2 Kontenplan Neuanlage
 
@@ -37,9 +35,9 @@ Unten wird eine Liste mit den verfügbaren USt-Ländern angezeigt. Durch das Akt
 
 Ebenso haben Sie durch das Aktivieren eines USt-Landes bei der Anlage von Konten die Möglichkeit die aktivierten USt-Länder bei dem jeweiligen Konto zu hinterlegen.
 
-USt-Länder können durch einen Klick auf die aktivierte Checkbox auch wieder deaktiviert werden.&nbsp;
+USt-Länder können durch einen Klick auf die aktivierte Checkbox auch wieder deaktiviert werden.
 
-Wenn für ein USt-Land Konten im Kontenplan oder in den Pflichtkonten oder in beiden Bereichen hinterlegt sind, erscheint folgender Hinweis:&nbsp;
+Wenn für ein USt-Land Konten im Kontenplan oder in den Pflichtkonten oder in beiden Bereichen hinterlegt sind, erscheint folgender Hinweis:
 
 Abb. 4 - USt-Länder I
 
@@ -55,7 +53,6 @@ Abb. 5 - Kontenplan – Zuordnung KER-Gliederung
 
 ![Image](<img/NeuesElement92.png>)
 
-&nbsp;
 
 #### Register Konten
 
@@ -65,19 +62,16 @@ Abb. 6 - Kontenplan – Konten
 
 ![Image](<img/NeuesElement101.png>)
 
-&nbsp;
 
 Mit einem Klick auf die Schaltfläche *Neues Konto **(1)*** im oberen Menü#8202;***,*** öffnet sich die Detailansicht und Sie können ein neues Konto innerhalb dieses Kontenplanes anlegen. Über *Kontonummer ändern **(2)*** können Sie die Kontonummer eines angelegten Kontos auf eine verfügbare Nummer verschieben.
 
 #### Ertragskonto anlegen
 
-&nbsp;
 
 Abb. 7 - Kontenplan – Neuanlage Ertragskonto
 
 ![Image](<img/NeuesElement90.png>)
 
-&nbsp;
 
 **Beschreibung** **der** **Eingabefelder:**
 
@@ -88,11 +82,10 @@ Abb. 7 - Kontenplan – Neuanlage Ertragskonto
 | **USt-Land** | Hier muss das USt-Land eingetragen werden. Diese Einstellung ist für die korrekte Darstellung und Berechnung der Umsätze pro Land notwendig. |
 | **USt-Code** | In diesem Feld sind folgende Einstellungen möglich: Ohne Steuer Vorsteuer Umsatzsteuer Erwerbsteuer Nicht abzugsf. Vorsteuer Reverse Charge |
 | **Prozentsatz** | Im Feld Prozentsatz (im Falle USt-Land = AT) können Sie folgende Steuersätze der Höhe nach festlegen: steuerfrei 5% ermäßigter Steuersatz 7% Zusatzsteuer (nur bei USt-Code Umsatzsteuer) 8% Zusatzsteuer (nur bei USt-Code Umsatzsteuer) 10% ermäßigter Steuersatz 12% für Weinumsätze durch landwirtschaftliche Betriebe (nur für inländische Umsätze/Erwerbe) 13% speziell ermäßigter Steuersatz 19% für Jungholz und Mittelberg 20% Normalsteuersatz Haben Sie ein anderes USt-Land als Österreich definiert, können Sie hier die USt-Sätze des jeweiligen Landes auswählen. |
-| **Steuertyp** | Das Feld Steuertyp ist aktiv sobald ein USt-Code für einen gültigen Vorsteuerabzug ausgewählt wurde (VSt, Erwerbsteuer, Reverse Charge). Folgende Einstellungen können hier vorgenommen werden: Vorsteuer Bauleistung mit oder ohne VSt-Abzug Dreiecksgeschäft mit oder ohne VSt-Abzug Innergemeinschaftlicher Erwerb mit oder ohne VSt-Abzug Ohne VSt-Abzug Reverse Charge Ausland mit oder ohne VSt-Abzug Reverse Charge § 19 Abs 1b mit oder ohne VSt-Abzug USt Schrott und Abfallstoffe mit oder ohne VSt-Abzug Erwerbsteuer Innergemeinschaftlicher Erwerb mit oder ohne VSt-Abzug Reverse-Charge Bauleistung mit oder ohne VSt-Abzug Dreiecksgeschäft mit oder ohne VSt-Abzug Innergemeinschaftlicher Erwerb mit oder ohne VSt-Abzug Reverse Charge Ausland mit oder ohne VSt-Abzug Reverse Charge § 19 Abs 1b mit oder ohne VSt-Abzug USt Schrott und Abfallstoffe mit oder ohne VSt-Abzug&nbsp; |
+| **Steuertyp** | Das Feld Steuertyp ist aktiv sobald ein USt-Code für einen gültigen Vorsteuerabzug ausgewählt wurde (VSt, Erwerbsteuer, Reverse Charge). Folgende Einstellungen können hier vorgenommen werden: Vorsteuer Bauleistung mit oder ohne VSt-Abzug Dreiecksgeschäft mit oder ohne VSt-Abzug Innergemeinschaftlicher Erwerb mit oder ohne VSt-Abzug Ohne VSt-Abzug Reverse Charge Ausland mit oder ohne VSt-Abzug Reverse Charge § 19 Abs 1b mit oder ohne VSt-Abzug USt Schrott und Abfallstoffe mit oder ohne VSt-Abzug Erwerbsteuer Innergemeinschaftlicher Erwerb mit oder ohne VSt-Abzug Reverse-Charge Bauleistung mit oder ohne VSt-Abzug Dreiecksgeschäft mit oder ohne VSt-Abzug Innergemeinschaftlicher Erwerb mit oder ohne VSt-Abzug Reverse Charge Ausland mit oder ohne VSt-Abzug Reverse Charge § 19 Abs 1b mit oder ohne VSt-Abzug USt Schrott und Abfallstoffe mit oder ohne VSt-Abzug |
 | **Buchungscode /Kennzahl UVA** | Je nach Einstellung in den Feldern USt-Code und Prozentsatz wird der entsprechende Buchungscode sowie die entsprechende UVA Kennzahl angezeigt. |
 
 
-&nbsp;
 
 Im Register *Gliederung FIBU* können Sie das jeweilige Konto einer KER-Gliederung zuordnen.
 
@@ -102,7 +95,7 @@ Abb. 8 - Kontenplan – Neuanlage Ertragskonto II
 
 #### Aufwandskonto anlegen
 
-Legen Sie ein Aufwandskonto an, erscheint zusätzlich das Feld *Anlagevermögen (KU1).* Aktivieren Sie diese Option, werden auf diesem Konto gebuchte Vorsteuern bei der Berechnung der Kammerumlage in Abzug gebracht.&nbsp;
+Legen Sie ein Aufwandskonto an, erscheint zusätzlich das Feld *Anlagevermögen (KU1).* Aktivieren Sie diese Option, werden auf diesem Konto gebuchte Vorsteuern bei der Berechnung der Kammerumlage in Abzug gebracht.
 
 Abb. 9 - Kontenplan – Neuanlage Aufwandskonto
 
@@ -117,16 +110,14 @@ Abb. 10 - Kontenplan – Neuanlage Bestandskonto
 
 ![Image](<img/NeuesElement87.png>)
 
-&nbsp;
 
 Im Register *Sonstiges* können Sie ein Konto (z.B. Bank, Kassa) als *Zahlungsmittelkonto* definieren. \
-Ist innerhalb der Kontenstammdaten kein Konto als Zahlungsmittelkonto angelegt, erhalten Sie beim Einstieg in den Menüpunkt *Buchen* eine Hinweismeldung.&nbsp;
+Ist innerhalb der Kontenstammdaten kein Konto als Zahlungsmittelkonto angelegt, erhalten Sie beim Einstieg in den Menüpunkt *Buchen* eine Hinweismeldung.
 
 Abb. 11 - Kontenplan – Neuanlage Bestanskonto II
 
 ![Image](<img/NeuesElement86.png>)
 
-&nbsp;
 
 #### Register Pflichtkonten
 
@@ -185,7 +176,6 @@ Abb. 19 - Kontenplan – Neuer Kontenbereich
 
 ![Image](<img/NeuesElement78.png>)
 
-&nbsp;
 
 ### Kontenplan bearbeiten
 

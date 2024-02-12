@@ -9,11 +9,9 @@ Abb. 1 Zuordnung KIS
 
 ![Image](<../assets/NeuesElement158.png>)
 
-&nbsp;
 
 Zur Erstellung und elektronischen Abgabe der UVA sind für den jeweiligen Klienten folgende Grundeinstellungen unter *STAMM / FIBU / Umsatzsteuer* notwendig.
 
-&nbsp;
 
 Abb. 2 Stammdaten USt
 
@@ -23,20 +21,18 @@ Die Finanzamt-Daten werden aus den Personen- bzw. Firmenstammdaten übernommen.
 
 Wählen Sie zwischen der Option *UVA monatlich* oder *quartalsweise.*
 
-&nbsp;
 
 Die Abgabe der UVA erfolgt in zwei Schritten:
 
-1. &nbsp;
-   1. &nbsp;
-      1. &nbsp;
-         1. &nbsp;
-            1. &nbsp;
-               1. &nbsp;
+1. 
+   1. 
+      1. 
+         1. 
+            1. 
+               1. 
                   1. Erstellung der UVA-Datei
                   1. Übermittlung der Datei an FinanzOnline
 
-&nbsp;
 
 **Hinweis**
 
@@ -50,13 +46,11 @@ Sie können die UVA über folgende Menüpunkte erstellen:
 * im Ausdruck-Dialog der USt-Aufstellung unter *Ausdruck / USt-Aufstellung* über die Schaltfläche *zur UVA Übermittlung* oder
 * im Modul PORTALE im Register FinanzOnline über die Schaltfläche *UVA erstellen*.
 
-&nbsp;
 
 Abb. 3 zur UVA Übermittlung
 
 ![Image](<../assets/NeuesElement156.png>)
 
-&nbsp;
 
 Nach Anwahl einer der oben genannten Möglichkeiten gelangen Sie in das *Register UVA erstellen*.
 
@@ -64,7 +58,6 @@ Abb. 4 UVA erstellen
 
 ![Image](<../assets/NeuesElement155.png>)
 
-&nbsp;
 
 Wählen Sie hier das Register mit dem zu übermittelnden Zeitraum und den Klienten. Anschließend können Sie über die Schaltfläche „*Meldung erstellen“* die UVA erstellen.
 
@@ -74,7 +67,6 @@ Sollte die zu erstellende Übermittlung in diesem Dialog ausgegraut sein, beacht
 
 ### Übermittlung der UVA-Datei
 
-&nbsp;
 
 Die im vorigen Kapitel erstellte UVA finden Sie nun im Modul *PORTALE* im Register *FinanzOnline* unter *Offene Übermittlungen*.
 

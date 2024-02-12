@@ -2,9 +2,8 @@
 
 ### Datenimport – Buchungen
 
-&nbsp;
 
-Unter *Datenimport / RZL Format / Buchungen…*&nbsp; können Sie Buchungen importieren.
+Unter *Datenimport / RZL Format / Buchungen…* können Sie Buchungen importieren.
 
 Über die Schaltfläche ![Image](<../assets/NeuesElement176.png>) können Sie die zu importierende Datei aus dem Explorer auswählen. Weiters ist die Option *Importdatei enthält Spaltenüberschriften* zu setzen, falls dies zutrifft.
 

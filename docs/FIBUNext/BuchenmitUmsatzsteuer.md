@@ -2,17 +2,14 @@
 
 ## Buchen mit Umsatzsteuer
 
-&nbsp;
 
 Durch gesetzliche Vorgaben ist ein genauer Ausweis der Umsatzsteuer nach Steuersätzen getrennt in der UVA notwendig. Dies hat zur Folge, dass in der RZL FIBU Next eine exakte Trennung der Umsatzerlöse nach Steuersätzen vorgenommen werden muss.
 
 ### Buchen von Ausgangsrechnungen mit Umsatzsteuer
 
-&nbsp;
 
 Zur Buchung der einzelnen Umsatzerlöse ist ein separates Erlöskonto mit der jeweiligen Steuerhinterlegung notwendig:
 
-&nbsp;
 
 | **Geschäftsfall** | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |  |  | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -25,11 +22,9 @@ Zur Buchung der einzelnen Umsatzerlöse ist ein separates Erlöskonto mit der je
 | Zusatzsteuer für pauschalierte LuF 7% | &#48;00, 007 | Umsatzsteuer | &#55; | Zusatzsteuer pauschalierte Land-/ Forstwirte | Z07 | Z07 |
 
 
-&nbsp;
 
 Durch die Hinterlegung am Konto ist der Steuersatz beim Buchen im Feld *Code* vorgegeben. Die Steuer wird automatisch aus dem eingegebenen Bruttobetrag berechnet, am USt-Sammelkonto verbucht und in der UVA in der jeweiligen Kennziffer berücksichtigt.
 
-&nbsp;
 
 **Hinweis**
 
@@ -43,13 +38,12 @@ Die Buchung des gesondert auszuweisenden Eigenverbrauchs ist mit dem ***Steuerco
 
 Korrekturen der Umsatzsteuer sind grundsätzlich durch Stornierung der ursprünglichen Ausgangsrechnung und erneuter Buchung auf dem Erlöskonto mit korrekter Steuerhinterlegung möglich.
 
-Buchungen direkt am Umsatzsteuer-Sammelkonto sollten daher nur in Ausnahmefällen durchgeführt werden und finden in der Kennziffer *090* *(Sonstige Berichtigungen)* der UVA Berücksichtigung.&nbsp;
+Buchungen direkt am Umsatzsteuer-Sammelkonto sollten daher nur in Ausnahmefällen durchgeführt werden und finden in der Kennziffer *090* *(Sonstige Berichtigungen)* der UVA Berücksichtigung.
 
 Geben Sie dazu beim Buchen gegen das Sammelkonto im Feld *Code* den Code ***9790*** ein und im Feld *Betrag* den Steuerbetrag. Dieser wird anschließend auch im Feld *Steuer* als Steuerbetrag berücksichtigt.
 
 Buchungen ohne Steuercode werden nicht in die Umsatzsteuervoranmeldung aufgenommen\!
 
-&nbsp;
 
 **Hinweis**
 

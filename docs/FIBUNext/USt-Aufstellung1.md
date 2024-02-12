@@ -2,9 +2,8 @@
 
 ## Ausdruck USt-Aufstellung
 
-&nbsp;
 
-Unter *Ausdruck / USt-Aufstellung* können Sie eine monatliche Umsatzsteueraufstellung drucken. Diese entspricht im Wesentlichen der UVA, bietet jedoch eine übersichtliche Darstellung für interne Auswertungen.&nbsp;
+Unter *Ausdruck / USt-Aufstellung* können Sie eine monatliche Umsatzsteueraufstellung drucken. Diese entspricht im Wesentlichen der UVA, bietet jedoch eine übersichtliche Darstellung für interne Auswertungen.
 
 Bei den Optionen können Sie das gewünschte *Monat* und das *USt-Land* wählen.
 

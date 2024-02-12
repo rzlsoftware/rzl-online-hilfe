@@ -2,7 +2,6 @@
 
 ## Auswertung Anzahl Zeilen
 
-&nbsp;
 
 Unter *Auswertungen / Anzahl Zeilen* erhalten Sie eine Aufstellung aller Journal- bzw. Buchungszeilen je Monat.
 

@@ -2,7 +2,7 @@
 
 ### Offene Posten Zuteilung
 
-Nach der Eingabe von Datum, Belegnummer, Soll- und Habenkonto, Steuersatz und Betrag, erscheint im nächsten Feld die OP-Nummer. Grundsätzlich wird die Belegnummer als OP Nr. übernommen. Sie können die OP-Nummer mit der *ENTER-Taste* bestätigen oder durch eine andere – höchstens 16-stellige Nummer – ersetzen.&nbsp;
+Nach der Eingabe von Datum, Belegnummer, Soll- und Habenkonto, Steuersatz und Betrag, erscheint im nächsten Feld die OP-Nummer. Grundsätzlich wird die Belegnummer als OP Nr. übernommen. Sie können die OP-Nummer mit der *ENTER-Taste* bestätigen oder durch eine andere – höchstens 16-stellige Nummer – ersetzen.
 
 Die OP-Nr. ist ein Pflichtfeld, da nur durch die Eingabe der Nummer später bei Zahlung ein automatischer OP-Ausgleich möglich ist. Anschließend ist im Feld *Text* der Buchungstext einzugeben und die Buchung mit der *ENTER-Taste* abzuschließen.
 

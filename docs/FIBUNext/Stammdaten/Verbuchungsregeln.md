@@ -2,7 +2,6 @@
 
 ## Verbuchungsregeln zur Retourdatenverarbeitung
 
-&nbsp;
 
 Zur automatisierten Verarbeitung der Retourdaten können für gleichartige bzw. wiederkehrende Geschäftsfälle (z.B. Strom, Miete) Verbuchungsregeln angelegt werden. Dadurch wird beim wiederkehrenden Import automatisch der vordefinierte Buchungsvorschlag erstellt.
 
@@ -20,7 +19,6 @@ Abb. 2 Verbuchungsregel Retourdaten I
 
 ![Image](<img/NeuesElement149.png>)
 
-&nbsp;
 
 Folgende Felder stehen als Auswahlkriterium zur Verfügung:
 
@@ -31,13 +29,11 @@ Folgende Felder stehen als Auswahlkriterium zur Verfügung:
 * *Bankverbindung*: Soll die Verbuchungsregel nur für eine bestimmte Stammdaten-Bankverbindung gelten, kann diese hier über das Dropdown-Menü aufgerufen und ausgewählt werden.
 * *Zahlungsart*: Einschränkung der Verbuchungsregel auf die Zahlungsart (Zahlungseingang oder Zahlungsausgang)
 
-&nbsp;
 
 **TIPP**
 
 Da alle angewählten Felder zur Auslesung der Verbuchungsregel erfüllt sein müssen, sollten nur notwendige Kriterien ausgewählt werden. Meist reicht beispielsweise das Feld *IBAN* als eindeutiges Zuordnungsfeld.
 
-&nbsp;
 
 Im zweiten Registerblatt wird der dazugehörige Buchungsvorschlag eingegeben.
 
@@ -66,7 +62,6 @@ Zusätzlich können Sie mittels dem Pfeil neben dem Buchungstext bereits vorgefe
 | {VWZ} | Verwendungszweck der Überweisung |
 
 
-&nbsp;
 
 Mittels der in Klammern angeführten Buchstaben **d** (=\>Tag), **M** (=\>Monat) und **y** (=\>Jahr) wird das Ausgabeformat bestimmt, z.B. 09.04.2022, 9.April.22, 0904, etc. Die Auflösung der einzelnen Buchstaben am Beispiel des Datums 09.04.2022 lautet wie folgt:
 
@@ -79,7 +74,6 @@ Mittels der in Klammern angeführten Buchstaben **d** (=\>Tag), **M** (=\>Monat)
 * yy -\> 22
 * yyyy -\> 2022
 
-&nbsp;
 
 Diese Formatierungsparameter können entweder direkt aufeinander folgen (z.B. yyyyMMdd) oder können durch . (Punkt), - (Bindestrich/Minus) oder / (Slash) getrennt sein.
 
@@ -87,14 +81,12 @@ Diese Formatierungsparameter können entweder direkt aufeinander folgen (z.B. yy
 
 Aus der FIBU Klassik übernommene Verbuchungsregeln mit Platzhaltern werden automatisch auf das neue Format adaptiert.
 
-&nbsp;
 
 **TIPP**
 
 Werden während dem Verbuchen eines Kontoauszug-Stapels neue Verbuchungsregeln angelegt oder geändert, so werden diese auf alle ungeklärte Buchungszeilen angewandt, sobald die Verbuchungsregel gespeichert wird.\
 Bereits geklärte und somit verbuchte Zeilen werden durch die Änderung einer Verbuchungsregel nicht angepasst.
 
-&nbsp;
 
 Möchten Sie eine Verbuchungsregel auf eine bestimmte Zeile anwenden, auf die die hinterlegten Regeln nicht zutreffen, so kann die Verbuchungsregel auch erzwungen werden. Dazu ist der Menüpunkt Verbuchungsregel anwenden ***(1)*** zu verwenden.
 
@@ -102,5 +94,4 @@ Abb. 4 Verbuchungsegel anwenden
 
 ![Image](<img/NeuesElement147.png>)
 
-&nbsp;
 

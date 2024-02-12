@@ -2,9 +2,8 @@
 
 ## Umsatzsteuerland
 
-&nbsp;
 
-In der FIBU Next können Sie neben Österreich auch weitere Umsatzsteuerländer anlegen.&nbsp;
+In der FIBU Next können Sie neben Österreich auch weitere Umsatzsteuerländer anlegen.
 
 ### Neues USt-Land anlegen
 
@@ -14,7 +13,6 @@ Abb. 1 USt-Land
 
 ![Image](<../assets/NeuesElement146.png>)
 
-&nbsp;
 
 In diesem Menü können Sie über die Schaltfläche *Neues USt-Land* weitere Länder anlegen, für die die Umsatzsteuer verwaltet werden soll. Im Drop-Down Menü können Sie alle buchbaren Länder aufrufen und auswählen. Dadurch ändern sich auch die verfügbaren USt-Sätze in den Kontostammdaten des Klienten.
 

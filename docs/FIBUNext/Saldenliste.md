@@ -2,7 +2,6 @@
 
 ## Auswertung Saldenliste
 
-&nbsp;
 
 Über den Menüpunkt *Auswertung / Saldenliste* können Sie die *Saldenliste* aufrufen.
 

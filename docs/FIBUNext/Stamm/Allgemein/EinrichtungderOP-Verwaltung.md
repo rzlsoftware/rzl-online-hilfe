@@ -2,15 +2,13 @@
 
 ### Einrichtung der OP-Verwaltung
 
-&nbsp;
 
-Wenn Sie mit der Offenen Postenverwaltung auf **Personenkonten** arbeiten möchten, können Sie diese im Modul *STAMM* unter *FIBU / Allgemein* im Bereich *Einstellungen* aktivieren.&nbsp;
+Wenn Sie mit der Offenen Postenverwaltung auf **Personenkonten** arbeiten möchten, können Sie diese im Modul *STAMM* unter *FIBU / Allgemein* im Bereich *Einstellungen* aktivieren.
 
 Abb. 1 Stamm – OP Verwaltung
 
 ![Image](<img/NeuesElement130.png>)
 
-&nbsp;
 
 Für **Bestandskonten** wird die Offene Postenverwaltung im Modul FIBU unter *Stammdaten / Konten* direkt am jeweiligen Konto im Register *Sachkonto* aktiviert.
 
@@ -18,7 +16,6 @@ Abb. 2 Kontostamm - OP Verwaltung
 
 ![Image](<img/NeuesElement128.png>)
 
-&nbsp;
 
 **Hinweis**
 
@@ -27,5 +24,5 @@ Die Eröffnungsbilanz kann auch unabhängig von der Offenen Postenverwaltung fü
 
 ### OP Verwaltung deaktivieren
 
-Die OP Verwaltung kann auch wieder deaktiviert werden (unter *Stamm / FIBU / Allgemein*).&nbsp;
+Die OP Verwaltung kann auch wieder deaktiviert werden (unter *Stamm / FIBU / Allgemein*).
 

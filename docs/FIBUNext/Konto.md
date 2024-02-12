@@ -2,7 +2,6 @@
 
 ## Auswertung Konto
 
-&nbsp;
 
 Durch die Anwahl des Menüpunktes *Auswertung / Konto* können Sie die auf diesem Konto erfassten Bewegungen aufrufen.
 

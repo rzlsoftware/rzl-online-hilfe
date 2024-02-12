@@ -2,15 +2,13 @@
 
 ## Übergang der Steuerschuld gem. §19 UStG
 
-&nbsp;
 
 Für Sachverhalte gem. §19 UStG sind folgende Steuercodes möglich:
 
-&nbsp;
 
 | **Geschäftsfall** | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |  |  | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | **Code** | **&nbsp;Prozent-satz** | **Steuertyp** |  |  |
+|  |  | **Code** | **Prozent-satz** | **Steuertyp** |  |  |
 | Umsatz mit Übergang der Steuerschuld §19 | &#48;00, 021 | Umsatzsteuer | Steuerfrei | Umsätze aus Bauleistungen, Schrott, Abfälle | B01 | B01 |
 | Übergang der Steuerschuld §19 Abs. 1 zweiter Satz, §19 Abs. 1c, 1e, Artikel 25 Abs. 5 | &#48;57, 066 | Reverse Charge, Vorsteuer | &#50;0/19/13/10 | Reverse Charge Ausland | Ü20/19/13/10 | Ü20/19/13/10 |
 | Übergang der Steuerschuld §19 Abs. 1d | &#48;32, 089 | Reverse Charge, Vorsteuer | &#50;0/19/13/10 | USt Schrott und Abfallstoffe | S20/19/13/10 | S20/19/13/10 |
@@ -18,11 +16,9 @@ Für Sachverhalte gem. §19 UStG sind folgende Steuercodes möglich:
 | Übergang der Steuerschuld §19 Abs. 1b | &#48;44, 087 | Reverse Charge, Vorsteuer | &#50;0/19/13/10 | Reverse Charge Ausland §19 Abs.1b | ÜB20/19/13/10 | ÜB20/19/13/10 |
 
 
-&nbsp;
 
 Die Umsatzsteuer wird automatisch vom Nettobetrag berechnet und gleichzeitig als Vor­steuer wieder abgezogen. Besteht keine Berechtigung zum Vorsteuerabzug, so muss beim Buchen nach dem jeweiligen Steuersatz ein Stern **(\*)** im Feld *Code* angefügt werden.
 
-&nbsp;
 
 **Hinweis**
 

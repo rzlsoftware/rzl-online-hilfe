@@ -2,7 +2,6 @@
 
 ## Kontostammdaten
 
-&nbsp;
 
 Mit einem Klick auf die Schaltfläche *Konten* ***(1)*** öffnen sich die Kontostammdaten des Klienten.
 
@@ -10,7 +9,7 @@ Abb. 1 Auswahl Kontenstammdaten
 
 ![Image](<img/NeuesElement109.png>)
 
-Anschließend können Sie über das Eingabefeld *Kontonummer **(1)*** eines der angelegten Konten auswählen und es öffnen sich die zugehörigen Kontenstammdaten.&nbsp;
+Anschließend können Sie über das Eingabefeld *Kontonummer **(1)*** eines der angelegten Konten auswählen und es öffnen sich die zugehörigen Kontenstammdaten.
 
 Abb. 2 Kontostammdaten
 
@@ -30,23 +29,21 @@ Abb. 4 Kontensperre aufheben
 
 ![Image](<img/NeuesElement106.png>)
 
-&nbsp;
 
 ### Personenkonto anlegen
 
-Wählen Sie die Schaltfläche *Neues Konto* ***(1)*** an und vergeben Sie eine Nummer die im Nummernbereich der Personenkonten liegt (siehe Kapitel [Kontenplan anlegen](FIBUNext/Kontenplane.md#Kontenplan\_anlegen)), erkennt die FIBU Next automatisch, dass es sich hierbei um ein Personenkonto handelt. Anschließend können Sie die FIBU Person zu diesem Personenkonto anlegen.&nbsp;
+Wählen Sie die Schaltfläche *Neues Konto* ***(1)*** an und vergeben Sie eine Nummer die im Nummernbereich der Personenkonten liegt (siehe Kapitel [Kontenplan anlegen](FIBUNext/Kontenplane.md#Kontenplan\_anlegen)), erkennt die FIBU Next automatisch, dass es sich hierbei um ein Personenkonto handelt. Anschließend können Sie die FIBU Person zu diesem Personenkonto anlegen.
 
 Abb. 5 Neuanlage Personenkonto
 
 ![Image](<img/NeuesElement105.png>)
 
-Klicken Sie auf die Schaltfläche *zur FIBU Firmenansicht,* wechselt das Programm zur angelegten FIBU Person. Dort können Sie die allgemeinen Stammdaten dieser Person sowie Telefonnummern, E-Mail-Adressen, Adressen und Bankverbindungen erfassen. Die Erläuterungen zu diesen Feldern finden Sie im Handbuch Board.&nbsp;
+Klicken Sie auf die Schaltfläche *zur FIBU Firmenansicht,* wechselt das Programm zur angelegten FIBU Person. Dort können Sie die allgemeinen Stammdaten dieser Person sowie Telefonnummern, E-Mail-Adressen, Adressen und Bankverbindungen erfassen. Die Erläuterungen zu diesen Feldern finden Sie im Handbuch Board.
 
 **Tipp**
 
 Tragen Sie direkt im Feld *Person/Firma* die UID Nummer ein, um ein neues Personenkonto automatisch mit den Daten aus FinanzOnline anzulegen.
 
-&nbsp;
 
 Mithilfe der Funktion *Alle UID-Nummern mit FinanzOnline prüfen* werden alle bei dieser FIBU Person angelegten UID-Nummern auf Ihre Gültigkeit überprüft. Im Feld *UID-Nummer* kann diese ebenso mit rechter Maustaste *UID prüfen* oder der F3-Taste auf Ihre Gültigkeit überprüft werden.
 
@@ -54,11 +51,9 @@ Abb. 6 Überprüfung UID-Nummer
 
 ![Image](<img/NeuesElement104.png>)
 
-&nbsp;
 
 ### Aktualisierungsoptionen Personenkonten
 
-&nbsp;
 
 Beim Finalisieren eines Stapels mit Belegverbuchung oder aus einer Kontoauszugsverbuchung werden folgende Daten aus der Überweisung bzw. Buchung automatisch auf den entsprechenden Personenkonten hinterlegt, um künftig Buchungsvorschläge anhand dieser Daten erstellen zu können.
 

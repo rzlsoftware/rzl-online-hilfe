@@ -2,7 +2,6 @@
 
 ## Buchen mit Vorsteuer
 
-&nbsp;
 
 | **Geschäftsfall** | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |  |  | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10,10 +9,9 @@
 | Einkauf mit 10% Vorsteuer | &#48;60 | Vorsteuer | &#49;0 | \- | &#49;0 | V10 |
 | Einkauf mit 20% Vorsteuer | &#48;60 | Vorsteuer | &#50;0 | \- | &#50;0 | V20 |
 | Einkauf mit 13% Vorsteuer | &#48;60 | Vorsteuer | &#49;3 | \- | &#49;3 | V13 |
-| Einkauf&nbsp; mit 19 % für Jungholz und Mittelberg | &#48;60 | Vorsteuer | &#49;9 | \- | &#49;9 | V19 |
+| Einkauf mit 19 % für Jungholz und Mittelberg | &#48;60 | Vorsteuer | &#49;9 | \- | &#49;9 | V19 |
 
 
-&nbsp;
 
 Auf Konten mit Vorsteuerverankerung *(USt-Code: Vorsteuer)* kann mit unterschiedlichen Steuersätzen gebucht werden. \
 Sofern auch ein Prozentsatz in den Stammdaten verankert wurde, wird dieser beim Buchen des Kontos vorgeschlagen, kann jedoch jederzeit überschrieben werden.
@@ -32,7 +30,6 @@ Sie können auch direkt am Vorsteuer-Sammelkonto buchen. Dazu müssen Sie im Fel
 
 Buchungen ohne Steuercode werden nicht in die Umsatzsteuervoranmeldung aufgenommen\!
 
-&nbsp;
 
 **Hinweis**
 
