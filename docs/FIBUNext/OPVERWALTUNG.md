@@ -2,13 +2,13 @@
 
 Die Verwaltung offener Posten ist sowohl auf Personenkonten, als auch auf Bestandskonten möglich. Dabei kann entschieden werden, ob Debitoren, Kreditoren, oder Sachkonten oder alle gemeinsam verwaltet werden sollen.
 
-**Tipp**
+!!! info "Tipp"
 
-Die OP Verwaltung sollte immer zu Beginn der Klientenanlage angewählt werden, da bei einer späteren Anwahl die offenen Posten nachträglich eingegeben werden müssen (siehe Kapitel [OP Bearbeiten](<OPBearbeiten.md>)).
+    Die OP Verwaltung sollte immer zu Beginn der Klientenanlage angewählt werden, da bei einer späteren Anwahl die offenen Posten nachträglich eingegeben werden müssen (siehe Kapitel [OP Bearbeiten](<OPBearbeiten.md>)).
 
-**Hinweis**
+!!! tip "Hinweis"
 
-In der FIBU Next werden die Offenen Posten **jahresübergreifend verknüpft.** Das bedeutet, dass sich eine Änderung der Offenen Posten z.B. durch Löschen, Ändern, Neuanlage oder Zahlungsausgleich auch direkt auf die Offenen Posten im Folgejahr auswirkt.
+    In der FIBU Next werden die Offenen Posten **jahresübergreifend verknüpft.** Das bedeutet, dass sich eine Änderung der Offenen Posten z.B. durch Löschen, Ändern, Neuanlage oder Zahlungsausgleich auch direkt auf die Offenen Posten im Folgejahr auswirkt.
 
 ### Einrichtung der OP-Verwaltung
 
@@ -24,10 +24,10 @@ Abb. 2 Kontostamm - OP Verwaltung
 
 ![Image](<img/NeuesElement131.png>)
 
-**Hinweis**
+!!! tip "Hinweis"
 
-Wird bei einem Sachkonto die offene Postenverwaltung aktiviert, wird automatisch im Zuge der Jahresübernahme auch die entsprechende EB-Buchung durchgeführt. \
-Die Eröffnungsbilanz kann auch unabhängig von der Offenen Postenverwaltung für jedes Bestandskonto bei der Jahresübernahme automatisch gebucht werden.
+    Wird bei einem Sachkonto die offene Postenverwaltung aktiviert, wird automatisch im Zuge der Jahresübernahme auch die entsprechende EB-Buchung durchgeführt. \
+    Die Eröffnungsbilanz kann auch unabhängig von der Offenen Postenverwaltung für jedes Bestandskonto bei der Jahresübernahme automatisch gebucht werden.
 
 ### OP Verwaltung deaktivieren
 

@@ -38,10 +38,10 @@ Abb. 3 Kontoauszüge auswählen
 Auch ein Löschen von Auszügen ist in dieser Ansicht möglich.
 
 
-**HINWEIS**
+!!! tip "Hinweis"
 
-Sobald ein Kontoauszug hereingespielt wurde, wird dieser aus dem hinterlegten Ordnerpfad automatisch in einen Unterordner (Hereingespielt) verschoben, damit dieser nicht doppelt hereingespielt und somit verbucht werden kann.\
-Werden Kontoauszüge aus dieser Ansicht gelöscht, so gelangen sie automatisch wieder in den hinterlegten Ordnerpfad und können somit erneut hereingespielt werden.
+    Sobald ein Kontoauszug hereingespielt wurde, wird dieser aus dem hinterlegten Ordnerpfad automatisch in einen Unterordner (Hereingespielt) verschoben, damit dieser nicht doppelt hereingespielt und somit verbucht werden kann.\
+    Werden Kontoauszüge aus dieser Ansicht gelöscht, so gelangen sie automatisch wieder in den hinterlegten Ordnerpfad und können somit erneut hereingespielt werden.
 
 
 ### Kontoauszüge verbuchen
@@ -70,9 +70,9 @@ Sämtliche Daten aus dem Kontoauszug, wie IBAN, Partner, Verwendungszweck und En
 Sollte eine Buchung noch nicht vollständig verbucht sein, so wird diese mit einem roten Rufzeichen am Beginn der Buchungszeile markiert ***(6)***.
 
 
-**HINWEIS**
+!!! tip "Hinweis"
 
-Auch ein Buchungsstapel mit Kontoauszügen kann verworfen werden. In diesem Fall gelangen die Kontoauszüge zurück in die Liste der hereingespielten Auszüge und können dort erneut ausgewählt und anschließend verbucht werden.
+    Auch ein Buchungsstapel mit Kontoauszügen kann verworfen werden. In diesem Fall gelangen die Kontoauszüge zurück in die Liste der hereingespielten Auszüge und können dort erneut ausgewählt und anschließend verbucht werden.
 
 
 Bei Vorliegen bestimmter Daten kann die FIBU Next einen automatischen Buchungsvorschlag erstellen, der jedoch jederzeit, solange der Stapel noch nicht finalisiert wurde, abänderbar ist.\
