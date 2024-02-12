@@ -7,7 +7,7 @@ Durch die Anwahl des Menüpunktes *Auswertung / Konto* können Sie die auf diese
 
 Abb. 1 Auswertung Konto
 
-![Image](<../assets/NeuesElement163.png>)
+![Image](<img/NeuesElement163.png>)
 
 Geben Sie die gewünschte *Kontonummer **(1)*** ein und bestätigen Sie diese mit der *ENTER-Taste.* Anschließend sind alle Bewegungen für das gewählte *Wirtschaftsjahr **(2)*** und der Saldo des Kontos ersichtlich.\
 Stehen Sie mit dem Mauszeiger auf einer Zeile, so sehen Sie per Tooltip ***(3)*** den Kontosaldo bis zur entsprechenden Bewegung.
@@ -18,7 +18,7 @@ Zusätzlich können Sie mit dem Häkchen *mit BIL* wählen, ob auch die Umbuchun
 
 Abb. 2 Auswertung Konto - Menüpunkte
 
-![Image](<../assets/NeuesElement162.png>)
+![Image](<img/NeuesElement162.png>)
 
 **Tipp**
 

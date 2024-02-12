@@ -7,7 +7,7 @@
 
 Abb. 1 Auswertung OP
 
-![Image](<../assets/NeuesElement165.png>)
+![Image](<img/NeuesElement165.png>)
 
 Geben Sie die gewünschte *Kontonummer **(1)*** ein und bestätigen Sie diese mit der *ENTER-Taste.* Anschließend sind alle Offene Posten des Personenkontos im gewählten *Wirtschaftsjahr **(2)*** ersichtlich.
 
@@ -17,7 +17,7 @@ Im unteren Bereich wird Ihnen die Summe der Offenen Posten, der Kontosaldo und d
 
 Abb. 2 Auswertung OP - Menüpunkte
 
-![Image](<../assets/NeuesElement164.png>)
+![Image](<img/NeuesElement164.png>)
 
 Sie können hier außerdem die Belegliste oder bereits zugeordnete Belege aufrufen und die Belegzuordnung verändern.
 

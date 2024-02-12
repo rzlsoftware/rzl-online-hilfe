@@ -1,8 +1,5 @@
 # AUSWERTUNGEN
 
-## 
-
-
 Mit Anwahl des Menüpunktes *Auswertungen* besteht die Möglichkeit die jeweiligen Daten direkt am Bildschirm aufzurufen und zu überprüfen, ohne dafür einen Ausdruck erstellen zu müssen.
 
 **Tipp**

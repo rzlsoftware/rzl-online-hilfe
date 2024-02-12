@@ -7,7 +7,7 @@
 
 Abb. 1 Auswertung Saldenliste
 
-![Image](<../assets/NeuesElement166.png>)
+![Image](<img/NeuesElement166.png>)
 
 Hier scheinen die Daten aller Konten im gewählten *Zeitraum **(1)*** auf, wobei die *Monate **(2)*** in Registerblättern angeordnet sind. Beim Öffnen der Auswertung wird standardmäßig das zuletzt bebuchte Monat geöffnet. Sie können durch Anwahl eines Registers die Daten des gewünschten Monats aufrufen.
 

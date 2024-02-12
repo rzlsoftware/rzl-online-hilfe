@@ -11,5 +11,5 @@ Als weitere Option können Sie sich die Journal- und Buchungszeilen *gruppiert *
 
 Abb. 1 Auswertung Anzahl Zeilen
 
-![Image](<../assets/NeuesElement171.png>)
+![Image](<img/NeuesElement171.png>)
 

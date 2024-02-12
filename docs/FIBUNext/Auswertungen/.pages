@@ -1,0 +1,17 @@
+nav:
+    - index.md
+    - Konto.md
+    - OP.md
+    - Saldenliste.md
+    - Journal.md
+    - Arbeitsprotokoll.md
+    - OP-Liste.md
+    - KERJahresubersicht.md
+    - USt-Aufstellung.md
+    - USt-Verprobung.md
+    - ZusammenfassendeMeldung.md
+    - KERMonatsubersicht.md
+    - AnzahlZeilen.md
+    - Buchung.md
+    - USt-PositionenDifferenzen.md
+    - ...
