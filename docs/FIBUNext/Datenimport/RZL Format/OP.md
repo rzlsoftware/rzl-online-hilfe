@@ -7,7 +7,7 @@ Möchten Sie offene Posten importieren, so ist der Menüpunkt *Datenimport / RZL
 
 Abb. 1 Datenimport OP
 
-![Image](<../assets/NeuesElement177.png>)
+![Image](<img/NeuesElement177.png>)
 
 
 Hinterlegen Sie im Menü *OP* den Dateipfad und -namen der Importdatei. Anschließend kann eine Vorprüfung durchgeführt werden oder direkt mit Überprüfung importiert werden.

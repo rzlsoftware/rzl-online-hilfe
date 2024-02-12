@@ -7,7 +7,7 @@ Unter dem Menüpunkt *Datenimport/-export / Datenexport / BP gemäß* *BAO* kön
 
 Abb. 1 Datenexport
 
-![Image](<../assets/NeuesElement178.png>)
+![Image](<img/NeuesElement178.png>)
 
 
 Die Ausgabe kann auf einen bestimmten Zeitraum eingeschränkt und falls gewünscht kann das Journal mit *Erfassungsdatum* und *Benutzerinformationen* ausgegeben werden.

@@ -5,7 +5,7 @@
 
 Unter *Datenimport / RZL Format / Buchungen…* können Sie Buchungen importieren.
 
-Über die Schaltfläche ![Image](<../assets/NeuesElement176.png>) können Sie die zu importierende Datei aus dem Explorer auswählen. Weiters ist die Option *Importdatei enthält Spaltenüberschriften* zu setzen, falls dies zutrifft.
+Über die Schaltfläche ![Image](<img/NeuesElement176.png>) können Sie die zu importierende Datei aus dem Explorer auswählen. Weiters ist die Option *Importdatei enthält Spaltenüberschriften* zu setzen, falls dies zutrifft.
 
 Die importierten Buchungen werden nach der Übernahme in einem nicht finalisierten Stapel verwaltet. Falls in der Datei EB-Buchungen enthalten sind, wird für diese ein eigener EB Stapel angelegt. Existiert bereits ein nicht finalisierter EB-Stapel und sind in der Datei EB-Buchungen vorhanden, kann die gesamte Datei nicht importiert werden.
 

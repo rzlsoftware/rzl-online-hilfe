@@ -1,7 +1,5 @@
 # DATENIMPORT
 
-## 
-
 
 Im Menüpunkt *Datenimport/-export / Datenimport / RZL-Format* können Sie über eine fixe RZL Schnittstelle Sach- und Personenkonten, Salden/Konten, Buchungen, OPs und Journalzeilen aus Fremdprogrammen übernehmen.
 
