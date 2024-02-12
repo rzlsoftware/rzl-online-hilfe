@@ -3,5 +3,17 @@
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/mkdocs:2": {}
 	},
-	"postCreateCommand": "pip3 install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-minify-plugin"
+	"postCreateCommand": "pip3 install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-minify-plugin",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"yzhang.markdown-all-in-one"
+			],
+			"settings": {
+				"[markdown]": {
+					"editor.formatOnSave": true
+				}
+			}
+		}
+	}
 }
