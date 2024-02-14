@@ -18,9 +18,9 @@ Abb. 1 EB-Stapel aktualisieren
 ![Image](<img/NeuesElement44.png>)
 
 
-**HINWEIS**
+!!! tip "Hinweis"
 
-Sobald einmal die Option *EB-Stapel für alle Konten aktualisieren* gewählt wurde, kann die Option *EB-Stapel aktualisieren* nicht mehr ausgewählt werden, da es ansonsten zu Differenzen kommen könnte. Sie können nun den EB-Stapel nur mehr für alle Konten aktualisieren. Zusätzlich ist anschließend auch das händische Buchen von EB-Werten nicht mehr möglich.
+    Sobald einmal die Option *EB-Stapel für alle Konten aktualisieren* gewählt wurde, kann die Option *EB-Stapel aktualisieren* nicht mehr ausgewählt werden, da es ansonsten zu Differenzen kommen könnte. Sie können nun den EB-Stapel nur mehr für alle Konten aktualisieren. Zusätzlich ist anschließend auch das händische Buchen von EB-Werten nicht mehr möglich.
 
 
 ### Händische EB Buchung
@@ -39,9 +39,9 @@ Der *Belegkreis EB* ist in diesem Buchungsstapel voreingestellt und kann nicht v
 Ein Eröffnungsbilanz-Stapel kann nicht verworfen werden, jedoch können die Buchungen im Stapel noch geändert oder gelöscht werden.
 
 
-**Hinweis**
+!!! tip "Hinweis"
 
-Beachten Sie, dass händische EB-Buchungen auf Konten mit der Option „*Eröffnungsbilanz buchen*“ nicht zulässig sind.
+    Beachten Sie, dass händische EB-Buchungen auf Konten mit der Option „*Eröffnungsbilanz buchen*“ nicht zulässig sind.
 
 
 Abb. 3 Belegkreis EB
@@ -54,7 +54,7 @@ Die EB Buchungen können sowohl mit der Buchungsart *Sammelbuchung* als auch mit
 Die Eingabe der Eröffnungsbilanzbuchungen erfolgt grundsätzlich so wie jede andere Buchung. Nach Eingabe des Datums – die Belegnummer kann mit der ENTER-Taste übergangen werden – ist das Soll- und das Haben-Konto (wenn die Buchungsart Gegenbuchung gewählt wurde) einzugeben. Das Steuerfeld wird mit der ENTER-Taste übersprungen. Abschließend werden noch der Betrag und der Text eingegeben. So wie alle Buchungen wird auch diese mit der ENTER-Taste abgeschlossen.
 
 
-**Tipp**
+!!! info "Tipp"
 
-Gleichbleibende Felder können Sie mit der F9-Taste (bzw. mit der rechten Maustaste) sperren. Mit der F8-Taste (bzw. mit der rechten Maustaste) im nächsten Feld kann die Sperre des vorhergehenden Feldes wieder aufgehoben werden.
+    Gleichbleibende Felder können Sie mit der F9-Taste (bzw. mit der rechten Maustaste) sperren. Mit der F8-Taste (bzw. mit der rechten Maustaste) im nächsten Feld kann die Sperre des vorhergehenden Feldes wieder aufgehoben werden.
 

@@ -28,7 +28,7 @@ Abb. 1 Eröffnungsbilanz autom. aktualisieren
 ![Image](<img/NeuesElement41.png>)
 
 
-**Tipp**
+!!! info "Tipp"
 
-Neue Wirtschaftsjahre sollten Sie mit Jahresübernahme anlegen (nicht durch Neuanlage), damit die EB-Buchungen automatisch aktualisiert werden können\!
+    Neue Wirtschaftsjahre sollten Sie mit Jahresübernahme anlegen (nicht durch Neuanlage), damit die EB-Buchungen automatisch aktualisiert werden können\!
 
