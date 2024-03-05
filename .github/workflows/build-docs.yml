@@ -4,7 +4,12 @@ name: Build Docs
 on:
   push:
     branches:
-      - "main"
+      - main
+    paths:
+      - .github/workflows/build-docs.yml
+      - docs/**
+      - overrides/**
+      - mkdocs.yml
     
   pull_request:
     types: [opened, synchronize, reopened, closed]
