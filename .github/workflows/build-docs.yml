@@ -15,6 +15,11 @@ on:
     types: [opened, synchronize, reopened, closed]
     branches:
       - main
+    paths:
+      - .github/workflows/build-docs.yml
+      - docs/**
+      - overrides/**
+      - mkdocs.yml
       
 jobs:
   build:
