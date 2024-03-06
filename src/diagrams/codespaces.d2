@@ -1,0 +1,40 @@
+direction: down
+
+GitHub : {
+    label: Starten aus GitHub
+    style: {
+        stroke: blue
+        stroke-dash: 3
+        fill: transparent
+    }
+
+    exists : {
+        label: "Existiert bereits ein Codespace?"
+        shape: image
+        icon: ./src/diagrams/img/does-codespace-exist.png
+    }
+
+    create : {
+        label: "Codespace erstellen"
+    }
+
+    exists -> create: "Nein"
+
+    open : {
+        label: "Codespace im VS Code öffnen"
+        shape: image
+        icon: ./src/diagrams/img/open-existing-codespace.png
+    }
+
+    exists -> open: "Ja"
+}
+
+VSCode : {
+    label: "Starten aus VS Code"
+    style: {
+        stroke: blue
+        stroke-dash: 3
+        fill: transparent
+    }
+    near: bottom-center
+}
