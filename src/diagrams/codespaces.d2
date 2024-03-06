@@ -49,6 +49,10 @@ VSCode : {
         shape: image
         icon: ./src/diagrams/img/connect-to-codespace.png
     }
+    
+    select-codespace : {
+        label: "Auswahl des richtigen vorab erstellen Codespace aus dem richtigen Repository"
+    }
 
     connect-to -> connect-to-codespace -> select-codespace
     
@@ -72,7 +76,9 @@ VSCode : {
     
     search -> show-and-run-command -> enter-connect-to-codespace -> select-codespace
     
-    select-codespace : {
-        label: "Auswahl des richtigen vorab erstellen Codespace aus dem richtigen Repository"
+    strg-shift-p : {
+        label: "Strg + Shift + P"
     }
+
+    strg-shift-p -> enter-connect-to-codespace
 }
