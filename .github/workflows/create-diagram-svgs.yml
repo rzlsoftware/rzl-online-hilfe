@@ -1,0 +1,32 @@
+name: "Create diagram SVGs"
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/create-diagram-svgs.yml
+      - src/diagrams/*.d2
+
+jobs:
+  create-diagram-svgs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install d2
+        run: curl -fsSL https://d2lang.com/install.sh | sh -s --
+
+      - name: Generate SVGs
+        run: |
+          find "$GITHUB_WORKSPACE/diagrams" -name "*.svg" -delete
+          for d2_file in $(find "$GITHUB_WORKSPACE/src/diagrams" -name "*.d2"); do
+            filename=$(basename -- "$d2_file")
+            output_file="$GITHUB_WORKSPACE/diagrams/${filename%.d2}.svg"
+            d2 --theme=3 -l elk "$d2_file" "$output_file"
+          done
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Create diagram SVGs

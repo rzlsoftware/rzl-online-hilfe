@@ -1,7 +1,5 @@
 # FIBU KLIENTEN
 
-
-
 Über den Aufruf *FIBU Next / FIBU Klienten* finden Sie eine Auflistung aller Klienten, welche in der FIBU Next gebucht werden.
 
 
@@ -16,7 +14,4 @@ In der Spalte *Wirtschaftsjahre* sehen Sie stets das neueste Wirtschaftsjahr. Si
 Abb. 2 FIBU Klienten II
 
 ![Image](<img/NeuesElement11.png>)
-
-
-## 
 
