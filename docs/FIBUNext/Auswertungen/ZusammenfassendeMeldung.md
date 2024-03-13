@@ -8,6 +8,6 @@ Unter *Auswertungen / Zusammenfassende Meldung* erhalten Sie eine Auflistung all
 Sie gelangen aus diesem Dialog auch direkt zur elektronischen ZM Übermittlung. (siehe Kapitel [Elektronische Übermittlung der ZM](FIBUNext/ElektronischeUbermittlungderZM.md))
 
 
-!!! tip "Hinweis"
+!!! warning "Hinweis"
 
     Zur besseren Nachvollziehbarkeit werden alle Buchungen – auch Stornobuchungen durch die bei einer UID-Nr. oder einem Steuertyp der Saldo 0,00 entsteht – in der Auswertung angezeigt. Buchungen, die zu einem Nullsaldo führen, werden jedoch nicht mitübermittelt.

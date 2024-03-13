@@ -28,14 +28,14 @@ Abb. 2 Sammelbuchung
 ![Image](<img/NeuesElement35.png>)
 
 
-**TIPP**
+!!! info "Tipp"
 
-Der Anfangssaldo kann durch Anwahl des Stift-Symbols überschrieben werden, wobei dadurch der tatsächliche Saldo am Konto nicht beeinflusst wird.
+    Der Anfangssaldo kann durch Anwahl des Stift-Symbols überschrieben werden, wobei dadurch der tatsächliche Saldo am Konto nicht beeinflusst wird.
 
 
-**HINWEIS**
+!!! warning "Hinweis"
 
-Bei der Buchungsart *mit Sammelbuchung* ist folgendes zu beachten: Wird der eingegebene Betrag mit der ENTER-Taste bestätigt, so erfolgt eine Sollbuchung am einge­gebenen Konto. Wird der Betrag mit der +/HABEN-Taste bestätigt, so erfolgt eine Haben­buchung (es erscheint ein rotes H neben dem Betragsfeld). Bei Kassa- und Bankbu­chun­gen heißt dies, dass Ausgaben mit der ENTER-Taste und Einnahmen mit der +/HABEN-Taste zu buchen sind.
+    Bei der Buchungsart *mit Sammelbuchung* ist folgendes zu beachten: Wird der eingegebene Betrag mit der ENTER-Taste bestätigt, so erfolgt eine Sollbuchung am einge­gebenen Konto. Wird der Betrag mit der +/HABEN-Taste bestätigt, so erfolgt eine Haben­buchung (es erscheint ein rotes H neben dem Betragsfeld). Bei Kassa- und Bankbu­chun­gen heißt dies, dass Ausgaben mit der ENTER-Taste und Einnahmen mit der +/HABEN-Taste zu buchen sind.
 
 
 **Belegliste**

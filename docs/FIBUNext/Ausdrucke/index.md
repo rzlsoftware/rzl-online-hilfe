@@ -1,7 +1,5 @@
 # AUSDRUCKE
 
-## 
-
 
 Für alle in diesem Kapitel beschriebenen Ausdrucke gilt, dass sie mit und ohne Tagesdatum ausgedruckt werden können, je nachdem ob Sie im Ausdruck-Dialog das Auswahlfeld *Tagesdatum auf den Ausdrucken* aktivieren oder nicht.
 

@@ -18,7 +18,7 @@ Abb. 1 EB-Stapel aktualisieren
 ![Image](<img/NeuesElement44.png>)
 
 
-!!! tip "Hinweis"
+!!! warning "Hinweis"
 
     Sobald einmal die Option *EB-Stapel für alle Konten aktualisieren* gewählt wurde, kann die Option *EB-Stapel aktualisieren* nicht mehr ausgewählt werden, da es ansonsten zu Differenzen kommen könnte. Sie können nun den EB-Stapel nur mehr für alle Konten aktualisieren. Zusätzlich ist anschließend auch das händische Buchen von EB-Werten nicht mehr möglich.
 
@@ -39,7 +39,7 @@ Der *Belegkreis EB* ist in diesem Buchungsstapel voreingestellt und kann nicht v
 Ein Eröffnungsbilanz-Stapel kann nicht verworfen werden, jedoch können die Buchungen im Stapel noch geändert oder gelöscht werden.
 
 
-!!! tip "Hinweis"
+!!! warning "Hinweis"
 
     Beachten Sie, dass händische EB-Buchungen auf Konten mit der Option „*Eröffnungsbilanz buchen*“ nicht zulässig sind.
 

@@ -38,7 +38,7 @@ Abb. 3 Kontoauszüge auswählen
 Auch ein Löschen von Auszügen ist in dieser Ansicht möglich.
 
 
-!!! tip "Hinweis"
+!!! warning "Hinweis"
 
     Sobald ein Kontoauszug hereingespielt wurde, wird dieser aus dem hinterlegten Ordnerpfad automatisch in einen Unterordner (Hereingespielt) verschoben, damit dieser nicht doppelt hereingespielt und somit verbucht werden kann.\
     Werden Kontoauszüge aus dieser Ansicht gelöscht, so gelangen sie automatisch wieder in den hinterlegten Ordnerpfad und können somit erneut hereingespielt werden.
@@ -70,7 +70,7 @@ Sämtliche Daten aus dem Kontoauszug, wie IBAN, Partner, Verwendungszweck und En
 Sollte eine Buchung noch nicht vollständig verbucht sein, so wird diese mit einem roten Rufzeichen am Beginn der Buchungszeile markiert ***(6)***.
 
 
-!!! tip "Hinweis"
+!!! warning "Hinweis"
 
     Auch ein Buchungsstapel mit Kontoauszügen kann verworfen werden. In diesem Fall gelangen die Kontoauszüge zurück in die Liste der hereingespielten Auszüge und können dort erneut ausgewählt und anschließend verbucht werden.
 
@@ -79,11 +79,11 @@ Bei Vorliegen bestimmter Daten kann die FIBU Next einen automatischen Buchungsvo
 In der Spalte Vorschlag ist ersichtlich, aufgrund welcher Logik der Buchungsvorschlag erstellt wurde:
 
 
-| **Kennzeichen** | **Kurzbeschreibung** |
-| --- | --- |
-| I | Vorschlag auf Grund des IBAN |
-| V | Vorschlag auf Grund der Verbuchungsregel Die Zahl neben dem V definiert, welche Verbuchungsregel angewandt wird. |
-| Z | Vorschlag auf Grund der Zahlungsreferenz |
+| **Kennzeichen** | **Kurzbeschreibung**                                                                                             |
+| --------------- | ---------------------------------------------------------------------------------------------------------------- |
+| I               | Vorschlag auf Grund des IBAN                                                                                     |
+| V               | Vorschlag auf Grund der Verbuchungsregel Die Zahl neben dem V definiert, welche Verbuchungsregel angewandt wird. |
+| Z               | Vorschlag auf Grund der Zahlungsreferenz                                                                         |
 
 
 
