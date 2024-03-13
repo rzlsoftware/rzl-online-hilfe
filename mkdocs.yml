@@ -30,6 +30,7 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/pdf.css
           
 plugins:
   - search
@@ -37,7 +38,10 @@ plugins:
 
 markdown_extensions:
   - admonition
+  - attr_list
   - pymdownx.details
   - pymdownx.superfences
+  - toc:
+      permalink: true
 
 repo_url: https://github.com/rzlsoftware/test-rzl-hilfe

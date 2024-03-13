@@ -7,8 +7,7 @@
             "name": "MkDocs Serve",
             "runtimeExecutable": "mkdocs",
             "args": "serve",
-            "console": "integratedTerminal",
-            "internalConsoleOptions": "openOnSessionStart"
-        }
+            "console": "integratedTerminal"
+        },
     ]
 }
