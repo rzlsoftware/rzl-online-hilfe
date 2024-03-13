@@ -35,7 +35,6 @@ extra_css:
 plugins:
   - search
   - awesome-pages
-  - pdf-export
 
 markdown_extensions:
   - admonition
