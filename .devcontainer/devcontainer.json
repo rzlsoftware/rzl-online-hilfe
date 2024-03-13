@@ -3,7 +3,7 @@
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/mkdocs:2": {}
 	},
-	"postCreateCommand": "postCreateCommand.sh",
+	"postCreateCommand": "pip3 install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-minify-plugin",
 	"customizations": {
 		"vscode": {
 			"extensions": [
