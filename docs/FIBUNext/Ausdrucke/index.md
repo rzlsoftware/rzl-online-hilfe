@@ -1,4 +1,4 @@
-# AUSDRUCKE
+# Ausdrucke
 
 
 Für alle in diesem Kapitel beschriebenen Ausdrucke gilt, dass sie mit und ohne Tagesdatum ausgedruckt werden können, je nachdem ob Sie im Ausdruck-Dialog das Auswahlfeld *Tagesdatum auf den Ausdrucken* aktivieren oder nicht.
@@ -6,6 +6,6 @@ Für alle in diesem Kapitel beschriebenen Ausdrucke gilt, dass sie mit und ohne 
 Alle Ausdrucke werden zuerst in der Vorschau mit weiteren Optionen geöffnet. Anschließend können Sie diese an den Drucker weiterleiten.
 
 
-**Tipp**
+!!! info "Tipp"
 
-Weitere Informationen zum RZL PDF Drucker finden Sie im Handbuch *Allgemeine Beschreibungen zu den RZL Programmen.*
+    Weitere Informationen zum RZL PDF Drucker finden Sie im Handbuch *Allgemeine Beschreibungen zu den RZL Programmen.*
