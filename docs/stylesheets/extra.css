@@ -50,3 +50,7 @@
 .md-typeset .info > summary::before {
     background-color: rgb(69, 121, 121);
 }
+
+figcaption {
+  font-size: .6rem;
+}

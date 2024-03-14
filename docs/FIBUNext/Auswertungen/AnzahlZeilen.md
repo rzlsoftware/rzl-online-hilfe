@@ -9,7 +9,11 @@ Sie können zwischen der *Anzahl der Journalzeilen* und *Buchungen* ***(1)*** w�
 
 Als weitere Option können Sie sich die Journal- und Buchungszeilen gruppiert ***(3)*** nach dem Buchungstyp oder dem Belegkreis anzeigen lassen
 
-Abb. 1 Auswertung Anzahl Zeilen
 
-![Image](<img/NeuesElement171.png>)
+<figure markdown="span">
+  <figcaption>Abb. 1 Auswertung Anzahl Zeilen</figcaption>
+  ![Image](<img/NeuesElement171.png>)
+</figure>
+
+
 
