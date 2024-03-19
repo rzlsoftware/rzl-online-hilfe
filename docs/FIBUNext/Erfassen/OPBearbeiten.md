@@ -2,7 +2,7 @@
 
 ### OP Bearbeiten
 
-Dieser Programmteil ermöglicht Ihnen die händische Bearbeitung von Offenen Posten. Dies kann nützlich sein, wenn Sie bspw. während des Jahres mit der Offenen Postenverwaltung (siehe Kapitel [Offene Postenverwaltung](<FIBUNextHandbuch1.md#\_Ref74745126>)) beginnen.
+Dieser Programmteil ermöglicht Ihnen die händische Bearbeitung von Offenen Posten. Dies kann nützlich sein, wenn Sie bspw. während des Jahres mit der Offenen Postenverwaltung (siehe Kapitel [Offene Postenverwaltung](/FIBUNext/OPVERWALTUNG)) beginnen.
 
 Alle in diesem Menüpunkt durchgeführten Änderungen betreffen nur die Offenen Posten bzw OP Liste – es erfolgt keine Buchung!
 
@@ -12,26 +12,24 @@ Alle in diesem Menüpunkt durchgeführten Änderungen betreffen nur die Offenen 
 
 Nach Anwahl der Schaltfläche *OP bearbeiten* öffnet sich ein neues Register *Konto - OP bearbeiten.*
 
-Abb. 1 OP bearbeiten
 
-![Image](<img/NeuesElement56.png>)
+![OPBearbeiten](<img/image.png>)
 
-Geben Sie im Feld *Kontonummer **(1)*** die gewünschte Kontonummer ein, anschließend werden die Offenen Posten aufgelistet.
+Geben Sie im Feld *Kontonummer* ***(1)*** die gewünschte Kontonummer ein, anschließend werden die Offenen Posten aufgelistet.
 
-Im unteren Bereich wird die *Summe aller offenen Posten **(2)***, der *Kontosaldo **(3)*** und die *Differenz* zwischen Summe der offenen Beträge und Kontosaldo ***(4)*** aufgezeig*t. *
+Im unteren Bereich wird die *Summe aller offenen Posten* ***(2)***, der *Kontosaldo* ***(3)*** und die *Differenz* zwischen Summe der offenen Beträge und Kontosaldo ***(4)*** aufgezeigt. 
 
 Weiters wird Ihnen hier auch der *Saldo der ausgewählten OP* ***(5)*** angeführt.
 
 
-Sie können händisch angelegte Offene Posten dadurch erkennen, da bei diesen ein ***H** **(6)*** angeführt wird. Offene Posten in Zusammenhang mit Buchungen die sich noch in einem Stapel befinden, werden mit einem ***S (7)*** gekennzeichnet.
+Sie können händisch angelegte Offene Posten dadurch erkennen, da bei diesen ein ***H*** ***(6)*** angeführt wird. Offene Posten in Zusammenhang mit Buchungen die sich noch in einem Stapel befinden, werden mit einem ***S (7)*** gekennzeichnet.
 
 
-Abb. 2 OP bearbeiten – weitere Funktionen
-
-![Image](<img/NeuesElement55.png>)
+![OPBearbeiten](<img/image2.png>)
 
 
-Im Register *OP bearbeiten* können Sie auch direkt verschiedene ***Aufrufe*** öffnen ***(1)***, zum vorherigen oder nächsten ***Konto** wechseln **(2)*** oder die zugehörigen ***Belege** aufrufen bzw zuordnen **(3)**.*
+
+Im Register *OP bearbeiten* können Sie auch direkt verschiedene Aufrufe öffnen ***(1)***, zum vorherigen oder nächsten Konto wechseln ***(2)*** oder die zugehörigen Belege aufrufen bzw zuordnen ***(3)***.
 
 
 ### OP bearbeiten – Funktionen
@@ -40,9 +38,8 @@ Im Register *OP bearbeiten* können Sie auch direkt verschiedene ***Aufrufe*** �
 Im Register *Konto - OP bearbeiten* gibt es vier Optionen um Offenen Posten zu verwalten:
 
 
-Abb. 3 OP bearbeiten - Funktionen
 
-![Image](<img/NeuesElement54.png>)
+![OPFunktionen](<img/image3.png>){width="300"}
 
 #### Neuer OP
 
@@ -51,9 +48,9 @@ Mit der Schaltfläche *Neuer OP* kann ein OP händisch angelegt werden. Sollte z
 Mit der ENTER-Taste wird dann die Eingabe abgeschlossen.
 
 
-**Tipp**
+!!! info "Tipp"
 
-Damit beim OP-Ausgleich der Skonto richtig zugeordnet werden kann, sind bei der Eintragung von Rechnungen unbedingt auch das Gegenkonto und der Steuersatz einzugeben.
+    Damit beim OP-Ausgleich der Skonto richtig zugeordnet werden kann, sind bei der Eintragung von Rechnungen unbedingt auch das Gegenkonto und der Steuersatz einzugeben.
 
 
 #### OP Nummer ändern

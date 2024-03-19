@@ -1,4 +1,4 @@
-# STAMMDATEN VORLAGEN
+# Stammdaten Vorlagen
 
 ## Allgemeine Stammdaten
 
