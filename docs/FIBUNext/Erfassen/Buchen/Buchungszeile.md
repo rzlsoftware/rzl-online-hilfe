@@ -1,29 +1,25 @@
 # Buchungszeile
 
-### BUCHUNGSZEILE
-
+###Buchungszeile
 
 Bevor Sie mit dem Buchen starten können, müssen Sie die Buchungsoptionen *Belegkreis* und *Buchungsart* definieren.
 
 
-Abb. 1 Buchungsansicht
 
 ![Image](<img/NeuesElement36.png>)
 
 
-**Belegkreis**\
-Sie können zwischen den Belegkreisen wählen, die unter *Stammdaten / Belegkreise* angelegt wurden. (Der Belegkreis EB kann nur im Stapel Eröffnungsbilanz bebucht werden. Siehe Kapitel Eröffnungsbilanz)
+**Belegkreis**  
+Sie können zwischen den Belegkreisen wählen, die unter *Stammdaten / Belegkreise* angelegt wurden. (Der Belegkreis EB kann nur im Stapel Eröffnungsbilanz bebucht werden. Siehe Kapitel [Eröffnungsbilanz](/FIBUNext/Erfassen/Eröffnungsbilanz))
 
 
-**Buchungsart**\
-*Gegenbuchung:* \
-Bei dieser Buchungsart ist in jeder Buchungszeile jeweils das Sollkonto und das Habenkonto einzugeben.
-
-*Sammelbuchung:* \
+**Buchungsart**  
+*Gegenbuchung:* 
+Bei dieser Buchungsart ist in jeder Buchungszeile jeweils das Sollkonto und das Habenkonto einzugeben.  
+*Sammelbuchung:*
 Bei der Buchungsart Sammelbuchung muss das jeweilige Sammelkonto angegeben werden. Handelt es sich bei diesem Konto um ein Bestandskonto, so wird der Kontosaldo unter *Anfangssaldo* ausgewiesen. Bei der Buchungsart mit Sammelbuchung kann in jeder Buchungszeile jeweils nur ein Konto eingegeben werden. In dieser Buchungsart werden üblicherweise die Bank- und Kassabuchungen vorgenommen.
 
 
-Abb. 2 Sammelbuchung
 
 ![Image](<img/NeuesElement35.png>)
 
@@ -47,14 +43,14 @@ Eine weitere Buchungsoption ist daher das Buchen mit DMS Belegen. Wurde für den
 Die Option *automatisch* wird standardmäßig gemeinsam mit der Belegliste aktiviert. Es werden automatisch die Belegdaten des angewählten Beleges in der Belegliste in die Buchungszeile übernommen. Sie können diese Option auch deaktivieren.
 
 
-**HINWEIS**
+!!! warning "Hinweis"
 
-Beim Öffnen der Belegliste wird automatisch ein Filter entsprechend dem Wirtschaftsjahr und Belegkreis gesetzt.
+    Beim Öffnen der Belegliste wird automatisch ein Filter entsprechend dem Wirtschaftsjahr und Belegkreis gesetzt.
 
 
-**TIPP**
+!!! info "Tipp"
 
-Genauere Informationen zur Belegverarbeitung finden Sie im Handbuch *Belegverarbeitung.* Dieses kann über den Menüpunkt *Hilfe / Handbuch / Belegverarbeitung* aufgerufen werden.
+    Genauere Informationen zur Belegverarbeitung finden Sie im Handbuch *Belegverarbeitung.* Dieses kann über den Menüpunkt *Hilfe / Handbuch / Belegverarbeitung* aufgerufen werden.
 
 
 
@@ -64,7 +60,6 @@ Genauere Informationen zur Belegverarbeitung finden Sie im Handbuch *Belegverarb
 Sie können in der FIBU Next mehrere Stapel gleichzeitig führen. Je Stapel wird ein neues Register *Buchen* geöffnet. Hier sind bereits im Titel die Anzahl der *Buchungszeilen* und das *Wirtschaftsjahr* ersichtlich.
 
 
-Abb. 3 Buchen
 
 ![Image](<img/NeuesElement34.png>)
 
@@ -74,7 +69,7 @@ Im mittleren Bereich wird die Buchungsart (Gegen- oder Sammelbuchung), das Wirts
 Anhand der mitlaufenden *Kontrollsumme*, die die Beträge im Stapel saldiert, kann die Richtigkeit der Eingaben überprüft werden.
 
 
-***Datum***\
+***Datum***  
 Zu Beginn der Buchungszeile muss das Datum eingegeben werden. Dieses ist im angeführten Wirtschaftsjahr wählbar, es gibt im Stapel keine Einschränkung nach Buchungsmonat.
 
 
@@ -83,62 +78,60 @@ Mit rechter Maustaste und Anwahl *Splitbuchung* oder mit der *F5-Taste* können 
 Ebenfalls mit rechter Maustaste oder *F11-Taste* kann das Feld *Eingabe abw. USt-Monat* aktiviert werden.
 
 
-Abb. 4 Eingabe abweichendes USt-Monat
 
 ![Image](<img/NeuesElement33.png>)
 
 
-***Beleg-Nr.***\
-In diesem Feld kann eine 16-stellige Belegnummer eingegeben werden. Mit rechter Maustaste oder F4 kann ein weiteres Feld zur Eingabe einer *Fremdbelegnummer* aktiviert werden.
+***Beleg-Nr.***  
+In diesem Feld kann eine 16-stellige Belegnummer eingegeben werden. Mit rechter Maustaste oder *F4* kann ein weiteres Feld zur Eingabe einer *Fremdbelegnummer* aktiviert werden.
 
 
-**Tipp**
+!!! info "Tipp"
 
-Unter *Stammdaten / Belegkreise* kann für den Belegkreis festgelegt werden, dass das Eingabefeld der Fremdbelegnummer automatisch aktiviert ist.
+    Unter *Stammdaten / Belegkreise* kann für den Belegkreis festgelegt werden, dass das Eingabefeld der Fremdbelegnummer automatisch aktiviert ist.
 
 
 
-***Soll/Haben***\
+***Soll/Haben***  
 Hier können Sie die Konten je nach Sachverhalt eingeben. Weitere Funktionen finden Sie mit rechter Maustaste im Kontextmenü z.B. *Konto aufrufen*, *Kontenplan aufrufen*, *Konto anlegen/bearbeiten*.
 
 
-**Tipp**
+!!! info "Tipp"
 
-Durch die Eingabe von K1, K2, K3, K4 bzw D1, D2, D3, D4 im Feld *Soll* oder *Haben* und anschließendes Drücken von F4, wird vom Programm automatisch der nächste freie Kreditor bzw. Debitor im jeweiligen Personenkontenkreis vorgeschlagen. D.h. über K1 wird der nächste freie Kreditor im Kreditorenkreis 1 vorgeschlagen usw.
+    Durch die Eingabe von K1, K2, K3, K4 bzw D1, D2, D3, D4 im Feld *Soll* oder *Haben* und anschließendes Drücken von F4, wird vom Programm automatisch der nächste freie Kreditor bzw. Debitor im jeweiligen Personenkontenkreis vorgeschlagen. D.h. über K1 wird der nächste freie Kreditor im Kreditorenkreis 1 vorgeschlagen usw.
 
 
 
-***Code***\
+***Code***  
 Im Feld Code können Sie den gewünschten Steuercode eingeben. Ist in den Kontostammdaten der Aufwands- bzw. Erlöskonten ein Steuercode hinterlegt, wird dieser automatisch vorgeschlagen.
 
 
-Näheres zum Buchen mit Steuer bzw. den einzelnen Steuercodes finden Sie im Kapitel [Umsatzsteuer](<UMSATZSTEUER1.md>).
+Näheres zum Buchen mit Steuer bzw. den einzelnen Steuercodes finden Sie im Kapitel [Umsatzsteuer](/FIBUNext/Umsatzsteuer).
 
 
-***OP** **Nummer***\
+***OP Nummer***  
 Wenn Sie mit offener Postenverwaltung arbeiten, wird vom Programm automatisch die Belegnummer als OP-Nummer vorgeschlagen, welche aber noch geändert werden kann.
 
 
-**Tipp**
+!!! info "Tipp"
 
-Falls mit Fremdbelegnummer gebucht wird, können Sie unter *Stammdaten / Belegkreise* für einen Belegkreis festlegen, dass die Fremdbelegnummer als OP-Nummer vorgeschlagen wird.
+    Falls mit Fremdbelegnummer gebucht wird, können Sie unter *Stammdaten / Belegkreise* für einen Belegkreis festlegen, dass die Fremdbelegnummer als OP-Nummer vorgeschlagen wird.
 
 
 Mit der F2-Taste können Sie im Feld *OP-Nummer* alle bestehenden offenen Posten des Personenkontos aufrufen. Auch eventuell angefügte Belege zur offenen Rechnung können über diesen Aufruf angezeigt werden ***(1)***.
 
 
-Abb. 5 OP Auswahl
 
 ![Image](<img/NeuesElement32.png>)
 
 
-***Text***\
+***Text***  
 Abschließend kann noch ein Buchungstext eingegeben werden. Auch hier finden Sie mit rechter Maustaste im Kontextmenü einige Optionen zur automatischen Übernahme von Kontotexten, Buchungstexten uvm.
 
 
-**Tipp**
+!!! info "Tipp"
 
-Das Anlegen von standardisierten Buchungstexten (siehe Kapitel [5.10](<FIBUNextHandbuch1.md#\_Ref81486299>) [*Buchungstexte*](<FIBUNextHandbuch1.md#\_Ref81486303>)) bedeutet eine wesentliche Zeitersparnis beim Buchen, da die jeweils angelegten Buchungstexte mit der F3-Taste aufgerufen und mit der ENTER-Taste einfach übernommen werden können.
+    Das Anlegen von standardisierten Buchungstexten (siehe Kapitel [Buchungstextgruppen](/FIBUNext/Stammdaten/Buchungstextgruppen)) bedeutet eine wesentliche Zeitersparnis beim Buchen, da die jeweils angelegten Buchungstexte mit der F3-Taste aufgerufen und mit der ENTER-Taste einfach übernommen werden können.
 
 
 
@@ -151,7 +144,6 @@ Die Durchführung einer Splitbuchung ist insbesondere dann vorteilhaft, wenn ein
 Im Buchungsdialog können Sie im Feld *Datum* die F5-Taste drücken (oder die Eingabe *SP* + ENTER-Taste ist möglich) und es erscheint oberhalb der Vermerk *Splitbuchung neu*.
 
 
-Abb. 6 Splitbuchung neu
 
 ![Image](<img/NeuesElement31.png>)
 
@@ -161,7 +153,6 @@ Als nächster Schritt werden das Belegdatum, die Belegnummer und das Splitsammel
 Abschließend muss noch der Buchungstext eingegeben werden. Im Kontrollfeld - rechts oberhalb des Textfeldes - scheinen nun der *Rechnungsbetrag* und der noch *auszugleichende* Betrag auf.
 
 
-Abb. 7 Splitbuchung auszugl. Betrag
 
 ![Image](<img/NeuesElement30.png>)
 
@@ -181,9 +172,9 @@ Die Buchungen auf den jeweiligen Sachkonten können geändert werden, auch nach 
 Bei Splitbuchungen gibt es die Möglichkeit Nettowerte einzugeben. Hierzu muss vor dem jeweiligen Steuersatz ein N eingegeben werden (z.B. N20). Dabei erfolgt die Anzeige der gebuchten Beträge in den beiden oberen Anzeigefeldern jedoch immer brutto. Durch diese Art der Verbuchung erspart man sich das Umrechnen von Netto-Teilbeträgen auf Bruttobeträge.
 
 
-**Hinweis**
+!!! warning "Hinweis"
 
-Bei Splitbuchungen von Ein- und Ausgangsrechnungen mit unterschiedlichen Steuersätzen erfolgt bei deren Ausgleich vom Programm eine automatische Aufteilung des Skontobetrages im richtigen Verhältnis zu den einzelnen Steuersätzen.
+    Bei Splitbuchungen von Ein- und Ausgangsrechnungen mit unterschiedlichen Steuersätzen erfolgt bei deren Ausgleich vom Programm eine automatische Aufteilung des Skontobetrages im richtigen Verhältnis zu den einzelnen Steuersätzen.
 
 
 ### Nullrechnung buchen
@@ -192,12 +183,11 @@ Bei Splitbuchungen von Ein- und Ausgangsrechnungen mit unterschiedlichen Steuers
 Es gibt im Feld *Betrag* die Möglichkeit Nullrechnungen einzubuchen. Wählen Sie dazu im Feld *Betrag* mit der rechten Maustaste im Kontextmenü die Option *Explizit Null buchen* oder die *F9-Taste*.
 
 
-Abb. 8 Nullrechnung buchen
 
 ![Image](<img/NeuesElement29.png>)
 
 
-**Hinweis**
+!!! warning "Hinweis"
 
-Für Nullrechnungen wird kein OP angelegt. Das Feld *OP* wird inaktiv.
+    Für Nullrechnungen wird kein OP angelegt. Das Feld *OP* wird inaktiv.
 
