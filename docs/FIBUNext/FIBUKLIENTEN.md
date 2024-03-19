@@ -1,4 +1,4 @@
-# FIBU KLIENTEN
+# FIBU Klienten
 
 Über den Aufruf *FIBU Next / FIBU Klienten* finden Sie eine Auflistung aller Klienten, welche in der FIBU Next gebucht werden.
 

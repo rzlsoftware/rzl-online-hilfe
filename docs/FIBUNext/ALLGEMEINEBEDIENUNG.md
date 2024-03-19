@@ -1,4 +1,4 @@
-# ALLGEMEINE BEDIENUNG
+# Allgemeine Bedienung
 
 ## Bedienung im Board
 

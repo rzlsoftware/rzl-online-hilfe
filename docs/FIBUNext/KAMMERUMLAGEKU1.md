@@ -1,4 +1,4 @@
-# KAMMERUMLAGE (KU1)
+# Kammerumlage (KU1)
 
 ## Allgemeine Hinweise zur Berechnung der Kammerumlage
 
@@ -11,11 +11,11 @@ Gemäß §122 (2) WKG ist die Umsatzsteuer auf Investitionen in das ertragsteuer
 
 In der RZL FIBU Next wird die KU1 nach dem (seit 01.01.2019 gültigen) degressiven Staffeltarif berechnet, sodass mit steigender Bemessungsgrundlage die relative Belastung durch die Umlage sinkt. Hierfür wurden zwei Schwellenwerte eingeführt. Der niedrigere Schwellenwert beträgt drei Millionen Euro der höhere 32,5 Millionen Euro.
 
-| **Bemessungsgrundlage** | **Hebesatz** |
-| --- | --- |
-| Bis zu drei Millionen Euro | &#50;,9 Promille |
+| **Bemessungsgrundlage**                    | **Hebesatz**       |
+| ------------------------------------------ | ------------------ |
+| Bis zu drei Millionen Euro                 | &#50;,9 Promille   |
 | von drei Millionen bis 32,5 Millionen Euro | &#50;,755 Promille |
-| Über 32,5 Millionen Euro | &#50;,552 Promille |
+| Über 32,5 Millionen Euro                   | &#50;,552 Promille |
 
 
 
@@ -40,5 +40,5 @@ Abb. 1 Anlagevermögen KU1
 ## Ausdruck Kammerumlage KU1
 
 
-Die Kammerumlage wird am Ausdruck *USt-Aufstellung* quartalsweise berechnet und mitangeführt. (siehe Kapitel [Ausdruck USt-Aufstellung](<USt-Aufstellung1.md>))
+Die Kammerumlage wird am Ausdruck *USt-Aufstellung* quartalsweise berechnet und mitangeführt. (siehe Kapitel [Ausdruck USt-Aufstellung](/FIBUNext/Ausdrucke/USt-Aufstellung))
 
