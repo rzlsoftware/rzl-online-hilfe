@@ -47,7 +47,7 @@ und der Klient wird trotzdem in die FIBU Next übernommen.
 
 Abb. 1‑3 Protokoll Übernahme II
 
-![image](img/image23.emf)
+![image](img/image23.png)
 
 Genauere Informationen und das Protokoll zur Übernahme finden Sie im RZL
 Board unter *Stamm / FIBU Next / Übernahmeprotokolle Klassik*.
