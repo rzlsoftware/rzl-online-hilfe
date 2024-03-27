@@ -1,15 +1,19 @@
+# *Kurzanleitung*
+
+# Umstieg von FIBU Klassik
+
 In folgender Kurzanleitung möchten wir Ihnen Schritt für Schritt die
 ersten Schritte erklären, welche bei der Umstellung eines Klienten von
 der FIBU Klassik auf die FIBU Next zu beachten sind.
 
-HINWEIS
+!!! warning "Hinweis"
 
-Bitte beachten Sie vor Umstellung Ihrer Klienten die aktuelle
-Leistungsbeschreibung der FIBU Next. Klienten, für die Funktionen
-benötigt werden, die es in der FIBU Next noch nicht gibt, sollten noch
-nicht umgestellt werden.
+    Bitte beachten Sie vor Umstellung Ihrer Klienten die aktuelle
+    Leistungsbeschreibung der FIBU Next. Klienten, für die Funktionen
+    benötigt werden, die es in der FIBU Next noch nicht gibt, sollten noch
+    nicht umgestellt werden.
 
-# Übergabe des Klienten
+## Übergabe des Klienten
 
 Als ersten Schritt müssen die Stammdaten des Klienten im RZL Board
 angelegt sein. Ist dies nicht der Fall, so können Sie die Stammdaten
@@ -23,7 +27,6 @@ durch Auswahl der entsprechenden Klientennummern und Wirtschaftsjahre
 übernehmen oder pro Klient, wenn dieser in der FIBU geöffnet ist. Dazu
 öffnen Sie den Menüpunkt *Bearbeiten / Übergabe an FIBU Next*.
 
-Abb. 1‑1 Klientenübergreifende Übernahme
 
 ![image](img/image21.png)
 
@@ -35,7 +38,6 @@ aktiviert hat, erscheint im nächsten Schritt eine Fehlermeldung mit
 allen Funktionen, die die Übernahme blockieren und der Klient wird nicht
 in die FIBU Next übernommen.
 
-Abb. 1‑2 Protokoll Übernahme
 
 ![image](img/image22.png)
 
@@ -45,14 +47,12 @@ oder Pflichtkonten in der FIBU Next nicht gefunden werden. Solche
 Sachverhalte stellen aber keinen Ausschlussgrund für eine Übernahme dar
 und der Klient wird trotzdem in die FIBU Next übernommen.
 
-Abb. 1‑3 Protokoll Übernahme II
 
 ![image](img/image23.png)
 
 Genauere Informationen und das Protokoll zur Übernahme finden Sie im RZL
 Board unter *Stamm / FIBU Next / Übernahmeprotokolle Klassik*.
 
-Abb. 1‑4 Übernahmeprotokoll
 
 ![image](img/image24.png)
 
@@ -64,7 +64,7 @@ Außerdem werden auch sämtliche Stammdaten im Zusammenhang mit der
 Retourdatenverarbeitung (Bankkonten, Verbuchungsregeln,…) mit
 übernommen.
 
-# Buchen
+## Buchen
 
 Um mit dem Buchen zu beginnen, wählen Sie im Register *Erfassen* die
 Schaltfläche *Buchen*. Wurden bei dem gewählten Klienten in dem
@@ -80,7 +80,6 @@ Ihnen pro Beleg die ausgelesenen Belegdaten in der Buchungszeile
 vorgeschlagen. Nach Abschluss der Buchung springt die Belegansicht
 automatisch zum nächsten Beleg weiter.
 
-Abb. 2‑1 Buchen
 
 ![image](img/image25.png)
 
@@ -90,11 +89,9 @@ zumindest ein Konto (Bank bzw. Kassa) als Zahlungsmittelkonto
 definieren. Dies ist erforderlich, damit Skonti automatisch verbucht
 werden können.
 
-Abb. 2‑2 Zahlungsmittelkonto
 
 ![image](img/image26.png)
 
-Abb. 2‑3 Zahlungsmittelkonto II
 
 ![image](img/image27.png)
 
@@ -102,9 +99,9 @@ Die Buchungslogik inkl. aller gängigen Shortcuts sind großteils ident
 zur Verbuchung in der FIBU Klassik. Alle wesentlichen Unterschiede
 finden Sie im folgenden Kapitel.
 
-# Wesentliche Unterschiede zur FIBU Klassik
+## Wesentliche Unterschiede zur FIBU Klassik
 
-## Mehrere Stapel gleichzeitig
+### Mehrere Stapel gleichzeitig
 
 In der FIBU Next haben Sie die Möglichkeit mehrere Stapel gleichzeitig
 zu bebuchen und offen zu haben. Erst zur Erstellung der UVA müssen Sie
@@ -123,13 +120,13 @@ Camt-Retourdaten und Importe werden auch in einem Stapel gebucht. Die
 Buchungen daraus können also auch immer wieder, bis der Stapel
 finalisiert wird, bearbeitet werden.
 
-TIPP
+!!! info "Tipp"
 
-Wir empfehlen bei Monatsbuchhaltungen pro Belegkreis und pro Monat
-eigene Stapel anzulegen. Somit haben Sie zur Erstellung der UVA die
-Möglichkeit, nur die betreffenden Stapel zu finalisieren.
+    Wir empfehlen bei Monatsbuchhaltungen pro Belegkreis und pro Monat
+    eigene Stapel anzulegen. Somit haben Sie zur Erstellung der UVA die
+    Möglichkeit, nur die betreffenden Stapel zu finalisieren.
 
-## Splitbuchungen
+### Splitbuchungen
 
 Splitbuchungen können in der FIBU Next (im Unterschied zur FIBU Klassik)
 im Nachhinein geändert werden.
@@ -142,7 +139,7 @@ Sammelzeile ein *E* im Feld Steuercode zu erfassen.
 Gegenbuchungen können auch im Nachhinein zu Splitbuchungen abgeändert
 werden.
 
-## Offene Posten
+### Offene Posten
 
 In der FIBU Next ist es möglich, Buchungen zwischen zwei OP-führenden
 Konten durchzuführen. Dabei erscheint im Buchungsdialog ein zweites
@@ -154,13 +151,12 @@ aber möglich, OPs auch MIT Skonto miteinander auszugleichen. Wichtig
 dabei ist, dass einer der beiden offenen Posten gegen ein
 Zahlungsmittelkonto erfasst wurde.
 
-## Vorschlag Belegnummer
+### Vorschlag Belegnummer
 
 In den Stammdaten der Belegkreise können Sie in der FIBU Next festlegen,
 dass stets die nächste Belegnummer pro Belegkreis beim Buchen
 vorgeschlagen wird.
 
-Abb. 3‑1 Vorschlag nächste Belegnummer
 
 ![image](img/image28.png)
 
@@ -168,14 +164,13 @@ Dabei ist es im Gegensatz zur FIBU Klassik nicht mehr notwendig, dass
 bei der ersten Buchung im Buchungsdialog ein ***+*** hinter der
 Belegnummer eingegeben wird.
 
-## Jahresübernahme / EB Aktualisierung
+### Jahresübernahme / EB Aktualisierung
 
 Eine Jahresübernahme in ein neues Wirtschaftsjahr erfolgt für FIBU Next
 Klienten in den Klientenstammdaten im RZL Board im Bereich FIBU Next.
 Klicken Sie dazu auf die Schaltfläche *Wirtschaftsjahr anlegen mit
 Jahresübernahme*.
 
-Abb. 3‑2 Eröffnungsbilanz automatisch aktualisieren
 
 ![image](img/image29.png)
 
@@ -189,20 +184,19 @@ Ist diese Option nicht aktiviert, können Eröffnungsbilanzwerte in der
 FIBU Next über den Menüpunkt *Erfassen / Eröffnungsbilanz* aktualisiert
 werden.
 
-Abb. 3‑3 EB-Stapel aktualisieren
 
 ![image](img/image30.png)
 
 In jedem Fall muss eine Jahresübernahme bei FIBU Next Klienten nur
 einmal pro Wirtschaftsjahr durchgeführt werden.
 
-HINWEIS
+!!! warning "Hinweis"
 
-Möchten Sie einen Klienten aus der FIBU Next bilanzieren, so beachten
-Sie dazu bitte unsere Kurzanleitung ***Bilanzieren eines FIBU Next
-Klienten***.
+    Möchten Sie einen Klienten aus der FIBU Next bilanzieren, so beachten
+    Sie dazu bitte unsere Kurzanleitung ***Bilanzieren eines FIBU Next
+    Klienten***.
 
-## Kontostammdaten
+### Kontostammdaten
 
 Einzelne Konten können nun in den Kontostammdaten gesperrt werden, so
 dass diese nicht mehr bebucht werden können. Anschließend kann sogar ein
@@ -217,7 +211,7 @@ Zusätzlich haben Sie in der FIBU Next auch die Möglichkeit, bei einem
 Konto mehrere KER-Gliederungen für unterschiedliche Auswertungen in der
 Kurzfristigen Erfolgsrechnung zu hinterlegen.
 
-## Generelle Bedienung
+### Generelle Bedienung
 
 -   Die FIBU Next ist multi-User-fähig, was bedeutet, dass hier mehrere
     Benutzer gleichzeitig im selben Klienten arbeiten können.
@@ -240,7 +234,7 @@ Kurzfristigen Erfolgsrechnung zu hinterlegen.
 
 -   Mit der F5-Taste kann man Ansichten aktualisieren.
 
-## Arbeitsprotokoll
+### Arbeitsprotokoll
 
 Ein weiterer großer Unterschied zur FIBU Klassik ist, dass das
 Arbeitsprotokoll nicht mehr extra gespeichert oder gedruckt werden
@@ -249,7 +243,7 @@ Das Arbeitsprotokoll wird stets automatisch mitgespeichert und kann über
 den Menüpunkt *Auswertung / Arbeitsprotokoll* zu jeder Zeit aufgerufen
 werden.
 
-## Sicherungscenter
+### Sicherungscenter
 
 Sicherungen können auch in der FIBU Next ganz einfach erstellt werden.  
 Das Sicherungscenter finden Sie in den Klientenstammdaten im RZL Board.
@@ -259,15 +253,14 @@ Sicherungen wiederherstellen ***(2)***, Sicherungen als Datei
 exportieren ***(3)*** und Sicherungen aus einer Datei importieren
 ***(4)***.
 
-Abb. 3‑4 Sicherungscenter
 
 ![image](img/image31.png)
 
-HINWEIS
+!!! warning "Hinweis"
 
-In der FIBU Next werden sämtliche Sicherungen in der Datenbank
-gespeichert und nicht mehr pro Klient und Wirtschaftsjahr in einem
-separaten Datenordner.
+    In der FIBU Next werden sämtliche Sicherungen in der Datenbank
+    gespeichert und nicht mehr pro Klient und Wirtschaftsjahr in einem
+    separaten Datenordner.
 
-Wir empfehlen daher regelmäßig Sicherungen der FIBU Next zu erstellen.
+    Wir empfehlen daher regelmäßig Sicherungen der FIBU Next zu erstellen.
 

@@ -1,8 +1,13 @@
+# *Kurzanleitung*
+
+# Bilanzieren eines FIBU Next Klienten
+
+
 Ab der RZL Programmversion 2.22.8 bieten wir Ihnen die Möglichkeit, die
 in der Bilanz durchgeführten Umbuchungen inklusive der Buchungen aus der
 Gewinnverteilung in die FIBU Next zu übernehmen.
 
-# Vor dem Bilanzieren
+## Vor dem Bilanzieren
 
 Im Bilanzprogramm können Sie über den Menüpunkt *Bearbeiten / Übernahme
 / Automat. Summenübernahme* die Salden aus der FIBU Next übernehmen.
@@ -14,9 +19,9 @@ keine Buchungen mehr gemacht, wird *Übernahme von FIBU* vorgeschlagen.
 
 ![image](img/image11.png)
 
-# Nach dem Bilanzieren
+## Nach dem Bilanzieren
 
-## Vorgehensweise in der Bilanz
+### Vorgehensweise in der Bilanz
 
 Im Bilanzprogramm können Sie die Umbuchungen nach Abschluss der
 Bilanzierung wie gewohnt über den Menüpunkt *Bearbeiten / Übernahme /
@@ -28,15 +33,15 @@ Next* vorgeschlagen.
 
 ![image](img/image12.png)
 
-HINWEIS
+!!! warning "Hinweis"
 
-Bei Verwendung der FIBU Next ist es nun möglich, auch nach Übergabe der
-Umbuchungen weitere Änderungen in der Bilanz vorzunehmen und die
-Umbuchungen anschließend mehrmals zu übergeben.  
-Erst beim Finalisieren des Stapels in der FIBU Next kann die Bilanz
-schließlich nicht mehr bearbeitet werden und die Umbuchungen können
-nicht mehr übergeben werden. Zusätzliche Umbuchungen oder Änderungen
-müssten anschließend händisch eingebucht werden.
+    Bei Verwendung der FIBU Next ist es nun möglich, auch nach Übergabe der
+    Umbuchungen weitere Änderungen in der Bilanz vorzunehmen und die
+    Umbuchungen anschließend mehrmals zu übergeben.  
+    Erst beim Finalisieren des Stapels in der FIBU Next kann die Bilanz
+    schließlich nicht mehr bearbeitet werden und die Umbuchungen können
+    nicht mehr übergeben werden. Zusätzliche Umbuchungen oder Änderungen
+    müssten anschließend händisch eingebucht werden.
 
 Unterscheiden sich Konten in der Bilanz und in der FIBU Next, so
 erscheint ein Dialog zum Kontenabgleich. Hier können Sie auswählen,
@@ -45,9 +50,9 @@ die Kontenbezeichnungen und andere Stammdaten angepasst werden sollen.
 
 ![image](img/image13.png)
 
-## Vorgehensweise in der FIBU Next
+### Vorgehensweise in der FIBU Next
 
-### Übergabe der Umbuchungen
+#### Übergabe der Umbuchungen
 
 In der FIBU Next sind die übergebenen Bilanz-Umbuchungen nun in Form
 eines offenen Umbuchungsstapels ersichtlich.
@@ -61,10 +66,10 @@ falls sich in der Bilanz noch Änderungen ergeben.
 
 Zusätzlich kann der Buchungsstapel auch umbenannt oder verworfen werden.
 
-> **HINWEIS**
->
-> Finalisieren Sie diesen Umbuchungsstapel erst dann, wenn Sie sicher
-> keine weiteren Umbuchungen aus der Bilanz übernehmen werden.
+!!! warning "Hinweis"
+
+    Finalisieren Sie diesen Umbuchungsstapel erst dann, wenn Sie sicher
+    keine weiteren Umbuchungen aus der Bilanz übernehmen werden.
 
 Die Umbuchungen aus diesem Stapel sind bereits im Journal sowie in den
 Kontoauswertungen in der FIBU Next ersichtlich. In den Menüpunkten
@@ -74,7 +79,7 @@ Bilanzumbuchungen oder ohne diesen dargestellt werden soll.
 
 ![image](img/image15.png)
 
-### Eröffnungsbilanzwerte im Folgejahr
+#### Eröffnungsbilanzwerte im Folgejahr
 
 Die Eröffnungsbilanzwerte werden im Zuge des automatischen Abgleichs
 sofort in das Folgejahr übernommen, sofern die Option *Eröffnungsbilanz
@@ -82,7 +87,7 @@ buchen für alle Konten* im jeweiligen Folgejahr aktiviert ist.
 Hier greift immer die Einstellung des Jahres, in welchem die EB-Werte
 gebucht werden sollen.
 
-Beispiel:
+**Beispiel:**
 
 Wurde das Jahr 2022 bilanziert und anschließend die Umbuchungen in die
 FIBU Next des Jahres 2022 übernommen, so müssen die Häkchen für die
@@ -91,15 +96,15 @@ die EB automatisch gebucht bzw. aktualisiert werden kann.
 
 ![image](img/image16.png)
 
-HINWEIS
+!!! warning "Hinweis"
 
-Eine Übernahme der Eröffnungsbilanzwerte in die Buchhaltung des
-Folgejahres ist somit bei Verwendung der FIBU Next nicht mehr
-erforderlich bzw. auch nicht mehr möglich.
+    Eine Übernahme der Eröffnungsbilanzwerte in die Buchhaltung des
+    Folgejahres ist somit bei Verwendung der FIBU Next nicht mehr
+    erforderlich bzw. auch nicht mehr möglich.
 
-### Spezialfälle bei Umstellung von FIBU Klassik auf FIBU Next
+#### Spezialfälle bei Umstellung von FIBU Klassik auf FIBU Next
 
-### Das Bilanzjahr wurde vollständig in der FIBU Klassik gebucht und in die FIBU Next übergeben. Das Folgejahr wurde bereits in der FIBU Next angelegt und dort bebucht.
+#### Das Bilanzjahr wurde vollständig in der FIBU Klassik gebucht und in die FIBU Next übergeben. Das Folgejahr wurde bereits in der FIBU Next angelegt und dort bebucht.
 
 In diesem Fall ist im Folgejahr das unter *Stamm / FIBU / Allgemein* das
 Häkchen *Eröffnungsbilanz automatisch aktualisieren* zu setzen. Damit
@@ -108,7 +113,7 @@ Bestandskonten) die EB-Werte automatisch gebucht und aktualisiert.
 
 ![image](img/image17.png)
 
-### Sowohl das Bilanzjahr als auch das Folgejahr wurden aus der FIBU Klassik übernommen. 
+#### Sowohl das Bilanzjahr als auch das Folgejahr wurden aus der FIBU Klassik übernommen. 
 
 Wurde auch das Folgejahr aus der FIBU Klassik übernommen (dabei spielt
 es keine Rolle, ob auch bereits Buchungen in der FIBU Next gemacht
@@ -125,14 +130,14 @@ direkt in den Kontostammdaten) ***(1)*** oder generell für alle Konten
 
 ![image](img/image18.png)
 
-HINWEIS
+!!! warning "Hinweis"
 
-Wurde der EB-Stapel einmal für alle Konten aktualisiert, so ist künftig
-nur mehr dieser Button aktiv. Eine Aktualisierung von (nur) ausgewählten
-Konten ist in diesem Fall nicht mehr möglich, da es ansonsten zu
-Differenzen kommen könnte.
+    Wurde der EB-Stapel einmal für alle Konten aktualisiert, so ist künftig
+    nur mehr dieser Button aktiv. Eine Aktualisierung von (nur) ausgewählten
+    Konten ist in diesem Fall nicht mehr möglich, da es ansonsten zu
+    Differenzen kommen könnte.
 
-### Das Bilanzjahr befindet sich noch in der FIBU Klassik, das Folgejahr wurde in die FIBU Next übernommen.
+#### Das Bilanzjahr befindet sich noch in der FIBU Klassik, das Folgejahr wurde in die FIBU Next übernommen.
 
 In diesem Fall empfehlen wir, vor Übergabe der Bilanz-Umbuchungen in die
 FIBU das Bilanzjahr ebenfalls in die FIBU Next zu übernehmen.  
@@ -140,7 +145,7 @@ Anschließend gehen Sie bitte wie oben beschrieben (*Sowohl das
 Bilanzjahr als auch das Folgejahr wurden aus der FIBU Klassik
 übernommen.*) vor.
 
-### Finalisieren des Stapels
+#### Finalisieren des Stapels
 
 Nachdem Sie die Bilanz vollständig abgeschlossen haben, können Sie den
 Buchungsstapel schließlich finalisieren. Bitte beachten Sie dabei aber,
@@ -154,9 +159,9 @@ Folgende Meldungen erscheinen beim Versuch die Umbuchungen erneut zu
 
 ![image](img/image20.png)
 
-TIPP
+!!! info "Tipp"
 
-Erstellen Sie vor dem Finalisieren des Buchungsstapels eine Sicherung
-der FIBU-Daten über das Sicherungscenter. Damit können Sie im Falle
-einer notwendigen Änderung der Bilanz die Sicherung hereinspielen und
-die Umbuchungen nochmals in die FIBU Next übergeben.
+    Erstellen Sie vor dem Finalisieren des Buchungsstapels eine Sicherung
+    der FIBU-Daten über das Sicherungscenter. Damit können Sie im Falle
+    einer notwendigen Änderung der Bilanz die Sicherung hereinspielen und
+    die Umbuchungen nochmals in die FIBU Next übergeben.
