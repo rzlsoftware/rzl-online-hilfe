@@ -1,4 +1,3 @@
-# *Kurzanleitung*
 
 # Umstieg von FIBU Klassik
 

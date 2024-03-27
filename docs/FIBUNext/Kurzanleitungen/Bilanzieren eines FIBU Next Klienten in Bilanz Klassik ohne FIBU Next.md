@@ -1,4 +1,3 @@
-# *Kurzanleitung*
 
 # Bilanzieren eines FIBU Next Klienten ohne FIBU Next
 

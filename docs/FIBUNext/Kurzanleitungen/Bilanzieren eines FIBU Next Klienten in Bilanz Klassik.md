@@ -1,4 +1,3 @@
-# *Kurzanleitung*
 
 # Bilanzieren eines FIBU Next Klienten
 
