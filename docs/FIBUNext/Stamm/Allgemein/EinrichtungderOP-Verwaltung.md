@@ -2,7 +2,6 @@
 
 ### Einrichtung der OP-Verwaltung
 
-
 Wenn Sie mit der Offenen Postenverwaltung auf **Personenkonten** arbeiten möchten, können Sie diese im Modul *STAMM* unter *FIBU / Allgemein* im Bereich *Einstellungen* aktivieren.
 
 
