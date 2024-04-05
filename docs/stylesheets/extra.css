@@ -1,57 +1,65 @@
 :root {
-    --md-primary-fg-color: #e6382c;
-    --md-primary-fg-color--light: #ECB7B7;
-    --md-primary-fg-color--dark: #394955;
-    --md-primary-bg-color:               hsla(0, 0%, 100%, 1);
-    --md-primary-bg-color--light:        hsla(0, 0%, 100%, 0.7);
-    
-    /* Accent color shades */
-    --md-accent-fg-color: hsla(0, 0%, 100%, 0);
-    --md-accent-fg-color--transparent: hsla(189, 100%, 37%, 0.1);
-    --md-accent-bg-color:                #e6382c;
-    --md-accent-bg-color--light:         #e6382c;
+  --rzl-green: rgb(69, 121, 121);
+  --rzl-red: #e6382c;
+  --rzl-yellow: rgb(252, 193, 51);
+
+  --md-primary-fg-color: var(--rzl-red);
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark: #394955;
+  --md-primary-bg-color: hsla(0, 0%, 100%, 1);
+  --md-primary-bg-color--light: hsla(0, 0%, 100%, 0.7);
+
+  /* Accent color shades */
+  --md-accent-fg-color: var(--rzl-red);
+  --md-accent-fg-color--transparent: hsla(189, 100%, 37%, 0.1);
+  --md-accent-bg-color: hsla(0, 0%, 100%, 1);
+  --md-accent-bg-color--light: hsla(0, 0%, 100%, 0.7);
 }
 
-:root > * {
-    /* Code block color shades */
-    --md-code-bg-color: hsla(0, 0%, 96%, 1);
-    --md-code-fg-color: hsla(200, 18%, 26%, 1);
+:root>* {
+  /* Code block color shades */
+  --md-code-bg-color: hsla(0, 0%, 96%, 1);
+  --md-code-fg-color: hsla(200, 18%, 26%, 1);
 
-    /* Footer */
-    --md-footer-bg-color: hsla(0, 0%, 100%, 0);
-    --md-footer-bg-color--dark: hsla(0, 0%, 0%, 0.32);
-    --md-footer-fg-color: #e6382c;
-    --md-footer-fg-color--light:hsla(0, 0%, 100%, 0.7);
-    --md-footer-fg-color--lighter: hsla(0, 0%, 100%, 0.3);
+  /* Footer */
+  --md-footer-bg-color: hsla(0, 0%, 100%, 0);
+  --md-footer-bg-color--dark: hsla(0, 0%, 0%, 0.32);
+  --md-footer-fg-color: var(--rzl-red);
+  --md-footer-fg-color--light: hsla(0, 0%, 100%, 0.7);
+  --md-footer-fg-color--lighter: hsla(0, 0%, 100%, 0.3);
 
-    /* Accent color shades */
-    --md-accent-fg-color: #e6382c;
+  /* Accent color shades */
+  --md-accent-fg-color: var(--rzl-red);
 }
 
 .md-typeset .admonition.warning,
 .md-typeset details.warning {
-  border-color: rgb(252, 193, 51);
+  border-color: var(--rzl-yellow);
 }
-.md-typeset .warning > .admonition-title,
-.md-typeset .warning > summary {
-  background-color: rgba(252, 193, 51, 0.1);
+
+.md-typeset .warning>.admonition-title,
+.md-typeset .warning>summary {
+  background-color: rgb(from var(--rzl-yellow) r g b / 0.1);
 }
-.md-typeset .warning > .admonition-title::before,
-.md-typeset .warning > summary::before {
-    background-color: rgb(252, 193, 51);
+
+.md-typeset .warning>.admonition-title::before,
+.md-typeset .warning>summary::before {
+  background-color: var(--rzl-yellow);
 }
 
 .md-typeset .admonition.info,
 .md-typeset details.info {
-  border-color: rgb(69, 121, 121);
+  border-color: var(--rzl-green);
 }
-.md-typeset .info > .admonition-title,
-.md-typeset .info > summary {
-  background-color: rgba(69, 121, 121, 0.1);
+
+.md-typeset .info>.admonition-title,
+.md-typeset .info>summary {
+  background-color: rgb(from var(--rzl-green) r g b / 0.1);
 }
-.md-typeset .info > .admonition-title::before,
-.md-typeset .info > summary::before {
-    background-color: rgb(69, 121, 121);
+
+.md-typeset .info>.admonition-title::before,
+.md-typeset .info>summary::before {
+  background-color: var(--rzl-green);
 }
 
 figcaption {
