@@ -16,12 +16,12 @@ Die Option *Alle OP des gewählten Wirtschaftsjahres löschen* bewirkt, dass all
 
 Wird die Option *OP-Differenzen ignorieren* nicht gewählt, erhalten Sie pro Konto eine Fehlermeldung, falls nach dem Import eine Differenz zwischen Kontosaldo und Summe der offenen Posten besteht. Bei aktivierter Option erhalten Sie nur eine Hinweismeldung.
 
-**Hinweis**
+!!! warning "Hinweis"
 
-Beachten Sie: Es können nur für OP-führende Konten offenen Posten importiert werden. Durch den Import können offene Posten auch ausgeglichen werden. \
-Unter *Auswertung / OP* sind importierte OP anhand eines „I“ zu erkennen.
+    Beachten Sie: Es können nur für OP-führende Konten offenen Posten importiert werden. Durch den Import können offene Posten auch ausgeglichen werden.
+    Unter *Auswertung / OP* sind importierte OP anhand eines „I“ zu erkennen.
 
 
-**Tipp**
+!!! info "Tipp"
 
-Die genaue Schnittstellenbeschreibungen und weitere Informationen finden Sie auf unserer Website rzlsoftware.at im Anwenderbereich.
+    Die genaue Schnittstellenbeschreibungen und weitere Informationen finden Sie auf unserer Website rzlsoftware.at im Anwenderbereich.

@@ -6,7 +6,6 @@
 Im Menüpunkt *Erfassen* / *Salden* werden die importierten Salden in einem eigenen Stapel als Buchungen verwaltet.
 
 
-Abb. 1 Erfassen - Salden
 
 ![Image](<img/NeuesElement57.png>)
 

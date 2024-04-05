@@ -1,18 +1,16 @@
-# ALLGEMEINE BEDIENUNG
+# Allgemeine Bedienung
 
 ## Bedienung im Board
 
 
 Die RZL FIBU Next ist in das RZL Board integriert und kann über den Menüpunkt *FIBU Next* ***(1)*** aufgerufen werden. Wird die FIBU Next ohne vorherige Auswahl eines Klienten geöffnet, können Sie die allgemeinen Stammdaten zu Kontenplänen, KER-Gliederungen und Buchungstextgruppen verwalten, sowie eine Liste aller FIBU Next Klienten aufrufen.
 
-Abb. 1 FIBU Next ohne Klient öffnen
 
 ![Image](<../assets/NeuesElement64.png>)
 
 
 Wenn Sie im Klientensuchfeld im RZL Board ***(2)*** einen Klienten auswählen, können Sie die klientenspezifischen Funktionen der FIBU Next (Buchen, FIBU-Klientenstammdaten, Auswertungen usw.) pro Klient nutzen.
 
-Abb. 2 FIBU Next mit Klient öffnen
 
 ![Image](<../assets/NeuesElement65.png>)
 
@@ -20,7 +18,6 @@ Abb. 2 FIBU Next mit Klient öffnen
 
 In diesem Kapitel werden die unterschiedlichen Funktionen innerhalb einer Liste erläutert. Diese Listenfunktionen sind in allen Listen (z.B. Kontoblätter, OP-Listen...) verfügbar.
 
-Abb. 3 Listenfunktionen - Übersicht
 
 ![Image](<../assets/NeuesElement66.png>)
 
@@ -28,7 +25,6 @@ Abb. 3 Listenfunktionen - Übersicht
 
 Mithilfe der Funktion *Liste drucken* öffnet sich die RZL Druckvorschau. Hier haben Sie die Möglichkeit die ausgewählte Liste auszudrucken, im PDF-Drucker/Manager anzuzeigen bzw. das Dokument im Explorer abzuspeichern.
 
-Abb. 4 Listenfunktionen – Liste drucken
 
 ![Image](<../assets/NeuesElement67.png>)
 
@@ -36,9 +32,8 @@ Abb. 4 Listenfunktionen – Liste drucken
 
 Wenn Sie die Funktion *Liste exportieren* wählen, können Sie die angezeigte Liste im gewünschten Format (xls, pdf, usw.) im Explorer abspeichern.
 
-Abb. 5   Listenfunktionen – Liste exportieren
 
-![Image](<../assets/NeuesElement58.png>)
+![Image](<../assets/NeuesElement58.png>){width="150"}
 
 #### Liste kopieren (3)
 

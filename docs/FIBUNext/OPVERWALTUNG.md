@@ -1,12 +1,12 @@
-# OP VERWALTUNG
+# OP Verwaltung
 
 Die Verwaltung offener Posten ist sowohl auf Personenkonten, als auch auf Bestandskonten möglich. Dabei kann entschieden werden, ob Debitoren, Kreditoren, oder Sachkonten oder alle gemeinsam verwaltet werden sollen.
 
 !!! info "Tipp"
 
-    Die OP Verwaltung sollte immer zu Beginn der Klientenanlage angewählt werden, da bei einer späteren Anwahl die offenen Posten nachträglich eingegeben werden müssen (siehe Kapitel [OP Bearbeiten](<OPBearbeiten.md>)).
+    Die OP Verwaltung sollte immer zu Beginn der Klientenanlage angewählt werden, da bei einer späteren Anwahl die offenen Posten nachträglich eingegeben werden müssen (siehe Kapitel [OP Bearbeiten](/FIBUNext/Erfassen/Buchen/OPBearbeiten)).
 
-!!! tip "Hinweis"
+!!! warning "Hinweis"
 
     In der FIBU Next werden die Offenen Posten **jahresübergreifend verknüpft.** Das bedeutet, dass sich eine Änderung der Offenen Posten z.B. durch Löschen, Ändern, Neuanlage oder Zahlungsausgleich auch direkt auf die Offenen Posten im Folgejahr auswirkt.
 
@@ -14,17 +14,15 @@ Die Verwaltung offener Posten ist sowohl auf Personenkonten, als auch auf Bestan
 
 Wenn Sie mit der Offenen Postenverwaltung auf **Personenkonten** arbeiten möchten, können Sie diese im Modul *STAMM* unter *FIBU / Allgemein* im Bereich *Einstellungen* aktivieren.
 
-Abb. 1 Stamm – OP Verwaltung
 
-![Image](<img/NeuesElement133.png>)
+![Image](<img/NeuesElement133.png>){width="400"}
 
 Für **Bestandskonten** wird die Offene Postenverwaltung im Modul FIBU unter *Stammdaten / Konten* direkt am jeweiligen Konto im Register *Sachkonto* aktiviert.
 
-Abb. 2 Kontostamm - OP Verwaltung
 
 ![Image](<img/NeuesElement131.png>)
 
-!!! tip "Hinweis"
+!!! warning "Hinweis"
 
     Wird bei einem Sachkonto die offene Postenverwaltung aktiviert, wird automatisch im Zuge der Jahresübernahme auch die entsprechende EB-Buchung durchgeführt. \
     Die Eröffnungsbilanz kann auch unabhängig von der Offenen Postenverwaltung für jedes Bestandskonto bei der Jahresübernahme automatisch gebucht werden.
@@ -35,4 +33,4 @@ Die OP Verwaltung kann auch wieder deaktiviert werden (unter *Stamm / FIBU / All
 
 ### OP Zuteilung während des Buchens
 
-Weitere Informationen zur Zuteilung von offenen Posten während des Buchens finden Sie im Kapitel [Offene Posten Zuteilung](<OffenePostenZuteilung.md>).
+Weitere Informationen zur Zuteilung von offenen Posten während des Buchens finden Sie im Kapitel [Offene Posten Zuteilung](/FIBUNext/Erfassen/Buchen/Offene%20Posten%20Zuteilung).

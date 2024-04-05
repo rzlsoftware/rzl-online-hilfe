@@ -1,4 +1,4 @@
-site_name: RZL Hilfe
+site_name: ""
 site_url: https://purple-wave-084806310.4.azurestaticapps.net
 site_description: Die RZL online Hilfe
 
@@ -7,12 +7,13 @@ docs_dir: docs
 theme:
   name: material
   language: de
-  logo: assets/RZL_Herz_rot.svg
+  logo: assets/RZL_Herz_weisz.svg
   favicon: assets/RZL_Herz_rot.svg
   features:
     - navigation.instant
     - navigation.instant.progress
     - navigation.tabs
+    - navigation.footer
   icon:
     repo: fontawesome/brands/github      
   custom_dir: overrides
@@ -27,6 +28,11 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+          
+extra:
+  generator: false
+    
+copyright: Copyright &copy; 2024 RZL Software GmbH
 
 extra_css:
   - stylesheets/extra.css
@@ -40,9 +46,9 @@ plugins:
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
   - pymdownx.details
   - pymdownx.superfences
   - toc:
       permalink: true
 
-repo_url: https://github.com/rzlsoftware/test-rzl-hilfe

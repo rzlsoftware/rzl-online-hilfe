@@ -1,6 +1,5 @@
-# BUCHEN
+# Buchen
 
-## BUCHEN
 
 
 Im Register *Erfassen* können Sie Buchungen durchführen und Offene Posten händisch bearbeiten. Die Buchungen der Eröffnungsbilanz werden separat im Punkt *Eröffnungsbilanz* verwaltet.

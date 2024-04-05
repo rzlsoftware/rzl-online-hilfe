@@ -7,9 +7,13 @@ Unter *Auswertungen / Anzahl Zeilen* erhalten Sie eine Aufstellung aller Journal
 
 Sie können zwischen der *Anzahl der Journalzeilen* und *Buchungen* ***(1)*** wählen. Wenn Sie die Option *Anzahl Journalzeilen* wählen, können Sie als weitere Option wählen, ob die Auswertung mit oder *ohne Steuerbuchungen* ***(2)*** angezeigt werden soll.
 
-Als weitere Option können Sie sich die Journal- und Buchungszeilen *gruppiert **(3)*** nach dem Buchungstyp oder dem Belegkreis anzeigen lassen
+Als weitere Option können Sie sich die Journal- und Buchungszeilen gruppiert ***(3)*** nach dem Buchungstyp oder dem Belegkreis anzeigen lassen
 
-Abb. 1 Auswertung Anzahl Zeilen
 
-![Image](<img/NeuesElement171.png>)
+<figure markdown="span">
+  <figcaption>Abb. 1 Auswertung Anzahl Zeilen</figcaption>
+  ![Image](<img/NeuesElement171.png>)
+</figure>
+
+
 
