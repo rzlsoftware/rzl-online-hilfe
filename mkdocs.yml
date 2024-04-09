@@ -32,7 +32,7 @@ theme:
 extra:
   generator: false
     
-copyright: Copyright &copy; 2024 RZL Software GmbH</br><a href="/impressum">Impressum</a>
+copyright: Copyright &copy; 2024 <a href="https://rzlsoftware.at">RZL Software GmbH</a></br><a href="/impressum">Impressum</a>
 
 extra_css:
   - stylesheets/extra.css
