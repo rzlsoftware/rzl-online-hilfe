@@ -34,7 +34,7 @@ jobs:
 
       - name: Build Docs
         run: |
-          mkdocs build --clean -d dist
+          mkdocs build --strict --clean -d dist
 
       - name: Deploy
         id: builddeploy

@@ -17,17 +17,17 @@ Die OP-Nr. ist ein Pflichtfeld, da nur durch die Eingabe der Nummer später bei 
 
 ### OP Bearbeiten
 
-siehe Kapitel [OP Bearbeiten](<OPBearbeiten.md>)
+siehe Kapitel [OP Bearbeiten](../../OPBearbeiten.md)
 
 ### Auswertung OP
 
-Siehe Kapitel [Auswertung OP](<FIBUNextHandbuch1.md#\_Ref74746515>)
+Siehe Kapitel [Auswertung OP](../../../Auswertungen/OP.md#auswertung-op)
 
 ### Ausdruck OP-Liste
 
-Siehe Kapitel [Ausdruck OP-Liste](<FIBUNextHandbuch1.md#\_Ref74746601>)
+Siehe Kapitel [Ausdruck OP-Liste](../../../Ausdrucke/OP-Liste.md)
 
 ### Datenimport OP
 
-Siehe Kapitel [Datenimport – OP](<FIBUNextHandbuch1.md#\_Ref85715234>)
+Siehe Kapitel [Datenimport – OP](../../../Datenimport/RZL%20Format/OP.md)
 

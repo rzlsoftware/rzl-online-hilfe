@@ -3,7 +3,7 @@
 ## Auswertung OP
 
 
-Über den Menüpunkt *Auswertung / OP* können Sie bei aktiver OP-Verwaltung (siehe Kapitel [Einrichtung der OP-Verwaltung](/FIBUNext/OPVERWALTUNG/#einrichtung-der-op-verwaltung)) die Offenen Posten aufrufen.
+Über den Menüpunkt *Auswertung / OP* können Sie bei aktiver OP-Verwaltung (siehe Kapitel [Einrichtung der OP-Verwaltung](../OPVERWALTUNG.md#einrichtung-der-op-verwaltung)) die Offenen Posten aufrufen.
 
 
 ![Image](<img/NeuesElement165.png>)

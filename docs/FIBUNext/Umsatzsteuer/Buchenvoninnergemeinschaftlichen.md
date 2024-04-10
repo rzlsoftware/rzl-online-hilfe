@@ -18,7 +18,7 @@
 
 !!! warning "Hinweis"
 
-    Durch die Buchung mit dem Steuercode *M02* werden innergemeinschaftliche Lieferungen automatisch in die [Zusammenfassende Meldung](/FIBUNext/Auswertungen/ZusammenfassendeMeldung/) übernommen.
+    Durch die Buchung mit dem Steuercode *M02* werden innergemeinschaftliche Lieferungen automatisch in die [Zusammenfassende Meldung](../Auswertungen/ZusammenfassendeMeldung.md/) übernommen.
 
 
 **Automatische Skontobuchungen**

@@ -6,15 +6,13 @@ Die RZL Hilfe gebaut aus Markdown File mit Hilfe von [Material for MkDocs](https
 
 ## Contribute
 
-Für das Anpassen und Erstellen der RZL Hilfe werden [GitHub Codespaces](https://github.com/features/codespaces) verwendet.
+Für das Anpassen und Erstellen der RZL Hilfe werden [DevContainer](https://code.visualstudio.com/docs/devcontainers/containers) verwendet.  
+Diese können etweder lokal mit Hilfe von Docker oder in [GitHub Codespaces](https://github.com/features/codespaces) gestartet werden.  
 Dadurch kann sichergestellt werden, dass alle Abhängigkeiten und Tools bereits installiert und richtig eingerichtet sind.
 
-Der Ablauf für das Starten eines Codespaces ist wie folgt:
-![GitHub Codespaces](diagrams/codespaces.svg)
-
-Ist der Codespace vollständig gestartet und im [Visual Studio Code](https://code.visualstudio.com/) geöffnet, kann mit dem drücken der `F5` Taste eine live Preview gestartet werden.
+Ist der DevContainer oder Codespace vollständig gestartet und im [Visual Studio Code](https://code.visualstudio.com/) geöffnet, kann mit dem drücken der `F5` Taste eine live Preview gestartet werden.
 
 Im Hintergrund führt `F5` diesen Befehl aus:
-```
+```sh
 mkdocs serve
 ```
