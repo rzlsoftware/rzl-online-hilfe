@@ -4,7 +4,7 @@ Die Verwaltung offener Posten ist sowohl auf Personenkonten, als auch auf Bestan
 
 !!! info "Tipp"
 
-    Die OP Verwaltung sollte immer zu Beginn der Klientenanlage angewählt werden, da bei einer späteren Anwahl die offenen Posten nachträglich eingegeben werden müssen (siehe Kapitel [OP Bearbeiten](/FIBUNext/Erfassen/Buchen/OPBearbeiten)).
+    Die OP Verwaltung sollte immer zu Beginn der Klientenanlage angewählt werden, da bei einer späteren Anwahl die offenen Posten nachträglich eingegeben werden müssen (siehe Kapitel [OP Bearbeiten](Erfassen/OPBearbeiten.md)).
 
 !!! warning "Hinweis"
 
@@ -33,4 +33,4 @@ Die OP Verwaltung kann auch wieder deaktiviert werden (unter *Stamm / FIBU / All
 
 ### OP Zuteilung während des Buchens
 
-Weitere Informationen zur Zuteilung von offenen Posten während des Buchens finden Sie im Kapitel [Offene Posten Zuteilung](/FIBUNext/Erfassen/Buchen/Offene%20Posten%20Zuteilung).
+Weitere Informationen zur Zuteilung von offenen Posten während des Buchens finden Sie im Kapitel [Offene Posten Zuteilung](Erfassen/Buchen/Offene Posten Zuteilung/index.md).
