@@ -5,7 +5,7 @@
 
 Unter *Auswertungen / Zusammenfassende Meldung* erhalten Sie eine Auflistung aller die ZM betreffenden Buchungen des gewählten Monats (d.h. alle Buchungen mit Steuercode M02, M03, D02).
 
-Sie gelangen aus diesem Dialog auch direkt zur elektronischen ZM Übermittlung. (siehe Kapitel [Elektronische Übermittlung der ZM](FIBUNext/ElektronischeUbermittlungderZM.md))
+Sie gelangen aus diesem Dialog auch direkt zur elektronischen ZM Übermittlung. (siehe Kapitel [Elektronische Übermittlung der ZM](/FIBUNext/Elektronische Übermittlung an das Finanzamt/ElektronischeUbermittlungderZM))
 
 
 !!! warning "Hinweis"

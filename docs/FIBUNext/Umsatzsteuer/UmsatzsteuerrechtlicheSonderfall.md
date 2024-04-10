@@ -5,10 +5,10 @@
 ### Innerg. Lieferung neuer Fahrzeuge an Abnehmer ohne UID-Nr.
 
 
-| **Geschäftsfall** | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |  |  | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  | **Code** | **Prozent-satz** | **Steuertyp** |  |  |
-| Innergem. Lieferung neuer Fahrzeuge an Abnehmer ohne UID-Nummer bzw. Fahrzeuglieferer gem. Art. 2 | &#48;00, 018 | Umsatzsteuer | Steuerfrei | Fahrzeug ohne UID | \*2 | M\*2 |
+| **Geschäftsfall**                                                                                 | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |                  |                   | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
+| ------------------------------------------------------------------------------------------------- | ---------------------- | --------------------------------------- | ---------------- | ----------------- | ------------------------------------------------- | ----------------------------- |
+|                                                                                                   |                        | **Code**                                | **Prozent-satz** | **Steuertyp**     |                                                   |                               |
+| Innergem. Lieferung neuer Fahrzeuge an Abnehmer ohne UID-Nummer bzw. Fahrzeuglieferer gem. Art. 2 | &#48;00, 018           | Umsatzsteuer                            | Steuerfrei       | Fahrzeug ohne UID | \*2                                               | M\*2                          |
 
 
 
@@ -25,14 +25,14 @@ Bei Buchungen in Verbindung mit der Kennziffer *018* der UVA ist zwingend das Fo
 ### Buchen von echt bzw. unecht befreiten Umsätzen
 
 
-| **Geschäftsfall** | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |  |  | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  | **Code** | **Prozentsatz** | **Steuertyp** |  |  |
-| Lohnveredelungen §6 Abs 1 Z1 iVm §8 | &#48;00, 012 | Umsatzsteuer | Steuerfrei | Lohnveredelung Drittland | L01 | L01 |
-| § 6 Abs. 1 Z2 bis 6 sowie §23 Abs. 5 | &#48;00, 015 | Umsatzsteuer | Steuerfrei | Grenzüberschreitende Personenbeförderung | P01 | P01 |
-| Grundstücksumsätze §6 Abs. 1 Z9 lit.a | &#48;00, 019 | Umsatzsteuer | Steuerfrei | Grundstück Umsatz | G01\* | G01\* |
-| Kleinunternehmer §6 Abs. 1 Z27 | &#48;00, 016 | Umsatzsteuer | Steuerfrei | Kleinunternehmer Umsatz | K01\* | K01\* |
-| Unecht befreite Umsätze §6 Abs. 1 Z … | &#48;00,020 | Umsatzsteuer | Steuerfrei | Unecht befreit | &#48;1\* | M01\* |
+| **Geschäftsfall**                     | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |                 |                                          | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
+| ------------------------------------- | ---------------------- | --------------------------------------- | --------------- | ---------------------------------------- | ------------------------------------------------- | ----------------------------- |
+|                                       |                        | **Code**                                | **Prozentsatz** | **Steuertyp**                            |                                                   |                               |
+| Lohnveredelungen §6 Abs 1 Z1 iVm §8   | &#48;00, 012           | Umsatzsteuer                            | Steuerfrei      | Lohnveredelung Drittland                 | L01                                               | L01                           |
+| § 6 Abs. 1 Z2 bis 6 sowie §23 Abs. 5  | &#48;00, 015           | Umsatzsteuer                            | Steuerfrei      | Grenzüberschreitende Personenbeförderung | P01                                               | P01                           |
+| Grundstücksumsätze §6 Abs. 1 Z9 lit.a | &#48;00, 019           | Umsatzsteuer                            | Steuerfrei      | Grundstück Umsatz                        | G01\*                                             | G01\*                         |
+| Kleinunternehmer §6 Abs. 1 Z27        | &#48;00, 016           | Umsatzsteuer                            | Steuerfrei      | Kleinunternehmer Umsatz                  | K01\*                                             | K01\*                         |
+| Unecht befreite Umsätze §6 Abs. 1 Z … | &#48;00,020            | Umsatzsteuer                            | Steuerfrei      | Unecht befreit                           | &#48;1\*                                          | M01\*                         |
 
 
 
@@ -61,10 +61,10 @@ Die Eingangsrechnung des Lieferanten wird als innergemeinschaftlicher Erwerb ver
 \
 Der Erwerber fakturiert wiederum an den Empfänger. Legen Sie für diese Sachverhalte ein eigenes Erlöskonto mit folgender Steuerhinterlegung an:
 
-| **Geschäftsfall** | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |  |  | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  | **Code** | **Prozentsatz** | **Steuertyp** |  |  |
-| Erlöse gem Art. 25 UStG | nur in ZM | Umsatzsteuer | Steuerfrei | Innerg. Dreiecksgeschäft | D02 | D02 |
+| **Geschäftsfall**       | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |                 |                          | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
+| ----------------------- | ---------------------- | --------------------------------------- | --------------- | ------------------------ | ------------------------------------------------- | ----------------------------- |
+|                         |                        | **Code**                                | **Prozentsatz** | **Steuertyp**            |                                                   |                               |
+| Erlöse gem Art. 25 UStG | nur in ZM              | Umsatzsteuer                            | Steuerfrei      | Innerg. Dreiecksgeschäft | D02                                               | D02                           |
 
 
 
@@ -80,10 +80,10 @@ Beim OP-Ausgleich mit Skonto wird der Skontobetrag, als Einzelbuchung mit der UI
 **Empfänger** **gem.** **Art.** **25** **Abs.** **5** **UStG**\
 Als Empfänger bestellt man die Ware beim Erwerber und bekommt sie vom Lieferanten geliefert. Die Eingangsrechnung des Erwerbers wird z.B. mit D20 auf einem Aufwandskonto verbucht.\
 
-| **Geschäftsfall** | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |  |  | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  | **Code** | **Prozentsatz** | **Steuertyp** |  |  |
-| Empfänger gem Art 25 UStG | &#48;57,066 | Vorsteuer, Reverse Charge | &#50;0/19/13/ 10 | Dreiecksgeschäft | D20/19/13/10 | D20/19/13/10 |
+| **Geschäftsfall**         | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |                  |                  | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
+| ------------------------- | ---------------------- | --------------------------------------- | ---------------- | ---------------- | ------------------------------------------------- | ----------------------------- |
+|                           |                        | **Code**                                | **Prozentsatz**  | **Steuertyp**    |                                                   |                               |
+| Empfänger gem Art 25 UStG | &#48;57,066            | Vorsteuer, Reverse Charge               | &#50;0/19/13/ 10 | Dreiecksgeschäft | D20/19/13/10                                      | D20/19/13/10                  |
 
 
 
