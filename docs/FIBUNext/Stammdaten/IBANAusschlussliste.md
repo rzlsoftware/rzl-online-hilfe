@@ -4,5 +4,5 @@
 
 
 
-Nähere Informationen dazu finden Sie im Kapitel [Retourdatenverarbeitung mittels CAMT-Dateien](/FIBUNext/Erfassen/RetourdatenverarbeitungMittelsCAMT-Dateien/#ausschlussliste-iban).
+Nähere Informationen dazu finden Sie im Kapitel [Retourdatenverarbeitung mittels CAMT-Dateien](../Erfassen/RetourdatenverarbeitungMittelsCAMT-Dateien.md#ausschlussliste-iban).
 

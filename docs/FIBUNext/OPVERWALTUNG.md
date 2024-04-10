@@ -33,4 +33,4 @@ Die OP Verwaltung kann auch wieder deaktiviert werden (unter *Stamm / FIBU / All
 
 ### OP Zuteilung während des Buchens
 
-Weitere Informationen zur Zuteilung von offenen Posten während des Buchens finden Sie im Kapitel [Offene Posten Zuteilung](/FIBUNext/Erfassen/Buchen/Offene%20Posten%20Zuteilung).
+Weitere Informationen zur Zuteilung von offenen Posten während des Buchens finden Sie im Kapitel [Offene Posten Zuteilung](Erfassen/Buchen/Offene Posten Zuteilung/index.md).
