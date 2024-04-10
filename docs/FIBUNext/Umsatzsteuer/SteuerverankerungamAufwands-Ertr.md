@@ -4,5 +4,5 @@
 
 
 Die Berücksichtigung in der UVA und Buchung mit Steuersätzen ist abhängig von der Kontoart und den jeweils hinterlegten Steuercodes in den Kontostammdaten. \
-Unter *Stammdaten / Konten* kann die Steuerhinterlegung des angewählten Sachkontos in den Feldern USt-Code, Prozentsatz und Steuertyp eingegeben werden. (siehe Kapitel [Kontenplan anlegen](/FIBUNext/Stammdaten%20Vorlagen/Kontenplane/#kontenplan-anlegen))
+Unter *Stammdaten / Konten* kann die Steuerhinterlegung des angewählten Sachkontos in den Feldern USt-Code, Prozentsatz und Steuertyp eingegeben werden. (siehe Kapitel [Kontenplan anlegen](../Stammdaten Vorlagen/Kontenplane.md/#kontenplan-anlegen))
 

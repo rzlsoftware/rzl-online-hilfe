@@ -40,5 +40,5 @@ Abb. 1 Anlagevermögen KU1
 ## Ausdruck Kammerumlage KU1
 
 
-Die Kammerumlage wird am Ausdruck *USt-Aufstellung* quartalsweise berechnet und mitangeführt. (siehe Kapitel [Ausdruck USt-Aufstellung](/FIBUNext/Ausdrucke/USt-Aufstellung))
+Die Kammerumlage wird am Ausdruck *USt-Aufstellung* quartalsweise berechnet und mitangeführt. (siehe Kapitel [Ausdruck USt-Aufstellung](Ausdrucke/USt-Aufstellung.md))
 
