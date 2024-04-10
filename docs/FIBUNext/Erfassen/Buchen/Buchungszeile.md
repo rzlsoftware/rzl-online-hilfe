@@ -10,7 +10,7 @@ Bevor Sie mit dem Buchen starten können, müssen Sie die Buchungsoptionen *Bele
 
 
 **Belegkreis**  
-Sie können zwischen den Belegkreisen wählen, die unter *Stammdaten / Belegkreise* angelegt wurden. (Der Belegkreis EB kann nur im Stapel Eröffnungsbilanz bebucht werden. Siehe Kapitel [Eröffnungsbilanz](/FIBUNext/Erfassen/Eröffnungsbilanz))
+Sie können zwischen den Belegkreisen wählen, die unter *Stammdaten / Belegkreise* angelegt wurden. (Der Belegkreis EB kann nur im Stapel Eröffnungsbilanz bebucht werden. Siehe Kapitel [Eröffnungsbilanz](../Eröffnungsbilanz/index.md))
 
 
 **Buchungsart**  
@@ -106,7 +106,7 @@ Hier können Sie die Konten je nach Sachverhalt eingeben. Weitere Funktionen fin
 Im Feld Code können Sie den gewünschten Steuercode eingeben. Ist in den Kontostammdaten der Aufwands- bzw. Erlöskonten ein Steuercode hinterlegt, wird dieser automatisch vorgeschlagen.
 
 
-Näheres zum Buchen mit Steuer bzw. den einzelnen Steuercodes finden Sie im Kapitel [Umsatzsteuer](/FIBUNext/Umsatzsteuer).
+Näheres zum Buchen mit Steuer bzw. den einzelnen Steuercodes finden Sie im Kapitel [Umsatzsteuer](../../Umsatzsteuer/index.md).
 
 
 ***OP Nummer***  
@@ -131,7 +131,7 @@ Abschließend kann noch ein Buchungstext eingegeben werden. Auch hier finden Sie
 
 !!! info "Tipp"
 
-    Das Anlegen von standardisierten Buchungstexten (siehe Kapitel [Buchungstextgruppen](/FIBUNext/Stammdaten/Buchungstextgruppen)) bedeutet eine wesentliche Zeitersparnis beim Buchen, da die jeweils angelegten Buchungstexte mit der F3-Taste aufgerufen und mit der ENTER-Taste einfach übernommen werden können.
+    Das Anlegen von standardisierten Buchungstexten (siehe Kapitel [Buchungstextgruppen](../../Stammdaten/Buchungstextgruppen.md)) bedeutet eine wesentliche Zeitersparnis beim Buchen, da die jeweils angelegten Buchungstexte mit der F3-Taste aufgerufen und mit der ENTER-Taste einfach übernommen werden können.
 
 
 

@@ -1,1 +1,0 @@
-Hier werden automatisch alle Diagramme aus der GitHub Action abgelegt.

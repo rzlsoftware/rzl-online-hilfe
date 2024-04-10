@@ -2,7 +2,7 @@
 
 ### OP Bearbeiten
 
-Dieser Programmteil ermöglicht Ihnen die händische Bearbeitung von Offenen Posten. Dies kann nützlich sein, wenn Sie bspw. während des Jahres mit der Offenen Postenverwaltung (siehe Kapitel [Offene Postenverwaltung](/FIBUNext/OPVERWALTUNG)) beginnen.
+Dieser Programmteil ermöglicht Ihnen die händische Bearbeitung von Offenen Posten. Dies kann nützlich sein, wenn Sie bspw. während des Jahres mit der Offenen Postenverwaltung (siehe Kapitel [Offene Postenverwaltung](../OPVERWALTUNG.md)) beginnen.
 
 Alle in diesem Menüpunkt durchgeführten Änderungen betreffen nur die Offenen Posten bzw OP Liste – es erfolgt keine Buchung!
 
