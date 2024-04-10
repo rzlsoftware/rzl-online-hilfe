@@ -8,6 +8,6 @@
             "runtimeExecutable": "mkdocs",
             "args": "--color serve",
             "console": "integratedTerminal"
-        },
+        }
     ]
 }
