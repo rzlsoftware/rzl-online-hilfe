@@ -1456,7 +1456,7 @@ Regeln anzulegen bzw. manuell Werte zu erfassen:
 > (z.B. der Steuerbetrag, wenn *Gesamtnetto-* & *Gesamtbruttobetrag*
 > ausgelesen wurden).
 >
-> ![](.\img/image41.png) Importiert von einer XML-Datei
+> ![](img/image41.png) Importiert von einer XML-Datei
 >
 > <img src=".\img/image42.png"
 > style="width:0.16665in;height:0.16665in" /> Das Feld Name/Anschrift
@@ -1475,7 +1475,7 @@ angezeigt (Mauszeiger auf das Symbol stellen)!
     den aktuellen Beleg einmalig übernommen und gespeichert (keine
     Auswirkung auf zukünftige Belege)
 
-> ![](.\img/image43.png) *Regel anlegen:* Dieses Symbol
+> ![](img/image43.png) *Regel anlegen:* Dieses Symbol
 > steht zur Verfügung, um eine Regel für ein bestimmtes Feld anzulegen,
 > wenn die *RZL Belegdatenerkennung* den Wert nicht richtig auslesen
 > konnte. Markieren Sie dazu den gewünschten Wert am Beleg und klicken
