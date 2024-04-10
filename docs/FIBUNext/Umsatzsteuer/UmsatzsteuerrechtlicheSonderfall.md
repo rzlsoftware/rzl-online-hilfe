@@ -56,7 +56,7 @@ Für den Lieferanten entsteht eine innergemeinschaftliche Lieferung.
 
 **Erwerber** **gem.** **Art.** **25** **UStG**\
 Als Erwerber erwirbt man die Ware vom Lieferanten und lässt sie an den Empfänger liefern.\
-Die Eingangsrechnung des Lieferanten wird als innergemeinschaftlicher Erwerb verbucht. Verwenden Sie die Steuersätze *E02* oder *E03*. (siehe auch Kapitel [Buchen von innergemeinschaftlichen Erwerben](Buchenvoninnergemeinschaftliche2.md))
+Die Eingangsrechnung des Lieferanten wird als innergemeinschaftlicher Erwerb verbucht. Verwenden Sie die Steuersätze *E02* oder *E03*. (siehe auch Kapitel [Buchen von innergemeinschaftlichen Erwerben](BuchenvoninnergemeinschaftlichenErwerben.md))
 
 \
 Der Erwerber fakturiert wiederum an den Empfänger. Legen Sie für diese Sachverhalte ein eigenes Erlöskonto mit folgender Steuerhinterlegung an:
