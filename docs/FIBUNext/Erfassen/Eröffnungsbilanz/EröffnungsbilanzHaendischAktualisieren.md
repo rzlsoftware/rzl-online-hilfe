@@ -10,7 +10,7 @@ Dazu öffnen Sie den Menüpunkt *Erfassen / Eröffnungsbilanz*.
 
 Hier haben Sie die Möglichkeit die EB aller Konten, bei denen Eröffnungsbilanz buchen hinterlegt ist, zu aktualisieren ***(1)*** oder generell die EB aller Konten zu aktualisieren, egal welche Einstellung hier hinterlegt ist ***(2)***.
 
-Die Einstellung, dass bei einem Konto die Eröffnungsbilanz gebucht werden soll, kann entweder generell für Kontengruppen in den Klientenstammdaten (siehe Kapitel [Eröffnungsbilanz](FIBUNext/Eroffnungsbilanz.md)) hinterlegt werden, oder pro Konto in den Kontostammdaten.
+Die Einstellung, dass bei einem Konto die Eröffnungsbilanz gebucht werden soll, kann entweder generell für Kontengruppen in den Klientenstammdaten (siehe Kapitel [Eröffnungsbilanz](index.md)) hinterlegt werden, oder pro Konto in den Kontostammdaten.
 
 
 Abb. 1 EB-Stapel aktualisieren

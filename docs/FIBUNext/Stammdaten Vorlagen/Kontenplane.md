@@ -25,7 +25,7 @@ Weiters können Sie hier die Maximalanzahl der Stellen für Sachkonten und Perso
 
 ![Image](<img/NeuesElement94.png>){width="80"}
 
-Die Option *Kontonummernbereiche prüfen* ***(2)*** bewirkt, dass in den angelegten Kontenbereichen überprüft wird, ob bereits angelegte Konten vorhanden sind, die nicht der hinterlegten Validierung entsprechen. (siehe Kapitel [Kontenplan anlegen](/FIBUNext/Stammdaten%20Vorlagen/Kontenplane/#kontenplan-anlegen))
+Die Option *Kontonummernbereiche prüfen* ***(2)*** bewirkt, dass in den angelegten Kontenbereichen überprüft wird, ob bereits angelegte Konten vorhanden sind, die nicht der hinterlegten Validierung entsprechen. (siehe Kapitel [Kontenplan anlegen](#kontenplan-anlegen))
 
 Unten wird eine Liste mit den verfügbaren USt-Ländern angezeigt. Durch das Aktivieren eines USt-Landes werden im Bereich der Pflichtkonten für die Punkte USt, Skontoaufwand und Skontoertrag eigene Felder pro aktiviertem USt-Land angezeigt und Sie haben dort die Möglichkeit die jeweiligen Konten zu hinterlegen.
 
@@ -42,7 +42,7 @@ Wird hier der Button *Fortsetzen* angewählt, werden alle hinterlegten Pflichtko
 
 #### Register Gliederungen
 
-Im Register *Gliederungen* haben Sie die Möglichkeit eine oder mehrere der angelegten KER-Gliederungen dem Kontenplan zuzuordnen. Die ausgewählte Gliederung kann anschließend bei der Anlage von Konten für deren Zuordnung zur Gliederung der kurzfristigen Erfolgsrechnung verwendet werden. Das Anlegen und Bearbeiten von KER-Gliederungen wird im Kapitel [KER-Gliederungen](/FIBUNext/Stammdaten/KER%20Gliederungen) beschrieben.
+Im Register *Gliederungen* haben Sie die Möglichkeit eine oder mehrere der angelegten KER-Gliederungen dem Kontenplan zuzuordnen. Die ausgewählte Gliederung kann anschließend bei der Anlage von Konten für deren Zuordnung zur Gliederung der kurzfristigen Erfolgsrechnung verwendet werden. Das Anlegen und Bearbeiten von KER-Gliederungen wird im Kapitel [KER-Gliederungen](../Stammdaten/KER%20Gliederungen/index.md) beschrieben.
 
 
 ![Image](<img/NeuesElement92.png>){width="600"}
@@ -94,7 +94,7 @@ Legen Sie ein Aufwandskonto an, erscheint zusätzlich das Feld *Anlagevermögen 
 #### Bestandskonto anlegen
 
 Legen Sie ein Bestandskonto an, erscheint zusätzlich das Feld *Eröffnungsbilanz buchen.* Aktivieren Sie diese Option, wird die Eröffnungsbilanz auf diesem Konto bei der Jahresübernahme automatisch gebucht. \
-Diese Option kann ebenso in den Klientenstammdaten für alle Bestandskonten eines Klienten gesetzt werden (vgl. Kapitel [Neues Wirtschaftsjahr anlegen](/FIBUNext/Stamm/Allgemein/NeuesWirtschaftsjahranlegen)).
+Diese Option kann ebenso in den Klientenstammdaten für alle Bestandskonten eines Klienten gesetzt werden (vgl. Kapitel [Neues Wirtschaftsjahr anlegen](../Stamm/Allgemein/NeuesWirtschaftsjahranlegen.md)).
 
 
 ![Image](<img/NeuesElement87.png>)
@@ -130,7 +130,7 @@ Im Bereich ***Skontoertrag*** haben Sie die Möglichkeit die Konten für die aut
 
 ![Image](<img/NeuesElement82.png>)
 
-Im Bereich ***Anzahlungen*** können Sie die Pflichtkonten für die Verbuchung von Anzahlungen hinterlegen. Genaueres zur Anzahlungsverbuchung finden Sie im Kapitel [Anzahlungen](/FIBUNext/Erfassen/Anzahlungen/ErhalteneAnzahlungenvonDebitoren).
+Im Bereich ***Anzahlungen*** können Sie die Pflichtkonten für die Verbuchung von Anzahlungen hinterlegen. Genaueres zur Anzahlungsverbuchung finden Sie im Kapitel [Anzahlungen](../Erfassen/Anzahlungen/ErhalteneAnzahlungenvonDebitoren.md).
 
 
 ![Image](<img/NeuesElement81.png>)
