@@ -4,7 +4,7 @@ Die Verwaltung offener Posten ist sowohl auf Personenkonten, als auch auf Bestan
 
 !!! info "Tipp"
 
-    Die OP Verwaltung sollte immer zu Beginn der Klientenanlage angewählt werden, da bei einer späteren Anwahl die offenen Posten nachträglich eingegeben werden müssen (siehe Kapitel [OP Bearbeiten](/FIBUNext/Erfassen/Buchen/OPBearbeiten)).
+    Die OP Verwaltung sollte immer zu Beginn der Klientenanlage angewählt werden, da bei einer späteren Anwahl die offenen Posten nachträglich eingegeben werden müssen (siehe Kapitel [OP Bearbeiten](Erfassen/OPBearbeiten.md)).
 
 !!! warning "Hinweis"
 
