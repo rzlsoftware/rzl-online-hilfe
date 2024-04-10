@@ -7,8 +7,8 @@ docs_dir: docs
 theme:
   name: material
   language: de
-  logo: assets/RZL_Herz_weisz.svg
-  favicon: assets/RZL_Herz_rot.svg
+  logo: img/RZL_Herz_weisz.svg
+  favicon: img/RZL_Herz_rot.svg
   features:
     - navigation.instant
     - navigation.instant.progress
