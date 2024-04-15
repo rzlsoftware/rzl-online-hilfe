@@ -4,54 +4,47 @@
 
 
 
-Durch Anwählen der Schaltfläche *Buchungstextgruppen* in den allgemeinen FIBU -Stammdaten, gelangen Sie zur Verwaltung der Buchungstextgruppen.
+Durch Anwählen der Schaltfläche *Buchungstextgruppen* in den allgemeinen FIBU-Stammdaten, gelangen Sie zur Verwaltung der Buchungstextgruppen.
 
-Abb. 1 FIBU Stammdaten
 
 ![Image](<img/NeuesElement198.png>)
 
 
 Es wird eine Liste aller angelegten Buchungstextgruppen angezeigt
 
-Abb. 2 Buchungstextgruppen
 
 ![Image](<img/NeuesElement196.png>)
 
 ### Buchungstextgruppe anlegen
 
 
-Mit einem Klick auf die Schaltfläche *Neue Buchungstextgruppe **(1)*** öffnet sich ein Dialog zur Vergabe einer Bezeichnung für die neu anzulegende Buchungstextgruppe.
+Mit einem Klick auf die Schaltfläche *Neue Buchungstextgruppe* **(1)** öffnet sich ein Dialog zur Vergabe einer Bezeichnung für die neu anzulegende Buchungstextgruppe.
 
-Abb. 3 Buchungstextgruppe– Neue Buchungstextgruppe anlegen – Vergabe Bezeichnung
-
-![Image](<img/NeuesElement195.png>)
+![Image](<img/NeuesElement195.png>){width="400"}
 
 
 Nach Vergabe einer Bezeichnung für die neue Buchungstextgruppe öffnet sich ein neues Fenster. Darin können Sie mithilfe der Schaltfläche *Neuer Buchungstext* am linken oberen Bildrand bzw. am rechten unteren Bildrand einen neuen Buchungstext anlegen.
 
-Abb. 4 Buchungstextgruppe–Buchungstext anlegen
 
 ![Image](<img/NeuesElement194.png>)
 
 Im Anschluss öffnet sich unten das Detail und Sie müssen folgende Felder befüllen:
 
-| Nummer | Nummerierung des Buchungstextes. |
+| *Feld* | *Beschreibung* |
 | --- | --- |
+| Nummer | Nummerierung des Buchungstextes. |
 | Buchungstext | Festlegung der Bezeichnung des Buchungstextes. |
 
 
 
-Haben Sie einen Buchungstext ausgewählt kann dieser Mithilfe der Schaltfläche *Buchungstext löschen* bzw. mit der ENTF-Taste entfernt werden.
+Haben Sie einen Buchungstext ausgewählt kann dieser Mithilfe der Schaltfläche *Buchungstext löschen* bzw. mit der Entf-Taste entfernt werden.
 
-Abb. 5 Buchungstextgruppe–Buchungstext löschen
 ![Image](<img/NeuesElement193.png>)
 
 ### Buchungstextgruppe bearbeiten
 
 
 Durch Anwahl einer der Buchungstextgruppen in der Liste und der Schaltfläche *Buchungstextgruppe bearbeiten* **(1),** können Sie die ausgewählte Buchungstextgruppe weiter bearbeiten. Diese Möglichkeit haben Sie ebenso mit einem Doppelklick auf die jeweilige Gruppe.
-
-Abb. 6 Buchungstextgruppe bearbeiten
 
 ![Image](<img/NeuesElement192.png>)
 
@@ -60,7 +53,7 @@ Anschließend öffnet sich die ausgewählte Buchungstextgruppe im Detail und Sie
 ### Buchungstextgruppe umbenennen
 
 
-Haben Sie in der Liste eine Buchungstextgruppe ausgewählt und klicken auf die Schaltfläche *Buchungstextgruppe umbenennen* **(2),** können Sie den Titel der ausgewählten Buchungstextgruppe verändern. Eine Buchungstextgruppe kann auch durch einen Mausklick auf den Titel der umbenannt werden.
+Haben Sie in der Liste eine Buchungstextgruppe ausgewählt und klicken auf die Schaltfläche *Buchungstextgruppe umbenennen* **(2)**, können Sie den Titel der ausgewählten Buchungstextgruppe verändern. Eine Buchungstextgruppe kann auch durch einen Mausklick auf den Titel der Buchungstextgruppe umbenannt werden.
 
 ### Buchungstextgruppe löschen
 
@@ -74,9 +67,7 @@ Haben Sie in der Liste der Buchungstextgruppen eine Buchungstextgruppe ausgewäh
 
 Hier können Sie die Bezeichnung für die zu duplizierende Buchungstextgruppe vergeben. Klicken Sie anschließend auf *Speichern*, scheint die neu Buchungstextgruppe mit der gewünschten Bezeichnung in der Liste der Buchungstextgruppen auf.
 
-Abb. 7 Buchungstextgruppe duplizieren – Vergabe Bezeichnung
-
-![Image](<img/NeuesElement191.png>)
+![Image](<img/NeuesElement191.png>){width="400"}
 
 ### Buchungstextgruppe auf Klient überspielen
 
@@ -85,8 +76,6 @@ Mithilfe der Schaltfläche *Buchungstextgruppe auf Klient überspielen* **(5)**,
 
 Im Anschluss öffnet sich die Klientenliste und Sie können die gewählte Buchungstextgruppe einem bzw. mehreren Klienten zuweisen.
 
-Abb. 8 Buchungstextgruppe auf Klient überspielen
-
 ![Image](<img/NeuesElement190.png>)
 
 
@@ -94,8 +83,6 @@ Abb. 8 Buchungstextgruppe auf Klient überspielen
 
 
 In den FIBU-Klientenstammdaten finden Sie im Menü den Punkt *Buchungstexte*. Wählen Sie diese an, erhalten Sie eine Liste aller angelegten Buchungstexte für diesen Klienten.
-
-Abb. 9 Buchungstexte Klientenebene
 
 ![Image](<img/NeuesElement127.png>)
 
