@@ -103,6 +103,6 @@ Haben Sie in der Liste der KER-Gliederungen eine Gliederung ausgewählt und klic
 Hier können Sie anschließend die Bezeichnung für die zu duplizierende Gliederung vergeben. Klicken Sie anschließend auf Speichern, scheint die Gliederung mit der gewünschten Bezeichnung in der Liste der Gliederungen auf.
 
 
-![Image](<img/NeuesElement179.png>)
+![Image](<img/NeuesElement179.png>){width="400"}
 
 

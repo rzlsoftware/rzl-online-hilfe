@@ -93,7 +93,7 @@ Legen Sie ein Aufwandskonto an, erscheint zusätzlich das Feld *Anlagevermögen 
 
 #### Bestandskonto anlegen
 
-Legen Sie ein Bestandskonto an, erscheint zusätzlich das Feld *Eröffnungsbilanz buchen.* Aktivieren Sie diese Option, wird die Eröffnungsbilanz auf diesem Konto bei der Jahresübernahme automatisch gebucht. \
+Legen Sie ein Bestandskonto an, erscheint zusätzlich das Feld *Eröffnungsbilanz buchen.* Aktivieren Sie diese Option, wird die Eröffnungsbilanz auf diesem Konto bei der Jahresübernahme automatisch gebucht.  
 Diese Option kann ebenso in den Klientenstammdaten für alle Bestandskonten eines Klienten gesetzt werden (vgl. Kapitel [Neues Wirtschaftsjahr anlegen](../Stamm/Allgemein/NeuesWirtschaftsjahranlegen.md)).
 
 
