@@ -6,8 +6,6 @@
 Sind beim geöffneten Klienten bereits Buchungsstapel vorhanden, gelangen Sie über den Menüpunkt *Erfassen / Buchen* zuerst in die *Stapelverwaltung*. Hier erhalten Sie eine Übersicht über alle Buchungsstapel die noch nicht finalisiert wurden.
 
 
-Abb. 1 Stapelverwaltung
-
 ![Image](<img/NeuesElement28.png>)
 
 
@@ -26,8 +24,6 @@ Auch über die Schaltfläche ![Image](<img/NeuesElement27.png>) können Sie eine
 Mit den Filter- und Sortieroptionen können Sie die Ansicht der Stapelverwaltung individuell anpassen.
 
 
-Abb. 2 Filter- und Sortieroptionen
-
 ![Image](<img/NeuesElement26.png>)
 
 
@@ -37,8 +33,6 @@ Auch über die Funktionen unter ***Gruppieren und Sortieren*** ***(4*)** sind An
 Die ***Stapelfunktionen*** finden Sie auch direkt beim Buchen im Buchungsstapel ***(5)*.**
 
 
-Abb. 3 Stapelfunktionen im Buchungsstapel
-
 ![Image](<img/NeuesElement25.png>)
 
 
@@ -47,8 +41,6 @@ Der Stapel kann durch schließen des Registers ***(6)*** oder mit der *Esc-Taste
 
 Beim erstmaligen Schließen des Buchungsstapels öffnet sich der Dialog *Buchungsstapel benennen* mit einem Standardvorschlag zur Bezeichnung des Stapels.
 
-
-Abb. 4 Buchungsstapel benennen
 
 ![Image](<img/NeuesElement24.png>)
 
@@ -60,7 +52,6 @@ Abb. 4 Buchungsstapel benennen
 Solange der Stapel noch nicht finalisiert wurde, gibt es die Möglichkeit, eine Buchung zu ändern bzw. zu löschen.
 
 
-Abb. 5 Buchungsfunktionen
 
 ![Image](<img/NeuesElement23.png>)
 
@@ -75,17 +66,13 @@ Die oben genannten Optionen finden Sie auch im Kontextmenü mit rechten Mausklic
 
 
 
-**HINWEIS**
-
-Wurde der Stapel bereits finalisiert, kann eine Buchung nur mehr durch eine Stornobuchung korrigiert werden. Diese Sperre ist aufgrund der Bestimmungen der BAO für eine ordnungsgemäße Finanzbuchhaltung erforderlich.
+!!! warning "Hinweis"
+    Wurde der Stapel bereits finalisiert, kann eine Buchung nur mehr durch eine Stornobuchung korrigiert werden. Diese Sperre ist aufgrund der Bestimmungen der BAO für eine ordnungsgemäße Finanzbuchhaltung erforderlich.
 
 
 
 ### Belegverarbeitung
 
-
-
-Abb. 6 Belegverarbeitung
 
 ![Image](<img/NeuesElement22.png>)
 
@@ -95,9 +82,8 @@ Wenn Sie bei den Buchungsoptionen die Belegliste aktiviert haben und mit Belegen
 Die Belege können auch mit einem Klick auf das Belegsymbol, mit rechter Maustaste oder F7 in der jeweiligen Buchungszeile geöffnet werden.
 
 
-**TIPP**
-
-Genauere Informationen zur Belegverarbeitung finden Sie im Handbuch *Belegverarbeitung.* Dieses kann über den Menüpunkt *Hilfe / Handbuch / Belegverarbeitung* aufgerufen werden.
+!!! info "Tipp"
+    Genauere Informationen zur Belegverarbeitung finden Sie im Handbuch *Belegverarbeitung.* Dieses kann über den Menüpunkt *Hilfe / Handbuch / Belegverarbeitung* aufgerufen werden.
 
 
 

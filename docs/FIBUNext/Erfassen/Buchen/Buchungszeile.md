@@ -14,10 +14,10 @@ Sie können zwischen den Belegkreisen wählen, die unter *Stammdaten / Belegkrei
 
 
 **Buchungsart**  
-*Gegenbuchung:* 
+***Gegenbuchung:*** 
 Bei dieser Buchungsart ist in jeder Buchungszeile jeweils das Sollkonto und das Habenkonto einzugeben.  
-*Sammelbuchung:*
-Bei der Buchungsart Sammelbuchung muss das jeweilige Sammelkonto angegeben werden. Handelt es sich bei diesem Konto um ein Bestandskonto, so wird der Kontosaldo unter *Anfangssaldo* ausgewiesen. Bei der Buchungsart mit Sammelbuchung kann in jeder Buchungszeile jeweils nur ein Konto eingegeben werden. In dieser Buchungsart werden üblicherweise die Bank- und Kassabuchungen vorgenommen.
+***Sammelbuchung:***
+Bei der Buchungsart Sammelbuchung muss das jeweilige *Sammelkonto* angegeben werden. Handelt es sich bei diesem Konto um ein Bestandskonto, so wird der Kontosaldo unter *Anfangssaldo* ausgewiesen. Bei der Buchungsart mit Sammelbuchung kann in jeder Buchungszeile jeweils nur ein Konto eingegeben werden. In dieser Buchungsart werden üblicherweise die Bank- und Kassabuchungen vorgenommen.
 
 
 
@@ -162,9 +162,8 @@ Der nächste Schritt ist die Verbuchung auf den jeweiligen Sachkonten. Sie könn
 Im Kontrollfeld wird der jeweils eingegebene Teilbetrag von der Gesamtsumme brutto abgezogen, der restliche noch *auszugleichende Betrag* scheint auf. Erst wenn alle Einzelbuchungen in Summe wieder den Gesamtbetrag ergeben, erfolgt durch das Programm die Abfrage, ob die Splitbuchung beendet werden soll. Bestätigen Sie diese Abfrage mit *JA*, so wird die Buchung abgeschlossen.
 
 
-**Hinweis**
-
-Die Buchungen auf den jeweiligen Sachkonten können geändert werden, auch nach Abschluss der Splitbuchung. Das Sammelkonto jedoch kann nicht geändert werden.
+!!! warning "Hinweis"
+    Die Buchungen auf den jeweiligen Sachkonten können geändert werden, auch nach Abschluss der Splitbuchung. Das Sammelkonto jedoch kann nicht geändert werden.
 
 
 #### Verbuchung von Nettobeträgen
