@@ -24,11 +24,11 @@ Wenn Sie hier eine neue Bankverbindung eingeben, öffnet sich automatisch die Pe
 ![Image](<img/NeuesElement116.png>)
 
 
-**Beschreibung** **der** **Eingabefelder:**
+**Beschreibung der Eingabefelder:**
 
-
-| **Land**                                                | In welchem Land das Bankkonto geführt wird                                                                                                                                  |
-| ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Feld**                                                | **Beschreibung** |
+|--------------------------------------- ---------------- | -------------------------------------------------------------------------------- |
+| **Land**                                                | In welchem Land das Bankkonto geführt wird |
 | **IBAN**                                                | IBAN (International Bank Account Number) des entsprechenden Bankkontos                                                                                                      |
 | **BIC**                                                 | BIC (Business Identifier Code) der kontoführenden Bank (wird aus der Bankverbindung in den Personenstammdaten übernommen)                                                   |
 | **Geldinstitut**                                        | Bei ausgefülltem BIC wird dieses Feld automatisch befüllt (wird aus der Bankverbindung in den Personenstammdaten übernommen)                                                |
@@ -49,4 +49,4 @@ Wenn Sie hier eine neue Bankverbindung eingeben, öffnet sich automatisch die Pe
 
 !!! warning "Hinweis"
 
-    Bankverbindungen können nur für das Land Österreich und die Währung EUR angelegt werden.
+    Bankverbindungen können nur für das Land **Österreich** und die Währung **EUR** angelegt werden.
