@@ -5,34 +5,30 @@
 
 Unter *Stammdaten / Belegkreise* können Sie die Belegkreise für den geöffneten Klienten verwalten.
 
-Abb. 1 Verwaltung Belegkreise
 ![Image](<img/NeuesElement126.png>)
 
 ### Belegkreis anlegen
 
 
-Über die Schaltfläche *Neuer Belegkreis **(1)*** können Sie einen neuen Belegkreis anlegen. Anschließend müssen Sie ein Kürzel für den *Belegkreis* sowie die *Bezeichnung* ***(2)*** des Belegkreises vergeben. Belegkreise können pro Wirtschaftsjahr verwaltet werden. Sie können zwischen den angelegten Wirtschaftsjahren auswählen ***(3)*.**
+Über die Schaltfläche *Neuer Belegkreis* **(1)** können Sie einen neuen Belegkreis anlegen. Anschließend müssen Sie ein Kürzel für den *Belegkreis* sowie die *Bezeichnung* **(2)** des Belegkreises vergeben. Belegkreise können pro Wirtschaftsjahr verwaltet werden. Sie können zwischen den angelegten Wirtschaftsjahren auswählen **(3)**.
 
 Die weiteren Einstellungsmöglichkeiten pro Belegkreis finden Sie im folgenden Kapitel [Belegkreis bearbeiten](<Belegkreise.md#Belegkreis\_bearbeiten>).
 
-Abb. 2 Belegkreis anlegen
 
-### ![Image](<img/NeuesElement125.png>)
+![Image](<img/NeuesElement125.png>)
 
 ### Belegkreis bearbeiten
 
 
 Wählen Sie einen der angelegten Belegkreise in der Liste aus, können Sie diesen im Detail bearbeiten.
 
-Abb. 3 Belegkreis bearbeiten
 
 ![Image](<img/NeuesElement124.png>)
 
-### Beschreibung der Eingabefelder:
 
-
-| **Belegkreis** | Kürzel für den Belegkreis (z.B. AR, ER, BK, KA, usw.). Hier ist die Eingabe von max. 3 Zeichen möglich. |
+| *Feld* | *Beschreibung* |
 | --- | --- |
+| **Belegkreis** | Kürzel für den Belegkreis (z.B. AR, ER, BK, KA, usw.). Hier ist die Eingabe von max. 3 Zeichen möglich. |
 | **Bezeichnung** | Bezeichnung für den Belegkreis. Hier ist die Eingabe von max. 60 Zeichen möglich. |
 | **Belegnummer** **als** **OP-Nummer vorschlagen** | Die eingegebene Belegnummer beim Buchen wird als OP-Nummer automatisch vorgeschlagen. Dieses Feld schließt sich mit dem Feld Fremdbeleg-Nr. als OP-Nummer vorschlagen gegenseitig aus. |
 | **Eingabe** **Fremdbelegnummer** | Beim Buchen innerhalb dieses Belegkreises wird die Eingabe einer Fremdbelegnummer verfügbar. Setzen Sie diese Option wird das Feld Fremdbeleg-Nr. als OP-Nummer vorschlagen freigeschaltet. |
@@ -52,24 +48,20 @@ Abb. 3 Belegkreis bearbeiten
 
 Mit einem Klick auf die Schaltfläche *Belegkreis löschen* wird der angelegte Belegkreis gelöscht.
 
-Abb. 4 Belegkreis löschen I
+
 ![Image](<img/NeuesElement123.png>)
 
-Abb. 5 Belegkreis löschen II
 
-![Image](<img/NeuesElement122.png>)
+
+![Image](<img/NeuesElement122.png>){width="400"}
 
 
 Die RZL-Standardbelegkreise (ER, AR, KA) können nicht gelöscht werden.
 
-Abb. 6 Belegkreis löschen III
-
-![Image](<img/NeuesElement121.png>)
+![Image](<img/NeuesElement121.png>){width="400"}
 
 
 Ein angelegter Belegkreis kann nur dann gelöscht werden, wenn alle Buchungen in diesem Kreis finalisiert wurden. Haben Sie bereits Buchungen erfasst, den Buchungsstapel aber noch nicht finalisiert, erhalten Sie folgende Meldung:
-
-Abb. 7 Belegkreis löschen IV
 
 ![Image](<img/NeuesElement120.png>)
 

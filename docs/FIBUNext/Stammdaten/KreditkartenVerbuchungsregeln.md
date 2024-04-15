@@ -3,15 +3,14 @@
 ## Kreditkarten Verbuchungsregeln
 
 
-Zur automatischen Verbuchung von Kreditkartenumsätzen bzw. Umsätzen von Zahlungsterminals aus dem Kontoauszug können unter Stammdaten / Kreditkartenverbuchungsregeln die notwendigen Stammdaten erfassen.
+Zur automatischen Verbuchung von Kreditkartenumsätzen bzw. Umsätzen von Zahlungsterminals aus dem Kontoauszug können unter *Stammdaten / Kreditkartenverbuchungsregeln* die notwendigen Stammdaten erfassen.
 
 
-Abb. 1 Kreditkartenverbuchungsregeln
 
 ![Image](<img/NeuesElement119.png>)
 
 
-Über den Punkt *Neue Verbuchungsregel **(1)*** können Sie ein neues Terminal anlegen.
+Über den Punkt *Neue Verbuchungsregel* **(1)** können Sie ein neues Terminal anlegen.
 
 Dazu muss der Kreditkartenanbieter und, je nach Anbieter auch, die Kartenart erfasst werden. Zusätzlich ist auch noch die Vertrags- bzw. Terminalnummer zu erfassen. Diese finden Sie für gewöhnlich auf der monatlichen Abrechnung des jeweiligen Terminals.
 
