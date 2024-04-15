@@ -65,7 +65,7 @@ Anschließend öffnet sich der Dialog zur Anlage eines neuen WJ-Zeitraumes. Dabe
 ![Image](<img/NeuesElement69.png>){width="500"}
 
 
-Wenn Sie den Dialog mit *Anlegen* bestätigen, wird das neue Wirtschaftsjahr angelegt. Anschließend können Sie innerhalb des Registers *FIBU* in den Klientenstammdaten zwischen den angelegten Wirtschaftsjahren navigieren ***(1)*.** Mit einem Klick auf *Alle Wirtschaftsjahre löschen **(2)*** werden alle angelegten Wirtschaftsjahre gelöscht.
+Wenn Sie den Dialog mit *Anlegen* bestätigen, wird das neue Wirtschaftsjahr angelegt. Anschließend können Sie innerhalb des Registers *FIBU* in den Klientenstammdaten zwischen den angelegten Wirtschaftsjahren navigieren ***(1)***. Mit einem Klick auf *Alle Wirtschaftsjahre löschen* ***(2)*** werden alle angelegten Wirtschaftsjahre gelöscht.
 
 
 ![Image](<img/NeuesElement72.png>)

@@ -11,7 +11,7 @@ Wenn Sie die Option *Aufteilung nichtabzugsfähige Vorsteuer **(2)*** aktivieren
 Darunter kann die jeweilige Ziffer für steuerfreie Umsätze ohne Vorsteuerabzug (Kennzahl 020 in der UVA) ***(3)*** eingetragen werden.
 
 
-Mithilfe der Schaltfläche *Neues USt-Land **(4)*** kann ein weiteres USt-Land (z.B. für in Deutschland steuerbare Umsätze) angelegt werden. Wenn Sie auf die Schaltfläche *USt-Land löschen* **(5)** klicken, wird das ausgewählte USt-Land wieder entfernt.
+Mithilfe der Schaltfläche *Neues USt-Land* ***(4)*** kann ein weiteres USt-Land (z.B. für in Deutschland steuerbare Umsätze) angelegt werden. Wenn Sie auf die Schaltfläche *USt-Land löschen* ***(5)*** klicken, wird das ausgewählte USt-Land wieder entfernt.
 
 
 
