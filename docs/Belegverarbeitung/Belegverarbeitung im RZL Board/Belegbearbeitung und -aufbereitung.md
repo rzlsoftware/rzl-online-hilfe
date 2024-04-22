@@ -1,13 +1,14 @@
 ## Belegbearbeitung und -aufbereitung
 
-### <img src=".\img/image7.png"
-style="width:0.72713in;height:0.456in" />Belege hinzufügen
+![](img/image7.png)
+
+## Belege hinzufügen
 
 -   Klient öffnen links oben im Feld Klient wählen (Nr. oder Name
     eingeben).
 
--   <img src=".\img/image8.png"
-    style="width:0.72in;height:0.67729in" />Klick auf *BELEGE* in der
+-   ![](img/image8.png)
+    Klick auf *BELEGE* in der
     Menüleiste.
 
 -   In dieser Ansicht haben Sie nun Zugriff auf Scanordner, das RZL
@@ -22,11 +23,11 @@ ohne vorher einen Klienten zu öffnen. Für den Zugriff auf das
 Klientenportal muss allerdings immer die Klientenansicht geöffnet
 werden.
 
-> Es bestehen unterschiedliche Möglichkeiten, die Belege in die RZL
-> Belegverarbeitung hinzuzufügen:
->
-> <img src=".\img/image9.png"
-> style="width:6.40859in;height:1.49605in" />
+Es bestehen unterschiedliche Möglichkeiten, die Belege in die RZL
+Belegverarbeitung hinzuzufügen:
+
+![](img/image9.png)
+
 
 1.  **Belege Scanordner:** Über den (persönlichen) Scanordner, der in
     den Einstellungen bzw. hier im Dropdown angelegt wurde. Wird der
@@ -54,8 +55,7 @@ werden.
 
 ### Tipps zur Bedienung der Oberfläche
 
-<img src=".\img/image10.png"
-style="width:6.29861in;height:3.20903in" />
+![](img/image10.png)
 
 Beim Hinzufügen von Belegen gibt es drei Bereiche (Seitenansicht,
 Listenansicht, Detailansicht), in denen verschiedenen Informationen
@@ -65,11 +65,10 @@ Ansichten unterschiedlich platziert werden.
 
 **Vordefinierte Ansichten:**
 
-<img src=".\img/image11.png"
-style="width:2.21074in;height:1.77025in" />
+![](img/image11.png)
 
-<img src=".\img/image12.png"
-style="width:0.27917in;height:0.27917in" />Alle drei Bereiche können
+![](img/image12.png)
+Alle drei Bereiche können
 auch manuell mit gedrückter linker Maustaste auf die Überschrift
 ausgedockt und in einem extra Fenster angezeigt werden (z.B. maximiert
 auf einem 2. Bildschirm) oder an jeder beliebigen Position eingedockt
@@ -81,11 +80,10 @@ Tipp
 
 Die Menüleiste kann per Doppelklick auf die Überschrift des Tabs
 aus-/eingeblendet werden.
+ 
 
-**  
-**
 
-> **Seitenansicht:** Die Belege werden in der Vorschau angezeigt.
+**Seitenansicht:** Die Belege werden in der Vorschau angezeigt.
 
 -   Ändern der Darstellung mit + bzw. - Symbol oder Strg + Mausrad.
 
@@ -110,22 +108,20 @@ aus-/eingeblendet werden.
 -   Die Belege werden gruppiert nach Klient und Belegkreis angezeigt und
     können auf- und zugeklappt werden.
 
-> **Listenansicht**: Anzeige der Belege in einer Liste inklusive
-> Belegdaten.
+**Listenansicht**: Anzeige der Belege in einer Liste inklusive
+Belegdaten.
 
 -   Sortierung mittels Anwahl der Überschrift möglich.
 
--   <img src=".\img/image13.png"
-    style="width:0.19861in;height:0.19722in" />Alle für den
+-   ![](img/image13.png) Alle für den
     Buchungsvorschlag notwendigen Felder wurden in der
     Belegdatenerkennung ausgelesen.
 
--   <img src=".\img/image14.png"
-    style="width:0.19722in;height:0.17639in" />Nicht ausgelesene, aber
+-   ![](img/image14.png) Nicht ausgelesene, aber
     für einen vollständigen Buchungsvorschlag notwendige Felder werden
     gelb markiert, wenn mit der Maus das graue Symbol fokussiert wird.
 
-> **Detailansicht**: Anzeige der Daten von markierten Belegen.
+**Detailansicht**: Anzeige der Daten von markierten Belegen.
 
 -   Die Detailansicht kann entweder horizontal unten oder vertikal
     rechts angezeigt werden.
@@ -247,8 +243,7 @@ die aktuell markierten Belege zusammengeführt.
 Sie können Belege sehr einfach durch Ziehen mit der Maus per Drag & Drop
 zusammenführen.
 
-<img src=".\img/image15.png"
-style="width:4.33071in;height:2.00697in" />
+![](img/image15.png)
 
 **1**
 
@@ -259,8 +254,7 @@ style="width:4.33071in;height:2.00697in" />
 > Zusätzlich wird dies pro Beleg auch in einer eigenen Spalte in der
 > Listenansicht angezeigt.
 >
-> <img src=".\img/image16.png"
-> style="width:2.32598in;height:0.65047in" />
+![](img/image16.png)
 
 Folgende Möglichkeiten gibt es:
 
@@ -309,8 +303,7 @@ wird der tatsächlich erkannte Text unterhalb des Mauszeigers angezeigt.
 
 Folgende Funktionen stehen in der Belegansicht zur Verfügung:
 
-<img src=".\img/image17.png"
-style="width:6.44181in;height:0.60495in" />
+![](img/image17.png)
 
 -   Belegdaten speichern
 
@@ -357,9 +350,8 @@ Textansicht/OCR-Ansicht angezeigt werden.
 
 > *Normalanzeige vs. Text/OCR-Anzeige*
 
-<img src=".\img/image18.png"
-style="width:3.26681in;height:2.26855in" /><img src=".\img/image19.png"
-style="width:3.28611in;height:2.27223in" />
+![](img/image18.png)
+![](img/image19.png)
 
 -   PDF Anmerkungen anzeigen
 
@@ -403,8 +395,7 @@ Betrag, …). Wird also ein bestimmter Wert von der OCR-Erkennung nicht
 erkannt/ ausgelesen, kann die RZL Belegdatenerkennung oder auch eine
 Schablone diesen Wert nicht finden.
 
-<img src=".\img/image20.png"
-style="width:3.14544in;height:0.90614in" />
+![](img/image20.png)
 
 Bei der Belegdatenerkennung werden folgende Schritte durchgeführt:
 
@@ -448,8 +439,7 @@ gebucht werden. Die fehlenden Werte müssen (wie auch ohne dem Modul
 Belegverarbeitung) in der Buchhaltung bzw. EA-Rechnung beim Buchen
 ergänzt werden.
 
-<img src=".\img/image21.png"
-style="width:6.29921in;height:1.52208in" />
+![](img/image21.png)
 
 Sie können fehlenden Daten durch Anlage einer neuen Belegschablone
 ergänzen, damit das entsprechende Feld in Zukunft immer richtig
@@ -476,8 +466,7 @@ Dies sind keine Einstellungen für die „normale“ Belegdatenerkennung,
 sondern können nur über benutzerdefiniert immer einmalig ausgeführt
 werden.
 
-<img src=".\img/image22.png"
-style="width:5.90551in;height:1.78281in" />
+![](img/image22.png)
 
 ### Name/Anschrift über UID-Nummer auslesen
 
@@ -511,8 +500,7 @@ sollen oder *„Auswahl übernehmen“*, wenn nur die markierten Belege ins
 RZL Board übernommen werden sollen. Die Belege stehen dann im Modul
 Belege als ungebucht zur Verbuchung in der FIBU/EA bereit.
 
-<img src=".\img/image23.png"
-style="width:1.65347in;height:0.97431in" />Nach erfolgreicher Übernahme
+![](img/image23.png)Nach erfolgreicher Übernahme
 werden die Dateien aus dem Scanordner gelöscht.
 
 <span class="mark">  
@@ -524,13 +512,11 @@ Fall ist folgende Meldung zu bestätigen um den Beleg nochmals zu
 übernehmen. Mit Abbrechen wird nichts übernommen und der Beleg kann
 bspw. aus dem Scanordner gelöscht werden.
 
-<img src=".\img/image24.png"
-style="width:3.20513in;height:1.15385in" />
+![](img/image24.png)
 
 ### Detailbeschreibung aller Funktionen in der Leiste „Belege hinzufügen“
 
-<img src=".\img/image25.png"
-style="width:6.29921in;height:0.64459in" />
+![](img/image25.png)
 
 -   Neue Klientengruppe
 

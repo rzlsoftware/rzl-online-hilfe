@@ -23,8 +23,7 @@ In der Praxis muss natürlich abgewogen werden, ob es Sinn macht, eine
 Regel anzulegen (wenn der Beleg öfters vorkommt) oder die fehlenden
 Belegdaten beim Buchen zu ergänzen (bei Belegen, die selten vorkommen).
 
-<img src=".\img/image34.png"
-style="width:6.29921in;height:1.51642in" />
+![](img/image34.png)
 
 **1**
 
@@ -32,8 +31,7 @@ Durch einen Doppelklick auf die Zeile in der Listenansicht wird der
 Beleg aufgerufen und im rechten Bereich werden die Ergebnisse der
 Belegdatenerkennung angezeigt.
 
-### <img src=".\img/image35.png"
-style="width:2.62153in;height:9.45069in" />Belegdaten-Felder
+![](img/image35.png)Belegdaten-Felder
 
 Folgende Felder stehen derzeit zur Verfügung, um Daten auszulesen,
 Regeln anzulegen bzw. manuell Werte zu erfassen:
@@ -125,29 +123,23 @@ Regeln anzulegen bzw. manuell Werte zu erfassen:
 > Bei jedem einzelnen Feld wird angezeigt, wie der Wert zustande
 > gekommen ist. Folgende Möglichkeiten gibt es:
 >
-> <img src=".\img/image36.png"
-> style="width:0.15972in;height:0.15972in" /> *QR Code
+![](img/image36.png) *QR Code
 > (Registrierkassa/BCD/Stuzza)*
 >
-> <img src=".\img/image37.png"
-> style="width:0.15748in;height:0.15705in" /> *RZL Belegdatenerkennung*
+![](img/image37.png) *RZL Belegdatenerkennung*
 >
-> <img src=".\img/image38.png"
-> style="width:0.15748in;height:0.15681in" /> *Schablone
+![](img/image38.png) *Schablone
 > (benutzerdefinierte Regel)*
 >
-> <img src=".\img/image39.png"
-> style="width:0.15748in;height:0.15748in" /> *Manuell eingegeben*
+![](img/image39.png) *Manuell eingegeben*
 >
-> <img src=".\img/image40.png"
-> style="width:0.16667in;height:0.15972in" /> *Automatisch berechnet*
+![](img/image40.png) *Automatisch berechnet*
 > (z.B. der Steuerbetrag, wenn *Gesamtnetto-* & *Gesamtbruttobetrag*
 > ausgelesen wurden).
 >
-> ![](.\img/image41.png) Importiert von einer XML-Datei
+![](img/image41.png) Importiert von einer XML-Datei
 >
-> <img src=".\img/image42.png"
-> style="width:0.16665in;height:0.16665in" /> Das Feld Name/Anschrift
+![](img/image42.png) Das Feld Name/Anschrift
 > wurde über die UID-Überprüfung bei FinanzOnline ausgelesen
 
 Hinweis
@@ -157,55 +149,52 @@ angezeigt (Mauszeiger auf das Symbol stellen)!
 
 ### Benutzerdefinierte Regel anlegen 
 
-> Die Symbole rechts neben den Feldern haben folgende Funktion:
+Die Symbole rechts neben den Feldern haben folgende Funktion:
 
 -   *Wert übernehmen:* Mit dieser Funktion wird der markierte Wert für
     den aktuellen Beleg einmalig übernommen und gespeichert (keine
     Auswirkung auf zukünftige Belege)
 
-> ![](.\img/image43.png) *Regel anlegen:* Dieses Symbol
-> steht zur Verfügung, um eine Regel für ein bestimmtes Feld anzulegen,
-> wenn die *RZL Belegdatenerkennung* den Wert nicht richtig auslesen
-> konnte. Markieren Sie dazu den gewünschten Wert am Beleg und klicken
-> Sie auf dieses Symbol. Vergeben Sie einen Namen für diese neue
-> Schablone und klicken Sie auf OK (Die Funktion *kopieren von* nur
-> verwenden, wenn Sie Regeln von einer anderen Schablone übernehmen
-> möchten).
->
-> <img src=".\img/image44.png"
-> style="width:3.93701in;height:2.46686in" />
->
-> Die für dieses Feld angelegte Regel wird bei diesem
-> Rechnungsaussteller zukünftig immer verwendet.
->
-> ***Fixen Wert festlegen:*** Um eine leere Regel anzulegen (ohne
-> markierten Wert am Beleg) halten Sie die *Umschalt*-Taste gedrückt und
-> klicken erst dann auf dieses Symbol, um z.B. um einen **fixen Wert**
-> bei einer Schablone zu hinterlegen. Damit dann ein fixer Wert
-> hinterlegt werden kann muss rechts oben noch auf das Bleistiftsymbol
-> mit dem Plus geklickt und die Abfrage, ob die Regel überschrieben
-> werden soll, mit OK bestätigt werden. Ein fixer Wert kann bspw. für
-> das Feld UID-Nummer oder Buchungstext verwendet werden, wenn z.B. die
-> UID-Nummer von der OCR-Erkennung schlecht ausgelesen werden kann.
-> Somit ist die UID-Nummer bei einer Rechnung dieses Rechnungsstellers
-> als Fixwert hinterlegt und wird nicht mittels einer Regel ausgelesen.
-> Auch der Buchungstext würde dann entsprechend der Hinterlegung bei
-> jeder Rechnung dieses Rechnungsausstellers vorgeschlagen werden.
->
-> <img src=".\img/image45.png"
-> style="width:0.15972in;height:0.15972in" /> *Regel bearbeiten:* Wenn
-> für ein Feld bereits eine Regel bei der aktuellen Schablone hinterlegt
-> ist, wird dieses Symbol angezeigt. Die bestehende Regel der
-> verwendeten Schablone kann bearbeitet werden. Die verwendete Schablone
-> wird in einem eigenen Feld angezeigt.
+![](img/image43.png) 
+*Regel anlegen:* Dieses Symbol
+steht zur Verfügung, um eine Regel für ein bestimmtes Feld anzulegen,
+wenn die *RZL Belegdatenerkennung* den Wert nicht richtig auslesen
+konnte. Markieren Sie dazu den gewünschten Wert am Beleg und klicken
+Sie auf dieses Symbol. Vergeben Sie einen Namen für diese neue
+Schablone und klicken Sie auf OK (Die Funktion *kopieren von* nur
+verwenden, wenn Sie Regeln von einer anderen Schablone übernehmen
+möchten).
+
+![](img/image44.png)
+
+Die für dieses Feld angelegte Regel wird bei diesem
+Rechnungsaussteller zukünftig immer verwendet.
+
+***Fixen Wert festlegen:*** Um eine leere Regel anzulegen (ohne
+markierten Wert am Beleg) halten Sie die *Umschalt*-Taste gedrückt und
+klicken erst dann auf dieses Symbol, um z.B. um einen **fixen Wert**
+bei einer Schablone zu hinterlegen. Damit dann ein fixer Wert
+hinterlegt werden kann muss rechts oben noch auf das Bleistiftsymbol
+mit dem Plus geklickt und die Abfrage, ob die Regel überschrieben
+werden soll, mit OK bestätigt werden. Ein fixer Wert kann bspw. für
+das Feld UID-Nummer oder Buchungstext verwendet werden, wenn z.B. die
+UID-Nummer von der OCR-Erkennung schlecht ausgelesen werden kann.
+Somit ist die UID-Nummer bei einer Rechnung dieses Rechnungsstellers
+als Fixwert hinterlegt und wird nicht mittels einer Regel ausgelesen.
+Auch der Buchungstext würde dann entsprechend der Hinterlegung bei
+jeder Rechnung dieses Rechnungsausstellers vorgeschlagen werden.
+
+![](img/image45.png) *Regel bearbeiten:* Wenn
+für ein Feld bereits eine Regel bei der aktuellen Schablone hinterlegt
+ist, wird dieses Symbol angezeigt. Die bestehende Regel der
+verwendeten Schablone kann bearbeitet werden. Die verwendete Schablone
+wird in einem eigenen Feld angezeigt.
 
 #### Anlegen/Bearbeiten der Erkennungsregel – z.B. fehlende Fremdbelegnummer
 
-<img src=".\img/image46.png"
-style="width:2.55906in;height:3.55013in" />Wenn Sie nun eine neue Regel
+![](img/image46.png) Wenn Sie nun eine neue Regel
 für ein bestimmtes Feld über das Symbol
-<img src=".\img/image47.png"
-style="width:0.16042in;height:0.17014in" /> anlegen, haben Sie
+![](img/image47.png) anlegen, haben Sie
 verschiedenen Möglichkeiten, die Regel zu definieren bzw. zu optimieren.
 
 **4**
@@ -246,8 +235,7 @@ Nur beim Feld Betrag wird automatisch die Funktion „relativ zu“
 verwendet, da sich der Betrag im Regelfall nicht immer an derselben
 Position befindet.
 
-<img src=".\img/image48.png"
-style="width:6.26668in;height:2.65661in" />
+![](img/image48.png)
 
 **5**
 
@@ -331,8 +319,7 @@ muss das Feld leer sein.
 > Falls Sie den Positionsrahmen auf eine andere Position verschieben
 > möchten, können Sie diesen links oben mit der Maus durch Klicken und
 > Halten auf dieses Symbol bewegen:
-> <img src=".\img/image49.png"
-> style="width:0.10417in;height:0.10417in" alt="289" />.
+![](img/image49.png) {width="400"}
 >
 > Die Höhe des Rahmens ist für das Auslesen des Wertes nicht
 > entscheidend, d.h. der Rahmen kann auch auf eine minimale Höhe
@@ -414,8 +401,7 @@ Somit werden in Zukunft bei Rechnungen dieses Rechnungsausstellers die
 Steuerzeilen 10 % und 20 % immer ausgelesen, wenn sie am Beleg
 vorkommen.
 
-<img src=".\img/image50.png"
-style="width:6.29921in;height:4.63046in" />
+![](img/image50.png)
 
 Sie haben auch die Möglichkeit, ein sogenanntes *Steuermerkmal* zu
 definieren. Dieses Steuermerkmal kann verwendet werden, um z.B. nur die
@@ -424,11 +410,9 @@ eines bestimmten Textes anlegen zu lassen. In der FIBU können Sie eine
 Regel definieren, wie ig. Erwerbe bei diesem Klienten gebucht werden
 sollen.
 
-<img src=".\img/image51.png"
-style="width:6.29921in;height:3.60944in" />
+![](img/image51.png)
 
-<img src=".\img/image52.png"
-style="width:3.14961in;height:2.88647in" />
+![](img/image52.png)
 
 Zusätzlich können Sie dieses Steuermerkmal aber genauso auch bei einem
 normalen Prozentsatz verwenden – in diesem Fall muss das Steuermerkmal
@@ -463,8 +447,8 @@ Kundennummer, …).
 
 ### Erkennungsmerkmal zur automatischen Zuordnung der Schablone
 
-<img src=".\img/image53.png"
-style="width:2.75556in;height:1.30764in" />Ganz entscheidend bei der
+![](img/image53.png)
+Ganz entscheidend bei der
 Schablonenanlage ist das Erkennungsmerkmal. Das Erkennungsmerkmal muss
 bei jeder Rechnung dieser Firma an derselben Position vorkommen. Es wird
 verwendet, um festzustellen, wann welche Schablone verwendet werden
@@ -504,8 +488,7 @@ Erkennungsmerkmal bearbeitet werden.
 
 **1**
 
-<img src=".\img/image54.png"
-style="width:3.44749in;height:0.83323in" />
+![](img/image54.png)
 
 Hinweis
 

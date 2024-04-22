@@ -3,8 +3,7 @@
 > Über den Menüeintrag Belege finden Sie die Beleglisten *Ungebuchte*
 > Belege / *Gebuchte Belege.*
 >
-> <img src=".\img/image28.png"
-> style="width:4.92323in;height:1.00081in" />
+![](img/image28.png)
 
 ### Ungebuchte Belege
 
@@ -14,15 +13,13 @@ Solange Belege noch nicht gebucht wurden und somit in diese Liste
 angezeigt werden, können die Belege und Belegdaten jederzeit verändert
 werden. Die Möglichkeiten der Bearbeitung finden Sie nachfolgend.
 
-> <img src=".\img/image29.png"
-> style="width:6.60065in;height:3.96377in" />
+![](img/image29.png)
 
 -   Spalten filtern
 
 Pro Spalte haben Sie Möglichkeit, die Daten zu filtern. Klicken Sie dazu
 in der Spaltenüberschrift auf das blaue Filtersymbol:  
-<img src=".\img/image30.png"
-style="width:1.9685in;height:2.0053in" />
+![](img/image30.png)
 
 -   Layout speichern / speichern unter
 
@@ -59,11 +56,9 @@ somit in der Ansicht der ungebuchten Belege sichtbar sind, können Sie
 Seiten im Nachhinein noch bearbeiten. Klicken Sie dazu auf die Funktion
 *Seiten bearbeiten* in der Menüleiste.
 
-<img src=".\img/image31.png"
-style="width:3.14961in;height:1.28287in" />
+![](img/image31.png)
 
-<img src=".\img/image32.png"
-style="width:5.90551in;height:3.94743in" />
+![](img/image32.png)
 
 Es öffnet sich dabei ein eigener Dialog mit folgenden Möglichkeiten:
 
@@ -100,8 +95,7 @@ auf Basis der Belegdaten ein Dateiname generiert werden. Optional können
 hier die Belegdaten mittels einer XML-Datei mitexportiert werden. Dies
 kann genutzt werden, um den Beleg mit Belegdaten in einer anderen
 Installation wieder zu importieren.  
-<img src=".\img/image33.png"
-style="width:6.29921in;height:0.65542in" />
+![](img/image33.png)
 
 -   Beleg in Dokument umwandeln
 

@@ -2,8 +2,7 @@
 
 Im Bereich *Einstellungen* finden Sie folgende Möglichkeiten:
 
-<img src=".\img/image58.png"
-style="width:3.43663in;height:1.14555in" />
+![](img/image58.png)
 
 -   Scanordner
 
@@ -14,8 +13,7 @@ direkt im Bereich Belege hinzufügen im Dropdown des Buttons Belege
 Scanordner. Zusätzlich sollten Sie diese Ordner beim Scanner in einem
 Profil pro Mitarbeiter hinterlegen.
 
-<img src=".\img/image5.png"
-style="width:6.29861in;height:1.84028in" />
+![](img/image5.png)
 
 -   **Name:** Sie können hier einen Namen für jeden Scanordner vergeben,
     der dann im Bereich *Belege hinzufügen / Belege Scanordner*
@@ -70,8 +68,7 @@ In diesem Menü können Sie den Buchungsstempel für *Gebuchte
 Belege* konfigurieren. Sie können festlegen, welche Felder am Stempel
 *Gebucht* in welcher Reihenfolge angezeigt werden sollen.  
   
-<img src=".\img/image59.png"
-style="width:6.29859in;height:3.17412in" />
+![](img/image59.png)
 
 -   **Dateiname:** Name, unter welcher die Datei gespeichert ist
 
@@ -115,26 +112,21 @@ ausgewählten Felder geändert werden.
 Setzt man den Haken *Vorschau mit Beispieldaten befüllen* wird ein
 Musterstempel mit Beispieldaten befüllt.
 
-<img src=".\img/image60.png"
-style="width:2.17519in;height:0.24169in" />
-<img src=".\img/image61.png"
-style="width:1.29572in;height:0.63396in" />
-<img src=".\img/image62.png"
-style="width:1.38068in;height:0.76644in" />
+![](img/image60.png)
+![](img/image61.png)
+![](img/image62.png)
 
 Rufen Sie einen bereits gebuchten in der FIBU auf, können Sie in der
 Menüleiste entscheiden, ob der Buchungsstempel sichtbar angezeigt wird.
 
-<img src=".\img/image63.png"
-style="width:4.07859in;height:0.65721in" />
+![](img/image63.png)
 
 Beim Export eines Beleges als PDF wird der Stempel und der Kommentar
 nicht exportiert und angezeigt.
 
 -   Grundeinstellungen
 
-<img src=".\img/image64.png"
-style="width:3.87774in;height:3.7061in" />
+![](img/image64.png)
 
 -   **Klientenportal-Belege:** Mit dieser Option wird beim Öffnen eines
     Klienten in der Menüleiste angezeigt, wie viele Belege vom

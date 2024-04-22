@@ -11,6 +11,7 @@ einem Profil pro Mitarbeiter hinterlegen.
 
 ![](img/image5.png)
 
+
 **Name:** Sie können hier einen Namen für jeden Scanordner vergeben, der
 dann im Bereich *Belege hinzufügen / Belege Scanordner* angezeigt wird.
 
@@ -72,28 +73,27 @@ Bild mittels OCR/Texterkennung in einen verwertbaren Text umgewandelt.
 Den Einstellungsdialog für die Texterkennung (OCR) finden Sie im Menü
 *Belege / Einstellungen / Texterkennung (OCR).*
 
-<img src=".\img/image6.png"
-style="width:6.29921in;height:3.4143in" />
+![](img/image6.png)
+
 
 Folgende Möglichkeiten stehen zur OCR-Erkennung im RZL Board zur
 Verfügung:
 
-> Texterkennungs-Software (OCR-Engine)
+**Texterkennungs-Software (OCR-Engine)**
 
-1.  Automatisch:  
+1.  *Automatisch:*  
     Die von RZL aktuell empfohlene Software wird verwendet  
     (derzeit unter Windows 10 bzw. 11: Microsoft OCR, sonst Google
     Tesseract 4.1.1)
 
-2.  Microsoft:  
+2.  *Microsoft:*  
     Diese Einstellung wird nur empfohlen, wenn alle Mitarbeiter Windows
     10 oder 11 verwenden, da Microsoft OCR unter Windows 7 nicht zur
     Verfügung steht.
 
-3.  Tesseract 4.1.1 (Google)
+3.  *Tesseract 4.1.1 (Google)*
 
-> Für die Texterkennung im Hintergrund ausschließlich Microsoft OCR
-> verwenden.
+**Für die Texterkennung im Hintergrund ausschließlich Microsoft OCR verwenden**
 
 1.  Mit dieser Einstellung wird die Hintergrund-Texterkennung innerhalb
     einer Installation nur auf PCs durchgeführt, die Windows 10 oder 11
@@ -101,24 +101,24 @@ Verfügung:
     sichergestellt, dass Belege nicht mit verschiedenen OCR-Engines
     ausgelesen werden.
 
-> Texterkennung (OCR) bei Scanordnern im Hintergrund ausführen
+**Texterkennung (OCR) bei Scanordnern im Hintergrund ausführen**
 
-1.  Alle Scanordner:  
+1.  *Alle Scanordner:*  
     Texterkennung wird bei allen angelegten Scanordner im Hintergrund
     ausgeführt, die Einstellung steht in den Stammdaten der Scanordner
     somit nicht mehr zur Verfügung.
 
-2.  Nur bei ausgewählten Scanordnern:  
+2.  *Nur bei ausgewählten Scanordnern:*  
     Pro Scanordner kann definiert werden, ob eine
     Hintergrund-Texterkennung durchgeführt werden soll.
 
-3.  Bei keinem Scanordner:  
+3.  *Bei keinem Scanordner:*  
     Hintergrund-Texterkennung wird generell nicht durchgeführt. Die
     Option steht in den Stammdaten der Scanordner somit nicht zur
     Verfügung.
 
-> Texterkennung (OCR) bei Klientenportal-Belegen bzw. Finmatics-Belegen
-> im Hintergrund ausführen.
+**Texterkennung (OCR) bei Klientenportal-Belegen bzw. Finmatics-Belegen
+im Hintergrund ausführen:**
 
 1.  Mit dieser Option wird im Hintergrund über alle Klienten alle 10
     Minuten überprüft, ob neue Belege vom Klientenportal oder von
@@ -131,30 +131,30 @@ Verfügung:
 
     2.  Keine Klienten
 
-> Alternativ zur Texterkennung im RZL Board kann diese auch vorgelagert
-> durchgeführt werden. Die RZL Belegverarbeitung führt dann keine
-> Texterkennung mehr durch, sondern verwendet den mitgelieferten Text.
->
-> Der Scanner macht die OCR-Erkennung (Einstellung direkt am Scanner).
->
-> Ein anderes vorgelagertes System übernimmt die OCR-Erkennung.
->
-> **Erklärung zur OCR-Erkennung:  
->   
-> **Verschiedenen OCR-Erkennungen (Scanner, Google oder Microsoft, …)
-> können unterschiedliche Ergebnisse liefern. Probieren Sie selbst, wo
-> Sie die besten Ergebnisse bekommen.
->
-> Wenn die OCR-Erkennung vom Scanner nicht zufriedenstellend ist,
-> empfehlen wir diese bei Ihrem Scanner unbedingt zu deaktivieren. Im
-> RZL Programm können Sie über die benutzerdefinierte
-> Belegdatenerkennung die mitgelieferte, schlechte OCR-Erkennung
-> verwerfen und von RZL (Microsoft OCR, tesseract von Google, …) über
-> die Funktion RZL Texterkennung erzwingen neu ausführen lassen. Somit
-> können Sie die Qualität vergleichen und sich dann für eine Software
-> entscheiden.
->
-> Grundsätzlich empfehlen wir, wenn möglich, Original-PDF-Belege zu
-> verwenden (PDF aus Fakturierung bzw. E-Mail vom Lieferanten), da bei
-> Original-PDFs der Text im Normalfall vollständig richtig eingebettet
-> geliefert wird und somit keine OCR-Erkennung mehr notwendig ist.
+Alternativ zur Texterkennung im RZL Board kann diese auch vorgelagert
+durchgeführt werden. Die RZL Belegverarbeitung führt dann keine
+Texterkennung mehr durch, sondern verwendet den mitgelieferten Text.
+
+Der Scanner macht die OCR-Erkennung (Einstellung direkt am Scanner).
+
+Ein anderes vorgelagertes System übernimmt die OCR-Erkennung.
+
+**Erklärung zur OCR-Erkennung:**  
+   
+Verschiedenen OCR-Erkennungen (Scanner, Google oder Microsoft, …)
+können unterschiedliche Ergebnisse liefern. Probieren Sie selbst, wo
+Sie die besten Ergebnisse bekommen.
+
+Wenn die OCR-Erkennung vom Scanner nicht zufriedenstellend ist,
+empfehlen wir diese bei Ihrem Scanner unbedingt zu deaktivieren. Im
+RZL Programm können Sie über die benutzerdefinierte
+Belegdatenerkennung die mitgelieferte, schlechte OCR-Erkennung
+verwerfen und von RZL (Microsoft OCR, tesseract von Google, …) über
+die Funktion RZL Texterkennung erzwingen neu ausführen lassen. Somit
+können Sie die Qualität vergleichen und sich dann für eine Software
+entscheiden.
+
+Grundsätzlich empfehlen wir, wenn möglich, Original-PDF-Belege zu
+verwenden (PDF aus Fakturierung bzw. E-Mail vom Lieferanten), da bei
+Original-PDFs der Text im Normalfall vollständig richtig eingebettet
+geliefert wird und somit keine OCR-Erkennung mehr notwendig ist.

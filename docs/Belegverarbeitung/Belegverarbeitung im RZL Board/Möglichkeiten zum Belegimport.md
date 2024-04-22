@@ -11,8 +11,7 @@ angezeigt. RZL unterstützt die Formate 4.1 und 4.3.
 Weitere Details dazu finden Sie Online unter:  
 <https://www.wko.at/service/netzwerke/ebinterface-aktuelle-version-xml-rechnungsstandard.html>
 
-<img src=".\img/image26.png"
-style="width:6.29221in;height:4.79208in" />
+![](img/image26.png)
 
 ### Extras / Beleg mit XML importieren
 
@@ -41,5 +40,4 @@ XML-Datei geliefert werden, keine Belegdatenerkennung mehr notwendig.
 Details dazu finden Sie in einer eigenen Kurzanleitung *Belege mit
 XL-Belegdaten aus Fremdsystem übernehmen.*
 
-<img src=".\img/image27.png"
-style="width:6.30055in;height:4.77541in" />
+![](img/image27.png)
