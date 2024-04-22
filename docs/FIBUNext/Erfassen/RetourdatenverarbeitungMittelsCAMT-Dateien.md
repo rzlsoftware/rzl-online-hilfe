@@ -87,7 +87,7 @@ In der Spalte Vorschlag ist ersichtlich, aufgrund welcher Logik der Buchungsvors
     Die Bankverbindung können Sie bei allen Personenkonten händisch hinterlegen. Zusätzlich lernt die FIBU Next automatisch dazu, indem sie den IBAN aus der jeweiligen Kontoauszugszeile automatisch beim entsprechenden Personenkonto hinterlegt. Somit kann bei der nächsten camt-Verbuchung mit der gleichen Bankverbindung das Personenkonto gleich vorgeschlagen werden.
 
 
-Beim Verbuchen von Kontoauszügen gibt es im Kontextmenü des Buchungstextes einige hilfreiche Optionen.\
+Beim Verbuchen von Kontoauszügen gibt es im Kontextmenü des Buchungstextes einige hilfreiche Optionen.  
 Beispielsweise können Sie mit der Tastenkombination **Umschalt+F11** automatisch den Partner (Auftraggeber bzw. Empfänger) aus der camt-Datei einfügen.
 
 
@@ -109,7 +109,7 @@ Die automatische Auslesung der Buchungsvorschläge und Zuordnung zu den offenen 
 
 
 * Erkennung einer vordefinierten Verbuchungsregel
-* Auslesung des Kundendatenfeldes / der Zahlungsreferenz
+* Auslesung des Kundendatenfeldes bzw. der Zahlungsreferenz
 * Zuordnung des Personenkontos anhand der hinterlegten IBAN in den Kontostammdaten
 
 
