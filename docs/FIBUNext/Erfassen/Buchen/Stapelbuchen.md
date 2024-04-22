@@ -46,7 +46,7 @@ Beim erstmaligen Schließen des Buchungsstapels öffnet sich der Dialog *Buchung
 
 
 
-### Buchungsfunktionen (Ändern \& Löschen einer Buchung)
+### Buchungsfunktionen (Ändern & Löschen einer Buchung)
 
 
 Solange der Stapel noch nicht finalisiert wurde, gibt es die Möglichkeit, eine Buchung zu ändern bzw. zu löschen.

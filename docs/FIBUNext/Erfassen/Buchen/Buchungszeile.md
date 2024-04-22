@@ -103,7 +103,7 @@ Hier können Sie die Konten je nach Sachverhalt eingeben. Weitere Funktionen fin
 
 
 ***Code***  
-Im Feld Code können Sie den gewünschten Steuercode eingeben. Ist in den Kontostammdaten der Aufwands- bzw. Erlöskonten ein Steuercode hinterlegt, wird dieser automatisch vorgeschlagen.
+Im Feld *Code* können Sie den gewünschten Steuercode eingeben. Ist in den Kontostammdaten der Aufwands- bzw. Erlöskonten ein Steuercode hinterlegt, wird dieser automatisch vorgeschlagen.
 
 
 Näheres zum Buchen mit Steuer bzw. den einzelnen Steuercodes finden Sie im Kapitel [Umsatzsteuer](../../Umsatzsteuer/index.md).

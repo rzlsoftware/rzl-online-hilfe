@@ -7,7 +7,7 @@
 Es gibt bei der Verbuchung von Zahlungen zwei Möglichkeiten die offenen Posten auszugleichen:
 
 
-**Option** **1** **–** **OP** **Nr.** **ist** **bekannt:**
+**Option 1 – OP Nr. ist bekannt:**
 
 Falls die OP Nr. bekannt ist, können Sie diese direkt im Feld *OP* eingeben. Entspricht die Höhe des Zahlungsbetrages genau dem Betrag des offenen Postens, erfolgt ein automatischer OP-Ausgleich, der mit einem grünen Häkchen bestätigt wird.
 
@@ -15,7 +15,7 @@ Falls die OP Nr. bekannt ist, können Sie diese direkt im Feld *OP* eingeben. En
 ![Image](<img/NeuesElement40.png>)
 
 
-Ergibt sich zwischen Zahlungsbetrag und OP Betrag eine Differenz, öffnet sich der Dialog zur Auswahl der offenen Posten (Abb. Dialog 1), den Sie mit *Weiter* bestätigen können um in den zweiten Dialog zum Skontoausgleich zu gelangen (Abb. Dialog 2).
+Ergibt sich zwischen Zahlungsbetrag und OP Betrag eine Differenz, öffnet sich der Dialog zur Auswahl der offenen Posten, den Sie mit *Weiter* bestätigen können um in den zweiten Dialog zum Skontoausgleich zu gelangen.
 
 
 **Option 2 – OP Nr. ist unbekannt:**
