@@ -1750,6 +1750,3 @@ style="width:3.87774in;height:3.7061in" />
 
 Siehe Kurzanleitung *RZL Modul Belegfreigabe* unter *Hilfe /
 Kurzanleitungen.*
-
-*  
-*
