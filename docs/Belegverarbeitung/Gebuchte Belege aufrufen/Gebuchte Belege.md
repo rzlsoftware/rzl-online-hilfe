@@ -5,15 +5,13 @@
 Über den Kontenaufruf (*Aufruf / Konten)* wird bei jeder Buchung mit
 Beleg das Belegsymbol ganz links angezeigt.
 
-<img src=".\img/image90.png"
-style="width:5.90551in;height:1.67853in" />
+![](img/image90.png)
 
 Der Beleg einer Buchung kann mit Mausklick auf das Belegsymbol, der
 F7-Taste oder mit der rechten Maustaste und *Aufruf DMS-Beleg*
 aufgerufen werden.
 
-<img src=".\img/image91.png"
-style="width:5.2093in;height:5.64196in" />
+![](img/image91.png)
 
 Der Buchungsstempel ist nur hier im Belegaufruf ersichtlich und kann
 optional ausgeblendet werden. Ganz unten werden die Buchungsdetails
@@ -26,7 +24,7 @@ Ein großer Vorteil der digitalen Belegablage ist das schnelle Auffinden
 von mehreren Belegen mithilfe diverser Sortier- und Filtermöglichkeiten
 im RZL Board.
 
-<img src=".\img/image92.png"
+![](img/image92.png)
 
 ### Filtern einzelner Spalten:
 
@@ -34,9 +32,9 @@ Pro Spalte kann mit Klick auf das Filtersymbol nach den jeweiligen Daten
 gefiltert werden. Je nach Feld gibt es entweder Filtervorschläge oder
 eine Textsuche (Beginnt mit, enthält, …).
 
-<img src=".\img/image93.png"
+![](img/image93.png)
 
-<img src=".\img/image94.png"
+![](img/image94.png)
 
 
 ### Nach Spalten sortieren:
@@ -60,8 +58,7 @@ Folgende Funktionen stehen zur Verfügung:
 
 -   Alle Belege dieses Klienten: „Alle Belege exportieren“
 
-<img src=".\img/image95.png"
-style="width:6.58829in;height:1.55748in" />
+![](img/image95.png)
 
 Der Export der Belege ist in allen Ansichten (*Ungebuchte
 Belege/Gebuchte Belege*) möglich. Um mehrere Belege zu exportieren,
@@ -77,8 +74,7 @@ jeweiligen Belegs in den generierten Dateinamen.
 Über die Auswahl *Vorschläge* werden von uns ein paar mögliche
 Kombinationen von Platzhaltern vorgeschlagen.
 
-<img src=".\img/image96.png"
-style="width:6.59449in;height:1.81442in" />
+![](img/image96.png)
 
 Die ausgewählten Platzhalter sollten idealerweise je Beleg eindeutig
 sein. Sollte dies nicht der Fall sein, werden Belege mit
@@ -87,8 +83,7 @@ gleichlautendem Dateinamen fortlaufend durchnummeriert ((1), (2),
 
 Im gewählten Speicherort finden Sie nach erfolgreichem Export pro
 Beleg eine Datei.
-<img src=".\img/image97.png"
-style="width:4.72441in;height:2.32311in" />
+![](img/image97.png)
 
 Um Belege in einer anderen Installation wieder einspielen zu können,
 müssen die Belege mit Belegdaten exportiert werden. Details dazu

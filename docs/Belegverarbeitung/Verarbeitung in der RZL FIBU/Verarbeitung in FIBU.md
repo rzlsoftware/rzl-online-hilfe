@@ -34,8 +34,7 @@ aktivieren, dass nach dem Buchen von digitalen Belegen die Daten (IBAN,
 Kundennummer, UID) vom Beleg in die Kontenstammdaten übernommen werden
 sollen.
 
-<img src=".\img/image77.png"
-style="width:4.72441in;height:1.82049in" />
+![](img/image77.png)
 
 ### Buchen der Fremdbelegnummer bei Eingangsrechnungen
 
@@ -49,8 +48,7 @@ als Belegnummer buchen* möchten, können Sie in den Klienten-Stammdaten
 im RZL Board im Bereich *Belegverarbeitung / Allgemeines* pro Klient
 diese Option aktivieren.
 
-<img src=".\img/image78.png"
-style="width:6.22047in;height:1.95968in" />
+![](img/image78.png)
 
 ### Belegsverbuchung aus DMS-System (Anzeige alle ungebuchten Belege)
 
@@ -63,8 +61,7 @@ Belegen.
 Über *Buchen / Belegsverbuchung aus DMS-System* kommen Sie in den
 Buchungsvordialog.
 
-<img src=".\img/image79.png"
-style="width:5.11811in;height:3.601in" />
+![](img/image79.png)
 
 Die Buchungen werden mit der Sortierung *Standard* in der Reihenfolge
 angezeigt, wie die Belege ins Modul Belege übernommen wurden (nach
@@ -92,8 +89,7 @@ Zeilen werden mit einem roten Rufzeichen dargestellt.
 
 Mit der rechten Maustaste finden Sie pro Zeile folgende Optionen:  
   
-<img src=".\img/image80.png"
-style="width:5.51181in;height:2.85041in" />
+![](img/image80.png)
 
 -   Anzeige Beleg (F2)
 
@@ -112,8 +108,7 @@ eine Buchungszeile mit Hilfe einer Splitbuchung aufteilen, wird die
 Original-Buchung grau dargestellt und die Zeilen der Splitbuchung werden
 mit einem Sternchen (**1**) gekennzeichnet.
 
-<img src=".\img/image81.png"
-style="width:6.22047in;height:1.03831in" />
+![](img/image81.png)
 
 **1**
 
@@ -169,8 +164,7 @@ Seite des Bildschirms (bevor Sie ins Buchen einsteigen) und das
 Belegfenster an die rechte Seite. Somit haben Sie jederzeit alles im
 Blick.
 
-<img src=".\img/image82.png"
-style="width:4.72441in;height:1.21719in" />
+![](img/image82.png)
 
 **2**
 
@@ -193,8 +187,7 @@ Hinweis
 Wird während dem Buchen manuell ein anderer Beleg markiert müssen Sie
 die Funktion F6 im Datumsfeld nochmals ausführen.
 
-<img src=".\img/image83.png"
-style="width:6.29921in;height:3.41218in" />
+![](img/image83.png)
 
 Der aktuell in der Belegliste markierte Beleg wird beim Erfassen einer
 Buchung dem Buchungssatz hinterlegt, als gebucht markiert und in der
@@ -227,8 +220,7 @@ auf.
 
 #### Zusätzliche Funktionen im Belegfenster beim Buchen
 
-<img src=".\img/image84.png"
-style="width:6.30907in;height:0.85236in" />
+![](img/image84.png)
 
 -   Liste aktualisieren
 
@@ -263,8 +255,7 @@ filtern.
 Unterhalb der Belegliste finden Sie initial immer den aktuell
 hinterlegten Filter auf Basis der Einstellungen im Buchungsvordialog:
 
-<img src=".\img/image85.png"
-style="width:6.29921in;height:0.20733in" />
+![](img/image85.png)
 
 Dieser Filter kann mit der Checkbox links deaktiviert werden, um alle
 vorhandenen, ungebuchten Belege anzuzeigen (unabhängig von Datum und
@@ -353,8 +344,7 @@ der Betrag im Fremdwährungsfeld vorgeschlagen.
 Betrag wird direkt im EUR Feld eingegeben. Eine händische Eingabe des
 Kurses ist jederzeit möglich.
 
-<img src=".\img/image86.jpeg"
-style="width:3.83333in;height:2.6374in" />
+![](img/image86.jpeg)
 
 Der FW-Wert wird nur dann vorgeschlagen, wenn eines der beiden Konten in
 der entsprechenden Währung geführt wird. Ansonsten bleibt das FW-Feld
@@ -388,8 +378,7 @@ Damit diese automatische Zuordnung durchgeführt wird, muss die Option
 *Beleg automatisch zuordnen* in den Stammdaten des Bankkontos im
 Registerblatt *Retourdaten 2* aktiviert werden.
 
-<img src=".\img/image87.png"
-style="width:4.72441in;height:3.7691in" />
+![](img/image87.png)
 
 Beim Einstieg in den Retourdatendialog muss die Option *DMS-Belege
 zuordnen* aktiviert werden.
@@ -415,8 +404,7 @@ dieser Reihenfolge versucht:
     Beleg wird als **Teil des Verwendungszwecks** der Bankbuchung
     gefunden.
 
-<img src=".\img/image88.png"
-style="width:6.59449in;height:3.98152in" />
+![](img/image88.png)
 
 ## Belege im Bereich *Ungebuchte Belege* nachträglich einer Buchung zuordnen
 
@@ -434,8 +422,7 @@ dieser Beleg bei dieser Buchung (und auch bei der oder den
 Gegenbuchungen) zugeordnet und im Modul Belege im RZL Board als gebucht
 markiert.
 
-<img src=".\img/image89.png"
-style="width:3.93701in;height:1.99282in" />
+![](img/image89.png)
 
 Weitere Zuordnungsmöglichkeiten (z.B., wenn bereits ein Beleg zugeordnet
 ist) finden Sie bei der Buchung mit der rechten Maustaste über *Aufruf /

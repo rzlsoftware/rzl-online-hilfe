@@ -27,8 +27,7 @@ In den Stammdaten des jeweiligen Klienten im Bereich *Belegverarbeitung
 angezeigt. Sie können nun hier steuern, welche Belegkreise der Klient
 bzw. die Außenstelle am Klientenportal auswählen kann.
 
-<img src=".\img/image65.png"
-style="width:3.14961in;height:3.35324in" />
+![](img/image65.png)
 
 ### Belege wie vorhanden übermitteln
 
@@ -43,8 +42,7 @@ Wählen Sie nun den richtigen Belegkreis aus. Im Feld Datei(en) können
 Sie über *Durchsuchen* beliebig viele Dateien von Ihrer Festplatte oder
 Ihrem Netzwerk auswählen und hochladen.
 
-<img src=".\img/image66.png"
-style="width:5.74502in;height:2.65625in" />
+![](img/image66.png)
 
 Nach dem Hochladen erhalten Sie eine Bestätigung, wie viele Dateien Sie
 hochgeladen haben. Unterhalb werden die Dateien mit dem Dateinamen, der
@@ -78,8 +76,7 @@ Falls Ihr Klient die Belege vor dem Hochladen noch aufbereiten möchte
 (Seiten trennen, zusammenfügen, drehen, löschen usw.), kann der RZL
 Scan-Manager verwendet werden (*Belegbox / Belegscanmanager* *starten*).
 
-<img src=".\img/image67.png"
-style="width:5.90551in;height:5.18149in" />
+![](img/image67.png)
 
 #### Eintragung der Verbindungseinstellungen
 
@@ -87,8 +84,7 @@ Damit Belege über den RZL Scan-Manager hochgeladen werden können müssen
 Sie als ersten Schritt nach Anwahl der Schaltfläche *Einstellungen* die
 entsprechenden Eintragungen vornehmen.
 
-<img src=".\img/image68.png"
-style="width:4.72441in;height:2.18777in" />
+![](img/image68.png)
 
 Im Feld *Server* tragen Sie die Adresse ein, wie im Handbuch
 Klientenportal *(Hilfe / Handbuch / Klienten-Portal Klient)* Kapitel
@@ -120,14 +116,12 @@ Nach Auswahl und Klick auf den gewünschten Scanner wird ein Vordialog
 angezeigt, wo der Belegkreis (und ev. der Klient) ausgewählt werden
 muss.
 
-<img src=".\img/image69.png"
-style="width:2.3622in;height:2.09974in" />
+![](img/image69.png)
 
 Anschließend wird dann der Dialog des Scanner-Herstellers aufgerufen und
 Sie können die Belege einscannen.
 
-<img src=".\img/image70.png"
-style="width:5.90551in;height:3.42954in" />
+![](img/image70.png)
 
 In diesem Beispiel wurden 5 Seiten eingescannt. Mit der Funktion
 *Belege* auftrennen können Sie die Seiten in Einzelseiten trennen und
@@ -189,8 +183,7 @@ Belege beim entsprechenden Klienten aufrufen. Im Symbol wird Anzahl der
 Belege angezeigt, die bei diesem Klienten vom Klientenportal abgeholt
 werden können.
 
-> <img src=".\img/image71.png"
-> style="width:4.72296in;height:1.20835in" />
+![](img/image71.png)
 
 Die Zuordnung zum Klienten und zum Belegkreis ist hier nicht mehr
 notwendig, da dies bereits am Klientenportal erledigt wurde. Die
@@ -254,11 +247,9 @@ Klienten in einer der Beleglisten über die Schaltfläche *Belege
 synchronisieren* oder für alle Klienten in einer klientenübergreifenden
 Belegliste.
 
-<img src=".\img/image72.png"
-style="width:4.75173in;height:1.71666in" />
+![](img/image72.png)
 
-<img src=".\img/image73.png"
-style="width:5.84098in;height:1.37218in" />
+![](img/image73.png)
 
 Hinweis
 
@@ -275,8 +266,7 @@ Belegsynchronisation.
 
 ### Status Belegsynchronisation
 
-<img src=".\img/image74.png"
-style="width:3.83285in;height:0.92697in" />
+![](img/image74.png)
 
 Im RZL Board finden Sie ganz rechts ein kleines Symbol mit dem Status
 der Belegsynchronisation. Ein grünes Symbol zeigt an, dass die letzte
@@ -312,8 +302,7 @@ bequem und ortsunabhängig über Internet (auch für mobile Geräte
 optimiert) zugreifen (*Belegbox / gebuchte Belege)* und zum Aufrufen und
 Herunterladen von Belegen nutzen.
 
-<img src=".\img/image75.png"
-style="width:6.14097in;height:4.20028in" />
+![](img/image75.png)
 
 Die Belegliste kann über einfache Such-/Gruppier- und Filterfunktionen
 auf die gewünschten Belege/den gewünschten Beleg eingeschränkt werden.
@@ -324,5 +313,4 @@ Ohne geöffnetem Klienten finden Sie im Bereich *BELEGE / Belege / Belege
 zum Abholen* eine Übersicht aller Klienten mit der Anzahl der noch
 abzuholenden Belege vom Klientenportal oder von Finmatics:
 
-<img src=".\img/image76.png"
-style="width:6.3242in;height:1.99049in" />
+![](img/image76.png)
