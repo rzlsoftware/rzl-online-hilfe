@@ -8,6 +8,6 @@ Die zu übernehmenden Daten müssen gemäß der RZL Schnittstellenbeschreibung a
 Die Schnittstellenbeschreibung finden Sie auf unserer Website im *Anwenderbereich* unter „*Weitere Dokumente*“ bzw. kann diese auch gerne bei RZL angefordert werden.
 
 
-**Tipp**
+!!! info "Tipp"
 
-Es sollte unbedingt vor Übernahme der Datei eine Sicherung des Klienten erfolgen, damit bei einem Fehler in der Datei mit diesem Sicherungsstand weitergearbeitet werden kann.
+    Es sollte unbedingt vor Übernahme der Datei eine Sicherung des Klienten erfolgen, damit bei einem Fehler in der Datei mit diesem Sicherungsstand weitergearbeitet werden kann.

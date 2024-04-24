@@ -26,13 +26,13 @@ Zur Buchung der einzelnen Umsatzerlöse ist ein separates Erlöskonto mit der je
 Durch die Hinterlegung am Konto ist der Steuersatz beim Buchen im Feld *Code* vorgegeben. Die Steuer wird automatisch aus dem eingegebenen Bruttobetrag berechnet, am USt-Sammelkonto verbucht und in der UVA in der jeweiligen Kennziffer berücksichtigt.
 
 
-**Hinweis**
+!!! warning "Hinweis"
 
-Der am Erlöskonto festgelegte Steuersatz wird bei der Buchung automatisch vorgeschlagen und sollte *nicht* geändert werden. Eine Änderung des Steuersatzes in den Kontostammdaten ist nur empfehlenswert, soweit noch keine Buchungen vorhanden sind.
+    Der am Erlöskonto festgelegte Steuersatz wird bei der Buchung automatisch vorgeschlagen und sollte *nicht* geändert werden. Eine Änderung des Steuersatzes in den Kontostammdaten ist nur empfehlenswert, soweit noch keine Buchungen vorhanden sind.
 
 ### Eigenverbrauch
 
-Die Buchung des gesondert auszuweisenden Eigenverbrauchs ist mit dem ***Steuercode** **EV20/10/13/19*** im Feld *Code* möglich.
+Die Buchung des gesondert auszuweisenden Eigenverbrauchs ist mit dem Steuercode ***EV20/10/13/19*** im Feld *Code* möglich.
 
 ### Direkte Buchung am Umsatzsteuer-Sammelkonto
 
@@ -45,6 +45,6 @@ Geben Sie dazu beim Buchen gegen das Sammelkonto im Feld *Code* den Code ***9790
 Buchungen ohne Steuercode werden nicht in die Umsatzsteuervoranmeldung aufgenommen\!
 
 
-**Hinweis**
+!!! warning "Hinweis"
 
-Eine **Steuerschuld** gem#8202;*. §11 Abs. 12 und 14, §16 Abs. 2 UstG sowie gem. Art 7 Abs 4 (KZ 056)* ist ebenfalls direkt am Pflichtkonto mit dem *Code **9756*** zu buchen.
+    Eine ***Steuerschuld gem. §11 Abs. 12 und 14, §16 Abs. 2 UstG*** sowie ***gem. Art 7 Abs 4 (KZ 056)*** ist ebenfalls direkt am Pflichtkonto mit dem Code ***9756*** zu buchen.
