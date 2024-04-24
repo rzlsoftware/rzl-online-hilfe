@@ -8,4 +8,4 @@ Alle Ausdrucke werden zuerst in der Vorschau mit weiteren Optionen geöffnet. An
 
 !!! info "Tipp"
 
-    Weitere Informationen zum RZL PDF Drucker finden Sie im Handbuch *Allgemeine Beschreibungen zu den RZL Programmen.*
+    Weitere Informationen zum RZL PDF Drucker finden Sie im Handbuch *Allgemeine Programmbeschreibung.*

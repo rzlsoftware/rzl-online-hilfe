@@ -8,7 +8,6 @@ Zusätzlich können Sie über die Menüleiste das entsprechende Konto oder die B
 
 Im Bereich *Gruppieren und Sortieren* finden Sie verschiedenste Möglichkeiten um Ihre OP-Liste anzuordnen.
 
-Abb. 1 Auswertung OP-Liste Menüpunkte
 
 ![Image](<img/NeuesElement167.png>)
 
