@@ -11,7 +11,7 @@
 
 Über diesen Menüpunkt können Sie camt.053 Kontoauszüge verbuchen.
 
-Vorab müssen die entsprechenden Bankverbindungen über den Menüpunkt *Stammdaten / FIBU Bankverbindungen* hinterlegt werden (siehe Kapitel [FIBU Bankverbindungen](../Stammdaten/FIBUBankverbindungen.md))
+Vorab müssen die entsprechenden Bankverbindungen über den Menüpunkt *Stammdaten / FIBU Bankverbindungen* hinterlegt werden (siehe Kapitel [FIBU Bankverbindungen](../Stammdaten%20FIBU%20Next/FIBUBankverbindungen.md))
 
 
 Nun wählen Sie die gewünschte Bankverbindung in der Liste aus und spielen die Kontoauszüge über die Schaltfläche *Kontoauszüge hereinspielen* ***(1)*** ein.
@@ -56,7 +56,7 @@ Sobald auf *Kontoauszug buchen* geklickt wird, öffnet sich ein Buchungsstapel m
 ![Image](<img/NeuesElement49.png>)
 
 
-In den Buchungsoptionen ***(1)*** finden Sie die Informationen aus den Stammdaten der FIBU Bankverbindung (siehe Kapitel [FIBU Bankverbindungen](../Stammdaten/FIBUBankverbindungen.md)) inkl. dem Anfangssaldo des hinterlegten Sammelkontos.
+In den Buchungsoptionen ***(1)*** finden Sie die Informationen aus den Stammdaten der FIBU Bankverbindung (siehe Kapitel [FIBU Bankverbindungen](../Stammdaten%20FIBU%20Next/FIBUBankverbindungen.md)) inkl. dem Anfangssaldo des hinterlegten Sammelkontos.
 
 Um Belege zuordnen zu können, können Sie sich die Belegliste ***(2)*** einblenden lassen und bei Bedarf auch automatisch zuordnen ***(3)***. Diverese Auswertungen, wie das Journal und die Kontoauswertungen, können Sie sich über die Schaltflächen im Bereich *Auswertungen* ***(4)*** auch während des Buchens anzeigen lassen.
 
@@ -140,5 +140,5 @@ Erscheint in dieser Darstellung ein gelbes Rufzeichen ***(1)***, so wurde zwar e
 
 
 
-#### Nähere Informationen zu Verbuchungsregeln finden Sie im Kapitel [Verbuchungsregeln](../Stammdaten/Verbuchungsregeln.md).
+#### Nähere Informationen zu Verbuchungsregeln finden Sie im Kapitel [Verbuchungsregeln](../Stammdaten%20FIBU%20Next/Verbuchungsregeln.md).
 

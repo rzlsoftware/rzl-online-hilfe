@@ -131,7 +131,7 @@ Abschließend kann noch ein Buchungstext eingegeben werden. Auch hier finden Sie
 
 !!! info "Tipp"
 
-    Das Anlegen von standardisierten Buchungstexten (siehe Kapitel [Buchungstextgruppen](../../Stammdaten/Buchungstextgruppen.md)) bedeutet eine wesentliche Zeitersparnis beim Buchen, da die jeweils angelegten Buchungstexte mit der F3-Taste aufgerufen und mit der ENTER-Taste einfach übernommen werden können.
+    Das Anlegen von standardisierten Buchungstexten (siehe Kapitel [Buchungstextgruppen](../../Stammdaten%20FIBU%20Next/Buchungstextgruppen.md)) bedeutet eine wesentliche Zeitersparnis beim Buchen, da die jeweils angelegten Buchungstexte mit der F3-Taste aufgerufen und mit der ENTER-Taste einfach übernommen werden können.
 
 
 

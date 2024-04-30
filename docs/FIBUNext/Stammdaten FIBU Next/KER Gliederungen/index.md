@@ -20,7 +20,7 @@ Sie erhalten eine Liste aller vorhandenen Gliederungen. Die weiteren Funktionen 
 Mit einem Klick auf die Schaltfläche *Neue Gliederung* öffnet sich ein Dialog zur Vergabe einer Bezeichnung für die neu anzulegende Gliederung.
 
 
-![Image](<img/NeuesElement186.png>)
+![Image](<img/NeuesElement186.png>){width="400"}
 
 
 Nach Vergabe einer Bezeichnung für die KER Gliederung öffnet sich ein neues Register. Mithilfe der Schaltfläche *Neue Position* am linken oberen Bildrand (**1**) bzw. am rechten unteren Bildrand (**2**) können Sie eine neue Gliederungsposition anlegen.

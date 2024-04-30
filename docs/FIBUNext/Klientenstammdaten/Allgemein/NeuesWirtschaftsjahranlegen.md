@@ -17,7 +17,7 @@ Anschließend kann der Zeitraum für das anzulegende FIBU-Wirtschaftsjahr eingeg
 ![Image](<img/NeuesElement2.png>){width="400"}
 
 
-Im folgenden Dialog können Kontenpläne sowie KER-Gliederungen auf den anzulegenden Klienten im jeweiligen Wirtschaftsjahr übernommen werden. Die Funktionen zur Anlage, Bearbeitung und Übernahme von Kontenplänen und KER-Gliederungen werden im Kapitel [Kontenpläne](../../Stammdaten%20Vorlagen/Kontenplane.md) sowie im Kapitel [KER-Gliederungen](../../Stammdaten/KER%20Gliederungen/index.md) erläutert.
+Im folgenden Dialog können Kontenpläne sowie KER-Gliederungen auf den anzulegenden Klienten im jeweiligen Wirtschaftsjahr übernommen werden. Die Funktionen zur Anlage, Bearbeitung und Übernahme von Kontenplänen und KER-Gliederungen werden im Kapitel [Kontenpläne](../../Stammdaten%20Vorlagen/Kontenplane.md) sowie im Kapitel [KER-Gliederungen](../../Stammdaten FIBU Next/KER Gliederungen/index.md) erläutert.
 
 Hier haben Sie die Möglichkeit zwischen den angelegten Kontenplänen sowie den angelegten KER-Gliederungen auszuwählen. Seitens RZL wird Ihnen der RZL Musterkontenplan 25 sowie die KER-Gliederung KER FIBU Klassik standardmäßig zur Verfügung gestellt. Mit einem Klick auf die Schaltfläche Kontenplan überspielen werden der Kontenplan und die Gliederungen auf den Klienten übernommen. Ebenso kann ein Klient auch ohne Kontenplan bzw. Gliederung angelegt werden.
 
