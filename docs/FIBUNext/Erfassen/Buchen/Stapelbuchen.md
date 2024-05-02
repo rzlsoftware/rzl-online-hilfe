@@ -46,44 +46,6 @@ Beim erstmaligen Schließen des Buchungsstapels öffnet sich der Dialog *Buchung
 
 
 
-### Buchungsfunktionen (Ändern & Löschen einer Buchung)
-
-
-Solange der Stapel noch nicht finalisiert wurde, gibt es die Möglichkeit, eine Buchung zu ändern bzw. zu löschen.
-
-
-
-![Image](<img/NeuesElement23.png>)
-
-
-Markieren Sie im Buchungsdialog die gewünschte Buchung. Durch Anwahl der Schaltfläche *Buchung ändern* oder auch mit einem *Doppelklick* wird die Bearbeitung der Buchungszeile wieder ermöglicht.
-
-Durch Anwahl der Schaltfläche *Buchung löschen* oder mit der *Entf-Taste* können Sie eine oder mehrere ausgewählte Buchungszeilen löschen. 
-
-Mit der Option *vor dieser Buchung einfügen* können Sie eine Buchungszeile über der markierten Buchung einfügen.
-
-Die oben genannten Optionen finden Sie auch im Kontextmenü mit rechten Mausklick auf eine Buchung.
-
-
-
-!!! warning "Hinweis"
-    Wurde der Stapel bereits finalisiert, kann eine Buchung nur mehr durch eine Stornobuchung korrigiert werden. Diese Sperre ist aufgrund der Bestimmungen der BAO für eine ordnungsgemäße Finanzbuchhaltung erforderlich.
-
-
-
-### Belegverarbeitung
-
-
-![Image](<img/NeuesElement22.png>)
-
-
-Wenn Sie bei den Buchungsoptionen die Belegliste aktiviert haben und mit Belegen buchen, finden Sie im Menü die Funktionen zum *Aufruf der Belege*, *Zuordnen* der Belege oder Entfernen der *Belegzuordnung.*
-
-Die Belege können auch mit einem Klick auf das Belegsymbol, mit rechter Maustaste oder F7 in der jeweiligen Buchungszeile geöffnet werden.
-
-
-!!! info "Tipp"
-    Genauere Informationen zur Belegverarbeitung finden Sie im Handbuch *Belegverarbeitung.* Dieses kann über den Menüpunkt *Hilfe / Handbuch / Belegverarbeitung* aufgerufen werden.
 
 
 

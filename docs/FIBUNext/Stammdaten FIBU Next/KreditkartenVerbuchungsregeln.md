@@ -3,21 +3,30 @@
 ## Kreditkarten Verbuchungsregeln
 
 
-Zur automatischen Verbuchung von Kreditkartenumsätzen bzw. Umsätzen von Zahlungsterminals aus dem Kontoauszug können unter *Stammdaten / Kreditkartenverbuchungsregeln* die notwendigen Stammdaten erfassen.
+Sofern die CAMT-Dateien Detailinformationen zur Kreditkartenabrechnung beinhalten, kann für die Aufsplit-tung von Spesen, Disagio und Verrechnungsbetrag ein Buchungsvorschlag erstellt werden. Dazu ist die Hinter-legung der betroffenen Kreditkarte mit der jeweiligen Terminalnummer notwendig. 
 
+Unter *Stammdaten / Kreditkartenverbuchungsregeln* können die notwendigen Kontenhinterlegungen für den automatischen Buchungsvorschlag eingegeben werden.
 
+![Stammdaten Kreditkartenverbuchungsregeln](img/image1.png)
 
-![Image](<img/NeuesElement119.png>)
+Hier kann pro Terminal eine eigene Kreditkartenverbuchungsregel angelegt werden.
 
+![Kreditkartenverbuchungsregel anlegen](img/image2.png)
 
-Über den Punkt *Neue Verbuchungsregel* **(1)** können Sie ein neues Terminal anlegen.
+Die Vertrags- bzw. Terminalnummer können Sie in den meisten Fällen der monatlichen Abrechnung entnehmen.
 
-Dazu muss der Kreditkartenanbieter und, je nach Anbieter auch, die Kartenart erfasst werden. Zusätzlich ist auch noch die Vertrags- bzw. Terminalnummer zu erfassen. Diese finden Sie für gewöhnlich auf der monatlichen Abrechnung des jeweiligen Terminals.
+Sämtliche in der Liste vorhandenen Kreditkartenanbieter liefern die notwendigen Informationen für die automatische Aufteilung der Buchung im Verwendungszweck mit.
+In den Stammdaten der Kreditkartenverbuchungsregel können Sie die Konten festlegen, auf welche die Abrechnung aufgeteilt werden soll.
 
+Im jeweiligen Buchungstext ist es zusätzlich möglich einen Platzhalter (über den Pfeil am rechten Ende des Feldes) für z.B. den Buchungsmonat zu hinterlegen.
 
-Im unteren Bereich sind die Konten für die automatische Aufteilung zu erfassen.
+Zusätzlich ist es möglich einen zur camt-Datei abweichenden Steuercode für die Buchung zu erfassen.
 
-Pro Buchung können Sie einen Buchungstext einfügen. Mit dem Pfeil im rechten Bereich des Buchungstextes haben Sie außerdem die Möglichkeit, Platzhalter (wie z.B. das Buchungsmonat) einzufügen.
+!!! warning "Hinweis"
+    Als Verrechnungskonto darf kein OP-führendes Konto erfasst werden. 
 
-Soll ein abweichender Steuercode für die Buchung verwendet werden, kann dieser im rechten Bereich erfasst werden.
+!!! warning "Hinweis"
+    Sollte es bei einem Anbieter nicht möglich sein bspw. ein Spesenkonto zu erfassen, so werden diese Informationen von dem Anbieter nicht mitgeliefert und können dementsprechend auch nicht von RZL automatisch verarbeitet werden. 
 
+!!! info "Tipp"
+    Werden diese Kreditkartenverbuchungsregeln während dem Buchen eines camt-Stapels angelegt oder verändert, so werden diese auf alle nicht geklärten Buchungszeilen, die zutreffend sind, ange-wandt sobald der Buchungsstapel geschlossen und neu geöffnet wird. 
