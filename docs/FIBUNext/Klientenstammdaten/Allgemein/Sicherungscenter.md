@@ -28,3 +28,6 @@ Sie können bereits erstellte Sicherungen auch als Datei exportieren. Über die 
 
 Bereits exportierte Sicherungen bzw. externe Sicherungen können über die Schaltfläche *Sicherung aus Datei importieren* in das Sicherungscenter übernommen werden. Anschließend können Sie die *Sicherung wiederherstellen*.
 
+### Automatische Sicherungen
+
+Nähere Informationen zu den automatischen Sicherungen finden Sie im Kapitel [FIBU Sicherungseinstellungen](/FIBUNext/Stammdaten Vorlagen/FIBUSicherungseinstellungen).

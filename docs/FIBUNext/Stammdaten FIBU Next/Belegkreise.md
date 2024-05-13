@@ -7,15 +7,16 @@ Unter *Stammdaten / Belegkreise* können Sie die Belegkreise für den geöffnete
 
 ![Image](<img/NeuesElement126.png>)
 
+
 ### Belegkreis anlegen
 
 
 Über die Schaltfläche *Neuer Belegkreis* **(1)** können Sie einen neuen Belegkreis anlegen. Anschließend müssen Sie ein Kürzel für den *Belegkreis* sowie die *Bezeichnung* **(2)** des Belegkreises vergeben. Belegkreise können pro Wirtschaftsjahr verwaltet werden. Sie können zwischen den angelegten Wirtschaftsjahren auswählen **(3)**.
 
-Die weiteren Einstellungsmöglichkeiten pro Belegkreis finden Sie im folgenden Kapitel [Belegkreis bearbeiten](<Belegkreise.md#Belegkreis\_bearbeiten>).
+Die weiteren Einstellungsmöglichkeiten pro Belegkreis finden Sie im folgenden Kapitel [Belegkreis bearbeiten](</FIBUNext/Stammdaten%20FIBU%20Next/Belegkreise/#belegkreis-bearbeiten>).
 
 
-![Image](<img/NeuesElement125.png>)
+![Belegkreis anlegen](img/image3.png)
 
 ### Belegkreis bearbeiten
 
@@ -23,8 +24,8 @@ Die weiteren Einstellungsmöglichkeiten pro Belegkreis finden Sie im folgenden K
 Wählen Sie einen der angelegten Belegkreise in der Liste aus, können Sie diesen im Detail bearbeiten.
 
 
-![Image](<img/NeuesElement124.png>)
 
+![Belegkreis bearbeiten](img/image4.png)
 
 | *Feld*                                                                     | *Beschreibung*                                                                                                                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -35,6 +36,7 @@ Wählen Sie einen der angelegten Belegkreise in der Liste aus, können Sie diese
 | **Fremdbeleg-Nr.** **als** **OP-Nummer** **vorschlagen**                   | Die eingegebene Fremdbeleg-Nr. beim Buchen wird als OP-Nummer vorgeschlagen. Dieses Feld schließt sich mit dem Feld Belegnummer als OP-Nummer vorschlagen gegenseitig aus.                                                                                                                                                                                   |
 | **Auf** **doppelte** **Belegnummern prüfen**                               | Beim Buchen innerhalb dieses Belegkreises prüft das Programm, ob die eingegebene Belegnummer bereits vorhanden ist.                                                                                                                                                                                                                                          |
 | **Auf** **doppelte Fremdbelegnummern** **prüfen**                          | Beim Buchen innerhalb dieses Belegkreises prüft das Programm, ob die eingegebene Fremdbelegnummer bereits vorhanden ist.                                                                                                                                                                                                                                     |
+| **UID-Eingabe ab 10.000 EUR**                                              | Ab einem Buchungsbetrag von EUR 10.000 wird automatisch nach einer UID-Nummer bei der Buchung gefragt.                                                                                                                                                                                                                                                       |
 | **Nächste** **Belegnummer vorschlagen** **Nur** **bei** **Buchungsbeginn** | Beim Buchen innerhalb des Belegkreises wird automatisch fortlaufend nummeriert. Optional wird nur bei der ersten Buchung die Belegnummer vorgeschlagen.                                                                                                                                                                                                      |
 | **Eingabe** **Valuta-Datum**                                               | Beim Buchen innerhalb des Belegkreises wird das Feld Valuta-Datum automatisch vorgeschlagen.                                                                                                                                                                                                                                                                 |
 | **Buchungsart**                                                            | Im Feld Buchungsart kann festgelegt werden ob innerhalb dieses Belegkreises eine Gegenbuchung (Soll/Haben) oder eine Sammelbuchung auf ein bestimmtes Konto erfolgen soll (z.B. bei Bank und Kassa).                                                                                                                                                         |
