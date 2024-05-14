@@ -9,7 +9,7 @@ Wurden beim Klienten verschiedene KER-Gliederungen angelegt (unter *Stammdaten /
 
 Folgende weitere Optionen stehen zur Auswahl:
 
-* *Mit Abweichungen zum Jahr „xxx“:*
+* *Mit Abweichungen zum Jahr „xxxx“:*
 
     Wählen Sie hier ein bereits vergangenes Jahr bzw. Vorjahr für einen Vergleich.
 

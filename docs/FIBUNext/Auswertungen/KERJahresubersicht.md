@@ -9,7 +9,6 @@ Bei beiden Aufrufen können Sie links oben die gewünschte *KER Gliederung* ausw
 
 Möchten Sie die kurzfristige Erfolgsrechnung für mehrere Monate sehen, so können Sie mit gedrückter Umschalt-Taste die gewünschten Monate auswählen.
 
-Abb. 1 Auswertung KER
 
 ![Image](<img/NeuesElement168.png>)
 

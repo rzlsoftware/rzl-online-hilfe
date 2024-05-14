@@ -6,8 +6,8 @@ Bucht Ihr Klient selbst und verwendet dabei schon die FIBU Next, sind
 für die Bilanzierung folgende Schritte notwendig, falls Sie selbst die
 FIBU Next noch nicht lizenziert haben.
 
-Auf den ersten Seiten dieser Kurzanleitung finden Sie die notwendigen
-Schritte für Sie als Steuerberater. In Kapitel 2 finden Sie schließlich
+Im ersten Kapitel dieser Kurzanleitung finden Sie die notwendigen
+Schritte für Sie als Steuerberater. Im folgenden Kapitel  finden Sie schließlich
 die Anleitung für den Klienten, welcher Ihnen die Buchhaltung zusendet.
 
 ## Notwendige Schritte für den Steuerberater/Bilanzierer
@@ -20,7 +20,7 @@ Board und dort das Sicherungscenter ***(1)***. Über den Menüpunkt
 *Sicherung aus Datei importieren* ***(2)*** können Sie schließlich die
 abgespeicherten Daten des Klienten importieren.
 
-![image](img/image1.png)
+![image](img/image1.png){width="600"}
 
 Sobald Sie die Sicherung importiert haben, können Sie diese
 wiederherstellen. ***(3)***
@@ -86,7 +86,7 @@ erstellen kann, benötigt er den von Ihnen gebuchten FIBU Datenstand.
 
 Um eine Sicherung des zu bilanzierenden Wirtschaftsjahres zu erstellen,
 öffnen Sie im RZL Board die Klientenstammdaten und dort den Punkt
-Sicherungscenter ***(1)***. Mittels *Sicherung erstellen **(2)*** können
+Sicherungscenter ***(1)***. Mittels *Sicherung erstellen* ***(2)*** können
 Sie eine Sicherung des gewünschten Wirtschaftsjahres erstellen und diese
 anschließend als Datei exportieren ***(3)***.
 
@@ -112,7 +112,7 @@ Speicherort auf Ihrem PC ab.
 Über das Sicherungscenter ***(1)*** und Sicherung aus Datei importieren
 ***(2)*** können Sie die Sicherung wieder in Ihr RZL Board einspielen.
 
-![image](img/image1.png)
+![image](img/image1.png){width="500"}
 
 Nachdem Sie die Sicherung eingespielt haben, ist diese noch
 wiederherzustellen ***(3)***.
@@ -146,7 +146,7 @@ Häkchen *Eröffnungsbilanz automatisch aktualisieren* zu setzen. Damit
 werden für alle darüber angehakten Kontoarten (Debitoren, Kreditoren und
 Bestandskonten) die EB-Werte automatisch gebucht und aktualisiert.
 
-![image](img/image7.png)
+![image](img/image7.png){width="500"}
 
 #### Sowohl das Bilanzjahr als auch das Folgejahr wurden aus der FIBU Klassik übernommen. 
 

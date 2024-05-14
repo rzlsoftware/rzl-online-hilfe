@@ -10,10 +10,9 @@ Ergeben sich Differenzen in der Umsatzsteuer oder Vorsteuer, werden diese hier i
 Die Verprobung kann für alle Wirtschaftsjahre ***(1)*** in der FIBU Next und die einzelnen Monate innerhalb der Wirtschaftsjahre ***(2)*** angezeigt werden.
 
 
-Abb. 1 Auswertung USt-Verprobung
 
 ![Image](<img/NeuesElement169.png>)
 
-**TIPP**
+!!! info "Tipp"
 
-Die USt-Verprobung kann auch verwendet werden, wenn unterjährig ein Klient aus der FIBU Klassik übernommen wird. Auch diese Zeilen können mit verprobt werden.
+    Die USt-Verprobung kann auch verwendet werden, wenn unterjährig ein Klient aus der FIBU Klassik übernommen wird. Auch diese Zeilen können mit verprobt werden.

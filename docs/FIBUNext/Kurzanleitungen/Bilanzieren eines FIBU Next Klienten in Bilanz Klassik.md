@@ -101,7 +101,28 @@ die EB automatisch gebucht bzw. aktualisiert werden kann.
     Folgejahres ist somit bei Verwendung der FIBU Next nicht mehr
     erforderlich bzw. auch nicht mehr möglich.
 
-#### Spezialfälle bei Umstellung von FIBU Klassik auf FIBU Next
+#### Finalisieren des Stapels
+
+Nachdem Sie die Bilanz vollständig abgeschlossen haben, können Sie den
+Buchungsstapel schließlich finalisieren. Bitte beachten Sie dabei aber,
+dass die Umbuchungen nach dem Finalisieren des Stapels kein weiteres Mal
+übergeben werden können.
+
+Folgende Meldungen erscheinen beim Versuch die Umbuchungen erneut zu
+übergeben.
+
+![image](img/image19.png)
+
+![image](img/image20.png)
+
+!!! info "Tipp"
+
+    Erstellen Sie vor dem Finalisieren des Buchungsstapels eine Sicherung
+    der FIBU-Daten über das Sicherungscenter. Damit können Sie im Falle
+    einer notwendigen Änderung der Bilanz die Sicherung hereinspielen und
+    die Umbuchungen nochmals in die FIBU Next übergeben.
+
+### Spezialfälle bei Umstellung von FIBU Klassik auf FIBU Next
 
 #### Das Bilanzjahr wurde vollständig in der FIBU Klassik gebucht und in die FIBU Next übergeben. Das Folgejahr wurde bereits in der FIBU Next angelegt und dort bebucht.
 
@@ -144,23 +165,4 @@ Anschließend gehen Sie bitte wie oben beschrieben (*Sowohl das
 Bilanzjahr als auch das Folgejahr wurden aus der FIBU Klassik
 übernommen.*) vor.
 
-#### Finalisieren des Stapels
 
-Nachdem Sie die Bilanz vollständig abgeschlossen haben, können Sie den
-Buchungsstapel schließlich finalisieren. Bitte beachten Sie dabei aber,
-dass die Umbuchungen nach dem Finalisieren des Stapels kein weiteres Mal
-übergeben werden können.
-
-Folgende Meldungen erscheinen beim Versuch die Umbuchungen erneut zu
-übergeben.
-
-![image](img/image19.png)
-
-![image](img/image20.png)
-
-!!! info "Tipp"
-
-    Erstellen Sie vor dem Finalisieren des Buchungsstapels eine Sicherung
-    der FIBU-Daten über das Sicherungscenter. Damit können Sie im Falle
-    einer notwendigen Änderung der Bilanz die Sicherung hereinspielen und
-    die Umbuchungen nochmals in die FIBU Next übergeben.
