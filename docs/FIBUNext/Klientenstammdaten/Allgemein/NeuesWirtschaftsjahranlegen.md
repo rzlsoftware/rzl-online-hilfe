@@ -7,7 +7,7 @@ Durch Auswahl eines Klienten im RZL Board unter dem Menüpunkt *STAMM / Klienten
 
 
 
-![Image](<img/NeuesElement201.png>)
+![Wirtschaftsjahr anlegen](img/image2.png)
 
 
 Anschließend kann der Zeitraum für das anzulegende FIBU-Wirtschaftsjahr eingegeben werden.
@@ -32,7 +32,7 @@ Nach Durchführung obiger Schritte ist unter dem Menüpunkt *FIBU/Allgemein* ers
 
 
 
-![Image](<img/NeuesElement202.png>)
+![Wirtschaftsjahr löschen](img/image3.png)
 
 
 In den Klientenstammdaten im Register *FIBU/Allgemein* finden Sie neben den Informationen zu den Wirtschaftsjahren bzw. Kontenplänen noch weitere allgemeine Einstellungen:
