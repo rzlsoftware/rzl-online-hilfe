@@ -16,6 +16,10 @@ Zusätzlich können Sie beim Erstellen die Sicherung mit einem Kommentar versehe
 
 ![Image](<img/NeuesElement199.png>)
 
+!!! warning "Hinweis"
+    Um eine Sicherung des Klienten erstellen zu können, müssen alle Ansichten aus der FIBU Next des jeweiligen Klienten geschlossen sein.  
+    Das Finalisieren der Buchungsstapel ist dafür nicht notwendig.
+
 ### Sicherung wiederherstellen
 
 Wählen Sie aus der Liste der bestehenden Sicherungen einen Sicherungsstand aus. Über die Schaltfläche *Sicherung wiederherstellen* wird der Buchungsstand der gewählten Sicherung wiederhergestellt.

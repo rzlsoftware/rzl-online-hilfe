@@ -2,6 +2,8 @@
 
 ### aus der FIBU Klassik
 
+Als ersten Schritt müssen die Stammdaten des Klienten im RZL Board angelegt sein. Ist dies nicht der Fall, so können Sie die Stammdaten mittels der ZMV Klientenübernahme ins RZL Board übernehmen. Genaueres dazu finden Sie im Handbuch ***RZL Board*** im Kapitel *ZMV Klientenübernahme*.
+
 Um mit der Umstellung von FIBU Next auf FIBU Klassik beginnen zu können, müssen Sie die Daten einmalig von der FIBU-Klassik in FIBU Next übernehmen. In der FIBU-Klassik vorhandene Kontenpläne, KER-Gliederungen sowie Buchungstexte werden bei der Übernahme ebenfalls in die FIBU Next mitübernommen. Um die Übernahme zu initiieren gibt es zwei Möglichkeiten. 
 
 Um mehrere Klienten gleichzeitig zu übernehmen, wählen Sie in der FIBU Klassik den Menüpunkt *Klient / Übergabe an FIBU Next…* an.

@@ -30,7 +30,18 @@ Sie können auch direkt am Vorsteuer-Sammelkonto buchen. Dazu müssen Sie im Fel
 
 Buchungen ohne Steuercode werden nicht in die Umsatzsteuervoranmeldung aufgenommen!
 
+Mit Eingabe des ***Steuercode 99*** und anschließendem Betätigen der F2-Taste können Sie festlegen, in welche Kennziffer der UVA diese Berichtigung gelangen soll.
 
-!!! warning "Hinweis"
+| **Code** | **Kennziffer UVA**                                |
+| -------- | ------------------------------------------------- |
+| 99       | Kennzahl 060    *(selbes Ergebnis wie Code 9960)* |
+| 9960     | Kennzahl 060    *(selbes Ergebnis wie Code 99)*   |
+| 9962     | Kennzahl 062                                      |
+| 9963     | Kennzahl 063                                      |
+| 9964     | Kennzahl 064                                      |
+| 9967     | Kennzahl 067                                      |
 
-    **Berichtigungen gem. §12 Abs. 3 iVm Abs. 4 und 5 (KZ062), §12 Abs. 10 und 11 (063) bzw. gem. §16 (KZ067)** sowie Vorsteuern **gem. Art 2 UStG (KZ 064)** sind ebenfalls direkt am Pflichtkonto mit dem ***Code 99 + F2-Taste*** und Auswahl der betreffenden Kennziffer zu buchen.
+
+![Steuercodes](img/image1.png)
+
+

@@ -4,6 +4,7 @@
 
 Auch Klienten aus der EA-Rechnung können unter gewissen Voraussetzungen in die FIBU Next übernommen werden, um diese künftig dort zu buchen.
 
+
 Die Voraussetzungen für die Übernahme von EA-Klienten sind folgende:
 
 -	Die OP-Verwaltung darf in der EA-Rechnung nicht aktiviert sein.
