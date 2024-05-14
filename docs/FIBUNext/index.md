@@ -4,4 +4,4 @@ title: FIBU Next Handbuch
 
 #
 
- ![alt text](\img/Titelseite FIBU Next HB.svg)   
+ ![alt text](img/FIBU Next.svg)   

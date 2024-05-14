@@ -3,11 +3,14 @@
 ## Kreditkarten Verbuchungsregeln
 
 
-Sofern die CAMT-Dateien Detailinformationen zur Kreditkartenabrechnung beinhalten, kann für die Aufsplit-tung von Spesen, Disagio und Verrechnungsbetrag ein Buchungsvorschlag erstellt werden. Dazu ist die Hinter-legung der betroffenen Kreditkarte mit der jeweiligen Terminalnummer notwendig. 
+Sofern die CAMT-Dateien Detailinformationen zur Kreditkartenabrechnung beinhalten, kann für die Aufsplittung von Spesen, Disagio und Verrechnungsbetrag ein Buchungsvorschlag erstellt werden. Dazu ist die Hinter-legung der betroffenen Kreditkarte mit der jeweiligen Terminalnummer notwendig. 
 
 Unter *Stammdaten / Kreditkartenverbuchungsregeln* können die notwendigen Kontenhinterlegungen für den automatischen Buchungsvorschlag eingegeben werden.
 
 ![Stammdaten Kreditkartenverbuchungsregeln](img/image1.png)
+
+!!! info "Tipp"
+    Auch direkt aus dem camt-Buchungsstapel können Sie die Stammdaten der Kreditkarten Verbuchungsregeln öffnen und dort neue Verbuchungsregeln anlegen oder bestehende Verbuchungsregeln bearbeiten.
 
 Hier kann pro Terminal eine eigene Kreditkartenverbuchungsregel angelegt werden.
 

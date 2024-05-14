@@ -101,8 +101,7 @@ Beispielsweise können Sie mit der Tastenkombination **Umschalt+F11** automatisc
 Sollten gewisse Bankverbindungen bei keinen Personenkonten hinterlegt werden (z.B. Versicherungsentschädigungen) so können diese Bankverbindungen in der Ausschlussliste IBAN ***(1)*** erfasst werden.
 
 
-
-![Image](<img/NeuesElement47.png>)
+![Ausschlussliste IBAN](img/image6.png)
 
 
 Die automatische Auslesung der Buchungsvorschläge und Zuordnung zu den offenen Posten bzw. Personenkonten erfolgt in folgenden Schritten:

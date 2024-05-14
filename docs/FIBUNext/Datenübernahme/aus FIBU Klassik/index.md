@@ -22,6 +22,11 @@ Nach erfolgter Übernahme erhalten Sie ein Protokoll über den Datenexport für 
 
 ![Übergabeprotokoll 2](img/image5.png)
 
+
+!!! info "Tipp"
+    Auch Klienten, bei denen in der FIBU Klassik die Salden händisch erfasst wurden, können in die FIBU Next übernommen werden.
+
+
 Wurde ein Klient bereits in die FIBU Next übernommen und anschließend wieder in der FIBU Klassik geöffnet, erscheint beim Öffnen folgende Hinweismeldung.
 
 ![Fehlermeldung FIBU Klassik](img/image6.png)

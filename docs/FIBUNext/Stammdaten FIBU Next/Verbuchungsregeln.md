@@ -8,7 +8,7 @@ Zur automatisierten Verarbeitung der Retourdaten können für gleichartige bzw. 
 Unter *Stammdaten / Verbuchungsregeln* ***(1)*** können Sie neue Verbuchungsregeln anlegen oder bestehende Verbuchungsregeln bearbeiten.
 
 
-![Image](<img/NeuesElement150.png>)
+![Stammdaten](img/image5.png)
 
 !!! info "Tipp"
     Verbuchungsregeln sollten am besten direkt im Zuge der Retourdatenverarbeitung hinterlegt werden, da alle vorhandenen Daten aus dem Import automatisch vorgeschlagen und ausgewählt werden können. Nach Auswahl der betroffenen Buchungszeile im camt-Stapel kann mit der F4-Taste bzw. der rechten Maustaste oder auch über das Menüband die Verbuchungsregel angelegt werden.
@@ -49,13 +49,13 @@ Bei Aufteilung nach Prozenten ist immer darauf zu achten, dass insgesamt 100% au
 Als Ergänzung des Buchungstextes mit einer Datumsangabe oder dem Namen des Partners können beispielsweise folgende Platzhalter im *Buchungstext* eingetragen werden.  
 Zusätzlich können Sie mittels dem Pfeil neben dem Buchungstext bereits vorgefertigte Platzhalter auswählen und einfach einfügen.
 
-| *Platzhalter* | *Ergebnis Buchungstext* |
-| --- | --- |
-| {BDAT,dd.MM.yyyy} | Buchungsdatum im Format **09.04.2022** |
-| {BDAT,MMMM yyyy} | Buchungsdatum im Format **April 2022** |
-| {BDAT,MM(-1).yy} | Buchungsdatum vorangegangenes Monat im Format **03.22** |
-| {PARTNER} | Name des Partners (Auftraggeber bzw. Empfänger der Überweisung) |
-| {VWZ} | Verwendungszweck der Überweisung |
+| *Platzhalter*     | *Ergebnis Buchungstext*                                         |
+| ----------------- | --------------------------------------------------------------- |
+| {BDAT,dd.MM.yyyy} | Buchungsdatum im Format **09.04.2022**                          |
+| {BDAT,MMMM yyyy}  | Buchungsdatum im Format **April 2022**                          |
+| {BDAT,MM(-1).yy}  | Buchungsdatum vorangegangenes Monat im Format **03.22**         |
+| {PARTNER}         | Name des Partners (Auftraggeber bzw. Empfänger der Überweisung) |
+| {VWZ}             | Verwendungszweck der Überweisung                                |
 
 
 
