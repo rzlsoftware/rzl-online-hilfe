@@ -5,7 +5,6 @@
 
 Möchten Sie offene Posten importieren, so ist der Menüpunkt *Datenimport / RZL Format* / *OP*… anzuwählen.
 
-Abb. 1 Datenimport OP
 
 ![Image](<img/NeuesElement177.png>)
 

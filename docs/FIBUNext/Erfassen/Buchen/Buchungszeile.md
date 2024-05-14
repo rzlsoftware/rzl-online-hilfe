@@ -14,10 +14,10 @@ Sie können zwischen den Belegkreisen wählen, die unter *Stammdaten / Belegkrei
 
 
 **Buchungsart**  
-*Gegenbuchung:* 
+***Gegenbuchung:*** 
 Bei dieser Buchungsart ist in jeder Buchungszeile jeweils das Sollkonto und das Habenkonto einzugeben.  
-*Sammelbuchung:*
-Bei der Buchungsart Sammelbuchung muss das jeweilige Sammelkonto angegeben werden. Handelt es sich bei diesem Konto um ein Bestandskonto, so wird der Kontosaldo unter *Anfangssaldo* ausgewiesen. Bei der Buchungsart mit Sammelbuchung kann in jeder Buchungszeile jeweils nur ein Konto eingegeben werden. In dieser Buchungsart werden üblicherweise die Bank- und Kassabuchungen vorgenommen.
+***Sammelbuchung:***
+Bei der Buchungsart Sammelbuchung muss das jeweilige *Sammelkonto* angegeben werden. Handelt es sich bei diesem Konto um ein Bestandskonto, so wird der Kontosaldo unter *Anfangssaldo* ausgewiesen. Bei der Buchungsart mit Sammelbuchung kann in jeder Buchungszeile jeweils nur ein Konto eingegeben werden. In dieser Buchungsart werden üblicherweise die Bank- und Kassabuchungen vorgenommen.
 
 
 
@@ -70,16 +70,19 @@ Anhand der mitlaufenden *Kontrollsumme*, die die Beträge im Stapel saldiert, ka
 
 
 ***Datum***  
-Zu Beginn der Buchungszeile muss das Datum eingegeben werden. Dieses ist im angeführten Wirtschaftsjahr wählbar, es gibt im Stapel keine Einschränkung nach Buchungsmonat.
+Zu Beginn der Buchungszeile muss das Datum eingegeben werden. Bei der ersten Buchung innerhalb eines neuen Stapels muss immer das gesamte Datum (Tag, Monat und Jahr) eingegeben werden, bei den folgenden Buchungen reicht der Tag oder gegebenenfalls das Monat, falls sich dieses innerhalb des Stapels ändert. Es gibt im Stapel keine Einschränkung nach Buchungsmonat.
 
-
-Mit rechter Maustaste und Anwahl *Splitbuchung* oder mit der *F5-Taste* können Sie zu einer Splitbuchung wechseln. (siehe Kapitel [Splitbuchung](<Buchungszeile.md#Splitbuchung>))
+Mit rechter Maustaste und Anwahl *Splitbuchung* oder mit der *F5-Taste* können Sie zu einer Splitbuchung wechseln. (siehe Kapitel [Splitbuchung](</FIBUNext/Erfassen/Buchen/Buchungszeile/#splitbuchung>))
 
 Ebenfalls mit rechter Maustaste oder *F11-Taste* kann das Feld *Eingabe abw. USt-Monat* aktiviert werden.
 
 
 
 ![Image](<img/NeuesElement33.png>)
+
+!!! warning "Hinweis"
+    Wird in einem Buchungsmonat gebucht, für das schon eine UVA abgegeben wurde, verfärbt sich das Datumsfeld gelb und es erscheint nach Eingabe des Datums folgender Hinweistext: 
+    "Achtung, für den gewählten Monat wurde bereits eine UVA erstellt!"
 
 
 ***Beleg-Nr.***  
@@ -103,7 +106,7 @@ Hier können Sie die Konten je nach Sachverhalt eingeben. Weitere Funktionen fin
 
 
 ***Code***  
-Im Feld Code können Sie den gewünschten Steuercode eingeben. Ist in den Kontostammdaten der Aufwands- bzw. Erlöskonten ein Steuercode hinterlegt, wird dieser automatisch vorgeschlagen.
+Im Feld *Code* können Sie den gewünschten Steuercode eingeben. Ist in den Kontostammdaten der Aufwands- bzw. Erlöskonten ein Steuercode hinterlegt, wird dieser automatisch vorgeschlagen.
 
 
 Näheres zum Buchen mit Steuer bzw. den einzelnen Steuercodes finden Sie im Kapitel [Umsatzsteuer](../../Umsatzsteuer/index.md).
@@ -131,7 +134,7 @@ Abschließend kann noch ein Buchungstext eingegeben werden. Auch hier finden Sie
 
 !!! info "Tipp"
 
-    Das Anlegen von standardisierten Buchungstexten (siehe Kapitel [Buchungstextgruppen](../../Stammdaten/Buchungstextgruppen.md)) bedeutet eine wesentliche Zeitersparnis beim Buchen, da die jeweils angelegten Buchungstexte mit der F3-Taste aufgerufen und mit der ENTER-Taste einfach übernommen werden können.
+    Das Anlegen von standardisierten Buchungstexten (siehe Kapitel [Buchungstextgruppen](../../Stammdaten%20FIBU%20Next/Buchungstextgruppen.md)) bedeutet eine wesentliche Zeitersparnis beim Buchen, da die jeweils angelegten Buchungstexte mit der F3-Taste aufgerufen und mit der ENTER-Taste einfach übernommen werden können.
 
 
 
@@ -162,9 +165,8 @@ Der nächste Schritt ist die Verbuchung auf den jeweiligen Sachkonten. Sie könn
 Im Kontrollfeld wird der jeweils eingegebene Teilbetrag von der Gesamtsumme brutto abgezogen, der restliche noch *auszugleichende Betrag* scheint auf. Erst wenn alle Einzelbuchungen in Summe wieder den Gesamtbetrag ergeben, erfolgt durch das Programm die Abfrage, ob die Splitbuchung beendet werden soll. Bestätigen Sie diese Abfrage mit *JA*, so wird die Buchung abgeschlossen.
 
 
-**Hinweis**
-
-Die Buchungen auf den jeweiligen Sachkonten können geändert werden, auch nach Abschluss der Splitbuchung. Das Sammelkonto jedoch kann nicht geändert werden.
+!!! warning "Hinweis"
+    Die Buchungen auf den jeweiligen Sachkonten können geändert werden, auch nach Abschluss der Splitbuchung. Das Sammelkonto jedoch kann nicht geändert werden.
 
 
 #### Verbuchung von Nettobeträgen
@@ -190,4 +192,66 @@ Es gibt im Feld *Betrag* die Möglichkeit Nullrechnungen einzubuchen. Wählen Si
 !!! warning "Hinweis"
 
     Für Nullrechnungen wird kein OP angelegt. Das Feld *OP* wird inaktiv.
+
+
+
+### Buchungsfunktionen (Ändern & Löschen einer Buchung)
+
+
+Solange der Stapel noch nicht finalisiert wurde, gibt es die Möglichkeit, eine Buchung zu ändern bzw. zu löschen.
+
+
+
+![Image](<img/NeuesElement23.png>)
+
+
+Markieren Sie im Buchungsdialog die gewünschte Buchung. Durch Anwahl der Schaltfläche *Buchung ändern* oder auch mit einem *Doppelklick* wird die Bearbeitung der Buchungszeile wieder ermöglicht.
+
+Durch Anwahl der Schaltfläche *Buchung löschen* oder mit der *Entf-Taste* können Sie eine oder mehrere ausgewählte Buchungszeilen löschen. 
+
+Mit der Option *vor dieser Buchung einfügen* können Sie eine Buchungszeile über der markierten Buchung einfügen.
+
+Die oben genannten Optionen finden Sie auch im Kontextmenü mit rechten Mausklick auf eine Buchung.
+
+
+
+!!! warning "Hinweis"
+    Wurde der Stapel bereits finalisiert, kann eine Buchung nur mehr durch eine Stornobuchung korrigiert werden. Diese Sperre ist aufgrund der Bestimmungen der BAO für eine ordnungsgemäße Finanzbuchhaltung erforderlich.
+
+
+
+### Belegverarbeitung
+
+
+![Image](<img/NeuesElement22.png>)
+
+
+Wenn Sie bei den Buchungsoptionen die Belegliste aktiviert haben und mit Belegen buchen, finden Sie im Menü die Funktionen zum *Aufruf der Belege*, *Zuordnen* der Belege oder Entfernen der *Belegzuordnung.*
+
+Die Belege können auch mit einem Klick auf das Belegsymbol, mit rechter Maustaste oder F7 in der jeweiligen Buchungszeile geöffnet werden.
+
+
+!!! info "Tipp"
+    Genauere Informationen zur Belegverarbeitung finden Sie im Handbuch *Belegverarbeitung.* Dieses kann über den Menüpunkt *Hilfe / Handbuch / Belegverarbeitung* aufgerufen werden.
+
+
+### Beleg weiter buchen
+
+Möchten Sie einen Beleg mehreren Buchungen zuordnen, so können Sie während dem Buchen die Funktion *weiter buchen* im Menüband aktivieren.
+
+![Beleg weiter buchen](img/image1.png)
+
+Sind Sie bei der letzten Buchung dieses Beleges angelangt, so müssen Sie vor dem Abschließen dieser Buchung, die Funktion wieder deaktivieren. Somit wird dieser Beleg abgeschlossen.
+
+In der Belegansicht des gebuchten Beleges finden Sie schließlich sämtliche Buchungsinformtationen zu allen Buchungen, denen der Beleg zugeordnet ist.
+
+Zusätzlich gibt es auch noch die Möglichkeit, den Beleg nur für eine weitere Buchung weiterzubuchen. In diesem Fall muss nicht extra die Funktion im Menüband aktiviert werden. Hierfür wählen Sie im Feld *Buchungstext* vor dem Abschließen der ersten Buchung die Funktion *Beleg einmalig weiter buchen*.
+
+![Beleg einmalig weiter buchen](img/image2.png){width="400"}
+
+!!! info "Tipp"
+    Möchten Sie den Beleg im Nachhinein einer Buchung zuordnen (über *Auswertung / Konto*) so ist es nun auch möglich, den Beleg nur als teilweise gebucht zu markieren. In diesem Fall haben Sie die Möglichkeit den Beleg auch noch weiteren Buchungen im Nachhinein zuzuordnen.  
+    In diesem Stadium befindet sich der Beleg sowohl in den gebuchten als auch in den ungebuchten Belegen mit dem Belegstatus *teilweise gebucht*.
+
+
 

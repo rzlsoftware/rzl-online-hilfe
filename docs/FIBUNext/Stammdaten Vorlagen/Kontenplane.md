@@ -18,7 +18,7 @@ Im Register *Allgemein* können Sie zu Beginn eine Bezeichnung für den Kontenpl
 #### Register Allgemein
 
 
-![Image](<img/NeuesElement99.png>)
+![Image](<img/NeuesElement99.png>){width="600"}
 
 Weiters können Sie hier die Maximalanzahl der Stellen für Sachkonten und Personenkonten über die jeweiligen Dropdownfelder ***(1)*** festlegen. Dabei ist eine Auswahl zwischen drei und neun Stellen möglich.
 
@@ -42,7 +42,7 @@ Wird hier der Button *Fortsetzen* angewählt, werden alle hinterlegten Pflichtko
 
 #### Register Gliederungen
 
-Im Register *Gliederungen* haben Sie die Möglichkeit eine oder mehrere der angelegten KER-Gliederungen dem Kontenplan zuzuordnen. Die ausgewählte Gliederung kann anschließend bei der Anlage von Konten für deren Zuordnung zur Gliederung der kurzfristigen Erfolgsrechnung verwendet werden. Das Anlegen und Bearbeiten von KER-Gliederungen wird im Kapitel [KER-Gliederungen](../Stammdaten/KER%20Gliederungen/index.md) beschrieben.
+Im Register *Gliederungen* haben Sie die Möglichkeit eine oder mehrere der angelegten KER-Gliederungen dem Kontenplan zuzuordnen. Die ausgewählte Gliederung kann anschließend bei der Anlage von Konten für deren Zuordnung zur Gliederung der kurzfristigen Erfolgsrechnung verwendet werden. Das Anlegen und Bearbeiten von KER-Gliederungen wird im Kapitel [KER-Gliederungen](../Stammdaten FIBU Next/KER Gliederungen/index.md) beschrieben.
 
 
 ![Image](<img/NeuesElement92.png>){width="600"}
@@ -93,18 +93,20 @@ Legen Sie ein Aufwandskonto an, erscheint zusätzlich das Feld *Anlagevermögen 
 
 #### Bestandskonto anlegen
 
-Legen Sie ein Bestandskonto an, erscheint zusätzlich das Feld *Eröffnungsbilanz buchen.* Aktivieren Sie diese Option, wird die Eröffnungsbilanz auf diesem Konto bei der Jahresübernahme automatisch gebucht. \
-Diese Option kann ebenso in den Klientenstammdaten für alle Bestandskonten eines Klienten gesetzt werden (vgl. Kapitel [Neues Wirtschaftsjahr anlegen](../Stamm/Allgemein/NeuesWirtschaftsjahranlegen.md)).
+Legen Sie ein Bestandskonto an, erscheint zusätzlich das Feld *Eröffnungsbilanz buchen.* Aktivieren Sie diese Option, wird die Eröffnungsbilanz auf diesem Konto bei der Jahresübernahme automatisch gebucht.  
+Diese Option kann ebenso in den Klientenstammdaten für alle Bestandskonten eines Klienten gesetzt werden (vgl. Kapitel [Neues Wirtschaftsjahr anlegen](../Klientenstammdaten/Allgemein/NeuesWirtschaftsjahranlegen.md)).
 
 
 ![Image](<img/NeuesElement87.png>)
 
 
-Im Register *Sonstiges* können Sie ein Konto (z.B. Bank, Kassa) als *Zahlungsmittelkonto* definieren.
-Ist innerhalb der Kontenstammdaten kein Konto als Zahlungsmittelkonto angelegt, erhalten Sie beim Einstieg in den Menüpunkt *Buchen* eine Hinweismeldung.
+Im Register *Sonstiges* können Sie ein Konto (z.B. Bank, Kassa) als *Zahlungsmittelkonto* ***(1)*** definieren.
+Ist innerhalb der Kontenstammdaten kein Konto als Zahlungsmittelkonto angelegt, erhalten Sie beim Einstieg in den Menüpunkt *Buchen* eine Hinweismeldung.  
+Mit der Auswahl *autom. AVZ-Verbuchung* ***(2)*** kann festgelegt werden, ob bei diesem Konto die Buchungen aus dem Anlageverzeichnis automatisch erfolgen sollen. (für eine künftige AFA Next bzw. BIL Next)  
+Das Häkchen *Nullausweis in Bil/GuV* ***(3)*** regelt, ob das Konto auch mit einem Nullsaldo in den Auswertungen für die Bilanz bzw. die GuV ausgewiesen werden soll. (für BIL Next)
 
 
-![Image](<img/NeuesElement86.png>){width="500"}
+![Register Sonstiges](img/image6.png){width="500"}
 
 
 #### Register Pflichtkonten

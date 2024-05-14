@@ -17,7 +17,7 @@ der FIBU Klassik auf die FIBU Next zu beachten sind.
 Als ersten Schritt müssen die Stammdaten des Klienten im RZL Board
 angelegt sein. Ist dies nicht der Fall, so können Sie die Stammdaten
 mittels der ZMV Klientenübernahme ins RZL Board übernehmen. Genaueres
-dazu finden Sie im Handbuch RZL Board im Kapitel ***2.6** ZMV
+dazu finden Sie im Handbuch RZL Board im Kapitel *ZMV
 Klientenübernahme*.
 
 In der FIBU Klassik können Sie Ihre Klienten entweder
@@ -173,8 +173,8 @@ Jahresübernahme*.
 
 ![image](img/image29.png)
 
-Aktivieren Sie das Häkchen *Eröffnungsbilanz automatisch aktualisieren
-**(1)***, so wird der EB-Wert auf den entsprechenden Konten stets
+Aktivieren Sie das Häkchen *Eröffnungsbilanz automatisch aktualisieren*
+***(1)***, so wird der EB-Wert auf den entsprechenden Konten stets
 automatisch aktualisiert. Im Gegensatz zur FIBU Klassik muss somit bei
 Nachbuchungen im Vorjahr keine erneute Jahresübernahme mehr gemacht
 werden, damit EB-Werte aktualisiert werden.

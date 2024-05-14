@@ -19,12 +19,11 @@ In der RZL FIBU Next erfolgt die Abgabe der ZM in zwei Schritten:
 
 Sie können die ZM über folgende Menüpunkte erstellen:
 
-* Auswertungen / Zusammenfassende Meldung über die Schaltfläche *zur ZM Übermittlung* oder
-* im Modul PORTALE im Register FinanzOnline über die Schaltfläche *ZM erstellen*.
+* *Auswertungen / Zusammenfassende Meldung* über die Schaltfläche *zur ZM Übermittlung* oder
+* im Modul *PORTALE* im Register *FinanzOnline* über die Schaltfläche *ZM erstellen*.
 
 Nach Anwahl einer der beiden oben genannten Möglichkeiten gelangen Sie in das Register *ZM Erstellen*:
 
-Abb. 1 ZM erstellen
 
 ![Image](<img/NeuesElement160.png>)
 
@@ -49,9 +48,8 @@ Ist eine nachträgliche Berichtigung einer unvollständigen oder falsch abgegebe
 
 #### Gesamtrückziehung erstellen
 
-Die Gesamtrückziehung können Sie über *Auswertungen / Zusammenfassende Meldung* erstellen. Wählen Sie zuerst den zu berichtigenden Zeitraum aus und anschließend über die Schaltfläche *zur ZM Übermittlung* die Option ***zur ZM** **Gesamtrückziehung*.**
+Die Gesamtrückziehung können Sie über *Auswertungen / Zusammenfassende Meldung* erstellen. Wählen Sie zuerst den zu berichtigenden Zeitraum aus und anschließend über die Schaltfläche *zur ZM Übermittlung* die Option *zur ZM Gesamtrückziehung*.
 
-Abb. 2 ZM erstellen
 
 ![Image](<img/NeuesElement159.png>)
 
