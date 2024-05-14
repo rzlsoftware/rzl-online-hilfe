@@ -1,2 +1,0 @@
-# USt-Positionen Differenzen
-
