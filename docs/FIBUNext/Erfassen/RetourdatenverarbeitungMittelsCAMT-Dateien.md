@@ -11,7 +11,7 @@
 
 Über diesen Menüpunkt können Sie camt.053 Kontoauszüge verbuchen.
 
-Vorab müssen die entsprechenden Bankverbindungen über den Menüpunkt *Stammdaten / FIBU Bankverbindungen* hinterlegt werden (siehe Kapitel [FIBU Bankverbindungen](../Stammdaten/FIBUBankverbindungen.md))
+Vorab müssen die entsprechenden Bankverbindungen über den Menüpunkt *Stammdaten / FIBU Bankverbindungen* hinterlegt werden (siehe Kapitel [FIBU Bankverbindungen](../Stammdaten%20FIBU%20Next/FIBUBankverbindungen.md))
 
 
 Nun wählen Sie die gewünschte Bankverbindung in der Liste aus und spielen die Kontoauszüge über die Schaltfläche *Kontoauszüge hereinspielen* ***(1)*** ein.
@@ -56,7 +56,7 @@ Sobald auf *Kontoauszug buchen* geklickt wird, öffnet sich ein Buchungsstapel m
 ![Image](<img/NeuesElement49.png>)
 
 
-In den Buchungsoptionen ***(1)*** finden Sie die Informationen aus den Stammdaten der FIBU Bankverbindung (siehe Kapitel [FIBU Bankverbindungen](../Stammdaten/FIBUBankverbindungen.md)) inkl. dem Anfangssaldo des hinterlegten Sammelkontos.
+In den Buchungsoptionen ***(1)*** finden Sie die Informationen aus den Stammdaten der FIBU Bankverbindung (siehe Kapitel [FIBU Bankverbindungen](../Stammdaten%20FIBU%20Next/FIBUBankverbindungen.md)) inkl. dem Anfangssaldo des hinterlegten Sammelkontos.
 
 Um Belege zuordnen zu können, können Sie sich die Belegliste ***(2)*** einblenden lassen und bei Bedarf auch automatisch zuordnen ***(3)***. Diverese Auswertungen, wie das Journal und die Kontoauswertungen, können Sie sich über die Schaltflächen im Bereich *Auswertungen* ***(4)*** auch während des Buchens anzeigen lassen.
 
@@ -87,7 +87,7 @@ In der Spalte Vorschlag ist ersichtlich, aufgrund welcher Logik der Buchungsvors
     Die Bankverbindung können Sie bei allen Personenkonten händisch hinterlegen. Zusätzlich lernt die FIBU Next automatisch dazu, indem sie den IBAN aus der jeweiligen Kontoauszugszeile automatisch beim entsprechenden Personenkonto hinterlegt. Somit kann bei der nächsten camt-Verbuchung mit der gleichen Bankverbindung das Personenkonto gleich vorgeschlagen werden.
 
 
-Beim Verbuchen von Kontoauszügen gibt es im Kontextmenü des Buchungstextes einige hilfreiche Optionen.\
+Beim Verbuchen von Kontoauszügen gibt es im Kontextmenü des Buchungstextes einige hilfreiche Optionen.  
 Beispielsweise können Sie mit der Tastenkombination **Umschalt+F11** automatisch den Partner (Auftraggeber bzw. Empfänger) aus der camt-Datei einfügen.
 
 
@@ -101,15 +101,14 @@ Beispielsweise können Sie mit der Tastenkombination **Umschalt+F11** automatisc
 Sollten gewisse Bankverbindungen bei keinen Personenkonten hinterlegt werden (z.B. Versicherungsentschädigungen) so können diese Bankverbindungen in der Ausschlussliste IBAN ***(1)*** erfasst werden.
 
 
-
-![Image](<img/NeuesElement47.png>)
+![Ausschlussliste IBAN](img/image6.png)
 
 
 Die automatische Auslesung der Buchungsvorschläge und Zuordnung zu den offenen Posten bzw. Personenkonten erfolgt in folgenden Schritten:
 
 
 * Erkennung einer vordefinierten Verbuchungsregel
-* Auslesung des Kundendatenfeldes / der Zahlungsreferenz
+* Auslesung des Kundendatenfeldes bzw. der Zahlungsreferenz
 * Zuordnung des Personenkontos anhand der hinterlegten IBAN in den Kontostammdaten
 
 
@@ -140,5 +139,5 @@ Erscheint in dieser Darstellung ein gelbes Rufzeichen ***(1)***, so wurde zwar e
 
 
 
-#### Nähere Informationen zu Verbuchungsregeln finden Sie im Kapitel [Verbuchungsregeln](../Stammdaten/Verbuchungsregeln.md).
+#### Nähere Informationen zu Verbuchungsregeln finden Sie im Kapitel [Verbuchungsregeln](../Stammdaten%20FIBU%20Next/Verbuchungsregeln.md).
 

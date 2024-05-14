@@ -18,9 +18,9 @@
 * Anlage eines separaten Erlöskontos mit korrekter Steuerhinterlegung.
 
 
-**Hinweis**
+!!! warning "Hinweis"
 
-Bei Buchungen in Verbindung mit der Kennziffer *018* der UVA ist zwingend das Formular *U17* bzw. *U17a* auszufüllen und beim zuständigen Finanzamt einzureichen.
+    Bei Buchungen in Verbindung mit der Kennziffer *018* der UVA ist zwingend das Formular *U17* bzw. *U17a* auszufüllen und beim zuständigen Finanzamt einzureichen.
 
 ### Buchen von echt bzw. unecht befreiten Umsätzen
 
@@ -36,29 +36,28 @@ Bei Buchungen in Verbindung mit der Kennziffer *018* der UVA ist zwingend das Fo
 
 
 
-**Hinweis**
+!!! warning "Hinweis"
 
-Bei Buchungen von unecht befreiten Umsätzen gem. §6 UStG (Code *M01\*)* müssen Sie unter *STAMM / FIBU / USt* die betroffene Ziffer eintragen.
+    Bei Buchungen von unecht befreiten Umsätzen gem. §6 UStG (Code *M01\*)* müssen Sie unter *STAMM / FIBU / USt* die betroffene Ziffer eintragen.
 
 ### Dreiecksgeschäfte
 
 Ein Dreiecksgeschäft liegt vor, wenn mehrere Unternehmer in mehrere verschiedenen Mitgliedstaaten Geschäfte über die gleiche Ware abschließen und diese unmittelbar vom ersten Unternehmer an den letzten Abnehmer gelangt.
 
 
-Abb. 1 Dreiecksgeschäft
 
 ![Image](<img/NeuesElement138.png>)
 
 
-**Lieferant**\
-Als Lieferant liefert man die Ware an den Empfänger und fakturiert an den Erwerber.\
+**Lieferant**  
+Als Lieferant liefert man die Ware an den Empfänger und fakturiert an den Erwerber.  
 Für den Lieferanten entsteht eine innergemeinschaftliche Lieferung.
 
-**Erwerber** **gem.** **Art.** **25** **UStG**\
-Als Erwerber erwirbt man die Ware vom Lieferanten und lässt sie an den Empfänger liefern.\
+**Erwerber** **gem.** **Art.** **25** **UStG**  
+Als Erwerber erwirbt man die Ware vom Lieferanten und lässt sie an den Empfänger liefern.  
 Die Eingangsrechnung des Lieferanten wird als innergemeinschaftlicher Erwerb verbucht. Verwenden Sie die Steuersätze *E02* oder *E03*. (siehe auch Kapitel [Buchen von innergemeinschaftlichen Erwerben](BuchenvoninnergemeinschaftlichenErwerben.md))
 
-\
+
 Der Erwerber fakturiert wiederum an den Empfänger. Legen Sie für diese Sachverhalte ein eigenes Erlöskonto mit folgender Steuerhinterlegung an:
 
 | **Geschäftsfall**       | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |                 |                          | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
@@ -68,17 +67,17 @@ Der Erwerber fakturiert wiederum an den Empfänger. Legen Sie für diese Sachver
 
 
 
-Nach dem Buchungstext ist die UID-Nummer des Debitors einzugeben, wobei diese automatisch vorgeschlagen wird, wenn sie am Debitorenkonto verankert wurde.\
+Nach dem Buchungstext ist die UID-Nummer des Debitors einzugeben, wobei diese automatisch vorgeschlagen wird, wenn sie am Debitorenkonto verankert wurde.  
 
-**Hinweis**
+!!! warning "Hinweis"
 
-Die Dreiecksgeschäfte werden automatisch in die ZM übernommen.
+    Die Dreiecksgeschäfte werden automatisch in die ZM übernommen.
 
 
 Beim OP-Ausgleich mit Skonto wird der Skontobetrag, als Einzelbuchung mit der UID-Nummer der Rechnung, am Pflichtkonto Skontoaufwand Dreiecksgeschäfte verbucht.
 
-**Empfänger** **gem.** **Art.** **25** **Abs.** **5** **UStG**\
-Als Empfänger bestellt man die Ware beim Erwerber und bekommt sie vom Lieferanten geliefert. Die Eingangsrechnung des Erwerbers wird z.B. mit D20 auf einem Aufwandskonto verbucht.\
+**Empfänger** **gem.** **Art.** **25** **Abs.** **5** **UStG**  
+Als Empfänger bestellt man die Ware beim Erwerber und bekommt sie vom Lieferanten geliefert. Die Eingangsrechnung des Erwerbers wird z.B. mit D20 auf einem Aufwandskonto verbucht.  
 
 | **Geschäftsfall**         | **Kennziffer** **UVA** | **Steuerhinterlegung** **am** **Konto** |                  |                  | **Eingabe** **im Buchungsdialog** **(Feld Code)** | **Anzeige** **Journal/Konto** |
 | ------------------------- | ---------------------- | --------------------------------------- | ---------------- | ---------------- | ------------------------------------------------- | ----------------------------- |
@@ -96,7 +95,6 @@ Geschäftsfälle, die mit abweichendem Umsatzsteuer-Monat berücksichtigt werden
 
 Sie können dazu im Buchungsdialog im Feld *Datum* mit rechter Maustaste oder F11-Taste das Eingabefeld *USt-Monat* aktivieren.
 
-Abb. 2 abweichendes USt-Monat
 
 ![Image](<img/NeuesElement136.png>)
 
@@ -108,6 +106,6 @@ Bei Geschäftsfällen, wo nur eine teilweise Vorsteuerabzugsberechtigung vorlieg
 
 Durch Verankerung des Codes *Nicht abzugsfähige Vorsteuer*, dem jeweiligen Prozentsatz und dem Steuertyp *Ohne Vorsteuer Abzug* am Aufwandskonto, wird der richtige Steuercode beim Buchen automatisch vorgeschlagen. Vom Programm wird nun die Vorsteuer auf das Vorsteuer-Sammelkonto und das Pflichtkonto *Nichtabzugsfähige Vorsteuer* aufgeteilt.
 
-**Hinweis**
+!!! warning "Hinweis"
 
-Das Konto *Nichtabzugsfähige Vorsteuer/Erwerbsteuer* muss auch als Pflichtkonto unter *Stammdaten / Pflichtkonten* hinterlegt werden.
+    Das Konto *Nichtabzugsfähige Vorsteuer/Erwerbsteuer* muss auch als Pflichtkonto unter *Stammdaten / Pflichtkonten* hinterlegt werden.

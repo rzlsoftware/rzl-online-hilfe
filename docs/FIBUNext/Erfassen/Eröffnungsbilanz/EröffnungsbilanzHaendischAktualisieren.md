@@ -13,7 +13,6 @@ Hier haben Sie die Möglichkeit die EB aller Konten, bei denen Eröffnungsbilanz
 Die Einstellung, dass bei einem Konto die Eröffnungsbilanz gebucht werden soll, kann entweder generell für Kontengruppen in den Klientenstammdaten (siehe Kapitel [Eröffnungsbilanz](index.md)) hinterlegt werden, oder pro Konto in den Kontostammdaten.
 
 
-Abb. 1 EB-Stapel aktualisieren
 
 ![Image](<img/NeuesElement44.png>)
 
@@ -29,7 +28,6 @@ Abb. 1 EB-Stapel aktualisieren
 Bei händischen Eröffnungsbilanzbuchungen ist es wichtig, dass diese unter *Erfassen / Eröffnungsbilanz* gebucht werden, da nur so vom Programm erkannt werden kann, dass es sich um Eröffnungsbilanzbuchungen handelt.
 
 
-Abb. 2 Eröffnungsbilanz
 
 ![Image](<img/NeuesElement43.png>)
 
@@ -44,7 +42,6 @@ Ein Eröffnungsbilanz-Stapel kann nicht verworfen werden, jedoch können die Buc
     Beachten Sie, dass händische EB-Buchungen auf Konten mit der Option „*Eröffnungsbilanz buchen*“ nicht zulässig sind.
 
 
-Abb. 3 Belegkreis EB
 
 ![Image](<img/NeuesElement42.png>)
 

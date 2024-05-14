@@ -11,5 +11,5 @@ Für die Einfuhrumsatzsteuer bei Importen aus dem Drittland gibt es zwei Verfahr
 
 Für die jeweilige Abgabenart ist ein separates Steuerkonto anzulegen. Dieses muss unter *Stammdaten / Pflichtkonten* / *USt* für die jeweilige Kennziffer (061 bzw. 083) hinterlegt werden.
 
-Die Einfuhrumsatzsteuer wird direkt auf das jeweilige Pflichtkonto mit dem ***Steuercode** **98*** im Feld *Code* gebucht.
+Die Einfuhrumsatzsteuer wird direkt auf das jeweilige Pflichtkonto mit dem ***Steuercode*** ***98*** im Feld *Code* gebucht.
 
