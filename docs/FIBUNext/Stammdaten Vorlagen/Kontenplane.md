@@ -102,8 +102,8 @@ Diese Option kann ebenso in den Klientenstammdaten für alle Bestandskonten eine
 
 Im Register *Sonstiges* können Sie ein Konto (z.B. Bank, Kassa) als *Zahlungsmittelkonto* ***(1)*** definieren.
 Ist innerhalb der Kontenstammdaten kein Konto als Zahlungsmittelkonto angelegt, erhalten Sie beim Einstieg in den Menüpunkt *Buchen* eine Hinweismeldung.  
-Mit der Auswahl *autom. AVZ-Verbuchung* ***(2)*** kann festgelegt werden, ob bei diesem Konto die Buchungen aus dem Anlageverzeichnis automatisch erfolgen sollen. (für eine künftige AFA Next bzw. BIL Next)  
-Das Häkchen *Nullausweis in Bil/GuV* ***(3)*** regelt, ob das Konto auch mit einem Nullsaldo in den Auswertungen für die Bilanz bzw. die GuV ausgewiesen werden soll. (für BIL Next)
+Mit der Auswahl *autom. AVZ-Verbuchung* ***(2)*** kann festgelegt werden, ob bei diesem Konto die Buchungen aus dem Anlageverzeichnis automatisch erfolgen sollen. Diese Einstellungen werden bei Übergabe der Bilanzumbuchungen aus dem RZL Bilanzprogramm übernommen.  
+Das Häkchen *Nullausweis in Bil/GuV* ***(3)*** regelt, ob das Konto auch mit einem Nullsaldo in den Auswertungen für die Bilanz bzw. die GuV ausgewiesen werden soll. Auch diese Einstellung wird bei Übergabe der Bilanzumbuchungen aus dem RZL Bilanzprogramm übernommen.
 
 
 ![Register Sonstiges](img/image6.png){width="500"}
