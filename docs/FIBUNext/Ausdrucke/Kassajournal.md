@@ -10,3 +10,4 @@ Das Kassajournal kann sowohl nach Kontenbereichen, als auch für Einzelkonten ge
 * *Mit Tagessaldo*: Eine zusätzliche Spalte mit dem Tagessaldo wird eingeblendet.
 * *Mit Fremdbelegnummer*: Neben der Belegnummer finden Sie mit dieser Option auch die jeweilige Fremdbelegnummer der Buchung.
 
+
