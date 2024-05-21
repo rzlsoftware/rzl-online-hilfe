@@ -2,7 +2,7 @@
 
 ## Verbuchungsregeln zur Retourdatenverarbeitung
 
-Test
+TestKarin
 
 Zur automatisierten Verarbeitung der Retourdaten können für gleichartige bzw. wiederkehrende Geschäftsfälle (z.B. Strom, Miete) Verbuchungsregeln angelegt werden. Dadurch wird beim wiederkehrenden Import automatisch der vordefinierte Buchungsvorschlag erstellt.
 
