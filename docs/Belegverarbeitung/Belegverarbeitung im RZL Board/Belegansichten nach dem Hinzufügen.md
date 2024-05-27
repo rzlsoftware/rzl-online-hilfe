@@ -1,8 +1,8 @@
 ## Belegansichten nach dem Hinzufügen der Belege
 
-> Über den Menüeintrag Belege finden Sie die Beleglisten *Ungebuchte*
-> Belege / *Gebuchte Belege.*
->
+Über den Menüeintrag Belege finden Sie die Beleglisten *Ungebuchte*
+Belege / *Gebuchte Belege.*
+
 ![](img/image28.png)
 
 ### Ungebuchte Belege
@@ -15,13 +15,13 @@ werden. Die Möglichkeiten der Bearbeitung finden Sie nachfolgend.
 
 ![](img/image29.png)
 
--   Spalten filtern
+**Spalten filtern**
 
 Pro Spalte haben Sie Möglichkeit, die Daten zu filtern. Klicken Sie dazu
 in der Spaltenüberschrift auf das blaue Filtersymbol:  
 ![](img/image30.png)
 
--   Layout speichern / speichern unter
+**Layout speichern / speichern unter**
 
 In Listenansichten im RZL Board gibt es die Möglichkeit z.B. Spalten
 ein- und auszublenden, Spaltenpositionen zu verändern und Filter pro
@@ -36,12 +36,12 @@ nochmals verändert haben, können Sie entweder die bestehende Ansicht
 detailliertere Filterfunktionen genutzt werden. Diese Layouts sind pro
 Liste personenbezogen gespeichert.
 
--   Beleg löschen
+**Beleg löschen**
 
 Der markierte Beleg wird aus der Ansicht der ungebuchten Belege gelöscht
 und in die Ansicht *Belege Papierkorb* verschoben.
 
--   Belegdaten erkennen
+**Belegdaten erkennen**
 
 Auch nach dem Hinzufügen von Belegen kann in der Liste der ungebuchten
 Belege eine Belegdatenerkennung ausgeführt werden. Dies kann z.B.
@@ -49,7 +49,7 @@ genutzt werden, wenn sich eine Schablone verändert hat und andere
 Rechnungen vom selben Rechnungsaussteller nochmals die dieser
 neuen/geänderten Schablone ausgelesen werden sollen.
 
--   Seiten bearbeiten
+**Seiten bearbeiten**
 
 Bei Belegen, die bereits in die Belegverarbeitung hinzugefügt wurden und
 somit in der Ansicht der ungebuchten Belege sichtbar sind, können Sie
@@ -129,6 +129,6 @@ werden.
 
 ### Gebuchte Belege
 
-> Anzeige der bereits gebuchten Belege mit den Buchungsinformationen des
-> tatsächlichen Buchungssatzes. Details dazu finden Sie in einem eigenen
-> Kapitel weiter unten.
+Anzeige der bereits gebuchten Belege mit den Buchungsinformationen des
+tatsächlichen Buchungssatzes. Details dazu finden Sie in einem eigenen
+Kapitel weiter unten.

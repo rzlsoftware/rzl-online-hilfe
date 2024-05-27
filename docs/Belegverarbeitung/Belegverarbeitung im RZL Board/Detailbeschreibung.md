@@ -17,11 +17,10 @@ Spalte der Listenansicht ein graues Symbol (**1**) angezeigt. In diesem
 Fall haben Sie die Möglichkeit, eine benutzerdefinierte Regel für das
 entsprechende Feld anzulegen.
 
-Hinweis
-
-In der Praxis muss natürlich abgewogen werden, ob es Sinn macht, eine
-Regel anzulegen (wenn der Beleg öfters vorkommt) oder die fehlenden
-Belegdaten beim Buchen zu ergänzen (bei Belegen, die selten vorkommen).
+!!! warning "Hinweis"
+    In der Praxis muss natürlich abgewogen werden, ob es Sinn macht, eine
+    Regel anzulegen (wenn der Beleg öfters vorkommt) oder die fehlenden
+    Belegdaten beim Buchen zu ergänzen (bei Belegen, die selten vorkommen).
 
 ![](img/image34.png)
 
@@ -120,32 +119,31 @@ Regeln anzulegen bzw. manuell Werte zu erfassen:
 
 -   
 
-> Bei jedem einzelnen Feld wird angezeigt, wie der Wert zustande
-> gekommen ist. Folgende Möglichkeiten gibt es:
->
+Bei jedem einzelnen Feld wird angezeigt, wie der Wert zustande
+gekommen ist. Folgende Möglichkeiten gibt es:
+
 ![](img/image36.png) *QR Code
-> (Registrierkassa/BCD/Stuzza)*
->
+(Registrierkassa/BCD/Stuzza)*
+
 ![](img/image37.png) *RZL Belegdatenerkennung*
->
+
 ![](img/image38.png) *Schablone
-> (benutzerdefinierte Regel)*
->
+(benutzerdefinierte Regel)*
+
 ![](img/image39.png) *Manuell eingegeben*
->
+
 ![](img/image40.png) *Automatisch berechnet*
-> (z.B. der Steuerbetrag, wenn *Gesamtnetto-* & *Gesamtbruttobetrag*
-> ausgelesen wurden).
->
+(z.B. der Steuerbetrag, wenn *Gesamtnetto-* & *Gesamtbruttobetrag*
+ausgelesen wurden).
+
 ![](img/image41.png) Importiert von einer XML-Datei
->
+
 ![](img/image42.png) Das Feld Name/Anschrift
-> wurde über die UID-Überprüfung bei FinanzOnline ausgelesen
+wurde über die UID-Überprüfung bei FinanzOnline ausgelesen
 
-Hinweis
-
-Detaillierte Infos werden mit einem Tooltip am jeweiligen Symbol
-angezeigt (Mauszeiger auf das Symbol stellen)!
+!!! warning "Hinweis"
+    Detaillierte Infos werden mit einem Tooltip am jeweiligen Symbol
+    angezeigt (Mauszeiger auf das Symbol stellen)!
 
 ### Benutzerdefinierte Regel anlegen 
 
@@ -222,12 +220,11 @@ Rechnungen oder relativ zu *Rechnung* bzw. *Teilrechnung* oder
 Jede Regel können Sie im Feld oberhalb von *auf Seite* benennen (**4**),
 um beim Resultat sehen zu können, welche Regel den Wert ausgelesen hat.
 
-Hinweis
-
-Mit dem Symbol *Textansicht anzeigen* in der Menüleiste oben kann
-zwischen dem Originalbeleg und der Belegansicht umgeschaltet werden.
-Alternativ dazu kann durch markieren der Texte und Werte am Beleg kann
-kontrolliert werden, welche Daten die OCR/Text-Erkennung ausgelesen hat.
+!!! warning "Hinweis"
+    Mit dem Symbol *Textansicht anzeigen* in der Menüleiste oben kann
+    zwischen dem Originalbeleg und der Belegansicht umgeschaltet werden.
+    Alternativ dazu kann durch markieren der Texte und Werte am Beleg kann
+    kontrolliert werden, welche Daten die OCR/Text-Erkennung ausgelesen hat.
 
 Es wird automatisch auf einen Positionsrahmen „fixe Position“ (**1**)
 umgestellt, der einen Rahmen genau beim vorher markierten Wert setzt.
@@ -258,12 +255,11 @@ Suchtextes (Bezugspunkt) eingetragen.
 Nach Abschluss der Anpassungen speichern Sie die neue Vorlage durch
 einen Klick auf *Speichern*.
 
-Hinweis
-
-Die Felder im Bereich *Allgemein* werden bei der Verbuchung in das
-jeweilige Feld übernommen. Die Felder beim *Rechnungsaussteller* bzw.
-*Rechnungsempfänger* sind dafür da, um den richtigen Kreditor bei ER
-bzw. Debitor bei AR vorschlagen zu können.
+!!! warning "Hinweis"
+    Die Felder im Bereich *Allgemein* werden bei der Verbuchung in das
+    jeweilige Feld übernommen. Die Felder beim *Rechnungsaussteller* bzw.
+    *Rechnungsempfänger* sind dafür da, um den richtigen Kreditor bei ER
+    bzw. Debitor bei AR vorschlagen zu können.
 
 Damit dies möglich ist, muss beim Kreditor z.B. die UID-Nummer in den
 Stammdaten hinterlegt sein. Diese Hinterlegung nehmen Sie einfach beim
@@ -314,17 +310,16 @@ muss das Feld leer sein.
         Ergebnisse liefert, kann über dieses Feld weiter eingeschränkt
         werden, z.B. erstes Vorkommen.
 
-> Hinweis
->
-> Falls Sie den Positionsrahmen auf eine andere Position verschieben
-> möchten, können Sie diesen links oben mit der Maus durch Klicken und
-> Halten auf dieses Symbol bewegen:
-![](img/image49.png) {width="400"}
->
-> Die Höhe des Rahmens ist für das Auslesen des Wertes nicht
-> entscheidend, d.h. der Rahmen kann auch auf eine minimale Höhe
-> reduziert werden, um auszuschließen, dass ein falscher Wert erkannt
-> wird, wenn ober- oder unterhalb weitere Werte vorkommen.
+!!! warning "Hinweis"
+    Falls Sie den Positionsrahmen auf eine andere Position verschieben
+    möchten, können Sie diesen links oben mit der Maus durch Klicken und
+    Halten auf dieses Symbol bewegen:  
+    ![](img/image49.png)
+
+Die Höhe des Rahmens ist für das Auslesen des Wertes nicht
+entscheidend, d.h. der Rahmen kann auch auf eine minimale Höhe
+reduziert werden, um auszuschließen, dass ein falscher Wert erkannt
+wird, wenn ober- oder unterhalb weitere Werte vorkommen.
 
 -   Schnitt
 
@@ -419,11 +414,10 @@ normalen Prozentsatz verwenden – in diesem Fall muss das Steuermerkmal
 zutreffen, damit z.B. der Betrag für einen bestimmten Prozentsatz
 ausgelesen wird.
 
-Hinweis
-
-Wenn der Wert über die Regel für einen bestimmten Betrag schon eindeutig
-richtig ausgelesen werden kann (z.B. relativ zu 20%), dann ist das Feld
-Steuermerkmal nicht mehr notwendig.
+!!! warning "Hinweis"
+    Wenn der Wert über die Regel für einen bestimmten Betrag schon eindeutig
+    richtig ausgelesen werden kann (z.B. relativ zu 20%), dann ist das Feld
+    Steuermerkmal nicht mehr notwendig.
 
 ### Allgemeines zu Erkennungsregeln
 
@@ -447,7 +441,7 @@ Kundennummer, …).
 
 ### Erkennungsmerkmal zur automatischen Zuordnung der Schablone
 
-![](img/image53.png)
+![](img/image53.png)  
 Ganz entscheidend bei der
 Schablonenanlage ist das Erkennungsmerkmal. Das Erkennungsmerkmal muss
 bei jeder Rechnung dieser Firma an derselben Position vorkommen. Es wird
@@ -490,10 +484,9 @@ Erkennungsmerkmal bearbeitet werden.
 
 ![](img/image54.png)
 
-Hinweis
-
-Das Erkennungsmerkmal ist entscheidend, damit bei der
-Belegdatenerkennung das Modul Belege selbständig pro Rechnung die
-richtige Schablone finden kann. Für alle Felder, wo keine Regel in einer
-Schablone definiert ist, wird die Belegdatenerkennung lt. RZL Logik
-ausgeführt.
+!!! warning "Hinweis"
+    Das Erkennungsmerkmal ist entscheidend, damit bei der
+    Belegdatenerkennung das Modul Belege selbständig pro Rechnung die
+    richtige Schablone finden kann. Für alle Felder, wo keine Regel in einer
+    Schablone definiert ist, wird die Belegdatenerkennung lt. RZL Logik
+    ausgeführt.

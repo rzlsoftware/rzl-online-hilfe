@@ -38,6 +38,6 @@ werden. Somit ist bei RZL zumindest für die Felder, die über die
 XML-Datei geliefert werden, keine Belegdatenerkennung mehr notwendig.
 
 Details dazu finden Sie in einer eigenen Kurzanleitung *Belege mit
-XL-Belegdaten aus Fremdsystem übernehmen.*
+XML-Belegdaten aus Fremdsystem übernehmen.*
 
 ![](img/image27.png)
