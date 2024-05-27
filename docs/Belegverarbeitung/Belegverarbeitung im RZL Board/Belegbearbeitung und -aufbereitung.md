@@ -15,13 +15,12 @@
     Klientenportal, auf die Beleglisten und alle weiteren Funktionen der
     RZL Belegverarbeitung.
 
-Tipp
-
-Wenn Sie Belege für verschiedene Klienten aus einem (Scan-)ordner
-hinzufügen möchten, starten Sie den Bereich *BELEGE* im Bereich *BOARD*
-ohne vorher einen Klienten zu öffnen. Für den Zugriff auf das
-Klientenportal muss allerdings immer die Klientenansicht geöffnet
-werden.
+!!! info "Tipp"
+    Wenn Sie Belege für verschiedene Klienten aus einem Scanordner
+    hinzufügen möchten, starten Sie den Bereich *BELEGE* im Bereich *BOARD*
+    ohne vorher einen Klienten zu öffnen. Für den Zugriff auf das
+    Klientenportal muss allerdings immer die Klientenansicht geöffnet
+    werden.
 
 Es bestehen unterschiedliche Möglichkeiten, die Belege in die RZL
 Belegverarbeitung hinzuzufügen:
@@ -76,10 +75,9 @@ werden.
 
 Fixieren/Verbergen der jeweiligen Ansicht:
 
-Tipp
-
-Die Menüleiste kann per Doppelklick auf die Überschrift des Tabs
-aus-/eingeblendet werden.
+!!! info "Tipp"
+    Die Menüleiste kann per Doppelklick auf die Überschrift des Tabs
+    aus-/eingeblendet werden.
  
 
 
@@ -132,25 +130,24 @@ Belegdaten.
 
 -   Buchungssperre von Belegen mit der Option *Buchung gesperrt.*
 
-Hinweis
-
-Die Reihenfolge, Markierung und Anzahl der Belege ist in der Seiten- und
-Listenansicht immer synchron.
+!!! warning "Hinweis"
+    Die Reihenfolge, Markierung und Anzahl der Belege ist in der Seiten- und
+    Listenansicht immer synchron.
 
 ### Belege/Seiten bearbeiten
 
 In der Seitenansicht werden die Belege für die Weiterverarbeitung
 aufbereitet. Folgende Möglichkeiten stehen zur Verfügung:
 
--   Einzelseiten markieren
+**Einzelseiten markieren**
 
 Seite mit der linken Maustaste anwählen
 
--   mehrseitigen Beleg markieren
+**mehrseitigen Beleg markieren**
 
 Beleg mit Klammer-Symbol im linken oberen Randbereich anklicken.
 
--   mehrere Belege markieren
+**mehrere Belege markieren**
 
     -   Belege außerhalb der Vorschaubilder mit gedrückter linker
         Maustaste und ziehen
@@ -158,12 +155,12 @@ Beleg mit Klammer-Symbol im linken oberen Randbereich anklicken.
     -   Belege mit Strg- bzw. Shift-Taste und linker Maustaste
         markieren.
 
--   Gruppe markieren
+**Gruppe markieren**
 
 Alle Belege innerhalb einer Gruppe mit Klick auf die Gruppenüberschrift
 markieren
 
--   mehrseitige Belege auftrennen
+**mehrseitige Belege auftrennen**
 
     -   Seiten auftrennen: Es werden die markierten Seiten in
         Einzelseiten aufgetrennt
@@ -185,48 +182,40 @@ markieren
 
     -   per Drag&Drop Einzelseiten herausziehen
 
--   Einzelseiten zusammenführen
+**Einzelseiten zusammenführen**
 
     -   per Drag&Drop zusammenführen
 
     -   Seiten markieren und mit rechter Maustaste Seiten zusammenführen
         verbinden
 
--   Belege drehen
-
+**Belege drehen**
 Seite markieren und mit der rechten Maustaste 90° rechts/links,
 180°drehen anwählen
 
--   leere Seiten löschen
-
+**leere Seiten löschen**
 rechte Maustaste Leere Seiten markieren und Entf-Taste oder rechte
 Maustaste Löschen anwählen
 
--   Beleg sichern
-
+**Beleg sichern**
 Beleg markieren und mit rechter Maustaste Beleg ins Dateisystem
 exportieren speichern
 
--   Beleg drucken
-
+**Beleg drucken**
 Beleg markieren und mit rechter Maustaste Beleg drucken
 
--   Beleg im RZL PDF-Manager anzeigen
-
+**Beleg im RZL PDF-Manager anzeigen**
 Beleg markieren und mit rechter Maustaste Beleg(e) im RZL PDF-Manager
 anzeigen.
 
--   Beleg per Mail versenden
-
+**Beleg per Mail versenden**
 Beleg markieren und mit rechter Maustaste Beleg(e) versenden
 
--   Beleg duplizieren
-
+**Beleg duplizieren**
 Beleg markieren und mit rechter Maustaste Beleg(e) duplizieren. Derselbe
 Beleg steht nun ein zweites Mal zur Verfügung.
 
--   Änderungen zurücksetzen
-
+**Änderungen zurücksetzen**
 Alle Änderungen, die bisher durchgeführt wurden, werden rückgängig
 gemacht und der Original-Zustand der Dateien im Scanordner wird
 wiederhergestellt.
@@ -245,22 +234,21 @@ zusammenführen.
 
 ![](img/image15.png)
 
-**1**
 
 ### OCR-Erkennung
 
-> Das Symbol *Text vorhanden* (links unten am Beleg) zeigt in der
-> Seitenansicht mittels Tooltip die Herkunft des Volltextes an.
-> Zusätzlich wird dies pro Beleg auch in einer eigenen Spalte in der
-> Listenansicht angezeigt.
->
+Das Symbol *Text vorhanden* (links unten am Beleg) zeigt in der
+Seitenansicht mittels Tooltip die Herkunft des Volltextes an.
+Zusätzlich wird dies pro Beleg auch in einer eigenen Spalte in der
+Listenansicht angezeigt.
+
 ![](img/image16.png)
 
 Folgende Möglichkeiten gibt es:
 
 1.  **OCR: Original:**
 
-> Der im PDF eingebettete und mitgelieferte Volltext wird verwendet.
+Der im PDF eingebettete und mitgelieferte Volltext wird verwendet.
 
 -   Belege, die aus der Fakturierung direkt als PDF ausgegeben wurden ⇨
     Originaltext ist im PDF enthalten.
@@ -268,18 +256,19 @@ Folgende Möglichkeiten gibt es:
 -   Belege, die gescannt wurden und der Volltext mittels OCR-Erkennung
     ergänzt wurde (z.B. durch die Scansoftware vom Scanner).
 
-> *Tipp:* Über die *benutzerdefinierte Belegdatenerkennung* kann mit der
-> Funktion *RZL Texterkennung erzwingen* jederzeit der Originaltext
-> verworfen und vom Modul Belege mittels Microsoft oder tessercat-OCR
-> neu ausgelesen werden.
+!!! info "Tipp"
+    Über die *benutzerdefinierte Belegdatenerkennung* kann mit der
+    Funktion *RZL Texterkennung erzwingen* jederzeit der Originaltext
+    verworfen und vom Modul Belege mittels Microsoft oder tessercat-OCR
+    neu ausgelesen werden.
 
 1.  **OCR-Erkennung direkt im Modul Belege im RZL Board**
 
-> Falls die Belege keinen OCR-Volltext enthalten, wird die
-> OCR/Texterkennung erst direkt im Modul Belege durchgeführt. Die
-> Einstellungen finden Sie im Menüpunkt *Belege / Einstellungen /
-> Texterkennung (OCR)*. Für die OCR-Volltext-Erkennung im Modul Belege
-> setzt RZL (je nach gewählter Einstellung) folgende Fremdsoftware ein:
+Falls die Belege keinen OCR-Volltext enthalten, wird die
+OCR/Texterkennung erst direkt im Modul Belege durchgeführt. Die
+Einstellungen finden Sie im Menüpunkt *Belege / Einstellungen /
+Texterkennung (OCR)*. Für die OCR-Volltext-Erkennung im Modul Belege
+setzt RZL (je nach gewählter Einstellung) folgende Fremdsoftware ein:
 
 -   Microsoft OCR-Erkennung (nur mit Windows 10 oder 11)
 
@@ -293,10 +282,9 @@ werden, in dem der jeweils markierte Beleg (über die Seiten- oder
 Listenansicht) über den ganzen Bildschirm inkl. der Belegdaten angezeigt
 wird.
 
-Hinweis
-
-Dieses extra Belegfenster kann beliebig verschoben werden und während
-der Bearbeitung jederzeit geöffnet bleiben!
+!!! warning "Hinweis"
+    Dieses extra Belegfenster kann beliebig verschoben werden und während
+    der Bearbeitung jederzeit geöffnet bleiben!
 
 Wird mit gedrückter linker Maustaste der Cursor über einen Wert gezogen,
 wird der tatsächlich erkannte Text unterhalb des Mauszeigers angezeigt.
@@ -348,7 +336,7 @@ durchblättern.
 Der Beleg kann durch Klick auf diese Funktion vollständig in der
 Textansicht/OCR-Ansicht angezeigt werden.
 
-> *Normalanzeige vs. Text/OCR-Anzeige*
+*Normalanzeige vs. Text/OCR-Anzeige*
 
 ![](img/image18.png)
 ![](img/image19.png)
@@ -384,16 +372,15 @@ erkennen“*, wenn die Belegdatenerkennung nur für die markierten Belege
 durchgeführt werden soll. Die Funktionen sind alternativ auch mit der
 rechten Maustaste erreichbar.
 
-Hinweis
+!!! warning "Hinweis"
+    **OCR-Erkennung ≠ Belegdatenerkennung**
 
-**OCR-Erkennung ≠ Belegdatenerkennung**
-
-Bei der OCR-Erkennung wird der gesamte vorhandene Text jeder Seite
-ausgelesen, die Beleg­daten­erkennung nutzt anschließend diesen
-ausgelesenen Text, um bestimmte Daten zu finden (Datum, Belegnummer,
-Betrag, …). Wird also ein bestimmter Wert von der OCR-Erkennung nicht
-erkannt/ ausgelesen, kann die RZL Belegdatenerkennung oder auch eine
-Schablone diesen Wert nicht finden.
+    Bei der OCR-Erkennung wird der gesamte vorhandene Text jeder Seite
+    ausgelesen, die Beleg­daten­erkennung nutzt anschließend diesen
+    ausgelesenen Text, um bestimmte Daten zu finden (Datum, Belegnummer,
+    Betrag, …). Wird also ein bestimmter Wert von der OCR-Erkennung nicht
+    erkannt/ ausgelesen, kann die RZL Belegdatenerkennung oder auch eine
+    Schablone diesen Wert nicht finden.
 
 ![](img/image20.png)
 
@@ -415,13 +402,12 @@ Bei der Belegdatenerkennung werden folgende Schritte durchgeführt:
     der Name und die Anschrift ausgelesen und bspw. bei ER im Feld
     Rechnungssteller angezeigt.
 
-Hinweis
-
-Über die Funktion „*Belegdaten erkennen*“ werden jedes Mal alle Belege
-neu ausgelesen. Das heißt, falls neue Regeln in einer Schablone angelegt
-wurden, die auch für andere Belege passen, dann wird die neue Schablone
-bei neuerlichem Klick auf diese Funktion auch bei den anderen Belegen
-verwendet.
+!!! warning "Hinweis"
+    Über die Funktion „*Belegdaten erkennen*“ werden jedes Mal alle Belege
+    neu ausgelesen. Das heißt, falls neue Regeln in einer Schablone angelegt
+    wurden, die auch für andere Belege passen, dann wird die neue Schablone
+    bei neuerlichem Klick auf diese Funktion auch bei den anderen Belegen
+    verwendet.
 
 Die Ergebnisse der Belegdatenerkennung sind am besten in der
 Listenansicht ersichtlich (bzw. für einen einzelnen Beleg auch über die
@@ -432,12 +418,11 @@ Buchungsvorschlag notwendig sind, ausgelesen wurden (grünes Symbol) oder
 ob Felder fehlen (graues Symbol). Wenn Sie die Maus auf ein graues
 Symbol stellen, sehen Sie fehelende Werte gelb eingefärbt.
 
-Hinweis
-
-Die Belege könnten auch bei fehlenden Einträgen abgeschlossen und
-gebucht werden. Die fehlenden Werte müssen (wie auch ohne dem Modul
-Belegverarbeitung) in der Buchhaltung bzw. EA-Rechnung beim Buchen
-ergänzt werden.
+!!! warning "Hinweis"
+    Die Belege könnten auch bei fehlenden Einträgen abgeschlossen und
+    gebucht werden. Die fehlenden Werte müssen (wie auch ohne dem Modul
+    Belegverarbeitung) in der Buchhaltung bzw. EA-Rechnung beim Buchen
+    ergänzt werden.
 
 ![](img/image21.png)
 
@@ -445,13 +430,12 @@ Sie können fehlenden Daten durch Anlage einer neuen Belegschablone
 ergänzen, damit das entsprechende Feld in Zukunft immer richtig
 ausgelesen werden kann. Details dazu weiter unten.
 
-Hinweis
-
-Sie können sämtliche Änderungen, die Sie bei den Belegen durchgeführt
-haben wieder rückgängig machen, indem Sie mit der rechten Maustaste auf
-eine graue Fläche klicken und die Funktion „Änderungen zurücksetzen“
-aufrufen. Somit stehen die Belege wieder so zur Verfügung, wie die
-Dateien ursprünglich in den Scanordner gespeichert wurden.
+!!! warning "Hinweis"
+    Sie können sämtliche Änderungen, die Sie bei den Belegen durchgeführt
+    haben wieder rückgängig machen, indem Sie mit der rechten Maustaste auf
+    eine graue Fläche klicken und die Funktion „Änderungen zurücksetzen“
+    aufrufen. Somit stehen die Belege wieder so zur Verfügung, wie die
+    Dateien ursprünglich in den Scanordner gespeichert wurden.
 
 #### Benutzerdefinierte Belegdatenerkennung
 
@@ -500,11 +484,10 @@ sollen oder *„Auswahl übernehmen“*, wenn nur die markierten Belege ins
 RZL Board übernommen werden sollen. Die Belege stehen dann im Modul
 Belege als ungebucht zur Verbuchung in der FIBU/EA bereit.
 
-![](img/image23.png)Nach erfolgreicher Übernahme
-werden die Dateien aus dem Scanordner gelöscht.
+![](img/image23.png) 
+Nach erfolgreicher Übernahme werden die Dateien aus dem Scanordner gelöscht.
 
-<span class="mark">  
-</span>
+
 
 Bei der Belegübernahme werden die Belege geprüft, ob exakt dieselbe
 Datei in den letzten 30 Tagen bereits hinzugefügt wurde. Ist dies der
@@ -583,7 +566,7 @@ Markierte Belege in Einzelseiten auftrennen.
     markiert werden. Anschließend kann z.B. immer vor der markierten 1.
     Seite eines Beleges ein Schnitt gemacht werden
 
-<!-- -->
+
 
 -   Belegdaten erkennen
 
@@ -603,30 +586,30 @@ Selbe Funktion wie Belegdaten erkennen – gilt nur für markierte Belege.
 
 -   Benutzerdefinierte Belegdatenerkennung
 
-für die Belegdatenerkennung können über benutzerdefiniert folgende
+Für die Belegdatenerkennung können über benutzerdefiniert folgende
 zusätzliche Funktionen für alle (*Ausführen (alle))* oder nur für
 markierte Belege (*Ausführen (nur Auswahl))* ausgeführt werden:
 
--   Texterkennungs-Software: Sie können einmalig die in den
-    Einstellungen festgelegte OCR-Engine übersteuern und die hier
-    eingestellte verwenden.
+**Texterkennungs-Software:** 
+Sie können einmalig die in den Einstellungen festgelegte OCR-Engine übersteuern und die hier eingestellte verwenden.
 
--   RZL Texterkennung erzwingen: Wurde beispielsweise die
-    OCR/Texterkennung bereits vom Scanner durchgeführt, führt das Modul
-    Belege keine Texterkennung mehr durch, sondern verwendet den
-    mitgelieferten Text. Mit dieser Funktion kann der Text vom Scanner
-    verworfen und mit der oben eingestellten OCR-Engine neu ausgelesen
-    werden. Dies kann z.B. verwendet werden, um die Qualität zu
-    vergleichen.
+**RZL Texterkennung erzwingen:**
+Wurde beispielsweise die OCR/Texterkennung bereits vom Scanner durchgeführt, führt das Modul Belege keine Texterkennung mehr durch, sondern verwendet den
+mitgelieferten Text. Mit dieser Funktion kann der Text vom Scanner
+verworfen und mit der oben eingestellten OCR-Engine neu ausgelesen
+werden. Dies kann z.B. verwendet werden, um die Qualität zu
+vergleichen.
 
--   QR-Codes auslesen (Registrierkassa/BCD/Stuzza): Standardmäßig wird
-    bei der Belegdatenerkennung (nicht benutzerdefiniert) als erstes ein
-    ev. vorhandener QR Code ausgelesen. Soll dies vermieden werden, muss
-    diese Option deaktiviert werden.
+**QR-Codes auslesen (Registrierkassa/BCD/Stuzza):**
+Standardmäßig wird
+bei der Belegdatenerkennung (nicht benutzerdefiniert) als erstes ein
+ev. vorhandener QR Code ausgelesen. Soll dies vermieden werden, muss
+diese Option deaktiviert werden.
 
--   Schablonensystem verwenden: Diese Option entscheidet, ob die
-    benutzerdefinierten Regeln, die einer Schablone abgespeichert sind,
-    angewendet werden.
+**Schablonensystem verwenden:**
+Diese Option entscheidet, ob die
+benutzerdefinierten Regeln, die einer Schablone abgespeichert sind,
+angewendet werden.
 
     -   Bereits zugeordnete Schablone belassen: Falls bei Belegen
         bereits eine Schablone zugeordnet ist, bleibt diese auf jeden
@@ -646,13 +629,13 @@ markierte Belege (*Ausführen (nur Auswahl))* ausgeführt werden:
 
 <!-- -->
 
--   Alle übernehmen
+**Alle übernehmen**
 
 Alle vorhanden Belege werden ins Modul Belege übernommen und stehen als
 ungebucht zur Verbuchung in der FIBU/EA bereit. Nach erfolgreicher
 Übernahme werden die Dateien aus dem Ordner gelöscht.
 
--   Auswahl übernehmen
+**Auswahl übernehmen**
 
 Nur markierte Belege werden ins Modul Belege in die Ansicht *Ungebuchte
 Belege* bzw. *Belegfreigabe* übernommen. Nach erfolgreicher Übernahme
