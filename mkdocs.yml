@@ -37,6 +37,8 @@ copyright: Copyright &copy; 2024 <a href="https://rzlsoftware.at">RZL Software G
 extra_css:
   - stylesheets/extra.css
   - stylesheets/pdf.css
+extra_javascript:
+  - scripts/redirect.js
           
 plugins:
   - search
