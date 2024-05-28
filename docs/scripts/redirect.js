@@ -1,7 +1,9 @@
 function checkAndAddSlash() {
     var currentUrl = window.location.href;
 
-    if (currentUrl.endsWith("/")) {
+    if (currentUrl.endsWith("/") 
+     || currentUrl.endsWith(".html")
+     || currentUrl.endsWith("index")) {
         return;
     }
 
