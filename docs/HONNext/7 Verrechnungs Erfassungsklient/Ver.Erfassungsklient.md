@@ -37,8 +37,7 @@ dazugehörige Verrechnungsklient zu hinterlegen.
 
 Abb. 7‑1 Stammdaten Erfassungsklient
 
-<img src=".\img/image118.png"
-style="width:6.29921in;height:2.54905in" />
+![](<img/image118.png>)
 
 ### Verrechnungsklient
 
@@ -48,8 +47,7 @@ Erfassungsklienten definiert.
 
 Abb. 7‑2 Stammdaten Verrechnungsklient
 
-<img src=".\img/image119.png"
-style="width:6.29921in;height:3.02923in" />
+![](<img/image119.png>)
 
 Tipp
 
@@ -75,9 +73,7 @@ erhalten Sie die abzurechnenden Summen pro Erfassungsklient.
 
 Abb. 7‑3 Notenübersicht Verrechnungsklient
 
-<img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image120.png"
-style="width:6.29921in;height:1.99744in" />
+![](<img/image120.png>)
 
 Hinweis
 
@@ -96,10 +92,7 @@ Erfassungsklienten (**2**) einschränken.
 
 Abb. 7‑4 offene Leistungen Verrechnungsklient
 
-<img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image121.png"
-style="width:6.29921in;height:1.4994in" />
+![](<img/image121.png>)
 
 ### Zu/Abschläge Verrechnungsklient
 
@@ -110,15 +103,11 @@ erhält, einzutragen (**4**) (siehe auch Kapitel 11.4.12 Zu-/Abschläge).
 
 Abb. 7‑5 Zu/Abschlag Verrechnungsklient
 
-<img src=".\img/image26.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image122.png"
-style="width:6.29921in;height:2.5054in" />
+![](<img/image122.png>)
 
 Abb. 7‑6 manueller Zu/Abschlag Verrechnungsklient
 
-<img src=".\img/image25.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image123.png"
-style="width:6.29921in;height:0.96962in" />
+![](<img/image123.png>)
 
 ### Notenjournal
 
@@ -129,8 +118,7 @@ Erfassungsklienten unterteilt und kann gefiltert werden.
 
 Abb. 7‑7 Notenjournal Verrechnungsklient
 
-<img src=".\img/image124.png"
-style="width:6.29921in;height:1.42996in" />
+![](<img/image124.png>)
 
 ## Auswertungen
 
@@ -145,9 +133,7 @@ Gruppierungsfeld (**1**) ziehen.
 
 Abb. 7‑8 Klientenstatistik Verrechnungsklient
 
-<img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image125.png"
-style="width:6.29921in;height:1.25865in" />
+![](<img/image125.png>)
 
 In der allgemeinen Umsatzstatistik stehen Ihnen die Spalten *Klient
 (Erfassung)* und *Klient (Verrechnung)* zur Verfügung. Sie können hier

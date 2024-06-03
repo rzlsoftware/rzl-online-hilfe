@@ -19,11 +19,7 @@ verwalten* zugeordnet haben.
 
 Abb. 4‑1 Unternehmensbereiche
 
-<img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image100.png"
-style="width:6.29921in;height:3.62904in" />
+![](<img/image100.png>)
 
 Ein neuer Unternehmensbereich kann über den Button „*Neuer
 Unternehmensbereich*“ im Ribbon **(2)** oder im rechten unteren Bereich
@@ -38,8 +34,7 @@ den Button *zur Firmenansicht* gelangen Sie zur Firmenansicht.
 
 Abb. 4‑2 Neuen Unternehmensbereich anlegen
 
-<img src=".\img/image101.png"
-style="width:6.29921in;height:1.87586in" />
+![](<img/image101.png>)
 
 Im Bereich *HON* können Sie für den Unternehmensbereich den zugehörigen
 Nummernbereich (siehe Kapitel 2.5, Seite [33](#nummernbereiche)), die
@@ -55,8 +50,7 @@ beim Ausdruck auf Papier).
 
 Abb. 4‑3 Unternehmensbereich - HON
 
-<img src=".\img/image102.png"
-style="width:5.51181in;height:2.72514in" />
+![](<img/image102.png>)
 
 Die Klienten Zuordnung erfolgt über den Menüpunkt *Klienten zuordnen.*
 Sie können im Anschluss die gewünschten Klienten durch Setzen eines
@@ -67,8 +61,7 @@ Betrieb den Unternehmensbereich zuordnen.
 
 Abb. 4‑4 Unternehmensbereich – Klienten zuordnen
 
-<img src=".\img/image103.png"
-style="width:0.72908in;height:0.85406in" />
+![](<img/image103.png>)
 
 Über den Button „*Unternehmensbereich löschen*“ oder über das
 Kontextmenü können Sie Unternehmensbereiche löschen. Dies ist jedoch nur

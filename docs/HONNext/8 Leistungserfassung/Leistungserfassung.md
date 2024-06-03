@@ -10,11 +10,9 @@ Sie können für Ihre Mitarbeiter Leistungen nach erfassen, löschen bzw.
 Leistungen korrigieren. Dies alles ermöglicht der Punkt *Leistungen
 erfassen* **(1)** im Ribbon *Leistungserfassung*.
 
-<img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" />Abb. 8‑1 Leistungen erfassen
+Abb. 8‑1 Leistungen erfassen
 
-<img src=".\img/image126.png"
-style="width:3.62531in;height:0.65006in" />
+![](<img/image126.png>)
 
 Wird der Punkt Leistungen erfassen **(1)** angewählt, öffnet sich ein
 neuer Tab **(2)** in welchem alle Leistungen aller Mitarbeiter für das
@@ -25,11 +23,7 @@ Jahre einfach wechseln indem Sie auf das gewünschte Jahr klicken.
 
 Abb. 8‑2 Leistungen
 
-<img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image47.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image26.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image127.png"
-style="width:6.29921in;height:2.94414in" />
+![](<img/image127.png>)
 
 Die Leistungsübersicht enthält nachfolgende Spalten **(4):**
 
@@ -70,8 +64,8 @@ Die Leistungsübersicht enthält nachfolgende Spalten **(4):**
 -   Verrechneter Wert: Tatsächlich verrechneter Wert in der Honorarnote.
 
 -   Status: Wenn dieses Symbol angezeigt wird
-    <img src=".\img/image128.png"
-    style="width:0.31246in;height:0.22914in" />bedeutet dies, dass die
+    ![](<img/image128.png>)
+    bedeutet dies, dass die
     Leistung bereits verrechnet wurde.
 
 Hinweis
@@ -95,8 +89,7 @@ Leistung zu erfassen.
 
 Abb. 8‑3 Neue Leistung erfassen
 
-<img src=".\img/image129.png"
-style="width:0.55201in;height:0.78115in" />
+![](<img/image129.png>)
 
 Es öffnet sich im unteren Bereich eine Eingabemaske in der Sie die
 Leistung eintragen können. Mittels der *Tabulator-Taste* oder der
@@ -104,8 +97,7 @@ Enter-Taste am Ziffernblock können Sie in das nächste Feld springen.
 
 Abb. 8‑4 Eingabedialog
 
-<img src=".\img/image130.png"
-style="width:6.29921in;height:0.71633in" />
+![](<img/image130.png>)
 
 Zuerst sollten Sie das Datum der Leistung eintragen. Sie können auch mit
 Shortcuts (siehe Kapitel 22 Seite [191](#hilfreiche-shortcuts)) das
@@ -147,16 +139,14 @@ detailliert auflisten lassen.
 
 Abb. 8‑5 Wertberechnung anzeigen
 
-<img src=".\img/image131.png"
-style="width:2.20806in;height:0.92697in" />
+![](<img/image131.png>)
 
 Wenn Sie auf die Schaltfläche *Wertberechnung anzeigen* klicken,
 erhalten Sie eine Detailaufstellung.
 
 Abb. 8‑6 Beispiehafte Darstellung einer Berechnung
 
-<img src=".\img/image132.png"
-style="width:5.41377in;height:2.45651in" />
+![](<img/image132.png>)
 
 Aus obigem Beispiel können Sie einfach herausfinden, welchem
 Tarifschema, welcher Generation und mit welchem Tarif der Betrag
@@ -169,9 +159,7 @@ Kontextmenüs können einzelne Leistungen, die noch nicht verrechnet
 wurden, gelöscht werden.
 
 Abb. 8‑7 Leistung löschen
-
-<img src=".\img/image131.png"
-style="width:2.20806in;height:0.92697in" />
+![](<img/image131.png>)
 
 Hinweis
 
@@ -197,18 +185,12 @@ ein-/ausgeblendet werden.
 
 Abb. 8‑8 Gruppierung Leistungsübersicht
 
-<img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image107.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image133.png"
-style="width:5.71716in;height:1.03342in" />
+![](<img/image133.png>)
 
-<img src=".\img/image26.png"
-style="width:0.35417in;height:0.35417in" />Abb. 8‑9 Filter
+Abb. 8‑9 Filter
 Leistungsübersicht
 
-<img src=".\img/image134.png"
-style="width:3.86806in;height:0.26389in"
-alt="C:\Users\KBURGS~1\AppData\Local\Temp\SNAGHTML58130ce.PNG" />
+![](<img/image134.png>)
 
 Innerhalb der Leistungsübersicht stehen Ihnen die Spalten
 (Erfassungszeilen‑) Nummer, Datum, Mitarbeiter Nr., Mitarbeiter,
@@ -224,11 +206,10 @@ aufklappen/zuklappen* können Sie nur einzelne Ebenen einblenden.
 
 Abb. 8‑10 Alles auf-/zuklappen
 
-<img src=".\img/image135.png"
-style="width:4.14531in;height:0.92697in" />
+![](<img/image135.png>)
 
 Tipp
 
 Die Leistungsübersicht steht Ihnen auch über den Punkt *Auswertungen*
 zur Verfügung. Siehe auch Kapitel 19.13, Seite
-[180](#speicherbare-layouts).
+[180](speicherbare-layouts).

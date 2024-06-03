@@ -7,8 +7,7 @@ tabellarisch pro Mitarbeiter zu erfassen.
 
 Abb. 10‑1 Überstundenauszahlung
 
-<img src=".\img/image170.png"
-style="width:3.4579in;height:1.19777in" />
+![](<img/image170.png>)
 
 Sie gelangen in eine Übersicht die Sie auf das Jahr einschränken können.
 Pro Mitarbeiter können Sie nun pro Monat die Überstundenauszahlungen
@@ -16,8 +15,7 @@ eintragen und verwalten.
 
 Abb. 10‑2 Überstundenauszahlungen erfassen
 
-<img src=".\img/image171.png"
-style="width:6.11448in;height:0.86869in" />
+![](<img/image171.png>)
 
 Sie können einfach mittels Doppelklick in das jeweilige Monat die
 Überstunden eintragen die ausbezahlt wurden. Mit der **Enter-Taste** am

@@ -2,8 +2,7 @@
 
 Abb. 3‑1 Einstellungen
 
-<img src=".\img/image72.png"
-style="width:3.93701in;height:0.79829in" />
+![](<img/image72.png>)
 
 Im Registerblatt *Einstellungen* können Sie die Grundeinstellungen
 definieren. Die Einstellungen für die Leistungserfassung der Mitarbeiter
@@ -16,8 +15,7 @@ nachfolgender Tab.
 
 Abb. 3‑2 Grundeinstellungen
 
-<img src=".\img/image73.png"
-style="width:6.29921in;height:3.19678in" />
+![](<img/image73.png>)
 
 ### Stunden
 
@@ -32,19 +30,15 @@ viertel Stunde zusätzliche Arbeiten:
 
 Ansicht bei Eingabe in Normalstunden:
 
-<img src=".\img/image74.png"
-style="width:6.29921in;height:0.40412in" />
+![](<img/image74.png>)
 
-<img src=".\img/image75.png"
-style="width:6.29921in;height:0.34591in" />
+![](<img/image75.png>)
 
 Ansicht bei Eingabe in Industriestunden:
 
-<img src=".\img/image76.png"
-style="width:6.29921in;height:0.36311in" />
+![](<img/image76.png>)
 
-<img src=".\img/image77.png"
-style="width:6.29921in;height:0.33335in" />
+![](<img/image77.png>)
 
 **Kleinste verrechenbare Zeiteinheit**
 
@@ -58,8 +52,7 @@ Viertelstunde.
 
 Abb. 3‑3 Kleinste verrechenbare Zeiteinheit
 
-<img src=".\img/image78.png"
-style="width:6.29921in;height:0.9971in" />
+![](<img/image78.png>)
 
 Die Wertberechnung erfolgt auf Basis der verrechenbaren Dauer. Die
 Eigenkosten werden auf Basis der erfassten Dauer ermittelt.
@@ -80,14 +73,12 @@ erstellte Note nicht mehr verändert werden.
 Ansicht der Note, wenn *Verrechnungsgruppen getrennt ausweisen*
 aktiviert:
 
-<img src=".\img/image79.png"
-style="width:5.89218in;height:1.75849in" />
+![](<img/image79.png>)
 
 Ansicht der Note, wenn *Verrechnungsgruppen getrennt ausweisen*
 deaktiviert:
 
-<img src=".\img/image80.png"
-style="width:5.8937in;height:1.34856in" />
+![](<img/image80.png>)
 
 Hinweis
 
@@ -105,8 +96,7 @@ und kann für die erstellte Note nicht mehr verändert werden.
 Ansicht der Note, wenn *Erfassungsklienten getrennt ausweisen*
 aktiviert:
 
-<img src=".\img/image81.png"
-style="width:5.8937in;height:1.54749in" />
+![](<img/image81.png>)
 
 Alle Erfassungsklienten werden mit dem Klientennamen und den
 dazugehörigen Leistungen angeführt.
@@ -154,8 +144,7 @@ Lohnverrechnung abgerechnet.
 Eine Tätigkeit aus der Verrechnungsgruppe Buchhaltung ist ohne Betrag
 definiert.
 
-<img src=".\img/image82.png"
-style="width:6.3in;height:1.10764in" />
+![](<img/image82.png>)
 
 In den Grundeinstellungen sind die Optionen *Verrechnungsgruppen
 getrennt ausweisen*, *Betrag bei Verrechnungsgruppenwechsel drucken* und
@@ -165,8 +154,7 @@ Auf der Note wird nun die Tätigkeit ohne Betrag (Nr. 110) vorgereiht und
 der Betrag wird zur nächsten Tätigkeit der gleichen Verrechnungsgruppe
 (Nr. 100) addiert. Es wird also gruppiert.
 
-<img src=".\img/image83.png"
-style="width:6.3in;height:1.40486in" />
+![](<img/image83.png>)
 
 Hinweis
 
@@ -183,8 +171,7 @@ führt dazu, dass der Betrag der Tätigkeit dennoch angedruckt wird, da er
 nicht mehr zu weiteren Tätigkeiten der gleichen Verrechnungsgruppe
 addiert werden kann.
 
-<img src=".\img/image84.png"
-style="width:6.3in;height:1.35903in" />
+![](<img/image84.png>)
 
 Hinweis
 
@@ -206,8 +193,7 @@ Verrechnungsgruppenwechsel drucken* gesetzt haben, wird nun, ohne
 getrennten Ausweis der Verrechnungsgruppen, eine Summe pro
 Verrechnungsgruppe gebildet.
 
-<img src=".\img/image85.png"
-style="width:6.3in;height:1.10347in" />
+![](<img/image85.png>)
 
 Hinweis
 
@@ -248,8 +234,7 @@ die Platzhalter bzw. ihr gewählter Titel liefert.
 
 Abb. 3‑4 Beispiel Notentitel
 
-<img src=".\img/image86.png"
-style="width:3.817in;height:0.53338in" />
+![](<img/image86.png>)
 
 Tipp
 
@@ -275,8 +260,7 @@ PDF kann nicht korrekt dargestellt werden.
 
 Abb. 3‑5 Schriftart nicht einbetten
 
-<img src=".\img/image87.png"
-style="width:3.93701in;height:1.26411in" />
+![](<img/image87.png>)
 
 ### Buchhaltung
 
@@ -325,8 +309,7 @@ Werte die Platzhalter bzw. ihr gewählter Text liefert.
 
 Abb. 3‑6 Beispiel Buchungstext
 
-<img src=".\img/image88.png"
-style="width:3.93701in;height:0.89558in" />
+![](<img/image88.png>)
 
 Hinweis
 
@@ -359,7 +342,7 @@ werden.
 Hinweis
 
 Den Vorschlag der Debitorennummer ist in den Klientenstammdaten (Kapitel
-6.3, Seite [60](#buchhaltung-1)) ersichtlich.
+6.3, Seite [60](buchhaltung-1)) ersichtlich.
 
 ### Verteilung der Zu- und Abschläge
 
@@ -398,8 +381,7 @@ die Leistungen automatisch freigeben zu lassen.
 
 Abb. 3‑7 Mitarbeiter Leistungserfassung
 
-<img src=".\img/image89.png"
-style="width:6.29921in;height:3.02856in" />
+![](<img/image89.png>)
 
 ### Arbeitszeitaufzeichnung
 
@@ -410,8 +392,7 @@ style="width:6.29921in;height:3.02856in" />
 
     Ansicht in der Leistungserfassung vom Mitarbeiter:
 
-    <img src=".\img/image90.png"
-    style="width:5.81456in;height:2.62976in" />
+    ![](<img/image90.png>)
 
 -   *Arbeitszeit aus den Leistungen entnehmen*
 
@@ -425,8 +406,7 @@ style="width:6.29921in;height:3.02856in" />
     12:30-16:00 erfasst werden.
 
     Ansicht in der Leistungserfassung vom
-    Mitarbeiter:<img src=".\img/image91.png"
-    style="width:5.79134in;height:2.6499in" />
+    Mitarbeiter:![](<img/image91.png>)
 
 Tipp
 
@@ -442,8 +422,7 @@ verpflichtend* zu machen (Kapitel 2.2, Seite [14](#tätigkeiten)).
 
     Ansicht in der Leistungserfassung vom Mitarbeiter:
 
-    <img src=".\img/image92.png"
-    style="width:5.79134in;height:2.09642in" />
+    ![](<img/image92.png>)
 
 -   *Digitale Stempeluhr*
 
@@ -474,8 +453,7 @@ Bei der Digitalen Stempeluhr, ist der Import von Arbeitszeiten nicht
 möglich (Kapitel 9.3, Seite [74](#import-arbeitszeiten-und-leistungen)).
 
 Ansicht in der Leistungserfassung vom
-Mitarbeiter:<img src=".\img/image93.png"
-style="width:6.29921in;height:2.92987in" />
+Mitarbeiter:![](<img/image93.png>)
 
 **Rundung  
 **Bei der Variante *Digitale Stempeluhr* besteht die Möglichkeit die
@@ -555,29 +533,25 @@ Generation anzulegen.
 
 Abb. 3‑8 Einstellungen Urlaubsverwaltung
 
-<img src=".\img/image94.png"
-style="width:6.29921in;height:1.47486in" />
+![](<img/image94.png>)
 
 Bei der Verwaltung in Stunden und in Tagen ist die Urlaubstätigkeit wie
 folgt anzulegen (vgl. Kapitel 2.2.1, Seite [15](#_Ref143773736)):
 
 Abb. 3‑9 Urlaubstätigkeit
 
-<img src=".\img/image95.png"
-style="width:6.29921in;height:1.02902in" />
+![](<img/image95.png>)
 
 In der Leistungserfassung ist bei Urlaub nach Stunden das Feld *Dauer*
 aktiv und bei Urlaub nach Tagen das Feld *Einheiten*.
 
 Abb. 3‑10 Leistungserfassung Urlaub in Stunden
 
-<img src=".\img/image96.png"
-style="width:4.33071in;height:1.11468in" />
+![](<img/image96.png>)
 
 Abb. 3‑11 Leistungserfassung Urlaub in Tagen
 
-<img src=".\img/image97.png"
-style="width:4.72441in;height:1.19414in" />
+![](<img/image97.png>)
 
 1 Einheit = 1 ganzer Tag Urlaub
 
@@ -622,8 +596,7 @@ löschen, sind diese zusätzlich in der Belegverwaltung zu löschen.
 
 Abb. 3‑12 Bewegungsdaten löschen
 
-<img src=".\img/image98.png"
-style="width:3.54331in;height:2.62362in" />
+![](<img/image98.png>)
 
 ### Bewegungsdaten zurücksetzten
 
@@ -658,8 +631,7 @@ gibt, kann diese Note nicht gelöscht werden.
 
 Abb. 3‑13 Bewegungsdaten löschen Protokoll
 
-<img src=".\img/image99.png"
-style="width:6.29921in;height:3.98449in" />
+![](<img/image99.png>)
 
 Hinweis
 

@@ -5,8 +5,8 @@ Ihren Mitarbeitern erfasst wurden, freigegeben worden sein.
 
 Die Notenerstellung selbst erfordert mehre Schritte. Zuerst wird die
 Note erstellt und nach der Erstellung kann die Note finalisiert werden.
-Dies ist auch in einem Schritt möglich (siehe Kapitel 3.1, Seite
-[37](#einstellungen)). Erst wenn die Note finalisiert wurde, steht der
+Dies ist auch in einem Schritt möglich siehe Kapitel 3.1, Seite
+37 . Erst wenn die Note finalisiert wurde, steht der
 Ausgangsrechnungsbeleg zur Verbuchung in der Belegverarbeitung bereit.
 
 ## Notenvorschläge
@@ -16,22 +16,13 @@ Damit die Notenerstellung geöffnet wird wählen Sie den Menüpunkt
 
 Abb. 11‑1 Notenerstellung öffnen
 
-<img src=".\img/image172.png"
-style="width:4.93688in;height:1.18735in" />
+![](<img/image172.png>)
 
 Es öffnet sich im Anschluss ein eigener Tab für die Notenerstellung.
 
 Abb. 11‑2 Tab-Notenerstellung
 
-<img src=".\img/image47.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image26.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image23.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image59.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image46.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image173.png"
-style="width:6.29921in;height:3.03167in" />
+![](<img/image173.png>)
 
 Sie erhalten Notenvorschläge (=noch nicht verrechnete Leistungen) die
 Sie nach gewissen Kriterien filtern können. Sie können eine Note
@@ -50,8 +41,7 @@ Sie dies definieren, indem Sie einen Rechtsklick auf das *Bis Feld*
 machen und den Vorschlag festlegen. Diese Einstellung wird pro Benutzer
 gespeichert.
 
-<img src=".\img/image174.png"
-style="width:3.14961in;height:1.67236in" />
+![](<img/image174.png>)
 
 Es besteht auch die Möglichkeit nach gewissen Verrechnungsgruppen
 **(2)** zu filtern. D.h. nur die ausgewählten Verrechnungsgruppen werden
@@ -97,8 +87,7 @@ und der Tätigkeit (Nummer und Bezeichnung).
 
 Abb. 11‑3 Tab-Offene Leistungen
 
-<img src=".\img/image175.png"
-style="width:6.29921in;height:1.86582in" />
+![](<img/image175.png>)
 
 Hinweis
 
@@ -115,13 +104,11 @@ der rechten Maustaste über das Kontextmenü.
 
 Abb. 11‑4 Wertberechnung anzeigen
 
-<img src=".\img/image176.png"
-style="width:3.14961in;height:1.02457in" />
+![](<img/image176.png>)
 
 Abb. 11‑5 Muster Wertberechnung offene Leistungen
 
-<img src=".\img/image177.png"
-style="width:5.51181in;height:2.52545in" />
+![](<img/image177.png>)
 
 **Beispiel Reihenfolge Anwendung der Tarifschemata**
 
@@ -156,8 +143,7 @@ eigene Seite.
 
 Abb. 11‑6 Ausdruck offene Leistungen
 
-<img src=".\img/image178.png"
-style="width:6.29921in;height:4.0087in" />
+![](<img/image178.png>)
 
 ## Möglichkeiten zur Notenerstellung
 
@@ -170,8 +156,7 @@ Verrechnung ausschließen usw.
 
 Abb. 11‑7 Noten erstellen
 
-<img src=".\img/image179.png"
-style="width:1.70812in;height:0.88531in" />
+![](<img/image179.png>)
 
 Wird jedoch der Button *Noten automatisch erstellen* ausgewählt, so
 werden die Noten für die gewählten Einstellungen beim Notenvorschlag
@@ -186,8 +171,7 @@ Notenvorschlagsliste.
 
 Abb. 11‑8 Noten automatisch erstellen
 
-<img src=".\img/image180.png"
-style="width:5.566in;height:1.49699in" />
+![](<img/image180.png>)
 
 ## Notenerstellung
 
@@ -200,8 +184,7 @@ Sie gelangen in die Notenansicht:
 
 Abb. 11‑9 Notenerstellungsansicht
 
-<img src=".\img/image181.png"
-style="width:6.29921in;height:4.17754in" />
+![](<img/image181.png>)
 
 ### Einstellungen
 
@@ -229,9 +212,7 @@ Notenerstellung geändert werden.
 
 Abb. 11‑10 Noteneinstellungen
 
-<img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image182.png"
-style="width:6.29921in;height:1.47362in" />
+![](<img/image182.png>)
 
 Hinweis
 
@@ -253,8 +234,7 @@ Generationen existieren.
 
 Abb. 11‑11 Hinweis Notenerstellung
 
-<img src=".\img/image183.png"
-style="width:4.18043in;height:1.92213in" />
+![](<img/image183.png>)
 
 **Anmerkungen**
 
@@ -263,26 +243,26 @@ Anmerkungen werden pro Note gespeichert. Dieser Text wird nicht auf der
 Note angedruckt.
 
 Die Anmerkungen je Note können Sie sich in der Notenübersicht (Kapitel
-15.1, Seite [140](#allgemeines)) über das Einblenden der Spalte
+15.1, Seite [140]) über das Einblenden der Spalte
 *Anmerkung* anzeigen lassen.
 
 **Zusatztext für Note**
 
 Im Reiter *Zusatztext für Note*, wird jener Text angedruckt, der in den
-Stammdaten des Klienten (Kapitel 6, Seite [56](#stammdaten-klienten))
+Stammdaten des Klienten (Kapitel 6, Seite [56])
 hinterlegt wurde. Während der Notenerstellung kann dieser Text ergänzt
 bzw. editiert werden. Dieser Text wird auf der Note angedruckt.
 
 Hinweis
 
 Der bei der Note eingegebene Zusatztext kann in der Notenübersicht
-eingeblendet werden (Kapitel 15, Seite [140](#notenübersicht)).
+eingeblendet werden (Kapitel 15, Seite [140]).
 
 **Notenstruktur**
 
 Im Reiter *Notenstruktur* können Sie die Einstellung bzgl. dem Ausweis
 der Verrechnungsgruppen für diese Note ändern. Die Einstellung wird aus
-den Grundeinstellungen (vgl. Kapitel 3.1.2, Seite [38](#note)) genommen.
+den Grundeinstellungen (vgl. Kapitel 3.1.2, Seite [38]) genommen.
 
 Wird die Notenstruktur verändert, werden bereits durchgeführte
 Gruppierungen und Sortierungen verworfen. Durchgeführte Änderungen an
@@ -293,8 +273,7 @@ Hinweis
 Wurde die Notenstruktur geändert, muss die Note gespeichert werden,
 bevor diese erneut geändert werden kann.
 
-<img src=".\img/image184.png"
-style="width:1.9685in;height:0.46744in" />
+![](<img/image184.png>)
 
 ### Darstellung der Leistungen
 
@@ -305,14 +284,12 @@ Schrift in grauer Schriftfarbe dargestellt.
 
 Abb. 11‑12 Darstellung der Leistungen
 
-<img src=".\img/image185.png"
-style="width:5.40488in;height:1.40256in" />
+![](<img/image185.png>)
 
 Hinweis
 
 Mittels Drag & Drop mit diesem Symbol
-<img src=".\img/image18.png"
-style="width:0.22914in;height:0.21872in" /> können Sie ganz einfach die
+![](<img/image18.png>)können Sie ganz einfach die
 Reihenfolge der Verrechnungsgruppen und der Tätigkeiten in der Note
 ändern. Damit das Symbol angezeigt wird müssen Sie den Mauscursor vor
 die Verrechnungsgruppe oder vor die Tätigkeit positionieren.
@@ -328,13 +305,11 @@ Zeile *Gesamt* zeigt die gesamte Note auf.
 
 Abb. 11‑13 Infozeile
 
-<img src=".\img/image186.png"
-style="width:6.29921in;height:0.72451in" />
+![](<img/image186.png>)
 
 ### Erfassungszeilen anzeigen/verbergen
 
-Mittels Pfeilsymbol <img src=".\img/image187.png"
-style="width:0.16912in;height:0.19853in" />**(2)** können Sie die
+Mittels Pfeilsymbol ![](<img/image187.png>) **(2)** können Sie die
 erfassten Tätigkeiten aufklappen/zuklappen. Ebenso können die einzelnen
 Leistungen die auf die jeweilige Tätigkeit erfasst wurden
 aufgeklappt/zugeklappt werden. Im Ribbon stehen Ihnen die Schaltflächen
@@ -343,8 +318,7 @@ verbergen*“ zur Verfügung.
 
 Abb. 11‑14 Erfassungszeilen anzeigen/verbergen
 
-<img src=".\img/image188.png"
-style="width:4.09324in;height:0.84104in" />
+![](<img/image188.png>)
 
 Über das Kontextmenü mit der rechten Maustaste können Sie über *Weitere
 Funktionen* ebenfalls einzelne markierte Erfassungszeilen
@@ -352,9 +326,7 @@ anzeigen/verbergen.
 
 Abb. 11‑15 Erfassungszeilen anzeigen/verbergen Kontextmenü
 
-<img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image189.png"
-style="width:5.57222in;height:2.2393in" />
+![](<img/image189.png>)
 
 ### Ändern der Erfassungszeilen während der Notenerstellung
 
@@ -376,29 +348,20 @@ Erfassungszeilen einblenden. Dies können Sie über *alle Zeilen anzeigen*
 
 Abb. 11‑16 Erfassungszeilen anzeigen/verbergen
 
-<img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image190.png"
-style="width:5.94218in;height:3.44197in" />
-
+![](<img/image190.png>)
 Nun können Sie die Erfassungszeile, welche Sie ändern möchten auswählen
 und mit der rechten Maustaste **(3)** oder mit *Leistung bearbeiten*
 **(4)** im Ribbon die Erfassungszeile bearbeiten.
 
 Abb. 11‑17 Leistungen bearbeiten
 
-<img src=".\img/image25.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image10.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image191.png"
-style="width:6.3in;height:3.40347in" />
-
+![](<img/image191.png>)
 Es öffnet sich ein zusätzlicher Dialog, wo die Änderungen vorgenommen
 werden können.
 
 Abb. 11‑18 Leistungen bearbeiten Eingabedialog
 
-<img src=".\img/image192.png"
-style="width:6.3in;height:0.86042in" />
+![](<img/image192.png>)
 
 Werden alle Leistungen umgebucht, sodass eine Leere Note entsteht, kann
 diese nicht gespeichert werden. Beim *Abbrechen* der Notenerstellung
@@ -407,8 +370,7 @@ Erfassungszeilen dennoch gespeichert werden sollen.
 
 Abb. 11‑19 Leistungen bearbeiten Änderungen
 
-<img src=".\img/image193.png"
-style="width:3.93701in;height:1.16357in" />
+![](<img/image193.png>)
 
 Weiters besteht auch die Möglichkeit zusätzliche Leistungen während der
 Notenerstellung zu erfassen. Dies machen Sie, indem Sie die
@@ -417,8 +379,7 @@ Funktion *Leistung bearbeiten / Leistung einfügen* im Ribbon wählen.
 
 Abb. 11‑20 Leistungen bearbeiten im Ribbon
 
-<img src=".\img/image194.png"
-style="width:1.25011in;height:1.01676in" />
+![](<img/image194.png>)
 
 Hier ist wieder zu beachten, dass eine neue Erfassungszeile auch
 Auswirkungen auf die Leistungserfassung des Mitarbeiters hat.
@@ -455,7 +416,7 @@ In den Stammdaten der Tätigkeiten steht Ihnen die Verrechnungsart
 *Stunden oder Einheiten* zur Verfügung. Bei dieser Art müssen die
 Stunden in der Leistungserfassung der Mitarbeiter erfasst werden und
 zusätzlich können optional auch die Einheiten eingetragen werden (vgl.
-Kapitel 2.2, Seite [14](#tätigkeiten)). Ist diese Tätigkeit einem
+Kapitel 2.2, Seite [14]). Ist diese Tätigkeit einem
 Stunden- und Einheitentarif zugeordnet, kann während der Notenerstellung
 die Verrechnung definiert werden. Initial werden immer die Stunden zur
 Verrechnung vorgeschlagen.
@@ -466,16 +427,14 @@ Einheiten ausmachen würden.
 
 Abb. 11‑21 Verrechnung Stunden oder Einheiten
 
-<img src=".\img/image195.png"
-style="width:6.29921in;height:1.81006in" />
+![](<img/image195.png>)
 
 Durch Rechtsklick auf den Betrag können Sie mit dem Kontextmenü oder der
 *F7-Taste* die Verrechnung wechseln.
 
 Abb. 11‑22 Verrechnung Stunden oder Einheiten
 
-<img src=".\img/image196.png"
-style="width:3.93701in;height:2.04847in" />
+![](<img/image196.png>)
 
 Wurden bei der Leistungserfassung keine Einheiten eingetragen, erhalten
 Sie folgenden Hinweis vom Programm. Solange keine Einheiten erfasst
@@ -483,8 +442,7 @@ sind, kann die Verrechnung nicht gewechselt werden.
 
 Abb. 11‑23 Hinweis Wechsel Verrechnungsart
 
-<img src=".\img/image197.png"
-style="width:5.90551in;height:1.56483in" />
+![](<img/image197.png>)
 
 Hinweis
 
@@ -519,8 +477,7 @@ diese Tätigkeiten und der zugehörige Betrag durchgestrichen dargestellt.
 
 Abb. 11‑24 Tätigkeit von Verrechnung ausschließen
 
-<img src=".\img/image198.png"
-style="width:6.29921in;height:0.78906in" />
+![](<img/image198.png>)
 
 ### Nicht verrechnete Zeilen anzeigen
 
@@ -533,8 +490,7 @@ werden, so klicken Sie noch einmal auf diese Schaltfläche, sodass diese
 
 Abb. 11‑25 Nicht verrechnete Zeilen anzeigen
 
-<img src=".\img/image199.png"
-style="width:3.25347in;height:0.82708in" />
+![](<img/image199.png>)
 
 Tipp
 
@@ -553,8 +509,7 @@ die entsprechende Schaltfläche auswählen.
 
 Abb. 11‑26 Notenzeilen gruppieren
 
-<img src=".\img/image200.png"
-style="width:4.3035in;height:2.18206in" />
+![](<img/image200.png>)
 
 Der Gesamtbetrag der Gruppierung wird immer in der letzten Zeile
 angezeigt. In unserem Beispiel wurde die Tätigkeit Lohnverrechnung mit
@@ -563,16 +518,14 @@ unter der Tätigkeit Kommunalsteuerprüfung angeführt.
 
 Abb. 11‑27 Beispiel gruppierte Zeile
 
-<img src=".\img/image201.png"
-style="width:6.29921in;height:0.49907in" />
+![](<img/image201.png>)
 
 Tipp
 
 Soll nun der Gesamtbetrag in unserem Beispiel unter der Tätigkeit
 Lohnverrechnung aufscheinen, können Sie die Reihenfolge der Tätigkeiten
 ganz einfach mit Drag & Drop mit diesem Symbol
-<img src=".\img/image18.png"
-style="width:0.22914in;height:0.21872in" /> verändern.
+![](<img/image18.png>) verändern.
 
 Die Gruppierung der Notenzeilen kann über den Punkt *Gruppierung der
 Notenzeilen aufheben*, welcher über das Kontextmenü oder über dem Ribbon
@@ -595,8 +548,7 @@ gewünschten Zeilen ausblenden.
 
 Abb. 11‑28 Notenzeilen auf Note drucken
 
-<img src=".\img/image202.png"
-style="width:3.70787in;height:1.30192in" />
+![](<img/image202.png>)
 
 **Beispiel**:
 
@@ -616,8 +568,7 @@ Gesamtbetrag nur mit der Tätigkeit Finanzbuchhaltung angedruckt.
 
 Abb. 11‑29 Beispiel Notenzeilen nicht auf der Note drucken
 
-<img src=".\img/image203.png"
-style="width:6.29921in;height:0.73041in" />
+![](<img/image203.png>)
 
 In grauer Schriftfarbe werden die Notenzeilen dargestellt, die auf der
 Note nicht gedruckt werden.
@@ -630,8 +581,7 @@ werden.
 
 Abb. 11‑30 Text ändern
 
-<img src=".\img/image204.png"
-style="width:2.54135in;height:0.32288in" />
+![](<img/image204.png>)
 
 Zusätzlich besteht die Option den Text einer/mehrerer Erfassungszeile zu
 kopieren und einzufügen. Wählen Sie hierfür eine/mehrere
@@ -642,8 +592,7 @@ einfügen.
 
 Abb. 11‑31 Text kopieren
 
-<img src=".\img/image205.png"
-style="width:2.06685in;height:0.60839in" />  
+![](<img/image205.png>)
   
 **Exkurs Leistungserfassung:**
 
@@ -655,11 +604,9 @@ Beispiel für die Leistungserfassung:
 
 Erfassung:
 
-<img src=".\img/image206.png"
-style="width:6.3in;height:0.32917in" />
+![](<img/image206.png>)
 
-Ansicht in der Note:<img src=".\img/image207.png"
-style="width:6.3in;height:2.58472in" />
+Ansicht in der Note:![](<img/image207.png>)
 
 Weitere Beispiele hierzu finden Sie im Handbuch Leistungserfassung
 Kapitel 2.4.2, Seite 10.
@@ -673,8 +620,7 @@ Leistungszeile markieren und die entsprechende Schaltfläche auswählen.
 
 Abb. 11‑32 Notenzeile einfügen
 
-<img src=".\img/image208.png"
-style="width:4.33071in;height:1.01584in" />
+![](<img/image208.png>)
 
 Nachdem Sie die Schaltfläche betätigt haben, öffnet sich ein eignes
 Fenster, wo Sie die Tätigkeit auswählen müssen, welche zusätzlich
@@ -682,8 +628,7 @@ eingefügt werden soll.
 
 Abb. 11‑33 Tätigkeit auswählen
 
-<img src=".\img/image209.png"
-style="width:3.16671in;height:1.16821in" />
+![](<img/image209.png>)
 
 Es wir Ihnen nun eine neue Zeile mit dem Betrag Null in die Note
 eingefügt. Durch einen Doppelklick in das Feld *Betrag in Note*, kann
@@ -697,8 +642,7 @@ auch Kapitel *11.4.12 Zu-/Abschläge).*
 
 Abb. 11‑34 Zuschlag verteilen
 
-<img src=".\img/image210.png"
-style="width:6.29921in;height:0.98425in" />
+![](<img/image210.png>)
 
 Tipp
 
@@ -721,27 +665,21 @@ Einheiten, keine Uhrzeit und kein berechneter Wert angezeigt wird.
 Die unterschiedlichen Zu-/Abschlagsvarianten werden anhand von
 eindeutigen Symbolen während der Notenerstellung dargestellt:
 
-<img src=".\img/image211.png"
-style="width:0.2708in;height:0.26038in" /> automatischer Abschlag auf
+![](<img/image211.png>)  automatischer Abschlag auf
 den Mitarbeiter
 
-<img src=".\img/image212.png"
-style="width:0.2708in;height:0.23955in" /> automatischer Zuschlag auf
+![](<img/image212.png>)  automatischer Zuschlag auf
 den Mitarbeiter
 
-<img src=".\img/image213.png"
-style="width:0.24997in;height:0.26038in" /> automatischer Zuschlag ohne
+![](<img/image213.png>) automatischer Zuschlag ohne
 Mitarbeiterbezug, der Zuschlag erfolgt auf den Klienten
 
-<img src=".\img/image214.png"
-style="width:0.28122in;height:0.23955in" /> automatischer Abschlag ohne
+![](<img/image214.png>) automatischer Abschlag ohne
 Mitarbeiterbezug, der Abschlag erfolgt auf den Klienten
 
-<img src=".\img/image215.png"
-style="width:0.25159in;height:0.20127in" /> manueller Zuschlag
+![](<img/image215.png>)  manueller Zuschlag
 
-<img src=".\img/image216.png"
-style="width:0.24818in;height:0.23512in" /> manueller Abschlag
+![](<img/image216.png>)  manueller Abschlag
 
 Grundsätzlich wird während der Notenerstellung jene Verteilung
 verwendet, die Sie in den Grundeinstellungen definiert haben. Sie können
@@ -752,8 +690,7 @@ Kontextmenü, mit der rechten Maustaste, die Variante ändern.
 
 Abb. 11‑35 Button Zu-/Abschläge im Ribbon
 
-<img src=".\img/image217.png"
-style="width:4.39528in;height:1.72895in" />
+![](<img/image217.png>) 
 
 Es ist dabei zu beachten, dass die Funktionen der Zu-/Abschläge im
 Ribbon oder über das Kontextmenü nur aktiv sind, wenn Sie die
@@ -764,8 +701,7 @@ deaktiviert.
 
 Abb. 11‑36 Aufruf über das Kontextmenü
 
-<img src=".\img/image218.png"
-style="width:2.62948in;height:1.56458in" />
+![](<img/image218.png>) 
 
 **Beispiel automatischer Abschlag auf Mitarbeiter**:
 
@@ -776,9 +712,7 @@ verteilt.
 
 Abb. 11‑37 Beispiel Abschlag auf Mitarbeiter
 
-<img src=".\img/image219.png"
-style="width:6.29921in;height:0.55081in"
-alt="C:\Users\KBURGS~1\AppData\Local\Temp\SNAGHTML817389ae.PNG" />
+![](<img/image219.png>) 
 
 Der Abschlag wird in einer extra Zeile vor der Erfassungszeile
 dargestellt und mit einem extra Symbol (siehe oben beschrieben)
@@ -793,8 +727,7 @@ einen Zuschlag machen, wird dieser Zuschlag auf den Klienten verteilt.
 
 Abb. 11‑38 Beispiel Zuschlag ohne Mitarbeiterbezug
 
-<img src=".\img/image220.png"
-style="width:6.29921in;height:0.58882in" />
+![](<img/image220.png>) 
 
 Der Zuschlag wird in einer extra Zeile vor der Erfassungszeile
 dargestellt und ist mit einem eigenen Symbol gekennzeichnet (siehe
@@ -810,16 +743,14 @@ in der nachfolgenden Abbildung, verteilen können.
 
 Abb. 11‑39 Beispiel manuelle Verteilung
 
-<img src=".\img/image221.png"
-style="width:6.29921in;height:1.25138in" />
+![](<img/image221.png>) 
 
 Mit der F2-Taste im Feld *Mitarbeiter-Nr.* können Sie sich alle
 Mitarbeiter vorschlagen lassen. Die Klienten-Nummer und die
 Tätigkeitsnummer können nicht verändert werden. Im Feld *Betrag* können
 Sie den zu verteilenden Betrag eintragen. Es besteht noch die
 Möglichkeit einen Text einzutragen. Mit dem Papierkorbsymbol
-<img src=".\img/image222.png"
-style="width:0.22914in;height:0.20831in" /> können Sie Zeilen wieder
+![](<img/image222.png>)  können Sie Zeilen wieder
 löschen. Das Löschen von manuell verteilten Zeilen ist auch über das
 Kontextmenü mit der rechten Maustaste möglich.
 
@@ -842,9 +773,7 @@ manuelle Verteilung ändern:
 
 Abb. 11‑40 Zu-/Abschläge Summe
 
-<img src=".\img/image223.png"
-style="width:3.89623in;height:2.18305in"
-alt="C:\Users\KBURGS~1\AppData\Local\Temp\SNAGHTML24f0833f.PNG" />
+![](<img/image223.png>) 
 
 Bei der manuellen Verteilung der Gruppensumme stehen nur jene
 Tätigkeiten, welche in der Gruppe vorhanden sind zur Verfügung.
@@ -855,9 +784,7 @@ wählen die Verteilung der Zu‑/Abschläge.
 
 Abb. 11‑41 Zu-/Abschläge je Tätigkeit in Gruppe
 
-<img src=".\img/image224.png"
-style="width:3.89764in;height:2.18384in"
-alt="C:\Users\KBURGS~1\AppData\Local\Temp\SNAGHTML24f5d493.PNG" />
+![](<img/image224.png>) 
 
 Zu- und Abschläge können wieder verworfen werden. Dazu müssen Sie die
 Tätigkeit auswählen und können per Kontextmenü oder über den Ribbon
@@ -866,8 +793,7 @@ gelöscht.
 
 Abb. 11‑42 Zu-/Abschläge verwerfen
 
-<img src=".\img/image225.png"
-style="width:3.09336in;height:1.73937in" />
+![](<img/image225.png>) 
 
 ### Rabatt/Aufschlag
 
@@ -878,8 +804,7 @@ Rabatt/Aufschlag einfügen* lösen.
 
 Abb. 11‑43 Rabatt/Aufschlag einfügen
 
-<img src=".\img/image226.png"
-style="width:2.16535in;height:0.70396in" />
+![](<img/image226.png>) 
 
 Nach Auswahl der betreffenden Funktion wird unterhalb der letzten
 Tätigkeit nun eine Zwischensumme gebildet und eine neue Zeile eingefügt.
@@ -893,11 +818,7 @@ Zeile Zwischensumme (**1**).
 
 Abb. 11‑44 Rabatt/Aufschlag in Note
 
-<img src=".\img/image10.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image23.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image116.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image227.png"
-style="width:6.29921in;height:3.0074in" />
+![](<img/image227.png>) 
 
 Rabatte werden mit einem Minus und Aufschläge mit einem Plus
 symbolisiert (**2**).
@@ -913,8 +834,7 @@ gelöscht.
 
 Abb. 11‑45 Rabatt/Aufschlag Verteilung
 
-<img src=".\img/image228.png"
-style="width:3.34646in;height:0.75317in" />
+![](<img/image228.png>) 
 
 Hinweis
 
@@ -943,17 +863,11 @@ Tätigkeit/Verrechnungsgruppe **(3)** eingefügt.
 
 Abb. 11‑46 Positionsrabatt Rabatt/Aufschlag einfügen
 
-<img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image229.png"
-style="width:6.29921in;height:3.7393in" />
+![](<img/image229.png>) 
 
 Abb. 11‑47 Positionsrabatt Rabatt/Aufschlag in Note
 
-<img src=".\img/image47.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image10.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image230.png"
-style="width:6.29921in;height:1.7424in" />
+![](<img/image230.png>) 
 
 Hinweis
 
@@ -969,15 +883,13 @@ klicken Sie auf das Symbol *Note drucken* im Ribbon.
 
 Abb. 11‑48 Note drucken
 
-<img src=".\img/image231.png"
-style="width:6.29921in;height:0.79831in" />
+![](<img/image231.png>) 
 
 Wenn Sie auf das Symbol geklickt haben, öffnet sich das Drucken Fenster:
 
 Abb. 11‑49 Ausdruck Note
 
-<img src=".\img/image232.png"
-style="width:5.09311in;height:1.98934in" />
+![](<img/image232.png>) 
 
 Sie können entweder auf *Drucken* klicken, dann können Sie einen
 entsprechenden Drucker für den Ausdruck auswählen, auf *Sofort Drucken*
@@ -1008,8 +920,7 @@ Sie aktivieren können.
 
 Abb. 11‑50 Note beim Speichern & schließen finalisieren
 
-<img src=".\img/image233.png"
-style="width:3.92659in;height:0.99988in" />
+![](<img/image233.png>) 
 
 ### Tätigkeitsrückblick
 
@@ -1023,8 +934,7 @@ können Sie sich den Tätigkeitsrückblick einblenden lassen.
 
 Abb. 11‑51 Tätigkeitsrückblick
 
-<img src=".\img/image234.png"
-style="width:6.29921in;height:1.60522in" />
+![](<img/image234.png>) 
 
 Die Zeilen des Rückblicks enthalten Notennummer, Notendatum,
 Projektzeitraum und Betrag.
@@ -1044,8 +954,7 @@ sich im Ribbon befindet zusätzlich öffnen.
 
 Abb. 11‑52 Notenrückblick
 
-<img src=".\img/image235.png"
-style="width:1.66646in;height:0.91655in" />
+![](<img/image235.png>) 
 
 ### Beleg anzeigen
 
@@ -1073,10 +982,7 @@ und Aufschläge werden bei der Notenerstellung automatisch eingefügt.
 
 Abb. 11‑53 automatischen Rabatt/Aufschlag
 
-<img src=".\img/image23.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image236.png"
-style="width:2.79365in;height:0.83323in" />
+![](<img/image236.png>) 
 
 ### Neuen automatischen Rabatt/Aufschlag anlegen
 
@@ -1085,9 +991,7 @@ können Sie einen neuen Rabatt/Aufschlag anlegen.
 
 Abb. 11‑54 automatischen Rabatt/Aufschlag
 
-<img src=".\img/image22.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image237.png"
-style="width:6.29921in;height:1.80075in" />
+![](<img/image237.png>) 
 
 Im Feld *Art* definieren Sie, ob es sich um einen Euro-Rabatt/Aufschlag
 oder einen Prozent-Rabatt/Aufschlag handelt. Rabatte sind mit einem
@@ -1126,11 +1030,7 @@ UST-pflichtigen Tätigkeiten Null (**2**) ergibt.
 
 Abb. 11‑55 Interne Note
 
-<img src=".\img/image26.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image23.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image238.png"
-style="width:6.29921in;height:2.93663in" />
+![](<img/image238.png>) 
 
 Dadurch, dass man die Nettosumme der Note auf null stellt, werden
 automatisch Abschläge generiert (**3**). Aufgrund der erzeugten
@@ -1159,8 +1059,7 @@ Im Ribbon findet sich die Schaltfläche *Leere Note erstellen*.
 
 Abb. 11‑56 Leere Note erstellen
 
-<img src=".\img/image239.png"
-style="width:2.48355in;height:0.74173in" />
+![](<img/image239.png>) 
 
 Hinweis
 
@@ -1173,8 +1072,7 @@ ist.
 
 Abb. 11‑57 Optionen Leere Note
 
-<img src=".\img/image240.png"
-style="width:2.46688in;height:1.74182in" />
+![](<img/image240.png>) 
 
 Hinweis
 
@@ -1194,8 +1092,7 @@ einzufügen.
 
 Abb. 11‑58 Notenzeile einfügen
 
-<img src=".\img/image241.png"
-style="width:0.59055in;height:0.69477in" />
+![](<img/image241.png>) 
 
 Hinweis
 
@@ -1208,8 +1105,7 @@ Zu-/Abschläge).
 
 Abb. 11‑59 Verteilung Zu/Abschlag
 
-<img src=".\img/image242.png"
-style="width:6.29921in;height:0.9683in" />
+![](<img/image242.png>) 
 
 Hinweis
 

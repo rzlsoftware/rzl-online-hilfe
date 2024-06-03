@@ -14,8 +14,7 @@ die Sie zeitlich eingrenzen können.
 
 Abb. 9‑1 Mitarbeiterübersicht
 
-<img src=".\img/image136.png"
-style="width:6.29921in;height:4.25886in" />
+![](<img/image136.png>)
 
 In der Mitarbeiterübersicht können Sie sich die Urlaubskartei oder den
 Kalender für einen oder mehrere Mitarbeiter aufrufen.
@@ -34,7 +33,7 @@ Mitarbeiter markiert.
 Tipp
 
 In der Mitarbeiterübersicht besteht die Möglichkeit sich Layouts zu
-definieren (Kapitel 19.13, Seite [180](#speicherbare-layouts)).
+definieren Kapitel 19.13, Seite 180 (speicherbare-layouts).
 
 Ebenso wird Ihnen in der Mitarbeiterübersicht eine Übersicht über den
 Status der Erfassung der einzelnen Mitarbeiter geboten. Ihnen wird über
@@ -62,13 +61,11 @@ gruppiert.
 
 Abb. 9‑2 Arbeitszeitkalender öffnen
 
-<img src=".\img/image137.png"
-style="width:1.40607in;height:0.8124in" />
+![](<img/image137.png>)
 
 Abb. 9‑3 Arbeitszeitkalender Monatsübersicht
 
-<img src=".\img/image138.png"
-style="width:6.29921in;height:1.2483in" />
+![](<img/image138.png>)
 
 Der Arbeitszeitkalender ist in nachfolgende Spalten unterteilt:
 
@@ -83,8 +80,7 @@ Kalender.
 
 **AZG**
 
-<img src=".\img/image139.png"
-style="width:0.29167in;height:0.22917in" /> Warnhinweis –
+![](<img/image139.png>) Warnhinweis –
 Arbeitszeitgesetz wurde möglicherweise nicht eingehalten.
 
 **Überschreitung der maximalen Tagesarbeitszeit:**
@@ -115,8 +111,7 @@ Anzeige von Ende der Tagesarbeitszeit.
 **Pausen** **und** **Unterbrechungen**
 
 Anzeige der gehaltenen Pausen. Wird das
-<img src=".\img/image140.png"
-style="width:0.28125in;height:0.21875in" /> (Pfeil) Symbol angezeigt, so
+![](<img/image140.png>)(Pfeil) Symbol angezeigt, so
 wurden mehrere Pausen und Unterberechnungen eingetragen. Sie können die
 weiteren Pausen über dieses Symbol einblenden lassen.
 
@@ -164,8 +159,7 @@ Veränderung eintrat.
 
 **Bearbeitungssperre**
 
-<img src=".\img/image141.png"
-style="width:0.30208in;height:0.19792in" />Dieses Symbol bedeutet, dass
+![](<img/image141.png>) Dieses Symbol bedeutet, dass
 in der Honorarverrechnung eine Sperre gesetzt wurde. Die Leistungen für
 den gesperrten Zeitraum können nicht mehr bearbeitet werden. Es können
 auch keine neuen Leistungen mehr erfasst werden. Die Arbeitszeit kann
@@ -193,12 +187,7 @@ Summe erfassten Stunden dargestellt.
 
 Abb. 9‑4 Arbeitszeitkalender Menüpunkte
 
-<img src=".\img/image25.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image22.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image23.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image142.png"
-style="width:5.51181in;height:0.76428in" />
+![](<img/image142.png>)
 
 Es können unterschiedliche Ansichten **(1)** des Arbeitszeitkalenders
 geöffnet werden und zwar:
@@ -222,8 +211,7 @@ Leistungsübersicht.
 
 Abb. 9‑5 Leistungen anzeigen – Kontextmenü
 
-<img src=".\img/image143.png"
-style="width:2.12473in;height:0.52077in" />
+![](<img/image143.png>)
 
 In der Leistungsübersicht werden Ihnen alle Leistungen für den gewählten
 Mitarbeiter und den gewählten Zeitraum angeführt. Sie können
@@ -233,9 +221,7 @@ nach gewissen Kriterien zu gruppieren.
 
 Abb. 9‑6 Leistungsübersicht
 
-<img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image144.png"
-style="width:4.77024in;height:1.47898in" />
+![](<img/image144.png>)
 
 Nachfolgend ein Screenshot mit gruppierten Leistungen. Die Spalten nach
 denen gruppiert werden sollte, wurden in den oberen Bereich gezogen. Sie
@@ -245,13 +231,11 @@ Klient.
 
 Abb. 9‑7 Leistungsübersicht - gruppieren
 
-<img src=".\img/image145.png"
-style="width:5.78125in;height:1.58056in" />
+![](<img/image145.png>)
 
 Falls eine Leistung die bereits verrechnet wurde, wird Ihnen dies in der
 Spalte Status mit diesem Symbol
-<img src=".\img/image146.png"
-style="width:0.21872in;height:0.19789in" /> angezeigt.
+![](<img/image146.png>)angezeigt.
 
 ## Tageserfassung im HON
 
@@ -264,9 +248,7 @@ zu bearbeiten.
 
 Abb. 9‑8 Button Tag bearbeiten
 
-<img src=".\img/image25.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image147.png"
-style="width:4.15036in;height:0.72506in" />
+![](<img/image147.png>)
 
 Wird eine Änderung an der Arbeitszeit (Beginn/Ende/Pause, ganztätiger
 Zeitausgleich, Homeoffice) oder Leistungszeit (Datum, Tätigkeit, Klient,
@@ -282,7 +264,7 @@ einzublenden.
 
 Tipp
 
-In der Leistungsübersicht (8.2, Seite [68](#leistungsübersicht)) stehen
+In der Leistungsübersicht 8.2, Seite 68 (leistungsübersicht) stehen
 Ihnen die Spalten Änderungszeitpunkt und letzter Bearbeiter zur
 Verfügung.
 
@@ -296,8 +278,7 @@ dies als Änderung gilt.
 
 Abb. 9‑9 Änderungszeitpunkt/letzter Bearbeiter AZ-Kalender
 
-<img src=".\img/image148.png"
-style="width:6.3in;height:0.94236in" />
+![](<img/image148.png>)
 
 Hinweis
 
@@ -324,8 +305,7 @@ Wählen Sie hierfür den Mitarbeiter aus und wählen *Datenimport*.
 
 Abb. 9‑10 Button Datenimport
 
-<img src=".\img/image149.png"
-style="width:1.45815in;height:0.90614in" />
+![](<img/image149.png>)
 
 Im Feld *Dateiname* können Sie mit den drei Punkten **(1)** die zu
 importierende Datei auswählen. Mit der Lupe **(2)** können Sie sich die
@@ -339,24 +319,18 @@ holen.
 
 Folgende Ergebnisse kann die Prüfung liefern:
 
-<img src=".\img/image150.png"
-style="width:0.36528in;height:0.19097in" /> Info – Dies erhalten Sie,
+![](<img/image150.png>) Info – Dies erhalten Sie,
 wenn Bsp. der Projektzeitraum im falschen Format ist und daher nicht
 übernommen wird. Der Import kann dennoch durchgeführt werden.
 
-<img src=".\img/image151.png"
-style="width:0.36528in;height:0.16528in" /> Fehler – Der Import kann
+![](<img/image151.png>)Fehler – Der Import kann
 nicht durchgeführt werden. Die Importdatei muss dementsprechend
 angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
 
 Abb. 9‑11 Datenimport Leistungen
 
-<img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image47.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image152.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image107.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image153.png"
-style="width:6.29921in;height:1.59529in" />
+![](<img/image152.png>)
+![](<img/image153.png>)
 
 Hinweis
 
@@ -380,8 +354,7 @@ werden, um den Urlaubssaldo nachvollziehen zu können.
 
 Abb. 9‑12 Button Urlaubskartei
 
-<img src=".\img/image154.png"
-style="width:1.39566in;height:0.82281in" />
+![](<img/image154.png>)
 
 Anschließend wird die Urlaubskartei für die gewählten Mitarbeiter in
 einem jeweils eigenen Tab geöffnet.
@@ -394,8 +367,7 @@ werden.
 
 Abb. 9‑13 Urlaubskartei einschränken
 
-<img src=".\img/image155.png"
-style="width:3.98819in;height:0.27165in" />
+![](<img/image155.png>)
 
 Bei einer Urlaubszeile mit der Art „*Beginn Urlaubsjahr*“ wird kein
 Saldo angezeigt.
@@ -406,8 +378,7 @@ nachfolgender Abbildung entnehmen.
 
 Abb. 9‑14 Urlaubskartei
 
-<img src=".\img/image156.png"
-style="width:5.41889in;height:3.08781in" />
+![](<img/image156.png>)
 
 ### Neuer Urlaubseintrag 
 
@@ -416,8 +387,7 @@ im Menü oder im rechten unteren Bereich der Urlaubskartei generieren.
 
 Abb. 9‑15 Neuer Urlaubseintrag
 
-<img src=".\img/image157.png"
-style="width:0.90614in;height:0.89572in" />
+![](<img/image157.png>)
 
 Wird obiger Button ausgewählt, erhalten Sie im unteren Bereich der
 Urlaubskartei die Möglichkeit einen neuen Urlaubseintrag tätigen zu
@@ -425,8 +395,7 @@ können.
 
 Abb. 9‑16 neuer Urlaubseintrag
 
-<img src=".\img/image158.png"
-style="width:6.29921in;height:0.57476in" />
+![](<img/image158.png>)
 
 Im Feld *Datum* tragen Sie das Datum ein, bei *Art* können Sie zwischen
 Anfangsbestand und Anspruch auswählen, im Feld *Stunden* tragen Sie die
@@ -440,9 +409,7 @@ diese fehlerhaft sind, löschen.
 
 Abb. 9‑17 Urlaubseintrag löschen
 
-<img src=".\img/image159.png"
-style="width:1.94375in;height:0.88819in"
-alt="C:\Users\DGRUEN~1\AppData\Local\Temp\SNAGHTML3907d119.PNG" />
+![](<img/image159.png>)
 
 Dem Mitarbeiter fehlt diese Anspruchszeile dann auch in der
 Leistungserfassung.
@@ -456,8 +423,7 @@ Urlaubsjahr noch keine Anfangsbestände oder Ansprüche vorhanden sind.
 
 Abb. 9‑18 Urlaubsanspruch generieren
 
-<img src=".\img/image160.png"
-style="width:2.85381in;height:0.9478in" />
+![](<img/image160.png>)
 
 Der Anspruch auf Urlaub entsteht in den ersten sechs Monaten des ersten
 Arbeitsjahres im Verhältnis zu der im Arbeitsjahr zurückgelegten
@@ -472,8 +438,7 @@ Jahresanspruch generiert.
 
 Abb. 9‑19 Beispielhafte Darstellung
 
-<img src=".\img/image161.png"
-style="width:6.14507in;height:2.82256in" />
+![](<img/image161.png>)
 
 ### Urlaubskartei bei Wechsel von Stunden zu Tagen
 
@@ -505,8 +470,7 @@ Urlaub.
 Am 26.07.23 war die Mitarbeiterin 1 h also 0,2 Tage auf Urlaub
 (Berechnung 1 Tag / 5 h \*1 h).
 
-<img src=".\img/image162.png"
-style="width:6.29921in;height:1.70177in" />
+![](<img/image162.png>)
 
 Umrechnung Saldo Stunden in Saldo Tage mit 01.01.24:
 
@@ -541,8 +505,7 @@ Am 25.07.23 war die Mitarbeiterin 4,25 h also 0,55 Tage auf Urlaub
 Am 26.07.23 war die Mitarbeiterin 1 h also 0,13 Tage auf Urlaub
 (Berechnung 1 Tag / 7,7 h \* 1h).
 
-<img src=".\img/image163.png"
-style="width:6.29921in;height:1.52679in" />
+![](<img/image163.png>)
 
 Umrechnung Saldo Stunden in Saldo Tage mit 01.01.24:
 
@@ -584,8 +547,7 @@ Vorschlag RZL:
 
 Abb. 9‑20 Korrektur Urlaubsanspruch – Vorschlag RZL
 
-<img src=".\img/image164.png"
-style="width:6.29921in;height:1.7542in" />
+![](<img/image164.png>)
 
 **Formel für neuen Urlaubssaldo**
 
@@ -619,8 +581,7 @@ an der Kartei vornehmen oder die Neuberechnung aufrufen.
 
 Abb. 9‑21 Urlaubskartei nach Korrektur Urlaubsanspruch
 
-<img src=".\img/image165.png"
-style="width:5.90551in;height:3.20357in" />
+![](<img/image165.png>)
 
 Hinweis
 
@@ -641,11 +602,9 @@ Stunden). Der Anspruch muss selbstständig angepasst werden.
 
 Abb. 9‑22 Urlaubskartei nach Korrektur Urlaubsanspruch
 
-<img src=".\img/image166.png"
-style="width:6.29921in;height:1.39479in" />
+![](<img/image166.png>)
 
-<img src=".\img/image167.png"
-style="width:6.29921in;height:1.46369in" />
+![](<img/image167.png>)
 
 Wird neu mit HON Next bzw. der Urlaubsverwaltung zu Arbeiten begonnen
 ist ein Anfangsstand einzutragen. Liegt der Anfangsstand innerhalb des
@@ -664,8 +623,7 @@ Anfangsstand zum 01.07.2023 – 205 h eingetragen in der Urlaubskartei
 
 Abb. 9‑23 Korrektur Urlaubsanspruch – Vorschlag RZL
 
-<img src=".\img/image168.png"
-style="width:6.29921in;height:1.75916in" />
+![](<img/image168.png>)
 
 Der *Resturlaub aus diesem Urlaubsjahr* wird aufgrund des aktuellen
 Arbeitszeitmodelles berechnet (38,5 h \* 5 Wochen = 192,5 h). Und der
@@ -674,8 +632,7 @@ Anfangsstand und Resturlaub aus diesem Urlaubsjahr (205 h – 192,5 h).
 
 Abb. 9‑24 Urlaubskartei nach Korrektur Urlaubsanspruch
 
-<img src=".\img/image169.png"
-style="width:6.29921in;height:1.2036in" />
+![](<img/image169.png>)
 
 Ist der Anfangsstand kleiner als der Urlaubsanspruch aufgrund des
 aktuellen Arbeitszeitmodelles, wird der Anfangsstand als *Resturlaub aus
