@@ -4,7 +4,7 @@ Im Bereich *Einstellungen* finden Sie folgende Möglichkeiten:
 
 ![](img/image58.png)
 
--   Scanordner
+**Scanordner**
 
 Bevor Sie mit dem Scannen beginnen, legen Sie für jeden Mitarbeiter
 einen eigenen Scanordner im Netzwerk und im RZL Board an. Die Anlage
@@ -15,55 +15,57 @@ Profil pro Mitarbeiter hinterlegen.
 
 ![](img/image5.png)
 
--   **Name:** Sie können hier einen Namen für jeden Scanordner vergeben,
-    der dann im Bereich *Belege hinzufügen / Belege Scanordner*
-    angezeigt wird.
+*Name:*  
+Sie können hier einen Namen für jeden Scanordner vergeben,
+der dann im Bereich *Belege hinzufügen / Belege Scanordner*
+angezeigt wird.
 
-<!-- -->
 
--   **Ordner für Mitarbeiter:** Scanordner können Sie einem Mitarbeiter
+
+*Ordner für Mitarbeiter:*  
+Scanordner können Sie einem Mitarbeiter
     zuordnen, somit sieht der jeweilige Mitarbeiter nur seine eigenen
     und etwaige öffentliche (kanzleiweite) Scanordner.
 
--   **Anmerkung:** Notiz zu diesem Scanordner.
+*Anmerkung:*  
+Notiz zu diesem Scanordner.
 
--   **Ordnerpfad:** Im Ordnerpfad wird der am Laufwerk angelegte
+*Ordnerpfad:*  
+Im Ordnerpfad wird der am Laufwerk angelegte
     Scanordner hinterlegt.
 
--   **Dokumente / Belege importieren***:* Je nach Aktivierung steht
+*Dokumente / Belege importieren:*  
+Je nach Aktivierung steht
     dieser Scanordner in der RZL KIS-Dokumentenverwaltung bzw. in der
     RZL Board Belegverarbeitung zur Verfügung.
 
--   **Texterkennung (OCR) automatisch im Hintergrund ausführen:** Diese
-    Option steht nur dann zur Verfügung, wenn in den Einstellungen zur
+*Texterkennung (OCR) automatisch im Hintergrund ausführen:*  
+Diese Option steht nur dann zur Verfügung, wenn in den Einstellungen zur
     Texterkennung n*ur bei ausgewählten Scanordnern* ausgewählt wurde.
     Grundsätzlich empfehlen wir, Texterkennung im Hintergrund generell
     zu aktivieren. Somit wird die Texterkennung (OCR-Erkennung)
     vollautomatisch im Hintergrund ausgeführt, sobald neue Belege in
     einem Scanordner vorhanden sind und das RZL Board gestartet ist.
 
--   **Belege für schnelleren Zugriff lokal kopieren:** Bei Aktivierung
+*Belege für schnelleren Zugriff lokal kopieren:*  
+Bei Aktivierung
     dieser Option werden die Belege für die Bearbeitung lokal
     zwischengespeichert und die Zugriffe auf den Scan-Ordner auf ein
     Minimum reduziert. Diese Einstellung ist bei einer langsamen oder
     instabilen Verbindung zum Scan-Ordner zu empfehlen.
 
-<!-- -->
 
--   Belegschablonen
-
+*Belegschablonen*  
 Die bisher angelegten Belegschablonen werden in einer Liste angezeigt.
 Sie können hier Schablonen löschen oder auch umbenennen. Außerdem finden
 Sie hier Informationen, wann die Schablone von wem erstellt wurde und
 wann sie von wem zuletzt geändert wurde. Schablonen können auch
 exportiert und importiert werden.
 
--   Texterkennung (OCR)
-
+*Texterkennung (OCR)*  
 Siehe Kapitel *Einstellungen zur OCR-Erkennung bei gescannten Belegen*
 
--   Stempel
-
+*Stempel*  
 In diesem Menü können Sie den Buchungsstempel für *Gebuchte
 Belege* konfigurieren. Sie können festlegen, welche Felder am Stempel
 *Gebucht* in welcher Reihenfolge angezeigt werden sollen.  

@@ -110,7 +110,7 @@ mit einem Sternchen (**1**) gekennzeichnet.
 
 ![](img/image81.png)
 
-**1**
+
 
 -   Durchgeführte Änderung rückgängig machen (F9)
 
@@ -138,17 +138,15 @@ Schaltfläche *Verbuchen* – im Verarbeitungsdialog ganz unten – die
 Zeilen tatsächlich buchen (bis dahin kann jede Zeile beliebig abgeändert
 werden).
 
-Hinweis
+!!! warning "Hinweis"
+    Die Durchbestätigung jeder einzelnen Buchungszeile ist in dieser
+    Variante nicht notwendig. Sofern der Buchungsvorschlag komplett ist,
+    können die Buchungen sofort verbucht werden. Die Buchungen werden nicht
+    in einen Stapel gelegt sondern sind sofort gebucht und somit
+    finalisiert.
 
-Die Durchbestätigung jeder einzelnen Buchungszeile ist in dieser
-Variante nicht notwendig. Sofern der Buchungsvorschlag komplett ist,
-können die Buchungen sofort verbucht werden. Die Buchungen werden nicht
-in einen Stapel gelegt sondern sind sofort gebucht und somit
-finalisiert.
 
-### 
-
-### normales Buchen“ mit Belegverarbeitung - Buchungsvorschläge einzeln
+### "Normales Buchen“ mit Belegverarbeitung - Buchungsvorschläge einzeln
 
 Innerhalb des *normalen Buchens (Buchen oder Stapelbuchen)* können Sie
 ebenfalls die Belegverbuchung mit Buchungsvorschlag nützen. Hier werden
@@ -157,22 +155,18 @@ Buchungen werden einzeln vorgeschlagen und ergänzt/bestätigt. Eine Liste
 mit den noch nicht gebuchten Belegen wird zusätzlich zum Buchungsdialog
 aufgerufen.
 
-Hinweis
-
-Bei nur einem Bildschirm: Pinnen Sie sich das FIBU-Fenster an die linke
-Seite des Bildschirms (bevor Sie ins Buchen einsteigen) und das
-Belegfenster an die rechte Seite. Somit haben Sie jederzeit alles im
-Blick.
+!!! warning "Hinweis"
+    Bei nur einem Bildschirm: Pinnen Sie sich das FIBU-Fenster an die linke
+    Seite des Bildschirms (bevor Sie ins Buchen einsteigen) und das
+    Belegfenster an die rechte Seite. Somit haben Sie jederzeit alles im
+    Blick.
 
 ![](img/image82.png)
 
-**2**
-
-**1**
 
 Wenn Sie Belege buchen möchten, aktivieren Sie bitte das Feld
 *DMS-Belege* (**1**). Sie können nachfolgend beim Buchen im
-***Datumsfeld* mit der *F6-Taste*** den Buchungsvorschlag aufrufen und
+***Datumsfeld mit der F6-Taste*** den Buchungsvorschlag aufrufen und
 die beim Beleg ausgelesenen Werte werden in die Buchungszeile
 eingetragen.
 
@@ -182,10 +176,9 @@ Belege der Buchungsvorschlag automatisch eingetragen wird. Wenn Sie das
 Feld *automatisch* (**2**) deaktivieren, müssen Sie die *F6-Taste* im
 *Datumsfeld* für den Buchungsvorschlag bei jedem Beleg einzeln anwählen.
 
-Hinweis
-
-Wird während dem Buchen manuell ein anderer Beleg markiert müssen Sie
-die Funktion F6 im Datumsfeld nochmals ausführen.
+!!! warning "Hinweis"
+    Wird während dem Buchen manuell ein anderer Beleg markiert müssen Sie
+    die Funktion F6 im Datumsfeld nochmals ausführen.
 
 ![](img/image83.png)
 
@@ -211,12 +204,11 @@ Belege herausgelöscht und als gebucht markiert. Anschließend wird
 automatisch der nächste Beleg markiert und die Werte wieder in die
 Buchungszeile eingetragen (mit der Funktion automatisch im Vordialog).
 
-Hinweis
-
-Sie haben direkt im Buchungsdialog beim Belegfenster immer noch die
-Möglichkeit, neue Regeln anzulegen oder die bestehende Schablone bzw.
-Regel anzupassen. Klappen Sie dazu einfach die *Belegdaten* ganz rechts
-auf.
+!!! warning "Hinweis"
+    Sie haben direkt im Buchungsdialog beim Belegfenster immer noch die
+    Möglichkeit, neue Regeln anzulegen oder die bestehende Schablone bzw.
+    Regel anzupassen. Klappen Sie dazu einfach die *Belegdaten* ganz rechts
+    auf.
 
 #### Zusätzliche Funktionen im Belegfenster beim Buchen
 
@@ -285,28 +277,28 @@ Belegliste um sie zur Belegverarbeitung hinzuzufügen.)
 
 -   DMS-Beleg weiter Buchen (Umschalt + F8)
 
-> Mit dieser Funktion kann ein weiterer Buchungssatz zum selben Beleg
-> erfasst werden. Die Funktion kann beliebig oft wiederholt werden. Der
-> letzte Buchungssatz muss dann ohne diese Funktion abgeschlossen
-> werden, damit der Beleg in der Belegverarbeitung von der Liste der
-> ungebuchten und die Liste der gebuchten Belege verschoben wird.
+Mit dieser Funktion kann ein weiterer Buchungssatz zum selben Beleg
+erfasst werden. Die Funktion kann beliebig oft wiederholt werden. Der
+letzte Buchungssatz muss dann ohne diese Funktion abgeschlossen
+werden, damit der Beleg in der Belegverarbeitung von der Liste der
+ungebuchten und die Liste der gebuchten Belege verschoben wird.
 
 -   DMS-Verbindung aufheben (Umschalt + F7)
 
-> Der Buchungssatz wird abgeschlossen, ohne dass ein digitaler Beleg
-> dieser Buchung angehängt wird.
+Der Buchungssatz wird abgeschlossen, ohne dass ein digitaler Beleg
+dieser Buchung angehängt wird.
 
 **In den Stammdaten eines Personenkontos:**
 
 -   Kein Buchungsvorschlag
 
-> Wenn das Personenkonto gefunden wird, wird mit dieser Option nie ein
-> Gegenkonto vorgeschlagen.
+Wenn das Personenkonto gefunden wird, wird mit dieser Option nie ein
+Gegenkonto vorgeschlagen.
 
 -   Verbuchungsregel
 
-> Wenn das Personenkonto gefunden wird, wird die Buchung aufgrund der
-> Verbuchungsregel vorgeschlagen.
+Wenn das Personenkonto gefunden wird, wird die Buchung aufgrund der
+Verbuchungsregel vorgeschlagen.
 
 ### Unterschiede der Buchungsvarianten
 

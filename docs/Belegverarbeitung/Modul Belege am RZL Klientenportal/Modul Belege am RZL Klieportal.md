@@ -251,12 +251,11 @@ Belegliste.
 
 ![](img/image73.png)
 
-Hinweis
-
-Nach dem Hereinspielen eines Klienten wird automatisch der Abgleich
-zwischen FIBU und Modul Belege lt. nachfolgendem Punkt *Repairfunktion
-in der Finanzbuchhaltung* durchgeführt – die Belege können somit bei
-beiden Installationen aufgerufen werden.
+!!! warning "Hinweis"
+    Nach dem Hereinspielen eines Klienten wird automatisch der Abgleich
+    zwischen FIBU und Modul Belege lt. nachfolgendem Punkt *Repairfunktion
+    in der Finanzbuchhaltung* durchgeführt – die Belege können somit bei
+    beiden Installationen aufgerufen werden.
 
 ### Protokoll Belegsynchronisation
 
@@ -290,12 +289,11 @@ die gewünschten Belege markiert und mit der Funktion *Belege zum
 Klientenportal hochladen* (im Ribbon oder mit der rechten Maustaste) am
 Klientenportal bereitgestellt.
 
-Tipp
-
-Sortieren Sie die gebuchten Belege nach dem Importdatum, somit wissen
-Sie genau, welche Belege zuletzt importiert wurden. Zusätzlich haben Sie
-in der Spalte Hochgeladen die Information, welche Belege bereits auf das
-Klientenportal übertragen wurden.
+!!! info "Tipp"
+    Sortieren Sie die gebuchten Belege nach dem Importdatum, somit wissen
+    Sie genau, welche Belege zuletzt importiert wurden. Zusätzlich haben Sie
+    in der Spalte Hochgeladen die Information, welche Belege bereits auf das
+    Klientenportal übertragen wurden.
 
 Die Klienten/Außenstelle können auf diese digitale Belegbox jederzeit
 bequem und ortsunabhängig über Internet (auch für mobile Geräte
