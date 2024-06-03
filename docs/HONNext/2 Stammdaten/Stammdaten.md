@@ -2,23 +2,22 @@
 
 Abb. 2‑1 Stammdaten
 
-<img src=".\img/image13.png"
-style="width:6.29921in;height:0.72688in" />
+
+![](<img/image13.png>)
+
 
 Über den Reiter *Stammdaten* werden Ihnen die verschiedenen Stammdaten
 der Honorarverrechnung aufgelistet.
 
-Tipp
+!!! info "Tipp"
+    Über die Schaltflächen Zu den Klientenstammdaten / Zu den
+    Mitarbeiterstammdaten gelangen Sie mit einem Klick in die Stammdaten der
+    Klienten/Mitarbeiter.
 
-Über die Schaltflächen Zu den Klientenstammdaten / Zu den
-Mitarbeiterstammdaten gelangen Sie mit einem Klick in die Stammdaten der
-Klienten/Mitarbeiter.
-
-Hinweis
-
-Die Option *Zu den Unternehmensbereichen* steht nur zur Verfügung, wenn
-Sie im Berechtigungssystem eine Rolle mit der Eigenschaft
-*Unternehmensbereiche verwalten* zugeordnet haben.
+!!! warning "Hinweis"
+    Die Option *Zu den Unternehmensbereichen* steht nur zur Verfügung, wenn
+    Sie im Berechtigungssystem eine Rolle mit der Eigenschaft
+    *Unternehmensbereiche verwalten* zugeordnet haben.
 
 ## Verrechnungsgruppen
 
@@ -31,10 +30,8 @@ eigener Tab für die Verrechnungsgruppen. Verrechnungsgruppen sind
 übergeordnet, ihnen werden Tätigkeiten zugeordnet und später in der
 Notenerstellung selbst kann nach Verrechnungsgruppen gefiltert werden.
 
-Abb. 2‑2 Verrechnungsgruppen
 
-<img src=".\img/image14.png"
-style="width:6.29921in;height:2.52921in" />
+![](<img/image14.png>)
 
 ### Verrechnungsgruppen anlegen
 
@@ -46,8 +43,7 @@ anzulegen.
 
 Abb. 2‑3 Neuanlage einer Verrechnungsgruppe
 
-<img src=".\img/image15.png"
-style="width:6.3in;height:1.19583in" />
+![](<img/image15.png>)
 
 Die Bezeichnung der Verrechnungsgruppe und die Bezeichnung der
 Verrechnungsgruppe in der Note muss eingetragen werden. Wenn Sie die
@@ -66,17 +62,16 @@ Leistungen verwendet. Der gültige Nummernbereich für die Konten ist von
 Ebenfalls kann im Reiter Buchhaltung eine Kostenstelle für die
 Verrechnungsgruppe hinterlegt werden. Der gültige Nummernbereich für die
 Kostenstelle ist von 1‑ 999999999. Bei den Tätigkeiten können
-abweichende Kostenstellen hinterlegt werden (Kapitel 0, Seite
-[15](#_Ref89761783)).
+abweichende Kostenstellen hinterlegt werden 
 
 Weiters ist es möglich, der Verrechnungsgruppe einen abweichenden
 Rechnungssteller zuzuordnen. Wird hier eine abweichende Eingabe
 getroffen, werden bei der Notenerstellung nicht die Stammdaten des dem
 Klienten zugeordneten Unternehmensbereich (Kapitel 4, Seite
-[50](#unternehmensbereiche)) gewählt, sondern jene des abweichenden
+50 (unternehmensbereiche)) gewählt, sondern jene des abweichenden
 Rechnungsstellers. Bei der Notenerstellung erhalten Sie pro Klient pro
 Rechnungssteller einen Notenvorschlag (Kapitel 11.1, Seite
-[83](#notenvorschläge)).
+83 (notenvorschläge)).
 
 Über das Feld *Verrechnungsart* kann definiert werden, ob nur die Summe
 der Verrechnungsgruppe auf der Note abgebildet wird oder die Summen je
@@ -84,13 +79,11 @@ Tätigkeiten der Verrechnungsgruppe.
 
 Abb. 2‑4 Verrechnungsart Beträge einzeln ausweisen
 
-<img src=".\img/image16.png"
-style="width:6.3in;height:1.50347in" />
+![](<img/image16.png>)
 
 Abb. 2‑5 Verrechnungsart Beträge zusammenfassen
 
-<img src=".\img/image17.png"
-style="width:6.3in;height:1.68333in" />
+![](<img/image17.png>)
 
 Auf der Note für den Klienten wird nur der Verrechnungsgruppenname inkl.
 Summe angedruckt.
@@ -102,24 +95,21 @@ Verrechnungsgruppe ab.
 
 Die Reihenfolge der Verrechnungsgruppen können Sie mit Drag & Drop
 verändern **(1).** Wählen Sie das Symbol
-<img src=".\img/image18.png"
-style="width:0.22914in;height:0.21872in" /> aus und ziehen Sie mit der
+![](<img/image18.png>)  aus und ziehen Sie mit der
 Maustaste die Verrechnungsgruppe an die gewünschte Stelle. Mit Klick auf
 Details **(2)** können Sie sich die Details der Verrechnungsgruppe
 anzeigen lassen und zum Beispiel die Bezeichnung ändern.
 
 Abb. 2‑6 Verrechnungsgruppen bearbeiten
 
-<img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image20.png"
-style="width:5.87993in;height:4.24572in" />
+![](<img/image5.png>)
+![](<img/image19.png>)
+![](<img/image20.png>)
 
-Hinweis
-
-Je nachdem wie Sie die Verrechnungsgruppen Reihen, werden diese nach der
-von Ihnen gewählten Reihung auch bei der Notenerstellung in dieser
-Reihenfolge vorgeschlagen.
+!!! warning "Hinweis"
+    Je nachdem wie Sie die Verrechnungsgruppen Reihen, werden diese nach der
+    von Ihnen gewählten Reihung auch bei der Notenerstellung in dieser
+    Reihenfolge vorgeschlagen.
 
 ### Verrechnungsgruppe löschen
 
@@ -130,8 +120,7 @@ ebenso eine Verrechnungsgruppe löschen.
 
 Abb. 2‑7 Verrechnungsgruppe löschen
 
-<img src=".\img/image21.png"
-style="width:2.49969in;height:0.92697in" />
+![](<img/image21.png>)
 
 ## Tätigkeiten
 
@@ -142,7 +131,7 @@ der Erfassung verrechnet.
 
 Wählen Sie den Menüpunkt *Stammdaten – Tätigkeiten* aus, um Tätigkeiten
 anzulegen bzw. zu verwalten. Es öffnet sich ein eigener Tab für die
-Tätigkeiten.<span id="_Ref89761783" class="anchor"></span>
+Tätigkeiten.
 
 ### Tätigkeiten anlegen
 
@@ -152,12 +141,10 @@ Tätigkeit*“ im rechten unteren Bereich anlegen.
 
 Abb. 2‑8 Tätigkeiten
 
-<img src=".\img/image22.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image23.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image24.png"
-style="width:6.29921in;height:3.11733in" />
+![](<img/image22.png>)
+![](<img/image23.png>)
+
+![](<img/image24.png>)
 
 Nun öffnet sich im unteren Bereich die Eingabe für eine neue Tätigkeit.
 Als erstes müssen Sie eine *Nummer* für die Tätigkeit vergeben. Danach
@@ -176,24 +163,21 @@ eingetragen werden.
 
 *{EinheitenSatz}* Einheitensatz (Betrag/Einheitenanzahl)
 
-Hinweis
-
-Der Stundensatz und der Einheitensatz werden errechnet aufgrund des
-Betrages der Tätigkeit und der Anzahl der Stunden bzw. Einheiten. D.h.
-es wird nicht auf Stundensätze der Tarifschema zugegriffen. Werden
-Zu-/Abschläge durchgeführt, beeinflusst das auch die Berechnung des
-Stundensatzes bzw. Einheitensatzes. Die Platzhalter können auch direkt
-während der Notenerstellung ergänzt werden.
+!!! warning "Hinweis"
+    Der Stundensatz und der Einheitensatz werden errechnet aufgrund des
+    Betrages der Tätigkeit und der Anzahl der Stunden bzw. Einheiten. D.h.
+    es wird nicht auf Stundensätze der Tarifschema zugegriffen. Werden
+    Zu-/Abschläge durchgeführt, beeinflusst das auch die Berechnung des
+    Stundensatzes bzw. Einheitensatzes. Die Platzhalter können auch direkt
+    während der Notenerstellung ergänzt werden.
 
 Abb. 2‑9 Neuanlage – Tätigkeiten Reiter Allgemein
 
-<img src=".\img/image25.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image26.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image27.png"
-style="width:0.30435in;height:0.30435in" />
-<img src=".\img/image28.png"
-style="width:6.29921in;height:1.24705in" />
+![](<img/image25.png>)
+![](<img/image26.png>)
+
+![](<img/image27.png>)
+![](<img/image28.png>)
 
 Nachfolgend werden Ihnen die einzelnen Optionen im Reiter *Allgemein*
 **(2)** erläutert.
@@ -230,13 +214,12 @@ Urlaubssaldo berücksichtig werden. Bei Tätigkeiten außerhalb der
 Arbeitszeit kann so die Unterbrechung der Arbeitszeit ermittelt werden.
 Es kann mehrere Urlaubstätigkeiten geben – empfohlen wird aber nur eine.
 
-Hinweis
-
-Grundsätzlich sollte eine Urlaubstätigkeit nicht verrechenbar sein und
-außerhalb der Arbeitszeit liegen. Es besteht jedoch die Möglichkeit,
-eine Urlaubstätigkeit als Verrechenbar zu definieren. Eine verrechenbare
-Urlaubstätigkeit hat auf die Urlaubskartei der Mitarbeiter keinen
-Einfluss.
+!!! warning "Hinweis"
+    Grundsätzlich sollte eine Urlaubstätigkeit nicht verrechenbar sein und
+    außerhalb der Arbeitszeit liegen. Es besteht jedoch die Möglichkeit,
+    eine Urlaubstätigkeit als Verrechenbar zu definieren. Eine verrechenbare
+    Urlaubstätigkeit hat auf die Urlaubskartei der Mitarbeiter keinen
+    Einfluss.
 
 **Krankenstand**
 
@@ -269,11 +252,10 @@ verrechenbaren Tätigkeiten aktiv und gilt generationsübergreifend. Wird
 die Option deaktiviert, wird der Projektzeitraum nicht auf der Note
 angedruckt.
 
-Hinweis
-
-Wird der Projektzeitraum nicht auf der Note angegeben, wird für die
-Kontierung dieser Tätigkeiten kein Projektzeitraum im Feld Buchungstext
-bei der Belegverarbeitung mitgegeben.
+!!! warning "Hinweis"
+    Wird der Projektzeitraum nicht auf der Note angegeben, wird für die
+    Kontierung dieser Tätigkeiten kein Projektzeitraum im Feld Buchungstext
+    bei der Belegverarbeitung mitgegeben.
 
 **Betrag in Note**
 
@@ -283,9 +265,8 @@ deaktiviert, wird der Betrag dieser Tätigkeit nicht auf der Note
 angedruckt, sondern zu einer anderen Tätigkeit der gleichen
 Verrechnungsgruppe dazu addiert.
 
-Hinweis
-
-Bitte beachten Sie auch die definierten Grundeinstellungen (Kapitel 3.1,
+!!! warning "Hinweis"
+    Bitte beachten Sie auch die definierten Grundeinstellungen (Kapitel 3.1,
 Seite 33).
 
 **Projektzeitraumeingabe verpflichtend**
@@ -307,7 +288,7 @@ Leistungserfasser verpflichtend einen Text eintragen.
 
 Die Tätigkeiten müssen einer Verrechnungsgruppe **(3)** zugeordnet
 werden. Weitere Informationen zu Verrechnungsgruppen finden Sie im
-Kapitel 2.1 ab Seite [12](#verrechnungsgruppen) ff.
+Kapitel 2.1 ab Seite 12 (verrechnungsgruppen) ff.
 
 **Verrechnungsart**
 
@@ -330,10 +311,9 @@ Leistungserfassung Ihrer Mitarbeiter. Wenn Sie beispielsweise Einheiten
 auswählen, so muss bei der Erfassung auf die Tätigkeit vom Mitarbeiter
 die Anzahl der Einheiten eingetragen werden.
 
-Tipp
-
-Bei der Erfassung einer Tätigkeit nach Betrag muss keine Dauer in der
-Leistungserfassung eingegeben werden.
+!!! info "Tipp"
+    Bei der Erfassung einer Tätigkeit nach Betrag muss keine Dauer in der
+    Leistungserfassung eingegeben werden.
 
 **Unterschied** **Stunden** **und Einheiten / Stunden oder Einheiten**
 
@@ -350,18 +330,16 @@ Stunden oder Einheiten erfolgen, sofern beides vom Mitarbeiter erfasst
 wurde (vgl. Kapitel 11.4.6, Seite
 [92](#verrechnung-nach-stunden-oder-einheiten)).
 
-Tipp
-
-Bei den Tarifschemata soll eine Tätigkeit mit der Verrechnungsart
-*Stunden oder Einheiten* einem Stunden- sowie einem Einheitensatz
-zugordnet werden.
+!!! info "Tipp"
+    Bei den Tarifschemata soll eine Tätigkeit mit der Verrechnungsart
+    *Stunden oder Einheiten* einem Stunden- sowie einem Einheitensatz
+    zugordnet werden.
 
 Optionen im Reiter *Buchhaltung*:
 
 Abb. 2‑10 Neuanlage – Tätigkeiten Reiter Buchhaltung
 
-<img src=".\img/image29.png"
-style="width:5.20878in;height:1.96684in" />
+![](<img/image29.png>)
 
 **Erlöskonto**
 
@@ -388,14 +366,13 @@ abweichende Kostenstelle zu hinterlegen (Nummernbereich 1-999999999).
 Bei der Erstellung der Buchungen für die Buchhaltung, werden die Erlöse
 auf die Kostenstellen aufgeteilt.
 
-Hinweis
-
-Bei der Kontierung der Kostenstellen wird nach Folgender Reihenfolge
-vorgegangen. Ist in den Klientenstammdaten (Kapitel 6, Seite 47) eine
-Kostenstelle hinterlegt, wird diese immer vorrangig zur Kontierung
-herangezogen. Anschließend kommen die abweichenden Kostenstellen der
-Tätigkeiten zur Anwendung und zum Schluss wird geprüft, ob bei den
-Verrechnungsgruppen eine Kostenstelle hinterlegt ist.
+!!! warning "Hinweis"
+    Bei der Kontierung der Kostenstellen wird nach Folgender Reihenfolge
+    vorgegangen. Ist in den Klientenstammdaten (Kapitel 6, Seite 47) eine
+    Kostenstelle hinterlegt, wird diese immer vorrangig zur Kontierung
+    herangezogen. Anschließend kommen die abweichenden Kostenstellen der
+    Tätigkeiten zur Anwendung und zum Schluss wird geprüft, ob bei den
+    Verrechnungsgruppen eine Kostenstelle hinterlegt ist.
 
 Wenn Sie alle Einstellungen getroffen haben, können Sie Ihre Tätigkeit
 über den Button *Speichern* abspeichern.
@@ -403,18 +380,17 @@ Wenn Sie alle Einstellungen getroffen haben, können Sie Ihre Tätigkeit
 ### Tätigkeiten bearbeiten
 
 Tätigkeitsnummern können über das Bleistiftsymbol
-<img src=".\img/image30.png"
-style="width:0.21249in;height:0.22099in" />**(1),** über das Kontextmenü
+![](<img/image30.png>) **(1),** über das Kontextmenü
 oder über die Schaltfläche „*Tätigkeitsnummer ändern*“ **(2)** geändert
 werden.
 
 Abb. 2‑11 Ändern - Tätigkeiten
 
-<img src=".\img/image26.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image32.png"
-style="width:6.29921in;height:2.68308in" />
+![](<img/image26.png>)
+![](<img/image31.png>)
+
+![](<img/image32.png>)
+
 
 Hinweis
 
@@ -448,10 +424,9 @@ gültig und die Einstellungen mit Uhrzeiteingabe für Leistungen die ab
 
 Abb. 2‑12 Ändern – Tätigkeiten – neue Generation anlegen
 
-<img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image7.png"
-style="width:6.29921in;height:1.81423in" />
+
+![](<img/image7.png>)
+
 
 Wenn Sie auf „*neue Generation***“ (2)** geklickt haben, öffnet sich ein
 Dialogfenster, in welchem Sie das Datum, ab welchem die Tätigkeit anders
@@ -461,8 +436,7 @@ werden die Änderungen verworfen.
 
 Abb. 2‑13 neue Generation anlegen
 
-<img src=".\img/image8.png"
-style="width:3.37458in;height:1.61438in" />
+![](<img/image8.png>)
 
 Ihnen wird nun die soeben neu angelegte Generation im Detailbereich
 **(1**) der Tätigkeit angezeigt. Nun können Sie die Einstellungen für
@@ -470,14 +444,9 @@ die Tätigkeit ab der neuen Generation setzen und speichern. Die neue
 Generation ist mit einem ab Datum **(2)** gekennzeichnet. Dieses Datum
 finden Sie auch im linken Bereich **(3)**.
 
-<img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" />Abb. 2‑14 neue Generation
+Abb. 2‑14 neue Generation
 anlegen - Tätigkeitsbereich
-
-<img src=".\img/image10.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image11.png"
-style="width:6.29921in;height:1.9895in" />
+![](<img/image11.png>)
 
 Hinweis
 
@@ -492,8 +461,7 @@ Ebenso ist es möglich eine Tätigkeit über das Kontextmenü zu löschen.
 
 Abb. 2‑15 Tätigkeit löschen
 
-<img src=".\img/image33.png"
-style="width:1.14648in;height:1.01029in" />
+![](<img/image33.png>)
 
 ### Tätigkeit deaktivieren
 
@@ -509,8 +477,7 @@ Anschließend wählen Sie \**Generation bearbeiten*“ aus.
 
 Abb. 2‑16 Generation bearbeiten
 
-<img src=".\img/image34.png"
-style="width:6.29921in;height:0.98483in" />
+![](<img/image34.png>)
 
 Nun öffnet sich ein Dialogfenster in welchem Sie das Datum eintragen
 können, bis zu dem die Leistung in der Leistungserfassung von den
@@ -518,8 +485,7 @@ Mitarbeitern erfasst werden kann.
 
 Abb. 2‑17 Generation bearbeiten – Zeitraum eintragen
 
-<img src=".\img/image35.png"
-style="width:3.33292in;height:1.61438in" />
+![](<img/image35.png>)
 
 Klicken Sie auf *Übernehmen,* um die Einstellungen zu speichern.
 
@@ -531,8 +497,7 @@ grauer Schriftfarbe dargestellt.
 
 Abb. 2‑18 Vergangene Tätigkeiten anzeigen
 
-<img src=".\img/image36.png"
-style="width:3.4579in;height:0.99988in" />
+![](<img/image36.png>)
 
 Hinweis
 
@@ -554,8 +519,7 @@ Tab für die Tarifschemata.
 
 Abb. 2‑19 Tarifschemata
 
-<img src=".\img/image37.png"
-style="width:6.29921in;height:2.00405in" />
+![](<img/image37.png>)
 
 Sie haben die Möglichkeit verschiedene Schemata auf unterschiedlichen
 Kategorien zu definieren. Beim Punkt *Verwendungen* wird Ihnen angezeigt
@@ -567,9 +531,7 @@ alle dem Tarifschema zugeordneten Mitarbeiter/Klienten anzeigen lassen.
 
 Abb. 2‑20 Verwendung
 
-<img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image38.png"
-style="width:4.48417in;height:1.37594in" />
+![](<img/image38.png>)
 
 ### Darstellungsmöglichkeiten Tarifschemata
 
@@ -589,9 +551,8 @@ zugeordneten Tätigkeiten je Generation angezeigt.
 
 Abb. 2‑21 Details Tarifschemata
 
-<img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image39.png"
-style="width:6.29921in;height:1.2904in" />
+![](<img/image19.png>)
+![](<img/image39.png>)
 
 Standartmäßig wird Ihnen hier nur die aktuell gültige Generation
 abgebildet. Möchten Sie auch vergangene Generationen sehen, können Sie
@@ -600,16 +561,14 @@ anzeigen lassen.
 
 Abb. 2‑22 Vergangene Generationen anzeigen
 
-<img src=".\img/image40.png"
-style="width:1.37483in;height:0.79157in" />
+![](<img/image40.png>)
 
 Vergangene Generationen werden Ihnen in der Auflistung der Generationen
 in grauer Schrift dargestellt.
 
 Abb. 2‑23 Darstellung vergangene Generationen
 
-<img src=".\img/image41.png"
-style="width:3.48554in;height:1.28145in" />
+![](<img/image41.png>)
 
 Innerhalb der Auflistung der einzelnen Tarifschemata können die
 einzelnen Spalten auch wieder gefiltert werden. Wenn Sie auf eine
@@ -618,9 +577,7 @@ nun können Sie beispielsweise nach der Tätigkeit filtern.
 
 Abb. 2‑24 Filter Tarifschemata
 
-<img src=".\img/image42.png"
-style="width:2.96154in;height:2.91195in"
-alt="C:\Users\KBURGS~1\AppData\Local\Temp\SNAGHTML1aa8024a.PNG" />
+![](<img/image42.png>)
 
 Hinweis
 
@@ -635,11 +592,7 @@ neues Tarifschema anlegen.
 
 Abb. 2‑25 Tarifschemata – neu anlegen
 
-<img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image43.png"
-style="width:6.29921in;height:3.14961in" />
+![](<img/image43.png>)
 
 Es öffnet sich im Anschluss ein Dialogfenster in welchem Sie
 entscheiden, ob es ein Mitarbeiter- oder ein Klienten-Tarifschema ist,
@@ -647,8 +600,7 @@ welches Sie anlegen möchten.
 
 Abb. 2‑26 Art des Tarifschemas
 
-<img src=".\img/image44.png"
-style="width:3.80161in;height:1.57272in" />
+![](<img/image44.png>)
 
 Wenn Sie auf „*OK*“ klicken, öffnet sich die Neuanlage.
 
@@ -680,14 +632,12 @@ markiert werden und in Einem zum jeweiligen Satz zugeordnet werden.
 
 Abb. 2‑27 Neuanlage Tarifschema
 
-<img src=".\img/image45.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image46.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image47.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image22.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image48.png"
-style="width:6.29921in;height:3.93337in" />
+![](<img/image45.png>)
+![](<img/image46.png>)
+![](<img/image47.png>)
+![](<img/image22.png>)
+
+![](<img/image48.png>)
 
 Wenn Sie auf *Speichern* klicken, werden Ihre Einstellungen gespeichert.
 
@@ -714,11 +664,9 @@ eingeblendet werden.
 
 Abb. 2‑28 Tarifschema bearbeiten
 
-<img src=".\img/image26.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image23.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image49.png"
-style="width:6.29921in;height:4.34476in" />
+![](<img/image26.png>)
+![](<img/image23.png>)
+![](<img/image49.png>)
 
 Hinweis
 
@@ -733,8 +681,7 @@ Tarifsätze der einzelnen Tarifschema prozentuelle anpassen.
 
 Abb. 2‑29 Tarifsätze anpassen
 
-<img src=".\img/image50.png"
-style="width:0.59368in;height:0.78115in" />
+![](<img/image50.png>)
 
 Nachdem Sie Tarifsätze anpassen gewählt haben, müssen Sie zuerst
 eingeben, ab welchem Datum die neuen Tarifsätze gelten. Mit diesem Datum
@@ -742,8 +689,7 @@ wird in den jeweiligen Tarifschemata eine neue Generation angelegt.
 
 Abb. 2‑30 Tarifsätze anpassen Generation
 
-<img src=".\img/image51.png"
-style="width:5.90551in;height:2.01118in" />
+![](<img/image51.png>)
 
 Mit der Schaltfläche *Weiter* erhalten Sie eine Liste aller angelegten
 Tarife. Hier können Sie nun die Veränderung in Prozent inkl. der Rundung
@@ -754,8 +700,7 @@ ersichtlich.
 
 Abb. 2‑31 Tarifsätze anpassen Veränderung
 
-<img src=".\img/image52.png"
-style="width:5.90551in;height:4.84056in" />
+![](<img/image52.png>)
 
 **Rundung**  
 Bei allen Rundungsoptionen wird kaufmännisch gerundet (bis vier abrunden
@@ -783,8 +728,7 @@ gelb hinterlegt.
 
 Abb. 2‑32 Tarifsätze anpassen Zusammenfassung
 
-<img src=".\img/image53.png"
-style="width:5.90551in;height:2.97778in" />
+![](<img/image53.png>)
 
 Mit *Speichern* wir die Änderung gespeichert (=eine neue Generation mit
 den definierten Werten, wird in den jeweiligen Tarifschemata angelegt).
@@ -807,8 +751,7 @@ nicht noch einmal alles neu von vorne anlegen.
 
 Abb. 2‑33 Tarifschema duplizieren
 
-<img src=".\img/image54.png"
-style="width:2.09656in;height:0.86788in" />
+![](<img/image54.png>)
 
 ### Tarifschema löschen
 
@@ -819,8 +762,7 @@ Tarifschema löschen.
 
 Abb. 2‑34 Tarifschema löschen
 
-<img src=".\img/image54.png"
-style="width:2.09656in;height:0.86788in" />
+![](<img/image54.png>)
 
 ### Zuordnung eines Mitarbeiter- oder Klienten-Tarifschemas
 
@@ -833,8 +775,7 @@ hinterlegen.
 
 Abb. 2‑35 Mitarbeiter-Tarifschema zuordnen
 
-<img src=".\img/image55.png"
-style="width:6.29921in;height:2.93068in" />
+![](<img/image55.png>)
 
 Tipp
 
@@ -855,8 +796,7 @@ hinterlegen.
 
 Abb. 2‑36 Klienten-Tarifschema zuordnen
 
-<img src=".\img/image56.png"
-style="width:6.29921in;height:2.37246in" />
+![](<img/image56.png>)
 
 Tipp
 
@@ -879,11 +819,9 @@ wählen Sie die Schaltfläche Tätigkeit zuordnen **(2).**
 
 Abb. 2‑37 Tätikeiten zuordnen
 
-<img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image57.png"
-style="width:6.29921in;height:3.71841in" />
+![](<img/image31.png>)
+![](<img/image19.png>)
+![](<img/image57.png>)
 
 Nun müssen Sie die Tätigkeit auswählen, welche zu den ausgewählten
 Tarifen zugeordnet werden soll. Abschließend erhalten Sie noch eine
@@ -891,8 +829,7 @@ Abfrage, ob die Änderung durchgeführt werden soll.
 
 Abb. 2‑38 Auswahl der Tätigkeit
 
-<img src=".\img/image58.png"
-style="width:2.95915in;height:1.1153in" />
+![](<img/image58.png>)
 
 Hinweis
 
@@ -913,14 +850,14 @@ eigener Tab für die Arbeitszeitmodelle.
 
 Abb. 2‑39 Arbeitszeitmodelle
 
-<img src=".\img/image59.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image60.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image61.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image22.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image62.png"
-style="width:6.29921in;height:4.68472in" />
+![](<img/image59.png>)
+![](<img/image60.png>)
+![](<img/image61.png>)
+![](<img/image22.png>)
+![](<img/image31.png>)
+
+![](<img/image62.png>)
+
 
 Im mittleren Bereich **(1)** werden Ihnen die bereits von Ihnen
 angelegten Arbeitszeitmodelle angezeigt. Ebenso ersichtlich ist in
@@ -948,8 +885,7 @@ Arbeitszeitmodelle auszuwählen und zu hinterlegen. Wenn Sie auf
 
 Abb. 2‑40 Arbeitszeitmodelle beim Mitarbeiter hinterlegen
 
-<img src=".\img/image63.png"
-style="width:6.29921in;height:3.79315in" />
+![](<img/image63.png>)
 
 Hinweis
 
@@ -997,13 +933,11 @@ sich ein eigener Tab für die Nummernbereiche.
 
 Abb. 2‑41 Nummernbereiche
 
-<img src=".\img/image22.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image25.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image64.png"
-style="width:6.29921in;height:1.21291in" />
+![](<img/image22.png>)
+![](<img/image25.png>)
+![](<img/image31.png>)
+
+![](<img/image64.png>)
 
 Standardmäßig ist ein Standard-Nummernbereich vorhanden. Aufgrund des
 Standard-Nummernbereiches erfolgt die Nummerierung der Honorarnoten
@@ -1060,8 +994,8 @@ Tipp
 Sie erhalten einen Tooltip, wenn Sie mit dem Mauscursor ein Eingabefeld
 auswählen.
 
-Mittels Papierkorbsymbol <img src=".\img/image65.png"
-style="width:0.15598in;height:0.2056in" />können Sie selbst angelegte
+Mittels Papierkorbsymbol ![](<img/image65.png>)
+können Sie selbst angelegte
 Nummernbereiche löschen die noch nicht verwendet wurden.
 
 Hinweis
@@ -1090,8 +1024,7 @@ Feiertage.
 
 Abb. 2‑42 Feiertagsverwaltung
 
-<img src=".\img/image66.png"
-style="width:6.3in;height:2.97917in" />
+![](<img/image66.png>)
 
 Standardmäßig sind im linken Bereich die gesetzlichen Feiertage
 hinterlegt. Im rechten Bereich können Sie selbst Feiertage bez.
@@ -1111,8 +1044,7 @@ Hälfte seiner persönlichen täglichen Normalarbeitszeit dienstfrei.
 Wenn Sie auf *Speichern* klicken, werden die Änderungen gespeichert.
 Selbst definierte Feiertage und dienstfreie Zeiten werden immer im
 rechten Bereich angezeigt und können jederzeit mit dem Papierkorbsymbol
-<img src=".\img/image65.png"
-style="width:0.15598in;height:0.2056in" /> gelöscht werden. Selbst
+![](<img/image65.png>) gelöscht werden. Selbst
 definierte Tage werden ebenfalls in roter Schriftfarbe im
 Arbeitszeitkalender dargestellt.
 
@@ -1152,10 +1084,7 @@ Es stehen Ihnen folgende Platzhalter zur Verfügung:
 
 Abb. 2‑43 Allgemeine Textbausteine
 
-<img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image67.png"
-style="width:6.29921in;height:2.62322in" />
+![](<img/image67.png>)
 
 Hinweis
 
@@ -1184,25 +1113,20 @@ werden.
 Im Textfeld können nun mit der rechten Maustaste alle Textbausteine
 aufgerufen werden:
 
-<img src=".\img/image68.png"
-style="width:6.29921in;height:0.92614in" />
+![](<img/image68.png>)
 
 Oder Sie geben die Nummer des Textbausteines ein und wählen die
 F3-Taste.
-
-<img src=".\img/image69.png"
-style="width:6.29921in;height:0.73309in" />
+![](<img/image69.png>)
 
 **Beispiel in der Notenerstellung:**
 
 Stellen Sie sich in das Bezeichnungsfeld der Tätigkeit – mit der Rechten
 Maustaste können wieder alle Textbausteine aufgerufen werden.
 
-<img src=".\img/image70.png"
-style="width:5.90551in;height:1.54429in" />
+![](<img/image70.png>)
 
 Oder Sie geben die Nummer des Textbausteines ein und wählen die
 F3-Taste.
 
-<img src=".\img/image71.png"
-style="width:5.90551in;height:0.66758in" />
+![](<img/image71.png>)
