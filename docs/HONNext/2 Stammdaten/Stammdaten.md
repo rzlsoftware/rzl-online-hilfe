@@ -102,7 +102,7 @@ anzeigen lassen und zum Beispiel die Bezeichnung ändern.
 
 Abb. 2‑6 Verrechnungsgruppen bearbeiten
 
-![](<img/image5.png>)
+
 ![](<img/image19.png>)
 ![](<img/image20.png>)
 
