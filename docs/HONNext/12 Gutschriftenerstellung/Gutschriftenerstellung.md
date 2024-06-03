@@ -6,7 +6,7 @@ generieren.
 
 Wählen Sie hierfür den Punkt *Honorarnoten – Notenübersicht*. In der
 Notenübersicht finden Sie alle erstellten Noten (siehe Kapitel 15, Seite
-[140](#notenübersicht)).
+[140]).
 
 Um eine Gesamtgutschrift zu erstellen, wählen Sie die betroffene Note
 aus. Nun können Sie über das Symbol im Ribbon oder mithilfe der rechten
@@ -15,8 +15,7 @@ erstellen* auswählen.
 
 Abb. 12‑1 Gutschirft aus Note erstellen
 
-<img src=".\img/image243.png"
-style="width:1.77165in;height:0.84825in" />
+![](<img/image243.png>)
 
 Hinweis
 
@@ -29,8 +28,7 @@ standardmäßig vorgeschlagen.
 
 Abb. 12‑2 Notendatum Gutschrift
 
-<img src=".\img/image244.png"
-style="width:2.91692in;height:1.00842in" />
+![](<img/image244.png>)
 
 Über den Button *Erstellen* wird Ihnen automatisch eine vorläufige
 Gesamtgutschrift (= neue Note) erstellt. Die neu generierte Note kann
@@ -40,10 +38,7 @@ adaptiert werden.
 
 Abb. 12‑3 Ansicht Gutschrift
 
-<img src=".\img/image107.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image245.png"
-style="width:6.29921in;height:3.23228in" />
+![](<img/image245.png>)
 
 Hinweis
 
@@ -76,8 +71,7 @@ Das Programm selektiert Ihnen automatisch die jeweilige Note.
 
 Abb. 12‑4 Gutschrift selektieren
 
-<img src=".\img/image246.png"
-style="width:2.65023in;height:0.70839in" />
+![](<img/image246.png>)
 
 Tipp
 
@@ -87,5 +81,4 @@ gutgeschriebene Note.
 
 Abb. 12‑5 Verweis zur Gutschrift/gutgeschriebenen Note
 
-<img src=".\img/image247.png"
-style="width:2.03351in;height:0.72506in" />
+![](<img/image247.png>)

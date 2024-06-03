@@ -7,8 +7,7 @@ Auswertungen eine Mitarbeiterliste inkl. HON Daten erstellen.
 
 Abb. 19‑1 Auswertungen
 
-<img src=".\img/image348.png"
-style="width:6.29921in;height:0.75978in" />
+![](<img/image348.png>)
 
 ## Mitarbeiterstatistik
 
@@ -21,18 +20,13 @@ geöffnet werden.
 
 Abb. 19‑2 Mitarbeiter Statistik auswählen
 
-<img src=".\img/image349.png"
-style="width:1.9685in;height:0.99507in" />
+![](<img/image349.png>)
 
 In einem separaten Tab wird die Umsatzstatistik Mitarbeiter geöffnet:
 
 Abb. 19‑3 Umsatzstatistik Mitarbeiter
 
-<img src=".\img/image152.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image350.png"
-style="width:6.29921in;height:2.53579in" />
+![](<img/image350.png>)
 
 Die Statistik kann auf einen bestimmten Zeitraum **(1)** eingeschränkt
 werden und ist nach Mitarbeitern gruppiert **(2)**. Der eingeschränkte
@@ -61,8 +55,7 @@ Diese befinden sich in der Statistik an letzter Stelle.
 
 Abb. 19‑4 ohne Mitarbeiterzuordnung
 
-<img src=".\img/image351.png"
-style="width:6.33071in;height:0.18213in" />
+![](<img/image351.png>)
 
 Über die Funktionen *Alles aufklappen/zuklappen* im Ribbon können Sie
 alle Tätigkeiten aller Mitarbeiter aufklappen oder zuklappen. Über den
@@ -73,8 +66,7 @@ werden nur die zugehörigen Leistungszeilen geöffnet.
 
 Abb. 19‑5 Funktionen im Ribbon
 
-<img src=".\img/image352.png"
-style="width:4.72441in;height:1.00997in" />
+![](<img/image352.png>)
 
 ## Klientenstatistik
 
@@ -86,18 +78,13 @@ werden.
 
 Abb. 19‑6 Klienten Statistik auswählen
 
-<img src=".\img/image349.png"
-style="width:1.9685in;height:0.99507in" />
+![](<img/image349.png>)
 
 In einem separaten Tab wird die Umsatzstatistik Klienten geöffnet:
 
 Abb. 19‑7 Umsatzstatistik Klienten
 
-<img src=".\img/image152.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image353.png"
-style="width:6.29921in;height:1.94003in" />
+![](<img/image353.png>)
 
 Die Statistik kann auf einen bestimmten Zeitraum **(1)** eingeschränkt
 werden und ist nach Klienten gruppiert **(2)**. Der eingeschränkte
@@ -126,8 +113,7 @@ zugehörigen Leistungszeilen geöffnet.
 
 Abb. 19‑8 Funktionen im Ribbon
 
-<img src=".\img/image352.png"
-style="width:4.72441in;height:1.00997in" />
+![](<img/image352.png>)
 
 ## Umsatzstatistik Allgemein
 
@@ -140,8 +126,7 @@ geöffnet werden.
 
 Abb. 19‑9 Allgemeine Umsatzstatistik auswählen
 
-<img src=".\img/image349.png"
-style="width:1.9685in;height:0.99507in" />
+![](<img/image349.png>)
 
 Es werden Ihnen Anfangs alle abgerechneten Zeilen angezeigt. Die
 Statistik kann auf einen bestimmten Zeitraum eingeschränkt werden und
@@ -154,8 +139,7 @@ oberhalb der Überschriftenzeile (Gruppierungsfeld).
 
 Abb. 19‑10 Gruppierung der Spalten
 
-<img src=".\img/image354.png"
-style="width:5.44214in;height:0.86674in" />
+![](<img/image354.png>)
 
 Wenn Sie nach den Spalten *Mitarbeiter Nr./Name, Tätigkeit Nr./Name,
 Klient Nr./Name* gruppieren, wird automatisch die Korrespondenzspalte
@@ -164,8 +148,7 @@ beiden Felder, können Sie die Gruppierung entfernen.
 
 Abb. 19‑11 Gruppierung Nummer/Name
 
-<img src=".\img/image355.png"
-style="width:2.6669in;height:0.87508in" />
+![](<img/image355.png>)
 
 Sollen mehrere Spalten auf der gleichen Ebene sein, muss die STRG Taste
 gedrückt bleiben, wenn die Spalte mittels Drag&Drop verschoben wird – es
@@ -174,8 +157,7 @@ eingefügt wird.
 
 Abb. 19‑12 Gruppierung gleiche Ebene
 
-<img src=".\img/image356.png"
-style="width:4.69207in;height:1.11676in" />
+![](<img/image356.png>)
 
 Es besteht auch die Möglichkeit bestimmte Spalten aus der Statistik
 auszublenden/einzublenden. Mit Rechtsklick auf die Überschriftenzeile
@@ -192,8 +174,7 @@ Kapitel 19.10, Seite [178](#pauschalstatistik-1)).
 
 Abb. 19‑13 Auswahl der Spalten
 
-<img src=".\img/image357.png"
-style="width:1.59552in;height:4.13533in" />
+![](<img/image357.png>)
 
 Mithilfe des Filtersymbols neben den jeweiligen Überschriften können Sie
 auch z.B. nach einem bestimmten Klienten oder einer bestimmten
@@ -201,8 +182,7 @@ Verrechnungsgruppe filtern.
 
 Abb. 19‑14 Filtermöglichkeit
 
-> <img src=".\img/image358.png"
-> style="width:2.60856in;height:1.71682in" />
+![](<img/image358.png>)
 
 Tipp
 
@@ -218,8 +198,7 @@ Zeile in einem separaten Tab geöffnet.
 
 Abb. 19‑15 Funktionen im Ribbon
 
-<img src=".\img/image359.png"
-style="width:4.97854in;height:0.91655in" />
+![](<img/image359.png>)
 
 Tipp
 
@@ -227,8 +206,7 @@ Wenn Sie die allgemeine Umsatzstatistik nach dem *Notendatum*
 gruppieren, steht Ihnen im Ribbon die Option *Notendatum* zur Verfügung.
 Hiermit können Sie schnell und einfach nach Tag/Monat/Jahr unterteilen.
 
-<img src=".\img/image360.png"
-style="width:4.72441in;height:0.82319in" />
+![](<img/image360.png>)
 
 ## Statistik Manager Umsatz
 
@@ -255,8 +233,7 @@ Der Filter kann auch im Spalten- und/oder Zeilenbereich gesetzt werden.
 
 Abb. 19‑16 Filter Statsitik Manager
 
-<img src=".\img/image361.png"
-style="width:6.13386in;height:4.2837in" />
+![](<img/image361.png>)
 
 -   Datenbereich
 
@@ -267,8 +244,7 @@ style="width:6.13386in;height:4.2837in" />
 
 Abb. 19‑17 Datenbereich Statsitik Manager
 
-> <img src=".\img/image362.png"
-> style="width:6.3in;height:1.21319in" />
+![](<img/image362.png>)
 
 -   Spaltenbereich
 
@@ -352,8 +328,7 @@ verdeutlichen, wo das Feld eingefügt wird.
 
 Abb. 19‑18 Felder Statsitik Manager
 
-<img src=".\img/image363.png"
-style="width:6.3in;height:2.61806in" />
+![](<img/image363.png>)
 
 Hinweis
 
@@ -372,8 +347,7 @@ Hinweis
 Durch ziehen der Felder in einen nicht gültigen Bereich, können die
 Felder wieder entfernt werden.
 
-<img src=".\img/image364.png"
-style="width:2.75591in;height:1.88987in" />
+![](<img/image364.png>)
 
 Verwenden Sie das Feld *Notendatum* im Zeilen- oder Spaltenbereich
 können Sie mit der Schaltfläche No*tendatum* ein Datumsintervall (Bsp.
@@ -381,8 +355,7 @@ jährlich/monatlich) definieren.
 
 Abb. 19‑19 Datumsintervall
 
-<img src=".\img/image365.png"
-style="width:1.14569in;height:1.30192in" />
+![](<img/image365.png>)
 
 Wenn Sie eine Statistik mit mehreren Zeilen/Spalten erzeugen, können Sie
 über die Schaltfläche *Spalten auf‑/zuklappen* bzw. *Zeilen
@@ -390,8 +363,7 @@ auf-/zuklappen* die Statistik komprimieren.
 
 Abb. 19‑20 Spalten/Zeilen Statsitik Manager
 
-<img src=".\img/image366.png"
-style="width:2.14185in;height:0.4783in" />
+![](<img/image366.png>)
 
 Hinweis
 
@@ -410,9 +382,7 @@ Spaltensummen.
 
 Abb. 19‑21 Beispiel Statsitik Manager
 
-<img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image367.png"
-style="width:6.29921in;height:1.83055in" />
+![](<img/image367.png>)
 
 Ansicht der Statistik, wenn alle Zeilen und Spalten zugeklappt sind.
 
@@ -422,25 +392,21 @@ Mitarbeiter oder Tätigkeiten extra anzusehen.
 
 Abb. 19‑22 Beispiel Statsitik Manager
 
-<img src=".\img/image368.png"
-style="width:6.29921in;height:1.8771in" />
+![](<img/image368.png>)
 
 Wie oben erwähnt können die Felder gefiltert werden. Hierfür erscheint
 ein Trichtersymbol, wenn Sie mit der Maus über das Feld fahren.
 
 Abb. 19‑23 Filter Statsitik Manager
 
-<img src=".\img/image369.png"
-style="width:1.63347in;height:0.66672in" />
+![](<img/image369.png>)
 
 Wenn Sie einen oder mehrere Filter gesetzt haben, ist dies unterhalb der
 Statistik (2) ersichtlich.
 
 Abb. 19‑24 Filter Statsitik Manager
 
-<img src=".\img/image107.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image370.png"
-style="width:6.3in;height:2.13264in" />
+![](<img/image370.png>)
 
 Tipp
 
@@ -448,8 +414,7 @@ Durch Rechtsklick in die Spaltenüberschrift können Sie mit der Funktion
 *Optimale Breite (alle Spalten)* die Breite aller Spalten auf den
 jeweiligen Spalteninhalt anpassen.
 
-<img src=".\img/image371.png"
-style="width:3.14961in;height:0.63141in" />
+![](<img/image371.png>)
 
 Haben Sie eine Statistik mit vielen Datensätzen erzeugt, können Sie mit
 der rechten Maustaste in ein Feld über die *Bedingte Formatierung*
@@ -458,8 +423,7 @@ Felder die Bsp. über den Durchschnitt liegen oder einen bestimmten Wert
 
 Abb. 19‑25 Bedingte Formatierung Statsitik Manager
 
-<img src=".\img/image372.png"
-style="width:6.10236in;height:3.56846in" />
+![](<img/image372.png>)
 
 Für eine weitere Visuelle Darstellung können Sie mehrere Datensätze
 markieren und sich mithilfe der Schaltfläche *Diagramm anzeigen* (3) ein
@@ -468,11 +432,8 @@ werden.
 
 Abb. 19‑26 Diagramm Statsitik Manager
 
-<img src=".\img/image373.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image25.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image10.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image374.png"
-style="width:6.10236in;height:4.31368in" />
+![](<img/image373.png>)
+![](<img/image374.png>)
 
 Über den Button *Statistik drucken* (4), können Sie die Statistik
 ausdrucken. Je nachdem ob alle Zeilen/Spalten auf-/zugeklappt sind, so
@@ -486,9 +447,7 @@ gelieferten Werten zu rechnen. Hierfür steht Ihnen die Schaltfläche
 
 Abb. 19‑27 Formelspalte
 
-<img src=".\img/image60.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image375.png"
-style="width:6.07216in;height:0.84365in" />
+![](<img/image375.png>)
 
 Es öffnet sich ein extra Fenster, wo Sie nun definieren können, was
 berechnet werden soll. Jene Felder die Sie in den Datenbereich eingefügt
@@ -502,9 +461,7 @@ Standarteingaben (/, \*, +, -) zur Verfügung.
 
 Abb. 19‑28 Formel
 
-<img src=".\img/image59.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image376.png"
-style="width:4.63997in;height:3.47998in" />
+![](<img/image376.png>)
 
 Mit der Schaltfläche *OK* wird die Spalte in der Statistik eingefügt.
 
@@ -514,8 +471,7 @@ wieder Löschen oder die Formel erneut aufrufen.
 
 Abb. 19‑29 Formel Spalte
 
-<img src=".\img/image377.png"
-style="width:4.33071in;height:2.16535in" />
+![](<img/image377.png>)
 
 Sollte die erstellte Statistik immer wieder aufrufbar sein, können Sie
 über *Layout Speichern* oder über *Layout Speichern unter* (7) die
@@ -529,13 +485,11 @@ Prozentspalte in der Statistik ergänzen.
 
 Abb. 19‑30 Formelspalte
 
-<img src=".\img/image378.png"
-style="width:6.29921in;height:0.61949in" />
+![](<img/image378.png>)
 
 Folgende Prozent Spalten stehen zur Verfügung:
 
--   <img src=".\img/image379.png"
-    style="width:0.35417in;height:0.35417in" />*Prozent vom
+-   ![](<img/image379.png>)*Prozent vom
     Gesamtergebnis einfügen*  
     Die Zeile Gesamtergebnis **(7)** bildet die Basis (100 %)  
       
@@ -544,13 +498,9 @@ Folgende Prozent Spalten stehen zur Verfügung:
     davon Klient 97001: 2.336,25 €  
     (2.336,25 / 5.134,25)\*100 = 45,50 %  
       
-    <img src=".\img/image380.png"
-    style="width:4.52756in;height:3.04357in" />
+    ![](<img/image380.png>)
 
--   <img src=".\img/image381.png"
-    style="width:0.35417in;height:0.35417in" /><img src=".\img/image381.png"
-    style="width:0.35417in;height:0.35417in" /><img src=".\img/image381.png"
-    style="width:0.35417in;height:0.35417in" />*Prozent von Spaltensumme
+-   ![](<img/image381.png>)*Prozent von Spaltensumme
     einfügen*  
     Pro Spalte gibt es ein Gesamtergebnis **(8)**, welches die Basis
     (100%) bildet.  
@@ -560,11 +510,9 @@ Folgende Prozent Spalten stehen zur Verfügung:
     davon Klient 86001: 2694,50 €  
     (2.694,5 / 5.797)\*100 = 46,48 %  
       
-    <img src=".\img/image382.png"
-    style="width:6.29921in;height:3.13161in" />
+    ![](<img/image382.png>)
 
--   <img src=".\img/image383.png"
-    style="width:0.35417in;height:0.35417in" />*Prozent von Zeilensumme
+-   ![](<img/image383.png>)*Prozent von Zeilensumme
     einfügen  
     *Pro Zeile gibt es ein Gesamtergebnis **(9)**, welches die Basis
     (100%) bildet.  
@@ -577,8 +525,7 @@ Folgende Prozent Spalten stehen zur Verfügung:
     davon im Jahr 2023: 300 €  
     (300/1.454.50)\*100 = 20,63 %  
       
-    <img src=".\img/image384.png"
-    style="width:6.29921in;height:3.31348in" />
+    ![](<img/image384.png>)
 
 -   *Prozent von gewählter Summe einfügen*  
     Hier wählen Sie die Summe, welche die Basis (100%) bilden soll
@@ -601,9 +548,8 @@ Folgende Prozent Spalten stehen zur Verfügung:
 
     (1000/1300) \*100 = 76,92 %
 
-    <img src=".\img/image385.png"
-    style="width:0.35417in;height:0.35417in" /><img src=".\img/image386.png"
-    style="width:6.29921in;height:2.62509in" />
+    ![](<img/image385.png>)
+    ![](<img/image386.png>)
 
 ## Statistik Manager Leistungen
 
@@ -748,8 +694,7 @@ verrechenbaren/nicht verrechenbaren Stunden an der Gesamtdauer.
 
 Abb. 19‑31 Stundenstatistik Mitarbeiter Prozent
 
-<img src=".\img/image387.png"
-style="width:6.29921in;height:2.77096in" />
+![](<img/image387.png>)
 
 <table>
 <colgroup>
@@ -807,8 +752,7 @@ ist.
 
 Abb. 19‑32 Mitarbeiterliste mit mehreren Generationen
 
-<img src=".\img/image388.png"
-style="width:5.37547in;height:1.36678in" />
+![](<img/image388.png>)
 
 Diese Liste können Sie nach einzelnen Spalten gruppieren oder auch
 filtern (vgl. Kapitel 19.13, Seite [180](#speicherbare-layouts)) sowie
@@ -856,8 +800,7 @@ gewünschten Klienten und wählen die Schaltfläche *Klienten bearbeiten*.
 
 Abb. 19‑33 Klienten bearbeiten
 
-<img src=".\img/image389.png"
-style="width:0.70824in;height:0.88531in" />
+![](<img/image389.png>)
 
 TIPP
 
@@ -894,8 +837,7 @@ Klienten eine neue Generation anlegen.
 
 Abb. 19‑34 Geneartionen bei Klienten bearbeiten
 
-<img src=".\img/image390.png"
-style="width:3.93701in;height:1.9685in" />
+![](<img/image390.png>)
 
 Hinweis
 
@@ -935,8 +877,7 @@ hier das Tagesdatum vorgeschlagen.
 
 Abb. 19‑35 Stichtag Offenen Leistungen Statistik
 
-<img src=".\img/image391.png"
-style="width:3.66621in;height:0.60409in" />
+![](<img/image391.png>)
 
 Anschließend besteht noch die Möglichkeit die Auswertung zu Gruppieren,
 zu Filtern oder einzelne Spalten ein-/auszublenden (vgl. Kapitel 19.3,
@@ -955,8 +896,7 @@ Statistik, definiert den Stichtag und Filtert auf diesen Klienten.
 
 Abb. 19‑36 Offenen Leistungen Statistik
 
-<img src=".\img/image392.png"
-style="width:6.29921in;height:1.4072in" />
+![](<img/image392.png>)
 
 Wurden nun die Leistungen von November 2022 bereits im Jänner 2023
 abgerechnet ändert dies nichts an der offenen Leistungen Statistik zum
@@ -978,16 +918,14 @@ noch keinen Pauschalausgleich durchgeführt
 Ansicht der Pauschalzeile:  
 Ausgleichsstatus und Status sind leer.
 
-<img src=".\img/image393.png"
-style="width:6.29921in;height:0.51769in" />
+![](<img/image393.png>)
 
 Ansicht in der offenen Leistungen Statistik:  
 In der offenen Leistungen Statistik wird die tatsächlich erfasste
 Leistung des Mitarbeiters ausgewiesen inkl. dem Wert der Erfassungszeile
 (Stundensatz \* Stundenanzahl). Nicht die vereinbarte Pauschale.
 
-<img src=".\img/image394.png"
-style="width:6.29921in;height:0.65612in" />
+![](<img/image394.png>)
 
 **Fall 2** – die Pauschale wurde bereits abgerechnet aber es wurde noch
 kein Pauschalausgleich durchgeführt
@@ -995,8 +933,7 @@ kein Pauschalausgleich durchgeführt
 Ansicht der Pauschalzeile:  
 Ausgleichsstatus ist leer und der Status ist *Verrechnet.*
 
-<img src=".\img/image395.png"
-style="width:6.29921in;height:0.51831in" />
+![](<img/image395.png>)
 
 Ansicht in der offenen Leistungen Statistik:  
 In der offenen Leistungen Statistik wird die tatsächlich erfasste
@@ -1005,16 +942,14 @@ Leistung des Mitarbeiters ausgewiesen inkl. dem Wert der Erfassungszeile
 Pauschale in Abzug gebracht. Mittels des Rufzeichens am Beginn der
 Zeile, weißt das Programm auf noch nicht ausgeglichene Pauschalen hin.
 
-<img src=".\img/image396.png"
-style="width:6.29921in;height:0.64184in" />
+![](<img/image396.png>)
 
 **Fall 3** - die Pauschalzeile wurde noch nicht abgerechnet aber es
 wurde bereits ein Pauschalausgleich durchgeführt
 
 Ansicht der Pauschalzeile:  
 Der Ausgleichsstatus ist auf *Ausgeglichen* und der Status ist leer.  
-<img src=".\img/image397.png"
-style="width:6.29921in;height:0.51831in" />
+![](<img/image397.png>)
 
 Ansicht in der offenen Leistungen Statistik:  
 In der offenen Leistungen Statistik wird die tatsächlich erfasste
@@ -1022,8 +957,7 @@ Leistung des Mitarbeiters ausgewiesen inkl. dem Wert der Erfassungszeile
 (Stundensatz \* Stundenanzahl). Weiters werden die beim
 Pauschalausgleich ermittelten Zu-/Abschläge berücksichtigt.
 
-<img src=".\img/image398.png"
-style="width:6.29921in;height:0.67288in" />
+![](<img/image398.png>)
 
 **Fall 4** - die Pauschalzeile wurde abgerechnet und es wurde ein
 Pauschalausgleich durchgeführt
@@ -1032,8 +966,7 @@ Ansicht der Pauschalzeile:
 Der Ausgleichsstatus ist auf *Ausgeglichen* und der Status ist
 *Verrechnet*
 
-<img src=".\img/image399.png"
-style="width:6.29921in;height:0.51335in" />
+![](<img/image399.png>)
 
 Ansicht in der offenen Leistungen Statistik:  
 Diese Pauschalzeile ist nicht mehr in der offenen Leistungen Statistik,
@@ -1051,8 +984,7 @@ speichern, um dieses jederzeit wiederverwenden zu können.
 
 Abb. 19‑37 Speicherbare Layouts
 
-<img src=".\img/image400.png"
-style="width:4.72441in;height:0.77133in" />
+![](<img/image400.png>)
 
 Nachdem Sie eine Gruppierung festgelegt und/oder Filter gesetzt haben,
 können Sie über die Schaltfläche *Layout Speichern* die soeben erstellte
@@ -1066,16 +998,14 @@ aufrufen.
 
 Abb. 19‑38 Allgemeine Layouts
 
-<img src=".\img/image401.png"
-style="width:3.42032in;height:1.21477in" />
+![](<img/image401.png>)
 
 Bei der Auswahl der Layouts sind allgemeine Layouts über folgendes
 Symbol erkenntlich.
 
 Abb. 19‑39 Auswahl Allgemeine Layouts
 
-<img src=".\img/image402.png"
-style="width:4.38487in;height:0.93738in" />
+![](<img/image402.png>)
 
 Haben Sie bereits ein Layout ausgewählt und nehmen hier Änderungen vor,
 wird mit dem Button *Layout Speichern* das aktuelle Layout überspeichert
@@ -1112,8 +1042,7 @@ ausgewählt werden.
 
 Abb. 19‑40 Filter bearbeiten I
 
-<img src=".\img/image403.png"
-style="width:3.14961in;height:2.18828in" />
+![](<img/image403.png>)
 
 *Und – Verknüpfung*
 
@@ -1140,8 +1069,7 @@ Expertenfilter alle Zeilen der Tätigkeit eins bis zum 31.12.2021
 
 Abb. 19‑41 Filter bearbeiten II
 
-<img src=".\img/image404.png"
-style="width:3.74016in;height:1.45843in" />
+![](<img/image404.png>)
 
 Mit einem Klick auf den *Übernehmen-Button* wird der Filter auf die
 Erfassungszeilen angewandt. Einen aktiven Filter erkennt man an dem

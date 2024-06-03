@@ -16,8 +16,7 @@ manuell und automatisch generierten Pauschalzeilen.
 
 Abb. 14‑1 Optionen Pauschalverrechnung
 
-<img src=".\img/image264.png"
-style="width:3.34646in;height:0.92855in" />
+![](<img/image264.png>)
 
 Die Ansicht zeigt Ihnen alle manuell und automatisch generierten
 Pauschalzeilen und kann gruppiert so wie gefiltert werden. Auch hier
@@ -35,12 +34,7 @@ Pauschalzeile anlegen.
 
 Abb. 14‑2 Pauschalzeile anlegen
 
-<img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image265.png"
-style="width:6.29921in;height:3.34017in" />
+![](<img/image265.png>)
 
 Eine Pauschalzeile beinhaltet das Datum der Zeile (gleich wie
 Leistungsdatum in der Leistungserfassung), den betroffenen Klienten und
@@ -91,8 +85,7 @@ Ersichtlich über folgendes Symbol in der unteren rechten Ecke:
 
 Abb. 14‑3 Aktiver RZL Dienst
 
-<img src=".\img/image251.png"
-style="width:0.86614in;height:0.22843in" />
+![](<img/image251.png>)
 
 ### Neue wiederkehrende Pauschalzeile
 
@@ -102,12 +95,7 @@ Pauschalzeile **(1)** angelegt werden.
 
 Abb. 14‑4 wiederkehrende Pauschalzeile anlegen
 
-<img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image116.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image266.png"
-style="width:6.29921in;height:3.10491in" />
+![](<img/image266.png>)
 
 **Daten der Pauschalzeile**
 
@@ -169,13 +157,11 @@ werden sollen, ansonsten werden die Zeilen monatlich/quartalsweise etc.
 
 Abb. 14‑5 Pauschalzeilen Vorschau
 
-<img src=".\img/image267.png"
-style="width:0.70006in;height:0.65839in" />
+![](<img/image267.png>)
 
 Abb. 14‑6 Pauschalzeilen Vorschau Zeilen
 
-<img src=".\img/image268.png"
-style="width:6.29921in;height:3.40225in" />
+![](<img/image268.png>)
 
 Hinweis
 
@@ -191,15 +177,13 @@ ein Monat zeitversetzt abgerechnet wird.
 
 Anlage der Pauschale mit August 2023:
 
-<img src=".\img/image269.png"
-style="width:6.29921in;height:1.10553in" />
+![](<img/image269.png>)
 
 Über die Schaltfläche *Pauschalzeilen Vorschau* bzw. über den RZL Dienst
 kann nun eine Pauschalzeile mit 31.08.2023 für den Projektzeitraum Juli
 2023 erstellt werden.
 
-<img src=".\img/image270.png"
-style="width:6.29921in;height:3.41963in" />
+![](<img/image270.png>)
 
 Mit 30.09.2023 generiert der RZL-Dienst automatisch eine neue
 Pauschalzeile mit Datum 30.09.2023 für den Projektzeitraum August 2023.
@@ -216,8 +200,7 @@ Pauschalzeile löschen.*
 
 Abb. 14‑7 wiederkehrende Pauschalzeilen löschen
 
-<img src=".\img/image271.png"
-style="width:1.10236in;height:0.82438in" />
+![](<img/image271.png>)
 
 Hinweis
 
@@ -236,8 +219,7 @@ werden.
 
 Abb. 14‑8 wiederkehrende Pauschalzeilen duplizieren
 
-<img src=".\img/image272.png"
-style="width:1.42691in;height:0.77074in" />
+![](<img/image272.png>)
 
 ### Wiederkehrende Pauschalzeile Beträge ändern
 
@@ -250,8 +232,7 @@ Schaltfläche *Beträge ändern*.
 
 Abb. 14‑9 Beträge ändern
 
-<img src=".\img/image273.png"
-style="width:0.59055in;height:0.79456in" />
+![](<img/image273.png>)
 
 Es öffnet sich ein extra Fenster, wo Sie die *Art der
 Erhöhung/Verminderung* definieren können. Der Betrag kann prozentuell,
@@ -295,8 +276,7 @@ der bisherigen Werte und der neuen Werte absolut und relativ.
 
 Abb. 14‑10 wiederkehrende Pauschalzeilen Beträge ändern
 
-<img src=".\img/image274.png"
-style="width:4.91692in;height:3.28489in" />
+![](<img/image274.png>)
 
 Mit *Übernehmen* werden die Beträge der wiederkehrenden Pauschalzeilen
 geändert.
@@ -339,9 +319,7 @@ Feld *Bezeichnung Pauschale* **(1)** zur Verfügung.
 
 Abb. 14‑11 Bezeichnung der Pauschale
 
-<img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image275.png"
-style="width:6.33071in;height:1.96156in" />
+![](<img/image275.png>)
 
 ## Tätigkeiten nicht in Pauschale
 
@@ -351,8 +329,7 @@ Option *Nicht in Pauschale* zu aktivieren.
 
 Abb. 14‑12 Nicht in Pauschale
 
-<img src=".\img/image276.png"
-style="width:6.3in;height:1.28472in" />
+![](<img/image276.png>)
 
 Diese Tätigkeit wird zusätzlich zur Pauschalzeile in der Note angeführt
 und abgerechnet. Weiters wird diese Tätigkeit beim Pauschalausgleich
@@ -380,9 +357,7 @@ abgeändert werden.
 
 Abb. 14‑13 Pauschale in Note
 
-<img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image277.png"
-style="width:6.33071in;height:2.15965in" />
+![](<img/image277.png>)
 
 Im Zuge der Notenerstellung ist es möglich zusätzliche Notenzeilen
 einzufügen. Wird ein Verrechnungskreis jedoch Pauschal abgerechnet,
@@ -397,10 +372,7 @@ verteilt und der der Leistung auf die jeweiligen Tätigkeiten **(3).**
 
 Abb. 14‑14 Pauschale in Note inkl. Rabatt
 
-<img src=".\img/image152.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image23.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image278.png"
-style="width:6.29921in;height:1.82806in" />
+![](<img/image278.png>)
 
 ## Pauschalausgleich
 
@@ -420,8 +392,7 @@ Bearbeiten*.
 
 Abb. 14‑15 Pauschale ausgleichen
 
-<img src=".\img/image279.png"
-style="width:2.16667in;height:1.29167in" />
+![](<img/image279.png>)
 
 Es öffnet sich ein Dialog mit allen Erfassungszeilen, welche mit der
 Pauschale ausgeglichen werden können. Nun kann man jene
@@ -441,11 +412,7 @@ zusätzlich angehakt oder ausgehakt wird.
 
 Abb. 14‑16 Pauschalausgleich
 
-<img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image280.png"
-style="width:6.29921in;height:3.14961in" />
+![](<img/image280.png>)
 
 Die Detailzeile im oberen Bereich des Bildschirmes **(2)** zeigt Ihnen
 den Wert der Pauschale, die Art der Verteilung der Zu/Abschläge, sowie
@@ -460,8 +427,7 @@ Projektzeitraum und der Betrag der Zeile geändert werden.
 
 Abb. 14‑17 Ansicht ausgeglichene Pauschalzeile
 
-<img src=".\img/image281.png"
-style="width:6.29921in;height:1.03601in" />
+![](<img/image281.png>)
 
 Eine Änderung löst automatisch den Pauschalausgleich aus. Es öffnet sich
 daher die Ansicht des Pauschalausgleiches, wo das Programm bei einer
@@ -500,13 +466,7 @@ Kontextmenü erfolgen.
 
 Abb. 14‑18 Pauschalausgleich während Notenerstellung
 
-<img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image282.png"
-style="width:6.29921in;height:3.44643in"
-alt="C:\Users\KBURGS~1\AppData\Local\Temp\SNAGHTMLaa9b3d5.PNG" />
+![](<img/image282.png>)
 
 Tipp
 
@@ -525,16 +485,14 @@ Ersichtlich über folgendes Symbol in der unteren rechten Ecke:
 
 Abb. 14‑19 Aktiver RZL Dienst
 
-<img src=".\img/image251.png"
-style="width:0.86614in;height:0.22843in" />
+![](<img/image251.png>)
 
 Bei der Anlage einer Pauschalzeile/einer wiederkehrenden Pauschalzeile
 besteht die Option den automatischen Ausgleich zu aktivieren.
 
 Abb. 14‑20 Automaischen Ausgleich aktivieren
 
-<img src=".\img/image283.png"
-style="width:3.99201in;height:0.76673in" />
+![](<img/image283.png>)
 
 Tipp
 
@@ -586,21 +544,18 @@ erfolgen.
 
 > Anlage der wiederkehrenden Pauschalzeile:
 >
-> <img src=".\img/image284.png"
-> style="width:6.29921in;height:1.30851in" />
+![](<img/image284.png>)
 
 Über die Schaltfläche *Pauschalzeilen Vorschau* bzw. über den RZL Dienst
 wird nun eine Pauschalzeile mit 31.08.2023 für den Projektzeitraum Juli
 2023 generiert.
 
-<img src=".\img/image285.png"
-style="width:6.29921in;height:1.85724in" />
+![](<img/image285.png>)
 
 Über die Ansicht *Pauschalverrechnung / Pauschalzeilen* wurde das Datum
 des automatischen Ausgleiches sowie die Verteilungsart hinterlegt.
 
-<img src=".\img/image286.png"
-style="width:6.29921in;height:1.44073in" />
+![](<img/image286.png>)
 
 Der automatische Ausgleich geht wie folgt vor:
 
@@ -617,9 +572,7 @@ werden ebenso ausgewählt.
 Über die Schaltfläche *Pauschale ausgleichen*, kann der
 Pauschalausgleich aufgerufen bzw. noch editiert werden:
 
-<img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image287.png"
-style="width:6.29921in;height:2.33086in" />
+![](<img/image287.png>)
 
 Aufgrund der gewählten Verteilungsart *Automatische Verteilung mit
 Mitarbeiterbezug* ordnet das Programm die Zuschläge den Mitarbeitern zu
@@ -633,7 +586,7 @@ wählt nun alle Buchhaltungszeilen mit Projektzeitraum August 2023.
 
 Mit 31.10.2023 generiert der RZL-Dienst automatisch eine neue
 Pauschalzeile mit Datum 31.10.2023 für den Projektzeitraum September
-2023. Der Automatische Ausgleiche erfolgt ebenso am 31.10.2023 – das
+1.    Der Automatische Ausgleiche erfolgt ebenso am 31.10.2023 – das
 Programm wählt nun alle Buchhaltungszeilen mit Projektzeitraum September
 2023 usw.
 
@@ -645,8 +598,7 @@ bei der Notenerstellung erfolgen.
 
 > Anlage der wiederkehrenden Pauschalzeile:
 >
-> <img src=".\img/image269.png"
-> style="width:6.29921in;height:1.10553in" />
+![](<img/image269.png>)
 
 Über die Schaltfläche *Pauschalzeilen Vorschau* bzw. über den RZL Dienst
 wird nun eine Pauschalzeile mit 31.08.2023 für den Projektzeitraum Juli
@@ -655,29 +607,25 @@ wird nun eine Pauschalzeile mit 31.08.2023 für den Projektzeitraum Juli
 Über die Ansicht *Pauschalverrechnung / Pauschalzeilen* wurde das Datum
 des automatischen Ausgleiches sowie die Verteilungsart hinterlegt.
 
-<img src=".\img/image288.png"
-style="width:6.29921in;height:1.05587in" />
+![](<img/image288.png>)
 
 Wenn Sie nun über *Honorarnoten / Notenerstellung* die Note erstellen
 ist ersichtlich, dass die Pauschale abgerechnet wird und auch bereits
 ausgeglichen ist.
 
-<img src=".\img/image289.png"
-style="width:6.29921in;height:1.84482in" />
+![](<img/image289.png>)
 
 Möchten Sie den Pauschalausgleich nochmals aufrufen, funktioniert dies
 über die Schaltfläche *Pauschalausgleich*. Hier sehen Sie auch, welche
 Zeilen das Programm ausgeglichen hat.
 
-> <img src=".\img/image290.png"
-> style="width:6.29921in;height:2.36003in" />
+![](<img/image290.png>)
 
 Wird eine Pauschale abgerechnet, zu der es noch keine Leistungen in der
 Leistungserfassung gib, erhalten Sie folgenden Hinweis beim Öffnen der
 Note:
 
-<img src=".\img/image291.png"
-style="width:5.64216in;height:1.53347in" />
+![](<img/image291.png>)
 
 Der Pauschalausgleich kann nicht vom Programm automatisch durchgeführt
 werden und muss manuell über *Pauschalverrechnung / Pauschalzeilen*
@@ -691,16 +639,14 @@ werden.
 
 Abb. 14‑21 Pauschalausgleich zurücksetzen
 
-<img src=".\img/image292.png"
-style="width:0.84174in;height:0.61672in" />
+![](<img/image292.png>)
 
 Sie erhalten eine Abfrage, ob der Pauschalausgleich tatsächlich
 zurückgesetzt werden soll.
 
 Abb. 14‑22 Pauschalausgleich zurücksetzen Abfrage
 
-<img src=".\img/image293.png"
-style="width:3.21695in;height:1.24177in" />
+![](<img/image293.png>)
 
 Wird diese Abfrage mit Zurücksetzten bestätigt, werden alle
 Zu/Abschläge, die durch den vorher durchgeführten Pauschalausgleich
@@ -736,8 +682,7 @@ erbracht, somit ergibt sich ein Abschlag von 83 €.
 
 Abb. 14‑23 Pauschalausgleich
 
-<img src=".\img/image294.png"
-style="width:6.3in;height:3.13958in" />
+![](<img/image294.png>)
 
 Über *Pauschalverrechnung / Pauschalzeilen* markiert man nun alle
 Pauschalzeilen eines Klienten über die eine Schlussnote gestellt werden
@@ -751,8 +696,7 @@ Sie schnell und einfach alle Zeilen des betroffenen Klienten selektiere
 
 Abb. 14‑24 Auswahl Zeilen Schlussnote
 
-<img src=".\img/image295.png"
-style="width:6.3in;height:2.69375in" />
+![](<img/image295.png>)
 
 Hinweis
 
@@ -764,13 +708,9 @@ Anschließend wählt man die Schaltfläche *Schlussnote erstellen*.
 Es öffnet sich eine Note mit dem Gesamten Zu/Abschlag aller
 durchgeführten Pauschalausgleiche der markierten Zeilen.
 
-<img src=".\img/image26.png"
-style="width:0.35417in;height:0.35417in" />Abb. 14‑25 Schlussnote
+Abb. 14‑25 Schlussnote
 
-<img src=".\img/image23.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image296.png"
-style="width:6.3in;height:3.16528in" />
+![](<img/image296.png>)
 
 Im oben gezeigten Beispiel ergibt sich eine Nachzahlung für den Klienten
 über 148 € **(1).** Über die Details zur Zeile sieht man aus welchen
@@ -781,8 +721,7 @@ Pauschalzeilen inkl. den Zu/Abschlägen einblenden lassen.
 
 Abb. 14‑26 Pauschaljournal Schlussnote
 
-<img src=".\img/image297.png"
-style="width:6.3in;height:1.85486in" />
+![](<img/image297.png>)
 
 Mit *Speichern & Schließen* kann die Schlussnote gespeichert und
 anschließend an den Klienten gesandt werden.
@@ -798,9 +737,7 @@ ersichtlich.
 
 Abb. 14‑27 Schlussnote erstellt
 
-<img src=".\img/image61.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image298.png"
-style="width:6.3in;height:2.05903in" />
+![](<img/image298.png>)
 
 Im HON über *Honorarnoten / Notenübersicht* finden Sie die soeben
 erstellte Schlussnote.
@@ -843,9 +780,7 @@ auszugleichen.
 
 Abb. 14‑28 Ansicht Pauschalzeile nach Gutschriftenerstellung
 
-<img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image299.png"
-style="width:6.33071in;height:2.5708in" />
+![](<img/image299.png>)
 
 Solange die Gutschrift nicht finalisiert wurde, ist der
 Pauschalausgleich bei der ursprünglichen Pauschalzeile noch möglich. Die
@@ -859,9 +794,7 @@ ident zur originalen Pauschalzeile d.h. der Pauschalausgleich wird
 
 Abb. 14‑29 Ansicht Pauschalzeile nach finalisierter Gutschrift
 
-<img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image300.png"
-style="width:6.33071in;height:1.93229in" />
+![](<img/image300.png>)
 
 Die Pauschalzeile steht nun auch wieder zur Verrechnung zur Verfügung.
 
@@ -890,11 +823,7 @@ Pauschalzeilen.
 
 Abb. 14‑30 Pauschalauswertung
 
-<img src=".\img/image26.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image301.png"
-style="width:6.3in;height:1.84236in" />
+![](<img/image301.png>)
 
 Mit dieser Statistik können Sie beispielsweise eine Gegenüberstellung
 der noch nicht ausgeglichenen Pauschalen mit den offenen durch die
@@ -908,8 +837,7 @@ Leistungen erfasst.
 
 Abb. 14‑31 Pauschalauswertung offene Pauschalen
 
-<img src=".\img/image302.png"
-style="width:6.3in;height:1.63125in" />
+![](<img/image302.png>)
 
 Oder Sie gehen den umgekehrten Weg und Erstellen eine Gegenüberstellung
 der bereits ausgeglichenen Pauschalen mit den dazugehörigen Leistungen.
@@ -923,8 +851,7 @@ ergibt.
 
 Abb. 14‑32 Pauschalauswertung ausgeglichene Pauschalen
 
-<img src=".\img/image303.png"
-style="width:6.3in;height:1.66667in" />
+![](<img/image303.png>)
 
 Die Zeilen können Sie gruppieren und/oder filtern. Das Layout der
 Statistik können Sie speichern (siehe Kapitel 19.3 und 19.13).
@@ -953,11 +880,7 @@ Pauschale und dem Namen der Verrechnungsgruppe.
 
 Abb. 14‑33 Mitarbeiterstatistik Pauschale
 
-<img src=".\img/image10.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image304.png"
-style="width:6.33071in;height:1.3015in" />
+![](<img/image304.png>)
 
 Tipp
 
@@ -973,5 +896,4 @@ zugeordnet.
 
 Abb. 14‑34 Klientenstatistik Pauschale
 
-<img src=".\img/image305.png"
-style="width:6.33071in;height:1.06088in" />
+![](<img/image305.png>)

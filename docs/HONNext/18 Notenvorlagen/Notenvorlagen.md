@@ -24,8 +24,7 @@ Notenvorlagen* eingespielt werden. Diese finden Sie dann im Bereich
 
 Abb. 18‑1 RZL Standard Notenvorlage einspielen
 
-<img src=".\img/image334.png"
-style="width:1.5748in;height:0.88004in" />
+![](<img/image334.png>)
 
 ## Allgemeines
 
@@ -35,8 +34,7 @@ Punkt *Honorarnoten – Notenvorlagen*.
 
 Abb. 18‑2 Notenvorlagen öffnen
 
-<img src=".\img/image335.png"
-style="width:4.92647in;height:1.20818in" />
+![](<img/image335.png>)
 
 In einem separaten Tab öffnet sich die Ansicht für die Notenvorlagen.
 Die *Buttons Vorlage Bearbeiten* bis *Vorlage exportieren*, sind
@@ -45,18 +43,10 @@ haben.
 
 Abb. 18‑3 Notenvorlagen Ansicht
 
-<img src=".\img/image336.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image46.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image45.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image337.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image61.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image10.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image23.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image338.png"
-style="width:6.29921in;height:2.37431in" />
+![](<img/image336.png>)
+
+![](<img/image337.png>)
+![](<img/image338.png>)
 
 Im unteren Bereich befinden sich die von Ihnen verwendeten
 Notenvorlagen. Wenn Sie Neuanwender sind wird in diesem Bereich nur die
@@ -99,8 +89,7 @@ mittels Doppelklick auf die zu bearbeitende Vorlage, öffnen.
 
 Abb. 18‑4 Vorlage mittels Rechtsklick bearbeiten
 
-<img src=".\img/image339.png"
-style="width:4.36404in;height:1.61438in" />
+![](<img/image339.png>)
 
 Sie gelangen danach in den Report Designer und können Ihre Änderungen
 durchführen.
@@ -122,8 +111,7 @@ Wenn Sie eine bestehende Vorlage ändern und unter über *Speichern unter*
 unter demselben Namen abspeichern, erhalten Sie vom Programm einen
 Hinweis mit den Verwendungen der Notenvorlage.
 
-<img src=".\img/image340.png"
-style="width:3.93367in;height:1.70848in" />
+![](<img/image340.png>)
 
 ## Vorlage löschen
 
@@ -142,8 +130,7 @@ Sicherheitsabfrage:
 
 Abb. 18‑5 Sicherheitsabfrage
 
-<img src=".\img/image341.png"
-style="width:3.54122in;height:1.55189in" />
+![](<img/image341.png>)
 
 Sollte die Note nicht in Verwendung sein und Sie klicken auf den Button
 *Löschen*, wird die Vorlage endgültig gelöscht.
@@ -156,8 +143,7 @@ Unternehmensbereich zugeordnet wurde:
 
 Abb. 18‑6 Sicherheitsabfrage bei Unternehmensbereich
 
-<img src=".\img/image342.png"
-style="width:5.08763in;height:1.21134in" />
+![](<img/image342.png>)
 
 Diese Hinweismeldung erscheint, falls die Notenvorlage keinem
 Unternehmensbereich zugeordnet wurde und bei der Notenerstellung
@@ -166,8 +152,7 @@ verwendet wurde.
 
 Abb. 18‑7 Sicherheitsabfrage bei Verwendung
 
-<img src=".\img/image343.png"
-style="width:5.12018in;height:1.44911in" />
+![](<img/image343.png>)
 
 ## Vorlagen umbenennen
 
@@ -177,8 +162,7 @@ Bezeichnung der Note. Sie können dort ganz einfach den Namen ändern.
 
 Abb. 18‑8 Vorlage umbenennen
 
-<img src=".\img/image344.png"
-style="width:3.20793in;height:0.90614in" />
+![](<img/image344.png>)
 
 Weiters besteht noch die Möglichkeit den Namen mittels Schaltfläche im
 Ribbon *Vorlage umbenennen* **(4)** zu ändern.
@@ -199,8 +183,7 @@ gewünschten Unternehmensbereich.
 
 Abb. 18‑9 Zuordnung Unternehmensbereiche
 
-<img src=".\img/image345.png"
-style="width:3.3225in;height:0.95821in" />
+![](<img/image345.png>)
 
 Eine schnellere Variante den Unternehmensbereich zuzuordnen ist, wenn
 Sie direkt bei der Notenvorlage auf *Zuordnung zu Unternehmensbereich/e*
@@ -240,8 +223,7 @@ Dialog auf welchem Sie den Speicherort auswählen können.
 
 Abb. 18‑10 Vorlage mittels Rechsklick exportieren
 
-<img src=".\img/image339.png"
-style="width:4.36404in;height:1.61438in" />
+![](<img/image339.png>)
 
 Hinweis
 
@@ -251,8 +233,7 @@ festgelegt. Sie können jedoch den Dateinamen auch überschreiben.
 
 Abb. 18‑11 Export Vorlage
 
-<img src=".\img/image346.png"
-style="width:3.96825in;height:0.72908in" />
+![](<img/image346.png>)
 
 ## Vorlage importieren
 
@@ -334,8 +315,7 @@ Soll die Funktion *MitNullFüllen* verwendet werden, kann die vorgegebene
 Formel *Note.Notenbezeichnung* nicht verwendet werden. Die Formel für
 die Bezeichnung lautet dann wie folgt:
 
-<img src=".\img/image347.png"
-style="width:6.3in;height:2.07222in" />
+![](<img/image347.png>)
 
 Beispiel der Bezeichnung: Honorarnote 0001/2021
 

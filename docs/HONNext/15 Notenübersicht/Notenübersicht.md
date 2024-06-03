@@ -12,8 +12,7 @@ Notenübersicht* aufgerufen werden.
 
 Abb. 15‑1 Notenübersicht auswählen
 
-<img src=".\img/image306.png"
-style="width:4.65541in;height:1.1393in" />
+![](<img/image306.png>)
 
 Die Notenübersicht ist in nachfolgende Spalten unterteilt:
 
@@ -54,33 +53,26 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
     Status der Note ist. Für die unterschiedlichen Stadien gibt es
     nachfolgende Symbole in der Honorarverrechnung.
 
-    <img src=".\img/image307.png"
-    style="width:0.24997in;height:0.21872in" /> Finalisierte Note
+    ![](<img/image307.png>) Finalisierte Note
 
-    <img src=".\img/image308.png"
-    style="width:0.24803in;height:0.24803in" /> Finalisierte und
+    ![](<img/image308.png>) Finalisierte und
     gedruckte Note
 
-    <img src=".\img/image309.png"
-    style="width:0.22914in;height:0.20831in" /> vorläufige Note
+    ![](<img/image309.png>) vorläufige Note
 
-    <img src=".\img/image310.png"
-    style="width:0.24997in;height:0.20831in" /> Note die gerade in
+    ![](<img/image310.png>) Note die gerade in
     Bearbeitung ist
 
-    <img src=".\img/image311.png"
-    style="width:0.19792in;height:0.23958in" /> Interne Note
+    ![](<img/image311.png>) Interne Note
 
 -   **Beleg:** Falls Sie die Belegverarbeitung verwenden, so wird bei
     finalisierten Noten automatisch ein Ausgangsrechnungsbeleg mit allen
     wichtigen Beleginformationen an die Belegverarbeitung übergeben. Ein
     noch nicht verbuchter Beleg bzw. in der Belegverarbeitung noch nicht
     freigegebener/abgelehnter Beleg wird mit diesem Symbol
-    <img src=".\img/image312.png"
-    style="width:0.26038in;height:0.20831in" /> gekennzeichnet. Wurde
+    ![](<img/image312.png>) gekennzeichnet. Wurde
     ein Beleg in der Belegverarbeitung verbucht so wird dieser mit
-    diesem Symbol <img src=".\img/image313.png"
-    style="width:0.28122in;height:0.21872in" /> dargestellt.
+    diesem Symbol ![](<img/image313.png>) dargestellt.
 
 -   **Duplikat:** Hat eine Note den Status *Finalisiert und gedruckt*
     und wird erneut ausgedruckt, erhalten Sie eine Abfrage, ob die
@@ -91,17 +83,15 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
 -   **Gutschrift:** Die Spalte Gutschrift gibt Auskunft darüber, ob es
     sich um eine gutgeschriebene Note oder um eine Gutschrift handelt.
 
-    <img src=".\img/image314.png"
-    style="width:0.18504in;height:0.2313in" /> gutgeschriebene Note
+    ![](<img/image314.png>) gutgeschriebene Note
 
-    <img src=".\img/image315.png"
-    style="width:0.18504in;height:0.22616in" /> Gutschrift
+    ![](<img/image315.png>) Gutschrift
 
--   Anmerkung vgl. Kapitel 11.4.1, Seite [87](#einstellungen-1)
+-   Anmerkung vgl. Kapitel 11.4.1, Seite [87]
 
--   Zusatztext auf Note vgl. Kapitel 6.2, Seite [57](#honorarnote)
+-   Zusatztext auf Note vgl. Kapitel 6.2, Seite [57]
 
--   Schlussnote vgl. Kapitel 14.7, Seite [133](#schlussnote)
+-   Schlussnote vgl. Kapitel 14.7, Seite [133]
 
 -   **Klassik**: Wenn Sie von HON Klassik auf HON Next umsteigen, können
     Sie mit der Spalte *Klassik* erkennen, welche Noten aus HON Klassik
@@ -119,8 +109,7 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
 
 Abb. 15‑2 Notenübersicht
 
-<img src=".\img/image316.png"
-style="width:6.29921in;height:1.0838in" />
+![](<img/image316.png>)
 
 Tipp
 
@@ -136,8 +125,7 @@ Rechtklick in das *von Feld* können Sie definieren, dass Sie Bsp. immer
 nur die Noten des letzten Monats sehen oder auch immer alle Noten der
 letzten zwei Jahre. Diese Einstellung wird pro Mitarbeiter gespeichert.
 
-<img src=".\img/image317.png"
-style="width:3.14961in;height:1.02334in" />
+![](<img/image317.png>)
 
 ## Duplikat
 
@@ -148,8 +136,7 @@ Duplikat erstellt werden soll.
 
 Abb. 15‑3 Dupikat
 
-<img src=".\img/image318.png"
-style="width:3.85867in;height:1.2001in" />
+![](<img/image318.png>)
 
 Wird die Abfrage mit *Ja* bestätigt, wird die Note mit dem Vermerk
 *Duplikat* ausgegeben. Ebenso wird in der Notenübersicht in der Spalte
@@ -157,8 +144,7 @@ Wird die Abfrage mit *Ja* bestätigt, wird die Note mit dem Vermerk
 
 Abb. 15‑4 Dupikat Vermerk auf Note
 
-<img src=".\img/image319.png"
-style="width:6.3in;height:2.01875in" />
+![](<img/image319.png>)
 
 Wird die Abfrage mit *Nein* bestätigt, wird die Note ohne den Vermerk
 Duplikat gedruckt.
@@ -183,8 +169,7 @@ Auswahl.
 
 Abb. 15‑5 Funktionen
 
-<img src=".\img/image320.png"
-style="width:2.59343in;height:0.86293in" />
+![](<img/image320.png>)
 
 Das Notendatum kann bei nicht finalisierten Noten einfach über den
 Button *Notendatum ändern*, oder über das Kontextmenü mit der rechten
@@ -194,8 +179,7 @@ können. Es können auch mehrere Noten in einem Schritt geändert werden.
 
 Abb. 15‑6 Notendatum ändern
 
-<img src=".\img/image321.png"
-style="width:4.47861in;height:1.24984in" />
+![](<img/image321.png>)
 
 ## Anmerkung ändern
 
@@ -209,8 +193,7 @@ eintragen.
 
 Abb. 15‑7 Anmerkung ändern
 
-<img src=".\img/image322.png"
-style="width:3.60865in;height:2.48355in" />
+![](<img/image322.png>)
 
 ## Note löschen
 
@@ -234,8 +217,7 @@ drucken* auch ausgedruckt werden.
 
 Abb. 15‑8 Note finalisiern
 
-<img src=".\img/image323.png"
-style="width:1.64181in;height:1.18344in" />
+![](<img/image323.png>)
 
 Beim *Note finalisieren* und *Note finalisieren und Drucken* erhalten
 Sie jeweils ein Fenster mit der Möglichkeit das Notendatum im Zuge des
@@ -245,8 +227,7 @@ Sie diese Option nicht, bleibt das bisherige Notendatum erhalten.
 
 Abb. 15‑9 Neues Notendatum beim Finalisieren
 
-<img src=".\img/image324.png"
-style="width:3.93701in;height:1.07936in" />
+![](<img/image324.png>)
 
 Mit der Funktion *erweitertes Finalisieren* öffnet sich ein weiterer
 Dialog, wo die Notennummer und das Notendatum eingegeben werden können,
@@ -254,8 +235,7 @@ bevor man finalisiert.
 
 Abb. 15‑10 erweitertes Finalisieren
 
-<img src=".\img/image325.png"
-style="width:2.63356in;height:1.20844in" />
+![](<img/image325.png>)
 
 Die Funktion *erweitertes Finalisieren* sollte vor allem in Fällen
 angewandt werden, wo die Note zurückgesetzt wurde und nun erneut
@@ -301,8 +281,7 @@ Belegverarbeitung in der Finanzbuchhaltung verbucht wurde.
 
 Abb. 15‑11 weitere Funktionen
 
-<img src=".\img/image326.png"
-style="width:5.85884in;height:1.19177in" />
+![](<img/image326.png>)
 
 *Note auf „Finalisiert und gedruckt“ zurücksetzten*
 
@@ -324,8 +303,7 @@ Hinweismeldung.
 
 Abb. 15‑12 Hinweismeldung
 
-<img src=".\img/image327.png"
-style="width:5.99219in;height:1.33345in" />
+![](<img/image327.png>)
 
 Wenn Sie diese Meldung mit *Zurücksetzten* bestätigen, so wird der
 verknüpfte Beleg aus der Belegverarbeitung gelöscht und die Note wieder
@@ -382,8 +360,7 @@ innerhalb einer Note dar.
 
 Abb. 15‑13 Notenjournal
 
-<img src=".\img/image328.png"
-style="width:6.29921in;height:1.25072in" />
+![](<img/image328.png>)
 
 Hinweis
 
@@ -414,8 +391,7 @@ ausgedruckt werden.
 
 Abb. 15‑14 Tätigkeitsnachweis
 
-<img src=".\img/image329.png"
-style="width:6.10236in;height:4.24303in" />
+![](<img/image329.png>)
 
 Tipp
 
@@ -442,10 +418,7 @@ Notenübersicht geöffnet werden.
 
 Abb. 15‑15 Notendetails
 
-<img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image330.png"
-style="width:6.01104in;height:4.33071in" />
+![](<img/image330.png>)
 
 ## Druckvorschau anzeigen
 

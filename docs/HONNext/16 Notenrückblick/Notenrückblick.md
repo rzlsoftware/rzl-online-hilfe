@@ -28,8 +28,7 @@ erstellen, im Rückblick angezeigt.
 
 Abb. 16‑1 Notenrückblick
 
-<img src=".\img/image331.png"
-style="width:6.29921in;height:3.60333in" />
+![](<img/image331.png>)
 
 Im oberen Bereich des Notenrückblicks befindet sich eine Auflistung
 aller bereits abgerechneten Noten mit Rechnungsnummer, Notendatum,

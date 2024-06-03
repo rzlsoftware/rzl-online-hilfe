@@ -27,11 +27,7 @@ Anzahlung **(1)** oder die Schaltfläche rechts unten **(2).**
 
 Abb. 13‑1 Akonto/Anzahlung anlegen
 
-<img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image107.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image248.png"
-style="width:6.29921in;height:1.91434in" />
+![](<img/image248.png>)
 
 Eine Akonto-/ Anzahlung besteht aus den folgenden Feldern:
 
@@ -58,8 +54,7 @@ Klient Klient, der die Akonto-/ Anzahlung leistet
 
 Abb. 13‑2 Akonto-/Anzahlungszeile
 
-<img src=".\img/image249.png"
-style="width:6.29921in;height:0.69522in" />
+![](<img/image249.png>)
 
 Durch klicken auf die Schaltfläche *Speichern*, wird die Akonto-/
 Anzahlung gespeichert.
@@ -77,8 +72,7 @@ muss noch über die Schaltfläche *Speichern* gespeichert werden.
 
 Abb. 13‑3 Akonto-/Anzahlung duplizieren
 
-<img src=".\img/image250.png"
-style="width:2.01017in;height:0.80198in" />
+![](<img/image250.png>)
 
 ## Wiederkehrende Akonten
 
@@ -96,8 +90,7 @@ Ersichtlich über folgendes Symbol in der unteren rechten Ecke:
 
 Abb. 13‑4 Aktiver RZL Dienst
 
-<img src=".\img/image251.png"
-style="width:0.86614in;height:0.22843in" />
+![](<img/image251.png>)
 
 ### Neue wiederkehrende Akontozeile
 
@@ -106,9 +99,7 @@ Eine neue wiederkehrende Akontozeile kann über den Butten im Ribbon
 
 Abb. 13‑5 Neue wiederkehrende Akontozeile
 
-<img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image252.png"
-style="width:2.75591in;height:0.7874in" />
+![](<img/image252.png>)
 
 **Daten der Akontozeile**
 
@@ -144,9 +135,7 @@ bestehende wiederkehrende Akontozeile zum Bearbeiten.
 
 Abb. 13‑6 wiederkehrende Akontozeile
 
-<img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image253.png"
-style="width:6.29921in;height:2.32341in" />
+![](<img/image253.png>)
 
 Mit der Schaltfläche *Zuordnung Bearbeiten* (**2**) können die
 Wiederkehrenden Akonten den Klienten zugeordnet werden. Es werden alle
@@ -155,8 +144,7 @@ Klienten aufgelistet und durch setzten des Häkchens und der Schaltfläche
 
 Abb. 13‑7 wiederkehrende Akontozeile den Klienten zuordnen
 
-<img src=".\img/image254.png"
-style="width:6.29921in;height:2.50848in" />
+![](<img/image254.png>)
 
 Nachdem die Daten der wiederkehrenden Akontozeile eingegeben und
 gespeichert wurden, können über die Schaltfläche *Akonten generieren*
@@ -167,8 +155,7 @@ ersichtlich.
 
 Abb. 13‑8 Akonten generieren
 
-<img src=".\img/image255.png"
-style="width:0.70866in;height:0.81769in" />
+![](<img/image255.png>)
 
 > **Hinweis**
 >
@@ -178,8 +165,7 @@ style="width:0.70866in;height:0.81769in" />
 
 Abb. 13‑9 Akonten generieren
 
-<img src=".\img/image256.png"
-style="width:6.05587in;height:3.29878in" />
+![](<img/image256.png>)
 
 Hinweis
 
@@ -194,8 +180,7 @@ Akonto löschen.*
 
 Abb. 13‑10 wiederkehrendes Akonto löschen
 
-<img src=".\img/image257.png"
-style="width:0.8189in;height:0.6503in" />
+![](<img/image257.png>)
 
 Hinweis
 
@@ -219,9 +204,7 @@ Verrechnungsgruppe eine separate Akontozeile **(1).**
 
 Abb. 13‑11 Note mit Akonto
 
-<img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image258.png"
-style="width:6.29921in;height:2.96838in" />
+![](<img/image258.png>)
 
 Hinweis
 
@@ -237,16 +220,14 @@ verbucht.
 
 Abb. 13‑12 Beleg mit Akonto
 
-<img src=".\img/image259.png"
-style="width:6.29921in;height:2.58995in" />
+![](<img/image259.png>)
 
 Die Akontozahlung wird am Notenjournal unter der eigenen Rubrik
 *Akontozahlungen* ausgewiesen.
 
 Abb. 13‑13 Notenjournal mit Akonto
 
-<img src=".\img/image260.png"
-style="width:6.29921in;height:0.78462in" />
+![](<img/image260.png>)
 
 ### Notenerstellung und Belegverarbeitung mit Anzahlungen
 
@@ -261,9 +242,7 @@ aller Anzahlungen wird summiert.
 
 Abb. 13‑14 Note mit Anzahlungen
 
-<img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image261.png"
-style="width:6.3in;height:3.11736in" />
+![](<img/image261.png>)
 
 Hinweis
 
@@ -279,13 +258,11 @@ verbucht.
 
 Abb. 13‑15 Beleg mit Anzahlungen
 
-<img src=".\img/image262.png"
-style="width:6.3in;height:2.72361in" />
+![](<img/image262.png>)
 
 Die Anzahlung wird am Notenjournal unter der eigenen Rubrik
 *Anzahlungen* ausgewiesen.
 
 Abb. 13‑16 Notenjournal mit Anzahlungen
 
-<img src=".\img/image263.png"
-style="width:6.3in;height:0.85in" />
+![](<img/image263.png>)
