@@ -5,18 +5,16 @@
 Durch die Anwahl des Menüpunktes HON (1) gelangen Sie in die
 Honorarverrechnung.
 
-Abb. 1‑1 Öffnen der Honorarverrechnung
+![](<img/image2.png>)
 
-<img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image3.png"
-style="width:6.29921in;height:4.42647in" />
+![](<img/image3.png>)
 
-Hinweis
 
-Nach der Übernahme der Daten von HON Klassik zu HON Next werden die
-Shortcuts zur HON Klassik und zur Leistungserfassung Klassik aus der
-Schnellstartleiste im RZL Board entfernt.
+
+!!! warning "Hinweis"
+    Nach der Übernahme der Daten von HON Klassik zu HON Next werden die
+    Shortcuts zur HON Klassik und zur Leistungserfassung Klassik aus der
+    Schnellstartleiste im RZL Board entfernt.
 
 Die HON Klassik kann jederzeit über die Windowssuche oder über die HON
 Next über den Menüpunkt *Auswertungen* geöffnet werden.
@@ -26,8 +24,9 @@ pro Mitarbeiter über die Leistungserfassung Next geöffet werden.
 
 ## Ansichten
 
-<img src=".\img/image4.png"
-style="width:0.16458in;height:0.16458in" />In der Honorarverrechnung ist
+![](<img/image4.png>)
+
+In der Honorarverrechnung ist
 es möglich mehrere Ansichten gleichzeitig geöffnet zu haben. Die
 einzelnen Ansichten sind über Tab-Reiter erreichbar. So können z.B. die
 Notenerstellung und der Notenrückblick gleichzeitig geöffnet sein.
@@ -35,12 +34,11 @@ Notenerstellung und der Notenrückblick gleichzeitig geöffnet sein.
 Über das linke Icon (2) können Sie ein Fenster aus dem Board ausdocken
 und anschließend wieder ins RZL Board eindocken.
 
-Abb. 1‑2 Wechseln von Ansichten
 
-<img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image6.png"
-style="width:5.86141in;height:4.34745in" />
+
+![](<img/image5.png>)
+
+![](<img/image6.png>)
 
 Weitere Informationen zur Allgemeinen Bedienung, wie zum Beispiel zu den
 Listenfunktionen, oder zum Listen filtern etc. finden Sie im Handbuch
@@ -52,10 +50,9 @@ Generationen sind immer ab einem bestimmten Datum gültig. D.h. die
 Einstellungen die vor diesem Datum gespeichert sind, sind dann bis zum
 Zeitpunkt der neuen Generation gültig.
 
-Hinweis
-
-Optionen die mit einem türkisen G gekennzeichnet sind, sind
-generationsübergreifende Optionen.
+!!! warning "Hinweis"
+    Optionen die mit einem türkisen G gekennzeichnet sind, sind
+    generationsübergreifende Optionen.
 
 Im Honorarverrechnungsprogramm gibt es des Öfteren die Möglichkeit
 Generationen anzulegen. Die Anlage einer Generation ist bei allen
@@ -63,12 +60,9 @@ Menüpunkten dieselbe Vorgehensweise.
 
 Beispiel: Sie möchten eine neue Generation für eine Tätigkeit anlegen.
 
-Abb. 1‑3 neue Generation anlegen
 
-<img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image2.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image7.png"
-style="width:6.29921in;height:1.81423in" />
+
+![](<img/image5.png>)
 
 Sie klicken immer auf den Button *Generation* **(1)**. Danach wird Ihnen
 der Zeitstreifen der Generation eingeblendet und Sie können eine neue
@@ -79,10 +73,9 @@ soll, eingetragen werden kann. Wenn Sie auf „*Anlegen*“ klicken, wird
 die Generation angelegt, mit Klick auf „*Abbrechen*“ werden die
 Änderungen verworfen.
 
-Abb. 1‑4 neue Generation anlegen
 
-<img src=".\img/image8.png"
-style="width:3.37458in;height:1.61438in" />
+
+![](<img/image8.png>)
 
 Ihnen wird nun die soeben neu angelegte Generation im Detailbereich (1)
 der Tätigkeit angezeigt. Nun können Sie die Einstellungen für die
@@ -90,14 +83,13 @@ Tätigkeit ab der neuen Generation setzen und speichern. Die neue
 Generation ist mit einem ab Datum (2) gekennzeichnet. Dieses Datum
 finden Sie auch im linken Bereich (3).
 
-<img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" />Abb. 1‑5 neue Generation
-anlegen - Tätigkeitsbereich
+![](<img/image9.png>)
 
-<img src=".\img/image10.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image5.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image11.png"
-style="width:6.29921in;height:1.9895in" />
+![](<img/image10.png>)
+
+![](<img/image5.png>)
+
+![](<img/image11.png>)
 
 ## Berechtigungssystem
 
@@ -117,7 +109,7 @@ Next:
     Darin beinhaltet sind unter anderem die Notenerstellung, Zentrale
     Leistungserfassung, Auswertungen und die
     honorarverrechnungsbezogenen Stammdaten und Einstellungen (=vorher
-    Haken beim Mitarbeiter -&gt; darf HON Modul benutzen).
+    Haken beim Mitarbeiter - darf HON Modul benutzen).
 
 Folgende RZL Rollen gibt es im **Berechtigungssystem Premium** für HON
 Next:
@@ -150,12 +142,11 @@ Next:
     Diese Rolle ermöglicht den Zugriff auf die LE Next und in weiterer
     Folge das Erfassen von Leistungen.
 
-HINWEIS
-
-Die Rolle Standardbenutzer, die initial jeder hat, hat im
-Berechtigungssystem Basis das Feature Leistungserfassung dabei. Über die
-zusätzliche Rolle im Berechtigungssystem Premium kann man z.B. jemanden
-spezifisch den Zugang in das Leistungserfassung Modul verwehren.
+!!! warning "Hinweis"
+    Die Rolle Standardbenutzer, die initial jeder hat, hat im
+    Berechtigungssystem Basis das Feature Leistungserfassung dabei. Über die
+    zusätzliche Rolle im Berechtigungssystem Premium kann man z.B. jemanden
+    spezifisch den Zugang in das Leistungserfassung Modul verwehren.
 
 Mit dem **Berechtigungssystem Premium** haben Sie auch die Möglichkeit
 selbst Rollen zu erstellen und diese nach Ihren Vorstellungen zu
@@ -206,14 +197,13 @@ Verfügung:
     Persönliche Arbeitszeitkalender und Urlaubskartei einsehen.
     Einstellungen für die eigene Leistungserfassung festlegen.
 
-Hinweis
-
-Beachten Sie, dass gewissen Optionen nur in Verbindung mit einer anderen
-Berechtigung möglich sind. Bei jeder Berechtigung finden Sie einen
-Tooltipp, was diese macht und welche etwaigen anderen Rechte benötigt
-werden.
+!!! warning "Hinweis"
+    Beachten Sie, dass gewissen Optionen nur in Verbindung mit einer anderen
+    Berechtigung möglich sind. Bei jeder Berechtigung finden Sie einen
+    Tooltipp, was diese macht und welche etwaigen anderen Rechte benötigt
+    werden.
 
 Bsp. Tooltipp HON Mitarbeiter verwalten
 
-<img src=".\img/image12.png"
-style="width:4.72441in;height:1.24579in" />
+
+![](<img/image12.png>)
