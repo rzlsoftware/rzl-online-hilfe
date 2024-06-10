@@ -12,7 +12,6 @@ aufrufen.
 Sie eine Mitarbeiterübersicht, die sich in einem eigenen Tab öffnet und
 die Sie zeitlich eingrenzen können.
 
-Abb. 9‑1 Mitarbeiterübersicht
 
 ![](<img/image136.png>)
 
@@ -30,10 +29,10 @@ Mehrere Mitarbeiter können Sie mit der *STRG-Taste* und dem Mauscursor
 markieren. Mit der Tastenkombination *STRG+A* werden Ihnen alle
 Mitarbeiter markiert.
 
-Tipp
 
-In der Mitarbeiterübersicht besteht die Möglichkeit sich Layouts zu
-definieren Kapitel 19.13, Seite 180 (speicherbare-layouts).
+!!! info "Tipp"
+    In der Mitarbeiterübersicht besteht die Möglichkeit sich Layouts zu
+    definieren Kapitel 19.13, Seite 180 (speicherbare-layouts).
 
 Ebenso wird Ihnen in der Mitarbeiterübersicht eine Übersicht über den
 Status der Erfassung der einzelnen Mitarbeiter geboten. Ihnen wird über
@@ -47,10 +46,10 @@ verändern.
 Sie können über den Eintrag *Details* für einzelne Mitarbeiter die
 Sperre abweichend eintragen/ändern.
 
-Tipp
 
-Über den Ribbon Eintrag *Zu den Mitarbeiterstammdaten* gelange Sie
-direkt in die Stammdaten des ausgewählten Mitarbeiters im Board.
+!!! info "Tipp"
+    Über den Ribbon Eintrag *Zu den Mitarbeiterstammdaten* gelange Sie
+    direkt in die Stammdaten des ausgewählten Mitarbeiters im Board.
 
 ## Arbeitszeitkalender
 
@@ -59,11 +58,10 @@ mehrere Mitarbeiter geöffnet werden. Falls Sie mehrere Mitarbeiter
 öffnen wird die Ansicht des Arbeitszeitkalenders pro Mitarbeiter
 gruppiert.
 
-Abb. 9‑2 Arbeitszeitkalender öffnen
 
 ![](<img/image137.png>)
 
-Abb. 9‑3 Arbeitszeitkalender Monatsübersicht
+
 
 ![](<img/image138.png>)
 
@@ -85,14 +83,14 @@ Arbeitszeitgesetz wurde möglicherweise nicht eingehalten.
 
 **Überschreitung der maximalen Tagesarbeitszeit:**
 
-> Die tägliche Arbeitszeit darf zwölf Stunden nicht überschreiten. (vgl.
-> §9 Abs. 1 AZG).
+Die tägliche Arbeitszeit darf zwölf Stunden nicht überschreiten. (vgl.
+§9 Abs. 1 AZG).
 
 **Nicht Einhaltung der Ruhezeiten:**
 
-> Nach sechs Stunden muss in Summe mindestens eine Pause von 30 Minuten
-> eingehalten werden, wobei Pausen unter zehn Minuten ignoriert werden  
-> (vgl. §11 Abs. 1 AZG).
+Nach sechs Stunden muss in Summe mindestens eine Pause von 30 Minuten
+eingehalten werden, wobei Pausen unter zehn Minuten ignoriert werden  
+(vgl. §11 Abs. 1 AZG).
 
 Darüberhinausgehende Regelungen wie die Behandlung von Reisezeiten usw.
 werden derzeit nicht berücksichtigt.
@@ -178,14 +176,12 @@ Wenn Sie sich zusätzlich die Spalte *Freigabe* einblenden, sehen Sie
 welche Tage bereits vom Mitarbeiter Freigegeben, teilweise Freigegeben
 oder noch nicht Freigegeben wurden.
 
-Tipp
+!!! info "Tipp"
+    Mit Rechtsklick in die Überschriftenspalte können Sie sich noch
+    zusätzlich unter anderem die Spalten *Urlaub, Krankenstand und Feiertag*
+    einblenden. In der Wochen-, Monats- und Jahresansicht werden die in
+    Summe erfassten Stunden dargestellt.
 
-Mit Rechtsklick in die Überschriftenspalte können Sie sich noch
-zusätzlich unter anderem die Spalten *Urlaub, Krankenstand und Feiertag*
-einblenden. In der Wochen-, Monats- und Jahresansicht werden die in
-Summe erfassten Stunden dargestellt.
-
-Abb. 9‑4 Arbeitszeitkalender Menüpunkte
 
 ![](<img/image142.png>)
 
@@ -209,8 +205,6 @@ Kontextmenü können Sie die Leistungen des gewählten Mitarbeiters
 anzeigen lassen. Es öffnet sich ein eigener Tab mit der
 Leistungsübersicht.
 
-Abb. 9‑5 Leistungen anzeigen – Kontextmenü
-
 ![](<img/image143.png>)
 
 In der Leistungsübersicht werden Ihnen alle Leistungen für den gewählten
@@ -219,7 +213,6 @@ Spaltenüberschriften in den Bereich **(1)** ziehen, um nach dieser
 Spalte zu gruppieren. Somit wird Ihnen ermöglicht die Leistungsübersicht
 nach gewissen Kriterien zu gruppieren.
 
-Abb. 9‑6 Leistungsübersicht
 
 ![](<img/image144.png>)
 
@@ -228,8 +221,6 @@ denen gruppiert werden sollte, wurden in den oberen Bereich gezogen. Sie
 können bei der Gruppierung mehrere Unterebenen bilden. In unserem
 Beispiel wurde nach der Tätigkeit gruppiert und nach der Unterebene
 Klient.
-
-Abb. 9‑7 Leistungsübersicht - gruppieren
 
 ![](<img/image145.png>)
 
@@ -246,7 +237,6 @@ Mitarbeiters bearbeitet werden. In der Erfassung haben Sie mittels der
 Pfeilsymbole *Vorheriger Tag/Nächster Tag* die Möglichkeit weitere Tage
 zu bearbeiten.
 
-Abb. 9‑8 Button Tag bearbeiten
 
 ![](<img/image147.png>)
 
@@ -262,11 +252,10 @@ und Letzter Bearbeiter LE einblenden lassen. Auch der Mitarbeiter hat in
 seiner Leistungserfassung die Möglichkeit sich diese Spalten
 einzublenden.
 
-Tipp
-
-In der Leistungsübersicht 8.2, Seite 68 (leistungsübersicht) stehen
-Ihnen die Spalten Änderungszeitpunkt und letzter Bearbeiter zur
-Verfügung.
+!!! info "Tipp"
+    In der Leistungsübersicht 8.2, Seite 68 (leistungsübersicht) stehen
+    Ihnen die Spalten Änderungszeitpunkt und letzter Bearbeiter zur
+    Verfügung.
 
 Es wird immer nur der letzte Änderungszeitpunk und der letzte Bearbeiter
 gespeichert – eine Historie bzgl. der durchgeführten Änderung wird nicht
@@ -276,14 +265,12 @@ Grundsätzlich ist der letzte Bearbeiter anfangs immer der Mitarbeiter,
 da sobald dieser seine Leistungen in der Leistungserfassung erfasst,
 dies als Änderung gilt.
 
-Abb. 9‑9 Änderungszeitpunkt/letzter Bearbeiter AZ-Kalender
 
 ![](<img/image148.png>)
 
-Hinweis
-
-Die Änderungsdaten werden erst für Erfassungszeilen ab der
-Programmversion 2.22.3 mitgeführt.
+!!! warning "Hinweis"
+    Die Änderungsdaten werden erst für Erfassungszeilen ab der
+    Programmversion 2.22.3 mitgeführt.
 
 ## Import Arbeitszeiten und Leistungen
 
@@ -291,19 +278,16 @@ In der Honorarverrechnung besteht über *Leistungserfassung /
 Mitarbeiterübersicht* die Möglichkeit die Leistungen und Arbeitszeiten
 der Mitarbeiter zu importieren.
 
-Hinweis
+!!! warning "Hinweis"
+    Der Import muss pro Mitarbeiter einzeln erfolgen.
 
-Der Import muss pro Mitarbeiter einzeln erfolgen.
-
-Hinweis
-
-Über *Datenübernahme / Datenimport* ist ein zentraler Datenimport für
-alle Mitarbeiter gesammelt möglich (vgl. Kapitel 20.2, Seite
-[185](#datenimport-leistungen-und-arbeitszeiten)).
+!!! warning "Hinweis"
+    Über *Datenübernahme / Datenimport* ist ein zentraler Datenimport für
+    alle Mitarbeiter gesammelt möglich (vgl. Kapitel 20.2, Seite
+    [185](#datenimport-leistungen-und-arbeitszeiten)).
 
 Wählen Sie hierfür den Mitarbeiter aus und wählen *Datenimport*.
 
-Abb. 9‑10 Button Datenimport
 
 ![](<img/image149.png>)
 
@@ -327,17 +311,14 @@ wenn Bsp. der Projektzeitraum im falschen Format ist und daher nicht
 nicht durchgeführt werden. Die Importdatei muss dementsprechend
 angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
 
-Abb. 9‑11 Datenimport Leistungen
 
-![](<img/image152.png>)
 ![](<img/image153.png>)
 
-Hinweis
-
-Mit der Option *Importdatei nach Übernahme löschen*, wird die
-Importdatei nach erfolgreichem Import im hinterlegten Ordner gelöscht.
-Diese Einstellung wird auch in der Leistungserfassung vom Mitarbeiter
-gespeichert.
+!!! warning "Hinweis"
+    Mit der Option *Importdatei nach Übernahme löschen*, wird die
+    Importdatei nach erfolgreichem Import im hinterlegten Ordner gelöscht.
+    Diese Einstellung wird auch in der Leistungserfassung vom Mitarbeiter
+    gespeichert.
 
 Über die Schaltfläche *Protokolle* können Sie sich die Importprotokolle
 aller durchgeführten Importe von Leistungen und Arbeitszeiten pro
@@ -352,7 +333,7 @@ und Arbeitszeiten*.
 Über den Button *Urlaubskartei* kann die Urlaubskartei aufgerufen
 werden, um den Urlaubssaldo nachvollziehen zu können.
 
-Abb. 9‑12 Button Urlaubskartei
+
 
 ![](<img/image154.png>)
 
@@ -365,7 +346,6 @@ des Urlaubsjahres, Anspruchszeilen und Verbrauchszeilen.
 Die Urlaubskartei kann im oberen Bereich auf Zeiträume eingeschränkt
 werden.
 
-Abb. 9‑13 Urlaubskartei einschränken
 
 ![](<img/image155.png>)
 
@@ -376,7 +356,6 @@ Wurden mehrere Tage als Urlaub in der Leistungserfassung erfasst, so
 werden diese in Summe dargestellt. Die genaue Darstellung können Sie
 nachfolgender Abbildung entnehmen.
 
-Abb. 9‑14 Urlaubskartei
 
 ![](<img/image156.png>)
 
@@ -385,7 +364,6 @@ Abb. 9‑14 Urlaubskartei
 Neue Urlaubseinträge können Sie über den Button *Neuer Urlaubseintrag*
 im Menü oder im rechten unteren Bereich der Urlaubskartei generieren.
 
-Abb. 9‑15 Neuer Urlaubseintrag
 
 ![](<img/image157.png>)
 
@@ -393,7 +371,6 @@ Wird obiger Button ausgewählt, erhalten Sie im unteren Bereich der
 Urlaubskartei die Möglichkeit einen neuen Urlaubseintrag tätigen zu
 können.
 
-Abb. 9‑16 neuer Urlaubseintrag
 
 ![](<img/image158.png>)
 
@@ -407,7 +384,6 @@ Wird auf *Speichern* geklickt, werden Ihre Eingaben gespeichert.
 Mit dem Button *Urlaubseintrag löschen* können Sie Anspruchszeilen, wenn
 diese fehlerhaft sind, löschen.
 
-Abb. 9‑17 Urlaubseintrag löschen
 
 ![](<img/image159.png>)
 
@@ -421,7 +397,6 @@ Urlaubsjahr befindet, wenn dieses Urlaubsjahr ein ganzes Jahr umfasst,
 wenn das Urlaubsjahr dem Arbeitsjahr entspricht und wenn in diesem
 Urlaubsjahr noch keine Anfangsbestände oder Ansprüche vorhanden sind.
 
-Abb. 9‑18 Urlaubsanspruch generieren
 
 ![](<img/image160.png>)
 
@@ -433,10 +408,9 @@ Urlaubsgesetz).
 Der Urlaubsanspruch erhöht sich laufend (täglich) linear. Es wird immer
 eine Urlaubsanspruchszeile generiert, wenn ein Urlaubstag hinzukommt.
 Dabei werden die Stunden auf 2 Nachkommastellen gerundet. Zu Beginn der
-2. Hälfte des Arbeitsjahres wird dann eine Zeile mit dem Rest auf den
+1. Hälfte des Arbeitsjahres wird dann eine Zeile mit dem Rest auf den
 Jahresanspruch generiert.
 
-Abb. 9‑19 Beispielhafte Darstellung
 
 ![](<img/image161.png>)
 
@@ -512,18 +486,16 @@ Umrechnung Saldo Stunden in Saldo Tage mit 01.01.24:
 Saldo in Stunden 178,75 h / 38,5 h pro Woche \* 5 AT pro Woche = 23,21
 Tage Anspruch Urlaub
 
-HINWEIS
+!!! warning "Hinweis"
+    Bei einer Umstellung der Urlaubsverwaltung wird dies in der
+    Urlaubskartei der Mitarbeiter gesondert ausgewiesen. Die aktuell
+    eingestellte Art der Erfassung (Stunden oder Tage) wird in schwarzer
+    Schriftfarbe dargestellt.
 
-Bei einer Umstellung der Urlaubsverwaltung wird dies in der
-Urlaubskartei der Mitarbeiter gesondert ausgewiesen. Die aktuell
-eingestellte Art der Erfassung (Stunden oder Tage) wird in schwarzer
-Schriftfarbe dargestellt.
-
-HINWEIS
-
-Die Spalten *Stunden* und *Saldo Stunden bzw. Tage* und *Saldo Tage*
-können durch Rechtsklick auf die Überschriftenspalte jederzeit ein- und
-ausgeblendet werden.
+!!! warning "Hinweis"
+    Die Spalten *Stunden* und *Saldo Stunden bzw. Tage* und *Saldo Tage*
+    können durch Rechtsklick auf die Überschriftenspalte jederzeit ein- und
+    ausgeblendet werden.
 
 ### Korrektur Urlaubsanspruch beim Wechsel des Arbeitszeitmodelles
 
@@ -545,7 +517,6 @@ Arbeitstage
 
 Vorschlag RZL:
 
-Abb. 9‑20 Korrektur Urlaubsanspruch – Vorschlag RZL
 
 ![](<img/image164.png>)
 
@@ -563,12 +534,11 @@ In Tagen:
 Woche \* Urlaubsanspruch alt in Wochen) \* (neue Arbeitstage pro Woche
 \* Urlaubsanspruch neu in Wochen) + Resturlaub aus vergangenen Jahren.*
 
-Hinweis
-
-Die **wertneutrale** Neuberechnung des Urlaubssaldos ist ein Vorschlag
-von RZL. Nutzen Sie eine anderen Bewertungsmethode für die
-Neuberechnung, kann dies direkt in der Urlaubskartei der Mitarbeiter
-angepasst werden. Der Vorschlag muss nicht übernommen werden.
+!!! warning "Hinweis"
+    Die **wertneutrale** Neuberechnung des Urlaubssaldos ist ein Vorschlag
+    von RZL. Nutzen Sie eine anderen Bewertungsmethode für die
+    Neuberechnung, kann dies direkt in der Urlaubskartei der Mitarbeiter
+    angepasst werden. Der Vorschlag muss nicht übernommen werden.
 
 Mit der Schaltfläche *Übernehmen*, wird der korrigierte Urlaubssaldo in
 die Urlaubskartei übernommen. In der Urlaubskartei wird eine neue
@@ -579,16 +549,14 @@ Bearbeitet und oder gelöscht werden.
 Der Mitarbeiter selbst kann in der Leistungserfassung keine Änderungen
 an der Kartei vornehmen oder die Neuberechnung aufrufen.
 
-Abb. 9‑21 Urlaubskartei nach Korrektur Urlaubsanspruch
 
 ![](<img/image165.png>)
 
-Hinweis
-
-Über den Button *Urlaubsberechnung anzeigen* kann der Dialog, welcher
-bei der Umstellung des Arbeitszeitmodelles angezeigt wird, jederzeit im
-Nachhinein erneut aufgerufen werden, um den Vorschlag von RZL
-nachvollziehen zu können – auch wenn der Vorschlag überschrieben wurde.
+!!! warning "Hinweis"
+    Über den Button *Urlaubsberechnung anzeigen* kann der Dialog, welcher
+    bei der Umstellung des Arbeitszeitmodelles angezeigt wird, jederzeit im
+    Nachhinein erneut aufgerufen werden, um den Vorschlag von RZL
+    nachvollziehen zu können – auch wenn der Vorschlag überschrieben wurde.
 
 Mit der Schaltfläche *Nicht Übernehmen* wird der Vorschlag von RZL nicht
 in die Urlaubskartei übernommen. Die Änderung des Arbeitszeitmodelles
@@ -600,7 +568,6 @@ Ist ein Vorschlag von RZL nicht möglich, erhalten Sie folgende Meldung
 (Bsp. wenn kein AZ-Modell zugewiesen war oder ein AZ-Modell mit Null
 Stunden). Der Anspruch muss selbstständig angepasst werden.
 
-Abb. 9‑22 Urlaubskartei nach Korrektur Urlaubsanspruch
 
 ![](<img/image166.png>)
 
@@ -621,7 +588,6 @@ Mit 01.11.23 wechselt er sein Arbeitszeitmodell auf 20 h und 4
 Arbeitstage  
 Anfangsstand zum 01.07.2023 – 205 h eingetragen in der Urlaubskartei
 
-Abb. 9‑23 Korrektur Urlaubsanspruch – Vorschlag RZL
 
 ![](<img/image168.png>)
 
@@ -630,7 +596,6 @@ Arbeitszeitmodelles berechnet (38,5 h \* 5 Wochen = 192,5 h). Und der
 *Resturlaub aus dem vergangenen Jahr* aufgrund der Differenz zwischen
 Anfangsstand und Resturlaub aus diesem Urlaubsjahr (205 h – 192,5 h).
 
-Abb. 9‑24 Urlaubskartei nach Korrektur Urlaubsanspruch
 
 ![](<img/image169.png>)
 
@@ -638,11 +603,10 @@ Ist der Anfangsstand kleiner als der Urlaubsanspruch aufgrund des
 aktuellen Arbeitszeitmodelles, wird der Anfangsstand als *Resturlaub aus
 diesem Urlaubsjahr* gewertet.
 
-Hinweis
-
-Wird die Korrektur des Urlaubsanspruches übernommen und wird im
-Nachhinein vom Mitarbeiter ein Urlaub eingetragen für Zeiträume VOR der
-Korrektur – wird die Korrektur nicht erneut angepasst.
+!!! warning "Hinweis"
+    Wird die Korrektur des Urlaubsanspruches übernommen und wird im
+    Nachhinein vom Mitarbeiter ein Urlaub eingetragen für Zeiträume VOR der
+    Korrektur – wird die Korrektur nicht erneut angepasst.
 
 **Beispiele für Korrekturen des Urlaubsanspruches (5 Wochen
 Urlaubsanspruch):**

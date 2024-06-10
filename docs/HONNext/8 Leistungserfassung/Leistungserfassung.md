@@ -10,7 +10,6 @@ Sie können für Ihre Mitarbeiter Leistungen nach erfassen, löschen bzw.
 Leistungen korrigieren. Dies alles ermöglicht der Punkt *Leistungen
 erfassen* **(1)** im Ribbon *Leistungserfassung*.
 
-Abb. 8‑1 Leistungen erfassen
 
 ![](<img/image126.png>)
 
@@ -21,7 +20,6 @@ sind. Nicht freigegebene Leistungen sind im HON Modul nicht sichtbar.
 Das jeweils aktuelle Jahr ist hellblau markiert **(3).** Sie können die
 Jahre einfach wechseln indem Sie auf das gewünschte Jahr klicken.
 
-Abb. 8‑2 Leistungen
 
 ![](<img/image127.png>)
 
@@ -68,18 +66,16 @@ Die Leistungsübersicht enthält nachfolgende Spalten **(4):**
     bedeutet dies, dass die
     Leistung bereits verrechnet wurde.
 
-Hinweis
+!!! warning "Hinweis"
+    Änderungen der Leistungen Ihrer Mitarbeiter sind nur so lange möglich,
+    bis die Leistung verrechnet wurde.
 
-Änderungen der Leistungen Ihrer Mitarbeiter sind nur so lange möglich,
-bis die Leistung verrechnet wurde.
-
-Hinweis
-
-Ändern Sie Leistungen, welche aus HON Klassik übernommen wurden und
-ändert sich aufgrund dessen die Wertberechnung der Zeile, erhalten Sie
-einen Hinweis, dass sich durch diese Änderung die Wertberechnung bzw.
-der Wert verändert sowie eine Gegenüberstellung des alten und neuen
-Wertes.
+!!! warning "Hinweis"
+    Ändern Sie Leistungen, welche aus HON Klassik übernommen wurden und
+    ändert sich aufgrund dessen die Wertberechnung der Zeile, erhalten Sie
+    einen Hinweis, dass sich durch diese Änderung die Wertberechnung bzw.
+    der Wert verändert sowie eine Gegenüberstellung des alten und neuen
+    Wertes.
 
 ### Eingabedialog – Neue Leistung erfassen
 
@@ -87,7 +83,6 @@ Mittels Mausklick auf die Schaltfläche „*Neue Leistung*“ im Ribbon oder
 im rechten unteren Bereich wird Ihnen die Möglichkeit geboten eine
 Leistung zu erfassen.
 
-Abb. 8‑3 Neue Leistung erfassen
 
 ![](<img/image129.png>)
 
@@ -95,7 +90,7 @@ Es öffnet sich im unteren Bereich eine Eingabemaske in der Sie die
 Leistung eintragen können. Mittels der *Tabulator-Taste* oder der
 Enter-Taste am Ziffernblock können Sie in das nächste Feld springen.
 
-Abb. 8‑4 Eingabedialog
+
 
 ![](<img/image130.png>)
 
@@ -119,12 +114,11 @@ Im Feld *Dauer* ist eine Eingabe notwendig, wenn Beginn und Ende nicht
 eingetragen wurden. Wird Beginn und Ende eingetragen, wird das Feld
 Dauer automatisch befüllt.
 
-Hinweis
-
-Die Eingaben in der Leistungserfassung werden automatisch gespeichert.
-Es existiert kein *Speichern* Button in dieser Ansicht. Beim Verlassen
-des Textfeldes in der Leistungserfassung wird die Leistung bestätigt und
-gespeichert.
+!!! warning "Hinweis"
+    Die Eingaben in der Leistungserfassung werden automatisch gespeichert.
+    Es existiert kein *Speichern* Button in dieser Ansicht. Beim Verlassen
+    des Textfeldes in der Leistungserfassung wird die Leistung bestätigt und
+    gespeichert.
 
 ### Wertberechnung anzeigen
 
@@ -137,14 +131,12 @@ Sie können sich die Berechnung der Spalte „*Berechneter Wert*“ über die
 Schaltfläche *Wertberechnung anzeigen* oder über das Kontextmenü
 detailliert auflisten lassen.
 
-Abb. 8‑5 Wertberechnung anzeigen
 
 ![](<img/image131.png>)
 
 Wenn Sie auf die Schaltfläche *Wertberechnung anzeigen* klicken,
 erhalten Sie eine Detailaufstellung.
 
-Abb. 8‑6 Beispiehafte Darstellung einer Berechnung
 
 ![](<img/image132.png>)
 
@@ -158,14 +150,12 @@ Mittels der Schaltfläche *Leistung löschen* oder mit Hilfe des
 Kontextmenüs können einzelne Leistungen, die noch nicht verrechnet
 wurden, gelöscht werden.
 
-Abb. 8‑7 Leistung löschen
 ![](<img/image131.png>)
 
-Hinweis
-
-Das Löschen von Leistungen sollte die Ausnahme sein. Sie sollten dies
-unbedingt vorher mit dem jeweiligen Mitarbeiter besprechen, da diesem
-die Leistung fehlt.
+!!! warning "Hinweis"
+    Das Löschen von Leistungen sollte die Ausnahme sein. Sie sollten dies
+    unbedingt vorher mit dem jeweiligen Mitarbeiter besprechen, da diesem
+    die Leistung fehlt.
 
 ## Leistungsübersicht
 
@@ -183,12 +173,9 @@ Gruppierungsfeld **(2)** ziehen. Weiters besteht über das Filtersymbol
 filtern. Mit Rechtsklick auf die Spaltenüberschrift können Spalten
 ein-/ausgeblendet werden.
 
-Abb. 8‑8 Gruppierung Leistungsübersicht
 
 ![](<img/image133.png>)
 
-Abb. 8‑9 Filter
-Leistungsübersicht
 
 ![](<img/image134.png>)
 
@@ -204,12 +191,10 @@ sich über die Funktionen *Alles aufklappen/zuklappen* im Ribbon wieder
 die dazugehörigen Zeilen einblenden lassen. Über die Funktion *Ebene
 aufklappen/zuklappen* können Sie nur einzelne Ebenen einblenden.
 
-Abb. 8‑10 Alles auf-/zuklappen
 
 ![](<img/image135.png>)
 
-Tipp
-
-Die Leistungsübersicht steht Ihnen auch über den Punkt *Auswertungen*
-zur Verfügung. Siehe auch Kapitel 19.13, Seite
-[180](speicherbare-layouts).
+!!! info "Tipp"
+    Die Leistungsübersicht steht Ihnen auch über den Punkt *Auswertungen*
+    zur Verfügung. Siehe auch Kapitel 19.13, Seite
+    [180](speicherbare-layouts).

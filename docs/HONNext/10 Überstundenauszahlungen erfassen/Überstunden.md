@@ -5,7 +5,6 @@ Button **Überstundenauszahlungen erfassen**, welcher sich im Menüpunkt
 *Leistungserfassung* befindet, Ihre Überstundenauszahlungen einfach
 tabellarisch pro Mitarbeiter zu erfassen.
 
-Abb. 10‑1 Überstundenauszahlung
 
 ![](<img/image170.png>)
 
@@ -13,7 +12,6 @@ Sie gelangen in eine Übersicht die Sie auf das Jahr einschränken können.
 Pro Mitarbeiter können Sie nun pro Monat die Überstundenauszahlungen
 eintragen und verwalten.
 
-Abb. 10‑2 Überstundenauszahlungen erfassen
 
 ![](<img/image171.png>)
 

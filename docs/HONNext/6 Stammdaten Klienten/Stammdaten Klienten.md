@@ -14,7 +14,6 @@ Honorarverrechnungs-Einstellungen zu hinterlegen.
 
 ## Allgemein
 
-Abb. 6‑1 Klienten-Stammdaten Allgemein
 
 ![](<img/image113.png>)
 
@@ -23,11 +22,10 @@ Abb. 6‑1 Klienten-Stammdaten Allgemein
 Dieses Feld bewirkt, dass bei nicht mehr betreuten Klienten kein
 Mitarbeiter mehr Leistungen auf diesen Klienten erfassen kann.
 
-Tipp
-
-Wird im Reiter Klientendaten ein Datum bei *Klient bis* eingetragen,
-erhalten Sie eine Abfrage, ob dieses Datum automatisch auch für das Feld
-*Leistungserfassung bis* verwendet werden soll.
+!!! info "Tipp"
+    Wird im Reiter Klientendaten ein Datum bei *Klient bis* eingetragen,
+    erhalten Sie eine Abfrage, ob dieses Datum automatisch auch für das Feld
+    *Leistungserfassung bis* verwendet werden soll.
 
 **Klienten-Tarifschema**
 
@@ -41,7 +39,6 @@ erläutert.
 
 ## Honorarnote
 
-Abb. 6‑2 Klienten-Stammdaten Honorarnote
 
 ![](<img/image114.png>)
 
@@ -63,24 +60,21 @@ Hier ist die Form der Versteuerung zu definieren.
     Steuerschuld erstellt. In der Buchhaltung wird kein Code verwendet,
     d.h. kein Ausweis in der UVA oder ZM.
 
-Tipp
-
-Das Feld Umsatzsteuer prüft, ob die Form der Versteuerung sowie die
-definierten Stammdaten des Klienten übereinstimmen. Sollte es hier
-Unstimmigkeiten geben, erhalten Sie eine gelbe Validierung mit einem
-Hinweis auf den Fehler.
+!!! info "Tipp"
+    Das Feld Umsatzsteuer prüft, ob die Form der Versteuerung sowie die
+    definierten Stammdaten des Klienten übereinstimmen. Sollte es hier
+    Unstimmigkeiten geben, erhalten Sie eine gelbe Validierung mit einem
+    Hinweis auf den Fehler.
 
 Bsp. Österreichischer Rechnungsempfänger und innergemeinschaftliche
 Leistung
 
-Abb. 6‑3 Hinweismeldung Umsatzsteuer
 
 ![](<img/image115.png>)
 
-Hinweis
-
-Ist der Rechnungsempfänger ungleich Österreich, wird das Land in
-Großbuchstaben auf der Note ausgewiesen.
+!!! info "Hinweis"
+    Ist der Rechnungsempfänger ungleich Österreich, wird das Land in
+    Großbuchstaben auf der Note ausgewiesen.
 
 **Abweichende UID-Nummer**
 
@@ -104,21 +98,16 @@ Ist diese Option nicht aktiviert, werden für die Notenerstellung die
 Daten (Name, Adresse, Brief-/Adressanrede) aus den Personendaten **(2)**
 verwendet.
 
-Hinweis
+!!! warning "Hinweis"
+    Die Option *zugeordneten Betrieb verwenden* ist nur bei
+    Einzelunternehmen aktiv.
 
-Die Option *zugeordneten Betrieb verwenden* ist nur bei
-Einzelunternehmen aktiv.
-
-Abb. 6‑4 zugeordneter Betrieb im Board
-
-![](<img/image116.png>)
 ![](<img/image117.png>)
 
-Hinweis
-
-Sind die Felder Adress-/Briefanrede beim zugeordneten Betrieb nicht
-befüllt, greift das Programm auf die Adress-/Briefanrede aus den
-Personendaten zurück.
+!!! warning "Hinweis"
+    Sind die Felder Adress-/Briefanrede beim zugeordneten Betrieb nicht
+    befüllt, greift das Programm auf die Adress-/Briefanrede aus den
+    Personendaten zurück.
 
 **Ausdruck Tätigkeitsnachweis mit Note**
 
@@ -184,10 +173,9 @@ Board angelegten Personen zur Verfügung. Die beim Klienten definierten
 Kotaktpersonen werden in der Liste als Favoriten geführt. Die Adresse
 des Zustellvertreters ist ein Pflichtfeld.
 
-Hinweis
-
-Wird ein Zustellvertreter definiert, erhalten Sie beim Ausdruck der
-Noten ein Vorblatt mit der Anschrift des Zustellvertreters.
+!!! warning "Hinweis"
+    Wird ein Zustellvertreter definiert, erhalten Sie beim Ausdruck der
+    Noten ein Vorblatt mit der Anschrift des Zustellvertreters.
 
 **Hinweis zur Notenerstellung**
 
@@ -204,10 +192,9 @@ den Stammdaten des Klienten definiert werden. Der Zusatztext wird auf
 der Note angedruckt und kann im Zuge der Notenerstellung noch editiert
 werden.
 
-Hinweis
-
-Der bei der Note eingegebene Zusatztext kann in der Notenübersicht
-eingeblendet werden (Kapitel 15, Seite [140](#notenübersicht)).
+!!! warning "Hinweis"
+    Der bei der Note eingegebene Zusatztext kann in der Notenübersicht
+    eingeblendet werden (Kapitel 15, Seite [140](#notenübersicht)).
 
 ## Buchhaltung
 
