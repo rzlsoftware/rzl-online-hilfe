@@ -19,30 +19,23 @@ Vorprüfung können Sie mit der Schaltfläche *Prüfen und Importieren*
 
 Folgende Ergebnisse kann die Prüfung liefern:
 
-<img src=".\img/image150.png"
-style="width:0.36528in;height:0.19097in" /> Info – Dies erhalten Sie,
+![](<img/image150.png>) Info – Dies erhalten Sie,
 wenn Bsp. es die hinterlegte Verrechnungsgruppe noch nicht gibt und
 diese angelegt wird. Der Import kann dennoch durchgeführt werden.
 
-<img src=".\img/image151.png"
-style="width:0.36528in;height:0.16528in" /> Fehler – Der Import kann
+![](<img/image151.png>) Fehler – Der Import kann
 nicht durchgeführt werden. Die Importdatei muss dementsprechend
 angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
 
 Abb. 20‑1 Datenimport Tätigkeiten
 
-<img src=".\img/image152.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image47.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image107.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image405.png"
-style="width:6.29921in;height:2.52887in" />
+![](<img/image152.png>)
+![](<img/image405.png>)
 
-Hinweis
-
-Im Zuge des Imports von Tätigkeiten werden sämtliche Tätigkeiten neu
-angelegt. Bestehende Tätigkeiten können mit dem Import nicht
-überschrieben werden.
+!!! warning "Hinweis"
+    Im Zuge des Imports von Tätigkeiten werden sämtliche Tätigkeiten neu
+    angelegt. Bestehende Tätigkeiten können mit dem Import nicht
+    überschrieben werden.
 
 ### Schnittstellenbeschreibung Import Tätigkeiten
 
@@ -429,12 +422,11 @@ Im HON Next können über den Menüpunkt *Datenübernahme / Datenimport*
 zentral die Leistungen und Arbeitszeiten aller Mitarbeiter gesammelt
 importiert werden.
 
-Hinweis
-
-Auch über *Leistungserfassung / Mitarbeiterübersicht / Datenimport* ist
-ein Import der Arbeitszeiten und Leistungen möglich – hier muss jedoch
-der Import pro Mitarbeiter einzeln erfolgen (vgl. Kapitel 9.3, Seite
-[74](#import-arbeitszeiten-und-leistungen)).
+!!! warning "Hinweis"
+    Auch über *Leistungserfassung / Mitarbeiterübersicht / Datenimport* ist
+    ein Import der Arbeitszeiten und Leistungen möglich – hier muss jedoch
+    der Import pro Mitarbeiter einzeln erfolgen (vgl. Kapitel 9.3, Seite
+    [74](#import-arbeitszeiten-und-leistungen)).
 
 Wählen Sie Leistungen oder Arbeitszeiten aus.
 
@@ -450,29 +442,22 @@ Mitarbeiter bzw. ins HON Next holen.
 
 Folgende Ergebnisse kann die Prüfung liefern:
 
-<img src=".\img/image150.png"
-style="width:0.36528in;height:0.19097in" /> Info – Dies erhalten Sie,
+![](<img/image150.png>)Info – Dies erhalten Sie,
 wenn Bsp. der Projektzeitraum im falschen Format ist und daher nicht
 übernommen wird. Der Import kann dennoch durchgeführt werden.
 
-<img src=".\img/image151.png"
-style="width:0.36528in;height:0.16528in" /> Fehler – Der Import kann
+![](<img/image151.png>) Fehler – Der Import kann
 nicht durchgeführt werden. Die Importdatei muss dementsprechend
 angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
 
 Abb. 20‑2 Datenimport Leistungen
 
-<img src=".\img/image19.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image47.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image152.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image107.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image153.png"
-style="width:6.29921in;height:1.59529in" />
+![](<img/image152.png>)
+![](<img/image153.png>)
 
-Hinweis
-
-Mit der Option *Importdatei nach Übernahme löschen*, wird die
-Importdatei nach erfolgreichem Import im hinterlegten Ordner gelöscht.
+!!! warning "Hinweis"
+    Mit der Option *Importdatei nach Übernahme löschen*, wird die
+    Importdatei nach erfolgreichem Import im hinterlegten Ordner gelöscht.
 
 ### Schnittstellenbeschreibung Datenimport Leistungen
 
@@ -486,8 +471,7 @@ Die Importdatei der Leistungen muss wie folgt aufgebaut sein:
 
 Abb. 20‑3 Aufbau Datenimport Leistungen
 
-<img src=".\img/image406.png"
-style="width:6.29921in;height:1.52763in" />
+![](<img/image406.png>)
 
 Das Datum und die Mitarbeiternummer sind Pflichtfelder. Die restlichen
 Felder sind wie in der Leistungserfassung einzugeben. Nicht benötigte
@@ -602,13 +586,12 @@ CSV-Standard „RFC 4180“ behandelt werden.</td>
 </tbody>
 </table>
 
-Hinweis
-
-Abhängig bedeutet, dass die Befüllung dieses Feldes abhängig von den
-Einstellungen im HON Next sind. Ist beispielsweise bei einer Tätigkeit
-die Option Projektz*eitraum Eingabe* verpflichtend gesetzt, muss auch in
-der Importdatei der Projektzeitraum eingegeben werde, da die Leistung
-sonst ungültig ist.
+!!! warning "Hinweis"
+    Abhängig bedeutet, dass die Befüllung dieses Feldes abhängig von den
+    Einstellungen im HON Next sind. Ist beispielsweise bei einer Tätigkeit
+    die Option Projektz*eitraum Eingabe* verpflichtend gesetzt, muss auch in
+    der Importdatei der Projektzeitraum eingegeben werde, da die Leistung
+    sonst ungültig ist.
 
 ### Schnittstellenbeschreibung Datenimport Arbeitszeiten
 
@@ -625,8 +608,7 @@ Die Importdatei der Arbeitszeiten muss wie folgt aufgebaut sein:
 
 Abb. 20‑4 Aufbau Datenimport Arbeitszeiten
 
-<img src=".\img/image407.png"
-style="width:6.29921in;height:0.77902in" />
+![](<img/image407.png>)
 
 Das Datum und die Mitarbeiternummer sind Pflichtfelder. Die restlichen
 Felder sind wie in der Leistungserfassung einzugeben. Nicht benötigte

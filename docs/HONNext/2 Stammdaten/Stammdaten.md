@@ -1,7 +1,5 @@
 # Stammdaten
 
-Abb. 2‑1 Stammdaten
-
 
 ![](<img/image13.png>)
 
@@ -41,8 +39,6 @@ Verrechnungsgruppe*“ Verrechnungsgruppen anlegen. Ebenso besteht die
 Möglichkeit eine neue Verrechnungsgruppe über den Shortcut STRG+N neu
 anzulegen.
 
-Abb. 2‑3 Neuanlage einer Verrechnungsgruppe
-
 ![](<img/image15.png>)
 
 Die Bezeichnung der Verrechnungsgruppe und die Bezeichnung der
@@ -77,11 +73,9 @@ Rechnungssteller einen Notenvorschlag (Kapitel 11.1, Seite
 der Verrechnungsgruppe auf der Note abgebildet wird oder die Summen je
 Tätigkeiten der Verrechnungsgruppe.
 
-Abb. 2‑4 Verrechnungsart Beträge einzeln ausweisen
 
 ![](<img/image16.png>)
 
-Abb. 2‑5 Verrechnungsart Beträge zusammenfassen
 
 ![](<img/image17.png>)
 
@@ -100,7 +94,6 @@ Maustaste die Verrechnungsgruppe an die gewünschte Stelle. Mit Klick auf
 Details **(2)** können Sie sich die Details der Verrechnungsgruppe
 anzeigen lassen und zum Beispiel die Bezeichnung ändern.
 
-Abb. 2‑6 Verrechnungsgruppen bearbeiten
 
 
 ![](<img/image19.png>)
@@ -118,7 +111,6 @@ oder über das Kontextmenü nur gelöscht werden, wenn diese keiner
 Tätigkeit zugeordnet wurden. Mit der ENTF Taste als Shortcut können Sie
 ebenso eine Verrechnungsgruppe löschen.
 
-Abb. 2‑7 Verrechnungsgruppe löschen
 
 ![](<img/image21.png>)
 
@@ -139,7 +131,6 @@ Neue Tätigkeiten können Sie entweder über die Schaltfläche im Ribbon
 **(1)** „*Neue Tätigkeit*“ oder über die Schaltfläche **(2)** „*Neue
 Tätigkeit*“ im rechten unteren Bereich anlegen.
 
-Abb. 2‑8 Tätigkeiten
 
 ![](<img/image22.png>)
 ![](<img/image23.png>)
@@ -171,7 +162,6 @@ eingetragen werden.
     Stundensatzes bzw. Einheitensatzes. Die Platzhalter können auch direkt
     während der Notenerstellung ergänzt werden.
 
-Abb. 2‑9 Neuanlage – Tätigkeiten Reiter Allgemein
 
 ![](<img/image25.png>)
 ![](<img/image26.png>)
@@ -337,7 +327,6 @@ wurde (vgl. Kapitel 11.4.6, Seite
 
 Optionen im Reiter *Buchhaltung*:
 
-Abb. 2‑10 Neuanlage – Tätigkeiten Reiter Buchhaltung
 
 ![](<img/image29.png>)
 
@@ -384,7 +373,6 @@ Tätigkeitsnummern können über das Bleistiftsymbol
 oder über die Schaltfläche „*Tätigkeitsnummer ändern*“ **(2)** geändert
 werden.
 
-Abb. 2‑11 Ändern - Tätigkeiten
 
 ![](<img/image26.png>)
 ![](<img/image31.png>)
@@ -392,11 +380,10 @@ Abb. 2‑11 Ändern - Tätigkeiten
 ![](<img/image32.png>)
 
 
-Hinweis
-
-Solange noch keine Leistungen auf die Tätigkeit erfasst wurde, können
-alle Einstellungen geändert werden. Später ist es nur mehr möglich, in
-derselben Generation, die laufende Nummer und die Bezeichnung zu ändern.
+!!! warning "Hinweis"
+    Solange noch keine Leistungen auf die Tätigkeit erfasst wurde, können
+    alle Einstellungen geändert werden. Später ist es nur mehr möglich, in
+    derselben Generation, die laufende Nummer und die Bezeichnung zu ändern.
 
 Bereits vorhandene Tätigkeiten werden in einer Tabellendarstellung
 **(3)** dargestellt. Dabei ist auf einen Blick ersichtlich, welche
@@ -411,18 +398,15 @@ Sie einmal auf diese Schaltfläche **(1).** Sie können nun über die
 Schaltfläche „*neue Generation*“ **(2)** die Tätigkeit ab einen
 bestimmten Zeitpunkt anders erfassen bzw. abrechnen lassen.
 
-Hinweis
-
-Generationen sind immer ab einem bestimmten Datum gültig. D.h. die
-Einstellungen die vor diesem Datum gespeichert sind, sind dann bis zum
-Zeitpunkt der neuen Generation gültig. Beispiel: Sie legen sich für die
-Tätigkeit Finanzbuchhaltung eine neue Generation ab 25.05.xxxx an, weil
-Sie die Uhrzeiteingabe verpflichtend bei der Leistungserfassung haben
-wollen. Die Einstellungen ohne Uhrzeiteingabe sind dann bis 24.05.xxxx
-gültig und die Einstellungen mit Uhrzeiteingabe für Leistungen die ab
-25.05.xxxx erfasst werden.
-
-Abb. 2‑12 Ändern – Tätigkeiten – neue Generation anlegen
+!!! warning "Hinweis"
+    Generationen sind immer ab einem bestimmten Datum gültig. D.h. die
+    Einstellungen die vor diesem Datum gespeichert sind, sind dann bis zum
+    Zeitpunkt der neuen Generation gültig. Beispiel: Sie legen sich für die
+    Tätigkeit Finanzbuchhaltung eine neue Generation ab 25.05.xxxx an, weil
+    Sie die Uhrzeiteingabe verpflichtend bei der Leistungserfassung haben
+    wollen. Die Einstellungen ohne Uhrzeiteingabe sind dann bis 24.05.xxxx
+    gültig und die Einstellungen mit Uhrzeiteingabe für Leistungen die ab
+    25.05.xxxx erfasst werden.
 
 
 ![](<img/image7.png>)
@@ -434,7 +418,6 @@ berechnet werden soll, eintragen können. Wenn Sie auf „*Anlegen*“
 klicken, wird die Generation angelegt, mit Klick auf „*Abbrechen*“
 werden die Änderungen verworfen.
 
-Abb. 2‑13 neue Generation anlegen
 
 ![](<img/image8.png>)
 
@@ -444,14 +427,11 @@ die Tätigkeit ab der neuen Generation setzen und speichern. Die neue
 Generation ist mit einem ab Datum **(2)** gekennzeichnet. Dieses Datum
 finden Sie auch im linken Bereich **(3)**.
 
-Abb. 2‑14 neue Generation
-anlegen - Tätigkeitsbereich
 ![](<img/image11.png>)
 
-Hinweis
-
-Optionen die mit einem türkisen G gekennzeichnet sind, sind
-generationsübergreifende Optionen.
+!!! warning "Hinweis"
+    Optionen die mit einem türkisen G gekennzeichnet sind, sind
+    generationsübergreifende Optionen.
 
 ### Tätigkeiten löschen
 
@@ -459,7 +439,6 @@ Tätigkeiten können über den Button *Tätigkeit löschen* nur gelöscht
 werden, falls keine Leistungen auf diese Tätigkeit erfasst wurden.
 Ebenso ist es möglich eine Tätigkeit über das Kontextmenü zu löschen.
 
-Abb. 2‑15 Tätigkeit löschen
 
 ![](<img/image33.png>)
 
@@ -475,7 +454,6 @@ gültigen Generation setzen. Dazu wählen Sie die gewünschte Tätigkeit
 aus, klicken Sie auf *Details* und auf die Schaltfläche *Generation*.
 Anschließend wählen Sie \**Generation bearbeiten*“ aus.
 
-Abb. 2‑16 Generation bearbeiten
 
 ![](<img/image34.png>)
 
@@ -483,7 +461,6 @@ Nun öffnet sich ein Dialogfenster in welchem Sie das Datum eintragen
 können, bis zu dem die Leistung in der Leistungserfassung von den
 Mitarbeitern erfasst werden kann.
 
-Abb. 2‑17 Generation bearbeiten – Zeitraum eintragen
 
 ![](<img/image35.png>)
 
@@ -495,14 +472,12 @@ grundsätzlich ausgeblendet. Sie können sich diese Tätigkeiten jedoch
 einblenden lassen. Deaktivierte Tätigkeiten werden in der Tabelle in
 grauer Schriftfarbe dargestellt.
 
-Abb. 2‑18 Vergangene Tätigkeiten anzeigen
 
 ![](<img/image36.png>)
 
-Hinweis
-
-Die Zuordnung der Tätigkeiten zum Stunden-/Einheitensatz erfolgt über
-das Tarifschema.
+!!! warning "Hinweis"
+    Die Zuordnung der Tätigkeiten zum Stunden-/Einheitensatz erfolgt über
+    das Tarifschema.
 
 ## Tarifschemata
 
@@ -517,8 +492,6 @@ Wählen Sie den Menüpunkt *Stammdaten – Tarifschemata* aus, um
 Tarifschemata anzulegen bzw. zu verwalten. Es öffnet sich ein eigener
 Tab für die Tarifschemata.
 
-Abb. 2‑19 Tarifschemata
-
 ![](<img/image37.png>)
 
 Sie haben die Möglichkeit verschiedene Schemata auf unterschiedlichen
@@ -529,7 +502,6 @@ hinterlegt haben.
 Über den kleinen Pfeil **(1)** neben den Verwendungen, können Sie sich
 alle dem Tarifschema zugeordneten Mitarbeiter/Klienten anzeigen lassen.
 
-Abb. 2‑20 Verwendung
 
 ![](<img/image38.png>)
 
@@ -549,7 +521,6 @@ Tarifschema einblenden zu lassen. Mithilfe des kleinen Pfeilsymbols
 **(1)** werden die jeweiligen Stunden-/Einheitensätze inklusive der
 zugeordneten Tätigkeiten je Generation angezeigt.
 
-Abb. 2‑21 Details Tarifschemata
 
 ![](<img/image19.png>)
 ![](<img/image39.png>)
@@ -559,14 +530,11 @@ abgebildet. Möchten Sie auch vergangene Generationen sehen, können Sie
 sich diese mithilfe der Schaltfläche *Vergangene Generationen anzeigen*
 anzeigen lassen.
 
-Abb. 2‑22 Vergangene Generationen anzeigen
-
 ![](<img/image40.png>)
 
 Vergangene Generationen werden Ihnen in der Auflistung der Generationen
 in grauer Schrift dargestellt.
 
-Abb. 2‑23 Darstellung vergangene Generationen
 
 ![](<img/image41.png>)
 
@@ -575,22 +543,19 @@ einzelnen Spalten auch wieder gefiltert werden. Wenn Sie auf eine
 Überschriftenspalte klicken, wird ein blaues Filter Symbol angezeigt –
 nun können Sie beispielsweise nach der Tätigkeit filtern.
 
-Abb. 2‑24 Filter Tarifschemata
 
 ![](<img/image42.png>)
 
-Hinweis
-
-Standardmäßig ist das Standard-Tarifschema angelegt. Des Weiteren
-besteht die Möglichkeit sich unterschiedliche Tarifschemata für
-Mitarbeiter und/oder Klienten anzulegen.
+!!! warning "Hinweis"
+    Standardmäßig ist das Standard-Tarifschema angelegt. Des Weiteren
+    besteht die Möglichkeit sich unterschiedliche Tarifschemata für
+    Mitarbeiter und/oder Klienten anzulegen.
 
 ### Tarifschema anlegen
 
 Über den Button *Neues Tarifschema (***1 oder 2***)* können Sie sich ein
 neues Tarifschema anlegen.
 
-Abb. 2‑25 Tarifschemata – neu anlegen
 
 ![](<img/image43.png>)
 
@@ -598,17 +563,15 @@ Es öffnet sich im Anschluss ein Dialogfenster in welchem Sie
 entscheiden, ob es ein Mitarbeiter- oder ein Klienten-Tarifschema ist,
 welches Sie anlegen möchten.
 
-Abb. 2‑26 Art des Tarifschemas
 
 ![](<img/image44.png>)
 
 Wenn Sie auf „*OK*“ klicken, öffnet sich die Neuanlage.
 
-Tipp
-
-Bei Mitarbeiter- und Klienten Schemata müssen nur jene Tätigkeiten
-zugeordnet werden, die abweichend zum Standard-Tarifschema verrechnet
-werden.
+!!! info "Tipp"
+    Bei Mitarbeiter- und Klienten Schemata müssen nur jene Tätigkeiten
+    zugeordnet werden, die abweichend zum Standard-Tarifschema verrechnet
+    werden.
 
 Zuerst müssen Sie den Namen **(1)** für das Tarifschema vergeben. Im
 rechten Bereich finden Sie die noch nicht zugeordneten Tätigkeiten
@@ -625,12 +588,10 @@ einzugeben.
 Stunden- bzw. Einheitensätze können nicht mit negativen Vorzeichen
 eingegeben werden.
 
-Tipp
+!!! info "Tipp"
+    Mit der ***Strg*** Taste können mehrere nicht zugeordnete Tätigkeiten
+    markiert werden und in Einem zum jeweiligen Satz zugeordnet werden.
 
-Mit der ***Strg*** Taste können mehrere nicht zugeordnete Tätigkeiten
-markiert werden und in Einem zum jeweiligen Satz zugeordnet werden.
-
-Abb. 2‑27 Neuanlage Tarifschema
 
 ![](<img/image45.png>)
 ![](<img/image46.png>)
@@ -641,20 +602,18 @@ Abb. 2‑27 Neuanlage Tarifschema
 
 Wenn Sie auf *Speichern* klicken, werden Ihre Einstellungen gespeichert.
 
-Tipp
-
-Wurde versehentlich eine Tätigkeit falsch zugeordnet, so kann diese ganz
-einfach mit Drag & Drop wieder zu den nicht zugeordneten Tätigkeiten
-gezogen werden.
+!!! info "Tipp"
+    Wurde versehentlich eine Tätigkeit falsch zugeordnet, so kann diese ganz
+    einfach mit Drag & Drop wieder zu den nicht zugeordneten Tätigkeiten
+    gezogen werden.
 
 ### Tarifschema bearbeiten
 
-Hinweis
-
-Bitte beachten Sie, dass sich jede Änderung auf noch nicht erstellte
-Noten auswirkt, z.B. Änderung von Zuordnungen, Stundensätzen etc. Wir
-würden Ihnen empfehlen für derartige Änderungen eine neue Generation
-anzulegen.
+!!! warning "Hinweis"
+    Bitte beachten Sie, dass sich jede Änderung auf noch nicht erstellte
+    Noten auswirkt, z.B. Änderung von Zuordnungen, Stundensätzen etc. Wir
+    würden Ihnen empfehlen für derartige Änderungen eine neue Generation
+    anzulegen.
 
 Soll ein bestimmter Stundensatz gelöscht werden, so können Sie dies mit
 dem Papierkorb Symbol **(1)** veranlassen. Nicht zugeordnete Tätigkeiten
@@ -662,24 +621,21 @@ können einfach mittels Drag & Drop zum gewünschten Satz gezogen werden
 **(2).** Vergangene Tätigkeiten **(3)** können ebenso, falls notwendig,
 eingeblendet werden.
 
-Abb. 2‑28 Tarifschema bearbeiten
 
 ![](<img/image26.png>)
 ![](<img/image23.png>)
 ![](<img/image49.png>)
 
-Hinweis
-
-Ein Tarifschema ist generationsverwaltet. Wenn Sie z.B. eine jährliche
-Erhöhung abbilden wollen, müssen Sie für den Zeitpunkt der Erhöhung eine
-neue Generation anlegen.
+!!! warning "Hinweis"
+    Ein Tarifschema ist generationsverwaltet. Wenn Sie z.B. eine jährliche
+    Erhöhung abbilden wollen, müssen Sie für den Zeitpunkt der Erhöhung eine
+    neue Generation anlegen.
 
 ### Prozentuelle Erhöhung von Tarifen
 
 Mit der Schaltfläche *Tarifsätze anpassen* können Sie übergreifend die
 Tarifsätze der einzelnen Tarifschema prozentuelle anpassen.
 
-Abb. 2‑29 Tarifsätze anpassen
 
 ![](<img/image50.png>)
 
@@ -687,7 +643,6 @@ Nachdem Sie Tarifsätze anpassen gewählt haben, müssen Sie zuerst
 eingeben, ab welchem Datum die neuen Tarifsätze gelten. Mit diesem Datum
 wird in den jeweiligen Tarifschemata eine neue Generation angelegt.
 
-Abb. 2‑30 Tarifsätze anpassen Generation
 
 ![](<img/image51.png>)
 
@@ -698,7 +653,6 @@ definieren sowie jene Tarife auswählen, welche angepasst werden sollten.
 Über die Spalten *Alter Satz* und *Neuer Satz* ist die Veränderung
 ersichtlich.
 
-Abb. 2‑31 Tarifsätze anpassen Veränderung
 
 ![](<img/image52.png>)
 
@@ -715,31 +669,28 @@ Erhöhung von 3 %
 
 -   Zehner -&gt; 80 € (6,67 %)
 
-HINWEIS
-
-Bei prozentueller Erhöhung/Verminderung kann abhängig von der gewählten
-Rundungsoption die relative Erhöhung höher/niedriger ausfallen als von
-Ihnen hinterlegt.
+!!! warning "Hinweis"
+    Bei prozentueller Erhöhung/Verminderung kann abhängig von der gewählten
+    Rundungsoption die relative Erhöhung höher/niedriger ausfallen als von
+    Ihnen hinterlegt.
 
 Mit der Schaltfläche *Weiter* gelangen Sie nun zu einer Zusammenfassung
 der hinterlegten Änderungen. Weicht die relative Veränderung aufgrund
 der Rundung von der definierten Veränderung in Prozent ab, ist der Wert
 gelb hinterlegt.
 
-Abb. 2‑32 Tarifsätze anpassen Zusammenfassung
 
 ![](<img/image53.png>)
 
 Mit *Speichern* wir die Änderung gespeichert (=eine neue Generation mit
 den definierten Werten, wird in den jeweiligen Tarifschemata angelegt).
 
-Hinweis
-
-Mit der Schaltfläche *Tarifsätze anpassen* können nur fixe Stunden- oder
-Einheitensätze sowie Wertmäßige Änderungen angepasst werden. Arbeiten
-Sie in den Mitarbeiter- und Kliententarifschema mit prozentuellen
-Abweichungen, müssen die Prozentsätze im jeweiligen Tarifschema extra
-angepasst werden.
+!!! warning "Hinweis"
+    Mit der Schaltfläche *Tarifsätze anpassen* können nur fixe Stunden- oder
+    Einheitensätze sowie Wertmäßige Änderungen angepasst werden. Arbeiten
+    Sie in den Mitarbeiter- und Kliententarifschema mit prozentuellen
+    Abweichungen, müssen die Prozentsätze im jeweiligen Tarifschema extra
+    angepasst werden.
 
 ### Tarifschema duplizieren
 
@@ -749,7 +700,6 @@ erhalten somit ein Duplikat des Tarifschemas ohne Verwendungen bei den
 Mitarbeitern oder Mandanten, d.h. ohne Zuordnung zu diesen und müssen
 nicht noch einmal alles neu von vorne anlegen.
 
-Abb. 2‑33 Tarifschema duplizieren
 
 ![](<img/image54.png>)
 
@@ -760,7 +710,6 @@ oder Klienten hinterlegt wurde. Über die Schaltfläche *Tarifschema
 löschen* im Ribbon oder über das Kontextmenü können Sie somit ein
 Tarifschema löschen.
 
-Abb. 2‑34 Tarifschema löschen
 
 ![](<img/image54.png>)
 
@@ -773,16 +722,14 @@ abweichend zum Standard-Tarifschema ist. Beim Auswahlfeld
 Mitarbeiter-Tarifschema können Sie das gewollte Schema auswählen und
 hinterlegen.
 
-Abb. 2‑35 Mitarbeiter-Tarifschema zuordnen
 
 ![](<img/image55.png>)
 
-Tipp
-
-Standardmäßig wird bei allen Klienten und Mitarbeitern das
-Standard-Tarifschema hinterlegt. Sie müssen daher nur bei abweichenden
-Mitarbeiter-/Klienten-Tarifschema in den Stammdaten des
-Mitarbeiters/Klienten Änderungen durchführen.
+!!! info "Tipp"
+    Standardmäßig wird bei allen Klienten und Mitarbeitern das
+    Standard-Tarifschema hinterlegt. Sie müssen daher nur bei abweichenden
+    Mitarbeiter-/Klienten-Tarifschema in den Stammdaten des
+    Mitarbeiters/Klienten Änderungen durchführen.
 
 Wollen Sie ein abweichendes Klienten-Tarifschema bei gewissen Klienten
 hinterlegen, so wählen Sie im RZL-Board den Bereich *Stamm* und
@@ -794,17 +741,15 @@ Auswahl. Sie haben im Bereich *HON* beim Klienten-Tarifschema nun die
 Möglichkeit ein abweichendes Tarifschema für den gewählten Klienten zu
 hinterlegen.
 
-Abb. 2‑36 Klienten-Tarifschema zuordnen
 
 ![](<img/image56.png>)
 
-Tipp
-
-Mithilfe der Schaltflächen *zum Mitarbeiter-Tarifschema / zum
-Arbeitszeitmodell / zum Klienten-Tarifschema* gelangen Sie in die
-Stammdaten der Honorarverrechnung. Es wird automatisch die jeweilige
-Ansicht der HON-Stammdaten geöffnet. Sie können bestehende Stammdaten
-bearbeiten oder Neue definieren.
+!!! info "Tipp"
+    Mithilfe der Schaltflächen *zum Mitarbeiter-Tarifschema / zum
+    Arbeitszeitmodell / zum Klienten-Tarifschema* gelangen Sie in die
+    Stammdaten der Honorarverrechnung. Es wird automatisch die jeweilige
+    Ansicht der HON-Stammdaten geöffnet. Sie können bestehende Stammdaten
+    bearbeiten oder Neue definieren.
 
 ### Tätigkeiten zuordnen
 
@@ -817,8 +762,6 @@ Wählen Sie den betroffenen Tarif **(1)**, wo die neue Tätigkeit
 hineinfällt. Hierbei sind auch Mehrfachselektionen möglich. Anschließend
 wählen Sie die Schaltfläche Tätigkeit zuordnen **(2).**
 
-Abb. 2‑37 Tätikeiten zuordnen
-
 ![](<img/image31.png>)
 ![](<img/image19.png>)
 ![](<img/image57.png>)
@@ -827,13 +770,11 @@ Nun müssen Sie die Tätigkeit auswählen, welche zu den ausgewählten
 Tarifen zugeordnet werden soll. Abschließend erhalten Sie noch eine
 Abfrage, ob die Änderung durchgeführt werden soll.
 
-Abb. 2‑38 Auswahl der Tätigkeit
 
 ![](<img/image58.png>)
 
-Hinweis
-
-Es kann nur ein Stunden- und ein Einheitensatz pro Tarif gewählt werden.
+!!! warning "Hinweis"
+    Es kann nur ein Stunden- und ein Einheitensatz pro Tarif gewählt werden.
 
 ## Arbeitszeitmodelle
 
@@ -848,7 +789,6 @@ Wählen Sie den Menüpunkt *Stammdaten – Arbeitszeitmodelle* aus, um ein
 Arbeitszeitmodell anzulegen bzw. zu verwalten. Es öffnet sich ein
 eigener Tab für die Arbeitszeitmodelle.
 
-Abb. 2‑39 Arbeitszeitmodelle
 
 ![](<img/image59.png>)
 ![](<img/image60.png>)
@@ -868,12 +808,11 @@ Sie ein Arbeitszeitmodell auswählen und auf *Details* **(2)** klicken,
 sehen Sie noch einmal die definierten Arbeitszeiten des jeweiligen
 Modelles.
 
-Hinweis
-
-Falls Sie ein bestehendes Arbeitszeitmodell ändern, gilt diese Änderung
-ab sofort. Es gibt bei den Arbeitszeitmodellen keine
-Generationsverwaltung. Die Arbeitszeitmodelle werden in den Stammdaten
-des Mitarbeiters im Bereich HON verwaltet bzw. hinterlegt.
+!!! warning "Hinweis"
+    Falls Sie ein bestehendes Arbeitszeitmodell ändern, gilt diese Änderung
+    ab sofort. Es gibt bei den Arbeitszeitmodellen keine
+    Generationsverwaltung. Die Arbeitszeitmodelle werden in den Stammdaten
+    des Mitarbeiters im Bereich HON verwaltet bzw. hinterlegt.
 
 Arbeitszeitmodelle werden in den Mitarbeiterstammdaten hinterlegt. Dazu
 ist im RZL-Board der Bereich *Stamm* und anschießend unter
@@ -883,15 +822,13 @@ Sie die Möglichkeit die in der Honorarverrechnung angelegten
 Arbeitszeitmodelle auszuwählen und zu hinterlegen. Wenn Sie auf
 *Speichern* klicken werden Ihre Änderungen gespeichert.
 
-Abb. 2‑40 Arbeitszeitmodelle beim Mitarbeiter hinterlegen
 
 ![](<img/image63.png>)
 
-Hinweis
-
-Wenn sich die Normalarbeitszeit eines Mitarbeiters ändert, so ist eine
-neue Mitarbeiter-Generation anzulegen (siehe Kapitel 1.3, Seite 7 ff).
-Es ist danach ein anderes oder ein neues Arbeitszeitmodell zuzuordnen.
+!!! warning "Hinweis"
+    Wenn sich die Normalarbeitszeit eines Mitarbeiters ändert, so ist eine
+    neue Mitarbeiter-Generation anzulegen (siehe Kapitel 1.3, Seite 7 ff).
+    Es ist danach ein anderes oder ein neues Arbeitszeitmodell zuzuordnen.
 
 ### Arbeitszeitmodell anlegen
 
@@ -906,12 +843,11 @@ nächste Zeile duplizieren. Mit Kick auf die Schaltfläche *Speichern*
 wird das Arbeitszeitmodell gespeichert. Es ist auch möglich anstatt
 *Beginn und Ende* nur die *Dauer* einzutragen.
 
-Tipp
-
-Bei der Eingabe einer Tagesarbeitszeit von über zwölf Stunden erhalten
-Sie einen Hinweis, dass die maximale Tagesarbeitszeit überschritten
-wird. Ebenso bei einer Arbeitszeit über sechs Stunden ohne Pause, dass
-die erforderlichen Ruhepausen nicht eingehalten werden.
+!!! info "Tipp"
+    Bei der Eingabe einer Tagesarbeitszeit von über zwölf Stunden erhalten
+    Sie einen Hinweis, dass die maximale Tagesarbeitszeit überschritten
+    wird. Ebenso bei einer Arbeitszeit über sechs Stunden ohne Pause, dass
+    die erforderlichen Ruhepausen nicht eingehalten werden.
 
 ### Arbeitszeitmodell löschen
 
@@ -931,7 +867,6 @@ Wählen Sie den Menüpunkt *Stammdaten / Nummernbereiche* aus, um die
 Nummerierung der Honorarnoten zu definieren bzw. zu verwalten. Es öffnet
 sich ein eigener Tab für die Nummernbereiche.
 
-Abb. 2‑41 Nummernbereiche
 
 ![](<img/image22.png>)
 ![](<img/image25.png>)
@@ -980,30 +915,27 @@ Haken den gewünschten bzw. die gewünschten Unternehmensbereich/e aus.
 Mit Klick auf den *Speichern* Button werden Ihre Einstellungen
 gespeichert.
 
-Hinweis
-
-Bei jährliche Nummerierung gilt ein Nummernbereich immer ein Jahr ab
-Beginn der Neunummerierung.
+!!! info "Hinweis"
+    Bei jährliche Nummerierung gilt ein Nummernbereich immer ein Jahr ab
+    Beginn der Neunummerierung.
 
 **Beispiel:** Nummernbereich Unternehmensberatung. Dieser Nummernbereich
 beginnt ab Jänner jeden Jahres neu mit der Nummer 100 und ist dem
 Unternehmensbereich RZL-Unternehmensberatung zugeordnet.
 
-Tipp
-
-Sie erhalten einen Tooltip, wenn Sie mit dem Mauscursor ein Eingabefeld
-auswählen.
+!!! info "Tipp"
+    Sie erhalten einen Tooltip, wenn Sie mit dem Mauscursor ein Eingabefeld
+    auswählen.
 
 Mittels Papierkorbsymbol ![](<img/image65.png>)
 können Sie selbst angelegte
 Nummernbereiche löschen die noch nicht verwendet wurden.
 
-Hinweis
-
-Wird ein Nummernbereich neu angelegt, oder die Nummer von einem
-bestehenden Nummernbereich verändert und wurde in diesem Zeitraum schon
-eine Honorarnote für diesen Unternehmensbereich erstellt, so wird die
-Nummer erst im darauffolgenden Zeitraum verwendet.
+!!! warning "Hinweis"
+    Wird ein Nummernbereich neu angelegt, oder die Nummer von einem
+    bestehenden Nummernbereich verändert und wurde in diesem Zeitraum schon
+    eine Honorarnote für diesen Unternehmensbereich erstellt, so wird die
+    Nummer erst im darauffolgenden Zeitraum verwendet.
 
 **Beispiel:** Nummerierung ab Jänner, Startnummer 1 wurde bisher
 verwendet.
@@ -1021,8 +953,6 @@ gesetzlichen Feiertagen geregelt sind, selbst Feiertage definieren.
 Wählen Sie den Menüpunkt *Stammdaten – Feiertage* aus, um die Feiertage
 zu definieren bzw. zu verwalten. Es öffnet sich ein eigener Tab für die
 Feiertage.
-
-Abb. 2‑42 Feiertagsverwaltung
 
 ![](<img/image66.png>)
 
@@ -1058,11 +988,10 @@ und/oder Notenerstellung sowie bei Akonto und Pauschalen zu nutzen.
 Textbausteine anlegen, welche alle Mitarbeiter der Kanzlei nutzen
 können.
 
-Hinweis
-
-Jeder Mitarbeiter hat in seiner Leistungserfassung zusätzlich die
-Möglichkeit individuell für sich persönliche Textbausteine anzulegen.
-(Vgl. LE Next Handbuch Kapitel 3.4 Persönliche Textbausteine)
+!!! warning "Hinweis"
+    Jeder Mitarbeiter hat in seiner Leistungserfassung zusätzlich die
+    Möglichkeit individuell für sich persönliche Textbausteine anzulegen.
+    (Vgl. LE Next Handbuch Kapitel 3.4 Persönliche Textbausteine)
 
 Wählen Sie die Schaltfläche *Neuer Textbaustein* **(1)** und vergeben
 Sie eine Nummer sowie eine Bezeichnung. Im Feld *Text* können Sie nun
@@ -1082,20 +1011,17 @@ Es stehen Ihnen folgende Platzhalter zur Verfügung:
 
 -   Klient (Nummer, Kurzbezeichnung, Name)
 
-Abb. 2‑43 Allgemeine Textbausteine
 
 ![](<img/image67.png>)
 
-Hinweis
+!!! warning "Hinweis"
+    Können Platzhaltern nicht aufgelöst werden, werden diese durch ein
+    Leerzeichen ersetzt.
 
-Können Platzhaltern nicht aufgelöst werden, werden diese durch ein
-Leerzeichen ersetzt.
-
-Tipp
-
-Mit der Schaltfläche *Textbaustein löschen* können Sie nicht mehr
-benötigte Textbausteine löschen. Und mit der Schaltfläche Textbausteine
-duplizieren können Sie bestehende Textbausteine kopieren.
+!!! info "Tipp"
+    Mit der Schaltfläche *Textbaustein löschen* können Sie nicht mehr
+    benötigte Textbausteine löschen. Und mit der Schaltfläche Textbausteine
+    duplizieren können Sie bestehende Textbausteine kopieren.
 
 ### Verwendung Textbausteine
 
