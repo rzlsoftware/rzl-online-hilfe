@@ -5,8 +5,7 @@ werden, um den Urlaubssaldo nachvollziehen zu können.
 
 Abb. 5‑1 Urlaubskartei
 
-<img src=".\img/image97.png"
-style="width:2.59002in;height:1.09103in" />
+![](<img/image97.png>)
 
 Dargestellt werden in der Urlaubskartei der Anfangsbestand, der Beginn
 des Urlaubsjahres, Anspruchszeilen und Verbrauchszeilen.
@@ -23,8 +22,7 @@ vorgeschlagen.
 
 Abb. 5‑2 Urlaubskartei einschränken
 
-<img src=".\img/image98.png"
-style="width:3.98819in;height:0.27165in" />
+![](<img/image98.png>)
 
 Bei einer Urlaubszeile mit der Art „*Beginn Urlaubsjahr*“ wird kein
 Saldo angezeigt.
@@ -35,8 +33,7 @@ nachfolgender Abbildung entnehmen.
 
 Abb. 5‑3 Urlaubskartei
 
-> <img src=".\img/image99.png"
-> style="width:4.72288in;height:2.69121in" />
+![](<img/image99.png>)
 
 ## Urlaubskartei bei Wechsel von Stunden zu Tagen
 
@@ -66,8 +63,7 @@ Urlaub.
 Am 26.07.23 war die Mitarbeiterin 1 h also 0,2 Tage auf Urlaub
 (Berechnung 1 Tag / 5 h \*1 h).
 
-<img src=".\img/image100.png"
-style="width:6.29921in;height:1.70177in" />
+![](<img/image100.png>)
 
 Umrechnung Saldo Stunden in Saldo Tage mit 01.01.24:
 
@@ -99,8 +95,7 @@ Am 25.07.23 war die Mitarbeiterin 4,25 h also 0,55 Tage auf Urlaub
 Am 26.07.23 war die Mitarbeiterin 1 h also 0,13 Tage auf Urlaub
 (Berechnung 1 Tag / 7,7 h \* 1h).
 
-<img src=".\img/image101.png"
-style="width:6.29921in;height:1.52679in" />
+![](<img/image101.png>)
 
 Umrechnung Saldo Stunden in Saldo Tage mit 01.01.24:
 

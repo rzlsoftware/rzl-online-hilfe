@@ -10,10 +10,7 @@ oder nicht. Deswegen wurde in der neuen Leistungserfassung die
 Möglichkeit geschaffen einen ganztätigen Zeitausgleich separat zu
 kennzeichnen.
 
-Abb. 7‑1 Zeitausgleich in LE Klassik
-
-<img src=".\img/image108.png"
-style="width:6.29921in;height:0.60188in" />
+![](<img/image108.png>)
 
 Die Vorgehensweise zur Eingabe eines ganztätigen Zeitausgleiches finden
 Sie im Kapitel 2.3 Seite [10](#ganztägiger-zeitausgleich) beschrieben.
@@ -34,17 +31,11 @@ er wieder in der Arbeit.
 In der Leistungserfassung Klassik ist für die Zeit des Arztbesuches eine
 Pause einzutragen.
 
-Abb. 7‑2 LE Klassik Pausen
-
-<img src=".\img/image109.png"
-style="width:3.23958in;height:2.88542in" />
+![](<img/image109.png>)
 
 In der neuen Leistungserfassung muss für diese Fälle nun keine Pause
 mehr eingetragen werden. Es wird automatisch eine Unterbrechung
 erstellt, sobald bei der Leistung eine Uhrzeit eingetragen wurde. Diese
 Unterbrechung verhält sich wie eine Pause.
 
-Abb. 7‑3 Leistungen außerhalb Arbeitszeit
-
-<img src=".\img/image110.png"
-style="width:6.29921in;height:1.57604in" />
+![](<img/image110.png>)

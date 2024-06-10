@@ -10,8 +10,7 @@ Der Arbeitszeitkalender kann über den Button *Kalender* geöffnet werden.
 
 Abb. 4‑1 Kalender öffnen
 
-<img src=".\img/image82.png"
-style="width:2.29187in;height:0.94175in" />
+![](<img/image82.png>)
 
 Sie gelangen automatisch in die Tagesansicht des Arbeitszeitkalenders.
 
@@ -22,17 +21,7 @@ Tastenkombination *Strg + K* geöffnet werden.
 
 Abb. 4‑2 Kalender Tagesansicht
 
-<img src=".\img/image83.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image84.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image85.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image86.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image87.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image88.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image33.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image42.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image89.png"
-style="width:6.29921in;height:1.437in" />
+![](<img/image89.png>)
 
 Es können unterschiedliche Ansichten **(1)** des Arbeitszeitkalenders
 geöffnet werden und zwar:
@@ -64,8 +53,7 @@ Kalender.
 
 **AZG**
 
-<img src=".\img/image90.png"
-style="width:0.29167in;height:0.22917in" /> Warnhinweis –
+![](<img/image90.png>) Warnhinweis –
 Arbeitszeitgesetz wurde möglicherweise nicht eingehalten.
 
 **Überschreitung der maximalen Tagesarbeitszeit:**
@@ -96,8 +84,7 @@ Anzeige von Ende der Tagesarbeitszeit.
 **Pausen und Unterbrechungen**
 
 Anzeige der gehaltenen Pausen. Wird das
-<img src=".\img/image91.png"
-style="width:0.28125in;height:0.21875in" /> (Pfeil) Symbol angezeigt, so
+![](<img/image91.png>)(Pfeil) Symbol angezeigt, so
 wurden mehrere Pausen und Unterberechnungen eingetragen. Sie können die
 weiteren Pausen über dieses Symbol einblenden lassen.
 
@@ -145,8 +132,7 @@ Veränderung eintrat.
 
 **Bearbeitungssperre**
 
-<img src=".\img/image92.png"
-style="width:0.3in;height:0.2in" /> Dieses Symbol bedeutet, dass in der
+![](<img/image92.png>) Dieses Symbol bedeutet, dass in der
 Honorarverrechnung eine Sperre gesetzt wurde. Die Leistungen für den
 gesperrten Zeitraum können nicht mehr bearbeitet werden. Es können auch
 keine neuen Leistungen mehr erfasst werden. Die Arbeitszeit kann jedoch
@@ -198,8 +184,7 @@ werden kann.
 
 Abb. 4‑3 Arbeitszeitkalender – Tag bearbeiten
 
-<img src=".\img/image93.png"
-style="width:1.63347in;height:1.14177in" />
+![](<img/image93.png>)
 
 Mittels des Icon’s *Heute* **(3)** wird der heutige Tag im Kalender
 markiert. Dieses Icon ist nur in der *Tagesansicht* vorhanden. Wechseln
@@ -280,8 +265,7 @@ reduziert hat und nicht der ganze Tag ein Urlaubstag war.
 
 Abb. 4‑4 Urlaubssaldo
 
-<img src=".\img/image94.png"
-style="width:6.11523in;height:0.53486in" />
+![](<img/image94.png>)
 
 Entsteht ein neuer Urlaubsanspruch, so ist die Zeile des Anspruches
 ebenso farblich hinterlegt.
@@ -291,8 +275,7 @@ ebenso farblich hinterlegt.
 Am 7.01. entsteht ein neuer Urlaubsanspruch. Farblich hinterlegt wurde
 die Veränderung des Urlaubssaldos.
 
-<img src=".\img/image95.png"
-style="width:6.01935in;height:0.78118in" />
+![](<img/image95.png>)
 
 Tipp
 
@@ -307,8 +290,7 @@ ganztätigen Urlaub.
 
 Am 12.02. und am 14.02. wurde den ganzen Tag Urlaub konsumiert.
 
-<img src=".\img/image96.png"
-style="width:6.29921in;height:0.96433in" />
+![](<img/image96.png>)
 
 Beide Zeilen werden gelb markiert dargestellt, weil an beiden Tagen
 ganztägig Urlaub konsumiert wurde.

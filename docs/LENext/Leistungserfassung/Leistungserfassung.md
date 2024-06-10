@@ -31,34 +31,37 @@ Feld Beginn oder Ende die Arbeitszeit vorschlagen zu lassen.
 Wurde keine Individuelle Arbeitszeit hinterlegt wird die
 Normalarbeitszeit aus der Honorarverrechnung vorgeschlagen.
 
-Abb. 2‑1 Arbeitszeit vorschlagen
 
-<img src=".\img/image7.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image8.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image10.png"
-style="width:6.3in;height:3.50208in" />
+
+![](<img/image7.png>)
+
+
+![](<img/image8.png>)
+
+![](<img/image9.png>)
+
+![](<img/image10.png>)
 
 Des Weiteren kann die Arbeitszeit auch mittels Kontextmenü (rechte
 Maustaste) vorgeschlagen werden.
 
-Abb. 2‑2 Arbeitszeit vorschlagen – mittels Kontextmenü
 
-<img src=".\img/image11.png"
-style="width:1.9685in;height:1.81213in" />
+
+
+![](<img/image11.png>)
 
 Die Arbeitszeit kann entweder vorgeschlagen werden (wie oben
 beschrieben), oder händisch eingetragen werden. Mittels Papierkorbsymbol
-<img src=".\img/image12.png"
-style="width:0.21986in;height:0.17275in" /> können Pausen, die
+
+![](<img/image12.png>) können Pausen, die
 fehlerhaft eingetragen wurden wieder entfernt werden. Ebenso kann durch
 neuerlichen Klick auf die fehlerhafte Arbeitszeit und Drücken der
 *Entf-Taste* die fehlerhafte Eingabe korrigiert werden.
 
-Abb. 2‑3 Pausen
 
-<img src=".\img/image13.png"
-style="width:1.65354in;height:2.23715in" />
+
+
+![](<img/image13.png>)
 
 Weitere Pausenfelder werden freigeschaltet, wenn die Beginn- und
 Ende-Zeiten eingetragen wurden.
@@ -71,8 +74,8 @@ Ende-Zeiten eingetragen wurden.
 
     Ansicht in der Leistungserfassung vom Mitarbeiter:
 
-    <img src=".\img/image14.png"
-    style="width:5.81456in;height:2.62976in" />
+    
+    ![](<img/image14.png>)
 
 -   *Arbeitszeit aus den Leistungen entnehmen*
 
@@ -87,8 +90,8 @@ Ende-Zeiten eingetragen wurden.
 
     Ansicht in der Leistungserfassung vom Mitarbeiter:
 
-    <img src=".\img/image15.png"
-    style="width:5.79134in;height:2.6499in" />
+   
+   ![](<img/image15.png>)
 
 -   *Keine Arbeitszeitaufzeichnung*
 
@@ -98,8 +101,8 @@ Ende-Zeiten eingetragen wurden.
 
     Ansicht in der Leistungserfassung vom Mitarbeiter:
 
-    <img src=".\img/image16.png"
-    style="width:5.79134in;height:2.09642in" />
+    
+    ![](<img/image16.png>)
 
 -   *Digitale Stempeluhr*
 
@@ -126,8 +129,8 @@ möglich.
 
 Ansicht in der Leistungserfassung vom Mitarbeiter:
 
-<img src=".\img/image17.png"
-style="width:6.29921in;height:2.92987in" />
+
+![](<img/image17.png>)
 
 ## Ganztägiger Zeitausgleich
 
@@ -138,18 +141,15 @@ hinterlegt werden.
 Dazu dürfen keine Beginn- und Ende-Zeiten eingetragen werden. Ebenso
 dürfen keine Pausen oder Leistungen eingetragen werden.
 
-Abb. 2‑4 ganztägiger Zeitausgleich
-
-<img src=".\img/image18.png"
-style="width:2.031in;height:1.72895in" />
+![](<img/image18.png>)
 
 Im Arbeitszeitkalender wird der ganztägige Zeitausgleich, in unserem
 Beispiel der 29.10.2019, wie folgt dargestellt:
 
 Abb. 2‑5 ganztägiger Zeitausgleich - Arbeitszeitkalender
 
-<img src=".\img/image19.png"
-style="width:6.29921in;height:0.65479in" />
+
+![](<img/image19.png>)
 
 Beim Status ist kein Hinweis, dass keine Eingabe für diesen Tag erfolgt
 ist. Der ZA Saldo wird um die konsumierten ZA Stunden reduziert.
@@ -161,18 +161,14 @@ setzten des Hakens *Homeoffice* hinterlegen.
 
 Abb. 2‑6 Homeoffice
 
-<img src=".\img/image20.png"
-style="width:1.5668in;height:1.8835in" />
+
+![](<img/image20.png>)
 
 Im Arbeitszeitkalender werden Homeoffice Tage durch einen Haken in der
 Spalte *Homeoffice* dargestellt:
 
-<img src=".\img/image8.png"
-style="width:0.35417in;height:0.35417in" />Abb. 2‑7 Homeoffice -
-Arbeitszeitkalender
 
-<img src=".\img/image21.png"
-style="width:6.29921in;height:0.74871in" />
+![](<img/image21.png>)
 
 Tipp
 
@@ -186,13 +182,13 @@ Tipp
 > Mittels Mausklick in das Feld *Tätigkeit Nr.* oder mit der Tabulator-
 > bzw. Enter-Taste **(1)** kann eine Leistungszeile eingetragen werden.
 
-Abb. 2‑8 Eingabe der Leistungen
 
-<img src=".\img/image22.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image7.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image3.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image23.png"
-style="width:6.29921in;height:2.41279in" />
+
+
+![](<img/image22.png>)
+
+
+![](<img/image23.png>)
 
 Die Tätigkeit im Eingabefeld *Tätigkeit Nr*. kann mittels Eingabe des
 Wortes gesucht werden. Alle Tätigkeiten können mit der F2-Taste, oder
@@ -237,10 +233,9 @@ fahren.
 
 Im nachfolgenden Beispiel wurden diverse Fehler produziert.
 
-Abb. 2‑9 Status
 
-<img src=".\img/image24.png"
-style="width:6.29921in;height:0.98697in" />
+
+![](<img/image24.png>)
 
 *1. Zeile:* Kein Status, die Zeile wurde vollständig erfasst.
 
@@ -277,13 +272,13 @@ Mit rechtsklick in das Textfeld und Auswahl der Option *Text in die
 Honorarnote übernehmen* (Strg+M), wird der gesamte Text gelb markiert
 und somit in die Note übernommen.
 
-<img src=".\img/image25.png"
-style="width:6.29921in;height:0.88268in" />
+
+![](<img/image25.png>)
 
 Ansicht in der Note:
 
-<img src=".\img/image26.png"
-style="width:6.3in;height:2.58472in" />
+
+![](<img/image26.png>)
 
 **Beispiel 2 – nur ein Teil soll übernommen werden:**
 
@@ -292,13 +287,13 @@ in das Textfeld und Auswahl der Option *Text in die Honorarnote
 übernehmen* (Strg+M), wird der gewählte Text gelb markiert und somit in
 die Note übernommen.
 
-<img src=".\img/image27.png"
-style="width:6.29921in;height:0.95841in" />
+
+![](<img/image27.png>)
 
 Nur der gelb hinterlegte Text wird anschließend in die Note aufgenommen.
 
-<img src=".\img/image28.png"
-style="width:6.29921in;height:0.57356in" />
+
+![](<img/image28.png>)
 
 **Beispiel 3 – mehrere einzelne Teile sollen übernommen werden**
 
@@ -309,13 +304,13 @@ in das Textfeld und Auswahl der Option *Text in die Honorarnote
 übernehmen* (Strg+M), wird der gewählte Text gelb markiert und somit in
 die Note übernommen.
 
-<img src=".\img/image29.png"
-style="width:6.29921in;height:0.61763in" />
+
+![](<img/image29.png>)
 
 Ansicht in der Note:
 
-<img src=".\img/image30.png"
-style="width:6.3in;height:2.78819in" />
+
+![](<img/image30.png>)
 
 Hinweis
 
@@ -336,13 +331,14 @@ wird ist auf den jeweiligen Eintrag mit dem Mauscursor zu fahren.
 
 Abb. 2‑10 Übersicht Arbeitszeiten, Differenzen etc.
 
-<img src=".\img/image8.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image31.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image32.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image33.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image34.png"
-style="width:6.29921in;height:2.94228in" />
+
+![](<img/image31.png>)
+
+![](<img/image32.png>)
+
+![](<img/image33.png>)
+
+![](<img/image34.png>)
 
 Die einzelnen Punkte der Infozeile werden nachfolgend erklärt:
 
@@ -395,8 +391,8 @@ Leistungserfassung der Vortag oder der nächste Tag erfasst werden.
 
 Abb. 2‑11 Vorherigen Tag/nächsten Tag erfassen
 
-<img src=".\img/image35.png"
-style="width:1.8956in;height:0.96863in" />
+
+![](<img/image35.png>)
 
 Tipp
 
@@ -420,8 +416,8 @@ beschriebenen Fällen.
 
 Abb. 2‑12 Hinweismeldung – Ruhepausen nicht eingehalten
 
-<img src=".\img/image36.png"
-style="width:2.94792in;height:0.30208in" />
+
+![](<img/image36.png>)
 
 **Nicht Einhaltung der Ruhezeiten:**
 
@@ -434,8 +430,7 @@ style="width:2.94792in;height:0.30208in" />
 
 Abb. 2‑13 Hinweismeldung – Max. Tagesarbeitszeit überschritten
 
-<img src=".\img/image37.png"
-style="width:2.80208in;height:0.33333in" />
+![](<img/image37.png>)
 
 **Überschreitung der maximalen Tagesarbeitszeit:**
 
@@ -462,8 +457,7 @@ die Leistungseingabe geöffnet und kein Klient vorgeschlagen.
 
 Abb. 2‑14 Leiststungen im KIS erfassen
 
-<img src=".\img/image38.png"
-style="width:6.29921in;height:0.88641in" />
+![](<img/image38.png>)
 
 Wird die Leistung eingetragen und auf *Speichern* geklickt, verschwindet
 der Erfassungsdialog. Die Leistung selbst finden Sie in der
@@ -480,8 +474,7 @@ Leistung, der Klient und falls vorhanden der Projektzeitraum.
 
 Abb. 2‑15 Telefonprotokoll
 
-<img src=".\img/image39.png"
-style="width:6.29921in;height:2.78896in" />
+![](<img/image39.png>)
 
 Sind mehrere Klienten im Telefonprotokoll ausgewählt, wird kein Klient
 in der Leistungseingabe vorausgefüllt. Stattdessen erscheinen die
@@ -500,16 +493,14 @@ vorgeschlagen.
 
 Abb. 2‑16 Strg + U im Board
 
-<img src=".\img/image40.png"
-style="width:6.29921in;height:0.89572in" />
+![](<img/image40.png>)
 
 Wird auf *Speichern* geklickt ist die Leistungszeile in der
 Leistungserfassung ersichtlich.
 
 Abb. 2‑17 Darstellung in Leistungserfassung
 
-<img src=".\img/image41.png"
-style="width:6.29921in;height:0.48603in" />
+![](<img/image41.png>)
 
 Die Leistung wird nicht automatisch freigegeben.
 
@@ -520,33 +511,24 @@ ICON Leistung löschen (1) oder mittels Kontextmenü gelöscht werden.
 
 Abb. 2‑18 ICON Leistungen löschen
 
-<img src=".\img/image42.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image43.png"
-style="width:5.31496in;height:0.97412in" />
+![](<img/image42.png>)
+![](<img/image43.png>)
 
 Es können auch mehrere Leistungszeilen gelöscht werden, indem diese
 mittels STRG-Taste markiert (farblich hinterlegt) werden.
 
 Abb. 2‑19 Leistungen löschen über Kontextmenü
 
-<img src=".\img/image44.png"
-style="width:5.07228in;height:1.65604in" />
+![](<img/image44.png>)
 
 Bereits in der Honorarverrechnung verrechnete Leistungen können nicht
 mehr gelöscht werden. Diese sind in der Leistungserfassung farblich grau
 **(1)** dargestellt und in der Spalte Status wird das Zeichen
-<img src=".\img/image45.png"
-style="width:0.22917in;height:0.1875in" /> für Verrechnet **(2)**
+![](<img/image45.png>)für Verrechnet **(2)**
 angezeigt.
 
-Abb. 2‑20 nicht löschbare Zeilen
 
-<img src=".\img/image42.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image33.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image46.png"
-style="width:6.29921in;height:0.70143in" />
+![](<img/image46.png>)
 
 ## Tagesfreigabe
 
@@ -566,8 +548,7 @@ Dazu gibt es mehrere Möglichkeiten.
 
 Abb. 2‑21 Tagesfreigabe über Button
 
-<img src=".\img/image47.png"
-style="width:3.0586in;height:1.10843in" />
+![](<img/image47.png>)
 
 Hinweis
 
@@ -578,8 +559,7 @@ freigegeben werden.
 
 Abb. 2‑22 Tagesfreigabe – Wechsel im Kalender
 
-<img src=".\img/image48.png"
-style="width:3.93701in;height:1.32669in" />
+![](<img/image48.png>)
 
 Wenn Sie bei obiger Meldung auf *Freigeben* klicken, werden die
 Leistungen freigegeben. Klicken Sie auf *Nicht freigeben*, werden die
@@ -594,21 +574,18 @@ Leistungen nicht für die Honorarverrechnung freigegeben.
 
 Abb. 2‑23 Freigabe über Kontextmenü
 
-<img src=".\img/image49.png"
-style="width:6.29921in;height:1.19243in" />
+![](<img/image49.png>)
 
 > 5\. Mittels Shortcut *Strg + T,* werden die Leistungen des ganzen
 > Tages freigegeben.
 
 Freigegebene Leistungen werden beim jeweiligen Tag bei den einzelnen
 Leistungszeilen in der Spalte Status mit diesem Symbol
-<img src=".\img/image50.png"
-style="width:0.21875in;height:0.21875in" /> gekennzeichnet.
+![](<img/image50.png>)gekennzeichnet.
 
 Abb. 2‑24 Status freigegebener Leistungen
 
-<img src=".\img/image51.png"
-style="width:3.85416in;height:0.92619in" />
+![](<img/image51.png>)
 
 ### Freigabe zurücksetzen
 
@@ -631,8 +608,7 @@ alle Leistungen die für diesen Tag erfasst wurden wieder auf den Status
 
 Abb. 2‑25 Tagesfreigabe aufheben
 
-<img src=".\img/image52.png"
-style="width:2.98921in;height:1.97892in" />
+![](<img/image52.png>)
 
 Für einzelne Leistungen kann ebenso die Tagesfreigabe zurückgesetzt
 werden. Dazu sind/ist die zurück zu setzende/n Leistung/en auszuwählen,
@@ -643,8 +619,7 @@ aufgehoben.
 
 Abb. 2‑26 Leistungsfreigabe über Kontextmenü aufheben
 
-<img src=".\img/image53.png"
-style="width:5.90551in;height:1.81994in" />
+![](<img/image53.png>)
 
 Mittels Shortcut *Strg + Shift + T* kann die Tagesfreigabe für den
 jeweiligen Tag wieder aufgehoben werden.
@@ -657,8 +632,7 @@ eingetragen.
 
 Abb. 2‑27 Urlaub eintragen
 
-<img src=".\img/image54.png"
-style="width:0.64575in;height:0.76032in" />
+![](<img/image54.png>)
 
 Diese Funktion ist nur möglich, wenn noch keine andere Leistung für
 diesen Tag eingetragen wurde. Ebenso darf kein ganztägiger Zeitausgleich
@@ -675,13 +649,11 @@ aktiv und bei Urlaub nach Tagen das Feld *Einheiten*.
 
 Abb. 2‑28 Leistungserfassung Urlaub in Stunden
 
-<img src=".\img/image55.png"
-style="width:4.72441in;height:1.29656in" />
+![](<img/image55.png>)
 
 Abb. 2‑29 Leistungserfassung Urlaub in Tagen
 
-<img src=".\img/image56.png"
-style="width:4.72441in;height:1.28399in" />
+![](<img/image56.png>)
 
 1 Einheit = 1 ganzer Tag Urlaub
 
@@ -696,8 +668,7 @@ automatisch eingetragen.
 
 Abb. 2‑30 Krankenstand eintragen
 
-<img src=".\img/image57.png"
-style="width:0.88542in;height:0.71875in" />
+![](<img/image57.png>)
 
 Diese Funktion ist auch nur möglich, wenn noch keine andere Leistung für
 diesen Tag eingetragen wurde. Ebenso darf kein ganztägiger Zeitausgleich
@@ -712,8 +683,7 @@ Tätigkeit auswählen.
 
 Abb. 2‑31 Auswahl Krankenstandstätigkeit
 
-<img src=".\img/image58.png"
-style="width:4.73442in;height:1.08309in" />
+![](<img/image58.png>)
 
 Hinweis
 
@@ -733,16 +703,14 @@ definiert werden.
 
 Abb. 2‑32 Darstellung im Kalender
 
-<img src=".\img/image59.png"
-style="width:6.29921in;height:0.43576in" />
+![](<img/image59.png>)
 
 Mittels Doppelklick auf den Feiertag wird der Feiertag automatisch vom
 Programm eingetragen.
 
 Abb. 2‑33 automatische Eintragung des Feiertages
 
-<img src=".\img/image60.png"
-style="width:6.29921in;height:1.05587in" />
+![](<img/image60.png>)
 
 Der Feiertag ist in der Tageserfassung in roter Schrift dargestellt.
 Wurde in der Honorarverrechnung eine Tätigkeit als Feiertag definiert,
@@ -776,8 +744,7 @@ Eingaben des letzten Monats anzeigt.
 
 Abb. 2‑34 unvollständige Tage
 
-<img src=".\img/image61.png"
-style="width:5.70866in;height:1.99311in" />
+![](<img/image61.png>)
 
 Durch Doppelklick kann einfach in den jeweiligen Tag gesprungen werden
 und der Fehler korrigiert werden.
@@ -789,8 +756,7 @@ in der Leistungserfassung unter dem Punkt *Leistungen*.
 
 Abb. 2‑35 manueller Aufruf
 
-<img src=".\img/image62.png"
-style="width:2.3622in;height:0.9553in" />
+![](<img/image62.png>)
 
 Hinweis
 
@@ -804,10 +770,8 @@ Leistungen und Arbeitszeiten zu importieren. Den Importdialog öffnen Sie
 in der Leistungserfassung über den Reiter *Datenübernahme /
 Datenimport*.
 
-Abb. 2‑36 Datenübernahme
 
-<img src=".\img/image63.png"
-style="width:3.41696in;height:1.30845in" />
+![](<img/image63.png>)
 
 Hinweis
 
@@ -829,24 +793,17 @@ Vorprüfung können Sie mit der Schaltfläche *Prüfen und Importieren*
 
 Folgende Ergebnisse kann die Prüfung liefern:
 
-<img src=".\img/image64.png"
-style="width:0.36528in;height:0.19097in" /> Info – Dies erhalten Sie,
+![](<img/image64.png>)Info – Dies erhalten Sie,
 wenn Bsp. der Projektzeitraum im falschen Format ist und daher nicht
 übernommen wird. Der Import kann dennoch durchgeführt werden.
 
-<img src=".\img/image65.png"
-style="width:0.36528in;height:0.16528in" /> Fehler – Der Import kann
+![](<img/image65.png>)Fehler – Der Import kann
 nicht durchgeführt werden. Die Importdatei muss dementsprechend
 angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
 
 Abb. 2‑37 Datenimport Leistungen
 
-<img src=".\img/image42.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image66.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image67.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image68.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image69.png"
-style="width:6.29921in;height:1.59529in" />
+![](<img/image69.png>)
 
 Hinweis
 
@@ -859,8 +816,7 @@ Die Importdatei der Leistungen muss wie folgt aufgebaut sein:
 
 Abb. 2‑38 Aufbau Importdatei Leistungen
 
-<img src=".\img/image70.png"
-style="width:6.3in;height:0.44792in" />
+![](<img/image70.png>)
 
 Das Datum und die Mitarbeiternummer sind Pflichtfelder. Die restlichen
 Felder sind wie in der Leistungserfassung einzugeben. Nicht benötigte
@@ -995,8 +951,7 @@ werden. Dies machen Sie, indem Sie den Tag über den Kalender öffnen und
 
 Abb. 2‑39 Leistungen freigeben
 
-<img src=".\img/image71.png"
-style="width:2.91692in;height:1.14177in" />
+![](<img/image71.png>)
 
 ### Datenimport Arbeitszeiten
 
@@ -1013,20 +968,13 @@ Vorprüfung können Sie mir der Schaltfläche *Prüfen und Importieren*
 
 Folgende Ergebnisse kann die Prüfung liefern:
 
-<img src=".\img/image65.png"
-style="width:0.36528in;height:0.16528in" /> Fehler – Der Import kann
+![](<img/image65.png>) Fehler – Der Import kann
 nicht durchgeführt werden. Die Importdatei muss dementsprechend
 angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
 
 Abb. 2‑40 Datenimport Arbeitszeiten
 
-<img src=".\img/image67.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image42.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image68.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image66.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image72.png"
-style="width:6.29921in;height:1.41652in" />
+![](<img/image72.png>)
 
 Hinweis
 
@@ -1039,8 +987,7 @@ Die Importdatei der Arbeitszeiten muss wie folgt aufgebaut sein:
 
 Abb. 2‑41 Aufbau Importdatei Arbeitszeiten
 
-<img src=".\img/image73.png"
-style="width:6.3in;height:0.48125in" />
+![](<img/image73.png>)
 
 Das Datum und die Mitarbeiternummer sind Pflichtfelder. Die restlichen
 Felder sind wie in der Leistungserfassung einzugeben. Nicht benötigte

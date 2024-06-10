@@ -20,8 +20,7 @@ Arbeitszeiten in folgenden Formaten exportiert werden:
 
 Abb. 6‑1 Liste exportieren
 
-<img src=".\img/image102.png"
-style="width:3.14961in;height:1.83591in" />
+![](<img/image102.png>)
 
 Wird auf eines der oben genannten Formate geklickt öffnet sich der
 *Speichern unter* Dialog. Sie können nun den Speicherort wählen und den
@@ -33,8 +32,7 @@ sich das Dokument am Bildschirm.
 
 Abb. 6‑2 Liste exportieren - Abfrage
 
-<img src=".\img/image103.png"
-style="width:3.51248in;height:1.53081in" />
+![](<img/image103.png>)
 
 ## Liste drucken
 
@@ -43,8 +41,7 @@ RZL-Druckvorschau.
 
 Abb. 6‑3 Liste drucken
 
-<img src=".\img/image104.png"
-style="width:2.57292in;height:0.93301in" />
+![](<img/image104.png>)
 
 Die RZL-Druckvorschau bietet Ihnen nachfolgende Möglichkeiten.
 
@@ -75,13 +72,5 @@ Nachfolgend erhalten Sie nach dem Export die Abfrage ob Sie die
 exportierte Liste öffnen wollen. Wenn Sie auf *Öffnen* klicken öffnet
 sich das Dokument am Bildschirm.
 
-Abb. 6‑4 RZL Druckvorschau
 
-<img src=".\img/image105.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image106.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image32.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image7.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image33.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image42.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image107.png"
-style="width:6.08665in;height:4.13936in" />
+![](<img/image107.png>)

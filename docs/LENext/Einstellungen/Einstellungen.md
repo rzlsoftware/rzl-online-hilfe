@@ -11,8 +11,7 @@ Dazu müssen Sie auf das Registerblatt *Einstellungen* und auf den Button
 
 Abb. 3‑1 Einstellungen Leistungserfassung
 
-<img src=".\img/image74.png"
-style="width:5.62529in;height:5.23638in" />
+![](<img/image74.png>)
 
 Hinweis
 
@@ -81,8 +80,7 @@ erzeugen* gesetzt ist.
 Abb. 3‑2 Ansicht im KIS beim Erfassen eines Telefonprotokolles mit der
 Option *Leistungen erfassen*
 
-<img src=".\img/image75.png"
-style="width:6.29921in;height:3.53446in" />
+![](<img/image75.png>)
 
 ### Aktivitäten RZL Klassik Programme
 
@@ -111,11 +109,7 @@ Aktivitäten in der Leistungserfassung unter dem Punkt
 
 Abb. 3‑3 Programmaktivitäten
 
-<img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image42.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image76.png"
-style="width:6.29921in;height:1.60398in" />
+![](<img/image76.png>)
 
 Die Prorammaktivitäten können mittels Pfeiles **(1)** eingeklappt, oder
 ausgeklappt werden. Es gibt 3 mögliche Stadien die Programmaktivitäten
@@ -141,16 +135,14 @@ werden in grauer Schriftfarbe dargestellt.
 
 Abb. 3‑4 Programmaktivitäten anzeigen
 
-<img src=".\img/image77.png"
-style="width:4.60417in;height:1.81983in" />
+![](<img/image77.png>)
 
 Nicht relevante Programmaktivitäten können mit der rechten Maustaste als
 relevant markiert werden.
 
 Abb. 3‑5 Programmaktivitäten als relevant markieren
 
-<img src=".\img/image78.png"
-style="width:5.66667in;height:1.49352in" />
+![](<img/image78.png>)
 
 Wird eine bereits zugeordnete Leistung wieder gelöscht, ändert sich der
 Status von Z*ugeordnet* auf *Nicht zugeordnet*.
@@ -188,12 +180,7 @@ Es stehen Ihnen folgende Platzhalter zur Verfügung:
 
 Abb. 3‑6 persönliche Textbausteine
 
-<img src=".\img/image9.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image7.png"
-style="width:0.35417in;height:0.35417in" /><img src=".\img/image3.png"
-style="width:0.35417in;height:0.35417in" />
-<img src=".\img/image79.png"
-style="width:5.90551in;height:2.84219in" />
+![](<img/image79.png>)
 
 > **Hinweis**
 >
@@ -216,11 +203,9 @@ die *F3-Taste* – es wird gleich der jeweilige Textbaustein eingefügt.
 Im Textfeld können nun mit der rechten Maustaste alle Textbausteine
 aufgerufen werden:
 
-<img src=".\img/image80.png"
-style="width:6.29921in;height:0.94972in" />
+![](<img/image80.png>)
 
 Oder Sie geben die Nummer des Textbausteines ein und wählen die
 F3-Taste.
 
-<img src=".\img/image81.png"
-style="width:6.29921in;height:0.70453in" />
+![](<img/image81.png>)
