@@ -11,14 +11,12 @@ bearbeitenden Mitarbeiter mit einem Doppelklick aus.
 Beim Mitarbeiter selbst klicken Sie auf *HON,* um die
 Honorarverrechnungs-Einstellungen zu hinterlegen.
 
-Abb. 5‑1 Stammdaten Mitarbeiter
 
 ![](<img/image104.png>)
 
-HInweis
-
-Die HON Mitarbeiterstammdaten sind nur für jene Personen ersichtlich,
-die auch das HON Modul (Rolle Honorarverrechnung) benutzen dürfen.
+!!! warning "Hinweis"
+    Die HON Mitarbeiterstammdaten sind nur für jene Personen ersichtlich,
+    die auch das HON Modul (Rolle Honorarverrechnung) benutzen dürfen.
 
 Die Eingabefelder *Zeitausgleich Stichtag* und *Zeitausgleich
 Anfangsbestand* sind für die Berechnung des Zeitausgleiches in der
@@ -48,16 +46,14 @@ Arbeits- und Leistungszeit übereinstimmen, ob das Arbeitszeitgesetzt
 eingehalten wird oder ob die Leistungserfassung vollständig ist (Bsp.
 Erfassung ganztätiger Zeitausgleich nicht notwendig).
 
-Tipp
+!!! info "Tipp"
+    Ausgetretene Mitarbeiter können Sie für die Leistungserfassung sperren,
+    indem Sie in den Mitarbeiterstammdaten ein **Austrittsdatum** eintragen.
 
-Ausgetretene Mitarbeiter können Sie für die Leistungserfassung sperren,
-indem Sie in den Mitarbeiterstammdaten ein **Austrittsdatum** eintragen.
-
-Tipp
-
-Die HON Mitarbeiter Stammdaten sind generationsverwaltet. Falls eine
-Änderung ab einem bestimmten Zeitpunkt gelten soll, so ist eine neue
-Generation anzulegen.
+!!! info "Tipp"
+    Die HON Mitarbeiter Stammdaten sind generationsverwaltet. Falls eine
+    Änderung ab einem bestimmten Zeitpunkt gelten soll, so ist eine neue
+    Generation anzulegen.
 
 Wird eine Änderung ohne neue Generation eingegeben, erhalten Sie
 folgenden Hinweis:
@@ -74,13 +70,10 @@ Mitarbeiter tätig ist **(1).** Weiters ist in den Stammdaten des
 Klienten im Reiter *Klientendaten* festzulegen, welchem
 Unternehmensbereich der Klient angehört **(2).**
 
-Abb. 5‑2 Zuordnung Mitarbeiter zu Unternehmensbereich
 
 ![](<img/image106.png>)
 
-Abb. 5‑3 Zuordnung Klient zu Unternehmensbereich
 
-![](<img/image107.png>)
 ![](<img/image108.png>)
 
 In den Mitarbeiterstammdaten im Reiter *Transferstundensätze* werden die
@@ -93,7 +86,6 @@ einen Klienten Leistungen erbringt, der einem anderen
 Unternehmensbereich zugeordnet ist als der Mitarbeiter selbst. Der
 Transfer-Stundensatz wird für die Transferstunden Statistik benötigt.
 
-Abb. 5‑4 Transferstundensätze
 
 ![](<img/image109.png>)
 
@@ -102,7 +94,6 @@ Abb. 5‑4 Transferstundensätze
 Im HON Next können Sie über den Menüpunkt *Auswertungen* eine
 Transferstunden Statistik öffnen.
 
-Abb. 5‑5 Transferstunden Statistik
 
 ![](<img/image110.png>)
 
@@ -115,7 +106,6 @@ die dargestellten Zeilen eingeschränkt werden.
 Die Spalte *Transferwert* wird aufgrund der erfassten Dauer \* dem
 hinterlegten Transferstundensatz beim Mitarbeiter ermittelt.
 
-Abb. 5‑6 Transferstunden Statistik Zeilen
 
 ![](<img/image111.png>)
 
@@ -135,7 +125,6 @@ Mitarbeiter, welche dem *Unternehmensbereich Vier* zugeordnet sind haben
 für Klienten des Rechnungsstellers *RZL Steuerberatung* 4 Stunden
 erfasst.
 
-Abb. 5‑7 Unternehmensbereich zu Rechnungssteller
 
 ![](<img/image112.png>)
 

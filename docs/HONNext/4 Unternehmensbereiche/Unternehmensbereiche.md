@@ -11,13 +11,12 @@ Ihre Unternehmensbereiche befinden sich **im Bord** unter der Rubrik
 dieser Punkt von Ihnen ausgewählt, so öffnet sich ein eigener Tab für
 die Unternehmensbereiche.
 
-Hinweis
+!!! warning "Hinweis"
+    Die Unternehmensbereiche können nur bearbeitet werden, wenn Sie im
+    Berechtigungssystem eine Rolle mit der Eigenschaft *Unternehmensbereiche
+    verwalten* zugeordnet haben.
 
-Die Unternehmensbereiche können nur bearbeitet werden, wenn Sie im
-Berechtigungssystem eine Rolle mit der Eigenschaft *Unternehmensbereiche
-verwalten* zugeordnet haben.
 
-Abb. 4‑1 Unternehmensbereiche
 
 ![](<img/image100.png>)
 
@@ -32,7 +31,6 @@ und Bankverbindung hinterlegt werden. Über den Button *zur*
 *Klientenansicht* gelangen Sie in die Stammdaten des Klienten und über
 den Button *zur Firmenansicht* gelangen Sie zur Firmenansicht.
 
-Abb. 4‑2 Neuen Unternehmensbereich anlegen
 
 ![](<img/image101.png>)
 
@@ -42,13 +40,11 @@ zugehörige Notenvorlage und die Zahlungsbedingungen hinterlegen. Ebenso
 ist die Hinterlegung eines PDF-Briefpapier möglich. Bei *Briefpapier*
 ist der Pfad, wo das Briefpapier abgespeichert ist zu definieren.
 
-Hinweis
+!!! warning "Hinweis"
+    Das hinterlegte Briefpapier wird für die Ausgabe der Note verwendet
+    (Druckvorschau, Ausgabe Beleg, Ausdruck in den PDF-Manager sowie auch
+    beim Ausdruck auf Papier).
 
-Das hinterlegte Briefpapier wird für die Ausgabe der Note verwendet
-(Druckvorschau, Ausgabe Beleg, Ausdruck in den PDF-Manager sowie auch
-beim Ausdruck auf Papier).
-
-Abb. 4‑3 Unternehmensbereich - HON
 
 ![](<img/image102.png>)
 
@@ -59,7 +55,6 @@ Klienten einem Unternehmensbereich zuzuordnen ist im BOARD in den
 Stammdaten des Klienten. Auch hier können Sie unterhalb dem zugeordneten
 Betrieb den Unternehmensbereich zuordnen.
 
-Abb. 4‑4 Unternehmensbereich – Klienten zuordnen
 
 ![](<img/image103.png>)
 

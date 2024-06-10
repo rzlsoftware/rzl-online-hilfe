@@ -76,10 +76,9 @@ deaktiviert:
 
 ![](<img/image80.png>)
 
-Hinweis
-
-Diese Einstellung kann während der Notenerstellung individuell pro Note
-geändert werden.
+!!! warning "Hinweis"
+    Diese Einstellung kann während der Notenerstellung individuell pro Note
+    geändert werden.
 
 **Erfassungsklienten getrennt ausweisen**
 
@@ -100,12 +99,11 @@ dazugehörigen Leistungen angeführt.
 Sollte eine Note ohne Aufteilung auf die Erfassungsklienten erfolgen,
 ist die Option Erfassungsklienten getrennt ausweisen zu deaktivieren.
 
-Hinweis
-
-Sind die Optionen *Verrechnungsgruppen getrennt ausweisen* und
-*Erfassungsklienten getrennt ausweisen* gemeinsam aktiviert, erfolgt bei
-der Notenerstellung zusätzlich eine Unterteilung pro Erfassungsklient
-pro Verrechnungsgruppe.
+!!! warning "Hinweis"
+    Sind die Optionen *Verrechnungsgruppen getrennt ausweisen* und
+    *Erfassungsklienten getrennt ausweisen* gemeinsam aktiviert, erfolgt bei
+    der Notenerstellung zusätzlich eine Unterteilung pro Erfassungsklient
+    pro Verrechnungsgruppe.
 
 **Note beim „Speichern & schließen finalisieren**
 
@@ -152,10 +150,9 @@ der Betrag wird zur nächsten Tätigkeit der gleichen Verrechnungsgruppe
 
 ![](<img/image83.png>)
 
-Hinweis
-
-Eine Gruppierung kann auch individuell pro Note gemacht werden. Siehe
-Kapitel 11.4.9, Seite [94](#notenzeilen-gruppieren).
+!!! warning "Hinweis"
+    Eine Gruppierung kann auch individuell pro Note gemacht werden. Siehe
+    Kapitel 11.4.9, Seite [94](#notenzeilen-gruppieren).
 
 **Beispiel 2:** Gleiche Ausgangssituation wie Beispiel 1. In den
 Grundeinstellungen sind die Optionen *Verrechnungsgruppen getrennt
@@ -169,11 +166,10 @@ addiert werden kann.
 
 ![](<img/image84.png>)
 
-Hinweis
-
-Wird nur eine Tätigkeit auf der gesamten Note abgerechnet und ist diese
-ohne Betrag deklariert ist, wird hier auch dennoch der Betrag
-angedruckt.
+!!! warning "Hinweis"
+    Wird nur eine Tätigkeit auf der gesamten Note abgerechnet und ist diese
+    ohne Betrag deklariert ist, wird hier auch dennoch der Betrag
+    angedruckt.
 
 **Beispiel 3:** Gleiche Ausgangssituation wie Beispiel 1. In den
 Grundeinstellungen ist die Option *Verrechnungsgruppen getrennt
@@ -191,10 +187,9 @@ Verrechnungsgruppe gebildet.
 
 ![](<img/image85.png>)
 
-Hinweis
-
-Ist die Option *Verrechnungsgruppen getrennt ausweisen* aktiv, wird
-immer pro Verrechnungsgruppe eine Summe gebildet.
+!!! warning "Hinweis"
+    Ist die Option *Verrechnungsgruppen getrennt ausweisen* aktiv, wird
+    immer pro Verrechnungsgruppe eine Summe gebildet.
 
 **Notentitel**
 
@@ -228,14 +223,12 @@ Folgende Platzhalter stehen Ihnen zur Verfügung:
 Unter dem Feld *Notentitel* wird beispielhaft dargestellt, welche Werte
 die Platzhalter bzw. ihr gewählter Titel liefert.
 
-Abb. 3‑4 Beispiel Notentitel
 
 ![](<img/image86.png>)
 
-Tipp
-
-Wird im Feld *Notentitel* nichts hinterlegt, lautete der Titel der Note
-„Note\_Note.Datum\_Note.Nummer“
+!!! info "Tipp"
+    Wird im Feld *Notentitel* nichts hinterlegt, lautete der Titel der Note
+    „Note\_Note.Datum\_Note.Nummer“
 
 ### PDF-Erstellung
 
@@ -254,7 +247,6 @@ angezeigt werden, welche die Schrift installiert haben. Fehlt die
 Schrift auf dem Endgerät, erhält der Benutzer folgende Meldung und das
 PDF kann nicht korrekt dargestellt werden.
 
-Abb. 3‑5 Schriftart nicht einbetten
 
 ![](<img/image87.png>)
 
@@ -270,10 +262,9 @@ Honorarnote diese automatisch als Ausgangsrechnung in das Belegsystem
 Belegverarbeitung. Diese Option kann nur gesetzt werden, wenn Sie das
 Modul Belegverarbeitung lizenziert haben.
 
-Hinweis
-
-Finalisierte Noten können nur unter gewissen Umständen wieder verändert
-werden (siehe Kapitel 15.9, Seite [145](#note-zurücksetzen)).
+!!! warning "Hinweis"
+    Finalisierte Noten können nur unter gewissen Umständen wieder verändert
+    werden (siehe Kapitel 15.9, Seite [145](#note-zurücksetzen)).
 
 **Buchungstext**
 
@@ -303,19 +294,16 @@ Folgende Platzhalter stehen Ihnen zur Verfügung:
 Unter dem Feld *Buchungstext* wird beispielhaft dargestellt, welche
 Werte die Platzhalter bzw. ihr gewählter Text liefert.
 
-Abb. 3‑6 Beispiel Buchungstext
 
 ![](<img/image88.png>)
 
-Hinweis
+!!! warning "Hinweis"
+    In der Finanzbuchhaltung ist der Buchungstext mit 80 Zeichen beschränkt.
+    Ein längerer Buchungstext wird beim Verbuchen abgeschnitten.
 
-In der Finanzbuchhaltung ist der Buchungstext mit 80 Zeichen beschränkt.
-Ein längerer Buchungstext wird beim Verbuchen abgeschnitten.
-
-Tipp
-
-Der Buchungstext ist kein Pflichtfeld und kann somit auch leer gelassen
-werden.
+!!! info "Tipp"
+    Der Buchungstext ist kein Pflichtfeld und kann somit auch leer gelassen
+    werden.
 
 **Standart-Debitoren-Kontonummer**
 
@@ -335,10 +323,9 @@ werden.
     immer ein bestimmter Wert addiert wird. Bsp. Wert 20000 –
     Klientennummer 500 entspricht der Debitoren Kontonummer 20500
 
-Hinweis
-
-Den Vorschlag der Debitorennummer ist in den Klientenstammdaten (Kapitel
-6.3, Seite [60](buchhaltung-1)) ersichtlich.
+!!! warning "Hinweis"
+    Den Vorschlag der Debitorennummer ist in den Klientenstammdaten (Kapitel
+    6.3, Seite [60](buchhaltung-1)) ersichtlich.
 
 ### Verteilung der Zu- und Abschläge
 
@@ -375,7 +362,6 @@ Wählen Sie den Button *Mitarbeiter Leistungserfassung* aus, um die
 Grundeinstellungen für Sperren der Leistungserfassung festzulegen oder
 die Leistungen automatisch freigeben zu lassen.
 
-Abb. 3‑7 Mitarbeiter Leistungserfassung
 
 ![](<img/image89.png>)
 
@@ -404,11 +390,10 @@ Abb. 3‑7 Mitarbeiter Leistungserfassung
     Ansicht in der Leistungserfassung vom
     Mitarbeiter:![](<img/image91.png>)
 
-Tipp
-
-Bei der Einstellung *Arbeitszeit aus den Leistungen entnehmen* ist es
-empfehlenswert in den Stammdaten der Tätigkeiten die *Uhrzeiteingabe
-verpflichtend* zu machen (Kapitel 2.2, Seite [14](#tätigkeiten)).
+!!! info "Tipp"
+    Bei der Einstellung *Arbeitszeit aus den Leistungen entnehmen* ist es
+    empfehlenswert in den Stammdaten der Tätigkeiten die *Uhrzeiteingabe
+    verpflichtend* zu machen (Kapitel 2.2, Seite [14](#tätigkeiten)).
 
 -   *Keine Arbeitszeitaufzeichnung*
 
@@ -433,20 +418,18 @@ verpflichtend* zu machen (Kapitel 2.2, Seite [14](#tätigkeiten)).
     Die Arbeitszeiten können mit der digitalen Stempeluhr nur für den
     aktuellen Tag erfasst werden.
 
-Hinweis
-
-Die Arbeitszeiten sowie die Pausen sind nur in einer Leseansicht
-dargestellt und können in der Leistungserfassung vom Mitarbeiter nicht
-geändert werden.
+!!! warning "Hinweis"
+    Die Arbeitszeiten sowie die Pausen sind nur in einer Leseansicht
+    dargestellt und können in der Leistungserfassung vom Mitarbeiter nicht
+    geändert werden.
 
 Änderungen an den Arbeitszeiten können nur direkt in der
 Honorarverrechnung über die Mitarbeiterübersicht durchgeführt werden
 (vgl. Kapitel 9, Seite [69](#mitarbeiterübersicht)).
 
-Hinweis
-
-Bei der Digitalen Stempeluhr, ist der Import von Arbeitszeiten nicht
-möglich (Kapitel 9.3, Seite [74](#import-arbeitszeiten-und-leistungen)).
+!!! warning "Hinweis"
+    Bei der Digitalen Stempeluhr, ist der Import von Arbeitszeiten nicht
+    möglich (Kapitel 9.3, Seite [74](#import-arbeitszeiten-und-leistungen)).
 
 Ansicht in der Leistungserfassung vom
 Mitarbeiter:![](<img/image93.png>)
@@ -509,9 +492,8 @@ Ebenfalls kann definiert werden, dass erst ab einer gewissen
 Mindestanzahl von Minuten die Programmaktivität aus den Klassik
 Programmen aufgezeichnet werden.
 
-Hinweis
-
-Pro Programmaktivität ist die Zuordnung einer Tätigkeit möglich.
+!!! warning "Hinweis"
+    Pro Programmaktivität ist die Zuordnung einer Tätigkeit möglich.
 
 ## Einstellungen Urlaubsverwaltung
 
@@ -522,30 +504,25 @@ Bei der Urlaubsverwaltung in Tagen kann zusätzlich definiert werden, ob
 die Eingabe halber Urlaubstage möglich ist oder nur ganztätige Urlaube
 erlaubt sind.
 
-Hinweis
+!!! warning "Hinweis"
+    Wird die Verwaltungsart des Urlaubs geändert ist zwingend eine neue
+    Generation anzulegen.
 
-Wird die Verwaltungsart des Urlaubs geändert ist zwingend eine neue
-Generation anzulegen.
-
-Abb. 3‑8 Einstellungen Urlaubsverwaltung
 
 ![](<img/image94.png>)
 
 Bei der Verwaltung in Stunden und in Tagen ist die Urlaubstätigkeit wie
 folgt anzulegen (vgl. Kapitel 2.2.1, Seite [15](#_Ref143773736)):
 
-Abb. 3‑9 Urlaubstätigkeit
 
 ![](<img/image95.png>)
 
 In der Leistungserfassung ist bei Urlaub nach Stunden das Feld *Dauer*
 aktiv und bei Urlaub nach Tagen das Feld *Einheiten*.
 
-Abb. 3‑10 Leistungserfassung Urlaub in Stunden
 
 ![](<img/image96.png>)
 
-Abb. 3‑11 Leistungserfassung Urlaub in Tagen
 
 ![](<img/image97.png>)
 
@@ -578,19 +555,16 @@ Folgende Bewegungsdaten können gelöscht werden:
     Pauschalzeilen und Akonto/Anzahlungen) – der Stichtag bezieht sich
     auf das Notendatum und es umfasst vorläufige und finalisierte Noten.
 
-Hinweis
+!!! warning "Hinweis"
+    Beim Löschen der Honoranten werden alle Noten bis zum definierten
+    Stichtag inkl. die damit verbundenen Zeilen gelöscht. Ebenso wird der
+    ZA-Stichtag sowie der ZA-Anfangsstand der Mitarbeiter angepasst sowie
+    die Urlaubskartei komprimiert.
 
-Beim Löschen der Honoranten werden alle Noten bis zum definierten
-Stichtag inkl. die damit verbundenen Zeilen gelöscht. Ebenso wird der
-ZA-Stichtag sowie der ZA-Anfangsstand der Mitarbeiter angepasst sowie
-die Urlaubskartei komprimiert.
+!!! warning "Hinweis"
+    Sollte es noch **ungebuchte** Belege geben aus Zeiträumen die Sie
+    löschen, sind diese zusätzlich in der Belegverwaltung zu löschen.
 
-Hinweis
-
-Sollte es noch **ungebuchte** Belege geben aus Zeiträumen die Sie
-löschen, sind diese zusätzlich in der Belegverwaltung zu löschen.
-
-Abb. 3‑12 Bewegungsdaten löschen
 
 ![](<img/image98.png>)
 
@@ -604,17 +578,15 @@ Die Stammdaten (Verrechnungsgruppen, Tätigkeiten, Tarifschemata,
 Arbeitszeitmodelle, Nummernbereiche, Feiertagsverwaltung und
 Notenvorlagen) bleiben erhalten.
 
-Hinweis
+!!! warning "Hinweis"
+    Wurden im Zuge der Notenerstellung auch Belege erzeugt, sind diese in
+    extra der Belegverwaltung zu löschen.
 
-Wurden im Zuge der Notenerstellung auch Belege erzeugt, sind diese in
-extra der Belegverwaltung zu löschen.
-
-Hinweis
-
-**Dieser Programmteil sollte nur verwendet werden, um Daten zu löschen
-die probeweise erstellt worden sind und nicht mehr benötigt werden.**  
-Bsp. nach der Einarbeitungsphase bevor mit dem Echtbetrieb gestartet
-wird.
+!!! warning "Hinweis"
+    **Dieser Programmteil sollte nur verwendet werden, um Daten zu löschen
+    die probeweise erstellt worden sind und nicht mehr benötigt werden.**  
+    Bsp. nach der Einarbeitungsphase bevor mit dem Echtbetrieb gestartet
+    wird.
 
 ### Protokolle
 
@@ -625,11 +597,9 @@ Informationen darüber, falls ein Löschen bestimmter Daten nicht möglich
 war. Bsp. Solange es verrechnete aber nicht ausgeglichene Pauschalzeilen
 gibt, kann diese Note nicht gelöscht werden.
 
-Abb. 3‑13 Bewegungsdaten löschen Protokoll
 
 ![](<img/image99.png>)
 
-Hinweis
-
-Das Bewegungsdaten löschen und/oder zurücksetzten kann nicht rückgängig
-gemacht werden.
+!!! warning "Hinweis"
+    Das Bewegungsdaten löschen und/oder zurücksetzten kann nicht rückgängig
+    gemacht werden.
