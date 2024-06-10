@@ -131,10 +131,6 @@ Neue Tätigkeiten können Sie entweder über die Schaltfläche im Ribbon
 **(1)** „*Neue Tätigkeit*“ oder über die Schaltfläche **(2)** „*Neue
 Tätigkeit*“ im rechten unteren Bereich anlegen.
 
-
-![](<img/image22.png>)
-![](<img/image23.png>)
-
 ![](<img/image24.png>)
 
 Nun öffnet sich im unteren Bereich die Eingabe für eine neue Tätigkeit.
@@ -163,10 +159,6 @@ eingetragen werden.
     während der Notenerstellung ergänzt werden.
 
 
-![](<img/image25.png>)
-![](<img/image26.png>)
-
-![](<img/image27.png>)
 ![](<img/image28.png>)
 
 Nachfolgend werden Ihnen die einzelnen Optionen im Reiter *Allgemein*
@@ -374,9 +366,6 @@ oder über die Schaltfläche „*Tätigkeitsnummer ändern*“ **(2)** geändert
 werden.
 
 
-![](<img/image26.png>)
-![](<img/image31.png>)
-
 ![](<img/image32.png>)
 
 
@@ -522,7 +511,6 @@ Tarifschema einblenden zu lassen. Mithilfe des kleinen Pfeilsymbols
 zugeordneten Tätigkeiten je Generation angezeigt.
 
 
-![](<img/image19.png>)
 ![](<img/image39.png>)
 
 Standartmäßig wird Ihnen hier nur die aktuell gültige Generation
@@ -593,11 +581,6 @@ eingegeben werden.
     markiert werden und in Einem zum jeweiligen Satz zugeordnet werden.
 
 
-![](<img/image45.png>)
-![](<img/image46.png>)
-![](<img/image47.png>)
-![](<img/image22.png>)
-
 ![](<img/image48.png>)
 
 Wenn Sie auf *Speichern* klicken, werden Ihre Einstellungen gespeichert.
@@ -622,8 +605,6 @@ können einfach mittels Drag & Drop zum gewünschten Satz gezogen werden
 eingeblendet werden.
 
 
-![](<img/image26.png>)
-![](<img/image23.png>)
 ![](<img/image49.png>)
 
 !!! warning "Hinweis"
@@ -762,8 +743,6 @@ Wählen Sie den betroffenen Tarif **(1)**, wo die neue Tätigkeit
 hineinfällt. Hierbei sind auch Mehrfachselektionen möglich. Anschließend
 wählen Sie die Schaltfläche Tätigkeit zuordnen **(2).**
 
-![](<img/image31.png>)
-![](<img/image19.png>)
 ![](<img/image57.png>)
 
 Nun müssen Sie die Tätigkeit auswählen, welche zu den ausgewählten
@@ -789,12 +768,6 @@ Wählen Sie den Menüpunkt *Stammdaten – Arbeitszeitmodelle* aus, um ein
 Arbeitszeitmodell anzulegen bzw. zu verwalten. Es öffnet sich ein
 eigener Tab für die Arbeitszeitmodelle.
 
-
-![](<img/image59.png>)
-![](<img/image60.png>)
-![](<img/image61.png>)
-![](<img/image22.png>)
-![](<img/image31.png>)
 
 ![](<img/image62.png>)
 
@@ -866,11 +839,6 @@ Beispiel für mehrere Unternehmensbereiche, anlegen.
 Wählen Sie den Menüpunkt *Stammdaten / Nummernbereiche* aus, um die
 Nummerierung der Honorarnoten zu definieren bzw. zu verwalten. Es öffnet
 sich ein eigener Tab für die Nummernbereiche.
-
-
-![](<img/image22.png>)
-![](<img/image25.png>)
-![](<img/image31.png>)
 
 ![](<img/image64.png>)
 

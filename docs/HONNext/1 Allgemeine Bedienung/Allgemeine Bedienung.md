@@ -5,8 +5,6 @@
 Durch die Anwahl des Menüpunktes HON (1) gelangen Sie in die
 Honorarverrechnung.
 
-![](<img/image2.png>)
-
 ![](<img/image3.png>)
 
 
@@ -35,9 +33,6 @@ Notenerstellung und der Notenrückblick gleichzeitig geöffnet sein.
 und anschließend wieder ins RZL Board eindocken.
 
 
-
-![](<img/image5.png>)
-
 ![](<img/image6.png>)
 
 Weitere Informationen zur Allgemeinen Bedienung, wie zum Beispiel zu den
@@ -60,10 +55,6 @@ Menüpunkten dieselbe Vorgehensweise.
 
 Beispiel: Sie möchten eine neue Generation für eine Tätigkeit anlegen.
 
-
-
-![](<img/image5.png>)
-
 Sie klicken immer auf den Button *Generation* **(1)**. Danach wird Ihnen
 der Zeitstreifen der Generation eingeblendet und Sie können eine neue
 Generation anlegen. Wenn Sie auf „*neue Generation***“ (2)** geklickt
@@ -83,11 +74,6 @@ Tätigkeit ab der neuen Generation setzen und speichern. Die neue
 Generation ist mit einem ab Datum (2) gekennzeichnet. Dieses Datum
 finden Sie auch im linken Bereich (3).
 
-![](<img/image9.png>)
-
-![](<img/image10.png>)
-
-![](<img/image5.png>)
 
 ![](<img/image11.png>)
 

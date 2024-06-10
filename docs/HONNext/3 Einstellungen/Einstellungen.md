@@ -1,7 +1,5 @@
 # Einstellungen
 
-Abb. 3‑1 Einstellungen
-
 ![](<img/image72.png>)
 
 Im Registerblatt *Einstellungen* können Sie die Grundeinstellungen
@@ -13,7 +11,6 @@ werden ebenso in diesem Registerblatt getroffen.
 Wenn Sie auf den Button *Grundeinstellungen* kicken, öffnet sich
 nachfolgender Tab.
 
-Abb. 3‑2 Grundeinstellungen
 
 ![](<img/image73.png>)
 
@@ -50,7 +47,6 @@ zwischen *Dauer Erfassung* und *Dauer Verrechnung* unterschieden.
 Beispiel bei hinterlegter Kleinsten verrechenbaren Einheit von einer
 Viertelstunde.
 
-Abb. 3‑3 Kleinste verrechenbare Zeiteinheit
 
 ![](<img/image78.png>)
 
