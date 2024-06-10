@@ -27,9 +27,7 @@ diese angelegt wird. Der Import kann dennoch durchgeführt werden.
 nicht durchgeführt werden. Die Importdatei muss dementsprechend
 angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
 
-Abb. 20‑1 Datenimport Tätigkeiten
 
-![](<img/image152.png>)
 ![](<img/image405.png>)
 
 !!! warning "Hinweis"
@@ -450,9 +448,7 @@ wenn Bsp. der Projektzeitraum im falschen Format ist und daher nicht
 nicht durchgeführt werden. Die Importdatei muss dementsprechend
 angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
 
-Abb. 20‑2 Datenimport Leistungen
 
-![](<img/image152.png>)
 ![](<img/image153.png>)
 
 !!! warning "Hinweis"
@@ -469,7 +465,6 @@ fehlerhaften Zeilen werden im Protokoll angezeigt.
 
 Die Importdatei der Leistungen muss wie folgt aufgebaut sein:
 
-Abb. 20‑3 Aufbau Datenimport Leistungen
 
 ![](<img/image406.png>)
 
@@ -606,7 +601,6 @@ abgebrochen und alle fehlerhaften Zeilen werden im Protokoll angezeigt.
 
 Die Importdatei der Arbeitszeiten muss wie folgt aufgebaut sein:
 
-Abb. 20‑4 Aufbau Datenimport Arbeitszeiten
 
 ![](<img/image407.png>)
 

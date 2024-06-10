@@ -14,13 +14,11 @@ Ausgangsrechnungsbeleg zur Verbuchung in der Belegverarbeitung bereit.
 Damit die Notenerstellung geöffnet wird wählen Sie den Menüpunkt
 *Honorarnoten – Notenerstellung* aus.
 
-Abb. 11‑1 Notenerstellung öffnen
 
 ![](<img/image172.png>)
 
 Es öffnet sich im Anschluss ein eigener Tab für die Notenerstellung.
 
-Abb. 11‑2 Tab-Notenerstellung
 
 ![](<img/image173.png>)
 
@@ -34,12 +32,11 @@ vorgeschlagen. Sie können jedoch jederzeit das von- und bis-Datum
 abändern. Dementsprechend verändern sich auch die Notenvorschläge im
 unteren Bereich.
 
-Hinweis
-
-Sollte das Leistungsdatum standardmäßig das heutige Datum sein, können
-Sie dies definieren, indem Sie einen Rechtsklick auf das *Bis Feld*
-machen und den Vorschlag festlegen. Diese Einstellung wird pro Benutzer
-gespeichert.
+!!! warning "Hinweis"
+    Sollte das Leistungsdatum standardmäßig das heutige Datum sein, können
+    Sie dies definieren, indem Sie einen Rechtsklick auf das *Bis Feld*
+    machen und den Vorschlag festlegen. Diese Einstellung wird pro Benutzer
+    gespeichert.
 
 ![](<img/image174.png>)
 
@@ -48,10 +45,9 @@ Es besteht auch die Möglichkeit nach gewissen Verrechnungsgruppen
 beim Notenvorschlag berücksichtigt. Des Weiteren kann auch der
 Projektzeitraum für die Verrechnungsgruppen eingeschränkt werden.
 
-Tipp
-
-Mit Rechtsklick in das Feld Projektz*eitraum* kann der eingegebene
-Projektzeitraum für alle Verrechnungsgruppen übernommen werden.
+!!! info "Tipp"
+    Mit Rechtsklick in das Feld Projektz*eitraum* kann der eingegebene
+    Projektzeitraum für alle Verrechnungsgruppen übernommen werden.
 
 Als Notendatum **(3)** wird immer der heutige Tag vorgeschlagen. Sie
 können das Notendatum auch abändern. Das Notendatum kann auch während
@@ -69,10 +65,9 @@ Notenvorschläge Sie von den insgesamt offenen Leistungen bei den
 Klienten ausgewählt haben und welche Nettosumme Sie im Vergleich zu der
 Gesamtsumme der noch nicht verrechneten Leistungen ausgewählt haben.
 
-Tipp
-
-Mit Rechtklick in die Spaltenüberschriften können Sie zusätzliche
-Spalten wie z.B. Auswahlkriterium oder Zuständigkeitsbereich einblenden.
+!!! info "Tipp"
+    Mit Rechtklick in die Spaltenüberschriften können Sie zusätzliche
+    Spalten wie z.B. Auswahlkriterium oder Zuständigkeitsbereich einblenden.
 
 ## Offene Leistungen
 
@@ -85,14 +80,12 @@ aller Mitarbeiter nochmals aufgelistet sehen. Die offenen Leistungen
 sind fix gruppiert nach dem Klienten (Klientennummer und Klientenname)
 und der Tätigkeit (Nummer und Bezeichnung).
 
-Abb. 11‑3 Tab-Offene Leistungen
 
 ![](<img/image175.png>)
 
-Hinweis
-
-Im Aufruf der Offenen Leistungen besteht die Möglichkeit sich Layouts
-anzulegen (vgl. Kapitel 19.13, S. [180](#speicherbare-layouts)).
+!!! warning "Hinweis"
+    Im Aufruf der Offenen Leistungen besteht die Möglichkeit sich Layouts
+    anzulegen (vgl. Kapitel 19.13, S. [180](#speicherbare-layouts)).
 
 Innerhalb der offenen Leistungen, können Sie sich eine Wertberechnung
 darstellen lassen. Die Wertberechnung zeigt Ihnen, wie sich der Wert der
@@ -102,11 +95,10 @@ hier nicht möglich.
 Die Wertberechnung können Sie über das Symbol im Ribbon öffnen oder mit
 der rechten Maustaste über das Kontextmenü.
 
-Abb. 11‑4 Wertberechnung anzeigen
 
 ![](<img/image176.png>)
 
-Abb. 11‑5 Muster Wertberechnung offene Leistungen
+
 
 ![](<img/image177.png>)
 
@@ -135,13 +127,12 @@ Leistungen der Mitarbeiter mit deren Wert und Dauer aufgelistet. Nach
 der Summe für den Klienten wird noch einen Stundensumme pro Mitarbeiter
 ausgegeben.
 
-Hinweis
+!!! warning "Hinweis"
+    Mit der Option *Erfassungsklienten einzeln Ausweisen* erhalten Sie für
+    den Verrechnungsklienten sowie je zugeordneten Erfassungsklienten eine
+    eigene Seite.
 
-Mit der Option *Erfassungsklienten einzeln Ausweisen* erhalten Sie für
-den Verrechnungsklienten sowie je zugeordneten Erfassungsklienten eine
-eigene Seite.
 
-Abb. 11‑6 Ausdruck offene Leistungen
 
 ![](<img/image178.png>)
 
@@ -154,7 +145,6 @@ rechten unteren Bereich, Noten erstellen. Wenn Sie diesen Punkt
 auswählen, können Sie die Note noch bearbeiten, z.B. Leistungen von der
 Verrechnung ausschließen usw.
 
-Abb. 11‑7 Noten erstellen
 
 ![](<img/image179.png>)
 
@@ -169,7 +159,6 @@ gewählten Klienten die Honorarnoten automatisch ohne Bearbeitung
 erstellt. Wenn Sie auf *Abbrechen* klicken, gelangen Sie wieder in die
 Notenvorschlagsliste.
 
-Abb. 11‑8 Noten automatisch erstellen
 
 ![](<img/image180.png>)
 
@@ -182,7 +171,6 @@ ausgewählt haben.
 
 Sie gelangen in die Notenansicht:
 
-Abb. 11‑9 Notenerstellungsansicht
 
 ![](<img/image181.png>)
 
@@ -210,14 +198,12 @@ Zahlungsart angezeigt. Möglich sind Überweisung, SEPA-Lastschrift und
 keine Zahlung. Die Zahlungsart kann ebenfalls während der
 Notenerstellung geändert werden.
 
-Abb. 11‑10 Noteneinstellungen
 
 ![](<img/image182.png>)
 
-Hinweis
-
-Über das Pfeilsymbol **(1)** in den Noteneinstellungen, können die
-Einstellungen ein-/ ausgeklappt werden.
+!!! warning "Hinweis"
+    Über das Pfeilsymbol **(1)** in den Noteneinstellungen, können die
+    Einstellungen ein-/ ausgeklappt werden.
 
 **Hinweis zur Notenerstellung**
 
@@ -232,7 +218,6 @@ zur Notenerstellung ist generationsverwaltet. D.h. das Notendatum
 bestimmt, welche HON-Klientengeneration verwendet wird, falls mehrere
 Generationen existieren.
 
-Abb. 11‑11 Hinweis Notenerstellung
 
 ![](<img/image183.png>)
 
@@ -253,10 +238,9 @@ Stammdaten des Klienten (Kapitel 6, Seite [56])
 hinterlegt wurde. Während der Notenerstellung kann dieser Text ergänzt
 bzw. editiert werden. Dieser Text wird auf der Note angedruckt.
 
-Hinweis
-
-Der bei der Note eingegebene Zusatztext kann in der Notenübersicht
-eingeblendet werden (Kapitel 15, Seite [140]).
+!!! warning "Hinweis"
+    Der bei der Note eingegebene Zusatztext kann in der Notenübersicht
+    eingeblendet werden (Kapitel 15, Seite [140]).
 
 **Notenstruktur**
 
@@ -268,10 +252,9 @@ Wird die Notenstruktur verändert, werden bereits durchgeführte
 Gruppierungen und Sortierungen verworfen. Durchgeführte Änderungen an
 der Bezeichnung oder am Betrag bleiben erhalten.
 
-Hinweis
-
-Wurde die Notenstruktur geändert, muss die Note gespeichert werden,
-bevor diese erneut geändert werden kann.
+!!! warning "Hinweis"
+    Wurde die Notenstruktur geändert, muss die Note gespeichert werden,
+    bevor diese erneut geändert werden kann.
 
 ![](<img/image184.png>)
 
@@ -282,17 +265,15 @@ dargestellt. Tätigkeiten werden eine ebene darunter in schwarzer
 Schriftfarbe dargestellt. Einzelne Leistungszeilen sind in kursiver
 Schrift in grauer Schriftfarbe dargestellt.
 
-Abb. 11‑12 Darstellung der Leistungen
 
 ![](<img/image185.png>)
 
-Hinweis
-
-Mittels Drag & Drop mit diesem Symbol
-![](<img/image18.png>)können Sie ganz einfach die
-Reihenfolge der Verrechnungsgruppen und der Tätigkeiten in der Note
-ändern. Damit das Symbol angezeigt wird müssen Sie den Mauscursor vor
-die Verrechnungsgruppe oder vor die Tätigkeit positionieren.
+!!! warning "Hinweis"
+    Mittels Drag & Drop mit diesem Symbol
+    ![](<img/image18.png>)können Sie ganz einfach die
+    Reihenfolge der Verrechnungsgruppen und der Tätigkeiten in der Note
+    ändern. Damit das Symbol angezeigt wird müssen Sie den Mauscursor vor
+    die Verrechnungsgruppe oder vor die Tätigkeit positionieren.
 
 ### Infozeile
 
@@ -303,7 +284,6 @@ Deckungsbeitrag.
 In der Zeile *Ausgewählt* werden die markierten Zeilen dargestellt. Die
 Zeile *Gesamt* zeigt die gesamte Note auf.
 
-Abb. 11‑13 Infozeile
 
 ![](<img/image186.png>)
 
@@ -316,7 +296,6 @@ aufgeklappt/zugeklappt werden. Im Ribbon stehen Ihnen die Schaltflächen
 „*Alle Erfassungszeilen anzeigen*“ und „*Alle Erfassungszeilen
 verbergen*“ zur Verfügung.
 
-Abb. 11‑14 Erfassungszeilen anzeigen/verbergen
 
 ![](<img/image188.png>)
 
@@ -324,7 +303,6 @@ Abb. 11‑14 Erfassungszeilen anzeigen/verbergen
 Funktionen* ebenfalls einzelne markierte Erfassungszeilen
 anzeigen/verbergen.
 
-Abb. 11‑15 Erfassungszeilen anzeigen/verbergen Kontextmenü
 
 ![](<img/image189.png>)
 
@@ -335,31 +313,27 @@ Leistungserfassung der Mitarbeiter noch abändern zu müssen, weil z.B.
 auf die falsche Tätigkeit erfasst wurde. Diese Änderung kann gleich im
 Zuge der Notenerstellung durchgeführt werden.
 
-Hinweis
-
-Eine Änderung der Dauer der Erfassungszeile hat Auswirkungen auf die
-Leistungserfassung des Mitarbeiters. Sollte daher Wertmäßig mehr oder
-weniger verrechnet werden, ändern Sie den *Betrag in der Note* und nicht
-die *Dauer der Erfassungszeile*.
+!!! warning "Hinweis"
+    Eine Änderung der Dauer der Erfassungszeile hat Auswirkungen auf die
+    Leistungserfassung des Mitarbeiters. Sollte daher Wertmäßig mehr oder
+    weniger verrechnet werden, ändern Sie den *Betrag in der Note* und nicht
+    die *Dauer der Erfassungszeile*.
 
 Um Erfassungszeilen ändern zu können, müssen Sie sich vorab die
 Erfassungszeilen einblenden. Dies können Sie über *alle Zeilen anzeigen*
 **(1)** im Ribbon oder mit dem kleinen Pfeil **(2)** vor der Tätigkeit.
 
-Abb. 11‑16 Erfassungszeilen anzeigen/verbergen
 
 ![](<img/image190.png>)
 Nun können Sie die Erfassungszeile, welche Sie ändern möchten auswählen
 und mit der rechten Maustaste **(3)** oder mit *Leistung bearbeiten*
 **(4)** im Ribbon die Erfassungszeile bearbeiten.
 
-Abb. 11‑17 Leistungen bearbeiten
 
 ![](<img/image191.png>)
 Es öffnet sich ein zusätzlicher Dialog, wo die Änderungen vorgenommen
 werden können.
 
-Abb. 11‑18 Leistungen bearbeiten Eingabedialog
 
 ![](<img/image192.png>)
 
@@ -368,7 +342,6 @@ diese nicht gespeichert werden. Beim *Abbrechen* der Notenerstellung
 erhalten Sie die Abfrage, ob die getätigten Änderungen an den
 Erfassungszeilen dennoch gespeichert werden sollen.
 
-Abb. 11‑19 Leistungen bearbeiten Änderungen
 
 ![](<img/image193.png>)
 
@@ -377,19 +350,17 @@ Notenerstellung zu erfassen. Dies machen Sie, indem Sie die
 Erfassungszeile markieren und mit der Rechten Maustaste oder mit der
 Funktion *Leistung bearbeiten / Leistung einfügen* im Ribbon wählen.
 
-Abb. 11‑20 Leistungen bearbeiten im Ribbon
 
 ![](<img/image194.png>)
 
 Hier ist wieder zu beachten, dass eine neue Erfassungszeile auch
 Auswirkungen auf die Leistungserfassung des Mitarbeiters hat.
 
-Hinweis
-
-Wurden bereits Zu-/Abschläge bei dieser Tätigkeit vorgenommen und wird
-eine dahinterliegende Erfassungszeile verändert oder eine neue
-Erfassungszeile für diese Tätigkeit erfasst, werden die Zu-/Abschläge
-verworfen.
+!!! warning "Hinweis"
+    Wurden bereits Zu-/Abschläge bei dieser Tätigkeit vorgenommen und wird
+    eine dahinterliegende Erfassungszeile verändert oder eine neue
+    Erfassungszeile für diese Tätigkeit erfasst, werden die Zu-/Abschläge
+    verworfen.
 
 **Tipps zum Ändern der Erfassungszeile:**
 
@@ -425,14 +396,12 @@ Mit der Linken Maus auf den Betrag erhalten Sie einen Tooltipp, was der
 Betrag bei Verrechnung in Stunden und was der Betrag bei Verrechnung in
 Einheiten ausmachen würden.
 
-Abb. 11‑21 Verrechnung Stunden oder Einheiten
 
 ![](<img/image195.png>)
 
 Durch Rechtsklick auf den Betrag können Sie mit dem Kontextmenü oder der
 *F7-Taste* die Verrechnung wechseln.
 
-Abb. 11‑22 Verrechnung Stunden oder Einheiten
 
 ![](<img/image196.png>)
 
@@ -440,26 +409,22 @@ Wurden bei der Leistungserfassung keine Einheiten eingetragen, erhalten
 Sie folgenden Hinweis vom Programm. Solange keine Einheiten erfasst
 sind, kann die Verrechnung nicht gewechselt werden.
 
-Abb. 11‑23 Hinweis Wechsel Verrechnungsart
 
 ![](<img/image197.png>)
 
-Hinweis
+!!! warning "Hinweis"
+    Damit die Verrechnung gewechselt werden kann, müssen bei allen
+    Erfassungszeilen die Stunden und die Einheiten eingetragen sein.
 
-Damit die Verrechnung gewechselt werden kann, müssen bei allen
-Erfassungszeilen die Stunden und die Einheiten eingetragen sein.
+!!! warning "Hinweis"
+    Der Wechsel der Verrechnung ist ausschließlich bei Tätigkeiten mit der
+    Verrechnungsart *Stunden oder Einheiten* möglich. Bei Tätigkeiten mit
+    der Verrechnungsart *Stunden* und der Verrechnungsart *Einheiten* ist
+    die Option im Kontextmenü ausgegraut.
 
-Hinweis
-
-Der Wechsel der Verrechnung ist ausschließlich bei Tätigkeiten mit der
-Verrechnungsart *Stunden oder Einheiten* möglich. Bei Tätigkeiten mit
-der Verrechnungsart *Stunden* und der Verrechnungsart *Einheiten* ist
-die Option im Kontextmenü ausgegraut.
-
-Tipp
-
-Auf dem Tätigkeitsnachweis wird nur die in der Notenerstellung gewählte
-Verrechnungsart ausgewiesen.
+!!! info "Tipp"
+    Auf dem Tätigkeitsnachweis wird nur die in der Notenerstellung gewählte
+    Verrechnungsart ausgewiesen.
 
 ### Zeilen nicht verrechnen
 
@@ -475,7 +440,6 @@ verrechnen* **(1).**
 Werden ganze Tätigkeiten von der Verrechnung ausgeschlossen, so werden
 diese Tätigkeiten und der zugehörige Betrag durchgestrichen dargestellt.
 
-Abb. 11‑24 Tätigkeit von Verrechnung ausschließen
 
 ![](<img/image198.png>)
 
@@ -488,16 +452,14 @@ eingeschaltet. Sollen die nicht verrechneten Zeilen nicht angezeigt
 werden, so klicken Sie noch einmal auf diese Schaltfläche, sodass diese
 **weiß** markiert ist.
 
-Abb. 11‑25 Nicht verrechnete Zeilen anzeigen
 
 ![](<img/image199.png>)
 
-Tipp
-
-Sollten Ihnen Leistungszeilen bei der Notenerstellung fehlen, stellen
-Sie sicher, dass Sie nicht versehentlich diese Leistungen von der
-Verrechnung ausgeschlossen haben, indem Sie sich die nicht verrechneten
-Zeilen einblenden.
+!!! info "Tipp"
+    Sollten Ihnen Leistungszeilen bei der Notenerstellung fehlen, stellen
+    Sie sicher, dass Sie nicht versehentlich diese Leistungen von der
+    Verrechnung ausgeschlossen haben, indem Sie sich die nicht verrechneten
+    Zeilen einblenden.
 
 ### Notenzeilen gruppieren
 
@@ -507,7 +469,6 @@ im Ribbon oder über das Kontextmenü mit der rechten Maustaste möglich.
 Dazu müssen Sie die Leistungen die Gruppiert werden sollen markieren und
 die entsprechende Schaltfläche auswählen.
 
-Abb. 11‑26 Notenzeilen gruppieren
 
 ![](<img/image200.png>)
 
@@ -516,27 +477,24 @@ angezeigt. In unserem Beispiel wurde die Tätigkeit Lohnverrechnung mit
 der Tätigkeit Kommunalsteuerprüfung gruppiert. Der Gesamtbetrag wird nun
 unter der Tätigkeit Kommunalsteuerprüfung angeführt.
 
-Abb. 11‑27 Beispiel gruppierte Zeile
 
 ![](<img/image201.png>)
 
-Tipp
-
-Soll nun der Gesamtbetrag in unserem Beispiel unter der Tätigkeit
-Lohnverrechnung aufscheinen, können Sie die Reihenfolge der Tätigkeiten
-ganz einfach mit Drag & Drop mit diesem Symbol
-![](<img/image18.png>) verändern.
+!!! info "Tipp"
+    Soll nun der Gesamtbetrag in unserem Beispiel unter der Tätigkeit
+    Lohnverrechnung aufscheinen, können Sie die Reihenfolge der Tätigkeiten
+    ganz einfach mit Drag & Drop mit diesem Symbol
+    ![](<img/image18.png>) verändern.
 
 Die Gruppierung der Notenzeilen kann über den Punkt *Gruppierung der
 Notenzeilen aufheben*, welcher über das Kontextmenü oder über dem Ribbon
 aufgerufen werden kann, aufgehoben werden.
 
-Tipp
-
-Um heraus zu finden, welche Zeilen Sie miteinander gruppiert haben
-können Sie die Funktion *Alle Notenzeilen der Gruppierung selektieren*
-benutzen. Diese können Sie über dem Ribbon oder über das Kontextmenü mit
-der rechten Maustaste starten.
+!!! info "Tipp"
+    Um heraus zu finden, welche Zeilen Sie miteinander gruppiert haben
+    können Sie die Funktion *Alle Notenzeilen der Gruppierung selektieren*
+    benutzen. Diese können Sie über dem Ribbon oder über das Kontextmenü mit
+    der rechten Maustaste starten.
 
 Zusätzlich werden gruppierte Zeilen durch die Klammern am Beginn der
 Zeile visualisiert.
@@ -546,7 +504,6 @@ angezeigt werden, so können Sie mit der Schaltfläche *Notenzeilen auf
 Note drucken und Notenzeile auf der Note nicht drucken*, die nicht
 gewünschten Zeilen ausblenden.
 
-Abb. 11‑28 Notenzeilen auf Note drucken
 
 ![](<img/image202.png>)
 
@@ -566,7 +523,6 @@ der Nummer 2 und 10 wurden über den Button *Notenzeilen auf Note drucken
 – Notenzeile nicht auf der Note drucken* deaktiviert. Somit wird der
 Gesamtbetrag nur mit der Tätigkeit Finanzbuchhaltung angedruckt.
 
-Abb. 11‑29 Beispiel Notenzeilen nicht auf der Note drucken
 
 ![](<img/image203.png>)
 
@@ -579,7 +535,6 @@ Der Text der Verrechnungsgruppe und der Tätigkeit kann ganz einfach
 mittels Doppelklicks auf den Text der geändert werden soll, angepasst
 werden.
 
-Abb. 11‑30 Text ändern
 
 ![](<img/image204.png>)
 
@@ -590,7 +545,6 @@ Kontextmenü können Sie den Text kopieren. Mit der Tastenkombination
 *Strg+V* oder auch über das Kontextmenü können Sie dann den Text
 einfügen.
 
-Abb. 11‑31 Text kopieren
 
 ![](<img/image205.png>)
   
@@ -618,7 +572,6 @@ entweder über die Schaltfläche *Notenzeile einfügen* im Ribbon oder über
 das Kontextmenü mit der rechten Maustaste möglich. Dazu müssen Sie eine
 Leistungszeile markieren und die entsprechende Schaltfläche auswählen.
 
-Abb. 11‑32 Notenzeile einfügen
 
 ![](<img/image208.png>)
 
@@ -626,7 +579,6 @@ Nachdem Sie die Schaltfläche betätigt haben, öffnet sich ein eignes
 Fenster, wo Sie die Tätigkeit auswählen müssen, welche zusätzlich
 eingefügt werden soll.
 
-Abb. 11‑33 Tätigkeit auswählen
 
 ![](<img/image209.png>)
 
@@ -640,16 +592,14 @@ einem Mitarbeiter direkt zugewiesen werden oder, wenn man das Feld
 *Mitarbeiter* leer lässt, erhält der Klient den Zuschlag (siehe hierzu
 auch Kapitel *11.4.12 Zu-/Abschläge).*
 
-Abb. 11‑34 Zuschlag verteilen
 
 ![](<img/image210.png>)
 
-Tipp
-
-Fügen Sie eine neue Zeile in die Note ein und schließen die neu
-eingefügte Zeile anschließend aus der Verrechnung aus, muss diese
-Notenzeile nachdem Speichern der Note und beim neuerlichen Bearbeiten
-erneut eingefügt werden.
+!!! info "Tipp"
+    Fügen Sie eine neue Zeile in die Note ein und schließen die neu
+    eingefügte Zeile anschließend aus der Verrechnung aus, muss diese
+    Notenzeile nachdem Speichern der Note und beim neuerlichen Bearbeiten
+    erneut eingefügt werden.
 
 ### Zu-/Abschläge 
 
@@ -688,7 +638,6 @@ es während der Notenerstellung mehrere Möglichkeiten. Sie können
 entweder über den Button Zu-/Abschläge im Ribbon oder über das
 Kontextmenü, mit der rechten Maustaste, die Variante ändern.
 
-Abb. 11‑35 Button Zu-/Abschläge im Ribbon
 
 ![](<img/image217.png>) 
 
@@ -699,7 +648,6 @@ wenn Sie beispielsweise die Leistungszeile oder die Zu-/Abschlagszeile
 auswählen, ist der Punkt *Zu-/Abschläge* im Ribbon bzw. im Kontextmenü
 deaktiviert.
 
-Abb. 11‑36 Aufruf über das Kontextmenü
 
 ![](<img/image218.png>) 
 
@@ -710,7 +658,6 @@ Verteilung auf Mitarbeiter* eingestellt haben und Sie in der Note einen
 Abschlag machen, wird dieser Abschlag automatisch auf den Mitarbeiter
 verteilt.
 
-Abb. 11‑37 Beispiel Abschlag auf Mitarbeiter
 
 ![](<img/image219.png>) 
 
@@ -725,7 +672,6 @@ Wenn Sie beispielsweise in den Grundeinstellungen automatische
 Verteilung ohne Mitarbeiterbezug eingestellt haben und Sie in der Note
 einen Zuschlag machen, wird dieser Zuschlag auf den Klienten verteilt.
 
-Abb. 11‑38 Beispiel Zuschlag ohne Mitarbeiterbezug
 
 ![](<img/image220.png>) 
 
@@ -741,7 +687,6 @@ Betrag verteilt wird. Es öffnet sich ein Eingabefenster in welchem Sie
 die Beträge entweder auf Mitarbeiter, oder auf Klienten oder beides, wie
 in der nachfolgenden Abbildung, verteilen können.
 
-Abb. 11‑39 Beispiel manuelle Verteilung
 
 ![](<img/image221.png>) 
 
@@ -771,7 +716,6 @@ Die Verteilung der Gruppensumme können Sie ändern, indem Sie sich in die
 Gruppensumme stellen und z. B. mit dem Kontextmenü die Summe auf
 manuelle Verteilung ändern:
 
-Abb. 11‑40 Zu-/Abschläge Summe
 
 ![](<img/image223.png>) 
 
@@ -782,8 +726,6 @@ Soll nur der Zu-/Abschlag einer einzelnen Tätigkeit der Gruppe geändert
 werden, dann stellen Sie sich in die Zeile der jeweiligen Tätigkeit und
 wählen die Verteilung der Zu‑/Abschläge.
 
-Abb. 11‑41 Zu-/Abschläge je Tätigkeit in Gruppe
-
 ![](<img/image224.png>) 
 
 Zu- und Abschläge können wieder verworfen werden. Dazu müssen Sie die
@@ -791,7 +733,6 @@ Tätigkeit auswählen und können per Kontextmenü oder über den Ribbon
 *Zu-/Abschläge verwerfen* auswählen. Es wird dann die Zuordnung
 gelöscht.
 
-Abb. 11‑42 Zu-/Abschläge verwerfen
 
 ![](<img/image225.png>) 
 
@@ -802,7 +743,6 @@ gewährt oder ein Aufschlag verrechnet werden, können Sie dies über die
 Schaltflächen *Rabatt/Aufschlag einfügen* bzw. *prozentuellen
 Rabatt/Aufschlag einfügen* lösen.
 
-Abb. 11‑43 Rabatt/Aufschlag einfügen
 
 ![](<img/image226.png>) 
 
@@ -816,7 +756,6 @@ Wert- und prozentuelle Rabatte sind mit einem **negativen Vorzeichen**
 einzutragen. Als Basis für den prozentuellen Rabatt/Aufschlag dient die
 Zeile Zwischensumme (**1**).
 
-Abb. 11‑44 Rabatt/Aufschlag in Note
 
 ![](<img/image227.png>) 
 
@@ -832,20 +771,16 @@ Notenerstellung abgeändert werden, kann dies über das Kontextmenü
 Über die Option *Rabatt verwerfen* wird der Rabatt aus der Note
 gelöscht.
 
-Abb. 11‑45 Rabatt/Aufschlag Verteilung
-
 ![](<img/image228.png>) 
 
-Hinweis
+!!! warning "Hinweis"
+    Eine manuelle Verteilung des Rabatts/Aufschlags ist bei prozentuellen
+    Rabatten/Aufschlägen nicht möglich.
 
-Eine manuelle Verteilung des Rabatts/Aufschlags ist bei prozentuellen
-Rabatten/Aufschlägen nicht möglich.
-
-Hinweis
-
-Werden im Zuge der Notenerstellung Pauschalen und Leistungen verrechnet,
-wird der Rabatt der Pauschale auf die Verrechnungsgruppe verteilt und
-der der Leistung auf die jeweiligen Tätigkeiten.
+!!! warning "Hinweis"
+    Werden im Zuge der Notenerstellung Pauschalen und Leistungen verrechnet,
+    wird der Rabatt der Pauschale auf die Verrechnungsgruppe verteilt und
+    der der Leistung auf die jeweiligen Tätigkeiten.
 
 Soll der Rabatt/Aufschlag nur für eine bestimmte Tätigkeit, eine Gruppe
 von Tätigkeiten oder eine bestimmte Verrechnungsgruppe gewährt werden,
@@ -861,33 +796,28 @@ blau hinterlegt **(1)** ist und wählen die jeweilige Option **(2)** aus.
 Der Rabatt/Aufschlag wird dann unterhalb der
 Tätigkeit/Verrechnungsgruppe **(3)** eingefügt.
 
-Abb. 11‑46 Positionsrabatt Rabatt/Aufschlag einfügen
 
 ![](<img/image229.png>) 
 
-Abb. 11‑47 Positionsrabatt Rabatt/Aufschlag in Note
 
 ![](<img/image230.png>) 
 
-Hinweis
-
-Die Verteilung erfolgt dann wieder mit oder ohne Mitarbeiterbezug, je
-nach getroffenen Grundeinstellungen sowie auf die angesprochenen
-Tätigkeiten **(4).** Basis für die Verteilung bilden alle Werte (inkl.
-Zu-/Abschläge) der Tätigkeiten/Verrechnungsgruppe.
+!!! warning "Hinweis"
+    Die Verteilung erfolgt dann wieder mit oder ohne Mitarbeiterbezug, je
+    nach getroffenen Grundeinstellungen sowie auf die angesprochenen
+    Tätigkeiten **(4).** Basis für die Verteilung bilden alle Werte (inkl.
+    Zu-/Abschläge) der Tätigkeiten/Verrechnungsgruppe.
 
 ### Note drucken
 
 Falls Sie die Note ausdrucken oder am PDF-Manager ausdrucken möchten, so
 klicken Sie auf das Symbol *Note drucken* im Ribbon.
 
-Abb. 11‑48 Note drucken
 
 ![](<img/image231.png>) 
 
 Wenn Sie auf das Symbol geklickt haben, öffnet sich das Drucken Fenster:
 
-Abb. 11‑49 Ausdruck Note
 
 ![](<img/image232.png>) 
 
@@ -918,7 +848,6 @@ Grundeinstellungen eingestellt haben (siehe Kapitel 3.1, Seite
 Optionsfeld „*Note beim ‚Speichern & schließen‘ finalisieren*“ welches
 Sie aktivieren können.
 
-Abb. 11‑50 Note beim Speichern & schließen finalisieren
 
 ![](<img/image233.png>) 
 
@@ -932,7 +861,6 @@ Notenzeilen von internen und gutgeschriebenen Noten sowie Gutschriften.
 Stellen Sie sich in das Betragsfeld der Tätigkeit, mit dem Pfeilsymbol
 können Sie sich den Tätigkeitsrückblick einblenden lassen.
 
-Abb. 11‑51 Tätigkeitsrückblick
 
 ![](<img/image234.png>) 
 
@@ -952,7 +880,6 @@ zu den bereits verrechneten Noten.
 Den Notenrückblick können Sie über die Schaltfläche *Notenrückblick* der
 sich im Ribbon befindet zusätzlich öffnen.
 
-Abb. 11‑52 Notenrückblick
 
 ![](<img/image235.png>) 
 
@@ -980,7 +907,6 @@ haben Sie die Möglichkeit Rabatte und/oder Aufschläge die automatisch
 bei der Note ergänzt werden zu verwalten. Die hier angelegten Rabatte
 und Aufschläge werden bei der Notenerstellung automatisch eingefügt.
 
-Abb. 11‑53 automatischen Rabatt/Aufschlag
 
 ![](<img/image236.png>) 
 
@@ -989,7 +915,6 @@ Abb. 11‑53 automatischen Rabatt/Aufschlag
 Mit der Schaltfläche *Neuen automatischen Rabatt/Aufschlag* (**1**)
 können Sie einen neuen Rabatt/Aufschlag anlegen.
 
-Abb. 11‑54 automatischen Rabatt/Aufschlag
 
 ![](<img/image237.png>) 
 
@@ -1013,10 +938,9 @@ Die Zuordnung der Rabatte/Aufschläge erfolgt über die Schaltfläche
 Klienten und können die gewünschten auswählen. Mit *Speichern &
 schließen* wird die Zuordnung gespeichert.
 
-Tipp
-
-Die Ansicht der Klienten Zuordnung kann gefiltert und/oder sortiert
-werden.
+!!! info "Tipp"
+    Die Ansicht der Klienten Zuordnung kann gefiltert und/oder sortiert
+    werden.
 
 ## Interne Note
 
@@ -1028,7 +952,6 @@ Die Option *interne Note* (**1**) in den Noteneinstellungen ist nur
 aktiv, wenn die Nettosumme aller UST-pflichtigen und nicht
 UST-pflichtigen Tätigkeiten Null (**2**) ergibt.
 
-Abb. 11‑55 Interne Note
 
 ![](<img/image238.png>) 
 
@@ -1041,10 +964,9 @@ Wurde die Option *interne Note* gesetzt, kann die Note nicht mehr
 editiert werden. Nur die Noteneinstellungen stehen zur Bearbeitung
 offen.
 
-Hinweis
-
-Interne Noten werden nicht finalisiert. Die Option *interne Note* kann
-jederzeit deaktiviert werden und die Leistungen wieder weiterverrechnet.
+!!! warning "Hinweis"
+    Interne Noten werden nicht finalisiert. Die Option *interne Note* kann
+    jederzeit deaktiviert werden und die Leistungen wieder weiterverrechnet.
 
 Interne Noten werden nicht fortlaufend nummeriert, ebenso wird für
 interne Noten kein Beleg für das Belegsystem erzeugt.
@@ -1057,28 +979,24 @@ nötig sein.
 
 Im Ribbon findet sich die Schaltfläche *Leere Note erstellen*.
 
-Abb. 11‑56 Leere Note erstellen
 
 ![](<img/image239.png>) 
 
-Hinweis
-
-Die Schaltfläche *Leere Note erstellen* ist nur aktiv, wenn keine Note
-ausgewählt ist.
+!!! warning "Hinweis"
+    Die Schaltfläche *Leere Note erstellen* ist nur aktiv, wenn keine Note
+    ausgewählt ist.
 
 Nach Auswahl dieser Option ist zu definieren, für welchen Klienten die
 leere Note erstellt werden soll und wer der Rechnungssteller dieser Note
 ist.
 
-Abb. 11‑57 Optionen Leere Note
 
 ![](<img/image240.png>) 
 
-Hinweis
-
-Als Rechnungssteller kann, der dem Klienten zugeordnete
-Unternehmensbereich ausgewählt werden oder ein Unternehmensbereich, der
-bei einer Tätigkeit als abweichender Rechnungssteller definiert ist.
+!!! warning "Hinweis"
+    Als Rechnungssteller kann, der dem Klienten zugeordnete
+    Unternehmensbereich ausgewählt werden oder ein Unternehmensbereich, der
+    bei einer Tätigkeit als abweichender Rechnungssteller definiert ist.
 
 Ist bei einem Klienten kein Unternehmensbereich zugeordnet bzw. bei
 keiner Tätigkeit ein abweichender Rechnungssteller hinterlegt, kann
@@ -1090,25 +1008,21 @@ Als erster Schritt sind nun über den Button *Notenzeile Einfügen* im
 Ribbon oder mittels der *Einfg-Taste* die abzurechnenden Zeilen
 einzufügen.
 
-Abb. 11‑58 Notenzeile einfügen
 
 ![](<img/image241.png>) 
 
-Hinweis
-
-Es sind zwingend Notenzeilen einzufügen – eine leere Note kann nicht
-gespeichert werden.
+!!! warning "Hinweis"
+    Es sind zwingend Notenzeilen einzufügen – eine leere Note kann nicht
+    gespeichert werden.
 
 Nachdem die Zeile eingefügt wurde und ein Betrag eingetragen, muss der
 Zu/Abschlag manuell verteilt werden (vgl. Kapitel 11.4.12
 Zu-/Abschläge).
 
-Abb. 11‑59 Verteilung Zu/Abschlag
 
 ![](<img/image242.png>) 
 
-Hinweis
-
-Eine automatische Verteilung ist aufgrund der fehlenden Erfassungszeilen
-nicht möglich. Die Zu/Abschläge einer leeren Noten sind immer manuell zu
-verteilen.
+!!! warning "Hinweis"
+    Eine automatische Verteilung ist aufgrund der fehlenden Erfassungszeilen
+    nicht möglich. Die Zu/Abschläge einer leeren Noten sind immer manuell zu
+    verteilen.

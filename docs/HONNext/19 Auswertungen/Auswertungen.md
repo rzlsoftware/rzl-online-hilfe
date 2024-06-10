@@ -5,7 +5,6 @@ Mitarbeiterstatistik und Klientenstatistik sowie eine allgemeine
 Umsatzstatistik zur Verfügung. Ebenso können Sie sich im Bereich der
 Auswertungen eine Mitarbeiterliste inkl. HON Daten erstellen.
 
-Abb. 19‑1 Auswertungen
 
 ![](<img/image348.png>)
 
@@ -18,13 +17,11 @@ aufzeigen.
 Die Statistik kann über den Menüpunkt *Auswertungen – Mitarbeiter*
 geöffnet werden.
 
-Abb. 19‑2 Mitarbeiter Statistik auswählen
 
 ![](<img/image349.png>)
 
 In einem separaten Tab wird die Umsatzstatistik Mitarbeiter geöffnet:
 
-Abb. 19‑3 Umsatzstatistik Mitarbeiter
 
 ![](<img/image350.png>)
 
@@ -46,14 +43,12 @@ Mitarbeiter zugeordnet sind) abzüglich den Eigenkosten.
 In der letzten Infozeile ganz unten **(3)** wird Ihnen die Gesamtsumme
 pro Spalte dargestellt.
 
-Hinweis
+!!! warning "Hinweis"
+    Sollten Sie die Position „*ohne Mitarbeiterzuordnung*“ in der
+    Mitarbeiterstatistik auffinden, so handelt es sich bei diesen Leistungen
+    um Zu-/Abschläge die ohne Mitarbeiterzuordnung sind bzw. um Pauschalen.
+    Diese befinden sich in der Statistik an letzter Stelle.
 
-Sollten Sie die Position „*ohne Mitarbeiterzuordnung*“ in der
-Mitarbeiterstatistik auffinden, so handelt es sich bei diesen Leistungen
-um Zu-/Abschläge die ohne Mitarbeiterzuordnung sind bzw. um Pauschalen.
-Diese befinden sich in der Statistik an letzter Stelle.
-
-Abb. 19‑4 ohne Mitarbeiterzuordnung
 
 ![](<img/image351.png>)
 
@@ -64,7 +59,6 @@ Mitarbeiters in einem separaten Tab geöffnet. Je nachdem, ob Sie eine
 bestimmte Tätigkeit oder die Gesamtsumme des Mitarbeiters auswählen,
 werden nur die zugehörigen Leistungszeilen geöffnet.
 
-Abb. 19‑5 Funktionen im Ribbon
 
 ![](<img/image352.png>)
 
@@ -76,13 +70,11 @@ Leistungen von finalisierten Noten pro Klienten aufzeigen.
 Die Statistik kann über den Menüpunkt *Auswertungen – Klienten* geöffnet
 werden.
 
-Abb. 19‑6 Klienten Statistik auswählen
 
 ![](<img/image349.png>)
 
 In einem separaten Tab wird die Umsatzstatistik Klienten geöffnet:
 
-Abb. 19‑7 Umsatzstatistik Klienten
 
 ![](<img/image353.png>)
 
@@ -111,7 +103,6 @@ in einem separaten Tab geöffnet. Je nachdem, ob Sie eine bestimmte
 Tätigkeit oder die Gesamtsumme des Klienten auswählen, werden nur die
 zugehörigen Leistungszeilen geöffnet.
 
-Abb. 19‑8 Funktionen im Ribbon
 
 ![](<img/image352.png>)
 
@@ -124,7 +115,6 @@ gestaltbar.
 Die Statistik kann über den Menüpunkt *Auswertungen – Allgemein*
 geöffnet werden.
 
-Abb. 19‑9 Allgemeine Umsatzstatistik auswählen
 
 ![](<img/image349.png>)
 
@@ -137,7 +127,6 @@ Möchten Sie nun beispielsweise nach einer bestimmten Tätigkeit
 gruppieren, ziehen Sie die Spalte mittels Drag&Drop in die Zeile
 oberhalb der Überschriftenzeile (Gruppierungsfeld).
 
-Abb. 19‑10 Gruppierung der Spalten
 
 ![](<img/image354.png>)
 
@@ -146,7 +135,6 @@ Klient Nr./Name* gruppieren, wird automatisch die Korrespondenzspalte
 auf der gleichen Ebene eingefügt. Mit Rechter Maustaste auf eines der
 beiden Felder, können Sie die Gruppierung entfernen.
 
-Abb. 19‑11 Gruppierung Nummer/Name
 
 ![](<img/image355.png>)
 
@@ -155,7 +143,6 @@ gedrückt bleiben, wenn die Spalte mittels Drag&Drop verschoben wird – es
 erscheint ein Plus Zeichen, damit ersichtlich ist, wo die Ebene
 eingefügt wird.
 
-Abb. 19‑12 Gruppierung gleiche Ebene
 
 ![](<img/image356.png>)
 
@@ -165,14 +152,13 @@ erhalten Sie eine Übersicht mit allen möglichen Spalten – sollte eine
 Spalte nicht dargestellt werden, können Sie diese aushaken. Die
 Anordnung der Spalten kann ebenso von Ihnen verschoben werden.
 
-Hinweis
+!!! warning "Hinweis"
+    Die beschriebene Funktionsweise bzgl. der Gruppierung ist in allen frei
+    gestaltbaren Auswertungen im HON Next möglich (Kapitel 19.6, Seite
+    [174](#rzl-layouts); Kapitel 19.8, Seite [176](#mitarbeiterliste);
+    Kapitel 19.10, Seite [178](#pauschalstatistik-1)).
 
-Die beschriebene Funktionsweise bzgl. der Gruppierung ist in allen frei
-gestaltbaren Auswertungen im HON Next möglich (Kapitel 19.6, Seite
-[174](#rzl-layouts); Kapitel 19.8, Seite [176](#mitarbeiterliste);
-Kapitel 19.10, Seite [178](#pauschalstatistik-1)).
 
-Abb. 19‑13 Auswahl der Spalten
 
 ![](<img/image357.png>)
 
@@ -180,14 +166,11 @@ Mithilfe des Filtersymbols neben den jeweiligen Überschriften können Sie
 auch z.B. nach einem bestimmten Klienten oder einer bestimmten
 Verrechnungsgruppe filtern.
 
-Abb. 19‑14 Filtermöglichkeit
-
 ![](<img/image358.png>)
 
-Tipp
-
-Die verwendeten Filter sind unterhalb der allgemeinen Umsatzstatistik
-ersichtlich.
+!!! info "Tipp"
+    Die verwendeten Filter sind unterhalb der allgemeinen Umsatzstatistik
+    ersichtlich.
 
 Nachdem Sie nach einem/mehreren Kriterien gruppiert haben, können Sie
 sich über die Funktionen *Alles aufklappen/zuklappen* im Ribbon wieder
@@ -196,15 +179,13 @@ aufklappen/zuklappen* können Sie nur einzelne Ebenen einblenden. Über
 den Button *Details anzeigen* werden die Leistungen der ausgewählten
 Zeile in einem separaten Tab geöffnet.
 
-Abb. 19‑15 Funktionen im Ribbon
 
 ![](<img/image359.png>)
 
-Tipp
-
-Wenn Sie die allgemeine Umsatzstatistik nach dem *Notendatum*
-gruppieren, steht Ihnen im Ribbon die Option *Notendatum* zur Verfügung.
-Hiermit können Sie schnell und einfach nach Tag/Monat/Jahr unterteilen.
+!!! info "Tipp"
+    Wenn Sie die allgemeine Umsatzstatistik nach dem *Notendatum*
+    gruppieren, steht Ihnen im Ribbon die Option *Notendatum* zur Verfügung.
+    Hiermit können Sie schnell und einfach nach Tag/Monat/Jahr unterteilen.
 
 ![](<img/image360.png>)
 
@@ -227,11 +208,9 @@ Der Statistik Manager unterteilt sich in folgende Bereiche:
     Statistik. Wenn Sie mit der Maustaste über ein Feld fahren,
     erscheint das Filtersymbol und Sie können einen Filter setzen.
 
-Tipp
+!!! info "Tipp"
+    Der Filter kann auch im Spalten- und/oder Zeilenbereich gesetzt werden.
 
-Der Filter kann auch im Spalten- und/oder Zeilenbereich gesetzt werden.
-
-Abb. 19‑16 Filter Statsitik Manager
 
 ![](<img/image361.png>)
 
@@ -242,7 +221,6 @@ Abb. 19‑16 Filter Statsitik Manager
     Verrechneter Wert, Berechneter Wert, Einheiten, Betrag, Dauer,
     Zu-/Abschlag, Eigenkosten und Deckungsbeitrag.
 
-Abb. 19‑17 Datenbereich Statsitik Manager
 
 ![](<img/image362.png>)
 
@@ -262,31 +240,31 @@ Abb. 19‑17 Datenbereich Statsitik Manager
 
 ### Bedeutung der Felder
 
-> Notendatum Datum der Note. Wird dies im Zeilen-/Spaltenbereich
-> verwendet, kann ein Datumsintervall definiert werden.
->
-> Mitarbeiter Nr. Hier können Sie nach der Mitarbeiternummer gliedern.
-> Es wird Nummer und Name ausgegeben.
+Notendatum Datum der Note. Wird dies im Zeilen-/Spaltenbereich
+verwendet, kann ein Datumsintervall definiert werden.
+
+Mitarbeiter Nr. Hier können Sie nach der Mitarbeiternummer gliedern.
+Es wird Nummer und Name ausgegeben.
 
 Mitarbeiter Es wird der Mitarbeitername ausgegeben.
 
-> Tätigkeit Nr. Sie können nach der Tätigkeiten Nummer gliedern. Es wird
-> Nummer und Name ausgegeben.
+Tätigkeit Nr. Sie können nach der Tätigkeiten Nummer gliedern. Es wird
+Nummer und Name ausgegeben.
 
 Tätigkeit Es wird der Tätigkeitsname ausgegeben.
 
-> Klient Nr. Sie können nach der Klienten Nummer gliedern. Es wird
-> Nummer und Name ausgegeben.
+Klient Nr. Sie können nach der Klienten Nummer gliedern. Es wird
+Nummer und Name ausgegeben.
 
 Klient Es wird der Klientenname ausgegeben.
 
-> Auswahlkriterien Hier können Sie nach den angelegten Auswahlkriterien
-> Filtern. Das Feld *Auswahlkriterien* kann nur als Filter verwendet
-> werden, nicht als Gruppierung.
->
-> Zuständigkeitsbereich Sie können hier nach den im KIS hinterlegten
-> Zuständigkeiten filtern. Das Feld *Zuständigkeitsbereich* kann nur als
-> Filter verwendet werden, nicht als Gruppierung.
+Auswahlkriterien Hier können Sie nach den angelegten Auswahlkriterien
+Filtern. Das Feld *Auswahlkriterien* kann nur als Filter verwendet
+werden, nicht als Gruppierung.
+
+Zuständigkeitsbereich Sie können hier nach den im KIS hinterlegten
+Zuständigkeiten filtern. Das Feld *Zuständigkeitsbereich* kann nur als
+Filter verwendet werden, nicht als Gruppierung.
 
 Verrechnungsgruppe Es wird der Name der Verrechnungsgruppe ausgegeben.
 
@@ -309,14 +287,14 @@ ausgegeben.
 Verrechneter Wert Hier wird der Wert der tatsächlich an den Klienten
 verrechnet wurde ausgegeben.
 
-> Zu-/Abschlag Der Zu-Abschlag ist die Differenz zwischen dem
-> berechnetem und dem errechneten Wert.
->
-> Eigenkosten Die Eigenkosten setzten sich aus dem Eigenkostensatz des
-> Mitarbeiters und den erfassten Stunden zusammen.
->
-> Deckungsbeitrag Der Deckungsbeitrag ermittelt sich aus dem
-> Verrechneten Wert abzüglich der Eigenkosten.
+Zu-/Abschlag Der Zu-Abschlag ist die Differenz zwischen dem
+berechnetem und dem errechneten Wert.
+
+Eigenkosten Die Eigenkosten setzten sich aus dem Eigenkostensatz des
+Mitarbeiters und den erfassten Stunden zusammen.
+
+Deckungsbeitrag Der Deckungsbeitrag ermittelt sich aus dem
+Verrechneten Wert abzüglich der Eigenkosten.
 
 ### Bedienung des Statistik Managers
 
@@ -326,26 +304,22 @@ können Sie die Felder des Filterbereiches per Drag&Drop in den
 jeweiligen Bereich ziehen. Es erscheinen zwei Blaue Pfeile, die
 verdeutlichen, wo das Feld eingefügt wird.
 
-Abb. 19‑18 Felder Statsitik Manager
 
 ![](<img/image363.png>)
 
-Hinweis
+!!! warning "Hinweis"
+    Der Statistik Manager ist eine Umsatzstatistik und bezieht sich auf
+    abgerechnete Leistungen. Alle Leistungen (offen und verrechnet) können
+    Sie über den Statistik Manager Leistungen auswerten.
 
-Der Statistik Manager ist eine Umsatzstatistik und bezieht sich auf
-abgerechnete Leistungen. Alle Leistungen (offen und verrechnet) können
-Sie über den Statistik Manager Leistungen auswerten.
+!!! warning "Hinweis"
+    Verwenden Sie die Felder Klienten Nr./Mitarbeiter Nr./Tätigkeit Nr. wird
+    die Nummer und der Name ausgewertet – es ist daher nicht zwingend nötig
+    beide Felder Nummer und Name zu verwenden.
 
-Hinweis
-
-Verwenden Sie die Felder Klienten Nr./Mitarbeiter Nr./Tätigkeit Nr. wird
-die Nummer und der Name ausgewertet – es ist daher nicht zwingend nötig
-beide Felder Nummer und Name zu verwenden.
-
-Hinweis
-
-Durch ziehen der Felder in einen nicht gültigen Bereich, können die
-Felder wieder entfernt werden.
+!!! warning "Hinweis"
+    Durch ziehen der Felder in einen nicht gültigen Bereich, können die
+    Felder wieder entfernt werden.
 
 ![](<img/image364.png>)
 
@@ -353,7 +327,6 @@ Verwenden Sie das Feld *Notendatum* im Zeilen- oder Spaltenbereich
 können Sie mit der Schaltfläche No*tendatum* ein Datumsintervall (Bsp.
 jährlich/monatlich) definieren.
 
-Abb. 19‑19 Datumsintervall
 
 ![](<img/image365.png>)
 
@@ -361,14 +334,12 @@ Wenn Sie eine Statistik mit mehreren Zeilen/Spalten erzeugen, können Sie
 über die Schaltfläche *Spalten auf‑/zuklappen* bzw. *Zeilen
 auf-/zuklappen* die Statistik komprimieren.
 
-Abb. 19‑20 Spalten/Zeilen Statsitik Manager
 
 ![](<img/image366.png>)
 
-Hinweis
-
-Diese Schaltflächen sind nur aktiv, wenn es mindestens zwei
-Zeilen/Spalten gibt.
+!!! warning "Hinweis"
+    Diese Schaltflächen sind nur aktiv, wenn es mindestens zwei
+    Zeilen/Spalten gibt.
 
 Weiters haben Sie bei mehreren Spalten die Option sich eine
 *Spaltensumme* (1) anzeigen zu lassen. Dies ist nur möglich, wenn alle
@@ -380,7 +351,7 @@ Verrechnungsgruppe und Tätigkeit
 Ansicht der Statistik mit allen Zeilen und Spalten sowie inkl.
 Spaltensummen.
 
-Abb. 19‑21 Beispiel Statsitik Manager
+
 
 ![](<img/image367.png>)
 
@@ -390,29 +361,25 @@ Sie erhalten nun eine kompakte Darstellung vom Umsatz pro
 Verrechnungsgruppe mit der Option sich dies jederzeit für einzelne
 Mitarbeiter oder Tätigkeiten extra anzusehen.
 
-Abb. 19‑22 Beispiel Statsitik Manager
 
 ![](<img/image368.png>)
 
 Wie oben erwähnt können die Felder gefiltert werden. Hierfür erscheint
 ein Trichtersymbol, wenn Sie mit der Maus über das Feld fahren.
 
-Abb. 19‑23 Filter Statsitik Manager
 
 ![](<img/image369.png>)
 
 Wenn Sie einen oder mehrere Filter gesetzt haben, ist dies unterhalb der
 Statistik (2) ersichtlich.
 
-Abb. 19‑24 Filter Statsitik Manager
 
 ![](<img/image370.png>)
 
-Tipp
-
-Durch Rechtsklick in die Spaltenüberschrift können Sie mit der Funktion
-*Optimale Breite (alle Spalten)* die Breite aller Spalten auf den
-jeweiligen Spalteninhalt anpassen.
+!!! warning "TIpp"
+    Durch Rechtsklick in die Spaltenüberschrift können Sie mit der Funktion
+    *Optimale Breite (alle Spalten)* die Breite aller Spalten auf den
+    jeweiligen Spalteninhalt anpassen.
 
 ![](<img/image371.png>)
 
@@ -421,7 +388,6 @@ der rechten Maustaste in ein Feld über die *Bedingte Formatierung*
 Felder die Bsp. über den Durchschnitt liegen oder einen bestimmten Wert
 üb-/unterschreiten farbliche markieren.
 
-Abb. 19‑25 Bedingte Formatierung Statsitik Manager
 
 ![](<img/image372.png>)
 
@@ -430,9 +396,7 @@ markieren und sich mithilfe der Schaltfläche *Diagramm anzeigen* (3) ein
 Diagramm darstellen. Über *Diagramm drucken* kann das Diagramm gedruckt
 werden.
 
-Abb. 19‑26 Diagramm Statsitik Manager
 
-![](<img/image373.png>)
 ![](<img/image374.png>)
 
 Über den Button *Statistik drucken* (4), können Sie die Statistik
@@ -445,7 +409,6 @@ Der Statistik Manager bietet Ihnen ebenso die Möglichkeit mit den
 gelieferten Werten zu rechnen. Hierfür steht Ihnen die Schaltfläche
 *Formel Spalte einfügen* (5) zur Verfügung.
 
-Abb. 19‑27 Formelspalte
 
 ![](<img/image375.png>)
 
@@ -459,7 +422,6 @@ Mit einem Doppelklick auf die Felder (6) wählen Sie diese aus und können
 damit die Formel generieren. Zum Rechnen stehen Ihnen die
 Standarteingaben (/, \*, +, -) zur Verfügung.
 
-Abb. 19‑28 Formel
 
 ![](<img/image376.png>)
 
@@ -469,7 +431,6 @@ Im Datenbereich ist nun die Formel Spalte ersichtlich. Mit Rechtsklick
 auf die Formelspalte können Sie die Bezeichnung ändern, die Spalte
 wieder Löschen oder die Formel erneut aufrufen.
 
-Abb. 19‑29 Formel Spalte
 
 ![](<img/image377.png>)
 
@@ -483,14 +444,12 @@ Statistik abspeichern (vgl. Kapitel 19.13, Seite
 Mit den Optionen *Prozent von einfügen* können Sie automatisch eine
 Prozentspalte in der Statistik ergänzen.
 
-Abb. 19‑30 Formelspalte
 
 ![](<img/image378.png>)
 
 Folgende Prozent Spalten stehen zur Verfügung:
 
--   ![](<img/image379.png>)*Prozent vom
-    Gesamtergebnis einfügen*  
+-   *Prozent vom Gesamtergebnis einfügen*  
     Die Zeile Gesamtergebnis **(7)** bildet die Basis (100 %)  
       
     Bsp.:  
@@ -500,8 +459,7 @@ Folgende Prozent Spalten stehen zur Verfügung:
       
     ![](<img/image380.png>)
 
--   ![](<img/image381.png>)*Prozent von Spaltensumme
-    einfügen*  
+-   *Prozent von Spaltensumme einfügen*  
     Pro Spalte gibt es ein Gesamtergebnis **(8)**, welches die Basis
     (100%) bildet.  
       
@@ -512,9 +470,8 @@ Folgende Prozent Spalten stehen zur Verfügung:
       
     ![](<img/image382.png>)
 
--   ![](<img/image383.png>)*Prozent von Zeilensumme
-    einfügen  
-    *Pro Zeile gibt es ein Gesamtergebnis **(9)**, welches die Basis
+-   *Prozent von Zeilensumme einfügen* 
+    Pro Zeile gibt es ein Gesamtergebnis **(9)**, welches die Basis
     (100%) bildet.  
       
     Bsp.:  
@@ -548,7 +505,7 @@ Folgende Prozent Spalten stehen zur Verfügung:
 
     (1000/1300) \*100 = 76,92 %
 
-    ![](<img/image385.png>)
+
     ![](<img/image386.png>)
 
 ## Statistik Manager Leistungen
@@ -564,69 +521,71 @@ Leistungen ausgewertet werden, offen sowie verrechnet.
 
 ### Bedeutung der Felder
 
-> Mitarbeiter Nr. Hier können Sie nach der Mitarbeiternummer gliedern.
-> Es wird Nummer und Name ausgegeben.
+**Mitarbeiter Nr.** Hier können Sie nach der Mitarbeiternummer gliedern.
+Es wird Nummer und Name ausgegeben.
 
-Mitarbeiter Es wird der Mitarbeitername ausgegeben.
+**Mitarbeiter** Es wird der Mitarbeitername ausgegeben.
 
-> Tätigkeit Nr. Sie können nach der Tätigkeiten Nummer gliedern. Es wird
-> Nummer und Name ausgegeben.
+**Tätigkeit Nr.** Sie können nach der Tätigkeiten Nummer gliedern. Es wird
+Nummer und Name ausgegeben.
 
-Tätigkeit Es wird der Tätigkeitsname ausgegeben.
+**Tätigkeit** Es wird der Tätigkeitsname ausgegeben.
 
-Verrechnungsgruppe Es wird der Name der Verrechnungsgruppe ausgegeben.
+**Verrechnungsgruppe** Es wird der Name der Verrechnungsgruppe ausgegeben.
 
-> Klient Nr. Sie können nach der Klienten Nummer gliedern. Es wird
-> Nummer und Name ausgegeben.
+**Klient Nr.** Sie können nach der Klienten Nummer gliedern. Es wird
+Nummer und Name ausgegeben.
 
-Klient Es wird der Klientenname ausgegeben.
+**Klient**  
+Es wird der Klientenname ausgegeben.
 
-> Auswahlkriterien Hier können Sie nach den angelegten Auswahlkriterien
-> Filtern. Das Feld *Auswahlkriterien* kann nur als Filter verwendet
-> werden, nicht als Gruppierung.
->
-> Zuständigkeitsbereich Sie können hier nach den im KIS hinterlegten
-> Zuständigkeiten filtern. Das Feld *Zuständigkeitsbereich* kann nur als
-> Filter verwendet werden, nicht als Gruppierung.
->
-> Unternehmensbereich Mit diesem Feld können Sie nach dem
-> Unternehmensbereich, der bei den Klienten hinterlegt ist, gruppieren
-> und/oder filtern.
->
-> Leistungsdatum Datum der erfassten Leistung. Wird dies im
-> Zeilen-/Spaltenbereich verwendet, kann ein Datumsintervall definiert
-> werden.
->
-> Projektzeitraum Projektzeitraum der erfassten Leistung aus der
-> Leistungserfassung der Mitarbeiter (Bsp. Buchhaltung 01/2024).
+**Auswahlkriterien**  
+Hier können Sie nach den angelegten Auswahlkriterien
+Filtern. Das Feld *Auswahlkriterien* kann nur als Filter verwendet
+werden, nicht als Gruppierung.
 
-Erfasste Dauer Wert des Feldes Dauer aus der Leistungserfassung des
+**Zuständigkeitsbereich**  
+Sie können hier nach den im KIS hinterlegten
+Zuständigkeiten filtern. Das Feld *Zuständigkeitsbereich* kann nur als
+Filter verwendet werden, nicht als Gruppierung.
+
+**Unternehmensbereich**  
+Mit diesem Feld können Sie nach dem
+Unternehmensbereich, der bei den Klienten hinterlegt ist, gruppieren
+und/oder filtern.
+
+**Leistungsdatum Datum** der erfassten Leistung. Wird dies im
+Zeilen-/Spaltenbereich verwendet, kann ein Datumsintervall definiert
+werden.
+
+**Projektzeitraum** Projektzeitraum der erfassten Leistung aus der
+Leistungserfassung der Mitarbeiter (Bsp. Buchhaltung 01/2024).
+
+**Erfasste Dauer** Wert des Feldes Dauer aus der Leistungserfassung des
 Mitarbeiters.
 
-Wert Hier wird der berechnete Wert der Leistungserfassung ausgegeben.
+**Wert** Hier wird der berechnete Wert der Leistungserfassung ausgegeben.
 
-Einheiten Es werden die erfassten Einheiten ausgegeben (bei Tätigkeiten
+**Einheiten** Es werden die erfassten Einheiten ausgegeben (bei Tätigkeiten
 nach Einheiten).
 
-Betrag Es wird der Betrag der erfassten Leistung ausgegeben (bei
+**Betrag** Es wird der Betrag der erfassten Leistung ausgegeben (bei
 Tätigkeiten nach Betrag).
 
-Status Status der Leistung (ok/verrechnet/nicht freigegeben).
+**Status** Status der Leistung (ok/verrechnet/nicht freigegeben).
 
-Hinweis
-
-Wird der Unternehmensbereich als Gliederung verwendet, dann sind die
-Stunden der nicht verrechenbaren Tätigkeiten unter der Position ohne
-Unternehmensbereich.
+!!! warning "Hinweis"
+    Wird der Unternehmensbereich als Gliederung verwendet, dann sind die
+    Stunden der nicht verrechenbaren Tätigkeiten unter der Position ohne
+    Unternehmensbereich.
 
 Weiterführende Informationen zur Bedienung des Statistik Manager
 Leistungen finden Sie im Kapitel 19.4.2, Seite
 [166](#bedienung-des-statistik-managers).
 
-Hinweis
-
-Im Statistik Manager Leistungen werden alle Zeilen, offen sowie
-verrechnet berücksichtigt.
+!!! warning "Hinweis"
+    Im Statistik Manager Leistungen werden alle Zeilen, offen sowie
+    verrechnet berücksichtigt.
 
 ## RZL Layouts
 
@@ -692,7 +651,6 @@ verrechenbaren Leistungen pro Jahr inkl. der prozentuellen Anteile der
 Tätigkeiten an der Summe sowie der prozentuellen Anteile der
 verrechenbaren/nicht verrechenbaren Stunden an der Gesamtdauer.
 
-Abb. 19‑31 Stundenstatistik Mitarbeiter Prozent
 
 ![](<img/image387.png>)
 
@@ -750,7 +708,6 @@ erscheint der Mitarbeiter pro Generation in der Liste. Über die Spalte
 *Aktuelle Generation* sieht man, welche Generation aktuell in Verwendung
 ist.
 
-Abb. 19‑32 Mitarbeiterliste mit mehreren Generationen
 
 ![](<img/image388.png>)
 
@@ -759,11 +716,10 @@ filtern (vgl. Kapitel 19.13, Seite [180](#speicherbare-layouts)) sowie
 Ausdrucken und/oder Exportieren (vgl. Kapitel 21, Seite
 [189](#sonstige-funktionen)).
 
-Tipp
-
-Wenn Sie einen Mitarbeiter markieren, gelangen Sie mit der Schaltfläche
-*zu den Mitarbeiterstammdaten* direkt zu den Mitarbeiterstammdaten im
-Board.
+!!! info "Tipp"
+    Wenn Sie einen Mitarbeiter markieren, gelangen Sie mit der Schaltfläche
+    *zu den Mitarbeiterstammdaten* direkt zu den Mitarbeiterstammdaten im
+    Board.
 
 ## Klientenliste
 
@@ -787,10 +743,9 @@ filtern (vgl. Kapitel 19.13, Seite [180](#speicherbare-layouts)) sowie
 Ausdrucken und/oder Exportieren (vgl. Kapitel 21, Seite
 [189](#sonstige-funktionen)).
 
-Tipp
-
-Wenn Sie einen Klienten markieren, gelangen Sie mit der Schaltfläche *zu
-den Klientstammdaten* direkt zu den Klientenstammdaten im Board.
+!!! info "Tipp"
+    Wenn Sie einen Klienten markieren, gelangen Sie mit der Schaltfläche *zu
+    den Klientstammdaten* direkt zu den Klientenstammdaten im Board.
 
 ### Klientenübergreifendes Ändern von Stammdaten
 
@@ -798,16 +753,14 @@ den Klientstammdaten* direkt zu den Klientenstammdaten im Board.
 HON spezifischen Stammdaten ändern. Markieren Sie hierfür die
 gewünschten Klienten und wählen die Schaltfläche *Klienten bearbeiten*.
 
-Abb. 19‑33 Klienten bearbeiten
 
 ![](<img/image389.png>)
 
-TIPP
-
-Damit Sie die zu ändernden Stammdaten schnell finden, sollte die
-Klientenliste als erstes Gruppiert und/oder gefiltert werden, damit nur
-noch jene Klienten angezeigt werden, wo Änderungen vorgenommen werden
-sollen.
+!!! info "Tipp"
+    Damit Sie die zu ändernden Stammdaten schnell finden, sollte die
+    Klientenliste als erstes Gruppiert und/oder gefiltert werden, damit nur
+    noch jene Klienten angezeigt werden, wo Änderungen vorgenommen werden
+    sollen.
 
 Folgende Stammdaten können klientenübergreifend geändert werden:
 
@@ -835,15 +788,13 @@ Sind Stammdaten Generationsverwaltend können Sie auch gleich im Zuge der
 klientenübergreifenden Änderung der Stammdaten für die gewählten
 Klienten eine neue Generation anlegen.
 
-Abb. 19‑34 Geneartionen bei Klienten bearbeiten
 
 ![](<img/image390.png>)
 
-Hinweis
-
-Bei generationsverwalteten Stammdaten wird die Anlage einer neuen
-Generation empfohlen. Es besteht aber auch die Option die Änderung auf
-alle aktuellen und zukünftigen Generationen anzuwenden.
+!!! warning "Hinweis"
+    Bei generationsverwalteten Stammdaten wird die Anlage einer neuen
+    Generation empfohlen. Es besteht aber auch die Option die Änderung auf
+    alle aktuellen und zukünftigen Generationen anzuwenden.
 
 Beispiel Änderung der Zustellart von Druckausgabe zu E-Mail:
 
@@ -875,7 +826,6 @@ Nach dem Öffnen der Offenen Leistungen Statistik ist zuerst der
 *Stichtag* zu definieren Bsp. offene Leistungen zum 31.12.. Initial wird
 hier das Tagesdatum vorgeschlagen.
 
-Abb. 19‑35 Stichtag Offenen Leistungen Statistik
 
 ![](<img/image391.png>)
 
@@ -894,7 +844,6 @@ Man möchte die offenen Leistungen des Klienten Nr. 1600 zum Stichtag
 31.12.2022 herausfiltern. Dazu öffnet man die Offene Leistungen
 Statistik, definiert den Stichtag und Filtert auf diesen Klienten.
 
-Abb. 19‑36 Offenen Leistungen Statistik
 
 ![](<img/image392.png>)
 
@@ -982,7 +931,6 @@ Beim Großteil der Auswertungen und Listenansichten besteht die
 Möglichkeit sich die selbst definierten Statistiken als Layout zu
 speichern, um dieses jederzeit wiederverwenden zu können.
 
-Abb. 19‑37 Speicherbare Layouts
 
 ![](<img/image400.png>)
 
@@ -996,14 +944,12 @@ alle Benutzer der Honorarverrechnung verfügbar ist. Setzten Sie diese
 Option nicht, kann nur der eigene Benutzer seine definierten Layouts
 aufrufen.
 
-Abb. 19‑38 Allgemeine Layouts
 
 ![](<img/image401.png>)
 
 Bei der Auswahl der Layouts sind allgemeine Layouts über folgendes
 Symbol erkenntlich.
 
-Abb. 19‑39 Auswahl Allgemeine Layouts
 
 ![](<img/image402.png>)
 
@@ -1019,13 +965,12 @@ Damit Ihnen wieder alle Zeilen zur Verfügung stehen, können Sie auf den
 Ausgangswert *Layout wählen* zurückstellen. Es werden wieder alle Zeilen
 ungefiltert angezeigt.
 
-Tipp
-
-Bei allen gruppierbaren Auswertungen mit Datumsspalten wie Allgemeine
-Umsatzstatistik, Pauschalzeilen, Allgemeine Pauschalstatistik und
-Leistungsübersicht steht Ihnen im Ribbon die Option *Datumsintervall*
-zur Verfügung. Damit können Sie die jeweilige Auswertung schnell und
-einfach nach Tag/Monat/Jahr unterteilen.
+!!! info "Tipp"
+    Bei allen gruppierbaren Auswertungen mit Datumsspalten wie Allgemeine
+    Umsatzstatistik, Pauschalzeilen, Allgemeine Pauschalstatistik und
+    Leistungsübersicht steht Ihnen im Ribbon die Option *Datumsintervall*
+    zur Verfügung. Damit können Sie die jeweilige Auswertung schnell und
+    einfach nach Tag/Monat/Jahr unterteilen.
 
 ### Expertenmodus
 
@@ -1040,7 +985,6 @@ können die Bedingungen ausgewählt werden. Mit einem Klick auf das
 Plus-Symbol können mehrere Verknüpfungen für den zu erstellenden Filter
 ausgewählt werden.
 
-Abb. 19‑40 Filter bearbeiten I
 
 ![](<img/image403.png>)
 
@@ -1067,7 +1011,6 @@ ausgeschlossen werden.
 hinzugefügt werden. Im unten angeführten Beispiel filtert der angelegte
 Expertenfilter alle Zeilen der Tätigkeit eins bis zum 31.12.2021
 
-Abb. 19‑41 Filter bearbeiten II
 
 ![](<img/image404.png>)
 

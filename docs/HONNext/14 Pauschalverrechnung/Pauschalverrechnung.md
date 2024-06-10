@@ -14,7 +14,6 @@ lassen.
 Über den Button *Pauschalzeilen* erhalten Sie eine Übersicht aller
 manuell und automatisch generierten Pauschalzeilen.
 
-Abb. 14‑1 Optionen Pauschalverrechnung
 
 ![](<img/image264.png>)
 
@@ -32,7 +31,6 @@ eine Pauschalzeile erzeugen möchten. Sie können entweder über den Ribbon
 **(1)** oder über die Schaltfläche in der rechten Ecke **(1)** eine neue
 Pauschalzeile anlegen.
 
-Abb. 14‑2 Pauschalzeile anlegen
 
 ![](<img/image265.png>)
 
@@ -45,17 +43,15 @@ eingetragen werden.
 Für den automatischen Pauschalausgleich siehe *Kapitel 14.6.3
 Automatischer Pauschalausgleich.*
 
-Hinweis
+!!! warning "Hinweis"
+    Solang eine Pauschalzeile nicht abgerechnet oder ausgeglichen wurde,
+    kann diese verändert werden. Über die Spalte *Status* ist der aktuelle
+    Zustand der Zeile zu sehen.
 
-Solang eine Pauschalzeile nicht abgerechnet oder ausgeglichen wurde,
-kann diese verändert werden. Über die Spalte *Status* ist der aktuelle
-Zustand der Zeile zu sehen.
-
-Tipp
-
-Die Funktion *Pauschalzeile anlegen* sollte die Ausnahme bilden. Wird
-ein Klient grundsätzlich pauschal abgerechnet, sollte dies über
-wiederkehrende Pauschalzeilen gelöst werden.
+!!! info "Tipp"
+    Die Funktion *Pauschalzeile anlegen* sollte die Ausnahme bilden. Wird
+    ein Klient grundsätzlich pauschal abgerechnet, sollte dies über
+    wiederkehrende Pauschalzeilen gelöst werden.
 
 ### Pauschalzeile löschen
 
@@ -64,10 +60,9 @@ Pauschalzeile irrtümlich angelegt, kann diese über den Button
 *Pauschalzeile löschen* **(2)** gelöscht werden. Eine Löschung ist
 ebenso über die rechte Maustaste und das Kontextmenü möglich.
 
-Hinweis
-
-Abgerechnete oder ausgeglichene Pauschalzeilen, können nicht gelöscht
-werden.
+!!! warning "Hinweis"
+    Abgerechnete oder ausgeglichene Pauschalzeilen, können nicht gelöscht
+    werden.
 
 ## Wiederkehrende Pauschalzeilen
 
@@ -75,15 +70,13 @@ Wiederkehrende Pauschalzeilen werden benötigt, wenn ein Klient z.B.
 monatlich pauschal abgerechnet wird. Es werden hier die benötigen
 Pauschalzeilen vom Programm generiert.
 
-Hinweis
-
-Damit wiederkehrende Pauschalzeilen vom Programm generiert werden
-können, ist es nötig, dass der RZL Dienst aktiv ist (siehe SETUP
-Handbuch Kapitel 12.10.2).
+!!! warning "Hinweis"
+    Damit wiederkehrende Pauschalzeilen vom Programm generiert werden
+    können, ist es nötig, dass der RZL Dienst aktiv ist (siehe SETUP
+    Handbuch Kapitel 12.10.2).
 
 Ersichtlich über folgendes Symbol in der unteren rechten Ecke:
 
-Abb. 14‑3 Aktiver RZL Dienst
 
 ![](<img/image251.png>)
 
@@ -93,7 +86,6 @@ Eine neue wiederkehrende Pauschalzeile kann entweder über den Butten im
 Ribbon **(1)** oder über die Schaltfläche neue Wiederkehrende
 Pauschalzeile **(1)** angelegt werden.
 
-Abb. 14‑4 wiederkehrende Pauschalzeile anlegen
 
 ![](<img/image266.png>)
 
@@ -103,69 +95,66 @@ Klient Hier wird der Klient hinterlegt.
 
 Verrechnungsgruppe Hier wird die Verrechnungsgruppe hinterlegt.
 
-> Häufigkeit Hier definieren Sie, wie oft pauschal abgerechnet wird.  
-> Bsp. 1 = monatlich, 3 = quartalsweise, 6 = halbjährlich und 12 =
-> jährlich
->
-> Datum der nächsten Zeile Hier definieren Sie, mit welchem Datum
-> (Leistungsdatum) die nächste Pauschalzeile generiert werden soll.  
-> Bsp. immer mit ersten des Monats
->
-> Projektzeitraum (+/- Monate) Hinterlegen Sie hier, für welchen
-> Projektzeitraum die Pauschale abgerechnet werden soll. Mit einem
-> negativen Vorzeichen kann der Projektzeitraum nach hinten verschoben
-> werden. Ohne Vorzeichen kann der Projektzeitraum nach vorne verlagert
-> werden.  
-> Bsp.: Datum der nächsten Zeile ist der 01. Jänner -&gt; Im
-> Projektzeitraum wurde **-**1 definiert.  
-> Somit wird mit 01. Jänner eine Zeile für den Projektzeitraum Dezember
-> generiert. Und weiterführend mit 01. Februar eine Zeile für den
-> Projektzeitraum Jänner.
+Häufigkeit Hier definieren Sie, wie oft pauschal abgerechnet wird.  
+Bsp. 1 = monatlich, 3 = quartalsweise, 6 = halbjährlich und 12 =
+jährlich
+
+Datum der nächsten Zeile Hier definieren Sie, mit welchem Datum
+(Leistungsdatum) die nächste Pauschalzeile generiert werden soll.  
+Bsp. immer mit ersten des Monats
+
+Projektzeitraum (+/- Monate) Hinterlegen Sie hier, für welchen
+Projektzeitraum die Pauschale abgerechnet werden soll. Mit einem
+negativen Vorzeichen kann der Projektzeitraum nach hinten verschoben
+werden. Ohne Vorzeichen kann der Projektzeitraum nach vorne verlagert
+werden.  
+Bsp.: Datum der nächsten Zeile ist der 01. Jänner -&gt; Im
+Projektzeitraum wurde **-**1 definiert.  
+Somit wird mit 01. Jänner eine Zeile für den Projektzeitraum Dezember
+generiert. Und weiterführend mit 01. Februar eine Zeile für den
+Projektzeitraum Jänner.
 
 Betrag Tragen Sie die Höhe der Pauschale ein.
 
-> Aktiv Wird für einen Klienten die Pauschalverrechnung deaktiviert,
-> kann die Option *Aktiv* deaktiviert werden.  
-> Es werden keine Pauschalzeilen mehr generiert.
->
-> Text Pauschalzeile Grundsätzlich erhält die Pauschalzeile den Text,
-> welcher bei der Verrechnungsgruppe hinterlegt wurde (vgl. Kapitel 14.3
-> Seite [124](#bezeichnung-der-pauschale)) über das Feld *Text
-> Pauschalzeile* kann hier etwas abweichendes eingetragen werden. Soll
-> der abweichende Text auch auf der Note angedruckt werden, ist der Text
-> mit der rechten Maustaste zu übernehmen. Der zu übernehmende Text ist
-> gelb hinterlegt **(2).**
->
-> Anmerkung Dieses Feld steht Ihnen für interne Bemerkungen zur
-> Verfügung.
+Aktiv Wird für einen Klienten die Pauschalverrechnung deaktiviert,
+kann die Option *Aktiv* deaktiviert werden.  
+Es werden keine Pauschalzeilen mehr generiert.
+
+Text Pauschalzeile Grundsätzlich erhält die Pauschalzeile den Text,
+welcher bei der Verrechnungsgruppe hinterlegt wurde (vgl. Kapitel 14.3
+Seite [124](#bezeichnung-der-pauschale)) über das Feld *Text
+Pauschalzeile* kann hier etwas abweichendes eingetragen werden. Soll
+der abweichende Text auch auf der Note angedruckt werden, ist der Text
+mit der rechten Maustaste zu übernehmen. Der zu übernehmende Text ist
+gelb hinterlegt **(2).**
+
+Anmerkung Dieses Feld steht Ihnen für interne Bemerkungen zur
+Verfügung.
 
 Automatischen Ausgleich  
 Aktivieren: Kann optional aktiviert werden. Siehe
 
-Kapitel 14.6.3 Automatischer Pauschalausgleich.
 
 Nachdem die Daten der wiederkehrenden Pauschale eingegeben und
 gespeichert wurden, können über die Schaltfläche *Pauschalzeilen
 Vorschau* die dazugehörigen Pauschalzeilen generiert werden.
 
-Hinweis
+!!! warning "Hinweis"
+    Die Pauschalzeilen müssen nur über die Pauschalzeilen Vorschau erzeugt
+    werden, wenn Sie in der Vergangenheit liegen und gleich abgerechnet
+    werden sollen, ansonsten werden die Zeilen monatlich/quartalsweise etc.
+    über den RZL Dienst erzeugt.
 
-Die Pauschalzeilen müssen nur über die Pauschalzeilen Vorschau erzeugt
-werden, wenn Sie in der Vergangenheit liegen und gleich abgerechnet
-werden sollen, ansonsten werden die Zeilen monatlich/quartalsweise etc.
-über den RZL Dienst erzeugt.
 
-Abb. 14‑5 Pauschalzeilen Vorschau
 
 ![](<img/image267.png>)
 
-Abb. 14‑6 Pauschalzeilen Vorschau Zeilen
+
 
 ![](<img/image268.png>)
 
-Hinweis
-
-Es werden die Pauschalzeilen bis zum aktuellen Tagesdatum angehakt.
+!!! warning "Hinweis"
+    Es werden die Pauschalzeilen bis zum aktuellen Tagesdatum angehakt.
 
 Fortlaufend werden, nur bei aktivem RZL Dienst, die Zeilen automatisch
 je Monat/Quartal etc. erzeugt.
@@ -198,14 +187,12 @@ Sollte eine Wiederkehrende Pauschalzeile gelöscht werden, können Sie
 dies entweder über das Kontextmenü oder über den Button *Wiederkehrende
 Pauschalzeile löschen.*
 
-Abb. 14‑7 wiederkehrende Pauschalzeilen löschen
 
 ![](<img/image271.png>)
 
-Hinweis
-
-Die aufgrund der wiederkehrenden Pauschalzeile automatisch erzeugten
-Pauschalzeilen werden nicht gelöscht.
+!!! warning "Hinweis"
+    Die aufgrund der wiederkehrenden Pauschalzeile automatisch erzeugten
+    Pauschalzeilen werden nicht gelöscht.
 
 Diese sind manuell über den Reiter *Pauschalzeilen* und den Punkt
 *Pauschalzeile löschen* zu löschen.
@@ -217,7 +204,6 @@ Sie eine bestehende Pauschalzeile kopieren. Die neue Wiederkehrende
 Pauschalzeile muss noch über die Schaltfläche *Speichern* gespeichert
 werden.
 
-Abb. 14‑8 wiederkehrende Pauschalzeilen duplizieren
 
 ![](<img/image272.png>)
 
@@ -230,7 +216,6 @@ wiederkehrender Pauschalzeilen verändern.
 Markieren Sie die zu ändernden Pauschalzeilen und wählen die
 Schaltfläche *Beträge ändern*.
 
-Abb. 14‑9 Beträge ändern
 
 ![](<img/image273.png>)
 
@@ -265,16 +250,14 @@ Erhöhung von 3%
 
 -   Hunderter -&gt; 700 € (-1,96 %)
 
-Hinweis
-
-Bei prozentueller Erhöhung/Verminderung kann abhängig von der gewählten
-Rundungsoption die relative Erhöhung höher/niedriger ausfallen als von
-Ihnen hinterlegt.
+!!! warning "Hinweis"
+    Bei prozentueller Erhöhung/Verminderung kann abhängig von der gewählten
+    Rundungsoption die relative Erhöhung höher/niedriger ausfallen als von
+    Ihnen hinterlegt.
 
 In dem Fenster, dass sich öffnet, erhalten Sie eine Gegenüberstellung
 der bisherigen Werte und der neuen Werte absolut und relativ.
 
-Abb. 14‑10 wiederkehrende Pauschalzeilen Beträge ändern
 
 ![](<img/image274.png>)
 
@@ -296,20 +279,18 @@ Jeden Monats und Projektzeitraum -2 Monate definiert und soll ab dem
 erfolgen, dass die zukünftigen Pauschalzeilen mit dem neuen Wert erzeugt
 werden.
 
-Hinweis
+!!! warning "Hinweis"
+    Der neue Wert betrifft nur zukünftig durch den RZL Dienst erstellte
+    Pauschalzeilen. Wurden bereits Pauschalzeilen mit dem alten Wert
+    generiert, sind diese direkt über *Pauschalverrechnung /Pauschalzeilen*
+    pro Pauschalzeile zu ändern.
 
-Der neue Wert betrifft nur zukünftig durch den RZL Dienst erstellte
-Pauschalzeilen. Wurden bereits Pauschalzeilen mit dem alten Wert
-generiert, sind diese direkt über *Pauschalverrechnung /Pauschalzeilen*
-pro Pauschalzeile zu ändern.
-
-Hinweis
-
-Beim Beträge ändern empfehlen wir die Filterfunktionen zu nutzen, um
-beispielsweise einzuschränken, dass Sie nun alle jährlichen
-Bilanzierungspauschalen erhöhen oder alle monatlichen
-Buchhaltungspauschalen mit gleichem Datum und Projektzeitraum der
-nächsten Zeile.
+!!! warning "Hinweis"
+    Beim Beträge ändern empfehlen wir die Filterfunktionen zu nutzen, um
+    beispielsweise einzuschränken, dass Sie nun alle jährlichen
+    Bilanzierungspauschalen erhöhen oder alle monatlichen
+    Buchhaltungspauschalen mit gleichem Datum und Projektzeitraum der
+    nächsten Zeile.
 
 ## Bezeichnung der Pauschale
 
@@ -317,7 +298,6 @@ Welcher Text für dir Pauschale auf der Note angedruckt wird, hinterlegen
 Sie in den Stammdaten der Verrechnungsgruppe. Es steht Ihnen hierfür das
 Feld *Bezeichnung Pauschale* **(1)** zur Verfügung.
 
-Abb. 14‑11 Bezeichnung der Pauschale
 
 ![](<img/image275.png>)
 
@@ -327,7 +307,6 @@ Sollen bestimmte Tätigkeiten nicht über die Pauschale, sondern
 zusätzlich abgerechnet werden, ist in den Stammdaten der Tätigkeiten die
 Option *Nicht in Pauschale* zu aktivieren.
 
-Abb. 14‑12 Nicht in Pauschale
 
 ![](<img/image276.png>)
 
@@ -344,18 +323,16 @@ gesetzt werden.
 Mithilfe dieser Filterung wird exakt definiert, welche Pauschale
 abgerechnet wird.
 
-Hinweis
-
-Wird kein Filter auf den Projektzeitraum gesetzt, werden alle
-generierten und noch nicht verrechneten Pauschalzeilen zur Abrechnung
-vorgeschlagen.
+!!! warning "Hinweis"
+    Wird kein Filter auf den Projektzeitraum gesetzt, werden alle
+    generierten und noch nicht verrechneten Pauschalzeilen zur Abrechnung
+    vorgeschlagen.
 
 Innerhalb der Notenerstellung werden Pauschalzeilen mit einem
 fettgedruckten P **(1)** abgebildet. Der Text sowie der Projektzeitraum
 und der Betrag der Pauschalzeile können innerhalb der Notenerstellung
 abgeändert werden.
 
-Abb. 14‑13 Pauschale in Note
 
 ![](<img/image277.png>)
 
@@ -364,22 +341,20 @@ einzufügen. Wird ein Verrechnungskreis jedoch Pauschal abgerechnet,
 können keine zusätzlichen Tätigkeiten dieser Verrechnungsgruppe manuell
 in die Note eingefügt werden.
 
-Hinweis
+!!! warning "Hinweis"
+    Werden im Zuge der Notenerstellung Pauschalen und Leistungen verrechnet,
+    wird der Rabatt der Pauschale auf die Verrechnungsgruppe **(2)**
+    verteilt und der der Leistung auf die jeweiligen Tätigkeiten **(3).**
 
-Werden im Zuge der Notenerstellung Pauschalen und Leistungen verrechnet,
-wird der Rabatt der Pauschale auf die Verrechnungsgruppe **(2)**
-verteilt und der der Leistung auf die jeweiligen Tätigkeiten **(3).**
 
-Abb. 14‑14 Pauschale in Note inkl. Rabatt
 
 ![](<img/image278.png>)
 
 ## Pauschalausgleich
 
-Hinweis
-
-Die Abrechnung der Pauschale im Zuge der Notenerstellung und der
-Pauschalausgleich sind unabhängig voneinander.
+!!! warning "Hinweis"
+    Die Abrechnung der Pauschale im Zuge der Notenerstellung und der
+    Pauschalausgleich sind unabhängig voneinander.
 
 Die Gegenrechnung/der Ausgleich der Pauschale mit den tatsächlich
 erfassten Leistungen der Mitarbeiter erfolgt über *Pauschalverrechnung /
@@ -390,7 +365,6 @@ Zuerst wählt man die Pauschalzeile, welche ausgeglichen werden soll aus.
 Anschließend wählt man die Schaltfläche *Pauschale ausgleichen /
 Bearbeiten*.
 
-Abb. 14‑15 Pauschale ausgleichen
 
 ![](<img/image279.png>)
 
@@ -398,10 +372,9 @@ Es öffnet sich ein Dialog mit allen Erfassungszeilen, welche mit der
 Pauschale ausgeglichen werden können. Nun kann man jene
 Erfassungszeilen, welche man ausgleichen möchte, anhaken.
 
-Tipp
-
-Das Programm wählt vorab alle Zeilen mit einem passenden Projektzeitraum
-zur Pauschale aus.
+!!! info "Tipp"
+    Das Programm wählt vorab alle Zeilen mit einem passenden Projektzeitraum
+    zur Pauschale aus.
 
 Das Programm ermittelt automatisch einen Zu-/Abschlag **(1)**. Die
 Verteilung der Zu/Abschläge ist von den Grundeinstellungen (*Kapitel
@@ -410,7 +383,6 @@ Verteilung der Zu/Abschläge ist von den Grundeinstellungen (*Kapitel
 Der Zu/Abschlag passt sich automatisch an, wenn eine Erfassungszeile
 zusätzlich angehakt oder ausgehakt wird.
 
-Abb. 14‑16 Pauschalausgleich
 
 ![](<img/image280.png>)
 
@@ -425,7 +397,6 @@ Wurde bei einer Pauschalzeile bereits über *Pauschalverrechnung /
 Pauschalzeilen* der Pauschalausgleich durchgeführt, kann nur noch der
 Projektzeitraum und der Betrag der Zeile geändert werden.
 
-Abb. 14‑17 Ansicht ausgeglichene Pauschalzeile
 
 ![](<img/image281.png>)
 
@@ -434,10 +405,9 @@ daher die Ansicht des Pauschalausgleiches, wo das Programm bei einer
 Änderung des Betrages auch die Zu/Abschläge neu verteilt bzw., wo Sie
 selbst noch Änderungen durchführen können.
 
-Hinweis
-
-Eine bereits abgerechnete Pauschalzeile kann nicht mehr verändert
-werden.
+!!! warning "Hinweis"
+    Eine bereits abgerechnete Pauschalzeile kann nicht mehr verändert
+    werden.
 
 Wird im Zuge der Notenerstellung der Betrag einer bereits ausgeglichenen
 Pauschalzeile verändert, öffnet sich auch hier automatisch der
@@ -446,11 +416,10 @@ Speichern der Note mitgespeichert.
 
 ### Pauschalausgleich während der Notenerstellung
 
-Hinweis
-
-Im Zuge der Anlage der Pauschalzeilen (Kapitel 14.1.1 und 14.2.1) kann
-definiert werden, dass der Pauschalausgleich gleich im Zuge der
-Notenerstellung vom Programm automatisch vorgenommen wird.
+!!! warning "Hinweis"
+    Im Zuge der Anlage der Pauschalzeilen (Kapitel 14.1.1 und 14.2.1) kann
+    definiert werden, dass der Pauschalausgleich gleich im Zuge der
+    Notenerstellung vom Programm automatisch vorgenommen wird.
 
 Der oben geschilderte Vorgang des Pauschalausgleiches ist auch direkt im
 Zuge der Notenerstellung möglich. Es kann für alle in der jeweiligen
@@ -464,45 +433,40 @@ Pauschalausgleich noch bearbeitet werden, kann dies über den Button
 *Pauschalausgleichen* *bearbeiten* **(2)** im Ribbon oder über das
 Kontextmenü erfolgen.
 
-Abb. 14‑18 Pauschalausgleich während Notenerstellung
+
 
 ![](<img/image282.png>)
 
-Tipp
-
-Wurde der Pauschalausgleich durchgeführt kann über *Pauschalausgleich
-anzeigen* dieser nochmals kontrolliert werden.
+!!! warning "Tipp"
+    Wurde der Pauschalausgleich durchgeführt kann über *Pauschalausgleich
+    anzeigen* dieser nochmals kontrolliert werden.
 
 ### Automatischer Pauschalausgleich
 
-Hinweis
-
-Damit der automatische Pauschalausgleich vom Programm erfolgen kann, ist
-es nötig, dass der RZL Dienst aktiv ist (siehe SETUP Handbuch Kapitel
-12.10.2).
+!!! warning "Hinweis"
+    Damit der automatische Pauschalausgleich vom Programm erfolgen kann, ist
+    es nötig, dass der RZL Dienst aktiv ist (siehe SETUP Handbuch Kapitel
+    12.10.2).
 
 Ersichtlich über folgendes Symbol in der unteren rechten Ecke:
 
-Abb. 14‑19 Aktiver RZL Dienst
 
 ![](<img/image251.png>)
 
 Bei der Anlage einer Pauschalzeile/einer wiederkehrenden Pauschalzeile
 besteht die Option den automatischen Ausgleich zu aktivieren.
 
-Abb. 14‑20 Automaischen Ausgleich aktivieren
 
 ![](<img/image283.png>)
 
-Tipp
-
-Wird der automatische Ausgleich nicht aktiviert, erfolgt der Ausgleich
-der Pauschale weiterhin manuell über *Pauschalverrechnung /
-Pauschalzeilen* und der Schaltfläche *Pauschale ausgleichen.*
+!!! info "Tipp"
+    Wird der automatische Ausgleich nicht aktiviert, erfolgt der Ausgleich
+    der Pauschale weiterhin manuell über *Pauschalverrechnung /
+    Pauschalzeilen* und der Schaltfläche *Pauschale ausgleichen.*
 
 Für den Automatischen Ausgleich sind zwei Felder zu hinterlegen.
 
-> *Zeitpunkt*
+*Zeitpunkt*
 
 Hier ist zu definieren, wann die Pauschale automatisch ausgeglichen
 werden soll. Sie können zwischen folgenden Optionen wählen:
@@ -529,21 +493,21 @@ werden soll. Sie können zwischen folgenden Optionen wählen:
     Das Datum des automatischen Ausgleiches darf maximal drei Monate
     nach dem Datum der Pauschale liegen.
 
-> *Verteilungsart*
+*Verteilungsart*
 
 Hier ist einzustellen, ob die Zu/Abschläge die durch den Ausgleich der
 Pauschale entstehen mit/ohne Mitarbeiterbezug oder manuell Verteilt
 werden sollen.
 
-> **Beispiel Automatischer Pauschalausgleich mit Datum:**
+**Beispiel Automatischer Pauschalausgleich mit Datum:**
 
 Monatliche Pauschale für die Finanzbuchhaltung von 500€, welche jeweils
 ein Monat zeitversetzt abgerechnet wird. Der automatische Ausgleich soll
 immer mit dem gleichen Datum wie das Generieren der Pauschalzeile
 erfolgen.
 
-> Anlage der wiederkehrenden Pauschalzeile:
->
+Anlage der wiederkehrenden Pauschalzeile:
+
 ![](<img/image284.png>)
 
 Über die Schaltfläche *Pauschalzeilen Vorschau* bzw. über den RZL Dienst
@@ -564,10 +528,9 @@ unter die Verrechnungsgruppe Buchhaltung fallen sowie den gleichen
 Projektzeitraum wie die Pauschalzeile aufweisen und gleicht diese mit
 der Pauschalzeile aus.
 
-Hinweis
-
-Zeilen ohne Projektzeitraum bzw. mit überschneidenten Projektzeiträumen
-werden ebenso ausgewählt.
+!!! info "Hinweis"
+    Zeilen ohne Projektzeitraum bzw. mit überschneidenten Projektzeiträumen
+    werden ebenso ausgewählt.
 
 Über die Schaltfläche *Pauschale ausgleichen*, kann der
 Pauschalausgleich aufgerufen bzw. noch editiert werden:
@@ -590,14 +553,14 @@ Pauschalzeile mit Datum 31.10.2023 für den Projektzeitraum September
 Programm wählt nun alle Buchhaltungszeilen mit Projektzeitraum September
 2023 usw.
 
-> **Beispiel automatischer Pauschalausgleich bei Notenerstellung:**
+**Beispiel automatischer Pauschalausgleich bei Notenerstellung:**
 
 Monatliche Pauschale für die Finanzbuchhaltung von 500€, welche jeweils
 ein Monat zeitversetzt abgerechnet wird. Der automatische Ausgleich soll
 bei der Notenerstellung erfolgen.
 
-> Anlage der wiederkehrenden Pauschalzeile:
->
+Anlage der wiederkehrenden Pauschalzeile:
+
 ![](<img/image269.png>)
 
 Über die Schaltfläche *Pauschalzeilen Vorschau* bzw. über den RZL Dienst
@@ -637,14 +600,12 @@ Wurde ein Pauschlausgleich irrtümlich durchgeführt, kann dieser über die
 Schaltfläche *Pauschalausgleich zurücksetzten* wieder rückgängig gemacht
 werden.
 
-Abb. 14‑21 Pauschalausgleich zurücksetzen
 
 ![](<img/image292.png>)
 
 Sie erhalten eine Abfrage, ob der Pauschalausgleich tatsächlich
 zurückgesetzt werden soll.
 
-Abb. 14‑22 Pauschalausgleich zurücksetzen Abfrage
 
 ![](<img/image293.png>)
 
@@ -655,7 +616,7 @@ generiert wurden, verworfen.
 Die Erfassungszeilen stehen für einen erneuten Pauschalausgleich wieder
 zur Verfügung.
 
-Hinweis
+!!! info "Hinweis"
 
 Wurde für die Pauschalzeile eine Schlussnote (Kapitel 14.7, Seite
 [133](#schlussnote)) erstellt, kann der Pauschalausgleich nicht mehr
@@ -680,7 +641,6 @@ Hier beim Pauschalausgleich für Monat 12. Die monatliche Pauschale
 beträgt 500 € - es wurden jedoch Leistungen für einen Wert von 583 €
 erbracht, somit ergibt sich ein Abschlag von 83 €.
 
-Abb. 14‑23 Pauschalausgleich
 
 ![](<img/image294.png>)
 
@@ -688,27 +648,23 @@ Abb. 14‑23 Pauschalausgleich
 Pauschalzeilen eines Klienten über die eine Schlussnote gestellt werden
 soll.
 
-Tipp
+!!! info "Tipp"
+    Durch Gruppieren und/oder Filtern der Ansicht der Pauschalzeilen können
+    Sie schnell und einfach alle Zeilen des betroffenen Klienten selektiere
+    (vgl. Kapitel 19.3, Seite [161](#umsatzstatistik-allgemein)).
 
-Durch Gruppieren und/oder Filtern der Ansicht der Pauschalzeilen können
-Sie schnell und einfach alle Zeilen des betroffenen Klienten selektiere
-(vgl. Kapitel 19.3, Seite [161](#umsatzstatistik-allgemein)).
-
-Abb. 14‑24 Auswahl Zeilen Schlussnote
 
 ![](<img/image295.png>)
 
-Hinweis
-
-Eine Schlussnote kann nur über verrechnete Pauschalzeilen mit erfolgtem
-Pauschalausgleich und für den gleichen Klienten durchgeführt werden.
+!!! warning "Hinweis"
+    Eine Schlussnote kann nur über verrechnete Pauschalzeilen mit erfolgtem
+    Pauschalausgleich und für den gleichen Klienten durchgeführt werden.
 
 Anschließend wählt man die Schaltfläche *Schlussnote erstellen*.
 
 Es öffnet sich eine Note mit dem Gesamten Zu/Abschlag aller
 durchgeführten Pauschalausgleiche der markierten Zeilen.
 
-Abb. 14‑25 Schlussnote
 
 ![](<img/image296.png>)
 
@@ -719,7 +675,6 @@ Zu/Abschlag sich die Nachzahlung oder Gutschrift zusammensetzt **(2).**
 Über den Reiter Pauschaljournal **(3)** können Sie sich nochmals alle
 Pauschalzeilen inkl. den Zu/Abschlägen einblenden lassen.
 
-Abb. 14‑26 Pauschaljournal Schlussnote
 
 ![](<img/image297.png>)
 
@@ -735,7 +690,6 @@ Pauschalzeilen über jene eine Schlussnote erstellt wurde, sind in der
 Ansicht der Pauschalzeilen in der Spalte *Schlussnote erstellt* **(4)**
 ersichtlich.
 
-Abb. 14‑27 Schlussnote erstellt
 
 ![](<img/image298.png>)
 
@@ -754,12 +708,11 @@ In der Notenübersicht können Sie sich die Spalte *Schlussnote*
 einblenden lassen, um zu sehen, bei welchen Noten es sich um
 Schlussnoten handelt.
 
-Hinweis
-
-Wurde für die Pauschalzeile eine Schlussnote (Kapitel 14.7, Seite
-[133](#schlussnote)) erstellt, kann der Pauschalausgleich nicht mehr
-bearbeitet werden, sondern nur über *Pauschlausgleich anzeigen*
-aufgerufen werden.
+!!! warning "Hinweis"
+    Wurde für die Pauschalzeile eine Schlussnote (Kapitel 14.7, Seite
+    [133](#schlussnote)) erstellt, kann der Pauschalausgleich nicht mehr
+    bearbeitet werden, sondern nur über *Pauschlausgleich anzeigen*
+    aufgerufen werden.
 
 ## Automatische Gutschrift einer Pauschale
 
@@ -778,7 +731,6 @@ Mit dem Erstellen der Gutschrift wird automatisch eine negative
 Pauschalzeile **(1)** generiert, um die original Pauschalzeile
 auszugleichen.
 
-Abb. 14‑28 Ansicht Pauschalzeile nach Gutschriftenerstellung
 
 ![](<img/image299.png>)
 
@@ -792,7 +744,6 @@ Pauschalzeile generiert **(2)**. Die neu erzeugte Pauschalzeile ist
 ident zur originalen Pauschalzeile d.h. der Pauschalausgleich wird
 übernommen und kann auch noch angepasst werden.
 
-Abb. 14‑29 Ansicht Pauschalzeile nach finalisierter Gutschrift
 
 ![](<img/image300.png>)
 
@@ -815,13 +766,11 @@ betroffenen Leistungen haben die gleiche Pauschalnummer. Und mit der
 Spalte Ausgleichsstatus **(3)** können Sie auf Ausgeglichene/nicht
 ausgeglichene Pauschalen filtern.
 
-Hinweis
+!!! warning "Hinweis"
+    Die zukünftigen Pauschalzeilen (gelbes P) zeigen die nächsten zu
+    generierenden Pauschalzeilen aufgrund der angelegten wiederkehrenden
+    Pauschalzeilen.
 
-Die zukünftigen Pauschalzeilen (gelbes P) zeigen die nächsten zu
-generierenden Pauschalzeilen aufgrund der angelegten wiederkehrenden
-Pauschalzeilen.
-
-Abb. 14‑30 Pauschalauswertung
 
 ![](<img/image301.png>)
 
@@ -835,7 +784,6 @@ Setzten Sie hierfür den Filter in der Spalte *Ausgleichsstatus* auf
 Bsp. Bei Klient 1 sind 1000€ Pauschale offen und 1510,50 € wurden an
 Leistungen erfasst.
 
-Abb. 14‑31 Pauschalauswertung offene Pauschalen
 
 ![](<img/image302.png>)
 
@@ -843,27 +791,25 @@ Oder Sie gehen den umgekehrten Weg und Erstellen eine Gegenüberstellung
 der bereits ausgeglichenen Pauschalen mit den dazugehörigen Leistungen.
 
 Setzten Sie hierfür den Filter in der Spalte *Ausgleichsstatus* auf
-A*usgeglichen* und Gruppieren Sie nach dem Klienten.
+*Ausgeglichen* und Gruppieren Sie nach dem Klienten.
 
 Bsp. Bei Klient 50 wurden 100 € Pauschale abgerechnet/ausgeglichen aber
 Leistungen im Wert von 250€ erfasst – was einen Abschlag von 150 €
 ergibt.
 
-Abb. 14‑32 Pauschalauswertung ausgeglichene Pauschalen
 
 ![](<img/image303.png>)
 
 Die Zeilen können Sie gruppieren und/oder filtern. Das Layout der
 Statistik können Sie speichern (siehe Kapitel 19.3 und 19.13).
 
-Tipp
-
-Bei den Layouts steht Ihnen das RZL Layout *Klienten mit aktiver
-Pauschalverrechnung* zur Verfügung. Diese Auswertung zeigt Ihnen, bei
-welchen Klienten eine aktive Pauschalverrechnung vorliegt. Eine aktive
-Pauschalverrechnung liegt vor, wenn eine entsprechende Wiederkehrende
-Pauschalzeile oder eine noch nicht ausgeglichene Pauschalzeile vorhanden
-ist.
+!!! info "Tipp"
+    Bei den Layouts steht Ihnen das RZL Layout *Klienten mit aktiver
+    Pauschalverrechnung* zur Verfügung. Diese Auswertung zeigt Ihnen, bei
+    welchen Klienten eine aktive Pauschalverrechnung vorliegt. Eine aktive
+    Pauschalverrechnung liegt vor, wenn eine entsprechende Wiederkehrende
+    Pauschalzeile oder eine noch nicht ausgeglichene Pauschalzeile vorhanden
+    ist.
 
 ## Pauschalen in den Umsatzstatistiken
 
@@ -882,10 +828,9 @@ Abb. 14‑33 Mitarbeiterstatistik Pauschale
 
 ![](<img/image304.png>)
 
-Tipp
-
-Wurde die Verteilung ohne Mitarbeiterbezug durchgeführt, findet man auch
-die Zu/Abschlagszeilen unter der Rubrik *ohne Mitarbeiterzuordnung*.
+!!! info "Tipp"
+    Wurde die Verteilung ohne Mitarbeiterbezug durchgeführt, findet man auch
+    die Zu/Abschlagszeilen unter der Rubrik *ohne Mitarbeiterzuordnung*.
 
 **Umsatzstatistik Klienten**
 
@@ -894,6 +839,5 @@ Pauschalen ebenso durch die Darstellung mit Plus/Minus neutralisiert und
 die tatsächliche Erfassungszeile inkl. Zu/Abschlägen dem Klienten
 zugeordnet.
 
-Abb. 14‑34 Klientenstatistik Pauschale
 
 ![](<img/image305.png>)

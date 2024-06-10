@@ -17,7 +17,7 @@ folgenden Formaten exportiert werden:
 
 -   DOCX
 
-Abb. 21‑1 Liste exportieren
+
 
 ![](<img/image408.png>)
 
@@ -29,7 +29,6 @@ Nachfolgend erhalten Sie nach dem Export die Abfrage, ob Sie die
 exportierte Liste öffnen wollen. Wenn Sie auf *Öffnen* klicken, öffnet
 sich das Dokument am Bildschirm.
 
-Abb. 21‑2 Liste exportieren - Abfrage
 
 ![](<img/image409.png>)
 
@@ -38,7 +37,6 @@ Abb. 21‑2 Liste exportieren - Abfrage
 Mittels der Schaltfläche *Liste drucken* öffnet sich die
 RZL-Druckvorschau.
 
-Abb. 21‑3 Liste drucken
 
 ![](<img/image410.png>)
 
@@ -71,6 +69,5 @@ Nachfolgend erhalten Sie nach dem Export die Abfrage, ob Sie die
 exportierte Liste öffnen wollen. Wenn Sie auf *Öffnen* klicken, öffnet
 sich das Dokument am Bildschirm.
 
-Abb. 21‑4 RZL Druckvorschau
 
 ![](<img/image411.png>)

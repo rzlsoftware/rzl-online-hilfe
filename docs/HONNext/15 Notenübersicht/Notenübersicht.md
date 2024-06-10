@@ -10,7 +10,6 @@ noch nicht finalisiert wurden und noch bearbeitet werden können.
 Die Notenübersicht kann im HON-Modul unter dem Punkt *Honorarnoten –
 Notenübersicht* aufgerufen werden.
 
-Abb. 15‑1 Notenübersicht auswählen
 
 ![](<img/image306.png>)
 
@@ -107,23 +106,21 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
 -   **Zuständigkeitsbereiche** – Sie können sich hier die im KIS
     hinterlegten Zuständigkeiten einblenden.
 
-Abb. 15‑2 Notenübersicht
+
 
 ![](<img/image316.png>)
 
-Tipp
+!!! info "Tipp"
+    In der Notenübersicht haben Sie die Möglichkeit sich Layouts anzulegen
+    (19.13, Seite [180](#speicherbare-layouts)).
 
-In der Notenübersicht haben Sie die Möglichkeit sich Layouts anzulegen
-(19.13, Seite [180](#speicherbare-layouts)).
-
-Hinweis
-
-Die Notenübersicht ist initial auf das aktuelle Jahr (Notendatum)
-eingeschränkt. Der Datumsfilter kann jederzeit angepasst werden. Weiters
-besteht die Möglichkeit einen Vorschlag für die Ansicht zu setzten. Mit
-Rechtklick in das *von Feld* können Sie definieren, dass Sie Bsp. immer
-nur die Noten des letzten Monats sehen oder auch immer alle Noten der
-letzten zwei Jahre. Diese Einstellung wird pro Mitarbeiter gespeichert.
+!!! warning "Hinweis"
+    Die Notenübersicht ist initial auf das aktuelle Jahr (Notendatum)
+    eingeschränkt. Der Datumsfilter kann jederzeit angepasst werden. Weiters
+    besteht die Möglichkeit einen Vorschlag für die Ansicht zu setzten. Mit
+    Rechtklick in das *von Feld* können Sie definieren, dass Sie Bsp. immer
+    nur die Noten des letzten Monats sehen oder auch immer alle Noten der
+    letzten zwei Jahre. Diese Einstellung wird pro Mitarbeiter gespeichert.
 
 ![](<img/image317.png>)
 
@@ -134,7 +131,6 @@ den Status *Finalisiert und gedruckt.* Sollte die Note erneut
 ausgedruckt werden, erhalten Sie die Abfrage vom Programm, ob ein
 Duplikat erstellt werden soll.
 
-Abb. 15‑3 Dupikat
 
 ![](<img/image318.png>)
 
@@ -142,18 +138,16 @@ Wird die Abfrage mit *Ja* bestätigt, wird die Note mit dem Vermerk
 *Duplikat* ausgegeben. Ebenso wird in der Notenübersicht in der Spalte
 *Duplikat* ein Haken gesetzt.
 
-Abb. 15‑4 Dupikat Vermerk auf Note
 
 ![](<img/image319.png>)
 
 Wird die Abfrage mit *Nein* bestätigt, wird die Note ohne den Vermerk
 Duplikat gedruckt.
 
-Hinweis
-
-Gab es im Zeitraum zwischen erstmaligem Ausdruck der Note und dem
-Ausgeben als Duplikat eine Änderung in den Stammdaten (Bsp.
-Adressänderung) wird das Duplikat mit den neuen Stammdaten ausgegeben.
+!!! warning "Hinweis"
+    Gab es im Zeitraum zwischen erstmaligem Ausdruck der Note und dem
+    Ausgeben als Duplikat eine Änderung in den Stammdaten (Bsp.
+    Adressänderung) wird das Duplikat mit den neuen Stammdaten ausgegeben.
 
 ## Sortierung der Notenübersicht
 
@@ -167,7 +161,6 @@ standartmäßig auf der zuletzt erstellten Note.
 Im Ribbon der Notenübersicht stehen Ihnen mehrere Funktionen zur
 Auswahl.
 
-Abb. 15‑5 Funktionen
 
 ![](<img/image320.png>)
 
@@ -177,7 +170,6 @@ Maustaste auf die gewünschte Note, geändert werden. Es öffnet sich ein
 separates Eingabefenster in welches Sie ein neues Notendatum eintragen
 können. Es können auch mehrere Noten in einem Schritt geändert werden.
 
-Abb. 15‑6 Notendatum ändern
 
 ![](<img/image321.png>)
 
@@ -191,7 +183,6 @@ Es öffnet sich ein Fenster mit der bisherigen Anmerkung, diese können
 Sie nun abändern bzw. falls es noch keine Anmerkung gibt, eine Neue
 eintragen.
 
-Abb. 15‑7 Anmerkung ändern
 
 ![](<img/image322.png>)
 
@@ -215,7 +206,6 @@ Noch nicht finalisierte Noten können mittels Button *Note finalisieren*,
 entweder finalisiert werden oder mittels Button *Note finalisieren und
 drucken* auch ausgedruckt werden.
 
-Abb. 15‑8 Note finalisiern
 
 ![](<img/image323.png>)
 
@@ -225,7 +215,6 @@ Finalisierens abzuändern. Mit der Option *Neues Notendatum für die
 ausgewählten Noten setzen* definieren Sie das neue Notendatum. Setzten
 Sie diese Option nicht, bleibt das bisherige Notendatum erhalten.
 
-Abb. 15‑9 Neues Notendatum beim Finalisieren
 
 ![](<img/image324.png>)
 
@@ -233,7 +222,6 @@ Mit der Funktion *erweitertes Finalisieren* öffnet sich ein weiterer
 Dialog, wo die Notennummer und das Notendatum eingegeben werden können,
 bevor man finalisiert.
 
-Abb. 15‑10 erweitertes Finalisieren
 
 ![](<img/image325.png>)
 
@@ -242,22 +230,20 @@ angewandt werden, wo die Note zurückgesetzt wurde und nun erneut
 finalisiert werden muss. Hiermit sollen Lücken in der Nummerierung
 vermieden werden.
 
-Tipp
-
-Wurde eine Note zurückgesetzt und man wählt *erweitertes Finalisieren*,
-schlägt das Programm die alte Notennummer vor – sofern diese nicht
-bereits vergeben wurde.
+!!! info "Tipp"
+    Wurde eine Note zurückgesetzt und man wählt *erweitertes Finalisieren*,
+    schlägt das Programm die alte Notennummer vor – sofern diese nicht
+    bereits vergeben wurde.
 
 Sollten Sie in den Grundeinstelllungen siehe Kapitel 3.1 Seite
 [37](#grundeinstellungen) bereits die Einstellung „*Note beim Speichern
 & schließen finalisieren*“ ausgewählt haben, so ist für Sie dieser
 Menüpunkt hinfällig.
 
-Hinweis
-
-Die Buttons *Notendatum ändern, Note löschen* und *Note finalisieren*
-sind nur bei vorläufigen Noten aktiv. Bei bereits finalisierten Noten
-sind diese Buttons inaktiv.
+!!! warning "Hinweis"
+    Die Buttons *Notendatum ändern, Note löschen* und *Note finalisieren*
+    sind nur bei vorläufigen Noten aktiv. Bei bereits finalisierten Noten
+    sind diese Buttons inaktiv.
 
 Wurde eine Note finalisiert, kann später noch die Zustellung
 (Druckausgabe, E-Mail, Klientenportal) (Kapitel 6) sowie die Anmerkung
@@ -279,7 +265,6 @@ kann der Status einer Note zurückgesetzt werden, wenn kein Beleg
 verknüpft ist, oder der verknüpfte Beleg noch nicht mit der
 Belegverarbeitung in der Finanzbuchhaltung verbucht wurde.
 
-Abb. 15‑11 weitere Funktionen
 
 ![](<img/image326.png>)
 
@@ -301,7 +286,6 @@ Falls Sie eine Note auf den Status *„Vorläufig“* zurücksetzen, die mit
 einem Beleg verknüpft wurde, so erhalten Sie nachfolgende
 Hinweismeldung.
 
-Abb. 15‑12 Hinweismeldung
 
 ![](<img/image327.png>)
 
@@ -309,10 +293,9 @@ Wenn Sie diese Meldung mit *Zurücksetzten* bestätigen, so wird der
 verknüpfte Beleg aus der Belegverarbeitung gelöscht und die Note wieder
 als vorläufige Note gespeichert.
 
-Hinweis
-
-Die Funktion „Note auf Vorläufig zurücksetzten“ sollte nur in
-Ausnahmefällen verwendet werden.
+!!! warning "Hinweis"
+    Die Funktion „Note auf Vorläufig zurücksetzten“ sollte nur in
+    Ausnahmefällen verwendet werden.
 
 Nach dem Zurücksetzten der Note auf den Status *Vorläufig* und dem
 erneuten Finalisieren bekommt die Note eine neue Notennummer, da weiter
@@ -329,11 +312,10 @@ bereits mit einem Beleg verknüpft sind, aktiv und wenn Sie das Modul
 Belegverarbeitung lizenziert haben. Es öffnet sich die Beleg Ansicht, in
 welcher die erkannten und hinterlegten Belegdaten ersichtlich sind.
 
-Hinweis
-
-Werden auf der Honorarnote Nullzeilen abgerechnet, erhalten Sie für
-diese Zeilen keine Gegenbuchungen. Bei Null-Noten wird ebenso keine
-Gegenbuchung vorgeschlagen.
+!!! warning "Hinweis"
+    Werden auf der Honorarnote Nullzeilen abgerechnet, erhalten Sie für
+    diese Zeilen keine Gegenbuchungen. Bei Null-Noten wird ebenso keine
+    Gegenbuchung vorgeschlagen.
 
 In der Belegansicht steht Ihnen das Feld *Bezahlt am* zur Verfügung.
 Dieses Feld können Sie entweder im HON über *Beleg anzeigen* oder direkt
@@ -358,20 +340,17 @@ In der ersten Zeile der Gruppierung erhält man die Gesamtsummen der
 Note. Die zweite Zeile der Gruppierung stellt die Summen je Tätigkeit
 innerhalb einer Note dar.
 
-Abb. 15‑13 Notenjournal
 
 ![](<img/image328.png>)
 
-Hinweis
+!!! warning "Hinweis"
+    Mit der Schaltfläche *Journal Drucken* können Sie das Notenjournal
+    ausdrucken. Der Ausdruck ist dem Tätigkeitsnachweis nachempfunden
+    zusätzlich den abgerechneten Werten und Zu-/Abschlägen.
 
-Mit der Schaltfläche *Journal Drucken* können Sie das Notenjournal
-ausdrucken. Der Ausdruck ist dem Tätigkeitsnachweis nachempfunden
-zusätzlich den abgerechneten Werten und Zu-/Abschlägen.
-
-Hinweis
-
-Im Aufruf des Notenjournal besteht die Möglichkeit sich Layouts
-anzulegen (vgl. Kapitel 19.13, S. [180](#speicherbare-layouts)).
+!!! warning "Hinweis"
+    Im Aufruf des Notenjournal besteht die Möglichkeit sich Layouts
+    anzulegen (vgl. Kapitel 19.13, S. [180](#speicherbare-layouts)).
 
 ## Tätigkeitsnachweis drucken
 
@@ -389,15 +368,14 @@ ausgegeben.
 Der Tätigkeitsnachweis kann für vorläufige sowie für finalisierte Noten
 ausgedruckt werden.
 
-Abb. 15‑14 Tätigkeitsnachweis
+
 
 ![](<img/image329.png>)
 
-Tipp
-
-Wenn Sie den Tätigkeitsnachweis in den PDF Drucker geben, wird
-automatisch die E-Mail-Adresse des Klienten mitgeliefert und der
-Nachweis kann einfach mit der Note mitgesandt werden.
+!!! info "Tipp"
+    Wenn Sie den Tätigkeitsnachweis in den PDF Drucker geben, wird
+    automatisch die E-Mail-Adresse des Klienten mitgeliefert und der
+    Nachweis kann einfach mit der Note mitgesandt werden.
 
 ## Notendetails anzeigen
 
@@ -416,7 +394,6 @@ die Druckvorschau in Echtzeit.
 Möchten Sie an der Note Änderungen vornehmen, muss die Note über die
 Notenübersicht geöffnet werden.
 
-Abb. 15‑15 Notendetails
 
 ![](<img/image330.png>)
 

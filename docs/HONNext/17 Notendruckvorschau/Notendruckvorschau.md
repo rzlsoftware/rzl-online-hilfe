@@ -8,7 +8,6 @@ durchführen, wird die Notendruckvorschau sofort aktualisiert.
 Die Notendruckvorschau können Sie über den Menüpunkt *Honorarnoten –
 Notendruckvorschau* öffnen.
 
-Abb. 17‑1 Notendruckvorschau öffnen
 
 ![](<img/image332.png>)
 
@@ -18,6 +17,5 @@ Sie sich noch nicht in der Notenerstellung befinden, leer.
 Sobald Sie sich in der Notenerstellung befinden wird die
 Notendruckvorschau entsprechend befüllt.
 
-Abb. 17‑2 Ausschnitt Notendruckvorschau
 
 ![](<img/image333.png>)

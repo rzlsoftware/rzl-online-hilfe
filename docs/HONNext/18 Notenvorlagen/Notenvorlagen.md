@@ -22,7 +22,6 @@ Standard Notenvorlage einspielen* im Menüpunkt *Honorarnoten /
 Notenvorlagen* eingespielt werden. Diese finden Sie dann im Bereich
 *Honorarnoten – Notenvorlagen*.
 
-Abb. 18‑1 RZL Standard Notenvorlage einspielen
 
 ![](<img/image334.png>)
 
@@ -32,7 +31,6 @@ Die RZL-Standardvorlage und alle weiteren von Ihnen angelegten bzw.
 importierten Vorlagen finden Sie in der Honorarverrechnung unter dem
 Punkt *Honorarnoten – Notenvorlagen*.
 
-Abb. 18‑2 Notenvorlagen öffnen
 
 ![](<img/image335.png>)
 
@@ -41,11 +39,7 @@ Die *Buttons Vorlage Bearbeiten* bis *Vorlage exportieren*, sind
 inaktiv, so lange Sie keine zu bearbeitende Notenvorlage ausgewählt
 haben.
 
-Abb. 18‑3 Notenvorlagen Ansicht
 
-![](<img/image336.png>)
-
-![](<img/image337.png>)
 ![](<img/image338.png>)
 
 Im unteren Bereich befinden sich die von Ihnen verwendeten
@@ -63,17 +57,16 @@ Sollten Sie eine Notenvorlage neu anlegen wollen, so können Sie dies
 über die Schaltfläche *Neue Vorlage* **(1)** im Ribbon oder im rechten
 oberen Bereich der Notenvorlagenansicht **(1)** machen.
 
-Hinweis
+!!! warning "Hinweis"
+    Sollten Sie eine Vorlage neu anlegen beachten Sie, dass Sie einen
+    komplett leeren Report öffnen. Alle Formeln und die Notenvorlage selbst
+    müssen Sie selbst erstellen.
 
-Sollten Sie eine Vorlage neu anlegen beachten Sie, dass Sie einen
-komplett leeren Report öffnen. Alle Formeln und die Notenvorlage selbst
-müssen Sie selbst erstellen.
 
-Tipp
-
-Im Report Designer, der sich öffnet, wenn Sie eine neue Vorlage anlegen,
-können Sie als Hilfestellung das Reporting Handbuch über den Menüpunkt
-*Hilfe – Handbuch* öffnen.
+!!! info "Tipp"
+    Im Report Designer, der sich öffnet, wenn Sie eine neue Vorlage anlegen,
+    können Sie als Hilfestellung das Reporting Handbuch über den Menüpunkt
+    *Hilfe – Handbuch* öffnen.
 
 Falls Sie nur geringfügige Änderungen, z.B. anderer Rechnungssteller,
 etc haben, so wäre es empfehlenswert die **RZL-Standard-Notenvorlage
@@ -87,25 +80,24 @@ Schaltfläche *Vorlage bearbeiten* **(2)** im Ribbon, über das
 Kontextmenü mit Rechtsklick auf die zu bearbeitende Vorlage, oder
 mittels Doppelklick auf die zu bearbeitende Vorlage, öffnen.
 
-Abb. 18‑4 Vorlage mittels Rechtsklick bearbeiten
+
 
 ![](<img/image339.png>)
 
 Sie gelangen danach in den Report Designer und können Ihre Änderungen
 durchführen.
 
-Tipp
+!!! info "Tipp"
+    Im Report Designer, der sich öffnet, wenn Sie eine bestehende Vorlage
+    ändern, können Sie als Hilfestellung das Reporting Handbuch über den
+    Menüpunkt *Hilfe – Handbuch* öffnen.
 
-Im Report Designer, der sich öffnet, wenn Sie eine bestehende Vorlage
-ändern, können Sie als Hilfestellung das Reporting Handbuch über den
-Menüpunkt *Hilfe – Handbuch* öffnen.
 
-Tipp
-
-Sie können zum Bearbeiten von Vorlagen auch eine bestehende Vorlage
-öffnen, diese dann im Report Designer unter den Menüpunkt *Datei –
-Speichern unter…* unter einem neuen Namen speichern und dann ganz
-einfach verändern.
+!!! info "Tipp"
+    Sie können zum Bearbeiten von Vorlagen auch eine bestehende Vorlage
+    öffnen, diese dann im Report Designer unter den Menüpunkt *Datei –
+    Speichern unter…* unter einem neuen Namen speichern und dann ganz
+    einfach verändern.
 
 Wenn Sie eine bestehende Vorlage ändern und unter über *Speichern unter*
 unter demselben Namen abspeichern, erhalten Sie vom Programm einen
@@ -128,7 +120,6 @@ wählen.
 Wenn Sie die Notenvorlage löschen, erhalten Sie nachfolgende
 Sicherheitsabfrage:
 
-Abb. 18‑5 Sicherheitsabfrage
 
 ![](<img/image341.png>)
 
@@ -141,7 +132,6 @@ Sollte die Notenvorlage in Verwendung sein und Sie klicken auf
 Diese Hinweismeldung erscheint, falls die Notenvorlage einem
 Unternehmensbereich zugeordnet wurde:
 
-Abb. 18‑6 Sicherheitsabfrage bei Unternehmensbereich
 
 ![](<img/image342.png>)
 
@@ -150,7 +140,6 @@ Unternehmensbereich zugeordnet wurde und bei der Notenerstellung
 verwendet wurde. Sie zeigt auf bei wie vielen Noten die Vorlage
 verwendet wurde.
 
-Abb. 18‑7 Sicherheitsabfrage bei Verwendung
 
 ![](<img/image343.png>)
 
@@ -160,7 +149,6 @@ Notenvorlagen wie zum Beispiel die RZL-Standard Notenvorlage können
 einfach umbenannt werden. Die simpelste Methode ist ein Klick in die
 Bezeichnung der Note. Sie können dort ganz einfach den Namen ändern.
 
-Abb. 18‑8 Vorlage umbenennen
 
 ![](<img/image344.png>)
 
@@ -181,7 +169,6 @@ Unternehmensbereich(e)* und können über den *Pfeil* den gewünschten
 Unternehmensbereich hinterlegen. Dazu setzen Sie einen Haken beim
 gewünschten Unternehmensbereich.
 
-Abb. 18‑9 Zuordnung Unternehmensbereiche
 
 ![](<img/image345.png>)
 
@@ -206,9 +193,8 @@ Notenvorlage vorgeschlagen.
 Wenn Sie *Klienten zuordnen* gewählt haben, können Sie die Klienten
 auswählen, wo eine abweichende Notenvorlage hinterlegt werden soll.
 
-Hinweis
-
-Die abweichend hinterlegte Notenvorlage ist generationsübergreifend.
+!!! warning "Hinweis"
+    Die abweichend hinterlegte Notenvorlage ist generationsübergreifend.
 
 Eine Änderung wirkt sich nicht auf bereits erstellte Noten aus.
 
@@ -221,17 +207,15 @@ Rechtsklick auf die gewünschte Vorlage, auf ein Laufwerk oder anderes
 Speichermedium speichern. Es öffnet sich eine Notenvorlage exportieren
 Dialog auf welchem Sie den Speicherort auswählen können.
 
-Abb. 18‑10 Vorlage mittels Rechsklick exportieren
 
 ![](<img/image339.png>)
 
-Hinweis
+!!! warning "Hinweis"
+    Bei Notenvorlagen handelt es sich um xml-Dateien. Der Dateityp und der
+    Dateiname (= Name der Notenvorlage) wird automatisch beim Exportieren
+    festgelegt. Sie können jedoch den Dateinamen auch überschreiben.
 
-Bei Notenvorlagen handelt es sich um xml-Dateien. Der Dateityp und der
-Dateiname (= Name der Notenvorlage) wird automatisch beim Exportieren
-festgelegt. Sie können jedoch den Dateinamen auch überschreiben.
 
-Abb. 18‑11 Export Vorlage
 
 ![](<img/image346.png>)
 

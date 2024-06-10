@@ -26,7 +26,6 @@ automatisch beim Wechseln in die nächste Note aktualisiert und es wird
 Ihnen immer der aktuelle Klient, bei welchem Sie gerade die Note
 erstellen, im Rückblick angezeigt.
 
-Abb. 16‑1 Notenrückblick
 
 ![](<img/image331.png>)
 

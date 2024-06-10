@@ -4,10 +4,9 @@ Die Honorarverrechnung bietet Ihnen die Möglichkeit Akonto- sowie
 Anzahlungen abzurechnen. Hierfür gibt es den eigenen Reiter
 *Akonto/Anzahlungen* im Ribbon.
 
-Tipp
-
-In der Notenübersicht sowie bei den Vorschlägen zur Notenerstellung
-können Sie sich die zusätzliche Spalte Akonto/Anzahlungen einblenden.
+!!! info "Tipp"
+    In der Notenübersicht sowie bei den Vorschlägen zur Notenerstellung
+    können Sie sich die zusätzliche Spalte Akonto/Anzahlungen einblenden.
 
 ## Unterschied Akonto und Anzahlung
 
@@ -25,7 +24,6 @@ neue Akonto-/ Anzahlung anlegen.
 Wählen Sie hierfür entweder im Ribbon die Schaltfläche Neue Akonto-/
 Anzahlung **(1)** oder die Schaltfläche rechts unten **(2).**
 
-Abb. 13‑1 Akonto/Anzahlung anlegen
 
 ![](<img/image248.png>)
 
@@ -35,34 +33,32 @@ Datum Zeitpunkt der Akonto-/ Anzahlung
 
 Klient Klient, der die Akonto-/ Anzahlung leistet
 
-> Verrechnungsgruppe Optional können Sie die Akonto-/ Anzahlung einer
-> Verrechnungsgruppe zuordnen. Bsp. wenn Sie für die Buchhaltung ein
-> Akonto von 50€ und für die Lohnverrechnung ein Akonto von 100€
-> erhalten. Dieses Feld kann auch leer bleiben.
->
-> Projektzeitraum Projektzeitraum den die Akonto-/ Anzahlung abdeckt.
-> Dieses Feld kann auch leer bleiben.
->
-> Betrag Bruttobetrag der Akonto-/ Anzahlung - Negative Beträge sind
-> nicht möglich.
->
-> Text Hier besteht die Möglichkeit eine Anmerkung einzutragen. Soll ein
-> Teil des Textes oder der gesamte Text bei der Note angedruckt werden,
-> können Sie den gewünschten Text markieren und mittels Rechter
-> Maustaste in die Note übernehmen. Der Text, welcher in die Note
-> übernommen wird, ist gelb hinterlegt.
+Verrechnungsgruppe Optional können Sie die Akonto-/ Anzahlung einer
+Verrechnungsgruppe zuordnen. Bsp. wenn Sie für die Buchhaltung ein
+Akonto von 50€ und für die Lohnverrechnung ein Akonto von 100€
+erhalten. Dieses Feld kann auch leer bleiben.
 
-Abb. 13‑2 Akonto-/Anzahlungszeile
+Projektzeitraum Projektzeitraum den die Akonto-/ Anzahlung abdeckt.
+Dieses Feld kann auch leer bleiben.
+
+Betrag Bruttobetrag der Akonto-/ Anzahlung - Negative Beträge sind
+nicht möglich.
+
+Text Hier besteht die Möglichkeit eine Anmerkung einzutragen. Soll ein
+Teil des Textes oder der gesamte Text bei der Note angedruckt werden,
+können Sie den gewünschten Text markieren und mittels Rechter
+Maustaste in die Note übernehmen. Der Text, welcher in die Note
+übernommen wird, ist gelb hinterlegt.
+
 
 ![](<img/image249.png>)
 
 Durch klicken auf die Schaltfläche *Speichern*, wird die Akonto-/
 Anzahlung gespeichert.
 
-Tipp
-
-Mit der Schaltfläche *Akontozahlung/Anzahlung löschen* können Sie noch
-nicht abgerechnete Akonto-/ Anzahlungszeilen löschen.
+!!! info "Tipp"
+    Mit der Schaltfläche *Akontozahlung/Anzahlung löschen* können Sie noch
+    nicht abgerechnete Akonto-/ Anzahlungszeilen löschen.
 
 ### Akonto-/ Anzahlung duplizieren
 
@@ -70,7 +66,6 @@ Mit der Schaltfläche *Akonto-/ Anzahlung duplizieren* können Sie eine
 bestehende Akonto-/Anzahlungszeile kopieren. Die neue Akonto-/Anzahlung
 muss noch über die Schaltfläche *Speichern* gespeichert werden.
 
-Abb. 13‑3 Akonto-/Anzahlung duplizieren
 
 ![](<img/image250.png>)
 
@@ -80,15 +75,13 @@ Wiederkehrende Akonten werden benötigt, wenn ein Klient z.B. monatlich
 Akonten leistet. Es werden hier die benötigen Akontozeilen vom Programm
 generiert.
 
-Hinweis
-
-Damit wiederkehrende Akonten vom Programm generiert werden können, ist
-es nötig, dass der RZL Dienst aktiv ist (siehe SETUP Handbuch Kapitel
-12.10.2).
+!!! warning "Hinweis"
+    Damit wiederkehrende Akonten vom Programm generiert werden können, ist
+    es nötig, dass der RZL Dienst aktiv ist (siehe SETUP Handbuch Kapitel
+    12.10.2).
 
 Ersichtlich über folgendes Symbol in der unteren rechten Ecke:
 
-Abb. 13‑4 Aktiver RZL Dienst
 
 ![](<img/image251.png>)
 
@@ -97,7 +90,6 @@ Abb. 13‑4 Aktiver RZL Dienst
 Eine neue wiederkehrende Akontozeile kann über den Butten im Ribbon
 **(1)** angelegt werden.
 
-Abb. 13‑5 Neue wiederkehrende Akontozeile
 
 ![](<img/image252.png>)
 
@@ -107,33 +99,32 @@ Datum Zeitpunkt der Akontozahlung
 
 Klient Klient, der die Akontozahlung leistet
 
-> Verrechnungsgruppe Optional können Sie das Akonto einer
-> Verrechnungsgruppe zuordnen. Bsp. wenn Sie für die Buchhaltung ein
-> Akonto von 50€ und für die Lohnverrechnung ein Akonto von 100€
-> erhalten. Dieses Feld kann auch leer bleiben.
->
-> Projektzeitraum Projektzeitraum, den die Akontozahlung abdeckt. Dieses
-> Feld kann auch leer bleiben.
->
-> Betrag Bruttobetrag der Akontozahlung. Negative Beträge sind nicht
-> möglich.
->
-> Aktiv Leistet ein Klient keine regelmäßigen Akonten mehr, kann die
-> Option *Aktiv* deaktiviert werden.  
-> Es werden keine Akontozeilen mehr generiert.
->
-> Text Hier besteht die Möglichkeit eine Anmerkung einzutragen. Soll ein
-> Teil des Textes oder der gesamte Text bei der Note angedruckt werden,
-> können Sie den gewünschten Text markieren und mittels Rechter
-> Maustaste in die Note übernehmen. Der Text, welcher in die Note
-> übernommen wird, ist gelb hinterlegt.
+Verrechnungsgruppe Optional können Sie das Akonto einer
+Verrechnungsgruppe zuordnen. Bsp. wenn Sie für die Buchhaltung ein
+Akonto von 50€ und für die Lohnverrechnung ein Akonto von 100€
+erhalten. Dieses Feld kann auch leer bleiben.
+
+Projektzeitraum Projektzeitraum, den die Akontozahlung abdeckt. Dieses
+Feld kann auch leer bleiben.
+
+Betrag Bruttobetrag der Akontozahlung. Negative Beträge sind nicht
+möglich.
+
+Aktiv Leistet ein Klient keine regelmäßigen Akonten mehr, kann die
+Option *Aktiv* deaktiviert werden.  
+Es werden keine Akontozeilen mehr generiert.
+
+Text Hier besteht die Möglichkeit eine Anmerkung einzutragen. Soll ein
+Teil des Textes oder der gesamte Text bei der Note angedruckt werden,
+können Sie den gewünschten Text markieren und mittels Rechter
+Maustaste in die Note übernehmen. Der Text, welcher in die Note
+übernommen wird, ist gelb hinterlegt.
 
 Der Bildschirm der wiederkehrenden Akonten ist geteilt. Auf der Linken
 Hälfte sehen Sie die bereits angelegten wiederkehrenden Akonten und auf
 der rechten Hälfte die neue wiederkehrende Akontozeile bzw. die
 bestehende wiederkehrende Akontozeile zum Bearbeiten.
 
-Abb. 13‑6 wiederkehrende Akontozeile
 
 ![](<img/image253.png>)
 
@@ -142,7 +133,6 @@ Wiederkehrenden Akonten den Klienten zugeordnet werden. Es werden alle
 Klienten aufgelistet und durch setzten des Häkchens und der Schaltfläche
 *Speichern* sind die Klienten der Akontozeile zugeordnet.
 
-Abb. 13‑7 wiederkehrende Akontozeile den Klienten zuordnen
 
 ![](<img/image254.png>)
 
@@ -153,24 +143,20 @@ bis ein Jahr in die Zukunft angezeigt. Durch den Pfeil nach unten sind
 die zugeordneten Klienten, für welche Akonten generiert werden
 ersichtlich.
 
-Abb. 13‑8 Akonten generieren
 
 ![](<img/image255.png>)
 
-> **Hinweis**
->
-> Die Akontozeilen müssen nur manuell erzeugt werden, wenn Sie in der
-> Vergangenheit liegen und gleich abgerechnet werden sollen, ansonsten
-> werden die Zeilen regelmäßig über den RZL Dienst erzeugt.
+!!! warning "Hinweis"
+    Die Akontozeilen müssen nur manuell erzeugt werden, wenn Sie in der
+    Vergangenheit liegen und gleich abgerechnet werden sollen, ansonsten
+    werden die Zeilen regelmäßig über den RZL Dienst erzeugt.
 
-Abb. 13‑9 Akonten generieren
 
 ![](<img/image256.png>)
 
-Hinweis
-
-Die regelmäßig generierten Akontozeilen finden Sie über
-*Akonto/Anzahlungen / Akontozahlungen*.
+!!! warning "Hinweis"
+    Die regelmäßig generierten Akontozeilen finden Sie über
+    *Akonto/Anzahlungen / Akontozahlungen*.
 
 ### Wiederkehrende Akontozeilen löschen
 
@@ -178,14 +164,12 @@ Sollte eine Wiederkehrende Akontozeile gelöscht werden, können Sie dies
 entweder über das Kontextmenü oder über den Button *Wiederkehrendes
 Akonto löschen.*
 
-Abb. 13‑10 wiederkehrendes Akonto löschen
 
 ![](<img/image257.png>)
 
-Hinweis
-
-Die aufgrund der wiederkehrenden Akonten automatisch erzeugten
-Akontozeilen werden nicht gelöscht.
+!!! warning "Hinweis"
+    Die aufgrund der wiederkehrenden Akonten automatisch erzeugten
+    Akontozeilen werden nicht gelöscht.
 
 Diese sind manuell über den Reiter *Akontozahlungen* und den Punkt
 *Akontozahlung löschen* zu löschen.
@@ -202,14 +186,12 @@ wird dadurch nicht verändert.
 Haben Sie pro Verrechnungsgruppe ein Akonto definiert, erhalten Sie pro
 Verrechnungsgruppe eine separate Akontozeile **(1).**
 
-Abb. 13‑11 Note mit Akonto
 
 ![](<img/image258.png>)
 
-Hinweis
-
-Der Betrag einer Akontozeile kann innerhalb der Notenerstellung nicht
-verändert werden.
+!!! warning "Hinweis"
+    Der Betrag einer Akontozeile kann innerhalb der Notenerstellung nicht
+    verändert werden.
 
 Der Text der Akontozeile setzt sich zusammen aus dem Wort „Akonto“ und
 dem Namen der Verrechnungsgruppe.
@@ -218,14 +200,12 @@ Bei der Belegverarbeitung in der Finanzbuchhaltung findet das Akonto
 keine Berücksichtigung. Es wird Nettosumme, UST und Bruttosumme
 verbucht.
 
-Abb. 13‑12 Beleg mit Akonto
 
 ![](<img/image259.png>)
 
 Die Akontozahlung wird am Notenjournal unter der eigenen Rubrik
 *Akontozahlungen* ausgewiesen.
 
-Abb. 13‑13 Notenjournal mit Akonto
 
 ![](<img/image260.png>)
 
@@ -240,14 +220,12 @@ Haben Sie pro Verrechnungsgruppe eine Anzahlung definiert, erhalten Sie
 pro Verrechnungsgruppe eine separate Anzahlungszeile **(1).** Die UST
 aller Anzahlungen wird summiert.
 
-Abb. 13‑14 Note mit Anzahlungen
 
 ![](<img/image261.png>)
 
-Hinweis
-
-Der Betrag einer Anzahlung kann innerhalb der Notenerstellung nicht
-verändert werden.
+!!! warning "Hinweis"
+    Der Betrag einer Anzahlung kann innerhalb der Notenerstellung nicht
+    verändert werden.
 
 Der Text der Anzahlung setzt sich zusammen aus dem Wort „Anzahlung“ und
 dem Namen der Verrechnungsgruppe.
@@ -256,13 +234,11 @@ Bei der Belegverarbeitung in der Finanzbuchhaltung findet die Anzahlung
 keine Berücksichtigung. Es wird Nettosumme, UST und Bruttosumme
 verbucht.
 
-Abb. 13‑15 Beleg mit Anzahlungen
 
 ![](<img/image262.png>)
 
 Die Anzahlung wird am Notenjournal unter der eigenen Rubrik
 *Anzahlungen* ausgewiesen.
 
-Abb. 13‑16 Notenjournal mit Anzahlungen
 
 ![](<img/image263.png>)

@@ -13,20 +13,17 @@ aus. Nun können Sie über das Symbol im Ribbon oder mithilfe der rechten
 Maustaste und dem Kontextmenü die Funktion *Gutschrift aus Note
 erstellen* auswählen.
 
-Abb. 12‑1 Gutschirft aus Note erstellen
 
 ![](<img/image243.png>)
 
-Hinweis
-
-Die Funktion *Gutschrift aus Note erstellen* steht nur bei finalisierten
-Noten zur Verfügung.
+!!! warning "Hinweis"
+    Die Funktion *Gutschrift aus Note erstellen* steht nur bei finalisierten
+    Noten zur Verfügung.
 
 Nachdem die Funktion angewählt wurde, öffnet sich ein Fenster, wo das
 Notendatum der Gutschrift definiert werden muss. Das Tagesdatum wird
 standardmäßig vorgeschlagen.
 
-Abb. 12‑2 Notendatum Gutschrift
 
 ![](<img/image244.png>)
 
@@ -36,14 +33,12 @@ nur noch in Bezug auf Notendatum und Notenvorlage **(1)** verändert
 werden. Die automatisch erzeugten Minuszeilen **(2)** können nicht mehr
 adaptiert werden.
 
-Abb. 12‑3 Ansicht Gutschrift
 
 ![](<img/image245.png>)
 
-Hinweis
-
-Eine automatisch erstellte Gutschrift kann, solange sie nicht
-finalisiert wurde, über die Funktion *Note löschen* gelöscht werden.
+!!! warning "Hinweis"
+    Eine automatisch erstellte Gutschrift kann, solange sie nicht
+    finalisiert wurde, über die Funktion *Note löschen* gelöscht werden.
 
 Nachdem die Gutschrift finalisiert wurde, kann ein Beleg für die
 Belegverarbeitung erzeugt werden (Kapitel 3.1 Grundeinstellungen).
@@ -53,12 +48,11 @@ und *Journal anzeigen* zur Verfügung.
 Bei Gutschriften werden keine Zahlungsinformationen auf der Note
 angedruckt.
 
-Hinweis
-
-Wurde eine Gutschrift finalisiert, kann diese nicht mehr zurückgesetzt
-werden. Ebenso die dazugehörige original Note, kann nicht mehr
-rückgesetzt werden. Die Funktion *Note zurücksetzten* ist bei beiden
-Noten inaktiv.
+!!! warning "Hinweis"
+    Wurde eine Gutschrift finalisiert, kann diese nicht mehr zurückgesetzt
+    werden. Ebenso die dazugehörige original Note, kann nicht mehr
+    rückgesetzt werden. Die Funktion *Note zurücksetzten* ist bei beiden
+    Noten inaktiv.
 
 Nach dem die Gutschrift finalisiert wurde, sind die Leistungszeilen
 wieder als offen deklariert und können erneut abgerechnet werden.
@@ -69,16 +63,13 @@ gelangen. Im Gegensatz können Sie über den Button *Gutgeschriebene Note
 selektieren* ausgehend von der Gutschrift zur original Note gelangen.
 Das Programm selektiert Ihnen automatisch die jeweilige Note.
 
-Abb. 12‑4 Gutschrift selektieren
 
 ![](<img/image246.png>)
 
-Tipp
+!!! info "Tipp"
+    Über die Spalte *Gutschrift* innerhalb der Notenübersicht erhalten Sie
+    einen Tool Tipp mit einem Verweis auf die Gutschrift bzw. auf die
+    gutgeschriebene Note.
 
-Über die Spalte *Gutschrift* innerhalb der Notenübersicht erhalten Sie
-einen Tool Tipp mit einem Verweis auf die Gutschrift bzw. auf die
-gutgeschriebene Note.
-
-Abb. 12‑5 Verweis zur Gutschrift/gutgeschriebenen Note
 
 ![](<img/image247.png>)
