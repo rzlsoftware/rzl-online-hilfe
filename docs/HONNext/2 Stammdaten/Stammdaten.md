@@ -96,7 +96,6 @@ anzeigen lassen und zum Beispiel die Bezeichnung ändern.
 
 
 
-![](<img/image19.png>)
 ![](<img/image20.png>)
 
 !!! warning "Hinweis"
