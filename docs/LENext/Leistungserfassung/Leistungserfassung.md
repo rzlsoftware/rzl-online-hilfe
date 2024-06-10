@@ -32,20 +32,10 @@ Wurde keine Individuelle Arbeitszeit hinterlegt wird die
 Normalarbeitszeit aus der Honorarverrechnung vorgeschlagen.
 
 
-
-![](<img/image7.png>)
-
-
-![](<img/image8.png>)
-
-![](<img/image9.png>)
-
 ![](<img/image10.png>)
 
 Des Weiteren kann die Arbeitszeit auch mittels Kontextmenü (rechte
 Maustaste) vorgeschlagen werden.
-
-
 
 
 ![](<img/image11.png>)
@@ -57,7 +47,6 @@ beschrieben), oder händisch eingetragen werden. Mittels Papierkorbsymbol
 fehlerhaft eingetragen wurden wieder entfernt werden. Ebenso kann durch
 neuerlichen Klick auf die fehlerhafte Arbeitszeit und Drücken der
 *Entf-Taste* die fehlerhafte Eingabe korrigiert werden.
-
 
 
 
@@ -117,15 +106,15 @@ Ende-Zeiten eingetragen wurden.
     Die Arbeitszeiten können mit der digitalen Stempeluhr nur für den
     aktuellen Tag erfasst werden.
 
-Hinweis
 
-Die Arbeitszeiten sowie die Pausen sind nur in einer Leseansicht
-dargestellt und können in der Leistungserfassung nicht geändert werden.
+!!! warning "Hinweis"
+    Die Arbeitszeiten sowie die Pausen sind nur in einer Leseansicht
+    dargestellt und können in der Leistungserfassung nicht geändert werden.
 
-Hinweis
 
-Bei der Digitalen Stempeluhr, ist der Import von Arbeitszeiten nicht
-möglich.
+!!! warning "Hinweis"
+    Bei der Digitalen Stempeluhr, ist der Import von Arbeitszeiten nicht
+    möglich.
 
 Ansicht in der Leistungserfassung vom Mitarbeiter:
 
@@ -146,8 +135,6 @@ dürfen keine Pausen oder Leistungen eingetragen werden.
 Im Arbeitszeitkalender wird der ganztägige Zeitausgleich, in unserem
 Beispiel der 29.10.2019, wie folgt dargestellt:
 
-Abb. 2‑5 ganztägiger Zeitausgleich - Arbeitszeitkalender
-
 
 ![](<img/image19.png>)
 
@@ -159,8 +146,6 @@ ist. Der ZA Saldo wird um die konsumierten ZA Stunden reduziert.
 Befinden Sie sich an einem Tag im Homeoffice, so können Sie dies durch
 setzten des Hakens *Homeoffice* hinterlegen.
 
-Abb. 2‑6 Homeoffice
-
 
 ![](<img/image20.png>)
 
@@ -170,22 +155,16 @@ Spalte *Homeoffice* dargestellt:
 
 ![](<img/image21.png>)
 
-Tipp
-
-Über die Tages- und Wochenansicht im Arbeitszeitkalender kann Homeoffice
-über einen längeren Zeitraum erfasst werden.
+!!! info "Tipp"
+    Über die Tages- und Wochenansicht im Arbeitszeitkalender kann Homeoffice
+    über einen längeren Zeitraum erfasst werden.
 
 ## Leistungen erfassen
 
 ### Eingabedialog
 
-> Mittels Mausklick in das Feld *Tätigkeit Nr.* oder mit der Tabulator-
-> bzw. Enter-Taste **(1)** kann eine Leistungszeile eingetragen werden.
-
-
-
-
-![](<img/image22.png>)
+Mittels Mausklick in das Feld *Tätigkeit Nr.* oder mit der Tabulator-
+bzw. Enter-Taste **(1)** kann eine Leistungszeile eingetragen werden.
 
 
 ![](<img/image23.png>)
@@ -204,10 +183,9 @@ sogenannte Favoriten. Die Favoriten werden nach der Häufigkeit sortiert
 (absteigend). Die restlichen Einträge, nach den Favoriten, bleiben nach
 Nummern sortiert.
 
-Hinweis
-
-Für jede Leistungszeile muss eine Tätigkeit eingetragen werden, damit
-diese freigegeben werden kann.
+!!! warning "Hinweis"
+    Für jede Leistungszeile muss eine Tätigkeit eingetragen werden, damit
+    diese freigegeben werden kann.
 
 Die Suche bzw. Eingabe der *Klienten Nummer* erfolgt analog zur
 Vorgehensweise bei den Tätigkeiten.
@@ -232,7 +210,6 @@ fahren.
 **Beispiel:**
 
 Im nachfolgenden Beispiel wurden diverse Fehler produziert.
-
 
 
 ![](<img/image24.png>)
@@ -312,11 +289,10 @@ Ansicht in der Note:
 
 ![](<img/image30.png>)
 
-Hinweis
-
-Werden mehrere verschiedene Textbausteine markiert, werden die
-jeweiligen Textbausteine mittels Zeilenschaltung getrennt (siehe
-Beispiel 3).
+!!! warning "Hinweis"
+    Werden mehrere verschiedene Textbausteine markiert, werden die
+    jeweiligen Textbausteine mittels Zeilenschaltung getrennt (siehe
+    Beispiel 3).
 
 ### Infozeile 
 
@@ -329,14 +305,6 @@ Informationen, warum z. B. die Arbeitszeit den angeführten Wert aufweist
 wird ein Tooltip eingeblendet **(2)**. Damit der Tooltip eingeblendet
 wird ist auf den jeweiligen Eintrag mit dem Mauscursor zu fahren.
 
-Abb. 2‑10 Übersicht Arbeitszeiten, Differenzen etc.
-
-
-![](<img/image31.png>)
-
-![](<img/image32.png>)
-
-![](<img/image33.png>)
 
 ![](<img/image34.png>)
 
@@ -374,10 +342,9 @@ Die Summe der Dauer aller Leistungen abzüglich der Normalarbeitszeit.
 
 Der aktuelle Saldo des Zeitausgleiches für den jeweiligen Tag.
 
-Tipp
-
-Alle Werte der Infozeile werden mittels Tooltip erläutert. Sie können
-rasch und einfach herausfinden wie sich der Wert zusammensetzt.
+!!! info "Tipp"
+    Alle Werte der Infozeile werden mittels Tooltip erläutert. Sie können
+    rasch und einfach herausfinden wie sich der Wert zusammensetzt.
 
 ### Tageserfassung
 
@@ -389,24 +356,20 @@ ist jedoch immer im Vordergrund (mit einem blauen Rahmen) markiert
 Über den Button *Vorheriger Tag* oder *Nächster Tag* kann in der
 Leistungserfassung der Vortag oder der nächste Tag erfasst werden.
 
-Abb. 2‑11 Vorherigen Tag/nächsten Tag erfassen
-
 
 ![](<img/image35.png>)
 
-Tipp
-
-Mit der Tastenkombination Strg + L kann rasch aus der
-Arbeitszeiterfassung in die Leistungseingabe gewechselt werden.
+!!! info "Tipp"
+    Mit der Tastenkombination Strg + L kann rasch aus der
+    Arbeitszeiterfassung in die Leistungseingabe gewechselt werden.
 
 Mittels Shortcut *Alt + Links* (Linke Pfeiltaste/Cursortaste) kann der
 Vortag erfasst werden. Der nächste Tag kann mittels Shortcut *Alt +
 Rechts* (Rechte Pfeiltaste/Cursortaste) erfasst werden.
 
-Hinweis
-
-Die Eingaben in der Leistungserfassung werden automatisch gespeichert.
-Es existiert kein Speichern Button in dieser Ansicht.
+!!! warning "Hinweis"
+    Die Eingaben in der Leistungserfassung werden automatisch gespeichert.
+    Es existiert kein Speichern Button in dieser Ansicht.
 
 ### Arbeitszeitgesetz 
 
@@ -414,34 +377,30 @@ Wird das Arbeitszeitgesetz nicht eingehalten, so erhalten Sie im unteren
 Bereich der Leistungserfassung einen Hinweis in den nachfolgend
 beschriebenen Fällen.
 
-Abb. 2‑12 Hinweismeldung – Ruhepausen nicht eingehalten
-
 
 ![](<img/image36.png>)
 
 **Nicht Einhaltung der Ruhezeiten:**
 
-> Nach sechs Stunden muss in Summe mindestens eine Pause von 30 Minuten
-> eingehalten werden, wobei Pausen unter zehn Minuten ignoriert werden  
-> (vgl. §11 Abs. 1 AZG).
->
-> Darüberhinausgehende Regelungen wie die Behandlung von Reisezeiten
-> usw. werden derzeit nicht berücksichtigt.
+Nach sechs Stunden muss in Summe mindestens eine Pause von 30 Minuten
+eingehalten werden, wobei Pausen unter zehn Minuten ignoriert werden  
+(vgl. §11 Abs. 1 AZG).
 
-Abb. 2‑13 Hinweismeldung – Max. Tagesarbeitszeit überschritten
+Darüberhinausgehende Regelungen wie die Behandlung von Reisezeiten
+usw. werden derzeit nicht berücksichtigt.
+
 
 ![](<img/image37.png>)
 
 **Überschreitung der maximalen Tagesarbeitszeit:**
 
-> Die tägliche Arbeitszeit darf zwölf Stunden nicht überschreiten. (vgl.
-> §9 Abs. 1 AZG).
+Die tägliche Arbeitszeit darf zwölf Stunden nicht überschreiten. (vgl.
+§9 Abs. 1 AZG).
 
-Hinweis
-
-Ist in den Mitarbeiterstammdaten im Board die Option *Geschäftsführung
-oder leitende Anstellung* (siehe HON Next Handbuch Kapitel Stammdaten
-Mitarbeiter) aktiv, erhalten Sie keine Hinweise zum Arbeitszeitgesetzt.
+!!! warning "Hinweis"
+    Ist in den Mitarbeiterstammdaten im Board die Option *Geschäftsführung
+    oder leitende Anstellung* (siehe HON Next Handbuch Kapitel Stammdaten
+    Mitarbeiter) aktiv, erhalten Sie keine Hinweise zum Arbeitszeitgesetzt.
 
 ## Eingabe einer Leistungszeile außerhalb der Leistungserfassung
 
@@ -455,7 +414,6 @@ neue Leistungszeile erfasst werden. Dabei wird schon vorab der Klient
 vorgeschlagen, falls Sie sich in einem Klienten befinden. Ansonsten wird
 die Leistungseingabe geöffnet und kein Klient vorgeschlagen.
 
-Abb. 2‑14 Leiststungen im KIS erfassen
 
 ![](<img/image38.png>)
 
@@ -472,7 +430,6 @@ Leistungserfassung (vgl. Kapitel 3, Seite [29](#einstellungen)). Dabei
 vorausgefüllt ist das Datum, Beginn und Ende der Leistung, Dauer der
 Leistung, der Klient und falls vorhanden der Projektzeitraum.
 
-Abb. 2‑15 Telefonprotokoll
 
 ![](<img/image39.png>)
 
@@ -491,14 +448,12 @@ Dialog zur Eingabe einer einzelnen Leistungszeile geöffnet. Sofern ein
 Klienten Kontext vorhanden ist wird der Klient bei der Leistungszeile
 vorgeschlagen.
 
-Abb. 2‑16 Strg + U im Board
 
 ![](<img/image40.png>)
 
 Wird auf *Speichern* geklickt ist die Leistungszeile in der
 Leistungserfassung ersichtlich.
 
-Abb. 2‑17 Darstellung in Leistungserfassung
 
 ![](<img/image41.png>)
 
@@ -509,7 +464,6 @@ Die Leistung wird nicht automatisch freigegeben.
 Sollen erfasste Leistungen gelöscht werden, so können diese durch den
 ICON Leistung löschen (1) oder mittels Kontextmenü gelöscht werden.
 
-Abb. 2‑18 ICON Leistungen löschen
 
 ![](<img/image42.png>)
 ![](<img/image43.png>)
@@ -517,7 +471,6 @@ Abb. 2‑18 ICON Leistungen löschen
 Es können auch mehrere Leistungszeilen gelöscht werden, indem diese
 mittels STRG-Taste markiert (farblich hinterlegt) werden.
 
-Abb. 2‑19 Leistungen löschen über Kontextmenü
 
 ![](<img/image44.png>)
 
@@ -546,18 +499,15 @@ Dazu gibt es mehrere Möglichkeiten.
 
 1.  Über den Button *Tagesfreigabe*.
 
-Abb. 2‑21 Tagesfreigabe über Button
 
 ![](<img/image47.png>)
 
-Hinweis
-
-Über den Kalender in der Tagesansicht können mehrere Tage gemeinsam
-freigegeben werden.
+!!! warning "Hinweis"
+    Über den Kalender in der Tagesansicht können mehrere Tage gemeinsam
+    freigegeben werden.
 
 1.  Durch Wechseln auf den nächsten Tag/einen anderen Tag im Kalender.
 
-Abb. 2‑22 Tagesfreigabe – Wechsel im Kalender
 
 ![](<img/image48.png>)
 
@@ -572,18 +522,16 @@ Leistungen nicht für die Honorarverrechnung freigegeben.
     über das Kontextmenü, alle oder einzelne Leistungen eines Tages
     freigegeben werden.
 
-Abb. 2‑23 Freigabe über Kontextmenü
 
 ![](<img/image49.png>)
 
-> 5\. Mittels Shortcut *Strg + T,* werden die Leistungen des ganzen
-> Tages freigegeben.
+5\. Mittels Shortcut *Strg + T,* werden die Leistungen des ganzen
+Tages freigegeben.
 
 Freigegebene Leistungen werden beim jeweiligen Tag bei den einzelnen
 Leistungszeilen in der Spalte Status mit diesem Symbol
 ![](<img/image50.png>)gekennzeichnet.
 
-Abb. 2‑24 Status freigegebener Leistungen
 
 ![](<img/image51.png>)
 
@@ -597,16 +545,14 @@ oder die Leistungen bereits in der Honorarverrechnung verrechnet wurden.
 
 Es können ganze Tage oder einzelne Leistungen zurückgesetzt werden.
 
-Hinweis
-
-Über den Kalender in der Tagesansicht kann für mehrere Tage gemeinsam
-die Freigabe zurückgesetzt werden.
+!!! warning "Hinweis"
+    Über den Kalender in der Tagesansicht kann für mehrere Tage gemeinsam
+    die Freigabe zurückgesetzt werden.
 
 Wird der Punkt *Tagesfreigabe / Tagesfreigabe aufheben* angewählt werden
 alle Leistungen die für diesen Tag erfasst wurden wieder auf den Status
 *nicht freigegeben* zurückgesetzt.
 
-Abb. 2‑25 Tagesfreigabe aufheben
 
 ![](<img/image52.png>)
 
@@ -616,8 +562,6 @@ sodass diese farblich markiert ist/sind und mit der rechten Maustaste
 über das Kontextmenü kann die Leistungsfreigabe für die markierten
 Zeilen aufgehoben werden. Nicht markierte Zeilen werden nicht
 aufgehoben.
-
-Abb. 2‑26 Leistungsfreigabe über Kontextmenü aufheben
 
 ![](<img/image53.png>)
 
@@ -630,7 +574,6 @@ Wenn Sie in der Leistungserfassung auf den Button *Urlaub eintragen*
 klicken wird für den geöffneten Tag eine Urlaubszeile automatisch
 eingetragen.
 
-Abb. 2‑27 Urlaub eintragen
 
 ![](<img/image54.png>)
 
@@ -638,20 +581,17 @@ Diese Funktion ist nur möglich, wenn noch keine andere Leistung für
 diesen Tag eingetragen wurde. Ebenso darf kein ganztägiger Zeitausgleich
 angehakt sein, oder eine Arbeitszeit eingetragen worden sein.
 
-Hinweis
-
-Urlaubszeilen werden gelb hinterlegt.
+!!! warning "Hinweis"
+    Urlaubszeilen werden gelb hinterlegt.
 
 ### Unterschied Eingabe Urlaub in Stunden und Urlaub in Tagen
 
 In der Leistungserfassung ist bei Urlaub nach Stunden das Feld *Dauer*
 aktiv und bei Urlaub nach Tagen das Feld *Einheiten*.
 
-Abb. 2‑28 Leistungserfassung Urlaub in Stunden
 
 ![](<img/image55.png>)
 
-Abb. 2‑29 Leistungserfassung Urlaub in Tagen
 
 ![](<img/image56.png>)
 
@@ -666,7 +606,6 @@ Wenn Sie in der Leistungserfassung auf den Button *Krankenstand
 eintragen* klicken wird für den geöffneten Tag ein Krankenstand
 automatisch eingetragen.
 
-Abb. 2‑30 Krankenstand eintragen
 
 ![](<img/image57.png>)
 
@@ -681,18 +620,15 @@ Gibt es in der Honorarverrechnung mehr als eine Krankenstandstätigkeit,
 dann müssen Sie bei der Eingabe des Krankenstandes die betroffene
 Tätigkeit auswählen.
 
-Abb. 2‑31 Auswahl Krankenstandstätigkeit
 
 ![](<img/image58.png>)
 
-Hinweis
+!!! warning "Hinweis"
+    Krankenstandszeilen werden violett hinterlegt.
 
-Krankenstandszeilen werden violett hinterlegt.
-
-Tipp
-
-Die Funktionen *Urlaub eintragen* und *Krankenstand eintragen* sind auch
-im Arbeitszeitkalender sowie in der Tages- und Wochenansicht möglich.
+!!! info "Tipp"
+    Die Funktionen *Urlaub eintragen* und *Krankenstand eintragen* sind auch
+    im Arbeitszeitkalender sowie in der Tages- und Wochenansicht möglich.
 
 ## Feiertagsverwaltung 
 
@@ -701,14 +637,11 @@ dargestellt. Abweichend zu den gesetzlichen Feiertagen, können in der
 Honorarverrechnung Feiertage, wie zum Beispiel Silvester, selbst
 definiert werden.
 
-Abb. 2‑32 Darstellung im Kalender
-
 ![](<img/image59.png>)
 
 Mittels Doppelklick auf den Feiertag wird der Feiertag automatisch vom
 Programm eingetragen.
 
-Abb. 2‑33 automatische Eintragung des Feiertages
 
 ![](<img/image60.png>)
 
@@ -726,9 +659,8 @@ Voraussetzung dafür ist, dass
 
 -   noch keine Leistung für diesen Tag erfasst wurde.
 
-Hinweis
-
-An gesetzlichen Feiertagen ist kein Urlaub einzutragen.
+!!! info "Hinweis"
+    An gesetzlichen Feiertagen ist kein Urlaub einzutragen.
 
 Werden im Arbeitszeitkalender mehrere Tage; darunter auch ein Feiertag;
 markiert und die Funktion Urlaub eintragen ausgewählt, so wird für den
@@ -742,7 +674,6 @@ vergessen werden, öffnet sich beim Starten des Moduls Leistungserfassung
 automatisch ein Fenster, dass die Leistungen mit den fehlerhaften
 Eingaben des letzten Monats anzeigt.
 
-Abb. 2‑34 unvollständige Tage
 
 ![](<img/image61.png>)
 
@@ -754,14 +685,12 @@ Menüpunkt „*unvollständige Tage“* manuell abrufen. Diesen Menüpunkt
 finden Sie entweder unter *Mitarbeiter Leistungserfassung,* oder direkt
 in der Leistungserfassung unter dem Punkt *Leistungen*.
 
-Abb. 2‑35 manueller Aufruf
 
 ![](<img/image62.png>)
 
-Hinweis
-
-Sollte der Punkt *Unvollständige Tage* ausgegraut sein, sind keine
-unvollständigen Erfassungen vorhanden.
+!!! warning "Hinweis"
+    Sollte der Punkt *Unvollständige Tage* ausgegraut sein, sind keine
+    unvollständigen Erfassungen vorhanden.
 
 ## Datenimport Leistungen und Arbeitszeiten
 
@@ -773,10 +702,9 @@ Datenimport*.
 
 ![](<img/image63.png>)
 
-Hinweis
-
-Leistungen und Arbeitszeiten können nur für den eigenen Mitarbeiter
-importiert werden.
+!!! warning "Hinweis"
+    Leistungen und Arbeitszeiten können nur für den eigenen Mitarbeiter
+    importiert werden.
 
 ### Datenimport Leistungen
 
@@ -801,20 +729,17 @@ wenn Bsp. der Projektzeitraum im falschen Format ist und daher nicht
 nicht durchgeführt werden. Die Importdatei muss dementsprechend
 angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
 
-Abb. 2‑37 Datenimport Leistungen
 
 ![](<img/image69.png>)
 
-Hinweis
-
-Mit der Option *Importdatei nach Übernahme löschen*, wird die
-Importdatei nach erfolgreichem Import im hinterlegten Ordner gelöscht.
+!!! warning "Hinweis"
+    Mit der Option *Importdatei nach Übernahme löschen*, wird die
+    Importdatei nach erfolgreichem Import im hinterlegten Ordner gelöscht.
 
 **Schnittstellenbeschreibung Import Leistungen**
 
 Die Importdatei der Leistungen muss wie folgt aufgebaut sein:
 
-Abb. 2‑38 Aufbau Importdatei Leistungen
 
 ![](<img/image70.png>)
 
@@ -931,25 +856,23 @@ CSV-Standard „RFC 4180“ behandelt werden.</td>
 </tbody>
 </table>
 
-Hinweis
+!!! warning "Hinweis"
+    Leistungen können nur importiert werden, wenn der Tag nicht gesperrt
+    ist.
 
-Leistungen können nur importiert werden, wenn der Tag nicht gesperrt
-ist.
-
-Hinweis
-
-Abhängig bedeutet, dass die Befüllung dieses Feldes abhängig von den
-Einstellungen im HON Next sind. Ist beispielsweise bei einer Tätigkeit
-die Option Projektz*eitraum Eingabe* verpflichtend gesetzt, muss auch in
-der Importdatei der Projektzeitraum eingegeben werde, da die Leistung
-sonst ungültig ist.
+!!! warning "Hinweis"
+    Abhängig bedeutet, dass die Befüllung dieses Feldes abhängig von den
+    Einstellungen im HON Next sind. Ist beispielsweise bei einer Tätigkeit
+    die Option Projektz*eitraum Eingabe* verpflichtend gesetzt, muss auch in
+    der Importdatei der Projektzeitraum eingegeben werde, da die Leistung
+    sonst ungültig ist.
 
 Nach dem Import der Leistungen müssen diese noch explizit freigegeben
 werden. Dies machen Sie, indem Sie den Tag über den Kalender öffnen und
 über die Schaltfläche *Tagesfreigabe* den Tag freigeben (siehe Kapitel
 2.8, Seite [19](#tagesfreigabe)).
 
-Abb. 2‑39 Leistungen freigeben
+
 
 ![](<img/image71.png>)
 
@@ -972,20 +895,17 @@ Folgende Ergebnisse kann die Prüfung liefern:
 nicht durchgeführt werden. Die Importdatei muss dementsprechend
 angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
 
-Abb. 2‑40 Datenimport Arbeitszeiten
 
 ![](<img/image72.png>)
 
-Hinweis
-
-Mit der Option *Importdatei nach Übernahme löschen*, wird die
-Importdatei nach erfolgreichem Import im hinterlegten Ordner gelöscht.
+!!! warning "Hinweis"
+    Mit der Option *Importdatei nach Übernahme löschen*, wird die
+    Importdatei nach erfolgreichem Import im hinterlegten Ordner gelöscht.
 
 **Schnittstellenbeschreibung Import Arbeitszeiten**
 
 Die Importdatei der Arbeitszeiten muss wie folgt aufgebaut sein:
 
-Abb. 2‑41 Aufbau Importdatei Arbeitszeiten
 
 ![](<img/image73.png>)
 
@@ -1116,10 +1036,9 @@ CR\LF getrennt.
 </tbody>
 </table>
 
-Hinweis
-
-Wurde für diesen Tag bereits eine Arbeitszeit eingetragen, ist ein
-Import der Arbeitszeiten nicht mehr möglich.
+!!! warning "Hinweis"
+    Wurde für diesen Tag bereits eine Arbeitszeit eingetragen, ist ein
+    Import der Arbeitszeiten nicht mehr möglich.
 
 ### Protokolle Datenübernahme
 
