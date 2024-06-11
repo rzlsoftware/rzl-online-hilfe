@@ -17,6 +17,24 @@ Im Feld *Kommentar* ***(1)*** können Sie einen Kommentar zur Listenform erfasse
     Öffnen Sie die Netbanking Datei am Speicherort mit dem Editor. Rechtsklick auf die Datei *Öffnen mit / Editor*. Über  die Ansicht im Editor sind die Textbegrenzungszeichen sowie die Feldtrennzeichen gut zu erkennen.
 Auf der linken Seite sind einzelnen *Felder* ***(6)*** gelistet. 
 
+| **Datenfelder Importdatei** | **Format**                 |
+| --------------------------- | -------------------------- |
+| Eigener IBAN                | gültiger IBAN              |
+| Buchungsdatum               | wird automatisch ermittelt |
+| Valutadatum                 | wird automatisch ermittelt |
+| Beleg-Nr.                   | alphanumerisch             |
+| Betrag                      | numerisch                  |
+| Betrag Eingang              | numerisch                  |
+| Betrag Ausgang              | numerisch                  |
+| Buchungstext                | alphanumerisch             |
+| Zahlungsreferenz            | alphanumerisch             |
+| Verwendungszweck            | alphanumerisch             |
+| Auftraggeberinfo            | alphanumerisch             |
+| Partner                     | alphanumerisch             |
+| Partner IBAN                | gültiger IBAN              |
+| Partner BIC                 | gültiger BIC               |
+
+
 ![alt text](img/image11.png)
 
 Mit Auswahl des gewünschten Feldes und Klick auf den Pfeil nach rechts ***(1)***, können die einzelnen Felder der Listenform hinzugefügt werden. Mit Klick auf den linken Pfeil ***(2)*** kann ein Feld von der Listenform wieder entfernt werden. Weiters ist es möglich die Reihenfolge der Felder in der Listenform nachträglich zu verschieben. Halten Sie die linke Maustaste gedrückt und verschieben Sie das ausgewählte Feld  in die gewünschte Position.

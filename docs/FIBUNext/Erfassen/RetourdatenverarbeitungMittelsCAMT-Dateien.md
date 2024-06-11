@@ -92,7 +92,7 @@ Beispielsweise können Sie mit der Tastenkombination **Umschalt+F11** automatisc
 
 
 
-![Image](<img/NeuesElement48.png>)
+![alt text](img/image18.png)
 
 
 ### Ausschlussliste IBAN

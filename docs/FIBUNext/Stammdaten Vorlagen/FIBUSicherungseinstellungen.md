@@ -38,3 +38,13 @@ eine Sicherung erstellt wurde.
 ![Klient schließen](img/image3.png) Beim Schließen des Klienten, falls ein Stapel finalisiert wurde  
 ![UVA erstellen](img/image5.png) Beim Erstellen der UVA  
 ![manuelle Sicherung](img/image2.png) Manuelle Sicherung  
+
+Im Benachrichtigunszentrum ist neben anderen Benachrichtigungen ersichtlich, ob die Automatischen Sicherungen der FIBU Next problemlos durchgeführt werden konnten (grüne Glocke) ***(1)*** oder ob Probleme aufgetreten sind (rote Glocke) ***(2)***. Das Benachrichtigungszentrum finden Sie rechts oben im Board, unabhängig davon in welchem Dialog Sie sich gerade befinden, kann das Benachrichtigungszentrum geöffnet werden.
+
+![alt text](img/image14.png){width="250"}
+
+![alt text](img/image15.png){width="250"}
+
+Sollten Fehler aufgetreten sein, können diese in den FIBU Sicherungseinstellungen bestätigt werden. Nach Bestätigung dieser Fehler wird die Glocke wieder grün (sofern keine anderen fehlerhaften Meldungen (z.B. bei der Belegsynchronisation) im Benachrichtungszentrum vorliegen). Das Bestätigen der fehlerhaften Einträge ist eine eigene Berechtigung ("Protokoll verwalten"), die automatisch in der Rolle Finanzbuchhaltung enthalten ist.
+
+![alt text](img/image16.png)
