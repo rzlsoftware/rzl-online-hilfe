@@ -45,6 +45,6 @@ Im Benachrichtigunszentrum ist neben anderen Benachrichtigungen ersichtlich, ob 
 
 ![alt text](img/image15.png){width="250"}
 
-Sollten Fehler aufgetreten sein, können diese in den FIBU Sicherungseinstellungen bestätigt werden. Nach Bestätigung dieser Fehler wird die Glocke wieder grün (sofern keine anderen fehlerhaften Meldungen (z.B. bei der Belegsynchronisation) im Benachrichtungszentrum vorliegen). Das Bestätigen der fehlerhaften Einträge ist eine eigene Berechtigung ("Protokoll verwalten"), die automatisch in der Rolle Finanzbuchhaltung enthalten ist.
+Sollten Fehler aufgetreten sein, können diese in den FIBU Sicherungseinstellungen bestätigt werden. Nach Bestätigung dieser Fehler ***(1)*** wird die Glocke wieder grün (sofern keine anderen fehlerhaften Meldungen (z.B. bei der Belegsynchronisation) im Benachrichtungszentrum vorliegen). Das Bestätigen der fehlerhaften Einträge ist eine eigene Berechtigung ("Protokoll verwalten"), die automatisch in der Rolle Finanzbuchhaltung enthalten ist.
 
 ![alt text](img/image16.png)
