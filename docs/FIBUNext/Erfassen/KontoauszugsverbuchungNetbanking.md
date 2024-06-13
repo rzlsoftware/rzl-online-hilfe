@@ -2,7 +2,8 @@
 
 ### Verarbeitung von Kontodaten mittels CSV/TXT-Datei (Netbanking)
 
-Damit eine automatisierte Verarbeitung von Kontoauszügen im Dateiformat .csv oder .txt (Netbanking) möglich ist, ist im Vorfeld die Anlage einer Listenform notwendig (siehe Kapitel [Listenformen Netbanking](../Stammdaten%20Vorlagen/Listenformen_Netbanking.md)).
+Damit eine automatisierte Verarbeitung von Kontoauszügen im Dateiformat .csv oder .txt (Netbanking) möglich ist, ist im Vorfeld die Anlage einer Listenform notwendig (siehe Kapitel [Listenformen Netbanking](../Stammdaten/Listenformen_Netbanking.md)).
+
 
 Zusätzlich sind vorab die entsprechenden Bankverbindungen unter dem Menüpunkt *Stammdaten / FIBU Bankverbidung* zu hinterlegen (siehe Kapitel [FIBU Bankverbindungen](../Stammdaten%20FIBU%20Next/FIBUBankverbindungen.md)).
 
