@@ -51,24 +51,19 @@ beliebigen RZL Programm im Menü auf *Hilfsmittel / Einstellungen /
 Registerblatt RZL-PDF-Audruck* (**1**) und aktivieren Sie die Checkbox
 *PDF-Manager verwenden* (**2**).
 
-Abb. 1‑1 Allgemeine Programmeinstellungen
 
-<img src=".\attachments\/media/image4.png"
-style="width:4.63651in;height:1.29413in" />
 
-**2**
+![](<img/image4.png>)
 
-**1**
 
 Sie können aus jedem RZL Programm einen PDF-Ausdruck erzeugen und an den
 RZL PDF-Manager senden. Öffnen Sie dazu a) den betreffenden
 RZL-Programmausdruck und klicken Sie b) auf die Schaltfläche *RZL
 PDF-Drucker*.
 
-Abb. 1‑2 PDF-Ausdruck erzeugen
 
-<img src=".\attachments\/media/image5.png"
-style="width:3.93701in;height:1.33757in" />
+
+![](<img/image5.png>)
 
 Der RZL PDF-Manager wird nun in einem eigenen Fenster geöffnet. Sie
 können beliebig viele PDF Ausdrucke erzeugen. Wiederholen Sie dazu

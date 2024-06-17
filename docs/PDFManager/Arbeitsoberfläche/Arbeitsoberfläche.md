@@ -3,10 +3,8 @@
 In diesem Abschnitt werden die einzelnen Ansichten bzw. Bereiche des RZL
 PDF-Managers erläutert.
 
-Abb. 2‑1 Arbeitsoberfläche
 
-<img src=".\attachments\/media/image6.png"
-style="width:6.33093in;height:4.07692in" />
+![](<img/image6.png>)
 
 -   **Hilfe-Menü (1)**
 
@@ -20,10 +18,8 @@ style="width:6.33093in;height:4.07692in" />
 
 In diesem Abschnitt werden die einzelnen Punkte des Hilfemenüs erklärt.
 
-Abb. 2‑2 Hilfemenü aufgeklappt
 
-<img src=".\attachments\/media/image7.png"
-style="width:1.40179in;height:2.05867in" />
+![](<img/image7.png>)
 
 **Handbuch PDF-Manager**
 
@@ -31,9 +27,9 @@ style="width:1.40179in;height:2.05867in" />
 
 **RZL Knowledge Base**
 
-> Hier finden Sie technische Hilfestellungen zum RZL Lizenzstecker, zu
-> den RZL Programmen, zum RZL PDF-Drucker, zum RZL PDF-Manager Premium
-> usw.
+Hier finden Sie technische Hilfestellungen zum RZL Lizenzstecker, zu
+den RZL Programmen, zum RZL PDF-Drucker, zum RZL PDF-Manager Premium
+usw.
 
 **Lernvideos**
 
@@ -51,10 +47,9 @@ Programmbedienung bzw. bei der Aufklärung von Problemen mittels
 TeamViewer unterstützen. Über den Menüpunkt Fernwartung können Sie den
 TeamViewer starten.
 
-Abb. 2‑3 Fernwartung
 
-<img src=".\attachments\/media/image8.png"
-style="width:2.20979in;height:3.68867in" />
+
+![](<img/image8.png>)
 
 **An Meeting teilnehmen**
 
@@ -78,10 +73,8 @@ Der RZL Admin öffnet sich.
 Unter Info sind die verwendete Programmversion und Ihre Anwendernummer
 ersichtlich.
 
-Abb. 2‑4 Info
 
-<img src=".\attachments\/media/image9.png"
-style="width:3.89979in;height:3.16199in" />
+![](<img/image9.png>)
 
 **Aktuelle Neuerungen**
 
@@ -94,18 +87,14 @@ Programmaktualisierungen.
 Steht eine neue RZL Programmaktualisierung zur Verfügung, können Sie
 diese hiermit manuell starten.
 
-**  
-**
 
 ## Dokumentenliste
 
 Im Bereich *Dokumentenliste* (**1**) sehen Sie alle Dokumente, die dem
 RZL PDF-Manager hinzugefügt wurden.
 
-Abb. 2‑5 Bereich Dokumentenliste
 
-<img src=".\attachments\/media/image10.png"
-style="width:4.37445in;height:4.72441in" />
+![](<img/image10.png>)
 
 **4**
 
@@ -173,10 +162,8 @@ style="width:0.20833in;height:0.20833in" /></td>
 
 **Dokumente filtern**
 
-Abb. 2‑7 Bereich Dokumentenliste, Möglichkeiten zum Filtern
 
-<img src=".\attachments\/media/image17.png"
-style="width:3.93582in;height:2.66698in" />
+![](<img/image17.png>)
 
 **4**
 
@@ -205,12 +192,10 @@ aus.
 
 **1**
 
-Abb. 2‑8 Dokumente gruppieren
-
 **5**
 
-<img src=".\attachments\/media/image18.png"
-style="width:4.20833in;height:0.375in" />
+
+![](<img/image18.png>)
 
 In der *Dokumentenliste* können Sie sich die PDF-Dokumente *in
 bestimmten Gruppen* geordnet anzeigen lassen. (Z.B. nur nach
@@ -229,10 +214,8 @@ Schaltfläche (4). Um sie zu löschen verwenden Sie die Schaltfläche (5).
 
 Jeder Benutzer kann seine eigenen Gruppierungen abspeichern.
 
-Abb. 2‑9 Gruppierung erstellen/bearbeiten
 
-<img src=".\attachments\/media/image19.png"
-style="width:2.59375in;height:2.94426in" />
+![](<img/image19.png>)
 
 **3**
 
@@ -242,16 +225,13 @@ In diesem Bereich können Sie die Vergrößerung des Dokuments einstellen
 (**1**), sowie die einzelnen Seiten des Dokumentes durchblättern
 (**2**).
 
-Abb. 2‑10 Dokumentenvorschau
 
-<img src=".\attachments\/media/image20.png"
-style="width:3.93701in;height:1.87608in" />
+![](<img/image20.png>)
 
 **1**
 
 **2**
 
-Abb. 2‑11 Einstellungsmöglichkeiten
 
 <table>
 <colgroup>
@@ -306,10 +286,8 @@ dieses Symbol (**1**) können Sie dieses Fenster ein-/ausblenden. Des
 Weiteren können Sie diese Ansicht ausdocken und beispielsweise am
 rechten Rand eindocken. Diese Position wird automatisch gespeichert.
 
-Abb. 2‑12 Detailansicht
 
-<img src=".\attachments\/media/image25.png"
-style="width:6.69245in;height:1.46933in" />
+![](<img/image25.png>)
 
 **1**
 
@@ -399,9 +377,5 @@ Klicken Sie dazu im betreffenden Programm (zum Beispiel MS Word) auf
 Anschließend werden beim Drucken die Dokumente an den RZL PDF-Manager
 gesendet und automatisch als PDF-Dokument geöffnet.
 
-Abb. 2‑13 Externe Dokumente drucken
 
-<img src=".\attachments\/media/image26.png"
-style="width:2.28628in;height:2.18379in" />
-
-**1**
+![](<img/image26.png>)
