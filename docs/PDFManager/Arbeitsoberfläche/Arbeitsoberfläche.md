@@ -104,49 +104,7 @@ einzustellen. Sie müssen zuvor mit der Schaltfläche (**4**) die
 !!! warning "Hinweis"
     Mit Strg + A können Sie alle Dokumente im RZL PDF-Manager markieren.
 
-
-<table>
-<colgroup>
-<col style="width: 23%" />
-<col style="width: 76%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Symbol</th>
-<th>Funktion</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><img src=".\attachments\/media/image11.png"
-style="width:0.14567in;height:0.19685in" /></td>
-<td>Filter öffnen</td>
-</tr>
-<tr class="even">
-<td><img src=".\attachments\/media/image12.png" /></td>
-<td>Details ein-/ausblenden</td>
-</tr>
-<tr class="odd">
-<td><img src=".\attachments\/media/image13.png"
-style="width:0.20833in;height:0.20833in" /></td>
-<td>Checkboxen ein-/ausblenden</td>
-</tr>
-<tr class="even">
-<td><img src=".\attachments\/media/image14.png"
-style="width:0.19792in;height:0.20833in" /></td>
-<td>Alles zuklappen</td>
-</tr>
-<tr class="odd">
-<td><img src=".\attachments\/media/image15.png"
-style="width:0.20833in;height:0.20833in" /></td>
-<td>Alles aufklappen</td>
-</tr>
-<tr class="even">
-<td><img src=".\attachments\/media/image16.png" /></td>
-<td>Alle Dokumente markieren</td>
-</tr>
-</tbody>
-</table>
+![](<img/image1.png>)
 
 **Dokumente filtern**
 
@@ -202,51 +160,8 @@ In diesem Bereich können Sie die Vergrößerung des Dokuments einstellen
 ![](<img/image20.png>)
 
 
+![](<img/image2.png>)
 
-<table>
-<colgroup>
-<col style="width: 22%" />
-<col style="width: 77%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Symbol</th>
-<th>Funktion</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><img src=".\attachments\/media/image21.png"
-style="width:0.24803in;height:0.19685in" /></td>
-<td>Eine Seite zurück blättern</td>
-</tr>
-<tr class="even">
-<td><img src=".\attachments\/media/image21.png"
-style="width:0.24803in;height:0.19685in" /></td>
-<td>Eine Seite vor blättern</td>
-</tr>
-<tr class="odd">
-<td><img src=".\attachments\/media/image22.png"
-style="width:0.24803in;height:0.19685in" /></td>
-<td>Zur ersten Seite blättern</td>
-</tr>
-<tr class="even">
-<td><img src=".\attachments\/media/image22.png"
-style="width:0.24803in;height:0.19685in" /></td>
-<td>Zur letzten Seite blättern</td>
-</tr>
-<tr class="odd">
-<td><img src=".\attachments\/media/image23.png"
-style="width:0.24803in;height:0.19685in" /></td>
-<td>Zoom verkleinern</td>
-</tr>
-<tr class="even">
-<td><img src=".\attachments\/media/image24.png"
-style="width:0.24803in;height:0.19685in" /></td>
-<td>Zoom vergrößern</td>
-</tr>
-</tbody>
-</table>
 
 ## Detailansicht
 
@@ -340,7 +255,7 @@ Einsatz haben.
     Diese werden dann ebenfalls als PDF-Dokument ausgegeben.
 
 Klicken Sie dazu im betreffenden Programm (zum Beispiel MS Word) auf
-*Drucken* und wählen Sie bei Drucker *„RZL PDF-Manager“* (**1**) aus.
+*Drucken* und wählen Sie bei Drucker *„RZL PDF-Manager“* aus.
 Anschließend werden beim Drucken die Dokumente an den RZL PDF-Manager
 gesendet und automatisch als PDF-Dokument geöffnet.
 
