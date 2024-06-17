@@ -3,10 +3,8 @@
 Im folgenden Abschnitt werden die Symbole und Einstellungen in der
 Registerblatt *Dokument* erläutert.
 
-Abb. 3‑1 Registerblatt „Dokument“
 
-<img src=".\attachments\/media/image27.png"
-style="width:6.5in;height:1.18753in" />
+![](<img/image27.png>)
 
 ## Dokument hinzufügen
 
@@ -37,10 +35,8 @@ gewünschten Dokumente und klicken Sie auf die Schaltfläche
 *Bitte beachten Sie:* diese Schaltfläche können Sie erst anklicken, wenn
 Sie mehrere Dokumente zum Zusammenführen markiert haben.
 
-Abb. 3‑2 Dokumente zusammenführen
 
-<img src=".\attachments\/media/image28.png"
-style="width:2.93829in;height:1.60417in" />
+![](<img/image28.png>)
 
 Anschließend wird Ihnen ein neues zusammengefügtes Dokument erstellt,
 welches Sie weiterbearbeiten (Wasserzeichen, Hintergrund,
@@ -89,10 +85,8 @@ erstellen lassen. Die Schaltfläche *Klienten Passwort verwenden* erlaubt
 Ihnen das Klienten Passwort zu setzen. Klicken Sie abschließend auf
 *Export*.
 
-Abb. 3‑3 Dokumente im KIS speichern
 
-<img src=".\attachments\/media/image29.png"
-style="width:4.38411in;height:2.69792in" />
+![](<img/image29.png>)
 
 ## Dokumente in das Klientenportal hochladen
 
@@ -105,10 +99,8 @@ Klientenportal hochladen* vergeben Sie einen *Dateinamen* und den
 Ihre Klientenportal-Einstellungen bzw. Ihre Zugangsdaten eingeben. Die
 Vorgehensweise finden Sie im KIS-Handbuch.
 
-Abb. 3‑4 Dokumente in das Klientenportal hochladen (Klient)
 
-<img src=".\attachments\/media/image30.png"
-style="width:4.86231in;height:3.22478in" />
+![](<img/image30.png>)
 
 Der Dateiname kann aus den bestehenden Kategorien zusammengestellt
 werden oder kann auch manuell überschrieben bzw. vergeben werden. Als
@@ -123,10 +115,8 @@ funktioniert jedoch nur dann, wenn Sie bei dem Dokumentenschutz noch
 individuell eingegebenes Passwort immer vorrangig behandelt. Beim
 Bereich Dienstnehmer kann das *Dienstnehmer Passwort verwendet* werden.
 
-Abb. 3‑5 Dokumente in das Klientenportal hochladen (Dienstnehmer)
 
-<img src=".\attachments\/media/image31.png"
-style="width:4.78004in;height:1.29167in" />
+![](<img/image31.png>)
 
 Wenn Sie *Klienten/Dienstnehmer Passwort verwenden* <u>nicht</u>
 ankreuzen, werden die im Dokumentenschutz eingegebenen Passwörter
@@ -161,10 +151,8 @@ Die Option „Schrift speziell übermitteln“ gibt Ihnen die Möglichkeit,
 die Schriftart besonders an den Drucker zu übermitteln, um etwaige
 Druckprobleme vorzubeugen.
 
-Abb. 3‑6 Dokumente drucken.
 
-<img src=".\attachments\/media/image32.png"
-style="width:4.73755in;height:4.50455in" />
+![](<img/image32.png>)
 
 ## Dokumente per E-Mail versenden
 
@@ -175,19 +163,12 @@ Als *Empfänger* können Sie einstellen, ob das E-Mail an einen (im System
 bereits hinterlegten) Klienten, Dienstnehmer, Kunden oder an eine
 benutzerdefinierte Adresse gesendet werden soll.
 
-Abb. 3‑7 E-Mail Empfänger
 
-<img src=".\attachments\/media/image33.png"
-style="width:1.49557in;height:1.05687in" />
+![](<img/image33.png>)
 
-Abb. 3‑8 Dokumente als E-Mail senden
 
-<img src=".\attachments\/media/image34.png"
-style="width:4.18106in;height:4.76788in" />
+![](<img/image34.png>)
 
-**2**
-
-**1**
 
 Die Schaltfläche *Klienten Passwort verwenden* **(1)** erlaubt Ihnen das
 Dokument mit dem Passwort des Klienten zu verschlüsseln. Dies
@@ -206,15 +187,11 @@ Vorlage mit Hilfe der „**Speichern unter**“ Funktion des Microsoft
 Outlooks in das Dateisystem. Wichtig dabei ist der Dateityp
 **„Outlook-Vorlage (\*.oft)“**.
 
-Abb. 3‑9 Outlook Vorlage mit Platzhalter erstellen
 
-<img src=".\attachments\/media/image35.png"
-style="width:3.60955in;height:2.53287in" />
+![](<img/image35.png>)
 
-Abb. 3‑10 Outlook Vorlage speichern
 
-<img src=".\attachments\/media/image36.png"
-style="width:4.58541in;height:2.26643in" />
+![](<img/image36.png>)
 
 Durch Anhaken der Schaltfläche *Alle E-Mail Fenster gleichzeitig öffnen*
 können Sie steuern, ob Sie alle E-Mail Fenster *nacheinander* oder
@@ -244,20 +221,16 @@ versenden wollen, ist eine Auswahl der Kontaktperson leider nicht
 möglich. Zudem werden in diesem Dialog nur jene Kontaktpersonen
 angezeigt, bei welchen auch eine E-Mail-Adresse hinterlegt ist.
 
-Abb. ‑ Outlook Vorlage
 
-> <img src=".\attachments\/media/image37.png"
-> style="width:5.14682in;height:3.30882in" />
+![](<img/image37.png>)
 
-**1**
 
-**2**
 
-> Wählen Sie in diesem Fenster die gewünschten Kontakte in der Liste aus
-> und fügen Sie diese durch einen Doppelklick oder einen Klick auf die
-> jeweilige Schaltfläche (*An -&gt;*, *Cc -&gt;* oder *Bcc -&gt;*
-> (**1**)) in das entsprechende Textfeld ein.
->
-> Die Schaltfläche (**2**) öffnet das *MS Outlook Adressbuch*. Falls auf
-> Ihrem Rechner kein Microsoft Outlook installiert ist, ist diese
-> Schaltfläche nicht verfügbar.
+Wählen Sie in diesem Fenster die gewünschten Kontakte in der Liste aus
+und fügen Sie diese durch einen Doppelklick oder einen Klick auf die
+jeweilige Schaltfläche (*An -&gt;*, *Cc -&gt;* oder *Bcc -&gt;*
+(**1**)) in das entsprechende Textfeld ein.
+
+Die Schaltfläche (**2**) öffnet das *MS Outlook Adressbuch*. Falls auf
+Ihrem Rechner kein Microsoft Outlook installiert ist, ist diese
+Schaltfläche nicht verfügbar.

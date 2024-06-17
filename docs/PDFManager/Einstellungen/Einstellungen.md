@@ -1,9 +1,7 @@
 # Einstellungen
 
-Abb. 6‑1 Menü Einstellungen
 
-<img src=".\attachments\/media/image72.png"
-style="width:6.56593in;height:1.00547in" />
+![](<img/image72.png>)
 
 ### Grundeinstellungen
 
@@ -19,7 +17,7 @@ kopiert. Diese haben einen speziellen Namen und werden dabei immer
 vorgenommen haben, stellen Sie sicher, dass Sie die geänderte Vorlage
 über die „Speichern unter“-Funktion des Report-Designers als neue
 Vorlage mit eigenem Namen abspeichern.  
-*
+
 
 ### KIS Einstellungen
 
@@ -48,10 +46,8 @@ Oberfläche zum Setzen von Plugin-Einstellungen wie beispielsweise
 Klientenportal und OCR Texterkennung. Die unten gezeigten Einträge
 variieren je nach installierten Plugins.
 
-Abb. 6‑2 Oberfläche Plugin Manager
 
-<img src=".\attachments\/media/image73.png"
-style="width:3.02901in;height:2.6247in" />
+![](<img/image73.png>)
 
 ### Speichern unter Einstellungen
 

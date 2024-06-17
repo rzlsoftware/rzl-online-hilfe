@@ -3,10 +3,8 @@
 Im folgenden Abschnitt werden die Symbole und Einstellungen in der
 Registerblatt *Bearbeiten* erläutert.
 
-Abb. 4‑1 Registerblatt „Bearbeiten“
 
-<img src=".\attachments\/media/image38.png"
-style="width:6.5007in;height:0.80202in" />
+![](<img/image38.png>)
 
 ## Lesezeichen
 
@@ -24,10 +22,8 @@ erstellt. Sie können beliebig viele Lesezeichen auf den entsprechenden
 Seiten erstellen. Durch Klick auf ein Lesezeichen wird im RZL
 PDF-Manager die jeweilige Seite des Dokuments geöffnet.
 
-Abb. 4‑2 Lesezeichen einfügen
 
-<img src=".\attachments\/media/image39.png"
-style="width:3.56602in;height:1.88976in" />
+![](<img/image39.png>)
 
 HInweis
 
@@ -40,10 +36,8 @@ Hier können Sie für ein angeklicktes Lesezeichen mit den Schaltflächen
 *Ebene höher* bzw. *Ebene tiefer* zusätzlich eine Hierarchie aufbauen.
 (Das Lesezeichen wird dazu eingerückt.)
 
-Abb. 4‑3 Lesezeichen Hierarchie
 
-<img src=".\attachments\/media/image40.png"
-style="width:3.65237in;height:1.06299in" />
+![](<img/image40.png>)
 
 ### Lesezeichen nummerieren
 
@@ -52,10 +46,8 @@ Seiten oder Lesezeichen fortlaufend zu nummerieren. Markieren Sie das
 gewünschte Dokument und klicken Sie anschließend Schaltfläche
 *Nummerierung hinzufügen*.
 
-Abb. 4‑4 Lesezeichen Nummerierung
 
-<img src=".\attachments\/media/image41.png"
-style="width:3.81618in;height:1.33858in" />
+![](<img/image41.png>)
 
 ### Lesezeichennummerierung entfernen
 
@@ -84,10 +76,8 @@ klicken unten auf die Schaltfläche *Hintergründe verwalten*. Wählen sie
 anschließend die Option *Neuer Hintergrund*. Sie können anschließend die
 gewünschte Datei auswählen.
 
-Abb. 4‑5 Hintergründe verwalten
 
-<img src=".\attachments\/media/image42.png"
-style="width:2.96536in;height:2.42669in" />
+![](<img/image42.png>)
 
 HInweis
 
@@ -124,10 +114,8 @@ Designers* finden Sie im **Reporting-Handbuch**.
 Mit dem *Papierkorb-Symbol* kann ein Bericht gelöscht werden. Alle
 Berichte gelten automatisch *Kanzleiweit*.
 
-Abb. 4‑6 Inhaltsverzeichnis bearbeiten
 
-<img src=".\attachments\/media/image43.png"
-style="width:1.37795in;height:1.31639in" />
+![](<img/image43.png>)
 
 Hinweis
 
@@ -146,18 +134,13 @@ Bezeichnungsschemata sind automatisch Kanzleiweit gültig. Bearbeitet und
 gelöscht werden dürfen diese durch die Benutzergruppen
 *Klientenbearbeiter* und *KIS-Administrator.*
 
-Abb. 4‑7 Menüeintrag Bezeichnungsschema – neu anlegen, bearbeiten,
-löschen
 
-<img src=".\attachments\/media/image44.png"
-style="width:2.0625in;height:1.24667in" />
+![](<img/image44.png>)
 
-Abb. 4‑8 Oberfläche Bezeichnungsschema bearbeiten
 
-<img src=".\attachments\/media/image45.png"
-style="width:3.24803in;height:2.70669in" />
-<img src=".\attachments\/media/image46.png"
-style="width:3.24803in;height:2.70669in" />
+![](<img/image45.png>)
+
+![](<img/image46.png>)
 
 In der Oberfläche *Bezeichnungsschema erstellen/bearbeiten* erhalten Sie
 eine Übersicht der Ausdrucke aus den verschiedenen RZL-Programmen.
@@ -167,10 +150,8 @@ Platzhalter können ebenfalls vergeben werden.
 Das Häkchen „*Nur abweichende anzeigen*“ erlaubt Ihnen, nur jene
 Einträge anzuzeigen, welche von Ihnen geändert wurden.
 
-Abb. 4‑9 Individuelle Bezeichnungen
 
-<img src=".\attachments\/media/image47.png"
-style="width:3.92516in;height:3.28191in" />
+![](<img/image47.png>)
 
 **Individuelle Bezeichnungen:**  
 Hier können Sie für eigene Dokumente mit bestimmter Bezeichnung einen
@@ -182,15 +163,11 @@ klicken Sie die Schaltfläche *Bezeichnungsschema (11)* im Reiter
 Bearbeiten des Menüs und wählen das Bezeichnungsschema aus. Nach der
 Auswahl wird das Schema direkt angewendet.
 
-Abb. 4‑10 Dokumentenliste vor Ausführung des Bezeichnungsschemas
 
-<img src=".\attachments\/media/image48.png"
-style="width:3.36308in;height:1.90194in" />
+![](<img/image48.png>)
 
-Abb. 4‑11 Dokumentenliste nach Ausführung des Bezeichnungsschemas
 
-<img src=".\attachments\/media/image49.png"
-style="width:3.38495in;height:1.90302in" />
+![](<img/image49.png>)
 
 Des Weiteren finden Sie in der Detailansicht einen neuen Reiter
 Bezeichnungsschema, in dem Sie das Schema noch einmal ändern oder wieder
@@ -214,10 +191,8 @@ Wenn Sie die Seitennummerierung entfernen möchten, klicken Sie dazu
 einfach auf das *Papierkorb-Symbol* (siehe Markierung im Bild unten)
 neben dem Wort *Seitennummerierung*.
 
-Abb. 4‑12 Einstellungen Seitennummerierung
 
-<img src=".\attachments\/media/image50.png"
-style="width:4.1842in;height:1.66777in" />
+![](<img/image50.png>)
 
 ### Wasserzeichen hinzufügen
 
@@ -228,10 +203,8 @@ und Ausrichtung des Schriftzugs einstellen. Zusätzlich können Sie
 festlegen ob Formulare bedruckt werden sollen. Klicken Sie dazu auf die
 Schaltfläche *Wasserzeichen* (Abb.4-1).
 
-Abb. 4‑13 Einstellungen Wasserzeichen
 
-<img src=".\attachments\/media/image51.png"
-style="width:3.21068in;height:1.59798in" />
+![](<img/image51.png>)
 
 Wenn Sie das Wasserzeichen entfernen möchten, klicken Sie dazu einfach
 auf das *Papierkorb-Symbol* neben dem Wort *Wasserzeichen* (siehe
@@ -260,10 +233,8 @@ Checkboxen in Abb.4-9) können jedoch nur nach Eingabe dieses Passwortes
 bearbeitet werden. Das Administratorpasswort schaltet immer alle
 Funktionen frei, wenn dieses eingegeben wird.
 
-Abb. 4‑14 Einstellungen Dokumentenschutz
 
-<img src=".\attachments\/media/image52.png"
-style="width:5.25662in;height:1.33551in" />
+![](<img/image52.png>)
 
 Mittels Aktivieren der Checkboxen entscheiden Sie, ob folgende
 Funktionen erlaubt sein sollen. Diese Einstellungen gelten jedoch nur
@@ -312,15 +283,11 @@ Kennwörter*** geändert werden. Initial ist das PDF-Administratorkennwort
 ihr Lizenzkennwort. Um das PDF-Administratorpasswort ändern zu können
 müssen Sie das aktuelle PDF-Administratorpasswort kennen.
 
-Abb. 4‑15 Kanzleiweites PDF-Administratorpasswort ändern
 
-<img src=".\attachments\/media/image53.png"
-style="width:2.72651in;height:2.19649in" />
+![](<img/image53.png>)
 
-Abb. 4‑16 PDF-Administratorpasswort ändern
 
-<img src=".\attachments\/media/image54.png"
-style="width:3.0409in;height:0.89779in" />
+![](<img/image54.png>)
 
 HInweis
 
@@ -344,20 +311,16 @@ gewünschte Dokument in der Vorschau gelangen Sie in ein neues
 Bearbeitungsfenster. Hier können Sie individuelle Textfelder und Notizen
 in das Dokument einfügen.
 
-Abb. 4‑17 Kommentar
 
-<img src=".\attachments\/media/image55.png"
-style="width:6.54038in;height:2.8822in" />
+![](<img/image55.png>)
 
 **Text hinzufügen:**
 
 Ein Textfeld können Sie über die Schaltfläche *Text hinzufügen (1)* in
 das Dokument einfügen. Die Größe und Position sind frei wählbar (2).
 
-Abb. 4‑18 Textfeld
 
-<img src=".\attachments\/media/image56.png"
-style="width:6.51208in;height:3.13026in" />
+![](<img/image56.png>)
 
 In der Liste der Kommentare (3) können Sie weitere Einstellungen zu
 *Schriftgröße, Schrift- und Rahmenfarbe* und *Hintergrundfarbe* treffen.
@@ -371,7 +334,5 @@ das Dokument einfügen. Am Dokument wird nur das Symbol für die Notiz
 angezeigt (2), der Text ist rechts in der Liste der Kommentare
 einzutragen. Weiters können Sie dort die Notiz entfernen (3).
 
-Abb. 4‑19 Notiz
 
-<img src=".\attachments\/media/image57.png"
-style="width:6.50273in;height:2.81755in" />
+![](<img/image57.png>)

@@ -9,20 +9,14 @@ Dies bedeutet, dass bestimmte Aktionen vom RZL PDF-Manager „der Reihe
 nach“ automatisch an jedem ausgewählten PDF-Dokument durchgeführt
 werden.
 
-Abb. 5‑1 Registerblatt „Workflow“
-
-<img src=".\attachments\/media/image58.png"
-style="width:6.25153in;height:1.43669in" />
+![](<img/image58.png>)
 
 ## Workflow hinzufügen
 
 Um einen Workflow zu erstellen, klicken Sie auf *Workflow hinzufügen*.
 Das Fenster *Workflow* öffnet sich.
 
-Abb. 5‑2 Neuer Workflow
-
-<img src=".\attachments\/media/image59.png"
-style="width:6.00285in;height:1.69414in" />
+![](<img/image59.png>)
 
 **Name**
 
@@ -67,10 +61,7 @@ Zuständigkeiten entnehmen Sie bitte dem KIS Handbuch. Durch zuweisen
 einer Zuständigkeit wird der Workflow ebenfalls in einer eigenen Gruppe
 im PDF-Manager angezeigt. (Abb. 5-3 Zuständigkeit)
 
-Abb. 5‑3 Workflows gruppiert nach Zuständigkeit
-
-<img src=".\attachments\/media/image60.png"
-style="width:5.44792in;height:0.96941in" />
+![](<img/image60.png>)
 
 **Speichern**
 
@@ -83,22 +74,18 @@ Verwerfen Sie diesen Workflow.
 **Workflow**
 
 Durch Anklicken der Schaltfläche
-<img src=".\attachments\/media/image61.png"
-style="width:0.79021in;height:0.18715in" /> haben Sie die Möglichkeit
-einem neuen Workflow mehrere, bestimmte Aktionen (Abb. 5-4)
+![](<img/image61.png>)haben Sie die Möglichkeit
+einem neuen Workflow mehrere, bestimmte Aktionen
 hinzuzufügen.
 
 Diese Aktionen werden vom RZL PDF-Manager „der Reihe nach“ automatisch
 durchgeführt.
 
-Abb. 5‑4 neue Aktion hinzufügen
-
-<img src=".\attachments\/media/image62.png"
-style="width:2.49489in;height:2.63943in" />
+![](<img/image62.png>)
 
 Bei jeder unten beschriebenen Aktion haben Sie zusätzlich die
 Möglichkeit im Fenster die Option *Ausführung der Aktion bestätigen* zu
-markieren (Markierung in Abb.5-5).
+markieren.
 
 Wenn Sie *„Ausführung der Aktion bestätigen“* ankreuzen verlangt der RZL
 PDF-Manager jedes Mal, bevor diese Aktion ausgeführt wird, eine
@@ -108,10 +95,7 @@ Verneinen Sie diese Frage, wird diese spezielle Aktion übersprungen und
 automatisch mit der nachfolgenden Aktion fortgefahren. Für jede Aktion
 kann diese Ausführungs-Frage individuell markiert werden.
 
-Abb. 5‑5 neue Aktion, Einstellungen
-
-<img src=".\attachments\/media/image63.png"
-style="width:4.86781in;height:2.46364in" />
+![](<img/image63.png>)
 
 **Bezeichnungsschema anwenden**
 
@@ -212,19 +196,13 @@ Ein fertiger Workflow *(Beispiel unten: Name „E-Mail Versand“.
 Beinhaltet die Aktionen „Zusammenführen“, „Wasserzeichen“ und „E-Mail
 senden“)* könnte beispielweise so aussehen.
 
-Abb. 5‑6 Workflow Beispiel
-
-<img src=".\attachments\/media/image64.png"
-style="width:5.62679in;height:2.38257in" />
+![](<img/image64.png>)
 
 Zum Ausführen markieren Sie das/die PDF-Dokument(e). Klicken im
 Registerblatt *Workflow* auf dem jeweiligen Workflow und wählen
 *Workflow ausführen.*
 
-Abb. 5‑7 Workflow ausführen
-
-<img src=".\attachments\/media/image65.png"
-style="width:1.87285in;height:0.91336in" />
+![](<img/image65.png>)
 
 Dadurch werden die definierten Aktionen für alle markierten Dokumente
 automatisch der Reihe nach ausgeführt.
@@ -235,10 +213,7 @@ Sie haben neben der Ausführung auch die Möglichkeit einen bestehenden
 Workflow zu bearbeiten, zu duplizieren (= kopieren), als XML zu
 exportieren (Sicherung) oder wieder zu löschen.
 
-Abb. 5‑8 Workflow bearbeiten
-
-<img src=".\attachments\/media/image66.png"
-style="width:1.70443in;height:2.02555in" />
+![](<img/image66.png>)
 
 ## Workflow als Favorit abspeichern
 
@@ -246,17 +221,13 @@ Wenn Sie die Option *Zu Favoriten hinzufügen* wählen, wird dieser
 Workflow auf der Startleiste des RZL PDF-Managers (Registerblatt
 *Dokument*) angezeigt und kann auch gleich von dort gestartet werden.
 
-Abb. 5‑9 Workflow Favoriten
-
-<img src=".\attachments\/media/image67.png"
-style="width:5.28949in;height:1.03413in" />
+![](<img/image67.png>)
 
 Sie können einen als Favorit gespeicherten Workflow jederzeit wieder
 entfernen, indem Sie im Bereich *Workflow bearbeiten* mit der rechten
 Maustaste dann auf *Von Favoriten entfernen* klicken.
 
-<img src=".\attachments\/media/image68.png"
-style="width:1.49606in;height:0.19786in" />
+![](<img/image68.png>)
 
 ## Individuelle Ausführung eines Workflows 
 
@@ -271,17 +242,13 @@ sehr selten mit bestimmten Einstellungen ausführen müssen.
 Klicken Sie dazu im Bereich *Workflow bearbeiten* mit der rechten
 Maustaste auf *Individuelle Ausführung*.
 
-<img src=".\attachments\/media/image68.png"
-style="width:1.49606in;height:0.22771in" />
+![](<img/image68.png>)
 
 Wenn Sie im Workflow eine bestimmte Aktion nicht ausführen möchten,
 entfernen Sie das Häkchen bei der jeweiligen Aktion. Klicken Sie
 anschließend auf *Ausführen* um die Aktion(en) durchzuführen.
 
-Abb. 5‑10 Individuelle Ausführung
-
-<img src=".\attachments\/media/image69.png"
-style="width:5.50744in;height:2.66906in" />
+![](<img/image69.png>)
 
 ## Workflows importieren
 
@@ -292,10 +259,7 @@ auswählen, die umgewandelt werden sollen. Des Weiteren können Sie auch
 zuvor exportiere Workflows wieder importieren. Geben dazu den Pfad zur
 XML-Datei an.
 
-Abb. 5‑11 Workflows importieren
-
-<img src=".\attachments\/media/image70.png"
-style="width:5.02083in;height:3.71875in" />
+![](<img/image70.png>)
 
 Die Bereiche-Checkboxen sind erweiterte Einstellungen, um spezielle
 Bereiche aus dem PDF-Profil zu importieren oder zu ignorieren.
@@ -309,20 +273,7 @@ Menü des PDF-Managers werden nur folgende Workflows angezeigt:
 sind.** Falls Ihnen ein Workflow nicht angezeigt wird können Sie ihn in
 der Übersicht finden (dann fehlt Ihnen die Zuständigkeit).
 
-Abb. 5‑12 Workflow-Übersicht
-
-<img src=".\attachments\/media/image71.png"
-style="width:6.5077in;height:3.32311in" />
-
-**4**
-
-**5**
-
-**1**
-
-**2**
-
-**3**
+![](<img/image71.png>)
 
 Sie haben drei Funktionen zu Auswahl. Bearbeiten **(1)**, Ausführen
 **(2)** und Löschen **(3)**.

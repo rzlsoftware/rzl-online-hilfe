@@ -4,10 +4,8 @@ In Menüpunkt *Seitenbearbeitung* haben Sie die Möglichkeit einzelne
 Seiten eines Dokuments zu drehen, löschen, vertauschen oder einen
 Hintergrund zu setzen.
 
-Abb. 7‑1 Seitenbearbeitung
 
-<img src=".\attachments\/media/image74.png"
-style="width:3.88002in;height:1.36458in" />
+![](<img/image74.png>
 
 ## Seiten drehen und/oder löschen
 
@@ -19,10 +17,8 @@ jeweiligen Seiten und wählen Sie die gewünschte Richtung aus. Zudem
 haben Sie die Möglichkeit, alle Seiten zu markieren, oder bestimmte
 Seiten zu löschen.
 
-Abb. 7‑2 Seiten drehen/markieren/löschen
 
-<img src=".\attachments\/media/image75.png"
-style="width:1.9685in;height:1.00502in" />
+![](<img/image75.png>)
 
 Alternativ können Sie auch in der Menüleiste die gewünschte Richtung
 auswählen.
