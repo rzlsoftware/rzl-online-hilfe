@@ -8,16 +8,15 @@ PDF-Managers erläutert.
 
 -   **Hilfe-Menü (1)**
 
--   **Dokumentenliste** (**2**), Kapitel 2.1
+-   **Dokumentenliste** (**2**)
 
--   **Dokumentenvorschau** (**3**), Kapitel 2.3
+-   **Dokumentenvorschau** (**3**)
 
--   **Detailansicht** (**4**), Kapitel 2.4
+-   **Detailansicht** (**4**)
 
 ## Hilfe
 
 In diesem Abschnitt werden die einzelnen Punkte des Hilfemenüs erklärt.
-
 
 ![](<img/image7.png>)
 
@@ -48,7 +47,6 @@ TeamViewer unterstützen. Über den Menüpunkt Fernwartung können Sie den
 TeamViewer starten.
 
 
-
 ![](<img/image8.png>)
 
 **An Meeting teilnehmen**
@@ -73,7 +71,6 @@ Der RZL Admin öffnet sich.
 Unter Info sind die verwendete Programmversion und Ihre Anwendernummer
 ersichtlich.
 
-
 ![](<img/image9.png>)
 
 **Aktuelle Neuerungen**
@@ -96,13 +93,6 @@ RZL PDF-Manager hinzugefügt wurden.
 
 ![](<img/image10.png>)
 
-**4**
-
-**3**
-
-**2**
-
-**1**
 
 Durch Klick auf die rechte Maustaste auf die Kopfleiste (**2**) können
 Sie einstellen, welche Spalten Ihnen angezeigt werden (**3**).
@@ -111,11 +101,9 @@ Zudem haben Sie die Möglichkeit, die optimale Breite für die Spalten
 einzustellen. Sie müssen zuvor mit der Schaltfläche (**4**) die
 *Details* eingeblendet haben.
 
-HInweis
+!!! warning "Hinweis"
+    Mit Strg + A können Sie alle Dokumente im RZL PDF-Manager markieren.
 
-Mit Strg + A können Sie alle Dokumente im RZL PDF-Manager markieren.
-
-Abb. 2‑6 Symbole und Funktionen
 
 <table>
 <colgroup>
@@ -165,13 +153,6 @@ style="width:0.20833in;height:0.20833in" /></td>
 
 ![](<img/image17.png>)
 
-**4**
-
-**2**
-
-**3**
-
-**1**
 
 Im RZL PDF-Manager haben Sie die Möglichkeit, Ihre Ansicht nach
 verschiedenen Kriterien wie etwa *Titel* (**1**), *Quelle* (**2**)*,
@@ -186,13 +167,6 @@ aus.
 
 **Gruppierung**
 
-**2**
-
-**4**
-
-**1**
-
-**5**
 
 
 ![](<img/image18.png>)
@@ -217,7 +191,6 @@ Jeder Benutzer kann seine eigenen Gruppierungen abspeichern.
 
 ![](<img/image19.png>)
 
-**3**
 
 ## Dokumentenvorschau
 
@@ -228,9 +201,6 @@ In diesem Bereich können Sie die Vergrößerung des Dokuments einstellen
 
 ![](<img/image20.png>)
 
-**1**
-
-**2**
 
 
 <table>
@@ -289,7 +259,6 @@ rechten Rand eindocken. Diese Position wird automatisch gespeichert.
 
 ![](<img/image25.png>)
 
-**1**
 
 Im Registerblatt *Informationen* können Sie verschiedene Eingaben
 machen, bestätigen Sie diese jeweils mit der *Enter*-Taste.
@@ -351,10 +320,9 @@ Hier können Sie sich Stichworte notieren.
 
 Hier können Sie den Inhalt beschreiben.
 
-Hinweis
-
-Neue Themen, Kategorien und Dokumentbereiche können im KIS hinzugefügt
-werden.
+!!! warning "Hinweis"
+    Neue Themen, Kategorien und Dokumentbereiche können im KIS hinzugefügt
+    werden.
 
 ## Externe Dokumente und Bilder drucken
 
@@ -367,10 +335,9 @@ Windows 10 auf Ihrem Rechner installiert haben, bzw. – falls Sie mit
 einem Serverbetriebssystem arbeiten – einen Windows Server 2016 im
 Einsatz haben.
 
-Hinweis
-
-Im RZL PDF-Manager können Sie auch Bilddateien (.jpg, .png,...) drucken.
-Diese werden dann ebenfalls als PDF-Dokument ausgegeben.
+!!! warning "Hinweis"
+    Im RZL PDF-Manager können Sie auch Bilddateien (.jpg, .png,...) drucken.
+    Diese werden dann ebenfalls als PDF-Dokument ausgegeben.
 
 Klicken Sie dazu im betreffenden Programm (zum Beispiel MS Word) auf
 *Drucken* und wählen Sie bei Drucker *„RZL PDF-Manager“* (**1**) aus.

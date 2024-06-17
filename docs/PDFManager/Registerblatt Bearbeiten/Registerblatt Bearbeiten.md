@@ -1,7 +1,7 @@
 # Registerblatt „Bearbeiten“
 
-Im folgenden Abschnitt werden die Symbole und Einstellungen in der
-Registerblatt *Bearbeiten* erläutert.
+Im folgenden Abschnitt werden die Symbole und Einstellungen des
+Registerblattes *Bearbeiten* erläutert.
 
 
 ![](<img/image38.png>)
@@ -25,10 +25,9 @@ PDF-Manager die jeweilige Seite des Dokuments geöffnet.
 
 ![](<img/image39.png>)
 
-HInweis
-
-Durch Doppelklick auf ein Lesezeichen können Sie für das Lesezeichen
-einen eigenen Namen vergeben.
+!!! warning "Hinweis"
+    Durch Doppelklick auf ein Lesezeichen können Sie für das Lesezeichen
+    einen eigenen Namen vergeben.
 
 ### Eine Ebene höher oder tiefer
 
@@ -79,11 +78,10 @@ gewünschte Datei auswählen.
 
 ![](<img/image42.png>)
 
-HInweis
-
-Eine Grafik wird vom Programm automatisch auf die gesamte Seitengröße
-des Dokumentes „gestreckt“. Um dies zu vermeiden, können Sie folgende
-Vorgehensweise anwenden:
+!!! warning "Hinweis"
+    Eine Grafik wird vom Programm automatisch auf die gesamte Seitengröße
+    des Dokumentes „gestreckt“. Um dies zu vermeiden, können Sie folgende
+    Vorgehensweise anwenden:
 
 Erstellen Sie in einem Grafikprogramm eine neue, weiße Seite/Bild/Grafik
 (z.B. gleich im A4-Format). Platzieren Sie darin Ihr Logo oder andere
@@ -117,12 +115,11 @@ Berichte gelten automatisch *Kanzleiweit*.
 
 ![](<img/image43.png>)
 
-Hinweis
-
-RZL stellt Ihnen bereits fertige Muster-Inhaltsverzeichnisse zur
-Verfügung. Nach Anklicken der Schaltfläche Inhaltsverzeichnis können Sie
-die einzelnen Verzeichnisse mit dem Stift-Symbol bearbeiten und für Ihre
-Bedürfnisse anpassen.
+!!! warning "Hinweis"
+    RZL stellt Ihnen bereits fertige Muster-Inhaltsverzeichnisse zur
+    Verfügung. Nach Anklicken der Schaltfläche Inhaltsverzeichnis können Sie
+    die einzelnen Verzeichnisse mit dem Stift-Symbol bearbeiten und für Ihre
+    Bedürfnisse anpassen.
 
 ### Bezeichnungsschema
 
@@ -201,7 +198,7 @@ Um Ihr Dokument zu schützen, können Sie dieses mit einem *Wasserzeichen*
 oder *Muster*) versehen. Sie können die Schriftart, Farbe, Eigenschaft
 und Ausrichtung des Schriftzugs einstellen. Zusätzlich können Sie
 festlegen ob Formulare bedruckt werden sollen. Klicken Sie dazu auf die
-Schaltfläche *Wasserzeichen* (Abb.4-1).
+Schaltfläche *Wasserzeichen*.
 
 
 ![](<img/image51.png>)
@@ -213,7 +210,7 @@ Markierung im Bild oben).
 ### Dokumentenschutz hinzufügen
 
 Um Ihre Dokumente vor unberechtigten Zugriffen zu schützen, können Sie
-im Menüpunkt *Dokumentenschutz* (Abb.4-1) ein *Passwort zum Öffnen* und
+im Menüpunkt *Dokumentenschutz* ein *Passwort zum Öffnen* und
 ein *PDF-Administratorpasswort* vergeben.
 
 Ein **individuell** eingegebenes Passwort wird immer **vorrangig**
@@ -289,11 +286,10 @@ müssen Sie das aktuelle PDF-Administratorpasswort kennen.
 
 ![](<img/image54.png>)
 
-HInweis
-
-Mit einem Passwort geschützte Dokumente können nach Abspeichern oder
-Versenden *ausschließlich mit dem hinterlegten Passwort* wieder geöffnet
-werden.
+!!! warning "Hinweis"
+    Mit einem Passwort geschützte Dokumente können nach Abspeichern oder
+    Versenden *ausschließlich mit dem hinterlegten Passwort* wieder geöffnet
+    werden.
 
 Sollte das Passwort nicht mehr bekannt sein, wiederholen Sie
 gegebenenfalls den PDF Druck und/oder setzen Sie bei dem noch

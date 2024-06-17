@@ -50,7 +50,7 @@ aufgeführt wurde) der Dokumentenliste hinzugefügt.
 Fügen Sie diesem Workflow bestimmte Aktionen hinzu (siehe unten,
 *Workflow: eine neue Aktion hinzufügen*).
 
-Links unter „Aktionen“ (Abb.5-2) sehen Sie bereits hinzugefügte Aktionen
+Links unter „Aktionen“ sehen Sie bereits hinzugefügte Aktionen
 
 **Zuständigkeit**
 
@@ -59,7 +59,7 @@ können nur von jenen Mitarbeitern gesehen werden, die diese
 Zuständigkeit im KIS hinterlegt haben. Weitere Informationen zu den
 Zuständigkeiten entnehmen Sie bitte dem KIS Handbuch. Durch zuweisen
 einer Zuständigkeit wird der Workflow ebenfalls in einer eigenen Gruppe
-im PDF-Manager angezeigt. (Abb. 5-3 Zuständigkeit)
+im PDF-Manager angezeigt.
 
 ![](<img/image60.png>)
 
@@ -106,14 +106,12 @@ Workflows an.
 
 Diese Aktion bewirkt, dass einem PDF-Dokument automatisch ein
 Dokumentenschutz (mit den hier festgelegte/angehakten Einstellungen)
-hinzugefügt wird oder dieser entfernt wird. Die Einstellungen sind
-identisch wie im Kapitel 4.2.6 beschrieben.
+hinzugefügt wird oder dieser entfernt wird. 
 
 **Dokumenteninformation ändern**
 
 Einem PDF-Dokument werden automatisch bestimmte Informationen
-hinzugefügt. Die Einstellungen sind identisch wie im Kapitel 2.4
-beschrieben.
+hinzugefügt. 
 
 **Drucken**
 
@@ -126,8 +124,7 @@ Drucken auswählen.
 
 **E-Mail senden**
 
-Ein PDF-Dokument wird automatisch per E-Mail versendet. Die
-Einstellungen sind identisch wie im Kapitel 3.13 beschrieben.
+Ein PDF-Dokument wird automatisch per E-Mail versendet. 
 
 **Externes Dokument hinzufügen**
 
@@ -138,57 +135,49 @@ Passwortgeschützte Dateien werden ebenfalls unterstützt.
 **Hintergrund ändern**
 
 Einem PDF-Dokument wird automatisch ein bestimmter Hintergrund
-zugeordnet. Die Einstellungen sind identisch wie im Kapitel 4.2.1
-beschrieben.
+zugeordnet. 
 
 **Inhaltsverzeichnis**
 
 Einem PDF-Dokument wird automatisch ein Inhaltsverzeichnis hinzugefügt.
-Die Einstellungen sind identisch wie im Kapitel 4.2.2 beschrieben.
+
 
 **KIS**
 
 Ein bestimmtes PDF-Dokument wird automatisch dem RZL
-Kanzlei-Informations-System hinzugefügt. Die Einstellungen sind
-identisch wie im Kapitel 3.9 beschrieben.
+Kanzlei-Informations-System hinzugefügt.
 
 **Klientenportal**
 
 Ein bestimmtes PDF-Dokument wird automatisch dem RZL Klientenportal
-hinzugefügt. Die Einstellungen sind identisch wie im Kapitel 3.10
-beschrieben.
+hinzugefügt.
 
 **Lesezeichennummerierung**
 
 Die Lesezeichen eines PDF-Dokuments werden automatisch nummeriert oder
-eine bestehende Nummerierung wird entfernt. Siehe dazu Kapitel
-4.1.34.1.3 und 4.1.44.1.4.
+eine bestehende Nummerierung wird entfernt. 
 
 **Seitennummerierung**
 
 Einem PDF-Dokument wird automatisch eine Seitennummerierung hinzugefügt.
-Die Einstellungen sind identisch wie im Kapitel 4.2.4 beschrieben.
 
 **Speichern**
 
-Ein PDF-Dokument wird automatisch gespeichert. Die Einstellungen sind
-identisch wie im Kapitel 3.11 beschrieben.
+Ein PDF-Dokument wird automatisch gespeichert. 
 
 **Trennen**
 
-Ein PDF-Dokument trennen. Das Dokument muss zuvor zusammengeführt worden
-sein. Siehe dazu Kapitel 3.5.
+Ein PDF-Dokument trennen. 
 
 **Wasserzeichen**
 
-Einem PDF-Dokument wird automatisch ein Wasserzeichen hinzugefügt. Die
-Einstellungen sind identisch wie im Kapitel 4.2.5 beschrieben.
+Einem PDF-Dokument wird automatisch ein Wasserzeichen hinzugefügt.
 
 **Zusammenführen**
 
 In dieser Aktion können Einstellungen zum Zusammenführen von
-PDF-Dokumenten vorgenommen werden. Die Einstellungen sind identisch wie
-im Kapitel 3.4 beschrieben.
+PDF-Dokumenten vorgenommen werden.
+
 
 ## Workflow ausführen
 
@@ -252,7 +241,7 @@ anschließend auf *Ausführen* um die Aktion(en) durchzuführen.
 
 ## Workflows importieren
 
-Der Menüpunkt *Workflows importieren* (Abb. 5-1, (**2**)) erlaubt Ihnen
+Der Menüpunkt *Workflows importieren* erlaubt Ihnen
 *Profile* aus dem alten RZL PDF-Drucker als Workflow zu importieren.
 Hierbei werden die existierenden Profile aufgelistet und Sie können jene
 auswählen, die umgewandelt werden sollen. Des Weiteren können Sie auch
@@ -280,6 +269,6 @@ Sie haben drei Funktionen zu Auswahl. Bearbeiten **(1)**, Ausführen
 
 Des Weiteren können Sie im unteren Bereich gelöschte Workflows
 wiederherstellen **(4)** oder diese endgültig zu löschen **(5)**. Danach
-ist <u>keine</u> Wiederherstellung möglich. Kanzleiweite Workflows
+ist **keine** Wiederherstellung möglich. Kanzleiweite Workflows
 werden nur der Benutzergruppe **KIS-Administrator** dargestellt und
 können somit nur von dieser wiederhergestellt werden.

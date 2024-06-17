@@ -5,7 +5,7 @@ Seiten eines Dokuments zu drehen, löschen, vertauschen oder einen
 Hintergrund zu setzen.
 
 
-![](<img/image74.png>
+![](<img/image74.png>)
 
 ## Seiten drehen und/oder löschen
 

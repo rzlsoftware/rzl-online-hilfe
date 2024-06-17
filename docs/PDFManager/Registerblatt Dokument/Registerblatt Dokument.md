@@ -22,8 +22,9 @@ hinzufügen.
 Mit der Schaltfläche *Dokument entfernen* (Entf) können Sie die
 ausgewählten Dokumente aus dem RZL PDF-Manager löschen.
 
-*Bitte beachten Sie:* diese Schaltfläche können Sie erst anklicken, wenn
-Sie mindestens ein Dokument markiert haben.
+!!! warning "Hinweis"
+    Diese Schaltfläche können Sie erst anklicken, wenn
+    Sie mindestens ein Dokument markiert haben.
 
 ## Dokumente zusammenführen
 
@@ -32,8 +33,9 @@ einem *Gesamtdokument* zusammenzuführen. Markieren Sie dazu die
 gewünschten Dokumente und klicken Sie auf die Schaltfläche
 *Zusammenführen* (STRG + Z).
 
-*Bitte beachten Sie:* diese Schaltfläche können Sie erst anklicken, wenn
-Sie mehrere Dokumente zum Zusammenführen markiert haben.
+!!! warning "Hinweis"
+    Diese Schaltfläche können Sie erst anklicken, wenn
+    Sie mehrere Dokumente zum Zusammenführen markiert haben.
 
 
 ![](<img/image28.png>)
@@ -49,8 +51,9 @@ betreffende Dokument und klicken auf die Schaltfläche *Trennen* (STRG +
 T). Sie können die einzelnen Dokumente nun wieder getrennt voneinander
 weiterbearbeiten und natürlich auch wieder zusammenführen.
 
-*Bitte beachten Sie:* diese Schaltfläche können Sie erst anklicken, wenn
-Sie ein (zuvor zusammengeführtes) Dokument zum Trennen markiert haben.
+!!! warning "Hinweis"
+    Diese Schaltfläche können Sie erst anklicken, wenn
+    Sie ein (zuvor zusammengeführtes) Dokument zum Trennen markiert haben.
 
 ## Reaktivieren
 
@@ -71,8 +74,6 @@ verkleinert sich die Dateigröße.
 Bestehende Kommentare können mit der Funktion *PDF Anmerkungen anzeigen*
 in der Vorschau eingeblendet werden.
 
-Zur Erstellung und Bearbeitung von Kommentaren siehe Kapitel [*4.2.7
-Kommentare*](#kommentar)
 
 ## Dokumente im KIS speichern
 
@@ -95,9 +96,10 @@ Dokumente in das Klientenportal hochladen. Im Fenster *In das
 Klientenportal hochladen* vergeben Sie einen *Dateinamen* und den
 *Bereich*, in den das Dokument hochgeladen werden soll.
 
-*Bitte beachten Sie:* Sie müssen im KIS – im *Plug-in Manager* – zuerst
-Ihre Klientenportal-Einstellungen bzw. Ihre Zugangsdaten eingeben. Die
-Vorgehensweise finden Sie im KIS-Handbuch.
+!!! warning "Hinweis"
+    Sie müssen im KIS – im *Plug-in Manager* – zuerst
+    Ihre Klientenportal-Einstellungen bzw. Ihre Zugangsdaten eingeben. Die
+    Vorgehensweise finden Sie im KIS-Handbuch.
 
 
 ![](<img/image30.png>)
@@ -111,14 +113,14 @@ Wenn Sie *Klienten Passwort verwenden* markieren, legen Sie fest, dass
 das Dokument mit dem in der *Stammdatenverwaltung hinterlegtem
 PDF-Passwort des zugewiesenen Klienten* verschlüsselt wird. Dies
 funktioniert jedoch nur dann, wenn Sie bei dem Dokumentenschutz noch
-<u>kein</u> Passwort zum Öffnen hinterlegt haben. Somit wird ein
+**kein** Passwort zum Öffnen hinterlegt haben. Somit wird ein
 individuell eingegebenes Passwort immer vorrangig behandelt. Beim
 Bereich Dienstnehmer kann das *Dienstnehmer Passwort verwendet* werden.
 
 
 ![](<img/image31.png>)
 
-Wenn Sie *Klienten/Dienstnehmer Passwort verwenden* <u>nicht</u>
+Wenn Sie *Klienten/Dienstnehmer Passwort verwenden* **nicht**
 ankreuzen, werden die im Dokumentenschutz eingegebenen Passwörter
 genutzt.
 
@@ -173,7 +175,7 @@ benutzerdefinierte Adresse gesendet werden soll.
 Die Schaltfläche *Klienten Passwort verwenden* **(1)** erlaubt Ihnen das
 Dokument mit dem Passwort des Klienten zu verschlüsseln. Dies
 funktioniert jedoch nur dann, wenn Sie bei dem Dokumentenschutz noch
-<u>kein</u> Passwort zum Öffnen hinterlegt haben. Somit wird ein beim
+**kein** Passwort zum Öffnen hinterlegt haben. Somit wird ein beim
 Dokumentschutz individuell eingegebenes Passwort immer vorrangig
 behandelt.
 
