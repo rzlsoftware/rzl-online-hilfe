@@ -185,7 +185,7 @@ festlegen ob Formulare bedruckt werden sollen und ob das Formular bei
 der Zählung inkludiert werden soll.
 
 Wenn Sie die Seitennummerierung entfernen möchten, klicken Sie dazu
-einfach auf das *Papierkorb-Symbol* (siehe Markierung im Bild unten)
+einfach auf das *Papierkorb-Symbol*
 neben dem Wort *Seitennummerierung*.
 
 

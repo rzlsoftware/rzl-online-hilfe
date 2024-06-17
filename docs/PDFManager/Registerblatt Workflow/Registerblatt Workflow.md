@@ -231,7 +231,7 @@ sehr selten mit bestimmten Einstellungen ausführen müssen.
 Klicken Sie dazu im Bereich *Workflow bearbeiten* mit der rechten
 Maustaste auf *Individuelle Ausführung*.
 
-![](<img/image68.png>)
+![](<img/image1.png>)
 
 Wenn Sie im Workflow eine bestimmte Aktion nicht ausführen möchten,
 entfernen Sie das Häkchen bei der jeweiligen Aktion. Klicken Sie
