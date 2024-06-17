@@ -4,7 +4,6 @@ Sollen erfasste Leistungen gelöscht werden, so können diese durch den
 ICON Leistung löschen (1) oder mittels Kontextmenü gelöscht werden.
 
 
-![](<img/image42.png>)
 ![](<img/image43.png>)
 
 Es können auch mehrere Leistungszeilen gelöscht werden, indem diese
