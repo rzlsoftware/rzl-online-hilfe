@@ -29,7 +29,6 @@ Es stehen Ihnen folgende Platzhalter zur Verfügung:
 
 -   Klient (Nummer, Kurzbezeichnung, Name)
 
-Abb. 3‑6 persönliche Textbausteine
 
 ![](<img/image79.png>)
 
