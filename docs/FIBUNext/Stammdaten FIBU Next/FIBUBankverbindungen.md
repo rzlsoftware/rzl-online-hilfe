@@ -8,14 +8,34 @@ Im Menüpunkt *Stammdaten / FIBU Bankverbindungen* können Sie die Bankkonten pr
 
 ![Image](<img/NeuesElement118.png>)
 
-Neue Bankverbindungen können über die Schaltfläche *Neue FIBU Bankverbindung* ***(1)*** angelegt werden.
+Neue Bankverbindungen können über die Schaltfläche *Neue FIBU Bankverbindung* angelegt werden.
+![alt text](img/image6.png)
+
+Hier müssen Sie schließlich den *IBAN* **(1)** des jeweiligen Bankkontos eingeben. Im Feld *Typ* **(2)** muss dann definiert werden, ob bei diesem Bankkonto camt-Dateien oder Netbanking-Dateien importiert werden. Des Weiteren muss das dazugehörige *FIBU Konto* **(3)**  und der *Belegkreis* **(4)** hinterlegt werden. 
+
+Wenn im Feld *Typ* **(2)** CAMT ausgewählt wurde, dann muss hier auch noch der Ordnerpfad **(5)**, in dem die camt-Dateien abgelegt sind bzw. aus Ihrem Electronic Banking Programm abgespeichert werden, hinterlegt werden.
+![alt text](img/image7.png)
+
+Wurde im Feld *Typ* **(2)** Netbanking gewählt, dann ist hier, die zuvor angelegte *Listenform* **(6)** zu hinterlegen. Die Option *Importdatei nach Hereinspielen löschen* **(7)** kann aktiviert werden, wenn die Netbanking-Datei nach dem Hereinspielen in die FIBU  automatisch gelöscht werden soll.
+![alt text](img/image8.png)
+
+Das Feld *Zahlungsreferenz* **(8)** ist für die Eingabe von Platzhaltern zur Analyse der Zahlungsreferenz vorgesehen. Hier kann definiert werden, wie das Feld Zahlungsreferenz aussieht. Die Zahlungsreferenz sollte die OP-Nummer des Kunden der zu zahlenden Rechnung beinhalten. Wurde die OP-Nummer eindeutig vergeben – das heißt die OP-Nummer kommt nur einmal in der Buchhaltun vor – genügt es, nur die OP-Nummer in die Zahlungsreferenz zu codieren. Angabe dieser Referenznummer bei Zahlung erfolgt eine automatische Zuordnung des Offenen Postens/
+der Kontonummer. Ist keine eindeutige Erkennung der OP-Nummer möglich, kann auch die Kontonummer
+hinterlegt werden.
+
+**Mögliche Platzhalter:**
+
+| Platzhalter  |  Beschreibung  |
+|--------------------------------------- ---------------- | -------------------------------------------------------------------------------- |
+| K     |  Platzhalter für eine Stelle der Kontonummer  |
+| O    |  Platzhalter für eine Stelle der OP-Nummer (Buchstabe O)  |
+| Ziffer 1-9   |  Fixe Ergänzung entweder bzgl. der Konto- oder der OP Nummer  |
 
 
-![Image](<img/NeuesElement117.png>)
 
-Hier müssen Sie schließlich den IBAN des jeweiligen Bankkontos ***(2)***, das dazugehörige FIBU Konto ***(3)*** und den Ordnerpfad, in dem die camt-Dateien abgelegt sind bzw. aus Ihrem Electronic Banking Programm abgespeichert werden, ***(4)*** eingeben.\
-Mit dem Häkchen *Verwendungszweck als Buchungstext verwenden* ***(5)*** können Sie steuern, ob der Verwendungszweck der Überweisung als Buchungstext vorgeschlagen werden soll.\
-Ist das Häkchen deaktiviert, ist der Verwendungszweck trotzdem in hellgrau ersichtlich, wird aber bei der Verbuchung der Kontoauszugszeile nicht übernommen.
+
+ Mit dem Häkchen *Verwendungszweck / Zahlungsreferenz als Buchungstext verwenden* **(9)** können Sie steuern, ob der Verwendungszweck bzw. die Zahlungsreferenz der Überweisung als Buchungstext vorgeschlagen werden soll.
+Ist das Häkchen deaktiviert, ist der Verwendungszweck bzw. Zahlungsreferenz trotzdem in hellgrau ersichtlich, wird aber bei der Verbuchung der Kontoauszugszeile nicht übernommen.
 
 Wenn Sie hier eine neue Bankverbindung eingeben, öffnet sich automatisch die Personenansicht des Klienten, damit auch hier die entsprechende Bankverbindung erfasst werden kann. Alle Bankverbindungen der FIBU müssen stets auch in den Personenstammdaten des jeweiligen Klienten hinterlegt sein.
 
