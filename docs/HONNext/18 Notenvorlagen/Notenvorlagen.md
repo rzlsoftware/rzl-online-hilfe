@@ -234,61 +234,20 @@ können und anschließend die Vorlage importieren können.
 
 **Honorarnote Allgemein**
 
-<table>
-<colgroup>
-<col style="width: 38%" />
-<col style="width: 61%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><em>Note.Notenbezeichnung</em></th>
-<th>Bezeichnung der Note (Bsp. vorläufige Honorarnote, Honorarnote
-1/2021)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><em>Note.Datum</em></td>
-<td>Notendatum</td>
-</tr>
-<tr class="even">
-<td><em>Note.Leistungszeitraum.von</em></td>
-<td>Zeitraum in dem die Leistungen erbracht wurden</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Leistungszeitraum.bis</em></td>
-<td>Zeitraum in dem die Leistungen erbracht wurden</td>
-</tr>
-<tr class="even">
-<td><em>Note.ISTDuplikat</em></td>
-<td>Kann als Bedingungsformel für den Andruck des Wortes „Duplikat“
-verwendet werden.</td>
-</tr>
-<tr class="odd">
-<td><em>Note.GutgeschriebeneNote.Nummer</em></td>
-<td>Notennummer der gutgeschriebenen Honorarnote</td>
-</tr>
-<tr class="even">
-<td><em>Note.GutgeschriebeneNote.Datum</em></td>
-<td>Notendatum der gutgeschriebenen Honorarnote</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Zusatztext</em></td>
-<td>Zusatztext der bei der Honorarnote eingegeben wurde</td>
-</tr>
-<tr class="even">
-<td><em>Note.IstReverseCharge</em></td>
-<td>Kann als Bedingungsformel für den Andruck des Ausweises von Reverse
-Charge verwendet werden.</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Anmerkung</em></td>
-<td>Die Anmerkung, welche bei jeder Note individuell hinterlegt werden
-kann, kann angedruckt werden (Kapitel 11.4.1, S. <a
-href="#einstellungen-1">87</a>).</td>
-</tr>
-</tbody>
-</table>
+| Formel                          | Beschreibung                                                                                    |
+| ------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Note.Notenbezeichnung           | Bezeichnung der Note (Bsp. vorläufige Honorarnote, Honorarnote 01/2024)                         |
+| Note.Datum                      | Notendatum                                                                                      |
+| Note.Leistungszeitraum.von      | Zeitraum in dem die Leistungen erbracht wurden                                                  |
+| Note.Leistungszeitraum.bis      | Zeitraum in dem die Leistungen erbracht wurden                                                  |
+| Note.ISTDuplikat                | Kann als Bedingungsformel für den Andruck des Wortes „Duplikat“ verwendet werden                |
+| Note.GutgeschriebeneNote.Nummer | Notennummer der gutgeschriebenen Honorarnote                                                    |
+| Note.GutgeschriebeneNote.Datum  | Notendatum der gutgeschriebenen Honorarnote                                                     |
+| Note.Zusatztext                 | Zusatztext der bei der Honorarnote eingegeben wurde                                             |
+| Note.IstReverseCharge           | Kann als Bedingungsformel für den Andruck des Ausweises von Reverse Charge verwendet werden     |
+| Note.Anmerkung                  | Die Anmerkung, welche bei jeder Note individuell hinterlegt werden kann, kann angedruckt werden |
+
+
 
 Über die Notenvorlage besteht auch die Möglichkeit, die Rechnungsnummer
 mit führenden Nullen zu ergänzen. Hier ist die Funktion
@@ -305,242 +264,72 @@ Beispiel der Bezeichnung: Honorarnote 0001/2021
 
 **Unternehmensbereich (Rechnungsaussteller)**
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 49%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><em>Note.Unternehmensbereich.Bezeichnung</em></th>
-<th>Name des Unternehmensbereichs</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><em>Note.Unternehmensbereich.Logo</em></td>
-<td>Logo des Unternehmensbereichs</td>
-</tr>
-<tr class="even">
-<td><em>Note.Unternehmensbereich.Adresse.PLZ</em></td>
-<td>PLZ des Unternehmensbereichs</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Unternehmensbereich.Adresse.Ort</em></td>
-<td>Ort des Unternehmensbereichs</td>
-</tr>
-<tr class="even">
-<td><em>Note.Unternehmensbereich.Adresse.Strasse</em></td>
-<td>Straße des Unternehmensbereichs</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Unternehmensbereich.Adresse.Land</em></td>
-<td>Länderkürzel des Unternehmensbereichs</td>
-</tr>
-<tr class="even">
-<td><em>Note.Unternehmensbereich.EMail</em></td>
-<td>E-Mail-Adresse des Unternehmensbereichs</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Unternehmensbereich.Telefonnummer</em></td>
-<td>Telefonnummer des Unternehmensbereichs</td>
-</tr>
-<tr class="even">
-<td><em>Note.Unternehmensbereich.Homepage</em></td>
-<td>Homepage des Unternehmensbereichs</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Unternehmensbereich.UID</em></td>
-<td>UID Nummer des Unternehmensbereichs</td>
-</tr>
-</tbody>
-</table>
+| Formel                                   | Beschreibung                            |
+| ---------------------------------------- | --------------------------------------- |
+| Note.Unternehmensbereich.Bezeichnung     | Name des Unternehmensbereichs           |
+| Note.Unternehmensbereich.Logo            | Logo des Unternehmensbereichs           |
+| Note.Unternehmensbereich.Adresse.PLZ     | PLZ des Unternehmensbereichs            |
+| Note.Unternehmensbereich.Adresse.Ort     | Ort des Unternehmensbereichs            |
+| Note.Unternehmensbereich.Adresse.Strasse | Straße des Unternehmensbereichs         |
+| Note.Unternehmensbereich.Adresse.Land    | Länderkürzel des Unternehmensbereichs   |
+| Note.Unternehmensbereich.EMail           | E-Mail-Adresse des Unternehmensbereichs |
+| Note.Unternehmensbereich.Telefonnummer   | Telefonnummer des Unternehmensbereichs  |
+| Note.Unternehmensbereich.Homepage        | Homepage des Unternehmensbereichs       |
+| Note.Unternehmensbereich.UID             | UID Nummer des Unternehmensbereichs     |
+
+
+
 
 **Klient (Rechnungsempfänger)**
 
-<table>
-<colgroup>
-<col style="width: 42%" />
-<col style="width: 57%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><em>Note.Klient.Nummer</em></th>
-<th>Klientennummer</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><em>Note.Klient.Adressanrede</em></td>
-<td>Adressanrede</td>
-</tr>
-<tr class="even">
-<td><em>Note.Klient.Titel</em></td>
-<td>Titel (z.B. „Prof.“)</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Klient.AkademischerGrad</em></td>
-<td>Vorangestellter akademischer Grad (z.B. „Mag.“)</td>
-</tr>
-<tr class="even">
-<td><em>Note.Klient.AkademischerGrad2</em></td>
-<td>Hinten angestellter akademischer Grad (z.B. „MSc“</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Klient.Name</em></td>
-<td>Klientenname</td>
-</tr>
-<tr class="even">
-<td><em>Note.Klient.Adresse.Strasse</em></td>
-<td>Straße</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Klient.Adresse.PLZ</em></td>
-<td>Postleitzahl</td>
-</tr>
-<tr class="even">
-<td><em>Note.Klient.Adresse.Ort</em></td>
-<td>Ort</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Klient.Adresse.Land</em></td>
-<td>Länderkürzel</td>
-</tr>
-<tr class="even">
-<td><em>Note.Klient.Taetigkeit</em></td>
-<td>Art der Tätigkeit (bei Firmendaten) bzw. Beruf (bei
-Personendaten)</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Klient.Briefanrede</em></td>
-<td>Briefanrede</td>
-</tr>
-<tr class="even">
-<td><em>Note.Klient.Email</em></td>
-<td>E-Mail-Adresse des Klienten</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Klient.UID</em></td>
-<td>UID Nummer des Klienten</td>
-</tr>
-<tr class="even">
-<td><em>Note.Klient.DebKonto.Nummer</em></td>
-<td>Debitorenkontonummer</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Klient.ZuHanden.Gesamtname</em></td>
-<td>Name inkl. akademischer Grad der hinterlegten Person (Kapitel 6,
-Seite <a href="#stammdaten-klienten">56</a>)</td>
-</tr>
-</tbody>
-</table>
+| Formel                          | Beschreibung                                                       |
+| ------------------------------- | ------------------------------------------------------------------ |
+| Note.Klient.Nummer              | Klientennummer                                                     |
+| Note.Klient.Adressanrede        | Adressanrede                                                       |
+| Note.Klient.Titel               | Titel  (z.B. „Prof.“)                                              |
+| Note.Klient.AkademischerGrad    | Vorangestellter akademischer Grad (z.B. „Mag.“)                    |
+| NNote.Klient.AkademischerGrad2  | Hinten angestellter akademischer Grad (z.B. „MSc“)                 |
+| Note.Klient.Name                | Klientenname                                                       |
+| Note.Klient.Adresse.Strasse     | Straße                                                             |
+| Note.Klient.Adresse.Ort         | Ort                                                                |
+| Note.Klient.Adresse.Land        | Länderkürzel                                                       |
+| Note.Klient.Taetigkeit          | Art der Tätigkeit (bei Firmendaten) bzw. Beruf (bei Personendaten) |
+| Note.Klient.Briefanrede         | Briefanrede                                                        |
+| Note.Klient.Email               | E-Mail-Adresse des Klienten                                        |
+| Note.Klient.UID                 | UID Nummer des Klienten                                            |
+| Note.Klient.DebKonto.Nummer     | Debitorenkontonummer                                               |
+| Note.Klient.ZuHanden.Gesamtname | Name inkl. akademischer Grad der hinterlegten Person               |
 
-**Zustellvertreter (Kapitel 6, Seite [56](#stammdaten-klienten))**
 
-<table>
-<colgroup>
-<col style="width: 53%" />
-<col style="width: 46%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><em>Note.Zustellvertreter.Adressanrede</em></th>
-<th>Adressanrede</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><em>Note. Zustellvertreter.Titel</em></td>
-<td>Titel (z.B. „Prof.“)</td>
-</tr>
-<tr class="even">
-<td><em>Note. Zustellvertreter.AkademischerGrad</em></td>
-<td>Vorangestellter akademischer Grad (z.B. „Mag.“)</td>
-</tr>
-<tr class="odd">
-<td><em>Note. Zustellvertreter.AkademischerGrad2</em></td>
-<td>Hinten angestellter akademischer Grad (z.B. „MSc“</td>
-</tr>
-<tr class="even">
-<td><em>Note. Zustellvertreter.Name</em></td>
-<td>Name Zustellvertreter</td>
-</tr>
-<tr class="odd">
-<td><em>Note. Zustellvertreter.Adresse.Strasse</em></td>
-<td>Straße Zustellvertreter</td>
-</tr>
-<tr class="even">
-<td><em>Note. Zustellvertreter.Adresse.PLZ</em></td>
-<td>Postleitzahl Zustellvertreter</td>
-</tr>
-<tr class="odd">
-<td><em>Note. Zustellvertreter.Adresse.Ort</em></td>
-<td>Ort Zustellvertreter</td>
-</tr>
-<tr class="even">
-<td><em>Note. Zustellvertreter.Adresse.Land</em></td>
-<td>Länderkürzel Zustellvertreter</td>
-</tr>
-</tbody>
-</table>
+
+**Zustellvertreter (Kapitel 6)**
+
+| Formel                                   | Beschreibung                                        |
+| ---------------------------------------- | --------------------------------------------------- |
+| Note.Zustellvertreter.Adressanrede       | Adressanrede                                        |
+| Note. Zustellvertreter.Titel             | Titel (z.B. „Prof.“)                                |
+| Note. Zustellvertreter.AkademischerGrad  | Vorangestellter akademischer Grad (z.B. „Mag.“)     |
+| Note. Zustellvertreter.AkademischerGrad2 | KHinten angestellter akademischer Grad (z.B. „MSc“) |
+| Note.Zustellvertreter.Name               | Name Zustellvertreter                               |
+| Note.Zustellvertreter.Adresse.Strasse    | Straße Zustellvertreter                             |
+| Note.Zustellvertreter.Adresse.Ort        | Ort Zustellvertreter                                |
+| Note.Zustellvertreter.Adresse.Land       | Länderkürzel Zustellvertreter                       |
+
 
 **Zahlung**
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 49%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><em>Note.Zahlung.Bankverbindung.Geldinstitut</em></th>
-<th>Name der Bank</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><em>Note.Zahlung.Bankverbindung.IBAN</em></td>
-<td>International Bank Account Number</td>
-</tr>
-<tr class="even">
-<td><em>Note.Zahlung.Bankverbindung.BIC</em></td>
-<td>Bank Identifier Code</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Zahlung.Frist</em></td>
-<td>Zahlungsfrist in Tagen</td>
-</tr>
-<tr class="even">
-<td><em>Note.Datum+Tage(Note.Zahlung.Frist)</em></td>
-<td>Zahlbar bis spätestens (Datum)</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Zahlung.QRCode</em></td>
-<td>Überweisungsdaten als QR-Code (Bild)</td>
-</tr>
-<tr class="even">
-<td><em>Note.Zahlung.Zahlungsreferenz</em></td>
-<td>Zahlungsreferenz (=Notennummer)</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Zahlung.Skonto.Betrag</em></td>
-<td>Skonto-Betrag</td>
-</tr>
-<tr class="even">
-<td><em>Note.Zahlung.Skonto.Frist</em></td>
-<td>Skonto-Frist in Tagen</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Zahlung.Skonto.Prozent</em></td>
-<td>Skonto-Prozentsatz</td>
-</tr>
-<tr class="even">
-<td><em>Note.Zahlung.IstLastschrift</em></td>
-<td>Bedingungsformel für den Bankeinzug</td>
-</tr>
-<tr class="odd">
-<td><em>Note.Zahlung.IstKeineZahlung</em></td>
-<td>Bedingungsformel für keine Zahlung</td>
-</tr>
-</tbody>
-</table>
+| Formel                                   | Beschreibung                         |
+| ---------------------------------------- | ------------------------------------ |
+| Note.Zahlung.Bankverbindung.Geldinstitut | Name der Bank                        |
+| Note.Zahlung.Bankverbindung.IBAN         | International Bank Account Number    |
+| Note.Zahlung.Bankverbindung.BIC          | Bank Identifier Code                 |
+| Note.Zahlung.Frist                       | Zahlungsfrist in Tagen               |
+| Note.Datum+Tage(Note.Zahlung.Frist)      | Zahlbar bis spätestens (Datum)       |
+| Note.Zahlung.QRCode                      | Überweisungsdaten als QR-Code (Bild) |
+| Note.Zahlung.Zahlungsreferenz            | Zahlungsreferenz (=Notennummer)      |
+| Note.Zahlung.Skonto.Betrag               | Skonto-Betrag                        |
+| Note.Zahlung.Skonto.Frist                | Skonto-Frist in Tagen                |
+| Note.Zahlung.Skonto.Prozent              | Skonto-Prozentsatz                   |
+| Note.Zahlung.IstLastschrift              | Bedingungsformel für den Bankeinzug  |
+| Note.Zahlung.IstKeineZahlung             | Bedingungsformel für keine Zahlung   |
+
