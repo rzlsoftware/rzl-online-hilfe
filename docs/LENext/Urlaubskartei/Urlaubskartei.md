@@ -3,16 +3,14 @@
 Über den Button *Urlaubskartei* kann die Urlaubskartei aufgerufen
 werden, um den Urlaubssaldo nachvollziehen zu können.
 
-Abb. 5‑1 Urlaubskartei
 
 ![](<img/image97.png>)
 
 Dargestellt werden in der Urlaubskartei der Anfangsbestand, der Beginn
 des Urlaubsjahres, Anspruchszeilen und Verbrauchszeilen.
 
-Hinweis
-
-In der Urlaubskartei sind keine Änderungen möglich.
+!!! warning "Hinweis"
+    In der Urlaubskartei sind keine Änderungen möglich.
 
 Die Urlaubskartei kann im oberen Bereich auf Zeiträume eingeschränkt
 werden.
@@ -20,7 +18,6 @@ werden.
 Standartmäßig wird beim Bis Datum der heutige Tag + ein Jahr
 vorgeschlagen.
 
-Abb. 5‑2 Urlaubskartei einschränken
 
 ![](<img/image98.png>)
 
@@ -31,7 +28,6 @@ Wurden mehrere Tage als Urlaub in der Leistungserfassung erfasst, so
 werden diese in Summe dargestellt. Die genaue Darstellung können Sie
 nachfolgender Abbildung entnehmen.
 
-Abb. 5‑3 Urlaubskartei
 
 ![](<img/image99.png>)
 
@@ -102,17 +98,13 @@ Umrechnung Saldo Stunden in Saldo Tage mit 01.01.24:
 Saldo in Stunden 178,75 h / 38,5 h pro Woche \* 5 AT pro Woche = 23,21
 Tage Anspruch Urlaub
 
-HINWEIS
+!!! warning "Hinweis"
+    Bei einer Umstellung der Urlaubsverwaltung wird dies in der
+    Urlaubskartei der Mitarbeiter gesondert ausgewiesen. Die aktuell
+    eingestellte Art der Erfassung (Stunden oder Tage) wird in schwarzer
+    Schriftfarbe dargestellt.
 
-Bei einer Umstellung der Urlaubsverwaltung wird dies in der
-Urlaubskartei der Mitarbeiter gesondert ausgewiesen. Die aktuell
-eingestellte Art der Erfassung (Stunden oder Tage) wird in schwarzer
-Schriftfarbe dargestellt.
-
-HINWEIS
-
-Die Spalten *Stunden* und *Saldo Stunden bzw. Tage* und *Saldo Tage*
-können durch Rechtsklick auf die Überschriftenspalte jederzeit ein- und
-ausgeblendet werden.
-
-**  
+!!! warning "Hinweis"
+    Die Spalten *Stunden* und *Saldo Stunden bzw. Tage* und *Saldo Tage*
+    können durch Rechtsklick auf die Überschriftenspalte jederzeit ein- und
+    ausgeblendet werden.

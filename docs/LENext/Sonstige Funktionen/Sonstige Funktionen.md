@@ -18,7 +18,6 @@ Arbeitszeiten in folgenden Formaten exportiert werden:
 
 -   DOCX
 
-Abb. 6‑1 Liste exportieren
 
 ![](<img/image102.png>)
 
@@ -30,7 +29,6 @@ Nachfolgend erhalten Sie nach dem Export die Abfrage ob Sie die
 exportierte Liste öffnen wollen. Wenn Sie auf *Öffnen* klicken öffnet
 sich das Dokument am Bildschirm.
 
-Abb. 6‑2 Liste exportieren - Abfrage
 
 ![](<img/image103.png>)
 
@@ -39,7 +37,6 @@ Abb. 6‑2 Liste exportieren - Abfrage
 Mittels der Schaltfläche *Liste drucken* öffnet sich die
 RZL-Druckvorschau.
 
-Abb. 6‑3 Liste drucken
 
 ![](<img/image104.png>)
 
