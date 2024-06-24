@@ -617,11 +617,9 @@ Die Erfassungszeilen stehen für einen erneuten Pauschalausgleich wieder
 zur Verfügung.
 
 !!! info "Hinweis"
-
-Wurde für die Pauschalzeile eine Schlussnote (Kapitel 14.7, Seite
-[133](#schlussnote)) erstellt, kann der Pauschalausgleich nicht mehr
-bearbeitet werden, sondern nur noch in einer Art Lesezugriff aufgerufen
-werden.
+    Wurde für die Pauschalzeile eine Schlussnote (Kapitel 14.7) erstellt, kann der Pauschalausgleich nicht mehr
+    bearbeitet werden, sondern nur noch in einer Art Lesezugriff aufgerufen
+    werden.
 
 ## Schlussnote
 
@@ -824,7 +822,6 @@ Zu/Abschlägen dem Mitarbeiter zugeordnet **(2).**
 Der Text der Tätigkeit **(3)** setzt sich zusammen aus dem Wort
 Pauschale und dem Namen der Verrechnungsgruppe.
 
-Abb. 14‑33 Mitarbeiterstatistik Pauschale
 
 ![](<img/image304.png>)
 
