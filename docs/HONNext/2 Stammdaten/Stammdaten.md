@@ -248,7 +248,7 @@ Verrechnungsgruppe dazu addiert.
 
 !!! warning "Hinweis"
     Bitte beachten Sie auch die definierten Grundeinstellungen (Kapitel 3.1,
-Seite 33).
+    Seite 33).
 
 **Projektzeitraumeingabe verpflichtend**
 
@@ -864,11 +864,11 @@ fortlaufend (fortlaufende Nummerierung) definiert werden.
     nächste Note im Jänner 2024 wird dann fortlaufend Nummeriert mit der
     Nummer 5001.
 
-Hinweis zum Feld Stichtag bei Fortlaufender Nummerierung:
-
-Der Stichtag sollte in der Vergangenheit liegen. Liegt der Stichtag in
-der Zukunft, wird ab dem Stichtag neu mit der eingegebenen Nummer
-nummeriert und erst im darauffolgenden Jahr fortlaufend nummeriert.
+!!! warning "Hinweis" 
+    **zum Feld "Stichtag" bei Fortlaufender Nummerierung:**  
+    Der Stichtag sollte in der Vergangenheit liegen. Liegt der Stichtag in
+    der Zukunft, wird ab dem Stichtag neu mit der eingegebenen Nummer
+    nummeriert und erst im darauffolgenden Jahr fortlaufend nummeriert.
 
 Sie können jederzeit weitere Nummernbereiche anlegen. Im Eingabefeld
 Bezeichnung **(1)** ist der Name des Nummernbereiches einzutragen. Die

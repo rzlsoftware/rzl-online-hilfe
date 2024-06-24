@@ -13,23 +13,21 @@ Honorarverrechnung.
     Nach der Übernahme der Daten von HON Klassik zu HON Next werden die
     Shortcuts zur HON Klassik und zur Leistungserfassung Klassik aus der
     Schnellstartleiste im RZL Board entfernt.
+    Die HON Klassik kann jederzeit über die Windowssuche oder über die HON
+    Next über den Menüpunkt *Auswertungen* geöffnet werden.
 
-Die HON Klassik kann jederzeit über die Windowssuche oder über die HON
-Next über den Menüpunkt *Auswertungen* geöffnet werden.
-
-Die Leistungserfassung Klassik kann ebenfalls über die Windowssuche oder
-pro Mitarbeiter über die Leistungserfassung Next geöffet werden.
+    Die Leistungserfassung Klassik kann ebenfalls über die Windowssuche oder
+    pro Mitarbeiter über die Leistungserfassung Next geöffet werden.
 
 ## Ansichten
 
-![](<img/image4.png>)
 
 In der Honorarverrechnung ist
 es möglich mehrere Ansichten gleichzeitig geöffnet zu haben. Die
 einzelnen Ansichten sind über Tab-Reiter erreichbar. So können z.B. die
 Notenerstellung und der Notenrückblick gleichzeitig geöffnet sein.
 
-Über das linke Icon (2) können Sie ein Fenster aus dem Board ausdocken
+Über das linke Icon (2) ![](<img/image4.png>) können Sie ein Fenster aus dem Board ausdocken
 und anschließend wieder ins RZL Board eindocken.
 
 
@@ -54,6 +52,8 @@ Generationen anzulegen. Die Anlage einer Generation ist bei allen
 Menüpunkten dieselbe Vorgehensweise.
 
 Beispiel: Sie möchten eine neue Generation für eine Tätigkeit anlegen.
+
+![](<img/image7.png>)
 
 Sie klicken immer auf den Button *Generation* **(1)**. Danach wird Ihnen
 der Zeitstreifen der Generation eingeblendet und Sie können eine neue
@@ -189,7 +189,5 @@ Verfügung:
     Tooltipp, was diese macht und welche etwaigen anderen Rechte benötigt
     werden.
 
-Bsp. Tooltipp HON Mitarbeiter verwalten
-
-
-![](<img/image12.png>)
+    Bsp. Tooltipp HON Mitarbeiter verwalten
+    ![](<img/image12.png>)
