@@ -240,60 +240,80 @@ Der Statistik Manager unterteilt sich in folgende Bereiche:
 
 ### Bedeutung der Felder
 
-Notendatum Datum der Note. Wird dies im Zeilen-/Spaltenbereich
+**Notendatum**  
+Datum der Note. Wird dies im Zeilen-/Spaltenbereich
 verwendet, kann ein Datumsintervall definiert werden.
 
-Mitarbeiter Nr. Hier können Sie nach der Mitarbeiternummer gliedern.
+**Mitarbeiter Nr.**  
+Hier können Sie nach der Mitarbeiternummer gliedern.
 Es wird Nummer und Name ausgegeben.
 
-Mitarbeiter Es wird der Mitarbeitername ausgegeben.
+**Mitarbeiter**   
+Es wird der Mitarbeitername ausgegeben.
 
-Tätigkeit Nr. Sie können nach der Tätigkeiten Nummer gliedern. Es wird
+**Tätigkeit Nr.**  
+Sie können nach der Tätigkeiten Nummer gliedern. Es wird
 Nummer und Name ausgegeben.
 
-Tätigkeit Es wird der Tätigkeitsname ausgegeben.
+**Tätigkeit**  
+Es wird der Tätigkeitsname ausgegeben.
 
-Klient Nr. Sie können nach der Klienten Nummer gliedern. Es wird
+**Klient Nr.**  
+Sie können nach der Klienten Nummer gliedern. Es wird
 Nummer und Name ausgegeben.
 
-Klient Es wird der Klientenname ausgegeben.
+**Klient**  
+Es wird der Klientenname ausgegeben.
 
-Auswahlkriterien Hier können Sie nach den angelegten Auswahlkriterien
+**Auswahlkriterien**  
+Hier können Sie nach den angelegten Auswahlkriterien
 Filtern. Das Feld *Auswahlkriterien* kann nur als Filter verwendet
 werden, nicht als Gruppierung.
 
-Zuständigkeitsbereich Sie können hier nach den im KIS hinterlegten
+**Zuständigkeitsbereich**  
+Sie können hier nach den im KIS hinterlegten
 Zuständigkeiten filtern. Das Feld *Zuständigkeitsbereich* kann nur als
 Filter verwendet werden, nicht als Gruppierung.
 
-Verrechnungsgruppe Es wird der Name der Verrechnungsgruppe ausgegeben.
+**Verrechnungsgruppe**  
+Es wird der Name der Verrechnungsgruppe ausgegeben.
 
-Rechnungssteller Es wird der Name der Rechnungssteller (=
+**Rechnungssteller**  
+Es wird der Name der Rechnungssteller (=
 Unternehmensbereich) ausgegeben.
 
-Spesen Gibt es Spesentätigkeiten, können Sie hier danach Filtern.
+**Spesen**  
+Gibt es Spesentätigkeiten, können Sie hier danach Filtern.
 
-Einheiten Es werden die erfassten Einheiten ausgegeben (bei Tätigkeiten
+**Einheiten**  
+Es werden die erfassten Einheiten ausgegeben (bei Tätigkeiten
 nach Einheiten).
 
-Betrag Es wird der Betrag der erfassten Leistung ausgegeben (bei
+**Betrag**  
+Es wird der Betrag der erfassten Leistung ausgegeben (bei
 Tätigkeiten nach Betrag).
 
-Dauer Es wird die erfasste Dauer der Leistung ausgegeben.
+**Dauer**  
+Es wird die erfasste Dauer der Leistung ausgegeben.
 
-Berechneter Wert Hier wird der berechnete Wert der Leistungserfassung
+**Berechneter Wert**  
+Hier wird der berechnete Wert der Leistungserfassung
 ausgegeben.
 
-Verrechneter Wert Hier wird der Wert der tatsächlich an den Klienten
+**Verrechneter Wert**  
+Hier wird der Wert der tatsächlich an den Klienten
 verrechnet wurde ausgegeben.
 
-Zu-/Abschlag Der Zu-Abschlag ist die Differenz zwischen dem
+**Zu-/Abschlag**  
+Der Zu-Abschlag ist die Differenz zwischen dem
 berechnetem und dem errechneten Wert.
 
-Eigenkosten Die Eigenkosten setzten sich aus dem Eigenkostensatz des
+**Eigenkosten**  
+Die Eigenkosten setzten sich aus dem Eigenkostensatz des
 Mitarbeiters und den erfassten Stunden zusammen.
 
-Deckungsbeitrag Der Deckungsbeitrag ermittelt sich aus dem
+**Deckungsbeitrag**  
+Der Deckungsbeitrag ermittelt sich aus dem
 Verrechneten Wert abzüglich der Eigenkosten.
 
 ### Bedienung des Statistik Managers
