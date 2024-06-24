@@ -5,10 +5,9 @@ Postausgänge sowie für die Aktivitäten in den RZL Klassik Programmen
 definieren, ob Aktivitäten/Leistungen für die Leistungserfassung erzeugt
 werden sollen.
 
-Hinweis
-
-Aus den RZL Klassik Programmen können für die Leistungserfassung nur
-Aktivitäten erzeugt werden.
+!!! warning "Hinweis"
+    Aus den RZL Klassik Programmen können für die Leistungserfassung nur
+    Aktivitäten erzeugt werden.
 
 -   *Aktivitäten erzeugen*
 
@@ -24,13 +23,12 @@ Aktivitäten erzeugt werden.
     Fenster zum Eingeben der Leistung (vgl. Kapitel 2.6.2, Seite
     [17](#mittels-telefonprotokollpostausgang)).
 
-Hinweis
+!!! warning "Hinweis"
+    Wird bei der Erfassung der Leistung im KIS auf *Abbrechen* geklickt,
+    wird dennoch eine Aktivität erzeugt, sofern die Option *Aktivität
+    erzeugen* gesetzt ist.
 
-Wird bei der Erfassung der Leistung im KIS auf *Abbrechen* geklickt,
-wird dennoch eine Aktivität erzeugt, sofern die Option *Aktivität
-erzeugen* gesetzt ist.
-
-Abb. 3‑2 Ansicht im KIS beim Erfassen eines Telefonprotokolles mit der
+Ansicht im KIS beim Erfassen eines Telefonprotokolles mit der
 Option *Leistungen erfassen*
 
 ![](<img/image75.png>)
@@ -48,11 +46,10 @@ Tätigkeiten nach Einheiten abgerechnet, werden diese ebenso als
 Aktivität miteinbezogen Bsp. Buchungszeilen in der RZL FIBU oder
 Abrechnungen im RZL Lohn.
 
-Hinweis
-
-Für Beginn und Ende wird das Öffnen/Schließen des Klienten verwendet.
-Für die Dauer die Fokuszeit, also Zeit in der das Programm auch
-tatsächlich im Vordergrund war.
+!!! warning "Hinweis"
+    Für Beginn und Ende wird das Öffnen/Schließen des Klienten verwendet.
+    Für die Dauer die Fokuszeit, also Zeit in der das Programm auch
+    tatsächlich im Vordergrund war.
 
 ### Programmaktivitäten zuordnen
 
@@ -60,7 +57,6 @@ Ist in den Eistellungen die Zeiterfassung aktiv, so erscheinen die
 Aktivitäten in der Leistungserfassung unter dem Punkt
 *Programmaktivitäten.*
 
-Abb. 3‑3 Programmaktivitäten
 
 ![](<img/image76.png>)
 
