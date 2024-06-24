@@ -32,17 +32,15 @@ Es stehen Ihnen folgende Platzhalter zur Verfügung:
 
 ![](<img/image79.png>)
 
-> **Hinweis**
->
-> Können Platzhaltern nicht aufgelöst werden, werden diese durch ein
-> Leerzeichen ersetzt.
->
-> **Tipp**
->
-> Mit der Schaltfläche *Textbaustein löschen* können Sie nicht mehr
-> benötigte Textbausteine löschen. Und mit der Schaltfläche
-> Textbausteine duplizieren können Sie bestehende Textbausteine
-> kopieren.
+!!! warning "Hinweis"
+    Können Platzhaltern nicht aufgelöst werden, werden diese durch ein
+    Leerzeichen ersetzt.
+
+!!! info "Tipp"
+    Mit der Schaltfläche *Textbaustein löschen* können Sie nicht mehr
+    benötigte Textbausteine löschen. Und mit der Schaltfläche
+    Textbausteine duplizieren können Sie bestehende Textbausteine
+    kopieren.
 
 Die angelegten Platzhalter können mit der rechten Maustaste aufgerufen
 werden oder man gibt direkt die Nummer des Textbausteines ein und wählt

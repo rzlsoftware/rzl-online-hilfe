@@ -8,18 +8,15 @@ Zukunft im Arbeitszeitkalender angezeigt.
 
 Der Arbeitszeitkalender kann über den Button *Kalender* geöffnet werden.
 
-Abb. 4‑1 Kalender öffnen
 
 ![](<img/image82.png>)
 
 Sie gelangen automatisch in die Tagesansicht des Arbeitszeitkalenders.
 
-Tipp
+!!! info "Tipp"
+    Der Arbeitszeitkalender kann aus der Tageserfassung mit der
+    Tastenkombination *Strg + K* geöffnet werden.
 
-Der Arbeitszeitkalender kann aus der Tageserfassung mit der
-Tastenkombination *Strg + K* geöffnet werden.
-
-Abb. 4‑2 Kalender Tagesansicht
 
 ![](<img/image89.png>)
 
@@ -152,20 +149,18 @@ Wenn Sie sich zusätzlich die Spalte *Freigabe* einblenden, sehen Sie
 welche Tage bereits Freigegeben, teilweise Freigegeben oder noch nicht
 Freigegeben wurden.
 
-Tipp
+!!! info "Tipp"
+    Mit Rechtsklick in die Überschriftenspalte können Sie sich unter anderem
+    noch zusätzlich die Spalten *Urlaub, Krankenstand und Feiertag*
+    einblenden. In der Wochen-, Monats- und Jahresansicht werden die in
+    Summe erfassten Stunden dargestellt.
 
-Mit Rechtsklick in die Überschriftenspalte können Sie sich unter anderem
-noch zusätzlich die Spalten *Urlaub, Krankenstand und Feiertag*
-einblenden. In der Wochen-, Monats- und Jahresansicht werden die in
-Summe erfassten Stunden dargestellt.
-
-Tipp
-
-Mit Rechtsklick in die Überschriftenspalte können Sie sich noch
-zusätzlich die Spalten *Änderungszeitpunkt AZ, Letzter Bearbeiter AZ*
-sowie *Änderungszeitpunkt LE, Letzter Bearbeiter LE zur Verfügung*
-einblenden*.* Hier ist ersichtlich wer zuletzt diesen Tag bearbeitet
-hat.
+!!! info "Tipp"
+    Mit Rechtsklick in die Überschriftenspalte können Sie sich noch
+    zusätzlich die Spalten *Änderungszeitpunkt AZ, Letzter Bearbeiter AZ*
+    sowie *Änderungszeitpunkt LE, Letzter Bearbeiter LE zur Verfügung*
+    einblenden*.* Hier ist ersichtlich wer zuletzt diesen Tag bearbeitet
+    hat.
 
 Der Button *Tag(e) bearbeiten* **(2)** bewirkt, dass der im Kalender
 markierte Tag bearbeitet werden kann. Damit wird automatisch ein neuer
@@ -182,7 +177,6 @@ Kontextmenü mit der rechten Maustaste bearbeitet werden. Der Punkt
 die Zwischenablage kopiert wird und beispielsweise im Excel eingefügt
 werden kann.
 
-Abb. 4‑3 Arbeitszeitkalender – Tag bearbeiten
 
 ![](<img/image93.png>)
 
@@ -201,8 +195,7 @@ einem eigenen Tab angezeigt. Die Leistungen in dieser Übersicht können
 nicht bearbeitet werden.
 
 Über das Kontextmenü (Klick mit der rechten Maustaste) können die
-Leistungen für den jeweiligen Zeitraum ebenfalls angezeigt werden (siehe
-Abb. 3.3).
+Leistungen für den jeweiligen Zeitraum ebenfalls angezeigt werden 
 
 Die Schaltfläche *Urlaub eintragen* **(5)** bewirkt, dass die markierten
 Tage als Urlaubstage automatisch erfasst werden. Mit der *STRG-Taste*
@@ -212,27 +205,25 @@ darf kein ganztägiger Zeitausgleich angehakt sein, oder eine Arbeitszeit
 eingetragen worden sein. Gleiches gilt für die Schaltfläche
 *Krankenstand eintragen* **(6).** Auch über das Kontextmenü mittels
 rechter Maustaste kann ein Urlaubstag/Krankenstand eingetragen werden
-(siehe Abb. 4-3).
+
 
 Mittels der Schaltfläche *Homeoffice eintragen* **(7)** können Sie
 einen/mehrere Tage als Homeoffice Tage markieren. In der Wochen-/Monats-
 und Jahresansicht sehen Sie in der Spalte *Homeoffice* die in Summe
 erfassten Homeoffice Tage.
 
-Tipp
-
-Der Arbeitszeitkalender kann auch direkt in der Leistungserfassung beim
-erfassten Tag über den Button *Kalende*r geöffnet werden.
+!!! info "Tipp"
+    Der Arbeitszeitkalender kann auch direkt in der Leistungserfassung beim
+    erfassten Tag über den Button *Kalende*r geöffnet werden.
 
 In der Wochenansicht besteht ebenso die Möglichkeit, sich den
 Urlaub/Krankenstand/Homeoffice für eine oder mehrere Wochen eintragen zu
 lassen.
 
-Hinweis
-
-Beim Öffnen des Kalenders ist dieser standardmäßig auf den 1. Jänner des
-Vorjahres bis ein Jahr in die Zukunft begrenzt. Sie können den Zeitraum
-jedoch jederzeit übersteuern.
+!!! warning "Hinweis"
+    Beim Öffnen des Kalenders ist dieser standardmäßig auf den 1. Jänner des
+    Vorjahres bis ein Jahr in die Zukunft begrenzt. Sie können den Zeitraum
+    jedoch jederzeit übersteuern.
 
 Mit der Schaltfläche *Layout Speichern* **(8)** können Sie sich den
 Arbeitszeitkalender bzgl. der Spalten so gestalten wie Sie möchte und
@@ -242,7 +233,6 @@ dieses gestaltete Layout immer wieder aufrufen.
 
 Über die Schaltfläche *Liste exportieren* im Ribbon haben Sie die
 Möglichkeit sich den Arbeitszeitkalender als PDF oder Excel auszugeben
-(vgl. Kapitel 6.1 Liste exportieren).
 
 Bei der Ausgabe in ein Excel Dokument können Sie innerhalb des Excel mit
 den Stunden arbeiten und beispielsweise Summen bilden.
@@ -263,7 +253,6 @@ zusätzlich 3,5 h gearbeitet. Die Zelle Urlaubssaldo ist an diesem Tag
 gelb markiert, weil sich der Urlaubssaldo von 70 Stunden auf 65 Stunden
 reduziert hat und nicht der ganze Tag ein Urlaubstag war.
 
-Abb. 4‑4 Urlaubssaldo
 
 ![](<img/image94.png>)
 
@@ -277,11 +266,10 @@ die Veränderung des Urlaubssaldos.
 
 ![](<img/image95.png>)
 
-Tipp
-
-Mittels Tooltip ist ebenso die Veränderung des Urlaubssaldos rechnerisch
-dargestellt. Dazu müssen Sie mit dem Mauscursor die farblich hinterlegte
-Zelle auswählen.
+!!! info "Tipp"
+    Mittels Tooltip ist ebenso die Veränderung des Urlaubssaldos rechnerisch
+    dargestellt. Dazu müssen Sie mit dem Mauscursor die farblich hinterlegte
+    Zelle auswählen.
 
 Ist eine ganze Zeile gelb markiert, so handelt es sich um einen
 ganztätigen Urlaub.
