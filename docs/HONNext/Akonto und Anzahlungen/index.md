@@ -1,4 +1,4 @@
-# Akonto und Anzahlungen
+# Allgemeines
 
 Die Honorarverrechnung bietet Ihnen die Möglichkeit Akonto- sowie
 Anzahlungen abzurechnen. Hierfür gibt es den eigenen Reiter

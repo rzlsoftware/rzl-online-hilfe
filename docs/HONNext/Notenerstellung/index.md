@@ -1,4 +1,4 @@
-# Notenerstellung
+# Allgemeines
 
 Um Noten erstellen zu können, müssen zuerst die Leistungen, die von
 Ihren Mitarbeitern erfasst wurden, freigegeben worden sein.

@@ -1,4 +1,4 @@
-# Verrechnungs-/Erfassungsklient
+# Allgemeines
 
 Die Honorarverrechnung bietet Ihnen die Möglichkeit für mehrere Klienten
 einen gemeinsamen Klienten als Rechnungsempfänger zu definieren. In der

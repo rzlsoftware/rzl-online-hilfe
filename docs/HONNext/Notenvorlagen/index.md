@@ -1,4 +1,4 @@
-# Notenvorlagen
+# Allgemeines
 
 Standardmäßig wird die RZL Standard Notenvorlage bei der Auslieferung
 des Programmes mitgeliefert. Diese Standardvorlage muss zuerst

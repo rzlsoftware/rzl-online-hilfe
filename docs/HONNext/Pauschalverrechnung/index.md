@@ -1,4 +1,4 @@
-# Pauschalverrechnung
+# Allgemeines
 
 Die Honorarverrechnung bietet die Möglichkeit Klienten auch pauschal
 abzurechnen. Hierfür wird das extra Modul Pauschalverrechnung benötigt.
