@@ -1,7 +1,7 @@
 nav:
     - HON Next Handbuch: index.md
-    - Allgemeine Bedienung.md
-    - Stammdaten
+    - Allgemeine Bedienung
+    - Stammdaten HON Next
     - Einstellungen
     - Unternehmensbereiche.md
     - Stammdaten Mitarbeiter.md
@@ -20,6 +20,4 @@ nav:
     - Notenvorlagen
     - Auswertungen
     - Datenübernahme.md
-    - Sonstige Funktionen.md
-    - Hilfreiche Shortcuts.md
     - ...
