@@ -35,7 +35,7 @@ den Button *zur Firmenansicht* gelangen Sie zur Firmenansicht.
 ![](<img/image101.png>)
 
 Im Bereich *HON* können Sie für den Unternehmensbereich den zugehörigen
-Nummernbereich (siehe Kapitel 2.5, Seite [33](#nummernbereiche)), die
+Nummernbereich (siehe Kapitel [Nummernbereich](/HONNext/2%20Stammdaten/Nummernbereiche/)), die
 zugehörige Notenvorlage und die Zahlungsbedingungen hinterlegen. Ebenso
 ist die Hinterlegung eines PDF-Briefpapier möglich. Bei *Briefpapier*
 ist der Pfad, wo das Briefpapier abgespeichert ist zu definieren.
