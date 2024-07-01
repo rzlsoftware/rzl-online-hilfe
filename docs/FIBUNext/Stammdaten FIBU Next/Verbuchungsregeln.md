@@ -1,9 +1,9 @@
-# Verbuchungsregeln zur Retourdatenverarbeitung
+# Verbuchungsregeln zur Verarbeitung von elektronsichen Kontoauszügen
 
-## Verbuchungsregeln zur Retourdatenverarbeitung
+## Verbuchungsregeln zur Verarbeitung von elektronischen Kontoauszügen
 
 
-Zur automatisierten Verarbeitung der Retourdaten können für gleichartige bzw. wiederkehrende Geschäftsfälle (z.B. Strom, Miete) Verbuchungsregeln angelegt werden. Dadurch wird beim wiederkehrenden Import automatisch der vordefinierte Buchungsvorschlag erstellt.
+Zur automatisierten Verarbeitung der Retourdaten bzw. Netbanking-Dateien können für gleichartige bzw. wiederkehrende Geschäftsfälle (z.B. Strom, Miete) Verbuchungsregeln angelegt werden. Dadurch wird beim wiederkehrenden Import automatisch der vordefinierte Buchungsvorschlag erstellt.
 
 Unter *Stammdaten / Verbuchungsregeln* ***(1)*** können Sie neue Verbuchungsregeln anlegen oder bestehende Verbuchungsregeln bearbeiten.
 
@@ -11,7 +11,7 @@ Unter *Stammdaten / Verbuchungsregeln* ***(1)*** können Sie neue Verbuchungsreg
 ![Stammdaten](img/image5.png)
 
 !!! info "Tipp"
-    Verbuchungsregeln sollten am besten direkt im Zuge der Retourdatenverarbeitung hinterlegt werden, da alle vorhandenen Daten aus dem Import automatisch vorgeschlagen und ausgewählt werden können. Nach Auswahl der betroffenen Buchungszeile im camt-Stapel kann mit der F4-Taste bzw. der rechten Maustaste oder auch über das Menüband die Verbuchungsregel angelegt werden.
+    Verbuchungsregeln sollten am besten direkt im Zuge der Verarbeitung der Retourdaten bzw. der Netbanking-Datei hinterlegt werden, da alle vorhandenen Daten aus dem Import automatisch vorgeschlagen und ausgewählt werden können. Nach Auswahl der betroffenen Buchungszeile im camt-Stapel kann mit der F4-Taste bzw. der rechten Maustaste oder auch über das Menüband die Verbuchungsregel angelegt werden.
 
 
 
