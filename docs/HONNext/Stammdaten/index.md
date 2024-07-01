@@ -1,4 +1,4 @@
-# Stammdaten
+# Allgemeines
 
 
 ![](<img/image13.png>)
