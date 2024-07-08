@@ -35,7 +35,7 @@ beim Notenvorschlag berücksichtigt. Des Weiteren kann auch der
 Projektzeitraum für die Verrechnungsgruppen eingeschränkt werden.
 
 !!! info "Tipp"
-    Mit Rechtsklick in das Feld Projektz*eitraum* kann der eingegebene
+    Mit Rechtsklick in das Feld *Projektzeitraum* kann der eingegebene
     Projektzeitraum für alle Verrechnungsgruppen übernommen werden.
 
 Als Notendatum **(3)** wird immer der heutige Tag vorgeschlagen. Sie

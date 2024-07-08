@@ -1,9 +1,8 @@
 ## Notenerstellung
 
 Diese Vorgehensweise, die hier beschrieben wird, können Sie durchführen,
-wenn Sie im Kapitel 11.3 Seite [86](#möglichkeiten-zur-notenerstellung),
-die Möglichkeit *Note erstellen* *ohne automatische Erstellung*,
-ausgewählt haben.
+wenn Sie die Möglichkeit *Note erstellen ohne automatische Erstellung*
+ausgewählt haben. Siehe [Möglichkeiten zur Notenerstellung](/HONNext/Notenerstellung/Möglichkeiten%20zur%20Notenerstellung)
 
 Sie gelangen in die Notenansicht:
 
@@ -63,26 +62,25 @@ Im Reiter *Anmerkungen* können Sie pro Note Anmerkungen hinterlegen. Die
 Anmerkungen werden pro Note gespeichert. Dieser Text wird nicht auf der
 Note angedruckt.
 
-Die Anmerkungen je Note können Sie sich in der Notenübersicht (Kapitel
-15.1, Seite [140]) über das Einblenden der Spalte
+Die Anmerkungen je Note können Sie sich in der [Notenübersicht](/HONNext/Notenübersicht) über das Einblenden der Spalte
 *Anmerkung* anzeigen lassen.
 
 **Zusatztext für Note**
 
 Im Reiter *Zusatztext für Note*, wird jener Text angedruckt, der in den
-Stammdaten des Klienten (Kapitel 6, Seite [56])
+[Stammdaten des Klienten](/HONNext/Stammdaten%20Klienten)
 hinterlegt wurde. Während der Notenerstellung kann dieser Text ergänzt
 bzw. editiert werden. Dieser Text wird auf der Note angedruckt.
 
 !!! warning "Hinweis"
-    Der bei der Note eingegebene Zusatztext kann in der Notenübersicht
-    eingeblendet werden (Kapitel 15, Seite [140]).
+    Der bei der Note eingegebene Zusatztext kann in der [Notenübersicht](/HONNext/Notenübersicht)
+    eingeblendet werden.
 
 **Notenstruktur**
 
 Im Reiter *Notenstruktur* können Sie die Einstellung bzgl. dem Ausweis
 der Verrechnungsgruppen für diese Note ändern. Die Einstellung wird aus
-den Grundeinstellungen (vgl. Kapitel 3.1.2, Seite [38]) genommen.
+den [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen/#note) genommen.
 
 Wird die Notenstruktur verändert, werden bereits durchgeführte
 Gruppierungen und Sortierungen verworfen. Durchgeführte Änderungen an
@@ -222,9 +220,8 @@ Auswirkungen auf die Leistungserfassung des Mitarbeiters hat.
 In den Stammdaten der Tätigkeiten steht Ihnen die Verrechnungsart
 *Stunden oder Einheiten* zur Verfügung. Bei dieser Art müssen die
 Stunden in der Leistungserfassung der Mitarbeiter erfasst werden und
-zusätzlich können optional auch die Einheiten eingetragen werden (vgl.
-Kapitel 2.2, Seite [14]). Ist diese Tätigkeit einem
-Stunden- und Einheitentarif zugeordnet, kann während der Notenerstellung
+zusätzlich können optional auch die Einheiten eingetragen werden. 
+Ist diese Tätigkeit einem Stunden- und Einheitentarif zugeordnet, kann während der Notenerstellung
 die Verrechnung definiert werden. Initial werden immer die Stunden zur
 Verrechnung vorgeschlagen.
 
@@ -426,7 +423,7 @@ Nachdem der Betrag eingegeben wurde, muss der Zuschlag verteilt werden.
 Es öffnet sich hierfür ein eigenes Fenster. Der Zuschlag kenn entweder
 einem Mitarbeiter direkt zugewiesen werden oder, wenn man das Feld
 *Mitarbeiter* leer lässt, erhält der Klient den Zuschlag (siehe hierzu
-auch Kapitel *11.4.12 Zu-/Abschläge).*
+[Zu-/Abschläge](/HONNext/Notenerstellung/Notenerstellung/#zu-abschlage)).
 
 
 ![](<img/image210.png>)
@@ -440,8 +437,7 @@ auch Kapitel *11.4.12 Zu-/Abschläge).*
 ### Zu-/Abschläge 
 
 Zu- und Abschläge werden automatisch, je nachdem welche Einstellungen
-Sie bei den Grundeinstellungen getroffen haben (siehe Kapitel 3.1 Seite
-[37](#grundeinstellungen)), verteilt. Es besteht die Möglichkeit die Zu-
+Sie bei den [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen) getroffen haben, verteilt. Es besteht die Möglichkeit die Zu-
 und Abschläge automatisch auf die Mitarbeiter, automatisch ohne
 Mitarbeiterbezug und manuell zu verteilen.
 
@@ -541,8 +537,7 @@ der gesamte Betrag verteilt wird.
 
 **Beispiel Zu-/Abschlag bei Gruppen**
 
-Nachdem Sie eine Gruppe gebildet haben (Kapitel 11.4.9, Seite
-[94](#notenzeilen-gruppieren)), können Sie die Gruppensumme ändern. Nach
+Nachdem Sie eine Gruppe gebildet haben (siehe [Notenzeilen gruppieren](/HONNext/Notenerstellung/Notenerstellung/#notenzeilen-gruppieren)), können Sie die Gruppensumme ändern. Nach
 dem Ändern der Gruppensumme, wird der Zu-/Abschlag je nach
 Grundeinstellungen dem Mitarbeiter zugeordnet. Sie haben nun die
 Möglichkeit die einzelnen Zu-/Abschläge je Tätigkeit oder den
@@ -598,9 +593,8 @@ Zeile Zwischensumme (**1**).
 Rabatte werden mit einem Minus und Aufschläge mit einem Plus
 symbolisiert (**2**).
 
-Rabatte/Aufschläge werden, je nach den getroffenen Grundeinstellungen,
-mit oder ohne Mitarbeiterbezug verteilt (*Kapitel 3.1
-Grundeinstellungen*). Sollte diese Einstellung innerhalb der
+Rabatte/Aufschläge werden, je nach den getroffenen [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen),
+mit oder ohne Mitarbeiterbezug verteilt. Sollte diese Einstellung innerhalb der
 Notenerstellung abgeändert werden, kann dies über das Kontextmenü
 (rechte Maustaste auf die Rabatt-/Aufschlagszeile) erfolgen.
 
@@ -679,8 +673,7 @@ Excel einfügen.
 
 Sie können die Note sofort beim Speichern & schließen endgültig
 finalisieren, wenn Sie dies nicht schon bereits in den
-Grundeinstellungen eingestellt haben (siehe Kapitel 3.1, Seite
-[37](#grundeinstellungen)). Dazu gibt es während der Notenerstellung das
+[Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen) eingestellt haben. Dazu gibt es während der Notenerstellung das
 Optionsfeld „*Note beim ‚Speichern & schließen‘ finalisieren*“ welches
 Sie aktivieren können.
 

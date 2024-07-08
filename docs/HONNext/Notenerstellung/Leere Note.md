@@ -43,8 +43,7 @@ einzufügen.
     gespeichert werden.
 
 Nachdem die Zeile eingefügt wurde und ein Betrag eingetragen, muss der
-Zu/Abschlag manuell verteilt werden (vgl. Kapitel 11.4.12
-Zu-/Abschläge).
+Zu/Abschlag manuell verteilt werden (vgl. [Zu-/Abschläge](/HONNext/Notenerstellung/Notenerstellung/#zu-abschlage)
 
 
 ![](<img/image242.png>) 

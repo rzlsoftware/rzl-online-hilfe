@@ -1,7 +1,7 @@
 ## Möglichkeiten zur Notenerstellung
 
 Wenn Sie nun die Klienten ausgewählt haben für die Sie die Noten
-erstellen möchten (siehe Seite [83](#notenvorschläge)), dann können Sie
+erstellen möchten (siehe [Notenvorschläge](/HONNext/Notenerstellung/Notenvorschläge)), dann können Sie
 entweder über den Button *Noten erstellen* im Ribbon, oder über den
 rechten unteren Bereich, Noten erstellen. Wenn Sie diesen Punkt
 auswählen, können Sie die Note noch bearbeiten, z.B. Leistungen von der

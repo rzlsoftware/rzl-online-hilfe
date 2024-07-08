@@ -14,7 +14,7 @@ und der Tätigkeit (Nummer und Bezeichnung).
 
 !!! warning "Hinweis"
     Im Aufruf der Offenen Leistungen besteht die Möglichkeit sich Layouts
-    anzulegen (vgl. Kapitel 19.13, S. [180](#speicherbare-layouts)).
+    anzulegen (vgl. [Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts)).
 
 Innerhalb der offenen Leistungen, können Sie sich eine Wertberechnung
 darstellen lassen. Die Wertberechnung zeigt Ihnen, wie sich der Wert der
