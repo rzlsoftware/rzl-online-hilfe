@@ -32,7 +32,7 @@ Mitarbeiter markiert.
 
 !!! info "Tipp"
     In der Mitarbeiterübersicht besteht die Möglichkeit sich Layouts zu
-    definieren Kapitel 19.13, Seite 180 (speicherbare-layouts).
+    definieren. Siehe [Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts).
 
 Ebenso wird Ihnen in der Mitarbeiterübersicht eine Übersicht über den
 Status der Erfassung der einzelnen Mitarbeiter geboten. Ihnen wird über

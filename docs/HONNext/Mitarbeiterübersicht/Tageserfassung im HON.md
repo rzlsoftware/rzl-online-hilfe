@@ -23,7 +23,7 @@ seiner Leistungserfassung die Möglichkeit sich diese Spalten
 einzublenden.
 
 !!! info "Tipp"
-    In der Leistungsübersicht 8.2, Seite 68 (leistungsübersicht) stehen
+    In der [Leistungsübersicht](/HONNext/Leistungserfassung/Leistungsübersicht) stehen
     Ihnen die Spalten Änderungszeitpunkt und letzter Bearbeiter zur
     Verfügung.
 

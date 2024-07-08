@@ -37,5 +37,4 @@ aufklappen/zuklappen* können Sie nur einzelne Ebenen einblenden.
 
 !!! info "Tipp"
     Die Leistungsübersicht steht Ihnen auch über den Punkt *Auswertungen*
-    zur Verfügung. Siehe auch Kapitel 19.13, Seite
-    [180](speicherbare-layouts).
+    zur Verfügung. Siehe auch [Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts).

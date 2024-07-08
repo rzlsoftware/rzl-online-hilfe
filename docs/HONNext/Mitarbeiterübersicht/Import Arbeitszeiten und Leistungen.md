@@ -9,8 +9,7 @@ der Mitarbeiter zu importieren.
 
 !!! warning "Hinweis"
     Über *Datenübernahme / Datenimport* ist ein zentraler Datenimport für
-    alle Mitarbeiter gesammelt möglich (vgl. Kapitel 20.2, Seite
-    [185](#datenimport-leistungen-und-arbeitszeiten)).
+    alle Mitarbeiter gesammelt möglich (vgl. [Datenimport Leistungen und Arbeitszeiten](/HONNext/Datenübernahme/#datenimport-leistungen-und-arbeitszeiten))
 
 Wählen Sie hierfür den Mitarbeiter aus und wählen *Datenimport*.
 

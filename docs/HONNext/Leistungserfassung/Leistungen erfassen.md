@@ -93,7 +93,7 @@ Enter-Taste am Ziffernblock können Sie in das nächste Feld springen.
 ![](<img/image130.png>)
 
 Zuerst sollten Sie das Datum der Leistung eintragen. Sie können auch mit
-Shortcuts (siehe Kapitel 22 Seite [191](#hilfreiche-shortcuts)) das
+Shortcuts (siehe [Hilfreiche Shortcuts](/HONNext/Allgemeine%20Bedienung/Hilfreiche%20Shortcuts/)) das
 Datum eintragen. Im Anschluss können Sie den Mitarbeiter mittels Eingabe
 des Namens suchen. Alle Mitarbeiter können mit der F2-Taste, oder
 mittels Kontextmenü im Feld *Mitarbeiter* vorgeschlagen werden. Eine
