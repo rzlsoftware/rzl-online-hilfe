@@ -1,10 +1,10 @@
 # Allgemeine Informationen
 
 Im folgenden Abschnitt finden Sie alle relevanten Informationen zum
-neuen RZL PDF-Manager, welcher das Nachfolgeprodukt des derzeitigen RZL
+RZL PDF-Manager, welcher das Nachfolgeprodukt des RZL
 PDF-Drucker darstellt. Des Weiteren werden die wichtigsten Einstellungen
-und Funktionen des RZL PDF-Managers vorgestellt. Vorab möchten wir Sie
-kurz auf die wesentlichsten Änderungen und Neuerungen des RZL
+und Funktionen des RZL PDF-Managers vorgestellt.   
+Vorab möchten wir Sie kurz auf die wesentlichsten Änderungen und Neuerungen des RZL
 PDF-Managers hinweisen. Neben den bereits bekannten Funktionen wie
 Dokumente per E-Mail zu versenden, abzuspeichern, in das
 KIS/Klientenportal zu exportieren gibt es nun folgende wesentliche

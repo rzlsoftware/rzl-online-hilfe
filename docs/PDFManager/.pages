@@ -1,10 +1,10 @@
 nav:
-    - PDFManager: index.md
-    - Allgemeine Informationen
+    - PDF Manager: index.md
+    - Allgemein
     - Arbeitsoberfläche
     - Einstellungen
-    - Registerblatt Dokument
-    - Registerblatt Bearbeiten
-    - Registerblatt Workflow
-    - Registerblatt Seitenbearbeitung
+    - Registerblatt Dokument.md
+    - Registerblatt Bearbeiten.md
+    - Registerblatt Workflow.md
+    - Registerblatt Seitenbearbeitung.md
     - ...
