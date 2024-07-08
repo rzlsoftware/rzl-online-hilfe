@@ -23,18 +23,16 @@ Anfangsbestand* sind für die Berechnung des Zeitausgleiches in der
 Leistungserfassung des Mitarbeiters relevant.
 
 Das hinterlegte *Mitarbeiter-Tarifschema* wird angezeigt. Weitere Infos
-zum Mitarbeiter-Tarifschema finden Sie im Kapitel 2.3 Seite
-[21](#tarifschemata) ff beschrieben.
+zum Mitarbeiter-Tarifschema finden Sie im Kapitel [Tarifschemata](/HONNext/Stammdaten%20HON%20Next/Tarifschemata) beschrieben.
 
 Der *Eigenkosten-Stundensatz* zur späteren Berechnung der Eigenkosten,
 bei diversen Auswertungen, ist zu hinterlegen. Das Arbeitszeitmodell und
 der Urlaubsanspruch, sowie der Beginn des Urlaubsjahres können ebenso
 hinterlegt werden. Weiterführende Informationen zum Arbeitszeitmodell
-finden Sie im Kapitel 2.4 Seite [31](#arbeitszeitmodelle) ff
+finden Sie im Kapitel [Arbeitszeitmodelle](/HONNext/Stammdaten%20HON%20Next/Arbeitszeitmodelle)
 beschrieben. Das Arbeitszeitmodell wird unter anderem für die
 Leistungserfassung der Mitarbeiter benötigt. Weiterführende
-Informationen zum Urlaub finden Sie im Kapitel 9.4, Seite
-[75](#urlaubskartei) beschrieben. Die Urlaubsinformationen werden als
+Informationen zum Urlaub finden Sie im Kapitel [Urlaubskartei](/HONNext/Mitarbeiterübersicht/Urlaubskartei) beschrieben. Die Urlaubsinformationen werden als
 Information für die Mitarbeiter in der Leistungserfassung dargestellt.
 
 Die Option *Geschäftsführung oder leitende Anstellung* kann aktiviert
@@ -62,9 +60,8 @@ folgenden Hinweis:
 
 ## Transferstundensätze
 
-Dieser Eingabebereich ist nur aktiv, wenn mehrere Unternehmensbereiche
-angelegt wurden (Kapitel 4, Seite [50](#unternehmensbereiche)). Ist dies
-der Fall, dann ist in den Stammdaten der Mitarbeiter im Reiter
+Dieser Eingabebereich ist nur aktiv, wenn mehrere [Unternehmensbereiche](/HONNext/Unternehmensbereiche)
+angelegt wurden. Ist dies der Fall, dann ist in den Stammdaten der Mitarbeiter im Reiter
 *Mitarbeiterdaten* festzulegen, für welchen Unternehmensbereich dieser
 Mitarbeiter tätig ist **(1).** Weiters ist in den Stammdaten des
 Klienten im Reiter *Klientendaten* festzulegen, welchem
