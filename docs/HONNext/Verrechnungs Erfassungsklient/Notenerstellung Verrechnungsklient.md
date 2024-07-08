@@ -34,7 +34,7 @@ Erfassungsklienten (**2**) einschränken.
 Wenn man nun die Honorarnote erstellt und Zu/Abschläge generiert, werden
 diese auch auf die jeweiligen Klienten verteilt (**3**). Werden die
 Zu/Abschläge manuell verteilt, ist der Klient, der den Zu/Abschlag
-erhält, einzutragen (**4**) (siehe auch Kapitel 11.4.12 Zu-/Abschläge).
+erhält, einzutragen (**4**) (siehe auch [Zu-/Abschläge](/HONNext/Notenerstellung/Notenerstellung/#zu-abschlage)).
 
 
 ![](<img/image122.png>)
@@ -46,9 +46,7 @@ erhält, einzutragen (**4**) (siehe auch Kapitel 11.4.12 Zu-/Abschläge).
 ### Notenjournal
 
 Nach der Notenerstellung haben Sie über die Notenübersicht die
-Möglichkeit das Notenjournal aufzurufen (Kapitel 15.11 Notenjournal
-anzeigen). Auch das Notenjournal ist nach Verrechnungs- und
-Erfassungsklienten unterteilt und kann gefiltert werden.
+Möglichkeit das Notenjournal aufzurufen ([Notenjournal anzeigen](/HONNext/Notenübersicht/#notenjournal-anzeigen)). Auch das Notenjournal ist nach Verrechnungs- und Erfassungsklienten unterteilt und kann gefiltert werden.
 
 
 ![](<img/image124.png>)

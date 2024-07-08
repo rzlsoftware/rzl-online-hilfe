@@ -15,4 +15,4 @@ Gruppierungsfeld (**1**) ziehen.
 In der allgemeinen Umsatzstatistik stehen Ihnen die Spalten *Klient
 (Erfassung)* und *Klient (Verrechnung)* zur Verfügung. Sie können hier
 selbstständig die Gruppierung festlegen oder einen Filter setzen (siehe
-Kapitel 19.3 Umsatzstatistik Allgemein).
+[Umsatzstatistik Allgemein](/HONNext/Auswertungen/Umsatzstatistik%20Allgemein)).
