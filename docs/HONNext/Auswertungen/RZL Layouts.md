@@ -17,7 +17,7 @@ eins und zwei.
 
 <table>
 <colgroup>
-<col style="width: 23%" />
+<col style="width: 35%" />
 <col style="width: 76%" />
 </colgroup>
 <thead>
@@ -71,9 +71,9 @@ verrechenbaren/nicht verrechenbaren Stunden an der Gesamtdauer.
 <col style="width: 67%" />
 </colgroup>
 <thead>
-<tr class="header">
-<th>Anteil Tätigkeit an Summe</th>
-<th><p>Zeigt den prozentuellen Anteil der einzelnen Tätigkeiten an der
+<tr class="odd">
+<td>Anteil Tätigkeit an Summe</td>
+<td><p>Zeigt den prozentuellen Anteil der einzelnen Tätigkeiten an der
 Erfassten Dauer für verrechenbar und nicht verrechenbar.</p>
 <p>Bsp.:</p>
 <p>Summe erfasste Dauer nicht verrechenbar: 121 h</p>

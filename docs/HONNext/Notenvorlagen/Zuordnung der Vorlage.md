@@ -19,17 +19,14 @@ Eine schnellere Variante den Unternehmensbereich zuzuordnen ist, wenn
 Sie direkt bei der Notenvorlage auf *Zuordnung zu Unternehmensbereich/e*
 klicken.
 
-Ebenso ist es möglich im Unternehmensbereich selbst die Zuordnung der
-Notenvorlage zu treffen (siehe Kapitel 4, Seite
-[50](#unternehmensbereiche)).
+Ebenso ist es möglich im [Unternehmensbereich](/HONNext/Unternehmensbereiche/) selbst die Zuordnung der
+Notenvorlage zu treffen.
 
 ## Zuordnung zum Klienten
 
 Sollte bei einem Klienten eine abweichende Notenvorlage als im
 Unternehmensbereich definiert, verwendet werden, kann diese über die
-Schaltfläche *Klienten zuordnen* **(8)** oder in den Stammdaten des
-Klienten im Bereich HON hinterlegt werden (siehe Kapitel Stammdaten
-Klienten, Seite [56](#stammdaten-klienten)). Immer wenn Sie eine Note
+Schaltfläche *Klienten zuordnen* **(8)** oder in den [Stammdaten des Klienten](/HONNext/Stammdaten%20Klienten/) im Bereich HON hinterlegt werden. Immer wenn Sie eine Note
 für diesen Klienten erstellen, wird bei der Notenerstellung die gewählte
 Notenvorlage vorgeschlagen.
 

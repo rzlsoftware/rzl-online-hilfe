@@ -46,9 +46,7 @@ Anordnung der Spalten kann ebenso von Ihnen verschoben werden.
 
 !!! warning "Hinweis"
     Die beschriebene Funktionsweise bzgl. der Gruppierung ist in allen frei
-    gestaltbaren Auswertungen im HON Next möglich (Kapitel 19.6, Seite
-    [174](#rzl-layouts); Kapitel 19.8, Seite [176](#mitarbeiterliste);
-    Kapitel 19.10, Seite [178](#pauschalstatistik-1)).
+    gestaltbaren Auswertungen im HON Next möglich (Kapitel [RZL Layouts](/HONNext/Auswertungen/RZL%20Layouts); [Mitarbeiterliste](/HONNext/Auswertungen/Mitarbeiter%20und%20Klientenliste/#mitarbeiterliste); [Pauschalstatistik](/HONNext/Auswertungen/Statistiken/#pauschalstatistik)).
 
 
 

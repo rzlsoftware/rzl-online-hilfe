@@ -1,6 +1,6 @@
 ## Pauschalstatistik
 
-Siehe Kapitel 14.9, Seite [137](#pauschalstatistik)
+Siehe Kapitel [Pauschalstatistik](/HONNext/Pauschalverrechnung/Pauschalstatistik/)
 
 ## Offene Leistungen Statistik
 
@@ -18,8 +18,7 @@ hier das Tagesdatum vorgeschlagen.
 ![](<img/image391.png>)
 
 Anschließend besteht noch die Möglichkeit die Auswertung zu Gruppieren,
-zu Filtern oder einzelne Spalten ein-/auszublenden (vgl. Kapitel 19.3,
-Seite [161](#umsatzstatistik-allgemein)).
+zu Filtern oder einzelne Spalten ein-/auszublenden (vgl. [Umsatzstatistik Allgemein](/HONNext/Auswertungen/Umsatzstatistik%20Allgemein)).
 
 ### Offene Leistungen Allgemein
 
@@ -42,8 +41,7 @@ abgerechnet waren.
 
 ### Offene Leistungen mit Pauschalen
 
-Wird nun ein Klient Pauschal abgerechnet (vgl. Kapitel 14, Seite
-[118](#pauschalverrechnung)) ist der Zustand der Pauschalzeile für die
+Wird nun ein Klient [Pauschal abgerechnet](/HONNext/Pauschalverrechnung/) ist der Zustand der Pauschalzeile für die
 Ermittlung der offenen Leistungen Statistik ausschlaggebend.
 
 Ausgangssituation: Mit Klient Nr. 146 ist eine monatliche Pauschale über
@@ -111,4 +109,4 @@ da Sie bereits ausgeglichen und abgerechnet wurde.
 
 ## Transferstunden Statistik
 
-Vgl. Kapitel 5.2, Seite [54](#transferstunden-statistik)
+Siehe [Transferstunden Statistik](/HONNext/Stammdaten%20Mitarbeiter/#transferstunden-statistik)

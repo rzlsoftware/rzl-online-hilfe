@@ -61,26 +61,22 @@ ausgewählt werden.
 
 ![](<img/image403.png>)
 
-*Und – Verknüpfung*
-
+**Und – Verknüpfung**  
 Mit dem logischen Und wird geprüft ob mehrere Bedingungen erfüllt sind.
 
-*Oder – Verknüpfung*
-
+**Oder – Verknüpfung**  
 Muss nur eine von mehreren Bedingungen erfüllt sein verwendet man die
 Oder Verknüpfung
 
-*Nicht Und – Verknüpfung*
-
+**Nicht Und – Verknüpfung**  
 Eine oder mehrere Bedingungen, welche durch UND verknüpft sind, sollen
 ausgeschlossen werden.
 
-*Nicht Oder – Verknüpfung*
-
+**Nicht Oder – Verknüpfung**  
 Eine oder mehrere Bedingungen, welche durch ODER verknüpft sind, sollen
 ausgeschlossen werden.
 
-Über das Plus-Symbol können dem Filter noch weitere Bedingungen
+Über das **Plus-Symbol** können dem Filter noch weitere Bedingungen
 hinzugefügt werden. Im unten angeführten Beispiel filtert der angelegte
 Expertenfilter alle Zeilen der Tätigkeit eins bis zum 31.12.2021
 

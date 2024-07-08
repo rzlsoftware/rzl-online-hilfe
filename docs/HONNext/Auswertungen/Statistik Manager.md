@@ -266,8 +266,7 @@ wieder Löschen oder die Formel erneut aufrufen.
 
 Sollte die erstellte Statistik immer wieder aufrufbar sein, können Sie
 über *Layout Speichern* oder über *Layout Speichern unter* (7) die
-Statistik abspeichern (vgl. Kapitel 19.13, Seite
-[180](#speicherbare-layouts)).
+Statistik abspeichern (vgl. [Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts)).
 
 ### Prozentspalten einfügen
 
@@ -344,9 +343,7 @@ Folgende Prozent Spalten stehen zur Verfügung:
 Ihnen ein Manager zum selbstständigen erzeugen und gestalten von
 Leistungsstatistiken zur Verfügung.
 
-Der Statistik Manger Leistungen ist in der Bedienung ident wie der
-Statistik Manager Umsatz (vgl. 19.4, Seite
-[164](#statistik-manager-umsatz)). Nur können hier alle erfassten
+Der Statistik Manger Leistungen ist in der Bedienung ident wie der [Statistik Manager Umsatz](/HONNext/Auswertungen/Statistik%20Manager/#statistik-manager-umsatz). Nur können hier alle erfassten
 Leistungen ausgewertet werden, offen sowie verrechnet.
 
 ### Bedeutung der Felder
@@ -410,8 +407,7 @@ Tätigkeiten nach Betrag).
     Unternehmensbereich.
 
 Weiterführende Informationen zur Bedienung des Statistik Manager
-Leistungen finden Sie im Kapitel 19.4.2, Seite
-[166](#bedienung-des-statistik-managers).
+Leistungen finden Sie unter [Bedienung Statistik Manager](/HONNext/Auswertungen/Statistik%20Manager/#bedienung-des-statistik-managers)
 
 !!! warning "Hinweis"
     Im Statistik Manager Leistungen werden alle Zeilen, offen sowie

@@ -70,7 +70,7 @@ Beispiel der Bezeichnung: Honorarnote 0001/2021
 
 
 
-**Zustellvertreter (Kapitel 6)**
+**Zustellvertreter**
 
 | Formel                                   | Beschreibung                                        |
 | ---------------------------------------- | --------------------------------------------------- |
