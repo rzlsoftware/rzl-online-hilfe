@@ -113,7 +113,7 @@ dargestellt.
 
 **Projektzeitraum in Note**
 
-Die Option Projektz*eitraum in Note* ist initial bei allen
+Die Option *Projektzeitraum in Note* ist initial bei allen
 verrechenbaren Tätigkeiten aktiv und gilt generationsübergreifend. Wird
 die Option deaktiviert, wird der Projektzeitraum nicht auf der Note
 angedruckt.
@@ -132,8 +132,7 @@ angedruckt, sondern zu einer anderen Tätigkeit der gleichen
 Verrechnungsgruppe dazu addiert.
 
 !!! warning "Hinweis"
-    Bitte beachten Sie auch die definierten Grundeinstellungen (Kapitel 3.1,
-    Seite 33).
+    Bitte beachten Sie auch die definierten [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen).
 
 **Projektzeitraumeingabe verpflichtend**
 
@@ -154,7 +153,7 @@ Leistungserfasser verpflichtend einen Text eintragen.
 
 Die Tätigkeiten müssen einer Verrechnungsgruppe **(3)** zugeordnet
 werden. Weitere Informationen zu Verrechnungsgruppen finden Sie im
-Kapitel 2.1 ab Seite 12 (verrechnungsgruppen) ff.
+Kapitel [Verrechnungsgruppen](/HONNext/Stammdaten%20HON%20Next/Verrechnungsgruppen).
 
 **Verrechnungsart**
 
@@ -193,8 +192,7 @@ Leistungserfassung nur die Stunden erfasst werden, die Eingabe der
 Einheiten ist optional. Es werden initial die angefallenen Stunden
 verrechnet. Während der Notenerstellung kann die Verrechnung jedoch nach
 Stunden oder Einheiten erfolgen, sofern beides vom Mitarbeiter erfasst
-wurde (vgl. Kapitel 11.4.6, Seite
-[92](#verrechnung-nach-stunden-oder-einheiten)).
+wurde (vgl. [Verrechnung nach Stunden oder Einheiten](/HONNext/Notenerstellung/Notenerstellung/#verrechnung-nach-stunden-oder-einheiten))
 
 !!! info "Tipp"
     Bei den Tarifschemata soll eine Tätigkeit mit der Verrechnungsart
@@ -233,7 +231,7 @@ auf die Kostenstellen aufgeteilt.
 
 !!! warning "Hinweis"
     Bei der Kontierung der Kostenstellen wird nach Folgender Reihenfolge
-    vorgegangen. Ist in den Klientenstammdaten (Kapitel 6, Seite 47) eine
+    vorgegangen. Ist in den [Klientenstammdaten](/HONNext/Stammdaten%20Klienten) eine
     Kostenstelle hinterlegt, wird diese immer vorrangig zur Kontierung
     herangezogen. Anschließend kommen die abweichenden Kostenstellen der
     Tätigkeiten zur Anwendung und zum Schluss wird geprüft, ob bei den

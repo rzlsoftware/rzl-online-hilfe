@@ -43,7 +43,7 @@ die Leistungen automatisch freigeben zu lassen.
 !!! info "Tipp"
     Bei der Einstellung *Arbeitszeit aus den Leistungen entnehmen* ist es
     empfehlenswert in den Stammdaten der Tätigkeiten die *Uhrzeiteingabe
-    verpflichtend* zu machen (Kapitel 2.2, Seite [14](#tätigkeiten)).
+    verpflichtend* zu machen (siehe [Tätigkeiten](/HONNext/Stammdaten%20HON%20Next/Tätigkeiten)).
 
 -   *Keine Arbeitszeitaufzeichnung*
 
@@ -75,11 +75,10 @@ die Leistungen automatisch freigeben zu lassen.
 
 Änderungen an den Arbeitszeiten können nur direkt in der
 Honorarverrechnung über die Mitarbeiterübersicht durchgeführt werden
-(vgl. Kapitel 9, Seite [69](#mitarbeiterübersicht)).
+(vgl. [Mitarbeiterübersicht](/HONNext/Mitarbeiterübersicht)).
 
 !!! warning "Hinweis"
-    Bei der Digitalen Stempeluhr, ist der Import von Arbeitszeiten nicht
-    möglich (Kapitel 9.3, Seite [74](#import-arbeitszeiten-und-leistungen)).
+    Bei der Digitalen Stempeluhr, ist der Import von Arbeitszeiten [Import von Arbeitszeiten](/HONNext/Mitarbeiterübersicht/Import%20Arbeitszeiten%20und%20Leistungen) nicht möglich.
 
 Ansicht in der Leistungserfassung vom
 Mitarbeiter:![](<img/image93.png>)

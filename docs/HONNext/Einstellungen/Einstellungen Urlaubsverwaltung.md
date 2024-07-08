@@ -8,14 +8,14 @@ die Eingabe halber Urlaubstage möglich ist oder nur ganztätige Urlaube
 erlaubt sind.
 
 !!! warning "Hinweis"
-    Wird die Verwaltungsart des Urlaubs geändert ist zwingend eine neue
+    Wird die Verwaltungsart des Urlaubs geändert, ist zwingend eine neue
     Generation anzulegen.
 
 
 ![](<img/image94.png>)
 
 Bei der Verwaltung in Stunden und in Tagen ist die Urlaubstätigkeit wie
-folgt anzulegen (vgl. Kapitel 2.2.1, Seite [15](#_Ref143773736)):
+folgt anzulegen (vgl. [Tätigkeit anlegen](/HONNext/Stammdaten%20HON%20Next/Tätigkeiten/#tatigkeiten-anlegen))
 
 
 ![](<img/image95.png>)

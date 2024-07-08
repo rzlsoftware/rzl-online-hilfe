@@ -44,11 +44,9 @@ abweichende Kostenstellen hinterlegt werden
 Weiters ist es möglich, der Verrechnungsgruppe einen abweichenden
 Rechnungssteller zuzuordnen. Wird hier eine abweichende Eingabe
 getroffen, werden bei der Notenerstellung nicht die Stammdaten des dem
-Klienten zugeordneten Unternehmensbereich (Kapitel 4, Seite
-50 (unternehmensbereiche)) gewählt, sondern jene des abweichenden
+Klienten zugeordneten Unternehmensbereich [Unternehmensbereiche](/HONNext/Unternehmensbereiche) gewählt, sondern jene des abweichenden
 Rechnungsstellers. Bei der Notenerstellung erhalten Sie pro Klient pro
-Rechnungssteller einen Notenvorschlag (Kapitel 11.1, Seite
-83 (notenvorschläge)).
+Rechnungssteller einen Notenvorschlag [Notenvorschläge](/HONNext/Notenerstellung/Notenvorschläge).
 
 Über das Feld *Verrechnungsart* kann definiert werden, ob nur die Summe
 der Verrechnungsgruppe auf der Note abgebildet wird oder die Summen je

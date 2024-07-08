@@ -82,8 +82,7 @@ deaktiviert:
 **Erfassungsklienten getrennt ausweisen**
 
 Mit der Option *Erfassungsklienten getrennt ausweisen*, werden die
-Erfassungsklienten auf der Note (Kapitel 7, Seite
-[61](#verrechnungs-erfassungsklient)) mit dem Klientennamen extra
+[Erfassungsklienten](/HONNext/Verrechnungs%20Erfassungsklient/Allgemeines) auf der Note mit dem Klientennamen extra
 ausgewiesen. Diese Einstellung wird beim Erstellen der Note gespeichert
 und kann für die erstellte Note nicht mehr verändert werden.
 
@@ -114,8 +113,8 @@ sofort bei Fertigstellung finalisieren wollen.
 Betrag vorreihen**
 
 Die Optionen *Betrag bei Verrechnungsgruppenwechsel drucken* und
-*Tätigkeiten ohne Betrag vorreihen* beziehen sich auf *Tätigkeiten ohne
-Betrag in Note* (Kapitel 2.2, Seite [14](#tätigkeiten)).
+*Tätigkeiten ohne Betrag vorreihen* beziehen sich auf *[Tätigkeiten](/HONNext/Stammdaten%20HON%20Next/Tätigkeiten) ohne
+Betrag in Note*.
 
 Die Option *Betrag bei Verrechnungsgruppenwechsel drucken* bewirkt, dass
 wenn die Note nicht nach Verrechnungsgruppen gegliedert ist und
@@ -263,7 +262,7 @@ Modul Belegverarbeitung lizenziert haben.
 
 !!! warning "Hinweis"
     Finalisierte Noten können nur unter gewissen Umständen wieder verändert
-    werden (siehe Kapitel 15.9, Seite [145](#note-zurücksetzen)).
+    werden (siehe [Note zurücksetzen](/HONNext/Notenübersicht/Notenübersicht/#note-zurucksetzen)).
 
 **Buchungstext**
 
@@ -323,8 +322,7 @@ Werte die Platzhalter bzw. ihr gewählter Text liefert.
     Klientennummer 500 entspricht der Debitoren Kontonummer 20500
 
 !!! warning "Hinweis"
-    Den Vorschlag der Debitorennummer ist in den Klientenstammdaten (Kapitel
-    6.3, Seite [60](buchhaltung-1)) ersichtlich.
+    Den Vorschlag der Debitorennummer ist in den Klientenstammdaten (siehe [Buchhaltung](/HONNext/Stammdaten%20Klienten/#buchhaltung)) ersichtlich.
 
 ### Verteilung der Zu- und Abschläge
 

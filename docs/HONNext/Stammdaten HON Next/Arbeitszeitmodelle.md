@@ -43,7 +43,7 @@ Arbeitszeitmodelle auszuwählen und zu hinterlegen. Wenn Sie auf
 
 !!! warning "Hinweis"
     Wenn sich die Normalarbeitszeit eines Mitarbeiters ändert, so ist eine
-    neue Mitarbeiter-Generation anzulegen (siehe Kapitel 1.3, Seite 7 ff).
+    neue Mitarbeiter-Generation anzulegen (siehe [Generationen](/HONNext/Allgemeine%20Bedienung/Allgemeine%20Bedienung/#generationen)).
     Es ist danach ein anderes oder ein neues Arbeitszeitmodell zuzuordnen.
 
 ### Arbeitszeitmodell anlegen

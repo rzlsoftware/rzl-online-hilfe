@@ -1,5 +1,5 @@
 
-# Mitarbeiterübersicht
+# Allgemeines
 
 Die Mitarbeiterübersicht soll Ihnen einen Überblick über die
 Leistungserfassung Ihrer Mitarbeiter geben. Anhand dieser Übersicht
