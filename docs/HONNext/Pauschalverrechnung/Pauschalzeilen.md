@@ -8,7 +8,7 @@ manuell und automatisch generierten Pauschalzeilen.
 
 Die Ansicht zeigt Ihnen alle manuell und automatisch generierten
 Pauschalzeilen und kann gruppiert so wie gefiltert werden. Auch hier
-haben Sie die Möglichkeit sich Layouts anzulegen (19.11, Seite 153).
+haben Sie die Möglichkeit sich Layouts anzulegen ([Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts)).
 
 Bei den Layouts steht Ihnen das vordefinierte RZL Layout *Überfällige
 Pauschalzeilen* zur Verfügung.
@@ -29,8 +29,7 @@ die Verrechnungsgruppe, welche pauschal abgerechnet werden soll, sowie
 den Projektzeitraum und den Betrag. Optional kann auch ein Text
 eingetragen werden.
 
-Für den automatischen Pauschalausgleich siehe *Kapitel 14.6.3
-Automatischer Pauschalausgleich.*
+Für den automatischen Pauschalausgleich siehe [Automatischer Pauschalausgleich](/HONNext/Pauschalverrechnung/Pauschalausgleich/#automatischer-pauschalausgleich).
 
 !!! warning "Hinweis"
     Solang eine Pauschalzeile nicht abgerechnet oder ausgeglichen wurde,

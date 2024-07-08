@@ -50,7 +50,7 @@ ergibt.
 ![](<img/image303.png>)
 
 Die Zeilen können Sie gruppieren und/oder filtern. Das Layout der
-Statistik können Sie speichern (siehe Kapitel 19.3 und 19.13).
+Statistik können Sie speichern (siehe [Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts)).
 
 !!! info "Tipp"
     Bei den Layouts steht Ihnen das RZL Layout *Klienten mit aktiver

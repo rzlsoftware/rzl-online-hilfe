@@ -6,8 +6,8 @@
 
 Die Gegenrechnung/der Ausgleich der Pauschale mit den tatsächlich
 erfassten Leistungen der Mitarbeiter erfolgt über *Pauschalverrechnung /
-Pauschalzeilen* oder im Zuge des automatischen Pauschalausgleiches vgl.
-Kapitel 14.6.3, Seite [129](#automatischer-pauschalausgleich).
+Pauschalzeilen* oder im Zuge des
+ [automatischen Pauschalausgleiches](/HONNext/Pauschalverrechnung/Pauschalausgleich/#automatischer-pauschalausgleich).
 
 Zuerst wählt man die Pauschalzeile, welche ausgeglichen werden soll aus.
 Anschließend wählt man die Schaltfläche *Pauschale ausgleichen /
@@ -25,8 +25,7 @@ Erfassungszeilen, welche man ausgleichen möchte, anhaken.
     zur Pauschale aus.
 
 Das Programm ermittelt automatisch einen Zu-/Abschlag **(1)**. Die
-Verteilung der Zu/Abschläge ist von den Grundeinstellungen (*Kapitel
-3.1. Grundeinstellungen*) abhängig.
+Verteilung der Zu/Abschläge ist von den [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen) abhängig.
 
 Der Zu/Abschlag passt sich automatisch an, wenn eine Erfassungszeile
 zusätzlich angehakt oder ausgehakt wird.
@@ -65,8 +64,8 @@ Speichern der Note mitgespeichert.
 ### Pauschalausgleich während der Notenerstellung
 
 !!! warning "Hinweis"
-    Im Zuge der Anlage der Pauschalzeilen (Kapitel 14.1.1 und 14.2.1) kann
-    definiert werden, dass der Pauschalausgleich gleich im Zuge der
+    Im Zuge der Anlage der [Pauschalzeilen](/HONNext/Pauschalverrechnung/Pauschalzeilen/)
+    kann definiert werden, dass der Pauschalausgleich gleich im Zuge der
     Notenerstellung vom Programm automatisch vorgenommen wird.
 
 Der oben geschilderte Vorgang des Pauschalausgleiches ist auch direkt im
@@ -114,7 +113,7 @@ besteht die Option den automatischen Ausgleich zu aktivieren.
 
 Für den Automatischen Ausgleich sind zwei Felder zu hinterlegen.
 
-*Zeitpunkt*
+**Zeitpunkt**
 
 Hier ist zu definieren, wann die Pauschale automatisch ausgeglichen
 werden soll. Sie können zwischen folgenden Optionen wählen:
@@ -126,8 +125,7 @@ werden soll. Sie können zwischen folgenden Optionen wählen:
     Verrechnungsgruppe fallen sowie den gleichen Projektzeitraum wie die
     Pauschalzeile aufweisen und gleicht diese mit der Pauschalzeile aus.
     Der Ausgleich kann während der Notenerstellung bearbeitet werden
-    (14.6.2, Seite
-    [128](#pauschalausgleich-während-der-notenerstellung)).
+    ([Pauschalausgleich während der Notenerstellung](/HONNext/Pauschalverrechnung/Pauschalausgleich/#pauschalausgleich-wahrend-der-notenerstellung)).
 
 -   Datum
 
@@ -141,7 +139,7 @@ werden soll. Sie können zwischen folgenden Optionen wählen:
     Das Datum des automatischen Ausgleiches darf maximal drei Monate
     nach dem Datum der Pauschale liegen.
 
-*Verteilungsart*
+**Verteilungsart**
 
 Hier ist einzustellen, ob die Zu/Abschläge die durch den Ausgleich der
 Pauschale entstehen mit/ohne Mitarbeiterbezug oder manuell Verteilt
@@ -265,6 +263,6 @@ Die Erfassungszeilen stehen für einen erneuten Pauschalausgleich wieder
 zur Verfügung.
 
 !!! info "Hinweis"
-    Wurde für die Pauschalzeile eine Schlussnote (Kapitel 14.7) erstellt, kann der Pauschalausgleich nicht mehr
+    Wurde für die Pauschalzeile eine [Schlussnote](/HONNext/Pauschalverrechnung/Schlussnote) erstellt, kann der Pauschalausgleich nicht mehr
     bearbeitet werden, sondern nur noch in einer Art Lesezugriff aufgerufen
     werden.

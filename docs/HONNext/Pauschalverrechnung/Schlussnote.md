@@ -26,7 +26,7 @@ soll.
 !!! info "Tipp"
     Durch Gruppieren und/oder Filtern der Ansicht der Pauschalzeilen können
     Sie schnell und einfach alle Zeilen des betroffenen Klienten selektiere
-    (vgl. Kapitel 19.3, Seite [161](#umsatzstatistik-allgemein)).
+    (vgl. [Umsatzstatistik Allgemein](/HONNext/Auswertungen/Umsatzstatistik%20Allgemein)).
 
 
 ![](<img/image295.png>)
@@ -84,7 +84,6 @@ einblenden lassen, um zu sehen, bei welchen Noten es sich um
 Schlussnoten handelt.
 
 !!! warning "Hinweis"
-    Wurde für die Pauschalzeile eine Schlussnote (Kapitel 14.7, Seite
-    [133](#schlussnote)) erstellt, kann der Pauschalausgleich nicht mehr
+    Wurde für die Pauschalzeile eine [Schlussnote](/HONNext/Pauschalverrechnung/Schlussnote) erstellt, kann der Pauschalausgleich nicht mehr
     bearbeitet werden, sondern nur über *Pauschlausgleich anzeigen*
     aufgerufen werden.

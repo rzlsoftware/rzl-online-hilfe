@@ -25,19 +25,24 @@ Pauschalzeile **(1)** angelegt werden.
 
 **Daten der Pauschalzeile**
 
-Klient Hier wird der Klient hinterlegt.
+**Klient**  
+Hier wird der Klient hinterlegt.
 
-Verrechnungsgruppe Hier wird die Verrechnungsgruppe hinterlegt.
+**Verrechnungsgruppe**  
+Hier wird die Verrechnungsgruppe hinterlegt.
 
-Häufigkeit Hier definieren Sie, wie oft pauschal abgerechnet wird.  
+**Häufigkeit**  
+Hier definieren Sie, wie oft pauschal abgerechnet wird.  
 Bsp. 1 = monatlich, 3 = quartalsweise, 6 = halbjährlich und 12 =
 jährlich
 
-Datum der nächsten Zeile Hier definieren Sie, mit welchem Datum
+**Datum der nächsten Zeile**  
+Hier definieren Sie, mit welchem Datum
 (Leistungsdatum) die nächste Pauschalzeile generiert werden soll.  
 Bsp. immer mit ersten des Monats
 
-Projektzeitraum (+/- Monate) Hinterlegen Sie hier, für welchen
+**Projektzeitraum (+/- Monate)**  
+Hinterlegen Sie hier, für welchen
 Projektzeitraum die Pauschale abgerechnet werden soll. Mit einem
 negativen Vorzeichen kann der Projektzeitraum nach hinten verschoben
 werden. Ohne Vorzeichen kann der Projektzeitraum nach vorne verlagert
@@ -48,25 +53,28 @@ Somit wird mit 01. Jänner eine Zeile für den Projektzeitraum Dezember
 generiert. Und weiterführend mit 01. Februar eine Zeile für den
 Projektzeitraum Jänner.
 
-Betrag Tragen Sie die Höhe der Pauschale ein.
+**Betrag**  
+Tragen Sie die Höhe der Pauschale ein.
 
-Aktiv Wird für einen Klienten die Pauschalverrechnung deaktiviert,
+**Aktiv**  
+Wird für einen Klienten die Pauschalverrechnung deaktiviert,
 kann die Option *Aktiv* deaktiviert werden.  
 Es werden keine Pauschalzeilen mehr generiert.
 
-Text Pauschalzeile Grundsätzlich erhält die Pauschalzeile den Text,
-welcher bei der Verrechnungsgruppe hinterlegt wurde (vgl. Kapitel 14.3
-Seite [124](#bezeichnung-der-pauschale)) über das Feld *Text
+**Text Pauschalzeile**  
+Grundsätzlich erhält die Pauschalzeile den Text,
+welcher bei der Verrechnungsgruppe hinterlegt wurde (vgl. [Bezeichnung der Pauschale](/HONNext/Pauschalverrechnung/Bezeichnung%20der%20Pauschale)) über das Feld *Text
 Pauschalzeile* kann hier etwas abweichendes eingetragen werden. Soll
 der abweichende Text auch auf der Note angedruckt werden, ist der Text
 mit der rechten Maustaste zu übernehmen. Der zu übernehmende Text ist
-gelb hinterlegt **(2).**
+gelb hinterlegt **(2)**.
 
-Anmerkung Dieses Feld steht Ihnen für interne Bemerkungen zur
+**Anmerkung**  
+Dieses Feld steht Ihnen für interne Bemerkungen zur
 Verfügung.
 
-Automatischen Ausgleich  
-Aktivieren: Kann optional aktiviert werden. Siehe
+**Automatischen Ausgleich**    
+Aktivieren: Kann optional aktiviert werden. Siehe [Automatischer Pauschalausgleich](/HONNext/Pauschalverrechnung/Pauschalausgleich/#automatischer-pauschalausgleich)
 
 
 Nachdem die Daten der wiederkehrenden Pauschale eingegeben und

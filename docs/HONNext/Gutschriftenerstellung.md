@@ -5,8 +5,7 @@ finalisierten Noten automatisch eine Gesamtgutschrift der Note zu
 generieren.
 
 Wählen Sie hierfür den Punkt *Honorarnoten – Notenübersicht*. In der
-Notenübersicht finden Sie alle erstellten Noten (siehe Kapitel 15, Seite
-[140]).
+[Notenübersicht](/HONNext/Notenübersicht/) finden Sie alle erstellten Noten.
 
 Um eine Gesamtgutschrift zu erstellen, wählen Sie die betroffene Note
 aus. Nun können Sie über das Symbol im Ribbon oder mithilfe der rechten
@@ -41,7 +40,7 @@ adaptiert werden.
     finalisiert wurde, über die Funktion *Note löschen* gelöscht werden.
 
 Nachdem die Gutschrift finalisiert wurde, kann ein Beleg für die
-Belegverarbeitung erzeugt werden (Kapitel 3.1 Grundeinstellungen).
+Belegverarbeitung erzeugt werden (Kapitel [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen)).
 Ebenfalls stehen Ihnen die Funktionen *Note drucken*, *Beleg anzeigen*
 und *Journal anzeigen* zur Verfügung.
 
