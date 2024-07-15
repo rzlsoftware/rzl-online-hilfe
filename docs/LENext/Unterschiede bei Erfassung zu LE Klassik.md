@@ -2,7 +2,7 @@
 
 ## Ganztätiger Zeitausgleich
 
-Der ganztägige Zeitausgleich wird in der LE Klassik nicht eingetragen.
+Der [ganztägige Zeitausgleich](/LENext/Leistungserfassung/Ganztägiger%20Zeitausgleich) wird in der LE Klassik nicht eingetragen.
 Im Arbeitszeitkalender wird der Zeitausgleich dargestellt. Jedoch ist
 für den Mitarbeiter in der Honorarverrechnung hieraus nicht ersichtlich,
 ob der Mitarbeiter mit seiner Eingabe der Leistungen schon fertig ist
@@ -12,8 +12,6 @@ kennzeichnen.
 
 ![](<img/image108.png>)
 
-Die Vorgehensweise zur Eingabe eines ganztätigen Zeitausgleiches finden
-Sie im Kapitel 2.3 Seite [10](#ganztägiger-zeitausgleich) beschrieben.
 
 ## Leistungen außerhalb der Arbeitszeit
 

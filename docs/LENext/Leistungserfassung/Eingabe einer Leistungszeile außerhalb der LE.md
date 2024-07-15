@@ -22,7 +22,7 @@ Leistungszeile.
 
 Wenn ein neues KIS Telefonprotokoll oder ein neuer KIS Postausgang
 gespeichert wird, öffnet sich, wenn beim Mitarbeiter aktiv, die
-Leistungserfassung (vgl. Kapitel 3, Seite [29](#einstellungen)). Dabei
+Leistungserfassung (vgl. [Einstellungen](/LENext/Einstellungen/Allgemeines)). Dabei
 vorausgefüllt ist das Datum, Beginn und Ende der Leistung, Dauer der
 Leistung, der Klient und falls vorhanden der Projektzeitraum.
 

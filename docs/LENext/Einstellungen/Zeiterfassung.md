@@ -13,15 +13,13 @@ werden sollen.
 
     Ist dieses Feld aktiv, werden die Aktivitäten übernommen und können
     zu einem späteren Zeitpunkt direkt in der Leistungserfassung
-    eingetragen werden (Kapitel 3.3.2, Seite
-    [31](#programmaktivitäten-zuordnen)).
+    eingetragen werden (siehe [Programmaktivitäten zuordnen](/LENext/Einstellungen/Zeiterfassung/#programmaktivitaten-zuordnen)).
 
 -   *Leistungen erfassen*
 
     Ist dieses Feld aktiv, öffnet sich bei der Erfassung von
     Telefonprotokollen und Postausgängen direkt im RZL KIS ein extra
-    Fenster zum Eingeben der Leistung (vgl. Kapitel 2.6.2, Seite
-    [17](#mittels-telefonprotokollpostausgang)).
+    Fenster zum Eingeben der Leistung (vgl. [Telefonprotokoll/Postausgang](/LENext/Leistungserfassung/Eingabe%20einer%20Leistungszeile%20außerhalb%20der%20LE/#mittels-telefonprotokollpostausgang)).
 
 !!! warning "Hinweis"
     Wird bei der Erfassung der Leistung im KIS auf *Abbrechen* geklickt,

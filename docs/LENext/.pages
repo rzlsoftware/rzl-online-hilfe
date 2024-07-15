@@ -1,11 +1,11 @@
 nav:
-    - LE Next: index.md
-    - Allgemeine Bedienung
+    - Leistungserfassung Next: index.md
+    - Allgemeine Bedienung.md
     - Leistungserfassung
     - Einstellungen
-    - Arbeitszeitkalender
-    - Urlaubskartei
-    - Sonstige Funktionen
-    - Unterschiede bei Erfassung zu LE Klassik
-    - Hilfreiche Shortcuts
+    - Arbeitszeitkalender.md
+    - Urlaubskartei.md
+    - Sonstige Funktionen.md
+    - Unterschiede bei Erfassung zu LE Klassik.md
+    - Hilfreiche Shortcuts.md
     - ...

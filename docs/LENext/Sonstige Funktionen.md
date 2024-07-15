@@ -7,15 +7,10 @@ oder im Register *Leistungen* können die erfassten Leistungen oder
 Arbeitszeiten in folgenden Formaten exportiert werden:
 
 -   PDF
-
 -   XLS
-
 -   XLSX
-
 -   CSV
-
 -   TXT
-
 -   DOCX
 
 
