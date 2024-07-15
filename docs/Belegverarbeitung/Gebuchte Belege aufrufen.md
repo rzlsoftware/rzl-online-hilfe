@@ -32,9 +32,7 @@ Pro Spalte kann mit Klick auf das Filtersymbol nach den jeweiligen Daten
 gefiltert werden. Je nach Feld gibt es entweder Filtervorschläge oder
 eine Textsuche (Beginnt mit, enthält, …).
 
-![](img/image93.png)
-
-![](img/image94.png)
+![](img/image93.png)  ![](img/image94.png)
 
 
 ### Nach Spalten sortieren:

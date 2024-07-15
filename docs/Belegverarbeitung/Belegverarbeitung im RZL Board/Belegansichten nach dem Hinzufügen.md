@@ -82,13 +82,13 @@ Es öffnet sich dabei ein eigener Dialog mit folgenden Möglichkeiten:
 
 <!-- -->
 
--   Versenden
+**Versenden**
 
 Beleg per E-Mail versenden. Die bei diesem Klienten hinterlegten
 E-Mail-Adressen werden vorgeschlagen. Optional kann auch ein Dateiname
 auf Basis der Belegdatenfelder generiert werden.
 
--   Kopie des Belegs speichern
+**Kopie des Belegs speichern**
 
 Die Datei nochmals in einen bestimmten Ordner abspeichern. Dabei kann
 auf Basis der Belegdaten ein Dateiname generiert werden. Optional können
@@ -97,18 +97,18 @@ kann genutzt werden, um den Beleg mit Belegdaten in einer anderen
 Installation wieder zu importieren.  
 ![](img/image33.png)
 
--   Beleg in Dokument umwandeln
+**Beleg in Dokument umwandeln**
 
 Falls Sie das RZL KIS mit Dokumentenverwaltung nutzen, können Sie die
 Datei (wenn es sich nicht um einen Beleg handelt) in die
 Dokumentenablage ins KIS verschieben.
 
--   Im RZL PDF-Manager anzeigen
+**Im RZL PDF-Manager anzeigen**
 
 Der Beleg wird im RZL PDF-Manager geöffnet und kann dort
 weiterverarbeitet werden.
 
--   Beleg in Scanordner zurücksetzen
+**Beleg in Scanordner zurücksetzen**
 
 Der markierte Beleg wird in den ausgewählten Scanordner zurückgesetzt.
 

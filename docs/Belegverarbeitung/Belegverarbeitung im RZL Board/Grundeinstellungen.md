@@ -15,31 +15,30 @@ Profil pro Mitarbeiter hinterlegen.
 
 ![](img/image5.png)
 
-*Name:*  
+- *Name:*  
 Sie können hier einen Namen für jeden Scanordner vergeben,
 der dann im Bereich *Belege hinzufügen / Belege Scanordner*
 angezeigt wird.
 
 
-
-*Ordner für Mitarbeiter:*  
+- *Ordner für Mitarbeiter:*  
 Scanordner können Sie einem Mitarbeiter
     zuordnen, somit sieht der jeweilige Mitarbeiter nur seine eigenen
     und etwaige öffentliche (kanzleiweite) Scanordner.
 
-*Anmerkung:*  
+- *Anmerkung:*  
 Notiz zu diesem Scanordner.
 
-*Ordnerpfad:*  
+- *Ordnerpfad:*  
 Im Ordnerpfad wird der am Laufwerk angelegte
     Scanordner hinterlegt.
 
-*Dokumente / Belege importieren:*  
+- *Dokumente / Belege importieren:*  
 Je nach Aktivierung steht
     dieser Scanordner in der RZL KIS-Dokumentenverwaltung bzw. in der
     RZL Board Belegverarbeitung zur Verfügung.
 
-*Texterkennung (OCR) automatisch im Hintergrund ausführen:*  
+- *Texterkennung (OCR) automatisch im Hintergrund ausführen:*  
 Diese Option steht nur dann zur Verfügung, wenn in den Einstellungen zur
     Texterkennung n*ur bei ausgewählten Scanordnern* ausgewählt wurde.
     Grundsätzlich empfehlen wir, Texterkennung im Hintergrund generell
@@ -47,7 +46,7 @@ Diese Option steht nur dann zur Verfügung, wenn in den Einstellungen zur
     vollautomatisch im Hintergrund ausgeführt, sobald neue Belege in
     einem Scanordner vorhanden sind und das RZL Board gestartet ist.
 
-*Belege für schnelleren Zugriff lokal kopieren:*  
+- *Belege für schnelleren Zugriff lokal kopieren:*  
 Bei Aktivierung
     dieser Option werden die Belege für die Bearbeitung lokal
     zwischengespeichert und die Zugriffe auf den Scan-Ordner auf ein
@@ -55,17 +54,17 @@ Bei Aktivierung
     instabilen Verbindung zum Scan-Ordner zu empfehlen.
 
 
-*Belegschablonen*  
+**Belegschablonen**  
 Die bisher angelegten Belegschablonen werden in einer Liste angezeigt.
 Sie können hier Schablonen löschen oder auch umbenennen. Außerdem finden
 Sie hier Informationen, wann die Schablone von wem erstellt wurde und
 wann sie von wem zuletzt geändert wurde. Schablonen können auch
 exportiert und importiert werden.
 
-*Texterkennung (OCR)*  
+**Texterkennung (OCR)**  
 Siehe Kapitel *Einstellungen zur OCR-Erkennung bei gescannten Belegen*
 
-*Stempel*  
+**Stempel**  
 In diesem Menü können Sie den Buchungsstempel für *Gebuchte
 Belege* konfigurieren. Sie können festlegen, welche Felder am Stempel
 *Gebucht* in welcher Reihenfolge angezeigt werden sollen.  
@@ -126,7 +125,7 @@ Menüleiste entscheiden, ob der Buchungsstempel sichtbar angezeigt wird.
 Beim Export eines Beleges als PDF wird der Stempel und der Kommentar
 nicht exportiert und angezeigt.
 
--   Grundeinstellungen
+**Grundeinstellungen**
 
 ![](img/image64.png)
 

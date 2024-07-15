@@ -265,7 +265,7 @@ Belegsynchronisation.
 
 ### Status Belegsynchronisation
 
-![](img/image74.png)
+![](img/image74.png){width="300"}
 
 Im RZL Board finden Sie ganz rechts ein kleines Symbol mit dem Status
 der Belegsynchronisation. Ein grünes Symbol zeigt an, dass die letzte

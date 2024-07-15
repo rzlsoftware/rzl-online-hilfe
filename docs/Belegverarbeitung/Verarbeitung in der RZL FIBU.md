@@ -91,17 +91,17 @@ Mit der rechten Maustaste finden Sie pro Zeile folgende Optionen:
   
 ![](img/image80.png)
 
--   Anzeige Beleg (F2)
+-   **Anzeige Beleg (F2)**
 
 Belegfenster wird eingeblendet. Je nach markierter Buchungszeile wird
 der dazugehörige Beleg angezeigt. Dieses Fenster kann geöffnet bleiben.
 
--   Splitbuchung bearbeiten (F7)
+-   **Splitbuchung bearbeiten (F7)**
 
 Wenn über die Belegdaten mittels Steuerzeilen schon eine Splitbuchung
 vorgeschlagen wird, kann diese bearbeitet und verändert werden.
 
--   Auf Splitbuchung ändern (F8)
+-   **Auf Splitbuchung ändern (F8)**
 
 Eine Gegenbuchung kann in ein Splitbuchung umgewandelt werden. Wenn Sie
 eine Buchungszeile mit Hilfe einer Splitbuchung aufteilen, wird die
@@ -112,22 +112,22 @@ mit einem Sternchen (**1**) gekennzeichnet.
 
 
 
--   Durchgeführte Änderung rückgängig machen (F9)
+-   **Durchgeführte Änderung rückgängig machen (F9)**
 
 Eine Aufteilung in eine Splitbuchung kann wieder rückgängig gemacht
 werden.
 
--   Verbuchungsregel Personenkonten ändern/anlegen
+-   **Verbuchungsregel Personenkonten ändern/anlegen**
 
 Auf einem Personenkonto kann eine einfache Verbuchungsregel für dieses
 Konto hinterlegt werden. Wenn dann das Personenkonto gefunden wird, wird
 die Buchung aufgrund der Verbuchungsregel vorgeschlagen.
 
--   Verbuchungsregel Gegenbuchen ändern/anlegen
+-   **Verbuchungsregel Gegenbuchen ändern/anlegen**
 
 Siehe Kapitel *Regeln für Steuerzeilen (Gegenbuchungen) anlegen*
 
--   Zeilen bis zum Ende deaktivieren (F12)
+-   **Zeilen bis zum Ende deaktivieren (F12)**
 
 Buchungszeilen ab der aktuellen Zeile können für die Verbuchung
 deaktiviert werden. Diese Belege bleiben somit als ungebucht erhalten
@@ -161,7 +161,7 @@ aufgerufen.
     Belegfenster an die rechte Seite. Somit haben Sie jederzeit alles im
     Blick.
 
-![](img/image82.png)
+![](img/image82a.png)
 
 
 Wenn Sie Belege buchen möchten, aktivieren Sie bitte das Feld
@@ -210,29 +210,29 @@ Buchungszeile eingetragen (mit der Funktion automatisch im Vordialog).
     Regel anzupassen. Klappen Sie dazu einfach die *Belegdaten* ganz rechts
     auf.
 
-#### Zusätzliche Funktionen im Belegfenster beim Buchen
+**Zusätzliche Funktionen im Belegfenster beim Buchen**
 
 ![](img/image84.png)
 
--   Liste aktualisieren
+-   **Liste aktualisieren**
 
 Die Beleg-Einträge in der Liste werden neu geladen.
 
--   Beleg löschen
+-   **Beleg löschen**
 
 Beleg wird aus der Ansicht der ungebuchten Belege in den Papierkorb
 verschoben
 
--   In Scanordner zurücksetzen
+-   **In Scanordner zurücksetzen**
 
 Beleg wird in den gewünschten Scanordner zurückgesetzt und aus den
 ungebuchten Belegen gelöscht.
 
--   Neuen Beleg importieren
+-   **Neuen Beleg importieren**
 
 Ein Link zum RZL Board um neue Belege hinzuzufügen.
 
--   Belegliste sortieren
+-   **Belegliste sortieren**
 
 Sie können durch Rechtsklick auf eine Spalte die Belegliste nach jeder
 beliebigen Spalte sortieren. Mit der Umschalt-Taste kann noch ein
@@ -240,7 +240,7 @@ zweites Feld zur Sortierung hinterlegt werden, wenn im ersten sortieren
 Feld Belege mit gleichem Wert vorhanden sind. Die Spalten können je nach
 Bedarf mit der rechten Maustaste ein- oder ausgeblendet werden.
 
--   Belegliste filtern
+-   **Belegliste filtern**
 
 Sie können jede Spalte mit dem blauen Filtersymbol in der Überschrift
 filtern.  
@@ -254,28 +254,28 @@ vorhandenen, ungebuchten Belege anzuzeigen (unabhängig von Datum und
 Belegkreis). Mit dem x-Symbol wird der Filter für den aktuellen
 Buchungsvorgang zur Gänze entfernt.
 
--   Belegdaten speichern
+-   **Belegdaten speichern**
 
 Werden Belegdaten verändert, können diese hier gespeichert werden.
 
--   Seiten bearbeiten
+-   **Seiten bearbeiten**
 
 Diese Funktion kann nicht nur in der Ansicht der ungebuchten Belege,
 sondern auch direkt beim Buchen in der Belegliste genutzt werden (z.B.
 um weitere Seiten hinzuzufügen).
 
--   Belege per Drag&Drop hinzufügen
+-   **Belege per Drag&Drop hinzufügen**
 
 Sie können bspw. Belegdateien aus dem Windows-Explorer per Drag&Drop in
 die Belegliste ziehen. Entweder direkt in die Liste der Belege oder in
 das extra dafür vorgesehene Feld (Ziehen Sie Belege hierher oder in die
 Belegliste um sie zur Belegverarbeitung hinzuzufügen.)
 
-#### Zusätzliche Buchungsfunktionen
+**Zusätzliche Buchungsfunktionen**
 
 **Im Textfeld einer Buchung:**
 
--   DMS-Beleg weiter Buchen (Umschalt + F8)
+-   **DMS-Beleg weiter Buchen (Umschalt + F8)**
 
 Mit dieser Funktion kann ein weiterer Buchungssatz zum selben Beleg
 erfasst werden. Die Funktion kann beliebig oft wiederholt werden. Der
@@ -283,19 +283,19 @@ letzte Buchungssatz muss dann ohne diese Funktion abgeschlossen
 werden, damit der Beleg in der Belegverarbeitung von der Liste der
 ungebuchten und die Liste der gebuchten Belege verschoben wird.
 
--   DMS-Verbindung aufheben (Umschalt + F7)
+-   **DMS-Verbindung aufheben (Umschalt + F7)**
 
 Der Buchungssatz wird abgeschlossen, ohne dass ein digitaler Beleg
 dieser Buchung angehängt wird.
 
 **In den Stammdaten eines Personenkontos:**
 
--   Kein Buchungsvorschlag
+-   **Kein Buchungsvorschlag**
 
 Wenn das Personenkonto gefunden wird, wird mit dieser Option nie ein
 Gegenkonto vorgeschlagen.
 
--   Verbuchungsregel
+-   **Verbuchungsregel**
 
 Wenn das Personenkonto gefunden wird, wird die Buchung aufgrund der
 Verbuchungsregel vorgeschlagen.
@@ -433,3 +433,10 @@ Detail* im Registerblatt *DMS*.
     zugeordnete Beleg wird von dieser Buchung gelöscht, bleibt aber als
     gebucht markiert und kann somit nicht einer anderen Buchung
     zugeordnet werden.
+
+## Belege im Bereich gebuchte Belege nachträglich entfernen und einen neuen Beleg zuordnen
+
+Wenn Sie die Buchungen mit Belegen in der FIBU bereits durchgeführt haben und den Beleg im Nachhinein von der Buchung entfernen möchten gehen Sie bitte folgendermaßen vor:   
+Wählen Sie das gewünschte Konto über *Aufruf / Konten* aus. Mit der rechten Maustaste auf die entsprechende Buchung klicken und *Aufruf Detail* oder die Tastenkombination *Umschalt F2*. Wählen Sie das Registerblatt **DMS** aus. Klicken Sie in der FIBU/EA auf den Eintrag *Beleg entfernen + ungebucht markieren*. Es öffnet sich in einem 2. Fenster die vorhandenen, ungebuchten Belege. Wählen Sie nun den gewünschten neuen Beleg aus, welchen Sie der Buchung anhängen möchten und klicken in der FIBU/EA auf den Eintrag *Beleg zuordnen + gebucht markieren*. Somit wird dieser Beleg bei dieser Buchung (und auch bei der oder den Gegen-buchungen) zugeordnet und im Modul Belege im RZL Board als gebucht markiert.
+
+![](img/image89a.png)
