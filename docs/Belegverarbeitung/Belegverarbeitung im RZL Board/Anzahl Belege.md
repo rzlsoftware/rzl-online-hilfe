@@ -1,4 +1,4 @@
-## Anzahl Belege anzeigen
+# Anzahl Belege anzeigen
 
 ![](img/image55.png)
 

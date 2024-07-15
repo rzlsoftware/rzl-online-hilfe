@@ -24,18 +24,20 @@ entsprechende Feld anzulegen.
 
 ![](img/image34.png)
 
-**1**
+
 
 Durch einen Doppelklick auf die Zeile in der Listenansicht wird der
 Beleg aufgerufen und im rechten Bereich werden die Ergebnisse der
 Belegdatenerkennung angezeigt.
 
-![](img/image35.png)Belegdaten-Felder
+### Belegdaten-Felder
+
+![](img/image35.png)
 
 Folgende Felder stehen derzeit zur Verfügung, um Daten auszulesen,
 Regeln anzulegen bzw. manuell Werte zu erfassen:
 
--   Allgemein
+-   **Allgemein**
 
     -   Klientenzuordnung
 
@@ -70,7 +72,7 @@ Regeln anzulegen bzw. manuell Werte zu erfassen:
 
     -   Kostenträger
 
--   Rechnungssteller
+-   **Rechnungssteller**
 
     -   Name/Anschrift
 
@@ -78,7 +80,7 @@ Regeln anzulegen bzw. manuell Werte zu erfassen:
 
     -   IBAN + BIC vom Rechnungssteller
 
--   Rechnungsempfänger
+-   **Rechnungsempfänger**
 
     -   Name/An­schrift
 
@@ -86,7 +88,7 @@ Regeln anzulegen bzw. manuell Werte zu erfassen:
 
     -   Kundennummer
 
--   Steuerzeilen (Gegenbuchungen) - diese Steuerzeilen dienen zur
+-   **Steuerzeilen (Gegenbuchungen)** - diese Steuerzeilen dienen zur
     Aufteilung des Beleges auf verschiedene Steuersätze.
 
     -   Steuer % /-fall
@@ -110,7 +112,7 @@ Regeln anzulegen bzw. manuell Werte zu erfassen:
     -   Buchungshinweis (kann genutzt werden, um in der FIBU dazu eine
         Regel Gegenbuchung anzulegen)
 
--   Sonstiges
+-   **Sonstiges**
 
     -   Belegeingangsdatum (Tagesdatum wird vorgeschlagen, kann
         abgeändert werden)
@@ -122,23 +124,23 @@ Regeln anzulegen bzw. manuell Werte zu erfassen:
 Bei jedem einzelnen Feld wird angezeigt, wie der Wert zustande
 gekommen ist. Folgende Möglichkeiten gibt es:
 
-![](img/image36.png) *QR Code
+![](img/image36.png){width="25"} *QR Code
 (Registrierkassa/BCD/Stuzza)*
 
-![](img/image37.png) *RZL Belegdatenerkennung*
+![](img/image37.png){width="25"} *RZL Belegdatenerkennung*
 
-![](img/image38.png) *Schablone
+![](img/image38.png){width="25"} *Schablone
 (benutzerdefinierte Regel)*
 
-![](img/image39.png) *Manuell eingegeben*
+![](img/image39.png){width="25"} *Manuell eingegeben*
 
-![](img/image40.png) *Automatisch berechnet*
+![](img/image40.png){width="25"} *Automatisch berechnet*
 (z.B. der Steuerbetrag, wenn *Gesamtnetto-* & *Gesamtbruttobetrag*
 ausgelesen wurden).
 
-![](img/image41.png) Importiert von einer XML-Datei
+![](img/image41.png){width="25"} Importiert von einer XML-Datei
 
-![](img/image42.png) Das Feld Name/Anschrift
+![](img/image42.png){width="25"} Das Feld Name/Anschrift
 wurde über die UID-Überprüfung bei FinanzOnline ausgelesen
 
 !!! warning "Hinweis"
@@ -149,13 +151,13 @@ wurde über die UID-Überprüfung bei FinanzOnline ausgelesen
 
 Die Symbole rechts neben den Feldern haben folgende Funktion:
 
--   *Wert übernehmen:* Mit dieser Funktion wird der markierte Wert für
-    den aktuellen Beleg einmalig übernommen und gespeichert (keine
-    Auswirkung auf zukünftige Belege)
+![](img/image43a.png){width="25"} *Wert übernehmen:*    
+Mit dieser Funktion wird der markierte Wert für
+den aktuellen Beleg einmalig übernommen und gespeichert (keine
+Auswirkung auf zukünftige Belege)
 
-![](img/image43.png) 
-*Regel anlegen:* Dieses Symbol
-steht zur Verfügung, um eine Regel für ein bestimmtes Feld anzulegen,
+![](img/image43.png){width="25"} *Regel anlegen:*    
+Dieses Symbol steht zur Verfügung, um eine Regel für ein bestimmtes Feld anzulegen,
 wenn die *RZL Belegdatenerkennung* den Wert nicht richtig auslesen
 konnte. Markieren Sie dazu den gewünschten Wert am Beleg und klicken
 Sie auf dieses Symbol. Vergeben Sie einen Namen für diese neue
@@ -168,8 +170,8 @@ möchten).
 Die für dieses Feld angelegte Regel wird bei diesem
 Rechnungsaussteller zukünftig immer verwendet.
 
-***Fixen Wert festlegen:*** Um eine leere Regel anzulegen (ohne
-markierten Wert am Beleg) halten Sie die *Umschalt*-Taste gedrückt und
+***Fixen Wert festlegen:***    
+Um eine leere Regel anzulegen (ohne markierten Wert am Beleg) halten Sie die *Umschalt*-Taste gedrückt und
 klicken erst dann auf dieses Symbol, um z.B. um einen **fixen Wert**
 bei einer Schablone zu hinterlegen. Damit dann ein fixer Wert
 hinterlegt werden kann muss rechts oben noch auf das Bleistiftsymbol
@@ -182,25 +184,21 @@ als Fixwert hinterlegt und wird nicht mittels einer Regel ausgelesen.
 Auch der Buchungstext würde dann entsprechend der Hinterlegung bei
 jeder Rechnung dieses Rechnungsausstellers vorgeschlagen werden.
 
-![](img/image45.png) *Regel bearbeiten:* Wenn
-für ein Feld bereits eine Regel bei der aktuellen Schablone hinterlegt
+![](img/image45.png) *Regel bearbeiten:*    
+Wenn für ein Feld bereits eine Regel bei der aktuellen Schablone hinterlegt
 ist, wird dieses Symbol angezeigt. Die bestehende Regel der
 verwendeten Schablone kann bearbeitet werden. Die verwendete Schablone
 wird in einem eigenen Feld angezeigt.
 
 #### Anlegen/Bearbeiten der Erkennungsregel – z.B. fehlende Fremdbelegnummer
 
-![](img/image46.png) Wenn Sie nun eine neue Regel
-für ein bestimmtes Feld über das Symbol
-![](img/image47.png) anlegen, haben Sie
+![](img/image46.png){width="350"}   
+Wenn Sie nun eine neue Regel für ein bestimmtes Feld über das Symbol
+![](img/image47.png){width="20"} anlegen, haben Sie
 verschiedenen Möglichkeiten, die Regel zu definieren bzw. zu optimieren.
-
-**4**
 
 Das Ziel einer jeden Regel ist, dass nur mehr ein Resultat (**2**)
 übrigbleibt.
-
-**1**
 
 Somit kann in Zukunft der Wert bei Rechnungen dieses Rechnungsstellers
 immer gefunden werden (vorausgesetzt die OCR/Texterkennung hat den Text
@@ -213,9 +211,6 @@ verschiedene Arten ausgelesen werden muss (z.B. deutsche und englische
 Rechnungen oder relativ zu *Rechnung* bzw. *Teilrechnung* oder
 *Gutschrift*).
 
-**3**
-
-**2**
 
 Jede Regel können Sie im Feld oberhalb von *auf Seite* benennen (**4**),
 um beim Resultat sehen zu können, welche Regel den Wert ausgelesen hat.
@@ -234,13 +229,6 @@ Position befindet.
 
 ![](img/image48.png)
 
-**5**
-
-**3**
-
-**4**
-
-**4**
 
 In diesem Fall kann entweder der Positionsrahmen „fixe Position“ so
 belassen werden oder ebenfalls auf die Funktion „relativ zu“ (**3**)
@@ -279,7 +267,7 @@ das Programm, wenn auf dem Beleg sowohl die UID-Nummer des
 Rechnungsausstellers als auch des Rechnungsempfängers angedruckt ist,
 die UID-Nummer des Rechnungsempfängers (Klienten) ausschließen.
 
--   auf Seite
+-   **auf Seite**
 
 Im Feld *auf Seite* ist in der Erkennungsregel für die Fremdbelegnummer
 1 eingetragen. Das bedeutet, dass die Fremdbelegnummer nur auf der
@@ -287,7 +275,7 @@ ersten Seite des Belegs gesucht wird, auch wenn der Beleg mehrere Seiten
 umfasst. Wenn der gesuchte Wert auf allen Seiten gesucht werden soll,
 muss das Feld leer sein.
 
--   Positionsrahmen:
+-   **Positionsrahmen:**
 
     -   kein Rahmen: Die Suche wird innerhalb des Belegs aufgrund eines
         Positionsrahmens nicht eingeschränkt. Die Erkennungsregel sucht
@@ -321,7 +309,7 @@ entscheidend, d.h. der Rahmen kann auch auf eine minimale Höhe
 reduziert werden, um auszuschließen, dass ein falscher Wert erkannt
 wird, wenn ober- oder unterhalb weitere Werte vorkommen.
 
--   Schnitt
+-   **Schnitt**
 
 Der Positionsrahmen fixe und relative Position öffnet ein zusätzliches
 Feld mit der Bezeichnung Schnitt. Sie können hier die Einstellung genau
@@ -336,7 +324,7 @@ einem Datum mit 4-stelliger Jahreszahl ein Datum mit 2-stelliger
 Jahreszahl machen (1.1.2022 = 1.1.20 = 1.1.2020) oder ein Betrag von
 12.000 Euro könnte zu einem Betrag von 2.000 Euro werden.
 
--   Format
+-   **Format**
 
 Die Möglichkeit des Formates unterscheidet sich pro Feld, in dem Sie
 eine Erkennungsregel erstellen (z.B. Ziffernfolge, Text einzeilig, Text
@@ -452,9 +440,6 @@ Erkennungsmerkmal zu hinterlegen vor. Die Funktion *Erkennungsmerkmal
 automatisch ermitteln* wird bei Neuanlage einer Schablone automatisch
 ausgeführt.
 
-**2**
-
-**1**
 
 D.h. diese Schablone wird künftig nur verwendet, wenn diese UID-Nummer
 auf dem Beleg an der entsprechenden Stelle ausgelesen wird. Die
@@ -480,7 +465,6 @@ entsprechende Feld mit der RZL Belegdatenerkennung ausgelesen.
 Über das Bleistiftsymbol (**1**) neben der jeweiligen Schablone kann das
 Erkennungsmerkmal bearbeitet werden.
 
-**1**
 
 ![](img/image54.png)
 

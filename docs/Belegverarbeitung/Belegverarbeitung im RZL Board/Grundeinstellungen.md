@@ -1,4 +1,4 @@
-## Grundeinstellungen zur Belegverarbeitung
+# Grundeinstellungen zur Belegverarbeitung
 
 Im Bereich *Einstellungen* finden Sie folgende Möglichkeiten:
 
@@ -155,7 +155,7 @@ nicht exportiert und angezeigt.
     der FIBU auf Basis dieser GLN-Nummer Buchungsvorschläge zu
     generieren.
 
-## Zusatzmodul Belegfreigabe
+# Zusatzmodul Belegfreigabe
 
 Siehe Kurzanleitung *RZL Modul Belegfreigabe* unter *Hilfe /
 Kurzanleitungen.*

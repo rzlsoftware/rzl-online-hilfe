@@ -1,11 +1,11 @@
-## Belegansichten nach dem Hinzufügen der Belege
+# Belegansichten nach dem Hinzufügen der Belege
 
 Über den Menüeintrag Belege finden Sie die Beleglisten *Ungebuchte*
 Belege / *Gebuchte Belege.*
 
 ![](img/image28.png)
 
-### Ungebuchte Belege
+## Ungebuchte Belege
 
 Diese Belege wurden beim Hinzufügen dem Klienten zugewiesen und warten
 auf die Verbuchung in der RZL FIBU in der Liste der ungebuchten Belege.
@@ -127,7 +127,7 @@ wenn die Sperre wieder aufgehoben wurde, können Sie den Beleg buchen.
 Die angezeigte Liste kann mit diesen Funktionen weiterverarbeitet
 werden.
 
-### Gebuchte Belege
+## Gebuchte Belege
 
 Anzeige der bereits gebuchten Belege mit den Buchungsinformationen des
 tatsächlichen Buchungssatzes. Details dazu finden Sie in einem eigenen

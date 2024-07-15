@@ -1,14 +1,12 @@
-## Belegbearbeitung und -aufbereitung
+# Belegbearbeitung und -aufbereitung
 
-![](img/image7.png)
 
-## Belege hinzufügen
+# Belege hinzufügen
 
--   Klient öffnen links oben im Feld Klient wählen (Nr. oder Name
+-   ![](img/image7.png) Klient öffnen links oben im Feld Klient wählen (Nr. oder Name
     eingeben).
 
--   ![](img/image8.png)
-    Klick auf *BELEGE* in der
+-   ![](img/image8.png) Klick auf *BELEGE* in der
     Menüleiste.
 
 -   In dieser Ansicht haben Sie nun Zugriff auf Scanordner, das RZL
@@ -52,7 +50,7 @@ Belegverarbeitung hinzuzufügen:
     Seitenansicht der Belegverarbeitung. (z.B. aus E-Mail Anhängen oder
     aus dem Windows-Explorer)
 
-### Tipps zur Bedienung der Oberfläche
+## Tipps zur Bedienung der Oberfläche
 
 ![](img/image10.png)
 
@@ -134,7 +132,7 @@ Belegdaten.
     Die Reihenfolge, Markierung und Anzahl der Belege ist in der Seiten- und
     Listenansicht immer synchron.
 
-### Belege/Seiten bearbeiten
+## Belege/Seiten bearbeiten
 
 In der Seitenansicht werden die Belege für die Weiterverarbeitung
 aufbereitet. Folgende Möglichkeiten stehen zur Verfügung:
@@ -149,11 +147,11 @@ Beleg mit Klammer-Symbol im linken oberen Randbereich anklicken.
 
 **mehrere Belege markieren**
 
-    -   Belege außerhalb der Vorschaubilder mit gedrückter linker
-        Maustaste und ziehen
+-   Belege außerhalb der Vorschaubilder mit gedrückter linker
+    Maustaste und ziehen
 
-    -   Belege mit Strg- bzw. Shift-Taste und linker Maustaste
-        markieren.
+-   Belege mit Strg- bzw. Shift-Taste und linker Maustaste
+    markieren.
 
 **Gruppe markieren**
 
@@ -162,32 +160,32 @@ markieren
 
 **mehrseitige Belege auftrennen**
 
-    -   Seiten auftrennen: Es werden die markierten Seiten in
-        Einzelseiten aufgetrennt
+-   Seiten auftrennen: Es werden die markierten Seiten in
+    Einzelseiten aufgetrennt
 
-    -   Belege auftrennen:
+-   Belege auftrennen:
 
-        -   Automatisch: es wird versucht, das gesamte Dokument aufgrund
-            verschiedener Kriterien in die richtigen Einzelbelege
-            aufzutrennen
+    -   *Automatisch:* es wird versucht, das gesamte Dokument aufgrund
+        verschiedener Kriterien in die richtigen Einzelbelege
+        aufzutrennen
 
-        -   Nach jeder Seite: das Dokument wird in Einzelseiten
-            aufgetrennt, mehrseitige Belege müssen manuell wieder
-            zusammengefügt werden
+    -   *Nach jeder Seite:* das Dokument wird in Einzelseiten
+        aufgetrennt, mehrseitige Belege müssen manuell wieder
+        zusammengefügt werden
 
-        -   Nach/Vor markierten Seiten: Mit der Funktion Seiten mit Text
-            markieren können bestimmte Seiten mit einem bestimmten
-            Inhalt markiert werden. Anschließend kann z.B. immer vor der
-            markierten 1. Seite eines Beleges ein Schnitt gemacht werden
+    -   *Nach/Vor markierten Seiten:* Mit der Funktion Seiten mit Text
+        markieren können bestimmte Seiten mit einem bestimmten
+        Inhalt markiert werden. Anschließend kann z.B. immer vor der
+        markierten 1. Seite eines Beleges ein Schnitt gemacht werden
 
-    -   per Drag&Drop Einzelseiten herausziehen
+    -   per *Drag&Drop* Einzelseiten herausziehen
 
 **Einzelseiten zusammenführen**
 
-    -   per Drag&Drop zusammenführen
+ -   per Drag&Drop zusammenführen
 
-    -   Seiten markieren und mit rechter Maustaste Seiten zusammenführen
-        verbinden
+-   Seiten markieren und mit rechter Maustaste Seiten zusammenführen
+    verbinden
 
 **Belege drehen**
 Seite markieren und mit der rechten Maustaste 90° rechts/links,
@@ -220,7 +218,7 @@ Alle Änderungen, die bisher durchgeführt wurden, werden rückgängig
 gemacht und der Original-Zustand der Dateien im Scanordner wird
 wiederhergestellt.
 
-### Belege zusammenführen
+## Belege zusammenführen
 
 -   Zusammenführen mit Hilfe der rechten Maustaste und Kontextmenü:
 
@@ -235,7 +233,7 @@ zusammenführen.
 ![](img/image15.png)
 
 
-### OCR-Erkennung
+## OCR-Erkennung
 
 Das Symbol *Text vorhanden* (links unten am Beleg) zeigt in der
 Seitenansicht mittels Tooltip die Herkunft des Volltextes an.
@@ -246,7 +244,7 @@ Listenansicht angezeigt.
 
 Folgende Möglichkeiten gibt es:
 
-1.  **OCR: Original:**
+**1.  OCR: Original:**
 
 Der im PDF eingebettete und mitgelieferte Volltext wird verwendet.
 
@@ -262,7 +260,7 @@ Der im PDF eingebettete und mitgelieferte Volltext wird verwendet.
     verworfen und vom Modul Belege mittels Microsoft oder tessercat-OCR
     neu ausgelesen werden.
 
-1.  **OCR-Erkennung direkt im Modul Belege im RZL Board**
+**2.  OCR-Erkennung direkt im Modul Belege im RZL Board**
 
 Falls die Belege keinen OCR-Volltext enthalten, wird die
 OCR/Texterkennung erst direkt im Modul Belege durchgeführt. Die
@@ -274,7 +272,7 @@ setzt RZL (je nach gewählter Einstellung) folgende Fremdsoftware ein:
 
 -   Tesseract-OCR von Google (alle Betriebssysteme)
 
-### Belegansicht öffnen
+## Belegansicht öffnen
 
 Bei zwei zur Verfügung stehenden Bildschirmen kann zusätzlich zum RZL
 Board durch Doppelklick auf einen Beleg ein extra Belegfenster angezeigt
@@ -293,45 +291,45 @@ Folgende Funktionen stehen in der Belegansicht zur Verfügung:
 
 ![](img/image17.png)
 
--   Belegdaten speichern
+-   **Belegdaten speichern**
 
 Werden in der rechten Leiste Belegdaten verändert, können diese hier
 gespeichert werden.
 
--   Drucken
+-   **Drucken**
 
 Der Beleg kann ausgedruckt werden
 
--   Kopie speichern
+-   **Kopie speichern**
 
 Eine Kopie des Beleges kann extern im Dateisystem gespeichert werden
 
--   Versenden
+-   **Versenden**
 
 Der Beleg kann per E-Mail versendet werden. Optional kann hier auf Basis
 der Belegdaten mit Platzhaltern ein Dateiname generiert werden.
 
--   Im RZL PDF-Manager anzeigen
+-   **Im RZL PDF-Manager anzeigen**
 
 Der Beleg wird im RZL Manager angezeigt und kann dort weiterverarbeitet
 werden.
 
--   Markierten Text kopieren
+-   **Markierten Text kopieren**
 
 Ein am Beleg markierter Text kann in die Zwischenablage gelegt werden.
 
--   Zoom
+-   **Zoom**
 
 Die Darstellung des Beleges kann angepasst werden (Vergrößern /
 Verkleinern / fixe Zoomstufe).
 
--   Navigation
+-   **Navigation**
 
 Mit diesen vier Schaltflächen können Sie zum vorherigen/nächsten Beleg
 wechseln bzw. innerhalb eines mehrseitigen Beleges die Seiten
 durchblättern.
 
--   Textansicht anzeigen
+-   **Textansicht anzeigen**
 
 Der Beleg kann durch Klick auf diese Funktion vollständig in der
 Textansicht/OCR-Ansicht angezeigt werden.
@@ -339,31 +337,30 @@ Textansicht/OCR-Ansicht angezeigt werden.
 *Normalanzeige vs. Text/OCR-Anzeige*
 
 ![](img/image18.png)
-![](img/image19.png)
 
--   PDF Anmerkungen anzeigen
+-   **PDF Anmerkungen anzeigen**
 
 Im Adobe Reader erfasste Textkommentare werden angezeigt, wenn diese
 Option aktiviert ist.
 
--   Belegdaten markieren
+-   **Belegdaten markieren**
 
 Ausgelesene Belegdaten werden am Beleg gelb markiert angezeigt.
 
--   Alle Belegfelder anzeigen
+-   **Alle Belegfelder anzeigen**
 
 In der Belegdaten-Leiste rechts werden je nach Einstellung mehr oder
 weniger (nur die wichtigsten) Belegdatenfelder angezeigt.
 
--   Kommentar anzeigen
+-   **Kommentar anzeigen**
 
 Ein im Feld Kommentar erfasster Text wird direkt am Beleg angezeigt.
 
--   Belegdaten erkennen
+-   **Belegdaten erkennen**
 
 Für den soeben geöffneten Beleg die Belegdatenerkennung durchführen.
 
-### Belegdaten erkennen
+## Belegdaten erkennen
 
 Der nächste Schritt ist die Belegdatenerkennung. Wählen Sie dazu oben in
 der Leiste *„Belegverarbeitung“* den Eintrag *„Belegdaten erkennen“*,
@@ -452,7 +449,7 @@ werden.
 
 ![](img/image22.png)
 
-### Name/Anschrift über UID-Nummer auslesen
+## Name/Anschrift über UID-Nummer auslesen
 
 Mit dieser Funktion werden bei Eingangsbelegen die Daten des Lieferanten
 und bei Ausgangsbelegen die Daten des Kunden ausgelesen. Mit Hilfe der
@@ -474,7 +471,7 @@ Benutzer hinterlegt sein.
 Diese Funktion kann optional auch deaktiviert werden (*BELEGE /
 Einstellungen / Grundeinstellungen*).
 
-### Belege ins RZL Board übernehmen
+## Belege ins RZL Board übernehmen
 
 Der letzte Schritt nach der Belegdatenerkennung ist das endgültige
 Hinzufügen der Belege ins RZL Board (ins Dokumenten-Management-System).
@@ -485,6 +482,7 @@ RZL Board übernommen werden sollen. Die Belege stehen dann im Modul
 Belege als ungebucht zur Verbuchung in der FIBU/EA bereit.
 
 ![](img/image23.png) 
+
 Nach erfolgreicher Übernahme werden die Dateien aus dem Scanordner gelöscht.
 
 
@@ -497,40 +495,40 @@ bspw. aus dem Scanordner gelöscht werden.
 
 ![](img/image24.png)
 
-### Detailbeschreibung aller Funktionen in der Leiste „Belege hinzufügen“
+## Detailbeschreibung aller Funktionen in der Leiste „Belege hinzufügen“
 
 ![](img/image25.png)
 
--   Neue Klientengruppe
+-   **Neue Klientengruppe**
 
 Es wird ein neuer Bereich für einen weiteren Klienten angelegt. In
 diesen Bereich können dann Belege per Drag & Drop gezogen werden (z.B.,
 wenn Belege für mehrere Klienten im Scanordner vorhanden sind).
 
--   Neue Belegkreisgruppe
+-   **Neue Belegkreisgruppe**
 
 Es wird ein neuer Bereich für einen weiteren Belegkreis innerhalb des
 Klienten angelegt. In diesen Bereich können dann Belege per Drag & Drop
 gezogen werden (z.B. wenn Belege für mehrere Belegkreise im Scanordner
 vorhanden sind).
 
--   Vordefinierte Ansichten
+-   **Vordefinierte Ansichten**
 
 Die drei Bereiche (Seiten-, Listen- und Detailansicht) können
 unterschiedlich platziert werden.
 
--   Live-Sortierung
+-   **Live-Sortierung**
 
 Bei aktivierter Funktion werden Belege sofort nach dem aktuell
 aktiviertem Sortierkriterium sortiert, wenn sich Belegdaten verändern.
 
--   Seitenansicht ausblenden
+-   **Seitenansicht ausblenden**
 
 Bei vielen Belegen kann das Laden der Seitenansicht einige Zeit dauern,
 daher kann optional die Seitenansicht ausgeblendet werden (ab 500 Seiten
 automatisch).
 
--   Gruppenübersicht einblenden
+-   **Gruppenübersicht einblenden**
 
 In der Seitenansicht wird links eine Zusammenfassung der vorhandenen
 Klienten und Belegkreise mit der Summe der vorhandenen Belege angezeigt.
@@ -538,37 +536,36 @@ Diese Ansicht kann auch verwendet werden, um bspw. Belege per Drag&Drop
 in einen anderen Bereich (Klient oder Belegkreis) zu verschieben. Dieser
 Bereich kann jederzeit ein- und ausgeblendet werden.
 
--   Alles markieren
+-   **Alles markieren**
 
 Alle Belege werden markiert.
 
--   Leere Seiten markieren
+-   **Leere Seiten markieren**
 
 Es werden alle leeren Seiten markiert, damit diese gesammelt gelöscht
 werden können.
 
--   Markierte Seiten löschen
+-   **Markierte Seiten löschen**
 
 Aktuell markierte Seiten werden gelöscht.
 
--   Belege auftrennen
+-   **Belege auftrennen**
 
 Markierte Belege in Einzelseiten auftrennen.
 
--   Automatisch: es wird versucht, das gesamte Dokument aufgrund
+-   *Automatisch:* es wird versucht, das gesamte Dokument aufgrund
     verschiedener Kriterien, in die richtigen Einzelbelege aufzutrennen
 
--   Nach jeder Seite: das Dokument wird in Einzelseiten aufgetrennt,
+-   *Nach jeder Seite:* das Dokument wird in Einzelseiten aufgetrennt,
     mehrseitige Belege müssen manuell wieder zusammengefügt werden
 
--   Nach/Vor markierten Seiten: Mit der Funktion Seiten mit Text
+-   *Nach/Vor markierten Seiten:* Mit der Funktion Seiten mit Text
     markieren können bestimmte Seiten mit einem bestimmten Inhalt
     markiert werden. Anschließend kann z.B. immer vor der markierten 1.
     Seite eines Beleges ein Schnitt gemacht werden
 
 
-
--   Belegdaten erkennen
+-   **Belegdaten erkennen**
 
 Wenn alle Belege einem Klienten und einem Belegkreis zugeordnet sind,
 kann diese Funktion ausgeführt werden. Zwei Aktionen werden ausgeführt:
@@ -580,62 +577,55 @@ kann diese Funktion ausgeführt werden. Zwei Aktionen werden ausgeführt:
     verschiedenen Möglichkeiten ausgelesen (QR Code, RZL
     Belegdatenerkennung, Schablonen …) und beim Beleg gespeichert.
 
--   Ausgewählte Belegdaten erkennen
+-   **Ausgewählte Belegdaten erkennen**
 
 Selbe Funktion wie Belegdaten erkennen – gilt nur für markierte Belege.
 
--   Benutzerdefinierte Belegdatenerkennung
+-   **Benutzerdefinierte Belegdatenerkennung**
 
 Für die Belegdatenerkennung können über benutzerdefiniert folgende
 zusätzliche Funktionen für alle (*Ausführen (alle))* oder nur für
 markierte Belege (*Ausführen (nur Auswahl))* ausgeführt werden:
 
-**Texterkennungs-Software:** 
-Sie können einmalig die in den Einstellungen festgelegte OCR-Engine übersteuern und die hier eingestellte verwenden.
+- *Texterkennungs-Software:*
+    Sie können einmalig die in den Einstellungen festgelegte OCR-Engine übersteuern und die hier eingestellte verwenden.
 
-**RZL Texterkennung erzwingen:**
-Wurde beispielsweise die OCR/Texterkennung bereits vom Scanner durchgeführt, führt das Modul Belege keine Texterkennung mehr durch, sondern verwendet den
-mitgelieferten Text. Mit dieser Funktion kann der Text vom Scanner
-verworfen und mit der oben eingestellten OCR-Engine neu ausgelesen
-werden. Dies kann z.B. verwendet werden, um die Qualität zu
-vergleichen.
+- *RZL Texterkennung erzwingen:*
+    Wurde beispielsweise die OCR/Texterkennung bereits vom Scanner durchgeführt, führt das Modul Belege keine Texterkennung mehr durch, sondern verwendet den mitgelieferten Text. Mit dieser Funktion kann der Text vom Scanner verworfen und mit der oben eingestellten OCR-Engine neu ausgelesen werden. Dies kann z.B. verwendet werden, um die Qualität zu vergleichen.
 
-**QR-Codes auslesen (Registrierkassa/BCD/Stuzza):**
-Standardmäßig wird
-bei der Belegdatenerkennung (nicht benutzerdefiniert) als erstes ein
-ev. vorhandener QR Code ausgelesen. Soll dies vermieden werden, muss
-diese Option deaktiviert werden.
+- *QR-Codes auslesen (Registrierkassa/BCD/Stuzza):*
+    Standardmäßig wird bei der Belegdatenerkennung (nicht benutzerdefiniert) als erstes ein
+    ev. vorhandener QR Code ausgelesen. Soll dies vermieden werden, muss
+    diese Option deaktiviert werden.
 
-**Schablonensystem verwenden:**
-Diese Option entscheidet, ob die
-benutzerdefinierten Regeln, die einer Schablone abgespeichert sind,
-angewendet werden.
+- *Schablonensystem verwenden:*
+    Diese Option entscheidet, ob die benutzerdefinierten Regeln, die einer Schablone abgespeichert sind,
+    angewendet werden.
 
-    -   Bereits zugeordnete Schablone belassen: Falls bei Belegen
-        bereits eine Schablone zugeordnet ist, bleibt diese auf jeden
-        Fall zugeordnet auch wenn das Modul Belege anhand des
-        Erkennungsmerkmals eine andere Schablone finden würde.
+-  *Bereits zugeordnete Schablone belassen:* Falls bei Belegen
+    bereits eine Schablone zugeordnet ist, bleibt diese auf jeden
+    Fall zugeordnet auch wenn das Modul Belege anhand des
+    Erkennungsmerkmals eine andere Schablone finden würde.
 
-    -   Schablone: Wird hier manuell eine Schablone ausgewählt, wird
-        diese bei Ausführung der benutzerdefinierten Belegdatenerkennung
-        unabhängig vom Erkennungsmerkmal verwendet.
+-   *Schablone:* Wird hier manuell eine Schablone ausgewählt, wird
+    diese bei Ausführung der benutzerdefinierten Belegdatenerkennung
+    unabhängig vom Erkennungsmerkmal verwendet.
 
-        -   RZL Erkennungslogik verwenden: Als letztes wird die von RZL
-            entwickelte Logik verwendet, um Belegdaten auszulesen (wenn
-            kein QR-Code, Schablone usw. vorhanden ist).
+- *RZL Erkennungslogik verwenden:*
+    Als letztes wird die von RZL entwickelte Logik verwendet, um Belegdaten auszulesen (wenn
+    kein QR-Code, Schablone usw. vorhanden ist).
 
-        -   RZL Belegdatenerkennung erzwingen: Manuell erfasste oder aus
-            Fremdsystemen übernommene Werte werden überschrieben.
+- *RZL Belegdatenerkennung erzwingen:*
+    Manuell erfasste oder aus Fremdsystemen übernommene Werte werden überschrieben.
 
-<!-- -->
-
-**Alle übernehmen**
+   
+-   **Alle übernehmen**
 
 Alle vorhanden Belege werden ins Modul Belege übernommen und stehen als
 ungebucht zur Verbuchung in der FIBU/EA bereit. Nach erfolgreicher
 Übernahme werden die Dateien aus dem Ordner gelöscht.
 
-**Auswahl übernehmen**
+-   **Auswahl übernehmen**
 
 Nur markierte Belege werden ins Modul Belege in die Ansicht *Ungebuchte
 Belege* bzw. *Belegfreigabe* übernommen. Nach erfolgreicher Übernahme

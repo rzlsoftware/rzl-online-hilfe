@@ -1,8 +1,8 @@
-
 nav:
-    - Belegverarbeitung: index.md
+    - Belegverarbeitung Handbuch: index.md
+    - Vorwort.md
     - Belegverarbeitung im RZL Board
-    - Modul Belege am RZL Klientenportal
-    - Verarbeitung in der RZL FIBU
-    - Gebuchte Belege aufrufen
+    - Modul Belege am RZL Klientenportal.md
+    - Verarbeitung in der RZL FIBU.md
+    - Gebuchte Belege aufrufen.md
     - ...

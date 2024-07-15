@@ -1,6 +1,6 @@
-## Die Digitalisierung der Belege
+# Die Digitalisierung der Belege
 
-### Scanordner vor der erstmaligen Nutzung einrichten
+## Scanordner vor der erstmaligen Nutzung einrichten
 
 Bevor Sie mit dem Scannen beginnen, legen Sie **für jeden Mitarbeiter**
 einen eigenen Scanordner im Netzwerk und im Modul Belege an. Die Anlage
@@ -42,7 +42,7 @@ zwischengespeichert und die Zugriffe auf den Scan-Ordner auf ein Minimum
 reduziert. Diese Einstellung ist bei einer langsamen oder instabilen
 Verbindung zum Scan-Ordner zu empfehlen.
 
-### Tipps zum Scanvorgang
+## Tipps zum Scanvorgang
 
 **Papierbelege aufbereiten**
 
@@ -66,7 +66,7 @@ Einzelseiten oder als Gesamtdokument gescannt werden, ist nicht
 relevant, da die Seiten in der RZL Belegverarbeitung auf Knopfdruck
 aufgeteilt bzw. zusammengefügt werden können.
 
-### Einstellungen zur OCR-Erkennung bei gescannten Belegen
+## Einstellungen zur OCR-Erkennung bei gescannten Belegen
 
 Um aus den gescannten PDF-Belegen Werte auslesen zu können, wird das
 Bild mittels OCR/Texterkennung in einen verwertbaren Text umgewandelt.

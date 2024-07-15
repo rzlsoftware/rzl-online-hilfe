@@ -1,6 +1,6 @@
-## Möglichkeiten zum Belegimport
+# Möglichkeiten zum Belegimport
 
-### ebInterface
+## ebInterface
 
 XML-Rechnungen im ebInterface Format können über einen Scanordner oder
 auch über das Klientenportal verarbeitet werden. Da es sich hier um ein
@@ -13,7 +13,7 @@ Weitere Details dazu finden Sie Online unter:
 
 ![](img/image26.png)
 
-### Extras / Beleg mit XML importieren
+## Extras / Beleg mit XML importieren
 
 Über diesen Menüpunkt können Belege, die aus anderen RZL Installation
 mit Belegdaten exportiert wurden wieder importiert werden. Dies kann
@@ -23,7 +23,7 @@ genutzt werden, um Belege von einer auf eine andere Installation zu
 Details dazu finden Sie in einer eigenen Kurzanleitung *Belege mit
 XML-Belegdaten exportieren und in andere Installation importieren.*
 
-### Modul XML Belegdatenimport Schnittstelle
+## Modul XML Belegdatenimport Schnittstelle
 
 RZL bietet ein eigenes XML-Format an, um Belege mit Belegdaten aus
 Fremdsystem in die RZL Belegverarbeitung zu übernehmen. Eine
