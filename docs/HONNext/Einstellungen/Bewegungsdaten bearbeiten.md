@@ -1,4 +1,4 @@
-## Bewegungsdaten bearbeiten
+# Bewegungsdaten bearbeiten
 
 Über den Menüpunkt *Bewegungsdaten löschen/zurücksetzten* haben Sie die
 Möglichkeit die gesamten Bewegungsdaten oder nur einzelne Teile daraus

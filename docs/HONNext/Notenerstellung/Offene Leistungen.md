@@ -1,4 +1,4 @@
-## Offene Leistungen
+# Offene Leistungen
 
 Sie können sich auch die Leistungen die hinter der Nettosumme stecken
 über den Button *Offene Leistungen Anzeigen* **(5)** in einem eigenen

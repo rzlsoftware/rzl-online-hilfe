@@ -1,6 +1,6 @@
-## Notenerstellung / Belegverarbeitung mit Akonto-/ Anzahlungen
+# Notenerstellung und Belegverarbeitung mit Akonto-/ Anzahlungen
 
-### Notenerstellung und Belegverarbeitung mit Akonto
+## Notenerstellung und Belegverarbeitung mit Akonto
 
 Wenn Sie eine Akontozahlung angelegt haben und die dazugehörige
 Honorarnote erstellen, wird als letzte Position automatisch die
@@ -33,7 +33,7 @@ Die Akontozahlung wird am Notenjournal unter der eigenen Rubrik
 
 ![](<img/image260.png>)
 
-### Notenerstellung und Belegverarbeitung mit Anzahlungen
+## Notenerstellung und Belegverarbeitung mit Anzahlungen
 
 Wenn Sie eine Anzahlung angelegt haben und die dazugehörige Honorarnote
 erstellen, wird als letzte Position automatisch die Anzahlung aufgeteilt

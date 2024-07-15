@@ -1,4 +1,4 @@
-## Arbeitszeitkalender
+# Arbeitszeitkalender
 
 Der Arbeitszeitkalender kann über den Button *Kalender* für einen oder
 mehrere Mitarbeiter geöffnet werden. Falls Sie mehrere Mitarbeiter

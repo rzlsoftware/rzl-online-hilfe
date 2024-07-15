@@ -1,4 +1,4 @@
-## Anlage einer Akonto-/ Anzahlung
+# Anlage einer Akonto-/ Anzahlung
 
 Über *Akonto/Anzahlungen / Akontozahlungen/Anzahlungen* können Sie eine
 neue Akonto-/ Anzahlung anlegen.
@@ -42,7 +42,7 @@ Anzahlung gespeichert.
     Mit der Schaltfläche *Akontozahlung/Anzahlung löschen* können Sie noch
     nicht abgerechnete Akonto-/ Anzahlungszeilen löschen.
 
-### Akonto-/ Anzahlung duplizieren
+## Akonto-/ Anzahlung duplizieren
 
 Mit der Schaltfläche *Akonto-/ Anzahlung duplizieren* können Sie eine
 bestehende Akonto-/Anzahlungszeile kopieren. Die neue Akonto-/Anzahlung

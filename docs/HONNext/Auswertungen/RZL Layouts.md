@@ -1,11 +1,11 @@
-## RZL Layouts
+# RZL Layouts
 
 Im *Statistik Manager Umsatz* sowie im *Statistik Manager Leistungen*
 stehen Ihnen vorgefertigte RZL Layouts zur Verfügung. RZL Layouts können
 nicht bearbeitet werden, bei Änderungen ist ein neues Layout über
 *Layout Speichern unter* abzuspeichern.
 
-### Statistik Manager Umsatz
+## Statistik Manager Umsatz
 
 **Mitarbeiter- Statistik**
 
@@ -46,7 +46,7 @@ eins und zwei.
 </tbody>
 </table>
 
-### Statistik Manager Leistungen
+## Statistik Manager Leistungen
 
 **Stundenstatistik Mitarbeiter**
 

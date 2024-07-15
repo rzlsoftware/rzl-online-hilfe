@@ -1,4 +1,4 @@
-## Tätigkeiten
+# Tätigkeiten
 
 Auf Tätigkeiten werden Leistungen erfasst, die entweder verrechenbar
 sind oder nicht verrechnet werden. Diese Tätigkeiten werden später in

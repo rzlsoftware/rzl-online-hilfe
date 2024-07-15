@@ -1,4 +1,4 @@
-## Interne Note
+# Interne Note
 
 Für Situationen in denen die offenen Leistungen nicht mehr an den
 Klienten weiterverrechnet werden sollen/können, bietet das RZL HON die

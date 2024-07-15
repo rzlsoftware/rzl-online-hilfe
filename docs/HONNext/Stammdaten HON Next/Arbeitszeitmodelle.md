@@ -1,4 +1,4 @@
-## Arbeitszeitmodelle
+# Arbeitszeitmodelle
 
 Ein Arbeitszeitmodell wird benötigt um das Ausmaß und die Lage der
 (fiktiven) Normalarbeitszeit der Mitarbeiter abbilden zu können. Ein

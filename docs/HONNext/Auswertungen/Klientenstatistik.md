@@ -1,4 +1,4 @@
-## Klientenstatistik
+# Klientenstatistik
 
 Die Klientenstatistik soll Ihnen einen Überblick über die verrechneten
 Leistungen von finalisierten Noten pro Klienten aufzeigen.

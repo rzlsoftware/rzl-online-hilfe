@@ -1,4 +1,4 @@
-# Allgemeine Bedienung
+# Allgemeines
 
 ## Öffnen der Honorarverrechnung
 

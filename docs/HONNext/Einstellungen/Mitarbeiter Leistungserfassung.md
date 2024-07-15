@@ -1,4 +1,4 @@
-## Mitarbeiter Leistungserfassung
+# Mitarbeiter Leistungserfassung
 
 Unter diesem Punkt können Sie die Art der Arbeitszeiterfassung
 festlegen, sowie wie lange ihre Mitarbeiter Leistungen

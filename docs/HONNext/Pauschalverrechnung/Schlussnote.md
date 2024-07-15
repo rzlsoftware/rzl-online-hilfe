@@ -1,4 +1,4 @@
-## Schlussnote
+# Schlussnote
 
 Mit dem Button *Schlussnote erstellen*, haben Sie die Möglichkeit über
 die abgerechneten und ausgeglichenen Pauschalen eine Schlussnote zu

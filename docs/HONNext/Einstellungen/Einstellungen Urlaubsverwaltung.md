@@ -1,4 +1,4 @@
-## Einstellungen Urlaubsverwaltung
+# Einstellungen Urlaubsverwaltung
 
 Im Reiter *Einstellungen Urlaubsverwaltung* wird definiert, ob der
 Urlaub im HON Next in Stunden oder in Tagen verwaltet wird.

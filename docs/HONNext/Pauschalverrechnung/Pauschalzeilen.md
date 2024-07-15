@@ -1,4 +1,4 @@
-## Pauschalzeilen
+# Pauschalzeilen
 
 Über den Button *Pauschalzeilen* erhalten Sie eine Übersicht aller
 manuell und automatisch generierten Pauschalzeilen.
@@ -13,7 +13,7 @@ haben Sie die Möglichkeit sich Layouts anzulegen ([Speicherbare Layouts](/HONNe
 Bei den Layouts steht Ihnen das vordefinierte RZL Layout *Überfällige
 Pauschalzeilen* zur Verfügung.
 
-### Pauschalzeile anlegen
+## Pauschalzeile anlegen
 
 Diese Funktion wird benötigt, wenn Sie selbstständig für einen Klienten
 eine Pauschalzeile erzeugen möchten. Sie können entweder über den Ribbon
@@ -41,7 +41,7 @@ Für den automatischen Pauschalausgleich siehe [Automatischer Pauschalausgleich]
     ein Klient grundsätzlich pauschal abgerechnet, sollte dies über
     wiederkehrende Pauschalzeilen gelöst werden.
 
-### Pauschalzeile löschen
+## Pauschalzeile löschen
 
 Sollte ein Klient nicht mehr Pauschal abgerechnet werden oder wurde eine
 Pauschalzeile irrtümlich angelegt, kann diese über den Button

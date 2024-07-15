@@ -1,4 +1,4 @@
-## Mitarbeiterliste
+# Mitarbeiterliste
 
 In diesem Bereich erhalten Sie eine Mitarbeiterliste mit den HON
 spezifischen Stammdaten. Es stehen folgende Werte zur Verfügung:
@@ -25,7 +25,7 @@ Ausdrucken und/oder Exportieren (vgl. [Liste exportieren](/HONNext/Allgemeine%20
     *zu den Mitarbeiterstammdaten* direkt zu den Mitarbeiterstammdaten im
     Board.
 
-## Klientenliste
+# Klientenliste
 
 In diesem Bereich erhalten Sie eine Klientenliste mit den HON
 spezifischen Stammdaten. Es stehen folgende Werte zur Verfügung: Klient

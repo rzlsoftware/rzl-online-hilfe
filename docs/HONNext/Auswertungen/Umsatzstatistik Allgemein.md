@@ -1,4 +1,4 @@
-## Umsatzstatistik Allgemein
+# Umsatzstatistik Allgemein
 
 In der allgemeinen Umsatzstatistik stehen Ihnen alle abgerechneten
 Leistungen zur Verfügung. Die Umsatzstatistik ist individuell

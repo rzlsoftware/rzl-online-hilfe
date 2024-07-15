@@ -1,8 +1,8 @@
-## Pauschalstatistik
+# Pauschalstatistik
 
 Siehe Kapitel [Pauschalstatistik](/HONNext/Pauschalverrechnung/Pauschalstatistik/)
 
-## Offene Leistungen Statistik
+# Offene Leistungen Statistik
 
 Die Offene Leistungen-Statistik ermöglicht die Verwaltung der „noch
 nicht verrechneten Leistungen“ zu einem bestimmten Stichtag. Diese
@@ -20,7 +20,7 @@ hier das Tagesdatum vorgeschlagen.
 Anschließend besteht noch die Möglichkeit die Auswertung zu Gruppieren,
 zu Filtern oder einzelne Spalten ein-/auszublenden (vgl. [Umsatzstatistik Allgemein](/HONNext/Auswertungen/Umsatzstatistik%20Allgemein)).
 
-### Offene Leistungen Allgemein
+## Offene Leistungen Allgemein
 
 Die Offene Leistungen Statistik zeigt Ihnen alle Zeilen die zum
 definierten Stichtag noch nicht abgerechnet worden sind. Nachstehend ein
@@ -39,7 +39,7 @@ abgerechnet ändert dies nichts an der offenen Leistungen Statistik zum
 31.12.2022. Da zum eingegebenen Stichtag die Leistungen noch nicht
 abgerechnet waren.
 
-### Offene Leistungen mit Pauschalen
+## Offene Leistungen mit Pauschalen
 
 Wird nun ein Klient [Pauschal abgerechnet](/HONNext/Pauschalverrechnung/) ist der Zustand der Pauschalzeile für die
 Ermittlung der offenen Leistungen Statistik ausschlaggebend.
@@ -107,6 +107,6 @@ Ansicht in der offenen Leistungen Statistik:
 Diese Pauschalzeile ist nicht mehr in der offenen Leistungen Statistik,
 da Sie bereits ausgeglichen und abgerechnet wurde.
 
-## Transferstunden Statistik
+# Transferstunden Statistik
 
 Siehe [Transferstunden Statistik](/HONNext/Stammdaten%20Mitarbeiter/#transferstunden-statistik)

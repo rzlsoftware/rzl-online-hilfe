@@ -1,4 +1,4 @@
-## Auswertungen
+# Auswertungen
 
 In der Klienten Umsatzstatistik findet sich ausschließlich der
 Verrechnungsklient. Mittels dem Button *Details anzeigen* können Sie

@@ -1,4 +1,4 @@
-## Leistungsübersicht
+# Leistungsübersicht
 
 Über den Menüpunkt *Leistungserfassung / Leistungsübersicht* stehen
 Ihnen alle erfassten Leistungen für Auswertungen zur Verfügung.

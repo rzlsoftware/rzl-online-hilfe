@@ -1,4 +1,4 @@
-## Feiertagsverwaltung
+# Feiertagsverwaltung
 
 Unter diesem Menüpunkt werden Ihnen die gesetzlichen Feiertage
 aufgezeigt und Sie können, falls im KV abweichende Bestimmungen zu den

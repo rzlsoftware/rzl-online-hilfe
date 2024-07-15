@@ -1,8 +1,9 @@
+# Leistungen erfassen
+
 Grundsätzlich sind die Leistungen vom jeweiligen Mitarbeiter im Modul
 „LeMi“ (Leistungserfassung Mitarbeiter) zu erfassen. Dieser
 Programmpunkt ist nur für Ausnahmefälle gedacht.
 
-## Leistungen erfassen
 
 Sie können für Ihre Mitarbeiter Leistungen nach erfassen, löschen bzw.
 Leistungen korrigieren. Dies alles ermöglicht der Punkt *Leistungen

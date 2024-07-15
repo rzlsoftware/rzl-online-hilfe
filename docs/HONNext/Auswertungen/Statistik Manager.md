@@ -1,5 +1,4 @@
-
-## Statistik Manager Umsatz
+# Statistik Manager Umsatz
 
 Über den Menüpunkt *Auswertungen / Umsatzstatistik / Statistik Manager*
 steht Ihnen ein Manager zum selbstständigen erzeugen und gestalten von
@@ -48,7 +47,7 @@ Der Statistik Manager unterteilt sich in folgende Bereiche:
     Kriterien nach Zeilen aufgeteilt werden. Es sind mehrere Zeilen
     möglich.
 
-### Bedeutung der Felder
+# Bedeutung der Felder
 
 **Notendatum**  
 Datum der Note. Wird dies im Zeilen-/Spaltenbereich
@@ -126,7 +125,7 @@ Mitarbeiters und den erfassten Stunden zusammen.
 Der Deckungsbeitrag ermittelt sich aus dem
 Verrechneten Wert abzüglich der Eigenkosten.
 
-### Bedienung des Statistik Managers
+## Bedienung des Statistik Managers
 
 Wenn Sie den Statistik Manager öffnen sind initial keine Spalten und
 Zeilen oder Filter vorhanden. Möchten Sie nun eine Statistik generieren,
@@ -233,7 +232,7 @@ werden.
 ausdrucken. Je nachdem ob alle Zeilen/Spalten auf-/zugeklappt sind, so
 erhalten Sie auch den Ausdruck.
 
-### Formelspalte
+## Formelspalte
 
 Der Statistik Manager bietet Ihnen ebenso die Möglichkeit mit den
 gelieferten Werten zu rechnen. Hierfür steht Ihnen die Schaltfläche
@@ -337,7 +336,7 @@ Folgende Prozent Spalten stehen zur Verfügung:
 
     ![](<img/image386.png>)
 
-## Statistik Manager Leistungen
+# Statistik Manager Leistungen
 
 Über den Menüpunkt *Auswertungen / Leistungen / Statistik Manager* steht
 Ihnen ein Manager zum selbstständigen erzeugen und gestalten von
@@ -346,7 +345,7 @@ Leistungsstatistiken zur Verfügung.
 Der Statistik Manger Leistungen ist in der Bedienung ident wie der [Statistik Manager Umsatz](/HONNext/Auswertungen/Statistik%20Manager/#statistik-manager-umsatz). Nur können hier alle erfassten
 Leistungen ausgewertet werden, offen sowie verrechnet.
 
-### Bedeutung der Felder
+## Bedeutung der Felder
 
 **Mitarbeiter Nr.** Hier können Sie nach der Mitarbeiternummer gliedern.
 Es wird Nummer und Name ausgegeben.

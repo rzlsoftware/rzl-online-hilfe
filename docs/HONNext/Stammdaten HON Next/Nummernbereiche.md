@@ -1,4 +1,4 @@
-## Nummernbereiche
+# Nummernbereiche
 
 Nummernbereiche werden für die fortlaufende Nummerierung der
 verrechneten Honorarnoten benötigt. Sie können abweichend zum

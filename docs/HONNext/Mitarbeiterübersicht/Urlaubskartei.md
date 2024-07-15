@@ -1,4 +1,4 @@
-## Urlaubskartei
+# Urlaubskartei
 
 Über den Button *Urlaubskartei* kann die Urlaubskartei aufgerufen
 werden, um den Urlaubssaldo nachvollziehen zu können.

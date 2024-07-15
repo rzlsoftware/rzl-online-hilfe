@@ -1,4 +1,4 @@
-## Wiederkehrende Akonten
+# Wiederkehrende Akonten
 
 Wiederkehrende Akonten werden benötigt, wenn ein Klient z.B. monatlich
 Akonten leistet. Es werden hier die benötigen Akontozeilen vom Programm
@@ -14,7 +14,7 @@ Ersichtlich über folgendes Symbol in der unteren rechten Ecke:
 
 ![](<img/image251.png>)
 
-### Neue wiederkehrende Akontozeile
+## Neue wiederkehrende Akontozeile
 
 Eine neue wiederkehrende Akontozeile kann über den Butten im Ribbon
 **(1)** angelegt werden.
@@ -87,7 +87,7 @@ ersichtlich.
     Die regelmäßig generierten Akontozeilen finden Sie über
     *Akonto/Anzahlungen / Akontozahlungen*.
 
-### Wiederkehrende Akontozeilen löschen
+## Wiederkehrende Akontozeilen löschen
 
 Sollte eine Wiederkehrende Akontozeile gelöscht werden, können Sie dies
 entweder über das Kontextmenü oder über den Button *Wiederkehrendes

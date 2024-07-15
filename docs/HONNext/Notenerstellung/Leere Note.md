@@ -1,4 +1,4 @@
-## Leere Note
+# Leere Note
 
 Über *Honorarnoten / Notenerstellen* haben Sie die Möglichkeit eine
 leere Note zu öffnen. Dies kann z.B. zum Erstellen einer Teilgutschrift

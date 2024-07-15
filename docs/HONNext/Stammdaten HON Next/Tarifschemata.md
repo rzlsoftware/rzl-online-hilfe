@@ -1,4 +1,4 @@
-## Tarifschemata
+# Tarifschemata
 
 Ein Tarifschema dient dazu, unterschiedliche Stundensätze oder
 Einheitssätze für Mitarbeiter oder Klienten, abweichend zum

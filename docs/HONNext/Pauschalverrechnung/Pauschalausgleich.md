@@ -1,4 +1,4 @@
-## Pauschalausgleich
+# Pauschalausgleich
 
 !!! warning "Hinweis"
     Die Abrechnung der Pauschale im Zuge der Notenerstellung und der
@@ -38,7 +38,7 @@ den Wert der Pauschale, die Art der Verteilung der Zu/Abschläge, sowie
 eine möglich vorhandene Differenz nach einer manuellen Verteilung der
 Zu/Abschläge.
 
-### Ändern einer ausgeglichenen Pauschale
+## Ändern einer ausgeglichenen Pauschale
 
 Wurde bei einer Pauschalzeile bereits über *Pauschalverrechnung /
 Pauschalzeilen* der Pauschalausgleich durchgeführt, kann nur noch der
@@ -61,7 +61,7 @@ Pauschalzeile verändert, öffnet sich auch hier automatisch der
 Pauschalausgleich. Änderungen an der Pauschalzeile werden mit dem
 Speichern der Note mitgespeichert.
 
-### Pauschalausgleich während der Notenerstellung
+## Pauschalausgleich während der Notenerstellung
 
 !!! warning "Hinweis"
     Im Zuge der Anlage der [Pauschalzeilen](/HONNext/Pauschalverrechnung/Pauschalzeilen/)
@@ -88,7 +88,7 @@ Kontextmenü erfolgen.
     Wurde der Pauschalausgleich durchgeführt kann über *Pauschalausgleich
     anzeigen* dieser nochmals kontrolliert werden.
 
-### Automatischer Pauschalausgleich
+## Automatischer Pauschalausgleich
 
 !!! warning "Hinweis"
     Damit der automatische Pauschalausgleich vom Programm erfolgen kann, ist
@@ -240,7 +240,7 @@ Der Pauschalausgleich kann nicht vom Programm automatisch durchgeführt
 werden und muss manuell über *Pauschalverrechnung / Pauschalzeilen*
 gemacht werden.
 
-### Pauschlausgleich zurücksetzten
+## Pauschlausgleich zurücksetzten
 
 Wurde ein Pauschlausgleich irrtümlich durchgeführt, kann dieser über die
 Schaltfläche *Pauschalausgleich zurücksetzten* wieder rückgängig gemacht

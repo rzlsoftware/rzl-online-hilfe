@@ -1,4 +1,4 @@
-## Pauschalstatistik
+# Pauschalstatistik
 
 Über den Menüpunkt *Auswertungen / Pauschalstatistik Allgemein* stehen
 Ihnen alle Zeilen im Bezug zur Pauschalverrechnung für Auswertungen zur

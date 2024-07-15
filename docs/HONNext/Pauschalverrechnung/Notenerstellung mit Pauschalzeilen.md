@@ -1,4 +1,4 @@
-## Notenerstellung mit Pauschalzeilen
+# Notenerstellung mit Pauschalzeilen
 
 Über den Punkt *Honorarnoten / Notenerstellung* sollte zuerst ein Filter
 auf die zu abrechnende Verrechnungsgruppe und den Projektzeitraum

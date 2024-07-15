@@ -1,4 +1,4 @@
-## Mitarbeiterstatistik
+# Mitarbeiterstatistik
 
 Die Mitarbeiterstatistik soll Ihnen einen Überblick über die
 verrechneten Leistungen von finalisierten Noten pro Mitarbeiter

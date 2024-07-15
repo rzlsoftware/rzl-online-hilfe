@@ -1,4 +1,4 @@
-## Notenvorschläge
+# Notenvorschläge
 
 Damit die Notenerstellung geöffnet wird wählen Sie den Menüpunkt
 *Honorarnoten – Notenerstellung* aus.

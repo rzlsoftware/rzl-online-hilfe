@@ -1,4 +1,4 @@
-## Verrechnungsgruppen
+# Verrechnungsgruppen
 
 Verrechnungsgruppen werden für die Leistungserfassung, Notenerstellung
 und Kontierung für die Finanzbuchhaltung benötigt.

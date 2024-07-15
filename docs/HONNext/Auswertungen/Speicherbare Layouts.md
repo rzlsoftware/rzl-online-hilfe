@@ -1,4 +1,4 @@
-## Speicherbare Layouts
+# Speicherbare Layouts
 
 Beim Großteil der Auswertungen und Listenansichten besteht die
 Möglichkeit sich die selbst definierten Statistiken als Layout zu
@@ -45,7 +45,7 @@ ungefiltert angezeigt.
     zur Verfügung. Damit können Sie die jeweilige Auswertung schnell und
     einfach nach Tag/Monat/Jahr unterteilen.
 
-### Expertenmodus
+## Expertenmodus
 
 Innerhalb der Layoutoptionen können noch viel differenziertere Filter im
 sogenannten Expertenmodus erstellt werden. Durch einen Klick auf

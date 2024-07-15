@@ -1,4 +1,4 @@
-## Hinterlegung in den Stammdaten
+# Hinterlegung in den Stammdaten
 
 Die Hinterlegung eines abweichenden Verrechnungsklienten in den
 Stammdaten ist nur nötig, wenn der Verrechnungsklient vom

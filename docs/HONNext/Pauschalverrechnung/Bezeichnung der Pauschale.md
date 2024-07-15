@@ -1,4 +1,4 @@
-## Bezeichnung der Pauschale
+# Bezeichnung der Pauschale
 
 Welcher Text für dir Pauschale auf der Note angedruckt wird, hinterlegen
 Sie in den Stammdaten der Verrechnungsgruppe. Es steht Ihnen hierfür das

@@ -1,4 +1,4 @@
-## Notenerstellung
+# Notenerstellung
 
 Diese Vorgehensweise, die hier beschrieben wird, können Sie durchführen,
 wenn Sie die Möglichkeit *Note erstellen ohne automatische Erstellung*
@@ -9,7 +9,7 @@ Sie gelangen in die Notenansicht:
 
 ![](<img/image181.png>)
 
-### Einstellungen
+## Einstellungen
 
 Das *Notendatum* wird aufgrund der vorher getroffenen Einstellungen
 festgelegt, kann aber jederzeit geändert werden. Der *Leistungszeitraum*
@@ -92,7 +92,7 @@ der Bezeichnung oder am Betrag bleiben erhalten.
 
 ![](<img/image184.png>)
 
-### Darstellung der Leistungen
+## Darstellung der Leistungen
 
 Verrechnungsgruppen werden bei der Notenerstellung in fetter Schrift
 dargestellt. Tätigkeiten werden eine ebene darunter in schwarzer
@@ -109,7 +109,7 @@ Schrift in grauer Schriftfarbe dargestellt.
     ändern. Damit das Symbol angezeigt wird müssen Sie den Mauscursor vor
     die Verrechnungsgruppe oder vor die Tätigkeit positionieren.
 
-### Infozeile
+## Infozeile
 
 Im unteren Bereich wird Ihnen eine Infozeile angezeigt. Diese beinhaltet
 die Stunden, Einheiten, Zu-/Abschläge, den Betrag und den
@@ -121,7 +121,7 @@ Zeile *Gesamt* zeigt die gesamte Note auf.
 
 ![](<img/image186.png>)
 
-### Erfassungszeilen anzeigen/verbergen
+## Erfassungszeilen anzeigen/verbergen
 
 Mittels Pfeilsymbol ![](<img/image187.png>) **(2)** können Sie die
 erfassten Tätigkeiten aufklappen/zuklappen. Ebenso können die einzelnen
@@ -140,7 +140,7 @@ anzeigen/verbergen.
 
 ![](<img/image189.png>)
 
-### Ändern der Erfassungszeilen während der Notenerstellung
+## Ändern der Erfassungszeilen während der Notenerstellung
 
 In manchen Fällen kann es nötig sein, die Erfassungszeile aus der
 Leistungserfassung der Mitarbeiter noch abändern zu müssen, weil z.B.
@@ -215,7 +215,7 @@ Auswirkungen auf die Leistungserfassung des Mitarbeiters hat.
 -   Wird auf eine nicht verrechenbare Tätigkeit umgebucht, ist diese
     Erfassungszeile nicht mehr in der Note ersichtlich.
 
-### Verrechnung nach Stunden oder Einheiten
+## Verrechnung nach Stunden oder Einheiten
 
 In den Stammdaten der Tätigkeiten steht Ihnen die Verrechnungsart
 *Stunden oder Einheiten* zur Verfügung. Bei dieser Art müssen die
@@ -259,7 +259,7 @@ sind, kann die Verrechnung nicht gewechselt werden.
     Auf dem Tätigkeitsnachweis wird nur die in der Notenerstellung gewählte
     Verrechnungsart ausgewiesen.
 
-### Zeilen nicht verrechnen
+## Zeilen nicht verrechnen
 
 Erfassungszeilen die nicht verrechnet werden sollen, können durch
 Entfernen des Hakens der Erfassungszeile von der Verrechnung
@@ -276,7 +276,7 @@ diese Tätigkeiten und der zugehörige Betrag durchgestrichen dargestellt.
 
 ![](<img/image198.png>)
 
-### Nicht verrechnete Zeilen anzeigen
+## Nicht verrechnete Zeilen anzeigen
 
 Von der Verrechnung ausgeschlossene Zeilen können über die Schaltfläche
 *Nicht verrechnete Zeilen anzeigen* eingeblendet werden. Wenn im Ribbon
@@ -294,7 +294,7 @@ werden, so klicken Sie noch einmal auf diese Schaltfläche, sodass diese
     Verrechnung ausgeschlossen haben, indem Sie sich die nicht verrechneten
     Zeilen einblenden.
 
-### Notenzeilen gruppieren
+## Notenzeilen gruppieren
 
 Sollen mehrere Notenzeilen zu einer gemeinsamen Zeile gruppiert werden,
 so ist dies entweder über die Schaltfläche *Gruppierung von Notenzeilen*
@@ -362,7 +362,7 @@ Gesamtbetrag nur mit der Tätigkeit Finanzbuchhaltung angedruckt.
 In grauer Schriftfarbe werden die Notenzeilen dargestellt, die auf der
 Note nicht gedruckt werden.
 
-### Text ändern
+## Text ändern
 
 Der Text der Verrechnungsgruppe und der Tätigkeit kann ganz einfach
 mittels Doppelklicks auf den Text der geändert werden soll, angepasst
@@ -398,7 +398,7 @@ Ansicht in der Note:![](<img/image207.png>)
 Weitere Beispiele hierzu finden Sie im Handbuch Leistungserfassung
 Kapitel 2.4.2, Seite 10.
 
-### Notenzeile einfügen
+## Notenzeile einfügen
 
 Sollte eine zusätzliche Notenzeile eingefügt werden, so ist dies
 entweder über die Schaltfläche *Notenzeile einfügen* im Ribbon oder über
@@ -434,7 +434,7 @@ einem Mitarbeiter direkt zugewiesen werden oder, wenn man das Feld
     Notenzeile nachdem Speichern der Note und beim neuerlichen Bearbeiten
     erneut eingefügt werden.
 
-### Zu-/Abschläge 
+## Zu-/Abschläge 
 
 Zu- und Abschläge werden automatisch, je nachdem welche Einstellungen
 Sie bei den [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen) getroffen haben, verteilt. Es besteht die Möglichkeit die Zu-
@@ -567,7 +567,7 @@ gelöscht.
 
 ![](<img/image225.png>) 
 
-### Rabatt/Aufschlag
+## Rabatt/Aufschlag
 
 Sollte im Zuge der Notenerstellung auf die gesamte Note ein Rabatt
 gewährt oder ein Aufschlag verrechnet werden, können Sie dies über die
@@ -638,7 +638,7 @@ Tätigkeit/Verrechnungsgruppe **(3)** eingefügt.
     Tätigkeiten **(4).** Basis für die Verteilung bilden alle Werte (inkl.
     Zu-/Abschläge) der Tätigkeiten/Verrechnungsgruppe.
 
-### Note drucken
+## Note drucken
 
 Falls Sie die Note ausdrucken oder am PDF-Manager ausdrucken möchten, so
 klicken Sie auf das Symbol *Note drucken* im Ribbon.
@@ -656,20 +656,20 @@ entsprechenden Drucker für den Ausdruck auswählen, auf *Sofort Drucken*
 klicken, dann wird auf Ihrem Standarddrucker gleich ein Ausdruck
 generiert oder die Note in den *PDF-Manager* drucken.
 
-### Druckvorschau anzeigen
+## Druckvorschau anzeigen
 
 Eine Vorschau Ihrer Honorarnote erhalten Sie, wenn Sie auf den Button
 *Druckvorschau anzeigen* klicken. Es öffnet sich ein separater Tab für
 die Notendruckvorschau.
 
-### Liste kopieren
+## Liste kopieren
 
 Der Button *Liste kopieren* bewirkt, dass die gewählte Honorarnote in
 der Sie sich gerade befinden in die Zwischenablage kopiert wird. Sie
 können diese dann mittels Tastenkombination Strg+V beispielsweise ins
 Excel einfügen.
 
-### Note beim Speichern & schließen finalisieren
+## Note beim Speichern & schließen finalisieren
 
 Sie können die Note sofort beim Speichern & schließen endgültig
 finalisieren, wenn Sie dies nicht schon bereits in den
@@ -680,7 +680,7 @@ Sie aktivieren können.
 
 ![](<img/image233.png>) 
 
-### Tätigkeitsrückblick
+## Tätigkeitsrückblick
 
 Im Zuge der Notenerstellung haben Sie die Möglichkeit sich die letzten
 drei abgerechneten Beträge einer bestimmten Tätigkeit anzeigen zu lassen
@@ -699,7 +699,7 @@ Projektzeitraum und Betrag.
 Indem Sie durch Linksklick eine Zeile auswählen, wird der Betrag in die
 aktuelle Note übernommen.
 
-### Notenrückblick
+## Notenrückblick
 
 Ein Notenrückblick soll Ihnen die bereits verrechneten Noten beim
 Klienten zum Nachsehen aufzeigen. Sie erhalten einen Überblick über alle
@@ -712,14 +712,14 @@ sich im Ribbon befindet zusätzlich öffnen.
 
 ![](<img/image235.png>) 
 
-### Beleg anzeigen
+## Beleg anzeigen
 
 Der Button *Beleg anzeigen* ist nur aktiv, wenn Sie eine vorläufige Note
 erneut bearbeiten. Bei Erstellung einer neuen Note ist der Button immer
 inaktiv. Beim Bearbeiten einer vorläufigen Note können Sie sich neben
 der Notenerstellung auch den zugehörigen Ausgangsbeleg anzeigen lassen.
 
-### Note speichern
+## Note speichern
 
 Wenn Sie mit der Notenbearbeitung/Notenerstellung fertig sind, muss die
 Note noch gespeichert werden. Im rechten unteren Bereich bestehen die

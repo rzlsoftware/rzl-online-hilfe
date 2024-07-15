@@ -1,4 +1,4 @@
-## Allgemeine Textbausteine
+# Allgemeine Textbausteine
 
 Über die allgemeinen Textbausteine haben Sie im HON Next die Möglichkeit
 vorgefertigte Texte anzulegen und diese im Zuge der Leistungserfassung

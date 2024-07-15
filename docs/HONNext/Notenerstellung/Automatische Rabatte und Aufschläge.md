@@ -1,4 +1,4 @@
-## Automatische Rabatte/Aufschläge
+# Automatische Rabatte/Aufschläge
 
 Über den Menüpunkt *Honorarnoten / Automatische Rabatte/Aufschläge*
 haben Sie die Möglichkeit Rabatte und/oder Aufschläge die automatisch
@@ -8,7 +8,7 @@ und Aufschläge werden bei der Notenerstellung automatisch eingefügt.
 
 ![](<img/image236.png>) 
 
-### Neuen automatischen Rabatt/Aufschlag anlegen
+## Neuen automatischen Rabatt/Aufschlag anlegen
 
 Mit der Schaltfläche *Neuen automatischen Rabatt/Aufschlag* (**1**)
 können Sie einen neuen Rabatt/Aufschlag anlegen.
@@ -22,14 +22,14 @@ Minus Vorzeichen einzutragen. Soll für einen Klienten zukünftig kein
 automatischer Rabatt/Aufschlag generiert werden, kann die Option *Aktiv*
 deaktiviert werden.
 
-### automatischen Rabatt/Aufschlag löschen
+## automatischen Rabatt/Aufschlag löschen
 
 Markieren Sie den Rabatt/Ausschlag der gelöscht werden soll und wählen
 die Schaltfläche *Automatischen Rabatt/Aufschlag löschen* (**2**). Es
 wird dann auch die Klienten Zuordnung entfernt und es wird zukünftig
 kein automatischer Rabatt/Aufschlag bei der Note generiert.
 
-### automatischen Rabatt/Aufschlag den Klienten zuordnen
+## automatischen Rabatt/Aufschlag den Klienten zuordnen
 
 Die Zuordnung der Rabatte/Aufschläge erfolgt über die Schaltfläche
 *Zuordnung Bearbeiten* (**3**). Sie erhalten eine Liste mit allen

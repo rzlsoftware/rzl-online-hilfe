@@ -1,4 +1,4 @@
-## Formelsammlung
+# Formelsammlung
 
 **Honorarnote Allgemein**
 

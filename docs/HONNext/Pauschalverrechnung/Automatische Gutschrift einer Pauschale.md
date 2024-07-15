@@ -1,4 +1,4 @@
-## Automatische Gutschrift einer Pauschale
+# Automatische Gutschrift einer Pauschale
 
 In der Honorarverrechnung besteht die Möglichkeit für eine gesamte Note
 eine Gutschrift zu erstellen (Kapitel [Gutschriftenerstellung](/HONNext/Gutschriftenerstellung/)). Wurde mit dieser Note auch eine Pauschale

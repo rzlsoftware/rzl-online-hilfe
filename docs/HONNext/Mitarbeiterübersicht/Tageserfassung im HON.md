@@ -1,4 +1,4 @@
-## Tageserfassung im HON
+# Tageserfassung im HON
 
 Mit dem Button *Tag bearbeiten* (**4**) in der Ansicht des
 Arbeitszeitkalenders, haben Sie die Möglichkeit einzelne Erfassungstage

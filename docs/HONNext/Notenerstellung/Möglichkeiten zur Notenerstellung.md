@@ -1,4 +1,4 @@
-## Möglichkeiten zur Notenerstellung
+# Möglichkeiten zur Notenerstellung
 
 Wenn Sie nun die Klienten ausgewählt haben für die Sie die Noten
 erstellen möchten (siehe [Notenvorschläge](/HONNext/Notenerstellung/Notenvorschläge)), dann können Sie

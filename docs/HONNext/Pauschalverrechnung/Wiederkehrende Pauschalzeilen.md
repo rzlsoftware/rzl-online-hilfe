@@ -1,4 +1,4 @@
-## Wiederkehrende Pauschalzeilen
+# Wiederkehrende Pauschalzeilen
 
 Wiederkehrende Pauschalzeilen werden benötigt, wenn ein Klient z.B.
 monatlich pauschal abgerechnet wird. Es werden hier die benötigen
@@ -14,7 +14,7 @@ Ersichtlich über folgendes Symbol in der unteren rechten Ecke:
 
 ![](<img/image251.png>)
 
-### Neue wiederkehrende Pauschalzeile
+## Neue wiederkehrende Pauschalzeile
 
 Eine neue wiederkehrende Pauschalzeile kann entweder über den Butten im
 Ribbon **(1)** oder über die Schaltfläche neue Wiederkehrende
@@ -123,7 +123,7 @@ Mit 31.10.2023 generiert der RZL-Dienst automatisch eine neue
 Pauschalzeile mit Datum 31.10.2023 für den Projektzeitraum September
 2023 usw.
 
-### Wiederkehrende Pauschalzeile löschen
+## Wiederkehrende Pauschalzeile löschen
 
 Sollte eine Wiederkehrende Pauschalzeile gelöscht werden, können Sie
 dies entweder über das Kontextmenü oder über den Button *Wiederkehrende
@@ -139,7 +139,7 @@ Pauschalzeile löschen.*
 Diese sind manuell über den Reiter *Pauschalzeilen* und den Punkt
 *Pauschalzeile löschen* zu löschen.
 
-### Wiederkehrende Pauschalzeile duplizieren
+## Wiederkehrende Pauschalzeile duplizieren
 
 Mit der Schaltfläche *Wiederkehrende Pauschalzeile duplizieren* können
 Sie eine bestehende Pauschalzeile kopieren. Die neue Wiederkehrende
@@ -149,7 +149,7 @@ werden.
 
 ![](<img/image272.png>)
 
-### Wiederkehrende Pauschalzeile Beträge ändern
+## Wiederkehrende Pauschalzeile Beträge ändern
 
 Bei den wiederkehrenden Pauschalzeilen steht Ihnen die Option *Beträge
 ändern* zur Verfügung. Mit dieser Option können Sie die Beträge mehrerer
