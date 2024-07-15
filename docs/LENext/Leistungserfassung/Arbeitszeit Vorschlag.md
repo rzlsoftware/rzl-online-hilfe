@@ -1,4 +1,4 @@
-## Arbeitszeit Vorschlag
+# Arbeitszeit Vorschlag
 
 Wenn Sie in die Leistungserfassung einsteigen öffnet sich standardmäßig
 der heutige Tag **(1)**.

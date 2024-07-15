@@ -1,11 +1,11 @@
-## Tagesfreigabe
+# Tagesfreigabe
 
 Damit Leistungen in der Honorarverrechnung verrechnet werden können bzw.
 in die Honorarverrechnung übernommen werden, müssen die erfassten
 Leistungen freigegeben werden. Die Freigabemöglichkeiten und die
 Möglichkeit die Freigabe zurück zu setzten werden nachfolgend erklärt.
 
-### Freigabemöglichkeiten
+## Freigabemöglichkeiten
 
 Wurde die Leistungserfassung für den jeweiligen Tag abgeschlossen, muss
 dieser noch für die Honorarverrechnung freigegeben werden.
@@ -50,7 +50,7 @@ Leistungszeilen in der Spalte Status mit diesem Symbol
 
 ![](<img/image51.png>)
 
-### Freigabe zurücksetzen
+## Freigabe zurücksetzen
 
 Wurden Leistungen versehentlich freigegeben, oder sollen bereits
 freigegebene Leistungen geändert werden, können diese wieder als nicht

@@ -1,4 +1,4 @@
-## Unvollständige Tage
+# Unvollständige Tage
 
 Damit unvollständig erfasste Tage bei der Leistungserfassung nicht
 vergessen werden, öffnet sich beim Starten des Moduls Leistungserfassung

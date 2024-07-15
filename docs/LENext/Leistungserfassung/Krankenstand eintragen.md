@@ -1,4 +1,4 @@
-## Krankenstand eintragen
+# Krankenstand eintragen
 
 Wenn Sie in der Leistungserfassung auf den Button *Krankenstand
 eintragen* klicken wird für den geöffneten Tag ein Krankenstand

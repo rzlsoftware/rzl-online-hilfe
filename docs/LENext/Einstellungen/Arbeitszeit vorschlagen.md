@@ -1,4 +1,4 @@
-## Arbeitszeit vorschlagen
+# Arbeitszeit vorschlagen
 
 Hier könne Sie Ihre individuelle Arbeitszeit (Beginn/Ende/Pause)
 definieren. Sowie, ob es sich standartmäßig um einen Homeoffice Tag

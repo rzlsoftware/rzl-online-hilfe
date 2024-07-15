@@ -1,4 +1,4 @@
-## Ganztägiger Zeitausgleich
+# Ganztägiger Zeitausgleich
 
 Wird einen ganzen Tag Zeitausgleich konsumiert, so muss dies durch
 Setzen des Hakens *Ganztägiger Zeitausgleich* beim jeweiligen Tag

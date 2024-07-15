@@ -1,9 +1,9 @@
-## Eingabe einer Leistungszeile außerhalb der Leistungserfassung
+# Eingabe einer Leistungszeile außerhalb der Leistungserfassung
 
 Leistungszeilen können auch außerhalb des RZL-Boards, bzw. der
 Leistungserfassung erfasst werden.
 
-### Mittels Tastenkombination 
+## Mittels Tastenkombination 
 
 Beispielsweise im KIS kann mittels Tastenkombination *Strg + U* eine
 neue Leistungszeile erfasst werden. Dabei wird schon vorab der Klient
@@ -18,7 +18,7 @@ der Erfassungsdialog. Die Leistung selbst finden Sie in der
 Leistungserfassung beim jeweils erfassten Tag als erfasste
 Leistungszeile.
 
-### Mittels Telefonprotokoll/Postausgang
+## Mittels Telefonprotokoll/Postausgang
 
 Wenn ein neues KIS Telefonprotokoll oder ein neuer KIS Postausgang
 gespeichert wird, öffnet sich, wenn beim Mitarbeiter aktiv, die
@@ -37,7 +37,7 @@ Die erfasste Leistung wird durch Klick auf *Speichern* in die
 Leistungserfassung übernommen. Die Leistung wird nicht automatisch
 freigegeben.
 
-### Mittels Tastenkombination im Board
+## Mittels Tastenkombination im Board
 
 Mithilfe der Tastenkombination *Strg + U* wird im gesamten Board ein
 Dialog zur Eingabe einer einzelnen Leistungszeile geöffnet. Sofern ein

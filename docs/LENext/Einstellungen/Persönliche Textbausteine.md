@@ -1,4 +1,4 @@
-## Persönliche Textbausteine
+# Persönliche Textbausteine
 
 Über die persönlichen Textbausteine haben Sie in der Leistungserfassung
 die Möglichkeit vorgefertigte Texte anzulegen und diese im Zuge der

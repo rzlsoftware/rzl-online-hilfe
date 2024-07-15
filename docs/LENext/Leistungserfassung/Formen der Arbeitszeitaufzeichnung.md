@@ -1,4 +1,4 @@
-## Formen der Arbeitszeitaufzeichnung
+# Formen der Arbeitszeitaufzeichnung
 
 -   *Beginn, Ende und Pausen pro Tag erfassen*
 

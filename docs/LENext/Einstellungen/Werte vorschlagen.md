@@ -1,4 +1,4 @@
-## Werte vorschlagen
+# Werte vorschlagen
 
 **Tätigkeit vorschlagen:** Die Tätigkeit der vorherigen Zeile wird in
 der nächsten Eingabezeile vorgeschlagen.

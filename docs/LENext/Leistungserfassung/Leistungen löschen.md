@@ -1,4 +1,4 @@
-## Leistungen löschen
+# Leistungen löschen
 
 Sollen erfasste Leistungen gelöscht werden, so können diese durch den
 ICON Leistung löschen (1) oder mittels Kontextmenü gelöscht werden.

@@ -1,4 +1,4 @@
-## Homeoffice
+# Homeoffice
 
 Befinden Sie sich an einem Tag im Homeoffice, so können Sie dies durch
 setzten des Hakens *Homeoffice* hinterlegen.

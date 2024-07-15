@@ -1,4 +1,4 @@
-## Datenimport Leistungen und Arbeitszeiten
+# Datenimport Leistungen und Arbeitszeiten
 
 Jeder Mitarbeiter hat in seiner Leistungserfassung die Möglichkeit
 Leistungen und Arbeitszeiten zu importieren. Den Importdialog öffnen Sie
@@ -12,7 +12,7 @@ Datenimport*.
     Leistungen und Arbeitszeiten können nur für den eigenen Mitarbeiter
     importiert werden.
 
-### Datenimport Leistungen
+## Datenimport Leistungen
 
 Leistungen können Sie über den Menüpunkt *Datenübernahme / Datenimport*
 und den Punkt *Leistungen* importieren. Im Feld *Dateiname* können Sie
@@ -181,7 +181,7 @@ werden. Dies machen Sie, indem Sie den Tag über den Kalender öffnen und
 
 ![](<img/image71.png>)
 
-### Datenimport Arbeitszeiten
+## Datenimport Arbeitszeiten
 
 Arbeitszeiten können Sie über den Menüpunkt *Datenübernahme /
 Datenimport* und den Punkt *Arbeitszeiten* importieren. Im Feld
@@ -345,7 +345,7 @@ CR\LF getrennt.
     Wurde für diesen Tag bereits eine Arbeitszeit eingetragen, ist ein
     Import der Arbeitszeiten nicht mehr möglich.
 
-### Protokolle Datenübernahme
+## Protokolle Datenübernahme
 
 Über den Menüpunkt *Datenübernahme / Protokolle* können Sie sich die
 Importprotokolle aller durchgeführten Importe von Leistungen und

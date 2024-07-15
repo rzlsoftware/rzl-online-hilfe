@@ -1,4 +1,4 @@
-## Feiertagsverwaltung 
+# Feiertagsverwaltung 
 
 Gesetzliche Feiertage werden in der Leistungserfassung in roter Schrift
 dargestellt. Abweichend zu den gesetzlichen Feiertagen, können in der

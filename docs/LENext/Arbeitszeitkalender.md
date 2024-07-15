@@ -1,4 +1,3 @@
-
 # Arbeitszeitkalender
 
 ## Allgemeines

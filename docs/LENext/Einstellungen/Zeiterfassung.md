@@ -1,4 +1,4 @@
-## Zeiterfassung
+# Zeiterfassung
 
 Mit diesen Optionen können Sie für das Telefonprotokoll, für die KIS
 Postausgänge sowie für die Aktivitäten in den RZL Klassik Programmen
@@ -31,7 +31,7 @@ Option *Leistungen erfassen*
 
 ![](<img/image75.png>)
 
-### Aktivitäten RZL Klassik Programme
+## Aktivitäten RZL Klassik Programme
 
 Bei den RZL Klassik Programmen kann in der Leistungserfassung
 eingestellt werden, dass aus den Aktivitäten im Klienten
@@ -49,7 +49,7 @@ Abrechnungen im RZL Lohn.
     Für die Dauer die Fokuszeit, also Zeit in der das Programm auch
     tatsächlich im Vordergrund war.
 
-### Programmaktivitäten zuordnen
+## Programmaktivitäten zuordnen
 
 Ist in den Eistellungen die Zeiterfassung aktiv, so erscheinen die
 Aktivitäten in der Leistungserfassung unter dem Punkt

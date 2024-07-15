@@ -1,4 +1,4 @@
-## Urlaub eintragen
+# Urlaub eintragen
 
 Wenn Sie in der Leistungserfassung auf den Button *Urlaub eintragen*
 klicken wird für den geöffneten Tag eine Urlaubszeile automatisch
@@ -14,7 +14,7 @@ angehakt sein, oder eine Arbeitszeit eingetragen worden sein.
 !!! warning "Hinweis"
     Urlaubszeilen werden gelb hinterlegt.
 
-### Unterschied Eingabe Urlaub in Stunden und Urlaub in Tagen
+## Unterschied Eingabe Urlaub in Stunden und Urlaub in Tagen
 
 In der Leistungserfassung ist bei Urlaub nach Stunden das Feld *Dauer*
 aktiv und bei Urlaub nach Tagen das Feld *Einheiten*.

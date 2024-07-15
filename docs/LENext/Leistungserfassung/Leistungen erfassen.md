@@ -1,6 +1,6 @@
-## Leistungen erfassen
+# Leistungen erfassen
 
-### Eingabedialog
+## Eingabedialog
 
 Mittels Mausklick in das Feld *Tätigkeit Nr.* oder mit der Tabulator-
 bzw. Enter-Taste **(1)** kann eine Leistungszeile eingetragen werden.
@@ -68,7 +68,7 @@ Hinweis *„Die Auswahl des Klienten ist leer“* angezeigt.
 *4. Zeile:* Die Tätigkeit wurde nicht eingetragen. Beim Status wird der
 Hinweis *„Die Auswahl der Tätigkeit ist leer*“ angezeigt.
 
-### Textfeld
+## Textfeld
 
 Über das Textfeld besteht die Möglichkeit einen Text für die
 Notenerstellung zu definieren. Hierfür wird im Textfeld der zu
@@ -133,7 +133,7 @@ Ansicht in der Note:
     jeweiligen Textbausteine mittels Zeilenschaltung getrennt (siehe
     Beispiel 3).
 
-### Infozeile 
+## Infozeile 
 
 Während der Leistungserfassung ist im unteren Bereich der Erfassung
 ersichtlich, ob es Differenzen zur Arbeitszeit gibt **(1).** Ebenso
@@ -185,7 +185,7 @@ Der aktuelle Saldo des Zeitausgleiches für den jeweiligen Tag.
     Alle Werte der Infozeile werden mittels Tooltip erläutert. Sie können
     rasch und einfach herausfinden wie sich der Wert zusammensetzt.
 
-### Tageserfassung
+## Tageserfassung
 
 Wird nicht der heutige Tag, sondern ein anderer Tag erfasst **(3)**,
 kann dieser aus dem Kalender heraus ausgewählt werden. Der heutige Tag
@@ -210,7 +210,7 @@ Rechts* (Rechte Pfeiltaste/Cursortaste) erfasst werden.
     Die Eingaben in der Leistungserfassung werden automatisch gespeichert.
     Es existiert kein Speichern Button in dieser Ansicht.
 
-### Arbeitszeitgesetz 
+## Arbeitszeitgesetz 
 
 Wird das Arbeitszeitgesetz nicht eingehalten, so erhalten Sie im unteren
 Bereich der Leistungserfassung einen Hinweis in den nachfolgend
