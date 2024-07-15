@@ -3,7 +3,7 @@
 ## Kontenbereiche
 
 
-Die Definition der Kontenbereiche wird im Kapitel [Kontenplan anlegen](../../Stammdaten%20Vorlagen/Kontenplane.md#kontenplan-anlegen) näher erläutert. Unter *Stammdaten / Kontenbereiche* kann von den im Kontenplan festgelegten Kontenbereichen abgewichen werden.
+Die Definition der Kontenbereiche wird im Kapitel [Kontenplan anlegen](../../Stammdaten/Kontenplane.md#kontenplan-anlegen) näher erläutert. Unter *Stammdaten / Kontenbereiche* kann von den im Kontenplan festgelegten Kontenbereichen abgewichen werden.
 
 
 ![Image](<img/NeuesElement111.png>)
