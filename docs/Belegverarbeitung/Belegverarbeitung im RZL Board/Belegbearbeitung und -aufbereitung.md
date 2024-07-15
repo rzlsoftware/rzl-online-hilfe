@@ -577,7 +577,8 @@ kann diese Funktion ausgeführt werden. Zwei Aktionen werden ausgeführt:
     verschiedenen Möglichkeiten ausgelesen (QR Code, RZL
     Belegdatenerkennung, Schablonen …) und beim Beleg gespeichert.
 
--   **Ausgewählte Belegdaten erkennen**
+   
+-   **Ausgewählte Belegdaten erkennen**   
 
 Selbe Funktion wie Belegdaten erkennen – gilt nur für markierte Belege.
 
