@@ -1,4 +1,4 @@
-## Externe Dokumente und Bilder drucken
+# Externe Dokumente und Bilder drucken
 
 Im RZL PDF-Manager haben Sie die Möglichkeit, PDF Ausdrucke aus externen
 Programmen wie Word, Excel, PowerPoint, Microsoft Outlook, Internet

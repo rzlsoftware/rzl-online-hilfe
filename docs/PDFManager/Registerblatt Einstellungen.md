@@ -1,4 +1,4 @@
-# Einstellungen
+# Registerblatt „Einstellungen"
 
 
 ![](<img/image72.png>)

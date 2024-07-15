@@ -1,4 +1,4 @@
-## Detailansicht
+# Detailansicht
 
 Wenn Sie ein Dokument im RZL PDF-Manager öffnen, können Sie in der
 Detailansicht folgende weitere Einstellungen treffen. Durch Klick auf

@@ -1,4 +1,4 @@
-## Technische Voraussetzungen
+# Technische Voraussetzungen
 
 Um den RZL PDF-Manager nutzen zu können, ist es erforderlich, dass Sie
 das RZL Board/KIS bereits in Verwendung haben. Zudem müssen Sie einmalig

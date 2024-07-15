@@ -1,4 +1,4 @@
-## Hilfe
+# Hilfe
 
 In diesem Abschnitt werden die einzelnen Punkte des Hilfemenüs erklärt.
 

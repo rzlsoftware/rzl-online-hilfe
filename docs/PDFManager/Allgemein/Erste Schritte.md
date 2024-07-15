@@ -1,4 +1,4 @@
-## Erste Schritte
+# Erste Schritte
 
 Um den neuen RZL PDF-Manager nutzen zu können, gehen Sie bitte in einem
 beliebigen RZL Programm im Menü auf *Hilfsmittel / Einstellungen /
