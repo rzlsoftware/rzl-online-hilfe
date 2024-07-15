@@ -1,4 +1,7 @@
-<img src=".\img/image1.jpg"
-style="width:8.26444in;height:11.6875in" />
+---
+title: Leistungserfassung Next Handbuch
+---
 
 
+ ![alt text](img/Leistungserfassung Next.svg#only-light)
+ ![alt text](img/Leistungserfassung Next DM.svg#only-dark)    
