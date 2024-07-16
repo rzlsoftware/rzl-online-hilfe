@@ -52,14 +52,6 @@
           </div>
         </div>
         
-        {% if config.theme.hainz %}
-        <div class="md-header__fragHainz-link md-icon">
-            <a target="_blank" href="{{ config.theme.hainz.url }}">
-                <img src="{{ config.theme.hainz.icon }}"/>
-            </a>
-        </div>
-        {% endif %}
-
         <!-- Color palette toggle -->
         {% if config.theme.palette %}
           {% if not config.theme.palette is mapping %}
@@ -86,6 +78,14 @@
 
           <!-- Search interface -->
           {% include "partials/search.html" %}
+        {% endif %}
+
+        {% if config.theme.hainz %}
+        <label class="md-header__button md-icon">
+            <a target="_blank" href="{{ config.theme.hainz.url }}">
+                <img src="{{ config.theme.hainz.icon }}"/>
+            </a>
+        </div>
         {% endif %}
 
         <!-- Repository information -->
