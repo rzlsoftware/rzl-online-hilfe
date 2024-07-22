@@ -67,8 +67,7 @@ entsprechenden Eintragungen vornehmen.
 ![](img/image68.png)
 
 Im Feld *Server* tragen Sie die Adresse ein, wie im Handbuch
-Klientenportal *(Hilfe / Handbuch / Klienten-Portal Klient)* Kapitel
-Start beschrieben. In den Feldern *Benutzer* und *Passwort* muss Ihr
+Klientenportal *(Hilfe / Handbuch / [Klienten-Portal Klient](https://rzlsoftware.at/fileadmin/user_upload/PDF_Handbuecher/KP_Klient.pdf))* Kapitel *Start* beschrieben. In den Feldern *Benutzer* und *Passwort* muss Ihr
 „normaler“ Log-In – mit dem Sie sich am RZL Klientenportal anmelden –
 eingetragen werden.
 

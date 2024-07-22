@@ -73,5 +73,4 @@ Sie einfach auf den Begriff *Belegsynchronisation*, um das Protokoll zu
 öffnen.
 
 Weitere Details zur Belegsynchronisation finden Sie in unserer
-Kurzanleitung (Menüpunkt *Hilfe / Kurzanleitungen* direkt im jeweiligen
-RZL Programm).
+[Kurzanleitung](https://rzlsoftware.at/fileadmin/user_upload/PDF_Kurzanleitungen/BELEG/BELEG_Klientenportal_Synchronisation_Belege.pdf) (Menüpunkt *Hilfe / Kurzanleitungen* direkt im jeweiligen RZL Programm).

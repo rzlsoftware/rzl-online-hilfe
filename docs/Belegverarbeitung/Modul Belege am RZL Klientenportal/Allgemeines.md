@@ -10,10 +10,10 @@ und an die Kanzlei/Zentrale versenden.
 
 Eine allgemeine Beschreibung des RZL-Klientenportals erhalten Sie
 innerhalb der RZL-Programme im Programmteil *Hilfe / Handbücher /
-Klienten-Portal Kanzlei/Klient*.
+[Klienten-Portal Kanzlei](https://rzlsoftware.at/fileadmin/user_upload/PDF_Handbuecher/KP_Kanzlei.pdf) bzw.
+[Klienten-Portal Klient](https://rzlsoftware.at/fileadmin/user_upload/PDF_Handbuecher/KP_Klient.pdf).*
 
-Für die Bereitstellung von Belegen über das RZL Klientenportal gehen Sie
-bitte wie folgt vor:
+Die einzelnen Schritte zur Bereitstellung von Belegen über das RZL Klientenportal werden in den folgenden Kapiteln beschrieben.
 
 *Bitte beachten Sie, dass dafür das Klientenportal Modul „Belege“
 lizenziert sein muss!*
