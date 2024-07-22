@@ -16,7 +16,7 @@ Hier kann pro Terminal eine eigene Kreditkartenverbuchungsregel angelegt werden.
 
 ![Kreditkartenverbuchungsregel anlegen](img/image2.png)
 
-Die Vertrags- bzw. Terminalnummer können Sie in den meisten Fällen der monatlichen Abrechnung entnehmen.
+Die Vertrags- bzw. Terminalnummer können Sie in den meisten Fällen der monatlichen Abrechnung entnehmen (Ausnahme Kreditkartenanbieter Worldline - hier gibt es keine eindeutige Terminalnummer)
 
 Sämtliche in der Liste vorhandenen Kreditkartenanbieter liefern die notwendigen Informationen für die automatische Aufteilung der Buchung im Verwendungszweck mit.
 In den Stammdaten der Kreditkartenverbuchungsregel können Sie die Konten festlegen, auf welche die Abrechnung aufgeteilt werden soll.
