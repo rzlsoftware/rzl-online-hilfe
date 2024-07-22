@@ -1,10 +1,10 @@
-
 nav:
-    - Buchen
-    - Anzahlungen
-    - RetourdatenverarbeitungMittelsCAMT-Dateien.md
-    - Eröffnungsbilanz
-    - OPBearbeiten.md
-    - UebernahmeSalden.md
-    - Notizzettel.md
-    - ...   
+- Buchen
+- Anzahlungen
+- RetourdatenverarbeitungMittelsCAMT-Dateien.md
+- KontoauszugsverbuchungNetbanking.md
+- Eröffnungsbilanz
+- OPBearbeiten.md
+- UebernahmeSalden.md
+- Notizzettel.md
+- ...
