@@ -23,7 +23,7 @@
     Ansicht in der Leistungserfassung vom Mitarbeiter:
 
    
-   ![](<img/image15.png>)
+    ![](<img/image15.png>)
 
 -   *Keine Arbeitszeitaufzeichnung*
 
