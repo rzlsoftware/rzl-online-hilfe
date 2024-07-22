@@ -30,9 +30,9 @@ Nach Vergabe einer Bezeichnung für die neue Buchungstextgruppe öffnet sich ein
 
 Im Anschluss öffnet sich unten das Detail und Sie müssen folgende Felder befüllen:
 
-| *Feld* | *Beschreibung* |
-| --- | --- |
-| Nummer | Nummerierung des Buchungstextes. |
+| *Feld*       | *Beschreibung*                                 |
+| ------------ | ---------------------------------------------- |
+| Nummer       | Nummerierung des Buchungstextes.               |
 | Buchungstext | Festlegung der Bezeichnung des Buchungstextes. |
 
 
