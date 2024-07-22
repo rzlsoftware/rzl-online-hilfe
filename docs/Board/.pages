@@ -1,4 +1,7 @@
-
 nav:
     - index.md
+    - Allgemein
+    - Stammdatenverwaltung (STAMM)
+    - Portale
+    - Kanzleiinformationssystem (KIS)
     - ...
