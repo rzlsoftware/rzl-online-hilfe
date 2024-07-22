@@ -1,7 +1,7 @@
 # Belegbearbeitung und -aufbereitung
 
 
-# Belege hinzufügen
+## Belege hinzufügen
 
 -   ![](img/image7.png) Klient öffnen links oben im Feld Klient wählen (Nr. oder Name
     eingeben).

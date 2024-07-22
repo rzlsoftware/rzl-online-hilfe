@@ -4,7 +4,7 @@ Im Bereich *Einstellungen* finden Sie folgende Möglichkeiten:
 
 ![](img/image58.png)
 
-**Scanordner**
+## Scanordner
 
 Bevor Sie mit dem Scannen beginnen, legen Sie für jeden Mitarbeiter
 einen eigenen Scanordner im Netzwerk und im RZL Board an. Die Anlage
@@ -54,17 +54,17 @@ Bei Aktivierung
     instabilen Verbindung zum Scan-Ordner zu empfehlen.
 
 
-**Belegschablonen**  
+## Belegschablonen  
 Die bisher angelegten Belegschablonen werden in einer Liste angezeigt.
 Sie können hier Schablonen löschen oder auch umbenennen. Außerdem finden
 Sie hier Informationen, wann die Schablone von wem erstellt wurde und
 wann sie von wem zuletzt geändert wurde. Schablonen können auch
 exportiert und importiert werden.
 
-**Texterkennung (OCR)**  
+## Texterkennung (OCR)  
 Siehe Kapitel *Einstellungen zur OCR-Erkennung bei gescannten Belegen*
 
-**Stempel**  
+##  Stempel  
 In diesem Menü können Sie den Buchungsstempel für *Gebuchte
 Belege* konfigurieren. Sie können festlegen, welche Felder am Stempel
 *Gebucht* in welcher Reihenfolge angezeigt werden sollen.  
@@ -125,7 +125,7 @@ Menüleiste entscheiden, ob der Buchungsstempel sichtbar angezeigt wird.
 Beim Export eines Beleges als PDF wird der Stempel und der Kommentar
 nicht exportiert und angezeigt.
 
-**Grundeinstellungen**
+## Grundeinstellungen
 
 ![](img/image64.png)
 
@@ -154,7 +154,4 @@ nicht exportiert und angezeigt.
     der FIBU auf Basis dieser GLN-Nummer Buchungsvorschläge zu
     generieren.
 
-# Zusatzmodul Belegfreigabe
 
-Siehe Kurzanleitung *RZL Modul Belegfreigabe* unter *Hilfe /
-Kurzanleitungen.*
