@@ -3,7 +3,8 @@ function checkAndAddSlash() {
 
     if (currentUrl.endsWith("/") 
      || currentUrl.endsWith(".html")
-     || currentUrl.endsWith("index")) {
+     || currentUrl.endsWith("index")
+     || currentUrl.split('#')[1]) {
         return;
     }
 
