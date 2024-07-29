@@ -1,6 +1,4 @@
-# Kanzleiinformationssystem (KIS)
-
-## Serienversand
+# Serienversand
 
 Der Serienversand befindet sich im RZL BOARD im Menüpunkt KIS. Durch Anwahl des Menüpunktes KIS gelangen
 Sie in den Bereich des Kanzlei-Informations-Systems.
@@ -10,7 +8,7 @@ verwalten, Serienbrief erstellen und Serien-E-Mail erstellen unterteilt ist.
 
 ![](<img/image197.png>) 
 
-### 4.1.1 Empfängerlisten verwalten
+## Empfängerlisten verwalten
 
 Um einen Serienbrief zu erstellen, muss im ersten Schritt eine Empfängerliste angelegt werden.
 Über Empfängerlisten verwalten rufen Sie die Übersicht über die bestehenden Empfängerlisten auf. Die Kurzbezeichnung,
@@ -107,7 +105,7 @@ werden (1). Unter den Verwendungen sieht man bei einer Person auch die Zuordnung
 
 ![](<img/image205.png>) 
 
-### 4.1.2 Listenfunktionen
+## Listenfunktionen
 Für die erstmalige Erstellung einer Empfängerliste empfehlen wir Ihnen zur Unterstützung mit den Listenfunktionen
 zu arbeiten. Sie können in den Listen beispielsweise nach einem Klienten bzw. einer Person suchen
 oder nach bestimmten Daten filtern. Es werden bei der Suche auch ähnlich klingende Suchergebnisse miteinbezogen
@@ -152,7 +150,7 @@ ausgewählten Eintrag als CSV Datei exportieren – wollen Sie allerdings die ge
 Datei exportieren, wählen Sie die Schaltfläche über der Empfängerliste. Zusätzlich können Sie auch ausgewählte
 Einträge löschen, die Liste drucken oder kopieren und ausgewählte Einträge kopieren.
 
-### 4.1.3 Wordvorlagen erstellen
+## Wordvorlagen erstellen
 
 Um einen Serienbrief bzw. Serien-E-Mail erstellen zu können, ist im MS Word zunächst eine Wordvorlage zu
 erstellen. Für die Erstellung einer Wordvorlage nutzen Sie das Register RZL (1) im MS Word. Bitte beachten Sie,
@@ -217,7 +215,7 @@ Beispiel für eine einfache Wordvorlage für Serien-E-Mails
 Bitte beachten Sie, dass bei einer Wordvorlage, die für Serien-E-Mails verwendet wird, Kopf-und Fußzeilen nicht
 übernommen werden können.
 
-### 4.1.4 Serienbrief
+## Serienbrief
 Erstellung Serienbrief
 Über die Schaltfläche Serienbrief erstellen kann ein neuer Serienbrief auf Basis einer zuvor angelegten Empfängerliste
 erstellt werden.
@@ -269,7 +267,7 @@ eingetragen und in die Dokumentenverwaltung übernommen. Die einzelnen Serienbri
 je Klient unter dem Korrespondenz-Typ „Serienbrief“ abgespeichert. Die Serienbriefe sowie auch die Serien-EMails
 werden im KIS im Kanzleibereich beim Postausgang in einem eigenen Unterpunkt Serienversand angezeigt.
 
-### 4.1.5 Serien-E-Mail
+## Serien-E-Mail
 
 Über die Schaltfläche Serien-E-Mail erstellen können Sie ein Serien-E-Mail auf Basis einer zuvor angelegten
 Empfängerliste erstellen. Beim Versenden eines Serien-E-Mails wird je Empfänger ein separates E-Mail erstellt

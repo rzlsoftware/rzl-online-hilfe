@@ -79,51 +79,15 @@ E-Mail-Adressen und Adressen eingeben und verwalten.
 Jedem Eintrag kann ein Typ zugeordnet werden. Dabei sind folgende Typen
 möglich:
 
+| *Telefonnummer*      | *E-Mail*     | *Adressen*              |
+| -------------------- | ------------ | ----------------------- |
+| Telefon geschäftlich | Geschäftlich | Geschäftlich            |
+| Mobil geschäftlich   | Privat       | Privat                  |
+| Telefon privat       | Sonstige     | Privat und Geschäftlich |
+| Mobil privat         |              | Sonstige                |
+| Fax                  |              |                         |
+| Sonstige             |              |                         |
 
-<table>
-<colgroup>
-<col style="width: 36%" />
-<col style="width: 23%" />
-<col style="width: 40%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Telefonnummer</td>
-<td>E-Mail</td>
-<td>Adressen</td>
-</tr>
-<tr class="even">
-<td>Telefon geschäftlich</td>
-<td>Geschäftlich</td>
-<td>Geschäftlich</td>
-</tr>
-<tr class="odd">
-<td>Mobil geschäftlich</td>
-<td>Privat</td>
-<td>Privat</td>
-</tr>
-<tr class="even">
-<td>Telefon privat</td>
-<td>Sonstige</td>
-<td>Privat und Geschäftlich</td>
-</tr>
-<tr class="odd">
-<td>Mobil privat</td>
-<td></td>
-<td>Sonstige</td>
-</tr>
-<tr class="even">
-<td>Fax</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Sonstige</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 Sie können über das Symbol ![](<img/image25.png>) mittels Drag und Drop die
 Reihenfolge der Einträge verschieben. Nach dieser Reihenfolge werden
@@ -134,17 +98,14 @@ löschen. Über das Symbol ![](<img/image27.png>)können Sie Anrufe tätigen und
 
 ![](<img/image29.png>)
 
-![](<img/image30.png>)
-
 Wird eine Adresse bei einem
 Betrieb verwendet, wird unterhalb der betreffenden Adresse die
-Bezeichnung des Betriebes angezeigt und daneben mit dem Symbol
+Bezeichnung des Betriebes angezeigt und daneben mit dem Symbol ![](<img/image30.png>)
 gekennzeichnet.
 
-![](<img/image31.png>)
-Wenn eine bestimmte Adresse
-als Zustelladresse verwendet werden soll, können Sie dies über die
-Option kennzeichnen. Diese Adresse wird als Zustelladresse für die
+
+Wenn eine bestimmte Adresse als Zustelladresse verwendet werden soll, können Sie dies über die
+Option ![](<img/image31.png>) kennzeichnen. Diese Adresse wird als Zustelladresse für die
 Honorarverrechnung verwendet, soweit keine Kontaktperson als
 Zustellvertreter für Rechnungen eingetragen ist.
 
@@ -155,12 +116,11 @@ verwendet wird (z. B. als Klient, (Ehe)Partner usw.)
 
 ![](<img/image32.png>)
 
-TIpp
-
-Die Verwendung kann durch einen Doppelklick geöffnet werden. Bei der
-Verwendung als (Ehe)Partner wird beispielsweise der Ehepartner und bei
-der Verwendung als Klient, der betreffende Klient geöffnet. So können
-verbundene Daten schneller erreicht und bearbeitet werden.
+!!! info "Tipp"
+    Die Verwendung kann durch einen Doppelklick geöffnet werden. Bei der
+    Verwendung als (Ehe)Partner wird beispielsweise der Ehepartner und bei
+    der Verwendung als Klient, der betreffende Klient geöffnet. So können
+    verbundene Daten schneller erreicht und bearbeitet werden.
 
 Empfängerliste
 
@@ -284,8 +244,7 @@ Honorarverrechnung. Über die Schaltfläche *zur Personenansicht* **(2)**
 können Sie zur Personenansicht wechseln, um die Daten der Kontaktperson
 zu bearbeiten.
 
-![](<img/image40.png>)
-Über das Symbol **(3)**
+Über das Symbol ![](<img/image40.png>) **(3)**
 können Sie die Verbindung zur Kontaktperson trennen, wobei die Person an
 sich nicht gelöscht wird.
 
@@ -332,12 +291,9 @@ Einstellung care of (c/o) auswählen. Wenn Sie dann die Personen- bzw.
 Firmenadresse aus den Adressen auswählen, wird die Adresse im
 Serienversand wie folgt angezeigt:
 
-Höller Hubert (Kontaktperson)
-
-c/o Höller Metallbau (Person bzw. Firma)
-
-Hannesgrub Nord 35 (Anschrift Person bzw. Firma)
-
+Höller Hubert (Kontaktperson)   
+c/o Höller Metallbau (Person bzw. Firma)   
+Hannesgrub Nord 35 (Anschrift Person bzw. Firma)   
 4911 Tumeltsham
 
 ![](<img/image43.png>)
@@ -428,12 +384,11 @@ Unter den Kontakten können betriebsbezogene Kontakte hinterlegt werden
 
 Über *Person löschen* können Sie die Person löschen.
 
-HInweis
-
-Eine Person kann nicht gelöscht werden, wenn Verwendungen für die Person
-bestehen. Somit kann eine Person, die z.B. als Klient, Kontaktperson, …
-verwendet wird erst dann gelöscht werden, wenn die Verwendungen nicht
-mehr bestehen.
+!!! warning "Hinweis"
+    Eine Person kann nicht gelöscht werden, wenn Verwendungen für die Person
+    bestehen. Somit kann eine Person, die z.B. als Klient, Kontaktperson, …
+    verwendet wird erst dann gelöscht werden, wenn die Verwendungen nicht
+    mehr bestehen.
 
 Im Löschdialog haben Sie die Möglichkeit, bestehende Verwendungen gleich
 direkt zu löschen **(1)**. Einige Verwendungen sind hiervon ausgenommen
@@ -501,11 +456,10 @@ hinterlegen. Im Zuge der Hinterlegung der UID-Nummer kann diese
 zusätzlich überprüft werden. Ist diese gültig sehen Sie ein grünes
 Hakerl neben dem Feld der UID-Nummer.
 
-**TIPP**
-
-Nach Eingabe der UID-Nummer prüfen Sie diese mithilfe der F3-Taste.
-Sofern diese gültig ist kann die Adresse – mit Klick auf den grünen
-Pfeil – in die Stammdaten übernommen werden.
+!!! info "Tipp"
+    Nach Eingabe der UID-Nummer prüfen Sie diese mithilfe der F3-Taste.
+    Sofern diese gültig ist kann die Adresse – mit Klick auf den grünen
+    Pfeil – in die Stammdaten übernommen werden.
 
 ![](<img/image56.png>)
 
@@ -567,7 +521,7 @@ wurden.
 ![](<img/image59.png>)
 
 
-**Gesetzliche** Vertreter
+**Gesetzliche Vertreter**
 
 Über diesen Bereich werden die gesetzlichen Vertreter verwaltet. Die
 Eintragung der Gesellschafter hat derzeit keine Auswirkung auf die
@@ -582,8 +536,7 @@ im Registerblatt *Firmen II* als gesetzliche Vertreter.
 
 ## UID-Nummer(n) über Finanz-Online prüfen
 
-**UID** **Nummern** **Überprüfung** **in**
-**Personen**-/**Firmenstammdaten**
+**UID Nummern Überprüfung in Personen-/Firmenstammdaten**
 
 Die UID-Nummer eines Klienten kann bei Personen in der Registerkarte
 *Personen Erweitert* und bei Firmen unter *Firmendaten Erweitert*
@@ -610,7 +563,7 @@ angelegt. Neben der Adresse finden Sie den Merker *UID*. Wenn Sie die
 Maus über diesen Merker bewegen, erscheint Ihnen die jeweilige UID
 Nummer der Adresse.
 
-### **UID** Prüfung von mehreren Klienten
+### UID Prüfung von mehreren Klienten
 
 Möchten Sie mehrere UID-Nummern auf einmal überprüfen, so können Sie die
 gewünschten Klienten über die Klientenliste bzw. in der Personen und
@@ -733,7 +686,7 @@ automatisch *Risiko-Check.csv* vergeben. Der Dateityp kann nicht
 geändert werden. Diese Datei kann ohne weitere Bearbeitung in der
 Listenverarbeitung (kdlink+) beim Risiko-Check verarbeitet werden.
 
-**Verwaltung** **der** **Prüfergebnisse**
+**Verwaltung der Prüfergebnisse**
 
 In den Stammdaten einer Person bzw. Firma haben Sie nun im Register
 *Risiko-Check* die Möglichkeit, die Informationen aus dem Risiko-Check
@@ -760,7 +713,7 @@ Klientenstammdaten im Bereich Geldwäscheprävention angezeigt.
 
 ## Einschränkung der personenbezogenen Datenverarbeitung (Art. 18 DSGVO)
 
-**Einschränkung** **der** **Verarbeitung** **von** **Personendaten**
+**Einschränkung der Verarbeitung von Personendaten**
 
 Nach Art. 18 DSGVO hat ein Betroffener das Recht auf Einschränkung der
 Verarbeitung seiner Daten. Dies ist insbesondere der Fall, wenn es zu
@@ -805,7 +758,7 @@ möglich) und weiterhin als Person für die Verwendung als Kontaktperson
 
 ![](<img/image68.png>)
 
-**Verknüpfte Personen (Kontaktpersonen, Ehepartner, Kinder) von einzuschränkenden Personen **
+**Verknüpfte Personen (Kontaktpersonen, Ehepartner, Kinder) von einzuschränkenden Personen**
 
 In den Stammdaten einer Person können auch Kontaktpersonen, Ehepartner
 oder Kinder verwaltet werden. Bei den Daten dieser Personen handelt es
@@ -821,7 +774,7 @@ Hinfahren mit der Maus erscheint, ersichtlich.
 
 ![](<img/image69.png>)
 
-**Aufhebung** **der** **Einschränkung**
+**Aufhebung der Einschränkung**
 
 Die einzige Funktion, welche bei der eingeschränkten Person noch möglich
 ist, ist die Aufhebung der Einschränkung. Die Aufhebung der

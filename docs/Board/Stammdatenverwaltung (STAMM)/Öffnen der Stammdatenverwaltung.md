@@ -90,23 +90,21 @@ werden.
 ![](<img/image18.png>)
 ![](<img/image19.png>)
 
-Tipp
+!!! info "Tipp"
+    Sie erhalten beispielsweise über die Filter-Regel „beginnt mit“ „0664“
+    in der Spalte „Tel.Nr“ eine Liste aller Personen und Firmen, deren
+    Telefonnummer mit 0664 beginnt.
 
-Sie erhalten beispielsweise über die Filter-Regel „beginnt mit“ „0664“
-in der Spalte „Tel.Nr“ eine Liste aller Personen und Firmen, deren
-Telefonnummer mit 0664 beginnt.
-
-### **Suche** in Listen
+### Suche in Listen
 
 In der Kopfzeile der Ansicht *Personen und Firmen* kann nach der Person
 oder Firma, in der Ansicht *Klienten* nach den Klienten und in der
 Ansicht *Mitarbeiter* nach den Mitarbeitern gesucht werden.
 
-hinweis
-
-Es werden bei der Suche auch ähnlich klingende Suchergebnisse mit
-einbezogen. Bei der Suche nach der Person „Mayer“ werden z. B. auch
-Personen mit dem Namen „Mayr“, „Meier“ usw. gefunden (sog. phonetische
-Suche).
+!!! warning "Hinweis"
+    Es werden bei der Suche auch ähnlich klingende Suchergebnisse mit
+    einbezogen. Bei der Suche nach der Person „Mayer“ werden z. B. auch
+    Personen mit dem Namen „Mayr“, „Meier“ usw. gefunden (sog. phonetische
+    Suche).
 
 ![](<img/image20.png>)

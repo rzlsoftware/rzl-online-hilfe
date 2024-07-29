@@ -55,10 +55,9 @@ Firma.
 
 In diesem Feld sehen Sie die vergebene Klientennummer.
 
-Hinweis
-
-Eine Klientennummer kann nur in der ZMV über *Klient / Nummer ändern*
-und nicht im RZL Board geändert werden.
+!!! warning "Hinweis"
+    Eine Klientennummer kann nur in der ZMV über *Klient / Nummer ändern*
+    und nicht im RZL Board geändert werden.
 
 **Person (Firma) / zugeordneter Betrieb**
 
@@ -172,8 +171,7 @@ enthalten sein sollen.
 
 ## Klientenportal 
 
-**Aktivierung** **eines** **Klienten** **für** **das** **RZL**
-**Klientenportal**
+**Aktivierung eines Klienten für das RZL Klientenportal**
 
 Damit ein Klient grundsätzlich am RZL Klientenportal zur Verfügung
 steht, müssen Sie im Bereich der Klientenstammdaten im STAMM im Register
@@ -299,15 +297,12 @@ Klienten eine juristische Person hinterlegt ist. Über die Schaltfläche
 Meldung anlegen. Da die Meldung auch vom Rechtsträger selbst erfolgen
 kann, kann auch der Klient als Überprüfer vermerkt werden.
 
-Abb. ‑ Überprüfung durchführen
-
 ![](<img/image88.png>)
 
 Zusätzlich können Sie über den Button *Auszug anfordern* **(1)** vier
 verschiedene Arten von Auszügen manuell anfordern. Unter Dokumente
 **(2)** werden die Auszüge gespeichert.
 
-Abb. ‑ Auszug manuell abrufen
 
 ![](<img/image89.png>)
 
@@ -377,8 +372,7 @@ soll.
 
 ![](<img/image96.png>)
 
-Weitere Einstellungen zur WiEReG-Anbindung finden Sie im Kapitel [3.2
-USP](#usp).
+Weitere Einstellungen zur WiEReG-Anbindung finden Sie im Kapitel [USP](/Board/Portale/USP)
 
 ##  Geldwäscheprävention
 
@@ -447,25 +441,23 @@ hinterlegen. Diese erinnert Sie daran, erneut die Risikobeurteilung
 durchzuführen, indem – je nach Risikoeinstufung – jährlich oder alle 2
 bzw. 3 Jahre eine Aufgabe erstellt wird.
 
-Hinweis
-
-Wurde bei Risikobeurteilungen bevor Sie das WiEReG/Geldwäsche Modul
-erworben haben, keine Risikogesamteinschätzung eingetragen, wird keine
-Aufgabe automatisch erstellt. Tragen Sie hier die
-Risikogesamteinschätzung nach bzw. erstellen Sie eine erneute
-Risikobeurteilung nach Erwerb des WiEReG/Geldwäsche Moduls.
+!!! warning "Hinweis"
+    Wurde bei Risikobeurteilungen bevor Sie das WiEReG/Geldwäsche Modul
+    erworben haben, keine Risikogesamteinschätzung eingetragen, wird keine
+    Aufgabe automatisch erstellt. Tragen Sie hier die
+    Risikogesamteinschätzung nach bzw. erstellen Sie eine erneute
+    Risikobeurteilung nach Erwerb des WiEReG/Geldwäsche Moduls.
 
 ![](<img/image100.png>)
 
-Hinweis
-
-Haben Sie vor den Neuerungen zur Geldwäscheprävention bereits
-Risikobeurteilungen angelegt, wird auf Basis der hinterlegten
-Aufgabenvorlage trotzdem eine Aufgabe erstellt, sofern drei Jahre seit
-der letzten Beurteilung noch nicht verstrichen sind. Das könnte
-bedeuten, dass in der Anfangsphase manche Aufgaben doppelt vorhanden
-sind: Automatisch erzeugte Aufgaben sowie jene, die bereits zuvor
-manuell erstellt wurden.
+!!! warning "Hinweis"
+    Haben Sie vor den Neuerungen zur Geldwäscheprävention bereits
+    Risikobeurteilungen angelegt, wird auf Basis der hinterlegten
+    Aufgabenvorlage trotzdem eine Aufgabe erstellt, sofern drei Jahre seit
+    der letzten Beurteilung noch nicht verstrichen sind. Das könnte
+    bedeuten, dass in der Anfangsphase manche Aufgaben doppelt vorhanden
+    sind: Automatisch erzeugte Aufgaben sowie jene, die bereits zuvor
+    manuell erstellt wurden.
 
 ### Verwaltung der Dokumente im Zusammenhang mit der Geldwäscheprävention
 
