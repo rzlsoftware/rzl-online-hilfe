@@ -211,12 +211,7 @@ Klientengruppe(n) (oder Alle Klienten) öffnen.
 
 ## Weitere Informationen
 
-Unter ![](<img/image196.png>)  werden Sie auf die RZL
-Webseite [rzlSoftware.at/ksv1870](https://rzlsoftware.at/ksv1870)
-weitergeleitet. Sie finden dort weitere Informationen zu den
-Nutzungsbedingungen der KSV1870 Anbindung an die RZL Programme. 
-
-Für die Nutzung gelten die [Statuten des Kreditschutzverband](https://www.ksv.at/media/756/download) von 1870,
+Für die Nutzung der KSV Anbindung gelten die [Statuten des Kreditschutzverband](https://www.ksv.at/media/756/download) von 1870,
 die [Allgemeinen Geschäftsbedingungen der KSV1870 Information
 GmbH](https://www.ksv.at/media/548/download) und der [KSV1870
 Forderungsmanagement
