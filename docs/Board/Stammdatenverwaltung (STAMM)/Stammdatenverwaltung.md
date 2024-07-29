@@ -1285,8 +1285,7 @@ kann, kann auch der Klient als Überprüfer vermerkt werden.
 
 Abb. ‑ Überprüfung durchführen
 
-<img src=".\attachments\/media/image88.png"
-style="width:6.31585in;height:3.85125in" />
+![](<img/image88.png>)
 
 Zusätzlich können Sie über den Button *Auszug anfordern* **(1)** vier
 verschiedene Arten von Auszügen manuell anfordern. Unter Dokumente
@@ -1294,8 +1293,7 @@ verschiedene Arten von Auszügen manuell anfordern. Unter Dokumente
 
 Abb. ‑ Auszug manuell abrufen
 
-<img src=".\attachments\/media/image89.png"
-style="width:5.53775in;height:3.37842in" />
+![](<img/image89.png>)
 
 #### Meldung
 
@@ -1303,10 +1301,8 @@ In den Klientenstammdaten im RZL Board im Register *WiEReG / Meldung*
 haben Sie die Möglichkeit mit einem Klick auf den Button **(1)** eine
 neue WiEReG-Meldung durchzuführen.
 
-Abb. ‑ Meldung durchführen
 
-<img src=".\attachments\/media/image90.png"
-style="width:5.27066in;height:3.72083in" />
+![](<img/image90.png>)
 
 Dabei werden Sie automatisch mit Ihrem KIS-Mitarbeiterzugang zum
 Anmeldeformular auf der USP-Website verlinkt und können anschließend die
@@ -1315,10 +1311,7 @@ KIS hinterlegte Mitarbeiterbenutzer verwendet. Dieser benötigt die
 entsprechende Berechtigung seitens USP/FinanzOnline um WiEReG-Meldungen
 durchführen zu können.
 
-Abb. ‑ Verlinkung USP Website
-
-<img src=".\attachments\/media/image91.png"
-style="width:5.64583in;height:1.10417in" />
+![](<img/image91.png>
 
 Haben Sie die Meldung auf dem USP-Portal durchgeführt und wechseln
 zurück in das RZL Board können Sie mit einem Klick auf den Button
@@ -1330,13 +1323,10 @@ Abfrage diese am Folgetag durchgeführt wird.
 Wie im Register *Überprüfung* besteht auch hier die Möglichkeit über den
 Button *Auszug anfordern* einen Auszug manuell anzufordern.
 
-Abb. ‑ Abfrage Meldung durchgeführt
+![](<img/image92.png>)
 
-<img src=".\attachments\/media/image92.png"
-style="width:4.16667in;height:1.4375in" />
-
-<img src=".\attachments\/media/image93.png"
-style="width:0.33333in;height:0.19167in" />Im Anschluss wird das Datum
+![](<img/image93.png>)
+Im Anschluss wird das Datum
 der Meldung sowie der Mitarbeiter, der die Meldung durchgeführt hat,
 festgehalten.
 
@@ -1346,10 +1336,7 @@ Klick auf den Button *Neue Meldung / Dokumentation zur Meldung über USP*
 **(1)** eine ausführliche Dokumentation zur erfolgten Meldung
 hinzuzufügen.
 
-Abb. ‑ Dokumentation zur Meldung
-
-<img src=".\attachments\/media/image94.png"
-style="width:5.79752in;height:4.08592in" />
+![](<img/image94.png>)
 
 Im folgenden Dialog können Sie notieren, zu welchem Zeitpunkt und von
 wem (vom Mitarbeiter bzw. dem Klienten selbst) die Meldung durchgeführt
@@ -1365,8 +1352,7 @@ noch etwaige Dokumente (z.B. Auszüge) zu dieser Meldung hinterlegen.
 
 Abb. ‑ Dokumente zur Dokumentation hinzufügen
 
-<img src=".\attachments\/media/image95.png"
-style="width:5.17351in;height:3.15774in" />
+![](<img/image95.png>)
 
 #### Einstellungen
 
@@ -1374,10 +1360,7 @@ Hier finden Sie die Einstellungen zur Festlegung welche Art des Auszuges
 angefordert werden soll und wann bzw. wie der Auszug abgerufen werden
 soll.
 
-Abb. ‑ Einstellungen WiEReG
-
-<img src=".\attachments\/media/image96.png"
-style="width:5.00281in;height:4.16901in" />
+![](<img/image96.png>)
 
 Weitere Einstellungen zur WiEReG-Anbindung finden Sie im Kapitel [3.2
 USP](#usp).
@@ -1392,10 +1375,7 @@ Identifizierung* **(1)** im Header bzw. rechts unten eine
 Identifizierung des Auftraggebers zur Verhinderung der Geldwäsche und
 Terrorismusfinanzierung durchzuführen.
 
-Abb. ‑ Identifizierung Auftraggeber
-
-<img src=".\attachments\/media/image97.png"
-style="width:6.18372in;height:4.69872in" />
+![](<img/image97.png>)
 
 Weiters stehen Ihnen noch die Register *Gesellschaft oder Stiftung*
 sowie *Wirtschaftlicher Eigentümer des Auftraggebers*, welche an die
@@ -1417,10 +1397,7 @@ die Kategorie und das Thema festlegen mit dem die Dokumente im
 Zusammenhang mit der Geldwäscheprävention automatisiert abgelegt werden
 sollen.
 
-Abb. ‑ Geldwäsche-Zuweisungen
-
-<img src=".\attachments\/media/image98.png"
-style="width:4.30301in;height:2.1604in" />
+![](<img/image98.png>)
 
 #### Risikobeurteilung im RZL Board
 
@@ -1430,10 +1407,7 @@ Im RZL Board in den Klientenstammdaten unter dem Punkt
 rechts unten eine neue Risikobeurteilung zur Verhinderung der Geldwäsche
 und Terrorismusfinanzierung durchzuführen.
 
-Abb. ‑ Risikobeurteilung
-
-<img src=".\attachments\/media/image99.png"
-style="width:7.04722in;height:5.10764in" />
+![](<img/image99.png>)
 
 Hier stehen Ihnen noch die zusätzlichen Register, welche an die
 Checkliste zur Risikobeurteilung der KSW angelehnt sind, zur Verfügung.
@@ -1442,10 +1416,7 @@ insgesamt ein geringes, normales bzw. hohes Risiko besteht und ob von
 Ihnen eine Verdachtsmeldung abgegeben wurde. Ebenso können hier
 Anmerkungen hinzugefügt werden.
 
-Abb. ‑ Risikobeurteilung - Risikogesamteinschätzung
-
-<img src=".\attachments\/media/image99.png"
-style="width:5.67615in;height:4.11393in" />
+![](<img/image99.png>)
 
 Haben Sie alle notwendigen Punkte der Checkliste ausgefüllt, kann
 Mithilfe der Schaltfläche *Risikobeurteilung abschließen* die
@@ -1469,10 +1440,7 @@ Aufgabe automatisch erstellt. Tragen Sie hier die
 Risikogesamteinschätzung nach bzw. erstellen Sie eine erneute
 Risikobeurteilung nach Erwerb des WiEReG/Geldwäsche Moduls.
 
-Abb. ‑ Aufgabenvorlage Risikobeurteilung
-
-<img src=".\attachments\/media/image100.png"
-style="width:3.60617in;height:2.9356in" />
+![](<img/image100.png>)
 
 Hinweis
 
@@ -1493,20 +1461,14 @@ hinterlegten Kategorie und dem hinterlegten Thema abgelegt. Dabei werden
 die Dokumente ebenso automatisch dem Dokumentbereich
 Geldwäscheprävention zugeordnet.
 
-Abb. ‑ Dokumentbereich Geldwäscheprävention
-
-<img src=".\attachments\/media/image101.png"
-style="width:6.61458in;height:4.78125in" />
+![](<img/image101.png>)
 
 Die Dokumente, die den Dokumentbereich Geldwäscheprävention betreffen,
 können Sie ebenso im RZL Board in den Klientenstammdaten im Register
 *Geldwäscheprävention* über die Schaltfläche *Dokumente* im Header
 aufrufen.
 
-Abb. ‑ Dokumente aus dem Dokumentbereich „Geldwäscheprävention“
-
-<img src=".\attachments\/media/image102.png"
-style="width:5.86475in;height:3.58051in" />
+![](<img/image102.png>)
 
 #### Klientenlisten Geldwäscheprävention/Risikobeurteilung
 
@@ -1516,10 +1478,7 @@ Berechtigung, für diesen Mitarbeiter die Klientenliste für die
 Kanzleirisikobeurteilung sowie die Klientenliste für die Identifizierung
 Auftraggeber einzusehen.
 
-Abb. ‑ Berechtigung „Geldwäscheprävention“ für Mitarbeiter
-
-<img src=".\attachments\/media/image103.png"
-style="width:4.82175in;height:3.28371in" />
+![](<img/image103.png>)
 
 Wählen Sie in den Board Stammdaten den Pfeil bei der Schaltfläche
 *Klienten* an können Sie auswählen welche der Geldwäsche-Listen
@@ -1527,10 +1486,7 @@ angezeigt werden soll. Diese Listen sind nur für Mitarbeiter sichtbar,
 welche die Berechtigung für Geldwäscheprävention in den
 Mitarbeiterstammdaten im RZL Board (Siehe Oben) erhalten haben.
 
-Abb. ‑ Geldwäsche Klientenlisten
-
-<img src=".\attachments\/media/image104.png"
-style="width:4.20605in;height:1.47475in" />
+![](<img/image104.png>)
 
 In der Klientenliste *Geldwäsche Identifizierung Auftraggeber* erhalten
 Sie detaillierte Informationen darüber, welcher Mitarbeiter wann für
@@ -1539,10 +1495,7 @@ die Liste Informationen darüber in welchem Status sich die
 Identifizierung befindet, ob eine Identifizierung erforderlich war oder
 nicht, ob eine WiEReG-Abfrage durchgeführt wurde, usw.
 
-Abb. ‑ Klienten Identifizierung Auftraggeber
-
-<img src=".\attachments\/media/image105.png"
-style="width:6.8151in;height:2.57682in" />
+![](<img/image105.png>)
 
 In der Klientenliste *Geldwäsche Risikobeurteilung* erhalten Sie
 detaillierte Informationen darüber, welcher Mitarbeiter wann für welchen
@@ -1550,10 +1503,7 @@ Klienten die Beurteilung durchgeführt hat. Weiters enthält die Liste
 Informationen darüber, in welchem Status sich die Risikobeurteilung
 befindet, welche Risikogesamteinschätzung vergeben wurde, usw.
 
-Abb. ‑ Klienten Risikobeurteilung
-
-<img src=".\attachments\/media/image106.png"
-style="width:6.89681in;height:2.87616in" />
+![](<img/image106.png>)
 
 ### Berechtigungen
 
@@ -1562,10 +1512,7 @@ mindestens eine Rolle für diesen Klienten besitzen. Wählen Sie einen
 Mitarbeiter werden Ihnen auf der rechten Seite die zugeordneten Rollen
 für diesen Klienten angezeigt.
 
-Abb. ‑ Berechtigungen
-
-<img src=".\attachments\/media/image107.png"
-style="width:7.04722in;height:3.53681in" />
+![](<img/image107.png>)
 
 ## Mitarbeiter
 
@@ -1574,20 +1521,14 @@ Mitarbeitern Ihrer Kanzlei im RZL Board zu finden. Die Verwaltung der
 Mitarbeiterstammdaten verläuft analog zu den Klientenstammdaten. Jeder
 Mitarbeiter ist eine Person mit Personenstammdaten.
 
-Abb. 2‑89 Mitarbeiterübersicht
-
-<img src=".\attachments\/media/image108.png"
-style="width:6.47123in;height:4.23997in" />
+![](<img/image108.png>)
 
 ### Neuanlage eines Mitarbeiters
 
 Um einen neuen Mitarbeiter anzulegen, ist in der Mitarbeiterübersicht
 die Schaltfläche *Neuer Mitarbeiter* zu wählen.
 
-Abb. 2‑90 Mitarbeiterdaten
-
-<img src=".\attachments\/media/image109.png"
-style="width:5.33634in;height:2.85853in" />
+![](<img/image109.png>)
 
 #### Nummer
 
@@ -1600,10 +1541,7 @@ Im nächsten Feld Person ist die Person zum betreffenden Mitarbeiter zu
 wählen. Ist die Person noch nicht vorhanden, so kann diese mit dem
 grünen Plus nach Eingabe des Namens neu angelegt werden.
 
-Abb. 2‑91 Neuanlage Person im Rahmen der Mitarbeiterneuanlage
-
-<img src=".\attachments\/media/image110.png"
-style="width:4.52564in;height:0.995in" />
+![](<img/image110.png>)
 
 #### Kurzbezeichnung
 
@@ -1622,10 +1560,7 @@ Zuordnung des Mitarbeiters mit dem Windowsbenutzer. Der Eintrag wird für
 die Zuordnung der Ereignisse und Klienten zum jeweiligen Mitarbeiter
 verwendet.
 
-Abb. 2‑92 Benutzer auswählen
-
-<img src=".\attachments\/media/image111.png"
-style="width:3.93701in;height:2.16621in" />
+![](<img/image111.png>)
 
 #### Qualifikation
 
@@ -1638,10 +1573,7 @@ Sie können hier Unternehmensbereiche anlegen. Dies wird hauptsächlich
 für das RZL HON Next verwendet. Ein Unternehmensbereich ist sozusagen
 der Rechnungssteller der Honorarnoten die Sie schreiben.
 
-Abb. 2‑93 Unternehmensbereiche
-
-<img src=".\attachments\/media/image112.png"
-style="width:4.6355in;height:1.87565in" />
+![](<img/image112.png>)
 
 Bei der Neuanlage eines Unternehmensbereiches müssen Sie die Bezeichnung
 des Unternehmensbereiches und die Klienten-Zuordnung entsprechend
@@ -1651,19 +1583,13 @@ Hinterlegung des Klienten übernommen. Über den Button *zur*
 *Klientenansicht* gelangen Sie in die Stammdaten des Klienten und über
 den Button *zur Firmenansicht* gelangen Sie zur Firmenansicht.
 
-Abb. 2‑94 Unternehmensdaten
-
-<img src=".\attachments\/media/image113.png"
-style="width:6.29921in;height:1.87586in" />
+![](<img/image113.png>)
 
 Im Bereich *HON* können Sie für den Unternehmensbereich den zugehörigen
 Nummernbereich, die zugehörige Notenvorlage und die Zahlungsbedingungen
 hinterlegen. Ebenso ist die Hinterlegung eines PDF-Briefpapier möglich.
 
-Abb. 2‑95 HON
-
-<img src=".\attachments\/media/image114.png"
-style="width:5.49098in;height:2.72514in" />
+![](<img/image114.png>)
 
 Die Klienten Zuordnung erfolgt über den Menüpunkt *Klienten zuordnen.*
 Sie können im Anschluss die gewünschten Klienten durch Setzen eines
@@ -1692,18 +1618,12 @@ Wenn aus der Ansicht *Personen und Firmen* ersichtlich ist, dass
 Duplikate von Personen vorliegen, können Sie diese rasch und
 unkompliziert über das Kontextmenü zusammenführen.
 
-Abb. 2‑96 Duplikate Zusammenführen – manuell
-
-<img src=".\attachments\/media/image115.png"
-style="width:6.575in;height:3.40417in" />
+![](<img/image115.png>)
 
 Über den Menüpunkt *Ausgewählte Personen als Duplikate
 zusammenführen *kommen Sie in Dialog für das Zusammenführen.
 
-Abb. 2‑97 Duplikate Zusammenführen – Dialog I
-
-<img src=".\attachments\/media/image116.png"
-style="width:6.10236in;height:4.92126in" />
+![](<img/image116.png>)
 
 Hier sehen Sie die Personen/Firmen, die zusammengeführt werden sollen.
 Rechts neben dem Namen ist - wenn vorhanden - ebenfalls die Verwendung
@@ -1728,10 +1648,7 @@ nichts vorgeschlagen und Sie müssen den richtigen Eintrag auswählen. Im
 obigen Beispiel ist einmal beim Familienstand „verheiratet“ und einmal
 „ledig“ eingetragen. Es ist der richtige Eintrag auszuwählen.
 
-Abb. 2‑98 Duplikate Zusammenführen – Dialog II
-
-<img src=".\attachments\/media/image117.png"
-style="width:6.10236in;height:4.90157in" />
+![](<img/image117.png>)
 
 Bei Feldern, die mehrere zulässige Werte haben, können Sie sich über das
 Drop-Down Menü die Werte anzeigen lassen. Durch Setzen eines Häkchens
@@ -1754,19 +1671,13 @@ zielführenden Vorschlag für Duplikate zu machen. Grund dieser
 Vorgehensweise ist, eher großzügig bei der Annahme von Duplikaten zu
 sein, um eine noch größere Anzahl von Duplikatsgruppen zu vermeiden.
 
-Abb. 2‑99 Automatische Duplikatsgruppen
-
-<img src=".\attachments\/media/image118.png"
-style="width:6.10236in;height:2.9136in" />
+![](<img/image118.png>)
 
 Es können entweder alle oder die in der Liste gewählten Duplikatsgruppen
 bearbeitet werden. Im nächsten Dialog werden Ihnen die möglichen
 Duplikate angezeigt.
 
-Abb. 2‑100 Mögliche Duplikate
-
-<img src=".\attachments\/media/image119.png"
-style="width:6.5in;height:1.83333in" />
+![](<img/image119.png>)
 
 Wir empfehlen Ihnen zuerst alle jene Personen, die Duplikate darstellen,
 auszuwählen und über die Schaltfläche *Ausgewählte Personen
@@ -1789,10 +1700,7 @@ springen.
 
 Die Übernahme der Stammdaten der Klienten findet im RZL Board statt.
 
-Abb. ‑ ZMV Klienten-Übernahme aus dem RZL Board
-
-<img src=".\attachments\/media/image120.png"
-style="width:4.13324in;height:5.14006in" />
+![](<img/image120.png>)
 
 Innerhalb des RZL Board wählen Sie im linken Bereich den Eintrag STAMM
 **(1)** aus. Die ZMV-Klienten-Übernahme wird durch Auswahl des Icons
@@ -1803,10 +1711,7 @@ tipp
 Nicht mehr betreute Klienten sollten nicht in das RZL Board übernommen
 werden.
 
-Abb. ‑ Auswahl der Klienten für die Übernahme in das RZL Board
-
-<img src=".\attachments\/media/image121.png"
-style="width:4.48172in;height:2.90482in" />
+![](<img/image121.png>)
 
 Es wird eine Liste mit den noch nicht ins RZL Board übernommen Klienten
 angezeigt. Die Klienten können Sie am schnellsten durch betätigen der
@@ -1823,10 +1728,7 @@ in den restlichen Zeilen – die Sie anschließend markieren – gesetzt.
 Nach Auswahl der Klienten, die übernommen werden sollen, wählen Sie
 bitte das Icon *Kompatibilität prüfen* **(3)** an.
 
-Abb. ‑ ZMV Klienten-Übernahme – Komptabilitätsprüfung I
-
-<img src=".\attachments\/media/image122.png"
-style="width:5.2447in;height:3.33753in" />
+![](<img/image122.png>)
 
 Die Daten der Klienten werden überprüft und zwischen den Kästchen und
 der Nummer des Klienten wird der Status für die Übernahme angezeigt.
@@ -1874,27 +1776,18 @@ Kapitalgesellschaft statt GmbH)</td>
 Nähere Informationen zum jeweiligen Status erhalten Sie, in dem Sie auf
 die kleinen Pfeile **(5)** klicken.
 
-Abb. ‑ ZMV Klienten-Übernahme – Komptabilitätsprüfung II
-
-<img src=".\attachments\/media/image127.png"
-style="width:6.21052in;height:4.1787in" />
+![](<img/image127.png>)
 
 Damit Sie nicht jede Zeile einzeln aufklappen oder zuklappen müssen,
 können Sie im oberen Bereich aus vier Optionen **(6)** auswählen.
 
-Abb. ‑ ZMV Klienten-Übernahme – Komptabilitätsprüfung III
-
-<img src=".\attachments\/media/image128.png"
-style="width:6.27484in;height:4.2195in" />
+![](<img/image128.png>)
 
 Sie wählen das Icon *Klienten übernehmen* **(7)**, hinterlegen optional
 im nächsten Dialogfeld eine oder mehrere Klientengruppen und können
 somit den Klienten in das RZL Board übernehmen.
 
-Abb. ‑ Tooltip Klientengruppen – ZMV-Klientenübernahme
-
-<img src=".\attachments\/media/image129.png"
-style="width:5.37661in;height:2.89103in" />
+![](<img/image129.png>)
 
 Es können nur Klienten übernommen werden, deren Status KEIN rotes
 Warndreieck darstellt. Wurde ein Häkchen bei einem Klienten mit rotem
@@ -1931,10 +1824,7 @@ Sie die Verwaltung der Benutzerrechte Ihrer Mitarbeiter nicht mehr im
 Kanzlei-Informations-System, sondern in den Stammdaten im Board unter
 Berechtigungen.
 
-Abb. ‑ Berechtigungen
-
-<img src=".\attachments\/media/image130.png"
-style="width:4.25079in;height:1.62408in" />
+![](<img/image130.png>)
 
 ### Neuerungen
 
@@ -1943,10 +1833,7 @@ zwingenderweise der Benutzerverwalter kontaktieren werden. Sie können
 jederzeit im Board unter Hilfe 🡪 Meine Berechtigungen Ihre
 Berechtigungen einsehen.
 
-Abb. ‑ Meine Berechtigungen
-
-<img src=".\attachments\/media/image10.png"
-style="width:5.43675in;height:3.9429in" />
+![](<img/image10.png>)
 
 In diesem Fenster können Sie sich mithilfe des Reglers **(1)** alle
 Funktionen einblenden lassen. Die Funktionen für die Sie keine
@@ -1966,36 +1853,25 @@ Sie die Berechtigung zur Bearbeitung der Stammdaten für **alle**
 Klienten besitzen.
 
 HINWEIS: Stellen Sie den Mauszeiger auf
-<img src=".\attachments\/media/image131.png"
-style="width:0.15623in;height:0.16665in" /> um das Tooltip anzeigen zu
+![](<img/image131.png>) um das Tooltip anzeigen zu
 lassen.
 
-Abb. ‑ Tooltip Klientengruppen - Klientendaten
-
-<img src=".\attachments\/media/image132.png"
-style="width:6.74354in;height:0.42401in" />
+![](<img/image132.png>) 
 
 Bei einer ZMV-Klientenübernahme ist ebenso beim Schritt *Klienten
 übernehmen* mindestens eine Klientengruppe zu hinterlegen.
 
-Abb. ‑ Tooltip Klientengruppen – ZMV-Klientenübernahme
-
-<img src=".\attachments\/media/image129.png"
-style="width:5.27259in;height:2.8351in" />
+![](<img/image129.png>) 
 
 ### Benutzerverwaltung
 
 #### Klientengruppen
 
 Klientengruppen legen Sie mit
-<img src=".\attachments\/media/image133.png"
-style="width:0.20831in;height:0.16665in" />an. Vergeben Sie einen Namen
+![](<img/image133.png>) an. Vergeben Sie einen Namen
 und – falls gewünscht – eine Beschreibung für die Klientengruppe.
 
-Abb. ‑ Zuordnung Klientengruppe
-
-<img src=".\attachments\/media/image134.png"
-style="width:6.68952in;height:3.04289in" />
+![](<img/image134.png>) 
 
 Mithilfe der Filter- und Listenfunktionen wird das Übertragen Ihrer
 Klienten noch einfacher. Verwenden Sie eine Filterfunktion gilt die
@@ -2003,18 +1879,13 @@ Filterung für beide Listen, ebenso die Suche. Beim Sortieren gilt die
 Sortierung jedoch nur für die Liste, in der Sie gerade eine
 Sortierfunktion wählen.
 
-Mithilfe der Pfeiltasten <img src=".\attachments\/media/image135.png"
-style="width:0.24997in;height:0.24997in" />
-<img src=".\attachments\/media/image136.png"
-style="width:0.24997in;height:0.24997in" /> können Sie die Klienten der
+Mithilfe der Pfeiltasten ![](<img/image135.png>) 
+![](<img/image136.png>)  können Sie die Klienten der
 Klientengruppe entweder zuordnen oder entfernen.
 
 TIPP: Sie können die Klienten auch per Drag & Drop verschieben.
 
-Abb. ‑ Klientengruppe Übersicht
-
-<img src=".\attachments\/media/image137.png"
-style="width:6.38997in;height:3.78387in" />
+![](<img/image137.png>) 
 
 Eine Klientengruppe kann jederzeit bearbeitet werden. Löschen können Sie
 eine Klientengruppe aber nur, wenn diese nicht verwendet wird. Verwenden
@@ -2024,10 +1895,7 @@ können, gibt es die Möglichkeit eine Klientengruppe zu ersetzen.
 Das Ersetzen von Klientengruppen dient aber vor allem dazu, sehr
 ähnliche Gruppen zusammenzufassen, um die Liste zu bereinigen.
 
-Abb. ‑ Duplikate zusammenführen
-
-<img src=".\attachments\/media/image138.png"
-style="width:4.83043in;height:1.81327in" />
+![](<img/image138.png>) 
 
 Existieren identische Klientengruppen können diese mithilfe von
 *Duplikate zusammenführen* zusammengeführt werden.
@@ -2045,13 +1913,9 @@ einer Liste mit bereits angelegten RZL Standardrollen und die möglichen
 Funktionen der links markierten Rolle inklusive einer Liste von
 Mitarbeitern, welchen die Rolle zugeordnet wurde.
 
-Abb. ‑ Rollen Übersicht
+![](<img/image139.png>) 
 
-<img src=".\attachments\/media/image139.png"
-style="width:7.24805in;height:4.37703in" />
-
-Das Symbol <img src=".\attachments\/media/image140.png"
-style="width:0.23955in;height:0.18748in" /> signalisiert, dass es sich
+Das Symbol ![](<img/image140.png>)  signalisiert, dass es sich
 um eine RZL Standardrolle handelt. Eine RZL Standardrolle kann nicht
 bearbeitet oder gelöscht werden. In dieser Liste können Sie die für das
 RZL Board typischen Listen- und Filterfunktionen verwenden. Wenn eine
@@ -2064,13 +1928,9 @@ zusätzlich zu den RZL Standardrollen selbst Rollen anzulegen. Diese
 können laufend bearbeitet und auch gelöscht werden.
 
 Eine neue Rolle können Sie mithilfe des Plussymbols
-<img src=".\attachments\/media/image141.png"
-style="width:0.19789in;height:0.18748in" /> anlegen.
+![](<img/image141.png>)  anlegen.
 
-Abb. ‑ neue Rolle – Funktionen wählen
-
-<img src=".\attachments\/media/image142.png"
-style="width:4.13737in;height:4.65174in" />
+![](<img/image142.png>) 
 
 Vergeben Sie eine Bezeichnung für Ihre neue Rolle und tragen Sie falls
 gewünscht eine Beschreibung ein. Aktivieren Sie die Funktionen, welche
@@ -2082,8 +1942,7 @@ verwalten* vergeben wurde ohne auch das Recht *Klient anzeigen* zu
 vergeben. Aus diesem Grund werden bei Auswahl einer Funktion alle
 zusätzlich erforderlichen Funktionen automatisch von RZL aktiviert.
 Darüber werden Sie über die Hinweismeldung informiert. Wenn Sie den
-Mauszeiger auf das <img src=".\attachments\/media/image131.png"
-style="width:0.15623in;height:0.16665in" /> stellen, wird Ihnen im
+Mauszeiger auf das ![](<img/image131.png>)  stellen, wird Ihnen im
 Tooltip angezeigt welche Funktionen automatisch aktiviert wurden.
 
 -   Funktionen
@@ -2091,26 +1950,21 @@ Tooltip angezeigt welche Funktionen automatisch aktiviert wurden.
 Pro Modul werden hier alle möglichen Funktionen angezeigt, die die Rolle
 besitzt.
 
-Abb. ‑ Funktionen einer Rolle
-
-<img src=".\attachments\/media/image143.png"
-style="width:2.57712in;height:4.51772in" />
+![](<img/image143.png>) 
 
 Für das Modul PDF-Manager wurden beispielsweise 13 von 16 möglichen
 Funktionen für diese Rolle aktiviert. Sie können hier also auf den
 ersten Blick sehen, ob für dieses Modul alle Berechtigungen vergeben
 wurden oder nicht.
 
-Funktionen, die mit <img src=".\attachments\/media/image144.png"
-style="width:0.19789in;height:0.14581in" /> gekennzeichnet werden,
+Funktionen, die mit ![](<img/image144.png>)  gekennzeichnet werden,
 können auf Klientengruppen eingeschränkt werden.
 
 Wollen Sie sich die Details der Funktionen einer Rolle anzeigen lassen –
 oder nicht – können Sie die Optionen in der Menüleiste verwenden. Diese
 Optionen sind auch über das Kontextmenü aufrufbar.
 
-<img src=".\attachments\/media/image145.png"
-style="width:2.47886in;height:0.93738in" />
+![](<img/image145.png>) 
 
 -   Zugeordnete Mitarbeiter
 
@@ -2124,10 +1978,7 @@ Listen- und Filterfunktionen zur Verfügung.
 Klicken Sie auf *Hinzufügen* öffnet sich ein neues Dialogfenster, in
 welchem Sie einen oder mehrere Mitarbeiter auswählen können.
 
-Abb. ‑ Zuordnung Mitarbeiter zu einer Rolle
-
-<img src=".\attachments\/media/image146.png"
-style="width:3.94616in;height:3.31477in" />
+![](<img/image146.png>) 
 
 Sie gelangen nach erfolgter Auswahl zur Einschränkung auf
 Klientengruppen, sofern in der Rolle Funktionen enthalten sind, die auf
@@ -2135,10 +1986,7 @@ Klientengruppen eingeschränkt werden können. Sie können eine oder
 mehrere Klientengruppen auswählen oder Sie ordnen dem Mitarbeiter die
 Berechtigungen für alle Klienten zu.
 
-Abb. ‑ Klientengruppe wählen
-
-<img src=".\attachments\/media/image147.png"
-style="width:4.18871in;height:3.50946in" />
+![](<img/image147.png>) 
 
 **HINWEIS:** Auch Sichtbarkeits- bzw. Benutzerrechte von ausgetretenen
 Mitarbeitern wurden mit in das Board übernommen. Damit Sie nicht alle
@@ -2154,10 +2002,7 @@ ist dies in der Mitarbeiterübersicht möglich. Sie können Spalten aus-
 und einblenden oder verschieben und diese Liste dann drucken,
 exportieren oder kopieren.
 
-Abb. ‑ Mitarbeiterübersicht
-
-<img src=".\attachments\/media/image148.png"
-style="width:6.09973in;height:2.70182in" />
+![](<img/image148.png>) 
 
 In der Mitarbeiterübersicht gibt es jetzt neu die Spalte *Rollen*, wo
 Sie ebenfalls filtern und sortieren können. Klicken Sie auf
@@ -2171,10 +2016,7 @@ Liste mit den Rollenzuordnungen inkl. Einschränkungen. Sie können in
 diesem Reiter Rollen hinzufügen oder löschen und die Einschränkungen
 ändern.
 
-Abb. ‑ Mitarbeiteransicht - Rollenzuordnung
-
-<img src=".\attachments\/media/image149.png"
-style="width:4.55347in;height:3.27583in" />
+![](<img/image149.png>) 
 
 **HINWEIS**: Wenn Sie den Klienten im Stamm öffnen, gibt es auch hier
 eine Übersicht der Berechtigungen. Sie sehen in der Liste die
@@ -2201,10 +2043,7 @@ dritte Option „aufgrund Klientensichtbarkeit“ wurde mit dem neuen
 Berechtigungssystem durch „aufgrund Berechtigung Dokumente anzeigen“
 ersetzt.
 
-Abb. ‑ Mitarbeiteransicht - Einstellungen
-
-<img src=".\attachments\/media/image150.png"
-style="width:4.27802in;height:1.54609in" />
+![](<img/image150.png>) 
 
 ### Protokoll
 
@@ -2214,10 +2053,7 @@ Berechtigungssystems protokolliert. Es wird Datum und Uhrzeit der
 die Art der Änderung sowie eine Informationsspalte, in welcher die
 durchgeführte Änderung genau beschrieben wird.
 
-Abb. ‑ Berechtigungen Protokoll
-
-<img src=".\attachments\/media/image151.png"
-style="width:6.925in;height:2.40694in" />
+![](<img/image151.png>) 
 
 Sie können mithilfe des Drop-Down Feldes eingrenzen, welche Einträge in
 Abhängigkeit des Zeitraums in der Liste angezeigt werden.
@@ -2473,10 +2309,7 @@ Im STAMM finden Sie neben der Personen-/Klientenverwaltung auch einen
 Bereich für Einstellungen. Sie können hier Einstellungen für die
 Klientenportalsynchronisation und für Finmatics treffen.
 
-Abb. ‑ Einstellungen
-
-<img src=".\attachments\/media/image152.png"
-style="width:4.15573in;height:1.65604in" />
+![](<img/image152.png>) 
 
 ### Einrichtung der Klienten Stammdaten Synchronisation
 
@@ -2508,10 +2341,7 @@ Einstellungen* können Sie ein beliebiges Passwort eintragen. Der
 von Klienten-Stammdaten und Belege und besitzt keine weiteren
 Funktionen.
 
-Abb. ‑ Einrichtung Service Account Passwort am RZL Klientenportal
-
-<img src=".\attachments\/media/image153.png"
-style="width:4.45398in;height:4.29422in" />
+![](<img/image153.png>) 
 
 Im Anschluss muss ein Mitarbeiter mit entsprechenden Rechten
 (STAMM/Einstellungen) im Bereich *Klientenportal Synchronisation* das
@@ -2520,11 +2350,7 @@ Klientenportal URL wird in dieser Ansicht automatisch angezeigt. Nach
 Eingabe des Service-Account Passworts wird Ihnen der Funktionsstatus der
 Synchronisation angezeigt.
 
-Abb. ‑ Eingabe Service Account Passwort in den Einstellungen der
-Stammdatenverwaltung im RZL BOARD
-
-<img src=".\attachments\/media/image154.png"
-style="width:5.88693in;height:4.61765in" />
+![](<img/image154.png>) 
 
 Im unteren Bereich dieser Ansicht ist eine Liste jener Klienten
 angeführt, die für das Klientenportal aktiviert sind und deren
@@ -2544,10 +2370,7 @@ Stammdaten bzw. Belege nun synchronisiert werden.
 Bitte beachten Sie, dass eine Änderung der Klientennummer hiervon
 ausgenommen ist.
 
-Abb. 2‑126 Aktivierung des Klienten für das Klientenportal
-
-> <img src=".\attachments\/media/image155.png"
-> style="width:5.32225in;height:1.354in" />
+![](<img/image155.png>) 
 
 ### Einrichtung Finmatics
 
@@ -2572,10 +2395,7 @@ Abb. 2‑126 Aktivierung des Klienten für das Klientenportal
 > die Daten von Finmatics ein. Bei richtig eingetragenen Daten wird ein
 > Häkchen *Zugriff auf Finmatics möglich* angezeigt.
 
-Abb. ‑ Einstellungen Finmatics
-
-<img src=".\attachments\/media/image156.png"
-style="width:4.32988in;height:2.01677in" />
+![](<img/image156.png>) 
 
 Nähere Informationen zu Finmatics finden Sie auf unserer Homepage
 rzlsoftware.at im Anwenderbereich unter den Kurzanleitungen „FINMATICS
@@ -2587,10 +2407,7 @@ Sie können hier Unternehmensbereiche anlegen. Dies wird hauptsächlich
 für das RZL HON Next verwendet. Ein Unternehmensbereich ist sozusagen
 der Rechnungssteller der Honorarnoten die Sie schreiben.
 
-Abb. 2‑128 Unternehmensbereiche
-
-<img src=".\attachments\/media/image112.png"
-style="width:5.29599in;height:2.1429in" />
+![](<img/image112.png>) 
 
 Bei der Neuanlage eines Unternehmensbereiches müssen Sie die Bezeichnung
 des Unternehmensbereiches und die Klienten-Zuordnung entsprechend
@@ -2600,19 +2417,13 @@ Hinterlegung des Klienten übernommen. Über den Button *zur*
 *Klientenansicht* gelangen Sie in die Stammdaten des Klienten und über
 den Button *zur Firmenansicht* gelangen Sie zur Firmenansicht.
 
-Abb. 2‑129 Unternehmensdaten
-
-<img src=".\attachments\/media/image113.png"
-style="width:5.61193in;height:1.67119in" />
+![](<img/image113.png>) 
 
 Im Bereich *HON* können Sie für den Unternehmensbereich den zugehörigen
 Nummernbereich, die zugehörige Notenvorlage und die Zahlungsbedingungen
 hinterlegen. Ebenso ist die Hinterlegung eines PDF-Briefpapier möglich.
 
-Abb. 2‑130 HON
-
-<img src=".\attachments\/media/image114.png"
-style="width:4.79433in;height:2.35211in" />
+![](<img/image114.png>) 
 
 Die Klienten Zuordnung erfolgt über den Menüpunkt *Klienten zuordnen.*
 Sie können im Anschluss die gewünschten Klienten durch Setzen eines

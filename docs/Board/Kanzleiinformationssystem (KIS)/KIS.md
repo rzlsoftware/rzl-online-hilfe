@@ -7,7 +7,8 @@ Sie in den Bereich des Kanzlei-Informations-Systems.
 Über den Menüpunkt KIS öffnen können Sie das Kanzlei-Informations-System öffnen. Neben der Schaltfläche
 zur Programmöffnung des KIS finden Sie hier auch den Serienversand, der in die Bereiche Empfängerlisten
 verwalten, Serienbrief erstellen und Serien-E-Mail erstellen unterteilt ist.
-Abb. 4-1 KIS - Serienversand
+
+![](<img/image197.png>) 
 
 ### 4.1.1 Empfängerlisten verwalten
 
@@ -20,7 +21,7 @@ bearbeitet und Änderungsdatum anzeigen lassen können. In der Spalte Zuletzt be
 angezeigt, der zuletzt die Empfängerliste bearbeitet hat. Das Änderungsdatum zeigt Ihnen Datum
 und Uhrzeit der letzten Änderung.
 
-Abb. 4-2 Empfängerlisten verwalten
+![](<img/image198.png>) 
 
 Mit einem Doppelklick auf eine Liste kann in die entsprechende Empfängerliste gewechselt werden. Über die
 Schaltfläche Neue Empfängerliste (1) gelangen Sie in die Neuanlage einer Empfängerliste.
@@ -33,11 +34,11 @@ Empfängerliste es sich handelt. Bei der Art der Empfängerliste wird in Brief u
 nachdem ob Sie einen Serienbrief bzw. Serien-E-Mail erstellen möchten, werden Ihnen jeweils die
 Empfängerlisten der entsprechenden Art zur Auswahl angezeigt.
 
-Abb. 4-3 Auswahl Art der Empfängerliste
+![](<img/image199.png>) 
 
 Nach Auswahl der Art der Empfängerliste wird der Erstellungsdialog der Empfängerliste geöffnet.
 
-Abb. 4-4 Erstellungsdialog einer Empfängerliste
+![](<img/image200.png>) 
 
 Das Feld Kurzbezeichnung ist ein Pflichtfeld und gibt der Empfängerliste ihren Namen. Optional können Sie
 eine Beschreibung eintragen.
@@ -49,7 +50,7 @@ Vertreter) und die eine Adresse/E-Mail Adresse in den Stammdaten hinterlegt habe
 Klienten aufklappen können Sie sich sämtliche Adressen und zugeordnete Personen zu den Klienten ansehen.
 Für einzelne Klienten ist dies auch mit der Pfeiltaste direkt beim Eintrag möglich.
 
-Abb. 4-5 Emfpängerliste erstellen/bearbeiten
+![](<img/image201.png>) 
 
 In dieser Liste sehen Sie nun sämtliche Adressen des Klienten, der Kontaktpersonen, der Gesellschafter und
 der gesetzlichen Vertreter. Aus dieser Liste können Sie nun Ihren gewünschten Empfänger für diesen Klienten
@@ -68,7 +69,7 @@ schließen Sie diese durch die Schaltfläche Speichern ab.
 Die Adresse, die Ihnen in der Klientenliste bei den Kontaktpersonen, gesetzlichen Vertretern und Gesellschaftern
 angezeigt wird, ist jeweils die direkt hinterlegte Adresse in den Stammdaten des Klienten.
 
-Abb. 4-6 Hinterlegung einer Adresse bei Kontaktperson
+![](<img/image202.png>) 
 
 Ist bei einer Kontaktperson in den Personenstammdaten keine eigene Adresse hinterlegt, so wird standardmäßig
 die Adresse der Person bzw. die Firmenadresse eingetragen.
@@ -93,18 +94,18 @@ Dort ersichtlich sind nun im Bereich der Klientenliste nur der Klient samt den d
 bzw. Adressen. Dort können Sie den gewünschten Empfänger auswählen und mit der Pfeiltaste wie gewohnt
 zur Empfängerliste hinzufügen.
 
-Abb. 4-7 Hinzufügen eines Klienten zu einer Empfängerliste aus den Stammdaten
+![](<img/image203.png>) 
 
 In den Klientenstammdaten wird weiters angezeigt, wer für diesen Klienten in welcher Empfängerliste vertreten
 ist (2).
 
-Abb. 4-8 Ansicht Empfängerlisten in den Klientenstammdaten
+![](<img/image204.png>) 
 
 Weiters können einzelne Personen auch aus den Personenstammdaten heraus zu einer Empfängerliste hinzugefügt
 werden (1). Unter den Verwendungen sieht man bei einer Person auch die Zuordnung zu einer Empfängerliste
 (2).
 
-Abb. 4-9 Person/Firma zu einer Empfängerliste hinzufügen
+![](<img/image205.png>) 
 
 ### 4.1.2 Listenfunktionen
 Für die erstmalige Erstellung einer Empfängerliste empfehlen wir Ihnen zur Unterstützung mit den Listenfunktionen
@@ -129,7 +130,7 @@ Auswahlkriterium) bzw. jeder Person (Person Auswahlkriterium) ein Auswahlkriteri
 diesen Informationen bei der Erstellung einer Empfängerliste arbeiten zu können.
 
 
-Abb. 4-10 Listenfunktionen
+![](<img/image206.png>) 
 
 *Filter Editor*
 Wählen Sie den Filter mit dem Bleistiftsymbol in der Klientenliste, so gelangen Sie in den Filter Editor. Hier
@@ -137,7 +138,7 @@ können eigene Filter erstellt werden, die bei der Suche bzw. Auswahl der Klient
 wird ein Und-Filter erstellt. Durch Klicken auf Und kann diese Einstellung geändert werden. Somit können
 zum Beispiel mehrere Filter durch Und oder Oder verknüpft werden.
 
-Abb. 4-11 Filter Editor
+![](<img/image207.png>) 
 
 Durch Klicken auf das Plus (3) kann eine neue Regel angelegt werden. Durch Klicken auf Nummer kann das
 gewünschte Feld – nach dem gefiltert werden soll – ausgewählt werden.
@@ -151,7 +152,7 @@ ausgewählten Eintrag als CSV Datei exportieren – wollen Sie allerdings die ge
 Datei exportieren, wählen Sie die Schaltfläche über der Empfängerliste. Zusätzlich können Sie auch ausgewählte
 Einträge löschen, die Liste drucken oder kopieren und ausgewählte Einträge kopieren.
 
-4.1.3 Wordvorlagen erstellen
+### 4.1.3 Wordvorlagen erstellen
 
 Um einen Serienbrief bzw. Serien-E-Mail erstellen zu können, ist im MS Word zunächst eine Wordvorlage zu
 erstellen. Für die Erstellung einer Wordvorlage nutzen Sie das Register RZL (1) im MS Word. Bitte beachten Sie,
@@ -159,7 +160,7 @@ dass hierfür das Word Add-In im KIS eingerichtet sein muss.
 Damit die Stammdaten aus dem RZL Board in das Word-Dokument übernommen werden können, müssen in
 der Wordvorlage für das gewünschte Feld Platzhalter eingefügt werden (2).
 
-Abb. 4-12 RZL Platzhalter in MS Word
+![](<img/image208.png>) 
 
 **Platzhalter**
 Die Platzhalter sind in verschiedene Rubriken unterteilt. Die erste Rubrik Empfänger beinhaltet die Platzhalter
@@ -167,7 +168,7 @@ für den ausgewählten Empfänger aus der Empfängerliste. Soll daher das Anschr
 ausgerichtet werden, so sind diese Platzhalter im Schreiben zu platzieren. Die Platzhalter können direkt im
 Word-Dokument durch Anwahl des jeweiligen Eintrags in die Vorlage übernommen werden.
 
-Abb. 4-13 RZL Platzhalter
+![](<img/image209.png>) 
 
 Platzhalter mit fixer Bedeutung/Zuordnung
 Weiters haben Sie noch die Möglichkeit, Platzhalter für Stammdaten des Klienten selbst im Schreiben einzufügen,
@@ -187,7 +188,7 @@ anpassen. Die Einstellungen zum Seitenzeilenformat können Sie über das Kontext
 Seitennummer öffnen (Seitenzahlen formatieren). Standardmäßig ist bei der Seitennummerierung das Fortsetzen
 vom vorherigen Abschnitt eingestellt – dies müssen Sie auf Beginnen bei ändern.
 
-Abb. 4-14 Einstellung Seitennummerierung
+![](<img/image210.png>) 
 
 Achten Sie darauf, dass Sie die Wordvorlage nach Fertigstellung auch als Wordvorlage (.dotx) abspeichern.
 
@@ -211,7 +212,7 @@ Serien-E-Mail als Nachricht übernommen.
 
 Beispiel für eine einfache Wordvorlage für Serien-E-Mails
 
-Abb. 4-15 Beispiel Wordvorlage für Serien E-Mail
+![](<img/image211.png>) 
 
 Bitte beachten Sie, dass bei einer Wordvorlage, die für Serien-E-Mails verwendet wird, Kopf-und Fußzeilen nicht
 übernommen werden können.
@@ -221,7 +222,7 @@ Erstellung Serienbrief
 Über die Schaltfläche Serienbrief erstellen kann ein neuer Serienbrief auf Basis einer zuvor angelegten Empfängerliste
 erstellt werden.
 
-Abb. 4-16 Erstellung Serienbrief
+![](<img/image212.png>) 
 
 Im ersten Schritt muss im Bereich Empfängerliste (1) die gewünschte Empfängerliste für den Serienbrief ausgewählt
 werden.
@@ -248,7 +249,7 @@ Unterschriften-PAD (signotec) signiert werden.
 Soll der Brief aber als Postausgang erfasst und zur RZL Dokumentenverwaltung hinzugefügt werden, wählen
 Sie bitte den Eintrag Postausgang hinzufügen aus.
 
-Abb. 4-17 Serienbrief als Postausgang zu KIS hinzufügen
+![](<img/image213.png>) 
 
 In der Abbildung 4-18 sehen Sie die Felder für die Eintragung des Briefs als Postausgang bzw. für die Übernahme
 in die RZL Dokumentenverwaltung. Im Feld Klient (1) sind sämtliche Klienten bereits ausgewählt, die
@@ -273,7 +274,7 @@ werden im KIS im Kanzleibereich beim Postausgang in einem eigenen Unterpunkt Ser
 Über die Schaltfläche Serien-E-Mail erstellen können Sie ein Serien-E-Mail auf Basis einer zuvor angelegten
 Empfängerliste erstellen. Beim Versenden eines Serien-E-Mails wird je Empfänger ein separates E-Mail erstellt
 
-Abb. 4-18 Erstellung Serien E-Mail
+![](<img/image214.png>) 
 
 **Empfängerliste (1)**
 Auswahl der Empfängerliste für das Serien-E-Mail.
@@ -344,10 +345,13 @@ einer vorab erstellten Wordvorlage zu erstellen. Dadurch können Sie auch im Anh
 und den Anhang individuell an Ihren Empfänger anpassen. Durch Klick auf das Symbol öffnet sich ein weiteres
 Fenster, in dem die Wordvorlage auszuwählen und ein Dateiname für den Anhang zu vergeben ist. Im unteren
 Bereich sehen Sie die Vorschau zum personalisierten Anhang.
-Abb. 4-19 Erstellung personalisierten Anhang
+
+![](<img/image215.png>) 
+
 Wenn Sie in den Einstellungen zum Serien-E-Mail zum nächsten Datensatz gehen, ändert sich auch die Vorschau
 des Anhangs. Über die Schaltfläche Hinzufügen können Sie Ihren personalisierten Anhang zum Serien-
-E-Mail hinzufügen. Dort wird Ihnen der personalisierte Anhang mit diesem Symbol angezeigt.
+E-Mail hinzufügen. Dort wird Ihnen der personalisierte Anhang mit diesem Symbol ![](<img/image216.png>) angezeigt.
+   
 Mit Doppelklick auf das Symbol (bzw. über das Kontextmenü) können Sie Ihren personalisierten Anhang nochmals
 öffnen und ändern.
 Weiters können Sie über das Kontextmenü den personalisierten Anhang wieder löschen.
