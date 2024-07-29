@@ -8,10 +8,9 @@ Innerhalb des RZL Board wählen Sie im linken Bereich den Eintrag STAMM
 **(1)** aus. Die ZMV-Klienten-Übernahme wird durch Auswahl des Icons
 *ZMV Klienten-Übernahme* **(2)** aufgerufen.
 
-tipp
-
-Nicht mehr betreute Klienten sollten nicht in das RZL Board übernommen
-werden.
+!!! info "Tipp"
+    Nicht mehr betreute Klienten sollten nicht in das RZL Board übernommen
+    werden.
 
 ![](<img/image121.png>)
 
@@ -35,45 +34,13 @@ bitte das Icon *Kompatibilität prüfen* **(3)** an.
 Die Daten der Klienten werden überprüft und zwischen den Kästchen und
 der Nummer des Klienten wird der Status für die Übernahme angezeigt.
 
-<table>
-<colgroup>
-<col style="width: 11%" />
-<col style="width: 88%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Symbol</th>
-<th>Beschreibung</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><img src=".\attachments\/media/image123.png"
-style="width:0.28125in;height:0.25in" alt="kis1" /></td>
-<td>Die Daten des Klienten werden unverändert aus der ZMV
-übernommen.</td>
-</tr>
-<tr class="even">
-<td><img src=".\attachments\/media/image124.png"
-style="width:0.23958in;height:0.25in" alt="kis3" /></td>
-<td>Bestimmte allgemeine Daten (z.B.: Kontonummer und Bankleitzahl
-werden nicht übernommen</td>
-</tr>
-<tr class="odd">
-<td><img src=".\attachments\/media/image125.png"
-style="width:0.27083in;height:0.21875in" alt="kis 2" /></td>
-<td>Bezogen auf die Rechtsform des Klienten können bestimmte Daten nicht
-übernommen werden (z. B. bei Personengesellschaften gespeicherte Kinder,
-Firmendaten bei Rechtsform Privatperson).</td>
-</tr>
-<tr class="even">
-<td><img src=".\attachments\/media/image126.png"
-style="width:0.36458in;height:0.23958in" alt="kis" /></td>
-<td>Übernahme ohne Korrektur nicht möglich (z. B. Rechtsform alt:
-Kapitalgesellschaft statt GmbH)</td>
-</tr>
-</tbody>
-</table>
+| *Symbol*                | *Beschreibung*                                                                                                                                                                          |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](<img/image123.png>) | Die Daten des Klienten werden unverändert aus der ZMV übernommen.                                                                                                                       |
+| ![](<img/image124.png>) | Bestimmte allgemeine Daten (z.B.: Kontonummer und Bankleitzahl werden nicht übernommen                                                                                                  |
+| ![](<img/image125.png>) | Bezogen auf die Rechtsform des Klienten können bestimmte Daten nicht übernommen werden (z. B. bei Personengesellschaften gespeicherte Kinder, Firmendaten bei Rechtsform Privatperson). |
+| ![](<img/image126.png>) | Übernahme ohne Korrektur nicht möglich (z. B. Rechtsform alt: Kapitalgesellschaft statt GmbH)                                                                                           |
+
 
 Nähere Informationen zum jeweiligen Status erhalten Sie, in dem Sie auf
 die kleinen Pfeile **(5)** klicken.

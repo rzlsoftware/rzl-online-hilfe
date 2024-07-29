@@ -6,7 +6,7 @@ angelegt sind. Im Feld *Klient suchen* **(1)** können Sie entweder die
 Klientennummer oder die Kurzbezeichnung eingeben, um nach einem
 bestimmten Klienten zu suchen.
 
-![](<img/image73.png)
+![](<img/image73.png>)
 
 Durch einen Doppelklick kann in die Stammdaten des Klienten gewechselt
 werden.
@@ -336,14 +336,14 @@ Button *Auszug anfordern* einen Auszug manuell anzufordern.
 
 ![](<img/image92.png>)
 
-![](<img/image93.png>)
+
 Im Anschluss wird das Datum
 der Meldung sowie der Mitarbeiter, der die Meldung durchgeführt hat,
 festgehalten.
 
 Führen Sie die WiEReG Meldung nicht über das Board durch oder wollen Sie
 vergangene Meldungen eintragen, haben Sie die Möglichkeit mit einem
-Klick auf den Button *Neue Meldung / Dokumentation zur Meldung über USP*
+Klick auf den Button ![](<img/image93.png>){width="50"} *Neue Meldung / Dokumentation zur Meldung über USP*
 **(1)** eine ausführliche Dokumentation zur erfolgten Meldung
 hinzuzufügen.
 
