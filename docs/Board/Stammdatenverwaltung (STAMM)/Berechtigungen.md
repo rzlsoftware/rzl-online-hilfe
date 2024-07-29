@@ -56,9 +56,10 @@ keine Klientengruppe können Sie den Klienten nur noch bearbeiten, wenn
 Sie die Berechtigung zur Bearbeitung der Stammdaten für **alle**
 Klienten besitzen.
 
-HINWEIS: Stellen Sie den Mauszeiger auf
-![](<img/image131.png>) um das Tooltip anzeigen zu
-lassen.
+
+!!! warning "Hinweis"
+    Stellen Sie den Mauszeiger auf ![](<img/image131.png>) um das Tooltip anzeigen zu
+    lassen.
 
 ![](<img/image132.png>) 
 
@@ -87,7 +88,9 @@ Mithilfe der Pfeiltasten ![](<img/image135.png>)
 ![](<img/image136.png>)  können Sie die Klienten der
 Klientengruppe entweder zuordnen oder entfernen.
 
-TIPP: Sie können die Klienten auch per Drag & Drop verschieben.
+
+!!! info "Tipp" 
+    Sie können die Klienten auch per Drag & Drop verschieben.
 
 ![](<img/image137.png>) 
 
@@ -192,12 +195,13 @@ Berechtigungen für alle Klienten zu.
 
 ![](<img/image147.png>) 
 
-**HINWEIS:** Auch Sichtbarkeits- bzw. Benutzerrechte von ausgetretenen
-Mitarbeitern wurden mit in das Board übernommen. Damit Sie nicht alle
-ausgetretenen Mitarbeiter in der Mitarbeiterübersicht kontrollieren
-müssen, können Sie die bestehenden Berechtigungen mit dem Button
-*Berechtigungen ausgetretener Mitarbeiter löschen* für alle
-ausgetretenen Mitarbeiter bereinigen.
+!!! warning "Hinweis" 
+    Auch Sichtbarkeits- bzw. Benutzerrechte von ausgetretenen
+    Mitarbeitern wurden mit in das Board übernommen. Damit Sie nicht alle
+    ausgetretenen Mitarbeiter in der Mitarbeiterübersicht kontrollieren
+    müssen, können Sie die bestehenden Berechtigungen mit dem Button
+    *Berechtigungen ausgetretener Mitarbeiter löschen* für alle
+    ausgetretenen Mitarbeiter bereinigen.
 
 -   Mitarbeiterstammdaten
 
@@ -222,11 +226,12 @@ diesem Reiter Rollen hinzufügen oder löschen und die Einschränkungen
 
 ![](<img/image149.png>) 
 
-**HINWEIS**: Wenn Sie den Klienten im Stamm öffnen, gibt es auch hier
-eine Übersicht der Berechtigungen. Sie sehen in der Liste die
-Mitarbeiter, die mindestens eine Rolle für diesen Klienten besitzen.
-Wählen Sie einen Mitarbeiter werden Ihnen auf der rechten Seite die
-zugeordneten Rollen für diesen Klienten angezeigt.
+!!! warning "Hinweis" 
+    Wenn Sie den Klienten im Stamm öffnen, gibt es auch hier
+    eine Übersicht der Berechtigungen. Sie sehen in der Liste die
+    Mitarbeiter, die mindestens eine Rolle für diesen Klienten besitzen.
+    Wählen Sie einen Mitarbeiter werden Ihnen auf der rechten Seite die
+    zugeordneten Rollen für diesen Klienten angezeigt.
 
 Im Reiter Berechtigte Funktionen finden Sie eine Übersicht der für den
 ausgewählten Mitarbeiter berechtigten Funktionen. Die Ansicht ist ident
