@@ -78,7 +78,6 @@ RZL Board durchführen **(1)**.
 ![](<img/image159.png>) 
 
 ![](<img/image160.png>) 
-alt="C:\Users\vdrexler\AppData\Local\Temp\SNAGHTML4399cb3.PNG" />
 
 Anschließend müssen Sie die Option *Übergabe des ERV-JAb/E-Bilanz an das
 RZL Board* **(1)** auswählen um an das RZL Board zu übergeben.
@@ -198,9 +197,10 @@ werden bei ***Meldung erstellen*** berücksichtigt. Somit können Sie
 auf Basis der VJ-Meldung Ihre Quotenfälle abarbeiten und neue Klienten
 noch manuell hinzufügen.
 
-TIPP: Sie können mithilfe der Mehrfachauswahl (Strg (+ Umschalt) +
-Markieren) mehrere Klienten markieren und in den Details die
-Informationen einmalig für alle markierten Klienten hinterlegen.
+!!! info "Tipp"
+    Sie können mithilfe der Mehrfachauswahl (Strg (+ Umschalt) +
+    Markieren) mehrere Klienten markieren und in den Details die
+    Informationen einmalig für alle markierten Klienten hinterlegen.
 
 Sie können zusätzlich ein geplantes Übermittlungsdatum für die
 Quotenmeldung eintragen.
@@ -259,13 +259,11 @@ vervollständigen den FinanzOnline Zugang mit Benutzer ID und Passwort.
 Damit der Zugang funktioniert wählen Sie die korrekte Zuordnung an und
 setzten Sie das Häkchen bei *Aktiv*.
 
-**HINWEIS**
-
-Eine Eintragung der FinanzOnline Zugänge im Board ist aufgrund der
-Änderung bei der Prüfung der UID Nummern seitens FinanzOnline notwendig.
-Nähere Informationen entnehmen Sie der Kurzanleitung
-[FIBU\_UID\_Nr.\_UEberpruefung.pdf
-(rzlsoftware.at)](https://neu.rzlsoftware.at/fileadmin/user_upload/rzl/Kurzanleitungen/FIBU-EA/FIBU_UID_Nr._UEberpruefung.pdf).
+!!! warning "Hinweis"
+    Eine Eintragung der FinanzOnline Zugänge im Board ist aufgrund der
+    Änderung bei der Prüfung der UID Nummern seitens FinanzOnline notwendig.
+    Nähere Informationen entnehmen Sie der Kurzanleitung
+    [UID Nr. Überprüfung](https://rzlsoftware.at/fileadmin/user_upload/PDF_Kurzanleitungen/FIBU/FIBU_UID_Nr._UEberpruefung.pdf)
 
 Bei Kanzlei-FinanzOnline Teilnehmern die eine Vollmacht für Ihre
 Klienten haben, ist keine Eintragung notwendig. Es reicht hier die

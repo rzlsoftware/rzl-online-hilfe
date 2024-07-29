@@ -55,7 +55,7 @@ werden.
 
 Im folgenden Dialog kann der jeweilige Tag definiert werden.
 
-![](<img/image179.png>) 
+![](<img/image179.png>){width="300"} 
 
 Wie auch in den Klientenstammdaten im Bereich WiEReG haben Sie hier die
 Möglichkeit mit einem Klick auf den Button *Auszug anfordern* manuell
@@ -93,7 +93,7 @@ Nach Auswahl des gewünschten Auszuges müssen Sie die Stammzahl
 des jeweiligen Klienten eintragen und können den Auszug mit einem Klick
 auf den Button *Auszug abrufen* abrufen.
 
-![](<img/image181.png>) 
+![](<img/image181.png>){width="400"} 
 
 In den Klientenstammdaten im Bereich *WiEReG* haben Sie über die
 Schaltfläche *Auszug anfordern* ebenso die Möglichkeit einen Auszug für

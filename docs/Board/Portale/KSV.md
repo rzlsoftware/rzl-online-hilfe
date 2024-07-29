@@ -65,9 +65,10 @@ klicken. Der Stammdatenabgleich für bestehende Klienten ist jedoch auch
 
 ![](<img/image188.png>) 
 
-HINWEIS: Die Funktionen in der obigen Abbildung sind nur verfügbar, wenn
-Sie einen Klienten wählen und mit geöffnetem Klienten auf Portale
-wechseln.
+!!! warning "Hinweis" 
+    Die Funktionen in der obigen Abbildung sind nur verfügbar, wenn
+    Sie einen Klienten wählen und mit geöffnetem Klienten auf Portale
+    wechseln.
 
 Der Stammdatenabgleich in den RZL Programmen unterstützt nur Unternehmen
 (keine Privatpersonen), da der StammdatenReport vom KSV1870 für
@@ -213,9 +214,9 @@ Klientengruppe(n) (oder Alle Klienten) öffnen.
 Unter ![](<img/image196.png>)  werden Sie auf die RZL
 Webseite [rzlSoftware.at/ksv1870](https://rzlsoftware.at/ksv1870)
 weitergeleitet. Sie finden dort weitere Informationen zu den
-Nutzungsbedingungen der KSV1870 Anbindung an die RZL Programme. Für die
-Nutzung gelten die [Statuten des
-Kreditschutzverband](https://www.ksv.at/media/756/download) von 1870,
+Nutzungsbedingungen der KSV1870 Anbindung an die RZL Programme. 
+
+Für die Nutzung gelten die [Statuten des Kreditschutzverband](https://www.ksv.at/media/756/download) von 1870,
 die [Allgemeinen Geschäftsbedingungen der KSV1870 Information
 GmbH](https://www.ksv.at/media/548/download) und der [KSV1870
 Forderungsmanagement
@@ -223,6 +224,7 @@ GmbH](https://www.ksv.at/agb-der-ksv1870-forderungsmanagement-gmbh),
 sowie die Bedingungen der jeweils aktuell geltenden [Preisliste für die
 KSV1870 Anbindung an die RZL Programme –
 Basis-Modul.](https://rzlsoftware.at/fileadmin/user_upload/Preisliste_und_Bestellformular_KSV1870_Anbindung_an_die_RZL_Programme.pdf)
+
 Für zusätzliche Abfragen, Auskünfte und Dienstleistungen über das
 Online-Portal My KSV fallen zusätzliche Kosten laut gültiger [KSV1870
 Preisliste (Tarif MemberLine)](https://www.ksv.at/media/550/download)

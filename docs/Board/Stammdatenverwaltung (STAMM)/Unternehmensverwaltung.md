@@ -29,5 +29,6 @@ Hakens markieren und entsprechend zuordnen.
 Auch in den Stammdaten des Klienten (Klientendaten) ist die Hinterlegung
 des Unternehmensbereichs möglich.
 
-HINWEIS: Nähere Informationen zum Thema Unternehmensbereiche im
-Zusammenhang mit HON Next finden Sie im RZL HON Next Handbuch.
+!!! warning "Hinweis"
+    Nähere Informationen zum Thema Unternehmensbereiche im
+    Zusammenhang mit HON Next finden Sie im RZL HON Next Handbuch.
