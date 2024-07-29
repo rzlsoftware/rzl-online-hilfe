@@ -1,9 +1,8 @@
-# Allgemein
+# Allgemeines
 
-Im RZL BOARD finden Sie die Stammdatenverwaltung, die Belegverarbeitung,
-den Menüpunkt Portale (FinanzOnline Übermittlungen, WiEReG), Funktionen
-des Kanzleiinformationssystems (Serienversand) und den RZL PDF-Manager
-Premium.
+Im RZL BOARD finden Sie die Stammdatenverwaltung, die Belegverarbeitung, den Menüpunkt Portale (Finanz-
+Online Übermittlungen, WiEReG), Funktionen des Kanzleiinformationssystems (Serienversand) und den RZL
+PDF-Manager Premium.
 
 ## Oberfläche
 
@@ -89,7 +88,7 @@ Im rechten oberen Bereich finden Sie den Menüpunkt Einstellungen.
 
 ![](<img/image6.png>)
 
-#### Aufzeichnungsprotokoll
+### Aufzeichnungsprotokoll
 
 Im Aufzeichnungsprotokoll werden alle Aufzeichnungen dargestellt, die
 beim Schließen des RZL Boards an RZL übermittelt werden. Die
@@ -102,33 +101,33 @@ deaktivieren bzw. auch wieder aktivieren.
 
 ![](<img/image7.png>)
 
-#### Auf Standardlayout zurücksetzen
+### Auf Standardlayout zurücksetzen
 
 Über diese Funktion werden alle Ansichten auf das Standardlayout von RZL
 zurückgesetzt.
 
-#### RZL Board Schnellstart aktivieren
+### RZL Board Schnellstart aktivieren
 
 Hier können Sie festlegen, dass das RZL Board beim Starten von Windows
 automatisch im Hintergrund gestartet wird.
 
-#### RZL Plugin-Manager (Klientenportal)
+### RZL Plugin-Manager (Klientenportal)
 
 Hier können Sie das Plugin für das RZL Klientenportal aktivieren.
 
-#### Lizenzierung
+### Lizenzierung
 
 Über die Funktion Lizenzierung erhalten Sie Informationen über Ihre
 Lizenz. Diese kann hier außerdem aktualisiert werden.
 
-#### Scanordner Einstellungen
+### Scanordner Einstellungen
 
 Hier können Sie einen neuen Scanordner hinzufügen/löschen. Dieser wird
 für das Modul Belegverarbeitung benötigt. Weitere Informationen über die
 Einrichtung bzw. Funktion des Scanordners erhalten Sie im Handbuch
 Belegverarbeitung.
 
-#### OCR Einstellungen
+### OCR Einstellungen
 
 Diese Funktion ist ebenfalls wichtig für die Belegverarbeitung. Hier
 können Sie Einstellungen bezüglich der Texterkennung treffen.
@@ -139,31 +138,31 @@ Im rechten oberen Bereich finden Sie den Menüpunkt Hilfe.
 
 ![](<img/image8.png>)
 
-#### **Handbücher**
+### Handbücher
 
 Sie können sich hier unter anderem das Board Handbuch aufrufen.
 
-#### **RZL Knowledge Base**
+### RZL Knowledge Base
 
-> Hier finden Sie technische Hilfestellungen zum RZL Lizenzstecker, zu
-> den RZL Programmen, zum RZL PDF-Drucker, zum RZL PDF-Manager Premium
-> usw.
+Hier finden Sie technische Hilfestellungen zum RZL Lizenzstecker, zu
+den RZL Programmen, zum RZL PDF-Drucker, zum RZL PDF-Manager Premium
+usw.
 
-#### **Kurzanleitungen**
+### Kurzanleitungen
 
 Hier können Sie aktuelle Kurzanleitungen je RZL Programm als
 PDF-Dokument aufrufen.
 
-#### **Lernvideos**
+### Lernvideos
 
 Hier können Sie aktuelle Lernvideos zu den RZL Programmen aufrufen.
 
-#### **RZL Support**
+### RZL Support
 
 Sie werden auf die Homepage weitergeleitet. Sie erhalten hier
 Informationen über die Erreichbarkeit unseres Supports.
 
-#### **Fernwartung**
+### Fernwartung
 
 Der RZL Support kann Sie – nach vorheriger Absprache – bei der
 Programmbedienung bzw. bei der Aufklärung von Problemen mittels
@@ -172,29 +171,28 @@ TeamViewer starten.
 
 ![](<img/image9.png>)
 
-#### 
 
-#### **An Meeting teilnehmen**
+### An Meeting teilnehmen
 
 Über diesen Menüpunkt können Sie – nach vorheriger Absprache – an einem
 vom RZL Support initiierten TeamViewer-Meeting teilnehmen.
 
-#### **RZL Software – YouTube Channel**
+### RZL Software – YouTube Channel
 
 Sie werden auf unseren YouTube Channel weitergeleitet.
 
-#### **Rechner** 
+### Rechner
 
 Hier können Sie den RZL Rechner starten. (Alternativ mit STRG + R)
 
-#### **RZL Admin**
+### RZL Admin
 
 Der RZL Admin öffnet sich. Mit dem RZL Admin finden Sie unter anderem
 Informationen zur Installation, können Einstellungen betreffend
 Programmaktualisierungen durchführen und weitere Einstellungen
 vornehmen.
 
-#### **Meine Berechtigung**
+### Meine Berechtigung
 
 Um herauszufinden, welche Berechtigungen Sie besitzen, muss nicht
 zwingenderweise der Benutzerverwalter kontaktieren werden. Sie können
@@ -207,20 +205,20 @@ In diesem Fenster können Sie sich mithilfe des Reglers **(1)** alle
 Funktionen einblenden lassen. Die Funktionen für die Sie keine
 Berechtigung besitzen sind hier in der Liste grau hinterlegt.
 
-#### Info
+### Info
 
 Unter Info sind die verwendete Programmversion und Ihre Anwendernummer
 ersichtlich.
 
 ![](<img/image11.png>)
 
-#### **Aktuelle Neuerungen**
+### Aktuelle Neuerungen
 
 Die aktuellen Neuerungen informieren Sie über die Neuerungen und
 Änderungen im Zusammenhang mit den zur Verfügung gestellten
 Programmaktualisierungen.
 
-#### **Programmaktualisierung**
+### Programmaktualisierung
 
 Steht eine neue RZL Programmaktualisierung zur Verfügung, können Sie
 diese hiermit manuell starten.
