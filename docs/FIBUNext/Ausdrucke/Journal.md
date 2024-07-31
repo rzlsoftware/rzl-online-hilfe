@@ -9,3 +9,4 @@ Der Ausdruck des Journals beinhaltet alle Buchungszeilen für den gewählten Zei
 
 Mit der Option *nach Buchungsdatum sortieren* können Sie das Journal auch nach Buchungsdatum sortiert drucken.
 
+Test
