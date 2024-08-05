@@ -49,6 +49,9 @@ sich in die Spalten Klienten-Nummer, Klienten-Name, Unternehmensbereich,
 Rechnungssteller, Auswahlkriterium, Nettosumme, Akonto und den einzelnen
 ausgewählten Verrechnungsgruppen.
 
+!!! info "Tipp"
+    Bei den Notenvorschlägen besteht die Möglichkeit sich Layouts anzulegen. (siehe [Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts))
+
 Bei der Infozeile **(4)** erhalten Sie die Information wie viele
 Notenvorschläge Sie von den insgesamt offenen Leistungen bei den
 Klienten ausgewählt haben und welche Nettosumme Sie im Vergleich zu der
