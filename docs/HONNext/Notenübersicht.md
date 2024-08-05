@@ -154,6 +154,10 @@ aufsteigend sortiert d.h. die neuesten Noten werden an unterster Stelle
 der Tabelle gereiht. Beim Aufruf der Notenübersicht, liegt der Fokus
 standartmäßig auf der zuletzt erstellten Note.
 
+## Note(n) bearbeiten
+
+Sie können hier eine oder mehrere vorläufige Noten markieren, um diese erneut zu bearbeiten. Werden meh-rere Noten markiert, öffnet sich eine Bearbeitungsserie. Das heißt, es öffnen sich die gewählten Noten der Reihe nach – vergleichbar mit der Notenserie bei der Notenerstellung.
+
 ## Notendatum ändern 
 
 Im Ribbon der Notenübersicht stehen Ihnen mehrere Funktionen zur

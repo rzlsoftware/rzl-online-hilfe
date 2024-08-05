@@ -108,6 +108,7 @@ Schrift in grauer Schriftfarbe dargestellt.
     Reihenfolge der Verrechnungsgruppen und der Tätigkeiten in der Note
     ändern. Damit das Symbol angezeigt wird müssen Sie den Mauscursor vor
     die Verrechnungsgruppe oder vor die Tätigkeit positionieren.
+    Dies ist auch mit dem Shortcut Strg+Pfeil rauf/runter möglich.
 
 ## Infozeile
 
