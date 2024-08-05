@@ -152,7 +152,7 @@ Darüber werden Sie über die Hinweismeldung informiert. Wenn Sie den
 Mauszeiger auf das ![](<img/image131.png>)  stellen, wird Ihnen im
 Tooltip angezeigt welche Funktionen automatisch aktiviert wurden.
 
--   Funktionen
+**Funktionen**
 
 Pro Modul werden hier alle möglichen Funktionen angezeigt, die die Rolle
 besitzt.
@@ -173,7 +173,7 @@ Optionen sind auch über das Kontextmenü aufrufbar.
 
 ![](<img/image145.png>) 
 
--   Zugeordnete Mitarbeiter
+**Zugeordnete Mitarbeiter**
 
 Markieren Sie eine Rolle werden in dieser Liste die zugeordneten
 Mitarbeiter inkl. den Einschränkungen angezeigt. Wollen Sie der Rolle
@@ -203,7 +203,7 @@ Berechtigungen für alle Klienten zu.
     *Berechtigungen ausgetretener Mitarbeiter löschen* für alle
     ausgetretenen Mitarbeiter bereinigen.
 
--   Mitarbeiterstammdaten
+**Mitarbeiterstammdaten**
 
 Benötigen Sie eine Übersicht der verwendeten Rollen je Mitarbeiter, so
 ist dies in der Mitarbeiterübersicht möglich. Sie können Spalten aus-
@@ -215,7 +215,7 @@ exportieren oder kopieren.
 In der Mitarbeiterübersicht gibt es jetzt neu die Spalte *Rollen*, wo
 Sie ebenfalls filtern und sortieren können. Klicken Sie auf
 *Berechtigungen anzeigen* wird ein neues Dialogfenster geöffnet. Dieses
-Dialogfenster ist ident mit dem unter Hilfe 🡪 Meine Berechtigungen. Wenn
+Dialogfenster ist ident mit dem unter *Hilfe 🡪 Meine Berechtigungen*. Wenn
 Sie nun in der Mitarbeiterübersicht zwischen den Mitarbeitern wechseln,
 aktualisiert sich ebenso die Ansicht der Berechtigungen.
 
@@ -235,7 +235,7 @@ diesem Reiter Rollen hinzufügen oder löschen und die Einschränkungen
 
 Im Reiter Berechtigte Funktionen finden Sie eine Übersicht der für den
 ausgewählten Mitarbeiter berechtigten Funktionen. Die Ansicht ist ident
-mit jener unter Hilfe 🡪 Meine Berechtigungen.
+mit jener unter *Hilfe 🡪 Meine Berechtigungen*.
 
 Unter Einstellungen können Sie zusätzlich festlegen, welche
 Klientengruppe bei der Auswahl der Einschränkungen vorgeschlagen werden

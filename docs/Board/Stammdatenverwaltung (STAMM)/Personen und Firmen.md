@@ -298,32 +298,28 @@ Hannesgrub Nord 35 (Anschrift Person bzw. Firma)
 
 ![](<img/image43.png>)
 
-**Telefonnummer, E-Mail**
-
+**Telefonnummer, E-Mail**   
 Es kann hier aus den Telefonnummern und E-Mail-Adressen der
 Kontaktperson bzw. der Person eine bestimmte Telefonnummer bzw.
 E-Mail-Adresse ausgewählt werden. Dieser Eintrag wird dann im KIS bei
 der Kontaktperson beim betreffenden Klienten als Telefonnummer bzw.
 E-Mail-Adresse angezeigt.
 
-**Funktion**
-
+**Funktion**   
 In diesem Feld können Sie die Funktion der Kontaktperson vermerken.
 
-**Funktion im Betrieb**
-
+**Funktion im Betrieb**   
 Falls vorhanden, wird hier die Funktion im Betrieb der Kontaktperson
 (Eintrag unter dem Punkt *Betriebe* im Register *Kontakte*) angezeigt.
 
-**ZMV Person 1 (bei Firmen)**
-
+**ZMV Person 1 (bei Firmen)**   
 Die Daten der ausgewählten Kontaktperson werden durch diese Einstellung
 in der ZMV bei „Person I“ eingetragen. Die bei einer Kontaktperson
 ausgewählte Adresse wird bei der Verwendung als „ZMV Person I“ auch als
 Adresse bei „Person I“ in die ZMV übernommen. Ist keine Adresse
 ausgewählt, wird die erste Adresse in der Reihenfolge verwendet.
 
-**(Ehe)Partner**
+**(Ehe)Partner**  
 In diesem Bildschirm kann der (Ehe)Partner der Person hinterlegt werden.
 Wie bei den Kontaktpersonen kann während der Hinterlegung auch eine neue
 Person angelegt werden. Über die Schaltfläche *zur Personenansicht*
@@ -340,15 +336,13 @@ den Personenstammdaten gemacht werden soll.
 ![](<img/image45.png>)
 
 
-**Kinder**
-
+**Kinder**   
 Über diesen Bereich können die Kinder verwaltet werden. Die Bedienung
 dieser Ansicht erfolgt analog zu den Kontaktpersonen.
 
 ![](<img/image46.png>)
 
-**Betriebe**
-
+**Betriebe**   
 Im Bereich Betriebe können Sie die Betriebe bei einem Einzelunternehmer
 anlegen. Bei einem Einzelunternehmer können beliebig viele Betriebe
 angelegt werden. Jeder Betrieb kann in der Folge in den Stammdaten eines
@@ -356,8 +350,7 @@ Klienten hinterlegt werden.
 
 ![](<img/image47.png>)
 
-**Betriebsdaten**
-
+**Betriebsdaten**   
 In den Betriebsdaten finden Sie die *Bezeichnung*, die *Art der
 Tätigkeit* und den *Bilanzstichtag*. Unter Adresse können Sie die
 *Betriebsadresse* hinterlegen. Dabei wird auf die bei der Person
@@ -366,22 +359,19 @@ hinterlegten Werte zugegriffen. Dasselbe gilt für die Einträge bei
 
 ![](<img/image48.png>)
 
-**Zusatzdaten**
-
+**Zusatzdaten**   
 In den Zusatzdaten finden Sie die Eingabemöglichkeit für das
 *Firmenbuch*, das *Gründungsdatum, Beendigungsdatum, Anmerkungen*, die
 *Adressanrede* und die *Briefanrede*.
 
 ![](<img/image49.png>)
 
-**Kontakte**
-
+**Kontakte**   
 Unter den Kontakten können betriebsbezogene Kontakte hinterlegt werden
 
 ![](<img/image50.png>)
 
-**Person löschen**
-
+**Person löschen**   
 Über *Person löschen* können Sie die Person löschen.
 
 !!! warning "Hinweis"
@@ -398,8 +388,7 @@ Zustellvertreter für Erklärungen und/oder Rechnungen.
 
 ![](<img/image51.png>)
 
-**Person drucken / Stammdatenausdruck**
-
+**Person drucken / Stammdatenausdruck**   
 Über *Person drucken* **(1)** gelangen Sie zum Druckdialog. Hier können
 Sie die Stammdaten auswählen, die auf dem Ausdruck enthalten sein
 sollen. Nach Art. 15 DSGVO hat ein Betroffener das Recht, Auskunft über
@@ -418,8 +407,7 @@ Register für den Druck an diese Auswahl angepasst.
 ![](<img/image52.png>)
 
 
-**Personengenerationen**
-
+**Personengenerationen**   
 Die Anlage einer neuen Generation erfolgt über die Schaltfläche *neue
 Generation* **(1)**. Die angelegten Generationen werden oberhalb einer
 Zeitleiste angezeigt und können durch Klicken auf den jeweiligen Bereich
@@ -468,8 +456,7 @@ Die Bereiche *Tel./E-Mail/Adressen, Verwendung, Finanzämter,
 Bankverbindungen* und *Kontaktpersonen* unterscheiden sich nicht von der
 Ansicht der Personen.
 
-**Gesellschafter**/**wirtsch**. **Eigentümer**
-
+**Gesellschafter**/**wirtsch**. **Eigentümer**   
 Über diesen Bereich werden die Gesellschafter bzw. wirtschaftlichen
 Eigentümer verwaltet. Die Eintragung der Gesellschafter hat derzeit
 keine Auswirkung auf die anderen RZL Programme wie z. B. das RZL Bilanz-
@@ -515,14 +502,13 @@ bei einer Neuanlage die Art **(1)** Oberster Rechtsträger.
 Im Feld wirtschaftlicher Eigentümer können Sie den zugehörigen
 wirtschaftlichen Eigentümer auswählen **(2)**. In dieser Auswahlliste
 erscheinen Ihnen nur jene wirtschaftlichen Eigentümer, die auch als
-indirekter wirtschaftlicher Eigentümer (siehe Abb. 2-41) gekennzeichnet
+indirekter wirtschaftlicher Eigentümer gekennzeichnet
 wurden.
 
 ![](<img/image59.png>)
 
 
-**Gesetzliche Vertreter**
-
+**Gesetzliche Vertreter**   
 Über diesen Bereich werden die gesetzlichen Vertreter verwaltet. Die
 Eintragung der Gesellschafter hat derzeit keine Auswirkung auf die
 anderen RZL Programme wie z. B. das RZL Bilanz- oder das RZL

@@ -272,8 +272,7 @@ automatisch aus der Wordvorlage übernommen werden, wenn diese in den erweiterte
 Vorlage gespeichert sind.
 
 Die Beschreibung der Eingabefelder im Zusammenhang mit der Übernahme in die RZL Dokumentenverwaltung
-(Dokument-Titel, Dokument-Thema, usw.) erhalten Sie im Handbuch KIS unter Kapitel 8.2 Dokumentenverwaltung
-– Beschreibung der Eingabefelder.
+(Dokument-Titel, Dokument-Thema, usw.) erhalten Sie im Handbuch [KIS](https://rzlsoftware.at/fileadmin/user_upload/PDF_Handbuecher/KIS.pdf) unter Kapitel 8.2 *Dokumentenverwaltung – Beschreibung der Eingabefelder*.
 
 Nach Eintragung der notwendigen Felder wird der Brief durch Anwahl der Schalfläche Hinzufügen als Postausgang
 eingetragen und in die Dokumentenverwaltung übernommen. Die einzelnen Serienbriefe werden in KIS

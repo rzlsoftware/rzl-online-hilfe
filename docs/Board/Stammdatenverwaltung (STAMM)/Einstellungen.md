@@ -70,8 +70,7 @@ ausgenommen ist.
 ## Einrichtung Finmatics
 
 Alternativ zur Belegdaten-Erkennung über die RZL Programme besteht die
-Möglichkeit, die Belegdaten-Erkennung durch die Firma FINMATICS
-Accounting Technologies GmbH, 1150 Wien (https://Finmatics.ac/de/)
+Möglichkeit, die Belegdaten-Erkennung durch die Firma [FINMATICS Accounting Technologies GmbH, 1150 Wien](https://Finmatics.ac/de/)
 vornehmen zu lassen.
 
 Mit Hilfe von selbstlernender künstlicher Intelligenz (KI) und auf
@@ -93,5 +92,5 @@ Häkchen *Zugriff auf Finmatics möglich* angezeigt.
 ![](<img/image156.png>) 
 
 Nähere Informationen zu Finmatics finden Sie auf unserer Homepage
-rzlsoftware.at im Anwenderbereich unter den Kurzanleitungen „FINMATICS
-Connect für RZL“.
+rzlsoftware.at im Anwenderbereich unter den Kurzanleitungen [FINMATICS
+Connect für RZL](https://neu.rzlsoftware.at/fileadmin/user_upload/PDF_Kurzanleitungen/BELEG/BELEGE_Finmatics_Connect_fuer_RZL.pdf).

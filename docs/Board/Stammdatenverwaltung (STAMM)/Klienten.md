@@ -51,16 +51,14 @@ Firma.
 ![](<img/image78.png>)
 
 
-**Nummer**
-
+**Nummer**   
 In diesem Feld sehen Sie die vergebene Klientennummer.
 
 !!! warning "Hinweis"
     Eine Klientennummer kann nur in der ZMV über *Klient / Nummer ändern*
     und nicht im RZL Board geändert werden.
 
-**Person (Firma) / zugeordneter Betrieb**
-
+**Person (Firma) / zugeordneter Betrieb**   
 Über das G-Symbol **(1)** (Zeichen für ein generationsunabhängiges Feld)
 kann die dem Klienten zugeordnete Person (Firma) geändert werden. Diese
 Änderungen gelten für alle Generationen des Klienten (soweit überhaupt
@@ -78,14 +76,12 @@ Stammdaten angelegt, so wird dieser automatisch beim Klienten verwendet.
 
 ![](<img/image79.png>)
 
-**Kurzbezeichnung**
-
+**Kurzbezeichnung**   
 Die Kurzbezeichnung des Klienten kann abweichend zum Namen des Klienten
 festgelegt werden. Die exakt gleiche Kurzbezeichnung darf nur einmal
 verwendet werden
 
-**Klient seit / Klient bis**
-
+**Klient seit / Klient bis**   
 Ist für einen Klienten im Feld *Klient bis* ein Datum eingetragen, wird
 dieser Klient im KIS als *NICHT BETREUT* gekennzeichnet.
 
@@ -99,15 +95,13 @@ deaktiviert werden soll.
 Im RZL Board werden nicht betreute Klienten in der Klientenübersicht
 standardmäßig ganz nach unten sortiert und hellgrau dargestellt.
 
-**PDF-Passwort**
-
+**PDF-Passwort**   
 Hier können Sie das PDF-Passwort eingeben. Das hier eingetragene PDF
 Passwort wird beim Versenden von Dokumenten direkt an den Klienten bzw.
 beim Hochladen auf das RZL Klientenportal als Benutzerpasswort
 herangezogen.
 
-**Auswahlkriterien**
-
+**Auswahlkriterien**   
 Über das Feld Auswahlkriterien können Sie dem Klienten ein oder mehrere
 Auswahlkriterien zuordnen. Die Auswahlkriterien müssen zuerst im KIS im
 Bereich *Verwaltung / Auswahlkriterium* angelegt werden.
@@ -116,8 +110,7 @@ Die Auswahlkriterien können als Filterkriterium für die
 Klientenübersicht dienen, oder bei der Erstellung von Serienbriefen
 verwendet werden.
 
-**Empfängerlisten**
-
+**Empfängerlisten**   
 In dieser Ansicht sehen Sie die Empfängerlisten, in denen der Klient
 bzw. zugehörige Personen des Klienten enthalten sind. Sie können einen
 Klienten auch aus den Stammdaten heraus zu einer Empfängerliste
@@ -126,30 +119,25 @@ können Sie die gewünschte Empfängerliste auswählen. Anschließend können
 Sie den gewünschten Empfänger für diesen Klienten wählen und über den
 grauen Pfeil zur Empfängerliste hinzufügen.
 
-**Klientengruppen**
-
+**Klientengruppen**   
 Wählen Sie hier die gewünschte(n) Klientengruppe(n) aus. Treffen Sie
 keine Zuordnung, können nur Mitarbeiter, welche die Berechtigung für
 alle Klienten besitzen, diesen Klienten bearbeiten.
 
-**Unternehmensbereich**
-
+**Unternehmensbereich**   
 Sie können einen Unternehmensbereich hinterlegen.
 
-**Elektronische Mitteilung gemäß § 109a EStG**
-
+**Elektronische Mitteilung gemäß § 109a EStG**   
 Diese Option ist derzeit ohne Funktion. Ob für einen Klienten eine
 Elektronische Mitteilung gemäß § 109a EStG erstellt werden kann, ist im
 jeweiligen Programm (LOHN, FIBU, bzw. EA) festzulegen.
 
-**Elektronische Dienstleistungsmeldung**
-
+**Elektronische Dienstleistungsmeldung**   
 Diese Option ist derzeit ohne Funktion. Ob für einen Klienten eine
 elektronische Dienstleistungsmeldung erstellt werden kann, ist in der
 FIBU festzulegen.
 
-**Bevorzugter Klient für die Standard-Steuernummer/UID-Nummer**
-
+**Bevorzugter Klient für die Standard-Steuernummer/UID-Nummer**   
 Befinden sich zwei Klienten mit identischer Steuer- bzw. UID-Nummer im
 Board kann definiert werden, bei welchem Klienten sich die FinanzOnline
 Aufgaben erstellen bzw. bei welchem Klient die Databox-Einträge u.Ä. zu
@@ -201,10 +189,7 @@ Um die Belegsynchronisation zu aktivieren, müssen Sie ein Häkchen bei
 festlegen, wie viele Vorjahre automatisch synchronisiert werden sollen
 **(3)**.
 
-Für weitere Informationen dazu dürfen wir Sie auf unsere **Kurzanleitung
-*Synchronisation der Belege mit dem RZL Klientenportal*** im
-Anwenderbereich unserer Homepage rzlsoftware.at im Bereich RZL
-Belegverarbeitung verweisen.
+Für weitere Informationen dazu dürfen wir Sie auf unsere Kurzanleitung [Synchronisation der Belege mit dem RZL Klientenportal](https://rzlsoftware.at/fileadmin/user_upload/PDF_Kurzanleitungen/BELEG/BELEG_Klientenportal_Synchronisation_Belege.pdf) verweisen.
 
 **Exkurs: Einstellung, wenn Ihr Klient auch die RZL Belegverarbeitung
 verwendet**
@@ -280,8 +265,8 @@ Die Aktivierung von Finmatics beim Klienten hat folgende Auswirkungen:
     Belegscanmanager unter Belegbox / Belegscanmanager.
 
 Nähere Informationen zu Finmatics finden Sie auf unserer Homepage
-rzlsoftware.at im Anwenderbereich unter den Kurzanleitungen („FINMATICS
-Connect für RZL“).
+rzlsoftware.at im Anwenderbereich unter den Kurzanleitungen [FINMATICS
+Connect für RZL](https://rzlsoftware.at/fileadmin/user_upload/PDF_Kurzanleitungen/BELEG/BELEGE_Finmatics_Connect_fuer_RZL.pdf).
 
 ## WiEReG
 

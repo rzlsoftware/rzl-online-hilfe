@@ -86,19 +86,16 @@ RZL Board* **(1)** auswählen um an das RZL Board zu übergeben.
 
 ![](<img/image161.png>) 
 
--   **Offene Übermittlungen**
-
+**Offene Übermittlungen**   
 Hier werden alle in der Kanzlei aus der RZL
 FIBU/Steuererklärungsprogramm/Bilanzprogramm in das RZL BOARD
 gestellten Übermittlungen angezeigt.
 
--   **Geplante Übermittlungen**
-
+**Geplante Übermittlungen**   
 Hier werden alle Übermittlungen angezeigt, für die ein geplantes
 Übermittlungsdatum in der Zukunft gesetzt wurde.
 
--   **Gesendete Übermittlungen**
-
+**Gesendete Übermittlungen**   
 Hier werden alle bereits gesendeten Übermittlungen angezeigt.
 
 ![](<img/image162.png>) 
@@ -155,21 +152,21 @@ der Ansicht können Sie die Übermittlung drucken, in den RZL PDF Manager
 
 Ab Mai 2024 ist in FinanzOnline die Übermittlung der Quotenmeldungen
 mittels Webservice möglich. In den RZL Programmen ist dies in
-Kombination mit dem **RZL Board Basis-Programm**, dem **RZL KIS Modul
-FinanzOnline-Anbindung** und dem **RZL KIS Modul
-Dokumentenverwaltung** nutzbar.
+Kombination mit dem *RZL Board Basis-Programm*, dem *RZL KIS Modul
+FinanzOnline-Anbindung* und dem *RZL KIS Modul
+Dokumentenverwaltung* nutzbar.
 
-Im RZL Board unter ***Portale*** - ***FinanzOnline*** gibt es nun die
+Im RZL Board unter *Portale - FinanzOnline* gibt es nun die
 Möglichkeit, Quotenmeldungen zu erstellen. Dieser Menüpunkt ist
-verfügbar, wenn Sie in den Berechtigungen die Funktion „Quotenmeldung
-verwalten“ in einer Rolle zugeordnet haben. Standardmäßig ist die
+verfügbar, wenn Sie in den Berechtigungen die Funktion *„Quotenmeldung
+verwalten“* in einer Rolle zugeordnet haben. Standardmäßig ist die
 Funktion in den RZL Rollen RZL Administrator, FinanzOnline
 Quotenplanung und Kanzleiverwaltung (Berechtigungssystem Premium)
 enthalten.
 
 ![](<img/image166.png>) 
 
-Über ***Portale*** – ***Quotenmeldung*** - ***Meldung erstellen***
+Über *Portale / Quotenmeldung / Meldung erstellen*
 öffnet sich ein neues Fenster mit einer Liste von Klienten des
 zugehörigen Teilnehmers. Bei mehreren Teilnehmern können Sie diese
 über das DropDown Menü *Teilnehmer* wählen.
@@ -206,23 +203,23 @@ Sie können zusätzlich ein geplantes Übermittlungsdatum für die
 Quotenmeldung eintragen.
 
 Nachdem Sie in der Liste alle notwendigen Klienten zur Meldung
-angegeben haben, können Sie unter ***Portale - FinanzOnline /
-Quotenmeldung*** eine Übersicht einsehen.
+angegeben haben, können Sie unter *Portale - FinanzOnline /
+Quotenmeldung* eine Übersicht einsehen.
 
 ![](<img/image168.png>) 
 
-Unter ***Portale / FinanzOnline / Offene Übermittlungen*** wird der
+Unter *Portale / FinanzOnline / Offene Übermittlungen* wird der
 Datensatz für die Quotenmeldung in einer Zeile ohne Klient Nr. und
 Klient dargestellt, da für die Meldung ein Paket für alle Klienten
 übergreifend erstellt wird. Sie können die Meldung mit der Art *Quote*
 dann wie gewohnt über Webservice an FinanzOnline übermitteln und
 erhalten spätestens nach 48 Stunden ein Protokoll in der Databox. Die
-gesendete Meldung ist in den ***Gesendeten* Übermittlungen** zu
+gesendete Meldung ist in den *Gesendeten Übermittlungen* zu
 finden.
 
 Mit Erhalt des Protokolls im Kanzlei-Informationssystem unter
-***FinanzOnline / Databox*** wird in der Übersicht unter ***Portale /
-FinanzOnline / Quotenmeldung*** auch der Status lt. FinanzOnline
+*FinanzOnline / Databox* wird in der Übersicht unter *Portale /
+FinanzOnline / Quotenmeldung* auch der Status lt. FinanzOnline
 Protokoll aktualisiert.
 
 ![](<img/image169.png>) 

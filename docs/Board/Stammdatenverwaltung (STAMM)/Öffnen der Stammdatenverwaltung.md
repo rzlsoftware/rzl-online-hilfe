@@ -57,7 +57,7 @@ Sortierreihenfolge (z.B. 1. Sortieren nach Rechtsform, 2. Sortieren nach
 Klientennummer innerhalb der bereits getroffenen Sortierung nach
 Rechtsform) festlegen.
 
-### **Bearbeiten** der Listen – Spalten auswählen/Spalten verschieben
+### Bearbeiten der Listen – Spalten auswählen/Spalten verschieben
 
 Durch Klick mit der rechten Maustaste auf die Spaltenüberschrift
 erreichen Sie das Kontextmenü.
@@ -73,7 +73,7 @@ die ausgewählte Spalte in die gewünschte Position.
 
 ![](<img/image16.png>)
 
-**Listen** **filtern**
+**Listen filtern**
 
 Durch Klicken auf das Trichtersymbol **(1)** in der Spaltenüberschrift
 gelangen Sie in das Filtermenü.
