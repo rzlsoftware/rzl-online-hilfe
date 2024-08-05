@@ -13,7 +13,7 @@ nachfolgender Tab.
 
 ![](<img/image73.png>)
 
-### Stunden
+## Stunden
 
 Im Drop-Down Feld können Sie einstellen, ob Sie die Leistungserfassung
 in Normalstunden (1 h = 60 Minuten) oder in Industriestunden (1 h = 100
@@ -55,7 +55,7 @@ Eigenkosten werden auf Basis der erfassten Dauer ermittelt.
 Die verrechenbare Dauer wird auf der Note, auf dem Notenjournal sowie
 bei den Umsatzstatistiken angeführt.
 
-### Note
+## Note
 
 **Verrechnungsgruppen getrennt ausweisen**
 
@@ -228,7 +228,7 @@ die Platzhalter bzw. ihr gewählter Titel liefert.
     Wird im Feld *Notentitel* nichts hinterlegt, lautete der Titel der Note
     „Note\_Note.Datum\_Note.Nummer“
 
-### PDF-Erstellung
+## PDF-Erstellung
 
 Mithilfe der Option *Schriftarten einbetten*, können Sie definieren, ob
 die Schriftart in das PDF eingebettet wird oder nicht. Dies hat vor
@@ -248,7 +248,7 @@ PDF kann nicht korrekt dargestellt werden.
 
 ![](<img/image87.png>)
 
-### Buchhaltung
+## Buchhaltung
 
 **Note beim Finalisieren als Ausgangsbeleg in das Belegsystem
 übernehmen**
@@ -324,7 +324,10 @@ Werte die Platzhalter bzw. ihr gewählter Text liefert.
 !!! warning "Hinweis"
     Den Vorschlag der Debitorennummer ist in den Klientenstammdaten (siehe [Buchhaltung](/HONNext/Stammdaten%20Klienten/#buchhaltung)) ersichtlich.
 
-### Verteilung der Zu- und Abschläge
+**Anzahlungskonten**
+Diese Konten werden bei der Verbuchung von Anzahlungsrechnungen benötigt (vgl. Kapitel 14, Seite 122).
+
+## Verteilung der Zu- und Abschläge
 
 Hier kann die übliche bzw. am häufigsten verwendete Verteilungsmethode
 eingestellt werden. Während der Notenerstellung kann die Art der
@@ -334,7 +337,7 @@ Mitarbeiter, ohne Mitarbeiterbezug oder manuell verteilt werden.
 
 Ihre Einstellungen können Sie mittels *Speichern* Button bestätigen.
 
-### Verteilung der Rabatte/Aufschläge
+## Verteilung der Rabatte/Aufschläge
 
 Hier kann die standartmäßige Verteilungsmethode für Rabatte und
 Aufschläge definiert werden. Während der Notenerstellung kann die Art

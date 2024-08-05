@@ -1,4 +1,4 @@
-# Notenerstellung und Belegverarbeitung mit Akonto-/ Anzahlungen
+# Notenerstellung und Belegverarbeitung mit Akontozahlung
 
 ## Notenerstellung und Belegverarbeitung mit Akonto
 

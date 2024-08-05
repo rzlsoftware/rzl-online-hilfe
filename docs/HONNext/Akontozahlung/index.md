@@ -10,11 +10,9 @@ Anzahlungen abzurechnen. Hierfür gibt es den eigenen Reiter
 
 ## Unterschied Akonto und Anzahlung
 
-Der wesentliche Unterschied liegt bei der Darstellung der UST. Beide
-Werte Akonto und Anzahlung werden bei der Anlage mit dem Bruttowert
-eingegeben. Bei der Anzahlung erfolgt jedoch auf der Note ein extra
-Ausweis zwischen Netto und UST – welchen es bei Akontozahlungen nicht
-gibt.
+Bei Anzahlungen werden vorab Anzahlungsnoten mit UST-Ausweis erstellt, diese werden in der FIBU verbucht und abschließend bei der Schlussrechnung in Abzug gebracht.
+
+Akonten werden ohne UST-Ausweis direkt bei der Note vom Bruttobetrag abgezogen. Es gibt nur eine Akontozahlung aber keine vorangegangene Rechnung.
 
 
 

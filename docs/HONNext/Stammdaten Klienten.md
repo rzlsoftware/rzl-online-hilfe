@@ -17,8 +17,7 @@ Honorarverrechnungs-Einstellungen zu hinterlegen.
 
 ![](<img/image113.png>)
 
-**Leistungserfassung bis**
-
+**Leistungserfassung bis**   
 Dieses Feld bewirkt, dass bei nicht mehr betreuten Klienten kein
 Mitarbeiter mehr Leistungen auf diesen Klienten erfassen kann.
 
@@ -27,8 +26,7 @@ Mitarbeiter mehr Leistungen auf diesen Klienten erfassen kann.
     erhalten Sie eine Abfrage, ob dieses Datum automatisch auch für das Feld
     *Leistungserfassung bis* verwendet werden soll.
 
-**Klienten-Tarifschema**
-
+**Klienten-Tarifschema**   
 Das hinterlegte Klienten Tarifschema wird für die Notenerstellung
 verwendet. Weitere Informationen zum Klienten-Tarifschema finden Sie im
 Kapitel [Tarifschemata](/HONNext/Stammdaten%20HON%20Next/Tarifschemata) beschrieben.
@@ -42,8 +40,7 @@ erläutert.
 
 ![](<img/image114.png>)
 
-**Umsatzsteuer**
-
+**Umsatzsteuer**   
 Hier ist die Form der Versteuerung zu definieren.
 
 -   *Standard  
@@ -76,20 +73,17 @@ Leistung
     Ist der Rechnungsempfänger ungleich Österreich, wird das Land in
     Großbuchstaben auf der Note ausgewiesen.
 
-**Abweichende UID-Nummer**
-
+**Abweichende UID-Nummer**   
 Standardmäßig wird auf der Note die erste UID Nummer des Klientenstamm
 verwendet. Sollte auf der Note eine abweichende UID Nummer angegeben
 werden, können Sie hier aus allen im Klientenstamm eingetragenen UID
 Nummern auswählen.
 
-**Abweichende Notenvorlage**
-
+**Abweichende Notenvorlage**   
 In den Klientenstammdaten kann für den Klienten eine zu der des
 Unternehmensbereiches abweichende Notenvorlage hinterlegt werden.
 
-**Zugeordneten Betrieb verwenden**
-
+**Zugeordneten Betrieb verwenden**   
 Ist diese Option aktiviert werden für die Notenerstellung die Daten
 (Name, Adresse, Brief-/Adressanrede) aus dem im Board zugeordneten
 Betrieb **(1)** verwendet.
@@ -109,14 +103,12 @@ verwendet.
     befüllt, greift das Programm auf die Adress-/Briefanrede aus den
     Personendaten zurück.
 
-**Ausdruck Tätigkeitsnachweis mit Note**
-
+**Ausdruck Tätigkeitsnachweis mit Note**   
 Wird diese Option aktiviert, wird der Tätigkeitsnachweis automatisch mit
 der Note ausgedruckt. Diese Option kann auch während der Notenerstellung
 pro Note aktiviert/deaktiviert werden.
 
-**Abweichende E-Mail**
-
+**Abweichende E-Mail**   
 Wird die Note per Mail an den Klienten versendet, wird standartmäßig die
 erste E-Mail-Adresse, welche beim Klienten hinterlegt ist verwendet.
 Über das Feld *Abweichende E‑Mail* kann für den Notenversand
@@ -124,31 +116,23 @@ eine/mehrere andere E-Mail-Adressen definiert werden. Werden mehrere
 E-Mail-Adressen ausgewählt, wird nur eine E-Mail mit mehreren Empfängern
 und der Note im Anhang generiert.
 
-**CC / BCC**
-
+**CC / BCC**   
 Hier können Sie aus den hinterlegten Klienten- und
 Kontaktpersonen-Mailadressen die E-Mail-Adresse für einen CC und/oder
 BCC Empfänger definieren. Eine Mehrfachauswahl von E-Mail-Adressen ist
 möglich.
 
-**Abweichende Rechnungsadresse**
+**Abweichende Rechnungsadresse**   
+Grundsätzlich wird für den Notenversand, die erste Adresse der Klientenperson/Firma verwendet. Ist die Option *zugeordneten Betrieb verwenden* aktiv, wird die Adresse des zugeordneten Betriebes verwendet. Sollte eine abweichende Adresse verwendet werden, kann dies über das Feld *Abweichende Rechnungsadresse* hinterlegt werden. Es stehen Ihnen hier alle Adressen der Personen-/Firmenansicht des Klienten zur Verfügung.
 
-Grundsätzlich wird für den Notenversand, die erste geschäftliche Adresse
-bzw. die Adresse des Betriebes verwendet. Sollte eine abweichende
-Adresse verwendet werden, kann dies über das Feld *Abweichende
-Rechnungsadresse* hinterlegt werden. Es stehen Ihnen hier alle Adressen
-der Personen-/Firmenansicht des Klienten zur Verfügung.
-
-**Zu Handen**
-
+**Zu Handen**   
 Wird die Note zu Handen einer bestimmten Person versendet, können Sie
 das in den Klientenstammdaten dieser Person hinterlegen. Zur Auswahl
 stehen Ihnen nur natürliche Personen, die mit dem Klienten verbunden
 sind (Klient-Person, Kontaktpersonen, (Ehe)Partner, Kinder,
 Gesellschafter und Gesetzliche Vertreter).
 
-**Zustellung der Note**
-
+**Zustellung der Note**   
 Die Art der *Zustellung der Note* kann ausgewählt werden und wird später
 bei der Notenerstellung vorgeschlagen. Als Arten können E-Mail,
 Klientenportal und Druckausgabe ausgewählt werden. Beim Ausdrucken einer
@@ -157,16 +141,14 @@ automatisch der PDF-Drucker bzw. der PDF-Manager als Drucker ausgewählt.
 Während der Notenerstellung kann die Art der Zustellung abgeändert
 werden, siehe [Notenerstellung/Einstellungen](/HONNext/Notenerstellung/Notenerstellung/#einstellungen).
 
-**Zahlungsart**
-
+**Zahlungsart**   
 Bei der Zahlungsart stehen Ihnen die Optionen *Überweisung, SEPA
 Lastschrift* und *keine Zahlung* zur Verfügung. Bei der Option
 Überweisung kann für die Note ein QR Code erzeugt werden. Bei der Option
 SEPA Lastschrift wird kein QR Code erzeugt, sondern auf den Bankeinzug
 hingewiesen (siehe auch [Formelsammlung](/HONNext/Notenvorlagen/Formelsammlung)).
 
-**Zustellvertreter**
-
+**Zustellvertreter**   
 Über das Feld *Zustellvertreter* können Sie einen Zustellvertreter für
 den Empfang der Honorarnoten definieren. Es stehen Ihnen hier alle im
 Board angelegten Personen zur Verfügung. Die beim Klienten definierten
@@ -177,16 +159,14 @@ des Zustellvertreters ist ein Pflichtfeld.
     Wird ein Zustellvertreter definiert, erhalten Sie beim Ausdruck der
     Noten ein Vorblatt mit der Anschrift des Zustellvertreters.
 
-**Hinweis zur Notenerstellung**
-
+**Hinweis zur Notenerstellung**   
 Der *Hinweis zur Notenerstellung* kann direkt in den Klienten-Stammdaten
 hinterlegt werden und wird Ihnen immer bei jeder Notenerstellung
 angezeigt – wird nicht auf der Note gedruckt. Weitere Informationen zum
 Hinweis finden Sie unter [Notenerstellung/Einstellungen](/HONNext/Notenerstellung/Notenerstellung/#einstellungen)
 beschrieben.
 
-**Zusatztext auf der Note**
-
+**Zusatztext auf der Note**   
 Sollte auf der Note ein zusätzlicher Text angeführt werden, kann dies in
 den Stammdaten des Klienten definiert werden. Der Zusatztext wird auf
 der Note angedruckt und kann im Zuge der Notenerstellung noch editiert
@@ -198,14 +178,12 @@ werden.
 
 ## Buchhaltung
 
-**Debitoren-Kontonummer**
-
+**Debitoren-Kontonummer**   
 Die Kontonummer wird später bei der Notenerstellung für die
 Belegverarbeitung verwendet. Es wird die hinterlegte
 Debitoren-Kontonummer als Kontonummer in die RZL-Belegverarbeitung
 übernommen.
 
-**Kostenstelle**
-
+**Kostenstelle**   
 Ebenfalls kann für die Verbuchung in der Finanzbuchhaltung pro Klient
 eine Kostenstelle hinterlegt werden (1-999999999). Siehe hierzu [Tätigkeiten](/HONNext/Stammdaten%20HON%20Next/Tätigkeiten).
