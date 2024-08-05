@@ -1,92 +1,33 @@
 # Hilfreiche Shortcuts
 
-<table>
-<colgroup>
-<col style="width: 47%" />
-<col style="width: 52%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>Shortcut</strong></th>
-<th><strong>Beschreibung</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><em>STRG + A</em></td>
-<td>Alle Mitarbeiter markieren.</td>
-</tr>
-<tr class="even">
-<td><em>F2</em> im Feld Tätigkeit-Nummer oder Klienten-Nummer</td>
-<td>Tätigkeiten oder Klienten aufrufen.</td>
-</tr>
-<tr class="odd">
-<td><em>STRG + N</em></td>
-<td>Neue Verrechnungsgruppe anlegen</td>
-</tr>
-<tr class="even">
-<td>ENTF</td>
-<td>Dialogfenster beenden/Eingabe abbrechen</td>
-</tr>
-<tr class="odd">
-<td><em>h</em> im Eingabedialog Datum für eine neue Leistung</td>
-<td>Heute eintragen</td>
-</tr>
-<tr class="even">
-<td><em>g</em> im Eingabedialog Datum für eine neue Leistung</td>
-<td>Gestern eintragen</td>
-</tr>
-<tr class="odd">
-<td><em>m</em> im Eingabedialog Datum für eine neue Leistung</td>
-<td>Morgen eintragen</td>
-</tr>
-<tr class="even">
-<td><em>v</em> im Eingabedialog Datum für eine neue Leistung</td>
-<td>Vorgestern eintragen</td>
-</tr>
-<tr class="odd">
-<td><em>ü</em> im Eingabedialog Datum für eine neue Leistung</td>
-<td>Übermorgen eintragen</td>
-</tr>
-<tr class="even">
-<td><em>Strg + G</em> im Notenerstellungsdialog</td>
-<td>Gruppierung</td>
-</tr>
-<tr class="odd">
-<td><em>Strg + D</em> im Notenerstellungsdialog</td>
-<td>Zeile drucken</td>
-</tr>
-<tr class="even">
-<td><em>Strg + M</em> im Notenerstellungsdialog</td>
-<td>Automatische Verteilung auf Mitarbeiter</td>
-</tr>
-<tr class="odd">
-<td><em>Strg + Shift + M</em> im Notenerstellungsdialog</td>
-<td>Automatische Verteilung ohne Mitarbeiterbezug</td>
-</tr>
-<tr class="even">
-<td><em>Strg + T</em> im Notenerstellungsdialog</td>
-<td>Manuelle Verteilung</td>
-</tr>
-<tr class="odd">
-<td><em>Strg + W</em> im Notenerstellungsdialog</td>
-<td>Zu-/Abschläge verwerfen</td>
-</tr>
-<tr class="even">
-<td><em>Einfg</em> im Notenerstellungsdialog</td>
-<td>Neue Tätigkeit einfügen</td>
-</tr>
-<tr class="odd">
-<td><em>STRG + F6</em> im Notenerstellungsdialog</td>
-<td>Leistungszeile einfügen</td>
-</tr>
-<tr class="even">
-<td><em>F6</em> im Notenerstellungsdialog</td>
-<td>Leistungszeile bearbeiten</td>
-</tr>
-<tr class="odd">
-<td><em>Leertaste</em> im Notenerstellungsdialog</td>
-<td>Zeile verrechnen</td>
-</tr>
-</tbody>
-</table>
+
+| *Shortcut*                | *Feld / Fenster*                              | *Beschreibung*                                                                    |
+| ------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------- |
+| STRG + A                  | ---                                           | Alle Mitarbeiter markieren.                                                       |
+| F2                        | ---                                           | Im Feld Tätigkeit-Nummer oder Klienten-Nummer Tätigkeiten oder Klienten aufrufen. |
+| STRG + N                  | ---                                           | Neue Verrechnungsgruppe anlegen                                                   |
+| ENTF                      | ---                                           | Dialogfenster beenden/Eingabe abbrechen                                           |
+| h                         | im Eingabedialog Datum für eine neue Leistung | *Heute* eintragen                                                                 |
+| g                         | im Eingabedialog Datum für eine neue Leistung | *Gestern* eintragen                                                               |
+| m                         | im Eingabedialog Datum für eine neue Leistung | *Morgen* eintragen                                                                |
+| v                         | im Eingabedialog Datum für eine neue Leistung | *Vorgestern* eintragen                                                            |
+| ü                         | im Eingabedialog Datum für eine neue Leistung | *Übermorgen* eintragen                                                            |
+| Strg + G                  | im Notenerstellungsdialog                     | Gruppierung                                                                       |
+| Strg + D                  | im Notenerstellungsdialog                     | Zeile drucken                                                                     |
+| Strg + M                  | im Notenerstellungsdialog                     | Automatische Verteilung auf Mitarbeiter                                           |
+| Strg + Shift + M          | im Notenerstellungsdialog                     | utomatische Verteilung auf Mitarbeiter                                            |
+| Strg + T                  | im Notenerstellungsdialog                     | Manuelle Verteilung                                                               |
+| Strg + W                  | im Notenerstellungsdialog                     | Manuelle Verteilung                                                               |
+| Einfg                     | im Notenerstellungsdialog                     | Neue Tätigkeit einfügen                                                           |
+| STRG + F6                 | im Notenerstellungsdialog                     | Leistungszeile einfügen                                                           |
+| F6                        | im Notenerstellungsdialog                     | Leistungszeile bearbeiten                                                         |
+| Leertaste                 | im Notenerstellungsdialog                     | Zeile verrechnen                                                                  |
+| Strg + Pfeil Rechts/Links | im Notenerstellungsdialog                     | Alle Zeilen anzeigen/verbergen                                                    |
+| F8                        | im Notenerstellungsdialog                     | Rabatt einfügen                                                                   |
+| Strg + F8                 | im Notenerstellungsdialog                     | Positionsrabatt einfügen                                                          |
+| Alt + S                   | im Notenerstellungsdialog                     | Speichern & Schließen der Note                                                    |
+| Strg+Pfeil rauf/runter    | im Notenerstellungsdialog                     | Verschiebt die Tätigkeit/Verrechnungsgruppe                                       |
+| F11                       | in Notenerstellung + Notenübersicht           | Öffnet den Notenrückblick                                                         |
+| F12                       | in Notenerstellung + Notenübersicht           | Öffnet die Druckvorschau                                                          |
+| Strg + O                  | bei den Notenvorschlägen                      | Offene Leistungen anzeigen                                                        |
+| Strg + P                  | in Notenerstellung + Notenübersicht           | Note Drucken                                                                      |
