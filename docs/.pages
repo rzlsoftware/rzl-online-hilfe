@@ -1,6 +1,7 @@
-
 nav:
-  - Board
   - FIBU Next: FIBUNext
+  - Belegverarbeitung
+  - LE Next: LENext
+  - Board
   - PDF Manager: PDFManager
     
