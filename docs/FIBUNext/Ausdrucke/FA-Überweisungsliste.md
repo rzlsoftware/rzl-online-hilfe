@@ -10,6 +10,7 @@ Beim Ausdruck der FA-Überweisungsliste können zusätzlich noch folgende Auswah
 
 * Tagesdatum auf den Ausdrucken: Es wird in der Fußzeile rechts das Tagesdatum angedruckt.
 * Tagesdatum auf den Ausdrucken mit der Option mit Uhrzeit: Es wird in der Fußzeile rechts das Tagesdatum inkl. Uhrzeit angedruckt.
+* Gutschrift nicht abziehen: Standardmäßig wird ein UVA Guthaben mit einem Minusbetrag angeführt. Aktiviert man diese Option wird statt dem Minusbetrag ein Betrag in Höhe von 0,00 angeführt mit der Info "Gutschrift XXX".
 * Vierteljahresbeträge aus FinanzOnline: Hat man diese Option aktiviert, können die fälligen Abgaben (Einkommensteuer bzw. Körperschaftssteuer) lt. "Zahlungsplan" ausgewählt werden. Damit die Daten aktuell sind, wird beim Aktivieren dieser Option die Abfrage von FinanzOnline angestoßen. Sollte die Abfrage nicht erfolgreich gewesen sein, erscheint ein Hinweis. Die zuvor gewählten Abgaben werden dann am Ausdruck entsprechend berücksichtigt.
   
 !!! warning "Hinweis"
