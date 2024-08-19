@@ -1,9 +1,7 @@
-
 nav:
-    - Anlegen des Klienten (Dienstgebers) im RZL Lohn.md 
-    - Mengengerüst 1.md
-    - Mengengerüst 2.md
-    - Mengengerüst 3.md
+    - Anlegen des Klienten (Dienstgebers) im RZL Lohn.md
     - Passwort des Klienten.md
+    - DN-Nummernbereich.md
+    - Klient per E-Mail anonymisiert versenden.md
+    - Beschreibung der Symbolleiste.md
     - ...
-  
