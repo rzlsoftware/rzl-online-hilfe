@@ -8,11 +8,8 @@ generiert.
     Damit wiederkehrende Akonten vom Programm generiert werden können, ist
     es nötig, dass der RZL Dienst aktiv ist (siehe SETUP Handbuch Kapitel
     12.10.2).
-
-Ersichtlich über folgendes Symbol in der unteren rechten Ecke:
-
-
-![](<img/image251.png>)
+    Ersichtlich über folgendes Symbol in der unteren rechten Ecke:
+    ![](<img/image251.png>)
 
 ## Neue wiederkehrende Akontozeile
 

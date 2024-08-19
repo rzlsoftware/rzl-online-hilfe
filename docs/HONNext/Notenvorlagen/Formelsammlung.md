@@ -11,6 +11,7 @@
 | Note.ISTDuplikat                | Kann als Bedingungsformel für den Andruck des Wortes „Duplikat“ verwendet werden                |
 | Note.GutgeschriebeneNote.Nummer | Notennummer der gutgeschriebenen Honorarnote                                                    |
 | Note.GutgeschriebeneNote.Datum  | Notendatum der gutgeschriebenen Honorarnote                                                     |
+| Note.IstAnzahlungsnote          | Bedingungsformel für den Andruck auf einer Anzahlungsnote                                       |
 | Note.Zusatztext                 | Zusatztext der bei der Honorarnote eingegeben wurde                                             |
 | Note.IstReverseCharge           | Kann als Bedingungsformel für den Andruck des Ausweises von Reverse Charge verwendet werden     |
 | Note.Anmerkung                  | Die Anmerkung, welche bei jeder Note individuell hinterlegt werden kann, kann angedruckt werden |

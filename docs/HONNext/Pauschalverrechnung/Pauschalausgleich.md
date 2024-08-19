@@ -94,11 +94,8 @@ Kontextmenü erfolgen.
     Damit der automatische Pauschalausgleich vom Programm erfolgen kann, ist
     es nötig, dass der RZL Dienst aktiv ist (siehe SETUP Handbuch Kapitel
     12.10.2).
-
-Ersichtlich über folgendes Symbol in der unteren rechten Ecke:
-
-
-![](<img/image251.png>)
+    Ersichtlich über folgendes Symbol in der unteren rechten Ecke:
+    ![](<img/image251.png>)
 
 Bei der Anlage einer Pauschalzeile/einer wiederkehrenden Pauschalzeile
 besteht die Option den automatischen Ausgleich zu aktivieren.
