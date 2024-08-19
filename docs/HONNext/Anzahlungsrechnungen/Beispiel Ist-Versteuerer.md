@@ -15,8 +15,8 @@ Im HON Next über *Akonto/Anzahlungen / wiederkehrende Anzahlungen* werden die S
  
 •	Häufigkeit: Wie oft wird die Anzahlung geleistet? -> monatlich = 1   
 •	Datum der nächsten Zeile: Wann wird die Anzahlung ca. geleistet? -> immer am ersten jedes Monats   
-Beim Datum der nächsten Zeile ist auch zu berücksichtigen, wann Sie die Anzahlungsnote an den Klien-ten schicken möchten (in diesem Bsp. ab 01.01. möglich).   
-•	Geplanter Leistungszeitraum? Wann wird die Leistung für diese Anzahlung ca. von den Mitarbeitern er-bracht? -> im Folgemonat   
+Beim Datum der nächsten Zeile ist auch zu berücksichtigen, wann Sie die Anzahlungsnote an den Klienten schicken möchten (in diesem Bsp. ab 01.01. möglich).   
+•	Geplanter Leistungszeitraum? Wann wird die Leistung für diese Anzahlung ca. von den Mitarbeitern erbracht? -> im Folgemonat   
 •	Projektzeitraum? Welchen Projektzeitraum betrifft die geleistete Anzahlung? -> Monat der Anzahlung (=BH für Jänner 2024)  
 
 Grundsätzlich erzeugt nun der RZL Dienst monatlich die benötigten Anzahlungszeilen zum Abrechnen. In diesem Beispiel generieren wir über die Schaltfläche *Anzahlungen generieren* die bisher versäumten Anzahlungszeilen.
@@ -47,7 +47,7 @@ In der FIBU steigt man über *Buchen / Belegsverbuchung aus DMS System* ein (Bel
 ![](<img/image26.png>)
  
 ##	Erstellung Schlussrechnung
-Nachdem die Buchhaltung für Jänner 2024 fertiggestellt wurde und von den Mitarbeitern alle Leistungen erfasst wurden, kann im HON über *Honorarnoten / Notenerstellung* die Schlussrechnung an den Klienten ge-stellt werden.
+Nachdem die Buchhaltung für Jänner 2024 fertiggestellt wurde und von den Mitarbeitern alle Leistungen erfasst wurden, kann im HON über *Honorarnoten / Notenerstellung* die Schlussrechnung an den Klienten gestellt werden.
 
 ![](<img/image27.png>)
  
@@ -60,9 +60,9 @@ Die bereits abgerechnete und finalisierte Anzahlungsnote wird in Abzug gebracht.
 
 
 ##	Verbuchung der Schlussrechnung
-Nachdem die Schlussrechnung im HON Next über *Honorarnoten / Notenübersicht *finalisiert wurde, kann der Beleg in der FIBU verbucht werden.
+Nachdem die Schlussrechnung im HON Next über *Honorarnoten / Notenübersicht* finalisiert wurde, kann der Beleg in der FIBU verbucht werden.
 
-In der FIBU steigt man über *Buchen / Belegsverbuchung aus DMS System *ein (Belegkreis AR). Die Buchung erfolgt nun wie bei allen Noten auf das bei der Verrechnungsgruppe/Tätigkeit hinterlegte Erlöskonto. Beim Verbuchen der Schlussrechnung muss in diesem Fall **KEIN** OP-Ausgleich durchgeführt werden. Die zuvor ge-buchte Anzahlungsnote wird automatisch mit **Minus Betrag** storniert.
+In der FIBU steigt man über *Buchen / Belegsverbuchung aus DMS System* ein (Belegkreis AR). Die Buchung erfolgt nun wie bei allen Noten auf das bei der Verrechnungsgruppe/Tätigkeit hinterlegte Erlöskonto. Beim Verbuchen der Schlussrechnung muss in diesem Fall **KEIN** OP-Ausgleich durchgeführt werden. Die zuvor gebuchte Anzahlungsnote wird automatisch mit **Minus Betrag** storniert.
 
 ![](<img/image29.png>)
  

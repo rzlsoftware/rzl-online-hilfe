@@ -1,7 +1,7 @@
 # Anzahlungsrechnungen im HON Next
 
 ## Einstellungen
-Möchte man über HON Next Anzahlungsnoten erstellen muss zuerst im HON Next über *Einstellungen / Grundeinstellungen* die Option *Anzahlungsnoten* (1) aktiviert werden. Zusätzlich sind in den Grundeinstellungen die Anzahlungskonten (2) zu hinterlegen.
+Möchte man über HON Next Anzahlungsnoten erstellen muss zuerst im HON Next über *Einstellungen / Grundeinstellungen* die Option *Anzahlungsnoten* (1) aktiviert werden. Zusätzlich sind in den Grundeinstellungen die *Anzahlungskonten* (2) zu hinterlegen.
 
 
 ![](<img/image2.png>)
@@ -14,7 +14,7 @@ Weiters kann über *Stamm / Unternehmensverwaltung / Unternehmensbereiche* bei d
 
 
 !!! warning "Hinweis"
-    Diese Option darf nur gesetzt werden, wenn Sie in der FIBU nach der Soll Versteuerung buchen und Schlussrechnung in voller Höhe aktiviert haben.
+    Diese Option darf nur gesetzt werden, wenn Sie in der FIBU nach der Soll Versteuerung buchen und *Schlussrechnung in voller Höhe* aktiviert haben.
 
 ![](<img/image3.png>)
  
@@ -42,13 +42,13 @@ Leistet der Klient z.B. explizit für die Buchhaltung eine Anzahlung kann die Ve
 Hier definieren Sie, wie oft die Anzahlung geleistet wird.  Bsp. 1 = monatlich, 3 = quartalsweise, 6 = halbjährlich und 12 = jährlich usw.
 
 **Datum der nächsten Zeile:**   	
-Hier definieren Sie, mit welchem Datum (Leistungsdatum) die nächste Anzah-lungszeile vom RZL Dienst generiert werden soll z.B. immer mit ersten des Monats.
+Hier definieren Sie, mit welchem Datum (Leistungsdatum) die nächste Anzahlungszeile vom RZL Dienst generiert werden soll z.B. immer mit ersten des Monats.
 
 **Betrag:**   
 Tragen Sie die Höhe der Anzahlung ein.
 
 **Anzahlungsnote:**   
-Diese Option legt fest, ob die erstellten Anzahlungen bei der Erstellung von Anzahlungsnoten im HON Next berücksichtigt werden sollen. Ist hier kein Haken, wird die Anzahlung nach dem Alten System (also wie Akontozahlun-gen) behandelt.
+Diese Option legt fest, ob die erstellten Anzahlungen bei der Erstellung von Anzahlungsnoten im HON Next berücksichtigt werden sollen. Ist hier kein Haken, wird die Anzahlung nach dem Alten System (also wie Akontozahlungen) behandelt.
 
 **Geplanter Leistungszeitraum:**   
 Beim geplanten Leistungszeitraum handelt es sich um die Zeitspanne, in welcher die Leistungen vermutlich erbracht werden.
@@ -57,15 +57,15 @@ Beim Zeitraum stehen folgende Optionen zur Verfügung:
 •	Nächster Monat: Datum der nächsten Zeile + 1 Monat   
 •	Nächstes Jahr: Datum der nächsten Zeile + 1 Jahr   
 •	Aktuelles Jahr:  Jahr vom Datum der nächsten Zeile   
-•	Monat abweichend: ausgehend vom Datum der nächsten Zeile können X Mo-nate hinzugerechnet werden   
+•	Monat abweichend: ausgehend vom Datum der nächsten Zeile können X Monate hinzugerechnet werden   
 •	Jahr abweichend: ausgehend vom Datum der nächsten Zeile können X Jahre hinzugerechnet werden   
 
 **Projektzeitraum:**	   
-Beim Projektzeitraum handelt es sich um den Zeitraum, für welchen die Leis-tungen erbracht werden.
+Beim Projektzeitraum handelt es sich um den Zeitraum, für welchen die Leistungen erbracht werden.
 
 **Zeiteinheiten:**   
 Die Zeiteinheit definiert, ob die Buchhaltung z.B. monatlich oder quartalsweise ist.   
-•	*Abweichung:* Hinterlegen Sie hier, für welchen Projektzeitraum die Anzahlun-gen abgerechnet werden soll. Mit einem negativen Vorzeichen kann der Projektzeitraum nach hinten verschoben werden. Ohne Vorzeichen kann der Projektzeitraum nach vorne verlagert werden.   
+•	*Abweichung:* Hinterlegen Sie hier, für welchen Projektzeitraum die Anzahlungen abgerechnet werden soll. Mit einem negativen Vorzeichen kann der Projektzeitraum nach hinten verschoben werden. Ohne Vorzeichen kann der Projektzeitraum nach vorne verlagert werden.   
 •	*Beginn neuer Zeitraum:* Diese Einstellung kann nur bei der Zeiteinheit Jahr getroffen werden. Mit dem Beginn des neuen Zeitraumes können Sie einen abweichenden Beginn für den Projektzeitraum festlegen.
 
 **Text:**   
@@ -82,7 +82,7 @@ Nachdem die Daten der wiederkehrenden Anzahlung eingegeben und gespeichert wurde
 
 ![](<img/image5.png>)
  
-Es werden die Anzahlungszeilen bis zum aktuellen Tagesdatum angehakt. Fortlaufend werden, nur bei akti-vem RZL Dienst, die Zeilen automatisch je Monat/Quartal etc. erzeugt. Es werden für alle Zugeordneten Klienten die Anzahlungszeilen erzeugt. Für welche Klienten, ist in der Anzahlungsvorschau über den Pfeil (7) ersichtlich.
+Es werden die Anzahlungszeilen bis zum aktuellen Tagesdatum angehakt. Fortlaufend werden, nur bei aktivem RZL Dienst, die Zeilen automatisch je Monat/Quartal etc. erzeugt. Es werden für alle zugeordneten Klienten die Anzahlungszeilen erzeugt. Für welche Klienten, ist in der Anzahlungsvorschau über den Pfeil (7) ersichtlich.
 
 !!! warning "Hinweis"
     Damit wiederkehrende Anzahlungen vom Programm generiert werden können, ist es nötig, dass der RZL Dienst aktiv ist (siehe SETUP Handbuch Kapitel 12.10.2).
@@ -95,7 +95,7 @@ Es werden die Anzahlungszeilen bis zum aktuellen Tagesdatum angehakt. Fortlaufen
 !!! warning "Hinweis"
     Die Anzahlungszeilen müssen nur über die Schaltfläche Anzahlungen generieren erzeugt werden, wenn Sie in der Vergangenheit liegen und gleich abgerechnet werden sollen, ansonsten werden die Zeilen monatlich/quartalsweise etc. über den RZL Dienst erzeugt.
 
-Die vom RZL Dienst generierten Anzahlungszeilen finden Sie über *Akonto/Anzahlungen / Anzahlungen*. In dieser Ansicht sind alle automatisch generierten Anzahlungszeilen sowie auch einmalig manuell erstellte Anzahlungszeilen ersichtlich. Solange die Anzahlungen nicht verrechnet wurden, können Sie hier auch noch bearbei-tet werden.
+Die vom RZL Dienst generierten Anzahlungszeilen finden Sie über *Akonto/Anzahlungen / Anzahlungen*. In dieser Ansicht sind alle automatisch generierten Anzahlungszeilen sowie auch einmalig manuell erstellte Anzahlungszeilen ersichtlich. Solange die Anzahlungen nicht verrechnet wurden, können Sie hier auch noch bearbeitet werden.
 
 ![](<img/image8.png>)
  

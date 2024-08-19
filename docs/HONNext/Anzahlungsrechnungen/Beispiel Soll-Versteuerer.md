@@ -19,7 +19,7 @@ Beim Datum der nächsten Zeile ist auch zu berücksichtigen, wann Sie die Anzahl
 •	Geplanter Leistungszeitraum? Wann wird die Leistung für diese Anzahlung ca. von den Mitarbeitern erbracht? -> im Folgemonat   
 •	Projektzeitraum? Welchen Projektzeitraum betrifft die geleistete Anzahlung? -> Monat der Anzahlung (=BH für Jänner 2024)   
 
-Grundsätzlich erzeugt nun der RZL Dienst monatlich die benötigten Anzahlungszeilen zum Abrechnen. In diesem Beispiel generieren wir über die Schaltfläche Anzahlungen generieren die bisher versäumten Anzahlungszeilen.
+Grundsätzlich erzeugt nun der RZL Dienst monatlich die benötigten Anzahlungszeilen zum Abrechnen. In diesem Beispiel generieren wir über die Schaltfläche *Anzahlungen generieren* die bisher versäumten Anzahlungszeilen.
 
 Mit der Vorschau ist nun ersichtlich, dass mit 01.01. die Anzahlungszeile für die BH 01/24 erzeugt wird, mit 01.02. die Anzahlungszeile für die BH 02/24 usw. 
 
@@ -60,7 +60,7 @@ Die bereits abgerechnete und finalisierte Anzahlungsnote wird in Abzug gebracht.
 ##	Verbuchung der Schlussrechnung
 Nachdem die Schlussrechnung im HON Next über *Honorarnoten / Notenübersicht* finalisiert wurde, kann der Beleg in der FIBU verbucht werden.
 
-In der FIBU steigt man über *Buchen / Belegsverbuchung aus DMS System* ein (Belegkreis AR). Die Buchung erfolgt wie bei allen Noten auf das bei der Verrechnungsgruppe/Tätigkeit hinterlegte Erlöskonto. Beim Verbuchen der Schlussrechnung MUSS im OP-Feld über die Schaltfläche Teilrechnungen der OP-Ausgleich der Teilrechnung und der Teilzahlung zwingend durchgeführt werden. Ohne OP-Ausgleich kann die Schlussrechnung nicht verbucht werden.
+In der FIBU steigt man über *Buchen / Belegsverbuchung aus DMS System* ein (Belegkreis AR). Die Buchung erfolgt wie bei allen Noten auf das bei der Verrechnungsgruppe/Tätigkeit hinterlegte Erlöskonto. Beim Verbuchen der Schlussrechnung **MUSS** im OP-Feld über die Schaltfläche *Teilrechnungen* der *OP-Ausgleich der Teilrechnung* und der Teilzahlung zwingend durchgeführt werden. Ohne OP-Ausgleich kann die Schlussrechnung nicht verbucht werden.
 
 ![](<img/image20.png>)
 
