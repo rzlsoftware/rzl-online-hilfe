@@ -12,13 +12,17 @@ Beides sind Anzahlungsrechnungen und unterliegen der Ist-Versteuerung. Der Unter
 ### RZL FIBU Anzahlungen
 Hier wird direkt die Anzahlung (Zahlungseingang mit dem Steuercode A20, A10, A13 usw.) verbucht. Es er-folgt vorab keine Buchung der Anzahlungsrechnung selbst.
 Abschließend wird eine Schlussrechnung erstellt, in der im OP-Ausgleich über die Schaltfläche Anzahlungen alle dazugehörigen Anzahlungen ausgewählt werden.
-HINWEIS Wird nicht direkt von HON Next unterstützt.
+
+!!! warning "Hinweis"
+    Wird nicht direkt von HON Next unterstützt.
 
 ### RZL FIBU Teilrechnungen
 Hier wird zuerst die Teilrechnung (T20, T10 usw.) gebucht. Bei den darauffolgenden Zahlungen wird dann bei der Verbuchung der Teilrechnungs-OP ausgewählt und somit wird die Zahlung als Teilzahlung gekenn-zeichnet.
 Abschließend wird die Schlussrechnung erstellt, in der im OP-Ausgleich über die Schaltfläche Teilrechnungen alle dazugehörigen Teilrechnungen und Teilzahlungen ausgewählt werden.
-HINWEIS
-Es wird nur die FIBU Einstellung Teilrechnungsverbuchung + Schlussrechnung in voller Höhe vom HON Next unterstützt. Ohne Schlussrechnung in voller Höhe wird nicht unterstützt.
 
-HINWEIS
-Sind Sie IST-Versteuerer, kann die Teilrechnungsverbuchung in der FIBU nicht aktiviert werden. Daher wer-den bei Anzahlungen die jeweiligen Anzahlungserlöskonten (M20, IGL, RC) gebucht und diese dann bei der Schlussrechnung wieder abgezogen (siehe Kapitel 14.6, Seite 134).
+!!! warning "Hinweis"
+    Es wird nur die FIBU Einstellung Teilrechnungsverbuchung + Schlussrechnung in voller Höhe vom HON Next unterstützt. Ohne Schlussrechnung in voller Höhe wird nicht unterstützt.
+    ![](<img/image1.png>)
+
+!!! warning "Hinweis"
+    Sind Sie IST-Versteuerer, kann die Teilrechnungsverbuchung in der FIBU nicht aktiviert werden. Daher wer-den bei Anzahlungen die jeweiligen Anzahlungserlöskonten (M20, IGL, RC) gebucht und diese dann bei der Schlussrechnung wieder abgezogen (siehe Kapitel 14.6, Seite 134).
