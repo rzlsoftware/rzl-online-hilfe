@@ -1,9 +1,8 @@
-
 nav:
-    - Anlegen des Klienten (Dienstgebers) im RZL Lohn.md 
+    - Anlegen eines Klienten (Dienstgeber) im RZL Lohn.md
     - Mengengerüst 1.md
     - Mengengerüst 2.md
     - Mengengerüst 3.md
     - Passwort des Klienten.md
+    - DN-Nummernbereich.md
     - ...
-  
