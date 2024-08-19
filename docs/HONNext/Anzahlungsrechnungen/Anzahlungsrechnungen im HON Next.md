@@ -22,7 +22,7 @@ Weiters kann über *Stamm / Unternehmensverwaltung / Unternehmensbereiche* bei d
 Anzahlungen können über *Akonto / Anzahlungen / Anzahlungen* oder über *Wiederkehrende Anzahlungen* angelegt werden. Wiederkehrende Anzahlungen sind anzulegen, wenn der Klient z.B. Monatlich eine Anzahlung leistet.
 
 ##	Anlage einer einmaligen Anzahlung
-Steigen Sie über *Akonto/Anzahlungen / Anzahlungen* ein. Mit der Schaltfläche *Neue Anzahlung* können Sie eine neue Anzahlung anlegen. Eine Anzahlungszeile besteht aus den folgenden Feldern: Datum, Klient, Verrechnungsgruppe, Projektzeitraum, geplanter Leistungszeitraum und Betrag (vgl. Kapitel 14.3.4, Seite 124).
+Steigen Sie über *Akonto/Anzahlungen / Anzahlungen* ein. Mit der Schaltfläche *Neue Anzahlung* können Sie eine neue Anzahlung anlegen. Eine Anzahlungszeile besteht aus den folgenden Feldern: Datum, Klient, Verrechnungsgruppe, Projektzeitraum, geplanter Leistungszeitraum und Betrag (vgl. [Anlage einer wiederkehrenden Anzahlung](/HONNext/Anzahlungsrechnungen/Anzahlungsrechnungen%20im%20HON%20Next/#anlage-einer-wiederkehrenden-anzahlung))
 
 !!! warning "Hinweis"
     Wird die Option Anzahlungsnote gesetzt, wird die Anzahlung wie eine Anzahlungsrechnung im HON Next behandelt – siehe nachfolgende Erläuterungen. Wird die Option nicht gesetzt, wird die Anzahlung wie eine Akontozahlung (vgl. Kapitel 13, Seite 116) behandelt.
