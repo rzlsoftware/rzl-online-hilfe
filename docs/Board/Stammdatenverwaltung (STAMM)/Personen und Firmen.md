@@ -43,7 +43,7 @@ werden in den folgenden Unterkapiteln beschrieben.
 
 ## Personen
 
-**Personendaten** **Allgemein**
+### **Personendaten Allgemein**
 
 In der Startansicht werden die zentralen Personendaten angezeigt. Über
 die Leiste auf der linken Seite **(1)** können die einzelnen Bereiche
@@ -57,7 +57,7 @@ Klick auf diesen Tab können weitere Personen/Firmen geöffnet werden.
 Über das Symbol **(4)** können Sie die Personendaten aus dem RZL Board
 mit den Kontakt-Personen im MS Outlook abgleichen.
 
-**Personendaten Erweitert**
+### **Personendaten Erweitert**
 
 Aufgrund der datenschutzrechtlichen Vorschriften der DSGVO finden Sie
 die Personendaten in zwei verschiedene Register vor – *Personendaten
@@ -71,7 +71,7 @@ Geburtsdatum, den Familienstand etc. einzutragen.
 
 ![](<img/image24.png>)
 
-**Tel./E-Mail/Adressen**
+### **Tel./E-Mail/Adressen**
 
 Unter Tel./E-Mail/Adressen können Sie beliebig viele Telefonnummern,
 E-Mail-Adressen und Adressen eingeben und verwalten.
@@ -109,7 +109,7 @@ Option ![](<img/image31.png>) kennzeichnen. Diese Adresse wird als Zustelladress
 Honorarverrechnung verwendet, soweit keine Kontaktperson als
 Zustellvertreter für Rechnungen eingetragen ist.
 
-**Verwendungen**
+### **Verwendungen**
 
 Unter Verwendungen ist ersichtlich mit welcher Funktion die Person
 verwendet wird (z. B. als Klient, (Ehe)Partner usw.)
@@ -194,7 +194,7 @@ geändert.
 
 ![](<img/image36.png>)
 
-**Finanzämter**
+### **Finanzämter**
 
 Im Bereich Finanzämter können die Stammdaten der Finanzämter eingetragen
 werden.
@@ -206,7 +206,7 @@ Kontextmenü durchgeführt werden. Mit einem Symbol neben der UID Nummer
 wird der Status der Überprüfung angezeigt. Im Tooltip auf dieses Symbol
 zeigt es das Datum der Überprüfung an.
 
-**Bankverbindungen**
+### **Bankverbindungen**
 
 Hier können Sie die Bankverbindungen der Person eintragen. Das mit der
 Option *Bankverbindung in ZMV sichtbar* **(1)** gekennzeichnete
@@ -216,7 +216,7 @@ Honorarverrechnung verwendet. Über das Papierkorbsymbol bzw. über
 
 ![](<img/image38.png>)
 
-**Kontaktpersonen**
+### **Kontaktpersonen**
 
 Hier können Sie beliebig viele Kontaktpersonen bei einer Person
 hinterlegen. Über die Schaltfläche *Neue Kontaktperson* **(1)** können
@@ -319,7 +319,7 @@ ausgewählte Adresse wird bei der Verwendung als „ZMV Person I“ auch als
 Adresse bei „Person I“ in die ZMV übernommen. Ist keine Adresse
 ausgewählt, wird die erste Adresse in der Reihenfolge verwendet.
 
-**(Ehe)Partner**  
+### **(Ehe)Partner**  
 In diesem Bildschirm kann der (Ehe)Partner der Person hinterlegt werden.
 Wie bei den Kontaktpersonen kann während der Hinterlegung auch eine neue
 Person angelegt werden. Über die Schaltfläche *zur Personenansicht*
@@ -336,13 +336,13 @@ den Personenstammdaten gemacht werden soll.
 ![](<img/image45.png>)
 
 
-**Kinder**   
+### **Kinder**   
 Über diesen Bereich können die Kinder verwaltet werden. Die Bedienung
 dieser Ansicht erfolgt analog zu den Kontaktpersonen.
 
 ![](<img/image46.png>)
 
-**Betriebe**   
+### **Betriebe**   
 Im Bereich Betriebe können Sie die Betriebe bei einem Einzelunternehmer
 anlegen. Bei einem Einzelunternehmer können beliebig viele Betriebe
 angelegt werden. Jeder Betrieb kann in der Folge in den Stammdaten eines
@@ -371,7 +371,8 @@ Unter den Kontakten können betriebsbezogene Kontakte hinterlegt werden
 
 ![](<img/image50.png>)
 
-**Person löschen**   
+### **Person löschen**   
+
 Über *Person löschen* können Sie die Person löschen.
 
 !!! warning "Hinweis"
@@ -388,7 +389,8 @@ Zustellvertreter für Erklärungen und/oder Rechnungen.
 
 ![](<img/image51.png>)
 
-**Person drucken / Stammdatenausdruck**   
+### **Person drucken / Stammdatenausdruck**   
+
 Über *Person drucken* **(1)** gelangen Sie zum Druckdialog. Hier können
 Sie die Stammdaten auswählen, die auf dem Ausdruck enthalten sein
 sollen. Nach Art. 15 DSGVO hat ein Betroffener das Recht, Auskunft über
@@ -407,7 +409,8 @@ Register für den Druck an diese Auswahl angepasst.
 ![](<img/image52.png>)
 
 
-**Personengenerationen**   
+### **Personengenerationen**   
+
 Die Anlage einer neuen Generation erfolgt über die Schaltfläche *neue
 Generation* **(1)**. Die angelegten Generationen werden oberhalb einer
 Zeitleiste angezeigt und können durch Klicken auf den jeweiligen Bereich
@@ -456,7 +459,7 @@ Die Bereiche *Tel./E-Mail/Adressen, Verwendung, Finanzämter,
 Bankverbindungen* und *Kontaktpersonen* unterscheiden sich nicht von der
 Ansicht der Personen.
 
-**Gesellschafter**/**wirtsch**. **Eigentümer**   
+### **Gesellschafter**/**wirtsch**. **Eigentümer**   
 Über diesen Bereich werden die Gesellschafter bzw. wirtschaftlichen
 Eigentümer verwaltet. Die Eintragung der Gesellschafter hat derzeit
 keine Auswirkung auf die anderen RZL Programme wie z. B. das RZL Bilanz-
@@ -508,7 +511,7 @@ wurden.
 ![](<img/image59.png>)
 
 
-**Gesetzliche Vertreter**   
+### **Gesetzliche Vertreter**   
 Über diesen Bereich werden die gesetzlichen Vertreter verwaltet. Die
 Eintragung der Gesellschafter hat derzeit keine Auswirkung auf die
 anderen RZL Programme wie z. B. das RZL Bilanz- oder das RZL
