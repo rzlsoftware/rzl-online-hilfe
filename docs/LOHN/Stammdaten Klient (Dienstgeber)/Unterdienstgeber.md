@@ -1,43 +1,10 @@
-Das RZLWin-Lohnprogramm bietet die Möglichkeit innerhalb eines Klienten
-bis zu 100 Unterdienstgeber anzulegen. Die Anlage von Unterdienstgebern
-ist z. B: zweckmäßig, wenn ein Unternehmer mehrere Filialen betreibt,
-die Lohnverrechnung aber zentral durchgeführt wird. Weiters können die
-Anforderungen der betriebswirtschaftlichen Analyse (z. B. RZLWin-FIBU,
-KER oder Kostenrechnung) oder des Unternehmensrechts (getrennter Ausweis
-der Aufwendungen in der Bilanz) eine Anlage von Unterdienstgebern
-notwendig machen.
+Das RZLWin-Lohnprogramm bietet die Möglichkeit innerhalb eines Klienten bis zu 100 Unterdienstgeber anzulegen. Die Anlage von Unterdienstgebern ist z. B: zweckmäßig, wenn ein Unternehmer mehrere Filialen betreibt, die Lohnverrechnung aber zentral durchgeführt wird. Weiters können die Anforderungen der betriebswirtschaftlichen Analyse (z. B. RZLWin-FIBU, KER oder Kostenrechnung) oder des Unternehmensrechts (getrennter Ausweis der Aufwendungen in der Bilanz) eine Anlage von Unterdienstgebern notwendig machen.
 
-Ein Unterdienstgeber ist anzulegen, wenn in einem Bundesland mehrere
-ÖGK-Beitragskontonummern vorliegen. Beim Unterdienstgeber muss eine
-FA-Steuernummer, Gemeindenummer oder ÖGK-Beitragskontonummer eingegeben
-werden, wenn diese von jener des Hauptdienstgebers abweicht. Werden die
-gleichen Eintragungen wie beim Hauptdienstgeber vorgenommen, erfolgt der
-Ausweis der Abgaben auf den Ausdrucken getrennt. Die Finanzamtsnummer
-und das DZ-Bundesland sind für die korrekte DZ-Berechnung immer
-einzutragen.
+Ein Unterdienstgeber ist anzulegen, wenn in einem Bundesland mehrere ÖGK-Beitragskontonummern vorliegen. Beim Unterdienstgeber muss eine FA-Steuernummer, Gemeindenummer oder ÖGK-Beitragskontonummer eingegeben werden, wenn diese von jener des Hauptdienstgebers abweicht. Werden die gleichen Eintragungen wie beim Hauptdienstgeber vorgenommen, erfolgt der Ausweis der Abgaben auf den Ausdrucken getrennt. Die Finanzamtsnummer und das DZ-Bundesland sind für die korrekte DZ-Berechnung immer einzutragen.
 
-Die Anlage der Unterdienstgeber erfolgt im Menüpunkt *Stamm /
-Unterdienstgeber*. Für jeden Unterdienstgeber stehen die fünf
-Lohnverrechnungsstammdaten-Registerblätter, wie bei der
-Stammdateneingabe eines Klienten (Kapital 2.1, Seite
-[23](#stammdaten-klient-dienstgeber-1)), zur Verfügung. Funktionsweise
-und Wirkung der Registerblätter sind mit jenen der Stammdaten des
-Klienten identisch.
+Die Anlage der Unterdienstgeber erfolgt im Menüpunkt *Stamm / Unterdienstgeber*. Für jeden Unterdienstgeber stehen die fünf Lohnverrechnungsstammdaten-Registerblätter, wie bei der Stammdateneingabe eines Klienten (Kapital 2.1, Seite [23](#stammdaten-klient-dienstgeber-1)), zur Verfügung. Funktionsweise und Wirkung der Registerblätter sind mit jenen der Stammdaten des Klienten identisch.
 
-Wurde bei einem Klienten ein Unterdienstgeber angelegt und sind diesem
-Unterdienstgeber Dienstnehmer zugewiesen worden, dann besteht für
-sämtliche Aufrufe, Abrechnungen, Auswertungen und Ausdrucke die
-Möglichkeit, diese nur für die Dienstnehmer des Unterdienstgebers
-durchzuführen. Die Zuweisung eines Dienstnehmers zu einem
-Unterdienstgeber erfolgt im Rahmen der Neuanlage eines Dienstnehmers im
-Abrechnungsbildschirm *Stammdaten Dienstnehmer* (vgl. Kapitel 5.3, Seite
-[52](#stammdaten-dienstnehmer)).
+Wurde bei einem Klienten ein Unterdienstgeber angelegt und sind diesem Unterdienstgeber Dienstnehmer zugewiesen worden, dann besteht für sämtliche Aufrufe, Abrechnungen, Auswertungen und Ausdrucke die Möglichkeit, diese nur für die Dienstnehmer des Unterdienstgebers durchzuführen. Die Zuweisung eines Dienstnehmers zu einem Unterdienstgeber erfolgt im Rahmen der Neuanlage eines Dienstnehmers im Abrechnungsbildschirm *Stammdaten Dienstnehmer* (vgl. Kapitel 5.3, Seite [52](#stammdaten-dienstnehmer)).
 
-<span id="_Ref154223122" class="anchor"></span>Hinweis
-
-Der Wechsel eines Dienstnehmers von einem Unterdienstgeber zum anderen
-bzw. vom Klienten zum Unterdienstgeber und umgekehrt, erfolgt ebenfalls
-im Abrechnungsbildschirm *Stammdaten Dienstnehmer*.
-
-Ein derartiger Wechsel sollte nur zu Jahresbeginn vorgenommen werden, da
-ansonsten die Jahresauswertungen nicht korrekt erstellt werden können.
+!!! warning "Hinweis"
+    Der Wechsel eines Dienstnehmers von einem Unterdienstgeber zum anderen bzw. vom Klienten zum Unterdienstgeber und umgekehrt, erfolgt ebenfalls im Abrechnungsbildschirm *Stammdaten Dienstnehmer*. Ein derartiger Wechsel sollte nur zu Jahresbeginn vorgenommen werden, da ansonsten die Jahresauswertungen nicht korrekt erstellt werden können.
