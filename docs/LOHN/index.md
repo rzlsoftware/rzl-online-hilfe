@@ -2336,66 +2336,9 @@ style="width:1.80862in;height:1.0224in" />
 
 
 
-### Registerblatt Sozialfonds, Überw. an Behörden
 
-Abb. 2‑10 Registerblatt Sozialfonds, Überw. an Behörden
 
-<img src=".\img/image32.png"
-style="width:3.93701in;height:2.72738in" />
 
-#### **Sozialfonds**
-
-Hier kann aus der Behördendatei (*Klient, Finanzämter, Gemeinden, ÖGK,
-BV-Kassen, Gerichte / Register Sonstige*) der Sozialfonds ausgewählt
-werden. (*F2-Taste*) Ebenso kann die *Bank* für die SEPA-Überweisung,
-das *FIBU-Konto* und eine *Zahlungsreferenz* erfasst werden.
-
-#### **Überweisungen an Sonstige Behörden**
-
-Unter diesem Menüpunkt haben Sie die Möglichkeit, Abgaben und Beiträge
-abseits von ÖGK, Finanzamt und Gemeinde an diverse andere
-Zahlungsempfänger automatisiert einzuheben und zu überweisen. Sie können
-Werte aus bestimmten Feldern im Bereich der Abrechnungsmaske *Abzüge*,
-sowie auf sämtliche freien Abzugslohnarten, Bezug nehmen. Damit ist es
-nun auch möglich, Gewerkschaftsbeiträge und Betriebsratsumlagen, sowie
-die Kammerbeiträge diverser Freiberufler über diesen Weg zur Überweisung
-vorzubereiten.
-
-Mit den beiden Optionen *Gewerkschaftsbeitrag* und *Betriebsratsumlage*
-kann nun ein Zugriff auf die beiden Felder aus dem Abrechnungsbereich
-*Abzüge* erfolgen.
-
-### Registerblatt Abrechnungs-Texte, Buchungskreis-Texte
-
-Abb. 2‑11 Registerblatt Abrechnungs-Texte, Buchungskreis-Texte
-
-<img src=".\img/image33.png"
-style="width:3.93701in;height:3.54724in" />
-
-#### **Abrechnungs-Texte**
-
-In diesem Bereich können Sie zwischen den entweder klienten- oder
-kanzleibezogen (vgl. Kapitel 8, Seite [165](#_Ref469360652)) angelegten
-Abrechnungs-Texten (maximal 20 Texte zu je 300 Zeichen) auswählen.
-Weiters ist die zeitliche Geltungsdauer der jeweiligen Abrechnungs-Texte
-einzutragen.
-
-Die in diesem Registerblatt ausgewählten Abrechnungs-Texte (bereits
-angelegt unter *Stamm / Abrechnungstexte*) werden auf sämtlichen
-Abrechnungen der Dienstnehmer des jeweiligen Klienten links im Bereich
-des Auszahlungsbetrages angedruckt. Zusätzlich können
-dienstnehmerbezogen im Abrechnungsbildschirm *Stammdaten Fristen* (vgl.
-Kapitel 5.4, Seite [60](#stammdaten-fristen)) zwei Abrechnungstexte mit
-einer zeitlichen Beschränkung eingetragen werden.
-
-#### **Buchungskreis-Texte**
-
-In diesem Bereich können für die in den Stammdaten der Dienstnehmer im
-Abrechnungsbildschirm *Stammdaten Fristen* (vgl. Kapitel 5.4, Seite
-[60](#stammdaten-fristen)) verwendeten Buchungskreise bezeichnet werden.
-
-Diese Buchungskreis-Texte werden beim Ausdruck des Buchungsbeleges im
-Programmteil *Ausdruck / Journal/ÖGK / Buchungsbeleg* verwendet.
 
 ### Details Rückstellungen
 
