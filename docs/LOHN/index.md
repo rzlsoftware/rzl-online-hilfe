@@ -2376,38 +2376,9 @@ Dienstnehmer angelegt werden.
 
 
 
-## Wiedereintritt
 
-Ist ein Dienstnehmer ausgetreten und tritt nun wieder ein, so ist die
-neuerliche Abrechnung mit dem Menüpunkt *Abrechnungen / Wiedereintritt*
-vorzunehmen. Ein Wiedereintritt kann mehrmals im Jahr und auch mehrmals
-im Monat erfolgen.
 
-Tipp
 
-Ausgetretene Dienstnehmer werden nur dann im Rahmen der Jahresübernahme
-in das neue Jahr mitübernommen, wenn dort das Auswahlfeld *ausgetretene
-Dienstnehmer übernehmen* aktiviert wurde (Kapitel 16 Jahresübernahme,
-Seite [247](#jahresübernahme)).
-
-Immer übernommen werden ausgetretene Dienstnehmer, wenn als
-Austrittsgrund Mutterschutz, Karenz, Präsenz- oder Zivildienst angegeben
-wird oder sich die SV-Pflicht eines ausgetretenen Dienstnehmers aufgrund
-einer Kündigungsentschädigung und/oder Urlaubsersatzleistung ins neue
-Jahr erstreckt.
-
-## Löschung Stammdaten
-
-Durch Anwahl des Menüpunkts *Abrechnungen / Löschung Stammdaten* können
-einzelne Dienstnehmer vollständig gelöscht werden. Vom Programm erfolgt
-noch die Abfrage, ob der betreffende Dienstnehmer tatsächlich gelöscht
-werden soll.
-
-Hinweis
-
-Nach der Löschung der Stammdaten sind alle Daten dieses Dienstnehmers im
-betroffenen Jahr gelöscht – auch die ELDA Rückmeldungen sind nicht mehr
-aufrufbar.
 
 ## Sonderfälle (Sonderzahlung, Vorwegabrechnung)
 
