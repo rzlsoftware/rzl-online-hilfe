@@ -2419,16 +2419,7 @@ Dienstnehmer angelegt werden.
 
 
 
-## Korrektur Vorerfassung / Stammdaten
 
-Bereits gespeicherte Vorerfassungen können über den Programmteil
-*Vorerfassung / Korrektur Vorerfassung / Stammdaten* nochmals angesehen
-bzw. bearbeitet werden.
-
-Hinweis
-
-Vorerfassungen können nur solange geändert werden, solange für den
-jeweiligen Monat noch keine Abrechnung durchgeführt wurde.
 
 ## Vorerfassung Wiedereintritt
 
