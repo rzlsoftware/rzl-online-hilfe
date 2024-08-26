@@ -2388,39 +2388,11 @@ Dienstnehmer angelegt werden.
 
 
 
-#### **Wiedereintritt unter neuer Nummer**
 
-Im Programmteil *Abrechnungen / Sonderfälle / Wiedereintritt unter neuer
-Nummer* besteht die Möglichkeit, für die Abrechnung des Wiedereintritts
-eines Dienstnehmers eine andere Nummer zu vergeben (beispielsweise bei
-einer geringfügigen Beschäftigung neben der Karenz).
 
-#### **Stundenerfassung Kurzarbeitsbeihilfe**
 
-Über diesen Menüpunkt können Sie die Stunden für die Kurzarbeitsbeihilfe
-erfassen. Dies ist auch im Nachhinein möglich und ändert an der
-Abrechnung des Dienstnehmers nichts.
 
-Abb. 3‑3 Stundenerfassung Kurzarbeitsbeihilfe
 
-<img src=".\img/image41.png"
-style="width:3.93701in;height:2.51281in" />
-
-**  
-**
-
-#### **Erfassung – Homeoffice-Tage**
-
-Damit die Homeoffice-Tage für die vorangegangen Monate erfasst werden
-können, haben Sie hier die Möglichkeit, die Tage zu erfassen. Dabei
-verändert sich an der Abrechnung des Dienstnehmers nichts. Wenn Sie eine
-Pauschale abrechnen möchten, müssen Sie dies über eine Aufrollung
-durchführen.
-
-Abb. 3‑4 Erfassung Homeoffice-Tage
-
-<img src=".\img/image42.png"
-style="width:3.93701in;height:0.76509in" />
 
 ## Aufrollung
 
