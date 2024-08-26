@@ -2429,31 +2429,7 @@ Dienstnehmer angelegt werden.
 
 # Abrechnungsbildschirme
 
-## Grundsätzliche Bemerkungen zu den Abrechnungsbildschirmen
 
-Die Eingabe sämtlicher Stammdaten des Dienstnehmers (Stammdaten und
-Daten für die laufende Abrechnung) ist auf 22 Bildschirme verteilt.
-
-Abb. 5‑1 Beispiel Abrechnungsbildschirm
-
-<img src=".\img/image46.png"
-style="width:6.10236in;height:4.21326in" />
-
-Jeder Abrechnungsbildschirm enthält entweder die Schaltfläche
-*Abrechnen, Anlegen, Aufrollen* oder *Korrigieren* (je nach gewählter
-Abrechnungsart vgl. Kapitel 3 Abrechnungen, Seite [40](#section-1))*.*
-Nach Anwahl dieser Schaltflächen erscheint die vollständige Abrechnung
-am Bildschirm.
-
-Abb. 5‑2 Anzeige der Abrechnung
-
-<img src=".\img/image47.png"
-style="width:6.10236in;height:4.61526in" />
-
-Durch Anwahl der Schaltfläche *Anlegen* oder *Speichern* wird die
-Abrechnung des Dienstnehmers abgespeichert und beendet. Durch Anwahl der
-Schaltfläche *Zurück* können entweder nochmals Korrekturen vorgenommen
-werden oder die Berechnung wird abgebrochen.
 
 ## Navigation – Wechseln zwischen Bildschirmen und Eingabefeldern
 
