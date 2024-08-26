@@ -2425,25 +2425,7 @@ Dienstnehmer angelegt werden.
 
 
 
-## Übernahme der Vorerfassungen in die Monatsabrechnung
 
-Die Übernahme der vorerfassten Daten erfolgt in den Programmteilen
-*Abrechnungen / Lfd. Abrechnung mit Änderung* *oder Abrechnungen / Lfd.
-Abrechnung ohne Änderung*.
-
-Abb. 4‑1 Übernahme der Vorerfassungen in die Abrechnung
-
-<img src=".\img/image45.png"
-style="width:3.93701in;height:1.72835in" />
-
-Das Programm zeigt die in der Vorerfassung geänderten Werte an. Wird der
-Haken im Kästchen nicht deaktiviert, werden die Werte in die
-Monatsabrechnung übernommen.
-
-HInweis
-
-Die farblich hinterlegten Werte, in den Spalten bisher und neu, werden
-in die Abrechnung übernommen.
 
 # Abrechnungsbildschirme
 
