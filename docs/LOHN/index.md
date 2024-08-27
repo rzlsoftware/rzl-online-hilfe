@@ -2497,15 +2497,8 @@ Dienstnehmer angelegt werden.
 
 
 
-### Arbeits- und Entgeltbestätigung Krankengeld
 
-Vgl. Kapitel 5.21 Arbeits- und Entgeltsbestätigung Krankengeld, Seite
-[125](#arbeits--und-entgeltsbestätigung-krankengeld)
 
-### Arbeits- und Entgeltbestätigung Wochengeld
-
-Vgl. Kapitel 5.22 Arbeits- und Entgeltsbestätigung Wochengeld, Seite
-[129](#arbeits--und-entgeltsbestätigung-wochengeld)
 
 ### Kostenstelle/Kostenträger
 
