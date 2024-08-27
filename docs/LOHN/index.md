@@ -2538,31 +2538,7 @@ Kanzlei-Lohnarten verwendet, so ist dies in den Dienstgeber-Stammdaten
 
 
 
-## Allgemeine Einstellungen für ASP bzw. Cloud Anwender
 
-Über *Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK
-absenden* gelangen Sie in den Absendedialog. Dort wählen Sie den Button
-*Pfad ELDA-Win* an.
-
-Abb. 9‑4 ÖGK-Übermittlung – Pfad ELDA-Win
-
-<img src=".\img/image179.png"
-style="width:3.93701in;height:2.46432in" />
-
-Es öffnet sich nun das ELDA Seriennummer-Fenster:
-
-Abb. 9‑5 ÖGK-Übermittlung – ELDA Seriennummer
-
-<img src=".\img/image180.jpeg"
-style="width:3.93701in;height:1.68603in" />
-
-Geben Sie die ELDA Seriennummer und das Kundenpasswort, welches Sie von
-der ELDA erhalten haben, ein.
-
-HINWEIS
-
-Als ASP bzw. Cloud Anwender müssen Sie die ELDA-Software nicht
-installieren.
 
 ## Erstellung der elektronischen Meldungen
 
