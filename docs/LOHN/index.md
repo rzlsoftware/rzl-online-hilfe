@@ -2536,18 +2536,7 @@ Kanzlei-Lohnarten verwendet, so ist dies in den Dienstgeber-Stammdaten
 
 
 
-## Allgemeine Einstellungen – Stammdaten Absender – DVR-Nummer
 
-Abb. 9‑3 ÖGK-Übermittlung – Stammdaten Absender
-
-<img src=".\img/image178.png"
-style="width:3.93701in;height:2.92021in" />
-
-Damit Meldungen an die ÖGK erstellt werden können, müssen in der
-*Zentralen Mandanten­verwaltung* im Programmteil *Allgemeine Dateien /
-Stammdaten Absender* im Registerblatt *Absender* die Stammdaten des
-Absenders (Finanzamt, Steuernummer, Name, Straße, PLZ, Ort) und die
-*DVR-Nummer/Elda-Vertragspartner-Nummer* eingetragen werden.
 
 ## Allgemeine Einstellungen für ASP bzw. Cloud Anwender
 
