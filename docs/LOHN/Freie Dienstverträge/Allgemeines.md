@@ -1,4 +1,4 @@
-# Freie Dienstverträge
+# Allgemeines
 
 Dienstnehmer, die unter die Regelung für *freie Dienstverträge* fallen, sind im Programmpunkt *Abrechnung / Neuanlage Freie Dienstverträge* anzulegen und abzurechnen.
 
