@@ -2559,16 +2559,7 @@ Kanzlei-Lohnarten verwendet, so ist dies in den Dienstgeber-Stammdaten
 
 
 
-### Registrierung bei ELDA-Anmeldung
 
-Damit die Krankenstandsbescheinigungen automatisch empfangen werden
-können, ist eine Anmeldung bei ELDA notwendig. Diese Anmeldung kann
-Online erfolgen (www.elda.at).
-
-Abb. 9‑24 Anmeldung Empfang von Krankenstandsbescheinigungen mit ELDA
-
-<img src=".\img/image198.png"
-style="width:4.92126in;height:4.14792in" />
 
 ### Import Krankenstandsbescheinigungen
 
