@@ -2517,52 +2517,7 @@ Kanzlei-Lohnarten verwendet, so ist dies in den Dienstgeber-Stammdaten
 
 
 
-## Anlage freie Lohnart Sachbezug – drei Möglichkeiten
 
-### Möglichkeit 1
-
-Legen Sie eine freie Lohnart mit Bezug an und haken Sie Sachbezug an.
-Somit wird automatisch ein Abzug in der Abrechnung in gleicher Höhe
-erzeugt. Der Vorteil bei dieser Variante ist, dass Sie nur eine Lohnart
-benötigen und nicht zusätzlich eine Abzugslohnart. Nachteil ist, dass
-nur eine FIBU-Kontonummer für Abzug und Bezug hinterlegt werden können.
-
-Abb. 7‑11 Möglichkeit 1 - Sachbezug
-
-<img src=".\img/image156.png"
-style="width:3.93701in;height:2.99767in" />
-
-### Möglichkeit 2
-
-Bei der Möglichkeit zwei ist der Vorteil, dass zwei FIBU-Kontonummern
-hinterlegt werden können, jedoch müssen zwei freie Lohnarten angelegt
-werden.
-
-Abb. 7‑12 Möglichkeit 2 - Sachbezug
-
-<img src=".\img/image157.png"
-style="width:3.93701in;height:2.99767in" />
-
-Abb. 7‑13 Möglichkeit 2 - Sachbezug
-
-<img src=".\img/image158.png"
-style="width:3.93701in;height:2.99767in" />
-
-### Möglichkeit 3
-
-Bei der dritten Möglichkeit wird nur eine freie Lohnart für den Bezug
-angelegt und in der Abrechnung bei den Abzügen das Feld Sachbezug
-angewandt.
-
-Abb. 7‑14 Möglichkeit 3 - Sachbezug
-
-<img src=".\img/image157.png"
-style="width:3.54331in;height:2.6979in" />
-
-Abb. 7‑15 Möglichkeit 3 - Sachbezug
-
-<img src=".\img/image159.png"
-style="width:3.54331in;height:0.75225in" />
 
 ## Anlage freie Lohnart Sachbezug 0% (Null Prozent)
 
