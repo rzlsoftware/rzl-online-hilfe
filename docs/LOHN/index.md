@@ -2555,45 +2555,7 @@ Kanzlei-Lohnarten verwendet, so ist dies in den Dienstgeber-Stammdaten
 
 
 
-## Klientenübergreifende Übermittlung der Jahreslohnzettel
 
-Über den Menüpunkt *Klient / Elektronische Übermittlung / Elektronische
-Meldung ÖGK erstellen* wählen Sie das gewünschte Jahr und die Klienten
-für die Übermittlung aus. Wechseln Sie nach der Eingabe des Monats (12)
-in das Registerblatt *Erstellung ÖGK-Datei (2)*.
-
-Aktivieren Sie hier das Kästchen *Lohnzettel (L16) / (E18) – ab 2019*.
-Die hier aktivierten Felder können Sie so belassen wie sie sind.
-
-Abb. 9‑20 Lohnzettel (L16) / (E18) – ab 2019
-
-<img src=".\img/image194.png"
-style="width:3.93701in;height:2.23969in" />
-
-Nachdem Sie auf *Erstellen* geklickt haben, erstellt das Lohnprogramm
-die Lohnzettel in das Registerblatt *Protokoll*. Im Protokoll wählen Sie
-*zum Senden* an.
-
-Abb. 9‑21 Protokoll – zum Senden
-
-<img src=".\img/image195.png"
-style="width:3.93701in;height:2.25055in" />
-
-Es öffnet sich jetzt das Senden-Fenster. Dort klicken Sie jetzt noch auf
-*Senden*.
-
-Abb. 9‑22 Sende-Dialog
-
-<img src=".\img/image196.png"
-style="width:3.93701in;height:2.47091in" />
-
-HINWEIS
-
-Bitte kontrollieren Sie in eigener Verantwortung, ob bei der
-klientenübergreifenden Erstellung der Meldungen, alle Meldungen erstellt
-und übermittelt wurden. Eine Prüfmöglichkeit könnte das
-Jahresabschlussprotokoll (*Klient / Drucken / Jahresauswertungen /
-Jahres-Abschlussprotokoll*) sein.
 
 ## Krankenstandsbescheinigungen herunterladen und übernehmen
 
