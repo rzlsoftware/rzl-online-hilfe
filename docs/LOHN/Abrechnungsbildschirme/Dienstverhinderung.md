@@ -38,6 +38,6 @@ Geben Sie eine neue freie Nummer (ab 101) ein und drücken Sie die *F4-Taste* od
 
 Es öffnet sich das Fenster für die Anlage der Dienstverhinderung.
 
-![Image](<img/image25.png>)
+![Image](<img/image125.png>)
 
 Geben Sie bei *Text* die gewünschte Bezeichnung ein und wählen Sie aus, ob es sich um eine Dienstverhinderung *in* *Stunden* oder *Arbeitstagen* handelt.
