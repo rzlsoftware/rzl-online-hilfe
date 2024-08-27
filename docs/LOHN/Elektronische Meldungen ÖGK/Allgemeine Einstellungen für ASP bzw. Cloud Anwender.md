@@ -6,7 +6,7 @@
 
 Es öffnet sich nun das ELDA Seriennummer-Fenster:
 
-![Image](<img/image180.png>)
+![Image](<img/image180.jpeg>)
 
 Geben Sie die ELDA Seriennummer und das Kundenpasswort, welches Sie von der ELDA erhalten haben, ein.
 
