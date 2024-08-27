@@ -2,7 +2,7 @@
 
 Dieser Bildschirm ist nur auszufüllen, falls für den Dienstnehmer ein Dienstzettel zu erstellen ist. Gemäß § 2 Abs. 1 Arbeitsvertragsrechts-Anpassungsgesetz (AVRAG) hat der Arbeitgeber dem Arbeitnehmer unverzüglich nach Beginn des Arbeitsverhältnisses einen Dienstzettel auszuhändigen. Der Dienstzettel für die einzelnen Dienstnehmer kann im Programmteil *Ausdruck /Stammdaten/Dienstzettel* wahlweise mit der Bezeichnung Dienstzettel oder Dienstvertrag ausgedruckt werden.
 
-![Image](<img/image13.png>)
+![Image](<img/image138.png>)
 
 ### Beschreibung der Eingabefelder
 
