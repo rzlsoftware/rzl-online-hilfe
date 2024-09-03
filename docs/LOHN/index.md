@@ -2742,46 +2742,13 @@ arbeiten.
 
 
 
-## Klient verschieben
 
-In einem Netzwerk besteht durch den Menüpunkt *Klient / Verwaltung /
-Verschieben* die Möglichkeit, einen Klienten nach Eingabe der jeweiligen
-Klientennummer und unter Angabe des jeweiligen Ordners auf einen anderen
-Arbeitsplatz bzw. auf einen Laptop zu verschieben.
 
-Durch Anwahl der Schaltfläche *Erweitert* besteht in diesem Dialog die
-Möglichkeit, mehrere Klienten gleichzeitig zu verschieben.
 
-## Klient löschen
 
-Um einen Klienten zu löschen, wird der Menüpunkt *Klient / Verwaltung /
-Löschen* angewählt und die entsprechende Klientennummer eingegeben.
-Wurde der Klient vorher nicht gesichert, erfolgt ein Warnhinweis durch
-das Programm.
 
-Auch der Dialog *Klient löschen* beinhaltet durch die Schaltfläche
-*Erweitert* die Möglichkeit, mehrere Klienten auf einmal zu löschen.
 
-## (Klient) Mit E-Mail senden
 
-Der Programmteil *Klient / Verwaltung / Mit E-Mail versenden* ermöglicht
-die Versendung eines oder mehrerer Klienten (durch Anwahl der
-Schaltfläche *Erweitert*) per E-Mail. Die Daten-Dateien der Klienten
-werden automatisch in das zu versendende E-Mail als Anlagen eingetragen
-und es sind nur mehr die Empfängeradresse und eventuelle Bemerkungen
-einzutragen.
-
-Tipp
-
-Bezüglich der Vorgehensweise beim Erhalt von Daten per E-Mail siehe
-unter *Hilfe / Handbuch / Zentrale Mandantenverwaltung* Kapitel 8
-Versenden und Erhalten von Dateien per E-Mail.
-
-## Erhalt einer Sicherung mit E-Mail
-
-Siehe Handbuch *ZMV* im Programmteil *Hilfe / Handbuch / Zentrale
-Mandantenverwaltung* Kapitel 8 Versenden und Erhalten von E-Mail
-Dateien.
 
 # Jahresübernahme
 
