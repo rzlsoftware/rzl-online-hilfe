@@ -1,3 +1,11 @@
 nav:
     - Das Mengengerüst.md
+    - Klient komprimieren bzw. dekomprimieren.md
+    - Klient sichern.md
+    - Klient hereinspielen.md
+    - Klient sperren bzw. freigeben.md
+    - Klient verschieben.md
+    - Klient löschen.md
+    - Klient mit E-Mail versenden.md
+    - Erhalt einer Sicherung mit E-Mail.md
     - ...
