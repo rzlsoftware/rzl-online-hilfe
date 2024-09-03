@@ -1,33 +1,6 @@
 <img src="img/image2.jpg"
 style="width:8.25in;height:11.6669in" />
 
-Handbuch & Dokumentation zum RZL Kanzlei-Informations-System
-
-**Impressum**
-
-Herausgeber
-
-RZL Software GmbH
-
-Hannesgrub Nord 35, 4911 Tumeltsham
-
-Telefon 07752/252-38
-
-E-Mail kis@rzl.at
-
-rzlSoftware.at
-
-Handbuch Kanzlei-Informations-System
-
-Version A27
-
-Alle Rechte an diesem Handbuch vorbehalten. Jede Verwertung ohne
-ausdrückliche schriftliche Zustimmung des Herausgebers ist untersagt.
-Vervielfältigungen sind nur im Rahmen der mit uns abgeschlossenen
-Lizenz- und Wartungsverträge für den lizenzierten Standort erlaubt.
-
-© RZL-Software, Tumeltsham
-
 # 
 
 # Inhaltsverzeichnis
@@ -659,56 +632,7 @@ Die RZL Win Programme können im Menü des Kanzlei-Informations-Systems
 gestartet werden. Die Klienten – wenn angelegt – werden automatisch mit
 dem aktuellen Jahr geöffnet.
 
-# Allgemeine Programmbedienung
 
-## Programmstart
-
-Abb. 3‑1 Ansicht KIS nach Programmstart
-
-<img src="img/image3.png"
-style="width:7.04722in;height:3.38264in" />
-
-Unmittelbar nach dem Start des Programmes werden die *Menüeinträge*
-(KIS, Funktionen, usw.), das Suchfeld - voreingestellt auf *Suche nach
-Klient* - und im linken unteren Bereich die *Navigation* angezeigt. Im
-rechten Bereich sehen Sie automatisch die offenen Aufgaben des
-Mitarbeiters.
-
-Wenn Sie im Suchfeld eine bestehende Klientennummer eintragen, werden
-standardmäßig die Ereignisse des Klienten in Listenform zeitlich gereiht
-angezeigt. Unter *Extras/Einstellungen* kann die Erstansicht beim Öffnen
-eines Klienten pro Mitarbeiter verändert werden.
-
-Abb. 3‑2 Erstansicht beim Öffnen des Klienten
-
-<img src="img/image4.png"
-style="width:4.43626in;height:2.901in" />
-
-Abb. 3‑3 Eintragung einer bestehenden Klientennummer
-
-<img src="img/image5.png"
-style="width:7.04722in;height:4.63194in" />
-
-Nach dem Eintragen der Klientennummer im Suchfeld können Sie die
-*TABULATOR-Taste* und/oder die *RETURN*-Taste bzw. ENTER*-*Taste
-verwenden, um sich den Klienten anzeigen zu lassen.
-
-Wenn Sie im Suchfeld nicht den *Suche nach Klient* Button
-<img src="img/image6.png"
-style="width:0.24997in;height:0.24997in" /> anwählen, sondern auf *Suche
-nach Mitarbeiter* <img src="img/image7.png"
-style="width:0.24997in;height:0.24997in" /> umschalten, können Sie nach
-Mitarbeitern suchen bzw. neue Mitarbeiter anlegen.
-
-Abb. 3‑4 Auswahl eines Mitarbeiters
-
-<img src="img/image8.png"
-style="width:6.37807in;height:5.0073in" />
-
-Die Anlage der Mitarbeiterstammdaten erfolgt im RZL Board. Im KIS
-erfolgt die Vergabe von Sichtbarkeitsrechten und die Zuteilung des
-Mitarbeiters zu den Zuständigkeitsbereichen bei den Klienten, die dieser
-Mitarbeiter bearbeitet.
 
 ## Navigation
 
