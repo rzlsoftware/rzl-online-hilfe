@@ -2736,50 +2736,11 @@ arbeiten.
 **  
 **
 
-## Klienten sichern
 
-Durch Anwahl des Menüpunktes *Klient* / *Verwaltung* / *Sichern* wird
-die Sicherung des Klienten ermöglicht. Durch Anwählen der Schaltfläche
-*Erweitert* besteht in diesem Dialog die Möglichkeit, gleichzeitig
-mehrere Klienten zu sichern.
 
-Die Einstellung auf welchen Datenordner (Festplatte, u. ä.) gesichert
-werden soll, wird im Menüpunkt *Hilfsmittel / Einstellungen /
-Datenordner* festgelegt. Dieser kann selbst hinterlegt oder manuell
-ausgewählt werden.
 
-## Klient hereinspielen
 
-Der Menüpunkt *Klient / Verwaltung / Hereinspielen* ermöglicht das
-Hereinspielen von Lohn-Klienten auf den Rechner. Befinden sich auf dem
-Speichermedium mehrere Klienten, so werden wiederum durch Betätigung der
-Schaltfläche *Erweitert* alle darauf befindlichen Klienten angezeigt.
-Durch Aktivierung der gewünschten Klienten mittels *Leertaste* oder
-*Maus* und Drücken der Schaltfläche *Hereinspielen* werden diese
-gleichzeitig hereingespielt.
 
-## Klient sperren/freigeben
-
-Sollte ein Klient innerhalb gewisser Zeiträume nicht von anderen
-Mitarbeitern bearbeitet werden können, besteht die Möglichkeit, den
-Klienten zu sperren. Durch Eingabe der Klientennummer im Menüpunkt
-*Klient / Verwaltung / Sperren/Freigeben* können Klienten gesperrt und
-wieder freigegeben werden.
-
-Klienten können nur mehr dann freigegeben werden, wenn der Benutzer, der
-den Klienten gesperrt hat, mit seinem Benutzerkennwort einsteigt und den
-Klienten freigibt.
-
-Hinweis
-
-Wird ein gesperrter Klient durch den befugten Benutzer geöffnet, so wird
-der gesperrte Klient automatisch freigegeben. Die Freigabe erfolgt aber
-in diesem Fall nur für den befugten Benutzer. Die endgültige Freigabe
-muss wiederum im Menüpunkt *Klient / Verwaltung / Sperren/Freigeben*
-erfolgen.
-
-Auch hier besteht die Möglichkeit, durch die Schaltfläche *Erweitert*
-mehrere Klienten in einem Schritt zu sperren bzw. freizugeben.
 
 ## Klient verschieben
 
