@@ -2676,26 +2676,9 @@ arbeiten.
 
 
 
-## Klientenübergreifende Ausdrucke
 
-Im Programmteil *Klient/Drucken* kann die überwiegende Mehrzahl, der
-innerhalb des Klienten möglichen Ausdrucke für mehrere oder alle
-Klienten (klientenübergreifend) gleichzeitig erfolgen.
 
-Im Programmteil *Klient/Drucken/Sammelauswertungen* besteht die
-Möglichkeit eine *Dienstgeberliste* bzw. einen klientenübergreifenden
-Ausdruck der *Anzahl der Abrechnungen* durchzuführen.
 
-## Klientenübergreifende Druckreihenfolgen
-
-Im Programmteil *Klient/Drucken/Druckreihenfolge* besteht die
-Möglichkeit Druckreihenfolgen für mehrere oder alle Klienten gemeinsam
-zu erstellen bzw. zu verwenden.
-
-Die Erstellung und Verwendung der klientenübergreifenden
-Druckreihenfolge ist ident mit jener im Programmteil
-*Ausdruck/Druckreihenfolge* (vgl. Kapitel 12.12 Ausdruck
-Druckreihenfolge, Seite [232](#ausdruck-druckreihenfolge)).
 
 ## Ausdruck Dienstgeberliste
 
