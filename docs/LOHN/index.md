@@ -2706,37 +2706,9 @@ arbeiten.
 
 # Finanzämter/Gemeinden/ÖGK/BV-Kassen/Gerichte
 
-## Allgemeine Hinweise
 
-Wurden die *Behördendateien* in der *ZMV* im Menüpunkt *Allgemeine
-Dateien / Installieren* installiert, stehen sowohl sämtliche
-Finanzämter, Gesundheitskassen, Gemeinden, BV-Kassen und Gerichte
-Österreichs, laut der offiziellen Liste, zur Verfügung. Bei den
-einzelnen Behörden müssen nur mehr die jeweiligen Bankverbindungen
-ergänzt werden.
 
-Hinweis
 
-Die Behörden-Datei darf in der *ZMV* nur einmal installiert werden. Bei
-einer nochmaligen Installation gehen die Eintragungen des Anwenders
-verloren.
-
-## Anlegen der Bankverbindungen
-
-Nach Anwahl des Menüpunktes *Klient /
-Finanzämter/Gemeinden/ÖGK/BV-Kassen/Gerichte / Bearbeiten* erscheint
-nach der Anwahl der entsprechenden Behörde folgender Dialog:
-
-Abb. 14‑1 Stammdaten der Finanzämter / Dienststellen
-
-<img src=".\img/image241.png"
-style="width:6.10236in;height:5.00787in" />
-
-Auf Basis einer offiziellen Liste der Finanz werden bei der
-Neuinstallation die Standard-Bankverbindung der Finanzämter bereits
-angezeigt und können ggf. ergänzt werden. Grundsätzlich kann bei jedem
-Klienten entschieden werden, auf welches Konto die Überweisung der
-Abgaben erfolgen soll.
 
 ## Verwalten der Gemeindestammdaten
 
