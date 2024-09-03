@@ -2729,18 +2729,7 @@ arbeiten.
 
 # Verwaltung
 
-## Das Mengengerüst
 
-Das *Mengengerüst* sollte immer den tatsächlichen Anforderungen des
-jeweiligen Klienten entsprechen, damit nicht unnötig Speicherplatz auf
-der Festplatte reserviert wird. Änderungen des Mengengerüstes während
-des Arbeitens in der Lohnverrechnung werden über den Menüpunkt
-*Klient*/ *Vergrößern/Verkleinern* vorgenommen.
-
-Abb. 15‑1 Klient vergrößern/verkleinern
-
-<img src=".\img/image245.png"
-style="width:3.93701in;height:2.68736in" />
 
 ## Klient komprimieren/dekomprimieren
 
