@@ -2713,22 +2713,9 @@ arbeiten.
 
 
 
-## Gerichte
 
-Im Registerblatt *Gerichte* werden die Gerichte, die für die Abrechnung
-von Exekutionen bzw. für den Ausdruck der Drittschuldnererklärung
-notwendig sind, eingetragen.
 
-## Sonstige Behörden
 
-Im Registerblatt *Sonstige* können Behörden oder Abgabenstellen
-hinterlegt werden. Ebenso gibt es die Möglichkeit einen Zahlungstermin
-(monatlich, vierteljährlich, halbjährlich, jährlich) auszuwählen.
-
-Abb. 14‑4 Anlage Sonstige Behörde
-
-<img src=".\img/image244.png"
-style="width:3.74016in;height:2.99091in" />
 
 ## Anlage der Versicherungsanstalten für die Eisenbahnen, für den Bergbau, die öffentlichen Bediensteten und des Notariats
 
