@@ -2712,18 +2712,6 @@ arbeiten.
 
 
 
-## BV-Kassen
-
-Seit dem Jahr 2003 muss sich jeder Dienstgeber für eine BV-Kasse
-entscheiden bei der er die Beiträge für seine Dienstnehmer einzahlen
-möchte. Im Zuge der Neuinstallation der Behördendatei sind die
-bestehenden Vorsorgekassen bereits automatisch angelegt und können dem
-Klienten zugeordnet werden.
-
-Abb. 14‑3 Anlage der BV-Kassen
-
-<img src=".\img/image243.png"
-style="width:3.93701in;height:3.23228in" />
 
 ## Gerichte
 
