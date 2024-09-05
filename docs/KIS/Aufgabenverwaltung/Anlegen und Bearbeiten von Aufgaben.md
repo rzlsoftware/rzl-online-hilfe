@@ -1,4 +1,4 @@
-# Aufgaben/Klientenspiegel
+# Anlegen und Bearbeiten von Aufgaben
 
 Das Modul Aufgabenverwaltung bietet Ihnen die Möglichkeit Offene
 Aufgaben anzulegen und zu beschreiben. Die Offenen Aufgaben kann der

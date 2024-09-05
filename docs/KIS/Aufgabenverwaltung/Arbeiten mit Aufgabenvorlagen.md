@@ -1,4 +1,4 @@
-## Arbeiten mit Aufgabenvorlagen
+# Arbeiten mit Aufgabenvorlagen
 
 Sie können sich die Anlage von Aufgaben durch die Erstellung von
 Aufgabenvorlagen erleichtern. Die Anlage von Aufgabenvorlagen finden Sie

@@ -1,5 +1,3 @@
-# Allgemeine Programmbedienung
-
 ## Programmstart
 
 ![Ansicht KIS nach Programmstart](<img/image3.png>)
@@ -347,18 +345,14 @@ Durch Anwahl der Schaltfläche *Filter deaktivieren* werden alle
 gesetzten Filter gelöscht. Möchten Sie nur einen der Filter löschen,
 können Sie das mithilfe von ![FilterlöschenSymbol](<img/image30.png>)
 
-Abb. 3‑22 Filter löschen
-
-<img src="img/image31.png"
-style="width:5.48342in;height:1.11798in" />
+![Filter löschen](<img/image31.png>)
 
 Wenn Sie das Kanzlei-Informations-System schließen, werden die
 temporären Filter automatisch gelöscht. Die innerhalb der Verwaltung
 (vgl. Kap. 11.7 *Filter*) gespeicherten Filter bleiben natürlich
 erhalten.
 
-<img src="img/image32.png"
-style="width:6.10972in;height:0.60972in" /> Abb. 3‑23 Volltextsuche
+![Volltextsuche](<img/image32.png>)
 
 Mit dem Shortcut STRG + F innerhalb von Dokumentenlisten kann die
 Volltextsuche aufgerufen werden. Nach dem eingegebenen Suchkriterium
@@ -375,29 +369,21 @@ die Bedingungen für den Filter gesetzt werden. Neben dem Eintrag *Feld*
 kann wie bereits erläutert ein bestimmtes Kriterium ausgewählt werden,
 nachdem gefiltert werden soll. (vgl. Kap. 3.5 *Filterfunktionen*)
 
-Abb. 3‑24 Filter anlegen I
-
-<img src="img/image33.png"
-style="width:2.34243in;height:2.25291in" />
+![Filer anlegenI](<img/image33.png>)
 
 Im Register *Filter Werte* können mittels Aktivierung der Checkbox
 gleich mehrere Filterbediungen gesetzt werden.
 
 Abb. 3‑25 Filter anlegen II
 
-<img src="img/image34.png"
-style="width:2.59214in;height:2.50852in" />
+![Filter anlegen II](<img/image34.png>)
 
-Mit einem Klick auf das Filtersymbol <img src="img/image35.png"
-style="width:0.35412in;height:0.22914in" /> wird der Filter aktiviert.
+Mit einem Klick auf ![Filter mit grünem Pfeil](<img/image35.png>) wird der Filter aktiviert.
 Die erstellten Filter können Sie mit einem Klick auf den Button *Filter
 speichern* direkt aus dieser Liste nach Vergabe einer Bezeichnung
 speichern.
 
-Abb. 3‑26 Filter speichern
-
-<img src="img/image36.png"
-style="width:4.1581in;height:2.34202in" />
+![Filter speichern](<img/image36.png>)
 
 ## Expertenmodus (Dokumentenliste) 
 
@@ -406,10 +392,7 @@ im sogenannten Expertenmodus erstellt werden. Durch einen Klick auf
 *Expertenmodus öffnen* im Ribbon kann der Expertenmodus aufgerufen
 werden.
 
-Abb. 3‑27 Expertenmodus öffnen
-
-<img src="img/image37.png"
-style="width:6.15in;height:0.575in" />
+![Expertenmodus](<img/image37.png>)
 
 Im Expertenmodus können beliebig viele Und, Oder, Nicht Und und Nicht
 Oder Bedigungen erstellt werden. Durch einen Klick auf das Dropdownfeld
@@ -417,9 +400,7 @@ können die Bedigungen ausgewählt werden. Mit einem Klick auf das
 Plus-Symbol können mehrere Verknüpfungen für den zu erstellenden Filter
 ausgewählt werden.
 
-Abb. 3‑28 Filter bearbeiten I
-
-<img src="img/image38.png" style="width:3.9in;height:2.725in" />
+![Filter bearbeiten I](<img/image38.png>)
 
 #### Und – Verknüpfung 
 
@@ -445,9 +426,7 @@ hinzugefügt werden. Im unten angeführten Beispiel filtert der angelegte
 Expertenfilter alle Dokumente im Zeitraum 2019, welche das Thema
 Korrespondenz Finanzamt betreffen.
 
-Abb. 3‑29 Filter bearbeiten II
-
-<img src="img/image39.png" style="width:4.65in;height:3.25in" />
+![Filter bearbeiten II](<img/image39.png>)
 
 Mit einem Klick auf den Übernehmen-Button wird der Filter auf die
 Dokumentenliste angewandt. Einen aktiven Filter erkennt man an der
@@ -456,20 +435,14 @@ Filter kann mit einem Klick auf *Filter speichern* gespeichert werden.
 Durch einen Klick auf *Alle aktiven Filter löschen* werden die
 angelegten Filterbedingungen wieder gelöscht. (vgl. Kap. 11.6 *Filter*).
 
-Abb. 3‑30 Aktiver Filter innerhalb der Dokumentenliste
-
-<img src="img/image40.png"
-style="width:6.61821in;height:2.41694in" />
+![aktiver Filter innerhalb der Dokumentenliste](<img/image40.png>)
 
 Haben Sie einen Filter innerhalb Ihrer Dokumentenliste aktiv gesetzt
 können Sie mithilfe der linken Maustaste auf das Dropdownfeld neben *Zu
 Aufgaben wechseln* innerhalb der festgelegten Filterkriterien zu den
 Offenen bzw. Erledigten Aufgaben wechseln.
 
-Abb. 3‑31 Wechsel zu Aufgaben
-
-<img src="img/image41.png"
-style="width:1.575in;height:0.775in" />
+![Wechsel zu Aufaben](<img/image41.png>)
 
 Anschließend erhalten Sie eine gefilterte Liste der Aufgaben mit den von
 Ihnen innerhalb der Dokumentenliste festgelegten Filterkriterien. Mit
@@ -478,20 +451,15 @@ direkt aus der Dokumentenliste auf die Ereignisliste anwenden. Mit der
 Auswahl des Dropdownfelds können Sie noch gezielter innerhalb der
 Ereignislisten differenzieren.
 
-Abb. 3‑32 Wechsel zu Ereignissen
-
-<img src="img/image42.png"
-style="width:1.575in;height:1.10833in" />
+![Wechsel zu Ereignissen](<img/image42.png>)
 
 ## Suche nach Klienten/Mitarbeitern/
 
 Sie können im KIS nicht nur nach Klienten, sondern auch nach
 Mitarbeitern suchen. Die Symbole orientieren sich nach jenen im Board.
 Die Klientensuche aktivieren Sie mit Klick auf
-<img src="img/image43.png"
-style="width:0.24997in;height:0.24997in" />. Die Mitarbeitersuche
-aktivieren Sie mit Klick auf <img src="img/image7.png"
-style="width:0.24997in;height:0.24997in" />.
+![Klientensymbol](<img/image43.png>). Die Mitarbeitersuche
+aktivieren Sie mit Klick auf ![Mitarbeitersymbol](<img/image7.png>).
 
 Standardmäßig ist die Suche nach Klienten hinterlegt, daher steht im
 Suchfeld auch *Klient wählen*. Beim Wechsel auf Mitarbeiter steht im
@@ -507,10 +475,7 @@ Wenn Sie mit Hilfe der Klientenliste den gewünschten Klienten auswählen
 wollen, tragen Sie im Suchfeld nichts ein und drücken entweder die
 ENTER-Taste oder die Leerzeichen-Taste.
 
-Abb. 3‑33 Suche mit Klientenliste
-
-<img src="img/image44.png"
-style="width:5.82977in;height:3.73236in" />
+![Suche mit Klientenliste](<img/image44.png>)
 
 Sie erhalten die Klientenliste angezeigt und können sich innerhalb der
 Liste mit dem Scroll-Balken oder den Pfeil-Tasten bewegen. Sie markieren
@@ -524,10 +489,7 @@ mit der Maus öffnen oder Sie drücken die TABULATOR- oder ENTER-Taste.
 Sie können im Suchfeld nicht nur Klientennummern eintragen. Sie können
 auch durch Eintragung von Wortbestandteilen suchen.
 
-Abb. 3‑34 Suche nach Klientennamen
-
-<img src="img/image45.png"
-style="width:4.35867in;height:2.42339in" />
+![Suche nach Klientennamen](<img/image45.png>)
 
 Wenn Sie den Namen oder Teile des Namens des Klienten eintragen,
 erhalten Sie vom Programm eine Liste mit Vorschlägen. Diese Suche ist
@@ -566,10 +528,7 @@ Posteingang und haben bereits Daten erfasst. Wenn Sie den Posteingang
 verlassen wird automatisch gespeichert. Wenn Sie die Eintragungen nicht
 speichern wollen, drücken Sie einfach die ESC-Taste.
 
-Abb. 3‑35 Änderungen verwerfen
-
-<img src="img/image46.png"
-style="width:4.1875in;height:1.51991in" />
+![Änderungen verwerfen](<img/image46.png>)
 
 Sie erhalten die Möglichkeit die noch nicht gespeicherten Änderungen zu
 verwerfen. Wenn Sie die oben abgebildete Anfrage mit *JA* beantworten,
