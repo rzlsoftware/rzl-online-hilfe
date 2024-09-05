@@ -2,10 +2,7 @@
 
 ## Programmstart
 
-Abb. 3‑1 Ansicht KIS nach Programmstart
-
-<img src="img/image3.png"
-style="width:7.04722in;height:3.38264in" />
+![Ansicht KIS nach Programmstart](<img/image3.png>)
 
 Unmittelbar nach dem Start des Programmes werden die *Menüeinträge*
 (KIS, Funktionen, usw.), das Suchfeld - voreingestellt auf *Suche nach
@@ -18,31 +15,19 @@ standardmäßig die Ereignisse des Klienten in Listenform zeitlich gereiht
 angezeigt. Unter *Extras/Einstellungen* kann die Erstansicht beim Öffnen
 eines Klienten pro Mitarbeiter verändert werden.
 
-Abb. 3‑2 Erstansicht beim Öffnen des Klienten
-
-<img src="img/image4.png"
-style="width:4.43626in;height:2.901in" />
-
-Abb. 3‑3 Eintragung einer bestehenden Klientennummer
-
-<img src="img/image5.png"
-style="width:7.04722in;height:4.63194in" />
+![Erstansicht beim Öffnen des Klienten](<img/image4.png>)
+![Eintragung einer bestehenden Klientennummer](<img/image5.png>)
 
 Nach dem Eintragen der Klientennummer im Suchfeld können Sie die
 *TABULATOR-Taste* und/oder die *RETURN*-Taste bzw. ENTER*-*Taste
 verwenden, um sich den Klienten anzeigen zu lassen.
 
 Wenn Sie im Suchfeld nicht den *Suche nach Klient* Button
-<img src="img/image6.png"
-style="width:0.24997in;height:0.24997in" /> anwählen, sondern auf *Suche
-nach Mitarbeiter* <img src="img/image7.png"
-style="width:0.24997in;height:0.24997in" /> umschalten, können Sie nach
+![Suche nach Klient](<img/image6.png>) anwählen, sondern auf *Suche
+nach Mitarbeiter* ![Suche nach Mitarbeiter](<img/image7.png>) umschalten, können Sie nach
 Mitarbeitern suchen bzw. neue Mitarbeiter anlegen.
 
-Abb. 3‑4 Auswahl eines Mitarbeiters
-
-<img src="img/image8.png"
-style="width:6.37807in;height:5.0073in" />
+![Auswahl eines Mitarbeiters](<img/image8.png>)
 
 Die Anlage der Mitarbeiterstammdaten erfolgt im RZL Board. Im KIS
 erfolgt die Vergabe von Sichtbarkeitsrechten und die Zuteilung des
@@ -57,16 +42,13 @@ Bereich der Navigation verwenden Sie die Maus.
 
 Abb. 3‑5 Ansicht der Navigation I
 
-<img src="img/image9.png"
-style="width:2.22889in;height:3.40582in" />
+![Ansicht der Navigation](<img/image9.png>)
 
 Um auf die einzelnen Programmteile zugreifen zu können, klicken Sie
 entweder auf den Eintrag selbst oder auf das **+** Symbol vor dem
 Eintrag.
 
-<img src="img/image10.png"
-style="width:2.27014in;height:4.21806in" /> Abb. 3‑6 Ansicht der
-Navigation II
+![Ansicht der Navigation II](<img/image10.png>)
 
 Der Klientenbereich ist aufgeteilt in Aufgaben, Ereignisse,
 FinanzOnline, Dokumente und Stammdaten. Beim soeben geöffneten Klienten
@@ -96,8 +78,7 @@ Ereignisse.
 
 Abb. 3‑7 Beschreibung der Anzeige der Klientendaten I
 
-<img src="img/image11.png"
-style="width:6.42708in;height:4.97055in" />
+![Beschreibung der Anzeige der Klientendaten I](<img/image11.png>)
 
 Mit dem Buchsymbol neben der Klientenbezeichnung können Notizen zu
 diesem Klienten erfasst werden. Die Notiz kann bzgl. Schriftart,
@@ -107,13 +88,9 @@ des Klienten angezeigt.
 
 Abb. 3‑8 Notizen
 
-<img src="img/image12.png"
-style="width:3.60314in;height:2.67969in" />
+![Notizen](<img/image12.png>)
 
-Abb. 3‑9 Beschreibung der Anzeige der Klientenstammdaten III
-
-<img src="img/image13.png"
-style="width:6.70834in;height:0.85417in" />
+![Beschreibung der Anzeige der Klientenstammdaten II](<img/image13.png>)
 
 Im linken Bereich der Klientenstammdaten werden der Name und die
 Adressen des Klienten angezeigt.
@@ -134,8 +111,7 @@ Klienten. Die Anlage von Personen erfolgt ebenso im RZL-Board.
 
 Abb. 3‑10 Briefe schreiben
 
-<img src="img/image14.png"
-style="width:3.23958in;height:1.05208in" />
+![Briefe schreiben](<img/image14.png>)
 
 Wenn Sie das Brief-Symbol anwählen, können Sie direkt aus dem
 Kanzlei-Informations-System einen Brief (mit Hilfe von Vorlagen)
@@ -162,10 +138,7 @@ sich das Eintippen.
 
 #### Kopieren von UID-Nummer, Firmenbuchnummer, Sozialversicherungsnummer
 
-Abb. 3‑11 Nummern kopieren
-
-<img src="img/image15.png"
-style="width:3.67708in;height:1.98958in" />
+![Nummern kopieren](<img/image15.png>)
 
 Die UID-Nummer, die Firmenbuchnummer und die Sozialversicherungsnummer
 können durch Anwahl der rechten Maustaste kopiert werden. Wenn bei der
@@ -182,8 +155,7 @@ Funktionen zur Verfügung.
 
 Wenn eine Anbindung an eine Telefonanlage existiert und diese
 Telefonanbindung im Kanzlei-Informations-System lizensiert ist, können
-Sie durch Anwahl des Telefonsymbols <img src="img/image16.png"
-style="width:0.19789in;height:0.19789in" /> Ihren Kunden direkt aus dem
+Sie durch Anwahl des Telefonsymbols ![Telefonsymbol](<img/image16.png>) Ihren Kunden direkt aus dem
 KIS heraus anrufen.
 
 Zusätzlich öffnet sich automatisch ein Telefonprotokoll, das die
@@ -191,27 +163,19 @@ Gesprächsdauer protokolliert (vgl. Kap. 5.4.1 RZL Telefon Anbindung).
 
 #### E-Mails schreiben
 
-Durch einen Klick auf das Briefsymbol <img src="img/image17.png"
-style="width:0.19789in;height:0.19789in" /> wird automatisch ein E-Mail
+Durch einen Klick auf das Briefsymbol ![Briefsymbol](<img/image17.png>) wird automatisch ein E-Mail
 mit der hinterlegten E-Mail-Adresse als Empfänger-Adresse geöffnet.
 Dieses E-Mail kann automatisch als Postausgang gespeichert werden.
 
 Die genaue Vorgehensweise finden Sie im Kapitel 13 *Abläufe* im Punkt
 13.3 *E-Mails schreiben*.
 
-Tipp
-
-Wenn Sie nach einem Eintrag das <img src="img/image18.png"
-style="width:0.14167in;height:0.19167in" /> Symbol anwählen können,
-lassen sich zusätzliche Informationen (weitere Telefonnummern,
-E-Mail-Adressen) aufrufen und verwenden.
+!!! info "Tipp" 
+    Wenn Sie nach einem Eintrag das ![PfeilnachuntenSymbol](<img/image18.png>) Symbol anwählen können, lassen sich zusätzliche Informationen (weitere Telefonnummern, E-Mail-Adressen) aufrufen und verwenden.
 
 #### Kontaktpersonen
 
-Abb. 3‑12 Kontaktpersonen
-
-<img src="img/image19.png"
-style="width:3.65579in;height:1.02071in" />
+![Kontaktpersonen](<img/image19.png>)
 
 Die Kontaktpersonen werden im rechten Bereich angeführt. Durch Anwahl
 des kleinen Pfeils rechts werden Detaildaten zur Kontaktperson
@@ -239,8 +203,7 @@ oben.
 
 Abb. 3‑13 Änderung der Sortierung der Listen
 
-<img src="img/image20.png"
-style="width:6.53947in;height:1.04477in" />
+![Änderung der Sortierung der Listen](<img/image20.png>)
 
 Sie können die Sortierung der Listen jederzeit ändern, indem Sie einfach
 auf die gewünschte Spaltenüberschrift – nach der sortiert werden soll –
@@ -257,10 +220,7 @@ sollen. Die Vorgehensweise ist sehr einfach. Sie müssen sich mit dem
 Cursor auf der Zeile mit der Spaltenbeschriftung befinden und wählen die
 rechte Maustaste an.
 
-Abb. 3‑14 Bearbeiten von Listen - Spaltenauswahl
-
-<img src="img/image21.png"
-style="width:1.66227in;height:5.04645in" />
+![Bearbeiten von Listen - Spaltenauswahl](<img/image21.png>)
 
 Sie erhalten ein Kontextmenü mit den möglichen Spalten angezeigt. Wenn
 Sie auf einen Eintrag mit der Maus klicken wird die Anzeige deaktiviert
@@ -273,10 +233,7 @@ Auswahlmöglichkeiten, wird das Kontextmenü etwas verändert dargestellt.
 Wenn Sie innerhalb der Klientenliste im Kanzleibereich die rechte
 Maustaste drücken, erhalten Sie folgende Ansicht.
 
-Abb. 3‑15 Klientenliste - Spaltenauswahl
-
-<img src="img/image22.png"
-style="width:6.77274in;height:3.71406in" />
+![Klientenliste - Spaltenauswahl](<img/image22.png>)
 
 Da innerhalb dieser Liste sehr viele Felder ein- und ausgeblendet werden
 können, ist das Kontextmenü für die Spaltenauswahl in mehrere Bereiche
@@ -294,8 +251,7 @@ Funktionen.
 
 Abb. 3‑16 Bearbeiten von Listen - Funktionen
 
-<img src="img/image23.png"
-style="width:6.10208in;height:1.34722in" alt="H:\kis.png" />
+![Bearbeiten von Listen - Funktionen](<img/image23.png>)
 
 In der oben dargestellten Liste kann die Tabelle in die Zwischenablage
 kopiert werden (Strg + C) und die Liste ausgedruckt werden.
@@ -323,10 +279,7 @@ mehrere Ereignisse/Dokumente gleichzeitig auszuwählen. Die
 Mehrfachauswahl erfolgt entweder durch Anwahl der UMSCHALT-Taste
 (Bereichsauswahl) oder STRG-Taste (Einzelauswahl) und der Maustaste.
 
-Abb. 3‑17 Bearbeiten von Listen - Funktionen
-
-<img src="img/image24.png"
-style="width:6.54468in;height:3.48452in" />
+![Bearbeiten von Listen - Funktionen](<img/image24.png>)
 
 Die Funktionen in den Listen (z. B.: das Versenden von Dokumenten per
 E-Mail) können natürlich auch für die Mehrfachauswahl verwendet werden.
@@ -344,10 +297,7 @@ Ereignisliste kann die Mehrfachauswahl nicht verwendet werden.
 
 ## Filterfunktionen
 
-Abb. 3‑18 Filterfunktionen
-
-<img src="img/image25.png"
-style="width:5.87921in;height:2.03872in" />
+![Filterfunktionen](<img/image25.png>)
 
 Wenn Sie sich in Programmteilen mit Listendarstellung befinden, (hier
 die Liste der Ereignisse im Klientenbereich) sehen Sie im oberen Bereich
@@ -365,21 +315,16 @@ ein temporärer Filter erstellt.
 
 Abb. 3‑19 Anzeige der Filterfunktion
 
-<img src="img/image26.png"
-style="width:3.15192in;height:1.46155in" />
+![Anzeige der Filterfunktion](<img/image26.png>)
 
 Im Bereich *Feld* tragen Sie ein, in welchem Feld der Liste der Filter
 gesetzt werden soll. Die Auswahlmöglichkeiten im Bereich *Kriterium*
 hängen vom ausgewählten Feld ab. Im Feld *Wert* bestimmen Sie den von
 Ihnen gesuchten Wert.
 
-Durch Anwahl des Symbols <img src="img/image27.png"
-style="width:0.23955in;height:0.23955in" /> wird der Filter gesetzt.
+Durch Anwahl des Symbols ![FiltermitplusSymbol](<img/image27.png>) wird der Filter gesetzt.
 
-Abb. 3‑20 Anzeige des Filters
-
-<img src="img/image28.png"
-style="width:6.34547in;height:1.72018in" />
+![Anzeige des Filters](<img/image28.png>)
 
 Im rechten Bereich der Filterfunktion wird der gesetzte Filter
 angezeigt. Im oberen Balken wird angezeigt, aus welcher Gesamtanzahl von
@@ -388,10 +333,7 @@ Elementen wie viele in diesem Beispiel Ereignisse gefiltert wurden.
 Sie können mehrere Filter gleichzeitig setzen, in dem Sie die oben
 beschriebene Vorgehensweise wiederholen.
 
-Abb. 3‑21 Setzen mehrerer Filter
-
-<img src="img/image29.png"
-style="width:6.28114in;height:1.16116in" />
+![Setzen mehrerer Filter](<img/image29.png>)
 
 Das bedeutet, Sie können innerhalb Ihrer umfangreichen Listen
 (Ereignisse, Klienten usw.) sehr gezielt Informationen herausfiltern und
@@ -403,8 +345,7 @@ Bereichen des Programms löscht die temporären Filter ebenfalls nicht.
 
 Durch Anwahl der Schaltfläche *Filter deaktivieren* werden alle
 gesetzten Filter gelöscht. Möchten Sie nur einen der Filter löschen,
-können Sie das mithilfe von <img src="img/image30.png"
-style="width:0.23955in;height:0.23955in" />
+können Sie das mithilfe von ![FilterlöschenSymbol](<img/image30.png>)
 
 Abb. 3‑22 Filter löschen
 
