@@ -2756,22 +2756,7 @@ arbeiten.
 
 
 
-## Klientenübergreifende Jahresübernahme
 
-Im Programmteil *Klient / Übernahme / Jahresübernahme* kann die
-Jahresübernahme für mehrere Klienten gleichzeitig durchgeführt werden.
-
-Im Registerblatt *Klienten* werden zunächst jene Klienten aktiviert, für
-die die Jahresübernahme durchgeführt werden soll.
-
-Abb. 16‑3 Klientenübergreifende Jahresübernahme
-
-<img src=".\img/image248.png"
-style="width:3.54331in;height:2.02311in" />
-
-Im Registerblatt *Jahresübernahme* können dieselben Optionen wie bei der
-Jahresübernahme innerhalb des Klienten angewählt werden. Eine Liste mit
-den Namen der Dienstnehmer wird allerdings nicht angezeigt.
 
 ## Sonderfall Jahresübernahme für Anmeldungen im neuen Jahr
 
