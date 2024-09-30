@@ -218,6 +218,7 @@ Auswirkungen auf die Leistungserfassung des Mitarbeiters hat.
 
 ## Verrechnung nach Stunden oder Einheiten
 
+
 In den Stammdaten der Tätigkeiten steht Ihnen die Verrechnungsart
 *Stunden oder Einheiten* zur Verfügung. Bei dieser Art müssen die
 Stunden in der Leistungserfassung der Mitarbeiter erfasst werden und
