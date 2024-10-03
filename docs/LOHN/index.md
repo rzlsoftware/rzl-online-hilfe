@@ -2816,60 +2816,7 @@ arbeiten.
 
 
 
-## Bestehende Dienstverhältnisse – Umstiegsmöglichkeiten
 
-Für bestehende Dienstverhältnisse besteht die Möglichkeit auf das neue
-Abfertigungssystem umzusteigen. Es besteht kein Zwang zum Umstieg. Wenn
-die Dienstnehmer oder der Dienstgeber keinen Umstieg wünschen, bleibt
-das Dienstverhältnis weiterhin im alten System. Es müssen nicht alle
-Dienstnehmer auf das neue System wechseln, sondern es können auch nur
-einzelne Dienstnehmer umsteigen.
-
-Grundsätzlich stehen zwei Möglichkeiten zur Verfügung, auf das neue
-Abfertigungssystem umzusteigen.
-
-**Vollumstieg**
-
-Ein Vollumstieg ist unbefristet möglich.
-
-**Teilumstieg**
-
-Bei einem Teilumstieg wird ein Stichtag für den Umstieg ausgewählt. Ab
-diesem Stichtag werden für die Dienstnehmer die BV-Beiträge an die
-BV-Kasse abgeführt. Der zum Zeitpunkt des Umstieges bestehende
-Abfertigungsanspruch bleibt erhalten.
-
-Diese beiden Umstiegsmöglichkeiten werden im Lohnprogramm im
-Abrechnungsbildschirm *Stammdaten Fristen* abgerechnet.
-
-Abb. 21‑7 Stammdaten Fristen ­ Umstiegsmöglichkeiten
-
-<img src=".\img/image305.png"
-style="width:3.93701in;height:2.39764in" />
-
-**Vollumstieg Abfertigung neu**
-
-Der Betrag, der im Zuge eines Vollumstiegs an die BV-Kasse für den
-Dienstnehmer zu leisten ist, kann entweder auf einmal geleistet werden
-oder auf 5 Jahre verteilt werden.
-
-Einzutragen ist, der Übertragungszeitpunkt und die Höhe des
-Übertragungsbetrag.
-
-**Teilumstieg Abfertigung neu**
-
-Bei Abrechnung eines Teilumstieges ist das Datum des Übertrittes
-(Einfrierungszeitpunkt) einzutragen, damit die BV-Beiträge über das
-Programm abgeführt werden können. Weiters ist der Einfrierungsanspruch
-in Monaten (Abfertigungsanspruch zum Zeitpunkt des Übertrittes ins neue
-System) für die Rückstellungsberechnung einzutragen.
-
-Hinweis
-
-Damit die BV-Beiträge ab dem Umstiegsstichtag für den jeweiligen
-Dienstnehmer abgeführt werden, ist im Abrechnungsbildschirm *Eintritt*
-(vgl. Kapitel 5.5, Seite [63](#eintritt)) die BV-Pflicht zu aktivieren
-und der Beginn einzutragen.
 
 ## Abfertigungsrechner (-vergleich)
 
