@@ -2784,26 +2784,7 @@ arbeiten.
 
 
 
-## Daten-Export
 
-Der Daten-Export erfolgt im unteren Bereich des Export-Dialoges. Zuerst
-ist im Bereich *Auswahl Listenform* eine der erstellten Listenformen
-auszuwählen. Dann sind der Pfad und der Name der Export-Datei
-einzutragen oder mittels der Schaltfläche *Suchen* festzulegen.
-
-Abb. 18‑6 Export der Daten-Liste
-
-<img src=".\img/image287.png"
-style="width:3.93701in;height:0.99213in" />
-
-Nach Auswahl der Export-Datei, ist die Schaltfläche *Exportieren*
-anzuwählen. Der erfolgreiche Export wird mit folgender Meldung durch das
-Programm bestätigt.
-
-Abb. 18‑7 Bestätigung Datenexport
-
-<img src=".\img/image288.png"
-style="width:2.91299in;height:1.03683in" />
 
 ## Datenexport Bankdaten
 
