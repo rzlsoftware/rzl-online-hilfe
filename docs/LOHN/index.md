@@ -2838,85 +2838,9 @@ und in einem eigenen Abrechnungsbildschirm *Exekutionen*.
 
 
 
-## Ausdrucke Exekutionen
 
-### Zahlscheindruck / E-Banking
 
-Der Zahlscheindruck für die Exekutionsbeträge erfolgt im Programmteil
-*Ausdruck / Überweisungen / Zahlscheine / Exekutionsbeträge*. Soll
-anstatt des Zahlscheindruck E-Banking durchgeführt werden, ist der
-Programmteil *Bearbeiten / Electronic Banking (Sepa) /
-Exekutionsbeträge* anzuwählen.
 
-### Listen und Formulare
-
-Weitere Ausdrucke betreffend Exekution finden sich im Programm *Ausdruck
-/ Exekutionen*.
-
-**Exekutionsliste**
-
-Durch den Ausdruck der Exekutionsliste besteht die Möglichkeit,
-sämtliche Exekutionen mit den Stammdaten, den exekutierten Beträgen und
-dem aktuellen Stand der Forderung auszudrucken.
-
-**Drittschuldner-Erklärung**
-
-Wenn die Daten der Drittschuldner-Erklärung im Programmteil *Stamm /
-Exekutionen* erfasst wurden, können die Drittschuldner-Erklärungen
-ausgedruckt werden.
-
-Wurde innerhalb der Drittschuldner-Erklärung die Kostenerstattung
-beantragt, dann ist festzulegen, ob der Kostenersatz auf die
-(Dienstgeber-)Bank 1 oder 2 überwiesen werden soll.
-
-Soll eine individuelle Bankverbindung eingetragen werden, ist das
-Auswahlfeld *individuell* zu aktivieren und es kann in den Feldern
-*BZL*, *Name*, *Kontonummer, IBAN und BIC* eine von den
-Dienstgeberbanken abweichende Bankverbindung eingetragen werden.
-
-**Verständigung vom Bezugsende**
-
-Hier wird der Ausdruck der Verständigung vom Bezugsende gemäß § 301 Abs.
-4 Exekutionsordnung ermöglicht. Voraussetzung für den Ausdruck ist die
-Abrechnung eines Austrittes (Bezugsende) beim jeweiligen Dienstnehmer.
-
-**Nichtberücksichtigung des Zahlungsverbotes**
-
-Hier kann der Ausdruck gemäß § 229l Exekutionsordnung
-Nichtberücksichtigung des Zahlungsverbotes durchgeführt werden. Ein
-Ausdruck ist nur möglich, wenn die Forderung bereits zur Gänze gepfändet
-wurde.
-
-## Anlage eines Zessionsvermerks oder einer Rangvormerkung
-
-Geben Sie unter *Stamm / Exekutionen* eine ganz normale Exekution ein.
-Sie werden nicht alle Felder wie gewohnt befüllen können, da Sie nicht
-alle Informationen haben. Geben Sie alles ein, was Ihnen zur Verfügung
-steht.
-
-Bei *Forderung* kann ein beliebiger Betrag eingegeben werden. Z.B.
-100.000,00
-
-Abb. 22‑11 Zessionsvermerk / Rangvormerkung
-
-<img src=".\img/image322.png"
-style="width:3.93701in;height:2.24496in" />
-
-Nach der Eingabe aller Informationen, die zur Verfügung stehen, wird die
-Exekution *gespeichert*.
-
-Markieren Sie jetzt die Rangvormerkung bzw. den Zessionsvermerk und
-klicken Sie auf der rechten Seite auf *Sperren*.
-
-Abb. 22‑12 Zessionsvermerk / Rangvormerkung Sperren
-
-<img src=".\img/image323.png"
-style="width:3.93701in;height:1.11305in" />
-
-Somit wird die Rangvormerkung bzw. der Zessionsvermerk auf der
-Drittschuldner-Erklärung angeführt, jedoch wird kein Betrag bei der
-Abrechnung des Dienstnehmers abgezogen. Dieser Eintrag dient rein zur
-Vormerkung.
 
 # 
 
