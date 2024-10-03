@@ -1,0 +1,3 @@
+## Repair Reports löschen
+
+Durch Anwahl dieses Menüpunktes können fehlerhafte Reports, welche sich nicht mehr öffnen lassen, gelöscht werden. Hierzu gehen Sie wie folgt vor. Zuerst übernehmen Sie alle fehlerfreien Reports in die Kanzlei-Reports. Mit der Repairfunktion werden dann alle Reports innerhalb des Klienten gelöscht. Danach können alle funktionieren Reports wieder auf den Klienten überspielt werden.
