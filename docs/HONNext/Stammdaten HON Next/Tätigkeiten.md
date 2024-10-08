@@ -200,7 +200,7 @@ wurde (vgl. [Verrechnung nach Stunden oder Einheiten](/HONNext/Notenerstellung/N
     zugordnet werden.
 
 !!! warning "Hinweis"
-    Bei Tätigkeiten, welche nach Einheiten abgerechnet werden, kann im Tarifschema ebenso ein Stundesatz hinterlegt werden. In der Notenerstellung kann damit von *Verrechnung nach Einheiten* auf *Verrechnung nach Stunden* gewechselt werden.
+    Bei Tätigkeiten, welche nach Einheiten abgerechnet werden, kann im Tarifschema ebenso ein Stundensatz hinterlegt werden. In der Notenerstellung kann damit von *Verrechnung nach Einheiten* auf *Verrechnung nach Stunden* gewechselt werden.
 
 Optionen im Reiter *Buchhaltung*:
 
