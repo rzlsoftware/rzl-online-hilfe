@@ -12,8 +12,7 @@ Wählen Sie den Button *Mitarbeiter Leistungserfassung* aus, um die
 Grundeinstellungen für Sperren der Leistungserfassung festzulegen oder
 die Leistungen automatisch freigeben zu lassen.
 
-
-![](<img/image89.png>)
+![](img/image100.png)
 
 ### Arbeitszeitaufzeichnung
 
@@ -102,6 +101,29 @@ Mitarbeiter klickt um 08:04 auf *Kommen* – es wird auf 08:15 gerundet
 als Beginn Arbeitszeit  
 Mitarbeiter klickt um 16:46 auf *Gehen* – es wird auf 17:00 gerundet als
 Ende Arbeitszeit
+
+### Rahmenarbeitszeit
+
+Mit der Definition einer Rahmenarbeitszeit kann die Eingabe einer Arbeitszeit zu gewissen Zeiten gesperrt werden. Wird eine Rahmenarbeitszeit definiert, können die Mitarbeiter in dieser Zeitspanne Arbeitszeiten erfassen. Eine Arbeitszeit außerhalb des definierten Rahmens kann vom Mitarbeiter nicht gespeichert werden.
+
+Beispiel:
+Im HON Next ist eine Rahmenarbeitszeit von 06:00 - 21:00 Uhr definiert.
+Der Mitarbeiter möchte in seiner Leistungserfassung als Beginn der Arbeitszeit 05:30 eingeben - es kommt folgender Hinweis in der Leistungserfassung der Mitarbeiter:
+
+![](img/image101.png)
+
+Bis der Mitarbeiter die Arbeitszeit nicht korrigiert, kann die Tageserfassung nicht beendet/gespeichert werden.
+
+Im HON Next über *Leistungserfassung / Mitarbeiterübersicht* beim Aufruf der Arbeitszeitkalender der Mitarbeiter ist eine Eingabe außerhalb der Rahmenarbeitszeit möglich. Man erhält folgenden Hinweis:
+
+![](img/image102.png)
+
+Mit der Option *Rahmenarbeitszeit ignorieren* kann die Rahemnarbeiszeit bewusst für diesen einen Tag deaktiviert werden. Es gibt weder im HON Next noch im LE Next einen Hinweis.
+
+!!! warning "Hinweis"
+    Sollte für bestimmte Mitarbeiter die Rahmenarbeitszeit nicht gelten, können Sie in den Stammdaten der Mitarbeiter im Reiter HON Next die Option *Rahmenarbeitszeit ignorieren* aktivieren. Für diese Mitarbeiter wird die Prüfung der Rahmenarbeitszeit nicht angewendet.
+
+    ![](img/image103.png)
 
 ### Sperre der Erfassung
 

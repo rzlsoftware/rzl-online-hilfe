@@ -11,8 +11,7 @@ bearbeitenden Mitarbeiter mit einem Doppelklick aus.
 Beim Mitarbeiter selbst klicken Sie auf *HON,* um die
 Honorarverrechnungs-Einstellungen zu hinterlegen.
 
-
-![](<img/image104.png>)
+![](img/image408.png)
 
 !!! warning "Hinweis"
     Die HON Mitarbeiterstammdaten sind nur für jene Personen ersichtlich,
@@ -34,6 +33,8 @@ beschrieben. Das Arbeitszeitmodell wird unter anderem für die
 Leistungserfassung der Mitarbeiter benötigt. Weiterführende
 Informationen zum Urlaub finden Sie im Kapitel [Urlaubskartei](/HONNext/Mitarbeiterübersicht/Urlaubskartei) beschrieben. Die Urlaubsinformationen werden als
 Information für die Mitarbeiter in der Leistungserfassung dargestellt.
+
+Die Option *Rahmenarbeitszeit ignorieren* kann aktiviert werden, wenn die Prüfung auf die Einhaltung der Rahmenarbeitszeit nicht erfolgen soll.
 
 Die Option *Geschäftsführung oder leitende Anstellung* kann aktiviert
 werden, wenn eine Arbeitszeitaufzeichnung nicht zwingend ist und die
