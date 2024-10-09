@@ -2,8 +2,7 @@
 
 Abb. 6‑3 FinanzOnline Zugänge
 
-<img src="img/image125.png"
-style="width:7.04722in;height:3.21875in" />
+![FinOn Zugänge](<img/image125.png>)
 
 ### WebService 
 
@@ -16,8 +15,7 @@ ausgelesen und zugeordnet.
 
 Abb. 6‑4 Databox Synchronisation
 
-<img src="img/image126.png"
-style="width:6.48971in;height:0.94775in" />
+![Databox Synchronisation](<img/image126.png>)
 
 Nach Anwahl des Eintrags *Neuer Zugang* sind die Zugangskennungen für
 den im Finanz­Online angelegten WebService-Benutzer (Teilnehmer ID,
@@ -50,8 +48,7 @@ des Zugangs im Detail (siehe unten)*.
 
 Abb. 6‑5 Automatische Steuerkontoabfrage
 
-<img src="img/image127.png"
-style="width:5.89979in;height:0.86276in" />
+![autom Steuerkontoabfrage](<img/image127.png/)>
 
 Im Bereich *Zuordnung* wählen Sie den Eintrag *Steuerkonto-, Quoten- und
 Vertretungslistenabfrage* an. Dieser Benutzer kann durch Anwahl des
@@ -73,8 +70,8 @@ der Zustellung können unverändert beibehalten werden.
 
 Abb. 6‑6 Finanz Online – Zustellung
 
-<img src="img/image128.png"
-style="width:6.11667in;height:1.14167in" />
+![FinOn Zustellung](<img/image128.png>)
+
 
 #### Verständigung bei der Erstellung von Veranlagungsbescheiden
 
@@ -115,31 +112,26 @@ Teamverwaltung geben.
 
 Abb. 6‑7 Benutzerdaten – Übersicht
 
-<img src="img/image129.png"
-style="width:4.02245in;height:6.45127in" />
+![Benutzerdaten - Übersicht](<img/image129.png>)
 
 Abb. 6‑8 Benutzerkennung
 
-<img src="img/image130.png"
-style="width:6.429in;height:4.29693in" />
+![Benutzerkennung](<img/image130.png>)
 
 Nur in den Bereichen *Abfragen, Databox* und *Admin* müssen nachfolgende
 Aktivierungen vorgenommen werden.
 
 Abb. 6‑9 Benutzerzugang – *Abfragen*
 
-<img src="img/image131.png"
-style="width:5.55833in;height:4.74167in" />
+![Benutzerzugang Abfragen](<img/image131.png>)
 
 Abb. 6‑10 Benutzerzugang – *Nachrichten*
 
-<img src="img/image132.png"
-style="width:4.73333in;height:5.21667in" />
+![Benutzerzugang - Nachrichten](<img/image132.png>)
 
 Abb. 6‑11 Benutzerzugang
 
-<img src="img/image133.png"
-style="width:5.74167in;height:3.43333in" />
+![Benutzerzugang](<img/image133.png>)
 
 ### Mitarbeiter
 
@@ -148,8 +140,7 @@ style="width:5.74167in;height:3.43333in" />
 
 Abb. 6‑12 Mitarbeiterzugang
 
-<img src="img/image134.png"
-style="width:6.09022in;height:0.8642in" />
+![Mitarbeiterzugang](<img/image134.png>)
 
 > Nach Eintragung der Zugangskennungen ist im Bereich *Zuordnung* der
 > Eintrag *Mitarbeiter* bzw. *Mitarbeiter – Login mit Benutzername*
@@ -183,8 +174,7 @@ style="width:6.09022in;height:0.8642in" />
 
 Abb. 6‑13 Direkteinstieg – FinanzOnline - Steuernummer
 
-<img src="img/image135.png"
-style="width:6.61048in;height:0.77322in" />
+![Direkteinstieg FinOn Steuernr](<img/image135.png>)
 
 > Wenn für den Mitarbeiter ein Zugang mit Mitarbeiterzuordnung angelegt
 > ist, erfolgt der Einstieg ins FinanzOnline direkt ohne die Eintragung
@@ -206,8 +196,7 @@ Login in FinanzOnline nutzen.
 
 Abb. 6‑14 Allgemeine FinanzOnline Einstellungen
 
-<img src="img/image136.png"
-style="width:4.68232in;height:4.18493in" />
+![Allgemeine FinOn Einstellungen](<img/image136.png>)
 
 #### Behördliche DataBox
 
@@ -231,8 +220,7 @@ einer Bescheidinformation (persönlich) abgefragt werden.
 
 Abb. 6‑15 Klientenauswahl Abruf Veranlagungsbescheide
 
-<img src="img/image137.png"
-style="width:6.51617in;height:3.87002in" />
+![Klientenauswahl Abruf Veranlagungsbescheide](<img/image137.png>)
 
 Für Bescheide die persönlich heruntergeladen werden, werden durch Anwahl
 des Felds *Aufgaben für persönlich angeforderte Bescheide erstellen,

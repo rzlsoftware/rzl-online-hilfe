@@ -5,8 +5,7 @@ KIS-Navigator unter *Verwaltung / USP – Zuweisungen* vorgenommen werden.
 
 Abb. 7‑3 Zuweisungen
 
-<img src="img/image182.png"
-style="width:2.64065in;height:3.0723in" />
+![Zuweisungen](<img/image182.png>)
 
 ### Ablage der Auszüge
 
@@ -18,8 +17,7 @@ auf alle anderen Auszüge übernommen werden.
 
 Abb. 7‑4 Zuweisungen – Kategorie & Thema
 
-<img src="img/image183.png"
-style="width:4.23278in;height:1.99692in" />
+![Zuweisung Kategorie und Thema](<img/image183.png>)
 
 ### Aufgabenvorlage
 
@@ -31,5 +29,4 @@ Aufgabenvorlage
 
 Abb. 7‑5 Zuweisungen – Aufgabenvorlagen
 
-<img src="img/image184.png"
-style="width:5.40754in;height:1.86538in" />
+![Zuweisung Aufgabenvorlage](<img/image184.png>)

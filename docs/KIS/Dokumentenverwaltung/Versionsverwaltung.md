@@ -14,16 +14,14 @@ das Kontextmenü die Funktionen der Versionsverwaltung nutzen.
 
 Abb. 8‑24 Versionsverwaltung - Kontextmenü
 
-<img src="img/image241.png"
-style="width:5.65625in;height:3.29097in" />
+![Kontextmenü](<img/image241.png>)
 
 Oder Sie verwenden die Funktion in der Menüleiste, um die
 Versionsverwaltung nutzen zu können.
 
 Abb. 8‑25 Versionsverwaltung - Menüleiste
 
-<img src="img/image242.png"
-style="width:5.48958in;height:2.26181in" />
+![Menüleiste](<img/image242.png>)
 
 **Versionen anzeigen**
 
@@ -33,8 +31,7 @@ gespeicherten Versionen können Sie öffnen, löschen und wiederherstellen.
 
 Abb. 8‑26 Versionen anzeigen
 
-<img src="img/image243.png"
-style="width:5.17569in;height:3.34583in" />
+![Versionen anzeigen](<img/image243.png>)
 
 Beim Öffnen gespeicherter Versionen ist keine Bearbeitung möglich bzw.
 können Sie die Änderungen nicht speichern. Möchten Sie eine Version
@@ -69,8 +66,7 @@ immer die aktuelle Version geöffnet.
 
 Abb. 8‑27 Öffnen der aktuellen Version
 
-<img src="img/image244.png"
-style="width:6.925in;height:0.73958in" />
+![akutelle Version öffnen](<img/image244.png>)
 
 **Änderungsprotokoll**
 
@@ -84,8 +80,7 @@ Listenfunktionen zur Verfügung.
 
 Abb. 8‑28 Änderungsprotokoll
 
-<img src="img/image245.png"
-style="width:5.5in;height:3.76389in" />
+![Änderungsprotokoll](<img/image245.png>)
 
 **Automatische Sicherungen**
 

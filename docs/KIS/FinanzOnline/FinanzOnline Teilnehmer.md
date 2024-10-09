@@ -27,8 +27,7 @@ ID für FinanzOnline eingetragen werden.
 
 Abb. 6‑1 FinanzOnline Teilnehmer
 
-<img src="img/image123.png"
-style="width:6.66238in;height:1.95446in" />
+![FinOn Teilnehmer](<img/image123.png>)
 
 Wenn mehrere Vollmachten vorhanden sind, müssen alle Teilnehmer IDs
 eingetragen werden. Jene Vollmacht (Teilnehmer-ID) welche die meisten
@@ -48,8 +47,7 @@ Klienten nicht notwendig, da diese automatisch für alle Klienten gilt
 
 Abb. 6‑2 FinanzOnline-Teilnehmer – Klientenzuordnung RZL Board
 
-<img src="img/image124.png"
-style="width:6.70528in;height:3.50329in" />
+![FinOn Teilnehmer Klientenzuordnung Board](<img/image124.png>)
 
 Die Zuordnung zur Vollmacht (Teilnehmer-ID) wird innerhalb der
 Klientenstammdaten im RZL-Board im Bereich *Finanzamt* angezeigt und

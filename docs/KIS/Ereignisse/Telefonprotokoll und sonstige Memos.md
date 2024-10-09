@@ -12,8 +12,7 @@ klicken Sie bitte auf die Schaltfläche *Neues Telefonprotokoll*.
 
 Abb. 5‑10 Erfassung eines Telefonprotokolls
 
-<img src="img/image104.png"
-style="width:6.66667in;height:2.6875in" />
+![Erfassung eines Telefonprotokolls](<img/image104.png>)
 
 TIpp
 
@@ -125,15 +124,13 @@ dem Telefonprotokoll zuordnen.
 
 Abb. 5‑11 Verknüpfung Telefonprotokoll – Dokument
 
-<img src="img/image105.png"
-style="width:2.02058in;height:0.69783in" />
+![Verknüpfung Telefonprotokoll - Dokument](<img/image105.png>)
 
 Sie klicken zunächst auf die Schaltfläche *Keine Dokumente zugeordnet*.
 
 Abb. 5‑12 Dokumente zuordnen
 
-<img src="img/image106.png"
-style="width:4.40958in;height:1.18834in" />
+![Dokumente zuordnen](<img/image106.png>)
 
 Wenn Sie das Symbol mit dem **+**-Zeichen anwählen, können Sie Dokumente
 hinzufügen. Das Symbol mit dem roten Kreuz löscht die Zuordnung des
@@ -154,8 +151,7 @@ Telefonnummer, indem die Telefonnummer mit der Maus angeklickt wird.
 
 Abb. 5‑13 Erfassung eines Telefonats im Kanzleibereich
 
-<img src="img/image107.png"
-style="width:5.11567in;height:3.34726in" />
+![Erfassung eines Telefonats im Kanzleibereich](<img/image107.png>)
 
 Anschließend wird der oben angeführten Bildschirm geöffnet.
 Gesprächsbeginn und Ende werden automatisch protokolliert. Nach Vornahme
@@ -179,8 +175,7 @@ Um ein neues Memo zu erfassen, klicken Sie bitte auf die Schaltfläche
 
 Abb. 5‑14 Erfassung eines Memos
 
-<img src="img/image108.png"
-style="width:6.79003in;height:2.17324in" />
+![Erfassung eines Memos](<img/image108.png>)
 
 #### Datum
 
@@ -262,15 +257,13 @@ Telefonprotokoll zuordnen.
 
 Abb. 5‑15 Verknüpfung Memo – Dokument
 
-<img src="img/image105.png"
-style="width:2.02058in;height:0.69783in" />
+![Verknüpfung Memo - Dokument](<img/image105.png>)
 
 Sie klicken zunächst auf die Schaltfläche *Keine Dokumente zugeordnet*.
 
 Abb. 5‑16 Dokumente zuordnen
 
-<img src="img/image106.png"
-style="width:4.95541in;height:1.33544in" />
+![Dokumente zuordnen](<img/image106.png>)
 
 Wenn Sie das Symbol mit dem **+**-Zeichen anwählen, können Sie Dokumente
 hinzufügen. Das Symbol mit dem roten Kreuz löscht die Zuordnung des

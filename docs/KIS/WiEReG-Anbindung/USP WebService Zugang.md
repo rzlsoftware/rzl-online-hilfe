@@ -17,8 +17,7 @@ für **WebService** angelegt ist.
 
 Abb. 7‑1 USP WebService Zugang
 
-<img src="img/image180.png"
-style="width:6.9206in;height:2.9949in" />
+![USP WebService Zugang](<img/image180.png>)
 
 Nach Anwahl des Eintrags Neuer Zugang sind die Zugangskennungen für den
 im USP angelegten WebService-Benutzer (Benutzer ID und Passwort)
@@ -26,9 +25,6 @@ einzugeben.
 
 Im Bereich Zuordnung müssen Sie den Eintrag Web-Service USP anwählen.
 Der Benutzer kann durch Anwahl des Felds aktiv deaktiviert werden.
-
-Inhalte © 2022  
-RZL Software GmbH
 
 ## Exkurs: Anlage eines WebService-Benutzers
 
@@ -39,8 +35,7 @@ Personifizierung erforderlich ist.
 
 Abb. 7‑2 Anlage WebService im USP
 
-<img src="img/image181.png"
-style="width:6.15833in;height:3.1375in" />
+![Anlage WebService im USP](<img/image181.png>)
 
 Nachdem ein WebService-Konto angelegt wurde, kann man über den Menüpunkt
 „WebService-Rechte verwalten“ die entsprechende Berechtigung vergeben.

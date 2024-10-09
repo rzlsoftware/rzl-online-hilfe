@@ -5,8 +5,7 @@ Arten unterteilt.
 
 Abb. 6‑16 FinanzOnline Zuweisungen I
 
-<img src="img/image138.png"
-style="width:6.14167in;height:1.4in" />
+![FinOn Zuweisungen I](<img/image138.png>)
 
 Sie können hier jeder Art die entsprechenden Kategorien (vgl. Kap. 11.10
 *Kategorie*) und Themen (vgl. Kap. 11.12 Thema) zuordnen. Zusätzlich
@@ -29,8 +28,7 @@ wurde.
 
 Abb. 6‑17 FinanzOnline Zuweisungen II
 
-<img src="img/image139.png"
-style="width:7.04722in;height:3.36319in" />
+![FinOn Zuweisungen II](<img/image139.png>)
 
 Zu jeder Art gibt es eine bestimmte Anzahl von Anbringen. Bei jedem
 Anbringen können falls gewünscht von der Art abweichende Zuordnungen

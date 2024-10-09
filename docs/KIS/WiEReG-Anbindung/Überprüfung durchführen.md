@@ -10,7 +10,4 @@ Klienten eine juristische Person hinterlegt ist. Über die Schaltfläche
 Meldung anlegen. Da die Meldung auch vom Rechtsträger selbst erfolgen
 kann, kann auch der Klient als Überprüfer vermerkt werden.
 
-Abb. 7‑6 Neue Überprüfung
-
-<img src="img/image185.png"
-style="width:6.31585in;height:3.85125in" />
+![neue Überprüfung](<img/image185.png>)

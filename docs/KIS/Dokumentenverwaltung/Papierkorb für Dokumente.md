@@ -6,8 +6,7 @@ Innerhalb dieses Papierkorbs finden Sie die gelöschten Dokumente.
 
 Abb. 8‑39 Papierkorb – Gelöschte Dokumente
 
-<img src="img/image259.png"
-style="width:7.04722in;height:2.20139in" />
+![Papierkorb](<img/image259.png>)
 
 Sie können durch Anwahl der Schaltfläche *Gewählte Dokumente
 wiederherstellen* die aktivierten Einträge (Hakerl im Kästchen)

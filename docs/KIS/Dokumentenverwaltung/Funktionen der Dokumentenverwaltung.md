@@ -10,27 +10,20 @@ Dokuments mit einem Memo.
 
 Abb. 8‑29 Verknüpfung von Dokumenten mit Ereignissen (Postausgang)
 
-<img src="img/image246.png"
-style="width:6.37825in;height:3.25826in" />
+![Ereignisse mit Dokumente verknüpfen](<img/image246.png>)
 
 Innerhalb eines Ereignisses haben Sie die Möglichkeit Dokumente
-zuzuordnen. Zunächst wählen Sie bitte die Schaltfläche *Keine Dokumente
-zugeordnet* an.
-
-<img src="img/image247.png"
-style="width:4.33361in;height:1.23674in" />
+zuzuordnen. Zunächst wählen Sie bitte die Schaltfläche ![Keine Dokumente zugeordnet](<img/image247.png>) an.
 
 Anschließend klicken Sie für die Zuordnung auf
-<img src="img/image248.png"
-style="width:0.22914in;height:0.24997in" />. Sie erhalten die
+![Dokument Plus Symbol](<img/image248.png>). Sie erhalten die
 Dokumentenliste mit einem automatischen Filter auf den Klienten der im
 Ereignis zugeordnet ist. Informationen zum Setzen von Filtern finden Sie
 im Kapitel 3.5 *Filterfunktionen*.
 
 Abb. 8‑30 Dokumentenliste gefiltert
 
-<img src="img/image249.png"
-style="width:5.44121in;height:3.32113in" />
+![gefilterte Dokumentenliste](<img/image249.png>)
 
 Sie markieren bitte das oder die gewünschten Dokumente. Sie können auch
 mehrere Dokumente gleichzeitig auswählen, durch Anwahl der
@@ -42,8 +35,7 @@ Nach dem Setzen der Markierung klicken Sie auf die Schaltfläche
 
 Abb. 8‑31 Zuordnung von Dokumenten zu Ereignissen
 
-<img src="img/image250.png"
-style="width:6.31826in;height:2.20218in" />
+![Zuordnung Dokumente zu Ereignisse](<img/image250.png>)
 
 Im Ereignis werden der Name des Dokuments und das Dokumentensymbol
 eingefügt. Durch einen Klick mit der Maus können Sie das Dokument in der
@@ -51,9 +43,8 @@ Liste aufrufen.
 
 Wenn Sie die Zuordnung des Dokuments zum Ereignis wieder löschen wollen,
 markieren Sie einfach das bzw. die Dokumente (Mehrfachauswahl ebenfalls
-möglich) und wählen das Symbol für das Löschen der Zuordnung des
-Dokuments zum Ereignis an <img src="img/image251.png"
-style="width:0.22914in;height:0.24997in" />.
+möglich) und wählen das Symbol ![Dokument löschen](</image251.png>) zum Löschen der Zuordnung des
+Dokuments zum Ereignis aus.
 
 ## Versenden von Dokumenten
 
@@ -62,8 +53,7 @@ können Sie sehr einfach per E-Mail versenden.
 
 Abb. 8‑32 Dokumentenverwaltung - Versenden von Dokumenten per E-Mail
 
-<img src="img/image252.png"
-style="width:6.90883in;height:3.03708in" />
+![Dokumente per E-Mail versenden](<img/image252.png>)
 
 Sie markieren das Dokument (Mehrfachauswahl ist möglich – siehe oben),
 dass Sie per E-Mail senden wollen, wählen die rechte Maustaste an und

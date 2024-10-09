@@ -6,8 +6,7 @@ Dokumente.
 
 Abb. 8‑38 Nicht verwaltete Dokumente
 
-<img src="img/image258.png"
-style="width:6.80146in;height:1.83575in" />
+![nicht verwaltete Dokumente](<img/image258.png>)
 
 In diesem Programmteil werden Dokumente angezeigt, die im
 DMS-Datenspeicher vorhanden sind, aber nicht in der Dokumentenliste der

@@ -1,5 +1,3 @@
-## Programmstart
-
 ![Ansicht KIS nach Programmstart](<img/image3.png>)
 
 Unmittelbar nach dem Start des Programmes werden die *Menüeinträge*
@@ -14,23 +12,23 @@ angezeigt. Unter *Extras/Einstellungen* kann die Erstansicht beim Öffnen
 eines Klienten pro Mitarbeiter verändert werden.
 
 ![Erstansicht beim Öffnen des Klienten](<img/image4.png>)
-![Eintragung einer bestehenden Klientennummer](<img/image5.png>)
 
 Nach dem Eintragen der Klientennummer im Suchfeld können Sie die
 *TABULATOR-Taste* und/oder die *RETURN*-Taste bzw. ENTER*-*Taste
 verwenden, um sich den Klienten anzeigen zu lassen.
 
+![Eintragung einer bestehenden Klientennummer](<img/image5.png>)
+
 Wenn Sie im Suchfeld nicht den *Suche nach Klient* Button
 ![Suche nach Klient](<img/image6.png>) anwählen, sondern auf *Suche
 nach Mitarbeiter* ![Suche nach Mitarbeiter](<img/image7.png>) umschalten, können Sie nach
-Mitarbeitern suchen bzw. neue Mitarbeiter anlegen.
+Mitarbeitern suchen bzw. bearbeiten oder in die Stammdaten (RZL Board) wechseln.
 
 ![Auswahl eines Mitarbeiters](<img/image8.png>)
 
 Die Anlage der Mitarbeiterstammdaten erfolgt im RZL Board. Im KIS
 erfolgt die Vergabe von Sichtbarkeitsrechten und die Zuteilung des
-Mitarbeiters zu den Zuständigkeitsbereichen bei den Klienten, die dieser
-Mitarbeiter bearbeitet.
+Mitarbeiters zu den Zuständigkeitsbereichen.
 
 ## Navigation
 
@@ -38,57 +36,32 @@ Innerhalb der einzelnen Programmpunkte des RZL
 Kanzlei-Informations-Systems bewegen Sie sich in der *Navigation*. Im
 Bereich der Navigation verwenden Sie die Maus.
 
-Abb. 3‑5 Ansicht der Navigation I
-
 ![Ansicht der Navigation](<img/image9.png>)
 
 Um auf die einzelnen Programmteile zugreifen zu können, klicken Sie
-entweder auf den Eintrag selbst oder auf das **+** Symbol vor dem
+entweder auf den Eintrag selbst oder auf das **+** vor dem
 Eintrag.
 
 ![Ansicht der Navigation II](<img/image10.png>)
 
 Der Klientenbereich ist aufgeteilt in Aufgaben, Ereignisse,
 FinanzOnline, Dokumente und Stammdaten. Beim soeben geöffneten Klienten
-werden stets die Stammdaten des Klienten angezeigt.
+werden die Stammdaten des Klienten angezeigt.
 
-Die Bewegung innerhalb der Navigation ist einfach und selbsterklärend.
-Wenn bestimmte Einträge angewählt werden, kann es allerdings sein, dass
-Sie vom Programm aufgefordert werden eine Eingabe zu machen
-(Klientennummer, Mitarbeiternummer).
-
-Im Klientenbereich und im Bereich der Mitarbeiter können Einträge nur
-dann gemacht werden, wenn Sie vorher eine Klienten- oder eine
-Mitarbeiternummer eintragen.
+Im Klientenbereich und Mitarbeiterbereich können Einträge nur
+dann gemacht werden, wenn Sie vorher einen Klienten bzw. einen Mitarbeiter öffnen.
 
 ## Menü
 
-Die Anwahl der Programmteile in der Menüleiste entspricht dem
-Windowsstandard.
+### Anzeige der Klientendaten
 
-#### Anzeige der Klientendaten
-
-Wenn Sie im Kanzlei-Informationssystem im *Suchfeld* mit der Einstellung
-*Klient* eine gültige Klientennummer eintragen, wird im rechten Bereich
+Wenn Sie im Kanzlei-Informationssystem im Suchfeld mit der Einstellung
+![Suche nach Klient](<img/image6.png>) eine gültige Klientennummer eintragen, wird im oberen Bereich
 des Bildschirms eine Zusammenfassung der Stammdaten des Klienten
 angezeigt. Im unteren Bereich sehen Sie die zu diesem Klienten erfassten
 Ereignisse.
 
-Abb. 3‑7 Beschreibung der Anzeige der Klientendaten I
-
 ![Beschreibung der Anzeige der Klientendaten I](<img/image11.png>)
-
-Mit dem Buchsymbol neben der Klientenbezeichnung können Notizen zu
-diesem Klienten erfasst werden. Die Notiz kann bzgl. Schriftart,
-Schriftgröße usw. beliebig formatiert werden. Wählt man die Option
-*Notiz beim Öffnen des Klienten anzeigen* an, wird die Notiz beim Öffnen
-des Klienten angezeigt.
-
-Abb. 3‑8 Notizen
-
-![Notizen](<img/image12.png>)
-
-![Beschreibung der Anzeige der Klientenstammdaten II](<img/image13.png>)
 
 Im linken Bereich der Klientenstammdaten werden der Name und die
 Adressen des Klienten angezeigt.
@@ -105,19 +78,28 @@ Anzeige wird in der Verwaltung festgelegt (vgl. Kap. 11.14
 Zuständigkeitsbereich). Unterhalb sehen Sie die Kontaktpersonen des
 Klienten. Die Anlage von Personen erfolgt ebenso im RZL-Board.
 
-#### Briefe schreiben
+![Beschreibung der Anzeige der Klientenstammdaten II](<img/image13.png>)
 
-Abb. 3‑10 Briefe schreiben
+Mit dem Buchsymbol neben der Klientenbezeichnung können Notizen zu
+diesem Klienten erfasst werden. Die Notiz kann bzgl. Schriftart,
+Schriftgröße usw. beliebig formatiert werden. Wählt man die Option
+*Notiz beim Öffnen des Klienten anzeigen* an, wird die Notiz beim Öffnen
+des Klienten angezeigt.
 
-![Briefe schreiben](<img/image14.png>)
+![Notizen](<img/image12.png>)
+
+### Briefe schreiben
 
 Wenn Sie das Brief-Symbol anwählen, können Sie direkt aus dem
 Kanzlei-Informations-System einen Brief (mit Hilfe von Vorlagen)
-erstellen und automatisch als Postausgang speichern. Die genaue
-Vorgehensweise ist im Kapitel 13 *Abläufe* im Punkt 13.1 *Briefe
+erstellen und automatisch als Postausgang speichern.
+
+![Briefe schreiben](<img/image14.png>)
+
+Die genaue Vorgehensweise ist im Kapitel 13 *Abläufe* im Punkt 13.1 *Briefe
 schreiben* erläutert.
 
-#### Einstieg in FinanzOnline – Kopieren der Steuernummer
+### Einstieg in FinanzOnline – Kopieren der Steuernummer
 
 Wenn Sie auf die Finanzamt-Steuernummer klicken, wird automatisch die
 Homepage von FinanzOnline geöffnet. Wenn in der Verwaltung für
@@ -127,20 +109,21 @@ und kommen sofort ins FinanzOnline (**Direkteinstieg**).
 
 Das Kanzlei-Informations-System kopiert die Steuernummer in die
 Windows-Zwischenablage. Wenn Sie innerhalb von FinanzOnline nachfolgend
-für Abfragen wie z. B.: den Steuerakt des Klienten die Steuernummer
+für Abfragen wie z. B. den Steuerakt des Klienten die Steuernummer
 eintragen müssen, geben Sie bitte **NUR** die Tasten­kombination STRG + V
 ein.
 
 Somit wird die Steuernummer automatisch eingetragen und Sie ersparen
 sich das Eintippen.
 
-#### Kopieren von UID-Nummer, Firmenbuchnummer, Sozialversicherungsnummer
+### Kopieren von UID-Nummer, Firmenbuchnummer, Sozialversicherungsnummer
+
+Die UID-Nummer, die Firmenbuchnummer und die Sozialversicherungsnummer
+können durch Anwahl der rechten Maustaste kopiert werden.
 
 ![Nummern kopieren](<img/image15.png>)
 
-Die UID-Nummer, die Firmenbuchnummer und die Sozialversicherungsnummer
-können durch Anwahl der rechten Maustaste kopiert werden. Wenn bei der
-natürlichen Person eine Sozialversicherungsnummer eingetragen ist, wird
+Wenn bei der natürlichen Person eine Sozialversicherungsnummer eingetragen ist, wird
 durch einen Einfachklick mit der Maus (linke Maustaste) das Portal der
 österreichischen Sozialversicherung geöffnet. Mit einem Klick auf die
 Schaltfläche Unternehmensserviceportal werden Sie automatisch über den
@@ -149,7 +132,7 @@ angemeldet. Aufgrund der fehlenden Zwei-Faktor-Authentifizierung
 (Handy-Signatur, Bürgerkarte) stehen Ihnen dabei aber nur eingeschränkte
 Funktionen zur Verfügung.
 
-#### Anruf des Kunden übers KIS
+### Anruf des Kunden übers KIS
 
 Wenn eine Anbindung an eine Telefonanlage existiert und diese
 Telefonanbindung im Kanzlei-Informations-System lizensiert ist, können
@@ -159,7 +142,7 @@ KIS heraus anrufen.
 Zusätzlich öffnet sich automatisch ein Telefonprotokoll, das die
 Gesprächsdauer protokolliert (vgl. Kap. 5.4.1 RZL Telefon Anbindung).
 
-#### E-Mails schreiben
+### E-Mails schreiben
 
 Durch einen Klick auf das Briefsymbol ![Briefsymbol](<img/image17.png>) wird automatisch ein E-Mail
 mit der hinterlegten E-Mail-Adresse als Empfänger-Adresse geöffnet.
@@ -171,13 +154,15 @@ Die genaue Vorgehensweise finden Sie im Kapitel 13 *Abläufe* im Punkt
 !!! info "Tipp" 
     Wenn Sie nach einem Eintrag das ![PfeilnachuntenSymbol](<img/image18.png>) Symbol anwählen können, lassen sich zusätzliche Informationen (weitere Telefonnummern, E-Mail-Adressen) aufrufen und verwenden.
 
-#### Kontaktpersonen
-
-![Kontaktpersonen](<img/image19.png>)
+### Kontaktpersonen
 
 Die Kontaktpersonen werden im rechten Bereich angeführt. Durch Anwahl
 des kleinen Pfeils rechts werden Detaildaten zur Kontaktperson
-angezeigt. Sie können ein E-Mail an die Kontaktperson schicken (vgl.
+angezeigt. 
+
+![Kontaktpersonen](<img/image19.png>)
+
+Sie können ein E-Mail an die Kontaktperson schicken (vgl.
 Kap. 13.3.1 *E-Mail aus dem KIS schreiben*) und erhalten die
 Telefonnummer der Kontaktperson angezeigt.
 
@@ -198,8 +183,6 @@ Die Listen des Kanzlei-Informations-Systems werden nach
 unterschiedlichen Kriterien vor­sortiert. Die Liste der Ereignisse ist
 grundsätzlich nach Datum sortiert. Der aktuellste Eintrag steht ganz
 oben.
-
-Abb. 3‑13 Änderung der Sortierung der Listen
 
 ![Änderung der Sortierung der Listen](<img/image20.png>)
 
@@ -247,8 +230,6 @@ Wenn sich der Cursor innerhalb der Liste befindet, erhalten Sie durch
 Anwahl der rechten Maustaste ein Kontextmenü mit den möglichen
 Funktionen.
 
-Abb. 3‑16 Bearbeiten von Listen - Funktionen
-
 ![Bearbeiten von Listen - Funktionen](<img/image23.png>)
 
 In der oben dargestellten Liste kann die Tabelle in die Zwischenablage
@@ -260,7 +241,7 @@ STRG + C an oder Sie drücken die rechte Maustaste und klicken auf den
 Eintrag *Tabelle in Zwischenablage kopieren*.
 
 Nach dem Kopieren öffnen Sie das Programm, in das Sie die Liste kopieren
-wollen (sehr häufig MS Excel) und wählen die Tastenkombination STRG + V
+wollen und wählen die Tastenkombination STRG + V
 zum Einfügen an.
 
 Eine Beschreibung der Funktion *Ins Archiv verschieben* finden Sie im
@@ -295,11 +276,11 @@ Ereignisliste kann die Mehrfachauswahl nicht verwendet werden.
 
 ## Filterfunktionen
 
-![Filterfunktionen](<img/image25.png>)
-
 Wenn Sie sich in Programmteilen mit Listendarstellung befinden, (hier
 die Liste der Ereignisse im Klientenbereich) sehen Sie im oberen Bereich
 des Bildschirms einen Balken mit der Bezeichnung *Filter*.
+
+![Filterfunktionen](<img/image25.png>)
 
 Wenn Sie mit der Maus auf den Filter-Balken klicken, können Sie einen
 temporären Filter anlegen oder einen gespeicherten Filter öffnen. Filter
@@ -310,8 +291,6 @@ werden. Fixe Filter können in den Navigator gezogen werden (vgl. Kap.
 Die Bedienung der Filterfunktion ist unabhängig von der Liste, die Sie
 gerade bearbeiten, immer gleich. Im unten angeführten Bildschirm wird
 ein temporärer Filter erstellt.
-
-Abb. 3‑19 Anzeige der Filterfunktion
 
 ![Anzeige der Filterfunktion](<img/image26.png>)
 
@@ -374,7 +353,6 @@ nachdem gefiltert werden soll. (vgl. Kap. 3.5 *Filterfunktionen*)
 Im Register *Filter Werte* können mittels Aktivierung der Checkbox
 gleich mehrere Filterbediungen gesetzt werden.
 
-Abb. 3‑25 Filter anlegen II
 
 ![Filter anlegen II](<img/image34.png>)
 

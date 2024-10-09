@@ -18,16 +18,14 @@ täglich die aktuellen Quoten pro Finanzamt für die 1. bis zur 5. Quote.
 
 Abb. 6‑37 Status der Quotenerfüllung
 
-<img src="img/image159.png"
-style="width:7.04722in;height:1.16389in" />
+![Status der Quotenerfüllung](<img/image159.png>)
 
 Diese Informationen werden täglich automatisch aktualisiert und können
 nicht bearbeitet werden.
 
 Abb. 6‑38 Quotenfälle
 
-<img src="img/image160.png"
-style="width:6.85714in;height:2.30216in" />
+![Quotenfälle](<img/image160.png>)
 
 #### Quotenvollmachten
 
@@ -43,8 +41,7 @@ abgabefertig* zur Verfügung.
 
 Abb. 6‑39 Berechnungsdetails
 
-<img src="img/image161.png"
-style="width:6.10417in;height:1.64931in" alt="H:\KIS.png" />
+![Berechnungsdetails](<img/image161.png>)
 
 Im Registerblatt *Berechnungsdetails* werden pro Quote die Anzahl der
 Quotenfälle, die Erklärungen je Quotenzeitraum und die kumulierten
@@ -61,8 +58,7 @@ Aufgaben erstellt werden.
 
 Abb. 6‑40 Quotenplanung
 
-<img src="img/image162.png"
-style="width:6.50316in;height:2.22305in" />
+![Quotenplanung](<img/image162.png>)
 
 Die einzelnen Arbeitsschritte der Quotenplanung werden im Kapitel 6.9
 *Quotenplanung* im Detail beschrieben.
@@ -74,8 +70,7 @@ als letzte Auswahl die Vertretungsliste aufrufen.
 
 Abb. 6‑41 Ansicht Vertretungsliste
 
-<img src="img/image163.png"
-style="width:6.25699in;height:2.56371in" />
+![Ansicht Vertretungsliste](<img/image163.png>)
 
 Sie erhalten eine Ansicht der Klienten die Sie vertreten mit den
 Vollmachten im Detail. Durch den Abruf der Vertretungsliste werden auch

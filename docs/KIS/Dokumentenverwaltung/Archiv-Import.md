@@ -11,8 +11,7 @@ Strukturiertes Dokumentenarchiv* übernehmen.
 
 Abb. 8‑33 Auswahl des Ursprungs-Ordners
 
-<img src="img/image253.png"
-style="width:4.24947in;height:2.93713in" />
+![Auswahl Ordner im Explorer](img src="img/image253.png>)
 
 Als nächsten Schritt müssen Sie die Schaltfläche *Ursprungs-Ordner
 auswählen* anklicken. Sie wählen bitte den Ordner aus, in dem Ihre
@@ -40,8 +39,7 @@ Bildschirm – abgebildete Ordnerstruktur vor.
 
 Abb. 8‑34 Archiv-Import – Beispiel: Ordnerstruktur
 
-<img src="img/image254.png"
-style="width:2.29167in;height:3.36667in" />
+![Archiv Import - Ordnerstruktur Bsp](<img/image254.png>)
 
 Unterhalb des Ursprungsordners mit der Bezeichnung *Klienten* wird
 als 1. Ebene die Klientennummer geführt. Die zweite Ebene bezieht sich
@@ -52,8 +50,7 @@ Kalenderjahre.
 
 Abb. 8‑35 Dokumenten-Archiv übernehmen
 
-<img src="img/image255.png"
-style="width:4.24947in;height:2.93713in" />
+![Dokumenten-Archiv übernehmen](<img/image255.png>)
 
 Für die strukturierte Übernahme der Dokumente in diesem Beispiel muss in
 der ersten Ebene der Eintrag *Klient*, in der zweiten Ebene der Eintrag
@@ -88,8 +85,7 @@ enthalten sind.
 
 Abb. 8‑36 Archiv-Import – Dateinamenstruktur I
 
-<img src="img/image256.png"
-style="width:5in;height:3.45833in" />
+![Archiv Import - Dateinamenstruktur I](<img/image256.png>)
 
 Wenn Sie beispielsweise eine Ordnerstruktur angelegt haben, wo eine
 Unterteilung nach Klienten und Jahr stattfindet, fehlt in dieser
@@ -102,8 +98,7 @@ anzuwählen (siehe oben).
 
 Abb. 8‑37 Archiv-Import – Dateinamenstruktur II
 
-<img src="img/image257.png"
-style="width:5.1in;height:3.53333in" />
+![Archiv Import - Dateinamenstruktur II](<img/image257.png>)
 
 Ein weiteres Beispiel ist die Ablage der Dokumente getrennt nach
 Klientennummern. Die Dateibezeichnungen enthalten die Kategorie und das

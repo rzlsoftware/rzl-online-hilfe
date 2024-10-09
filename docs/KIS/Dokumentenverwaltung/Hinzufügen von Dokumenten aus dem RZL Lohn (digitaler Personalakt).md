@@ -15,16 +15,14 @@ Die Funktionen innerhalb dieser Liste sind mit den Funktionen der
 
 Abb. 8‑14 Digitaler Personalakt in allen drei Ebenen
 
-<img src="img/image231.png"
-style="width:6.81995in;height:2.9597in" />
+![digitaler Personalakt](<img/image231.png>)
 
 Im Detail der Dokumente erkennen Sie die Lohn-Dokumente stets am
 Dokumentbereich: *Lohn- u. Gehaltsverrechnung.*
 
 Abb. 8‑15 Dokumentbereich: Lohn- u. Gehaltsverrechnung
 
-<img src="img/image232.png"
-style="width:5.76667in;height:2.1in" />
+![Dokumentbereich](<img/image232.png>)
 
 Innerhalb der Liste der *Dienstnehmer-Dokumente* haben Sie die
 Möglichkeit einen Filter auf einen Dienstnehmer zu setzen um sich alle
@@ -32,8 +30,7 @@ Lohn relevanten Dokumente für diesen Dienstnehmer anzuzeigen.
 
 Abb. 8‑16 Digitaler Personalakt DN-Dokumente
 
-<img src="img/image233.png"
-style="width:7.04722in;height:3.00139in" />
+![DN Dokumente](<img/image233.png>)
 
 ### ELDA-Dokumente aus RZL Lohn hinzufügen
 
@@ -44,13 +41,11 @@ abspeichern möchten.
 
 Abb. 8‑17 ELDA-Export KIS I
 
-<img src="img/image234.png"
-style="width:6.14117in;height:3.3774in" />
+![Elda Export KIS I](<img/image234.png>)
 
 Abb. 8‑18 ELDA-Export KIS II
 
-<img src="img/image235.png"
-style="width:4.49167in;height:2.74167in" />
+![Elda Export KIS II](<img/image235.png>)
 
 Im Kanzleiinformationssystem kann unter *Verwaltung/ELDA-Zuweisungen*
 festgelegt werden unter welcher Kategorie und mit welchem Thema die
@@ -58,8 +53,7 @@ ELDA-Dokumente abgelegt werden sollen.
 
 Abb. 8‑19 ELDA-Zuweisungen Kanzleiinformationssystem
 
-<img src="img/image236.png"
-style="width:4.09293in;height:3.2278in" />
+![Elda Zuweisungen](<img/image236.png>)
 
 ### Andere Dokumente aus RZL Lohn hinzufügen
 
@@ -71,8 +65,7 @@ unter die Lohn-Dokumente wird hier bereits automatisch vorgeschlagen.
 
 Abb. 8‑20 Dokumente aus dem PDF-Manager/Drucker hinzufügen
 
-<img src="img/image237.png"
-style="width:6.81785in;height:4.00082in" />
+![Dokumente aus PDF Manager hinzufügen](<img/image237.png>)
 
 ### Lohn Dokumente aus dem Explorer/MS-Office Programmen hinzufügen
 
@@ -83,8 +76,7 @@ Dokumentbereich *Lohn- u. Gehaltsverrechnung* (**1**) auswählen.
 
 Abb. 8‑21 Dokumente aus dem Explorer/MS-Office Programmen hinzufügen
 
-<img src="img/image238.png"
-style="width:6.50976in;height:1.40356in" />
+![Dokumente aus dem Explorer/MS Office hinzufügen](<img/image238.png>)
 
 ### Lohn Dokumente aus Klientenportal hinzufügen
 
@@ -101,8 +93,7 @@ Lohn- bzw. der Dienstnehmer-Dokumente einschränken.
 
 Abb. 8‑22 Sichtbarkeiten der Lohn-bzw. Dienstnehmer-Dokumente
 
-<img src="img/image239.png"
-style="width:5.38552in;height:2.23052in" />
+![Sichtbarkeit der Lohn/DN Dokumente](<img/image239.png>)
 
 <table>
 <colgroup>
@@ -122,9 +113,6 @@ Dienstnehmer-Dokumente</th>
 <td><p>Der Mitarbeiter hat Zugriff auf die Lohn- bzw.
 Dienstnehmer-Dokumente der Klienten, für die dieser laut der Zuordnung
 Zuständigkeiten auch zuständig ist.</p>
-<p>Abb. 8‑23 Sichtbarkeit aufgrund Zuständigkeitsbereich für LOHN</p>
-<p><img src="img/image240.png"
-style="width:4.91744in;height:1.38586in" /></p></td>
 </tr>
 <tr>
 <td>Aufgrund Berechtigung ‘Dokumente anzeigen’</td>

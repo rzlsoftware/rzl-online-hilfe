@@ -16,8 +16,7 @@ beschrieben.
 
 Abb. 8‑5 Dokumentenverwaltung – Dokumente hinzufügen
 
-<img src="img/image221.png"
-style="width:6.89615in;height:3.77562in" />
+![Dokumente hinzufügen](<img/image221.png>)
 
 Sie können sich hier innerhalb Ihrer Ordnerstruktur wie vom Windows
 Explorer gewohnt bewegen. Zusätzlich können Sie auf sogenannte
@@ -25,8 +24,7 @@ Scanordner zugreifen (vgl. Kap. 11.11 *Scanordner*).
 
 Abb. 8‑6 Hinzufügen per Drag&Drop
 
-<img src="img/image222.png"
-style="width:6.28519in;height:2.58084in" />
+![Hinzufügen per Drag&Droß](<img/image222.png>)
 
 Wenn Sie das Dokument gefunden haben das hinzugefügt werden soll, können
 Sie dieses durch einen Doppelklick mit der Maus oder durch Drag & Drop
@@ -55,8 +53,7 @@ anwählen, wird das markierte Dokument in das Kanzlei-Informations-System
 
 Abb. 8‑7 Hinzugefügte Dokumente wieder entfernen
 
-<img src="img/image223.png"
-style="width:5.23164in;height:3.67163in" />
+![Dokumente entfernen](<img/image223.png>)
 
 Wenn das Dokument nicht ins KIS übernommen werden soll, können Sie die
 rechte Maustaste oder die Entf-Taste anwählen. Nachfolgend erhalten Sie
@@ -64,8 +61,7 @@ folgende Abfrage.
 
 Abb. 8‑8 Hinzugefügte Dokumente – Ursprungszustand wiederherstellen
 
-<img src="img/image224.png"
-style="width:3.72917in;height:1.46372in" />
+![Ursprungszustand von Dokument wiederherstellen](<img/image224.png>)
 
 Wenn Sie diese Abfrage mit *Ja* bestätigen wird die Änderung des
 Dateinamens (ins KIS übernommen) wieder rückgängig gemacht.
@@ -88,8 +84,7 @@ Eintrag *Scanordner auswählen*.
 
 Abb. 8‑9 Dokumenten-Übernahme Scan-Ordner
 
-<img src="img/image225.png"
-style="width:4.8474in;height:1.54236in" />
+![Dokumente mit Sanordner hinzufügen](<img/image225.png>)
 
 Dokumente die Sie aus diesen – in der Verwaltung festgelegten –
 Scanordner übernommen werden, werden bei der Übernahme nicht umbenannt,
@@ -108,8 +103,7 @@ Klienten im Zuge des Hochladens eine Nachricht mit übermitteln.
 
 Abb. 8‑10 Dokumente auf das Klientenportal hochladen
 
-<img src="img/image226.png"
-style="width:5.58124in;height:2.08444in" />
+![Dokumente auf Kliport hochladen](<img/image226.png>)
 
 ## Hinzufügen von Dokumenten als Posteingang/Postausgang
 
@@ -126,8 +120,7 @@ ausfüllen, sondern auch die Felder für die Ereignisse *Posteingang* und
 
 Abb. 8‑11 Dokumente als Postausgang/Posteingang hinzufügen
 
-<img src="img/image227.png"
-style="width:6.84128in;height:3.74086in" />
+![Dokumente als Postein/Postausgang hinzufügen](<img/image227.png>)
 
 Der Vorteil dieser Vorgehensweise liegt darin, dass die Felder für den
 Postausgang bzw. Posteingang sofort ausgefüllt werden können und das
@@ -139,8 +132,7 @@ Ereignis hinzugefügt werden muss.
 
 Abb. 8‑12 Dokumente als Postausgang/Posteingang hinzufügen
 
-<img src="img/image228.png"
-style="width:6.6191in;height:3.0219in" />
+![Aufgabe in Dokukmentendetails erstellen](<img/image228.png>)
 
 Wenn Sie innerhalb der Details die rechte Maustaste anwählen, können Sie
 innerhalb der Dokumentendetails eine Aufgabe erstellen (vgl. Kap. 4
@@ -162,16 +154,14 @@ versendet und in die Dokumentenverwaltung importiert werden.
 
 Abb. 8‑13 RZL PDF-Manager Premium – Dokument hinzufügen
 
-<img src="img/image229.png"
-style="width:6.47059in;height:4.28737in" />
+![Dokument über PDF Manager hinzufügen](<img/image229.png>)
 
 Sie können mithilfe des RZL PDF-Manager Premium die für den
 Dokumentenimport in die Dokumentenverwaltung im KIS notwendigen Felder
 pauschal über alle ausgewählten Dokumente vergeben. Mit einem Klick auf
 die Schaltfläche KIS im Header öffnet sich der Exportdialog.
 
-<img src="img/image230.png"
-style="width:4.36021in;height:2.01442in" />
+![Exportdialog](<img/image230.png>)
 
 Beim Export in das KIS kann hier noch zusätzlich ein KIS Posteingang
 erfasst werden.

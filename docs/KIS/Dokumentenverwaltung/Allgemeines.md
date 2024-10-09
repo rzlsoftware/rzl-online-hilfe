@@ -2,8 +2,7 @@
 
 Abb. 8‑1 Dokumentenverwaltung - Kanzleiliste
 
-<img src="img/image215.png"
-style="width:6.79036in;height:2.18405in" />
+![Kanzleiliste](<img/image215.png>)
 
 Die neue Dokumentenliste kann mit großen Datenmengen umgehen und wurde
 vom User-Interface her an das RZL Board angepasst.
@@ -47,8 +46,7 @@ den Eintrag *Detail Ansicht* (siehe Bildschirm unten).
 
 Abb. 8‑2 Dokumentenverwaltung – Liste klientenbezogen
 
-<img src="img/image216.png"
-style="width:6.41412in;height:2.5118in" />
+![Dokumentenverwaltung](<img/image216.png>)
 
 #### Titel
 
@@ -140,8 +138,7 @@ Dieses Feld zeigt Ihnen, wer das Dokument in die Dokumentenverwaltung
 
 Abb. 8‑3 Dokumentenverwaltung Aufgaben/Ereignis-Zuordnung
 
-<img src="img/image217.png"
-style="width:4.42455in;height:0.54218in" />
+![Aufgaben/Ereignis Zuordnung](<img/image217.png>)
 
 In der Detailansicht der Dokumente rechts unten wird angezeigt ob
 Aufgaben oder Ereignisse zuordnet sind. Diese Zuordnungen erfolgen in
@@ -152,17 +149,13 @@ zugeordnete Aufgabe aufgerufen.
 
 Abb. 8‑4 Dokumentenverwaltung – Aufruf zugeordnetes Ereignis
 
-<img src="img/image218.png"
-style="width:4.68691in;height:1.28109in" />
+![Aufruf zugeordnetes Ereignis](<img/image218.png>)
 
 Durch Anwahl der Zeile wird das Ereignis oder die Aufgabe geöffnet. Wenn
-Sie auf <img src="img/image219.png"
-style="width:0.22914in;height:0.24997in" /> klicken, können Sie bereits
+Sie auf ![Ereignis Plus Symbol](<img/image219.png>) klicken, können Sie bereits
 angelegte Ereignisse hinzufügen. Wenn Sie auf
-<img src="img/image60.png"
-style="width:0.22914in;height:0.24997in" /> klicken, wird die Zuordnung
-gelöscht. Durch Klick auf <img src="img/image220.png"
-style="width:0.22914in;height:0.24997in" /> können Sie ein Ereignis
+![Ereignis Kreuz Symbol](<img/image60.png>) klicken, wird die Zuordnung
+gelöscht. Durch Klick auf ![Ereignis Neu Symbol](<img/image220.png>) können Sie ein Ereignis
 **neu** anlegen.
 
 Innerhalb der Aufgabenzuordnung finden Sie dieselben Möglichkeiten wie

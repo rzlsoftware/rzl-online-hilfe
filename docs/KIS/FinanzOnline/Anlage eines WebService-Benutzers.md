@@ -9,8 +9,7 @@ Benutzer Einzeln* an.
 
 Abb. 6‑42 Anforderung von Benutzerdaten
 
-<img src="img/image164.png"
-style="width:6.11667in;height:2.00833in" />
+![Anforderung Benutzerdaten](<img/image164.png>)
 
 Tragen Sie die gewünschte Benutzer-Identifikation ein und aktivieren Sie
 das Feld *Ich möchte einen neuen Benutzer hinzufügen*. Anschließend
@@ -18,16 +17,14 @@ wählen Sie bitte die Schaltfläche Anfordern an.
 
 Abb. 6‑43 Verwaltung der Benutzerdaten I
 
-<img src="img/image165.png"
-style="width:4.99167in;height:2.5in" />
+![Verwaltung der Benutzerdaten I](<img/image165.png>)
 
 Klicken Sie bitte auf die Schaltfläche *Benutzerkennung/Benutzerarten*
 (**1**).
 
 Abb. 6‑44 Verwaltung der Benutzerdaten II
 
-<img src="img/image166.png"
-style="width:6.125in;height:4.525in" />
+![Verwaltung der Benutzerdaten II](<img/image166.png>)
 
 Vergeben Sie den Benutzernamen und den PIN. Nachfolgend setzen Sie die
 Einstellung *Benutzer für WebService* auf und bestätigen Sie mit der
@@ -35,16 +32,14 @@ Schaltfläche *Weiter*.
 
 Abb. 6‑45 Daten prüfen
 
-<img src="img/image167.png"
-style="width:5.96667in;height:6.94167in" />
+![Daten prüfen](<img/image167.png>)
 
 Klicken Sie bitte auf die Schaltfläche *Daten prüfen* im linken unteren
 Bereich der Seite.
 
 Abb. 6‑46 Datenkorb I
 
-<img src="img/image168.png"
-style="width:6.125in;height:3.91667in" />
+![Datenkorb I](<img/image168.png>)
 
 Überprüfen Sie Ihre Eingabe und bestätigen Sie diese durch Anwahl der
 Schaltfläche *Speichern*.

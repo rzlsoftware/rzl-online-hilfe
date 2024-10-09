@@ -12,8 +12,7 @@ bestimmten Ablauf.
 
 Abb. 5‑6 Erfassung eines Posteingangs
 
-<img src="img/image100.png"
-style="width:6.80208in;height:2.72472in" />
+![Erfassung Postsausgang](<img/image100.png>)
 
 #### Laufende Nummer
 
@@ -73,8 +72,7 @@ Stammdaten vorge­schlagen.
 
 Abb. 5‑7 Adressen auswählen
 
-<img src="img/image101.png"
-style="width:3.71132in;height:0.34049in" />
+![Adressen auswählen](<img/image101.png>)
 
 Durch Anwahl des kleinen Symbols neben dem Bereich *Absender* können die
 beim Klienten gespeicherten Adressen aufgerufen und ausgewählt werden.
@@ -145,7 +143,7 @@ ein E-Mail aus dem Posteingang von Outlook übernommen wurde (vgl. Kap.
 
 Abb. 5‑8 Verknüpfung Postausgang - Dokument
 
-<img src="img/image102.png" style="width:4.15in;height:0.6in" />
+![Verknüpfung Postausgang - Dokument](<img/image102.png>)
 
 Die Beschreibung der Verknüpfung von Dokumenten mit Ereignissen finden
 Sie im Kap. 7.8 *Verknüpfung von Dokumenten mit Ereignissen*.
@@ -156,8 +154,7 @@ versenden.
 
 Abb. 5‑9 Dokumente per E-Mail versenden
 
-<img src="img/image103.png"
-style="width:4.13333in;height:1.50833in" />
+![Dokumente per E-Mail versenden](<img/image103.png>)
 
 Durch Anwahl des Eintrags *Versenden* werden die beim Klienten
 gespeicherten E-Mail-Adressen vorgeschlagen.
@@ -171,8 +168,7 @@ die Schaltfläche *Neuer Postausgang*.
 
 Abb. 5‑3 Erfassung eines Postausgangs
 
-<img src="img/image96.png"
-style="width:6.75443in;height:2.76042in" />
+![Erfassung eines Postausgangs](<img/image96.png>)
 
 Hinweis
 
@@ -235,8 +231,7 @@ Ereignissen zu Klienten – Klientenmehrfachzuordnung.*
 Als Empfänger wird der eingetragene Klient mit den gespeicherten
 Stammdaten vorgeschlagen.
 
-<img src="img/image97.png"
-style="width:4.41611in;height:1.09361in" />
+![Symbol bei Empfänger](<img/image97.png>)
 
 Durch Anwahl des kleinen Symbols neben dem Bereich *Empfänger* können
 die beim Klienten gespeicherten Adressen aufgerufen und ausgewählt
@@ -320,8 +315,7 @@ beispielsweise ein Brief oder ein E-Mail aus dem KIS geschrieben wurde
 
 Abb. 5‑4 Verknüpfung Postausgang - Dokument
 
-<img src="img/image98.png"
-style="width:4.14777in;height:0.50666in" />
+![Verknüpfung Postausgang - Dokument](<img/image98.png>)
 
 Die Beschreibung der Verknüpfung von Dokumenten mit Ereignissen finden
 Sie im Kap. 7.8 *Verknüpfung von Dokumenten mit Ereignissen*.
@@ -332,8 +326,7 @@ versenden.
 
 Abb. 5‑5 Dokumente per E-Mail versenden
 
-<img src="img/image99.png"
-style="width:4.45515in;height:1.44792in" />
+![Dokumente per E-Mail versenden](<img/image99.png>)
 
 Durch Anwahl des Eintrags *Versenden* werden die beim Klienten
 gespeicherten E-Mail-Adressen vorgeschlagen.

@@ -10,8 +10,7 @@ des Auswahlfeldes angezeigt werden kann, so wird am Ende „…“ angezeigt.
 
 Abb. 5‑19 Mehrfachzuordnung Klienten
 
-<img src="img/image111.png"
-style="width:3.32531in;height:2.51917in" />
+![Mehrfachzuordnung Klienten](<img/image111.png>)
 
 #### Listenansicht
 
@@ -20,8 +19,7 @@ aneinandergereiht in den jeweiligen Spalten dargestellt.
 
 Abb. 5‑20 Klientenzuordnung - Listenansicht
 
-<img src="img/image112.png"
-style="width:6.59375in;height:0.67965in" />
+![Klientenzuordnung - Listenansicht](<img/image112.png>)
 
 Mittels des kleinen Dreiecks (**1**) am Beginn der Zeile gibt es die
 Möglichkeit, die Zeile aufzuklappen. Die zugeordneten Klienten werden
@@ -29,8 +27,7 @@ untereinander dargestellt.
 
 Abb. 5‑21 Klientenzuordnung - Listenansicht
 
-<img src="img/image113.png"
-style="width:4.26944in;height:1.17874in" />
+![Klientenzuordnung - Listenansicht](<img/image113.png>)
 
 Umgekehrt kann mit (**2**) die Zeile wieder zugeklappt werden.
 
@@ -41,8 +38,7 @@ und die erste „leere“ Zeile (**3**) auswählen.
 
 Abb. 5‑22 Klientenmehrfachzuordnung – Auswahl löschen
 
-<img src="img/image114.png"
-style="width:3.65682in;height:2.43788in" />
+![Klientenmehrfachzuordnung - Auswahl löschen](<img/image114.png>)
 
 #### Auswahl erweitern/beschränken
 
@@ -60,8 +56,7 @@ Einträge einschränken (vgl. Kap. 3.5 Filterfunktionen).
 
 Abb. 5‑17 Archivierung von Ereignissen
 
-<img src="img/image109.png"
-style="width:6.27083in;height:3.21505in" />
+![Archivierung von Ereignissen](<img/image109.png>)
 
 Zunächst markieren Sie die Einträge die archiviert werden sollen und
 wählen anschließend die rechte Maustaste und den Eintrag *Ins Archiv
@@ -76,8 +71,7 @@ werden.
 
 Abb. 5‑18 Aus dem Archiv wiederherstellen
 
-<img src="img/image110.png"
-style="width:5.86458in;height:2.74264in" />
+![Aus dem Archiv wiederherstellen](<img/image110.png>)
 
 Die im Eintrag *Archiv* gespeicherten Einträge können einzeln markiert
 und durch Anwahl der rechten Maustaste und des Eintrags *Aus dem Archiv

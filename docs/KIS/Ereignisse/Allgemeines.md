@@ -27,8 +27,7 @@ ist in allen drei Bereichen gleich.
 
 Abb. 5‑1 Kanzlei Ereignisse
 
-<img src="img/image94.png"
-style="width:5.98587in;height:3.24127in" />
+![Kanzlei Ereignisse ](<img/image94.png>)
 
 Für die Handhabung der Listen (hier Liste mit den Kanzleiereignissen)
 lesen Sie bitte im Kapitel 3 *Allgemeine neue Programmbedienung* nach.
@@ -37,8 +36,7 @@ Listengestaltung* und 3.5 *Filterfunktionen*.
 
 Abb. 5‑2 Ereignisliste drucken
 
-<img src="img/image95.png"
-style="width:5.85648in;height:2.11798in" />
+![Ereignisliste drucken](<img/image95.png>)
 
 Wenn Sie innerhalb der Ereignisliste die rechte Maustaste anwählen, wird
 ein Kontextmenü aufgerufen, das Ihnen die Kopie der Liste in die
@@ -69,8 +67,7 @@ die Schaltfläche *Neuer Postausgang*.
 
 Abb. 5‑3 Erfassung eines Postausgangs
 
-<img src="img/image96.png"
-style="width:6.75443in;height:2.76042in" />
+![Erfassung eines Postausgangs](<img/image96.png>)
 
 Hinweis
 
@@ -133,8 +130,7 @@ Ereignissen zu Klienten – Klientenmehrfachzuordnung.*
 Als Empfänger wird der eingetragene Klient mit den gespeicherten
 Stammdaten vorgeschlagen.
 
-<img src="img/image97.png"
-style="width:4.41611in;height:1.09361in" />
+![Empfänger](<img/image97.png>)
 
 Durch Anwahl des kleinen Symbols neben dem Bereich *Empfänger* können
 die beim Klienten gespeicherten Adressen aufgerufen und ausgewählt
@@ -218,8 +214,7 @@ beispielsweise ein Brief oder ein E-Mail aus dem KIS geschrieben wurde
 
 Abb. 5‑4 Verknüpfung Postausgang - Dokument
 
-<img src="img/image98.png"
-style="width:4.14777in;height:0.50666in" />
+![Verknüpfung Postausgang - Dokument](<img/image98.png>)
 
 Die Beschreibung der Verknüpfung von Dokumenten mit Ereignissen finden
 Sie im Kap. 7.8 *Verknüpfung von Dokumenten mit Ereignissen*.
@@ -230,8 +225,7 @@ versenden.
 
 Abb. 5‑5 Dokumente per E-Mail versenden
 
-<img src="img/image99.png"
-style="width:4.45515in;height:1.44792in" />
+![Dokumente per E-Mail versenden](<img/image99.png>)
 
 Durch Anwahl des Eintrags *Versenden* werden die beim Klienten
 gespeicherten E-Mail-Adressen vorgeschlagen.
@@ -250,8 +244,7 @@ bestimmten Ablauf.
 
 Abb. 5‑6 Erfassung eines Posteingangs
 
-<img src="img/image100.png"
-style="width:6.80208in;height:2.72472in" />
+![Erfassung eines Posteingangs](<img/image100.png>)
 
 #### Laufende Nummer
 
@@ -311,8 +304,7 @@ Stammdaten vorge­schlagen.
 
 Abb. 5‑7 Adressen auswählen
 
-<img src="img/image101.png"
-style="width:3.71132in;height:0.34049in" />
+![Adressen auswählen](<img/image101.png>)
 
 Durch Anwahl des kleinen Symbols neben dem Bereich *Absender* können die
 beim Klienten gespeicherten Adressen aufgerufen und ausgewählt werden.
@@ -383,7 +375,7 @@ ein E-Mail aus dem Posteingang von Outlook übernommen wurde (vgl. Kap.
 
 Abb. 5‑8 Verknüpfung Postausgang - Dokument
 
-<img src="img/image102.png" style="width:4.15in;height:0.6in" />
+![Verknüpfung Postausgang - Dokument](<img/image102.png>)
 
 Die Beschreibung der Verknüpfung von Dokumenten mit Ereignissen finden
 Sie im Kap. 7.8 *Verknüpfung von Dokumenten mit Ereignissen*.
@@ -394,8 +386,7 @@ versenden.
 
 Abb. 5‑9 Dokumente per E-Mail versenden
 
-<img src="img/image103.png"
-style="width:4.13333in;height:1.50833in" />
+![Dokumente per E-Mail versenden](<img/image103.png>)
 
 Durch Anwahl des Eintrags *Versenden* werden die beim Klienten
 gespeicherten E-Mail-Adressen vorgeschlagen.
@@ -414,8 +405,7 @@ klicken Sie bitte auf die Schaltfläche *Neues Telefonprotokoll*.
 
 Abb. 5‑10 Erfassung eines Telefonprotokolls
 
-<img src="img/image104.png"
-style="width:6.66667in;height:2.6875in" />
+![Erfassung Telefonprotokoll](<img/image104.png>)
 
 TIpp
 
@@ -527,15 +517,13 @@ dem Telefonprotokoll zuordnen.
 
 Abb. 5‑11 Verknüpfung Telefonprotokoll – Dokument
 
-<img src="img/image105.png"
-style="width:2.02058in;height:0.69783in" />
+![Verknüpfung Telefonprotokoll - Dokument](<img/image105.png>)
 
 Sie klicken zunächst auf die Schaltfläche *Keine Dokumente zugeordnet*.
 
 Abb. 5‑12 Dokumente zuordnen
 
-<img src="img/image106.png"
-style="width:4.40958in;height:1.18834in" />
+![Dokumente zuordnen](<img/image106.png>)
 
 Wenn Sie das Symbol mit dem **+**-Zeichen anwählen, können Sie Dokumente
 hinzufügen. Das Symbol mit dem roten Kreuz löscht die Zuordnung des
@@ -556,8 +544,7 @@ Telefonnummer, indem die Telefonnummer mit der Maus angeklickt wird.
 
 Abb. 5‑13 Erfassung eines Telefonats im Kanzleibereich
 
-<img src="img/image107.png"
-style="width:5.11567in;height:3.34726in" />
+![Erfassung eines Telefonats im Kanzleibereich](<img/image107.png>)
 
 Anschließend wird der oben angeführten Bildschirm geöffnet.
 Gesprächsbeginn und Ende werden automatisch protokolliert. Nach Vornahme
@@ -581,8 +568,7 @@ Um ein neues Memo zu erfassen, klicken Sie bitte auf die Schaltfläche
 
 Abb. 5‑14 Erfassung eines Memos
 
-<img src="img/image108.png"
-style="width:6.79003in;height:2.17324in" />
+![Erfassung eines Memos](<img/image108.png>)
 
 #### Datum
 
@@ -664,15 +650,13 @@ Telefonprotokoll zuordnen.
 
 Abb. 5‑15 Verknüpfung Memo – Dokument
 
-<img src="img/image105.png"
-style="width:2.02058in;height:0.69783in" />
+![Verknüpfung Memo - Dokument](<img/image105.png>)
 
 Sie klicken zunächst auf die Schaltfläche *Keine Dokumente zugeordnet*.
 
 Abb. 5‑16 Dokumente zuordnen
 
-<img src="img/image106.png"
-style="width:4.95541in;height:1.33544in" />
+![Dokumente zuordnen](<img/image106.png>)
 
 Wenn Sie das Symbol mit dem **+**-Zeichen anwählen, können Sie Dokumente
 hinzufügen. Das Symbol mit dem roten Kreuz löscht die Zuordnung des
@@ -693,8 +677,7 @@ Einträge einschränken (vgl. Kap. 3.5 Filterfunktionen).
 
 Abb. 5‑17 Archivierung von Ereignissen
 
-<img src="img/image109.png"
-style="width:6.27083in;height:3.21505in" />
+![Archivierung von Ereignissen](<img/image109.png>)
 
 Zunächst markieren Sie die Einträge die archiviert werden sollen und
 wählen anschließend die rechte Maustaste und den Eintrag *Ins Archiv
@@ -709,8 +692,7 @@ werden.
 
 Abb. 5‑18 Aus dem Archiv wiederherstellen
 
-<img src="img/image110.png"
-style="width:5.86458in;height:2.74264in" />
+![Aus dem Archiv wiederherstellen](<img/image110.png>)
 
 Die im Eintrag *Archiv* gespeicherten Einträge können einzeln markiert
 und durch Anwahl der rechten Maustaste und des Eintrags *Aus dem Archiv
@@ -729,8 +711,7 @@ des Auswahlfeldes angezeigt werden kann, so wird am Ende „…“ angezeigt.
 
 Abb. 5‑19 Mehrfachzuordnung Klienten
 
-<img src="img/image111.png"
-style="width:3.32531in;height:2.51917in" />
+![Mehrfachzuordnung Klienten](<img/image111.png>)
 
 #### Listenansicht
 
@@ -739,8 +720,7 @@ aneinandergereiht in den jeweiligen Spalten dargestellt.
 
 Abb. 5‑20 Klientenzuordnung - Listenansicht
 
-<img src="img/image112.png"
-style="width:6.59375in;height:0.67965in" />
+![Klientenzuordnung - Listenansicht](<img/image112.png>)
 
 Mittels des kleinen Dreiecks (**1**) am Beginn der Zeile gibt es die
 Möglichkeit, die Zeile aufzuklappen. Die zugeordneten Klienten werden
@@ -748,8 +728,7 @@ untereinander dargestellt.
 
 Abb. 5‑21 Klientenzuordnung - Listenansicht
 
-<img src="img/image113.png"
-style="width:4.26944in;height:1.17874in" />
+![Klientenzuordnung - Listenansicht II](<img/image113.png>)
 
 Umgekehrt kann mit (**2**) die Zeile wieder zugeklappt werden.
 
@@ -760,8 +739,7 @@ und die erste „leere“ Zeile (**3**) auswählen.
 
 Abb. 5‑22 Klientenmehrfachzuordnung – Auswahl löschen
 
-<img src="img/image114.png"
-style="width:3.65682in;height:2.43788in" />
+![Klientenmehrfachzuordnung - Auswahl löschen](<img/image114.png>)
 
 #### Auswahl erweitern/beschränken
 

@@ -12,8 +12,7 @@ Die Anforderung von WiEReG-Auszügen können Sie über den Menüpunkt
 
 Abb. 7‑11 Portale - USP
 
-<img src="img/image191.png"
-style="width:4.39528in;height:1.82269in" />
+![USP](<img/image191.png>)
 
 ### Auszüge manuell anfordern
 
@@ -22,8 +21,7 @@ Möglichkeit manuell vier verschiedene Arten von Auszügen anzufordern.
 
 Abb. 7‑12 Portale – Auszug anfordern
 
-<img src="img/image192.png"
-style="width:4.52027in;height:2.33304in" />
+![Auszug anfordern I](<img/image192.png>)
 
 **  
 **
@@ -60,8 +58,7 @@ auf den Button *Auszug abrufen* abrufen.
 
 Abb. 7‑13 Eingabe Stammzahl
 
-<img src="img/image193.png"
-style="width:4.08333in;height:1.69167in" />
+![Eingabe Stammzahl](<img/image193.png>)
 
 In den Klientenstammdaten unter dem Register *WiEReG* haben Sie über die
 Schaltfläche *Auszug anfordern* ebenso die Möglichkeit einen Auszug für
@@ -70,8 +67,7 @@ Stammzahl erforderlich.
 
 Abb. 7‑14 Klientenstamm – Auszug anfordern
 
-<img src="img/image194.png"
-style="width:5.3702in;height:2.9655in" />
+![Auszug anfordern II](<img/image194.png>)
 
 Die angeforderten Auszüge sind anschließend im Board unter den
 Klientenstammdaten im Register *WiEReG* mit einem Klick auf den Button
@@ -83,8 +79,7 @@ Kanzleiinformationssystems aufrufen.
 
 Abb. 7‑15 KIS – Auszüge in Dokumente
 
-<img src="img/image195.png"
-style="width:6.92917in;height:2.46042in" />
+![Auszug in Dokumente](<img/image195.png>)
 
 ### Auszüge automatisch anfordern
 
@@ -102,19 +97,14 @@ Meldung.
 
 Abb. 7‑16 Portale – WiEReG Klienten
 
-<img src="img/image196.png"
-style="width:5.37019in;height:2.51502in" />
+![WiEReG Klienten](<img/image196.png>)
 
-<img src="img/image197.png"
-style="width:0.33125in;height:0.39514in" />
-
-Über einen Klick auf den Button *Klienten zuordnen* kommen Sie in die
+Über den Button ![Klienten zuordnen](<img/image197.png>) kommen Sie in die
 Zuordnung der Klienten für den automatischen Abruf des Auszuges.
 
 Abb. 7‑17 Klienten für den automatischen Abruf des Auszugs zuordnen
 
-<img src="img/image198.png"
-style="width:5.20555in;height:3.50741in" />
+![Klienten für autom Abruf zuordnen](<img/image198.png>)
 
 Wählen Sie einen Klienten in der Liste aus können Sie mit Hilfe der
 Schaltfläche *Auszugsart wählen* festlegen welche Art von Auszug bei
@@ -123,8 +113,7 @@ wieder entfernen.
 
 Abb. 7‑18 Auszugsart wählen
 
-<img src="img/image199.png"
-style="width:2.40833in;height:1.64583in" />
+![Auszugsart wählen](<img/image199.png>)
 
 Über den Button *Bei Signal des Änderungsdienstes* können Sie bei dem
 jeweilig ausgewählten Klienten definieren, ob ein Auszug bei einer
@@ -133,8 +122,7 @@ gesetzter Abruf aufgehoben werden soll.
 
 Abb. 7‑19 Bei Signal des Änderungsdienstes
 
-<img src="img/image200.png"
-style="width:3.3625in;height:2.50833in" />
+![Signal des Änderungsdienstes](<img/image200.png>)
 
 Mit einem Klick auf die Schaltfläche *Jährlich zu einem bestimmten Datum
 / Datum setzen* kann unabhängig von der Einstellung beim Abruf bei
@@ -146,15 +134,13 @@ werden.
 
 Abb. 7‑20 Jährlich zu einem bestimmten Datum
 
-<img src="img/image201.png"
-style="width:3.34167in;height:2.7125in" />
+![jährl zu einem bestimmten Datum](<img/image201.png>)
 
 Im folgenden Dialog kann der jeweilige Tag definiert werden.
 
 Abb. 7‑21 Tag und Monat definieren
 
-<img src="img/image202.png"
-style="width:3.125in;height:1.61667in" />
+![Tag und Monat definieren](<img/image202.png>)
 
 Die oben beschriebenen Einstellungen zur Festlegung der Art des Auszuges
 und der Aktivierung der Abfrage des Auszuges bei Signal des
@@ -165,13 +151,9 @@ vorgenommen werden.
 
 Abb. 7‑22 Klientenstamm – Art des Auszugs hinterlegen
 
-<img src="img/image203.png"
-style="width:5.9725in;height:1.90584in" />
+![Art des Auszugs hinterlegen](<img/image203.png>)
 
-### <img src="img/image204.png"
-style="width:0.42222in;height:0.33194in" />Protokoll Abruf Auszüge
-
-Über den Button *Protokoll Abruf Auszüge* im Bereich Portale im RZL
+Über ![Protokoll Abruf Auszüge](<img/image204.png>) im Bereich Portale im RZL
 Board öffnet sich das Abrufprotokoll zu allen bisher durchgeführten
 Abrufen von Auszügen aus dem RZL Board. Hier wird aufgelistet welcher
 Mitarbeiter zu welchem Zeitpunkt welche Art von Auszug abgefragt hat.

@@ -7,8 +7,7 @@ aufgrund der quotenrelevanten Zuständigkeit angezeigt.
 
 Abb. 6‑36 Aufruf Erklärungen
 
-<img src="img/image158.png"
-style="width:6.78575in;height:2.06555in" />
+![Aufruf Erklärungen](<img/image158.png>)
 
 Im linken oberen Bereich können Sie das Erklärungsjahr auswählen. Die
 dargestellten Informationen werden automatisch über FinanzOnline

@@ -18,8 +18,7 @@ Kontaktieren Sie bitte in Zweifelsfragen unseren Support.
 
 Abb. 6‑55 FinanzOnline-Admin-Protokoll
 
-<img src="img/image179.png"
-style="width:6.69052in;height:2.16512in" />
+![FinOn Admin Protokoll](<img/image179.png>)
 
 <span class="mark">  
 </span>

@@ -3,15 +3,7 @@ definiert werden. Wiederkehrende Aufgaben werden bei jedem Neustart des
 Kanzlei-Informations-Systems erstellt. Sie können in der Ansicht des
 Klienten als auch in der Kanzleiansicht erstellt werden.
 
-Abb. 4‑19 Wiederkehrende Aufgaben
-
-<img src="img/image72.png"
-style="width:4.42708in;height:1.0625in" />
-
-Abb. 4‑20 Neue Wiederkehrende Aufgaben
-
-<img src="img/image73.png"
-style="width:6.26226in;height:2.46343in" />
+![wiedkehrende Aufgabe](<img/image72.png>)
 
 Die wiederkehrende Aufgabe bietet Ihnen zusätzlich die Möglichkeit
 festzulegen, wann die Aufgabe erstellt werden soll. Der aus der
@@ -19,12 +11,14 @@ Aufgabenvorlage übernommene Endtermin kann abgeändert werden und
 übersteuert letztendlich die Eintragung in der Aufgabenvorlage. Dieses
 Prinzip gilt auch für die Uhrzeit und die zuständigen Mitarbeiter.
 
-#### Aufgabenvorlage
+![neue wiederkehrende Aufgabe](<img/image73.png>)
 
-Hier wählen Sie aus den in der Verwaltung angelegten Aufgabenvorlagen
+## Aufgabenvorlage
+
+Hier wählen Sie aus den in der Verwaltung angelegten [Aufgabenvorlagen](../Aufgabenverwaltung/Arbeiten%20mit%20Aufgabenvorlagen.md)
 die zutreffende Aufgabenvorlage aus.
 
-#### Klient
+## Klient
 
 Wird die wiederkehrende Aufgabe im Klientenbereich angelegt, wird der
 vorher ausgewählte Klient automatisch eingetragen. Erfolgt die Anlage im
@@ -32,14 +26,8 @@ Kanzleibereich muss der Klient aus der Liste ausgewählt werden.
 Wiederkehrende Aufgaben können auf andere Klienten übertragen
 (dupliziert) werden.
 
-Tipp
-
-Die Erstellung von wiederkehrenden Aufgaben (zB.: laufende Buchhaltung)
-sollte bei einem Klienten begonnen werden, dessen eingestellte Parameter
-auf die meisten anderen Klienten zutreffen. Anschließend kann diese
-wiederkehrende Aufgabe auf die anderen Klienten dupliziert werden. Bei
-Klienten, für die diese Parameter nicht zutreffen können diese manuell
-abgeändert werden.
+!!! info "Tipp"
+    Die Erstellung von wiederkehrenden Aufgaben (zB.: laufende Buchhaltung) sollte bei einem Klienten begonnen werden, dessen eingestellte Parameter auf die meisten anderen Klienten zutreffen. Anschließend kann diese wiederkehrende Aufgabe auf die anderen Klienten dupliziert werden. Bei Klienten, für die diese Parameter nicht zutreffen können diese manuell abgeändert werden.
 
 #### Aktivität für Klientenspiegel
 
@@ -70,8 +58,7 @@ Klientenstammdaten zugeordneten „Aktivität für den Klientenspiegel“
 
 Abb. 4‑21 Zuordnungen – Aktivitäten/Fachbereiche
 
-<img src="img/image74.png"
-style="width:4.56215in;height:2.25681in" />
+![Zuordnungen AKtivitäten und Fachbereiche](<"img/image74.png>)
 
 Innerhalb der Stammdaten des Klienten (vgl. Kap. 9.3.1 Zuordnungen)
 können die in der Verwaltung (vgl. Kap. 11.3 Aktivität) angelegten
@@ -86,8 +73,7 @@ RZL-Board eingetragenen Bilanzstichtag zugreifen.
 
 Abb. 4‑22 Zuordnungen – Aktivitäten/Fachbereiche
 
-<img src="img/image75.png"
-style="width:5.05833in;height:1.52738in" />
+![Zuordnungen II](<img/image75.png>)
 
 Wenn Sie in den Klientenstammdaten keinen Bilanzstichtag eingetragen
 haben, nimmt das Kanzlei-Informations-System automatisch den 31.12. als
@@ -114,8 +100,7 @@ durch Eintippen der Anfangsbuchstaben des Mitarbeiters.
 
 Abb. 4‑23 Zuordnungen – Aktivitäten/Fachbereiche
 
-<img src="img/image76.png"
-style="width:4.87439in;height:0.68741in" />
+![Zuordnungen III](<img/image76.png>)
 
 Durch Anwahl des erstens Symbols (**1**) können Sie neue *Zuständige*
 hinzufügen. Die Anwahl des zweiten Symbols bewirkt, dass der innerhalb
@@ -160,22 +145,17 @@ deaktivieren, ohne die Aufgaben löschen zu müssen.
 
 #### Duplizieren von wiederkehrenden Aufgaben - 
 
-<img src="img/image77.png"
-style="width:0.22222in;height:0.23333in" />Innerhalb der Details (Aufruf
-mit einem Rechtsklick) einer wiederkehrenden Aufgabe kann durch Anwahl
-des Duplizieren-Symbols die Aufgabe auf weitere Klienten übertragen
-werden.
+Innerhalb der Details (Aufruf mit einem Rechtsklick) ![Detail Aufgabe](<img/image77.png>) einer wiederkehrenden Aufgabe kann durch Anwahl
+des Duplizieren-Symbols die Aufgabe auf weitere Klienten übertragen werden.
 
 Abb. 4‑24 Duplizieren von Aufgabenvorlagen
 
-<img src="img/image78.png"
-style="width:5.6876in;height:3.29535in" />
+![Duplizieren von Aufgabenvorlage](<img/image78.png>)
 
 In der Klientenliste können Sie die Klienten, für welche die
 wiederkehrende Aufgabe dupliziert werden soll, einzeln auswählen. Wenn
 alle Klienten in der Liste markiert werden sollen, kann das *Alle
-auswählen* Symbol <img src="img/image79.png"
-style="width:0.18264in;height:0.17361in" /> im linken unteren Eck
+auswählen* Symbol ![Alle-Auswählen-Symbol](<img/image79.png>) im linken unteren Eck
 ausgewählt werden. Die Hakerl können gesamt durch Anwahl des Symbols
 rechts daneben wieder gelöscht werden. Natürlich können Sie die
 aufgerufene Liste filtern (vgl. Kap. 3.5 Filterfunktionen).
@@ -201,8 +181,7 @@ Aufgaben ansehen.
 
 Abb. 4‑25 Generierungsvorschau – Ausgewählte Aufgaben sofort generieren
 
-<img src="img/image80.png"
-style="width:6.04449in;height:2.32292in" />
+![Generierungsvorschau](<img/image80.png>)
 
 Dieser Programmteil ermöglicht vorab die händische Generierung einer
 Aufgabe. Zunächst muss die Aufgabe durch ein Hakerl im Kästchen
@@ -229,8 +208,7 @@ Auffang-Mitarbeiter anlegen.
 
 Abb. 4‑26 automatische Generierung von Aufgaben
 
-<img src="img/image81.png"
-style="width:5.98503in;height:2.70117in" />
+![autom Generierung Aufgaben](<img/image81.png>)
 
 Mit Hilfe dieser Zuordnungen wird verhindert, dass automatisch
 generierte Aufgaben ohne Zuständigkeit erstellt werden.

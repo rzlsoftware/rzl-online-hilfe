@@ -11,8 +11,7 @@ Kanzleiansicht als Abgabefertig gekennzeichnet werden.
 
 Abb. 6‑47 Quotenplanung - Abgabefertig
 
-<img src="img/image169.png"
-style="width:6.96914in;height:2.75043in" />
+![Quotenplanung - abgabefertig](<img/image169.png>)
 
 Im Menüpunkt *Kanzlei / FinanzOnline / Status der Quotenerfüllung* muss
 die *Abgabefertig*-Markierung in den Registerblättern
@@ -20,13 +19,11 @@ die *Abgabefertig*-Markierung in den Registerblättern
 
 Abb. 6‑48 Registerblatt Quotenvollmachten - Abgabefertig
 
-<img src="img/image170.png"
-style="width:6.81935in;height:2.40102in" />
+![Quotenfollmachten - abgabefertig](<img/image170.png>)
 
 Abb. 6‑49 Registerblatt Quotenplanung - Abgabefertig
 
-<img src="img/image171.png"
-style="width:6.34779in;height:2.42077in" />
+![Quotenplanung - abgabefertig](<img/image171.png>)
 
 ### Quotenplanung bearbeiten
 
@@ -44,8 +41,7 @@ Ende nicht abgegeben, so wird er als Überfällig gekennzeichnet.
 
 Abb. 6‑50 Quotenplanung - Überfällig
 
-<img src="img/image172.png"
-style="width:3.16667in;height:1.48333in" />
+![Quotenplanung - überfällig](<img/image172.png>)
 
 Vergangene Quotenzeiträume können nicht mehr bearbeitet werden, außer um
 überfällige Quotenfälle zu entfernen. Dazu zieht man diese entweder per
@@ -55,8 +51,7 @@ kann im Kontextmenü (Aufruf mit einem rechten Mausklick) den
 
 Abb. 6‑51 Quotenplanung - Neuzuordnung
 
-<img src="img/image173.png"
-style="width:3.06458in;height:1.8in" />
+![Quotenplanung - Neuzuordnung](<img/image173.png>)
 
 Wird ein Quotenfall anders (z.B. Jänner) als *„geplant“* (z.B. Februar)
 eingebracht, so wird er in dem Quotenzeitraum (Jänner) angezeigt, in dem
@@ -65,8 +60,7 @@ wird dann ein entsprechender Hinweis angezeigt.
 
 Abb. 6‑52 Quotenplanung – Anders als geplant
 
-<img src="img/image174.png"
-style="width:3.05833in;height:1.675in" />
+![Quotenplanung - anders als geplant](<img/image174.png>)
 
 Nach dem 31. März eingebrachte Quotenfälle werden in einer eigenen
 Spalte angezeigt, welche nicht bearbeitet werden kann.
@@ -75,9 +69,7 @@ Generell werden alle Änderungen, die an einem Quotenfall vorgenommen
 werden, beim Speichern protokolliert. Dieses Protokoll ist über den
 Infokasten *Protokoll anzeigen* beim einzelnen Quotenfall einsehbar.
 
-<img src="img/image175.png"
-style="width:2.56667in;height:1.575in" /><img src="img/image176.png"
-style="width:2.68333in;height:1.575in" />
+![Protokoll Quotenfall I](<img/image175.png>) ![Protokoll Quotenfall II](<img/image176.png>)
 
 ### Aufgaben für geplante Quotenfälle generieren
 
@@ -93,8 +85,7 @@ der Quotenplanung einem Zeitraum zugeordnet wurde.
 
 Abb. 6‑53 Quotenplanung – Wiederkehrende Aufgabe
 
-<img src="img/image177.png"
-style="width:6.58551in;height:2.44523in" />
+![Quotenplanung - wiederkehrende Aufgabe](<img/image177.png>)
 
 Wenn bereits eine Aufgabe generiert wurde und der Quotenfall in der
 Planung abgeändert wird, erscheint beim Verlassen der Quotenplanung eine
@@ -102,5 +93,4 @@ Abfrage, ob auch der Endtermin der Aufgabe angepasst werden soll.
 
 Abb. 6‑54 Quotenplanung – Anpassung Endtermin
 
-<img src="img/image178.png"
-style="width:4.22864in;height:1.72895in" />
+![Quotenplanung - Anpassung Endtermin](<img/image178.png>)

@@ -5,8 +5,7 @@ kanzleibezogen aufgerufen werden.
 
 Abb. 6‑18 FinanzOnline Eingang – neuer Screenshot
 
-<img src="img/image140.png"
-style="width:6.78378in;height:3.14522in" />
+![FinOn Eingang](<img/image140.png>)
 
 Innerhalb der Details werden die Informationen die von FinanzOnline
 geliefert werden angezeigt. Zusätzlich können die „RZL-Felder“ erfasst
@@ -42,16 +41,14 @@ Eingangsdatum den Text nicht erklärungsgemäß.
 
 Abb. 6‑19 Bescheidvorprüfung nicht erfolreich
 
-<img src="img/image141.png"
-style="width:5.79266in;height:2.29583in" />
+![Bescheidvorprüfung nicht erfolgreich](<img/image141.png>)
 
 Erfolgt die Veranlagung erklärungsgemäß erhalten Sie diese Information
 in grüner Schrift.
 
 Abb. 6‑20 Bescheidvorprüfung erfolgreich
 
-<img src="img/image142.png"
-style="width:6.41052in;height:2.54071in" />
+![Bescheidvorprüfung erfolgreich](<img/image142.png>)
 
 Wenn innerhalb der FinanzOnline Zuweisungen (vgl. Kap. 6.3 *Zuordnung
 von Thema/Kategorie/Aufgabenvorlage*) in den Mitteilungen für die
@@ -61,16 +58,14 @@ nur eine Aufgabe (z.B.: Bescheidprüfung) erstellt.
 
 Abb. 6‑21 Bescheidvorprüfung – Aufgabenerstellung
 
-<img src="img/image143.png"
-style="width:4.9335in;height:2.31945in" />
+![Bescheidvorprüfung Aufgabe](<img/image143.png>)
 
 Innerhalb dieser „einen“ Aufgabe ist die Bescheidinformation und der
 Bescheid zusammengefasst.
 
 Abb. 6‑22 Aufgabenbeschreibung – Bescheidvorprüfung nicht erfolgreich
 
-<img src="img/image144.png"
-style="width:4.46448in;height:2.09278in" />
+![Aufgabenbeschreibung - Bescheidvorprüfung nicht erfolgr](<img/image144.png>)
 
 In der Aufgabenbeschreibung ist vermerkt (mit der Benutzerkennzeichnung
 \[FinanzOnline\]) ob die automatische Bescheidvorprüfung erfolgreich war
@@ -85,8 +80,7 @@ Sonderfunktionen.
 
 Abb. 6‑23 Databoxliste – Sonderfunktionen
 
-<img src="img/image145.png"
-style="width:6.13333in;height:1.5in" />
+![Databoxliste - Sonderfunktionen](<img/image145.png>)
 
 Sie können die markierten Einträge per E-Mail versenden. Das Programm
 schlägt Ihnen die in den Stammdaten des Klienten gespeicherten
@@ -104,8 +98,7 @@ bzw. dem RZL PDF-Manager Premium anzeigen lassen.
 Abb. 6‑24 Versenden von Databox-Eingängen mit Hilfe des RZL PDF-Druckers
 bzw. RZL PDF-Manager Premium
 
-<img src="img/image146.png"
-style="width:6.18245in;height:2.96511in" />
+![Versenden von Databox-Eingängen](<img/image146.png>)
 
 Wenn Sie Databoxeingänge – unabhängig ob es sich im XML oder PDF-Dateien
 handelt - als PDF per E-Mail versenden möchten, wählen Sie zunächst die

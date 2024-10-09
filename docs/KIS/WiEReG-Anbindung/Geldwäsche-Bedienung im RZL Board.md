@@ -17,8 +17,7 @@ Terrorismusfinanzierung durchzuführen.
 
 Abb. 7‑23 Identifizierung Auftraggeber
 
-<img src="img/image205.png"
-style="width:5.48725in;height:4.16951in" />
+![Identifizierung Auftraggeber](<img/image205.png>)
 
 Weiters stehen Ihnen noch die Register *Gesellschaft oder Stiftung*
 sowie *Wirtschaftlicher Eigentümer des Auftraggebers*, welche an die
@@ -42,8 +41,7 @@ sollen.
 
 Abb. 7‑24 Geldwäsche-Zuweisungen
 
-<img src="img/image206.png"
-style="width:3.96643in;height:1.99141in" />
+![Geldwäsche Zuweisungen](<img/image206.png>)
 
 #### Risikobeurteilung im RZL Board
 
@@ -55,8 +53,7 @@ und Terrorismusfinanzierung durchzuführen.
 
 Abb. 7‑25 Risikobeurteilung
 
-<img src="img/image207.png"
-style="width:7.04722in;height:5.10764in" />
+![Risikobeurteilung](<img/image207.png>)
 
 Hier stehen Ihnen noch die zusätzlichen Register, welche an die
 Checkliste zur Risikobeurteilung der KSW angelehnt sind, zur Verfügung.
@@ -67,8 +64,7 @@ Anmerkungen hinzugefügt werden.
 
 Abb. 7‑26 Risikobeurteilung - Risikogesamteinschätzung
 
-<img src="img/image207.png"
-style="width:5.67615in;height:4.11393in" />
+![Risikogesamteinschätzung](<img/image207.png>)
 
 Haben Sie alle notwendigen Punkte der Checkliste ausgefüllt, kann
 Mithilfe der Schaltfläche *Risikobeurteilung abschließen* die
@@ -94,8 +90,7 @@ Risikobeurteilung nach Erwerb des WiEReG/Geldwäsche Moduls.
 
 Abb. 7‑27 Aufgabenvorlage Risikobeurteilung
 
-<img src="img/image208.png"
-style="width:3.60617in;height:2.9356in" />
+![Aufgabenvorlage Risikobeurteilung](<img/image208.png>)
 
 Hinweis
 
@@ -118,8 +113,7 @@ Geldwäscheprävention zugeordnet.
 
 Abb. 7‑28 Dokumentbereich Geldwäscheprävention
 
-<img src="img/image209.png"
-style="width:6.69236in;height:4.85278in" />
+![Dokumentbereich Geldwäsche](<img/image209.png>)
 
 Die Dokumente, die den Dokumentbereich Geldwäscheprävention betreffen,
 können Sie ebenso im RZL Board in den Klientenstammdaten im Register
@@ -128,8 +122,7 @@ aufrufen.
 
 Abb. 7‑29 Dokumente aus dem Dokumentbereich „Geldwäscheprävention“
 
-<img src="img/image210.png"
-style="width:5.86475in;height:3.58051in" />
+![Dokumente aus Dokumentbereich](<img/image210.png>)
 
 #### Klientenlisten Geldwäscheprävention/Risikobeurteilung
 
@@ -141,8 +134,7 @@ Auftraggeber einzusehen.
 
 Abb. 7‑30 Berechtigung „Geldwäscheprävention“ für Mitarbeiter
 
-<img src="img/image211.png"
-style="width:4.82175in;height:3.28371in" />
+![Berechtigung MA](<img/image211.png>)
 
 Wählen Sie in den Board Stammdaten den Pfeil bei der Schaltfläche
 *Klienten* an können Sie auswählen welche der Geldwäsche-Listen
@@ -152,8 +144,7 @@ Mitarbeiterstammdaten im RZL Board (Siehe Oben) erhalten haben.
 
 Abb. 7‑31 Geldwäsche Klientenlisten
 
-<img src="img/image212.png"
-style="width:4.20605in;height:1.47475in" />
+![Geldwäsche Klientenlisten](<img/image212.png>)
 
 In der Klientenliste *Geldwäsche Identifizierung Auftraggeber* erhalten
 Sie detaillierte Informationen darüber, welcher Mitarbeiter wann für
@@ -164,8 +155,7 @@ nicht, ob eine WiEReG-Abfrage durchgeführt wurde, usw.
 
 Abb. 7‑32 Klienten Identifizierung Auftraggeber
 
-<img src="img/image213.png"
-style="width:6.8151in;height:2.57682in" />
+![Identifizierung Auftraggeber](<img/image213.png>)
 
 In der Klientenliste *Geldwäsche Risikobeurteilung* erhalten Sie
 detaillierte Informationen darüber, welcher Mitarbeiter wann für welchen
@@ -175,5 +165,4 @@ befindet, welche Risikogesamteinschätzung vergeben wurde, usw.
 
 Abb. 7‑33 Klienten Risikobeurteilung
 
-<img src="img/image214.png"
-style="width:6.89681in;height:2.87616in" />
+![Risikobeurteilung](<img/image214.png>)

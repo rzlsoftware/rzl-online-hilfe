@@ -28,8 +28,7 @@ Klientenliste vornehmen.
 
 Abb. 6‑25 Steuerkontenübersicht – Kanzleibereich
 
-<img src="img/image147.png"
-style="width:6.47097in;height:2.53597in" />
+![Steuerkontenübersicht Kanzlei](<img/image147.png>)
 
 Innerhalb des Kanzleibereichs wird durch Anwahl des Eintrags
 *FinanzOnline / Steuerkonten* die Steuerkonten-Übersicht angezeigt.
@@ -64,8 +63,7 @@ Steuerkonto aus dem KIS gelöscht.
 
 Abb. 6‑26 Steuerkonto Kanzleibereich – Steuerkonto aus KIS löschen I
 
-<img src="img/image148.png"
-style="width:5.43149in;height:1.21497in" />
+![Steuerkonto löschen Kanzlei](<img/image148.png>)
 
 Im Anschluss erhalten Sie die Abfrage ob die Steuerkonto-Abfrage für
 diesen Klienten deaktiviert werden soll. Bestätigen Sie dies mit *Ja*
@@ -78,8 +76,7 @@ abrufen.
 
 Abb. 6‑27 Steuerkonto Kanzleibereich – Steuerkonto aus KIS löschen II
 
-<img src="img/image149.png"
-style="width:5.13163in;height:1.14463in" />
+![Steuerkonto löschen Kanzlei II](<img/image149.png>)
 
 **FinanzOnline-Abruf konfigurieren**
 
@@ -90,8 +87,7 @@ Auswahl über die Kanzleiebene abgerufen werden soll.
 
 Abb. 6‑28 Steuerkonto Kanzleibereich – Abruf konfigurieren
 
-<img src="img/image150.png"
-style="width:5.64417in;height:3.35936in" />
+![Steuerkonto Abruf konfigurieren](<img/image150.png>)
 
 **Protokoll anzeigen**
 
@@ -102,8 +98,7 @@ die Abfrage erfolgreich war.
 
 Abb. 6‑29 Steuerkonto Kanzleibereich – Protokoll anzeigen
 
-<img src="img/image151.png"
-style="width:5.15392in;height:1.78925in" />
+![Steuerkonto Protokoll anzeigen](<img/image151.png>)
 
 TIPP
 
@@ -125,8 +120,7 @@ Steuerkontos wird dieses automatisch aktualisiert.
 
 Abb. 6‑30 Steuerkonto Klient
 
-<img src="img/image152.png"
-style="width:6.14506in;height:2.43247in" />
+![Steuerkonto Klient](<img/image152.png>)
 
 **Buchungen**
 
@@ -146,8 +140,7 @@ Buchungstag) für das jeweilige Jahr darstellen.
 
 Abb. 6‑31 Jahreszusammenstellung Klient
 
-<img src="img/image153.png"
-style="width:5.00003in;height:2.23099in" />
+![Jahreszusammenstellung Klient](<img/image153.png>)
 
 **Vierteljahresbeträge**
 
@@ -158,8 +151,7 @@ offen ist.
 
 Abb. 6‑32 Vierteljahresbeträge Klient
 
-<img src="img/image154.png"
-style="width:6.00375in;height:1.80148in" />
+![Vierteljahresbeträge Klient](<img/image154.png>)
 
 **Zahlungsplan**
 
@@ -168,8 +160,7 @@ zu welchem Zeitpunkt eine Abgabenart fällig ist.
 
 Abb. 6‑33 Zahlungsplan Klient
 
-<img src="img/image155.png"
-style="width:4.78685in;height:1.49483in" />
+![Zahlunsgplan Klient](<img/image155.png>)
 
 **Abruf-Zeitraum auswählen**
 
@@ -179,8 +170,7 @@ abgerufen werden soll.
 
 Abb. 6‑34 Abruf-Zeitraum auswählen Klient
 
-<img src="img/image156.png"
-style="width:3.74629in;height:1.70898in" />
+![Abruf-Zeitraum wählen](<img/image156.png>)
 
 **Filterfunktionen**
 
@@ -195,5 +185,4 @@ Anfangs- und Endsaldo des Steuerkontos automatisch an.
 
 Abb. 6‑35 Steuerkonto Filter - Buchungstag
 
-<img src="img/image157.png"
-style="width:5.58769in;height:3.71008in" />
+![Steuerkonto Buchungstag](<img/image157.png>)
