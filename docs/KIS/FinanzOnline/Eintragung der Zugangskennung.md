@@ -1,19 +1,10 @@
-## Eintragung der Zugangskennung(en) 
-
-Abb. 6‑3 FinanzOnline Zugänge
-
 ![FinOn Zugänge](<img/image125.png>)
 
-### WebService 
+## WebService 
 
-Voraussetzung für das automatisierte Auslesen der Databox ist, dass
-innerhalb von FinanzOnline ein Benutzer für **WebService** angelegt ist.
-Für die Anlage eines Web-Service-Benutzers vgl. Kap. 6.8 *Exkurs: Anlage
-eines WebService-Benutzers*. Mit diesem Zugang werden die in die
+Voraussetzung für das automatisierte Auslesen der Databox ist die Anlage eines [**WebService-Benutzers**](../FinanzOnline/Anlage%20eines%20WebService-Benutzers.md) angelegt ist. Mit diesem Zugang werden die in die
 FinanzOnline Databox behördlich zugestellten Eingänge automatisch
 ausgelesen und zugeordnet.
-
-Abb. 6‑4 Databox Synchronisation
 
 ![Databox Synchronisation](<img/image126.png>)
 

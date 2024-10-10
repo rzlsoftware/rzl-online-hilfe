@@ -1,5 +1,3 @@
-## Telefonprotokoll
-
 Die Telefonate, die in Ihrer Kanzlei geführt werden, können Sie im
 Telefonprotokoll erfassen. Dieser Programmteil ermöglicht Ihnen die
 vollständige Erfassung der relevanten Telefonate der Kanzlei und die
@@ -10,22 +8,17 @@ Wählen Sie über den Navigator über den Eintrag *Ereignisse* die Zeile
 Telefonprotokolle angezeigt. Um ein neues Telefonprotokoll zu erfassen,
 klicken Sie bitte auf die Schaltfläche *Neues Telefonprotokoll*.
 
-Abb. 5‑10 Erfassung eines Telefonprotokolls
+![Erfassung Telefonprotokoll](<img/image104.png>)
 
-![Erfassung eines Telefonprotokolls](<img/image104.png>)
+!!! info "Tipp"
+    Wenn ein Telefonprotokoll markiert ist, kann durch Anwahl der rechten Maustaste und des Eintrags *Detail drucken* das Protokoll ausgedruckt werden.
 
-TIpp
-
-Wenn ein Telefonprotokoll markiert ist, kann durch Anwahl der rechten
-Maustaste und des Eintrags *Detail drucken* das Protokoll ausgedruckt
-werden.
-
-#### Datum
+### Datum
 
 Sie erhalten das aktuelle Datum und die aktuelle Uhrzeit vorgeschlagen.
 Diese Vorschläge können Sie wenn notwendig ändern.
 
-#### Gesprächsende
+### Gesprächsende
 
 In diesem Feld besteht die Möglichkeit das Gesprächsende einzutragen.
 Sie sehen dann automatisch die Gesamtdauer des Telefonats neben dem
@@ -36,62 +29,55 @@ Gesprächsende angezeigt.
 Im Bereich Typ können Sie auswählen, ob das Telefonat *Eingehend* oder
 *Ausgehend* war.
 
-#### Klient
-
-Telefonprotokolle können einem oder mehreren Klienten zugeordnet werden.
+### Klient
 
 Ein einzelner Klient kann durch Klick auf die Klientennummer oder den
 Klientennamen in der Auswahlliste, durch Eingabe der Klientennummer und
 Eingabe-Taste (beim Textblock) oder durch Eintippen der
 Anfangsbuchstaben des Klientennamens, Detailauswahl mit Pfeil
-Auf/Ab-Tasten und Eingabe-Taste (beim Textblock) ausgewählt werden.
+Auf/Ab-Tasten und Eingabe-Taste (beim Textblock), ausgewählt werden.
 
-Bezüglich **Klientenmehrfachzuordnung** vgl. Kap. 5.7 *Zuordnung von
-Ereignissen zu Klienten – Klientenmehrfachzuordnung.*
+Auch eine [Klientenmehrfachzuordnung](../Ereignisse/Zuordnung%20und%20Archivierung%20von%20Ereignissen/#zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung) ist möglich.
 
-#### Gesprächspartner
+### Gesprächspartner
 
 Als Gesprächspartner erhalten Sie Vorschläge vom Programm (persönliche
 Daten, Kontaktpersonen), die ausgewählt werden können. Zusätzlich können
 Sie in diesem Feld selbst Einträge vornehmen.
 
-#### Telefonnummer
+### Telefonnummer
 
 Als Telefonnummer werden die in den Klientendaten eingetragenen Nummern
 vorge­schlagen. Wenn Sie die Telefonanbindung lizensiert haben und die
 technischen Einstellungen passen, können Sie durch Anwahl der
 Schaltfläche *Telefonnummer* den Gesprächsteilnehmer direkt anrufen.
 
-#### Zuständig
+### Zuständig
 
 Hier wird der zuständige Mitarbeiter ausgewählt und eingetragen. Das
 Programm schlägt den aktuellen Benutzer des KIS vor.
 
-#### Kategorie
+### Kategorie
 
-In diesem Bereich wählen Sie zwischen den in der Verwaltung (vgl. Kap.
-11.10 Kategorie) angelegten Kategorien aus. Die Kategorie ist ein
-wichtiger Eintrag für die strukturierte Ablage und für die Suche
-innerhalb der Telefonate bzw. Ereignisse (Filter).
+In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Die Kategorie ist ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
+innerhalb der Telefonprotokolle bzw. Ereignisse.
 
-#### Thema
+### Thema
 
-Im Bereich *Thema* wählen Sie zwischen den in der Verwaltung (vgl. Kap.
-11.12 Thema) angelegten Themen aus. Das Thema ist ebenfalls ein
-wichtiger Eintrag für die strukturierte Ablage und für die Suche
-innerhalb der Telefonate bzw. Ereignisse (Filter).
+Im Bereich [*Thema*](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) wählen Sie zwischen den in der Verwaltung angelegten Themen aus. Wie die Kategorie ist das Thema  ebenfalls ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
+innerhalb der Telefonprotokolle bzw. Ereignisse.
 
-#### Betreff
+### Betreff
 
 Hier kann ein Betreff – der das Telefonat kurz beschreibt – eintragen
 werden.
 
-#### Inhalt
+### Inhalt
 
 Im Feld *Inhalt* beschreiben Sie das geführte Telefonat mit freiem Text
 genauer.
 
-#### Aktenvermerk
+### Aktenvermerk
 
 Dieses Feld können Sie verwenden, um zu dokumentieren, dass ein
 Aktenvermerk über dieses Telefonat angelegt wurde oder anzulegen ist.
@@ -99,12 +85,10 @@ Aktenvermerk über dieses Telefonat angelegt wurde oder anzulegen ist.
 Das Feld Aktenvermerk kann verwendet werden, um die Wichtigkeit des
 Telefonats hervorzuheben.
 
-#### Zeitraum
+### Zeitraum
 
 In diesem Feld kann ein Zeitraum eingetragen werden. Unten sind einige
 Möglichkeiten der Eingabe angeführt.
-
-Tab. 5‑3 Möglichkeiten der eingabe des Zeitraums
 
 | **Eingabe** | **Ergebnis (Beispiel)** | **Beschreibung**                |
 | ----------- | ----------------------- | ------------------------------- |
@@ -116,28 +100,21 @@ Tab. 5‑3 Möglichkeiten der eingabe des Zeitraums
 | MMMMJJ      | 01-04/2020              | von Monat bis Monat im Jahr     |
 | MMJJMMJJ    | 01/2019-05/2019         | von Monat, Jahr bis Monat, Jahr |
 
-#### Dokumentenzuordnung 
+### Dokumentenzuordnung 
 
 Im rechten unteren Bereich Ihres Telefonprotokolls können Sie Dokumente,
 die bereits in das Kanzlei-Informations-System übernommen worden sind,
 dem Telefonprotokoll zuordnen.
 
-Abb. 5‑11 Verknüpfung Telefonprotokoll – Dokument
-
 ![Verknüpfung Telefonprotokoll - Dokument](<img/image105.png>)
 
 Sie klicken zunächst auf die Schaltfläche *Keine Dokumente zugeordnet*.
-
-Abb. 5‑12 Dokumente zuordnen
 
 ![Dokumente zuordnen](<img/image106.png>)
 
 Wenn Sie das Symbol mit dem **+**-Zeichen anwählen, können Sie Dokumente
 hinzufügen. Das Symbol mit dem roten Kreuz löscht die Zuordnung des
 markierten Dokuments zum Telefonprotokoll.
-
-Die Beschreibung der Verknüpfung von Dokumenten mit Ereignissen finden
-Sie im Kap. 7.8 Verknüpfung von Dokumenten mit Ereignissen.
 
 Wenn Sie ein mit einem Telefonprotokoll verknüpftes Dokument markieren
 und die rechte Maustaste anwählen können Sie das Dokument per E-Mail
@@ -148,8 +125,6 @@ versenden.
 In Kombination mit einer TAPI-fähigen Telefonanlage wählt das
 Kanzlei-Informations-System direkt die beim Klienten hinterlegte
 Telefonnummer, indem die Telefonnummer mit der Maus angeklickt wird.
-
-Abb. 5‑13 Erfassung eines Telefonats im Kanzleibereich
 
 ![Erfassung eines Telefonats im Kanzleibereich](<img/image107.png>)
 
@@ -173,58 +148,49 @@ Wählen Sie über den Navigator über den Eintrag *Ereignisse* die Zeile
 Um ein neues Memo zu erfassen, klicken Sie bitte auf die Schaltfläche
 *Neues Memo*.
 
-Abb. 5‑14 Erfassung eines Memos
-
 ![Erfassung eines Memos](<img/image108.png>)
 
-#### Datum
+### Datum
 
 Sie erhalten das aktuelle Datum und die aktuelle Uhrzeit vorgeschlagen.
 Diese Vorschläge können Sie wenn notwendig ändern.
 
-#### Klient
-
-Memos können einem oder mehreren Klienten zugeordnet werden.
+### Klient
 
 Ein einzelner Klient kann durch Klick auf die Klientennummer oder den
 Klientennamen in der Auswahlliste, durch Eingabe der Klientennummer und
 Eingabe-Taste (beim Textblock) oder durch Eintippen der
 Anfangsbuchstaben des Klientennamens, Detailauswahl mit Pfeil
-Auf/Ab-Tasten und Eingabe-Taste (beim Textblock) ausgewählt werden.
+Auf/Ab-Tasten und Eingabe-Taste (beim Textblock), ausgewählt werden.
 
-Bezüglich **Klientenmehrfachzuordnung** vgl. Kap. 5.7 *Zuordnung von
-Ereignissen zu Klienten – Klientenmehrfachzuordnung.*
+Auch eine [Klientenmehrfachzuordnung](../Ereignisse/Zuordnung%20und%20Archivierung%20von%20Ereignissen/#zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung) ist möglich.
 
-#### Zuständig
+### Zuständig
 
 Hier wird der zuständige Mitarbeiter ausgewählt und eingetragen. Das
 Programm schlägt den aktuellen Benutzer des KIS vor.
 
-#### Betreff
+### Betreff
 
 Hier kann ein Betreff – der den Inhalt kurz beschreibt – eintragen
 werden.
 
-#### Inhalt
+### Inhalt
 
 Im Feld *Inhalt* beschreiben Sie den Gegenstand des Memos mit freiem
 Text genauer.
 
-#### Kategorie
+### Kategorie
 
-In diesem Bereich wählen Sie zwischen den in der Verwaltung (vgl. Kap.
-11.10 Kategorie) angelegten Kategorien aus. Die Kategorie ist ein
-wichtiger Eintrag für die strukturierte Ablage und für die Suche
-innerhalb der Memos bzw. Ereignisse (Filter).
+In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Die Kategorie ist ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
+innerhalb der Memos bzw. Ereignisse.
 
-#### Thema
+### Thema
 
-Im Bereich *Thema* wählen Sie zwischen den in der Verwaltung (vgl. Kap.
-11.12 Thema) angelegten Themen aus. Das Thema ist ein wichtiger Eintrag
-für die strukturierte Ablage und für die Suche innerhalb der Memos bzw.
-Ereignisse (Filter).
+Im Bereich [*Thema*](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) wählen Sie zwischen den in der Verwaltung angelegten Themen aus. Wie die Kategorie ist das Thema  ebenfalls ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
+innerhalb der Memos bzw. Ereignisse.
 
-#### Aktenvermerk
+### Aktenvermerk
 
 Dieses Feld können Sie verwenden, um zu dokumentieren, dass ein
 Aktenvermerk über dieses Memo angelegt wurde oder anzulegen ist.
@@ -232,12 +198,10 @@ Aktenvermerk über dieses Memo angelegt wurde oder anzulegen ist.
 Das Feld Aktenvermerk kann auch verwendet werden, um die Wichtigkeit des
 Memos hervorzuheben.
 
-#### Zeitraum
+### Zeitraum
 
 In diesem Feld kann ein Zeitraum eingetragen werden. Unten sind einige
 Möglichkeiten der Eingabe angeführt.
-
-Tab. 5‑4 Möglichkeiten der Eingabe des Zeitraums
 
 | **Eingabe** | **Ergebnis (Beispiel)** | **Beschreibung**                |
 | ----------- | ----------------------- | ------------------------------- |
@@ -248,30 +212,3 @@ Tab. 5‑4 Möglichkeiten der Eingabe des Zeitraums
 | MMJJJJ      | 01/2020                 | im Monat des Jahres             |
 | MMMMJJ      | 01-04/2020              | von Monat bis Monat im Jahr     |
 | MMJJMMJJ    | 01/2019-05/2020         | von Monat, Jahr bis Monat, Jahr |
-
-#### Dokumentenzuordnung 
-
-Im rechten unteren Bereich Ihres Memos können Sie Dokumente, die bereits
-in das Kanzlei-Informations-System übernommen worden sind, dem
-Telefonprotokoll zuordnen.
-
-Abb. 5‑15 Verknüpfung Memo – Dokument
-
-![Verknüpfung Memo - Dokument](<img/image105.png>)
-
-Sie klicken zunächst auf die Schaltfläche *Keine Dokumente zugeordnet*.
-
-Abb. 5‑16 Dokumente zuordnen
-
-![Dokumente zuordnen](<img/image106.png>)
-
-Wenn Sie das Symbol mit dem **+**-Zeichen anwählen, können Sie Dokumente
-hinzufügen. Das Symbol mit dem roten Kreuz löscht die Zuordnung des
-markierten Dokuments zum Telefonprotokoll.
-
-Die Beschreibung der Verknüpfung von Dokumenten mit Ereignissen finden
-Sie im Kap. 7.8 Verknüpfung von Dokumenten mit Ereignissen.
-
-Wenn Sie ein mit einem Telefonprotokoll verknüpftes Dokument markieren
-und die rechte Maustaste anwählen können Sie das Dokument per E-Mail
-versenden.
