@@ -2914,22 +2914,7 @@ beim Magistrat geschaffen.
 
 # RZL-Klientenportal
 
-RZL Software bietet die Möglichkeit, ein Internetmodul das
-*RZL-Klientenportal* zu nutzen. Diese Schnittstelle zwischen
-Lohnverrechnungsprogramm und Klienten bietet die Möglichkeit, Daten der
-Lohnverrechnung, wie Anmeldungen, Abmeldungen, Bezüge, diverse
-Änderungen via Internet direkt in die Lohnverrechnung zu importieren.
 
-Der häufigste Anwendungsfall ist der Datentransfer zwischen dem
-Wirtschaftstreuhänder der die Lohnverrechnung für seine Mandanten in der
-Kanzlei abwickelt und dem betreffenden Mandanten. Beim Mandanten werden
-die Daten über das Modul *RZL-Klientenportal* erfasst und über das
-Internet automatisch in die Lohnverrechnung eingelesen.
-
-Die Dienstnehmer können die monatlichen Abrechnungen im
-*RZL-Klientenportal* nach Eingabe eines Kennwortes abrufen. Die
-Dienstnehmer erhalten dazu monatlich ein E-Mail mit einem Link auf das
-Klientenportal.
 
 ## Verarbeiten der Daten
 
