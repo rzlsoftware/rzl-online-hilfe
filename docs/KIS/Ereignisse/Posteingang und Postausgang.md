@@ -25,7 +25,7 @@ wird ebenfalls vorgeschlagen.
 
 ### Briefdatum
 
-Wenn Sie als Korrespondenz-Typ (siehe unten) einen Brief als Posteingang
+Wenn Sie als Korrespondenz-Typ einen Brief als Posteingang
 speichern, können Sie abweichend zum Eingangsdatum das Datum des
 Dokuments zusätzlich abspeichern. Die Eintragung Eingangsdatum ist
 gleich Briefdatum ist natürlich genauso möglich.
@@ -116,17 +116,17 @@ Möglichkeiten der Eingabe angeführt.
 
 ### Dokumentenzuordnung/Aufgabenzuordnung
 
-Im rechten unteren Bereich Ihres Postausgangs werden bereits bestehende
+Im rechten unteren Bereich Ihres Posteingangs werden bereits bestehende
 Verknüpfungen zu Dokumenten und oder Aufgaben angezeigt. Wenn
 beispielsweise ein [Brief oder ein E-Mail aus dem KIS](../Arbeitsabläufe/) geschrieben wurde.
 
-![Verknüpfung Postausgang - Dokument](<img/image102.png>)
+![Verknüpfung Posteingang - Dokument](<img/image98.png>)
 
 Wenn Sie ein mit einem Posteingang verknüpftes Dokument markieren und
 die rechte Maustaste anwählen können Sie das Dokument per E-Mail
 versenden.
 
-![Dokumente per E-Mail versenden](<img/image103.png>)
+![Dokumente per E-Mail versenden](<img/image99.png>)
 
 Durch Anwahl des Eintrags *Versenden* werden die beim Klienten
 gespeicherten E-Mail-Adressen vorgeschlagen.
@@ -140,7 +140,7 @@ die Schaltfläche *Neuer Postausgang*.
 ![Erfassung eines Postausgangs](<img/image96.png>)
 
 !!! warning "Hinweis"
-    Klicken Sie [hi](../Arbeitsabläufe), um zu erfahren, wie Briefe und E-Mails auch automatisch als Postausgang erfasst werden können.
+    Klicken Sie [hier](../Arbeitsabläufe), um zu erfahren, wie Briefe und E-Mails auch automatisch als Postausgang erfasst werden können.
 
 
 ### Laufende Nummer
@@ -156,7 +156,7 @@ wird ebenfalls vorgeschlagen.
 
 ### Briefdatum
 
-Wenn Sie als Korrespondenz-Typ (siehe unten) einen Brief speichern,
+Wenn Sie als Korrespondenz-Typ einen Brief speichern,
 können Sie abweichend zum Ausgangsdatum das Datum des Dokuments
 zusätzlich abspeichern. Die Eintragung Eingangsdatum ist gleich
 Briefdatum ist natürlich genauso möglich.

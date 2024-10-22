@@ -29,7 +29,7 @@ Wiederkehrende Aufgaben können auf andere Klienten übertragen
 !!! info "Tipp"
     Die Erstellung von wiederkehrenden Aufgaben (zB.: laufende Buchhaltung) sollte bei einem Klienten begonnen werden, dessen eingestellte Parameter auf die meisten anderen Klienten zutreffen. Anschließend kann diese wiederkehrende Aufgabe auf die anderen Klienten dupliziert werden. Bei Klienten, für die diese Parameter nicht zutreffen können diese manuell abgeändert werden.
 
-### Aktivität für Klientenspiegel
+## Aktivität für Klientenspiegel
 
 Innerhalb der Klienten-Stammdaten können [Aktivitäten](../Stammdaten/Sonstige%20Stammdaten.md/#aktivitat) zugeordnet werden. Die Aktivitäten werden mit Zeiträumen
 verknüpft.
@@ -39,7 +39,7 @@ automatisch im Bereich *Endtermin* eingetragen. In diesem
 Bereich sind daher die Felder *Täglich*,
 *Wöchentlich*, *Monatlich*, *Jährlich* und *Jeden/Alle ….* ausgegraut.
 
-### Endtermin
+## Endtermin
 
 Im Bereich *Endtermin* wählen Sie aus wie oft (täglich, wöchentlich,
 monatlich, jährlich) und wann (Uhrzeit) die Aufgaben erstellt werden
@@ -53,7 +53,7 @@ hinein.
 !!! warning "Hinweis"
     Wenn die Felder *Wöchentlich*, *Monatlich*, *Jährlich* und *Jeden/Alle* **nicht** angewählt werden können (ausgegraut), liegt das an der in den Klientenstammdaten zugeordneten „Aktivität für den Klientenspiegel“
 
-![Zuordnungen Aktivitäten und Fachbereiche](<"img/image74.png>)
+![Zuordnungen Aktivitäten und Fachbereiche](<img/image74.png>)
 
 Innerhalb der [Stammdaten des Klienten](../Stammdaten/Klientenstammdaten.md) können die in der Verwaltung angelegten
 *Aktivitäten/Fachbereiche* mit den Zeiträumen *monatlich*,
@@ -77,12 +77,12 @@ Quotenzeitraumes abfragen.
 Das Feld zum Ende des geplanten Quotenzeitraums wird für die
 [Quotenplanung](../FinanzOnline/Aufruf%20Status%20der%20Quotenerfüllung.md/#quotenplanung) benötigt.
 
-### Uhrzeit
+## Uhrzeit
 
 Festlegung der Uhrzeit des Endtermins. Die Uhrzeit wird aus der
 Aufgabenvorlage übernommen, kann jedoch abgeändert werden.
 
-### Zuständige
+## Zuständige
 
 In diesem Bereich wählen Sie die zuständigen Mitarbeiter oder
 Zuständigkeiten aus. Die Auswahl kann mit Hilfe der Liste erfolgen bzw.
@@ -90,7 +90,7 @@ durch Eintippen der Anfangsbuchstaben des Mitarbeiters.
 
 ![Zuordnungen III](<img/image76.png>)
 
-Durch Klick auf ![MA plus Symbol](<img/image387.png>) (1) können Sie neue zuständige Mitarbeiter bzw. einen neuen Zuständigkeitsbereich
+Durch Klick auf ![MA plus Symbol](<img/image387.png>) können Sie neue zuständige Mitarbeiter bzw. einen neuen Zuständigkeitsbereich
 hinzufügen.
 
 Im Bereich der zuständigen Mitarbeiter können nicht nur – wie bei einer
@@ -103,31 +103,31 @@ Klienten - als Hauptverantwortlicher - zugeordnete Mitarbeiter
 vorgeschlagen. Sie können hier auch mehr als eine Zuständigkeit
 zuordnen.
 
-### Endtermin der nächsten zu generierenden Aufgabe
+## Endtermin der nächsten zu generierenden Aufgabe
 
 Damit die wiederkehrende Einstellung der Aufgabe gestartet werden kann,
 muss dieses Feld ausgefüllt werden. Hier tragen Sie den Zeitpunkt des
 ersten Endtermins ein.
 
-### Generierungszeitpunkt (Tage vor Endtermin)
+## Generierungszeitpunkt (Tage vor Endtermin)
 
 Dieses Feld ist verantwortlich für den Zeitpunkt der Aufgabenerstellung.
 Die Daten des Bereichs *Endtermin der nächsten zu generierenden Aufgabe* werden um die Eintragung in diesem Feld gekürzt und die
 Aufgabe wird erstellt. Das Ergebnis der Eintragung wird rechts neben dem
 Feld angezeigt.
 
-### Zeitraum (+/- Monate nach/vor Endtermin)
+## Zeitraum (+/- Monate nach/vor Endtermin)
 
 In diesem Feld tragen Sie den Monat ein, für das die Arbeit erledigt
 werden muss. Die Eintragung bezieht sich auf den Endtermin und erfolgt durch die Eintragung von positiven oder negativen Zahlen.
 Das Ergebnis der Eintragung wird rechts neben dem Feld angezeigt.
 
-### Automatische Generierung aktiv
+## Automatische Generierung aktiv
 
 Dieses Feld können Sie verwenden um eine wiederkehrende Aufgabe zu
 deaktivieren, ohne die Aufgaben löschen zu müssen.
 
-### Duplizieren von wiederkehrenden Aufgaben - 
+## Duplizieren von wiederkehrenden Aufgaben
 
 Innerhalb der Details ![Detail Aufgabe](<img/image77.png>) einer wiederkehrenden Aufgabe kann durch Anwahl
 des Duplizieren-Symbols die Aufgabe auf weitere Klienten übertragen werden.
@@ -148,7 +148,7 @@ Aufgabe auf die aktivierten Klienten übertragen.
 !!! info "Tipp"
     Innerhalb der Liste der wiederkehrenden Aufgaben (Klienten/Kanzleibereich) können einzelne Aufgaben markiert und nach Anwahl der rechten Maustaste ebenfalls dupliziert werden.
 
-### Generierungsvorschau
+## Generierungsvorschau
 
 Innerhalb der wiederkehrenden Aufgaben können Sie durch Anwahl der
 Schaltfläche *Generierungsvorschau* die nächsten zu generierenden

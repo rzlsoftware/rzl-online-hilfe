@@ -11,25 +11,25 @@ klicken Sie bitte auf die Schaltfläche *Neues Telefonprotokoll*.
 ![Erfassung Telefonprotokoll](<img/image104.png>)
 
 !!! info "Tipp"
-    Wenn ein Telefonprotokoll markiert ist, kann durch Anwahl der rechten Maustaste und des Eintrags *Detail drucken* das Protokoll ausgedruckt werden.
+    Wenn ein Telefonprotokoll markiert ist, kann über *Detail drucken* im Kontextemenü (rechte Maustaste) das Protokoll ausgedruckt werden.
 
-### Datum
+## Datum
 
 Sie erhalten das aktuelle Datum und die aktuelle Uhrzeit vorgeschlagen.
 Diese Vorschläge können Sie wenn notwendig ändern.
 
-### Gesprächsende
+## Gesprächsende
 
 In diesem Feld besteht die Möglichkeit das Gesprächsende einzutragen.
 Sie sehen dann automatisch die Gesamtdauer des Telefonats neben dem
 Gesprächsende angezeigt.
 
-#### Typ
+## Typ
 
 Im Bereich Typ können Sie auswählen, ob das Telefonat *Eingehend* oder
 *Ausgehend* war.
 
-### Klient
+## Klient
 
 Ein einzelner Klient kann durch Klick auf die Klientennummer oder den
 Klientennamen in der Auswahlliste, durch Eingabe der Klientennummer und
@@ -39,45 +39,45 @@ Auf/Ab-Tasten und Eingabe-Taste (beim Textblock), ausgewählt werden.
 
 Auch eine [Klientenmehrfachzuordnung](../Ereignisse/Zuordnung%20und%20Archivierung%20von%20Ereignissen/#zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung) ist möglich.
 
-### Gesprächspartner
+## Gesprächspartner
 
 Als Gesprächspartner erhalten Sie Vorschläge vom Programm (persönliche
 Daten, Kontaktpersonen), die ausgewählt werden können. Zusätzlich können
 Sie in diesem Feld selbst Einträge vornehmen.
 
-### Telefonnummer
+## Telefonnummer
 
 Als Telefonnummer werden die in den Klientendaten eingetragenen Nummern
 vorge­schlagen. Wenn Sie die Telefonanbindung lizensiert haben und die
 technischen Einstellungen passen, können Sie durch Anwahl der
 Schaltfläche *Telefonnummer* den Gesprächsteilnehmer direkt anrufen.
 
-### Zuständig
+## Zuständig
 
 Hier wird der zuständige Mitarbeiter ausgewählt und eingetragen. Das
 Programm schlägt den aktuellen Benutzer des KIS vor.
 
-### Kategorie
+## Kategorie
 
 In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Die Kategorie ist ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
 innerhalb der Telefonprotokolle bzw. Ereignisse.
 
-### Thema
+## Thema
 
 Im Bereich [*Thema*](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) wählen Sie zwischen den in der Verwaltung angelegten Themen aus. Wie die Kategorie ist das Thema  ebenfalls ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
 innerhalb der Telefonprotokolle bzw. Ereignisse.
 
-### Betreff
+## Betreff
 
 Hier kann ein Betreff – der das Telefonat kurz beschreibt – eintragen
 werden.
 
-### Inhalt
+## Inhalt
 
 Im Feld *Inhalt* beschreiben Sie das geführte Telefonat mit freiem Text
 genauer.
 
-### Aktenvermerk
+## Aktenvermerk
 
 Dieses Feld können Sie verwenden, um zu dokumentieren, dass ein
 Aktenvermerk über dieses Telefonat angelegt wurde oder anzulegen ist.
@@ -85,7 +85,7 @@ Aktenvermerk über dieses Telefonat angelegt wurde oder anzulegen ist.
 Das Feld Aktenvermerk kann verwendet werden, um die Wichtigkeit des
 Telefonats hervorzuheben.
 
-### Zeitraum
+## Zeitraum
 
 In diesem Feld kann ein Zeitraum eingetragen werden. Unten sind einige
 Möglichkeiten der Eingabe angeführt.
@@ -100,27 +100,22 @@ Möglichkeiten der Eingabe angeführt.
 | MMMMJJ      | 01-04/2020              | von Monat bis Monat im Jahr     |
 | MMJJMMJJ    | 01/2019-05/2019         | von Monat, Jahr bis Monat, Jahr |
 
-### Dokumentenzuordnung 
+## Dokumentenzuordnung 
 
-Im rechten unteren Bereich Ihres Telefonprotokolls können Sie Dokumente,
-die bereits in das Kanzlei-Informations-System übernommen worden sind,
-dem Telefonprotokoll zuordnen.
-
-![Verknüpfung Telefonprotokoll - Dokument](<img/image105.png>)
-
-Sie klicken zunächst auf die Schaltfläche *Keine Dokumente zugeordnet*.
+Um ein bereits im KIS existierendes Dokument zuordnen zu können, klicken Sie zunächst auf die Schaltfläche *Keine Dokumente zugeordnet*.
 
 ![Dokumente zuordnen](<img/image106.png>)
 
-Wenn Sie das Symbol mit dem **+**-Zeichen anwählen, können Sie Dokumente
+Wenn Sie das Symbol ![+ Symbol Dokument](<img/image123.png>) anwählen, können Sie Dokumente
 hinzufügen. Das Symbol mit dem roten Kreuz löscht die Zuordnung des
 markierten Dokuments zum Telefonprotokoll.
 
-Wenn Sie ein mit einem Telefonprotokoll verknüpftes Dokument markieren
-und die rechte Maustaste anwählen können Sie das Dokument per E-Mail
-versenden.
+![Dokumente per E-Mail versenden](<img/image99.png>)
 
-### RZL Telefon Anbindung
+Durch Anwahl des Eintrags *Versenden* werden die beim Klienten
+gespeicherten E-Mail-Adressen vorgeschlagen.
+
+## RZL Telefon Anbindung
 
 In Kombination mit einer TAPI-fähigen Telefonanlage wählt das
 Kanzlei-Informations-System direkt die beim Klienten hinterlegte
@@ -138,7 +133,7 @@ Bei eingehenden Anrufen wird der Anrufer automatisch identifiziert und
 der jeweilige Klient wird geöffnet. Die Erfassung des Telefonprotokolls
 ist gleich wie oben beschrieben.
 
-## Sonstige Memos
+# Sonstige Memos
 
 Eine weitere Möglichkeit Vorgänge der Kanzlei zu erfassen, ist die
 Erfassung als Memo.
@@ -150,12 +145,12 @@ Um ein neues Memo zu erfassen, klicken Sie bitte auf die Schaltfläche
 
 ![Erfassung eines Memos](<img/image108.png>)
 
-### Datum
+## Datum
 
 Sie erhalten das aktuelle Datum und die aktuelle Uhrzeit vorgeschlagen.
 Diese Vorschläge können Sie wenn notwendig ändern.
 
-### Klient
+## Klient
 
 Ein einzelner Klient kann durch Klick auf die Klientennummer oder den
 Klientennamen in der Auswahlliste, durch Eingabe der Klientennummer und
@@ -165,32 +160,32 @@ Auf/Ab-Tasten und Eingabe-Taste (beim Textblock), ausgewählt werden.
 
 Auch eine [Klientenmehrfachzuordnung](../Ereignisse/Zuordnung%20und%20Archivierung%20von%20Ereignissen/#zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung) ist möglich.
 
-### Zuständig
+## Zuständig
 
 Hier wird der zuständige Mitarbeiter ausgewählt und eingetragen. Das
 Programm schlägt den aktuellen Benutzer des KIS vor.
 
-### Betreff
+## Betreff
 
 Hier kann ein Betreff – der den Inhalt kurz beschreibt – eintragen
 werden.
 
-### Inhalt
+## Inhalt
 
 Im Feld *Inhalt* beschreiben Sie den Gegenstand des Memos mit freiem
 Text genauer.
 
-### Kategorie
+## Kategorie
 
 In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Die Kategorie ist ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
 innerhalb der Memos bzw. Ereignisse.
 
-### Thema
+## Thema
 
 Im Bereich [*Thema*](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) wählen Sie zwischen den in der Verwaltung angelegten Themen aus. Wie die Kategorie ist das Thema  ebenfalls ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
 innerhalb der Memos bzw. Ereignisse.
 
-### Aktenvermerk
+## Aktenvermerk
 
 Dieses Feld können Sie verwenden, um zu dokumentieren, dass ein
 Aktenvermerk über dieses Memo angelegt wurde oder anzulegen ist.
@@ -198,7 +193,7 @@ Aktenvermerk über dieses Memo angelegt wurde oder anzulegen ist.
 Das Feld Aktenvermerk kann auch verwendet werden, um die Wichtigkeit des
 Memos hervorzuheben.
 
-### Zeitraum
+## Zeitraum
 
 In diesem Feld kann ein Zeitraum eingetragen werden. Unten sind einige
 Möglichkeiten der Eingabe angeführt.
@@ -212,3 +207,20 @@ Möglichkeiten der Eingabe angeführt.
 | MMJJJJ      | 01/2020                 | im Monat des Jahres             |
 | MMMMJJ      | 01-04/2020              | von Monat bis Monat im Jahr     |
 | MMJJMMJJ    | 01/2019-05/2020         | von Monat, Jahr bis Monat, Jahr |
+
+## Dokumentenzuordnung 
+
+Um ein bereits im KIS existierendes Dokument zuordnen zu können, klicken Sie zunächst auf die Schaltfläche *Keine Dokumente zugeordnet*. Sie klicken zunächst auf die Schaltfläche *Keine Dokumente zugeordnet*.
+
+![Dokumente zuordnen](<img/image106.png>)
+
+Wenn Sie das Symbol ![+ Symbol Dokument](<img/image123.png>) anwählen, können Sie Dokumente
+hinzufügen. Das Symbol mit dem roten Kreuz löscht die Zuordnung des
+markierten Dokuments zum Telefonprotokoll.
+
+Wenn Sie ein verknüpftes Dokument markieren und die rechte Maustaste anwählen können Sie das Dokument per E-Mail versenden.
+
+![Dokumente per E-Mail versenden](<img/image99.png>)
+
+Durch Anwahl des Eintrags *Versenden* werden die beim Klienten
+gespeicherten E-Mail-Adressen vorgeschlagen.
