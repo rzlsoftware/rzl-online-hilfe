@@ -2874,62 +2874,6 @@ beim Magistrat geschaffen.
 
 # Erstellung und Ausdruck eines EFZ-Antrages
 
-## Neuanlage eines EFZ-Antrages
-
-Im Programmteil *Stamm / EFZ-Antrag* kann der Vergütungsantrag gemäß §
-53b des Allgemeinen Sozialversicherungsgesetzes (ASVG) gestellt werden.
-Zunächst ist im Feld *Dienstnehmer* der betreffende Dienstnehmer
-anzuwählen (Aufruf mit der *F2-Taste*). Dann wird im Feld
-*Arbeitsverhinderung Beginn* der Anfang der Arbeitsverhinderung
-eingetragen.
-
-Abb. 25‑1 Anlegen eines EFZ-Antrages
-
-<img src=".\img/image342.png"
-style="width:3.93701in;height:2.14232in" />
-
-Tipp
-
-Im Feld *Arbeitsverhinderung Beginn* können mit der *F2-Taste* die
-Krankenstände, die in der Krankenstandskartei eingetragen sind,
-aufgerufen werden.
-
-Nach Anwahl der Schaltfläche *Anlegen* wird nachfolgender Programmteil
-aufgerufen:
-
-Abb. 25‑2 Eingabe der Daten für den EFZ-Antrag
-
-<img src=".\img/image343.png"
-style="width:3.93701in;height:2.93117in" />
-
-Die Punkte im oben angeführten Bildschirm entsprechen genau den Punkten
-des originalen Antragsformulars. Bestimmte Daten werden fix übernommen
-(z. B. Name und Adresse des Dienstnehmers). Einige Daten werden
-vorgeschlagen und können abgeändert werden (Telefon, E-Mail, usw.). Eine
-Änderung der Daten wird durch ein Sternchen (\*) vor dem geänderten Feld
-angezeigt. Die restlichen Daten sind einzutragen.
-
-Im Bereich der Bankverbindung kann der IBAN bei eingetragener BLZ und
-Kontonummer durch Anwahl der *F2-Taste* vorgeschlagen werden. Wenn die
-Bankleitzahl eingetragen wird, wird automatisch der korrekte BIC
-vorgeschlagen bzw. eingetragen.
-
-Im Feld *Bruttobetrag ohne SZ* kann mit der *F3-Taste* das
-Jahreslohnkonto und mit der Tastenkombination *Strg-F3* das
-Vorjahreslohnkonto aufgerufen werden.
-
-Mit *rechter Maus* kann im linken (grauen) Bereich die Vollständigkeit
-des EFZ-Antrages kontrolliert werden.
-
-Abb. 25‑3 Ausfüllhilfe Antrag EFZ-Antrag
-
-<img src=".\img/image344.png"
-style="width:6.10139in;height:6.95833in" />
-
-Tipp
-
-Weitere Informationen stehen unter
-[www.auva.at/efz](http://www.auva.at/efz) zur Verfügung.
 
 ## Bearbeiten eines EFZ-Antrages
 
