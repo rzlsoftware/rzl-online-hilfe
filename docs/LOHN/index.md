@@ -2906,40 +2906,7 @@ beim Magistrat geschaffen.
 
 
 
-## Übermittlung der Berufskrankheitenmeldung an die ÖGK
 
-Wurden alle Pflichtfelder befüllt und wird anschließend der Dialog über
-*Speichern* verlassen, wird folgender Hinweis angezeigt.
-
-Abb. 28‑4 Hinweis Erstellung Berufskrankheitenmeldung
-
-<img src=".\img/image360.png"
-style="width:3.93701in;height:1.53068in" />
-
-Wird diese Abfrage mit *Ja* beantwortet, kommt es direkt zur Übernahme
-in die ÖGK-Datei. Über *Klient / Elektronische Übermittlung /
-Elektronische Meldung ÖGK absenden* wird diese Meldung dann einzeln oder
-mit anderen Meldungen gemeinsam an die ÖGK übertragen.
-
-Eine bereits gespeicherte Berufskrankheitenmeldung kann über *Stamm /
-Berufskrankheiten* (nach Auswahl des Dienstnehmers) durch einen
-Doppelklick geöffnet und nochmals bearbeitet werden.
-
-Abb. 28‑5 Bearbeiten einer Berufskrankheitenmeldung
-
-<img src=".\img/image361.png"
-style="width:3.93701in;height:2.10531in" />
-
-**Manuelle Übermittlung zu einem späteren Zeitpunkt**
-
-Über die Schaltfläche *ELDA*… ist es möglich, die bereits erfasste
-Berufskrankheitenmeldung auch noch zu einem späteren Zeitpunkt in die
-ÖGK-Datei zu stellen.
-
-**Löschen einer Berufskrankheitenmeldung**
-
-Wird eine Berufskrankheitenmeldung in der Liste markiert und die
-Schaltfläche *Löschen* angewählt, wird die markierte Meldung gelöscht.
 
 ## Ausdruck Berufskrankheitenmeldung und Liste
 
