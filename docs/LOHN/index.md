@@ -2924,20 +2924,6 @@ beim Magistrat geschaffen.
 
 
 
-## Ausdrucke über RZL PDF-Manager bereitstellen
-
-Auch mit dem *RZL PDF-Manager* können ein oder mehrere Ausdrucke durch
-Anwahl des *Klientenportals* hochgeladen werden.
-
-Abb. 29‑3 Symbol Klientenportal im PDF-Manager
-
-<img src=".\img/image364.png"
-style="width:3.93701in;height:0.88144in" />
-
-Abb. 29‑4 Datei ins Klientenportal hochladen
-
-<img src=".\img/image365.png"
-style="width:3.93701in;height:3.23758in" />
 
 ## Abrechnungen der Dienstnehmer bereitstellen
 
