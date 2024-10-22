@@ -2888,27 +2888,7 @@ beim Magistrat geschaffen.
 
 
 
-## Ausdruck des Entsendeformulars A1
 
-Mit einem Doppelklick auf den Eintrag kann das Dokument geöffnet bzw.
-natürlich auch als PDF-Dokument gespeichert und ausgedruckt werden.
-Dieses Dokument muss der entsendete Mitarbeiter im Ausland stets
-mitführen.
-
-Abb. 26‑6 Muster A1 Formular
-
-<img src=".\img/image351.png"
-style="width:6.10236in;height:4.98733in" />
-
-Tipp
-
-Eine klientenübergreifende Sammlung sämtlicher Entsendungsanträge in der
-Kanzlei finden Sie unter *Klient / Elektronische Übermittlung /
-Elektronische Entsendungsanträge*.
-
-Über den Menüpunkt *Ausdruck / Sonderdrucke /
-Entsendungsantrag…(Formular)* ist es ebenfalls möglich, das
-entsprechende Formular auszudrucken.
 
 # 
 
