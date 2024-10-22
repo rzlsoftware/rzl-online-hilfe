@@ -2945,19 +2945,7 @@ Lohnformeln*).
 
 ## Verwaltung der Lohn-Formeln innerhalb des Klienten
 
-### Bearbeiten des Mengengerüsts
 
-Wenn die Lohn-Formeln innerhalb des Klienten verwaltet werden, ist
-zunächst das Mengen­gerüst des betreffenden Klienten im Programmteil
-*Klient / Vergrößern/Verkleinern* zu bearbeiten.
-
-Abb. 30‑1 Einstellung des Mengengerüsts für die Lohn-Formeln
-
-<img src=".\img/image373.png"
-style="width:3.93701in;height:2.70065in" />
-
-Im Registerblatt *Mengengerüst (2)* wird die Anzahl der benötigten
-Lohn-Formeln eingetragen.
 
 ### Anlage von Lohn-Formeln
 
