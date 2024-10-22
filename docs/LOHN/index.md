@@ -2951,28 +2951,7 @@ Lohnformeln*).
 
 
 
-### Verankerung der Tabelle in den Stammdaten des Klienten
 
-In den Stammdaten des Klienten (*Stamm / Klient*) kann im Registerblatt
-*LA, Formeln, Texte, Kontenplan, Beiträge, Währung, NeuFöG* im Feld
-*Lohn-Formel-Zuordnungstabelle* eine der angelegten Tabellen fix
-verankert werden. Diese Tabelle wird dann für alle Dienstnehmer dieses
-Klienten verwendet.
-
-Abb. 30‑27 Verankerung der Tabelle in den Klientenstammdaten
-
-<img src=".\img/image399.png"
-style="width:3.93701in;height:2.72899in" />
-
-Innerhalb der einzelnen Dienstnehmer kann im Abrechnungsbildschirm
-*Stammdaten Fristen* im Feld *Lohn-Formel-Zuordnungstabelle* eine von
-der in den Klientenstammdaten unterschiedliche Tabelle verankert werden.
-
-Abb. 30‑28 Abweichende Zuordnung innerhalb der Abrechnung (des
-Dienstnehmers)
-
-<img src=".\img/image400.png"
-style="width:6.10236in;height:4.26768in" />
 
 ### Formelverwendung in der monatlichen Abrechnung der Dienstnehmer
 
