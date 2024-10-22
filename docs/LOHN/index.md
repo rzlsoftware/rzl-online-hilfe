@@ -2904,58 +2904,7 @@ beim Magistrat geschaffen.
 
 # Erstellung der Berufskrankheitenmeldung
 
-## Neuanlage einer Berufskrankheitenmeldung
 
-Seit 01.01.2021 gibt es die Möglichkeit, über den Menüpunkt *Stamm /
-Berufskrankheit* die Berufskrankheitenmeldung zu erstellen. Die
-rechtliche Grundlage bildet, wie bei der Unfallmeldung der § 363 des
-Allgemeinen Sozialversicherungsgesetzes (ASVG). Grundsätzlich sind
-bereits Verdachtsfälle einer Berufskrankheit über diesen Weg an die AUVA
-zu melden. Zunächst ist im Feld Dienstnehmer der betreffende
-Dienstnehmer anzuwählen (Aufruf mit der *F2-Taste*). Dann wird im Feld
-*Arbeitsverhinderung Beginn* der Anfang der Arbeitsverhinderung
-eingetragen.
-
-Abb. 28‑1 Anlegen einer Berufskrankheitenmeldung
-
-<img src=".\img/image357.png"
-style="width:3.93701in;height:2.14232in" />
-
-Im ersten Teil des Eingabedialoges sind die Stammdaten (Dienstgeber und
-Dienstnehmer) und einige Angaben zur Beschäftigung des Dienstnehmers
-bereits vorausgefüllt. In einigen Fällen kann eine abweichende Eingabe
-erfolgen, welche durch ein Sternchen (\*) gekennzeichnet wird.
-
-Tipp
-
-Mit der *F1-Taste* können Sie eine Kurzinfo zu dem jeweiligen Datenfeld
-aufrufen.
-
-Abb. 28‑2 Eingabe der Daten für die Berufskrankheitenmeldung
-
-<img src=".\img/image358.png"
-style="width:6.10236in;height:5.89031in" />
-
-Der zweite Teil der Berufskrankheitenmeldung verlangt Informationen zur
-*Art der Erkrankung* bzw. den *Ursachen für die Erkrankung*. Daneben
-sind noch die Daten der *behandelten Ärzte* und die *Kontaktdaten der
-Ansprechpartner* in der Firma anzugeben.
-
-Wie gewohnt kann über das Kontextmenü (*rechte Maustaste* im grauen
-Bereich) oder mit der *Taste F9* bzw. der Tastenkombination *Strg + F9*,
-die Überprüfung der Pflichtfelder bzw. die Liste der noch fehlenden
-Daten vorgenommen werden.
-
-Abb. 28‑3 Eingabe der Daten für die Berufskrankheitenmeldung
-
-<img src=".\img/image359.png"
-style="width:6.10236in;height:7.44169in" />
-
-Tipp
-
-Eine Liste der Berufskrankheiten finden Sie unter: [Liste der
-Berufskrankheiten
-(auva.at)](https://www.auva.at/cdscontent/load?contentid=10008.541831&version=1587108317)
 
 ## Übermittlung der Berufskrankheitenmeldung an die ÖGK
 
