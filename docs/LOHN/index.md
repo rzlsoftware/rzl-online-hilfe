@@ -2851,53 +2851,8 @@ Seit dem Jahr 2005 müssen die Kommunalsteuererklärungen elektronisch
 fünfstellige Gemeindenummern, um eine eindeutige Identifikation der
 einzelnen Gemeinden zu ermöglichen.
 
-## Erstellung der elektronischen Kommunalsteuer-Jahreserklärung
 
-Die Erstellung der Kommunalsteuer-Jahreserklärung kann entweder im
-Programmteil *Bearbeiten / Elektronische Übermittlung / Elektronische
-Kommunalsteuer-Jahreserklärung 20XX erstellen* für jeden Klienten
-einzeln erstellt werden.
 
-Im Programmteil *Klient / Elektronische Übermittlung / Elektronische
-Kommunalsteuer-Jahreserklärung erstellen* kann die Erstellung
-klientenübergreifend durchgeführt werden.
-
-Abb. 23‑1 Erstellung der Kommunalsteuer-Jahreserklärung
-
-<img src=".\img/image324.png"
-style="width:3.93701in;height:2.71786in" />
-
-Bevor die Kommunalsteuer-Jahreserklärung erstellt wird, sollten im
-Registerblatt *Überprüfung* vorab die Daten geprüft werden. Nach
-erfolgter Prüfung kann im Registerblatt *Erstellung
-KommSt-Erklärung-Datei* durch Anwahl der Schaltfläche *Erstellen* die
-Datei erstellt werden. Im Registerblatt *Protokoll* kann der Inhalt der
-Datei angesehen und auch ausgedruckt werden.
-
-## Versenden der Kommunalsteuer-Jahreserklärung
-
-Das Versenden der Erklärung erfolgt im Programmteil *Klient /
-Elektronische Übermittlung / Elektronische
-Kommunalsteuer-Jahreserklärung absenden*.
-
-Abb. 23‑2 Versenden der Kommunalsteuer-Jahreserklärung
-
-<img src=".\img/image325.png"
-style="width:3.95658in;height:3.00003in" />
-
-Durch Anwahl der Schaltfläche *Senden* wird automatisch die Homepage von
-FinanzOnline geöffnet. Für die Übermittlung ist der Programmteil
-*Eingaben / Übermittlung* anzuwählen.
-
-Abb. 23‑3 Versenden der Kommunalsteuererklärung
-
-<img src=".\img/image326.png"
-style="width:3.93701in;height:2.95276in" />
-
-Zuerst muss die Schaltfläche *Datei auswählen* angeklickt werden. Im
-Feld *Dateiname* kann erst dann mit der Tastenkombination *Strg – V* die
-Datei automatisch eingefügt werden. Über die Schaltflächen *Öffnen* und
-*Datei senden* können Sie die Datei dann endgültig übertragen.
 
 ## Erstellung einer Kommunalsteuer-Schließungserklärung
 
