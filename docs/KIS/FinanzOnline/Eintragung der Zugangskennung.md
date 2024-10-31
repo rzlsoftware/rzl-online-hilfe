@@ -20,13 +20,12 @@ Innerhalb von FinanzOnline sollten Sie im Bereich *Zustellung* die
 Verständigung für Veranlagungsbescheide und die Übermittlung von
 Buchungsmitteilungen aktivieren.
 
-### Steuerkonto-, Quoten (Steuererklärungen) und Vertretungslistenabfrage 
+## Steuerkonto-, Quoten (Steuererklärungen) und Vertretungslistenabfrage 
 
-Für die Steuerkontoabfrage, die Abfrage der Quoten, Steuererklärungen
-und der Vertretungsliste wird **kein Web-Service-Benutzer** Zugang
+Für die Steuerkontoabfrage, die Steuererklärungen, der Vertretungsliste und (teilweise) die Abfrage der Quoten wird kein Web-Service-Benutzer Zugang
 verwendet. Hier ist ein „normaler“ FinanzOnline-Zugang der Kanzlei
 einzutragen, d.h. ein Zugang der es ermöglicht ins FinanzOnline
-einzusteigen um Steuerkonten, Quoten, Steuererklärungen und
+einzusteigen um Steuerkonten, Steuererklärungen und
 Vertretungslistenabfragen usw. herunterzuladen.
 
 Sie sollten hier allerdings keinen im Kanzlei-Informations-System
@@ -34,12 +33,8 @@ gespeicherten Mitarbeiter-Zugang eintragen, sondern einen allgemeinen
 Zugang den kein Mitarbeiter verwendet. Dies hat den Hintergrund, dass
 somit differenziert werden kann, welche Abfragen durch das KIS
 automatisch durchgeführt wurden und welche vom jeweiligen Mitarbeiter.
-Für die Vergabe der Berechtigungen lesen Sie bitte das Kapitel *Anlage
-des Zugangs im Detail (siehe unten)*.
 
-Abb. 6‑5 Automatische Steuerkontoabfrage
-
-![autom Steuerkontoabfrage](<img/image127.png/)>
+![autom Steuerkontoabfrage](<img/image127.png/>)
 
 Im Bereich *Zuordnung* wählen Sie den Eintrag *Steuerkonto-, Quoten- und
 Vertretungslistenabfrage* an. Dieser Benutzer kann durch Anwahl des
@@ -52,19 +47,17 @@ Damit Steuererklärungen und Steuerkonto eines Klienten grundsätzlich
 abgefragt werden können, muss für den Klienten innerhalb von
 FinanzOnline Akteneinsicht gemäß § 90a BAO aktiviert sein.
 
-#### FinanzOnline Bereich Zustellung
+## FinanzOnline Bereich Zustellung
 
 Innerhalb von FinanzOnline gibt es im Bereich *Zustellung* das Feld
 *Zustellung*, welches zusätzliche Informationen in die DataBox der
 Kanzlei bereitstellt. Die bereits bestehenden Einstellungen im Bereich
 der Zustellung können unverändert beibehalten werden.
 
-Abb. 6‑6 Finanz Online – Zustellung
-
 ![FinOn Zustellung](<img/image128.png>)
 
 
-#### Verständigung bei der Erstellung von Veranlagungsbescheiden
+## Verständigung bei der Erstellung von Veranlagungsbescheiden
 
 Wenn Sie dieses Feld aktivieren, erhalten Sie eine Verständigung wenn
 für Ihre Klienten Veranlagungsbescheide erstellt werden. Diese
@@ -76,15 +69,13 @@ Zusätzlich zum Eintrag der Verständigung in die Databox werden
 Bescheidinformationen beim Aufruf der **Erklärungen** im
 Kanzlei-Informations-System dargestellt. Sie erhalten für Ihre
 Veranlagungsbescheide das Vorsoll, den Spruchbetrag und die Gutschrift
-oder Nachforderung angezeigt (vgl. Kap. 6.6 *Aufruf Erklärungen*). Mit
-Hilfe dieser Informationen findet eine Bescheidvorprüfung statt.
+oder Nachforderung angezeigt. Mit Hilfe dieser Informationen findet eine Bescheidvorprüfung statt.
 
-Hinweis
+!!! warning "Hinweis"
+    Wenn Sie die automatische Bescheidvorprüfung verwenden wollen muss
+    dieses Feld aktiviert werden.
 
-Wenn Sie die automatische Bescheidvorprüfung verwenden wollen muss
-dieses Feld aktiviert werden.
-
-#### Kontoinformation bei der Erstellung einer Buchungsmitteilung
+## Kontoinformation bei der Erstellung einer Buchungsmitteilung
 
 Wenn von der Finanzverwaltung eine Buchungsmitteilung erstellt wird,
 können Sie sich diese Buchungsmitteilung durch Anwahl dieses Feldes in
@@ -92,7 +83,7 @@ die DataBox zustellen lassen. Immer wenn eine Buchungsmitteilung in die
 DataBox geladen wird, wird gleichzeitig das Steuerkonto des Klienten
 aktualisiert.
 
-#### Anlage des Zugangs im Detail
+## Anlage des Zugangs im Detail
 
 Der Zugang für die Steuerkonto-, Quoten und Vertretungslistenabfrage
 sollte nur die notwendigen Rechte besitzen. Sie sollten keinen
@@ -101,100 +92,80 @@ nachfolgende Felder aktiviert werden. Dieser Zugang muss alle Klienten
 einsehen können. D.h. es darf keine Beschränkungen durch eine ev.
 Teamverwaltung geben.
 
-Abb. 6‑7 Benutzerdaten – Übersicht
-
 ![Benutzerdaten - Übersicht](<img/image129.png>)
-
-Abb. 6‑8 Benutzerkennung
 
 ![Benutzerkennung](<img/image130.png>)
 
 Nur in den Bereichen *Abfragen, Databox* und *Admin* müssen nachfolgende
 Aktivierungen vorgenommen werden.
 
-Abb. 6‑9 Benutzerzugang – *Abfragen*
-
 ![Benutzerzugang Abfragen](<img/image131.png>)
-
-Abb. 6‑10 Benutzerzugang – *Nachrichten*
 
 ![Benutzerzugang - Nachrichten](<img/image132.png>)
 
-Abb. 6‑11 Benutzerzugang
-
 ![Benutzerzugang](<img/image133.png>)
 
-### Mitarbeiter
+## Mitarbeiter
 
-> FinanzOnline-Zugänge können mit der Zuordnung Mitarbeiter oder
-> Mitarbeiter – Login mit Benutzername gespeichert werden.
-
-Abb. 6‑12 Mitarbeiterzugang
+FinanzOnline-Zugänge können mit der Zuordnung **Mitarbeiter** oder **Mitarbeiter – Login mit Benutzername** gespeichert werden.
 
 ![Mitarbeiterzugang](<img/image134.png>)
 
-> Nach Eintragung der Zugangskennungen ist im Bereich *Zuordnung* der
-> Eintrag *Mitarbeiter* bzw. *Mitarbeiter – Login mit Benutzername*
-> auszuwählen. Im Bereich *Mitarbeiter* wählen Sie den entsprechenden
-> Mitarbeiter aus. Aktivieren Sie den Mitarbeiterzugang indem Sie das
-> Hakerl bei *Aktiv* setzen, um diesen wie vorgesehen verwenden zu
-> können.
->
-> Wenn Sie das Hakerl im Feld *Persönliche Databox abrufen* setzen, dann
-> können Einträge in der persönlichen DataBox im
-> Kanzlei-Informations-System abgerufen werden. Das Feld *Letzter
-> DataBox-Eingang* zeigt Ihnen den aktuellsten Eingang an.
->
-> Für persönliche angeforderte Bescheide welche älter als 2 Monate sind,
-> werden aufgrund der Aufgabenvorlagen innerhalb der
-> FinanzOnline-Zuweisungen keine Aufgaben mehr generiert (vgl. Kap. 6.3
-> *Zuordnung von Thema/Kategorie/Aufgabenvorlage*). Im Programmteil
-> *Extras / Einstellungen* können Sie im Registerblatt *FinanzOnline*
-> die Aufgabenerstellung für persönlich angeforderte Bescheide
-> deaktivieren.
->
-> Wenn mehrere Vollmachten (Teilnehmer-IDs) vorhanden sind, muss pro
-> Mitarbeiter für jede Vollmacht ein Zugang angelegt werden.
+Nach Eintragung der Zugangskennungen ist im Bereich *Zuordnung* der
+Eintrag *Mitarbeiter* bzw. *Mitarbeiter – Login mit Benutzername*
+auszuwählen. Im Bereich *Mitarbeiter* wählen Sie den entsprechenden
+Mitarbeiter aus. Aktivieren Sie den Mitarbeiterzugang indem Sie das
+Hakerl bei *Aktiv* setzen, um diesen wie vorgesehen verwenden zu
+können.
 
-#### Automatischer Einstieg in FinanzOnline
+Wenn Sie das Hakerl im Feld *Persönliche Databox abrufen* setzen, dann
+können Einträge in der persönlichen DataBox im
+Kanzlei-Informations-System abgerufen werden. Das Feld *Letzter
+DataBox-Eingang* zeigt Ihnen den aktuellsten Eingang an.
 
-> Im Stammdatenbereich des Kanzlei-Informations-Systems erfolgt der
-> Einstieg ins FinanzOnline durch Anwahl der Steuernummer. Die
-> Steuernummer kann innerhalb von FinanzOnline durch Anwahl der
-> Tastenkombination STRG + V eingefügt werden.
+Für persönliche angeforderte Bescheide welche älter als 2 Monate sind, werden aufgrund der Aufgabenvorlagen innerhalb der
+FinanzOnline-Zuweisungen keine Aufgaben mehr generiert. Im Programmteil
+*Extras / Einstellungen* können Sie im Registerblatt *FinanzOnline*
+die Aufgabenerstellung für persönlich angeforderte Bescheide
+deaktivieren.
 
-Abb. 6‑13 Direkteinstieg – FinanzOnline - Steuernummer
+Wenn mehrere Vollmachten (Teilnehmer-IDs) vorhanden sind, muss pro
+Mitarbeiter für jede Vollmacht ein Zugang angelegt werden.
+
+## Automatischer Einstieg in FinanzOnline
+
+Im Stammdatenbereich des Kanzlei-Informations-Systems erfolgt der
+Einstieg ins FinanzOnline durch Anwahl der Steuernummer. Die
+Steuernummer kann innerhalb von FinanzOnline durch Anwahl der
+Tastenkombination STRG + V eingefügt werden.
 
 ![Direkteinstieg FinOn Steuernr](<img/image135.png>)
 
-> Wenn für den Mitarbeiter ein Zugang mit Mitarbeiterzuordnung angelegt
-> ist, erfolgt der Einstieg ins FinanzOnline direkt ohne die Eintragung
-> der Zugangskennungen. Gibt es für den Mitarbeiter keinen
-> Mitarbeiterzugang – kann dieser die Steuernummer trotzdem anwählen –
-> muss aber die Zugangskennungen eintippen.
+Wenn für den Mitarbeiter ein Zugang mit Mitarbeiterzuordnung angelegt
+ist, erfolgt der Einstieg ins FinanzOnline direkt ohne die Eintragung
+der Zugangskennungen. Gibt es für den Mitarbeiter keinen
+Mitarbeiterzugang – kann dieser die Steuernummer trotzdem anwählen –
+muss aber die Zugangskennungen eintippen.
 
-**HINWEIS**
+!!! warning "Hinweis"
+    Vergessen Sie nicht das Hakerl bei *Aktiv* zu setzten. Nur wenn der
+    Zugang auch als Aktiv gekennzeichnet wurde, können Sie den automatischen
+    Login in FinanzOnline nutzen.
 
-Vergessen Sie nicht das Hakerl bei *Aktiv* zu setzten. Nur wenn der
-Zugang auch als Aktiv gekennzeichnet wurde, können Sie den automatischen
-Login in FinanzOnline nutzen.
+## Grundeinstellungen für die FinanzOnline-Abfragen
 
-### Grundeinstellungen für die FinanzOnline-Abfragen
-
-> Die Grundeinstellungen für die Abfragen über FinanzOnline finden Sie
-> im Programmteil *Extras / Einstellungen* im Registerblatt
-> *FinanzOnline*.
-
-Abb. 6‑14 Allgemeine FinanzOnline Einstellungen
+Die Grundeinstellungen für die Abfragen über FinanzOnline finden Sie
+im Programmteil *Extras / Einstellungen* im Registerblatt
+*FinanzOnline*.
 
 ![Allgemeine FinOn Einstellungen](<img/image136.png>)
 
-#### Behördliche DataBox
+### Behördliche DataBox
 
 In diesem Feld tragen Sie ein in welchen Intervallen die behördliche
-DataBox abgefragt werden soll (vgl. Kap. 6.4 *Databox Eingänge*).
+DataBox abgefragt werden soll.
 
-#### Persönliche Databox
+### Persönliche Databox
 
 Hier tragen Sie das Intervall ein, indem die persönliche DataBox
 automatisch abgefragt werden soll. Für Klienten wo keine
@@ -209,8 +180,6 @@ Zustellvollmacht vorliegt, um zu garantieren, dass auch bei diesen
 Klienten die Bescheide und Ergänzungsersuchen automatisch nach Eingang
 einer Bescheidinformation (persönlich) abgefragt werden.
 
-Abb. 6‑15 Klientenauswahl Abruf Veranlagungsbescheide
-
 ![Klientenauswahl Abruf Veranlagungsbescheide](<img/image137.png>)
 
 Für Bescheide die persönlich heruntergeladen werden, werden durch Anwahl
@@ -220,17 +189,16 @@ Bescheide weniger als 2 Monate alt sind. Wird dieses Feld nicht
 aktiviert, werden für persönliche heruntergeladene Bescheide keine
 Aufgaben erstellt.
 
-#### Vertretungsliste
+### Vertretungsliste
 
-Die Vertretungsliste kann täglich oder wöchentlich angefordert werden
-(vgl. Kap. 0 *Aufruf Vertretungsliste*)
+Die Vertretungsliste kann täglich oder wöchentlich angefordert werden.
 
-#### Quotenerfüllung und Erklärungen
+### Quotenerfüllung und Erklärungen
 
 Die Quotenerfüllungen und Erklärungen werden täglich einmal zu der von
 Ihnen festgelegten Uhrzeit aktualisiert.
 
-#### Steuerkonten
+### Steuerkonten
 
 Damit Buchungsmitteilungen in die DataBox geladen werden, müssen Sie
 innerhalb von FinanzOnline die entsprechenden Einstellungen vornehmen.
@@ -242,7 +210,7 @@ Klientendaten im Bereich FinanzOnline den Eintrag *Steuerkonto*
 anklicken oder in den Kanzleidaten ebenfalls im Bereich FinanzOnline die
 Zeile des Klienten doppelt anklicken.
 
-#### Dokumente
+### Dokumente
 
 Damit die von FinanzOnline übermittelten Dokumente neben den
 Databoxlisten auch in den Dokumentenlisten im KIS angezeigt werden,
