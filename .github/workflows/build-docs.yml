@@ -38,7 +38,11 @@ jobs:
 
       - name: Build Docs
         run: |
-          mkdocs --color build --strict --clean -d dist
+          mkdocs --color build --strict --clean -d dist 2>&1 | tee mkdocs_output.log
+          if grep -q 'INFO' mkdocs_output.log; then
+            echo "INFO messages found, failing build."
+            exit 1
+          fi
 
       - name: Deploy
         id: builddeploy
