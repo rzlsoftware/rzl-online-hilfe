@@ -42,7 +42,6 @@ jobs:
           grep -vE 'Cleaning site directory|Building documentation to directory|Documentation built in' mkdocs_output.log > filtered_info.log
           if [ -s filtered_info.log ]; then
             echo "Unacceptable INFO messages found, failing build."
-            cat filtered_info.log
             exit 1
           fi
 
