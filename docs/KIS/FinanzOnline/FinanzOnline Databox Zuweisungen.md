@@ -1,23 +1,17 @@
-## Zuordnung von Thema/Kategorie/Aufgabenvorlage
-
 Die zugestellten Databox-Eingänge werden von FinanzOnline in folgende
 Arten unterteilt.
 
-Abb. 6‑16 FinanzOnline Zuweisungen I
-
 ![FinOn Zuweisungen I](<img/image138.png>)
 
-Sie können hier jeder Art die entsprechenden Kategorien (vgl. Kap. 11.10
-*Kategorie*) und Themen (vgl. Kap. 11.12 Thema) zuordnen. Zusätzlich
-können Sie bei jeder Art auch eine Aufgabenvorlage (*für die zu
-erstellende Aufgabe*) hinterlegen (vgl. Kap. 4.2 *Aufgabenvorlage*).
+Sie können hier jeder Art die entsprechenden [Kategorien](../Stammdaten/Sonstige%20Stammdaten/#kategorie) und [Themen](../Stammdaten/Sonstige%20Stammdaten/#thema) zuordnen. Zusätzlich
+können Sie bei jeder Art auch eine [Aufgabenvorlage](../Stammdaten/Sonstige%20Stammdaten/#aufgabenvorlagen) (*für die zu
+erstellende Aufgabe*) hinterlegen .
 Damit wird automatisch bei einem Databox-Eingang eine Aufgabe generiert
 (z.B.: Bescheidkontrolle bei Eingang eines Bescheides).
 
 Für persönliche angeforderte Bescheide welche älter als 2 Monate sind,
 werden aufgrund der Aufgabenvorlagen innerhalb der
-FinanzOnline-Zuweisungen keine Aufgaben mehr generiert (vgl. Kap. 6.3
-*Zuordnung von Thema/Kategorie/Aufgabenvorlage*). Im Programmteil
+FinanzOnline-Zuweisungen keine Aufgaben mehr generiert. Im Programmteil
 *Extras / Einstellungen* können Sie im Registerblatt *FinanzOnline* die
 Aufgabenerstellung für persönlich angeforderte Bescheide deaktivieren.
 
@@ -25,8 +19,6 @@ Innerhalb der Art *Protokolle* wird die Aufgabenvorlage (*für die zu
 erstellende Aufgabe*) nur dann verwendet – eine Aufgabe wird generiert –
 wenn eine Übermittlung **nicht** vollständig von FinanzOnline übernommen
 wurde.
-
-Abb. 6‑17 FinanzOnline Zuweisungen II
 
 ![FinOn Zuweisungen II](<img/image139.png>)
 
@@ -36,7 +28,7 @@ vorgenommen werden. Werden die Eintragungen in den einzelnen Anbringen
 *kursiv* dargestellt, gilt der Wert der übergeordneten Art.
 
 Die Zuständigkeit für die erstellten Aufgaben wird in der Aufgabevorlage
-festgelegt (vgl. Kap. 4.2 Arbeiten mit Aufgabenvorlagen). Das bedeutet,
+festgelegt. Das bedeutet,
 wenn für einzelne Anbringen unterschiedliche Zuständigkeiten vorhanden
 sind, sind unterschiedliche Aufgabevorlagen notwendig.
 

@@ -76,7 +76,7 @@ der oben angeführten Möglichkeiten.
 
 Abb. 12‑4 Gelöschte Objekte – Add-Ins
 
-![Outlook Add In - Gelöschte](<img/image298.png)>
+![Outlook Add In - Gelöschte](<img/image298.png>)
 
 #### Outlook-Kategorien
 

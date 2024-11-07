@@ -1,9 +1,5 @@
-## Databox Eingänge
-
 Die Databox-Eingänge können wie jedes Ereignis klienten- oder
 kanzleibezogen aufgerufen werden.
-
-Abb. 6‑18 FinanzOnline Eingang – neuer Screenshot
 
 ![FinOn Eingang](<img/image140.png>)
 
@@ -19,7 +15,7 @@ rechten unteren Bereich wird – wenn vorhanden – eine Aufgabe mit dem
 jeweiligen Status angezeigt und diese kann durch einen Doppelklick mit
 der Maus aufgerufen werden.
 
-### Bescheidvorprüfung
+## Bescheidvorprüfung
 
 Für die Bescheidvorprüfung muss innerhalb von FinanzOnline bei Ihrem
 Web-Service-Benutzer im Bereich *Zustellung* das Feld *Ich möchte eine
@@ -39,31 +35,22 @@ einen Eintrag der ­– wenn nicht erklärungsgemäß veranlagt wurde - rot
 dargestellt ist. Im Detail sehen Sie in roter Schrift neben dem
 Eingangsdatum den Text nicht erklärungsgemäß.
 
-Abb. 6‑19 Bescheidvorprüfung nicht erfolreich
-
 ![Bescheidvorprüfung nicht erfolgreich](<img/image141.png>)
 
 Erfolgt die Veranlagung erklärungsgemäß erhalten Sie diese Information
 in grüner Schrift.
 
-Abb. 6‑20 Bescheidvorprüfung erfolgreich
-
 ![Bescheidvorprüfung erfolgreich](<img/image142.png>)
 
-Wenn innerhalb der FinanzOnline Zuweisungen (vgl. Kap. 6.3 *Zuordnung
-von Thema/Kategorie/Aufgabenvorlage*) in den Mitteilungen für die
+Wenn innerhalb der [FinanzOnline Databox Zuweisungen](../FinanzOnline/FinanzOnline%20Databox%20Zuweisungen/) in den Mitteilungen für die
 Bescheidinformation die gleiche Aufgabenvorlage verankert ist wie im
 Bereich der *Bescheide/Ergänzungs­ansuchen/Bescheinigungen,* dann wird
 nur eine Aufgabe (z.B.: Bescheidprüfung) erstellt.
-
-Abb. 6‑21 Bescheidvorprüfung – Aufgabenerstellung
 
 ![Bescheidvorprüfung Aufgabe](<img/image143.png>)
 
 Innerhalb dieser „einen“ Aufgabe ist die Bescheidinformation und der
 Bescheid zusammengefasst.
-
-Abb. 6‑22 Aufgabenbeschreibung – Bescheidvorprüfung nicht erfolgreich
 
 ![Aufgabenbeschreibung - Bescheidvorprüfung nicht erfolgr](<img/image144.png>)
 
@@ -72,13 +59,11 @@ In der Aufgabenbeschreibung ist vermerkt (mit der Benutzerkennzeichnung
 oder nicht. Das Feld Beschreibungen kann in der Aufgabenliste durch
 Anwahl der rechten Maustaste eingeblendet werden.
 
-### Databoxliste – Sonderfunktionen
+## Databoxliste – Sonderfunktionen
 
 Wenn Sie innerhalb der Liste einen oder mehrere Einträge markieren und
 die rechte Maustaste anwählen, erhalten Sie das Kontextmenü mit den
 Sonderfunktionen.
-
-Abb. 6‑23 Databoxliste – Sonderfunktionen
 
 ![Databoxliste - Sonderfunktionen](<img/image145.png>)
 
@@ -93,10 +78,7 @@ Zusätzlich können Sie die gesamte Tabelle bzw. ausgewählte Zeilen in die
 Zwischenablage kopieren und sich die Databoxliste im RZL PDF Drucker
 bzw. dem RZL PDF-Manager Premium anzeigen lassen.
 
-### Versenden von Databoxeingängen mit Hilfe des RZL PDF-Druckers bzw. RZL PDF-Manager Premium 
-
-Abb. 6‑24 Versenden von Databox-Eingängen mit Hilfe des RZL PDF-Druckers
-bzw. RZL PDF-Manager Premium
+## Versenden von Databoxeingängen mit Hilfe des RZL PDF-Druckers bzw. RZL PDF-Manager Premium 
 
 ![Versenden von Databox-Eingängen](<img/image146.png>)
 
