@@ -135,7 +135,7 @@ Zuordnung als Ganzes.
 
 #### Zuständigkeit \[FinanzOnline\]
 
-Wenn Sie in den [FinanzOnline-Zuweisungen](../FinanzOnline/Zuordnung%20von%20Thema,%20Kategorie,%20Aufgabenvorlage.md) innerhalb der Protokolle in der Spalte
+Wenn Sie in den [FinanzOnline-Zuweisungen](../FinanzOnline/FinanzOnline%20Databox%20Zuweisungen/) innerhalb der Protokolle in der Spalte
 *Aufgabenvorlage für zu erledigende Aufgabe* eine Aufgabevorlage (z. B.:
 Buchhaltung) verankern, wird diese Aufgabe automatisch geschlossen, wenn
 die Übermittlung der XML-Datei (UVA-Datei) funktioniert hat. D.h. der

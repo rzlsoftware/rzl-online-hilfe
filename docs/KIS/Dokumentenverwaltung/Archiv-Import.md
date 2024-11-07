@@ -11,7 +11,7 @@ Strukturiertes Dokumentenarchiv* übernehmen.
 
 Abb. 8‑33 Auswahl des Ursprungs-Ordners
 
-![Auswahl Ordner im Explorer](img src="img/image253.png>)
+![Auswahl Ordner im Explorer](<img/image253.png>)
 
 Als nächsten Schritt müssen Sie die Schaltfläche *Ursprungs-Ordner
 auswählen* anklicken. Sie wählen bitte den Ordner aus, in dem Ihre

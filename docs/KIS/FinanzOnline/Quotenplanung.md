@@ -1,15 +1,10 @@
-## Quotenplanung 
-
-### Erklärungen als „abgabefertig“ markieren
+## Erklärungen als „abgabefertig“ markieren
 
 Um die Erklärungen als abgabefertig zu markieren, wechseln Sie im RZL
 KIS in den Menüpunkt *Mein Arbeitsplatz / Erklärungen* (**1**). Dort
-markieren Sie den gewünschten Klienten (**2**) über das *Kontextmenü*
-(rechter Mausklick) als *Abgabefertig* (**3**). Genauso können die
+markieren Sie den gewünschten Klienten (**2**) über das *Kontextmenü* als *Abgabefertig* (**3**). Genauso können die
 Erklärungen auch im Bereich *FinanzOnline* der Klientenansicht und der
 Kanzleiansicht als Abgabefertig gekennzeichnet werden.
-
-Abb. 6‑47 Quotenplanung - Abgabefertig
 
 ![Quotenplanung - abgabefertig](<img/image169.png>)
 
@@ -17,12 +12,7 @@ Im Menüpunkt *Kanzlei / FinanzOnline / Status der Quotenerfüllung* muss
 die *Abgabefertig*-Markierung in den Registerblättern
 *Quotenvollmachten* und *Quotenplanung* sichtbar sein.
 
-Abb. 6‑48 Registerblatt Quotenvollmachten - Abgabefertig
-
 ![Quotenfollmachten - abgabefertig](<img/image170.png>)
-
-Abb. 6‑49 Registerblatt Quotenplanung - Abgabefertig
-
 ![Quotenplanung - abgabefertig](<img/image171.png>)
 
 ### Quotenplanung bearbeiten
