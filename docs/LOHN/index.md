@@ -2962,27 +2962,7 @@ Lohnformeln*).
 
 
 
-### Monatssummen
 
-Abb. 30‑39 Lohnformeln Monatssummen
-
-<img src=".\img/image414.png"
-style="width:3.93701in;height:0.87571in" />
-
-Der Zugriff auf Monatssummen kann nur auf Vormonate – nicht aber auf den
-aktuellen Monat – erfolgen.
-
-**Formelsyntax**
-
-Monatssumme(1...) Brutto,...
-
-**Zugriff auf Werte**
-
-Lohnart(1).Wert(Monat\[\|Jahr\])
-
-**Zugriff auf Durchschnitte**
-
-Lohnart(1).Durchschnitt(Monat\[\|Jahr\])
 
 ### Zeitraum
 
