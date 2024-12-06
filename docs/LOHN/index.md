@@ -2986,20 +2986,7 @@ Lohnformeln*).
 
 
 
-## Aktivierung der Kollektivverträge in den Klientenstammdaten
 
-Die abonnierten Kollektivverträge müssen in den *Klientenstammdaten*
-zugeordnet werden. Die Zuordnung erfolgt im Registerblatt
-*Kostenstellen/Kostenträger, Krankenstandsbesch., KV* im Bereich
-*Kollektivverträge*.
-
-Abb. 32‑11 Zuordnung der KVs in den Klientenstammdaten
-
-<img src=".\img/image436.png"
-style="width:3.93701in;height:3.31853in" />
-
-vgl. Kapitel 2.1.10 Kostenstellen/Kostenträger, Krankenstandsbesch., KV,
-Seite [36](#kostenstellenkostenträger-krankenstandsbesch.-kv).
 
 ## Abrechnungsbildschirm Kollektivvertrag
 
