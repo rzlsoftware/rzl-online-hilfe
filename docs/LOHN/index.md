@@ -2988,34 +2988,8 @@ Lohnformeln*).
 
 
 
-## Abrechnungsbildschirm Kollektivvertrag
 
-Die Zuordnung des Kollektivvertrages zum Dienstnehmer erfolgt im
-Abrechnungsbildschirm *Kollektivvertrag*.
 
-Abb. 32‑12 Abrechnungsbildschirm Kollektivvertrag
-
-<img src=".\img/image437.png"
-style="width:3.93701in;height:4.75946in" />
-
-Für die detaillierte Beschreibung der Felder vgl. Kapitel 5.6
-Kollektivvertrag, Seite [67](#kollektivvertrag).
-
-## Überwachung der KV-Bezüge in der Abrechnung
-
-Bei einer *Neuanlage, laufenden Abrechnung mit Änderung, Wiedereintritt*
-oder *Korrektur letzter Abrechnung* weist das Programm im rechten oberen
-Bereich *Fristen/Termine* auf Unterzahlungen hin.
-
-Abb. 32‑13 Überwachung der Bezüge
-
-<img src=".\img/image438.png"
-style="width:3.93701in;height:0.95062in" />
-
-Für die Ermittlung der Unterschreitung der Grenzen (KV-Mindestlohn,
-Überzahlungen) werden die Eintragungen in den *Fixen Lohnarten*
-(Bruttobezug, Höhe des Stundenlohnes) und in den *freien Lohnarten*, bei
-denen das Feld *KV-Bezug* aktiviert ist, berücksichtigt.
 
 ## Übernahme der KV-Bezüge
 
