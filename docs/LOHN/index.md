@@ -2977,24 +2977,6 @@ Lohnformeln*).
 
 # 
 
-# Ausgabe Jahreslohnkonto für GPLB
-
-Die Datenausgabe des Jahreslohnkontos für die Gemeinsame Prüfung
-Lohnabgaben und Beiträge (GPLB) erfolgt im Programmteil
-*Bearbeiten/Datenexport/Ausgabe Jahreslohnkonto für GPLB...* .
-
-Abb. 31‑1 Ausgabe Jahreslohnkonto für GPLA
-
-<img src=".\img/image423.png"
-style="width:3.93701in;height:0.96508in" />
-
-Wenn die Schaltfläche *Ausgeben* angewählt wird, kann die Datei
-gespeichert und benannt werden.
-
-Abb. 31‑2 Abspeichern und Bezeichnung der Export-Datei
-
-<img src=".\img/image424.png"
-style="width:3.93701in;height:2.44957in" />
 
 # 
 
