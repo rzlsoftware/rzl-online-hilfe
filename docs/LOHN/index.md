@@ -2966,27 +2966,7 @@ Lohnformeln*).
 
 
 
-### Überstunden-/Mehrarbeitsstunden
 
-Abb. 30‑41 Lohnformeln Überstunden/Mehrarbeitsstunden
-
-<img src=".\img/image421.png"
-style="width:3.93701in;height:0.87571in" />
-
-**Formelsyntax:**
-
-Üst_Alle().Wert(Monat\[\|Jahr)
-
-**Zugriff auf Werte**
-
-Abb. 30‑42 Lohnformeln Überstunden/Mehrarbeitsstunden
-
-<img src=".\img/image422.png"
-style="width:3.93701in;height:1.38033in" />
-
-Durch Anwahl der *F2-Taste* nach dem Markieren der Formel kann auf die
-Werte der Über- und Mehrarbeitsstunden in unterschiedlichen Varianten
-zugegriffen werden.
 
 ### WENN-DANN Bedingungen
 
