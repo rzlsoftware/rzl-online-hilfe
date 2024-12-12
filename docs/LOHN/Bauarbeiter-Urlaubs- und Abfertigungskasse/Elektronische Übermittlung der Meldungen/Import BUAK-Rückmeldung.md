@@ -8,7 +8,7 @@
 
 Über *Datei auswählen* kann dann die im LV-Programm erzeugte Datei vom Speicherort übernommen werden. Anschließend müssen Sie die Datei noch über den entsprechenden Button prüfen.
 
-![Image](<img/image483.png>)
+![Image](<img/image483.emf>)
 
 Sie müssen den Vorgang mit *Daten verarbeiten* und schlussendlich mit der Freigabe des Betriebes abschließen.
 

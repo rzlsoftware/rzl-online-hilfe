@@ -3014,53 +3014,7 @@ Lohnformeln*).
 
 
 
-### Erstellung der BUAK-Austrittsmeldung
 
-Wenn ein Austritt abgerechnet wird, kann die Meldung unmittelbar nach
-dem Speichern der Abrechnung bereits erstellt werden.
-
-Abb. 34‑15 Abfrage BUAK-Austrittsmeldung
-
-<img src=".\img/image478.png"
-style="width:2.95276in;height:1.15412in" />
-
-Die Austrittsmeldung kann ebenfalls im Programmteil *Bearbeiten /
-Elektronische Übermittlung / Elektronische Austrittsmeldung BUAK
-erstellen* ausgegeben werden.
-
-Abb. 34‑16 Elektronische Austrittsmeldung BUAK erstellen
-
-<img src=".\img/image484.png"
-style="width:3.93701in;height:2.78351in" />
-
-Austrittsmeldungen können erstellt bzw. auch durch Anwahl des Eintrages
-*Storno Austrittsmeldung* storniert werden.
-
-Der Versand der Austrittsmeldungen erfolgt im Programmteil *Klient /
-Elektronische Meldung / BUAK Austrittsmeldung absenden*.
-
-### Übermittlung der BUAK-Austrittsmeldung
-
-Über *Klient / Elektronische Übermittlung / BUAK Austrittsmeldung*
-*absenden* werden Sie über Ihren Browser auf die Login-Seite des
-BUAK-Portals weitergeleitet. Nach dem Login finden Sie über das
-*Steuerberatungsportal* oder *Firmenportal* und anschließende
-*Meldungseingabe* die Option *Direktdaten* und letztlich den Punkt
-*Meldung Austritt*.
-
-Abb. 34‑17 BUAK Portalanwendungen
-
-<img src=".\img/image485.png"
-style="width:4.92126in;height:1.39301in" />
-
-Abb. 34‑18 Auswahl der xml-Datei
-
-<img src=".\img/image486.png"
-style="width:4.92126in;height:1.52555in" />
-
-Die betroffene Datei können Sie hier auswählen und mit der
-Tastenkombination *Strg + V* einfügen und anschließend prüfen und
-speichern lassen.
 
 ### Import BUAK-Rückmeldung
 
