@@ -3012,39 +3012,7 @@ Lohnformeln*).
 
 
 
-### Import der Monatsmeldung und der Urlaubsentgeltsmeldung im BUAK-Portal
 
-Über den Link
-[*https://sp.buak.at/de/login/*](https://sp.buak.at/de/login/) wechseln
-Sie zunächst in Ihrem Browser zur Login-Seite für das BUAK-Portal. Nun
-müssen Sie sich mit den Zugangsdaten, die Sie von der BUAK erhalten
-haben, einloggen.
-
-Über den Button *Steuerberatungsportal oder. Firmenportal* und
-anschließend den Punkt *Meldungseingabe* können Sie die Option
-*Direktdaten* auswählen.
-
-Abb. 34‑13 BUAK-Portal – Direktdaten verarbeiten
-
-<img src=".\img/image482.png"
-style="width:6.10236in;height:1.67061in" />
-
-Über *Datei auswählen* kann dann die im LV-Programm erzeugte Datei vom
-Speicherort übernommen werden. Anschließend müssen Sie die Datei noch
-über den entsprechenden Button prüfen.
-
-Abb. 34‑14 BUAK-Portal – Datei hochladen
-
-<img src=".\img/image483.emf"
-style="width:6.10236in;height:1.56979in" />
-
-Sie müssen den Vorgang mit *Daten verarbeiten* und schlussendlich mit
-der Freigabe des Betriebes abschließen.
-
-Tipp
-
-Die Urlaubsentgeltsverrechnung steht zurzeit nur für Betriebe mit
-Treuhandkonto zur Verfügung.
 
 ### Erstellung der BUAK-Austrittsmeldung
 
