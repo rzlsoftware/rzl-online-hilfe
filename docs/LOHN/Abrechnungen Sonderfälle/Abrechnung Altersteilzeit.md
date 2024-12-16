@@ -15,6 +15,7 @@ Für die Abrechnung der Altersteilzeit sind folgenden Lohnarten nötig:
 
 !!! info "Tipp"
     Die Lohnarten *Lohnausgleich AMS lfd.* und *Erhöhung der BGML lfd.* sollten als wiederkehrende freie Lohnarten definiert sein.
+    
     ![Image](<img/image514.png>)
 
 !!! info "Tipp"
