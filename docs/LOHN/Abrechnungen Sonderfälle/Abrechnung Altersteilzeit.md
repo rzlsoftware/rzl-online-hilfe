@@ -13,11 +13,9 @@ Für die Abrechnung der Altersteilzeit sind folgenden Lohnarten nötig:
 | Erhöhung BMGL ATZ lfd. | 5                  | 0          | 0                | 0                 |
 | Erhöhung BMGL ATZ SZ   | 6                  | 0          | 0                | 0                 |
 
-Tipp
-
-Die Lohnarten *Lohnausgleich AMS lfd.* und *Erhöhung der BGML lfd.* sollten als wiederkehrende freie Lohnarten definiert sein.
-
-![Image](<img/image514.png>)
+!!! info "Tipp"
+    Die Lohnarten *Lohnausgleich AMS lfd.* und *Erhöhung der BGML lfd.* sollten als wiederkehrende freie Lohnarten definiert sein.
+    ![Image](<img/image514.png>)
 
 !!! info "Tipp"
     Die Lohnarten vom Lohnausgleich werden als laufender/SZ pflichtiger Bezug betrachtet und können somit auch mit dem Altersteilzeitentgelt über das Feld *Lohn/Gehalt* bzw. *Sonderzahlung* abgerechnet werden.
