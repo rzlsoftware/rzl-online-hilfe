@@ -32,9 +32,9 @@ Im Betrag selbst machen Sie einen rechten Mausklick und wählen *Explizit 0* aus
 
 Wenn Sie jedoch trotzdem das (E-) Bike auf der Abrechnung bzw. am Jahreslohnkonto mit einem Betrag ohne Erhöhung des Bruttos haben möchten, können Sie eine Lohnart mit Anzahl (Wert des Leasings) und dem Satz 0,00 anlegen. (Lohnartendefinition ist in diesem Fall egal.)
 
-![Image](<img/image579.png>)
+![Image](<img/image579.jpeg>)
 
-![Image](<img/image580.png>)
+![Image](<img/image580.jpeg>)
 
 ![Image](<img/image581.png>)
 
