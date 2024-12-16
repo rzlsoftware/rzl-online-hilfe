@@ -6,12 +6,12 @@ Die durch das AMS geförderte Altersteilzeit ermöglicht es, ältere Dienstnehme
 
 Für die Abrechnung der Altersteilzeit sind folgenden Lohnarten nötig:
 
-| Lohnart                | Sozialver-sicherung | Lohnsteuer | DB-Pflichtigkeit | KommSt-Pflichtig. |
-| ---------------------- | ------------------- | ---------- | ---------------- | ----------------- |
-| Lohnausgleich AMS lfd. | 1                   | 1          | 1                | 1                 |
-| Lohnausgleich AMS SZ   | 2                   | 2          | 1                | 1                 |
-| Erhöhung BMGL ATZ lfd. | 5                   | 0          | 0                | 0                 |
-| Erhöhung BMGL ATZ SZ   | 6                   | 0          | 0                | 0                 |
+| Lohnart                | Sozialversicherung | Lohnsteuer | DB-Pflichtigkeit | KommSt-Pflichtig. |
+| ---------------------- | ------------------ | ---------- | ---------------- | ----------------- |
+| Lohnausgleich AMS lfd. | 1                  | 1          | 1                | 1                 |
+| Lohnausgleich AMS SZ   | 2                  | 2          | 1                | 1                 |
+| Erhöhung BMGL ATZ lfd. | 5                  | 0          | 0                | 0                 |
+| Erhöhung BMGL ATZ SZ   | 6                  | 0          | 0                | 0                 |
 
 Tipp
 
