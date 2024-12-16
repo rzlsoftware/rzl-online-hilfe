@@ -3053,45 +3053,7 @@ Lohnformeln*).
 
 
 
-## Weitergewährung des Sachbezuges während Karenz
 
-In der Praxis kommt es immer wieder vor, dass Dienstnehmer auch während
-einer Karenz (z. B. nach dem Mutterschutzgesetz/MSchG oder dem
-Väter-Karenzgesetz/VKG) weiterhin Sachbezüge erhalten (z. B.
-Dienstwohnung, Privatnutzung des Firmen-PKW). Werden während einer
-derartigen Karenz ausschließlich nur mehr Sachbezüge gewährt, sind diese
-in der Sozialversicherung beitragsfrei.
-
-Diese Beitragsfreiheit bleibt auch dann bestehen, wenn (neben dem
-karenzierten Dienstverhältnis) mit demselben Dienstgeber ein
-geringfügiges Beschäftigungsverhältnis eingegangen wird (z. B. auf Grund
-des § 15e Abs. 1 MSchG). Voraussetzung dafür ist, dass es sich bei
-diesem neuen Beschäftigungsverhältnis arbeitsrechtlich tatsächlich um
-ein eigenständiges Dienstverhältnis handelt und der Sachbezug weiterhin
-nur aus dem ersten (karenzierten) Dienstverhältnis gebührt.
-
-Damit der Sachbezug während der Karenz abgerechnet werden kann, erfassen
-Sie einen *Wiedereintritt*. Erfassen Sie ein *Eintrittsdatum*, schicken
-Sie jedoch die Anmeldung NICHT weg.
-
-Um den Sachbezug beitragsfrei abzurechnen, müssen Sie eine freie
-Lohnart, welche SV-frei ist, anlegen.
-
-Abb. 37‑49 Freie Lohnart Sachbezug während Karenz
-
-<img src=".\img/image560.png"
-style="width:3.93701in;height:3.39264in"
-alt="Computergenerierter Alternativtext: Bezeichnung SB Karenz Bezu Sb Karenz Abzug Liste Protokoll Nummer LA (Il L4(21 1 L4(31 Bezeichnung v Lohnart wiederk AuswLK SB Karenz Bezug Aufn Bezug Sachbezug Abzug Ausweis Lohnkonto Uberstunde Aufwandsentschädigung DB-Pflichti keit I pflichtig KommSt -Pflichtigkeit Aliquot SB Karenz Bezug Betrag wiederk Abrechnung in Einheiten SV-Pflichti keit O SV-frei LSt -Pflichtigkeit l— Auslandstätigkeit germ S 3 Abe I Z 10 " />
-
-Für den Abzug legen Sie sich eine Abzugslohnart an:
-
-Abb. 37‑50 Freie Lohnart Abzug Sachbezug während Karenz
-
-<img src=".\img/image561.png"
-style="width:3.93701in;height:3.43742in"
-alt="Computergenerierter Alternativtext: N L Bezeichnung I SB Karenz Bezug 2 Sb Karenz Abzu Liste Protokoll Nummer LA (Il L4(21 1 L4(31 Bezeichnung v Lohnart wiederk AuswLK Sb Karenz Abzug Aufn Bezug • Abzug Sachbezug Ausweis Lohnkonto Uberstunde DB-Pflichti keit KommSt -Pflichtigkeit Aliquot Sb Karenz Abzug Betrag wiederk Einheit Abrechnung in Einheiten SV-Pflichti keit LSt -Pflichtigkeit l— Auslandstätigkeit germ S 3 Abe I Z 10 " />
-
-Rechnen Sie nur die Sachbezugslohnarten für die Karenz ab.
 
 ## Abmeldung Ummeldung
 
