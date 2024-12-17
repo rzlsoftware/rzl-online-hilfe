@@ -1,3 +1,5 @@
+# Dienstnehmer-Suche
+
 Sie können in der *Grundeinstellung die Dienstnehmer* hinsichtlich der unten abgebildeten Kriterien:
 
 Dienstgeber, Klientenjahr, Vorname, Nachname, SV-Nummer, PLZ, Ort und Adresse
@@ -7,7 +9,7 @@ Ihren Datenbestand durchsuchen. Eine neue Abfrage wird dabei jeweils über die *
 ![Image](<img/imageA18.png>)
 
 Wenn Sie die *Strg-Taste* gedrückt halten und mit einem Mausklick die einzelne Zeile anwählen, können Sie mehrere Zeilen gleichzeitig
-markieren. Mit Hilfe des Kontextmenüs (**2**) (*rechte Maustaste*) lassen sich diese Einträge in die Zwischenablage kopieren.
+markieren. Mit Hilfe des Kontextmenüs (*rechte Maustaste*) lassen sich diese Einträge in die Zwischenablage kopieren.
 
 ![Image](<img/imageA19.png>)
 
