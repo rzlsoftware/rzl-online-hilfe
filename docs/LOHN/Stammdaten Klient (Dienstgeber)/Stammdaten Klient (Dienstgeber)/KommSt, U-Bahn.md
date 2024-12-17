@@ -1,8 +1,8 @@
-### Registerblatt KommSt / U-Bahn
+# KommSt / U-Bahn
 
-![Image](<img/image25.png>)
+![Image](<img/image25.png>){width="500"}
 
-#### **Kommunalsteuer**
+**Kommunalsteuer**
 
 Ist der Dienstgeber grundsätzlich kommunalsteuerpflichtig, so ist dieses Feld zu aktivieren. Eventuelle Kommunalsteuerfreibeträge werden vom Programm automatisch berücksichtigt.
 
@@ -16,7 +16,7 @@ Die erste in der Liste eingetragene Gemeinde wird für alle Dienstnehmer des Kli
 !!! warning "Hinweis"
     Durch Anwahl des Feldes *Kommunalsteuer – Freibetrag berücksichtigen* kann die Berechnung des Freibetrages ausgeschaltet werden.
 
-#### **Gemeinden** 
+**Gemeinden** 
 
 Im Feld *Gemeinde* ist die Nummer der Gemeinde einzugeben. Die Anlage der Gemeinde erfolgt im Menüpunkt *Klient / Finanzämter, Gemeinden, ÖGK, BV-Kassen, Gerichte* (Kapitel 14, Seite [239](#section-9)). Pro Klienten bzw. Unterdienstgeber können Sie bis zu 125 Gemeinden anlegen.
 
@@ -37,11 +37,11 @@ Für die automatische Eintragung des Monats und des Jahres können Sie die Kürz
 !!! warning "Hinweis"
     In Ausnahmefällen kann durch Anwahl der Schaltfläche *Details* das Zahlungsreferenzfeld für jeden Monat einzeln eingetragen werden. Diese Möglichkeit kann dann verwendet werden, wenn die von der Behörde vergebenen Kundendatenfelder unsystematisch sind.
 
-#### **Kommunalsteuerschließungserklärung** 
+**Kommunalsteuerschließungserklärung** 
 
 Wenn eine Kommunalsteuer-Schließungserklärung erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen (vgl. Kapitel 23.3, Seite [315](#erstellung-einer-kommunalsteuer-schließungserklärung)).
 
-#### **U-Bahn-Abgabe**
+**U-Bahn-Abgabe**
 
 Hier wird grundsätzlich festgelegt, ob der Dienstgeber der U-Bahn-Abgabe in Wien unterliegt. Diese Angabe wird unter anderem für den Ausdruck der Dienstgeber-Abgaben-Erklärung benötigt.
 
