@@ -3061,37 +3061,7 @@ Lohnformeln*).
 
 
 
-## Urlaubsersatzleistung bei Tod des Dienstnehmers 
 
-Laut ÖGK
-([LINK](https://www.gesundheitskasse.at/cdscontent/?contentid=10007.881707&portal=oegkdgportal#:~:text=Die%20Urlaubsersatzleistung%20f%C3%A4llt%20nicht%20in,(keine%20Einschr%C3%A4nkung%20des%20Erbenkreises))
-zur ÖGK Seite) verlängert sich bei Tod eines Dienstnehmers die
-Pflichtversicherung nicht, da sie mit dem Tod des Dienstnehmers endet.
-
-Für die Urlaubsersatzleistung sind weder Sozialversicherungsbeiträge
-(SV-Beiträge) noch Beiträge zur Betrieblichen Vorsorge (BV-Beiträge) zu
-entrichten.
-
-Damit Sie die Urlaubsersatzleistung bei Tod eines Dienstnehmers korrekt
-abrechnen können, benötigen Sie zwei freie Lohnarten.
-
-Abb. 37‑74 Lohnart Urlaubsersatzleistung lfd.
-
-<img src=".\img/image585.png"
-style="width:3.93701in;height:2.33182in" />
-
-Abb. 37‑75 Lohnart Urlaubsersatzleistung SZ
-
-<img src=".\img/image586.png"
-style="width:3.74016in;height:2.21895in" />
-
-Diese zwei freien Lohnarten werden anstatt der Fixen Lohnarten im
-Austrittsbildschirm verwendet.
-
-HINWEIS
-
-Im Austrittsbildschirm darf die Urlaubsersatzleistung NICHT erfasst
-werden.
 
 ## Abrechnung eines Gesellschafter-Geschäftsführers 
 
