@@ -55,7 +55,7 @@ Mengengerüst für die freien Lohnarten (zwischen 200 und 1000).
 
 ## Mengengerüst 2
 
-![Image](<img/image4.png>)
+![Image](<img/image4.png>){width="500"}
 
 **Arb.- und Entgeltbestätigungen** 
 
@@ -88,7 +88,7 @@ Hier können Sie das Mengengerüst für die Zeilen der Urlaubs- und Krankenstand
 
 ## Mengengerüst 3
 
-![Image](<img/image5.png>)
+![Image](<img/image5.png>){width="500"}
 
 **Arbeitsstätten**
 
