@@ -25,7 +25,7 @@ Es kann hier zum Beispiel nach der *Beitragskontonummer*, dem *ÖGK-Bundesland* 
 
 ![Image](<img/imageA21.png>)
 
-#### **Funktion DN-Suche schützen/sperren**
+## Funktion DN-Suche schützen/sperren
 
 Mit der Schaltfläche *Passwort* kann die Benutzung der Funktion kanzleiweit mit einem Passwort versehen werden.
 
