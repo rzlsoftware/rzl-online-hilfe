@@ -6,7 +6,7 @@ Wenn Sie mit dem RZL LOHN **erstmals** zu arbeiten beginnen, müssen Sie als ers
     Die Neuanlage ist nicht erforderlich, wenn eine Datensicherung, beispielsweise vom Steuerberater, zur Verfügung gestellt wird. Die Datensicherung kann im Programmteil *Klient / Verwaltung / Hereinspielen* hereingespielt werden.
 
 !!! warning "Hinweis"
-    Soll für einen bereits existierenden Lohnverrechnungsklienten ein neues Kalenderjahr eröffnet werden, ist eine [Jahresübernahme](/LOHN/Jahresübernahme/Jahresübernahme%20innerhalb%20eines%20Klienten/) und keinesfalls eine Neuanlage durchzuführen.
+    Soll für einen bereits existierenden Lohnverrechnungsklienten ein neues Kalenderjahr eröffnet werden, ist eine [Jahresübernahme](../Jahresübernahme/Jahresübernahme innerhalb eines Klienten.md) und keinesfalls eine Neuanlage durchzuführen.
 
 Durch Anwahl des Menüpunkts *Klient / Neu anlegen* wird folgender Eingabebildschirm aufgerufen:
 
@@ -16,7 +16,8 @@ Wenn Sie die Klientennummer eingeben, wird vom Programm automatisch das Mengenge
 
 ## Mengengerüst 1
 
-**Passwort** 
+**Passwort**
+
 Bei der Anlage des Klienten können Sie ein alphanumerisches Passwort mit bis zu 16 Zeichen eintragen. Dieses Passwort wird vom Programm beim Öffnen des Klienten abgefragt.
 
 **Jahr**
