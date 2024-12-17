@@ -1,3 +1,5 @@
+# Anlegen des Klienten (Dienstgebers) im RZL Lohn
+
 Wenn Sie mit dem RZL LOHN **erstmals** zu arbeiten beginnen, müssen Sie als ersten Schritt die Stammdaten des Klienten (Dienstgebers) in der **Zentralen Mandantenverwaltung** bzw. im **RZL BOARD** anlegen. Ist dieser Schritt erledigt, so kann der Klient auch im Lohnprogramm angelegt werden. Die Anlage in der *ZMV* bzw. im *RZL BOARD* ist nicht mehr durchzuführen, wenn z. B. für den zukünftigen Lohn-Klienten bereits eine FIBU existiert.
 
 !!! warning "Hinweis"
@@ -12,8 +14,7 @@ Durch Anwahl des Menüpunkts *Klient / Neu anlegen* wird folgender Eingabebildsc
 
 Wenn Sie die Klientennummer eingeben, wird vom Programm automatisch das Mengengerüst für den betreffenden Klienten vorgeschlagen. Neben dem Standardvorschlag durch das Programm, wird daneben in Klammern der mögliche Bereich angezeigt. Dieser Standardvorschlag ist je nach gekaufter Version unterschiedlich.
 
-
-# Mengengerüst 1
+## Mengengerüst 1
 
 **Passwort** 
 Bei der Anlage des Klienten können Sie ein alphanumerisches Passwort mit bis zu 16 Zeichen eintragen. Dieses Passwort wird vom Programm beim Öffnen des Klienten abgefragt.
@@ -51,7 +52,7 @@ Hier können Sie festgelegen, wie viele Vergütungsanträge gemäß § 53b des A
 Mengengerüst für die freien Lohnarten (zwischen 200 und 1000).
 
 
-# Mengengerüst 2
+## Mengengerüst 2
 
 ![Image](<img/image4.png>)
 
@@ -84,7 +85,7 @@ Innerhalb der Lohnabrechnung können Sie mit selbsterstellten Berechnungen, soge
 Hier können Sie das Mengengerüst für die Zeilen der Urlaubs- und Krankenstandsdatei festlegen.
 
 
-# Mengengerüst 3
+## Mengengerüst 3
 
 ![Image](<img/image5.png>)
 
