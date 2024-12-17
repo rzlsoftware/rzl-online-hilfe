@@ -4,11 +4,11 @@ Wenn Sie mit dem RZL LOHN **erstmals** zu arbeiten beginnen, müssen Sie als ers
     Die Neuanlage ist nicht erforderlich, wenn eine Datensicherung, beispielsweise vom Steuerberater, zur Verfügung gestellt wird. Die Datensicherung kann im Programmteil *Klient / Verwaltung / Hereinspielen* hereingespielt werden.
 
 !!! warning "Hinweis"
-    Soll für einen bereits existierenden Lohnverrechnungsklienten ein neues Kalenderjahr eröffnet werden, ist eine [Jahresübernahme](/LOHN/Jahresübernahme) und keinesfalls eine Neuanlage durchzuführen.
+    Soll für einen bereits existierenden Lohnverrechnungsklienten ein neues Kalenderjahr eröffnet werden, ist eine [Jahresübernahme](/LOHN/Jahresübernahme/Jahresübernahme%20innerhalb%20eines%20Klienten/) und keinesfalls eine Neuanlage durchzuführen.
 
 Durch Anwahl des Menüpunkts *Klient / Neu anlegen* wird folgender Eingabebildschirm aufgerufen:
 
-![Image](<img/image3.png>)
+![Image](<img/image3.png>){width="500"}
 
 Wenn Sie die Klientennummer eingeben, wird vom Programm automatisch das Mengengerüst für den betreffenden Klienten vorgeschlagen. Neben dem Standardvorschlag durch das Programm, wird daneben in Klammern der mögliche Bereich angezeigt. Dieser Standardvorschlag ist je nach gekaufter Version unterschiedlich.
 
@@ -16,7 +16,6 @@ Wenn Sie die Klientennummer eingeben, wird vom Programm automatisch das Mengenge
 # Mengengerüst 1
 
 **Passwort** 
-
 Bei der Anlage des Klienten können Sie ein alphanumerisches Passwort mit bis zu 16 Zeichen eintragen. Dieses Passwort wird vom Programm beim Öffnen des Klienten abgefragt.
 
 **Jahr**
@@ -109,7 +108,7 @@ Mengengerüst für die (importierten) Krankenstandsbescheinigungen.
 
 Festlegung der Anzahl der DN-Historieneinträge.
 
-Die Anlage des Mengengerüsts sollte den tatsächlichen Anforderungen des Klienten entsprechen, um nicht unnötig Speicherplatz auf der Festplatte zu reservieren. Entspricht das Mengengerüst, das Sie bei der Neuanlage des Klienten gewählt haben nicht mehr den Anforderungen, so können Sie es durch Anwahl des Menüpunkts *Klient / Vergrößern/Verkleinern* ([Das Mengengerüst](/LOHN/Verwaltung/Das Mengerngerüst.md) an die neuen Anforderungen anpassen.
+Die Anlage des Mengengerüsts sollte den tatsächlichen Anforderungen des Klienten entsprechen, um nicht unnötig Speicherplatz auf der Festplatte zu reservieren. Entspricht das Mengengerüst, das Sie bei der Neuanlage des Klienten gewählt haben nicht mehr den Anforderungen, so können Sie es durch Anwahl des Menüpunkts *Klient / Vergrößern/Verkleinern* [(siehe Das Mengengerüst)](/LOHN/Verwaltung/Das%20Mengengerüst/) an die neuen Anforderungen anpassen.
 
 Durch Anwahl der Schaltfläche *Anlegen* wird der Klient mit den vorgenommenen Einstellungen angelegt. Als nächster Schritt ist der Klient mittels *Klient / Öffnen* und Eingabe der entsprechenden Klientennummer zu öffnen.
 
