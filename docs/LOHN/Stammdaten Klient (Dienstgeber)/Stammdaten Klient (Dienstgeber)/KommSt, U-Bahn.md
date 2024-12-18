@@ -9,12 +9,13 @@ Ist der Dienstgeber grundsätzlich kommunalsteuerpflichtig, so ist dieses Feld z
 Im Feld *Kürzung Bem. Kommst.* kann die Kürzung der Bemessungsgrundlage für die Berechnung der Kommunalsteuer eingetragen werden. Wenn z.B.: 80 % eingetragen werden, wird die Bemessungsgrundlage um 80 % gekürzt. Eine nachträgliche Eintragung während des Jahres ändert nichts an der
 Berechnung bereits gespeicherter Abrechnungen.
 
-In den Dienstnehmer-Stammdaten im Abrechnungsbildschirm *Lohnsteuer* (Kapitel 5.8, Seite [87](#lohnsteuer)) kann eine Befreiung eines einzelnen Dienstnehmers von der Kommunalsteuer und eine Kürzung der Bemessungsgrundlage eingegeben werden.
+In den Dienstnehmer-Stammdaten im [Abrechnungsbildschirm *Lohnsteuer*](/LOHN/Abrechnungsbildschirme/Lohnsteuer/) kann eine Befreiung eines einzelnen Dienstnehmers von der Kommunalsteuer und eine Kürzung der Bemessungsgrundlage eingegeben werden.
 
 Die erste in der Liste eingetragene Gemeinde wird für alle Dienstnehmer des Klienten verwendet. Im Abrechnungsbildschirm *Lohnsteuer* kann direkt beim Dienstnehmer eine andere Gemeinde zugeordnet werden (Kapitel 5.8, Seite [87](#lohnsteuer)).
 
 !!! warning "Hinweis"
     Durch Anwahl des Feldes *Kommunalsteuer – Freibetrag berücksichtigen* kann die Berechnung des Freibetrages ausgeschaltet werden.
+
 
 **Gemeinden** 
 
