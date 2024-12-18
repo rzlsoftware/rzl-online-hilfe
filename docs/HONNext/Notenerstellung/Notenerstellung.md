@@ -218,6 +218,7 @@ Auswirkungen auf die Leistungserfassung des Mitarbeiters hat.
 
 ## Verrechnung nach Stunden oder Einheiten
 
+
 In den Stammdaten der Tätigkeiten steht Ihnen die Verrechnungsart
 *Stunden oder Einheiten* zur Verfügung. Bei dieser Art müssen die
 Stunden in der Leistungserfassung der Mitarbeiter erfasst werden und
@@ -225,6 +226,9 @@ zusätzlich können optional auch die Einheiten eingetragen werden.
 Ist diese Tätigkeit einem Stunden- und Einheitentarif zugeordnet, kann während der Notenerstellung
 die Verrechnung definiert werden. Initial werden immer die Stunden zur
 Verrechnung vorgeschlagen.
+
+!!! info "Tipp"
+    Bei Tätigkeiten mit der Verrechnungsart *Einheiten* kann während der Notenerstellung ebenso auf Verrechnung nach Stunden gewechselt werden, sofern in den Stammdaten der Tarifschemata ein Einheiten- und Stundensatz hinterlegt ist.
 
 Mit der Linken Maus auf den Betrag erhalten Sie einen Tooltipp, was der
 Betrag bei Verrechnung in Stunden und was der Betrag bei Verrechnung in
@@ -252,9 +256,8 @@ sind, kann die Verrechnung nicht gewechselt werden.
 
 !!! warning "Hinweis"
     Der Wechsel der Verrechnung ist ausschließlich bei Tätigkeiten mit der
-    Verrechnungsart *Stunden oder Einheiten* möglich. Bei Tätigkeiten mit
-    der Verrechnungsart *Stunden* und der Verrechnungsart *Einheiten* ist
-    die Option im Kontextmenü ausgegraut.
+    Verrechnungsart *Stunden oder Einheiten* oder *Einheiten* möglich. Bei Tätigkeiten mit
+    der Verrechnungsart *Stunden* ist die Option im Kontextmenü ausgegraut.
 
 !!! info "Tipp"
     Auf dem Tätigkeitsnachweis wird nur die in der Notenerstellung gewählte
