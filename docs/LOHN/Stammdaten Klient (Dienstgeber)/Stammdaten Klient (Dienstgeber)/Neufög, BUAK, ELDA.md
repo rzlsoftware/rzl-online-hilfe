@@ -1,26 +1,26 @@
-### Registerblatt Neufög, BUAK, ELDA
+# Neufög, BUAK, ELDA
 
-#### **Neugründungs-Förderungsgesetz (NeuFöG)**
+**Neugründungs-Förderungsgesetz (NeuFöG)**
 
 Unterliegt der Klient dem Neugründungsförderungsgesetz muss das Feld *Neugründungs­Förderungsgesetz (NeuFöG)* aktiviert und im Feld *Datum der Neugründung* das Datum eingetragen werden.
 
-![Image](<img/image28.png>)
+![Image](<img/image28.png>){width="500"}
 
 Die Eintragung der ersten drei Dienstnehmer erfolgt automatisch durch die Neuanlage der Dienstnehmer und zwar aufgrund der Eintrittsdaten der Dienstnehmer. Bei Dienstnehmern mit gleichem Eintrittsdatum zählt der Zeitpunkt der Neuanlage im Programm.
 
 Wenn für den Eintrittsmonat eines Dienstnehmers in dieser Liste die monatliche Beitragsgrundlagenmeldung erstellt wird, wird der Dienstnehmer fixiert. Die Fixierung wird durch die Anzeige des Buchstaben X in der letzten Spalte angezeigt. Fixierte Dienstnehmer sollten nicht mehr gelöscht werden. Das Programm bringt einen Warnhinweis.
 
-#### **Grafische Darstellung der Regelung des NeuFöG (Neugründungsförderungsgesetz)**
+**Grafische Darstellung der Regelung des NeuFöG (Neugründungsförderungsgesetz)**
 
 ![Image](<img/image29.png>)
 
-#### **Darstellung in der Abrechnung**
+**Darstellung in der Abrechnung**
 
 Wurden in dieser Liste die begünstigten Dienstnehmer eingetragen, werden in der Abrechnung im Bildschirm *Sozialversicherung* die betroffenen Zu-/Abschläge zur Tarifgruppe (Begünstigungen aufgrund des Neugründungsförderungsgesetzes) automatisch aktiviert.
 
-![Image](<img/image30.png>)
+![Image](<img/image30.png>){width="400"}
 
-#### **Sonderfunktionen im Registerblatt NeuFöG**
+**Sonderfunktionen im Registerblatt NeuFöG**
 
 Wenn innerhalb der Liste ein Dienstnehmer markiert wird, wird durch Anwahl der rechten Maustaste folgendes Kontextmenü geöffnet:
 
@@ -28,23 +28,23 @@ Wenn innerhalb der Liste ein Dienstnehmer markiert wird, wird durch Anwahl der r
 
 Dienstnehmer können – in Ausnahmefällen – durch Anwahl der *Entf-Taste* aus der Liste herausgelöscht werden. Zeilen können nur eingefügt werden, wenn noch nicht drei Dienstnehmer in der Liste eingetragen sind. Die *F5-Taste* (Aktualisieren) stellt die vom Programm erstellte Liste – falls Dienstnehmer gelöscht worden sind – wieder her.
 
-#### **BUAK – Bauarbeiter-Urlaubs- & Abfertigungskasse**
+**BUAK – Bauarbeiter-Urlaubs- & Abfertigungskasse**
 
-vgl. Kapitel 34 Bauarbeiter- Urlaubs- und Abfertigungskasse, Seite [405](#bauarbeiter--urlaubs--und-abfertigungskasse-1)
+vgl. [Bauarbeiter- Urlaubs- und Abfertigungskasse](../../Bauarbeiter-Urlaubs-%20und%20Abfertigungskasse/Abrechnungsbildschirm%20Bauarbeiter-Urlaubs-%20und%20Abfertigungskasse.md)
 
 Wenn der Betrieb BUAK-pflichtig ist und elektronische Meldungen (Monatsmeldung, Austrittsmeldung, Meldung der Urlaubstage) an die Bauarbeiter-Urlaubs- und Abfertigungskasse übermitteln möchte, muss hier das BUAK-Betriebskennzeichen eingetragen werden.
 
 Wenn eine BUAK-Direktauszahlung von Urlaubsgeld/Urlaubszuschuss an den Dienstnehmer vorliegt, muss das Feld *Direktauszahlung* aktiviert werden. Die Meldung der Urlaubstage bei Direktauszahlung muss derzeit noch händisch am WEB-Portal der BUAK eingetragen werden. Das Setzen des Hakens bei Direktauszahlung deaktiviert die Eingabemöglichkeit der Urlaubstage im Abrechnungsbildschirm *Bauarbeiter-Urlaubs- und Abfertigungskasse* beim Dienstnehmer.
 
-#### **Externe Dienstnehmer-Nummer verwenden**
+**Externe Dienstnehmer-Nummer verwenden**
 
-Diese Option ermöglicht die Eintragung einer externen Dienstnehmer-Nummer in den Stammdaten des Dienstnehmers (vgl. Kapitel 5.3, Seite [52](#stammdaten-dienstnehmer)). Diese externe Nummer kann beim Ausdruck der Abrechnungen verwendet werden und beim Import bzw. Export von Daten.
+Diese Option ermöglicht die Eintragung einer externen Dienstnehmer-Nummer in den [Stammdaten des Dienstnehmers](../../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md). Diese externe Nummer kann beim Ausdruck der Abrechnungen verwendet werden und beim Import bzw. Export von Daten.
 
-#### **Keine DN-Suche**
+**Keine DN-Suche**
 
 Durch anhaken des Kästchens *keine DN-Suche*, kann bei einer Dienstnehmersuche über alle Klienten, dieser eine Klient ausgeschlossen werden. D.h. Dienstnehmer aus diesem Klienten können nicht gesucht werden.
 
-#### **Elda-Rückmeldungen**
+**Elda-Rückmeldungen**
 
 Wenn das Feld *Meldebestätigungen nicht importieren* aktiviert wird, werden für diesen Klienten keine ELDA-Rückmeldungen gespeichert.
 
