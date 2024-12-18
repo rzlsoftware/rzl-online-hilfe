@@ -8,14 +8,14 @@ Im Rahmen der Vorerfassung können folgende Programmteile angesprochen werden.
 
 Durch Anwahl des Programmteils *Vorerfassung / Neuanlage Stammdaten / Anmeldung Dienstnehmer* wird automatisch der Abrechnungsbildschirm *Stammdaten Dienstnehmer* aufgerufen.
 
-Dieser Programmteil kann verwendet werden, wenn der Dienstnehmer zwar angelegt, aber noch keine Abrechnung durchgeführt werden soll. Vgl. Kapitel 3.3 Neuanlage Dienstnehmer, Seite [42](#neuanlage-dienstnehmer).
+Dieser Programmteil kann verwendet werden, wenn der Dienstnehmer zwar angelegt, aber noch keine Abrechnung durchgeführt werden soll. Vgl. [Neuanlage Dienstnehmer](../LOHN/Abrechnungen/Neuanlage%20Dienstnehmer.md).
 
 !!! warning "Hinweis"
     Im Zuge der Vorerfassung Neuanlage/Anmeldung Dienstnehmer kann bereits die reduzierte Anmeldung oder die Anmeldung fallweise Beschäftigte erstellt werden.
 
 ## Neuanlage Stammdaten / Anmeldung Freier Dienstvertrag
 
-Wenn der Programmteil *Vorerfassung / Neuanlage Stammdaten / Anmeldung Freier Dienstvertrag* aufgerufen wird, können die Daten für freie Dienstnehmer vorerfasst werden, die zwar angelegt, aber noch nicht abgerechnet werden sollen. Vgl. Kapitel 3.3 Neuanlage Dienstnehmer, Seite [42](#neuanlage-dienstnehmer).
+Wenn der Programmteil *Vorerfassung / Neuanlage Stammdaten / Anmeldung Freier Dienstvertrag* aufgerufen wird, können die Daten für freie Dienstnehmer vorerfasst werden, die zwar angelegt, aber noch nicht abgerechnet werden sollen. Vgl. [Neuanlage Dienstnehmer](../LOHN/Abrechnungen/Neuanlage%20Dienstnehmer.md).
 
 ## Vorerfassung Abrechnung
 
@@ -43,7 +43,7 @@ Vorerfassungen, die noch nicht in einer Abrechnung gespeichert wurden, können d
 
 Die Übernahme der vorerfassten Daten erfolgt in den Programmteilen *Abrechnungen / Lfd. Abrechnung mit Änderung* *oder Abrechnungen / Lfd. Abrechnung ohne Änderung*.
 
-![Image](<img/image45.png>)
+![Image](<img/image45.png>){width="500"}
 
 Das Programm zeigt die in der Vorerfassung geänderten Werte an. Wird der Haken im Kästchen nicht deaktiviert, werden die Werte in die Monatsabrechnung übernommen.
 
