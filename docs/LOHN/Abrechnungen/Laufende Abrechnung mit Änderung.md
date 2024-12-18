@@ -45,4 +45,4 @@ Wird das Auswahlfeld *UDG* aktiviert, so besteht die Möglichkeit, die Mitarbeit
 
 Sollten sich nachträgliche Änderungen ergeben, bzw. soll der letzte bereits abgerechnete Monat noch einmal neu berechnet werden, so besteht durch Anwahl des Menüpunkts *Abrechnungen / Korrektur letzte Abrechnung* die Möglichkeit, bei den betreffenden Dienstnehmern Korrekturen vorzunehmen.
 
-Weiter zurückreichende Änderungen können nur mehr durch eine [Lohn- und Gehaltsaufrollung](../Abrechnungen/Aufrollung/Lohn-%20und%20Gehaltsaufrollung.md) vorgenommen werden.
+Weiter zurückreichende Änderungen können nur mehr durch eine [Lohn- und Gehaltsaufrollung](../Abrechnungen/Aufrollung.md) vorgenommen werden.
