@@ -1,4 +1,4 @@
-## Löschung Stammdaten
+# Löschung Stammdaten
 
 Durch Anwahl des Menüpunkts *Abrechnungen / Löschung Stammdaten* können einzelne Dienstnehmer vollständig gelöscht werden. Vom Programm erfolgt noch die Abfrage, ob der betreffende Dienstnehmer tatsächlich gelöscht werden soll.
 

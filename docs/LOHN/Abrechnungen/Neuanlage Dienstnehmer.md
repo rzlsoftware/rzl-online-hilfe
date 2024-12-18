@@ -1,14 +1,14 @@
-## Neuanlage Dienstnehmer
+# Neuanlage Dienstnehmer
 
 Neu eingetretene Dienstnehmer bzw. beim Start mit der RZL Lohnverrechnung werden die Dienstnehmer über *Abrechnung / Neuanlage Dienstnehmer* angelegt.
 
 !!! warning "Hinweis"
-    Freie Dienstnehmer sind im Menüpunkt *Abrechnungen / Neuanlage Freier Dienstvertrag* anzulegen (Kapitel 6.1, Seite [138](#section-3)).
+    [Freie Dienstnehmer](../Freie%20Dienstverträge/Allgemeines.md) sind im Menüpunkt *Abrechnungen / Neuanlage Freier Dienstvertrag* anzulegen.
 
 !!! info "Tipp"
-    Im Programmteil *Bearbeiten / Datenimport / Import Neuanlage* kann ein Datenimport für diese Abrechnungsart durchgeführt werden (vgl. Kapitel 19, Seite [282](#datenimport)).
+    Im Programmteil *Bearbeiten / Datenimport / Import Neuanlage* kann ein [Datenimport](../Datenimport/Allgemeines.md) für diese Abrechnungsart durchgeführt werden.
 
-Bei der Neuanlage eines Dienstnehmers gelangt man nach Festlegung der Dienstnehmernummer und Anwahl der Schaltfläche *Anlegen* automatisch in den ersten Abrechnungsbildschirm *Stammdaten Dienstnehmer* (Kapitel 3.3, Seite [42](#neuanlage-dienstnehmer)).
+Bei der Neuanlage eines Dienstnehmers gelangt man nach Festlegung der Dienstnehmernummer und Anwahl der Schaltfläche *Anlegen* automatisch in den ersten [Abrechnungsbildschirm *Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md).
 
 !!! info "Tipp"
     Es wird im Rahmen der Neuanlage empfohlen, sämtliche Daten des Dienstnehmers sogleich einzugeben, um späteres Nachbearbeiten wegen fehlender Daten zu vermeiden.
