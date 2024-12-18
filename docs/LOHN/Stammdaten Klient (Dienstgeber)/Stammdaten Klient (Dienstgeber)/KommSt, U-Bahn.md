@@ -9,9 +9,9 @@ Ist der Dienstgeber grundsätzlich kommunalsteuerpflichtig, so ist dieses Feld z
 Im Feld *Kürzung Bem. Kommst.* kann die Kürzung der Bemessungsgrundlage für die Berechnung der Kommunalsteuer eingetragen werden. Wenn z.B.: 80 % eingetragen werden, wird die Bemessungsgrundlage um 80 % gekürzt. Eine nachträgliche Eintragung während des Jahres ändert nichts an der
 Berechnung bereits gespeicherter Abrechnungen.
 
-In den Dienstnehmer-Stammdaten im [Abrechnungsbildschirm *Lohnsteuer*](/LOHN/Abrechnungsbildschirme/Lohnsteuer/) kann eine Befreiung eines einzelnen Dienstnehmers von der Kommunalsteuer und eine Kürzung der Bemessungsgrundlage eingegeben werden.
+In den Dienstnehmer-Stammdaten im [Abrechnungsbildschirm *Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.md) kann eine Befreiung eines einzelnen Dienstnehmers von der Kommunalsteuer und eine Kürzung der Bemessungsgrundlage eingegeben werden.
 
-Die erste in der Liste eingetragene Gemeinde wird für alle Dienstnehmer des Klienten verwendet. Im Abrechnungsbildschirm *Lohnsteuer* kann direkt beim Dienstnehmer eine andere Gemeinde zugeordnet werden (Kapitel 5.8, Seite [87](#lohnsteuer)).
+Die erste in der Liste eingetragene Gemeinde wird für alle Dienstnehmer des Klienten verwendet. Im [Abrechnungsbildschirm *Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.md) kann direkt beim Dienstnehmer eine andere Gemeinde zugeordnet werden.
 
 !!! warning "Hinweis"
     Durch Anwahl des Feldes *Kommunalsteuer – Freibetrag berücksichtigen* kann die Berechnung des Freibetrages ausgeschaltet werden.
@@ -19,7 +19,7 @@ Die erste in der Liste eingetragene Gemeinde wird für alle Dienstnehmer des Kli
 
 **Gemeinden** 
 
-Im Feld *Gemeinde* ist die Nummer der Gemeinde einzugeben. Die Anlage der Gemeinde erfolgt im Menüpunkt *Klient / Finanzämter, Gemeinden, ÖGK, BV-Kassen, Gerichte* (Kapitel 14, Seite [239](#section-9)). Pro Klienten bzw. Unterdienstgeber können Sie bis zu 125 Gemeinden anlegen.
+Im Feld *Gemeinde* ist die Nummer der Gemeinde einzugeben. Die [Anlage der Gemeinde](../../Finanzämter,%20Gemeinden,%20ÖGK,%20BV-Kassen,%20Gerichte/Verwaltung%20der%20Gemeindestammdaten.md) erfolgt im Menüpunkt *Klient / Finanzämter, Gemeinden, ÖGK, BV-Kassen, Gerichte*. Pro Klienten bzw. Unterdienstgeber können Sie bis zu 125 Gemeinden anlegen.
 
 !!! warning "Hinweis"
     Mit der F2-Taste im Feld *Gemeinde* werden alle im Menüpunkt *Klient / Finanzämter, Gemeinden, ÖGK, BV Kassen, Gerichte* angelegten  
@@ -40,7 +40,7 @@ Für die automatische Eintragung des Monats und des Jahres können Sie die Kürz
 
 **Kommunalsteuerschließungserklärung** 
 
-Wenn eine Kommunalsteuer-Schließungserklärung erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen (vgl. Kapitel 23.3, Seite [315](#erstellung-einer-kommunalsteuer-schließungserklärung)).
+Wenn eine [Kommunalsteuer-Schließungserklärung](../../Elektronische%20Kommunalsteuererklärung/Erstellung%20einer%20Kommunalsteuer-Schließungserklärung.md) erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen.
 
 **U-Bahn-Abgabe**
 
@@ -50,4 +50,4 @@ Sollte die U-Bahn-Gemeinde von der Kommunalsteuergemeinde abweichen, ist in dies
 
 Im Feld *Steuernummer* können Sie die Steuernummer für die U-Bahn-Abgabe erfassen. Weiters kann ein eigenes Verbindlichkeitenkonto für diese Abgabe eingetragen werden.
 
-Zusätzlich ist noch in den Stammdaten des Dienstnehmers im Abrechnungsbildschirm *Lohnsteuer* (Kapitel 5.8, Seite [87](#lohnsteuer)) die U-Bahnabgaben-Pflicht des Dienstnehmers festzulegen.
+Zusätzlich ist noch in den Stammdaten des Dienstnehmers im [Abrechnungsbildschirm *Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.md) die U-Bahnabgaben-Pflicht des Dienstnehmers festzulegen.

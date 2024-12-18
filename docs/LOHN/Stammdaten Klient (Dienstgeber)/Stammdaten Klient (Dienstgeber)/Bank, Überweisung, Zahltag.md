@@ -18,10 +18,10 @@ Sollen die Lohnabgaben an das Finanzamt, die Gemeinde, die Österreichische Gesu
 
 **Zahltag Abrechnungen**
 
-Die Eintragungen, die hier getroffen werden, sind auf den Jahreslohnkonten der Dienstnehmer gemäß Lohnkontenverordnung angedruckt. Innerhalb jedes Dienstnehmers können Sie im Abrechnungsbildschirm [*Stammdaten Fristen*](/LOHN/Abrechnungsbildschirme/Stammdaten%20Fristen/) pro Monat eine abweichende Eintragung vornehmen.
+Die Eintragungen, die hier getroffen werden, sind auf den Jahreslohnkonten der Dienstnehmer gemäß Lohnkontenverordnung angedruckt. Innerhalb jedes Dienstnehmers können Sie im Abrechnungsbildschirm [*Stammdaten Fristen*](../../Abrechnungsbildschirme/Stammdaten Fristen.md) pro Monat eine abweichende Eintragung vornehmen.
 
 !!! warning "Hinweis"
-    Wird für die Überweisung der Abrechnungen [Elektronik Banking](/LOHN/Elektronic%20Banking%20SEPA/Elektronic%20Banking%20Abrechnungen%20Inland/) verwendet, wird das Durchführungsdatum als Zahltag am Jahreslohnkonto eingetragen.
+    Wird für die Überweisung der Abrechnungen [Elektronik Banking](../../Elektronic Banking SEPA/Elektronic Banking Abrechnungen Inland.md) verwendet, wird das Durchführungsdatum als Zahltag am Jahreslohnkonto eingetragen.
 
 **Abweichender Überweisungstext Abrechnungen**
 

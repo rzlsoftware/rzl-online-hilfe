@@ -4,11 +4,11 @@
 
 **Finanzamt Steuernummer**
 
-Die Nummer der zuständigen Dienststelle und die Steuernummer werden automatisch aus der *ZMV* übernommen. Bei der Anlage von [Unterdienstgebern](/LOHN/Stammdaten%20Klient%20%28Dienstgeber%29/Unterdienstgeber/) können Sie abweichende Eingaben vornehmen.
+Die Nummer der zuständigen Dienststelle und die Steuernummer werden automatisch aus der *ZMV* übernommen. Bei der Anlage von [Unterdienstgebern](../Unterdienstgeber.md) können Sie abweichende Eingaben vornehmen.
 
 **Finanzamt Bank**
 
-In den Stammdaten der [Finanzämter](/LOHN/Finanzämter%2C%20Gemeinden%2C%20ÖGK%2C%20BV-Kassen%2C%20Gerichte/Anlegen%20der%20Bankverbindungen/) können Sie bis zu 9 Bankverbindungen eingeben. Hier können Sie festlegen, an welche Bankverbindung des Finanzamts die Überweisungen erfolgen sollen.
+In den Stammdaten der [Finanzämter](../../Finanzämter, Gemeinden, ÖGK, BV-Kassen, Gerichte/Anlegen der Bankverbindungen.md) können Sie bis zu 9 Bankverbindungen eingeben. Hier können Sie festlegen, an welche Bankverbindung des Finanzamts die Überweisungen erfolgen sollen.
 
 **Zahlungsreferenz**
 
@@ -33,7 +33,7 @@ Das Auswahlfeld *DZ-Pflicht und Bundesland* muss aktiviert werden, wenn der betr
 
 Hier kann die Kürzung der Bemessungsgrundlage für die Berechnung des DZ eingetragen werden. Wenn z.B.: 80 % eingetragen werden, wird die Bemessungsgrundlage um 80 % gekürzt. Eine nachträgliche Eintragung während des Jahres ändert nichts an der Berechnung bereits gespeicherter Abrechnungen.
 
-Im [Abrechnungsbildschirm *Lohnsteuer*](/LOHN/Abrechnungsbildschirme/Lohnsteuer/) kann im Bereich *DB/DZ* die Bemessungsgrundlage DZ je Dienstnehmer gekürzt werden.
+Im [Abrechnungsbildschirm *Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.md) kann im Bereich *DB/DZ* die Bemessungsgrundlage DZ je Dienstnehmer gekürzt werden.
 
 **Selbstträger Familienbeihilfe**
 
@@ -45,7 +45,7 @@ In diese drei Eingabefelder können Sie die jeweiligen Verbindlichkeitskonten ei
 
 **Selbstbemessungsabgaben übermitteln**
 
-Die Aktivierung dieses Feldes ermöglicht die Erstellung einer xml-Datei zur [Meldung der Selbstbemessungsabgaben](/LOHN/Selbstbemessungsabgaben%20melden/) in FinanzOnline.
+Die Aktivierung dieses Feldes ermöglicht die Erstellung einer xml-Datei zur [Meldung der Selbstbemessungsabgaben](../../Selbstbemessungsabgaben melden.md) in FinanzOnline.
 
 **Steuerreform 2022 bereits ab Jan. aktiv**
 
