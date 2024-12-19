@@ -34,7 +34,7 @@ Diese Lohnart dient zur Abrechnung von Erschwerniszulagen gemäß § 68 EStG 198
 
 **Reisekosten frei**
 
-In diesem Feld erfolgt die Eingabe von Aufwandsentschädigungen, die gemäß § 26 Abs. 4 EStG88 steuerfrei sind. Aufwandsentschädigungen können auch als freie Lohnart angelegt werden.
+In diesem Feld erfolgt die Eingabe von Aufwandsentschädigungen, die gemäß § 26 Abs. 4&nbsp;EStG steuerfrei sind. Aufwandsentschädigungen können auch als freie Lohnart angelegt werden.
 
 **Reisekosten pflichtig**
 
@@ -117,7 +117,7 @@ Die BUAK versendet pro Dienstnehmer nachfolgende Informationen, die in der Lohnv
 
 Aus dem oben angeführten Beispiel müssen die Ziffern in der Abrechnung erfasst werden.
 
-![Image](<img/image105.png>)
+![Image](<img/image105.png>){width="500"}
 
 Innerhalb des RZL Lohnverrechnungsprogrammes ist der Bildschirm wie das Schreiben der BUAK aufgebaut.
 
@@ -128,13 +128,13 @@ Die Eintragung im RZL Feld *Monat der RV* muss nicht dasselbe Monat sein, sonder
 
 **BUAK-Treuhandkonto**
 
-![Image](<img/image106.png>)
+![Image](<img/image106.png>){width="500"}
 
-![Image](<img/image107.png>)
+![Image](<img/image107.png>){width="700"}
 
 Im Kontextmenü wählen Sie *BUAK – Urlaubsentgeltverrechnung* aus.
 
-![Image](<img/image108.png>)
+![Image](<img/image108.png>){width="700"}
 
 Durch Anwahl *Werte übernehmen* können die in diesem Bildschirm angeführten Beträge in die neu entwickelten Felder importiert werden.
 
@@ -150,7 +150,7 @@ Damit das Feld *UZ (BUAG)* ausgefüllt werden kann und für weitere sonstige Bez
 
 **BV-Bemessung für**
 
-![Image](<img/image109.png>)
+![Image](<img/image109.png>){width="500"}
 
 Bei Ableistung von Präsenz- und Zivildienst und beim Bezug von Wochen- und Krankengeld sind vom Dienstgeber die BV-Beiträge weiter an die BV-Kasse abzuführen.
 
@@ -169,11 +169,11 @@ Siehe [Start-Up-Mitarbeiterbeteiligung](../Abrechnungen%20Sonderfälle/Start-Up-
 
 **Sonder-Berechnung**
 
-![Image](<img/image110.png>)
+![Image](<img/image110.png>){width="500"}
 
 In Ausnahmefällen kann die Berechnung der Lohnsteuer und/oder der Sozialversicherung durch den Benutzer abweichend eingetragen (geändert) werden. Durch Anwahl der *rechten Maustaste* oder der Tastenkombination *Strg – 0,* kann der Wert im jeweiligen Feld *Explizit 0* gesetzt werden.
 
-Eingabe der *abweichenden Lohnsteuer* getrennt nach laufender und fester Lohnsteuer gemäß § 67 (1) und § 67 (3) EStG 1988. Wird eine abweichende Lohnsteuer eingegeben, so ist immer die gesamte Lohnsteuer der Abrechnung (laufende und feste Lohnsteuer) einzugeben.
+Eingabe der *abweichenden Lohnsteuer* getrennt nach laufender und fester Lohnsteuer gemäß §&nbsp;67&nbsp;(1) und § 67 (3) EStG 1988. Wird eine abweichende Lohnsteuer eingegeben, so ist immer die gesamte Lohnsteuer der Abrechnung (laufende und feste Lohnsteuer) einzugeben.
 
 Wie bei der abweichenden Lohnsteuer kann auch die *Sozialversicherung* bei Vorliegen eines speziellen Falles *abweichend* eingegeben werden. Im Feld *Betrag* ist immer der gesamte SV-Arbeitnehmeranteil einzutragen, in den beiden Eingabefeldern KZ 225 und KZ 226 jener SV-Anteil, der auf diese beiden Kennziffern laut Lohnzettel entfällt.
 
@@ -183,4 +183,4 @@ Im Feld *abw. BV-Bemessung* kann die automatische Berechnung der BV-Bemessung du
 
 **BVA/Eisenbahn/Bergbau – Bem. Krankenversicherung während der Karenz**
 
-Wenn in den Stammdaten des Klienten im [Registerblatt *ÖGK, BV-Kasse*](..//Klientenstammdaten/Stammdaten%20Klient%20%28Dienstgeber%29/ÖGK%2C%20BV-Kasse/) (vgl. Kapitel 2.1.4, Seite [28](#registerblatt-ögk-bv-kasse)) die Versicherungsanstalt für öffentlich Bedienstete, Eisenbahnen oder Bergbau ausgewählt ist, kann hier die Bemessungsgrundlage für die Krankenversicherung während der Karenz eingetragen werden. Betrifft zum Beispiel die Tarifgruppen V603, V604, V605, V606, V607).
+Wenn in den Stammdaten des Klienten im [Registerblatt *ÖGK, BV-Kasse*](../Klientenstammdaten/Stammdaten Klient (Dienstgeber)/ÖGK, BV-Kasse.md) die Versicherungsanstalt für öffentlich Bedienstete, Eisenbahnen oder Bergbau ausgewählt ist, kann hier die Bemessungsgrundlage für die Krankenversicherung während der Karenz eingetragen werden. Betrifft zum Beispiel die Tarifgruppen V603, V604, V605, V606, V607).

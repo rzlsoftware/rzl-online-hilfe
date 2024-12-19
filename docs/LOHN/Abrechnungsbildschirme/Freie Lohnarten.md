@@ -1,10 +1,10 @@
-## Freie Lohnarten
+# Freie Lohnarten
 
-Im Eingabebildschirm der frei definierbaren Lohnarten können zusätzliche Lohnarten angewählt und abgerechnet werden. Für die Anlage von freien Lohnarten siehe Kapitel 7.1 Lohnarten anlegen / ändern, Seite [149](#lohnarten-anlegen-ändern)).
+Im Eingabebildschirm der frei definierbaren Lohnarten können zusätzliche Lohnarten angewählt und abgerechnet werden. Für die Anlage von freien Lohnarten siehe [Lohnarten anlegen / ändern](../Freie%20Lohnarten/Lohnarten%20anlegen%20bzw.%20ändern.md).
 
 **Lohnarten-Nummer**
 
-Eingabe der Nummer der selbst definierten Lohnart. Mit der *F2-Taste* kann eine Liste der Lohnarten aufgerufen werden. Ist unter der eingegebenen Nummer keine Lohnart angelegt, erscheint die Meldung *Die angegebene Lohnart existiert nicht.* Diese kann mit der *F4-Taste* nun sofort angelegt werden. Werden Kanzleilohnarten verwendet, so kann eine neue Lohnart nicht bei der Abrechnung des Dienstnehmers angelegt werden, sondern nur im Programmpunkt *Kanzleilohnarten* (Kapitel 2.1.5, Seite [31](#registerblatt-la-formeln-texte-kontenplan-beiträge-währung)).
+Eingabe der Nummer der selbst definierten Lohnart. Mit der *F2-Taste* kann eine Liste der Lohnarten aufgerufen werden. Ist unter der eingegebenen Nummer keine Lohnart angelegt, erscheint die Meldung *Die angegebene Lohnart existiert nicht.* Diese kann mit der *F4-Taste* nun sofort angelegt werden. Werden Kanzleilohnarten verwendet, so kann eine neue Lohnart nicht bei der Abrechnung des Dienstnehmers angelegt werden, sondern nur im Programmpunkt [*Kanzleilohnarten*](../Klientenstammdaten/Stammdaten%20Klient%20(Dienstgeber)/LA, Formeln, Texte, Kontenplan, Beiträge, Währung.md).
 
 **Anzahl**
 
@@ -16,7 +16,7 @@ Die Basis kann nur bei Lohnarten abgerechnet werden, welche nach Einheiten defin
 
 Wenn Sie eine freie Lohnart mit der Basis Null auf der Abrechnung angedruckt haben möchten (z. B. Arztstunden, Urlaubsstunden, etc.), dann machen Sie im Feld *Basis* einen rechten Mausklick und wählen *Explizit 0* aus. Somit erscheint bei der Basis ein ***!***.
 
-![Image](<img/image111.png>)
+![Image](<img/image111.png>){width="500"}
 
 **Betrag**
 
