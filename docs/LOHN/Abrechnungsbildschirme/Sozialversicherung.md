@@ -1,10 +1,8 @@
-## Sozialversicherung
+# Sozialversicherung
 
 ![Image](<img/image92.png>)
 
-### Beschreibung der Eingabefelder
-
-#### **SV-Pflicht**
+**SV-Pflicht**
 
 - Bundesland
 
@@ -24,7 +22,7 @@ Aufgrund der gewählten Beschäftigungsgruppe werden die jeweiligen Felder hinsi
 
 Durch Anklicken des blauen Rufzeichens ![Image](<img/image94.png>) dieser Beschäftigtengruppe anzeigen lassen.
 
-![Image](<img/image95.png>)
+![Image](<img/image95.png>){width="500"}
 
 - Beschäftigungsbereich (Anmeldung)
 
@@ -65,7 +63,7 @@ Die Bemessung ergibt sich aus den laufenden Bezügen und den Sonderzahlungen nac
 In diesem Bereich kann die Schwerarbeit für den abgerechneten Monat erfasst werden. Zunächst wird die zutreffende Kennziffer laut Verordnung aktiviert. Wenn in den Feldern *Dauer der Tätigkeit* kein Eintrag erfolgt, wird automatisch der volle Monat gespeichert. Durch Anwahl des Feldes *wiederkehrend* erfolgt monatlich dieselbe Erfassung.
 
 !!! info "Tipp"
-    Die Meldung für die Schwerarbeit kann im Programmteil *Stamm/Schwerarbeitsmeldung* für das gesamte Jahr erfasst werden.
+    Die Meldung für die Schwerarbeit kann im Programmteil *Stamm / Schwerarbeitsmeldung* für das gesamte Jahr erfasst werden.
 
 **UST-Pflicht**
 
@@ -75,7 +73,7 @@ Handelt es sich beim Auftragnehmer um einen umsatzsteuerpflichtigen Unternehmer,
 
 Mit der November-Abrechnung wird allen Dienstnehmern in einem aufrechten Dienstverhältnis das E-Card-Service-Entgelt (für das Folgejahr) automatisch abgezogen und über die monatliche Beitragsgrundlagenmeldung November in einer eigenen Verrechnungsgruppe an die ÖGK gemeldet und abgeführt. Liegt ausnahmsweise eine Befreiung vor, ist dieses Feld zu aktivieren.
 
-**fa**llw**eise beschäftigte Dienstnehmer**
+**fallweise beschäftigte Dienstnehmer**
 
 Bei fallweise beschäftigten Dienstnehmern sind am Kalenderblatt die Tage der fallweisen Beschäftigung zu markieren (*Strg + Leertaste* oder *Strg + Mausklick*).
 

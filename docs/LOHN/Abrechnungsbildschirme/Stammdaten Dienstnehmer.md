@@ -91,7 +91,7 @@ Ist der Dienstort nicht am Ort des Dienstgebers, so kann hier ein abweichender D
 
 **Arbeitsstätte**
 
-vgl. [Arbeitsstätten – Lohnzettel Finanz](../Stammdaten Klient (Dienstgeber)/Arbeitsstätten - Lohnzettel Finanz.md)
+vgl. [Arbeitsstätten – Lohnzettel Finanz](../Klientenstammdaten/Arbeitsstätten - Lohnzettel Finanz.md)
 
 **Gesundheitsberuf**
 

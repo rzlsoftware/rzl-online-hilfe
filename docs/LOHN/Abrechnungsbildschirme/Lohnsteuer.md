@@ -1,18 +1,16 @@
-## Lohnsteuer
+# Lohnsteuer
 
 ![Image](<img/image85.png>)
 
-### Beschreibung der Eingabefelder
+**Absetzbeträge**
 
-#### **Absetzbeträge**
-
-Soll der Alleinverdienerabsetzbetrag berücksichtigt werden, ist das Feld *Alleinverdiener* zu aktiveren. Wird der Alleinverdienerabsetzbetrag beansprucht, so müssen in den *Dienstnehmer-Stammdaten* (vgl. Kapitel. 5.3.1 Beschreibung der Eingabefelder, Seite [53](#beschreibung-der-eingabefelder)) die Daten des Ehepartners eingetragen werden.
+Soll der Alleinverdienerabsetzbetrag berücksichtigt werden, ist das Feld *Alleinverdiener* zu aktiveren. Wird der Alleinverdienerabsetzbetrag beansprucht, so müssen in den [*Dienstnehmer-Stammdaten*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) die Daten des Ehepartners eingetragen werden.
 
 Besteht Anspruch auf den Alleinerzieherabsetzbetrag ist das Feld *Alleinerzieher* zu aktivieren.
 
-Seit Juli 2004 steht pro Kind ein Kinderzuschlag zum Alleinverdiener(-erzieher)absetzbetrag zu. Im Feld *Anzahl Kinder § 106* ist die Anzahl der Kinder einzutragen, für die ein Kinderzuschlag gerechnet werden soll. Durch Anwahl der *F2-Taste* besteht die Möglichkeit, die im Abrechnungsbildschirm *Stammdaten Dienstnehmer* (vgl. Kapitel 5.3.1, Seite [53](#beschreibung-der-eingabefelder)) im Bereich *Kinder* erfassten Kinder automatisch zu übernehmen.
+Seit Juli 2004 steht pro Kind ein Kinderzuschlag zum Alleinverdiener(-erzieher)absetzbetrag zu. Im Feld *Anzahl Kinder § 106* ist die Anzahl der Kinder einzutragen, für die ein Kinderzuschlag gerechnet werden soll. Durch Anwahl der *F2-Taste* besteht die Möglichkeit, die im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) im Bereich *Kinder* erfassten Kinder automatisch zu übernehmen.
 
-#### **Pendlerpauschale**
+**Pendlerpauschale**
 
 Sie können die beantragte Pendlerpauschale aus der vorgegebenen Liste auswählen. Bei Ein- und Austritten während des Monats wird die Pauschale automatisch gemäß Rz. 250a LStR aliquotiert.
 
@@ -26,7 +24,7 @@ Wenn die Fahrttage pro Woche nicht regelmäßig anfallen (z.B. 1 Woche mit 2 Fah
 
 Eine Besonderheit gibt es bei der Erfassung der *Homeoffice-Tage*. Durch Eingabe der *Homeoffice-Tage* müssen seit 01.07.2021 die *Pendlerpauschaltage* gekürzt werden. Dies wird automatisch vom Programm vorgenommen, wenn die Homeoffice-Tage erfasst sind. Das bedeutet, dass Sie bei den Fahrttagen, jene Tage eintragen, die der Dienstnehmer inkl. Homeoffice-Tage fährt. Zum Beispiel: Dienstnehmer hat eine 5-Tage-Woche. Er arbeitet von Montag bis Freitag. Sie aktivieren diese 5 Arbeitstage, egal ob der Dienstnehmer an diesen Tagen Homeoffice hat oder im Büro anwesend ist. Durch die Eingabe der Homeoffice-Tage werden die Fahrttage automatisch gekürzt. 
 
-#### **Werkverkehr / Jobticket**
+**Werkverkehr / Jobticket**
 
 Wird der Dienstnehmer im *Werkverkehr* gemäß § 26 Z 5 EStG befördert, muss die Anzahl der Monate am L16 (Jahreslohnzettel) vermerkt werden. Auf dem Jahreslohnkonto des Dienstnehmers erfolgt monatsweise ebenfalls ein Vermerk.
 
@@ -42,37 +40,37 @@ Durch Eingabe eines Betrages bei *Kostenübernahme durch DG* wird der Betrag auf
 
 Wenn ein Dienstnehmer austritt und innerhalb der letzten 12 Monate ein Öffi-Ticket hatte, erscheint folgender Hinweis:
 
-![Image](<img/image87.png>)
+![Image](<img/image87.png>){width="350"}
 
 Nehmen Sie falls nötig eine Aufrollung in dem entsprechenden Monat vor und korrigieren Sie die Abrechnung.
 
 Seit 01.01.2023 muss die Pendlerpauschale durch Auszahlung des Öffi-Tickets gekürzt werden. Im Feld *Kürzung Pendlerpauschale* muss der monatliche Öffi-Ticket-Betrag erfasst werden. Mit rechtem Mausklick bei *Kürzung Pendlerpauschale* und Anwahl *Vorschlag Kürzung Pendlerpauschale (F4-Taste)* kann ein zusätzliches Menü für die Erfassung des Öffi-Tickets aufgerufen werden.
 
-![Image](<img/image88.png>)
+![Image](<img/image88.png>){width="500"}
 
 Erfassen Sie den *Gültigkeitszeitraum des Tickets*, somit wird darunter eine *Kürzung der Pendlerpauschale* vorgeschlagen. Der *Kürzung PP Zeitraum von bis* kann von Ihnen laut Angaben des Tickets abgeändert werden.
 
 Beim Ablauf der Gültigkeitsdauer des Öffi-Tickets wird bei der betroffenen Abrechnung ein entsprechender Hinweis angezeigt.
 
-![Image](<img/image89.png>)
+![Image](<img/image89.png>){width="350"}
 
 Falls Sie eine **eigene Bezeichnung** für das Öffi-Ticket auf der Abrechnung haben möchten, können Sie sich eine freie Lohnart mit der Lohnsteuerpflichtigkeit *30 Kostenübernahme § 26 (5b) - Öffi-Ticket* anlegen.
 
-![Image](<img/image90.png>)
+![Image](<img/image90.png>){width="500"}
 
 Die Entscheidung über die Lohnartendefinition liegt grundsätzlich beim Anwender, weshalb der oben angezeigte Vorschlag mit Vorbehalt zu betrachten ist.
 
 Wichtig hierbei ist, dass das Feld *Aufwandsentschädigung* angewählt wird und DB und Kommst mit der *Pflichtigkeit 2 Aufwandsentschädigung* versehen wird. Nur so wird die Lohnart korrekt abgerechnet und auch auf allen Auswertungen korrekt angezeigt.
 
-#### **Kinder**
+**Kinder**
 
 Falls die Kinder im *Stammdaten Dienstnehmer Bildschirm* noch nicht erfasst wurden, können diese hier erfasst werden. Die bereits erfassten Daten werden dann nochmals angezeigt. Es gibt hier auch wieder die Möglichkeit, den Familienbonus Plus einzutragen.
 
-#### **Homeoffice-Pauschale**
+**Homeoffice-Pauschale**
 
 Durch Eingabe der *Homeoffice-Tage* werden die Tage auf dem Jahreslohnkonto und dem Jahreslohnzettel angeführt. Ebenso werden die Tage auf der Abrechnung angedruckt. Wenn Sie die *steuerfreie Pauschale* aktiviert haben, wird vom Programm automatisch der *Satz* EUR 3,00 vorgeschlagen. Dieser Satz kann von Ihnen abgeändert werden. Sie haben auch die Möglichkeit, einen unabhängigen Pauschalbetrag einzugeben (z.B. EUR 25,00), somit wird dieser Betrag ausbezahlt. Durch anhaken von *wiederkehrend*, speichert sich das Programm den Pauschalbetrag ab.
 
-#### **Freibeträge**
+**Freibeträge**
 
 Eingabe des monatlichen Freibetrages auf Grund des Freibetrags-Bescheides im Feld *monatl. Freibetrag*.
 
@@ -82,49 +80,49 @@ Im Feld *Höchstbetrag* kann ein Maximalbetrag für Werbungskosten eingetragen w
 
 Wenn Sie *Expatriates* (nach Österreich entsendete Fachkräfte) abrechnen und die allgemeinen Voraussetzungen erfüllt sind, können Sie das Feld *WK (Werbungskosten) Expatriates* für diese Dienstnehmer aktivieren. Der Freibetrag beträgt max. 20 % der Bemessungsgrundlage höchstens EUR 10.000,00 jährlich. Dieser Jahreshöchstbetrag ist bei nicht ganzjähriger Tätigkeit zu aliquotieren.
 
-#### **Nachtarbeit**
+**Nachtarbeit**
 
 Hat der Dienstnehmer Anspruch auf den erhöhten Freibetrag gemäß § 68 Abs. 6 EStG, so ist dieses Auswahlfeld zu aktivieren. Dies ist dann der Fall, wenn die Normalarbeitszeit im Lohnzahlungszeitraum auf Grund der Beschaffenheit der Arbeit überwiegend in der Zeit von 19 Uhr bis 7 Uhr liegt.
 
-#### **Pensionist**
+**Pensionist**
 
 Handelt es sich um keinen aktiven Dienstnehmer, so ist dieses Auswahlfeld zu aktivieren. Dieses Feld ist nur zu aktivieren, wenn ein Dienstnehmer (Pensionist) **nicht aktiv** bei Ihnen arbeitet, sondern nur zum Beispiel eine Betriebspension (eine Zahlung von Ihnen) erhält. Bei Pensionisten wird der Pensionistenabsetzbetrag anstelle des Verkehrsabsetzbetrages berücksichtigt, und ebenso steht die Werbungskostenpauschale nicht zu.
 
 !!! warning "Hinweis"
     Wenn ein Pensionist, obwohl er bereits Anspruch auf Pension hat, weiterhin bei Ihnen mitarbeitet, darf dieses Häkchen **nicht** gesetzt werden.
 
-#### **Pauschale Lohnsteuer**
+**Pauschale Lohnsteuer**
 
 Erfolgt der Lohnsteuerabzug im Wege einer Pauschalbesteuerung, so ist dieses Feld zu aktivieren. Es wird damit die normale Lohnsteuerberechnung unterdrückt und die Lohnsteuer nach dem eingegebenen Prozentsatz berechnet.
 
 !!! info "Tipp"
     Die pauschale Berechnung der Lohnsteuer kann einerseits für vorübergehend beschäftigte Arbeitnehmer gemäß § 69 EStG in Frage kommen und andererseits für Dienstnehmer, deren Bezüge nicht der Lohnsteuer unterliegen, die jedoch wegen der Kommunalsteuer und des Dienstgeberbeitrages über das Lohnprogramm abgerechnet werden müssen (z. B. Geschäftsführer mit einer Beteiligung von mehr als 25 %). In diesem Fall ist dann der Prozentsatz mit Null einzugeben.
 
-#### **Pauschale Lohnsteuer - Prozentsatz**
+**Pauschale Lohnsteuer - Prozentsatz**
 
 Eingabe des Prozentsatzes der pauschalen Lohnsteuer gemäß § 69 EStG 88. Soll überhaupt keine Lohnsteuer berechnet werden (z. B. bei einem Geschäftsführer, der Bezüge gemäß § 22 Z. 2 EStG bezieht), so ist wie oben beschrieben, das Feld *Pauschale Lohnsteuer* zu aktivieren und hier 0 % einzugeben. Damit wird keine Lohnsteuer berechnet und es kann auch für diesen Dienstnehmer kein Lohnzettel elektronisch übermittelt werden.
 
-#### **Grenzgänger**
+**Grenzgänger**
 
 Wird dieses Auswahlfeld aktiviert, erfolgt die Übermittlung eines Lohnzettels Art 8 (L8). Seit 2020 muss hier auch der *Wohnsitzstaat* des Dienstnehmers ausgewählt werden, damit eine korrekte Lohnzettelart 8 erstellt werden kann.
 
-#### **Freiwilliger LSt.Abzug (§ 47 Abs. 1 lit. B)**
+**Freiwilliger LSt.Abzug (§ 47 Abs. 1 lit. B)**
 
 Falls der Arbeitgeber über keine inländische Betriebsstätte verfügt, kann gem. § 47 Abs. 1 lit. b dennoch freiwillig in Österreich Lohnsteuer abgeführt werden. Diese freiwillige Abfuhr ist entsprechend am Jahreslohnzettel (L16) und am Jahreslohnkonto auszuweisen.
 
 Diese Option führt zu einer Besteuerung auf Basis der normalen inländischen Tarifstufen. Diese Option dient NICHT dazu, z.B. im Falle mehrerer geringfügiger Dienstverhältnisse, eine Besteuerung manuell auszulösen. Eine Kombination mit der Option *Pauschale Lohnsteuer* ist ebenfalls nicht korrekt und führt zu keinem korrekten Jahreslohnzettel (L16) für die Dienstnehmer.
 
-#### **Kassenstaatsregelung – Kurzarbeit**
+**Kassenstaatsregelung – Kurzarbeit**
 
 Wenn ein Dienstnehmer ein Grenzgänger ist und dieser sich in Kurzarbeit befindet, muss die Kurzarbeitsunterstützung in Österreich besteuert werden und nicht im Wohnsitzstaat (gültig bis 30.06.2022). Durch anhaken der Kassenstaatsregelung wird die abgerechnete Kurzarbeitsunterstützung in Österreich versteuert.
 
-#### **Tageweise Steuerberechnung**
+**Tageweise Steuerberechnung**
 
 Ist der Lohn nach dem jeweilig anwendbaren DBA zu befreien, die Kurzarbeitsunterstützung jedoch nicht, oder umgekehrt, so stellt sich die Frage, wie damit im Zuge des **Lohnsteuerabzugs** umzugehen ist. Damit ist es für die Besteuerung erforderlich, die Kurzarbeitsunterstützung den **Kalendertagen** zuzuordnen.
 
 Die Vornahme der Besteuerung nach Kalendertagen kann nach LStR 2002 Rz 1186a erfolgen. Mit dieser Vorgangsweise ist ein besonderer Vereinfachungseffekt verbunden. Daher bietet es sich an, in Fällen der Kurzarbeitsunterstützung für die Besteuerung die Anzahl der Kalendertage in einem prozentuellen Verhältnis zu ermitteln. Die Kurzarbeitsunterstützung wird in ein **Verhältnis mit der Gesamtentlohnung** gesetzt und an Hand dieses Verhältnisses wird dann die Anzahl der relevanten Kalendertage im Lohnzahlungszeitraum während der Kurzarbeitsphase errechnet.
 
-#### **Beispiel ganzes Monat Kurzarbeit**
+**Beispiel ganzes Monat Kurzarbeit**
 
 Kurzarbeit: 01.04.2020 bis 30.04.2020
 
@@ -138,7 +136,7 @@ Kalendertageermittlung: 30 Lohnsteuertage x 37,85% = 11,36 ~ 11 Lohnsteuertage f
 
 Es wird **kaufmännisch** gerundet.
 
-#### **Beispiel untermonatige Kurzarbeit**
+**Beispiel untermonatige Kurzarbeit**
 
 Kurzarbeit: 10.04.2020 bis 30.04.2020
 
@@ -162,29 +160,29 @@ Kalendertageermittlung: 21 Lohnsteuertage x 62,97% = 13,22 ~13 Lohnsteuertage f�
 
 Hier empfehlen wir eine abweichende Eingabe der Lohnsteuertage.
 
-#### **Beschränkte Steuerpflicht**
+**Beschränkte Steuerpflicht**
 
 Im Falle eines beschränkt steuerpflichtigen Dienstnehmers ist dieses Feld zu aktivieren.
 
-#### **Beschränkte Steuerpflicht gemäß § 70 Abs. 2 Z 2 EStG**
+**Beschränkte Steuerpflicht gemäß § 70 Abs. 2 Z 2 EStG**
 
 Bei einem beschränkt steuerpflichtigen Dienstnehmer, der Bezüge im Sinne des § 99 Abs. 1 Z 2 bezieht (bei im Inland ausgeübter oder verwerteter Tätigkeit als Schriftsteller, Vortragender, Künstler, Architekt, Sportler, Artist oder Mitwirkender an Unterhaltungsdarbietungen) beträgt die Lohnsteuer 20 % des vollen Betrages dieser Bezüge.
 
-#### **Landarbeiter-Freibetrag**
+**Landarbeiter-Freibetrag**
 
 Hat der Dienstnehmer Anspruch auf den Landarbeiterfreibetrag, so ist das Feld zu aktivieren.
 
-#### **Auslandsbezüge als Entwicklungshelfer Z11**
+**Auslandsbezüge als Entwicklungshelfer Z11**
 
 Entwicklungshelfer sind von der Neuregelung der Auslandsbezüge ab dem Jahr 2011 nicht betroffen. Daher muss dieses Feld bei der Abrechnung von Auslandsbezügen bei Entwicklungshelfern aktiviert werden.
 
 ![Image](<img/image91.png>)
 
-#### **Steuerfreie Aushilfskräfte § 3 Abs. 1 Z 11a**
+**Steuerfreie Aushilfskräfte § 3 Abs. 1 Z 11a**
 
 Seit 2020 können steuerfreie Aushilfskräfte in der Lohnsteuer nicht mehr abgerechnet werden.
 
-#### **Kommunalsteuer**
+**Kommunalsteuer**
 
 Hier kann die Kommunalsteuer auf insgesamt 10 Gemeinden verteilt werden. Tragen Sie die Gemeinde-Nummer laut den angelegten Gemeindestammdaten ein. Hat der Dienstgeber in einer Gemeinde nur eine Betriebsstätte, so braucht hier keine Nummer eingegeben zu werden, es wird automatisch die Gemeinde laut Dienstgeber-Stammdaten angesprochen.
 
@@ -192,7 +190,7 @@ Ist der Dienstnehmer von der Kommunalsteuer befreit (z. B. Invalide), so ist das
 
 Die Eingabe eines Prozentsatzes im Feld *Kürzung Bem. Kommst.* verringert die Bemessungsgrundlage zur Berechnung der Kommunalsteuer für den jeweiligen Dienstnehmer. Eine nachträgliche Änderung während des Jahres ändert nichts an der Berechnung bereits gespeicherter Abrechnungen. In den Stammdaten des Klienten im Registerblatt *Kommst., U-Bahn* kann die Bemessungsgrundlage für den gesamten Klienten gekürzt werden.
 
-#### **DB, DZ**
+**DB, DZ**
 
 Wenn der Dienstnehmer von der Entrichtung des DB befreit ist, ist das Feld *Befreiung von DB* zu aktivieren.
 
@@ -205,6 +203,6 @@ Die Eingabe eines Prozentsatzes im Feld *Kürzung Bem. DZ.* verringert die Bemes
 !!! warning "Hinweis"
     Wird ein Dienstnehmer 60 Jahre, somit entfällt die DB- und DZ-Pflicht. Das Lohnprogramm setzt bei diesen Personen automatisch das Häkchen bei DB- und DZ-Befreiung in jenem Monat, wo der Dienstnehmer genau am ersten des Monats 60 wird oder bei einem späteren Geburtstag im Folgemonat.
 
-#### **U-Bahn-Abgabe**
+**U-Bahn-Abgabe**
 
 Unterliegt der DN der U-Bahn-Abgabe, so ist das Feld *U-Bahn-Abgabe* zu aktivieren. Liegt die U-Bahn-Abgabenpflicht vor, so werden vom Programm automatisch die U-Bahn-Wochen ermittelt. Auch bei Eintritt oder Austritt während des Monats. Nur in Ausnahmefällen muss hier die U-Bahn-Wochenanzahl manuell eingegeben werden (z. B. wenn ein Lehrling während des Monats seine Lehrzeit beendet).

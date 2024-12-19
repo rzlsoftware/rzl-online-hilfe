@@ -1,8 +1,6 @@
-## Fixe Lohnarten
+# Fixe Lohnarten
 
 ![Image](<img/image100.png>)
-
-### Beschreibung der Eingabefelder
 
 **Lohn / Gehalt**
 
@@ -16,7 +14,7 @@ Standardmäßig wird von Brutto auf Netto gerechnet. Es besteht jedoch auch die 
 
 **Trinkgeld**
 
-Das Trinkgeld erhöht nur die Sozialversicherungsgrundlage, nicht jedoch den Auszahlungsbetrag. Falls *Aliquotierung* (Kapitel 5.4, Seite [60](#stammdaten-fristen)) aktiviert ist, erfolgt eine automatische Aliquotierung dieses Betrags bei Ein- oder Austritt während des Monats.
+Das Trinkgeld erhöht nur die Sozialversicherungsgrundlage, nicht jedoch den Auszahlungsbetrag. Falls [*Aliquotierung*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) aktiviert ist, erfolgt eine automatische Aliquotierung dieses Betrags bei Ein- oder Austritt während des Monats.
 
 **Sonderzahlung**
 
@@ -46,8 +44,6 @@ Hier können Aufwandsentschädigungen eingegeben werden, die die Grenzen des § 
 
 Dieser Bereich ermöglicht die Abrechnung der Montagetätigkeit gemäß § 3 Abs. 1 Z 10 und 11 EStG.
 
-Abb. 5‑51 Begünstigte Auslandstätigkeit § 3 Abs. 1 Z 10 z. 11 EStG
-
 ![Image](<img/image101.png>)
 
 Nach Abzug der Sozialversicherungsbeiträge können seit 2012 60 % der laufenden Einkünfte steuerfrei bleiben, wenn dieser Betrag die monatliche Höchstbeitragsgrundlage nicht übersteigt. Bezüge gemäß §§ 26 und 3 Abs. 1 Z 16b EStG (Reisekosten) bleiben dabei außer Ansatz. Sonderzahlungen fallen generell nicht unter die Befreiungsbestimmungen, da diese nur die laufenden Bezüge einschließt. Zusätzlich können die Zulagen und Zuschläge gemäß § 68 EStG während der Entsendung nicht in Anspruch genommen werden. Diese Bestimmungen werden vom Programm automatisch berücksichtigt.
@@ -62,45 +58,12 @@ In diesem Bereich werden Einkünfte abgerechnet, die keine Montagetätigkeit (§
 
 Je nachdem, ob zur Vermeidung von Doppelbesteuerungen die Anrechnungsmethode oder die Befreiungsmethode (kein Hackerl im Feld *DBA-Anrechnungsmethode*) mit oder ohne Lohnsteuerabzug zur Anwendung kommt, werden unterschiedliche Lohnzettel-Arten erstellt (siehe Tabelle unterhalb).
 
-<table>
-<colgroup>
-<col style="width: 29%" />
-<col style="width: 35%" />
-<col style="width: 35%" />
-</colgroup>
-<thead>
-<tr>
-<th>Übersicht<br />
-Lohnzettelarten</th>
-<th>Auslandstätigkeit<br />
-Montagetätigkeit</th>
-<th>Auslandstätigkeit<br />
-Keine Montagetätigkeit</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Befreiung/mit LSt</td>
-<td>LZ-Art 23</td>
-<td>LZ-Art 8</td>
-</tr>
-<tr>
-<td>Befreiung/ohne LSt</td>
-<td>LZ-Art 8 u 23</td>
-<td>LZ-Art 8</td>
-</tr>
-<tr>
-<td>Anrechnung/mit LSt</td>
-<td>LZ-Art 23 u. 24 je Land</td>
-<td>LZ Art 24 je Land</td>
-</tr>
-<tr>
-<td>Anrechnung/ohne LSt</td>
-<td>LZ-Art 23 u. 24 je Land</td>
-<td>LZ-Art 24 je Land</td>
-</tr>
-</tbody>
-</table>
+| Übersicht Lohnzettelarten | Auslandstätigkeit/Montagetätigkeit | Auslandstätigkeit/Montagetätigkeit |
+| ------------------------- | ---------------------------------- | ---------------------------------- |
+| Befreiung/mit LSt         | LZ-Art 23                          | LZ-Art 8                           |
+| Befreiung/ohne LSt        | LZ-Art 8 und 23                    | LZ-Art 8                           |
+| Anrechnung/mit LSt        | LZ-Art 23 und 24 je Land           | LZ-Art 24 je Land                  |
+| Anrechnung/ohne LSt       | LZ-Art 23 und 24 je Land           | LZ-Art 24 je Land                  |
 
 **Urlaubsablöse**
 
@@ -125,7 +88,7 @@ Eingabe des *Entgeltes*, das für die Berechnung der Abfertigung maßgeblich ist
 
 Eingabe des *Sonderzahlungs-Anspruches*, der für die Berechnung der Abfertigung maßgeblich ist. Entweder Eingabe des Gesamtjahresanspruches oder des Anspruches in Monaten (vom Programm werden Eingabewerte unter 20 als Monatseingaben gewertet).
 
-Aufgrund der für die Abfertigung maßgeblichen Daten wird vom Programm automatisch der *Abfertigungs-Anspruch* berechnet und vorgeschlagen. Dieser kann auch abgeändert werden. Eine solche vorgenommene Änderung ist durch ein Sternchen (**\***) vor dem Betragsfeld ersichtlich.
+Aufgrund der für die Abfertigung maßgeblichen Daten wird vom Programm automatisch der *Abfertigungs-Anspruch* berechnet und vorgeschlagen. Dieser kann auch abgeändert werden. Eine solche vorgenommene Änderung ist durch ein Sternchen (*) vor dem Betragsfeld ersichtlich.
 
 **Lohnbasis SW-Entschädigung**
 
@@ -143,8 +106,6 @@ Hier sind die Anzahl der Tage und der Betrag des Teilentgeltes einzugeben. Es is
 **Teilentgelt Ausland**
 
 Wenn der Bezug von Teilentgelt in eine Periode mit Auslandstätigkeit fällt, können hier die Eintragungen vorgenommen werden. Die Abrechnung in diesen Feldern wird lohnsteuerfrei gerechnet.
-
-<span id="_Ref266258853" class="anchor"></span>**BUAK – Direktauszahlung**
 
 Die Abwicklung der Direktauszahlung von Urlaubsentgelt ist ab 1.4.2010 in diesem Bereich der Fixen Lohnarten.
 
@@ -193,7 +154,7 @@ Damit das Feld *UZ (BUAG)* ausgefüllt werden kann und für weitere sonstige Bez
 
 Bei Ableistung von Präsenz- und Zivildienst und beim Bezug von Wochen- und Krankengeld sind vom Dienstgeber die BV-Beiträge weiter an die BV-Kasse abzuführen.
 
-Aufgrund des im Abrechnungsbildschirm *Austritt* (vgl. Kapitel 5.7, Seite [78](#austritt)) eingetragenen Austrittsgrunds (Präsenz- bzw. Zivildienst, Wochengeld) wird vom Programm automatisch die Bemessungsgrundlage in das jeweilige Feld eingetragen.
+Aufgrund des im [Abrechnungsbildschirm *Austritt*](../Abrechnungsbildschirme/Austritt.md) eingetragenen Austrittsgrunds (Präsenz- bzw. Zivildienst, Wochengeld) wird vom Programm automatisch die Bemessungsgrundlage in das jeweilige Feld eingetragen.
 
 Beim Bezug von Krankengeld ist die Eintragung und Aliquotierung manuell vorzunehmen.
 
@@ -204,7 +165,7 @@ Für Zeiten des Kinderbetreuungsgeldbezuges, der Bildungskarenz und der Hospizka
 
 **Start-Up-Mitarbeiterbeteiligung (ab 2024)**
 
-Siehe Kapitel 37.20 Start-Up-Mitarbeiterbeteiligung (ab 2024), Seite [475](#start-up-mitarbeiterbeteiligung-ab-2024).
+Siehe [Start-Up-Mitarbeiterbeteiligung](../Abrechnungen%20Sonderfälle/Start-Up-Mitarbeiterbeteiligung%20(ab%202024).md)
 
 **Sonder-Berechnung**
 
@@ -222,4 +183,4 @@ Im Feld *abw. BV-Bemessung* kann die automatische Berechnung der BV-Bemessung du
 
 **BVA/Eisenbahn/Bergbau – Bem. Krankenversicherung während der Karenz**
 
-Wenn in den Stammdaten des Klienten im Registerblatt *ÖGK, BV-Kasse* (vgl. Kapitel 2.1.4, Seite [28](#registerblatt-ögk-bv-kasse)) die Versicherungsanstalt für öffentlich Bedienstete, Eisenbahnen oder Bergbau ausgewählt ist, kann hier die Bemessungsgrundlage für die Krankenversicherung während der Karenz eingetragen werden. Betrifft zum Beispiel die Tarifgruppen V603, V604, V605, V606, V607).
+Wenn in den Stammdaten des Klienten im [Registerblatt *ÖGK, BV-Kasse*](..//Klientenstammdaten/Stammdaten%20Klient%20%28Dienstgeber%29/ÖGK%2C%20BV-Kasse/) (vgl. Kapitel 2.1.4, Seite [28](#registerblatt-ögk-bv-kasse)) die Versicherungsanstalt für öffentlich Bedienstete, Eisenbahnen oder Bergbau ausgewählt ist, kann hier die Bemessungsgrundlage für die Krankenversicherung während der Karenz eingetragen werden. Betrifft zum Beispiel die Tarifgruppen V603, V604, V605, V606, V607).
