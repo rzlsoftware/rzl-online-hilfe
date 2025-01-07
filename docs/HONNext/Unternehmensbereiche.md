@@ -36,8 +36,8 @@ den Button *zur Firmenansicht* gelangen Sie zur Firmenansicht.
 
 Im Bereich *HON* können Sie für den Unternehmensbereich den zugehörigen
 Nummernbereich (siehe Kapitel [Nummernbereich](/HONNext/2%20Stammdaten/Nummernbereiche/)), die
-zugehörige Notenvorlage und die Zahlungsbedingungen hinterlegen. Ebenso
-ist die Hinterlegung eines PDF-Briefpapier möglich. Bei *Briefpapier*
+zugehörige Notenvorlage **(1)** und die Zahlungsbedingungen **(2)** hinterlegen. Ebenso
+ist die Hinterlegung eines PDF-Briefpapier **(3)** möglich. Bei *Briefpapier*
 ist der Pfad, wo das Briefpapier abgespeichert ist zu definieren.
 
 !!! warning "Hinweis"
@@ -45,8 +45,23 @@ ist der Pfad, wo das Briefpapier abgespeichert ist zu definieren.
     (Druckvorschau, Ausgabe Beleg, Ausdruck in den PDF-Manager sowie auch
     beim Ausdruck auf Papier).
 
-
 ![](<img/image102.png>)
+
+Im Feld Zahlungsreferenz **(3)** kann die Zahlungsreferenz definiert werden. Die definierte Zahlungsreferenz wird auf der Honorarnote angedruckt, im QR-Code Feld "Reference" gesetzt und im Beleg als OP-Nummer übergeben.
+
+In diesem Feld können alle Ziffern (0-9) und die Buchstaben O und K und X eingetragen werden.
+
+- Der Buchstabe O steht für eine Stelle der Honorarnotennummer (OP-Nummer). Die Notennummer kann maximal 9-stellig sein.
+
+- Der Buchstabe K steht für eine Stelle der Kontonummer. Wird in den Stammdaten des Klienten keine Kontonummer eingetragen, wird die Klientennummer eingetragen. Die Kontonummer kann maximal 9-stellig sein.
+
+- Nicht verwendete Felder können mit X bezeichnet werden. Am Ausdruck werden mit X bezeichnete Felder als (null) 0 dargestellt.
+
+Beispiel: OOOOOOKKKKKK Notennummer 129 Kontonummer 20005
+Ausgabe: 00012920005
+
+!!! warning "Hinweis"
+    Ist im Unternehmensbereich keine Zahlungsreferenz definiert, wird die Notennummer als Zahlungsreferenz verwendet.
 
 Die Klienten Zuordnung erfolgt über den Menüpunkt *Klienten zuordnen.*
 Sie können im Anschluss die gewünschten Klienten durch Setzen eines
