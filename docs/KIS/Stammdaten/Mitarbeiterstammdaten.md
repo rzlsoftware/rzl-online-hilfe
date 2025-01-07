@@ -1,5 +1,3 @@
-# Mitarbeiterstammdaten
-
 Die Neuanlage eines Mitarbeiters erfolgt nicht im
 Kanzlei-Informations-System, sondern im RZL-Board in der
 Stammdatenverwaltung.
@@ -11,8 +9,6 @@ aufrufbar ist.
 Für die Bearbeitung der KIS Stammdaten bestehender Mitarbeiter verwenden
 Sie bitte die Navigation.
 
-Abb. 10‑1 Stammdatenpflege
-
 ![Stammdatenpflege](<img/image272.png>)
 
 Im Feld Suche nach rechts oben in der Navigation schalten Sie auf
@@ -22,26 +18,19 @@ Eintrag *Stammdaten*. Anschließend wird der Bereich der Mitarbeiterdaten
 geöffnet und Sie können sich über die Navigation oder die Bildlaufliste
 zwischen den einzelnen Stammdatenbereichen bewegen.
 
-Für die Suche nach bestehenden Mitarbeitern bzw. Mitarbeiternummern
-lesen Sie bitte im Kapitel 3.8 *Suche nach Klienten/Mitarbeitern*. Die
-Beschreibung der (automatischen) Speicherung der Daten erhalten Sie im
-Kapitel 3.9 *Automatisches Speichern der Daten*.
-
 Innerhalb der einzelnen Stammdatenbildschirme können Sie sich über den
 Navigator bewegen oder durch Anwahl der Tasten *Bild nach oben* bzw.
 *Bild nach unten*.
 
 ## Eingabebereich Zuordnungen
 
-Abb. 10‑2 Eingabebereich Zuordnungen
-
-![Zuordnungen](<img/image273.png>)
-
 Wenn Sie die Zuordnung der Zuständigkeiten zum Mitarbeiter für mehrere
 Klienten gleichzeitig durchführen wollen, wählen Sie bitte den Eintrag
 *MEHRERE Klienten zuordnen* und drücken die ENTER oder die
 TABULATOR-Taste. Anschließend können Sie mehrere Klienten – mit der
 Möglichkeit Filter zu setzen – gleichzeitig zuordnen.
+
+![Zuordnungen](<img/image273.png>)
 
 Wenn die Klienten einzeln zuordnen wollen, wählen Sie zunächst bitte mit
 Hilfe der Pfeil-nach-unten Taste oder der Maus die Zuständigkeit und den
@@ -55,17 +44,12 @@ Bestehende Einträge werden einfach markiert und mit Hilfe der rechten
 Maustaste oder der ENTF-Taste gelöscht.
 
 Im Eingabebereich *Zuordnungen* ordnen Sie den Mitarbeiter den Klienten
-zu und zwar nach den jeweiligen Zuständigkeiten. Die Anlage der
-*Zuständigkeiten* erfolgt im Bereich Verwaltung und wird im Kap. 11.14
-*Zuständigkeitsbereich* beschrieben.
+zu und zwar nach den jeweiligen Zuständigkeiten.
 
-Die Zuordnungen, die hier vorgenommen werden, sind in den Stammdaten der
-jeweiligen Klienten sofort ersichtlich (vgl. Kap. 9.3.1 Zuordnungen) und
+Die Zuordnungen, die hier vorgenommen werden, sind in den [Stammdaten der jeweiligen Klienten](../Stammdaten/Klientenstammdaten.md) sofort ersichtlich und
 können auch dort bearbeitet werden.
 
-### Eingabebereich Mitarbeiter-Rechte
-
-Abb. 10‑3 Mitarbeiter-Rechte
+## Eingabebereich Mitarbeiter-Rechte
 
 Im Bereich Klienten-Sichtbarkeit werden die Klienten angewählt, die der
 Mitarbeiter im KIS bearbeiten darf.
@@ -78,8 +62,6 @@ Sie können eine Liste Ihrer bestehenden Mitarbeiter aufrufen, wenn Sie
 innerhalb der Navigation im Bereich *Kanzlei* den Eintrag
 *Mitarbeiterliste* anwählen.
 
-Abb. 10‑4 Aufruf Mitarbeiterliste
-
 ![Mitarbeiterliste](<img/image275.png>)
 
 Diese Liste bietet einen Aufruf der bestehenden Mitarbeiter. Weiter
@@ -89,8 +71,6 @@ aufzurufen. Möchten Sie einen Mitarbeiter bearbeiten, löschen, bzw. als
 ausgetreten kennzeichnen klicken Sie in der Mitarbeiterliste doppelt auf
 den jeweiligen Mitarbeiter. Anschließend öffnen sich die
 Mitarbeiter-Stammdaten im KIS.
-
-Abb. 10‑6 Mitarbeiter bearbeiten/löschen
 
 ![Mitarbeiter bearbeiten/löschen](<img/image276.png>)
 

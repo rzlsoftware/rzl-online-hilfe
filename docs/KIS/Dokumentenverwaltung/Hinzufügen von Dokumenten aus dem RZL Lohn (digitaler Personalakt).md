@@ -1,5 +1,3 @@
-## Hinzufügen von Dokumenten aus dem RZL Lohn (digitaler Personalakt)
-
 Haben Sie den digitalen Personalakt innerhalb des RZL
 Kanzleiinformationssystems lizensiert, erscheinen in allen drei Ebenen
 (Mein Arbeitsplatz, Klient und Kanzlei) unter dem Punkt *Dokumente* die
@@ -9,18 +7,10 @@ Lohn-spezifischen Dokumente und unter *DN-Dokumente*
 (Dienstnehmer-Dokumente) alle Dokumente mit Bezug zu einem Dienstnehmer
 Ihres Klienten.
 
-Die Funktionen innerhalb dieser Liste sind mit den Funktionen der
-„Standard“ Dokumentenliste ident. (Vgl. Kapitel 8.1 Allgemeines Seite
-[127](#allgemeines-1)).
-
-Abb. 8‑14 Digitaler Personalakt in allen drei Ebenen
-
 ![digitaler Personalakt](<img/image231.png>)
 
 Im Detail der Dokumente erkennen Sie die Lohn-Dokumente stets am
-Dokumentbereich: *Lohn- u. Gehaltsverrechnung.*
-
-Abb. 8‑15 Dokumentbereich: Lohn- u. Gehaltsverrechnung
+Dokumentbereich *Lohn- u. Gehaltsverrechnung.*
 
 ![Dokumentbereich](<img/image232.png>)
 
@@ -28,30 +18,18 @@ Innerhalb der Liste der *Dienstnehmer-Dokumente* haben Sie die
 Möglichkeit einen Filter auf einen Dienstnehmer zu setzen um sich alle
 Lohn relevanten Dokumente für diesen Dienstnehmer anzuzeigen.
 
-Abb. 8‑16 Digitaler Personalakt DN-Dokumente
-
 ![DN Dokumente](<img/image233.png>)
 
 ### ELDA-Dokumente aus RZL Lohn hinzufügen
 
-Im RZL-Lohn können Sie unter *Klient / Elektronische Übermittlung /
-ELDA-Einstellungen* im folgenden Dialog unter *Personalakt – ELDA Export
-ins KIS* festlegen welche ELDA-Dokumente Sie automatisiert ins KIS
-abspeichern möchten.
-
-Abb. 8‑17 ELDA-Export KIS I
+Im RZL-Lohn können Sie unter *Klient / Elektronische Übermittlung / ELDA-Einstellungen* im folgenden Dialog unter *Personalakt – ELDA Export ins KIS* festlegen welche ELDA-Dokumente Sie automatisiert ins KIS abspeichern möchten.
 
 ![Elda Export KIS I](<img/image234.png>)
-
-Abb. 8‑18 ELDA-Export KIS II
-
 ![Elda Export KIS II](<img/image235.png>)
 
 Im Kanzleiinformationssystem kann unter *Verwaltung/ELDA-Zuweisungen*
 festgelegt werden unter welcher Kategorie und mit welchem Thema die
 ELDA-Dokumente abgelegt werden sollen.
-
-Abb. 8‑19 ELDA-Zuweisungen Kanzleiinformationssystem
 
 ![Elda Zuweisungen](<img/image236.png>)
 
@@ -59,11 +37,9 @@ Abb. 8‑19 ELDA-Zuweisungen Kanzleiinformationssystem
 
 Alle anderen Dokumente aus dem RZL Lohn können über den RZL
 PDF-Manager-Premium bzw. den RZL PDF-Drucker in das RZL
-Kanzleiinformationssystem (**1**) hinzugefügt werden. Der
+Kanzleiinformationssystem hinzugefügt werden. Der
 Dokumentbereich *Lohn- u. Gehaltsverrechnung* zur korrekten Zuordnung
 unter die Lohn-Dokumente wird hier bereits automatisch vorgeschlagen.
-
-Abb. 8‑20 Dokumente aus dem PDF-Manager/Drucker hinzufügen
 
 ![Dokumente aus PDF Manager hinzufügen](<img/image237.png>)
 
@@ -72,9 +48,7 @@ Abb. 8‑20 Dokumente aus dem PDF-Manager/Drucker hinzufügen
 Möchten Sie Lohn-Dokumente aus dem Explorer bzw. den MS-Office
 Programmen in den digitalen Personalakt des RZL
 Kanzleiinformationssystems hinzufügen müssen Sie den vorhandenen
-Dokumentbereich *Lohn- u. Gehaltsverrechnung* (**1**) auswählen.
-
-Abb. 8‑21 Dokumente aus dem Explorer/MS-Office Programmen hinzufügen
+Dokumentbereich *Lohn- u. Gehaltsverrechnung* auswählen.
 
 ![Dokumente aus dem Explorer/MS Office hinzufügen](<img/image238.png>)
 
@@ -91,8 +65,6 @@ wurde.
 In den Mitarbeiterstammdaten im Board können Sie die Sichtbarkeit der
 Lohn- bzw. der Dienstnehmer-Dokumente einschränken.
 
-Abb. 8‑22 Sichtbarkeiten der Lohn-bzw. Dienstnehmer-Dokumente
-
 ![Sichtbarkeit der Lohn/DN Dokumente](<img/image239.png>)
 
 <table>
@@ -102,9 +74,9 @@ Abb. 8‑22 Sichtbarkeiten der Lohn-bzw. Dienstnehmer-Dokumente
 </colgroup>
 <thead>
 <tr>
-<th>Keine</th>
-<th>Der Mitarbeiter hat keinen Zugriff auf Lohn- bzw.
-Dienstnehmer-Dokumente</th>
+<td>Keine</td>
+<td>Der Mitarbeiter hat keinen Zugriff auf Lohn- bzw.
+Dienstnehmer-Dokumente</td>
 </tr>
 </thead>
 <tbody>

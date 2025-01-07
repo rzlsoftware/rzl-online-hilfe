@@ -14,7 +14,7 @@ Innerhalb der Quotenverwaltung können Sie eine Quotenplanung vornehmen.
 Aufgrund der vorgenommenen Planung erhalten die Mitarbeiter zeitgerecht
 die Aufgaben (z.B.: Steuererklärungen abgeben) zugeordnet.
 
-Die [Grundeinstellungen](../FinanzOnline/Eintragung%20der%20Zugangskennung/#grundeinstellungen-fur-die-finanzonline-abfragen) für die FinanzOnline-Abfragen finden Sie im Programmteil *Extras / Einstellungen* im Registerblatt *FinanzOnline*.
+Die [Grundeinstellungen](../FinanzOnline/Eintragung%20der%20Zugangskennung.md/#grundeinstellungen-fur-die-finanzonline-abfragen) für die FinanzOnline-Abfragen finden Sie im Programmteil *Extras / Einstellungen* im Registerblatt *FinanzOnline*.
 
 ## FinanzOnline Teilnehmer 
 

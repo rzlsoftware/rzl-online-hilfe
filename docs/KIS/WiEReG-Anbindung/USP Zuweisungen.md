@@ -1,9 +1,6 @@
-##  USP Zuweisungen
-
 Die Zuweisungen zu den Unternehmensserviceportal Eingängen können im
 KIS-Navigator unter *Verwaltung / USP – Zuweisungen* vorgenommen werden.
 
-Abb. 7‑3 Zuweisungen
 
 ![Zuweisungen](<img/image182.png>)
 
@@ -15,8 +12,6 @@ werden sollen. Über die Schaltflächen Thema bzw. Kategorie übernehmen
 können diese Einstellungen von den Zuweisungen für den einfachen Auszug
 auf alle anderen Auszüge übernommen werden.
 
-Abb. 7‑4 Zuweisungen – Kategorie & Thema
-
 ![Zuweisung Kategorie und Thema](<img/image183.png>)
 
 ### Aufgabenvorlage
@@ -26,7 +21,5 @@ welche Aufgabe bei Eintritt der Meldepflicht, bei einer durchgeführten
 Meldung sowie bei einem automatischen Abruf des Auszuges erstellt werden
 soll. Voraussetzung hierfür ist die Anlage einer entsprechenden
 Aufgabenvorlage
-
-Abb. 7‑5 Zuweisungen – Aufgabenvorlagen
 
 ![Zuweisung Aufgabenvorlage](<img/image184.png>)

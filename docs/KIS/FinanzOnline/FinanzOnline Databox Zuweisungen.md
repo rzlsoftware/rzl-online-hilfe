@@ -3,8 +3,8 @@ Arten unterteilt.
 
 ![FinOn Zuweisungen I](<img/image138.png>)
 
-Sie können hier jeder Art die entsprechenden [Kategorien](../Stammdaten/Sonstige%20Stammdaten/#kategorie) und [Themen](../Stammdaten/Sonstige%20Stammdaten/#thema) zuordnen. Zusätzlich
-können Sie bei jeder Art auch eine [Aufgabenvorlage](../Stammdaten/Sonstige%20Stammdaten/#aufgabenvorlagen) (*für die zu
+Sie können hier jeder Art die entsprechenden [Kategorien](../Stammdaten/Sonstige%20Stammdaten.md/#kategorie) und [Themen](../Stammdaten/Sonstige%20Stammdaten.md/#thema) zuordnen. Zusätzlich
+können Sie bei jeder Art auch eine [Aufgabenvorlage](../Stammdaten/Sonstige%20Stammdaten.md/#aufgabenvorlagen) (*für die zu
 erstellende Aufgabe*) hinterlegen .
 Damit wird automatisch bei einem Databox-Eingang eine Aufgabe generiert
 (z.B.: Bescheidkontrolle bei Eingang eines Bescheides).

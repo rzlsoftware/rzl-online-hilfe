@@ -8,4 +8,4 @@ aufgrund der quotenrelevanten Zuständigkeit angezeigt.
 Im linken oberen Bereich können Sie das Erklärungsjahr auswählen. Die
 dargestellten Informationen werden automatisch über FinanzOnline
 ausgelesen und können nicht bearbeitet werden. Allerdings können Sie die Liste mithilfe den gewohnten Funktionen
-[filtern](../Allgemeine%20Programmbedienung/Programmstart%20und%20mögliche%20Funktionen/#moglichkeiten-der-listengestaltung).
+[filtern](../Allgemeine%20Programmbedienung/Programmstart%20und%20mögliche%20Funktionen.md/#moglichkeiten-der-listengestaltung).

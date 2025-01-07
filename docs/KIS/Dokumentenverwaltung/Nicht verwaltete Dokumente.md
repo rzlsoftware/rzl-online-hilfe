@@ -1,10 +1,6 @@
-## Nicht verwaltete Dokumente
-
 Wenn Sie im Bereich *Dokumentenverwaltung* den Eintrag *Nicht verwaltete
 Dokumente* anwählen, finden Sie eine „Repair-Funktion“ für bestimmte
 Dokumente.
-
-Abb. 8‑38 Nicht verwaltete Dokumente
 
 ![nicht verwaltete Dokumente](<img/image258.png>)
 

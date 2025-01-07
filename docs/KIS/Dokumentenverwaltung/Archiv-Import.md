@@ -1,15 +1,10 @@
-## Archiv-Import
-
-### Archiv-Import aufgrund der Ordnerstruktur
+## Archiv-Import aufgrund der Ordnerstruktur
 
 Das Kanzlei-Informations-System bietet die Möglichkeit
 Dokumenten-Archive, die strukturiert gespeichert sind, automatisiert in
 die Dokumentenverwaltung zu übernehmen.
 
-Diese Übernahme erfolgt durch Anwahl des Programmteils *Extras /
-Strukturiertes Dokumentenarchiv* übernehmen.
-
-Abb. 8‑33 Auswahl des Ursprungs-Ordners
+Diese Übernahme erfolgt durch Anwahl des Programmteils *Extras / Strukturiertes Dokumentenarchiv* übernehmen.
 
 ![Auswahl Ordner im Explorer](<img/image253.png>)
 
@@ -37,9 +32,7 @@ in das Kanzlei-Informations-System übersetzen.
 Im oben angeführten Beispiel liegt folgende – im unten angeführten
 Bildschirm – abgebildete Ordnerstruktur vor.
 
-Abb. 8‑34 Archiv-Import – Beispiel: Ordnerstruktur
-
-![Archiv Import - Ordnerstruktur Bsp](<img/image254.png>)
+![Archiv Import - Ordnerstruktur Bsp](<img/image254.png>){width="300"}
 
 Unterhalb des Ursprungsordners mit der Bezeichnung *Klienten* wird
 als 1. Ebene die Klientennummer geführt. Die zweite Ebene bezieht sich
@@ -47,8 +40,6 @@ auf die jeweilige Leistung wie Buchhaltung oder Personalverrechnung (im
 Kanzlei-Informations-System als *Kategorie* bezeichnet). Die dritte
 Ebene sorgt für die Aufteilung der Dokumente auf die einzelnen
 Kalenderjahre.
-
-Abb. 8‑35 Dokumenten-Archiv übernehmen
 
 ![Dokumenten-Archiv übernehmen](<img/image255.png>)
 
@@ -73,7 +64,7 @@ Dokumente, die übernommen werden, werden als bereits übernommen
 gekennzeichnet (automatische Änderung des Dateinamens) und können nicht
 nochmals übernommen werden.
 
-### Archiv-Import aufgrund der Ordnerstruktur und des Dateinamens
+## Archiv-Import aufgrund der Ordnerstruktur und des Dateinamens
 
 Im Zuge des Archiv-Imports können Sie auch den Dateinamen für die
 automatische Ein­tragung der Details zum Dokument verwenden. Vorrang
@@ -82,8 +73,6 @@ haben immer die Einstellungen in der Ordnerstruktur.
 Den Bereich *Dateinamenstruktur* können Sie nützen, wenn sich im
 Dateinamen Informationen finden, die in der Ordnerstruktur nicht
 enthalten sind.
-
-Abb. 8‑36 Archiv-Import – Dateinamenstruktur I
 
 ![Archiv Import - Dateinamenstruktur I](<img/image256.png>)
 
@@ -95,8 +84,6 @@ vorkommen, können Sie den Dateinamen nützen, um diese Informationen in
 den Details automatisch einzutragen. In diesem Fall ist es ausreichend,
 im Bereich *Dateinamenstruktur* im ersten Feld den Eintrag *Kategorie*
 anzuwählen (siehe oben).
-
-Abb. 8‑37 Archiv-Import – Dateinamenstruktur II
 
 ![Archiv Import - Dateinamenstruktur II](<img/image257.png>)
 

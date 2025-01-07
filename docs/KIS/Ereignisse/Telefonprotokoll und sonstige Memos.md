@@ -37,7 +37,7 @@ Eingabe-Taste (beim Textblock) oder durch Eintippen der
 Anfangsbuchstaben des Klientennamens, Detailauswahl mit Pfeil
 Auf/Ab-Tasten und Eingabe-Taste (beim Textblock), ausgewählt werden.
 
-Auch eine [Klientenmehrfachzuordnung](../Ereignisse/Zuordnung%20und%20Archivierung%20von%20Ereignissen/#zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung) ist möglich.
+Auch eine [Klientenmehrfachzuordnung](../Ereignisse/Zuordnung%20und%20Archivierung%20von%20Ereignissen.md/#zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung) ist möglich.
 
 ## Gesprächspartner
 
@@ -158,7 +158,7 @@ Eingabe-Taste (beim Textblock) oder durch Eintippen der
 Anfangsbuchstaben des Klientennamens, Detailauswahl mit Pfeil
 Auf/Ab-Tasten und Eingabe-Taste (beim Textblock), ausgewählt werden.
 
-Auch eine [Klientenmehrfachzuordnung](../Ereignisse/Zuordnung%20und%20Archivierung%20von%20Ereignissen/#zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung) ist möglich.
+Auch eine [Klientenmehrfachzuordnung](../Ereignisse/Zuordnung%20und%20Archivierung%20von%20Ereignissen.md/#zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung) ist möglich.
 
 ## Zuständig
 

@@ -135,9 +135,8 @@ Zuordnung als Ganzes.
 
 #### Zuständigkeit \[FinanzOnline\]
 
-Wenn Sie in den [FinanzOnline-Zuweisungen](../FinanzOnline/FinanzOnline%20Databox%20Zuweisungen/) innerhalb der Protokolle in der Spalte
-*Aufgabenvorlage für zu erledigende Aufgabe* eine Aufgabevorlage (z. B.:
-Buchhaltung) verankern, wird diese Aufgabe automatisch geschlossen, wenn
+Wenn Sie in den [FinanzOnline-Zuweisungen](../FinanzOnline/FinanzOnline%20Databox%20Zuweisungen.md) innerhalb der Protokolle in der Spalte
+*Aufgabenvorlage für zu erledigende Aufgabe* eine Aufgabevorlage (z.B.: Buchhaltung) verankern, wird diese Aufgabe automatisch geschlossen, wenn
 die Übermittlung der XML-Datei (UVA-Datei) funktioniert hat. D.h. der
 Mitarbeiter muss die Aufgabe nicht mehr selbst auf erledigt setzen.
 
@@ -149,13 +148,13 @@ Eine Aufgabe kann mit der Eigenschaft *Priorität hoch* und/oder
 #### Kategorie
 
 In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Die Kategorie ist ein
-wichtiger Eintrag für die strukturierte Ablage und für die [Suche innerhalb der Aufgaben](../Allgemeine%20Programmbedienung/Programmstart%20und%20mögliche%20Funktionen/#moglichkeiten-der-listengestaltung).
+wichtiger Eintrag für die strukturierte Ablage und für die [Suche innerhalb der Aufgaben](../Allgemeine%20Programmbedienung/Programmstart%20und%20mögliche%20Funktionen.md/#moglichkeiten-der-listengestaltung).
 
 
 #### Thema
 
 In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Themen](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Das Thema ist ebenfalls ein
-wichtiger Eintrag für die strukturierte Ablage und für die [Suche innerhalb der Aufgaben](../Allgemeine%20Programmbedienung/Programmstart%20und%20mögliche%20Funktionen/#moglichkeiten-der-listengestaltung).
+wichtiger Eintrag für die strukturierte Ablage und für die [Suche innerhalb der Aufgaben](../Allgemeine%20Programmbedienung/Programmstart%20und%20mögliche%20Funktionen.md/#moglichkeiten-der-listengestaltung).
 
 #### Aktivität/Zeitraum
 
@@ -251,7 +250,7 @@ Löschen einer Aufgabe ist unwiderruflich und wird auch nicht
 protokolliert.
 
 !!! warning "Hinweis"
-    Die Einstellungen zu den Berechtigungen befinden sich im [RZL Board](/Board/Stammdatenverwaltung%20%28STAMM%29/Berechtigungen). Für die Vergabe von Rechten benötigt ein Mitarbeiter selbst entweder die Rolle *Alle Berechtigungen* oder die Rolle *Benutzerverwaltung*.
+    Die Einstellungen zu den Berechtigungen befinden sich im RZL Board. Für die Vergabe von Rechten benötigt ein Mitarbeiter selbst entweder die Rolle *Alle Berechtigungen* oder die Rolle *Benutzerverwaltung*.
 
 
 ### Aufgabe als erledigt markieren

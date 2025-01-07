@@ -1,13 +1,6 @@
-# Klientenstammdaten im KIS
-
-## Neuanlage eines Klienten
-
 Die Neuanlage eines Klienten erfolgt nicht im
 Kanzlei-Informations-System, sondern im RZL-Board in der
 Stammdatenverwaltung.
-
-Abb. 9‑1 Aufruf des Handbuchs im RZL-Board durch Anwahl der Hilfe
-Schaltfläche
 
 ![Aufruf Handbuch](<img/image260.png>)
 
@@ -20,8 +13,6 @@ dargestellt aufgerufen werden.
 Für die Bearbeitung der KIS Stammdaten bestehender Klienten verwenden
 Sie bitte die Navigation.
 
-Abb. 9‑2 Stammdatenpflege
-
 ![Stammdatenpflege](<img/image261.png>)
 
 Sie tragen im Suchfeld die Klientennummer ein und klicken innerhalb der
@@ -29,12 +20,6 @@ Navigation im Bereich *Klient* auf den Eintrag *Stammdaten*.
 Anschließend wird der Bereich der Klientendaten geöffnet und Sie können
 sich über die Navigation oder die Bildlaufliste zwischen den einzelnen
 Stammdatenbereichen bewegen.
-
-Für die Suche nach bestehenden Klienten bzw. Klientennummern lesen Sie
-bitte im Kapitel 3.8 *Suche nach Klienten/Mitarbeitern*. Die
-Beschreibung der (automatischen) Speicherung der Daten erhalten Sie im
-Kapitel 3.9 *Automatisches Speichern der Daten*. Die Beschreibung der
-Eingabefelder erfolgt im Kapitel 9.3 *Beschreibung der Eingabefelder*.
 
 Innerhalb der einzelnen Stammdatenbildschirme können Sie sich über den
 Navigator bewegen oder durch Anwahl der Tasten *Bild nach oben* bzw.
@@ -45,16 +30,14 @@ Navigator bewegen oder durch Anwahl der Tasten *Bild nach oben* bzw.
 ### Zuordnungen
 
 Die Einträge die Sie hier zuordnen können, müssen in der Verwaltung
-angelegt werden (vgl. Kap. 11 Sonstige Stammdaten).
-
-Abb. 9‑3 Zuordnungen
+angelegt werden.
 
 ![Zuordnungen](<img/image262.png>)
 
 Diese Eingabegruppe ist verantwortlich für die Zuordnung der Mitarbeiter
 der Kanzlei und deren Tätigkeiten zum Klienten (*Zuständigkeiten*). Die
 Zuordnung von *Aktivitäten­/Fachbereich* zum Klienten wird für den
-Klientenspiegel (vgl. Kap. 4.5 *Klientenspiegel*) verwendet, zusätzlich
+Klientenspiegel verwendet, zusätzlich
 kann innerhalb der Klientenliste danach gefiltert werden.
 *Vertretungsbefugnisse* konnten in früheren Programmversionen
 klientenbezogen zugeordnet werden. Dies ist allerdings nicht mehr
@@ -73,7 +56,7 @@ oder der +-Taste am Ziffernblock ein Feld nach oben.
 Bestehende Einträge werden einfach markiert und mit Hilfe der rechten
 Maustaste oder der ENTF-Taste gelöscht.
 
-#### Zuständigkeiten
+### Zuständigkeiten
 
 Im Bereich der *Zuständigkeiten* werden dem Klienten die für die
 jeweiligen Teilbereiche zuständigen Mitarbeiter zugeordnet. Unter
@@ -84,20 +67,17 @@ Wirtschaftsprüfung, usw.).
 
 Die erstmalige Zuordnung der Zuständigkeiten erfolgt am besten über die
 Stammdaten der Mitarbeiter, da hier mehrere Klienten gleichzeitig
-zugeordnet werden können (vgl. Kap. 10.2 *Eingabebereich Zuordnungen*).
+zugeordnet werden können.
 Die händische Anlage der Zuständigkeiten und deren Reihenfolge erfolgt
-in der Verwaltung (vgl. Kap. 11.14 *Zuständigkeitsbereich*).
+in der Verwaltung.
 
-Die Zuständigkeiten können bei der Anlage von Aufgabenvorlagen (vgl.
-Kap. 4.2 *Arbeiten mit Aufgabenvorlagen*) und wiederkehrenden Aufgaben
-(vgl. Kap. 4.3 *Wiederkehrende Aufgaben*) zugeordnet werden.
+Die Zuständigkeiten können bei der Anlage von Aufgabenvorlagen und wiederkehrenden Aufgaben zugeordnet werden.
 
-#### Aktivitäten/Fachbereiche
+### Aktivitäten/Fachbereiche
 
 Wenn Sie eine Tätigkeit (Buchhaltung, Personalverrechnun, Firmenbuch,
 usw.) in einem Klientenspiegel abbilden möchten, müssen Sie diese
-Tätigkeiten als Aktivitäten anlegen und den Klienten zuordnen (vgl. Kap.
-4.5 *Klientenspiegel*).
+Tätigkeiten als Aktivitäten anlegen und den Klienten zuordnen.
 
 Die Aktivitäten können insgesamt 4 Perioden (monatlich, quartalweise,
 halbjährlich, jährlich) zugeordnet werden. Innerhalb der wiederkehrenden
@@ -105,14 +85,14 @@ Aufgaben können die Aktivitäten hinterlegt werden und die Eintragungen
 für den Endtermin werden automatisch aufgrund der ausgewählten Periode
 übernommen.
 
-#### Vertretungsbefugnisse
+### Vertretungsbefugnisse
 
 Der Bereich Vertretungsbefugnisse diente in früheren Programmversionen
 der Zuordnung der Befugnisse, die die Kanzlei gegenüber diesem Klienten
 hat. Über das FinanzOnline-Modul kann die Vertretungsliste täglich
 aktuell heruntergeladen werden.
 
-#### Auswahlkriterien
+### Auswahlkriterien
 
 Die Auswahlkriterien dienen der Organisation der Klienten. Bestimmte
 Vorgänge betreffen nur eine ausgewählte Gruppe von Klienten, nur
@@ -126,8 +106,6 @@ Wenn eine Kanzlei über mehrere Lizenzen verfügt, ordnen Sie hier den
 Klienten der jeweiligen Lizenz zu. Die Zuordnung kann gesamt für alle
 Programme, aber auch als Einzelauswahl vorgenommen werden.
 
-Abb. 9‑4 Zuordnung der Lizenzen
-
 ![Zuordnung der Lizenzen](<img/image263.png>)
 
 ## Klientenliste
@@ -138,17 +116,13 @@ können Sie aufrufen, bearbeiten und filtern, wenn Sie in der Navigation
 auf den Bereich *Kanzlei* klicken. Anschließend wählen Sie den Eintrag
 *Klientenlisten* an.
 
-Abb. 9‑5 Klientenliste
-
 ![Klientenliste](<img/image264.png>)
 
 Die Klientenliste zeigt zunächst alle betreuten Klienten an. Sie können
-die Klientenliste nach unterschiedlichen Kriterien filtern (vgl. Kap.
-3.5 Filterfunktionen).
+die Klientenliste nach unterschiedlichen Kriterien filtern.
 
 Sie können die Spalten die angezeigt werden selbst festlegen. D. h. Sie
-entscheiden welche Spalten die Klientenliste enthält (vgl. Kap. 3.4
-Möglichkeiten der Listengestaltung).
+entscheiden welche Spalten die Klientenliste enthält.
 
 Die Klientenliste die Sie Ihren Bedürfnissen anpassen können, kann sehr
 einfach über die Zwischenablage in ein anderes Programm kopiert werden.
@@ -168,25 +142,21 @@ Sie einen im Outlook angelegten Ordner für den Kontaktabgleich.
 Im KIS sollten Sie über *Extras – Einstellungen* den Ordner für den
 Outlook-Kontakt-Abgleich einstellen.
 
-![Outlook-Ordner für Abgleich einstellen](<img/image266.png>)
+![Outlook-Ordner für Abgleich einstellen](<img/image266.png>){width="550"}
 
-Aus der Ansicht *Personen und Firmen* können Sie über das Kontextmenü
-(**1**) eine Person in Microsoft Outlook hinzufügen, bzw. eine
+Aus der Ansicht *Personen und Firmen* können Sie über das Kontextmenü eine Person in Microsoft Outlook hinzufügen, bzw. eine
 bestehende Person in Microsoft Outlook aktualisieren, wenn diese bereits
 exportiert wurde.
 
 ![Abgleich über Board](<img/image267.png>)
 
-**1**
-
 Das gleiche Ergebnis erreichen Sie wenn Sie den Abgleich der
-Kontaktdaten (**1**) mit Microsoft Outlook aus den Personenstammdaten
+Kontaktdaten mit Microsoft Outlook aus den Personenstammdaten
 anstoßen.
 
 ![Abgleich über Outlook I](<img/image268.png>)
 
-In der Personenansicht in Microsoft Outlook können Sie über *RZL – Mit
-Personen abgleichen* die Person in das RZL Board übernehmen.
+In der Personenansicht in Microsoft Outlook können Sie über *RZL – Mit Personen abgleichen* die Person in das RZL Board übernehmen.
 
 ![Abgleich über Outlook II](<img/image269.png>)
 

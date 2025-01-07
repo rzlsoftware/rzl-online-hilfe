@@ -55,7 +55,7 @@ Eingabe-Taste (beim Textblock) oder durch Eintippen der
 Anfangsbuchstaben des Klientennamens, Detailauswahl mit Pfeil
 Auf/Ab-Tasten und Eingabe-Taste (beim Textblock), ausgewählt werden.
 
-Auch eine [Klientenmehrfachzuordnung](../Ereignisse/Zuordnung%20und%20Archivierung%20von%20Ereignissen/#zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung) ist möglich.
+Auch eine [Klientenmehrfachzuordnung](../Ereignisse/Zuordnung%20und%20Archivierung%20von%20Ereignissen.md/#zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung) ist möglich.
 
 ### Absender
 
@@ -118,7 +118,7 @@ Möglichkeiten der Eingabe angeführt.
 
 Im rechten unteren Bereich Ihres Posteingangs werden bereits bestehende
 Verknüpfungen zu Dokumenten und oder Aufgaben angezeigt. Wenn
-beispielsweise ein [Brief oder ein E-Mail aus dem KIS](../Arbeitsabläufe/) geschrieben wurde.
+beispielsweise ein [Brief oder ein E-Mail aus dem KIS](../Arbeitsabläufe/Brief%20bzw.%20Dokument.md) geschrieben wurde.
 
 ![Verknüpfung Posteingang - Dokument](<img/image98.png>)
 
@@ -140,7 +140,7 @@ die Schaltfläche *Neuer Postausgang*.
 ![Erfassung eines Postausgangs](<img/image96.png>)
 
 !!! warning "Hinweis"
-    Klicken Sie [hier](../Arbeitsabläufe), um zu erfahren, wie Briefe und E-Mails auch automatisch als Postausgang erfasst werden können.
+    Klicken Sie [hier](../Arbeitsabläufe/Brief%20bzw.%20Dokument.md), um zu erfahren, wie Briefe und E-Mails auch automatisch als Postausgang erfasst werden können.
 
 
 ### Laufende Nummer
@@ -185,7 +185,7 @@ Eingabe-Taste (beim Textblock) oder durch Eintippen der
 Anfangsbuchstaben des Klientennamens, Detailauswahl mit Pfeil
 Auf/Ab-Tasten und Eingabe-Taste (beim Textblock), ausgewählt werden.
 
-Auch eine [Klientenmehrfachzuordnung](../Ereignisse/Zuordnung%20und%20Archivierung%20von%20Ereignissen/#zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung) ist möglich.
+Auch eine [Klientenmehrfachzuordnung](../Ereignisse/Zuordnung%20und%20Archivierung%20von%20Ereignissen.md/#zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung) ist möglich.
 
 ### Empfänger
 
@@ -263,7 +263,7 @@ Möglichkeiten der Eingabe angeführt.
 
 Im rechten unteren Bereich Ihres Postausgangs werden bereits bestehende
 Verknüpfungen zu Dokumenten und oder Aufgaben angezeigt. Wenn
-beispielsweise ein [Brief oder ein E-Mail aus dem KIS](../Arbeitsabläufe/) geschrieben wurde.
+beispielsweise ein [Brief oder ein E-Mail aus dem KIS](../Arbeitsabläufe/Brief%20bzw.%20Dokument.md) geschrieben wurde.
 
 ![Verknüpfung Postausgang - Dokument](<img/image98.png>)
 

@@ -1,5 +1,3 @@
-## Auszüge anfordern
-
 Auszüge aus dem Melderegister können entweder manuell oder automatisch
 (in einem vordefinierten Zeitintervall oder bei Signal des
 Änderungsdienstes) über das RZL Board angefordert werden. Dabei ist es
@@ -10,21 +8,14 @@ USP/FinanzOnline hat.
 Die Anforderung von WiEReG-Auszügen können Sie über den Menüpunkt
 *PORTALE* im RZL Board vornehmen.
 
-Abb. 7‑11 Portale - USP
-
 ![USP](<img/image191.png>)
 
-### Auszüge manuell anfordern
+## Auszüge manuell anfordern
 
 Mit einem Klick auf den Button Auszug anfordern haben Sie die
 Möglichkeit manuell vier verschiedene Arten von Auszügen anzufordern.
 
-Abb. 7‑12 Portale – Auszug anfordern
-
 ![Auszug anfordern I](<img/image192.png>)
-
-**  
-**
 
 **Einfacher Auszug**
 
@@ -56,16 +47,12 @@ Nach Auswahl des gewünschten Auszuges müssen Sie die Stammzahl
 des jeweiligen Klienten eintragen und können den Auszug mit einem Klick
 auf den Button *Auszug abrufen* abrufen.
 
-Abb. 7‑13 Eingabe Stammzahl
-
-![Eingabe Stammzahl](<img/image193.png>)
+![Eingabe Stammzahl](<img/image193.png>){width="500"}
 
 In den Klientenstammdaten unter dem Register *WiEReG* haben Sie über die
 Schaltfläche *Auszug anfordern* ebenso die Möglichkeit einen Auszug für
 den ausgewählten Klienten anzufordern. Hier ist keine Eingabe der
 Stammzahl erforderlich.
-
-Abb. 7‑14 Klientenstamm – Auszug anfordern
 
 ![Auszug anfordern II](<img/image194.png>)
 
@@ -77,11 +64,9 @@ Ebenso können Sie angeforderte WiEReG-Dokumente in den Dokumentenlisten
 auf den Ebenen Mein Arbeitsplatz, Klient oder Kanzlei des
 Kanzleiinformationssystems aufrufen.
 
-Abb. 7‑15 KIS – Auszüge in Dokumente
-
 ![Auszug in Dokumente](<img/image195.png>)
 
-### Auszüge automatisch anfordern
+## Auszüge automatisch anfordern
 
 Mithilfe der Schaltfläche Klienten erhalten Sie eine Liste aller Ihrer
 Klienten wo bereits eine Zuordnung zur automatischen Abfrage vorgenommen
@@ -95,14 +80,10 @@ Ihnen vorgenommene Risikoeinstufung, die Information ob eine Meldung
 erforderlich ist und den Zeitpunkt der letztmalig durchgeführten
 Meldung.
 
-Abb. 7‑16 Portale – WiEReG Klienten
-
 ![WiEReG Klienten](<img/image196.png>)
 
 Über den Button ![Klienten zuordnen](<img/image197.png>) kommen Sie in die
 Zuordnung der Klienten für den automatischen Abruf des Auszuges.
-
-Abb. 7‑17 Klienten für den automatischen Abruf des Auszugs zuordnen
 
 ![Klienten für autom Abruf zuordnen](<img/image198.png>)
 
@@ -111,18 +92,14 @@ Schaltfläche *Auszugsart wählen* festlegen welche Art von Auszug bei
 diesem Klienten abgerufen werden soll bzw. die bereits ausgewählte Art
 wieder entfernen.
 
-Abb. 7‑18 Auszugsart wählen
-
-![Auszugsart wählen](<img/image199.png>)
+![Auszugsart wählen](<img/image199.png>){width="400"}
 
 Über den Button *Bei Signal des Änderungsdienstes* können Sie bei dem
 jeweilig ausgewählten Klienten definieren, ob ein Auszug bei einer
 Änderung im WiEReG-Meldeportal automatisiert abgerufen bzw. ein
 gesetzter Abruf aufgehoben werden soll.
 
-Abb. 7‑19 Bei Signal des Änderungsdienstes
-
-![Signal des Änderungsdienstes](<img/image200.png>)
+![Signal des Änderungsdienstes](<img/image200.png>){width="500"}
 
 Mit einem Klick auf die Schaltfläche *Jährlich zu einem bestimmten Datum
 / Datum setzen* kann unabhängig von der Einstellung beim Abruf bei
@@ -132,15 +109,11 @@ jährlich einen Auszug abzurufen, auch ohne, dass eine Änderung erfolgt.
 Über den Punkt Datum löschen kann der eingetragene Tag wieder entfernt
 werden.
 
-Abb. 7‑20 Jährlich zu einem bestimmten Datum
-
-![jährl zu einem bestimmten Datum](<img/image201.png>)
+![jährl zu einem bestimmten Datum](<img/image201.png>){width="500"}
 
 Im folgenden Dialog kann der jeweilige Tag definiert werden.
 
-Abb. 7‑21 Tag und Monat definieren
-
-![Tag und Monat definieren](<img/image202.png>)
+![Tag und Monat definieren](<img/image202.png>){width="400"}
 
 Die oben beschriebenen Einstellungen zur Festlegung der Art des Auszuges
 und der Aktivierung der Abfrage des Auszuges bei Signal des
@@ -148,8 +121,6 @@ und der Aktivierung der Abfrage des Auszuges bei Signal des
 RZL Board unter *Stamm / Klienten* nach Auswahl eines Klienten im
 Register *WiEReG / Einstellungen* ebenso individuell pro Klient
 vorgenommen werden.
-
-Abb. 7‑22 Klientenstamm – Art des Auszugs hinterlegen
 
 ![Art des Auszugs hinterlegen](<img/image203.png>)
 

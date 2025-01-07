@@ -1,9 +1,5 @@
-#  Sonstige Stammdaten
-
 Die Anlage der sonstigen Stammdaten findet im RZL
 Kanzlei-Informations-System im Bereich der Verwaltung statt.
-
-Abb. 11‑1 Verwaltung – Sonstige Stammdaten
 
 ![Sonstige Stammdaten](<img/image277.png>)
 
@@ -19,20 +15,14 @@ auf den gewünschten Eintrag.
 Die Anlage bzw. Bearbeitung sonstiger Stammdaten wird hier anhand der
 *Aktivitäten* für Klientenspiegel beschrieben.
 
-### Anlage von sonstigen Stammdaten
-
-Abb. 11‑2 Anlage von sonstigen Stammdaten I - Aktivitäten
-
-![Anlage sonstige Stammdaten](<img/image278.png>)
+## Anlage von sonstigen Stammdaten
 
 Für die Anlage klicken Sie auf den Eintrag *Neue Aktivität* und tragen
 im Feld Bezeichnung eine neue Aktivität ein.
 
-### Bearbeiten/Löschen der sonstigen Stammdaten
+![Anlage sonstige Stammdaten](<img/image278.png>)
 
-Abb. 11‑3 Bearbeiten von sonstigen Stammdaten
-
-![sonstige Stammdaten bearbeiten](<img/image279.png>)
+## Bearbeiten/Löschen der sonstigen Stammdaten
 
 Einträge, die bereits gespeichert sind, können Sie löschen, in dem Sie
 die Zeile markieren und anschließend die rechte Maustaste anwählen. Mit
@@ -40,16 +30,16 @@ Hilfe des Kontextmenüs kann der Eintrag gelöscht werden. Wenn Sie die
 ENTF-Taste auf der Tastatur anwählen, wird der Eintrag ebenfalls
 gelöscht.
 
+![sonstige Stammdaten bearbeiten](<img/image279.png>)
+
 Bitte beachten Sie, dass das Löschen von Einträgen im Bereich der
 sonstigen Stammdaten sehr oft nicht mehr möglich ist, wenn im Rest das
 Kanzlei-Informations-System bereits Zuordnungen gemacht worden sind.
 
 ## Ablageort
 
-Der *Ablageort* ist ein Eintrag, der bei den Ereignissen (vgl. Kap. 5
-Ereignisse) angewählt werden kann. Der Ablageort kann keinesfalls die
-Dokumentenverwaltung (vgl. Kap. 7 Dokumentenverwaltung) ersetzen,
-sondern ergänzt in bestimmten Fällen die Information beim jeweiligen
+Der Ablageort ist ein Eintrag, der bei den Ereignissen angewählt werden kann. Der Ablageort kann keinesfalls die
+Dokumentenverwaltung ersetzen, sondern ergänzt in bestimmten Fällen die Information beim jeweiligen
 Ereignis. Mit dem Ablageort kann bei dem elektronisch abgelegten
 Dokument vermerkt werden, wo dieses physisch abgelegt wurde.
 
@@ -57,24 +47,16 @@ Dokument vermerkt werden, wo dieses physisch abgelegt wurde.
 
 Der Begriff Aktivität bezieht sich auf die konkreten detaillierten
 Arbeiten der Kanzlei für Ihre Klienten. Die Eintragungen sind ein
-möglicher Filter innerhalb Ihrer Klientenliste (vgl. Kap. 9.4
-Klientenliste) und sind notwendig für die Darstellung im Klientenspiegel
-(vgl. Kap. 4.5 *Klientenspiegel*).
-
-Abb. 11‑4 Anlage der Aktivitäten
+möglicher Filter innerhalb Ihrer Klientenliste und sind notwendig für die Darstellung im Klientenspiegel.
 
 ![Anlage Aktivitäten](<img/image279.png>)
 
 Damit die Aktivität im Klientenspiegel aufscheint, ist es notwendig
-entweder das Feld *im monatlichen Klientenspiegel anzeigen* oder *im
-jährlichen Klientenspiegel anzeigen* zu aktivieren.
+entweder das Feld *im monatlichen Klientenspiegel anzeigen* oder *im jährlichen Klientenspiegel anzeigen* zu aktivieren.
 
 Die Zuordnung zu den einzelnen Klienten erfolgt entweder innerhalb der
-Klientenstammdaten im Bereich *Zuordnungen* (vgl. Kap. 9.3.1
-Zuordnungen) oder durch Anwahl der rechten Maustaste und Auswahl des
+Klientenstammdaten im Bereich *Zuordnungen* oder durch Anwahl der rechten Maustaste und Auswahl des
 Eintrags *Klientenzuordnung*.
-
-Abb. 11‑5 Klientenauswahl Aktivitäten
 
 ![Klientenauswahl Aktivitäten](<img/image280.png>)
 
@@ -85,20 +67,15 @@ der Schaltfläche *Übernehmen* zugeordnet.
 
 ## Aufgabenvorlagen
 
-Abb. 11‑6 Aufgabevorlage
+Die Anlage von Aufgabevorlagen erfolgt abweichend zu den anderen Stammdaten. Klicken Sie [hier](../Aufgabenverwaltung/Anlegen%20und%20Bearbeiten%20von%20Aufgaben.md) um zum entsprechenden Kapitel zu gelangen.
 
 ![Aufgabenvorlage](<img/image281.png>)
-
-Die Anlage von Aufgabevorlagen erfolgt abweichend zu den anderen
-Stammdaten und wird im Kapitel 4.2 *Arbeiten mit Aufgabenvorlagen* genau
-beschrieben.
 
 ## Auswahlkriterium
 
 Die Auswahlkriterien dienen der Organisation der Klienten. Bestimmte
 Eigenschaften oder Vorgänge betreffen nur eine ausgewählte Gruppe von
-Klienten, nur Klienten mit einem bestimmten Merkmal (zB
-Branchenmerkmale).
+Klienten, nur Klienten mit einem bestimmten Merkmal (zB. Branchenmerkmale).
 
 ## Dokumentbereich
 
@@ -110,8 +87,6 @@ die Bezeichnung angepasst werden.
 Der Dokumentbereich dient am Klientenportal zur eindeutigen Zuordnung
 und Kategorisierung von Dokumenten welche vom Klienten für Sie zur
 Verfügung gestellt werden.
-
-Abb. 11‑7 Standard Dokumentbereich
 
 ![Dokumentbereich RZL Standard](<img/image282.png>)
 
@@ -129,8 +104,6 @@ bisherigen Zuordnungen auf einen anderen Dokumentbereich übertragen.
 Anschließend haben Sie die Möglichkeit den Dokumentbereich ohne
 Zuordnungen zu löschen.
 
-Abb. 11‑8 Dokumentbereich übertragen
-
 ![Dokumentbereich übertragen](<img/image283.png>)
 
 Mit einem Klick auf den Button *Zum Klientenportal hochladen* wird der
@@ -139,25 +112,16 @@ und dort für die Zuordnung von übermittelten Dokumenten verfügbar.
 
 ##  Filter
 
-Die Anlage von Filtern ist im Kap. 3.5 Filterfunktionen detailliert
-beschrieben.
-
-Abb. 11‑9 Anlage von Filtern
-
 ![Anlage von Fltern](<img/image284.png>)
 
 In der Verwaltung können fixe Filter angelegt werden. Je nach Filterart
 (Dokumentenfilter, Databoxfilter, Aufgabenfilter, …) können diese Filter
 in den jeweiligen Listen aufgerufen werden.
 
-Abb. 11‑10 Fixe Filter in den Listen (Dokumentenliste)
-
 ![fixe Filter Dokumentenliste](<img/image285.png>)
 
 Zusätzlich können diese fixen Filter durch Anwahl des Symbols vor der
 Bezeichnung und Ziehen mit der Maus in die Navigation übernommen werden.
-
-Abb. 11‑11 Fixer Filter in der Navigation
 
 ![fixe Filter in Navigation](<img/image286.png>)
 
@@ -168,16 +132,12 @@ entfernt werden. Wenn ein Benutzer ohne Rechte betreffend Filter einen
 fixen Filter in seine KIS-Navigation zieht, kann er diesen durch Anwahl
 der rechten Maustaste auch wieder entfernen.
 
-> Die Möglichkeit Filter in der Verwaltung, im Navigator und in den
-> Listen anzulegen, verändern, etc. hängt von den Berechtigungen des
-> jeweiligen Mitarbeiters ab.
+Die Möglichkeit Filter in der Verwaltung, im Navigator und in den Listen anzulegen, verändern, etc. hängt von den Berechtigungen des jeweiligen Mitarbeiters ab.
 
 ## Pflichtfelder
 
 Der Bereich *Pflichtfelder* bietet Ihnen die Möglichkeit die Felder
 Kategorie, Thema und/oder Zeitraum als Pflichtfeld zu definieren.
-
-Abb. 11‑12 Pflichtfelder
 
 ![Plfichtfelder](<img/image287.png>)
 
@@ -202,14 +162,9 @@ hinterlegte Einstellung für die Pflichtfelder **nicht**. Das Dokument
 kann ohne Pflichtfeld übernommen werden. Es gibt weder einen Hinweis
 noch eine orange Kennzeichnung.
 
-**  
-**
-
 **AUSNAHME:** Das Dokument soll vom RZL PDF-Manager über den Button
 *KIS* in das RZL KIS übernommen werden und wird im folgenden Dialog als
 KIS Postausgang *manuell über Dialog hinzufügen* hinzugefügt.
-
-Abb. 11‑13 Export in das KIS
 
 ![Export KIS](<img/image288.png>)
 
@@ -229,34 +184,23 @@ nicht angelegt werden bzw. ist ein Hinzufügen von Dokumenten ohne die
 Pflichtfelder zu befüllen nicht möglich. Die Pflichtfelder werden orange
 gekennzeichnet und folgender Hinweis erscheint:
 
-Abb. 11‑14 Kennzeichnung Pflichtfelder
-
 ![Kennzeichnung Pfichtfelder](<img/image289.png>)
 
 ## FinanzOnline Teilnehmer/Zugänge/Zuweisungen
 
-Vgl. [Kapitel 6 FinanzOnline](#finanzonline)
-
-*  
-*
+Die Anlage wird [hier](../FinanzOnline/Anlage%20eines%20WebService-Benutzers.md) beschrieben.
 
 ## Kategorie
-
-Abb. 11‑15 Kategorie
-
-![Kategorie](<img/image290.png>)
 
 Der Bereich *Kategorie* ist genau wie der Bereich *Thema* ein sehr
 wichtiger Bereich für die Organisation der Ereignisse, Aufgaben,
 Dokumente und FinanzOnline-Anbindung. Ebenso wie die Themen sollten auch
 die Kategorien vor der laufenden Nutzung des
-Kanzlei-Informations-Systems als Basisarbeit angelegt werden. Die
-Bedeutung der Kategorien wird ebenfalls im Kapitel *Basisarbeit* im
-Punkt 15.3 *Anlage Themen/Kategorien* beschrieben.
+Kanzlei-Informations-Systems als Basisarbeit angelegt werden.
+
+![Kategorie](<img/image290.png>)
 
 ## Scanordner
-
-Abb. 11‑16 Scanordner
 
 ![Scanordner](<img/image291.png>)
 
@@ -270,13 +214,9 @@ Innerhalb des Kanzlei-Informations-Systems kann die Dokumentenverwaltung
 auf die Dokumente des Scanordners zugreifen und diese Dokumente können
 hinzugefügt werden. Dokumente die aus einem Scanordner in das
 Kanzlei-Informations-System übernommen worden sind, werden aus dem
-Scan-Ordner automatisch herausgelöscht. Für das Hinzufügen von
-Dokumenten lesen Sie bitte im Kapitel 7 *Dokumentenverwaltung* den Punkt
-8.3 *Hinzufügen von Dokumenten*.
+Scan-Ordner automatisch herausgelöscht.
 
 ## Thema
-
-Abb. 11‑17 Themen-Liste
 
 ![Thema](<img/image292.png>)
 
@@ -284,8 +224,9 @@ Der Bereich *Thema* ist ein sehr wichtiger Bereich für die Organisation
 der Ereignisse, Aufgaben, Dokumente und FinanzOnline-Anbindung. Die
 Anlage der Themen ist eine der wichtigsten Arbeiten, die vor der
 laufenden Nutzung des Kanzlei-Informations-Systems als Basisarbeit
-gemacht werden sollte. Die Bedeutung der Themen wird im Kapitel
-*Basisarbeit* im Punkt 15.3 *Anlage Themen/Kategorien* beschrieben.
+gemacht werden sollte.
+
+![Thema](<img/image292.png>)
 
 ## Vertretungsbefugnis
 
@@ -296,16 +237,14 @@ FinanzOnline-Moduls heruntergeladen werden.
 
 ## Zuständigkeitsbereich
 
-Abb. 11‑18 Zuständigkeitsbereiche
+Die Zuordnung der Zuständigkeiten im KIS erfolgt am besten über die
+Stammdaten der Mitarbeiter, da hier mehrere Klienten gleichzeitig
+zugeordnet werden können.
 
 ![Zuständigkeitsbereiche](<img/image293.png>)
 
-Die Zuordnung der Zuständigkeiten im KIS erfolgt am besten über die
-Stammdaten der Mitarbeiter, da hier mehrere Klienten gleichzeitig
-zugeordnet werden können (vgl. Kap. 10.2 *Eingabebereich Zuordnungen*)
-
 In den Stammdaten des Klienten kann die Zuordnung der Mitarbeiter
-einzeln vorgenommen werden (vgl. Kap. 9.3.1 Zuordnungen).
+einzeln vorgenommen werden.
 
 Diese Verknüpfung der Mitarbeiter-Zuständigkeit zum Klienten, wird –
 wenn Sie im Kanzlei-Informations-System einen Klienten geöffnet haben –
@@ -322,10 +261,3 @@ Die Felder im Bereich *Relevant für* beziehen sich auf die Darstellung
 innerhalb des Bereichs FinanzOnline am Arbeitsplatz des jeweiligen
 Mitarbeiters basierend auf die beim Mitarbeiter zugeordneten
 Zuständigkeiten.
-
-Im Bereich Programme können die Klienten-Sichtbarkeiten für die
-klassischen RZL Win Programme eingeschränkt werden. Diese Einstellungen
-werden allerdings erst wirksam, wenn innerhalb der
-Mitarbeiter-Stammdaten im Bereich *Benutzerrechte* das Feld
-*Klienten-Sichtbarkeit für RZLWin-Programme aufgrund Zuordnung
-Zuständigkeiten* aktiviert ist.

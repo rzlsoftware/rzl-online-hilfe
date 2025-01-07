@@ -33,7 +33,7 @@ Aufgaben erstellt werden.
 
 ![Quotenplanung](<img/image162.png>)
 
-Die einzelnen Arbeitsschritte der Quotenplanung werden [**hier**](../FinanzOnline/Eintragung%20der%20Zugangskennung/#grundeinstellungen-fur-die-finanzonline-abfragen) im Detail beschrieben.
+Die einzelnen Arbeitsschritte der Quotenplanung werden [**hier**](../FinanzOnline/Eintragung%20der%20Zugangskennung.md/#grundeinstellungen-fur-die-finanzonline-abfragen) im Detail beschrieben.
 
 ## Aufruf Vertretungsliste
 
@@ -42,7 +42,7 @@ innerhalb der Klientenstammdaten im RZL-Board im Bereich Finanzamt die
 Vollmachtsdaten automatisch abgeglichen.
 
 !!! warning "Hinweis"
-    Da die Vollmachtsdaten täglich/wöchentlich (je nach [Einstellung](../Stammdaten/)) abgeglichen werden, wird bei Nichtvorliegen einer gültigen Vollmacht die Option *Abfrage durchführen* in den RZL Board Stammdaten (Firmenansicht/Finanzämter) deaktiviert.
+    Da die Vollmachtsdaten täglich/wöchentlich (je nach [Einstellung](../Stammdaten/Klientenstammdaten.md)) abgeglichen werden, wird bei Nichtvorliegen einer gültigen Vollmacht die Option *Abfrage durchführen* in den RZL Board Stammdaten (Firmenansicht/Finanzämter) deaktiviert.
 
 ![Ansicht Vertretungsliste](<img/image163.png>)
 

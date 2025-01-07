@@ -1,3 +1,3 @@
-### Auf Standardlayout zurücksetzen
+## Auf Standardlayout zurücksetzen
 
-Die Ansicht wird auf das Standardlayout zurückgesetzt.
+Die Ansicht wird auf das Standardlayout zurückgesetzt. Ausgeblendete/verschobene Spalten/Fenster werden wieder zurückgesetzt.

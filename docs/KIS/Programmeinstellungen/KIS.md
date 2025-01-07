@@ -1,10 +1,9 @@
-### Klient bereinigen
+
+## Klient bereinigen
 
 Die *Klient bereinigen – Funktion* dient hauptsächlich dazu, alle
 Aufgaben, Ereignisse, Dokumente usw. von Klienten im KIS zu löschen und
 somit eine vollständige Löschung von Klienten in der ZMV zu ermöglichen.
-
-Abb. 14.2 Klient bereinigen
 
 ![Klient bereinigen](<img/image368.png>)
 
@@ -15,8 +14,7 @@ ist das Löschen möglich. Bei den Aufgaben, Ereignissen und Dokumenten
 haben Sie zusätzlich die Möglichkeit die Klientenzuordnung zu ändern
 bzw. zu entfernen.
 
-Um die Klientenzuordnung zu ändern ist es notwendig die Option *Klient
-ändern* (**2**) zu aktiveren und im Drop-Down-Feld den entsprechenden
+Um die Klientenzuordnung zu ändern ist es notwendig die Option *Klient ändern* (**2**) zu aktiveren und im Drop-Down-Feld den entsprechenden
 Klienten auszuwählen.
 
 Mit Aktivierung der Option Alle KIS Daten bereinigen (**3**) werden alle

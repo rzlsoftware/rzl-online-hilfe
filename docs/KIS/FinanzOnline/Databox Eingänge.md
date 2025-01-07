@@ -42,7 +42,7 @@ in grüner Schrift.
 
 ![Bescheidvorprüfung erfolgreich](<img/image142.png>)
 
-Wenn innerhalb der [FinanzOnline Databox Zuweisungen](../FinanzOnline/FinanzOnline%20Databox%20Zuweisungen/) in den Mitteilungen für die
+Wenn innerhalb der [FinanzOnline Databox Zuweisungen](../FinanzOnline/FinanzOnline%20Databox%20Zuweisungen.md) in den Mitteilungen für die
 Bescheidinformation die gleiche Aufgabenvorlage verankert ist wie im
 Bereich der *Bescheide/Ergänzungs­ansuchen/Bescheinigungen,* dann wird
 nur eine Aufgabe (z.B.: Bescheidprüfung) erstellt.

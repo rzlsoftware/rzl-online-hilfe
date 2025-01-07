@@ -1,9 +1,8 @@
 ## Erklärungen als „abgabefertig“ markieren
 
 Um die Erklärungen als abgabefertig zu markieren, wechseln Sie im RZL
-KIS in den Menüpunkt *Mein Arbeitsplatz / Erklärungen* (**1**). Dort
-markieren Sie den gewünschten Klienten (**2**) über das *Kontextmenü* als *Abgabefertig* (**3**). Genauso können die
-Erklärungen auch im Bereich *FinanzOnline* der Klientenansicht und der
+KIS in den Menüpunkt *Erklärungen*. Dort markieren Sie den gewünschten Klienten über das *Kontextmenü* als *Abgabefertig*. Die
+Erklärungen können im Bereich *FinanzOnline* in der Ansicht von *Mein Arbeitsplatz*, in der Klientenansicht und der
 Kanzleiansicht als Abgabefertig gekennzeichnet werden.
 
 ![Quotenplanung - abgabefertig](<img/image169.png>)
@@ -29,8 +28,6 @@ zukünftigen Quotenzeitraum gezogen.
 Wird ein Quotenfall für einen Quotenzeitraum geplant, aber bis zu dessen
 Ende nicht abgegeben, so wird er als Überfällig gekennzeichnet.
 
-Abb. 6‑50 Quotenplanung - Überfällig
-
 ![Quotenplanung - überfällig](<img/image172.png>)
 
 Vergangene Quotenzeiträume können nicht mehr bearbeitet werden, außer um
@@ -39,16 +36,12 @@ Vergangene Quotenzeiträume können nicht mehr bearbeitet werden, außer um
 kann im Kontextmenü (Aufruf mit einem rechten Mausklick) den
 überfälligen Quotenfall neu zuordnen.
 
-Abb. 6‑51 Quotenplanung - Neuzuordnung
-
 ![Quotenplanung - Neuzuordnung](<img/image173.png>)
 
 Wird ein Quotenfall anders (z.B. Jänner) als *„geplant“* (z.B. Februar)
 eingebracht, so wird er in dem Quotenzeitraum (Jänner) angezeigt, in dem
 er tatsächlich eingebracht wurde. Im Infokasten zu diesem Quotenfall
 wird dann ein entsprechender Hinweis angezeigt.
-
-Abb. 6‑52 Quotenplanung – Anders als geplant
 
 ![Quotenplanung - anders als geplant](<img/image174.png>)
 
@@ -73,14 +66,10 @@ des geplanten Quotenzeitraums bzw. der Generierungszeitpunkt sind bei
 der *wiederkehrenden Aufgabe* erst ersichtlich, wenn der Quotenfall in
 der Quotenplanung einem Zeitraum zugeordnet wurde.
 
-Abb. 6‑53 Quotenplanung – Wiederkehrende Aufgabe
-
 ![Quotenplanung - wiederkehrende Aufgabe](<img/image177.png>)
 
 Wenn bereits eine Aufgabe generiert wurde und der Quotenfall in der
 Planung abgeändert wird, erscheint beim Verlassen der Quotenplanung eine
 Abfrage, ob auch der Endtermin der Aufgabe angepasst werden soll.
-
-Abb. 6‑54 Quotenplanung – Anpassung Endtermin
 
 ![Quotenplanung - Anpassung Endtermin](<img/image178.png>)

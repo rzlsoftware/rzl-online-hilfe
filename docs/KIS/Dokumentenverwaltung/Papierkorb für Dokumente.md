@@ -1,10 +1,6 @@
-## Papierkorb für Dokumente
-
 Sie können innerhalb der Dokumentenverwaltung des
 Kanzlei-Informations-Systems die Funktionen des Papierkorbs nützen.
 Innerhalb dieses Papierkorbs finden Sie die gelöschten Dokumente.
-
-Abb. 8‑39 Papierkorb – Gelöschte Dokumente
 
 ![Papierkorb](<img/image259.png>)
 

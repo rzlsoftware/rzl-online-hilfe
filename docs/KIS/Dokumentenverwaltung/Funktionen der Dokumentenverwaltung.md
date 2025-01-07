@@ -2,26 +2,22 @@
 
 Die vorhandenen Dokumente können Sie sehr einfach mit Ereignissen
 verknüpfen. Bitte beachten Sie dass sich die Verknüpfungen in der Regel
-durch die Arbeitsabläufe selbst ergeben (vgl. Kap. 13 *Abläufe*). Die
-Beschreibung der Ereignisse finden Sie im Kapitel 5.2 Ereignisse.
+durch die Arbeitsabläufe selbst ergeben.
 
 Nachfolgend erhalten Sie eine Beschreibung der Verknüpfung eines
 Dokuments mit einem Memo.
 
-Abb. 8‑29 Verknüpfung von Dokumenten mit Ereignissen (Postausgang)
-
 ![Ereignisse mit Dokumente verknüpfen](<img/image246.png>)
 
 Innerhalb eines Ereignisses haben Sie die Möglichkeit Dokumente
-zuzuordnen. Zunächst wählen Sie bitte die Schaltfläche ![Keine Dokumente zugeordnet](<img/image247.png>) an.
+zuzuordnen. Zunächst wählen Sie bitte die Schaltfläche:
+
+![Keine Dokumente zugeordnet](<img/image247.png>) an.
 
 Anschließend klicken Sie für die Zuordnung auf
 ![Dokument Plus Symbol](<img/image248.png>). Sie erhalten die
 Dokumentenliste mit einem automatischen Filter auf den Klienten der im
-Ereignis zugeordnet ist. Informationen zum Setzen von Filtern finden Sie
-im Kapitel 3.5 *Filterfunktionen*.
-
-Abb. 8‑30 Dokumentenliste gefiltert
+Ereignis zugeordnet ist.
 
 ![gefilterte Dokumentenliste](<img/image249.png>)
 
@@ -33,8 +29,6 @@ Maustaste.
 Nach dem Setzen der Markierung klicken Sie auf die Schaltfläche
 *Hinzufügen*.
 
-Abb. 8‑31 Zuordnung von Dokumenten zu Ereignissen
-
 ![Zuordnung Dokumente zu Ereignisse](<img/image250.png>)
 
 Im Ereignis werden der Name des Dokuments und das Dokumentensymbol
@@ -43,15 +37,13 @@ Liste aufrufen.
 
 Wenn Sie die Zuordnung des Dokuments zum Ereignis wieder löschen wollen,
 markieren Sie einfach das bzw. die Dokumente (Mehrfachauswahl ebenfalls
-möglich) und wählen das Symbol ![Dokument löschen](</image251.png>) zum Löschen der Zuordnung des
+möglich) und wählen das Symbol ![Dokument löschen](<img/image251.png>) zum Löschen der Zuordnung des
 Dokuments zum Ereignis aus.
 
 ## Versenden von Dokumenten
 
 Dokumente, die Sie im Kanzlei-Informations-System hinzugefügt haben,
 können Sie sehr einfach per E-Mail versenden.
-
-Abb. 8‑32 Dokumentenverwaltung - Versenden von Dokumenten per E-Mail
 
 ![Dokumente per E-Mail versenden](<img/image252.png>)
 
@@ -64,7 +56,7 @@ gespeicherten E-Mail-Adressen auswählen oder das E-Mail ohne Eintragung
 einer Empfänger E-Mail-Adresse öffnen.
 
 Wenn Sie die E-Mail versendet haben, können Sie dieses sehr einfach als
-Postausgang erfassen (vgl. Kap. 13.3 E-Mails schreiben).
+Postausgang erfassen.
 
 Die nachfolgend beschriebenen Funktionen der Dokumentenliste stehen
 Ihnen sowohl per Rechtsklick sowie auch im Header unter dem Reiter

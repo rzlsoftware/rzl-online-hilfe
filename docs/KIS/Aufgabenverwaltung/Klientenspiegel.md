@@ -38,7 +38,7 @@ der Schaltfläche *Übernehmen* zugeordnet.
 ### Zuordnung der Aktivitäten in den Klientenstammdaten
 
 Die Zuordnung der angelegten *Aktivitäten/Fachbereiche* kann auch
-innerhalb der Klientenstammdaten im Bereich [**Zuordnungen**](../Stammdaten/Klientenstammdaten/#zuordnungen) erfolgen.
+innerhalb der Klientenstammdaten im Bereich [**Zuordnungen**](../Stammdaten/Klientenstammdaten.md/#zuordnungen) erfolgen.
 
 ![Anlage Aktivitäten](<img/image74.png>)
 

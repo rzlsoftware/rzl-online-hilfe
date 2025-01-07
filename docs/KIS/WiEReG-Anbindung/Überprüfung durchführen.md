@@ -1,5 +1,3 @@
-## Überprüfung durchführen
-
 In den Klientenstammdaten der Stammdatenverwaltung am RZL Board im
 Register *WiEReG / Überprüfung* haben Sie die Möglichkeit zu
 hinterlegen, ob eine Meldung der wirtschaftlichen Eigentümer

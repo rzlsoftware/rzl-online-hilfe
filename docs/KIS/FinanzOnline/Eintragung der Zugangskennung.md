@@ -20,7 +20,7 @@ Innerhalb von FinanzOnline sollten Sie im Bereich *Zustellung* die
 Verständigung für Veranlagungsbescheide und die Übermittlung von
 Buchungsmitteilungen aktivieren.
 
-## Steuerkonto-, Quoten (Steuererklärungen) und Vertretungslistenabfrage 
+## Steuerkonto-, Quoten-, Erklärungen- und Vertretungslistenabfrage 
 
 Für die Steuerkontoabfrage, die Steuererklärungen, der Vertretungsliste und (teilweise) die Abfrage der Quoten wird kein Web-Service-Benutzer Zugang
 verwendet. Hier ist ein „normaler“ FinanzOnline-Zugang der Kanzlei

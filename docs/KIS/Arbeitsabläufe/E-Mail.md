@@ -1,5 +1,3 @@
-## E-Mail direkt aus dem KIS schreiben
-
 Wenn Sie an einen Klienten eine E-Mail schreiben wollen, klicken Sie
 einfach auf das Brief-Symbol neben der E-Mail-Adresse Ihres Klienten.
 
@@ -30,14 +28,6 @@ nicht innerhalb des Postausgangs des Kanzlei-Informations-Systems als
 Anhang gespeichert. Erst wenn das E-Mail tatsächlich gesendet wurde,
 erfolgt die Zuordnung zum Postausgang im KIS. Damit wird sichergestellt,
 dass das E-Mail nicht noch verändert werden kann.
-
-Die Felder für die Eintragung als Postausgang werden im Kap. 5.2
-*Postausgang* beschrieben.
-
-Die Beschreibung der Eingabefelder im Zusammenhang mit der Übernahme in
-die RZL Dokumentenverwaltung (Dokument-Titel, Dokument-Thema, usw.)
-erhalten Sie im Kapitel 8.2 *Dokumentenverwaltung – Beschreibung der
-Eingabefelder*.
 
 ## Speichern von Anhängen
 
@@ -113,9 +103,9 @@ Wenn Sie das E-Mail nicht öffnen, können Sie – für die Übernahme ins KIS
 – nach Anwahl der rechten Maustaste im Kontextmenü den Eintrag *RZL –*
 *als Posteingang zu KIS hinzufügen* anwählen.
 
-![Posteingang hinzufügen](<img/image345.png>)
+![Posteingang hinzufügen](<img/image345.png>){width="300"}
 
-!!! info"Tipp"
+!!! info "Tipp"
     Wenn Sie ein erhaltenes E-Mail als Posteingang ins Kanzlei-Informations-Systems übernommen haben, wird beim Senden der Antworten auf das E-Mail automatisch der Eingabedialog für die Übernahme dieser E-Mail ins KIS geöffnet.
 
 ## Übernommene E-Mails nachtragen und markieren

@@ -1,28 +1,15 @@
-## Hinzufügen von Dokumenten
-
 Wie können Sie bereits bestehende Dokumente in die Dokumentenverwaltung
 übernehmen? Sie wählen in der Navigation den Eintrag
 *Dokumentenverwaltung* an und klicken anschließend auf das Feld
 *Dokumente hinzufügen*. Wenn das Dokument zu einem
 Postausgang/Posteingang gespeichert werden soll, verwenden Sie bitte die
-Einträge *Dokument als Postausgang hinzufügen* bzw. *Dokument als
-Posteingang hinzufügen*.
-
-Nachfolgend wird zunächst die Übernahme eines Dokuments unabhängig von
-einem Ereignis beschrieben. Die zusätzlichen Möglichkeiten ein Dokument
-bereits zu einem Postausgang bzw. Posteingang hinzuzufügen werden im
-Kapitel 8.55 *Hinzufügen von Dokumenten als Posteingang/Postausgang*
-beschrieben.
-
-Abb. 8‑5 Dokumentenverwaltung – Dokumente hinzufügen
+Einträge *Dokument als Postausgang hinzufügen* bzw. *Dokument als Posteingang hinzufügen*.
 
 ![Dokumente hinzufügen](<img/image221.png>)
 
 Sie können sich hier innerhalb Ihrer Ordnerstruktur wie vom Windows
 Explorer gewohnt bewegen. Zusätzlich können Sie auf sogenannte
-Scanordner zugreifen (vgl. Kap. 11.11 *Scanordner*).
-
-Abb. 8‑6 Hinzufügen per Drag&Drop
+Scanordner zugreifen.
 
 ![Hinzufügen per Drag&Droß](<img/image222.png>)
 
@@ -37,36 +24,29 @@ in das Kanzlei-Informations-System übernommen wurde) außerhalb des
 Kanzlei-Informations-Systems noch einmal geändert wird.
 
 Wenn die Dokumente aus einem Scanordner übernommen werden, werden die
-Dokumente nach Übernahme nicht umbenannt, sondern gelöscht (vgl. unten
-Kap. *Übernahme der Dokumente aus einem Scanordner*)
+Dokumente nach Übernahme nicht umbenannt, sondern gelöscht,
 
 In den Details können Sie die Metadaten zum hinzugefügten Dokument
-hinterlegen bzw. eintragen. Die Felder die Sie hier ansprechen können,
-sind bereits im Kapitel 8.2 *Dokumentenverwaltung – Beschreibung der
-Eingabefelder* beschrieben.
+hinterlegen bzw. eintragen.
 
 Wenn Sie die Schaltfläche *Ausgewählte Dokumente* bzw. *Alle Dokumente*
 anwählen, wird das markierte Dokument in das Kanzlei-Informations-System
 übernommen und aus dem Bereich Hinzugefügte Dokumente entfernt.
 
-#### Entfernen von hinzugefügten Dokumenten
-
-Abb. 8‑7 Hinzugefügte Dokumente wieder entfernen
-
-![Dokumente entfernen](<img/image223.png>)
+### Entfernen von hinzugefügten Dokumenten
 
 Wenn das Dokument nicht ins KIS übernommen werden soll, können Sie die
 rechte Maustaste oder die Entf-Taste anwählen. Nachfolgend erhalten Sie
 folgende Abfrage.
 
-Abb. 8‑8 Hinzugefügte Dokumente – Ursprungszustand wiederherstellen
+![Dokumente entfernen](<img/image223.png>)
 
-![Ursprungszustand von Dokument wiederherstellen](<img/image224.png>)
+![Ursprungszustand von Dokument wiederherstellen](<img/image224.png>){width="400"}
 
 Wenn Sie diese Abfrage mit *Ja* bestätigen wird die Änderung des
 Dateinamens (ins KIS übernommen) wieder rückgängig gemacht.
 
-#### Mehrere Dokumente gleichzeitig auswählen bzw. übernehmen
+### Mehrere Dokumente gleichzeitig auswählen bzw. übernehmen
 
 Wenn Sie im Bereich Hinzugefügte Dokumente mehrere Dokumente markieren,
 können diese gleichzeitig bearbeitet werden. Sie können im unteren
@@ -77,12 +57,10 @@ auch nur einzelne Felder freigeschaltet werden.
 Es werden nur jene Felder gesperrt und müssen freigeschaltet werden, die
 abweichende Einträge aufweisen.
 
-#### Übernahme der Dokumente aus einem Scanordner
+### Übernahme der Dokumente aus einem Scanordner
 
 Innerhalb der Dokumentenübernahme finden Sie im oberen Bereich den
 Eintrag *Scanordner auswählen*.
-
-Abb. 8‑9 Dokumenten-Übernahme Scan-Ordner
 
 ![Dokumente mit Sanordner hinzufügen](<img/image225.png>)
 
@@ -92,7 +70,7 @@ sondern gelöscht. Das bedeutet, wenn alle auf den Scanordner
 eingescannten Dokumente in das Kanzlei-Informations-System übernommen
 worden sind, ist der Scanordner leer.
 
-## Dokumente auf das Klientenportal hochladen 
+### Dokumente auf das Klientenportal hochladen 
 
 Wollen Sie Dokumente aus dem KIS Ihren Klienten über das RZL
 Klientenportal zur Verfügung stellen können Sie innerhalb der
@@ -101,42 +79,28 @@ oder mehrere Dokumente zum Klientenportal hochladen. Mit Auswahl der
 Option *Zum Klientenportal mit Nachricht hochladen* können Sie Ihrem
 Klienten im Zuge des Hochladens eine Nachricht mit übermitteln.
 
-Abb. 8‑10 Dokumente auf das Klientenportal hochladen
-
 ![Dokumente auf Kliport hochladen](<img/image226.png>)
 
 ## Hinzufügen von Dokumenten als Posteingang/Postausgang
 
 Sollen Dokumente mit den Ereignissen Posteingang/Postausgang verknüpft
-werden, wählen Sie bitte „gleich“ die Programmteile *Dokumente als
-Postausgang hinzufügen* oder *Dokumente als Posteingang hinzufügen* an.
-
-Innerhalb dieses Programmteils werden die Dokumente genau wie im Kapitel
-oben beschrieben hinzugefügt.
+werden, wählen Sie bitte *Dokumente als Postausgang hinzufügen* oder *Dokumente als Posteingang hinzufügen* an.
 
 Allerdings können Sie nicht nur die Felder für die Dokumentenverwaltung
 ausfüllen, sondern auch die Felder für die Ereignisse *Posteingang* und
 *Postausgang*.
 
-Abb. 8‑11 Dokumente als Postausgang/Posteingang hinzufügen
-
 ![Dokumente als Postein/Postausgang hinzufügen](<img/image227.png>)
 
 Der Vorteil dieser Vorgehensweise liegt darin, dass die Felder für den
-Postausgang bzw. Posteingang sofort ausgefüllt werden können und das
-Dokument nicht wie in Kap. 7.8*Verknüpfung von Dokumenten mit
-Ereignissen* beschrieben in einem zweiten Arbeitsschritt zu einem
-Ereignis hinzugefügt werden muss.
+Postausgang bzw. Posteingang sofort ausgefüllt werden können.
 
-#### Erstellen einer Aufgabe
-
-Abb. 8‑12 Dokumente als Postausgang/Posteingang hinzufügen
-
-![Aufgabe in Dokukmentendetails erstellen](<img/image228.png>)
+## Erstellen einer Aufgabe
 
 Wenn Sie innerhalb der Details die rechte Maustaste anwählen, können Sie
-innerhalb der Dokumentendetails eine Aufgabe erstellen (vgl. Kap. 4
-*Aufgaben/Klientenspiegel*).
+innerhalb der Dokumentendetails eine Aufgabe erstellen.
+
+![Aufgabe in Dokukmentendetails erstellen](<img/image228.png>)
 
 ## Hinzufügen von Dokumenten über den RZL PDF-Manager Premium 
 
@@ -147,12 +111,9 @@ das Klientenportal hochzuladen sowie den Import in die
 Dokumentenverwaltung durchzuführen.
 
 Darüber hinaus bietet Ihnen der RZL PDF-Manager Premium die Möglichkeit
-sogenannte Workflows (vgl. Handbuch PDF-Manager Premium, Kapitel 5
-*Registerblatt „Workflow“*) zu erstellen. Damit können von Ihnen zB.
+sogenannte Workflows zu erstellen. Damit können von Ihnen zB.
 wiederkehrende Ausdrucke automatisiert zusammengeführt, per Mail
 versendet und in die Dokumentenverwaltung importiert werden.
-
-Abb. 8‑13 RZL PDF-Manager Premium – Dokument hinzufügen
 
 ![Dokument über PDF Manager hinzufügen](<img/image229.png>)
 

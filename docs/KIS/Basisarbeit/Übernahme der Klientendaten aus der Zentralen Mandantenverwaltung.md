@@ -1,27 +1,13 @@
-## Übernahme der Klientendaten aus der Zentralen Mandantenverwaltung
-
-Tipp
-
-Nicht mehr betreute Klienten sollten nicht in das RZL Board übernommen
-werden. Klienten die ins Board übernommen worden sind, können aus dem
-Board nicht mehr herausgelöscht werden.
-
 Die Übernahme der Stammdaten der Klienten findet im RZL Board statt.
 
-Abb. 15‑1 ZMV-Klientenübernahme
+!!! info "Tipp"
+    Nicht mehr betreute Klienten sollten nicht in das RZL Board übernommen werden.Klienten die ins Board übernommen worden sind, können aus dem Board nicht mehr herausgelöscht werden.
 
-1[ZMV-Klientenübernahme](<img/image373.png>)
+[ZMV-Klientenübernahme](<img/image373.png>)
 
-Innerhalb des RZL Board wählen Sie im linken Bereich den Eintrag STAMM
-**(1)** aus. Die ZMV-Klienten-Übernahme wird durch Auswahl des Icons
+Innerhalb des RZL Board wählen Sie im linken Bereich den Eintrag STAMM **(1)** aus. Die ZMV-Klienten-Übernahme wird durch Auswahl des Icons
 *ZMV Klienten-Übernahme* **(2)** aufgerufen.
 
-tipp
-
-Nicht mehr betreute Klienten sollten nicht in das RZL Board übernommen
-werden.
-
-Abb. 15‑2 Kompatibilität prüfen
 
 ![Kompatibilität prüfen](<img/image374.png>)
 
@@ -40,8 +26,6 @@ in den restlichen Zeilen – die Sie anschließend markieren – gesetzt.
 Nach Auswahl der Klienten, die übernommen werden sollen, wählen Sie
 bitte das Icon *Kompatibilität prüfen* **(3)** an.
 
-Abb. 15‑3 Status nach Prüfung
-
 ![Status nach Prüfung](<img/image375.png>)
 
 Die Daten der Klienten werden überprüft und zwischen den Kästchen und
@@ -57,14 +41,10 @@ der Nummer des Klienten wird der Status für die Übernahme angezeigt.
 Nähere Informationen zum jeweiligen Status erhalten Sie, in dem Sie auf
 die kleinen Pfeile **(5)** klicken.
 
-Abb. 15‑4 Statusinformation
-
 ![Details aufklappen](<img/image380.png>)
 
 Damit Sie nicht jede Zeile einzeln aufklappen oder zuklappen müssen,
 können Sie im oberen Bereich aus vier Optionen **(6)** auswählen.
-
-Abb. 15‑5 Klienten übernehmen
 
 ![Klienten übernehmen](<img/image381.png>)
 

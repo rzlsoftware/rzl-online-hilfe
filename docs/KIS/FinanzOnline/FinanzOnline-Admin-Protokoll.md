@@ -1,5 +1,3 @@
-## FinanzOnline-Admin-Protokoll
-
 Beim erstmaligen Programmstart erscheint unter Umständen das unten
 abgebildete FinanzOnline-Admin-Protokoll. Dieses liefert Ihnen einen
 Überblick über fehlgeschlagene FinanzOnline-Abfragen der letzten Tage.
@@ -16,9 +14,4 @@ zusammenhängen.
 
 Kontaktieren Sie bitte in Zweifelsfragen unseren Support.
 
-Abb. 6‑55 FinanzOnline-Admin-Protokoll
-
 ![FinOn Admin Protokoll](<img/image179.png>)
-
-<span class="mark">  
-</span>

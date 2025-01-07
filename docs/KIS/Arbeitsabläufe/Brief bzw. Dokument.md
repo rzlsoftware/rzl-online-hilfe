@@ -1,8 +1,3 @@
-## Briefe schreiben
-
-Für die Anlage der notwendigen Word-Vorlage lesen Sie bitte das Kapitel
-12.2 *Word-Vorlagen*.
-
 Das RZL Kanzlei-Informations-System unterstützt Sie beim Schreiben Ihrer
 Korrespondenz an Ihre Klienten bzw. an die Finanzämter Ihrer Klienten
 bestmöglich.
@@ -15,8 +10,7 @@ Word-Vorlage auswählen.
 ![Aktivierung Word-Vorlage](<img/image328.png>)
 
 Wenn Sie das quadratische Symbol mit den Punkten rechts außen anwählen,
-können Sie – wenn vorhanden – zwischen mehreren Vorlagen (vgl. Kap. 12.2
-Word-Vorlagen) auswählen.
+können Sie – wenn vorhanden – zwischen mehreren Vorlagen wählen.
 
 ![Wordvorlage starten](<img/image329.png>)
 
@@ -26,13 +20,12 @@ Adressdaten verwenden, erhalten Sie nachfolgende Abfrage.
 
 ![Auswahl Empfängerdaten](<img/image330.png>)
 
-Bevor sich Microsoft Word 2007/2010/2013/2016 öffnet, sind in diesem
+Bevor sich Microsoft Word öffnet, sind in diesem
 Fall noch die Empfängerdaten auszuwählen.
 
 Im Bereich *Empfänger Name* können Sie rechtsformabhängig zwischen den
 Daten der *natürlichen Person*, den *Firmendaten*, den *Finanzamtsdaten*
-und den *Kontaktpersonen* auswählen (vgl. Kap. 9 *Klientenstammdaten*
-*im KIS*).
+und den *Kontaktpersonen* auswählen.
 
 Der Bereich *Empfänger Adresse* ermöglicht die Auswahl der Adressdaten
 der natürlichen Person (rechtsformabhängig), der Firma und des
@@ -43,13 +36,12 @@ an.
 
 ![Auswahl Empfängerdaten II](<img/image331.png>)
 
-Nach Anwahl der gewünschten Daten klicken Sie auf die Schaltfläche *Word
-starten*. Microsoft Word wird geöffnet und die ausgewählten Daten sind
+Nach Anwahl der gewünschten Daten klicken Sie auf die Schaltfläche *Word starten*. Microsoft Word wird geöffnet und die ausgewählten Daten sind
 eingetragen.
 
 Wenn Sie eine Vorlage verwenden, die fixe Adressdaten gespeichert hat,
 kommt die obige Abfrage nach *Empfänger Name*, *Empfänger Adresse* und
-*Zustellanweisung* nicht (vgl. Kap. 12.2 *Word-Vorlagen*).
+*Zustellanweisung* nicht.
 
 Nachdem Sie das Dokument fertiggestellt haben, können Sie den Brief
 automatisch als Postausgang und/oder in die Dokumentenverwaltung
@@ -58,9 +50,7 @@ automatisch als Postausgang und/oder in die Dokumentenverwaltung
 ![Brief ins KIS übernehmen](<img/image332.png>)
 
 Damit der Brief automatisch übernommen werden kann, müssen Sie den
-Reiter RZL (siehe oben – ganz rechts außen) anwählen. Damit das Register
-*RZL* innerhalb des Word-Dokuments zur Verfügung steht, lesen Sie bitte
-das Kapitel 12.1 *Add-Ins*.
+Reiter RZL wählen.
 
 Wenn Sie den Brief als Word-Dokument zur RZL Dokumentenverwaltung
 hinzufügen wollen, wählen Sie bitte den Eintrag *Dokument hinzufügen*
@@ -83,16 +73,7 @@ Dokumentenverwaltung. Nach Eintragung der notwendigen Felder wird der
 Brief durch Anwahl der Schalfläche *Hinzufügen* als Postausgang
 eingetragen und in die Dokumentenverwaltung übernommen.
 
-Die Felder für die Eintragung als Postausgang werden im Kap. 5.2
-*Postausgang* beschrieben. Viele Felder können automatisch aus der
-Word-Vorlage übernommen werden, wenn diese in den erweiterten
-Eigenschaften der Vorlage gespeichert sind (vgl. Kap. 12.2.2
-*Eigenschaften für KIS Dokumentenimport vorauswählen*).
-
-Die Beschreibung der Eingabefelder im Zusammenhang mit der Übernahme in
-die RZL Dokumentenverwaltung (Dokument-Titel, Dokument-Thema, usw.)
-erhalten Sie im Kapitel 8.2 *Dokumentenverwaltung – Beschreibung der
-Eingabefelder*.
+Viele Felder können automatisch aus der Word-Vorlage übernommen werden, wenn diese in den [erweiterten Eigenschaften der Vorlage](../Office%20Integration/Word-Vorlagen.md/#eigenschaften-fur-kis-dokumentenimport-vorauswahlen) gespeichert sind.
 
 ## Öffnen eines bereits im KIS gespeicherten Dokuments
 
@@ -129,16 +110,10 @@ noch erfolgreicher Übernahme aus dem Scan-Ordner herausgelöscht.
 
 ![Scanordner hinterlegen](<img/image291.png>)
 
-Die Anlage der Scan-Ordner wird im Kap. 11.11 *Scanordner* bzw. im Kap.
-11.1 *Anlage /Bearbeitung sonstige Stammdaten* beschrieben. Auf diese
-Scanordner kann in der Dokumentenverwaltung des
+Auf die Scanordner kann in der Dokumentenverwaltung des
 Kanzlei-Informations-System zugegriffen werden.
 
 ![Zugriff auf gesannte Dokumente](<img/image335.png>)
-
-Für die Übernahme der Dokumente vom Scanordner in die
-Dokumentenverwaltung lesen Sie bitte das Kapitel 8.3 *Hinzufügen von
-Dokumenten*.
 
 !!! info "Tipp"
     Wenn Sie aus dem oben angeführten Bildschirm durch Anwahl der Schaltfläche *Neue Dokumente einscannen* die Dokumente übernehmen, werden die Dokumente sofort in den Bereich *Hinzugefügte Dokumente* abgelegt und müssen nicht vorher beispielsweise in einen Scan-Ordner abgelegt werden.

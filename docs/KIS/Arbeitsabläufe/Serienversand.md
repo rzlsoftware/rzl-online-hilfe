@@ -83,12 +83,10 @@ beispielsweise Ihre Klientenliste nach bestimmten Informationen wie
 Klient Auswahlkriterium „Metallgewerbe“ und Verwendung Auswahlkriterium
 „Allg. Ansprechpartner“ filtern. Haben Sie sämtliche Filter gesetzt, die
 zum gewünschten Ergebnis führen, können Sie alle Einträge mit STRG + A
-auswählen und mit dem Pfeil zur Empfängerliste hinzufügen. Eine genauere
-Beschreibung zu den Filtern finden Sie unter Kapitel 2.1.2
-Listenfunktionen. Das Hinzufügen zur Empfängerliste ist auch über Drag &
+auswählen und mit dem Pfeil zur Empfängerliste hinzufügen. Das Hinzufügen zur Empfängerliste ist auch über Drag &
 Drop möglich.
 
-**Hinzufügen eines Klienten/Person zu einer Empfängerliste in den Stammdaten**
+#### Hinzufügen eines Klienten/Person zu einer Empfängerliste in den Stammdaten
 
 Sie können neben der Erstellung/Bearbeitung einer Empfängerliste im
 Bereich Serienversand einen Klienten auch aus den Stammdaten zu einer
@@ -130,7 +128,7 @@ automatisch in der Klienten- bzw. Personenliste auf die markierte
 Person/Firma. Sind Sie mit der Bearbeitung der Empfängerliste zufrieden,
 schließen Sie diese durch die Schaltfläche *Speichern* ab.
 
-**Ansicht Personenliste**
+#### Ansicht Personenliste
 
 Wählen Sie die Ansicht Personenliste, so erscheinen zunächst sämtliche
 Personen ohne Klientenbezug. Personen mit Klientenbezug können Sie sich
@@ -152,7 +150,7 @@ oder nach bestimmten Daten filtern. Es werden bei der Suche auch ähnlich
 klingende Suchergebnisse miteinbezogen und der Suchbegriff wird in allen
 Spalten gesucht.
 
-**Liste sortieren und filtern**
+#### Liste sortieren und filtern
 
 Durch Klicken auf eine Spaltenüberschrift können Sie die Sortierung der
 Liste jederzeit ändern. Grundsätzlich ist die Liste nach dem Namen
@@ -196,7 +194,7 @@ Standardmäßig ist die Filter-Regel *Beinhaltet* ausgewählt. Durch Anwahl
 dieser Regel kann diese geändert werden. Hier stehen gleich mehrere
 Filter zur Auswahl.
 
-#### Export der Liste als CSV Datei
+## Export der Liste als CSV Datei
 
 In der Empfängerliste können Sie über das Kontextmenü, das mit der
 rechten Maustaste aufgerufen wird, den ausgewählten Eintrag als CSV
@@ -205,7 +203,7 @@ CSV Datei exportieren, wählen Sie die Schaltfläche über der
 Empfängerliste. Zusätzlich können Sie auch ausgewählte Einträge löschen,
 die Liste drucken oder kopieren und ausgewählte Einträge kopieren.
 
-### Wordvorlagen erstellen 
+## Wordvorlagen erstellen 
 
 Um einen Serienbrief bzw. Serien-E-Mail erstellen zu können, ist im MS
 Word zunächst eine Wordvorlage zu erstellen. Für die Erstellung einer
@@ -219,7 +217,7 @@ Platzhalter eingefügt werden **(2)**.
 
 ![Platzhalter in MS Word](<img/image358.png>)
 
-#### Platzhalter
+### Platzhalter
 
 Die Platzhalter sind in verschiedene Rubriken unterteilt. Die erste
 Rubrik *Empfänger* beinhaltet die Platzhalter für den ausgewählten
@@ -230,7 +228,7 @@ durch Anwahl des jeweiligen Eintrags in die Vorlage übernommen werden.
 
 ![Platzhalter](<img/image359.png>)
 
-**Platzhalter mit fixer Bedeutung/Zuordnung**
+### Platzhalter mit fixer Bedeutung/Zuordnung
 
 Weiters haben Sie noch die Möglichkeit, Platzhalter für Stammdaten des
 Klienten selbst im Schreiben einzufügen, um diese automatisch im Rahmen
@@ -248,7 +246,7 @@ der Empfängerliste befüllt. Wenn Sie sich eine neue Wordvorlage anlegen,
 würden wir Ihnen jedoch empfehlen, mit den neuen Platzhaltern (beginnend
 mit RZL) zu arbeiten.
 
-**Hinweise für die Erstellung von Wordvorlagen**
+#### Hinweise für die Erstellung von Wordvorlagen
 
 Möchten Sie eine Seitennummerierung je Serienbrief, müssen Sie in der
 Wordvorlage das Format der Seitennummerierung anpassen. Die
@@ -265,7 +263,7 @@ Wordvorlage (.dotx) abspeichern.
 !!! info "Tipp"
     Wenn Sie beim Abspeichern den Dateityp Wordvorlage (.dotx) gewählt haben, wird Ihnen automatisch der Speicherort „Benutzerdefinierte Office-Vorlagen“ ausgewählt, auch wenn Sie zuvor bereits einen anderen Speicherort ausgewählt hatten. Wählen Sie daher am besten zuerst den Dateityp aus und dann den gewünschten Speicherort.
 
-#### Wordvorlagen für Serien-E-Mails
+### Wordvorlagen für Serien-E-Mails
 
 Wenn Sie ein Serien-E-Mail im RZL Board erstellen, können Sie ebenfalls
 mit einer Wordvorlage arbeiten. Sie haben dadurch beispielsweise die
@@ -288,7 +286,7 @@ wird in das Serien-E-Mail als Nachricht übernommen.
 Bitte beachten Sie, dass bei einer Wordvorlage, die für Serien-E-Mails
 verwendet wird, Kopf-und Fußzeilen nicht übernommen werden können.
 
-### Serienbrief 
+## Serienbrief 
 
 **Erstellung Serienbrief**
 
@@ -361,7 +359,7 @@ Die Serienbriefe sowie auch die Serien-E-Mails werden im KIS im
 Kanzleibereich beim Postausgang in einem eigenen Unterpunkt
 Serienversand angezeigt.
 
-### Serien-E-Mail 
+## Serien-E-Mail 
 
 Über die Schaltfläche *Serien-E-Mail erstellen* können Sie ein
 Serien-E-Mail auf Basis einer zuvor angelegten Empfängerliste erstellen.

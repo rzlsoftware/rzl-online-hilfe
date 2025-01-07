@@ -1,17 +1,12 @@
-## Exkurs: notwendige Vorarbeiten in der ZMV
-
-### Zentrale Mandantenverwaltung (ZMV) - Vorgangsweise für die klientenübergreifende Korrektur der Rechtsformen 
+## Zentrale Mandantenverwaltung (ZMV) - Vorgangsweise für die klientenübergreifende Korrektur der Rechtsformen 
 
 Gehen Sie bitte wie folgt vor:
 
-Rufen Sie in der ZMV den Menüpunkt *ZMV / Spezialfunktionen / Korrektur
-Rechtsformen* auf und wählen Sie die Klienten aus.
+Rufen Sie in der ZMV den Menüpunkt *ZMV / Spezialfunktionen / Korrektur Rechtsformen* auf und wählen Sie die Klienten aus.
 
 ![Korrektur Rechtsformen](<img/image382.png>)
 
-Durch Aktivierung der Option
-
-Klicken Sie auf *Durchführen*
+Klicken Sie auf *Durchführen*.
 
 Es erscheint der erste Klient, dessen Rechtsform umgestellt werden muss.
 Wählen Sie für diesen Klienten die zutreffende Rechtsform aus. Falls
@@ -28,10 +23,9 @@ können Sie die Korrektur Rechtsformen jederzeit Beenden.
 Nach der Korrektur der Rechtsformen wird ein Korrekturprotokoll
 ausgedruckt.
 
-### Zentrale Mandantenverwaltung (ZMV) - Vorgangsweise für das klientenübergreifende Aufteilen der Rechtsformen 
+## Zentrale Mandantenverwaltung (ZMV) - Vorgangsweise für das klientenübergreifende Aufteilen der Rechtsformen 
 
-Rufen Sie in der ZMV den Menüpunkt *ZMV / Spezialfunktionen /
-Rechtsformen aufteilen* auf und wählen Sie die Klienten aus. Über die
+Rufen Sie in der ZMV den Menüpunkt *ZMV / Spezialfunktionen / Rechtsformen aufteilen* auf und wählen Sie die Klienten aus. Über die
 Option *nur KIS-Klienten* können Sie die Aufteilung auf die im KIS
 angelegten Klienten beschränken. Grundsätzlich muss nur bei KIS-Klienten
 eine Aufteilung der Rechtsformen erfolgen, da reine ZMV-Klienten nicht
@@ -39,7 +33,7 @@ eine Aufteilung der Rechtsformen erfolgen, da reine ZMV-Klienten nicht
 
 ![Rechtsformen aufteilen](<img/image384.png>)
 
-Klicken Sie auf *Durchführen.*
+Klicken Sie auf *Durchführen*.
 
 Es erscheint der erste Klient mit einem ungültigen Rechtsformwechsel.
 Ein ungültiger Rechtsformwechsel liegt dann vor, wenn in mindestens
@@ -63,14 +57,8 @@ neue Klientennummer ein.
 Über die Schaltfläche *Durchführen* wird die Klientennummer auf die neue
 Nummer geändert.
 
-Hinweis
-
-Beim Aufteilen der Rechtsformen entstehen durch die Auslagerung einer
-Generation auf neue Nummern neu entstandene Klienten. Diese müssen
-anschließend im KIS über die Klienten-Datenübernahme ins KIS übernommen
-werden, um anschließend im RZL Board als Klienten aufzuscheinen. Sie
-können dies aber auch anschließend nach der Installation der Version
-1.53 in der Stammdatenverwaltung im RZL Board nachholen.
+!!! warning "Hinweis"
+    Beim Aufteilen der Rechtsformen entstehen durch die Auslagerung einer Generation auf neue Nummern neu entstandene Klienten. Diese müssen anschließend im KIS über die Klienten-Datenübernahme ins KIS übernommen werden, um anschließend im RZL Board als Klienten aufzuscheinen. Sie können dies aber auch anschließend in der Stammdatenverwaltung im RZL Board nachholen.
 
 Anschließend müssen Sie über die Schaltfläche *Löschen* jene Generation
 bzw. Generationen löschen, in denen nun bei dem betreffenden Klienten

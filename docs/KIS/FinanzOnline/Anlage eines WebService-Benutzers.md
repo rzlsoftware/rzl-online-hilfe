@@ -7,22 +7,21 @@ Innerhalb von FinanzOnline wählen Sie bitte den Programmteil *Admin / Benutzer 
 
 Tragen Sie die gewünschte Benutzer-Identifikation ein und aktivieren Sie
 das Feld *Ich möchte einen neuen Benutzer hinzufügen*. Anschließend
-wählen Sie bitte die Schaltfläche Anfordern an.
+wählen Sie bitte die Schaltfläche *Anfordern* an.
 
 ![Verwaltung der Benutzerdaten I](<img/image165.png>)
 
-Klicken Sie bitte auf die Schaltfläche *Benutzerkennung/Benutzerarten* (**1**).
+Klicken Sie bitte auf die Schaltfläche *Benutzerkennung/Benutzerarten*.
 
 ![Verwaltung der Benutzerdaten II](<img/image166.png>)
 
-Vergeben Sie den Benutzernamen und den PIN. Nachfolgend setzen Sie die
-Einstellung *Benutzer für WebService* auf und bestätigen Sie mit der
+Vergeben Sie den Benutzernamen und den PIN. Nachfolgend wählen Sie die
+Benutzerart *Benutzer für WebService* und bestätigen Sie mit der
 Schaltfläche *Weiter*.
 
 ![Daten prüfen](<img/image167.png>)
 
-Klicken Sie bitte auf die Schaltfläche *Daten prüfen* im linken unteren
-Bereich der Seite.
+Klicken Sie bitte auf die Schaltfläche *Daten prüfen*.
 
 ![Datenkorb I](<img/image168.png>)
 
