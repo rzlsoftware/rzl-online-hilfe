@@ -20,26 +20,24 @@ Innerhalb von FinanzOnline sollten Sie im Bereich *Zustellung* die
 Verständigung für Veranlagungsbescheide und die Übermittlung von
 Buchungsmitteilungen aktivieren.
 
-## Steuerkonto-, Quoten-, Erklärungen- und Vertretungslistenabfrage 
+!!! warning "Hinweis"
+    Für die Abfrage der Quoten wird seit der Umstellung seitens FinanzOnline ein WebService-Benutzer benötigt.
 
-Für die Steuerkontoabfrage, die Steuererklärungen, der Vertretungsliste und (teilweise) die Abfrage der Quoten wird kein Web-Service-Benutzer Zugang
-verwendet. Hier ist ein „normaler“ FinanzOnline-Zugang der Kanzlei
-einzutragen, d.h. ein Zugang der es ermöglicht ins FinanzOnline
-einzusteigen um Steuerkonten, Steuererklärungen und
-Vertretungslistenabfragen usw. herunterzuladen.
+## Steuerkonto-, Erklärungen- und Vertretungslistenabfragen
 
-Sie sollten hier allerdings keinen im Kanzlei-Informations-System
-gespeicherten Mitarbeiter-Zugang eintragen, sondern einen allgemeinen
+Für die Steuerkontoabfrage, die Steuererklärungen und die Vertretungsliste wird kein Web-Service-Benutzer Zugang verwendet. Hier ist ein „normaler“ FinanzOnline-Zugang der Kanzlei einzutragen, d.h. ein Zugang der es ermöglicht ins FinanzOnline einzusteigen um Steuerkonten, Steuererklärungen und
+Vertretungslistenabfragen abzufragen.
+
+Sie sollten hier allerdings **keinen** im Kanzlei-Informations-System
+gespeicherten **Mitarbeiter-Zugang** eintragen, sondern einen allgemeinen
 Zugang den kein Mitarbeiter verwendet. Dies hat den Hintergrund, dass
 somit differenziert werden kann, welche Abfragen durch das KIS
 automatisch durchgeführt wurden und welche vom jeweiligen Mitarbeiter.
 
 ![autom Steuerkontoabfrage](<img/image127.png/>)
 
-Im Bereich *Zuordnung* wählen Sie den Eintrag *Steuerkonto-, Quoten- und
-Vertretungslistenabfrage* an. Dieser Benutzer kann durch Anwahl des
-Felds *Aktiv* deaktiviert werden. Daneben wird im Feld *Aktuellster
-DataBox-Eingang* das Datum des letzten persönlichen Eingangs angezeigt.
+Im Bereich *Zuordnung* wählen Sie den Eintrag *Steuerkonto-, Erklärungen- und Vertretungslistenabfragen* an. Dieser Benutzer kann durch Anwahl des
+Felds *Aktiv* deaktiviert werden. Daneben wird im Feld *Aktuellster DataBox-Eingang* das Datum des letzten persönlichen Eingangs angezeigt.
 
 Die Abfrage der Steuerkonten und der Erklärungen kann für einzelne
 Klienten in den Finanzamt-Stammdaten im RZL-Board deaktiviert werden.

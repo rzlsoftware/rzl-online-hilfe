@@ -1,16 +1,11 @@
-Um Dokumente aus der Dokumentenverwaltung zu entfernen, muss die
-entsprechende Zeile mit der Maus markiert werden. Wenn Sie anschließend
-die ENTF-Taste drücken, wird das Dokument mit den dazu gespeicherten
-Informationen gelöscht.
+Um Dokumente aus der Dokumentenverwaltung zu entfernen, muss die entsprechende Zeile markiert werden. Wenn Sie anschließend
+die ENTF-Taste drücken oder das Kontextmenü öffnen (Rechtsklick Maus) wird das Dokument mit den dazu gespeicherten Informationen in den KIS Papierkorb verschoben.
 
-Ebenso kann ein Dokument mithilfe der *Löschen* Schaltfläche im Header
-gelöscht werden.
-
-Wenn Sie eine Zeile markiert haben, können Sie auch die rechte Maustaste
-anwählen. Sie erhalten ein Kontextmenü angezeigt. Wenn Sie den Eintrag
-*Löschen* anwählen, wird das Dokument ebenfalls gelöscht.
+Ebenso kann ein Dokument mithilfe der *in KIS-Papierkorb verschieben* Schaltfläche im Header verschoben werden.
 
 Sie können auch mehrere Dokumente gleichzeitig löschen.
+
+Zusätzlich können Dokumente laut gesetzten Filter gelöscht werden. Erstellen oder wählen Sie einen bereits vorhandenen Filter aus und verwenden Sie die Funktion Bereinigen im Header und wählen Sie entweder *Gefilterte Dokumente löschen* bzw. *Gefilterte Dokumente in KIS-Papierkorb verschieben*.
 
 **EXKURS**: Haben Sie die Dokumentenverwaltung Plus lizenziert, gibt es
 im Kontextmenü eine zusätzliche Funktion *Automatische Sicherungen anzeigen*. Falls also Änderungen an einem Dokument vorgenommen wurden,

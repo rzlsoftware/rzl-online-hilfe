@@ -7,7 +7,7 @@ Durch Betätigung des Buttons *Status der Quotenerfüllung und quotenrelevante E
 
 ## Quotenfälle
 
-Durch einen Doppelklick mit der Maus auf das jeweilige Finanzamt werden
+Durch einen Doppelklick auf das jeweilige Finanzamt werden
 zunächst die *Quotenfälle* angezeigt. Sie können die fixen Filter nutzen. Wenn
 Sie die Schaltfläche *Filter* anwählen, stehen zusätzlich
 die Filtermöglichkeiten *Abberufen*, *Abgabefertig*, *Nicht abgabefertig* und *Feststellungserklärungen* zur Verfügung.
@@ -21,6 +21,10 @@ Quotenfälle, die Erklärungen je Quotenzeitraum und die kumulierten
 Erklärungen mit Ausweis der Sollabgabe angezeigt.
 
 ![Berechnungsdetails](<img/image161.png>)
+
+Über die Funktion *Übersicht FinanzOnline* **(1)** können Sie den Status der Quotenerfüllung laut FinanzOnline direkt im RZL KIS öffnen.
+
+![Übersicht FinanzOnline](<img/Übersicht FinOn - Berechnungsdetail.jpg>)
 
 ## Quotenplanung 
 

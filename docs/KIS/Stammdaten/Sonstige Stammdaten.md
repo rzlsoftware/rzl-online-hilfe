@@ -137,9 +137,9 @@ Die Möglichkeit Filter in der Verwaltung, im Navigator und in den Listen anzule
 ## Pflichtfelder
 
 Der Bereich *Pflichtfelder* bietet Ihnen die Möglichkeit die Felder
-Kategorie, Thema und/oder Zeitraum als Pflichtfeld zu definieren.
+Kategorie, Thema, Zeitraum,... als Pflichtfeld zu definieren.
 
-![Plfichtfelder](<img/image287.png>)
+![Plfichtfelder](<img/Pflichtfelder.jpg>)
 
 Die orange Hinweismeldung bei der Auswahl von Kategorie und Thema für
 das Modul Aufgaben zeigt an, bei welchen Aufgabenvorlagen die Felder
@@ -148,7 +148,7 @@ wird dies nicht nur für die künftigen Aufgaben übernommen, sondern auch
 für alle bereits im KIS befindlichen Aufgaben. Ohne Eintrag im
 Pflichtfeld können Aufgaben(-vorlagen) nicht angelegt werden.
 
-Dasselbe gilt auch bei der Auswahl von Kategorie und Thema für das Modul
+Dasselbe gilt auch bei der Auswahl von Kategorie, Thema und Dokumentbereich für das Modul
 Dokumente. Hier werden die fehlenden Eingaben bei den Zuweisungen (z.B.
 USP, FinanzOnline Datenübermittlungen Zuweisungen, …) geprüft. Das
 Befüllen des Pflichtfeldes wird ebenso für alle bereits im KIS

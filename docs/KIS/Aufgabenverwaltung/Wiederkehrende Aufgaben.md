@@ -139,14 +139,16 @@ wiederkehrende Aufgabe dupliziert werden soll, einzeln auswählen. Wenn
 alle Klienten in der Liste markiert werden sollen, kann ![Alle-Auswählen-Symbol](<img/image79.png>) ausgewählt werden. Die Hakerl können gesamt durch Anwahl des Symbols rechts daneben wieder gelöscht werden. Natürlich können Sie die
  [Liste filtern](../Allgemeine%20Programmbedienung/Programmstart%20und%20mögliche%20Funktionen.md/#moglichkeiten-der-listengestaltung).
 
-In der Spalte bereits vorhanden wird Ihnen angezeigt, bei welchen
+In der Spalte *bereits vorhanden* wird Ihnen angezeigt, bei welchen
 Klienten diese wiederkehrende Aufgabe bereits angelegt wurde.
 
 Nach Anwahl der Schaltfläche *Duplizieren* wird die wiederkehrende
 Aufgabe auf die aktivierten Klienten übertragen.
 
+Wiederkehrende Aufgaben können auch in der Klienten- und Kanzleiansicht dupliziert werden.
+
 !!! info "Tipp"
-    Innerhalb der Liste der wiederkehrenden Aufgaben (Klienten/Kanzleibereich) können einzelne Aufgaben markiert und nach Anwahl der rechten Maustaste ebenfalls dupliziert werden.
+    Auch das Duplizieren von mehreren wiederkehrenden Aufgaben gleichzeitig ist möglich.
 
 ## Generierungsvorschau
 

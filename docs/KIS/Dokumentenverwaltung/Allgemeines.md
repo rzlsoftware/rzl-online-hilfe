@@ -65,7 +65,7 @@ Dokuments näher zu erläutern.
 
 ### Dokumentbereich
 
-Im Bereich *Dokumentenbereich* wählen Sie zwischen den in der Verwaltung angelegten Dokumentbereichen aus. Der Dokumentbereich ist ein wichtiger Eintrag
+Im Bereich *Dokumentenbereich* wählen Sie zwischen den in der Verwaltung angelegten Dokumentbereichen aus. Sie können einen oder mehrere Dokumentbereiche wählen. Der Dokumentbereich ist ein wichtiger Eintrag
 für die strukturierte Ablage und für die Suche innerhalb der Dokumente (Filter). Außerdem wird der Dokumentbereich für den Up- und Download von Dokumenten über das RZL Klientenportal verwendet.
 
 ### Stichworte

@@ -37,12 +37,9 @@ Zwischenablage bzw. den Ausdruck der Liste ermöglicht.
 Archivierte Einträge scheinen in den Ereignislisten nicht mehr auf,
 können aber immer durch Anwahl des Eintrags *Archiv* aufgerufen werden.
 
+Im Archiv befindliche Ereignisse können entweder wiederhergestellt werden oder endgültig aus dem KIS gelöscht werden.
+
 Innerhalb der Klientenzuordnung bei den Ereignissen kann eine
 Mehrfachzuordnung zu mehreren Klienten erfolgen.
 
-Innerhalb der Ereignisdetails ist es zusätzlich möglich, eine Aufgabe erstellen..
-
-Die Erfassung der Ereignisse ergibt sich in den meisten Fällen aus dem
-laufenden Arbeiten. Nachfolgend finden Sie eine
-Beschreibung der Felder der Ereignisse ohne die Einbindung in einen
-bestimmten Ablauf.
+Innerhalb der Ereignisdetails ist es zusätzlich möglich, eine Aufgabe erstellen.
