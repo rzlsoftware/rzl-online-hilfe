@@ -4,17 +4,17 @@
 
 **SV-Pflicht**
 
-- Bundesland
+- *Bundesland*
 
 Eingabe des Bundeslandes, in welchem der Dienstnehmer bei der ÖGK angemeldet ist, durch Auswahl aus der vorgegebenen Liste der österreichischen Bundesländer. Neben dem Eintrag *ÖGK-Nummer* wird die in den Stammdaten des Klienten eingetragene Beitragskontonummer angezeigt. Sollte keine Kontonummer vorhanden sein, erfolgt ein Warnhinweis.
 
-- Filter Beschäftigtengruppe
+- *Filter Beschäftigtengruppe*
 
 ![Image](<img/image93.png>)
 
 Hier kann die Beschäftigtengruppenauswahl gefiltert werden. Somit erscheinen nur die benötigten Beschäftigungsgruppen.
 
-- Beschäftigungsgruppe
+- *Beschäftigungsgruppe*
 
 Eingabe der Beschäftigungsgruppe durch Auswahl aus der vorgegebenen Liste der im Programm vorgesehenen Beschäftigungsgruppen.
 
@@ -24,7 +24,7 @@ Durch Anklicken des blauen Rufzeichens ![Image](<img/image94.png>) dieser Besch�
 
 ![Image](<img/image95.png>){width="500"}
 
-- Beschäftigungsbereich (Anmeldung)
+- *Beschäftigungsbereich (Anmeldung)*
 
 Aufgrund der gewählten Beschäftigtengruppe erkennt das Programm automatisch, ob es sich um einen Arbeiter oder Angestellten handelt. Dieses Eingabefeld muss daher nur dann entsprechend beachtet werden, wenn ausnahmsweise keine SV-Pflicht vorliegt.
 

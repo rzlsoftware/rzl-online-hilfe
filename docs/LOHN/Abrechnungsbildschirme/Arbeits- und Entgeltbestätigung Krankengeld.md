@@ -1,8 +1,6 @@
-## Arbeits- und Entgeltsbestätigung Krankengeld
+# Arbeits- und Entgeltsbestätigung Krankengeld
 
 ![Image](<img/image135.png>)
-
-### Beschreibung der Eingabefelder
 
 **Beschäftigt ab / Beschäftigungstage pro Woche**
 
@@ -29,7 +27,6 @@ In diesem Eingabefeld ist der Grund für die Arbeitsunfähigkeit einzutragen.
 Hier ist auszuwählen, ob es sich um
 
 - Krankheit / Unglücksfall oder
-
 - Arbeitsunfall / Berufskrankheit
 
 handelt.

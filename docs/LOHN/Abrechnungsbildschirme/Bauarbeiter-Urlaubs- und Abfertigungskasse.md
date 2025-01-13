@@ -1,3 +1,3 @@
-## Bauarbeiter- Urlaubs- und Abfertigungskasse
+# Bauarbeiter- Urlaubs- und Abfertigungskasse
 
-Vgl. Kapitel 34 Bauarbeiter- Urlaubs- und Abfertigungskasse, Seite [405](#bauarbeiter--urlaubs--und-abfertigungskasse-1)
+Siehe [Bauarbeiter- Urlaubs- und Abfertigungskasse](../Bauarbeiter-Urlaubs-%20und%20Abfertigungskasse/Abrechnungsbildschirm%20Bauarbeiter-Urlaubs-%20und%20Abfertigungskasse.md)

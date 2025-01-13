@@ -1,8 +1,6 @@
-## Über-/Mehrarbeitsstunden
+# Über-/Mehrarbeitsstunden
 
 ![Image](<img/image113.png>)
-
-### Beschreibung der Eingabefelder
 
 **Pauschale**
 
@@ -10,15 +8,15 @@ Ist eine Überstunden-Pauschale abzurechnen, so ist das Auswahlfeld zu aktiviere
 
 Soll **kein** Freibetrag gerechnet werden, dann geben Sie bei *max. beg. h* null ein und machen Sie einen rechten Mausklick und wählen Sie *Explizit 0* aus.
 
-![Image](<img/image114.png>)
+![Image](<img/image114.png>){width="500"}
 
 **Überstunden-Teiler / Abweichender Überstunden-Grundlohn**
 
 In diesem Feld ist festzulegen, ob mit *Überstunden-Teiler* oder mit einem bestimmten *Überstunden-Grundlohn* gerechnet werden soll.
 
-Wenn das KV-Modul verwendet wird und der Dienstnehmer im Abrechnungsbildschirm *Kollektivvertrag* einem KV zugeordnet wurde, kann hier mit der *F2-Taste* der Überstundenteiler des Kollektivvertrags automatisch eingetragen werden. Hinsichtlich Kollektivverträge vgl. Kapitel 32, Seite [381](#section-26).
+Wenn das KV-Modul verwendet wird und der Dienstnehmer im Abrechnungsbildschirm *Kollektivvertrag* einem KV zugeordnet wurde, kann hier mit der *F2-Taste* der Überstundenteiler des [Kollektivvertrags](../Kollektivverträge/Abrechnungsbildschirm%20Kollektivvertrag.md) automatisch eingetragen werden.
 
-![Image](<img/image115.png>)
+![Image](<img/image115.png>){width="500"}
 
 **abweichende Basis Überstunden-Zuschlag**
 
@@ -76,7 +74,7 @@ Wenn eine All-inclusive-Vereinbarung getroffen wurde, können Sie hier den *Gesa
 
 Wenn im Feld *maximal begünstigte Stunden* kein niedrigerer Eintrag erfolgt, werden die Zuschläge gemäß § 68 Abs. 2 für 18 Stunden pro Monat steuerfrei gerechnet (maximal EUR 200,00 pro Monat). Soll keine Begünstigung § 68 (2) zur Anwendung gelangen, dann geben Sie im Feld *maximal begünstigte Stunden* 0 ein und machen Sie einen rechten Mausklick und wählen Sie *Explizit 0* aus.
 
-![Image](<img/image116.png>)
+![Image](<img/image116.png>){width="600"}
 
 !!! warning "Hinweis"
     Beim Gesamtstundenteiler handelt es sich nicht um den kollektivvertraglichen Überstundenteiler, sondern um den Wert laut Erlass des BMF (LStR Rz 1162).

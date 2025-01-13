@@ -1,10 +1,8 @@
-## Dienstzettel
+# Dienstzettel
 
-Dieser Bildschirm ist nur auszufüllen, falls für den Dienstnehmer ein Dienstzettel zu erstellen ist. Gemäß § 2 Abs. 1 Arbeitsvertragsrechts-Anpassungsgesetz (AVRAG) hat der Arbeitgeber dem Arbeitnehmer unverzüglich nach Beginn des Arbeitsverhältnisses einen Dienstzettel auszuhändigen. Der Dienstzettel für die einzelnen Dienstnehmer kann im Programmteil *Ausdruck /Stammdaten/Dienstzettel* wahlweise mit der Bezeichnung Dienstzettel oder Dienstvertrag ausgedruckt werden.
+Dieser Bildschirm ist nur auszufüllen, falls für den Dienstnehmer ein Dienstzettel zu erstellen ist. Gemäß § 2 Abs. 1 Arbeitsvertragsrechts-Anpassungsgesetz (AVRAG) hat der Arbeitgeber dem Arbeitnehmer unverzüglich nach Beginn des Arbeitsverhältnisses einen Dienstzettel auszuhändigen. Der Dienstzettel für die einzelnen Dienstnehmer kann im Programmteil *Ausdruck / Stammdaten / Dienstzettel* wahlweise mit der Bezeichnung Dienstzettel oder Dienstvertrag ausgedruckt werden.
 
 ![Image](<img/image138.png>)
-
-### Beschreibung der Eingabefelder
 
 **Beginn Arbeitsverhältnis**
 
@@ -20,7 +18,7 @@ Das Bruttogehalt, der Bruttolohn bzw. das Lehrlingseinkommen kommen aus der Fixe
 
 **Fälligkeit des Entgeltes**
 
-Als Vorschlag wird jene Eingabe unter *Stamm / Klient / Zahltag Abrechnung* (Kapitel 2.1.1 Registerblatt Bank, Überweisung, Zahltag, Seite [23](#registerblatt-bank-überweisung-zahltag)) angeführt. Sie haben die Möglichkeit den Vorschlag mit bis zu 30 Zeichen zu überschreiben.
+Als Vorschlag wird jene Eingabe unter *Stamm / Klient / *[*Zahltag Abrechnung*](../Klientenstammdaten/Stammdaten Klient (Dienstgeber)/Bank, Überweisung, Zahltag.md) angeführt. Sie haben die Möglichkeit den Vorschlag mit bis zu 30 Zeichen zu überschreiben.
 
 **Art der Auszahlung**
 
@@ -68,7 +66,7 @@ Als *Beginn Probezeit* wird das Eintrittsdatum vorgeschlagen. Eine manuelle Übe
 
 **Anzuwendender Kollektivvertrag**
 
-Bei der Position *Kollektivvertrag* wird bei Verwendung der HGKV-Datenbank dieser Kollektivvertragstext vorgeschlagen. Wenn Sie die HGKV-Datenbank hier nicht verwenden, wird jener Kollektivvertrag angedruckt, welchen Sie im Bereich *Kollektivvertrag* ganz unten bei *Kollektivvertrag* (Kapitel 5.6 Kollektivvertrag, Seite [67](#kollektivvertrag)) eingetragen haben.
+Bei der Position *Kollektivvertrag* wird bei Verwendung der HGKV-Datenbank dieser Kollektivvertragstext vorgeschlagen. Wenn Sie die HGKV-Datenbank hier nicht verwenden, wird jener Kollektivvertrag angedruckt, welchen Sie im Bereich [*Kollektivvertrag*](../Abrechnungsbildschirme/Kollektivvertrag.md) ganz unten bei *Kollektivvertrag* eingetragen haben.
 
 Als *Ort der Einsichtnahme* wird *im Personalbüro* vorgeschlagen. Dieser Textvorschlag kann manuell überschrieben werden (bis zu 50 Zeichen).
 
@@ -89,19 +87,19 @@ Die Daten der *Normalarbeitszeit* werden aus dem Eintrittsbildschirm übernommen
 
 **Dauer der Kündigungsfrist**
 
-Für die Beschreibung der Kündigungsfristen bzw. Vereinbarungen bezüglich der Kündigung können je Dienstnehmer bis zu 10, der in den Standardtexten (Kapitel 8.1, Seite [165](#kanzlei-texte)) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
+Für die Beschreibung der Kündigungsfristen bzw. Vereinbarungen bezüglich der Kündigung können je Dienstnehmer bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
 !!! warning "Hinweis"
     Wird bei *Dauer der Kündigungsfrist* ein Textbaustein hinterlegt und ausgewählt, dann wird dieser Text verwendet und nicht mehr der Vorschlag vom Feld *Dauer der Kündigungsfrist (HGKV).*
 
 **Kündigungstermin**
 
-Je Dienstnehmer können bis zu 10, der in den Standardtexten (Kapitel 8.1, Seite [165](#kanzlei-texte)) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
+Je Dienstnehmer können bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
 **Einzuhaltende Kündigungsverfahren**
 
-Je Dienstnehmer können bis zu 10, der in den Standardtexten (Kapitel 8.1, Seite [165](#kanzlei-texte)) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
+Je Dienstnehmer können bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
 **Sonstige Vereinbarungen**
 
-Für die Angabe der sonstigen für das Dienstverhältnis geschlossenen Vereinbarungen können bis zu 20 der in den Standardtexten angelegten Textblöcke (Kapitel 8.1, Seite [165](#kanzlei-texte)) verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte für Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
+Für die Angabe der sonstigen für das Dienstverhältnis geschlossenen Vereinbarungen können bis zu 20 der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte für Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).

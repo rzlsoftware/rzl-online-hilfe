@@ -1,6 +1,4 @@
-## Abzüge
-
-### Beschreibung der Eingabefelder
+# Abzüge
 
 **Vorschuss**
 

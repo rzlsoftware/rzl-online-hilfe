@@ -1,8 +1,6 @@
-## Arbeits- und Entgeltsbestätigung Wochengeld
+# Arbeits- und Entgeltsbestätigung Wochengeld
 
 ![Image](<img/image136.png>)
-
-### Beschreibung der Eingabefelder
 
 **Beschäftigt ab / Beschäftigungstage pro Woche**
 
@@ -95,17 +93,11 @@ Fallen in diese drei Kalendermonate Zeiten, in welchen die werdende Mutter keine
 Unterbrechung des vollen Lohnes bzw. Gehaltes wegen
 
 - Krankheit,
-
 - Kurzarbeit,
-
 - Urlaub ohne Entgeltzahlung (unbezahlter Urlaub),
-
 - Dienstes als Schöffin, Geschworene,
-
 - einer Maßnahme nach dem Epidemie- oder Tierseuchengesetz und
-
-- Teilnahme an Schulungs- und Bildungsveranstaltungen im Rahmen der
-  besonderen Vorschriften über die erweiterte Bildungsfreistellung.
+- Teilnahme an Schulungs- und Bildungsveranstaltungen im Rahmen der besonderen Vorschriften über die erweiterte Bildungsfreistellung.
 
 **Pragmatisierung**
 

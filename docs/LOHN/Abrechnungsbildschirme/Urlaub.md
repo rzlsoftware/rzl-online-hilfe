@@ -1,4 +1,4 @@
-## Urlaub
+# Urlaub
 
 ![Image](<img/image126.png>)
 
@@ -34,7 +34,7 @@ Eingabe eines eventuellen Resturlaubes zu Beginn des Urlaubsjahres. Wurde mehr v
 
 **Abweichender Monatsteiler**
 
-Hier kann für den Dienstnehmer ein *abweichender Monatsteiler* eingetragen werden. Der Monatsteiler wird für die Berechnung der Urlaubsrückstellung verwendet (vgl. Kapitel 17.3, Seite [260](#urlaubsrückstellung)).
+Hier kann für den Dienstnehmer ein *abweichender Monatsteiler* eingetragen werden. Der Monatsteiler wird für die Berechnung der [Urlaubsrückstellung](../Rückstellungen/Urlaubsrückstellung.md) verwendet.
 
 Wenn die Urlaubskartei nach Stunden geführt wird, hat die Eintragung des Monatsteilers keine Auswirkung auf die Urlaubsrückstellung. Das Programm rechnet automatisch die Anzahl der Wochenstunden, welche im Abrechnungsbildschirm *Eintritt* eingetragen sind, auf einen vollen Monat hoch und verwendet diesen Wert als Teiler.
 
@@ -44,7 +44,7 @@ Soll die *Urlaubskartei* für den einzelnen Dienstnehmer geführt werden, ist di
 
 Wird das Feld *Sonderurlaub* aktiviert, erfolgt keine Verringerung des Urlaubsanspruches.
 
-Auf den Abrechnungen der Dienstnehmer (vgl. Kapitel 12.2, Seite [206](#ausdruck-abrechnungen)) kann die Urlaubskartei wahlweise normal oder im *Detail* angedruckt werden.
+Auf den [Abrechnungen der Dienstnehmer](../Ausdrucke%20allgemein/Ausdruck%20Abrechnungen.md) kann die Urlaubskartei wahlweise normal oder im *Detail* angedruckt werden.
 
 **In Anspruch genommener Urlaub (Eintragung des verbrauchten Urlaubes)**
 
