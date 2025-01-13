@@ -1,36 +1,36 @@
-### Kommunalsteuer
+# Kommunalsteuer
 
 ![Image](<img/image143.png>)
 
 **Kommunalsteuer**
 
-- **Kommunalsteuer**
+*Kommunalsteuer*
 
 Diese Felder dienen zur Verteilung der Kommunalsteuer auf insgesamt 10 Gemeinden. Ein­gabe der Gemeinde-Nummer laut den angelegten Gemeindestammdaten. Hat der Dienstgeber in einer Gemeinde nur eine Betriebsstätte, so braucht hier keine Nummer eingegeben zu werden, es wird automatisch die Gemeinde laut *Dienstgeber-Stammdaten* angesprochen.
 
-- **Befreiung von Kommunalsteuer**
+*Befreiung von Kommunalsteuer*
 
 Ist der Dienstnehmer von der Kommunalsteuer befreit (z. B. Invalide), so ist dieses Feld zu aktivieren. Unterliegt der Dienstgeber grundsätzlich nicht der Kommunalsteuer-Pflicht, so ist dies in den *Dienstgeber-Stammdaten* einzugeben. Es braucht dann hier beim Dienstnehmer nicht nochmals *Befreiung* von der Kommunalsteuer eingegeben zu werden.
 
-- **Kürzung Bemessung Kommunalsteuer**
+*Kürzung Bemessung Kommunalsteuer*
 
 Hier kann eine prozentuelle Kürzung der Kommunalsteuerbesmessungsgrundlage vorgenommen werden.
 
 **DB, DZ**
 
-- **Befreiung vom DB**
+*Befreiung vom DB*
 
 Ist der Dienstnehmer vom Dienstgeberbeitrag befreit, so ist dieses Feld zu aktivieren.
 
-- **DZ-Bundesland**
+*DZ-Bundesland*
 
 In Spezialfällen kann hier für einzelne Dienstnehmer ein abweichendes Bundesland für die DZ-Berechnung eingetragen werden. Grundsätzlich berechnet das Programm den DZ gemäß dem eingetragenen *DZ-Bundesland* in den *Dienstgeber-Stammdaten* im Register *Finanzamt*.
 
-- **Befreiung vom DZ**
+*Befreiung vom DZ*
 
 Ist der Dienstnehmer vom Dienstgeberzuschlag befreit, so ist dieses Feld zu aktivieren. Unterliegt der Dienstgeber nicht der DZ-Pflicht, so ist dies in den *Dienstgeber-Stammdaten* einzugeben. Es braucht dann hier beim Dienstnehmer nicht nochmals *Befreiung* vom DZ eingegeben zu werden.
 
-- **Kürzung Bemessung DZ**
+*Kürzung Bemessung DZ*
 
 Hier kann eine prozentuelle Kürzung der Kommunalsteuerbemessungsgrundlage vorgenommen werden.
 

@@ -1,4 +1,4 @@
-### Fixe Lohnarten
+# Fixe Lohnarten
 
 ![Image](<img/image145.png>)
 

@@ -1,4 +1,4 @@
-### Dienstnehmer-Notizen
+# Dienstnehmer-Notizen
 
 In dieser Eingabemaske können diverse Informationen zum Dienstnehmer hinterlegt werden. Die Eingabe erfolgt über die Felder *von* und *bis* – welche den Zeitraum festlegen und dem *Textfeld*.
 

@@ -1,3 +1,3 @@
-### Arbeits- und Entgeltbestätigung Krankengeld
+# Arbeits- und Entgeltbestätigung Krankengeld
 
-Vgl. Kapitel 5.21 Arbeits- und Entgeltsbestätigung Krankengeld, Seite [125](#arbeits--und-entgeltsbestätigung-krankengeld)
+Siehe [Arbeits- und Entgeltsbestätigung Krankengeld](../Abrechnungsbildschirme/Arbeits-%20und%20Entgeltbestätigung%20Krankengeld.md)

@@ -1,3 +1,3 @@
-### Freie Lohnarten
+# Freie Lohnarten
 
-Der Bildschirm *Freie Lohnarten* ist identisch mit jenem der Abrechnung der normalen Dienstnehmer (Kapitel 5.12, Seite [109](#freie-lohnarten)).
+Der Bildschirm [*Freie Lohnarten*](../Abrechnungsbildschirme/Freie%20Lohnarten.md) ist identisch mit jenem der Abrechnung der normalen Dienstnehmer.

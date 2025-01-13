@@ -1,4 +1,4 @@
-### Sozialversicherung
+# Sozialversicherung
 
 ![Image](<img/image144.png>)
 
