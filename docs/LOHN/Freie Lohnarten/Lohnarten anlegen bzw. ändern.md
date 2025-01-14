@@ -172,7 +172,7 @@ Wenn Sie dieses Feld anhaken, wird die Lohnart als *KV-Bezug* deklariert. Dies b
 
 **Bemessung SZ**
 
-Wird dieses Feld aktiviert, wird die freie Lohnart in der Sonderzahlungsberechnung miteingerechnet, wenn im Zuge der Abrechnung mit [Lohnformeln](../Lohnformeln/Formelsyntax/) gearbeitet wird.
+Wird dieses Feld aktiviert, wird die freie Lohnart in der Sonderzahlungsberechnung miteingerechnet, wenn im Zuge der Abrechnung mit [../Lohnformeln/Formelsyntax/) gearbeitet wird.
 
 **Monatsschnitt**
 
