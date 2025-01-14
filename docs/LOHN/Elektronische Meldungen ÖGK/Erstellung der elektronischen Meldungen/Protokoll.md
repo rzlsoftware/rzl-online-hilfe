@@ -1,4 +1,4 @@
-### Registerblatt Protokoll
+# Protokoll
 
 Im Registerblatt *Protokoll* kann Einsicht in die Liste der in der ÖGK-Datei enthaltenen Meldungen genommen werden.
 

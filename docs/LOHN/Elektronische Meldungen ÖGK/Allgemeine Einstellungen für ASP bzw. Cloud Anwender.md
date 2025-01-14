@@ -1,8 +1,8 @@
-## Allgemeine Einstellungen für ASP bzw. Cloud Anwender
+# Allgemeine Einstellungen für ASP bzw. Cloud Anwender
 
 Über *Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK absenden* gelangen Sie in den Absendedialog. Dort wählen Sie den Button *Pfad ELDA-Win* an.
 
-![Image](<img/image179.png>)
+![Image](<img/image179.png>){width="500"}
 
 Es öffnet sich nun das ELDA Seriennummer-Fenster:
 

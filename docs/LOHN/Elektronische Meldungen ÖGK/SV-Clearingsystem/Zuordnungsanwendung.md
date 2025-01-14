@@ -1,4 +1,4 @@
-### Zuordnungsanwendung
+# Zuordnungsanwendung
 
 Die automatische Übernahme der Clearingfälle erfolgt mit Hilfe der ELDA-Software, die auch für die Übermittlung der Meldungen herangezogen wird. Hierfür muss aber zunächst sichergestellt werden, dass sämtliche Clearingfälle auch in der ELDA Software des zuständigen Dienstgebers bzw. der zuständigen Kanzlei landen.
 

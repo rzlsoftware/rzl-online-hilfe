@@ -1,3 +1,3 @@
-### Registerblatt - Überprüfung ÖGK-Daten
+# Überprüfung ÖGK-Daten
 
 In diesem Registerblatt kann für die elektronische Anmeldung, Abmeldung, Lohnzettel L16, Arbeits- und Entgeltbestätigung Kranken- und Wochengeld überprüft werden, ob alle Pflichtfelder angelegt sind, die für eine elektronische Übermittlung nötig sind. Das Anwählen der Schaltfläche *Prüfen* bewirkt unmittelbar den Ausdruck des Prüfberichtes mit einer detaillierten Fehlerbeschreibung.

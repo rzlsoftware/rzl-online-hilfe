@@ -1,4 +1,4 @@
-## Klientenübergreifende Übermittlung der Jahreslohnzettel
+# Klientenübergreifende Übermittlung der Jahreslohnzettel
 
 Über den Menüpunkt *Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* wählen Sie das gewünschte Jahr und die Klienten für die Übermittlung aus. Wechseln Sie nach der Eingabe des Monats (12) in das Registerblatt *Erstellung ÖGK-Datei (2)*.
 
@@ -12,7 +12,7 @@ Nachdem Sie auf *Erstellen* geklickt haben, erstellt das Lohnprogramm die Lohnze
 
 Es öffnet sich jetzt das Senden-Fenster. Dort klicken Sie jetzt noch auf *Senden*.
 
-![Image](<img/image196.png>)
+![Image](<img/image196.png>){width="500"}
 
 !!! warning "Hinweis"
     Bitte kontrollieren Sie in eigener Verantwortung, ob bei der klientenübergreifenden Erstellung der Meldungen, alle Meldungen erstellt und übermittelt wurden. Eine Prüfmöglichkeit könnte das Jahresabschlussprotokoll (*Klient / Drucken / Jahresauswertungen / Jahres-Abschlussprotokoll*) sein.

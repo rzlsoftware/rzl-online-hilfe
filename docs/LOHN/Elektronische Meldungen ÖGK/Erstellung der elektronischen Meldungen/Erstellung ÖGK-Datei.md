@@ -1,11 +1,11 @@
+# Erstellung ÖGK-Datei
+
 Die Erstellung der ÖGK-Datei erfolgt im Menüpunkt *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen.*
 
 !!! info "Tipp"
     Die ÖGK-Datei kann auch **klientenübergreifend** im Programmteil *Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* erstellt werden. Sämtliche elektronischen Meldungen können im Programmteil *Ausdruck* in Papierform ausgegeben werden.
 
-### Registerblatt - Erstellung ÖGK-Datei / Erstellung ÖGK-Datei
-
-![Image](<img/image181.png>)
+![Image](<img/image181.png>){width="600"}
 
 Eine Reihe von Meldungen werden automatisch beim Beenden der Abrechnung vorgeschlagen. Daneben besteht aber immer auch die Möglichkeit, in den ersten beiden Registerblättern des oben abgebildeten Programmteils, die diversen Meldungen auszuwählen und manuell zu erstellen.
 

@@ -1,8 +1,8 @@
-### Clearingfälle im RZL-Lohnprogramm
+# Clearingfälle im RZL-Lohnprogramm
 
 Die RZL-Lohnverrechnung prüft beim Programmstart, ob neue Clearingfälle in der ELDA-Software vorhanden sind, diese werden gegebenenfalls durch einen Hinweis angezeigt.
 
-![Image](<img/image205.png>)
+![Image](<img/image205.png>){width="300"}
 
 !!! info "Tipp"
     Wie bei den Krankenstandsbescheinigungen wird auch bei den Clearingfällen bei jeder „normalen“ ELDA-Übermittlung geprüft, ob neue Clearingfälle vorhanden sind.
@@ -21,7 +21,7 @@ Der Menüpunkt *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung
 
 Falls Sie aus dem Rückmeldetext keine Rückschlüsse auf den Fehler bzw. das Problem ziehen können, empfehlen wir vorab die Kontaktaufnahme mit der ÖGK. Allerdings sind manche Clearingfälle auch nur als Hinweis zu verstehen, welche nicht unbedingt eine entsprechende Korrektur erfordern.
 
-![Image](<img/image209.png>)
+![Image](<img/image209.png>){width="350"}
 
 Wurden die notwendigen Maßnahmen gesetzt, kann der Clearingfall über das Kontextmenü (*rechte Maustaste*) oder über die *F3-Taste* anschließend auf *geschlossen* gesetzt werden.
 
@@ -30,10 +30,10 @@ Im Clearingdialog finden Sie zudem noch diverse Filter-/Druckoptionen, sowie fü
 !!! info "Tipp"
     Es gibt wie bei den Krankenstandsbescheinigungen ebenso einen klientenübergreifenden (globalen) Dialog, der die Clearingfälle sämtlicher Klienten anzeigt. Dieser kann über den *Menüpunkt Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK – Clearingfälle* erreicht werden.
 
-![Image](<img/image210.png>)
+![Image](<img/image210.png>){width="500"}
 
 Die Clearingfälle zum Thema Verrechnungsgrundlage gibt es in den unterschiedlichsten Ausprägungen, weshalb es auch nicht möglich ist, einen einzigen Lösungsweg hierfür zu nennen. Die RZL-Lohnverrechnung versucht aufgrund diverser interner Prüfungen eine vom Standardfall 1 = „Zeit und Abrechnung in SV und BV“ abweichende Verrechnungsgrundlage zu ermitteln, z. B. im Falle von lang andauernden Krankenständen.
 
 Nachdem es noch einige Konstellationen gibt, die wir noch nicht automatisieren können, haben wir im Abrechnungsbildschirm *Sozialversicherung* die Möglichkeit geschaffen, diese Grundlage manuell zu steuern.
 
-![Image](<img/image211.png>)
+![Image](<img/image211.png>){width="400"}
