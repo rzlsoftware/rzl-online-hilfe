@@ -1,14 +1,14 @@
+# Electronic-Banking Abrechnungen Inland
+
 Im Programmteil *Bearbeiten / Elektronic Banking (SEPA)* können Sie Überweisungsdateien für die Abrechnungen der Dienstnehmer, für die Zahlungen an die Behörden (Abgaben) und für die mit dem Exekutionsmodul errechneten Exekutionsbeträge erstellt werden.
 
-## Electronic-Banking Abrechnungen Inland
+Durchgeführte Überweisungen von Lohnabrechnungen werden bei den einzelnen Dienstnehmern vermerkt. Damit ist sichergestellt, dass eine Überweisung nicht zweimal erfolgen kann. Ist es erforderlich, dass Sie die Überweisung nochmals ausdrucken bzw. die Überweisungsdatei nochmals erstellen, müssen Sie vorher ein [*Repair*](../Repair/Repair%20Überweisungen.md) der Überweisungen durchführen.
 
-Durchgeführte Überweisungen von Lohnabrechnungen werden bei den einzelnen Dienstnehmern vermerkt. Damit ist sichergestellt, dass eine Überweisung nicht zweimal erfolgen kann. Ist es erforderlich, dass Sie die Überweisung nochmals ausdrucken bzw. die Überweisungsdatei nochmals erstellen, müssen Sie vorher ein *Repair* (Kapitel 13.9, Seite [238](#repair-überweisungen)) der Überweisungen durchführen.
-
-![Image](<img/image212.png>)
+![Image](<img/image212.png>){width="500"}
 
 Im Eingabefeld *Monat* legen Sie fest, für welchen Monat die Überweisungen durchgeführt werden sollen. Anschließend müssen Sie festlegen, für welche Dienstnehmer überwiesen wird.
 
-Für die Überweisung legen Sie nun fest, von welchem Bankkonto (*Dienstgeber-Banken)* (Kapitel 2.1.1, Seite [23](#registerblatt-bank-überweisung-zahltag)) die Zahlung erfolgen soll.
+Für die Überweisung legen Sie nun fest, von welchem [Bankkonto](../Klientenstammdaten/Stammdaten Klient (Dienstgeber)/Bank, Überweisung, Zahltag.md) (*Dienstgeber-Banken)* die Zahlung erfolgen soll.
 
 **Dienstnehmer alphabetisch sortiert**
 

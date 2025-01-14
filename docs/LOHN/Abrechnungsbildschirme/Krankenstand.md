@@ -16,7 +16,7 @@ Wenn *Abrechnung in Arbeitstage* angewählt wurde, müssen im Bereich der Arbeit
 
 ![Image](<img/image129.png>){width="500"}
 
-In diesem Bereich können die Krankenstandstage eingetragen werden. Die Eintragung kann manuell erfolgen oder durch eine automatische [Übernahme der Krankenstandsbescheinigungen](../Elektronische%20Meldungen%20ÖGK/Krankenstandsbescheinigungen/Krankenstandsbescheinigungen%20herunterladen%20und%20übernehmen.md) von Elda.
+In diesem Bereich können die Krankenstandstage eingetragen werden. Die Eintragung kann manuell erfolgen oder durch eine automatische [Übernahme der Krankenstandsbescheinigungen](../Elektronische%20Meldungen%20ÖGK/Krankenstandsbescheinigungen.md) von Elda.
 
 Im Feld *von … bis* wird der Zeitraum des Krankenstandes eingetragen. Im Feld *Dauer* wird aufgrund der Einstellungen im Bereich *Allgemeines* (siehe oben) die Anzahl der Kalender- oder Arbeitstage eingetragen. Pro Krankenstandzeile kann ausgewählt werden, ob es sich um eine *Krankheit*, einen *Arbeitsunfall* oder einen *Freizeitunfall* handelt.
 

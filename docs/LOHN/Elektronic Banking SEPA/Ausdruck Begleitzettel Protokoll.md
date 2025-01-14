@@ -1,8 +1,8 @@
-## Ausdruck Begleitzettel / Protokoll
+# Ausdruck Begleitzettel / Protokoll
 
 Durch Anwahl von *Bearbeiten / Elektronic Banking (SEPA) / Protokoll/Begleitzettel* wird folgender Programmteil aufgerufen:
 
-![Image](<img/image217.png>)
+![Image](<img/image217.png>){width="500"}
 
 Mit Hilfe dieses Programmteils können Sie ein Protokoll bezüglich der durchgeführten Überweisungen, die im Rahmen des Zahlungsverkehrs erstellt wurden, ausgeben. Dieses Protokoll dient lediglich zur Information.
 

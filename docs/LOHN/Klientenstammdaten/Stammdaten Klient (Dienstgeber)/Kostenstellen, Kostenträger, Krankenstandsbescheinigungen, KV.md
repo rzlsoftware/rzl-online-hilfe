@@ -8,7 +8,7 @@ Wenn das Feld *Einzelzuordnung freier Lohnarten zu Kostenstellen* aktiviert wird
 
 **Krankenstandsbescheinigungen**
 
-Damit die über Elda automatisch heruntergeladenen [Krankenstandsbescheinigungen](../../Elektronische%20Meldungen%20ÖGK/Krankenstandsbescheinigungen/Import%20Krankenstandsbescheinigungen.md) in den Klienten und den Abrechnungsbildschirm *Krankenstand* übernommen werden können, muss dieses Feld aktiviert werden.
+Damit die über Elda automatisch heruntergeladenen [Krankenstandsbescheinigungen](../../Elektronische%20Meldungen%20ÖGK/Krankenstandsbescheinigungen.md) in den Klienten und den Abrechnungsbildschirm *Krankenstand* übernommen werden können, muss dieses Feld aktiviert werden.
 
 **Besonderer Dienstgeber**
 
