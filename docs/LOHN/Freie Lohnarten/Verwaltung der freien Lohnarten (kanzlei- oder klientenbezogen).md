@@ -1,4 +1,4 @@
-## Verwaltung der freien Lohnarten (kanzlei- oder klientenbezogen)
+# Verwaltung der freien Lohnarten (kanzlei- oder klientenbezogen)
 
 Die freien Lohnarten werden entweder klientenbezogen im Programmteil *Stamm / Lohnarten* oder als Kanzleilohnarten-Tabelle im Programmteil *Klient / Kanzlei / Lohnarten* verwaltet.
 

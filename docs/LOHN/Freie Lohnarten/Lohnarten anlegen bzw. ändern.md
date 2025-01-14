@@ -1,6 +1,4 @@
-## Lohnarten anlegen / ändern
-
-### Allgemeine Anmerkungen
+# Lohnarten anlegen / ändern
 
 Werden individuelle Lohnarten angelegt, so liegt die Verantwortung hinsichtlich der Definition der SV-Pflichtigkeit, LSt-Pflichtigkeit, DB-Pflichtigkeit und KommSt-Pflichtigkeit ausschließlich beim Anwender. Eine falsch definierte Lohnart kann eine falsche Berechnung der Sozialversicherung, Lohnsteuer, DB und Kommunalsteuer bewirken. Die entsprechenden Einstellungen sind daher gewissenhaft vorzunehmen.
 
@@ -10,8 +8,6 @@ Werden individuelle Lohnarten angelegt, so liegt die Verantwortung hinsichtlich 
 Lediglich hinsichtlich der Zuordnung der Lohnart in den Eingabefeldern „Bemessung Sonderzahlung“ bis „Bemessung Urlaubsrückstellung Sonderzahlung“ kann eine spätere Korrektur erfolgen. Ein Repair der Bemessungsgrundlagen ist nachfolgend notwendig.
 
 ![Image](<img/image146.png>)
-
-### Beschreibung der Eingabefelder
 
 **Nummer**
 
@@ -75,65 +71,19 @@ Die Aufwandsentschädigung wird immer im unteren Teil der Lohnabrechnung angedru
 
 Festlegung der Sozialversicherungs-Pflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
 
-<table>
-<colgroup>
-<col style="width: 5%" />
-<col style="width: 94%" />
-</colgroup>
-<thead>
-<tr>
-<th>0</th>
-<th>SV-frei</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>SV-pflichtig laufender Bezug</td>
-</tr>
-<tr>
-<td>2</td>
-<td>SV-pflichtig, Sonderzahlung</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Erhöhung der SV-Bemessungsgrundlage laufender Bezug (z. B.
-Trinkgeld)</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Erhöhung der SV-Bemessungsgrundlage Sonderzahlung</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Erhöhung der SV-Bemessungsgrundlage laufender Bezug
-(Altersteilzeit)<br />
-(kein ANA) vgl. Kapitel 37.3 Abrechnung Altersteilzeit, Seite <a
-href="#abrechnung-altersteilzeit">433</a></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Erhöhung der SV-Bemessungsgrundlage Sonderzahlung
-(Altersteilzeit)<br />
-(kein ANA) vgl. Kapitel 37.3 Abrechnung Altersteilzeit, Seite <a
-href="#abrechnung-altersteilzeit">433</a></td>
-</tr>
-<tr>
-<td>7</td>
-<td>nur BV-pflichtig</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Erhöhung der SV-Bemessungsgrundlage laufender Bezug (kein AnA bei SV
-und Nebenbeiträgen)</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Erhöhung der SV-Bemessungsgrundlage Sonderzahlung (kein AnA bei SV
-und Nebenbeiträgen)</td>
-</tr>
-</tbody>
-</table>
+| SV-Pflichtigkeit |                                                                                                                                                 |
+| :--------------: | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+|        0         | SV-frei                                                                                                                                         |
+|        1         | SV-pflichtig laufender Bezug                                                                                                                    |
+|        2         | SV-pflichtig, Sonderzahlung                                                                                                                     |
+|        3         | Erhöhung der SV-Bemessungsgrundlage laufender Bezug (z. B. Trinkgeld)                                                                           |
+|        4         | Erhöhung der SV-Bemessungsgrundlage Sonderzahlung                                                                                               |
+|        5         | Erhöhung der SV-Bemessungsgrundlage laufender Bezug ([Altersteilzeit](../Abrechnungen%20Sonderfälle/Abrechnung%20Altersteilzeit.md)) (kein ANA) |
+|        6         | Erhöhung der SV-Bemessungsgrundlage Sonderzahlung ([Altersteilzeit](../Abrechnungen%20Sonderfälle/Abrechnung%20Altersteilzeit.md)) (kein ANA)   |
+|        7         | nur BV-pflichtig                                                                                                                                |
+|        8         | Erhöhung der SV-Bemessungsgrundlage laufender Bezug (kein AnA bei SV und Nebenbeiträgen)                                                        |
+|        9         | Erhöhung der SV-Bemessungsgrundlage Sonderzahlung (kein AnA bei SV und Nebenbeiträgen)                                                          |
+
 
 **Befreiung von Nebenbeiträgen**
 
@@ -145,61 +95,64 @@ Für die SV-Pflichtigkeiten von 1 bis 6 und 8 bis 9 besteht durch Anwahl der *F2
 
 Festlegung der Lohnsteuer-Pflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
 
-| 0   | steuerfrei gem. § 68 (1) und Nachtarbeit § 68 (6)                                                                                                                                                                                                                                       |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | LSt laufender Bezug                                                                                                                                                                                                                                                                     |
-| 2   | LSt gem. § 67 (1) und (2) mit Freibetrag von EUR 620,00 mit Sechstelbestimmung                                                                                                                                                                                                          |
-| 3   | LSt gem. § 67 (3) ohne Freibetrag von EUR 620,00, ohne Sechstelbestimmung                                                                                                                                                                                                               |
-| 4   | LSt Auslandsbezug                                                                                                                                                                                                                                                                       |
-| 5   | steuerfrei gemäß § 3 EstG, nicht sechstelerhöhend                                                                                                                                                                                                                                       |
-| 6   | Aufwandsentschädigung § 26 (4) EStG                                                                                                                                                                                                                                                     |
-| 7   | LSt-Berechnung Belastungsprozentsatz                                                                                                                                                                                                                                                    |
-| 11  | LSt gem. § 67 (7) EstG (Erfindungen)                                                                                                                                                                                                                                                    |
-| 12  | Werbungskosten: mindern nur die LSt-Bemessungsgrundlage ­ bei den anderen Pflichtigkeiten jeweils Null eingeben. Wenn diese Position auch vom Nettobezug abgezogen werden soll, muss sie auch als eigene Abzugslohnart definiert werden.                                                |
-| 13  | Rückgezahlter Arbeitslohn: eigene Position der Werbungskosten, mindern nur die LSt-Bemessungsgrundlage ­ bei den anderen Pflichtigkeiten jeweils Null eingeben. Wenn diese Position auch vom Nettobezug abgezogen werden soll, muss sie auch als eigene Abzugslohnart definiert werden. |
-| 14  | steuerfrei gem. § 3 EStG, sechstelerhöhend                                                                                                                                                                                                                                              |
-| 15  | LSt gem. § 67 (6,10) laufender Tarif                                                                                                                                                                                                                                                    |
-| 16  | LSt-Auslandsbezug Sonderzahlung gem. § 67 (1)                                                                                                                                                                                                                                           |
-| 17  | frei gemäß § 25 (1) Z 2a                                                                                                                                                                                                                                                                |
-| 18  | LSt gem. § 67 (8a)                                                                                                                                                                                                                                                                      |
-| 19  | LSt gem. § 67 (8 e,f)                                                                                                                                                                                                                                                                   |
-| 20  | Werbungskosten SV (KZ 230)                                                                                                                                                                                                                                                              |
-| 21  | Arbeitgeberbeitrag ausländische Pensionskasse (§ 26 Z 7)                                                                                                                                                                                                                                |
-| 22  | Werbungskosten SV (KZ 225)                                                                                                                                                                                                                                                              |
-| 24  | LSt Auslandsbezug gem. § 68 (1)                                                                                                                                                                                                                                                         |
-| 26  | steuerfrei gem. § 3 Abs. 1 Z 16c EStG                                                                                                                                                                                                                                                   |
-| 27  | LSt gem. § 67 (8c) – für Nachzahlungen                                                                                                                                                                                                                                                  |
-| 28  | LSt gem. § 67 (8g) – für Nachzahlungen Insolvenzverfahren                                                                                                                                                                                                                               |
-| 29  | Werbungskosten SV (KZ 226)                                                                                                                                                                                                                                                              |
-| 30  | Kostenübernahme § 26(5 b) – Öffi-Ticket                                                                                                                                                                                                                                                 |
-| 31  | Steuerfrei gem. § 3 Abs. 1 Z 35 EstG – Mitarbeitergewinnbeteiligung                                                                                                                                                                                                                     |
-| 32  | Steuerfrei gem. § 124b Z 447 EStG – Mitarbeiterprämie (Teuerungspr.)                                                                                                                                                                                                                    |
-| 33  | Aufwandsentschädigung Ausland § 26 (4) EstG                                                                                                                                                                                                                                             |
-| 34  | Werbungskosten gem. § 16 Abs 1 Z 3 b – freiw. Beiträge                                                                                                                                                                                                                                  |
-| 35  | Werbungskosten SV (KZ 226 – Abzug Bem. LSt. fest)                                                                                                                                                                                                                                       |
-| 36  | LSt. gem. § 67a (4) Z 2 – Start-Up-Mitarbeiterbeteiligung (27,5%)                                                                                                                                                                                                                       |
+| LSt-Pflichtigkeit |                                                                                                                                                                                                                                                                                         |
+| :---------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|         0         | steuerfrei gem. § 68 (1) und Nachtarbeit § 68 (6)                                                                                                                                                                                                                                       |
+|         1         | LSt laufender Bezug                                                                                                                                                                                                                                                                     |
+|         2         | LSt gem. § 67 (1) und (2) mit Freibetrag von EUR 620,00 mit Sechstelbestimmung                                                                                                                                                                                                          |
+|         3         | LSt gem. § 67 (3) ohne Freibetrag von EUR 620,00, ohne Sechstelbestimmung                                                                                                                                                                                                               |
+|         4         | LSt Auslandsbezug                                                                                                                                                                                                                                                                       |
+|         5         | steuerfrei gemäß § 3 EstG, nicht sechstelerhöhend                                                                                                                                                                                                                                       |
+|         6         | Aufwandsentschädigung § 26 (4) EStG                                                                                                                                                                                                                                                     |
+|         7         | LSt-Berechnung Belastungsprozentsatz                                                                                                                                                                                                                                                    |
+|        11         | LSt gem. § 67 (7) EstG (Erfindungen)                                                                                                                                                                                                                                                    |
+|        12         | Werbungskosten: mindern nur die LSt-Bemessungsgrundlage ­ bei den anderen Pflichtigkeiten jeweils Null eingeben. Wenn diese Position auch vom Nettobezug abgezogen werden soll, muss sie auch als eigene Abzugslohnart definiert werden.                                                |
+|        13         | Rückgezahlter Arbeitslohn: eigene Position der Werbungskosten, mindern nur die LSt-Bemessungsgrundlage ­ bei den anderen Pflichtigkeiten jeweils Null eingeben. Wenn diese Position auch vom Nettobezug abgezogen werden soll, muss sie auch als eigene Abzugslohnart definiert werden. |
+|        14         | steuerfrei gem. § 3 EStG, sechstelerhöhend                                                                                                                                                                                                                                              |
+|        15         | LSt gem. § 67 (6,10) laufender Tarif                                                                                                                                                                                                                                                    |
+|        16         | LSt-Auslandsbezug Sonderzahlung gem. § 67 (1)                                                                                                                                                                                                                                           |
+|        17         | frei gemäß § 25 (1) Z 2a                                                                                                                                                                                                                                                                |
+|        18         | LSt gem. § 67 (8a)                                                                                                                                                                                                                                                                      |
+|        19         | LSt gem. § 67 (8 e,f)                                                                                                                                                                                                                                                                   |
+|        20         | Werbungskosten SV (KZ 230)                                                                                                                                                                                                                                                              |
+|        21         | Arbeitgeberbeitrag ausländische Pensionskasse (§ 26 Z 7)                                                                                                                                                                                                                                |
+|        22         | Werbungskosten SV (KZ 225)                                                                                                                                                                                                                                                              |
+|        24         | LSt Auslandsbezug gem. § 68 (1)                                                                                                                                                                                                                                                         |
+|        26         | steuerfrei gem. § 3 Abs. 1 Z 16c EStG                                                                                                                                                                                                                                                   |
+|        27         | LSt gem. § 67 (8c) – für Nachzahlungen                                                                                                                                                                                                                                                  |
+|        28         | LSt gem. § 67 (8g) – für Nachzahlungen Insolvenzverfahren                                                                                                                                                                                                                               |
+|        29         | Werbungskosten SV (KZ 226)                                                                                                                                                                                                                                                              |
+|        30         | Kostenübernahme § 26(5 b) – Öffi-Ticket                                                                                                                                                                                                                                                 |
+|        31         | Steuerfrei gem. § 3 Abs. 1 Z 35 EstG – Mitarbeitergewinnbeteiligung                                                                                                                                                                                                                     |
+|        32         | Steuerfrei gem. § 124b Z 447 EStG – Mitarbeiterprämie (Teuerungspr.)                                                                                                                                                                                                                    |
+|        33         | Aufwandsentschädigung Ausland § 26 (4) EstG                                                                                                                                                                                                                                             |
+|        34         | Werbungskosten gem. § 16 Abs 1 Z 3 b – freiw. Beiträge                                                                                                                                                                                                                                  |
+|        35         | Werbungskosten SV (KZ 226 – Abzug Bem. LSt. fest)                                                                                                                                                                                                                                       |
+|        36         | LSt. gem. § 67a (4) Z 2 – Start-Up-Mitarbeiterbeteiligung (27,5%)                                                                                                                                                                                                                       |
 
 **DB-Pflichtigkeit**
 
 Festlegung der DB-Pflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
 
-| 0   | DB-frei                                  |
-| --- | ---------------------------------------- |
-| 1   | DB-pflichtig                             |
-| 2   | Aufwandsentschädigung gemäß § 26 EstG    |
-| 3   | nur Erhöhung der DB-Bemessungsgrundlagen |
-| 4   | Erhöhung gemäß ATZ 2017                  |
+| DB-Pflichtigkeit |                                          |
+| :--------------: | ---------------------------------------- |
+|        0         | DB-frei                                  |
+|        1         | DB-pflichtig                             |
+|        2         | Aufwandsentschädigung gemäß § 26 EstG    |
+|        3         | nur Erhöhung der DB-Bemessungsgrundlagen |
+|        4         | Erhöhung gemäß ATZ 2017                  |
 
 **KommSt-Pflichtigkeit**
 
 Festlegung der KommSt-Pflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
 
-| 0   | KommSt-frei                                  |
-| --- | -------------------------------------------- |
-| 1   | KommSt-pflichtig                             |
-| 2   | Aufwandsentschädigung gemäß § 26 EstG        |
-| 3   | nur Erhöhung der KommSt-Bemessungsgrundlagen |
-| 4   | Erhöhung gemäß ATZ 2017                      |
+| KommSt-Pflichtigkeit |                                              |
+| -------------------- | -------------------------------------------- |
+| 0                    | KommSt-frei                                  |
+| 1                    | KommSt-pflichtig                             |
+| 2                    | Aufwandsentschädigung gemäß § 26 EstG        |
+| 3                    | nur Erhöhung der KommSt-Bemessungsgrundlagen |
+| 4                    | Erhöhung gemäß ATZ 2017                      |
 
 **LA (2)**
 
@@ -219,7 +172,7 @@ Wenn Sie dieses Feld anhaken, wird die Lohnart als *KV-Bezug* deklariert. Dies b
 
 **Bemessung SZ**
 
-Wird dieses Feld aktiviert, wird die freie Lohnart in der Sonderzahlungsberechnung miteingerechnet, wenn im Zuge der Abrechnung mit Lohnformeln gearbeitet wird. (vgl. Kapitel 30 Lohn-Formeln, Seite [348](#_Toc153598672)).
+Wird dieses Feld aktiviert, wird die freie Lohnart in der Sonderzahlungsberechnung miteingerechnet, wenn im Zuge der Abrechnung mit [Lohnformeln](../Lohnformeln/Formelsyntax/) gearbeitet wird.
 
 **Monatsschnitt**
 
@@ -280,7 +233,7 @@ Festlegung, ob die Lohnart bei Berechnung der Zeitausgleichsrückstellung in die
 Damit die Mitarbeiterrabatte korrekt berechnet werden können, wählen Sie hier aus, ob es sich um Mitarbeiterrabatte unter 20 % handelt.
 
 !!! info "Tipp"
-    Bezüglich Exekutionen vergleiche Kapitel 22 Exekutionen, Seite [302](#section-16).
+    Bezüglich Exekutionen vergleiche [Exekutionen](../Exekutionen/Exekutionsberechnung.md).
 
 **Teilentgelt**
 
@@ -316,7 +269,7 @@ Wenn diese Option aktiviert ist, wird die freie Lohnart ohne Überstundengrundlo
 
 Es gibt drei Möglichkeiten den Stundensatz für die Berechnung der Überstunden zu ermitteln bzw. in das Feld *Basis* der freien Lohnart einzutragen.
 
-1.  **Verwendung USt.-Grunddaten**
+**1. Verwendung USt.-Grunddaten**
 
 Wenn das Feld *Verwendung ÜSt.-Grunddaten* aktiviert ist, übernimmt das Programm die Einstellungen (Überstundenteiler oder abw. Überstundengrundlohn) aus dem Abrechnungsbildschirm *Über-/Mehrarbeitsstunden/Zeitausgleich.*
 
@@ -324,7 +277,7 @@ Wenn das Feld *Verwendung ÜSt.-Grunddaten* aktiviert ist, übernimmt das Progra
 
 Die Ermittlung der Basis der freien Lohnart erfolgt automatisch und kann auch nicht geändert werden (Feld ist ausgegraut).
 
-2.  **Eintragung des Überstunden-Teilers (ÜSt)**
+**2. Eintragung des Überstunden-Teilers (ÜSt)**
 
 Wird das Feld *Verwendung ÜSt-Grunddaten* deaktiviert, kann der Überstundenteiler direkt bei der freien Lohnart eingetragen werden.
 
@@ -332,7 +285,7 @@ Wird das Feld *Verwendung ÜSt-Grunddaten* deaktiviert, kann der Überstundentei
 
 Die Ermittlung der Basis erfolgt ebenfalls automatisch und kann nicht geändert werden.
 
-3.  **Keine Verwendung der Grunddaten – keine Eintragung bei     ÜSt-Teiler**
+1.  **Keine Verwendung der Grunddaten – keine Eintragung bei     ÜSt-Teiler**
 
 ![Image](<img/image154.png>)
 
