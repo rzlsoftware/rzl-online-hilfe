@@ -147,13 +147,13 @@ Eine Aufgabe kann mit der Eigenschaft *Priorität hoch* und/oder
 
 #### Kategorie
 
-In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Die Kategorie ist ein
+In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](../Erste%20Schritte/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Die Kategorie ist ein
 wichtiger Eintrag für die strukturierte Ablage und für die [Suche innerhalb der Aufgaben](../Allgemeine%20Programmbedienung/Programmstart%20und%20mögliche%20Funktionen.md/#moglichkeiten-der-listengestaltung).
 
 
 #### Thema
 
-In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Themen](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Das Thema ist ebenfalls ein
+In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Themen](../Erste%20Schritte/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Das Thema ist ebenfalls ein
 wichtiger Eintrag für die strukturierte Ablage und für die [Suche innerhalb der Aufgaben](../Allgemeine%20Programmbedienung/Programmstart%20und%20mögliche%20Funktionen.md/#moglichkeiten-der-listengestaltung).
 
 #### Aktivität/Zeitraum

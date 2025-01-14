@@ -75,12 +75,12 @@ bearbeitet vorgeschlagen.
 
 ### Kategorie
 
-In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Die Kategorie ist ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
+In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](../Erste%20Schritte/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Die Kategorie ist ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
 innerhalb der Posteingänge bzw. Ereignisse.
 
 ### Thema
 
-Im Bereich [*Thema*](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) wählen Sie zwischen den in der Verwaltung angelegten Themen aus. Wie die Kategorie ist das Thema  ebenfalls ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
+Im Bereich [*Thema*](../Erste%20Schritte/Anlage%20von%20Themen%20und%20Kategorien.md) wählen Sie zwischen den in der Verwaltung angelegten Themen aus. Wie die Kategorie ist das Thema  ebenfalls ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
 innerhalb der Posteingänge bzw. Ereignisse.
 
 ### Betreff
@@ -206,12 +206,12 @@ bearbeitet vorgeschlagen.
 
 ### Kategorie
 
-In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Die Kategorie ist ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
+In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](../Erste%20Schritte/Anlage%20von%20Themen%20und%20Kategorien.md) aus. Die Kategorie ist ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
 innerhalb der Postausgänge bzw. Ereignisse.
 
 ### Thema
 
-Im Bereich [*Thema*](../Basisarbeit/Anlage%20von%20Themen%20und%20Kategorien.md) wählen Sie zwischen den in der Verwaltung angelegten Themen aus. Wie die Kategorie ist das Thema  ebenfalls ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
+Im Bereich [*Thema*](../Erste%20Schritte/Anlage%20von%20Themen%20und%20Kategorien.md) wählen Sie zwischen den in der Verwaltung angelegten Themen aus. Wie die Kategorie ist das Thema  ebenfalls ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
 innerhalb der Postausgänge bzw. Ereignisse.
 
 ### Betreff

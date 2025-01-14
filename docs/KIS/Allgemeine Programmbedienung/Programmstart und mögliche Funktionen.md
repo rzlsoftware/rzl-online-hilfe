@@ -411,7 +411,7 @@ Dokumentenliste angewandt. Einen aktiven Filter erkennt man an der
 grauen Leiste unterhalb des Ribbons. Der im Expertenmodus angelegte
 Filter kann mit einem Klick auf *Filter speichern* gespeichert werden.
 Durch einen Klick auf *Alle aktiven Filter löschen* werden die
-angelegten Filterbedingungen wieder gelöscht. (vgl. Kap. 11.6 *Filter*).
+angelegten Filterbedingungen wieder gelöscht.
 
 ![aktiver Filter innerhalb der Dokumentenliste](<img/image40.png>)
 
