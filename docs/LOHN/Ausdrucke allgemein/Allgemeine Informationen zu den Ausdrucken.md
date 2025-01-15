@@ -1,4 +1,4 @@
-# Ausdrucke allgemein
+# Allgemeine Informationen zu den Ausdrucken
 
 Bevor mit dem Ausdruck begonnen wird, sollte sichergestellt sein, dass der Drucker korrekt installiert wurde (Testseite), angeschlossen und auch eingeschaltet ist.
 
@@ -13,4 +13,4 @@ Weiters können fast alle Ausdrucke, bevor diese an den Drucker weitergeleitet w
     Mit der Schaltfläche *DFV-wählen* (Druckformatvorlagen) kann vor jedem Ausdruck temporär eine abweichende DFV angewählt werden. Es gibt drei Kategorien von Vorlagen (*persönlich*, *arbeitsplatzbezogen*, *allgemein*). Nähere Informationen finden Sie ebenfalls im oben angeführten Handbuch.
 
 !!! info "Tipp"
-    Die überwiegende Anzahl der Ausdrucke im Lohnverrechnungsprogramm kann im Programmteil *Klient/Drucken* klientenübergreifend durchgeführt werden. Zusätzlich besteht die Möglichkeit, sowohl innerhalb des Klienten als auch klientenübergreifend mit Druckreihenfolgen zu arbeiten.
+    Die überwiegende Anzahl der Ausdrucke im Lohnverrechnungsprogramm kann im Programmteil *Klient / Drucken* klientenübergreifend durchgeführt werden. Zusätzlich besteht die Möglichkeit, sowohl innerhalb des Klienten als auch klientenübergreifend mit Druckreihenfolgen zu arbeiten.

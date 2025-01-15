@@ -1,10 +1,10 @@
-## Ausdruck Druckreihenfolge
+# Ausdruck Druckreihenfolge
 
 Im Programmteil *Ausdruck / Druckreihenfolge* kann eine Liste mit den benötigten Ausdrucken erstellt werden (z. B. Abrechnungen, Lohnjournal, Auszahlungsjournal). Diese erstellte Liste braucht dann nur mehr angewählt werden und die gewünschten Ausdrucke erfolgen in der festgelegten Reihenfolge.
 
 Die Druckreihenfolge kann auch klientenübergreifend im Programmteil *Klient / Drucken / Druckreihenfolge* verwendet bzw. erstellt werden.
 
-![Image](<img/image235.png>)
+![Image](<img/image235.png>){width="500"}
 
 Die Registerblätter beinhalten die Druckoptionen für die einzelnen möglichen Ausdrucke der Druckreihenfolge. Die eingestellten Druckoptionen können durch Anwahl der Schaltfläche *Optionen speichern* (rechts oben) abgespeichert werden.
 
@@ -16,7 +16,7 @@ Die Registerblätter beinhalten die Druckoptionen für die einzelnen möglichen 
 
 Durch Anwahl der Schaltfläche *Drucken* wird die ausgewählte Druckreihenfolge mit den einzelnen Ausdrucken, die diese Druckreihenfolge beinhaltet, in der festgelegten Reihenfolge ausgedruckt.
 
-### Erstellung / Aufbau der Druckreihenfolge
+## Erstellung / Aufbau der Druckreihenfolge
 
 Die Auswahl der zu exportierenden Daten erfolgt im Bereich *Druckreihenfolge*. Im Bereich *Zuordnung* wird die Verfügbarkeit der Druckreihenfolge angezeigt.
 
@@ -34,13 +34,13 @@ Wird als Zuordnung *Persönlich* ausgewählt, dann kann die Druckreihenfolge nur
 
 Nach Auswahl der gewünschten Zuordnung ist die Schaltfläche *Einstellungen* anzuwählen und es wird folgender Dialog aufgerufen:
 
-![Image](<img/image236.png>)
+![Image](<img/image236.png>){width="300"}
 
 In den Registerblättern *Allgemein, Arbeitsplatz, Persönlich* sind die bereits erstellten Listen eingetragen. Durch Anwahl der Schaltfläche *Ändern* kann eine bereits erstellte Liste bearbeitet werden. Durch Anwahl der Schaltfläche *Löschen* wird die im jeweiligen Registerblatt farblich hinterlegte (markierte) Liste gelöscht.
 
 Zur Erstellung einer Liste ist die Schaltfläche *Neu* anzuwählen und es wird folgender Dialog aufgerufen:
 
-![Image](<img/image237.png>)
+![Image](<img/image237.png>){width="500"}
 
 **Registerblatt Allgemein**
 
@@ -50,7 +50,7 @@ Im Registerblatt *Allgemein* wird der Name und ein eventueller Kommentar dazu ei
 
 Im Registerblatt *Felder* findet die Auswahl der Ausdrucke, die in die Druckreihenfolge übernommen werden sollen, statt. Im Listenfeld *Felder* (am Bildschirm links) werden sämtliche Ausdrucke angezeigt, die ausgewählt werden können.
 
-![Image](<img/image238.png>)
+![Image](<img/image238.png>){width="500"}
 
 Durch Anwahl des +(plus)-Feldes vor dem jeweiligen Datenordner wird die darunterliegende hierarchische Datenstruktur geöffnet. Es werden jene Felder in die Druckreihenfolge übernommen, die entweder mittels *Leertaste* oder *Maus* aktiviert werden. Die Aktivierung wird im Listenfeld *Felder* durch ein Häkchen im Kästchen vor den jeweiligen Datenordnern angezeigt.
 

@@ -1,20 +1,6 @@
-## Ausdruck Lohnzettel
+# Ausdruck Lohnzettel
 
 Im Programmteil *Ausdruck / Ausdruck Lohnzettel* stehen folgende Möglichkeiten des Ausdrucks zur Verfügung:
-
-- Lohnzettel
-
-- Mitteilung gemäß § 109 EstG (E18)
-
-- Reiseaufwandsentsch. Sportler (L19)
-
-- Lohnzettel mit Lohnnebenkosten
-
-- Mitteilung über Lohnnebenkosten
-
-- Fehlende DBA-Länder (LZ Art 8)
-
-Für alle Möglichkeiten des Ausdruckes gelten die oben angeführten Möglichkeiten betreffend einzelne Dienstnehmer, des Klienten und der Unterdienstgeber.
 
 **Lohnzettel**
 

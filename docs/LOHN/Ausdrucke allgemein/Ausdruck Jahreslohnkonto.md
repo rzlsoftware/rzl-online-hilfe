@@ -1,4 +1,4 @@
-## Ausdruck Jahreslohnkonto
+# Ausdruck Jahreslohnkonto
 
 Im Menüpunkt *Ausdruck / Jahreslohnkonto* wird der Ausdruck des Jahreslohnkontos eines Dienstnehmers ermöglicht. Das Jahreslohnkonto wird tabellarisch mit Spalten für die einzelnen Monate und einer Jahressumme, nach den für die Lohnverrechnung wichtigen Kriterien, dargestellt. Weiters werden alle erforderlichen Stammdaten gemäß § 76 EStG 1988 ausgedruckt. Um das Jahreslohnkonto *im Detail* auszudrucken, ist das Auswahlfeld *Lohnkonto im Detail* anzuwählen.
 

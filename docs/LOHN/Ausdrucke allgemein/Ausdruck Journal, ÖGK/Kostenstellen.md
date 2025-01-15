@@ -1,10 +1,10 @@
-### Kostenstellen
+# Kostenstellen
 
-Durch Anwahl des Menüpunktes *Ausdruck / Ausdruck Journal / ÖGK / Kostenstellen* wird eine aufsteigend nach Kostenstellen gegliederte Zusammenfassung der in den einzelnen Kostenstellen angefallenen Lohn und Lohnnebenkosten je Dienstnehmer gedruckt. Voraussetzung dafür ist jedoch, dass bei der Anlage des Dienstnehmers im Eingabebildschirm *Kostenstelle/Kostenträger* (Kapitel 5.23, Seite [131](#kostenstellekostenträger)) eine Zuordnung zu den Kostenstellen vorgenommen wurde.
+Durch Anwahl des Menüpunktes *Ausdruck / Ausdruck Journal / ÖGK / Kostenstellen* wird eine aufsteigend nach Kostenstellen gegliederte Zusammenfassung der in den einzelnen Kostenstellen angefallenen Lohn und Lohnnebenkosten je Dienstnehmer gedruckt. Voraussetzung dafür ist jedoch, dass bei der Anlage des Dienstnehmers im Eingabebildschirm [*Kostenstelle/Kostenträger*](../../Abrechnungsbildschirme/Kostenstellen%20und%20Kostenträger.md) eine Zuordnung zu den Kostenstellen vorgenommen wurde.
 
-![Image](<img/image227.png>)
+![Image](<img/image227.png>){width="500"}
 
-**Dienstnehmer alphabetisch sortiert**
+**Dienstnehmer alphabetisch sort
 
 Durch Anwahl dieser Option werden die *Dienstnehmer alphabetisch sortiert* ausgedruckt.
 

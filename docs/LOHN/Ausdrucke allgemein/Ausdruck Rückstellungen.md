@@ -1,3 +1,3 @@
-## Ausdruck Rückstellungen
+# Ausdruck Rückstellungen
 
-Vgl. Kapitel 17 Rückstellungen, Seite [251](#section-11)
+Vgl. [Rückstellungen](../Rückstellungen/Stammdaten.md)

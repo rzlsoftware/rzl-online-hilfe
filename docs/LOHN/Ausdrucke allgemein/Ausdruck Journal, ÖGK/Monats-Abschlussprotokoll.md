@@ -1,4 +1,4 @@
-### Monats – Abschlussprotokoll
+# Monats–Abschlussprotokoll
 
 Das Monats-Abschlussprotokoll kann für das im Feld *Monat* eingetragene Monat ausgedruckt werden.
 

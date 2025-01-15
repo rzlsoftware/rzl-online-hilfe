@@ -1,4 +1,4 @@
-### Dienstgeber – Gesamtkosten
+# Dienstgeber–Gesamtkosten
 
 Dieser Programmteil ermöglicht den Ausdruck der Dienstgeber-Gesamtkosten in einer Liste mit den einzelnen Dienstnehmern.
 

@@ -1,4 +1,4 @@
-### Kostenstellen-Lohnarten
+# Kostenstellen-Lohnarten
 
 In der Liste der *Kostenstellen-Lohnarten* werden je Kostenstelle die angefallenen Lohnarten, sowie die Lohnnebenkosten angeführt.
 
@@ -16,4 +16,4 @@ Soll der Ausdruck pro Kostenstelle auf einer eigenen Seite erfolgen, ist dieses 
 
 **Detail BUAK**
 
-Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich *BUAK* eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden (vgl. Kapitel 5.11, Seite [105](#_Ref266258853)). Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
+Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../../Abrechnungsbildschirme/Fixe%20Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.

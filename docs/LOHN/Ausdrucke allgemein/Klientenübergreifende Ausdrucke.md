@@ -1,4 +1,4 @@
-## Klientenübergreifende Ausdrucke
+# Klientenübergreifende Ausdrucke
 
 Im Programmteil *Klient / Drucken* kann die überwiegende Mehrzahl, der innerhalb des Klienten möglichen Ausdrucke für mehrere oder alle Klienten (klientenübergreifend) gleichzeitig erfolgen.
 
