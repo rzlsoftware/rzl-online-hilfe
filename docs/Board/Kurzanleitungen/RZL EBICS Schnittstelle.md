@@ -126,10 +126,37 @@ Unter Ungebuchte CAMT Dateien (3) finden Sie eine Übersicht, welche CAMT Dateie
 
 In dieser Übersicht können Sie ebenso die noch nicht gebuchten CAMT Dateien exportieren oder löschen.
 
+
+## Verarbeitung von CAMT Retourdaten mit EBICS
+
+Die abgerufenen CAMT53-Dateien werden durch den Abruf in der RZL Datenbank gespeichert und können automatisch in der RZL FIBU bzw. der RZL FIBU Next eingespielt werden. Somit fällt der manuelle Abruf, die Speicherung der Dateien bzw. das händische Einspielen der Retourdaten weg.
+
+### Verarbeitung FIBU/EA Klassik
+
+Bei den jeweiligen Klienten wird die Schnittstelle aktiviert. Unter *Stamm / Weitere Stammdaten / Bankkonten* ist in den Stammdaten des jeweiligen Bankkontos die Option **EBICS-Portal für CAMT** zu setzen.
+
 !!! warning "Hinweis"
-    Die Verarbeitung von CAMT-Retourdaten in der RZL FIBU/EAR Klassik bzw. der RZL FIBU Next bleibt mit Einführung der EBICS Schnittstelle ident. Die Schnittstelle dient lediglich zum Abruf bzw. zum Transport von Bankdaten.
+    Die Verarbeitung von CAMT-Retourdaten in der RZL FIBU/EA Klassik bzw. der RZL FIBU Next bleibt mit Einführung der EBICS Schnittstelle ident. Die Schnittstelle dient lediglich zum Abruf bzw. zum Transport von Bankdaten.
     
     Die bisherige Kommunikation über Online-Services der Bank (manueller Abruf CAMT53 oder .csv-Dateien ohne bisherige MBS-Software) ist weiterhin möglich. Detailinformationen erhalten Sie bei den jeweiligen Bankinstituten.
+
+![Bankkonto anlegen](<img/Bild42.png>)
+
+Die weiteren Schritte sind ident mit der bisherigen Vorgangsweise bei der Verarbeitung von Retourdaten. Über *Bearbeiten / Zahlungsverkehr SEPA bzw. EBICS / Verarbeitung CAMT Retourdaten* werden die CAMT-Daten abgeholt und in einen Zwischenordner (bisher bereits hinterlegter Datenordner) zwischengesichert.
+
+![Ordner für EBICS](<img/Bild39.png>)
+
+### Verarbeitung FIBU Next
+
+Unter *Stammdaten / Zahlungsverkehr / FIBU Bankverbindungen* ist in den Stammdaten des jeweiligen Bankkontos beim Klienten die Quelle EBICS zu setzen.
+
+![Quelle EBICS](<img/Bild40.png>)
+
+Die weiteren Schritte in der FIBU Next sind ident mit der bisherigen Vorgangsweise bei der Verarbeitung von Retourdaten.
+
+![Kontoauszüge hereinspielen](<img/Bild41.png>)
+
+Sobald ein Stapel im FIBU Next geöffnet wird, werden die Auszüge in den ungebuchten CAMT Dateien ausgeblendet (noch nicht gelöscht). Beim Verwerfen oder Löschen eines Stapels werden die Auszüge wieder zurück in die ungebuchten CAMT-Belegen gestellt. Erst wenn der Stapel finalisiert wird, werden die Daten aus den ungebuchten CAMT-Belegen gelöscht.
 
 
 ## Protokolle
@@ -142,3 +169,6 @@ Im Protokoll Kommunikation wird protokolliert, wann, von wem, für welche Bank d
 
 Im Bereich EBICS Teilnehmer gibt es zusätzlich das Bankprotokoll. Dieses kommt direkt vom Bankserver und zeigt die Zahlungsvorgänge.
 
+## Berechtigungen
+
+Die EBICS-Schnittstelle ist an das RZL BOARD geknüpft. Um die Verwaltungs- bzw. Bearbeitungsmöglichkeiten Ihrer Mitarbeitenden steuern zu können, wurden eigene Berechtigungen (Rollen) definiert. Im RZL BOARD können unter *Stamm / Berechtigungen / Rollen* spezielle RZL EBICS-Rollen mit Einschränkungen auf bestimmte Klientengruppen vergeben werden.
