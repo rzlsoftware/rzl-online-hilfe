@@ -21,7 +21,7 @@ Durch Auswahl *berichtigte Vormonate nicht drucken* werden die aufgerollten Mona
 Wenn die Abrechnungen über den RZL-PDF Drucker per E-Mail versendet werden, muss das Feld *Einzeldruck* für den E-Mailversand aktiviert werden, damit pro Abrechnung ein Druckauftrag erstellt wird. Nach Aktivierung dieses Feldes können die zwei Filter *E-Mail-Adresse* und *Klientenportal* gesetzt werden. D. h. es werden nur die Abrechnungen der Dienstnehmer in den PFD-Drucker geladen, auf die die Filter zutreffen.
 
 !!! info "Tipp"
-    Das Hochladen von Abrechnungen auf das RZL-Klientenportal wird bei [*Abrechnungen für Dienstnehmer bereitstellen*](../RZL%20Klientenportal/Abrechnungen%20der%20Dienstnehmer%20bereitstellen.md) beschrieben.
+    Das Hochladen von Abrechnungen auf das RZL-Klientenportal wird bei [*Abrechnungen für Dienstnehmer bereitstellen*](../RZL%20Klientenportal.md) beschrieben.
 
 Wird das Auswahlfeld *zwei Abrechnungen pro Seite* aktiviert, werden zwei Lohnabrechnungen auf einer A4-Seite ausgedruckt. Werden bei der Abrechnung des Dienstnehmers mehr als 4 oder 5 Lohnarten abgerechnet, dann hat die Abrechnung auf einer *A5-Seite* nicht mehr Platz, sondern benötigt eine ganze *A4-Seite*. In diesem Fall sollte das Auswahlfeld *2 Abrechnungen pro Seite* nicht aktiviert werden.
 

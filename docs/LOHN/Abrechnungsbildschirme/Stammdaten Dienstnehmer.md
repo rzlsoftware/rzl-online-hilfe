@@ -46,7 +46,7 @@ Eintragungsmöglichkeit für die Telefonnummer des Dienstnehmers.
 
 Wenn *E-Mail-Adresse* und *PFD-Passwort* eingetragen sind, kann dieses Feld aktiviert werden. Der Dienstnehmer wird am Klientenportal angelegt und mit Hilfe des RZL-PDF-Druckers können die Abrechnungen der Dienstnehmer auf das Klientenportal geladen werden.
 
-Vgl. [Abrechnungen der Dienstnehmer bereitstellen](../RZL%20Klientenportal/Abrechnungen%20der%20Dienstnehmer%20bereitstellen.md)
+Vgl. [Abrechnungen der Dienstnehmer bereitstellen](../RZL%20Klientenportal.md)
 
 **SV-Nummer**
 
