@@ -1,10 +1,8 @@
-## Datenimport Bankdaten
+# Datenimport Bankdaten
 
-vgl. Kapitel 18.3 Datenexport Bankdaten, Seite [280](#datenexport-bankdaten).
+Wie bei [Datenexport Bankdaten](../Datenexport/Datenexport%20Bankdaten.md) beschrieben, kann eine Exportdatei erstellt werden, die Datei, die das Kreditinstitut zurückschickt (inkl. IBAN/BIC) kann im Programmteil *Bearbeiten / Datenimport / Import Bankdaten* in die Lohnverrechnung übernommen werden. Das bedeutet, dass bei den einzelnen Bankverbindungen IBAN und BIC automatisch ergänzt werden.
 
-Wie im Kapitel 18.3 beschrieben, kann eine Exportdatei erstellt werden, die Datei, die das Kreditinstitut zurückschickt (inkl. IBAN/BIC) kann im Programmteil *Bearbeiten / Datenimport / Import Bankdaten* in die Lohnverrechnung übernommen werden. Das bedeutet, dass bei den einzelnen Bankverbindungen IBAN und BIC automatisch ergänzt werden.
-
-![Image](<img/image297.png>)
+![Image](<img/image297.png>){width="500"}
 
 **Bestehende IBAN/BIC beim Import überschreiben**
 

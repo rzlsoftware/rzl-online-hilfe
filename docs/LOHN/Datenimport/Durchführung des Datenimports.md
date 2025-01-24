@@ -1,10 +1,10 @@
-## Durchführung des Daten-Importes
+# Durchführung des Daten-Importes
 
 Der Datenimport kann für die Abrechnungsarten *lfd. Abrechnung, Korrektur letzte Abrechnung, Wiedereintritt, Neuanlage*, *Neuanlage Exekution* und *Import Bankdaten* durchgeführt werden.
 
 Der Import der Daten vollzieht sich für alle 6 Abrechnungsarten gleich:
 
-![Image](<img/image296.png>)
+![Image](<img/image296.png>){width="500"}
 
 Im Feld *Monat* ist der Monat einzutragen, in dem der Datenimport durchgeführt werden soll.
 

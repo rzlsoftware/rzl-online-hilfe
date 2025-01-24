@@ -1,8 +1,8 @@
-## Erstellen der Listenform
+# Erstellen der Listenform
 
 Im Programmteil *Bearbeiten / Datenimport* besteht die Möglichkeit, innerhalb der Abrechnungsvarianten *Import lfd. Abrechnung, Import Korrektur letzte Abrechnung, Import Wiedereintritt, Import Neuanlage, Neuanlage Exekution, Import Bankdaten* eine Datenübernahme aus einer Datei zu übernehmen.
 
-![Image](<img/image290.png>)
+![Image](<img/image290.png>){width="500"}
 
 Hier kann außerdem angewählt werden, ob es nach dem Import eine Abrechnungsvorschau geben soll. Es ist auch möglich, die Listenform *als Standard festzulegen*.
 
@@ -14,14 +14,14 @@ Dieser Import wird verwendet, wenn bereits eine Abrechnung für den gewünschten
 
 Über diesen Menüpunkt können Stammdaten bzw. Abrechnungsdaten eines Wiedereintritts importiert werden.
 
-![Image](<img/image291.png>)
+![Image](<img/image291.png>){width="500"}
 
 Es können nur jene Daten in das RZLWin-Lohnprogramm übernommen werden, die in der Listenform eingetragen sind. Die Eintragung der gewünschten Daten in die Listenform ist vom Anwender vorzunehmen. Durch Anwahl der Schaltfläche *Einstellungen* wird die Erstellung einer Listenform ermöglicht.
 
 !!! info "Tipp"
     Im Feld Listenform kann durch Anwahl der *F3-Taste* die Liste beim Klienten *als Standard fixiert* werden. Mit der *F2-Taste* kann die Liste im Detail aufgerufen werden.
 
-![Image](<img/image292.png>)
+![Image](<img/image292.png>){width="400"}
 
 **Allgemein**
 
@@ -37,7 +37,7 @@ Wird als Zuordnung *Persönlich* ausgewählt, dann kann die Liste nur vom Erstel
 
 Durch Anwahl der Schaltfläche *Neu* (siehe oben) wird folgender Dialog aufgerufen:
 
-![Image](<img/image293.png>)
+![Image](<img/image293.png>){width="500"}
 
 **Registerblatt Allgemein**
 
@@ -47,7 +47,7 @@ Im Registerblatt *Allgemein* wird der *Name* und ein eventueller *Kommentar* daz
 
 Im Registerblatt *Felder* findet die Auswahl der Daten, die in die Liste übernommen werden sollen, statt. Im Listenfeld *Felder* (am Bildschirm links) werden sämtliche Daten angezeigt, die importiert werden können.
 
-![Image](<img/image294.png>)
+![Image](<img/image294.png>){width="600"}
 
 Durch Anwahl des +(plus)-Feldes vor dem jeweiligen Datenordner wird die darunterliegende hierarchische Datenstruktur geöffnet. Es werden jene Felder in die Listenform übernommen, die entweder mittels *Leertaste* oder *Maus* aktiviert werden. Die Aktivierung wird im Listenfeld *Felder* durch ein Häkchen im Kästchen vor den jeweiligen Datenordnern angezeigt.
 
@@ -66,19 +66,19 @@ Daten im Listenfeld *Felder* ab. Die farblich hinterlegte Zeile kann durch Anwah
 
 Im Registerblatt *Optionen* werden die Eigenschaften der Importdatei festgelegt:
 
-![Image](<img/image295.png>)
+![Image](<img/image295.png>){width="500"}
 
-**Datenformat**
+*Datenformat*
 
 Die Auswahl des Datenformates ANSI- oder ASCII hängt vom Programm, in dem die Import-Datei erzeugt wird, ab.
 
-**Feldtrennzeichen, Textbegrenzungszeichen**
+*Feldtrennzeichen, Textbegrenzungszeichen*
 
 Als *Feldtrennzeichen* können *Strichpunkt, Komma, Leerzeichen, Tabulator* oder *Anderes* verwendet werden. Wird die Option *Anderes* angewählt, dann kann ein beliebiges *Feldtrennzeichen* eingetragen werden.
 
 Als *Textbegrenzungszeichen* können *Anführungszeichen, Hochkomma* oder *kein* (Textbegrenzungszeichen) verwendet werden.
 
-**Spaltenüberschriften generieren**
+*Spaltenüberschriften generieren*
 
 Beinhaltet die zu übernehmende Datei Spaltenüberschriften, dann ist dieses Auswahlfeld zu aktivieren.
 
