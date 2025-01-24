@@ -110,7 +110,7 @@ Mengengerüst für die (importierten) Krankenstandsbescheinigungen.
 
 Festlegung der Anzahl der DN-Historieneinträge.
 
-Die Anlage des Mengengerüsts sollte den tatsächlichen Anforderungen des Klienten entsprechen, um nicht unnötig Speicherplatz auf der Festplatte zu reservieren. Entspricht das Mengengerüst, das Sie bei der Neuanlage des Klienten gewählt haben nicht mehr den Anforderungen, so können Sie es durch Anwahl des Menüpunkts *Klient / Vergrößern/Verkleinern* [(siehe Das Mengengerüst)](../Verwaltung/Das%20Mengengerüst.md) an die neuen Anforderungen anpassen.
+Die Anlage des Mengengerüsts sollte den tatsächlichen Anforderungen des Klienten entsprechen, um nicht unnötig Speicherplatz auf der Festplatte zu reservieren. Entspricht das Mengengerüst, das Sie bei der Neuanlage des Klienten gewählt haben nicht mehr den Anforderungen, so können Sie es durch Anwahl des Menüpunkts *Klient / Vergrößern/Verkleinern* [(siehe Das Mengengerüst)](../Verwaltung.md) an die neuen Anforderungen anpassen.
 
 Durch Anwahl der Schaltfläche *Anlegen* wird der Klient mit den vorgenommenen Einstellungen angelegt. Als nächster Schritt ist der Klient mittels *Klient / Öffnen* und Eingabe der entsprechenden Klientennummer zu öffnen.
 

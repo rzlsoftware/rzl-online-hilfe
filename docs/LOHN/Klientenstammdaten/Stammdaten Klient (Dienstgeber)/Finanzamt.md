@@ -8,7 +8,7 @@ Die Nummer der zuständigen Dienststelle und die Steuernummer werden automatisch
 
 **Finanzamt Bank**
 
-In den Stammdaten der [Finanzämter](../../Finanzämter, Gemeinden, ÖGK, BV-Kassen, Gerichte/Anlegen der Bankverbindungen.md) können Sie bis zu 9 Bankverbindungen eingeben. Hier können Sie festlegen, an welche Bankverbindung des Finanzamts die Überweisungen erfolgen sollen.
+In den Stammdaten der [Finanzämter](../../Finanzämter,%20Gemeinden,%20ÖGK,%20BV-Kassen,%20Gerichte.md) können Sie bis zu 9 Bankverbindungen eingeben. Hier können Sie festlegen, an welche Bankverbindung des Finanzamts die Überweisungen erfolgen sollen.
 
 **Zahlungsreferenz**
 
