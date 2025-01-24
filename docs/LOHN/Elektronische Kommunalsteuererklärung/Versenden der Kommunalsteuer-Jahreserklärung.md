@@ -1,8 +1,8 @@
-## Versenden der Kommunalsteuer-Jahreserklärung
+# Versenden der Kommunalsteuer-Jahreserklärung
 
 Das Versenden der Erklärung erfolgt im Programmteil *Klient / Elektronische Übermittlung / Elektronische Kommunalsteuer-Jahreserklärung absenden*.
 
-![Image](<img/image325.png>)
+![Image](<img/image325.png>){width="500"}
 
 Durch Anwahl der Schaltfläche *Senden* wird automatisch die Homepage von FinanzOnline geöffnet. Für die Übermittlung ist der Programmteil *Eingaben / Übermittlung* anzuwählen.
 

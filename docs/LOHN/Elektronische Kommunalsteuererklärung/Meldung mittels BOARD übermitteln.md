@@ -1,4 +1,4 @@
-## Meldung mittels BOARD übermitteln
+# Meldung mittels BOARD übermitteln
 
 Jene Kunden, die das *RZL BOARD* verwenden, können die Meldungen an FinanzOnline mit Hilfe des im *RZL BOARD* hinterlegten Webservice-Zugangs durchführen. Die Eingabe der FinanzOnline Zugangsdaten auf der FinanzOnline Homepage entfällt auch bei diesen Übermittlungen.
 
@@ -12,23 +12,23 @@ Für eine erfolgreiche Übermittlung sind 2 Arbeitsschritte durchzuführen:
 
 Sie können aus der *RZL – Lohnverrechnung* über *Bearbeiten / RZL BOARD / FinanzOnline Übermittlung* die Übermittlungen erstellen:
 
-![Image](<img/image328.png>)
+![Image](<img/image328.png>){width="600"}
 
 Über den Menüpunkt *Klient / RZL Board FinanzOnline* *Übermittlungen* können diese Meldungen auch Klientenübergreifend an das *RZL Board* übergeben werden.
 
 Im *RZL BOARD* finden Sie im Modul *PORTALE* die Funktion *FinanzOnline Übermittlungen.* Dort werden Ihnen drei unterschiedliche Listen dargestellt:
 
-- Offene Übermittlungen
+**Offene Übermittlungen**
 
-> Hier werden alle in der Kanzlei aus der *RZL Lohnverrechnung* bzw. > *RZL FIBU/ERKL* in das *RZL BOARD* erstellten aber noch nicht > gesendeten Übermittlungen angezeigt.
+Hier werden alle in der Kanzlei aus der *RZL Lohnverrechnung* bzw. > *RZL FIBU/ERKL* in das *RZL BOARD* erstellten aber noch nicht gesendeten Übermittlungen angezeigt.
 
-- Geplante Übermittlungen
+**Geplante Übermittlungen**
 
-> Hier werden alle Übermittlungen angezeigt, für die ein geplantes > Übermittlungsdatum in der Zukunft gesetzt wurde.
+Hier werden alle Übermittlungen angezeigt, für die ein geplantes > Übermittlungsdatum in der Zukunft gesetzt wurde.
 
-- Gesendete Übermittlungen
+**Gesendete Übermittlungen**
 
-> Dieser Dialog zeigt alle bereits gesendeten Übermittlungen an.
+Dieser Dialog zeigt alle bereits gesendeten Übermittlungen an.
 
 ![Image](<img/image329.png>)
 
