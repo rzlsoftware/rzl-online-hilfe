@@ -1,8 +1,8 @@
-## Abfertigungsrechner (-vergleich)
+# Abfertigungsrechner (-vergleich)
 
 Im Programmteil *Ausdruck / Rückstellungen / Abfertigungsvergleich* besteht die Möglichkeit, aufgrund der Stammdaten der angelegten Dienstnehmer einen Vorteilsvergleich zwischen Abfertigung alt und Abfertigung neu bei Vollumstieg und Teilumstieg vorzunehmen. Es werden dazu für jede der drei Varianten die Endwerte der Dienstnehmer, sowie die Barwerte des Dienstgebers vom Programm errechnet.
 
-![Image](<img/image306.png>)
+![Image](<img/image306.png>){width="500"}
 
 **Stichtag Umstieg**
 
@@ -26,17 +26,17 @@ In diesen Feldern wird aktiviert, welche der Berechnungen ausgedruckt werden sol
 
 **Basis für Abfertigung**
 
-Vgl. Kapitel 17.2 Abfertigungsrückstellung, Seite [256](#abfertigungsrückstellung)
+Vgl. [Abfertigungsrückstellung](../Rückstellungen/Abfertigungsrückstellung.md)
 
 **Basis für Sonderzahlung**
 
-Vgl. Kapitel 17.2 Abfertigungsrückstellung, Seite [256](#abfertigungsrückstellung)
+Vgl. [Abfertigungsrückstellung](../Rückstellungen/Abfertigungsrückstellung.md)
 
 Durch Anwahl der Schaltfläche *Weiter* (siehe oben) wird folgender Dialog geöffnet:
 
-![Image](<img/image307.png>)
+![Image](<img/image307.png>){width="500"}
 
-!!! info" Tipp"
+!!! info "Tipp"
     Durch Anwahl der *F2-Taste* werden für den jeweils markierten Dienstnehmer die Jahreswerte aufgerufen und können ausgedruckt werden.
 
 **Abfertigung alt Bezug, Abfertigung alt Sonderzahlung, Abfertigung neu Bezug, Abfertigung neu Sonderzahlung, Pension**
@@ -56,110 +56,110 @@ Diese Eintragung wird aus dem Anfangsdialog (Ausdruck Abfertigungsvergleich) üb
 
 Durch Anwahl der Schaltfläche *Details* können die Parameter für die Berechnung des Abfertigungsvergleiches eingetragen werden.
 
-### Registerblatt Pension, Steigerung, BV-Kasse
+**Registerblatt Pension, Steigerung, BV-Kasse**
 
-![Image](<img/image308.png>)
+![Image](<img/image308.png>){width="500"}
 
-**Pensionsalter**
+*Pensionsalter*
 
 Eintragung des voraussichtlichen Pensionsalters getrennt für Männer und Frauen.
 
-**Gehaltssteigerung**
+*Gehaltssteigerung*
 
 In dieses Feld ist die zu erwartende durchschnittliche Gehaltssteigerung jährlich einzutragen. Diese Eintragung wird für alle Dienstnehmer verwendet, kann jedoch im Stammdatenbildschirm (siehe oben) für einzelne Dienstnehmer geändert werden.
 
-**Umstiegs-Betrag (in Prozent)**
+*Umstiegs-Betrag (in Prozent)*
 
 In dieses Feld ist der Umstiegsbetrag in Prozent einzutragen. Der Betrag pro Dienstnehmer wird in den Stammdaten errechnet und angezeigt.
 
-**BV-Beitrag**
+*BV-Beitrag*
 
 Eintragung des BV-Beitrages (Mindestwert 1,53 %).
 
-**Verzinsung BV-Kasse**
+*Verzinsung BV-Kasse*
 
 Eintragung der voraussichtlichen Verzinsung der BV-Kasse.
 
-**BV-Kasse-Kosten**
+*BV-Kasse-Kosten*
 
-- **laufende Kosten**
+- *laufende Kosten*
 
 Eintragung der laufenden Kosten der BV-Kasse. Derzeit laut BMVG darf die BV-Kasse zwischen 1 % und 3,5 % der laufenden BV-Beiträge an Kosten verrechnen.
 
-- **Umstiegskosten**
+- *Umstiegskosten*
 
 Eintragung der Kosten der BV-Kasse bei einem Vollumstieg. Derzeit bis maximal 1,5 % des Übertragungswertes.
 
-- **Kosten für Vermögensverwaltung**
+- *Kosten für Vermögensverwaltung*
 
 Eintragung des Prozentsatzes, den die BV-Kasse von den veranlagten Beträgen berechnen darf. Derzeit bis 1 % pro Geschäftsjahr und seit 2005 0,8 % pro Geschäftsjahr.
 
-- **Höchstbetrag**
+- *Höchstbetrag*
 
 Eintragung des Höchstbetrages, der je Übertragungswert bei einem Vollübertritt von der BV-Kasse einbehalten werden darf. Derzeit EUR 500,00 je Altabfertigungsanwartschaft.
 
-### Registerblatt Steuersatz, Auflösung Rückstellung, Fluktuationen
+**Registerblatt Steuersatz, Auflösung Rückstellung, Fluktuationen**
 
-![Image](<img/image309.png>)
+![Image](<img/image309.png>){width="500"}
 
-**Auflösung der Abfertigungs-Rückstellung**
+*Auflösung der Abfertigungs-Rückstellung*
 
 Die in den Jahren 2002 oder 2003 mögliche steuerfreie Auflösung beeinflusst die Barwerte der Kosten des Dienstgebers.
 
-**Grenzsteuersatz**
+*Grenzsteuersatz*
 
 In dieses Feld kann der Grenzsteuersatz des Unternehmers / Unternehmens eingetragen werden. Der eingetragene Grenzsteuersatz reduziert die Barwerte des Dienstgebers um die Steuerbelastung.
 
-**Abzinsung Barwert-Ermittlung**
+*Abzinsung Barwert-Ermittlung*
 
 Eingabe des Abzinsungsprozentsatzes für die Abzinsung der Barwerte des Dienstgebers.
 
-**Fluktuationsabschläge Abfertigung alt**
+*Fluktuationsabschläge Abfertigung alt*
 
 Für die Berechnung der Abfertigungsanwartschaft alt können hier Fluktuationsabschläge in 5-Jahres-Intervalle eingetragen werden.
 
-**Fluktuationsabschläge Abfertigung neu**
+*Fluktuationsabschläge Abfertigung neu*
 
 Für die Berechnung der Abfertigungsanwartschaft neu können hier Fluktuationsabschläge für 5-Jahres-Intervalle eingetragen werden.
 
 Nach der Eintragung der Parameter für den Abfertigungsvergleich kehrt das Programm durch Anwahl der Schaltfläche *Speichern* in den Ausgangsdialog der Stammdaten zurück und es können durch Anwahl der Schaltflächen *Endwerte Dienstnehmer* oder *Barwerte Dienstgeber* (siehe Pfeil unten) die Vergleichsrechnungen angezeigt und ausdruckt werden.
 
-![Image](<img/image310.png>)
+![Image](<img/image310.png>){width="500"}
 
-**Anspruch Stichtag**
+*Anspruch Stichtag*
 
 In diese Spalte wird der Anspruch an Monatsgehältern zum Stichtag angezeigt. Der Stichtag wird im Ausdruckbildschirm (*Ausdruck / Rückstellungen / Abfertigungsvergleich*) eingetragen, kann jedoch für die einzelnen Dienstnehmer auch abweichend eingetragen werden.
 
-**Abf. (Abfertigung) alt Stichtag**
+*Abf. (Abfertigung) alt Stichtag*
 
 Berechnung der Abfertigung alt zum Stichtag.
 
-**Abf. (Abfertigung) alt Pension**
+*Abf. (Abfertigung) alt Pension*
 
 Berechnung der Abfertigung alt bei Pensionierung des Dienstnehmers.
 
-**Umstiegsbetrag**
+*Umstiegsbetrag*
 
 Der Umstiegsbetrag wird anhand der Eintragung im *Detail-Bildschirm* im Feld *Umstiegs-Beitrag* errechnet. Dieser kann für einzelne Dienstnehmer auch abweichend eingetragen werden.
 
-**Abf. (Abfertigung) neu Pension**
+*Abf. (Abfertigung) neu Pension*
 
 Errechnung des Wertes Abfertigung neu, den der Dienstnehmer zur Pensionierung bei einem Vollumstieg erhält.
 
-**Teilumstieg Pension**
+*Teilumstieg Pension*
 
 Berechnung des Wertes Abfertigung neu bei Pensionierung bei einem Teilübertritt zum Stichtag.
 
-**Gleichstand alt**
+*Gleichstand alt*
 
 Hier wird der Prozentsatz für den Umstiegsbetrag berechnet, bei dem Gleichstand zwischen Abfertigung alt und Vollumstieg herrscht.
 
-**Gleichstand Teilumstieg**
+*Gleichstand Teilumstieg*
 
 Hier wird der Prozentsatz für den Umstiegsbetrag berechnet, bei dem Gleichstand zwischen Voll- und Teilübertritt (Einfrieren) herrscht.
 
 Im unten angeführten Abrechnungsbildschirm werden die *Barwerte* für den Dienstgeber (siehe Pfeil) berechnet.
 
-![Image](<img/image311.png>)
+![Image](<img/image311.png>){width="500"}
 
 Die Felder der Anzeige sind identisch mit jenen der Endwerte der Dienstnehmer. Hier werden jedoch die ermittelten Barwerte zum eingetragenen Stichtag (z. B. 01.01.2003) der Kosten des Dienstgebers unter Berücksichtigung der Steuerbelastung angezeigt.

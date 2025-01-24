@@ -1,4 +1,4 @@
-## Allgemeines
+# Allgemeines
 
 Alle Dienstverhältnisse, die ab 01.01.2003 neu begonnen wurden, unterliegen dem Bundesgesetz über die Betriebliche Vorsorge (Abfertigung neu). Das bedeutet, dass der Dienstgeber monatlich Beiträge an eine Betriebliche Vorsorgekasse (BV-Kasse) zahlt. Die Abfertigungsansprüche der Dienstnehmer im Abfertigungssystem neu bestehen nicht mehr gegenüber dem Dienstgeber, sondern nur mehr gegenüber der BV-Kasse.
 

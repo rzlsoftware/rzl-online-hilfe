@@ -1,8 +1,8 @@
-## Verankerung der BV-Kassen in den Klienten-Stammdaten
+# Verankerung der BV-Kassen in den Klienten-Stammdaten
 
 Nach Anlage der BV-Kasse in den Stammdaten der Behörden, muss in den Stammdaten des Klienten im Programmteil *Stamm / Klient* im Registerblatt *ÖGK, BV-Kasse* die BV-Kasse für die sich der Dienstgeber entschieden hat, verankert werden.
 
-![Image](<img/image300.png>)
+![Image](<img/image300.png>){width="500"}
 
 **BV-Kassenleitzahl**
 

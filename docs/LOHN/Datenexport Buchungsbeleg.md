@@ -2,9 +2,9 @@
 
 Die Anwahl des Programmteiles *Bearbeiten / Datenexport / Export Buchungsbeleg (RZL-Format)* ermöglicht die Erstellung einer Datei, die die Buchungen des Buchungsbeleges beinhaltet und die in das RZLWin-Finanzbuchhaltungsprogramm bzw. RZLWin-Einnahmen-Ausgaben-Programm importiert werden kann.
 
-Voraussetzung für eine erfolgreiche Erstellung der Datei ist die Verankerung eines Kanzleilohnkontenplanes in den Stammdaten des Klienten (vgl. Kapitel 2.1.5, Seite [31](#registerblatt-la-formeln-texte-kontenplan-beiträge-währung)). Im Kanzleilohnkontenplan müssen die Aufwandskonten (Löhne, Gehälter, Überstunden, SV-AGA, KommST, usw.) vorkontiert werden. In den Stammdaten des Klienten sind die Verbindlichkeitskonten der einzelnen Behörden einzutragen.
+Voraussetzung für eine erfolgreiche Erstellung der Datei ist die Verankerung eines [Kanzleilohnkontenplanes](../LOHN/Klientenstammdaten/Stammdaten%20Klient%20(Dienstgeber)/LA%2C%20Formeln%2C%20Texte%2C%20Kontenplan%2C%20Beiträge%2C%20Währung.md) in den Stammdaten des Klienten. Im Kanzleilohnkontenplan müssen die Aufwandskonten (Löhne, Gehälter, Überstunden, SV-AGA, KommST, usw.) vorkontiert werden. In den Stammdaten des Klienten sind die Verbindlichkeitskonten der einzelnen Behörden einzutragen.
 
-![Image](<img/image298.png>)
+![Image](<img/image298.png>){width="500"}
 
 Zunächst ist festzulegen, für welchen Monat der Datenexport erfolgen soll. Wurden im Ausgabemonat Aufrollungen durchgeführt, können die Aufrolldifferenzen berücksichtigt werden oder nicht.
 
@@ -12,12 +12,12 @@ Wird das Auswahlfeld *Aufteilung nach Kostenstellen* aktiviert, dann wird innerh
 
 Die Aktivierung des Feldes *Sachbezüge als DG-Kosten* bewirkt die Verbuchung von Sachbezügen in der Kostenstellenrechnung als Aufwand. Das bedeutet auf der Habenseite erfolgt bei den Sachbezügen keine Kostenstellenzuordnung. Wenn *Kostenstellen pro DN* aktiviert ist, dann wird pro Dienstnehmer die Kostenstelle zugeordnet.
 
-Sind den Dienstnehmern einzelne Buchungskreise zugeordnet (vgl. Kapitel 5.4, Seite [60](#stammdaten-fristen)) und somit auf verschiedene Buchungsbelege aufgeteilt, kann durch die Anwahl des Feldes *Buchungskreise zusammenfassen* dennoch ein gemeinsamer Ausdruck erfolgen.
+Sind den Dienstnehmern einzelne [Buchungskreise](../LOHN/Abrechnungsbildschirme/Stammdaten%20Fristen.md) zugeordnet und somit auf verschiedene Buchungsbelege aufgeteilt, kann durch die Anwahl des Feldes *Buchungskreise zusammenfassen* dennoch ein gemeinsamer Ausdruck erfolgen.
 
 !!! info "Hinweis"
     Bei dieser Ausdruckvariante wird jene Kontierung verwendet, die im Lohnkontenplan unter dem Buchungskreis *Null* festgelegt wurde.
 
-Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich *BUAK* eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge verbucht werden (vgl. Kapitel 5.11, Seite [105](#_Ref266258853)). Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
+Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm [*Fixe Lohnarten*](../LOHN/Abrechnungsbildschirme/Fixe%20Lohnarten.md) im Bereich *BUAK* eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge verbucht werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
 
 Sollen Aufrolldifferenzen aus Vormonaten im laufenden Monat berücksichtigt werden, ist das Auswahlfeld *Aufrolldifferenzen im laufenden Monat* zu aktivieren. Wird das Auswahlfeld *ursprüngliche Werte verwenden* aktiviert, dann erfolgt die Ausgabe **vor** Aufrolldifferenzen (betrifft die aufgerollten Monate).
 

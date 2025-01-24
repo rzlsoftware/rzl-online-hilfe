@@ -1,4 +1,4 @@
-## Bestehende Dienstverhältnisse – Umstiegsmöglichkeiten
+# Bestehende Dienstverhältnisse – Umstiegsmöglichkeiten
 
 Für bestehende Dienstverhältnisse besteht die Möglichkeit auf das neue Abfertigungssystem umzusteigen. Es besteht kein Zwang zum Umstieg. Wenn die Dienstnehmer oder der Dienstgeber keinen Umstieg wünschen, bleibt das Dienstverhältnis weiterhin im alten System. Es müssen nicht alle Dienstnehmer auf das neue System wechseln, sondern es können auch nur einzelne Dienstnehmer umsteigen.
 
@@ -14,7 +14,7 @@ Bei einem Teilumstieg wird ein Stichtag für den Umstieg ausgewählt. Ab diesem 
 
 Diese beiden Umstiegsmöglichkeiten werden im Lohnprogramm im Abrechnungsbildschirm *Stammdaten Fristen* abgerechnet.
 
-![Image](<img/image305.png>)
+![Image](<img/image305.png>){width="500"}
 
 **Vollumstieg Abfertigung neu**
 
@@ -27,4 +27,4 @@ Einzutragen ist, der Übertragungszeitpunkt und die Höhe des Übertragungsbetra
 Bei Abrechnung eines Teilumstieges ist das Datum des Übertrittes (Einfrierungszeitpunkt) einzutragen, damit die BV-Beiträge über das Programm abgeführt werden können. Weiters ist der Einfrierungsanspruch in Monaten (Abfertigungsanspruch zum Zeitpunkt des Übertrittes ins neue System) für die Rückstellungsberechnung einzutragen.
 
 !!! warning "Hinweis"
-    Damit die BV-Beiträge ab dem Umstiegsstichtag für den jeweiligen Dienstnehmer abgeführt werden, ist im Abrechnungsbildschirm *Eintritt* (vgl. Kapitel 5.5, Seite [63](#eintritt)) die BV-Pflicht zu aktivieren und der Beginn einzutragen.
+    Damit die BV-Beiträge ab dem Umstiegsstichtag für den jeweiligen Dienstnehmer abgeführt werden, ist im [Abrechnungsbildschirm *Eintritt*](../Abrechnungsbildschirme/Eintritt.md) die BV-Pflicht zu aktivieren und der Beginn einzutragen.
