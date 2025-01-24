@@ -4,7 +4,7 @@
 
 Im Programmteil *Stamm / EFZ-Antrag* kann der Vergütungsantrag gemäß § 53b des Allgemeinen Sozialversicherungsgesetzes (ASVG) gestellt werden. Zunächst ist im Feld *Dienstnehmer* der betreffende Dienstnehmer anzuwählen (Aufruf mit der *F2-Taste*). Dann wird im Feld *Arbeitsverhinderung Beginn* der Anfang der Arbeitsverhinderung eingetragen.
 
-![Image](<img/image342.png>)
+![Image](<img/image342.png>){width="400"}
 
 !!! info "Tipp"
     Im Feld *Arbeitsverhinderung Beginn* können mit der *F2-Taste* die Krankenstände, die in der Krankenstandskartei eingetragen sind, aufgerufen werden.
@@ -24,7 +24,7 @@ Mit *rechter Maus* kann im linken (grauen) Bereich die Vollständigkeit des EFZ-
 ![Image](<img/image344.png>)
 
 !!! info "Tipp"
-    Weitere Informationen stehen unter [www.auva.at/efz](http://www.auva.at/efz) zur Verfügung.
+    Weitere Informationen stehen unter [www.auva.at](http://www.auva.at/efz) zur Verfügung.
 
 ## Bearbeiten eines EFZ-Antrages
 
@@ -32,7 +32,7 @@ Ein bereits gespeicherter EFZ-Antrag kann bearbeitet werden, in dem neuerlich de
 
 Nachfolgend werden die bereits zu diesem Dienstnehmer gespeicherten EFZ-Anträge angezeigt und können durch Doppelklick mit der Maus oder Anwahl der Schaltfläche *Bearbeiten* nochmals aufgerufen und bearbeitet werden.
 
-![Image](<img/image345.png>)
+![Image](<img/image345.png>){width="500"}
 
 **Zahlungseingang (durch AUVA)**
 
