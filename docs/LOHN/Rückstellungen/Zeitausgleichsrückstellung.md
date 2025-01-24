@@ -1,8 +1,8 @@
-## Zeitausgleichsrückstellung
+# Zeitausgleichsrückstellung
 
-Die Zeitausgleichsrückstellung wird im Programmteil *Ausdruck / Rückstellungen/Zeitausgleich* ausgedruckt bzw. bearbeitet.
+Die Zeitausgleichsrückstellung wird im Programmteil *Ausdruck / Rückstellungen / Zeitausgleich* ausgedruckt bzw. bearbeitet.
 
-![Image](<img/image269.png>)
+![Image](<img/image269.png>){width="500"}
 
 
 Im Eingabebereich *Basis für Zeitausgleichsrückstellung* ist festzulegen, welche Basis für die Berechnung herangezogen werden soll. Das sind entweder der *letzte Monatsbezug* oder einer der entsprechenden Durchschnittswerte. Als Monatsbezug wird vom Programm von den vorgegebenen Lohnarten der Bruttolohn, die Stundenlöhne, die Erschwerniszulage, eine eventuelle Auslandstätigkeit, die Überstunden, die Mehrarbeitsstunden, das Überstundenpauschale und das BUAK-Urlaubsgeld laufend miteinbezogen. Von den freien Lohnarten werden nur jene in der Rückstellungsberechnung berücksichtigt, bei denen das Auswahlfeld *Bemessung ZA Rückstellung* aktiviert wurde. Durch Anwahl des Feldes *Aufteilung nach Kostenstellen* kann die Rückstellung getrennt nach Kostenstellen ausgegeben werden.
@@ -11,11 +11,11 @@ Als Basis für die Berücksichtigung der Sonderzahlungen kann entweder der *Ansp
 
 Durch Anwahl der Schaltfläche *Weiter* wird das Listenfeld mit sämtlichen Dienstnehmern angezeigt. Auch hier können Sie über die Schaltfläche *Details* die Grunddaten prüfen und überarbeiten.
 
-![Image](<img/image270.png>)
+![Image](<img/image270.png>){width="400"}
 
-Die hier möglichen Optionen wurden bereits im Kapitel 17.1.4 Details Rückstellungen (4), Seite [255](#details-rückstellungen-4) erläutert.
+Die hier möglichen Optionen werden bei den [Stammdaten](../Rückstellungen/Stammdaten.md) erläutert.
 
-![Image](<img/image271.png>)
+![Image](<img/image271.png>){width="500"}
 
 **Bezug**
 
@@ -39,15 +39,15 @@ Hier wird der im Abrechnungsbildschirm *Zeitausgleich* eingetragene Teiler angez
 
 ![Image](<img/image272.png>)
 
-***Vorschlag***: Hier wird der generelle Vorschlag angeführt. Wochenstunden mal 4,33.
+*Vorschlag*: Hier wird der generelle Vorschlag angeführt. Wochenstunden mal 4,33.
 
-***Aufruf Kartei-Teiler***: Hier wird der (abweichende) Stundenteiler und die Stunden für die Rückstellung aus den Karteien mit dem aktivierten Häkchen „für Rückstellung berücksichtigen“ aufgelistet.
+*Aufruf Kartei-Teiler*: Hier wird der (abweichende) Stundenteiler und die Stunden für die Rückstellung aus den Karteien mit dem aktivierten Häkchen „für Rückstellung berücksichtigen“ aufgelistet.
 
-A![Image](<img/image273.png>)
+![Image](<img/image273.png>){width="400"}
 
 Soll eine Kartei nicht verwendet werden, geben Sie das Häkchen bei *Teiler* heraus. Auch ein überschreiben der Daten für den Teiler und der Stunden ist möglich. Wird eine Kartei ausgehakt, verändert sich die Stundenanzahl und der Teiler. Mit *Übernehmen* können die hier erfolgten Änderungen in die Rückstellung übernommen werden.
 
-![Image](<img/image274.png>)
+![Image](<img/image274.png>){width="400"}
 
 **Stunden**
 
@@ -57,7 +57,7 @@ Hier werden die im Abrechnungsbildschirm *Zeitausgleich* erfassten Rückstellung
 
 Hier wird der vom Programm errechnete Rückstellungbetrag eingetragen. Wird der errechnete Rückstellungsbetrag korrigiert, erfolgt eine Kennzeichnung mit einem Sternchen (\*) vor dem Betrag. Mit der *F2-Taste* kann eine Eintragung des ursprünglichen Wertes, wenn vorher eine abweichende Eintragung erfolgte, erfasst werden.
 
-### Aufruf Berechnungsblatt Zeitausgleichsrückstellung
+## Aufruf Berechnungsblatt Zeitausgleichsrückstellung
 
 Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung von diesem ausgewählten Dienstnehmer.
 

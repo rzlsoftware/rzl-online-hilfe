@@ -1,10 +1,10 @@
-## Stammdaten
+# Stammdaten
 
 Im Menüpunkt *Stamm / Klient / Details Rückstellungen (1), Details Rückstellungen (2)*, *Details Rückstellungen* *(3) und Details Rückstellungen (4)* können die Grundeinstellungen für die einzelnen Rückstellungen aufgerufen bzw. bearbeitet werden. Alle Rückstellungen können auch in ASCII (.csv-Datei) ausgegeben werden.
 
-### Details Rückstellungen (1)
+## Details Rückstellungen (1)
 
-![Image](<img/image250.png>)
+![Image](<img/image250.png>){width="500"}
 
 
 **Rechnungszinssatz**
@@ -47,10 +47,9 @@ In der finanzmathematischen Berechnung werden im Gegensatz zur steuerlichen Bere
 
 Durch Aktivierung dieses Feldes berücksichtigt das Programm die Berechnung lt. Fachgutachten für die eingefrorenen Abfertigungsansprüche für Dienstnehmer bei einem Teilumstieg ins neue Abfertigungssystem.
 
-### Details Rückstellungen (2)
+## Details Rückstellungen (2)
 
-![Image](<img/image251.png>)
-
+![Image](<img/image251.png>){width="500"}
 
 **Automatische Ermittlung der Lohnnebenkosten**
 
@@ -78,9 +77,9 @@ Falls Sie keine Urlaubskartei im Programm führen und vom Klienten eine Liste mi
 
 Wird das Auswahlfeld *Berechnung Einheitswert* aktiviert, dann erfolgt die separate Berechnung und der Ausdruck einer Urlaubsrückstellung für die Berechnung des Einheitswertes des Betriebsvermögens.
 
-### Details Rückstellungen (3)
+## Details Rückstellungen (3)
 
-![Image](<img/image252.png>)
+![Image](<img/image252.png>){width="500"}
 
 
 **Berechnung laut Erlass**
@@ -113,9 +112,9 @@ Nachdem Jubiläumsgelder im Bereich der Sozialversicherung als Sonderzahlung zu 
 
 Als aufzuschlagende Nebenkosten bleiben dann nur noch jene Beiträge, die nicht durch die Höchstbemessungsgrundlage gedeckt sind (DB, DZ und Kommst, sowie BV-Beitrag).
 
-### Details Rückstellungen (4)
+## Details Rückstellungen (4)
 
-![Image](<img/image253.png>)
+![Image](<img/image253.png>){width="500"}
 
 
 **Automatische Ermittlung der Lohnnebenkosten**

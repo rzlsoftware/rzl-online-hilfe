@@ -1,8 +1,8 @@
-## Abfertigungsrückstellung 
+# Abfertigungsrückstellung 
 
 Der Ausdruck der Liste der Abfertigungswerte erfolgt im Menüpunkt *Ausdruck / Rückstellungen / Rückstellung Abfertigung alt.* In diesem Programmteil sind zunächst die Grundeinstellungen für die Berechnung der Abfertigungsrückstellung vorzunehmen.
 
-![Image](<img/image254.png>)
+![Image](<img/image254.png>){width="500"}
 
 Im Eingabebereich *Basis für Abfertigung alt* ist festzulegen, mit welcher Berechnungsvariante die Basis für die Abfertigung ermittelt werden soll. Das kann entweder der letzte Monatsbezug oder unterschiedliche Varianten von Durchschnittsberechnungen sein. In den Monatsbezug wird vom Programm von den vorgegebenen Lohnarten der Bruttolohn, die Stundenlöhne, die Erschwerniszulage, eine eventuelle Auslandstätigkeit, die Überstunden, Mehrstunden, sowie die Überstundenpauschale einbezogen. Von den freien Lohnarten werden nur jene in der Rückstellungsberechnung berücksichtigt, bei denen das Auswahlfeld *Bemessung Abfertigung* aktiviert wurde.
 
@@ -18,9 +18,9 @@ Wird die Option *Abfertigungsliste nach RLG* aktiviert, erfolgt eine finanzmathe
 
 Wurden die entsprechenden Einstellungen durchgeführt, kann durch die Anwahl der Schaltfläche *Weiter* der Dienstnehmerdialog mit den Rückstellungsparametern aufgerufen werden.
 
-### Abfertigungsrückstellung
+## Abfertigungsrückstellung
 
-![Image](<img/image255.png>)
+![Image](<img/image255.png>){width="500"}
 
 Am Bildschirm werden alle Dienstnehmer des Dienstgebers bzw. Unterdienstgebers (UDG) mit den eingetragenen bzw. errechneten Daten angezeigt. Die Bewegung im Listenfeld erfolgt entweder mittels *Maus* oder mit der *Pfeil-nach-unten-Taste* oder *Pfeil-nach-oben-Taste*. Nur der im Listenfeld farblich hinterlegte Dienstnehmer kann bearbeitet werden. Mit Hilfe der *Enter* oder *Tabulator-Taste* gelangt man in das Eingabefeld *Eintritt* und innerhalb der Bearbeitungsleiste ermöglichen diese beiden Tasten die Bewegung nach rechts. Die *+-Haben-Taste* am Ziffernblock und die *Shift + Tab + Tasten* ermöglichen die Bewegung nach links.
 
@@ -62,7 +62,7 @@ In diesem Feld wird der aufgrund der eingegebenen Daten errechnete fiktive Abfer
 !!! info "Tipp"
     Wurden in den Eingabefeldern *Bezug, Sonderzahlung* oder *Abfertigung* abweichende Eingaben vorgenommen, dann werden durch Anwahl der *F2-Taste* wieder die ursprünglichen Daten eingetragen.
 
-### Aufruf Berechnungsblatt Abfertigungsrückstellung
+## Aufruf Berechnungsblatt Abfertigungsrückstellung
 
 Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung von diesem ausgewählten Dienstnehmer.
 
@@ -74,14 +74,14 @@ Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer
 ![Image](<img/image257.png>)
 
 
-### Finanzmathematische Berechnung der Abfertigungsrückstellung (unternehmensrechtlicher Ansatz).
+## Finanzmathematische Berechnung der Abfertigungsrückstellung (unternehmensrechtlicher Ansatz).
 
 Soll eine finanzmathematische Berechnung der Abfertigungsrückstellung erstellt und ausgedruckt werden, dann ist in den Ausdruckeinstellungen das Auswahlfeld *Abfertigungsliste nach RLG* zu aktivieren.
 
 Durch Anwahl der Schaltfläche *Weiter* wird wieder das Listenfeld mit sämtlichen Dienstnehmern angezeigt. Über die Schaltfläche *Details* können nochmals die Grundeinstellungen kontrolliert werden.
 
-![Image](<img/image258.png>)
+![Image](<img/image258.png>){width="500"}
 
-Diese Optionen entsprechen jenen im Kapitel 17.1.1 Details Rückstellungen (1), Seite [251](#details-rückstellungen-1) beschriebenen Einstellungsmöglichkeiten, die Sie auch über *Stamm / Klient / Details Rückstellungen (1)* aufrufen können.
+Diese Optionen entsprechen jenen in den [Stammdaten](../Rückstellungen/Stammdaten.md) des Klienten beschriebenen Einstellungsmöglichkeiten, die Sie auch über *Stamm / Klient / Details Rückstellungen (1)* aufrufen können.
 
 Sind die entsprechenden Eintragungen vorgenommen, dann wird durch Anwahl der Schalt­fläche *Speichern* wieder der Ausgangsdialog geöffnet.

@@ -1,4 +1,4 @@
-## Exkurs Brutto- oder Nettomethode für die Berechnung von Personalrückstellungen
+# Exkurs Brutto- oder Nettomethode für die Berechnung von Personalrückstellungen
 
 UGB § 211 Abs. 1 idF RÄG 2014 bzw. AFRAC Stellungnahme 27 sehen die **Nominalmethode** (Bruttomethode) vor. Abfertigungen und Jubiläumsgelder sind mit dem Erfüllungsbetrag anzusetzen. Dieser **Erfüllungsbetrag** ist mit einem **Nominalzinssatz** über die Dienstzeit zu verteilen. Dagegen wird im aktuellen Fachgutachten KFS/RL 2 die Anwendung der **Realwertmethode** (Nettomethode) gefordert. Dabei wird der **aktuelle Bezug,** also ohne zukünftige Gehaltssteigerungen, mit einem **Realzinssatz** verzinst.
 
@@ -8,25 +8,25 @@ Schon bisher war es möglich in den Stammdaten des Klienten diese Gehaltssteiger
 
 Die Rückstellung wird auf Basis der Bruttomethode mit **konstanten Rentenendwertfaktoren** mit Hilfe der Formel
 
-RST = maßgeblicher Abfertigungsanspruch x $\frac{REFbisherigige\ Dienstzeit}{REFgesamte\ Dienstzeit}$
+![Image](img/image282.png){width="500"}
 
 gebildet. Der maßgebliche Abfertigungsanspruch ergibt sich hierbei aus dem laufenden Bezug, der mit einem Gehaltssteigerungsprozentsatz erhöht wird.
 
 Die Rentenendwertfaktoren werden dabei bisher mit Hilfe der Formel für eine **vorschüssige, konstante Rente ermittelt.**
 
-$${REFkonstant}^{} = (1 + i)\ x\ \frac{(1 + i)^{n} - 1}{i}$$
+![Image](img/image283.png){width="300"}
 
 **Option zur Umstellung auf progressive Bruttomethode oder Nettomethode**
 
 Um die geforderten konsistenten Ergebnisse zu erhalten, besteht die Möglichkeit, in den Klientenstammdaten (*Stamm / Klient / Details Rückstellungen (1)*) entweder auf die progressive *Bruttomethode* oder auf die *Nettomethode* umzustellen.
 
-![Image](<img/image281.png>)
+![Image](<img/image281.png>){width="500"}
 
 **A) Progressive Bruttomethode**
 
 Wie bisher wird der lfd. Bezug hier zunächst mit Hilfe des Gehaltssteigerungsprozentsatzes auf einen maßgeblichen Abfertigungsanspruch hochgerechnet (Erfüllungsbetrag). Im Unterschied zur bisherigen Berechnung kommen nun aber die Rentenendwertfaktoren für eine progressive, vorschüssige Rente zum Einsatz.
 
-$${REFprogressiv}^{} = (1 + i)\ x\ \frac{(1 + i)^{n} - {(1 + s)}^{n}\ }{i - s}$$
+![Image](img/image284.png){width="350"}
 
 D. h. im Vergleich zur bisherigen Berechnungsvariante verändern sich hier die REF für die bisherige Dienstzeit und für die gesamte Dienstzeit.
 
@@ -34,11 +34,11 @@ D. h. im Vergleich zur bisherigen Berechnungsvariante verändern sich hier die 
 
 Als Alternative dazu kann in den Stammdaten auch die *Nettomethode* angewählt werden. Auf Basis des eingegebenen Nominalzinssatzes und des Prozentsatzes für die Gehaltssteigerungen, wird über die Formel
 
-$${i\text{real}}^{} = \frac{1 + inominal}{1 + s} - 1$$
+![Image](img/image285.png){width="200"}
 
 ein **Realzinssatz** ermittelt, der auch sofort angezeigt wird. Im Gegensatz zu den beiden Bruttovarianten wird in der Nettomethode der maßgebliche Abfertigungsanspruch **nur aus den laufenden Bezügen** gebildet (also ohne Gehaltssteigerung). Nachdem die Gehaltssteigerungen hier bereits über den Realzinssatz (ireal) Berücksichtigung finden, kommt hier wieder
 
-$${REFkonstant}^{} = (1 + i)\ x\ \frac{(1 + i)^{n} - 1}{i}$$
+![Image](img/image286.png){width="300"}
 
 d. h. die Formel für die konstanten Rentenendwertfaktoren zum Einsatz, allerdings natürlich mit einem veränderten Zinssatz im Vergleich zur bisherigen Berechnung.
 

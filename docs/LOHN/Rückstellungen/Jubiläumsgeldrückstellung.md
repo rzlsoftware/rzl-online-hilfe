@@ -1,8 +1,8 @@
-## Jubiläumsgeldrückstellung
+# Jubiläumsgeldrückstellung
 
 Die Rückstellung der Jubiläumsgelder für Dienstnehmerjubiläen wird im Menüpunkt *Ausdruck / Rückstellungen / Jubiläumsgeldrückstellungen* erstellt und ausgedruckt.
 
-![Image](<img/image264.png>)
+![Image](<img/image264.png>){width="500"}
 
 Im Eingabebereich *Basis für Jubiläumsgeldrückstellung* ist festzulegen, wie die Basis für die Rückstellung gebildet werden soll. In den Monatsbezug wird vom Programm von den vorgegebenen Lohnarten der Bruttolohn, die Stundenlöhne, die Erschwerniszulage, eventuelle Auslandseinkünfte, die Überstunden, Mehrstunden, sowie die Überstundenpauschale miteinbezogen.
 
@@ -12,9 +12,9 @@ Sollen auch Dienstnehmer in die Berechnung der Rückstellung miteinbezogen werde
 
 Durch Anwahl der Schaltfläche *Weiter* wird das Listenfeld mit sämtlichen Dienstnehmern angezeigt.
 
-![Image](<img/image265.png>)
+![Image](<img/image265.png>){width="500"}
 
-Diese Grundeinstellungen können auch im Menüpunkt *Stamm / Klient / Details Rückstellungen (3)* aufgerufen bzw. bearbeitet werden. Die Eingabefelder wurden bereits im Kapitel 17.1.3 Details Rückstellungen (3), Seite [254](#details-rückstellungen-3) behandelt.
+Diese Grundeinstellungen können auch im Menüpunkt *Stamm / Klient / [Details Rückstellungen (3)](../Rückstellungen/Stammdaten.md)* aufgerufen bzw. bearbeitet werden.
 
 Sind die entsprechenden Eintragungen vorgenommen, kehrt man durch Anwahl der Schaltfläche *Speichern* wieder in den Ausgangsdialog zurück:
 
@@ -62,7 +62,7 @@ Durch dieses Feld wird bestimmt wieviel von der Sonderzahlungshöchstbemessungsg
 !!! info "Tipp"
     Wurden in den Eingabefeldern *Pension, Basis* oder *Lohnnebenkosten* abweichende Eintragungen vorgenommen, so wird durch Anwahl der *F2-Taste* der ursprünglich eingetragene bzw. vom Programm errechnete Wert eingetragen.
 
-### Aufruf Berechnungsblatt Jubiläumsgeldrückstellung
+## Aufruf Berechnungsblatt Jubiläumsgeldrückstellung
 
 Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung von diesem ausgewählten Dienstnehmer.
 

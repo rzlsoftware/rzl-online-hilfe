@@ -1,10 +1,10 @@
-## Jahresübernahme innerhalb eines Klienten
+# Jahresübernahme innerhalb eines Klienten
 
 Zur Durchführung der Jahresübernahme muss der Klient geöffnet sein.
 
 Nach Anwahl des Menüpunktes *Bearbeiten / Übernahme / Jahresübernahme* erscheint folgender Dialog:
 
-![Image](<img/image246.png>)
+![Image](<img/image246.png>){width="500"}
 
 
 **Unterdienstgeber / Arbeitsstätten / Kostenstellen / Kostenträger**
@@ -19,7 +19,7 @@ Wenn das Häkchen im Feld *Dienstnehmer* deaktiviert wird, können Sie die Jahre
 
 Durch Anwahl dieses Kästchens werden die darunter angeführten Dienstnehmer nach dem Alphabet sortiert.
 
-**Ausget**r**etene Dienstnehmer übernehmen**
+**Ausgetretene Dienstnehmer übernehmen**
 
 Durch Aktivierung des Feldes *ausgetretene Dienstnehmer übernehmen* werden auch die ausgetretenen Dienstnehmer angezeigt und übernommen.
 
@@ -29,7 +29,7 @@ Durch Aktivierung des Feldes *ausgetretene Dienstnehmer übernehmen* werden auch
 Die Übernahme der im Abrechnungsbildschirm Dienstnehmer-Notizen angelegten Eintragungen kann durch Deaktivierung des  Auswahlfeldes *Dienstnehmer-Notizen übernehmen* verhindert werden.
 
 !!! info "Tipp"
-    Im Zuge der Jahresübernahme können alle Dienstnehmernummern durch Aktivierung des Auswahlfeldes *Nummern ändern* geändert werden. Es kann jeder Dienstnehmer einzeln angewählt werden und die Nummer wird von Hand korrigiert oder es wird die Schaltfläche *laufend nummerieren* angewählt und die Dienstnehmer werden beginnend mit der ersten Nummer des Dienstnehmernummernbereiches (Kapitel 1.3, Seite 1.3) fortlaufend durchnummeriert.
+    Im Zuge der Jahresübernahme können alle Dienstnehmernummern durch Aktivierung des Auswahlfeldes *Nummern ändern* geändert werden. Es kann jeder Dienstnehmer einzeln angewählt werden und die Nummer wird von Hand korrigiert oder es wird die Schaltfläche *laufend nummerieren* angewählt und die Dienstnehmer werden beginnend mit der ersten Nummer des [Dienstnehmernummernbereiches](../Allgemeines/DN-Nummernbereich.md) fortlaufend durchnummeriert.
 
 **Nummer ändern**
 
@@ -37,7 +37,7 @@ Durch Aktivierung dieses Feldes kann durch die Jahresübernahme die Dienstnehmer
 
 **Lohnarten**
 
-Im Zuge der Jahresübernahme kann von Klienten-Lohnarten auf Kanzleilohnarten (Kapitel 2.1.5, Seite [31](#registerblatt-la-formeln-texte-kontenplan-beiträge-währung)) umgestiegen werden oder umgekehrt.
+Im Zuge der Jahresübernahme kann von Klienten-Lohnarten auf [Kanzleilohnarten](../Klientenstammdaten/Stammdaten%20Klient%20(Dienstgeber)/LA%2C%20Formeln%2C%20Texte%2C%20Kontenplan%2C%20Beiträge%2C%20Währung.md) umgestiegen werden oder umgekehrt.
 
 **Texte**
 

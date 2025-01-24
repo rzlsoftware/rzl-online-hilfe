@@ -1,8 +1,8 @@
-## Erneute Jahresübernahme
+# Erneute Jahresübernahme
 
 Bei einer erneuten Jahresübernahme haben Sie die Möglichkeit, die Urlaubs-, Krankenstands- und Zeitausgleichkartei nochmals zu übernehmen.
 
-![Image](<img/image247.png>)
+![Image](<img/image247.png>){width="500"}
 
 
 !!! warning "Hinweis"

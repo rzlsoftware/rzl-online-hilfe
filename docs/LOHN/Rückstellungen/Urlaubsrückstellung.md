@@ -1,8 +1,8 @@
-## Urlaubsrückstellung
+# Urlaubsrückstellung
 
 Nach Anwahl des Menüpunktes *Ausdruck / Rückstellungen / Urlaubsrückstellung* wird folgender Dialog geöffnet:
 
-![Image](<img/image259.png>)
+![Image](<img/image259.png>){width="500"}
 
 Im Eingabebereich *Basis für Urlaubsrückstellung* ist analog zur Abfertigungsrückstellung festzulegen, welche Monatsbezüge als Basis für die Berechnung herangezogen werden sollen. Als Monatsbezug wird vom Programm von den vorgegebenen Lohnarten der Bruttolohn, die Stundenlöhne, die Erschwerniszulage, eventuelle Auslandseinkünfte, die Überstunden, Mehrstunden, sowie die Überstundenpauschale einbezogen. Von den freien Lohnarten werden nur jene in der Rückstellungsberechnung berücksichtigt, bei denen das Auswahlfeld *Bemessung Urlaubsrückstellung* aktiviert wurde. Durch Anwahl *Aufteilung nach Kostenstellen* kann die Rückstellung nach Kostenstellen ausgegeben werden.
 
@@ -10,9 +10,9 @@ Als Basis für die Berücksichtigung der Sonderzahlungen kann entweder der *Ansp
 
 Durch Anwahl der Schaltfläche *Weiter* wird das Listenfeld mit sämtlichen Dienstnehmern angezeigt. Die Grundeinstellungen können durch die Schaltfläche *Details* vor dem Ausdruck noch geprüft werden.
 
-![Image](<img/image260.png>)
+![Image](<img/image260.png>){width="400"}
 
-Diese Grundeinstellungen können auch im Menüpunkt *Stamm / Klient / Details Rückstellungen (2)* aufgerufen bzw. bearbeitet werden. Die Beschreibung zu den einzelnen Feldern finden sie im Kapitel 17.1.2 Details Rückstellungen (2), Seite [253](#details-rückstellungen-2).
+Diese Grundeinstellungen können auch im Menüpunkt *Stamm / Klient / [Details Rückstellungen (2)](../Rückstellungen/Stammdaten.md)* aufgerufen bzw. bearbeitet werden.
 
 Sind die entsprechenden Eintragungen vorgenommen, dann wird durch Anwahl der Schaltfläche *Speichern* wieder der Ausgangsdialog geöffnet.
 
@@ -45,7 +45,7 @@ In diesem Eingabefeld werden die Lohnnebenkosten in Prozent angezeigt. Vom Progr
 
 **Teiler**
 
-Hier wird der in den *Details* eingetragene *Teiler* angezeigt. Innerhalb der Urlaubskartei (vgl. Kapitel 5.19, Seite [119](#urlaub)) oder in der angezeigten Dienstnehmerliste kann pro Dienstnehmer ein individueller Teiler bestimmt werden.
+Hier wird der in den *Details* eingetragene *Teiler* angezeigt. Innerhalb der [Urlaubskartei](../Abrechnungsbildschirme/Urlaub.md) oder in der angezeigten Dienstnehmerliste kann pro Dienstnehmer ein individueller Teiler bestimmt werden.
 
 Wenn die Urlaubskartei nach Stunden geführt wird, hat die Eintragung des Monatsteilers keine Auswirkung, da das Programm automatisch die Anzahl der Wochenstunden (Abrechnungsbildschirm *Eintritt*) auf einen vollen Monat hochrechnet und diesen Wert als Teiler verwendet.
 
@@ -77,7 +77,7 @@ Das Programm ermittelt automatisch aufgrund der eingegebenen Daten den Rückstel
 !!! info "Tipp"
     Es erfolgt stets eine automatische Abgrenzung der Urlaubsansprüche aufgrund der zeitlichen Überschneidung zwischen Urlaubsjahr und Bilanzstichtag. In der Urlaubskartei sollten daher die vollen Ansprüche erfasst oder die Funktion *dauerhafte Anspruchsaliquotierung* zum Einsatz kommen. Nur so wird eine doppelte Aliquotierung und damit falsche, meist negative Rückstellungswerte verhindert.
 
-### Aufruf Berechnungsblatt Urlaubsrückstellung
+## Aufruf Berechnungsblatt Urlaubsrückstellung
 
 Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung von diesem ausgewählten Dienstnehmer.
 
