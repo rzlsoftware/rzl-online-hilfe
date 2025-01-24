@@ -1,9 +1,9 @@
-## Datenexport Bankdaten
+# Datenexport Bankdaten
 
 Im Programmteil *Bearbeiten / Datenexport / Bankdaten* können die Bankverbindungen, die innerhalb des Klienten gespeichert sind, 
 exportiert werden. Die erstellte Datei kann an das Bankinstitut (siehe Bildschirm unten) übermittelt werden. In Zusammenarbeit des Bankinstituts mit der Stuzza (Studiengesellschaft für Zusammenarbeit im Zahlungsverkehr) werden die Daten geprüft und die BLZ und die Kontonummer in BIC und IBAN umgewandelt. Die Datei wird anschließend vom Kreditinstitut retourniert und kann in der Lohnverrechnung im Programmteil *Bearbeiten / Datenimport / Bankdaten* hereingespielt werden.
 
-![Image](<img/image289.png>)
+![Image](<img/image289.png>){width="500"}
 
 **Dateiname**
 

@@ -1,8 +1,10 @@
+# Allgemeines
+
 Im Programmteil *Bearbeiten / Datenexport / Datenexport* können Dienstnehmer-Daten aus der Lohnverrechnung exportiert werden. Je nach Format der Export-Datei kann diese in verschiedenen Anwendungen verwendet werden (z. B. Word, Excel). Es können mehrere Listen mit unterschiedlichen Export-Daten erstellt werden. Diese Listen können nach Erstellung *klientenübergreifend* angewendet werden.
 
 Nach Anwahl des Menüpunktes *Bearbeiten / Datenexport / Datenexport* wird folgender Dialog aufgerufen:
 
-![Image](<img/image282.png>)
+![Image](<img/image282.png>){width="500"}
 
 Als erster Schritt ist im Eingabefeld *Monate einzeln von,* der Zeitraum anzuwählen, für den der Datenexport erfolgen soll.
 

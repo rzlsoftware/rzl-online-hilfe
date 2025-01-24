@@ -1,4 +1,4 @@
-## Erstellung / Aufbau der Daten-Liste (Export-Datei)
+# Erstellung / Aufbau der Daten-Liste (Export-Datei)
 
 Die Auswahl der zu exportierenden Daten erfolgt im Dialogbereich *Auswahl Listenform*. Die Zuordnung der bereits angelegten Listenformen kann *Allgemein, Arbeitsplatz* oder *Persönlich* sein.
 
@@ -22,7 +22,7 @@ In den Registerblättern *Allgemein, Arbeitsplatz, Persönlich* sind die bereits
 
 Zur Erstellung einer Liste ist die Schaltfläche *Neu* anzuwählen und es wird folgender Dialog aufgerufen:
 
-![Image](<img/image284.png>)
+![Image](<img/image284.png>){width="500"}
 
 **Registerblatt Allgemein**
 
@@ -32,7 +32,7 @@ Im Registerblatt *Allgemein* werden der *Name* und ein eventueller *Kommentar* e
 
 Im Registerblatt *Felder* findet die Auswahl der Daten, die in die Liste übernommen werden sollen, statt. Im Listenfeld *Felder* (am Bildschirm links) werden sämtliche Daten angezeigt, die exportiert werden können. Ein Großteil der Daten der einzelnen Abrechnungsbildschirme kann zum Exportieren ausgewählt werden.
 
-![Image](<img/image285.png>)
+![Image](<img/image285.png>){width="600"}
 
 Durch Anwahl des +(plus)-Feldes vor dem jeweiligen Datenordner wird die darunterliegende hierarchische Datenstruktur geöffnet. Es werden jene Felder in die Listenform übernommen, die entweder mittels *Leertaste* oder *Maus* aktiviert werden. Die Aktivierung wird im Listenfeld *Felder* durch ein Häkchen im Kästchen vor den jeweiligen Datenordnern angezeigt.
 
@@ -47,7 +47,7 @@ Im Listenfeld *Listenform* (am Bildschirm rechts) werden die ausgewählten Daten
 
 Im Registerblatt *Optionen* werden die Eigenschaften der Exportdatei festgelegt:
 
-![Image](<img/image286.png>)
+![Image](<img/image286.png>){width="500"}
 
 **Datenformat**
 
