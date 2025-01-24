@@ -1,7 +1,7 @@
-### Bearbeiten des Mengengerüsts
+# Bearbeiten des Mengengerüsts
 
 Wenn die Lohn-Formeln innerhalb des Klienten verwaltet werden, ist zunächst das Mengen­gerüst des betreffenden Klienten im Programmteil *Klient / Vergrößern/Verkleinern* zu bearbeiten.
 
-![Image](<img/image373.png>)
+![Image](<img/image373.png>){width="500"}
 
 Im Registerblatt *Mengengerüst (2)* wird die Anzahl der benötigten Lohn-Formeln eingetragen.
