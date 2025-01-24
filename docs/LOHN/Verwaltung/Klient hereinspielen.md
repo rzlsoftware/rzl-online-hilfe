@@ -1,3 +1,0 @@
-## Klient hereinspielen
-
-Der Menüpunkt *Klient / Verwaltung / Hereinspielen* ermöglicht das Hereinspielen von Lohn-Klienten auf den Rechner. Befinden sich auf dem Speichermedium mehrere Klienten, so werden wiederum durch Betätigung der Schaltfläche *Erweitert* alle darauf befindlichen Klienten angezeigt. Durch Aktivierung der gewünschten Klienten mittels *Leertaste* oder *Maus* und Drücken der Schaltfläche *Hereinspielen* werden diese gleichzeitig hereingespielt.

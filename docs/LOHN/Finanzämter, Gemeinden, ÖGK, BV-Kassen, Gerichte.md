@@ -42,111 +42,32 @@ Im Registerblatt *Gerichte* werden die Gerichte, die für die Abrechnung von Exe
 
 Im Registerblatt *Sonstige* können Behörden oder Abgabenstellen hinterlegt werden. Ebenso gibt es die Möglichkeit einen Zahlungstermin (monatlich, vierteljährlich, halbjährlich, jährlich) auszuwählen.
 
-![Image](<img/image244.png>)
+![Image](<img/image244.png>){width="500"}
 
 ## Anlage der Versicherungsanstalten für die Eisenbahnen, für den Bergbau, die öffentlichen Bediensteten und des Notariats
 
 Die Versicherungsanstalten für die Eisenbahn, dem Bergbau, die öffentlichen Bediensteten und des Notariats müssen in den Stammdaten der Behörden angelegt werden. Wichtig dabei ist, die Vergabe der **laufenden Nummer** für das jeweilige Bundesland, wie nachfolgend beschrieben:
 
-<table>
-<colgroup>
-<col style="width: 47%" />
-<col style="width: 52%" />
-</colgroup>
-<thead>
-<tr>
-<th>VA der Eisenbahnen</th>
-<th>VA des öffentlichen Dienstes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>11. Eisenbahn Wien</td>
-<td>31. Öffent. Dienst Wien</td>
-</tr>
-<tr>
-<td>12. Eisenbahn Niederösterreich</td>
-<td>32. Öffent. Dienst Niederösterreich</td>
-</tr>
-<tr>
-<td>13. Eisenbahn Burgenland</td>
-<td>33. Öffent. Dienst Burgenland</td>
-</tr>
-<tr>
-<td>14. Eisenbahn Oberösterreich</td>
-<td>34. Öffent. Dienst Oberösterreich</td>
-</tr>
-<tr>
-<td>15. Eisenbahn Salzburg</td>
-<td>35. Öffent. Dienst Salzburg</td>
-</tr>
-<tr>
-<td>16. Eisenbahn Tirol</td>
-<td>36. Öffent. Dienst Tirol</td>
-</tr>
-<tr>
-<td>17. Eisenbahn Vorarlberg</td>
-<td>37. Öffent. Dienst Vorarlberg</td>
-</tr>
-<tr>
-<td>18. Eisenbahn Steiermark</td>
-<td>38. Öffent. Dienst Steiermark</td>
-</tr>
-<tr>
-<td>19. Eisenbahn Kärnten</td>
-<td>39. Öffent. Dienst Kärnten</td>
-</tr>
-<tr>
-<td><strong><br />
-VA des Bergbaus</strong></td>
-<td><strong>VA des Notariats</strong></td>
-</tr>
-<tr>
-<td>21. Bergbau Wien</td>
-<td>41. Notariat Wien</td>
-</tr>
-<tr>
-<td>22. Bergbau Niederösterreich</td>
-<td>42. Notariat Niederösterreich</td>
-</tr>
-<tr>
-<td>23. Bergbau Burgenland</td>
-<td>43. Notariat Burgenland</td>
-</tr>
-<tr>
-<td>24. Bergbau Oberösterreich</td>
-<td>44. Notariat Oberösterreich</td>
-</tr>
-<tr>
-<td>25. Bergbau Salzburg</td>
-<td>45. Notariat Salzburg</td>
-</tr>
-<tr>
-<td>26. Bergbau Tirol</td>
-<td>46. Notariat Tirol</td>
-</tr>
-<tr>
-<td>27. Bergbau Vorarlberg</td>
-<td>47. Notariat Vorarlberg</td>
-</tr>
-<tr>
-<td>28. Bergbau Steiermark</td>
-<td>48. Notariat Steiermark</td>
-</tr>
-<tr>
-<td>29. Bergbau Kärnten</td>
-<td>49. Notariat Kärnten</td>
-</tr>
-</tbody>
-</table>
+| VA der Eisenbahnen             | VA des Bergbaus              | VA des öffentlichen Dienstes        | VA des Notariats              |
+| ------------------------------ | ---------------------------- | ----------------------------------- | ----------------------------- |
+| 11. Eisenbahn Wien             | 21. Bergbau Wien             | 31. Öffent. Dienst Wien             | 41. Notariat Wien             |
+| 12. Eisenbahn Niederösterreich | 22. Bergbau Niederösterreich | 32. Öffent. Dienst Niederösterreich | 42. Notariat Niederösterreich |
+| 13. Eisenbahn Burgenland       | 23. Bergbau Burgenland       | 33. Öffent. Dienst Burgenland       | 43. Notariat Burgenland       |
+| 14. Eisenbahn Oberösterreich   | 24. Bergbau Oberösterreich   | 34. Öffent. Dienst Oberösterreich   | 44. Notariat Oberösterreich   |
+| 15. Eisenbahn Salzburg         | 25. Bergbau Salzburg         | 35. Öffent. Dienst Salzburg         | 45. Notariat Salzburg         |
+| 16. Eisenbahn Tirol            | 26. Bergbau Tirol            | 36. Öffent. Dienst Tirol            | 46. Notariat Tirol            |
+| 17. Eisenbahn Vorarlberg       | 27. Bergbau Vorarlberg       | 37. Öffent. Dienst Vorarlberg       | 47. Notariat Vorarlberg       |
+| 18. Eisenbahn Steiermark       | 28. Bergbau Steiermark       | 38. Öffent. Dienst Steiermark       | 48. Notariat Steiermark       |
+| 19. Eisenbahn Kärnten          | 29. Bergbau Kärnten          | 39. Öffent. Dienst Kärnten          | 49. Notariat Kärnten          |
 
-## Finanzämter/Gemeinden/ÖGK/BV-Kassen/Gerichte sichern
+
+## Gerichte sichern
 
 Im Menüpunkt *Klient / Finanzämter/Gemeinden/ÖGK/BV-Kassen/ Gerichte / Sichern* können die Behördendaten gesichert werden.
 
 In diesem Dialog können über die Schaltfläche *Erweitert* alle vorhandenen allgemeinen Dateien aufgerufen werden und durch die Aktivierung der entsprechenden Daten mehrere Daten auf einmal gesichert werden.
 
-## Finanzämter/Gemeinden/ÖGK/BV-Kassen/Gerichte drucken
+## Gerichte drucken
 
 Im Menüpunkt *Klient / Finanzämter/Gemeinden/ÖGK/BV-Kassen/Gerichte* besteht die Mög­lichkeit, die Behördendaten auszudrucken.
 
