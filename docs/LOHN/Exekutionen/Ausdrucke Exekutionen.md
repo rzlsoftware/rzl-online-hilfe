@@ -1,10 +1,10 @@
-## Ausdrucke Exekutionen
+# Ausdrucke Exekutionen
 
-### Zahlscheindruck / E-Banking
+## Zahlscheindruck / E-Banking
 
 Der Zahlscheindruck für die Exekutionsbeträge erfolgt im Programmteil *Ausdruck / Überweisungen / Zahlscheine / Exekutionsbeträge*. Soll anstatt des Zahlscheindruck E-Banking durchgeführt werden, ist der Programmteil *Bearbeiten / Electronic Banking (Sepa) / Exekutionsbeträge* anzuwählen.
 
-### Listen und Formulare
+## Listen und Formulare
 
 Weitere Ausdrucke betreffend Exekution finden sich im Programm *Ausdruck / Exekutionen*.
 

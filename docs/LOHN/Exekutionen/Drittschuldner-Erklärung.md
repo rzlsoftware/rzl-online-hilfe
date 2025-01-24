@@ -1,10 +1,10 @@
-## Drittschuldner-Erklärung
+# Drittschuldner-Erklärung
 
 Im Programmteil *Stamm / Exekutionen* werden im Wesentlichen die Eintragungen für die Drittschuldnererklärung vorgenommen. Als erster Schritt ist die Dienstnehmernummer, für die die Eintragungen vorgenommen werden sollen, einzutragen.
 
-### Registerblatt Exekutionssache
+## Registerblatt Exekutionssache
 
-![Image](<img/image312.png>)
+![Image](<img/image312.png>){width="500"}
 
 **Einlangungszeitpunkt**
 
@@ -38,7 +38,7 @@ Im Feld *davon Kapitalforderung* können Sie die Höhe der (Kapital-)Forderung, 
 
 Hier werden Forderungen, die nach dem Einlangungszeitpunkt geltend gemacht werden (z. B. Zinsen), mit Betrag und Datum eingetragen. Die Datumseingabe ist nicht für die Rangreihenfolge notwendig, hier zählt der Einlangungszeitpunkt, für die erstmalige Berücksichtigung im Rahmen der Exekution.
 
-### Registerblatt Betreiber 1/2
+## Registerblatt Betreiber 1/2
 
 In diesen Registerblättern sind die Daten des Betreibers (Gläubigers) und eventuell dessen Vertreters mit den persönlichen Daten einzutragen.
 
@@ -46,7 +46,7 @@ Im Fall von Unterhaltsforderungen können mehrere Parteien mit den Daten des Ver
 
 Im Feld *Anmerkung* können Einträge gemacht werden, die wenn zusätzlich das Feld *Anmerkung auf Überweisung* aktiviert ist, als Information (Verwendungszweck) bei den Überweisungen verwendet werden.
 
-### Registerblatt Drittschuldner-Erklärung (1)
+## Registerblatt Drittschuldner-Erklärung (1)
 
 **Forderung des Verpflichteten**
 
@@ -63,7 +63,7 @@ Unterhaltspflichten, die der Verpflichtete (Dienstnehmer) erfüllen muss, werden
 
 Wurde dem Verpflichteten (Dienstnehmer) ein Vorschuss gewährt, ist dieses Feld zu aktivieren und die Höhe des gewährten Vorschusses einzutragen.
 
-### Registerblatt Drittschuldner-Erklärung (2)
+## Registerblatt Drittschuldner-Erklärung (2)
 
 **Reihung der letzten Forderung im Verhältnis zu dieser Forderung**
 
@@ -81,10 +81,10 @@ Liegt keine Zahlungsbereitschaft des Dienstgebers (Drittschuldners) vor, dann is
 
 Wird seitens des Gerichts ein Verwalter bestimmt, dass er die unpfändbaren Freibeträge berechnet, muss hier ein Häkchen bei *ja* für die Drittschuldnererklärung gesetzt werden.
 
-### Registerblatt Drittschuldner-Erklärung (3)
+## Registerblatt Drittschuldner-Erklärung (3)
 
 **Kostenvariante**
 
-Hier können Sie die gewünschte Kostenvariante für den Ersatz der Aufwendung des Dienstgebers betreffend Drittschuldnererklärung auswählen. Die hier definierte Kostenvariante kann als automatischer Abzug in der Abrechnung hinterlegt werden (Kapitel 22.2.2 Automatische Ermittlung der Exekution, Seite [306](#automatische-ermittlung-der-exekution)).
+Hier können Sie die gewünschte Kostenvariante für den Ersatz der Aufwendung des Dienstgebers betreffend Drittschuldnererklärung auswählen. Die hier definierte Kostenvariante kann als automatischer Abzug in der Abrechnung hinterlegt werden ([Automatische Ermittlung der Exekution](../Exekutionen/Exekutionsberechnung.md)).
 
-![Image](<img/image313.png>)
+![Image](<img/image313.png>){width="350"}

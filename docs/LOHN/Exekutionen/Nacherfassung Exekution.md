@@ -1,8 +1,8 @@
-## Nacherfassung Exekution
+# Nacherfassung Exekution
 
 Wenn außerhalb der Lohnverrechnung bereits Exekutionsbeträge beim Dienstnehmer abge­zogen wurden oder wenn die Exekutionsbeträge bisher manuell als Abzug eingetragen wurden, können die Daten für die korrekte Verwaltung der Exekution im Programmteil *Stamm / Exekutionsbeträge* nacherfasst werden.
 
-![Image](<img/image321.png>)
+![Image](<img/image321.png>){width="500"}
 
 Zunächst ist die Dienstnehmernummer, für die nacherfasst werden soll, einzutragen. Eine Nacherfassung setzt voraus, dass für diesen Dienstnehmer bereits eine Exekution im Programmteil *Stamm / Exekutionen* angelegt ist. Die Pfändung für die, die Nacherfassung stattfinden soll, ist im ersten Listenfeld anzuwählen.
 

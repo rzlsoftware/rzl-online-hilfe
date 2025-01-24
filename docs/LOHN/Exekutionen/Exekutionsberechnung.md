@@ -1,10 +1,10 @@
-## Exekutionsberechnung
+# Exekutionsberechnung
 
 Die Exekution wird in einem eigenen Abrechnungsbildschirm durchgeführt. Bevor die Exekution automatisch berechnet wird, sind die freien Lohnarten bezüglich der Pflichtigkeiten für die Exekutionsberechnung zu bearbeiten.
 
-### Bearbeitung freie Lohnarten
+## Bearbeitung freie Lohnarten
 
-![Image](<img/image314.png>)
+![Image](<img/image314.png>){width="500"}
 
 Im unteren rechten Bereich des Bildschirmes sind die freien Lohnarten für die Exekutionsberechnung zu bearbeiten.
 
@@ -24,11 +24,11 @@ Beendigungsansprüche (Abfertigungen, Urlaubsersatzleistungen), die als freie Lo
 
 Die Anzahl der Unterhaltsberichtigten wird aus dem Abrechnungsbildschirm *Stammdaten* *Dienstnehmer* aus den Bereichen *Ehepartner* und *Kinder* übernommen, wenn dort das Feld *Unterhalt* aktiviert wird.
 
-![Image](<img/image315.png>)
+![Image](<img/image315.png>){width="500"}
 
-### Automatische Ermittlung der Exekution
+## Automatische Ermittlung der Exekution
 
-![Image](<img/image316.png>)
+![Image](<img/image316.png>){width="500"}
 
 Im ersten Bereich wird festgelegt, ob die Exekutionsberechnung automatisch erfolgen soll oder nicht.
 
@@ -50,7 +50,7 @@ Sollen die laufenden Exekutionskosten abgezogen werden, ist dieses Feld zu aktiv
 
 **Abzug Drittschuldnerkosten**
 
-Neben der Option für die eigentlichen *Exekutionskosten*, gibt es die Möglichkeit die Kosten für die Drittschuldnererklärung einzubehalten. Der Abzug richtet sich nach der *Kostenvariante*, welche unter *Stamm / Exekutionen* hinterlegt wurde (Kapitel 22.1.5 Registerblatt Drittschuldner-Erklärung (3), Seite [304](#registerblatt-drittschuldner-erklärung-3)). Diese Kosten reduzieren nicht das Existenzminimum des Dienstnehmers, sondern kürzen jenen Betrag, der an die Gläubiger überwiesen wird.
+Neben der Option für die eigentlichen *Exekutionskosten*, gibt es die Möglichkeit die Kosten für die Drittschuldnererklärung einzubehalten. Der Abzug richtet sich nach der *Kostenvariante*, welche unter [*Stamm / Exekutionen*](../Exekutionen/Drittschuldner-Erklärung.md) hinterlegt wurde. Diese Kosten reduzieren nicht das Existenzminimum des Dienstnehmers, sondern kürzen jenen Betrag, der an die Gläubiger überwiesen wird.
 
 !!! warning "Hinweis"
     Diese Kostenvariante ist in der Regel nur sinnvoll, wenn es sich um eine Pfändung im 1. Rang handelt.
@@ -93,9 +93,9 @@ Mit Hilfe der Option *quartalsweise Sonderzahlung* wird nur mehr die **Hälfte d
 | :----------------------------- | ------: | -----------: |
 | Berechnungsgrundlage           |     EUR |     1.240,00 |
 | - allg. Grundbetrag (Hälfte)   |     EUR |     - 555,00 |
-| Mehrbetrag                     |     EUR |       685,00 |
+| *Mehrbetrag*                   |     EUR |     *685,00* |
 | - allg. Steigerungsbetrag 30 % |     EUR |     - 205,50 |
-| Pfändbar                       |     EUR |       479,50 |
+| *Pfändbar*                     |     EUR |     *479,50* |
 | + Abrundung                    |     EUR |         8,11 |
 | **Pfändbar gesamt**            |     EUR |   **487,61** |
 
@@ -105,15 +105,15 @@ Der pfändbare Betrag aus der Sonderzahlung steigt auf EUR 487,61. Das Existenz
 | :----------------------------- | ------: | -----------: |
 | Berechnungsgrundlage           |     EUR |     2.100,00 |
 | - allg. Grundbetrag            |     EUR |   - 1.110,00 |
-| Mehrbetrag                     |     EUR |       990,00 |
+| *Mehrbetrag*                   |     EUR |     *990,00* |
 | - allg. Steigerungsbetrag 30 % |     EUR |     - 297,00 |
-| Pfändbar                       |     EUR |       693,00 |
+| *Pfändbar*                     |     EUR |     *693,00* |
 | + Abrundung                    |     EUR |        12,20 |
 | **Pfändbar gesamt**            |     EUR |   **705,20** |
 
 In der Kombination aus lfd. Bezug und quartalsweiser Sonderzahlung ergibt dies einen pfändbaren Betrag von EUR 1.192,81 bzw. ein kombiniertes Existenzminimum von EUR 2.167,50.
 
-![Image](<img/image320.png>)
+![Image](<img/image320.png>){width="500"}
 
 In den folgenden Sonderzahlungsmonaten ergibt sich die gleiche Vorgehensweise. Durch die veränderte Lohnsteuerberechnung ergeben sich leichte Unterschiede in der Netto-Berechnungsgrundlage und dadurch auch bei der Pfändung. (Freigrenzen und Freibeträge)
 
