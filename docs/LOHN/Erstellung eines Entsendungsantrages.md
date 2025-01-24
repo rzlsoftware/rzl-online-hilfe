@@ -6,7 +6,7 @@
 
 Über den Menüpunkt *Stamm / Entsendungsantrag* ist zunächst der betroffene Dienstnehmer auszuwählen und der Beginn der Entsendung zu bestimmen (Aufruf der Dienstnehmer mit der *F2-Taste*).
 
-![Image](<img/image346.png>)
+![Image](<img/image346.png>){width="500"}
 
 Nach Anwahl der Schaltfläche *Anlegen* wird der Erfassungsdialog geöffnet. Dort müssen Sie zunächst die Art des Entsendungsantrages bestimmen: Dabei stehen folgende Arten des Entsendungsantrags zu Auswahl:
 
@@ -37,7 +37,7 @@ Der 2. Teil des Entsendungsantrages enthält neben Informationen zu der Art der 
 
 Wurden alle Pflichtfelder befüllt und wird anschließend der Dialog über *Speichern* verlassen, wird folgender Hinweis angezeigt.
 
-![Image](<img/image349.png>)
+![Image](<img/image349.png>){width="350"}
 
 Wird diese Abfrage mit *Ja* beantwortet, kommt es direkt zur Übernahme in die ÖGK-Datei. Über *Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK absenden* wird diese Meldung dann einzeln oder mit anderen Meldungen gemeinsam an die ÖGK übertragen.
 
@@ -50,7 +50,7 @@ Wird diese Abfrage mit *Ja* beantwortet, kommt es direkt zur Übernahme in die �
 
 Der Entsendungsantrag wird zunächst manuell von den Sachbearbeitern der Sozialversicherungsträger bearbeitet und daraufhin das entsprechende Formular A1 über ELDA retour geschickt. Sie sollten hier vor der Abreise des Dienstnehmers daher einige Tage Bearbeitungszeit einplanen. Der Abruf bzw. Empfang dieser Formulare erfolgt nach den gleichen Prinzipien wie z. B. bei den Krankenstandsbescheinigungen oder den Clearingfällen. Beim ersten Programmstart am Tag bzw. bei jeder Übermittlung wird automatisch abgefragt, ob Entsendebestätigungen vorhanden sind. Über *Bearbeiten / Elektronische Übermittlung / Elektronische Entsendungsanträge …* werden diese Anträge dann im Programm gesammelt.
 
-![Image](<img/image350.png>)
+![Image](<img/image350.png>){width="500"}
 
 !!! info "Tipp"
     Mit Hilfe der Schaltfläche *Empfangen* ist es in diesem Dialog möglich, jederzeit auch eine manuelle Abfrage über ELDA auszulösen.
