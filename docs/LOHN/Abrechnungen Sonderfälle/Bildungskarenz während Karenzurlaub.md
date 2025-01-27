@@ -1,4 +1,4 @@
-## Bildungskarenz während Karenzurlaub
+# Bildungskarenz während Karenzurlaub
 
 Wurde während des Karenzurlaubes Bildungskarenz vereinbart, muss die Dienstnehmerin mit dem Tag vor Beginn der Bildungskarenz abgemeldet werden.
 
@@ -6,8 +6,9 @@ Da das Dienstverhältnis bereits ruhend ist, führen Sie einen **Wiedereintritt*
 
 Seit 01.01.2024 erwartet sich die ÖGK eine **Abmeldung** und keine Richtigstellung Abmeldung. Ebenso erwartet sich die ÖGK jetzt andere Werte für das Ende Entgelt.
 
-| Ende Entgelt =   | Tag vor Beginn der Bildungskarenz |
+|                  |                                   |
 | ---------------- | --------------------------------- |
+| Ende Entgelt =   | Tag vor Beginn der Bildungskarenz |
 | BV-Beitrag bis = | Ende des Wochengeldbezuges        |
 | Abmeldegrund =   | Bildungskarenz                    |
 

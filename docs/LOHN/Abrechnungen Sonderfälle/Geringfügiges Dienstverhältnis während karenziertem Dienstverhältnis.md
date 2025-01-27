@@ -1,4 +1,4 @@
-## Geringfügiges Dienstverhältnis während karenzierten Dienstverhältnis 
+# Geringfügiges Dienstverhältnis während karenzierten Dienstverhältnis 
 
 Es kommt oft vor, dass ein Dienstnehmer/eine Dienstnehmerin während der Elternkarenz, dem Präsenz- oder Zivildienst, etc. eine geringfügige Anstellung beim gleichen Dienstgeber annimmt. Wenn es zu diesem Dienstverhältnis kommt, ist es wichtig, dass Sie einen **Wiedereintritt unter neuer Nummer** durchführen (*Abrechnungen / Sonderfälle / Wiedereintritt unter neuer Nummer*). Mit dieser Wiedereintrittsfunktion werden alle Stammdaten auf die neue Nummer übernommen.
 
@@ -6,7 +6,7 @@ Nachdem Sie den Wiedereintritt durchgeführt haben, gehen Sie in den *Eintrittsb
 
 Ebenso geben Sie bei *mBGM Hauptdienstnehmer* die Nummer des vorangegangenen Dienstverhältnisses ein, oder Sie klicken in das Feld und wählen die *F2-Taste* an. Es öffnet sich ein Fenster mit der Auflistung der Dienstnehmer mit der gleichen SV-Nummer.
 
-![Image](<img/image536.png>)
+![Image](<img/image536.png>){width="500"}
 
 Nachdem Sie den *mBGM Hauptdienstnehmer* hinterlegt haben, können Sie auf das blaue Rufzeichen (!) klicken. Hier erscheint nun, dass die zwei Dienstverhältnisse für den mBGM miteinander verbunden sind.
 

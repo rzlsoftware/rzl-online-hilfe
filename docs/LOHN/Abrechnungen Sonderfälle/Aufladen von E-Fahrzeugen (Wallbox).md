@@ -1,4 +1,4 @@
-## Aufladen von E-Fahrzeugen (Wallbox)
+# Aufladen von E-Fahrzeugen (Wallbox)
 
 **Aufladen von E-Fahrzeugen beim Arbeitgeber**
 
@@ -18,14 +18,14 @@ Ladevorgänge an öffentlichen Ladestationen, die der Arbeitnehmer dem Arbeitgeb
 
 Kostenersätze des Dienstgebers für das Aufladen eines dienstnehmereigenen (**privaten**) E-Auto, stellen keinen Auslagenersatz dar. Es liegt somit **beitrags- und steuerpflichtiger Arbeitslohn** vor.
 
-### Abrechnung des amtlichen kWh Preises
+## Abrechnung des amtlichen kWh Preises
 
 Legen Sie sich eine freie Lohnart „*Abzug*“ an.
 
-![Image](<img/image582.png>)
+![Image](<img/image582.png>){width="500"}
 
-![Image](<img/image583.png>)
+![Image](<img/image583.png>){width="500"}
 
 Damit der Betrag ausbezahlt wird, muss in dem Feld *Anzahl* vor den Betrag ein Bindestrich (Minus) eingetragen werden. Somit gelangt die Abzugslohnart zur Auszahlung.
 
-![Image](<img/image584.png>)
+![Image](<img/image584.png>){width="600"}

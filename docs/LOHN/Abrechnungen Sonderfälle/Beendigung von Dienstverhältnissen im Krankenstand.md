@@ -1,4 +1,4 @@
-## Beendigung von Dienstverhältnissen im Krankenstand
+# Beendigung von Dienstverhältnissen im Krankenstand
 
 Die hier bestehende Problematik, dass nach dem arbeitsrechtlichen Ende inklusive der Abmeldung der Dienstnehmer, weiterhin Bezüge aus der Entgeltfortzahlung erhalten muss, wird durch diese Änderung deutlich leichter umsetzbar.
 
@@ -18,23 +18,23 @@ Nachdem Sie das Ende der Beschäftigung erfasst haben, können Sie mit Hilfe des
 
 Auf Basis der Daten in der Urlaubskartei werden über den Vorschlag im Kontextmenü auch die offenen Urlaubstage inkl. der Verlängerungstage für die Pflichtversicherung in den Vorschlag integriert. Das ergibt dann ab 25.10.2019 bei 10 Urlaubstagen + 4 Tagen Verlängerung der Pflichtversicherung den 07.11.2019 als Datum für das Ende Entgelt.
 
-![Image](<img/image525.png>)
+![Image](<img/image525.png>){width="400"}
 
 Zudem wird dadurch der Zeitraum der Ersatzleistung in der Eingabemaske befüllt, da dieser Bestandteil der Abmeldung ist. **Sie sollten zu diesem Zeitpunkt allerdings die Urlaubsersatzleistung noch nicht abrechnen und auszahlen.**
 
 Wenn Sie anschließend die Abrechnung auf dem normalen Weg über *Abrechnen* und *Speichern* verlassen, erhalten Sie dadurch bereits die gewohnte Abfrage, ob die Abmeldung in die ÖGK-Datei gestellt werden soll.
 
-![Image](<img/image526.png>)
+![Image](<img/image526.png>){width="300"}
 
 Im Vergleich zur bisherigen Vorgehensweise, kann der Monat Oktober nun ohne Probleme laufende abgerechnet werden. Zunächst können Sie wie bisher, die restlichen Bezüge aus dem 100%igen und 50%igen EFZ-Anspruch für den Monat Oktober erfassen und im *Austrittsbildschirm* auch die UEL eingeben.
 
 Sehr häufig kommt es hier in der Praxis zu einer Verschiebung des Ende Entgeltsanspruches und/oder der Urlaubsersatzleistung. Um die Vorgehensweise zu verdeutlichen, nehmen wir in unserem Beispiel an, dass sich das Ende des Krankenstandes um 2 Tage auf den 26.10.2019 verschoben hat und damit das Ende der Ersatzleistung auf den 09.11.2019.
 
-![Image](<img/image527.png>)
+![Image](<img/image527.png>){width="400"}
 
 Vom RZL Lohnverrechnungsprogramm wird hier nun eine Differenz zur ursprünglichen Abmeldung erkannt und die zur Verhinderung von Clearingfällen unbedingt nötige Richtigstellung der Abmeldung vorgeschlagen.
 
-![Image](<img/image528.png>)
+![Image](<img/image528.png>){width="500"}
 
 Die Details der Veränderung werden hier angezeigt. Mit einem Häkchen und bestätigen der Schaltfläche *Weiter* können Sie abschließend die Richtigstellung in die ÖGK-Datei stellen. Die Richtigstellung wird automatisch mit der Referenznummer der ursprünglichen Abmeldung verknüpft.
 

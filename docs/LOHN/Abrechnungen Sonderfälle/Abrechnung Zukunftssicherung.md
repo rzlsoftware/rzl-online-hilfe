@@ -1,4 +1,4 @@
-## Abrechnung Zukunftssicherung 
+# Abrechnung Zukunftssicherung 
 
 Änderung SV-Pflichtigkeit aufgrund VwGH-Erkenntnis.
 
@@ -7,7 +7,7 @@ Die Abrechnung der Zukunftssicherung kann steuerfrei und sozialversicherungspfli
 !!! info "Tipp"
     Wenn die Zukunftsvorsorge bisher anders abgerechnet wurde (alte Rechtslage), dürfen die verwendeten Lohnarten nicht einfach geändert werden, sondern es müssen neue Lohnarten angelegt werden.
 
-### Zukunftsvorsorge steuerfrei und sozialversicherungspflichtig
+## Zukunftsvorsorge steuerfrei und sozialversicherungspflichtig
 
 Liegt eine Bezugsumwandlung vor (Dienstnehmer verzichtet auf einen Teil seines Gehaltes), dann ist die Zukunftsvorsorge lediglich (einkommens-)steuerfrei, aber sozialversicherungs­pflichtig. Die Abrechnung dieser Variante kann mit folgenden zwei Lohnarten erfolgen:
 
@@ -24,14 +24,14 @@ Mit diesen Lohnarten werden die EUR 25,00 (monatlich) oder EUR 300,00 (jährli
 
 Damit die EUR 25,00 (monatlich) oder EUR 300,00 (jährlich) auch tatsächlich in der Abrechnung abgezogen werden, ist eine Abzugslohnart anzulegen. Mit der Abzugslohnart wird der Betrag dem Dienstnehmer in der Abrechnung abgezogen.
 
-### Steuerfrei und sozialversicherungsfrei 
+## Steuerfrei und sozialversicherungsfrei 
 
 Die Zukunftsvorsorge ist steuer- und sv-frei, wenn keine Bezugsumwandlung (kein Gehaltsverzicht) vorliegt. Das heißt, die Zukunftsvorsorge wird zum Bruttolohn dazugeschlagen (der Bruttolohn in den fixen Lohnarten bleibt unverändert).
 
 | Lohnart                             | Sozialversicherung | Lohnsteuer                                           | DB-Pflichtigkeit | KommSt-Pflichtig. |
-| ----------------------------------- | ------------------ | ---------------------------------------------------- | ---------------- | ----------------- |
-| Zukunftssicherung sv-frei monatlich | 0                  | 14 steuerfrei gemäß § 3 EStG (sechstelerhöhend)      | 0                | 0                 |
-| Zukunftssicherung sv-frei jährlich  | 0                  | 5 steuerfrei gemäß § 3 EStG (nicht sechstelerhöhend) | 0                | 0                 |
+| ----------------------------------- | :----------------: | ---------------------------------------------------- | :--------------: | :---------------: |
+| Zukunftssicherung sv-frei monatlich |         0          | 14 steuerfrei gemäß § 3 EStG (sechstelerhöhend)      |        0         |         0         |
+| Zukunftssicherung sv-frei jährlich  |         0          | 5 steuerfrei gemäß § 3 EStG (nicht sechstelerhöhend) |        0         |         0         |
 
 Mit diesen Lohnarten ist der Betrag der Zukunftsvorsorge (EUR 25,00 monatlich / EUR 300,00 jährlich) abzurechnen.
 
@@ -41,6 +41,6 @@ Damit die EUR 25,00 (monatlich) oder EUR 300,00 (jährlich) auch tatsächlich 
 | ----------------------- | --------------------------------------------- |
 | Abzug Zukunftssicherung | Abzugslohnart, daher Option Abzug aktivieren. |
 
-### Steuerpflichtig und sozialversicherungspflichtig
+## Steuerpflichtig und sozialversicherungspflichtig
 
 Wird der Betrag der Zukunftsvorsorge nur mit einer Abzugslohnart abgezogen und das Gehalt bleibt unverändert, dann ist nach derzeitiger Rechtslage die Zukunftsvorsorge steuerpflichtig und sozialversicherungspflichtig.

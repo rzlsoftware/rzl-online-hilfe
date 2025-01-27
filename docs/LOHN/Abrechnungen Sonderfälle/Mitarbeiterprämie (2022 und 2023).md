@@ -1,4 +1,4 @@
-## Mitarbeiterprämie (2022 und 2023)
+# Mitarbeiterprämie (2024)
 
 Im Kalenderjahr 2024 ist es unter bestimmten Formalvoraussetzungen möglich, **Mitarbeiterprämien** bis zur Höhe von EUR 3.000,00 pro Arbeitnehmer abgabenfrei zu gewähren (§ 124b Z. 447 EStG). Von der politischen Intention her handelt es sich um eine Nachfolgeregelung der „Teuerungsprämie“ (2022 und 2023), allerdings unter formal sehr erschwerten Bedingungen.
 
@@ -18,6 +18,7 @@ Das bedeutet: **In Branchen, in denen es einen Arbeitgeberverband gibt** (somit 
 
 Im Gegensatz zur Mitarbeitergewinnbeteiligung bezieht sich diese Befreiung auf sämtliche Abgabenbereiche (SV, LST, DB/DZ und Kommst). Wir empfehlen für die Abrechnung die Anlage einer neuen freien Lohnart mit der neu geschaffenen Lohnsteuerpflichtigkeit Nr. **32** *steuerfrei gem. § 124b Z 447 EStG – Mitarbeiterprämie (Teuerungspr.).*
 
-![Image](<img/image559.png>)
+![Image](<img/image559.png>){width="500"}
 
-**Unser Vorschlag zur Anlage der Lohnart basiert auf dem Informationsstand aus diversen Fachartikeln zum Zeitpunkt 01/2024. Die Letztverantwortung hinsichtlich der Anlage der Lohnarten verbleibt beim Anwender.**
+!!! warning "Hinweis"
+    Unser Vorschlag zur Anlage der Lohnart basiert auf dem Informationsstand aus diversen Fachartikeln zum Zeitpunkt 01/2024. Die Letztverantwortung hinsichtlich der Anlage der Lohnarten verbleibt beim Anwender.

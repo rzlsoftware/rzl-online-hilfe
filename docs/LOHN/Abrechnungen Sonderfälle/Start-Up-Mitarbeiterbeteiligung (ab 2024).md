@@ -1,6 +1,6 @@
-## Start-Up-Mitarbeiterbeteiligung (ab 2024) 
+# Start-Up-Mitarbeiterbeteiligung (ab 2024) 
 
-### Allgemeines
+## Allgemeines
 
 **Voraussetzungen**
 
@@ -33,7 +33,7 @@
 
 - wenn der Arbeitgeber die Pflichten gemäß Einkommensteuergesetz hinsichtlich Lohnkonto, Einbehalt und Abfuhr der Lohnsteuer, Lohnzettel, Einsichtsrecht in Aufzeichnungen samt Erläuterungen gegenüber Finanzbehörden nicht mehr wahrnimmt.
 
-### Lohnsteuer
+## Lohnsteuer
 
 **Für die Besteuerung der Einkünfte gilt Folgendes:**
 
@@ -47,7 +47,7 @@
 
 Die auf die Start-Up-Mitarbeiterbeteiligung entfallenden Sozialversicherungsbeiträge sind beim Steuerabzug vom Arbeitslohn vor Anwendung des Lohnsteuertarifs vom Arbeitslohn abzuziehen.
 
-### Sozialversicherung
+## Sozialversicherung
 
 Für die Sozialversicherung gilt Beitragspflicht:
 
@@ -61,7 +61,7 @@ Für die Sozialversicherung gilt Beitragspflicht:
 
 **Beitragsgrundlage** ist bei Veräußerung der Anteile im aufrechten Dienstverhältnis der um allfällige Zahlungen zu vermindernde **Veräußerungserlös** heranzuziehen, in allen anderen Fällen der 30fache Betrag der Höchstbeitragsgrundlage. Bei einer Rückübertragung der Anteile an den Dienstgeber/die Dienstgeberin ist jedenfalls, insbesondere auch im Zusammenhang mit der Beendigung des Dienstverhältnisses, der Veräußerungserlös heranzuziehen.
 
-### Lohnnebenkosten
+## Lohnnebenkosten
 
 Für Entgelte, die mit dem festen Satz von 27,50 % zu versteuern sind, besteht
 
@@ -71,9 +71,9 @@ Für Entgelte, die mit dem festen Satz von 27,50 % zu versteuern sind, besteht
 
 - keine DZ-Pflicht 
 
-### Abrechnungsbildschirm Fixe Lohnarten – Start-Up-Mitarbeiterbeteiligung (2024)
+## Abrechnungsbildschirm Fixe Lohnarten – Start-Up-Mitarbeiterbeteiligung (2024)
 
-![Image](<img/image590.png>)
+![Image](<img/image590.png>){width="500"}
 
 **Gewährung im Kalenderjahr**
 
@@ -109,25 +109,23 @@ Soll die Start-Up-Mitarbeitergewinnbeteiligung begünstigt ausgezahlt werden, da
 
 Soll die Start-Up-Mitarbeiterbeteiligung nicht begünstigt ausgezahlt werden, dann aktivieren Sie dieses Feld. Es wird somit der gesamte Auszahlungsbetrag nach dem laufenden Tarif § 67 (10) versteuert.
 
-### Begünstigte Auszahlung einer Start-Up-Mitarbeiterbeteiligung
+## Begünstigte Auszahlung einer Start-Up-Mitarbeiterbeteiligung
 
 Tragen Sie im Bildschirmteil *Start-Up-Mitarbeiterbeteiligung (ab 2024)* beim *Auszahlungsbetrag*, den Verkaufserlös bzw. gemeinen Wert ein. Darunter definieren Sie, dass es sich um eine *begünstigte Auszahlung* handelt. Somit erscheint auf der Abrechnung eine Aufteilung der Beteiligung. Begünstigt sind 75 % vom Auszahlungsbetrag. 25 % der Beteiligung sind nicht begünstigt und müssen mit dem laufenden Tarif versteuert werden.
 
-![Image](<img/image591.png>)
+![Image](<img/image591.png>){width="600"}
 
-**Berechnung der Sozialversicherung:**
+| **Berechnung der Sozialversicherung:**   |         |              |
+| ---------------------------------------- | ------- | -----------: |
+| Gehalt                                   | EUR     |     3.600,00 |
+| Start-Up-MA-Beteiligung                  | EUR     |     3.000,00 |
+| *Summe*                                  | *EUR*   |   *6.600,00* |
+| Bemessungsgrundlage SV                   | EUR     |     6.060,00 |
+| **Sozialversicherung laufend (18,07 %)** | **EUR** | **1.095,04** |
 
-| Gehalt                               | EUR | 3.600,00 |
-| ------------------------------------ | --- | -------- |
-| Start-Up-MA-Beteiligung              | EUR | 3.000,00 |
-| Summe                                | EUR | 6.600,00 |
-| Bemessungsgrundlage SV               | EUR | 6.060,00 |
-| Sozialversicherung laufend (18,07 %) | EUR | 1.095,04 |
-
-**Berechnung Lohnsteuer fest:**
-
-| Start-Up-MA-Beteiligung (beg.) – 75 % von EUR 3.000,00 | EUR | 2.250,00 |
+| **Berechnung Lohnsteuer fest:**                        |     |          |
 | ------------------------------------------------------ | --- | -------: |
+| Start-Up-MA-Beteiligung (beg.) – 75 % von EUR 3.000,00 | EUR | 2.250,00 |
 | Lohnsteuer fest 27,50 % (von EUR 2.250,00)             | EUR |   618,75 |
 
 **Berechnung Lohnsteuer-Bemessungsgrundlage laufend:**

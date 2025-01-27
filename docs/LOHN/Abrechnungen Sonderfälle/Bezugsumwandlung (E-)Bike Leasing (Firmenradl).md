@@ -1,4 +1,4 @@
-## Bezugsumwandlung (E-)Bike Leasing (Firmenradl)
+# Bezugsumwandlung (E-)Bike Leasing (Firmenradl)
 
 Eine Gehaltsumwandlung ist nur, durch eine vorgenommene Dienstvertragsänderung für die Zukunft (Barlohnreduktion und Überlassung \[Elektro-\] Fahrrad) steuerlich anzuerkennen.
 
@@ -14,31 +14,31 @@ Grundlage der Befreiung in der **Sozialversicherung**:
 Grundlage der Befreiung in der **Lohnsteuer**:
 <https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2022_II_504/BGBLA_2022_II_504.html>
 
-### Möglichkeit 1 des Ausweises auf der Abrechnung (nicht notwendig)
+## Möglichkeit 1 des Ausweises auf der Abrechnung (nicht notwendig)
 
 Wenn Sie jedoch trotzdem das (E-) Bike auf der Abrechnung bzw. am Jahreslohnkonto angeführt haben möchten, können Sie eine Lohnart mit Betrag 0,00 anlegen. (Lohnartendefinition ist in diesem Fall egal.)
 
-![Image](<img/image575.png>)
+![Image](<img/image575.png>){width="500"}
 
-![Image](<img/image576.png>)
+![Image](<img/image576.png>){width="500"}
 
 Im Betrag selbst machen Sie einen rechten Mausklick und wählen *Explizit 0* aus. Es erscheint beim Betrag ein !.
 
-![Image](<img/image577.png>)
+![Image](<img/image577.png>){width="500"}
 
-![Image](<img/image578.png>)
+![Image](<img/image578.png>){width="600"}
 
-### Möglichkeit 2 des Ausweises auf der Abrechnung (nicht notwendig)
+## Möglichkeit 2 des Ausweises auf der Abrechnung (nicht notwendig)
 
 Wenn Sie jedoch trotzdem das (E-) Bike auf der Abrechnung bzw. am Jahreslohnkonto mit einem Betrag ohne Erhöhung des Bruttos haben möchten, können Sie eine Lohnart mit Anzahl (Wert des Leasings) und dem Satz 0,00 anlegen. (Lohnartendefinition ist in diesem Fall egal.)
 
-![Image](<img/image579.jpeg>)
+![Image](<img/image579.jpeg>){width="500"}
 
-![Image](<img/image580.jpeg>)
+![Image](<img/image580.jpeg>){width="500"}
 
-![Image](<img/image581.png>)
+![Image](<img/image581.png>){width="600"}
 
-### Auswirkungen der Bezugsumwandlung
+## Auswirkungen der Bezugsumwandlung
 
 Eine Reduktion des Bruttobezuges hat Auswirkungen auf
 
@@ -48,7 +48,7 @@ Eine Reduktion des Bruttobezuges hat Auswirkungen auf
 
 Arbeitgeber und Arbeitnehmer steht es aber frei, dass in der Vereinbarung zur Bezugsumwandlung eine Regelung getroffen wird, dass die Gehaltsreduktion auf arbeitsrechtliche Folgeentgelte keine Auswirkung hat.
 
-### Mögliche Auswirkungen einer freiwilligen „Aufstockung“ der Bezüge
+## Mögliche Auswirkungen einer freiwilligen „Aufstockung“ der Bezüge
 
 - Sechstelüberschreitungen im Bereich der Sonderzahlungen
 

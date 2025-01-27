@@ -1,4 +1,4 @@
-## Weitergewährung des Sachbezuges während Karenz
+# Weitergewährung des Sachbezuges während Karenz
 
 In der Praxis kommt es immer wieder vor, dass Dienstnehmer auch während einer Karenz (z. B. nach dem Mutterschutzgesetz/MSchG oder dem Väter-Karenzgesetz/VKG) weiterhin Sachbezüge erhalten (z. B. Dienstwohnung, Privatnutzung des Firmen-PKW). Werden während einer derartigen Karenz ausschließlich nur mehr Sachbezüge gewährt, sind diese in der Sozialversicherung beitragsfrei.
 
@@ -8,10 +8,10 @@ Damit der Sachbezug während der Karenz abgerechnet werden kann, erfassen Sie ei
 
 Um den Sachbezug beitragsfrei abzurechnen, müssen Sie eine freie Lohnart, welche SV-frei ist, anlegen.
 
-![Image](<img/image560.png>)
+![Image](<img/image560.png>){width="500"}
 
 Für den Abzug legen Sie sich eine Abzugslohnart an:
 
-![Image](<img/image561.png>)
+![Image](<img/image561.png>){width="500"}
 
 Rechnen Sie nur die Sachbezugslohnarten für die Karenz ab.

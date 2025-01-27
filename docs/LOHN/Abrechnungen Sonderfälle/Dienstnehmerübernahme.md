@@ -1,8 +1,8 @@
-## Dienstnehmerübernahme
+# Dienstnehmerübernahme
 
 In bestimmten Fällen, wie Insolvenzabrechnungen, AVRAG-Übernahmen, usw. ist es notwendig, Dienstnehmer von einem Klienten auf einen anderen zu überspielen. Nachdem die Vorgehensweise im Detail sehr stark vom Einzelfall abhängt, fertigen Sie ggf. einen Sicherungsstand an und kontaktieren Sie den RZL-Support.
 
-### Anlage eines neuen Klienten bzw. bestehenden Klienten duplizieren
+## Anlage eines neuen Klienten bzw. bestehenden Klienten duplizieren
 
 Zunächst ist der Klient, auf den die Dienstnehmer übernommen werden sollen, neu anzulegen. Vor allem ist darauf zu achten, dass die verwendeten freien Lohnarten gleich sind.
 
@@ -10,11 +10,11 @@ Nachdem in sehr vielen Fällen ein Naheverhältnis zwischen den Firmen bestehen 
 
 Jene Details, die sich verändert haben, wie z. B. Wortlaut der Firma, Steuernummer, Beitragskontonummer sind über die *ZMV* oder das *RZL-Board* anzupassen.
 
-### Übernahme der Dienstnehmer
+## Übernahme der Dienstnehmer
 
 Die Übernahme der Dienstnehmer in einen anderen Klienten erfolgt im Programmteil *Bearbeiten / Übernahme / Dienstnehmer-Übernahme in anderen Klienten*. Die Übernahme der Dienstnehmer in den anderen Klienten kann mit *Wiedereintritt* oder *vollständige Übernahme* erfolgen.
 
-![Image](<img/image513.png>)
+![Image](<img/image513.png>){width="500"}
 
 !!! info "Tipp"
     Die Dienstnehmer können im Zuge der Übernahme auf den neuen Klienten komplett neu durchnummeriert werden oder einzeln neuen Dienstnehmernummern zugewiesen werden. Durch Anwahl des Feldes *lfd. (laufend) nummerieren* werden die Dienstnehmer aufsteigend neu durchnummeriert.

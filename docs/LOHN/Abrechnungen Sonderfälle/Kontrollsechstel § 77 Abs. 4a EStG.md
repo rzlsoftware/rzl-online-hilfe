@@ -1,6 +1,6 @@
-## Kontrollsechstel § 77 Abs. 4a EStG
+# Kontrollsechstel § 77 Abs. 4a EStG
 
-### Ausschlussgründe seit 01.01.2021
+## Ausschlussgründe seit 01.01.2021
 
 1)  Elternkarenz (sowie Papamonat)
 
@@ -28,19 +28,19 @@
 
 Es gibt nun erstmals die Möglichkeit, zu einem positiven Kontrollsechsteleffekt für den Dienstnehmer. Ein Überhang aus der normalen Jahressechstelberechnung, wird im Falle von steigenden Bezügen teilweise oder zur Gänze abgebaut. Dies führt am Jahresende oder beim Austritt des Dienstnehmers zu einer Steuergutschrift.
 
-### Automatische Aufrollfunktion bei mehr als einem Dienstverhältnis beim selben Dienstgeber
+## Automatische Aufrollfunktion bei mehr als einem Dienstverhältnis beim selben Dienstgeber
 
 Wenn es zu einem Austritt beim zweiten Dienstverhältnis beim selben Arbeitgeber kommt bzw. wenn der Monat Dezember abgerechnet wird, erfolgt vom Programm eine automatische Aufrollung aller Dienstverhältnisse, welche bis dorthin bestanden haben, vorausgesetzt es liegt kein Ausschlussgrund vor.
 
 Nach erfolgreicher Rollung erscheint dieser Bildschirm:
 
-![Image](<img/image538.png>)
+![Image](<img/image538.png>){width="600"}
 
 **Nachträglicher Ausdruck dieses Bildschirmes**
 
 Unter *Ausdruck / Abrechnungen / Register Optionen (2)* haben Sie die Möglichkeit, zusätzlich das Berechnungsblatt auszudrucken. Aktivieren Sie das Kästchen *K/6 Aufrollungen drucken*.
 
-![Image](<img/image539.png>)
+![Image](<img/image539.png>){width="500"}
 
 Somit erscheint ein Beiblatt zur Abrechnung, welches wie folgt aussieht:
 
@@ -48,7 +48,7 @@ Somit erscheint ein Beiblatt zur Abrechnung, welches wie folgt aussieht:
 
 Dieser Ausdruck ist nur im Hochformat möglich.
 
-### Abweichende Eingabe Kontrollsechstel
+## Abweichende Eingabe Kontrollsechstel
 
 Wenn eine abweichende Vorgehensweise zu unserem Vorschlag vorgenommen werden soll, haben Sie im *Austrittsbildschirm* beim *Kontrollsechstel* die Möglichkeit,
 
@@ -59,7 +59,7 @@ Wenn eine abweichende Vorgehensweise zu unserem Vorschlag vorgenommen werden sol
 
 - einen manuellen Ausnahmegrund festzulegen.
 
-![Image](<img/image541.png>)
+![Image](<img/image541.png>){width="500"}
 
 **Kontrollsechstel-CheckBox automatisch aktivieren/deaktivieren**
 
@@ -77,25 +77,25 @@ Wenn ein aus den Abrechnungsdaten heraus nicht erkennbarer Ausschlussgrund vorli
 
 Durch Anwahl *Vorschlag-Info* erscheint ein Hinweis-Bildschirm, warum das Kontrollsechstel **nicht** zur Anwendung kommt:
 
-![Image](<img/image542.png>)
+![Image](<img/image542.png>){width="300"}
 
-### Positive Aufrollung des Kontrollsechstels
+## Positive Aufrollung des Kontrollsechstels
 
 **Achtung**: Auch bei positiven Aufrollungen des Kontrollsechstels und vorliegen eines Ausschlussgrundes wird das Häkchen bei *Kontrollsechstel* gesetzt.
 
-### Dienstverhältnis endet am 31.12.2021
+## Dienstverhältnis endet am 31.12.2021
 
 Endet das Dienstverhältnis arbeitsrechtlich am 31.12.2021, muss lt. Finanz das Kontrollsechstel ausgelöst werden, sowohl negativ als auch positiv. Dies wird vom Programm automatisch ausgeführt.
 
-### Karenz und paralleles Dienstverhältnis
+## Karenz und paralleles Dienstverhältnis
 
 Wird ein paralleles Dienstverhältnis während einer Karenz geführt, dürfen die Vorbezüge nicht in dieses parallele Dienstverhältnis übernommen werden. Damit dies reibungslos funktioniert, muss unbedingt als Austrittsgrund „Karenzurlaub“ ausgewählt werden. Danach muss ein **Wiedereintritt unter neuer Nummer** (*Abrechnungen / Sonderfälle / Wiedereintritt unter neuer Nummer*) erfolgen.
 
-### Fallweise Beschäftigte
+## Fallweise Beschäftigte
 
 Bei Fallweisen Beschäftigten, welche im *Sozialversicherungsbildschirm* auch so erfasst wurden, wird bei jedem Dienstverhältnis das Kontrollsechstel gesetzt. Wir haben diese Variante gewählt, da es sehr umständlich ist, wenn jeden Monat eine Aufrollung des Vormonats durchgeführt werden müsste.
 
-### Beispiele
+## Beispiele
 
 Mit den folgenden Ausführungen und Beispielen wollen wir vor allem häufig auftretende Fragen beantworten. Zudem möchten wir Ihnen die beiden integrierten Ausdrucke vorstellen. Diese sollen Ihnen die Nachvollziehbarkeit der Sechstelberechnung erhöhen und die Abstimmungsarbeiten am Jahresende erleichtern.
 
@@ -103,7 +103,7 @@ Mit den folgenden Ausführungen und Beispielen wollen wir vor allem häufig auft
 
 Wie bislang muss im Monat Dezember grundsätzlich eine Kontrollsechstelberechnung erfolgen. In der *RZL-Lohnverrechnung* wird daher im Dezember im Bereich *Austritt* weiterhin die Option *Kontrollsechstel* gesetzt.
 
-![Image](<img/image543.png>)
+![Image](<img/image543.png>){width="400"}
 
 **Beispiel 1: Fallende Bezüge gegen Jahresende**
 
@@ -113,18 +113,18 @@ Nur bei stark schwankenden Bezügen wird im Zusammenhang mit dem Kontrollsechste
 
 Sie können über *Ausdruck / Sonderdrucke / Aufstellung Jahressechstel* auch außerhalb der Abrechnung das Jahressechstel / Kontrollsechstel aufrufen.
 
-![Image](<img/image545.png>)
+![Image](<img/image545.png>){width="500"}
 
 In diesem Beispiel kam es durch das **Absinken der Bezüge** am Jahresende zu einer Aufrollung vom Dezember in den Oktober. Über *Ausdruck / Sonderdrucke / Aufstellung Kontrollsechstel* haben wir einen weiteren Ausdruck integriert, der Auskunft über die Anwendung der Kontrollsechstelberechnung gibt.
 
-![Image](<img/image546.png>)
+![Image](<img/image546.png>){width="500"}
 
 **Beispiel 2 – Im Jahresverlauf ansteigende Bezüge**
 
 Im Gegensatz zum Jahr 2020 darf bei steigenden Bezügen ein etwaiger Überhang aus den Vormonaten am Jahresende an den Dienstnehmer rückvergütet werden.
 
-![Image](<img/image547.png>)
+![Image](<img/image547.png>){width="500"}
 
-![Image](<img/image548.png>)
+![Image](<img/image548.png>){width="500"}
 
-![Image](<img/image549.png>)
+![Image](<img/image549.png>){width="500"}

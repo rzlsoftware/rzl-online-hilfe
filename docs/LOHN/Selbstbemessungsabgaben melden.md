@@ -8,7 +8,7 @@ Folgende Alternativen stehen hierfür zur Verfügung.
 
 Wie schon bisher kann über die Funktion *Bearbeiten / Electronic Banking (SEPA)/Abgaben* eine Überweisungsdatei erstellt werden.
 
-![Image](<img/image508.png>)
+![Image](<img/image508.png>){width="500"}
 
 Die vom Programm erstellte xml-Datei muss dann über das jeweilige Telebanking-Programm der Bank importiert und abgezeichnet werden. Die Abgaben gelten dadurch bei Finanz-Online sowohl als gemeldet, als auch als überwiesen.
 
@@ -18,11 +18,11 @@ Für jene Klienten, die weiterhin die SEPA-Zahlungsanweisungen (Zahlschein-Vordr
 
 Vor dem erstmaligen Einsatz dieses Programmteiles ist im Programmteil *Stamm / Klient* im Registerblatt *Finanzamt* die Option *Selbstbemessungsabgaben übermitteln* zu aktivieren. Anschließend stehen über *Bearbeiten / Elektronische Meldung Selbstbemessungsabgaben* die beiden Optionen *Meldung zur Buchung von Selbstbemessungsabgaben erstellen* und *Meldung zur Zahlung von Selbstbemessungsabgaben erstellen* zur Verfügung.
 
-![Image](<img/image509.png>)
+![Image](<img/image509.png>){width="500"}
 
 Über die Schaltfläche *zum Senden* bzw. über den Programmteil *Klient / Elektronische Meldung Selbstbemessungsabgaben / Meldung zur Buchung von Selbstbemessungsabgaben absenden* wird der gewohnte Übermittlungsdialog geöffnet.
 
-A![Image](<img/image510.png>)
+A![Image](<img/image510.png>){width="500"}
 
 Über *Senden* stellt die RZL-Lohnverrechnung eine Verbindung mit der Homepage von Finanz-Online her. Nach dem Login muss über *Eingaben / Übermittlung* die Option *Buchung von Selbstbemessungsabgaben* gewählt werden. Mit Hilfe der Schaltfläche *Durchsuchen* kann abschließend über die Tastenkombination *Strg + V* die Datei eingefügt und übermittelt werden.
 
@@ -52,7 +52,7 @@ Für eine erfolgreiche Übermittlung sind 2 Arbeitsschritte durchzuführen:
 
 Sie können aus der *RZL – Lohnverrechnung* über *Bearbeiten / RZL BOARD / FinanzOnline Übermittlung* die Übermittlungen erstellen:
 
-![Image](<img/image328.png>)
+![Image](<img/image328.png>){width="600"}
 
 Über den Menüpunkt *Klient / RZL Board FinanzOnline* *Übermittlungen* können diese Meldungen auch Klientenübergreifend an das *RZL Board* übergeben werden.
 
@@ -70,7 +70,7 @@ Hier werden alle Übermittlungen angezeigt, für die ein geplantes Übermittlung
 
 Dieser Dialog zeigt alle bereits gesendeten Übermittlungen an.
 
-![Image](<img/image329.png>)
+![Image](<img/image329.png>){width="600"}
 
 Nach Anwahl der Funktion ***offene Übermittlungen*** gelangen Sie in die Übersicht der erstellten aber noch nicht gesendeten (offenen) FinanzOnline Übermittlungen. Hier werden alle in der Kanzlei in das *RZL BOARD* gestellten Übermittlungen angezeigt. Beachten Sie, dass in der Liste für einzelne Mitarbeiter aufgrund eingeschränkter Sichtbarkeitsrechte nicht alle Klienten aufscheinen können. Über das Auswahlkästchen können Sie die Übermittlungen auswählen.
 
