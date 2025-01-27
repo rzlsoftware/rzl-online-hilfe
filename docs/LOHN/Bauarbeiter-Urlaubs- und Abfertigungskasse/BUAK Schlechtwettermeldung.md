@@ -1,14 +1,14 @@
-## BUAK Schlechtwettermeldung
+# BUAK Schlechtwettermeldung
 
 Unter *Stamm / BUAK Schlechtwetterentschädigungen…* haben Sie die Möglichkeit, die BUAK Schlechtwettermeldung zu erstellen.
 
-![Image](<img/image488.png>)
+![Image](<img/image488.png>){width="600"}
 
 Durch Anwahl der Schaltfläche *Neuer Antrag* kann ein neuer Antrag erstellt werden. Der erste Teilbereich betrifft die **Baustellendaten**.
 
-### Baustellendaten
+## Baustellendaten
 
-![Image](<img/image489.png>)
+![Image](<img/image489.png>){width="500"}
 
 **Zeitraum**
 
@@ -32,11 +32,11 @@ Hier tragen Sie die *Postleitzahl*, den *Ort* und die genaue *Adresse* der Baust
 
 Nach erstmaliger Speicherung der Baustelle, kann man diese durch Aufruf mit der *F2-Taste* im Feld *Bauvorhaben* auch für andere Anträge übernehmen.
 
-![Image](<img/image490.png>)
+![Image](<img/image490.png>){width="500"}
 
 Es erscheint dieser Auswahlbildschirm:
 
-![Image](<img/image491.png>)
+![Image](<img/image491.png>){width="500"}
 
 Durch Eingabe von *Suchbegriffen* können Sie nach einem bestimmten Bauvorhaben, Postleitzahl, Ort, Adresse oder Hausnummer suchen.
 
@@ -58,11 +58,11 @@ Durch Anwahl des Buttons Hitzetag öffnet sich die GeoSphere Austria Seite, wo S
 
 Nachdem ein Antrag gespeichert wurde, kann dieser durch Markierung des Antrages und Auswahl *Kopieren* kopiert werden.
 
-### Dienstnehmer beim Antrag hinterlegen
+## Dienstnehmer beim Antrag hinterlegen
 
 Durch Anklicken des Feldes *DN Liste…* kommen Sie in den folgenden Bildschirm:
 
-![Image](<img/image493.png>)
+![Image](<img/image493.png>){width="500"}
 
 Im oberen Teil wählen Sie den Dienstnehmer aus, bei dem auf dieser Baustelle Schlechtwetter-Ausfallszeiten eingetreten sind. Es werden in der Liste der Dienstnehmer nur jene angeführt, welche im *BUAK-Bildschirm* ein Häkchen haben und das *Arbeitnehmerkennzeichen* erfasst ist.
 
@@ -82,7 +82,7 @@ Haken Sie das Feld an. Somit öffnet sich der Kalender. Dort können Sie durch A
 
 Nachdem Sie die Tage markiert haben, klicken Sie auf den Button *Stundeneingabe Ausfallzeiten…*
 
-![Image](<img/image494.png>)
+![Image](<img/image494.png>){width="400"}
 
 Geben Sie die Ausfallstunden pro Tag ein. Es werden nur die im Erfassungsdialog markierten Tage angezeigt. Die Summe der Ausfallstunden wird im vorherigen Bildschirm angeführt und es wird die *Verrechnete Entschädigung* ermittelt.
 
@@ -90,11 +90,11 @@ Geben Sie die Ausfallstunden pro Tag ein. Es werden nur die im Erfassungsdialog 
 
 Markieren Sie im oberen Bereich den Dienstnehmer, von welchem Sie die Stunden übernehmen wollen, welche Sie zuvor erfasst haben. Durch Anwahl des Feldes *Std. übernehm.* können zuvor erfasste Stunden und Tage von einem Dienstnehmer auf andere Dienstnehmer übernommen werden.
 
-![Image](<img/image495.png>)
+![Image](<img/image495.png>){width="500"}
 
 Nach Auswahl des Dienstnehmers und Anwahl des Buttons *Übernehmen* bekommen Sie die Frage, ob Sie die Stunden auf den Dienstnehmer übernehmen wollen.
 
-![Image](<img/image496.png>)
+![Image](<img/image496.png>){width="300"}
 
 **Löschen**
 
@@ -106,13 +106,13 @@ Durch Anwahl des Buttons *Prüfen* überprüft das Programm, ob alle relevanten 
 
 **Beispiel Fehlermeldung:**
 
-![Image](<img/image497.png>)
+![Image](<img/image497.png>){width="300"}
 
 **Drucken…**
 
 Mit diesem Menüpunkt können Sie eine Liste für die *Übermittlungsdaten* an die BUAK und die *Dienstnehmerdaten* ausgeben.
 
-![Image](<img/image498.png>)
+![Image](<img/image498.png>){width="500"}
 
 **Auswahlkriterien**
 
@@ -138,7 +138,7 @@ Durch Anwahl dieses Kästchens werden die Baustellen- und *Dienstnehmerdaten* au
 
 Wenn mehrere Anträge ausgewählt wurden, kann durch Anwahl *Einzeldruck* jede Antragsnummer auf einer eigenen Seite dargestellt werden.
 
-### Erstellung Schlechtwettermeldung für BUAK-Portal
+## Erstellung Schlechtwettermeldung für BUAK-Portal
 
 Über *Bearbeiten / Elektronische Meldung BUAK / Elektronische Schlechtwettermeldung BUAK erstellen* können Sie die Meldung für das BUAK-Portal erstellen.
 
@@ -152,7 +152,7 @@ Sie können nun die erfassten Baustellen vom ausgewählten Monat markieren und m
 
 Im *Registerblatt Protokoll* befinden sich nun die Daten der erstellten Schlechtwettermeldung. Drücken Sie nun *zum Senden*. Es öffnet sich das BUAK-Portal.
 
-### Import Rückmeldung Schlechtwettermeldung
+## Import Rückmeldung Schlechtwettermeldung
 
 Speichern Sie die Rückmeldung vom BUAK-Portal in einem Ordner Ihrer Wahl ab.
 
@@ -162,9 +162,9 @@ Speichern Sie die Rückmeldung vom BUAK-Portal in einem Ordner Ihrer Wahl ab.
 
 Wählen Sie unter *Suchen* die Rückmeldedatei aus und klicken Sie auf *Importieren*.
 
-![Image](<img/image504.png>)
+![Image](<img/image504.png>){width="600"}
 
-### Abrechnung der Schlechtwetterstunden in der Abrechnung
+## Abrechnung der Schlechtwetterstunden in der Abrechnung
 
 In der Abrechnung selbst, können die oben erfassten Stunden in die Abrechnung übernommen werden. Hierzu klicken Sie im Bildschirm *Fixe Lohnarten* im linken grauen Bereich die *rechte Maustaste*.
 
@@ -176,4 +176,4 @@ Wählen Sie *BUAK-Schlechtwetter Ausfallzeiten* an.
 
 Durch Anwahl *Werte übernehmen*, werden die hier dargestellten Werte in die Abrechnung übernommen.
 
-![Image](<img/image507.png>)
+![Image](<img/image507.png>){width="500"}

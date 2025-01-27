@@ -1,4 +1,4 @@
-### Import der Monatsmeldung und der Urlaubsentgeltsmeldung im BUAK-Portal
+# Import der Monatsmeldung und der Urlaubsentgeltsmeldung im BUAK-Portal
 
 Über den Link [*https://sp.buak.at/de/login/*](https://sp.buak.at/de/login/) wechseln Sie zunächst in Ihrem Browser zur Login-Seite für das BUAK-Portal. Nun müssen Sie sich mit den Zugangsdaten, die Sie von der BUAK erhalten haben, einloggen.
 
@@ -8,7 +8,7 @@
 
 Über *Datei auswählen* kann dann die im LV-Programm erzeugte Datei vom Speicherort übernommen werden. Anschließend müssen Sie die Datei noch über den entsprechenden Button prüfen.
 
-![Image](<img/image483.emf>)
+![Image](img/image483.png)
 
 Sie müssen den Vorgang mit *Daten verarbeiten* und schlussendlich mit der Freigabe des Betriebes abschließen.
 

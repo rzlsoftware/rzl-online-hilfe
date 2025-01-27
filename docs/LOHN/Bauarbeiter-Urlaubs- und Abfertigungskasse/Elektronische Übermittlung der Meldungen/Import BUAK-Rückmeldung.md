@@ -1,8 +1,8 @@
-### Import BUAK-Rückmeldung
+# Import BUAK-Rückmeldung
     
 Der Programmteil *Bearbeiten / Elektronische Übermittlung / Elektronische Monatsmeldung BUAK-Rückdatei importieren* können die XML-Dateien, die die BUAK zum Download zur Verfügung stellt, importiert werden.
     
-![Image](<img/image487.png>)
+![Image](<img/image487.png>){width="500"}
         
 Im Feld *Importdatei* wählen Sie die XML-Datei an, die von der BUAK     gesendet wurde. Sie können die Zuschlagsverrechnungsliste beim Import durch Anwahl des Feldes *Zuschlagsverrechnungsliste drucken* oder innerhalb der Abrechnung der Dienstnehmer, durch Anwahl der Tastenkombination *Strg-Z,* aufrufen bzw. ausdrucken.
     

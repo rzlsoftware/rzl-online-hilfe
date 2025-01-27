@@ -1,4 +1,4 @@
-### Übermittlung der BUAK-Austrittsmeldung
+# Übermittlung der BUAK-Austrittsmeldung
 
 Über *Klient / Elektronische Übermittlung / BUAK Austrittsmeldung* *absenden* werden Sie über Ihren Browser auf die Login-Seite des BUAK-Portals weitergeleitet. Nach dem Login finden Sie über das *Steuerberatungsportal* oder *Firmenportal* und anschließende *Meldungseingabe* die Option *Direktdaten* und letztlich den Punkt *Meldung Austritt*.
 
