@@ -1,4 +1,4 @@
-### Zugriffsbeispiele
+# Zugriffsbeispiele
 
 **Monatszugriff**
 
@@ -10,9 +10,9 @@ Monatszugriff über absolute Parameter {"ZR().AktuellesMonat", "1", "2",... "12"
 
 Jahreszugriff nur über relative Parameter {"", "0", "-1"}
 
-**Beispiele**
+## Beispiele
 
-**Zugriff auf das aktuelle Jahr**
+### Zugriff auf das aktuelle Jahr
 
 **Lohnart(1001).Wert(0)**
 
@@ -38,7 +38,7 @@ Jahreszugriff nur über relative Parameter {"", "0", "-1"}
 
 - Zugriff auf den aktuellen Monat im aktuellen Jahr
 
-**Zugriff auf das Vorjahr:**
+### Zugriff auf das Vorjahr
 
 **Lohnart(1001).Wert(0\|-1)**
 
@@ -56,7 +56,7 @@ Jahreszugriff nur über relative Parameter {"", "0", "-1"}
 
 - Zugriff auf den Monat Oktober im Vorjahr
 
-**Zugriff auf mehrere Lohnarten**
+### Zugriff auf mehrere Lohnarten
 
 **Lohnart(1001;1002;1010).Wert(0)**
 
@@ -66,7 +66,7 @@ Jahreszugriff nur über relative Parameter {"", "0", "-1"}
 
 - Zugriff auf die Lohnarten 1001 bis 1004 aus der aktuellen Abrechnung
 
-**Zugriff auf mehrere Monate:**
+### Zugriff auf mehrere Monate
 
 **Lohnart(1001).Wert(-3;0)**
 
@@ -76,7 +76,7 @@ Jahreszugriff nur über relative Parameter {"", "0", "-1"}
 
 - Zugriff auf die Lohnarten 1001 aus dem 2ten Vormonat bis inkl. der aktuellen Abrechnung
 
-**Was ist zu beachten:**
+## Was ist zu beachten
 
 **Absoluter Monatszugriff immer zeitlich aufsteigend (von Datum muss vor dem bis Datum liegen)**
 
@@ -116,12 +116,11 @@ nicht Monatssumme(1).Wert(3) sondern Monatssumme(0).Wert(-2)
 
 Gibt es mehrere Abrechnungen innerhalb eines Monats (Wiedereintritt), werden beim Zugriff auf diesen Monat die Werte der einzelnen Abrechnungen aufsummiert (z. B. auch bei den SV-Tagen).
 
-**Beispiele**
+## Beispiele
 
 **3 Monatsschnitt Bemessung Sonderzahlung**
 
-Lohnart(2011).Durchschnitt(-2:0)
-
+Lohnart(2011).Durchschnitt(-2:0
 **6 Monatsschnitt Bemessung Sonderzahlung**
 
 Lohnart(2011).Durchschnitt (-5:0)

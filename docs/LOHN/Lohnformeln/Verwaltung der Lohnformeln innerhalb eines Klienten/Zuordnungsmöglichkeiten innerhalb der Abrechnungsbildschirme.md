@@ -1,4 +1,4 @@
-### Zuordnungsmöglichkeiten innerhalb der Abrechnungsbildschirme
+# Zuordnungsmöglichkeiten innerhalb der Abrechnungsbildschirme
 
 **Fixe Lohnarten**
 

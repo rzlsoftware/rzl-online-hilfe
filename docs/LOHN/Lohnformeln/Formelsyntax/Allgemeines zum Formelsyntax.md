@@ -1,5 +1,7 @@
-Für die Anlage von Lohn-Formeln wird folgender Bildschirm aufgerufen (vgl. Kapitel 30.1.2, Seite [349](#anlage-von-lohn-formeln) bzw. Kapitel 30.1.5, Seite [360](#formelverwendung-in-der-monatlichen-abrechnung-der-dienstnehmer)).
+# Allgemeines zum Formelsyntax
 
-![Image](<img/image412.png>)
+Für die Anlage von Lohn-Formeln wird folgender Bildschirm aufgerufen
+
+![Image](<img/image412.png>){width="500"}
 
 Der Formelzugriff erfolgt im Bereich mit den Ordnern *Lohnarten*, *Monatssummen*, *Zeitraum, Alle Über-/Mehrarbeitsstunden und Wiederkehrende Über-/Mehrarbeitsstunden*. Nachfolgend wird die Bedeutung der einzelnen Formeln, die eingefügt werden können, erläutert.

@@ -1,4 +1,4 @@
-### Runden
+# Runden
 
 Die Rundung von Formelergebnissen erfolgt durch nachfolgende Formelsyntax:
 

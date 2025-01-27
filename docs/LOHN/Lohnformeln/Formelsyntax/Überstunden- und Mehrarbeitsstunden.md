@@ -1,13 +1,13 @@
-### Überstunden-/Mehrarbeitsstunden
+# Überstunden-/Mehrarbeitsstunden
 
-![Image](<img/image421.png>)
+![Image](<img/image421.png>){width="500"}
 
-**Formelsyntax:**
+## Formelsyntax
 
-Üst_Alle().Wert(Monat\[\|Jahr)
+Üst_Alle().Wert(Monat|Jahr)
 
-**Zugriff auf Werte**
+## Zugriff auf Werte
 
-![Image](<img/image422.png>)
+![Image](<img/image422.png>){width="500"}
 
 Durch Anwahl der *F2-Taste* nach dem Markieren der Formel kann auf die Werte der Über- und Mehrarbeitsstunden in unterschiedlichen Varianten zugegriffen werden.

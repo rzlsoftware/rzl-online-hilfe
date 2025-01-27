@@ -1,6 +1,6 @@
-### Lohnarten
+# Lohnarten
 
-![Image](<img/image413.png>)
+![Image](<img/image413.png>){width="500"}
 
 **Wert = Lohnart()Wert.()**
 
@@ -26,7 +26,7 @@ Die Formel *Durchschnitt* addiert die Beträge auf die zugegriffen wird und bild
 
 Die Formel filtert heraus, ob die Beträge überwiegend in den Monaten aufgetreten sind. Nur wenn die Beträge überwiegend aufgetreten sind, wird die Formel berechnet.
 
-**Formelsyntax**
+## Formelsyntax
 
 Lohnart(1001...) Fixe-Lohnarten
 
@@ -34,7 +34,7 @@ Lohnart(1-999) Freie-Lohnarten
 
 Lohnart(2001…) Bemessungen (Bem. SZ, Bem. Abfertigung alt, …)
 
-**Zugriff auf Werte**
+## Zugriff auf Werte
 
 Lohnart(191).Wert(Monat\[\|Jahr\])
 
@@ -42,13 +42,13 @@ Lohnart(1001).Wert(Monat\[\|Jahr\])
 
 Lohnart(2001).Wert(Monat\[\|Jahr\])
 
-**Bei freien Lohnarten nach Einheiten**
+## Bei freien Lohnarten nach Einheiten
 
 Lohnart(1).Anzahl(Monat\[\|Jahr\])
 
 Lohnart(1).Basis(Monat\[\|Jahr\])
 
-**Ermittlung eines Durchschnittwertes über mehrere Monate**
+## Ermittlung eines Durchschnittwertes über mehrere Monate
 
 Lohnart(1001).Durchschnitt(Monat\[\|Jahr\])  
 dabei wird immer auf den Wert einer Lohnart zugegriffen (auch bei freien
