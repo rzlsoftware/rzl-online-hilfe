@@ -1,12 +1,12 @@
-## Wann sind Folgegruppen notwendig?
+# Wann sind Folgegruppen notwendig?
 
-### Keine Folgegruppen notwendig – z. B.: KV Handel Angestellte
+## Keine Folgegruppen notwendig – z. B.: KV Handel Angestellte
 
-![Image](<img/image441.png>)
+![Image](<img/image441.png>){width="600"}
 
 Wenn, wie oben am Beispiel KV Handel Angestellte ersichtlich, die Erhöhungen aufgrund der Betriebszugehörigkeit innerhalb einer Tabelle abgebildet sind, ist die Anlage von Folgegruppen nicht notwendig, da es schlicht und einfach keine Folgegruppen gibt.
 
-### Folgegruppen notwendig – z. B. KV Informationstechnik (IT)
+## Folgegruppen notwendig – z. B. KV Informationstechnik (IT)
 
 Innerhalb von bestimmten Kollektivverträgen (z. B. IT-KV) erfolgt nach Ablauf einer bestimmten Zeitdauer automatisch der Wechsel in eine andere Stufe.
 
@@ -27,14 +27,14 @@ Im oberen Bereich muss die maximale Dauer der Gruppe (in Jahren und/oder Monaten
 
 Anschließend wird das *+ Symbol* am rechten Rand angewählt. Aus der aufgeschlagenen Liste muss die auf die Einstiegsstufe folgende Gruppe (hier die *Regelstufe*) ausgewählt werden.
 
-![Image](<img/image445.png>)
+![Image](<img/image445.png>){width="500"}
 
 Um unteren Bereich des Bildschirmes werden jetzt die erste Gruppe (Einstiegsstufe) und die erste Folgegruppe (Regelstufe) grafisch dargestellt. Im Feld der Einstiegsstufe wird der Gültigkeitszeitraum (hier *3 Jahre*) angedruckt.
 
-![Image](<img/image446.png>)
+![Image](<img/image446.png>){width="600"}
 
 In der Verlaufsdarstellung muss jetzt die Folgegruppe markiert werden. Anschließend wird mit dem *+ Symbol* wieder die Liste aufgeschlagen und die nächste Folgegruppe (hier *Erfahrungsstufe*) ausgewählt.
 
-![Image](<img/image447.png>)
+![Image](<img/image447.png>){width="500"}
 
 In der Verlaufsdarstellung sind jetzt alle drei Gruppen dargestellt. Wenn bei einem Dienstnehmer mit einem bestimmten Einstufungsdatum die Einstiegsstufe der Gruppe ST2 zugeordnet wird, erfolgt die Umstellung der Gruppe vom Programm automatisch und der Hinweis, dass die Bezahlung unterhalb des Kollektivvertragsbezuges liegt.
