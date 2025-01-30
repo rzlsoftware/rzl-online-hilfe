@@ -24,7 +24,7 @@ Zuerst muss die Schaltfläche *Datei auswählen* angeklickt werden. Im Feld *Dat
 
 ## Erstellung einer Kommunalsteuer-Schließungserklärung
 
-Damit eine Kommunalsteuer-Schließungserklärung erstellt werden kann, ist zunächst in den Stammdaten des Klienten im [Registerblatt *KommSt, U-Bahn-Abgabe*](../Klientenstammdaten/Stammdaten%20Klient%20(Dienstgeber)/KommSt%2C%20U-Bahn.md) im Feld *Datum der Schließung* das Schließungsdatum des Betriebes einzutragen werden.
+Damit eine Kommunalsteuer-Schließungserklärung erstellt werden kann, ist zunächst in den Stammdaten des Klienten im [Registerblatt *KommSt, U-Bahn-Abgabe*](../LOHN/Klientenstammdaten/Stammdaten%20Klient%20(Dienstgeber)/KommSt%2C%20U-Bahn.md) im Feld *Datum der Schließung* das Schließungsdatum des Betriebes einzutragen werden.
 
 Nachfolgend wird der Programmteil *Bearbeiten / Elektronische Übermittlung / Elektronische Kommunalsteuer-Schließungserklärung erstellen* angewählt.
 

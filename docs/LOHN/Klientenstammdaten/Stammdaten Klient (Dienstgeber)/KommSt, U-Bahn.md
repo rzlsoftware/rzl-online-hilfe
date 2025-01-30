@@ -39,7 +39,7 @@ Für die automatische Eintragung des Monats und des Jahres können Sie die Kürz
 
 **Kommunalsteuerschließungserklärung** 
 
-Wenn eine [Kommunalsteuer-Schließungserklärung](../../Elektronische%20Kommunalsteuererklärung/Erstellung%20einer%20Kommunalsteuer-Schließungserklärung.md) erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen.
+Wenn eine [Kommunalsteuer-Schließungserklärung](../../Elektronische%20Kommunalsteuererklärung.md) erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen.
 
 **U-Bahn-Abgabe**
 

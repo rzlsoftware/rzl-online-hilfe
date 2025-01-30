@@ -1,6 +1,6 @@
 # Ausdruck Überweisungen/Zahlscheine
 
-Bei Durchführung der Überweisungen der Lohnabrechnungen (*Ausdruck / Überweisungen, Zahlscheine* bzw. Überweisungen mittels SEPA) wird dies beim Dienstnehmer vermerkt. Damit ist sichergestellt, dass eine Überweisung nicht versehentlich zweimal erfolgen kann. Ist es erforderlich, die Überweisung nochmals auszudrucken bzw. die Überweisungs-Datei nochmals zu erstellen, muss vorher ein [*Repair*](../Repair/Repair%20Überweisungen.md) der Überweisungen durchgeführt werden.
+Bei Durchführung der Überweisungen der Lohnabrechnungen (*Ausdruck / Überweisungen, Zahlscheine* bzw. Überweisungen mittels SEPA) wird dies beim Dienstnehmer vermerkt. Damit ist sichergestellt, dass eine Überweisung nicht versehentlich zweimal erfolgen kann. Ist es erforderlich, die Überweisung nochmals auszudrucken bzw. die Überweisungs-Datei nochmals zu erstellen, muss vorher ein [*Repair*](../Repair.md) der Überweisungen durchgeführt werden.
 
 **Überweisungsliste Abrechnungen Inland / Ausland / Abgaben / Exekutionsbeträge / Sonstige Behörden**
 

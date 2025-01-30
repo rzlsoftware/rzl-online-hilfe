@@ -2,7 +2,7 @@
 
 Im Programmteil *Bearbeiten / Elektronic Banking (SEPA)* können Sie Überweisungsdateien für die Abrechnungen der Dienstnehmer, für die Zahlungen an die Behörden (Abgaben) und für die mit dem Exekutionsmodul errechneten Exekutionsbeträge erstellt werden.
 
-Durchgeführte Überweisungen von Lohnabrechnungen werden bei den einzelnen Dienstnehmern vermerkt. Damit ist sichergestellt, dass eine Überweisung nicht zweimal erfolgen kann. Ist es erforderlich, dass Sie die Überweisung nochmals ausdrucken bzw. die Überweisungsdatei nochmals erstellen, müssen Sie vorher ein [*Repair*](../Repair/Repair%20Überweisungen.md) der Überweisungen durchführen.
+Durchgeführte Überweisungen von Lohnabrechnungen werden bei den einzelnen Dienstnehmern vermerkt. Damit ist sichergestellt, dass eine Überweisung nicht zweimal erfolgen kann. Ist es erforderlich, dass Sie die Überweisung nochmals ausdrucken bzw. die Überweisungsdatei nochmals erstellen, müssen Sie vorher ein [*Repair*](../Repair.md) der Überweisungen durchführen.
 
 ![Image](<img/image212.png>){width="500"}
 
