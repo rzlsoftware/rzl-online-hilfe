@@ -4,19 +4,19 @@
 
 Unter *Stamm / AMS-KUA-Projekte* haben Sie die Möglichkeit, die AMS-Projekte für die Kurzarbeit anzulegen.
 
-![Image](<img/image667.png>)
+![Image](<img/image667.png>){width="500"}
 
 Handelt es sich um einen Verlängerungsantrag so setzen Sie den Haken bei *Verlängerung der Kurzarbeit*. Bei einem Verlängerungsantrag können Sie über das Zusatzfeld *urspr. Antrag* die Nummer des ursprünglichen Antrages eintragen, oder mit der *F2-Taste* auswählen. Einige Grunddaten werden aus dem ursprünglichen Antrag übernommen, können aber natürlich ergänzt oder korrigiert werden. Auch die Dienstnehmer, die beim urspr. Antrag hinterlegt waren, sind automatisch in den Verlängerungsantrag übernommen worden. Im Falle eines Neuantrages sind die Felder *Kurzarbeit Beginn, Ende, Arbeitsausfall in %* und die *Normalarbeitszeit lt. KV* vollständig zu erfassen.
 
 Im *Kurzarbeit-Abrechnungsbildschirm* werden bei den Dienstnehmern die *Antragsnummer* und die *AMS-Projektnummer* hinterlegt. Alle weiteren Kurzarbeitsdaten bleiben unverändert.
 
-![Image](<img/image668.png>)
+![Image](<img/image668.png>){width="500"}
 
 **Zuordnung des Dienstnehmers zum AMS-KUA-Projekt**
 
 Wählen Sie das korrekte AMS-Projekt aus und klicken Sie auf die Schaltfläche *DN Liste*. Mit Hilfe der Filterfunktion können Sie sich alle Dienstnehmer, die dem Projekt zugeordnet sind, anzeigen lassen. Wählen Sie einen oder alle Dienstnehmer aus und bestimmen Sie über die Aktion *Antrag den Dienstnehmern zuordnen* die *Antragsnummer* (z. B. 12) und schließen die Änderung mit der Schaltfläche *Durchführen* ab.
 
-![Image](<img/image669.png>)
+![Image](<img/image669.png>){width="500"}
 
 Sobald Sie die Dienstnehmer dem AMS-Projektantrag zugeordnet haben, können Sie die im Zuge der Datenkonvertierung erstellten, aber nicht mehr benötigen AMS-KUA-Projekte über die Schaltfläche *Löschen* entfernen.
 
@@ -47,7 +47,7 @@ Die Kurzarbeit wird deaktiviert. D. h. alle Kurzarbeitsdaten werden gelöscht. 
 
 Über den Stammdatendialog der *AMS-KUA-Projekte* und anschließend über die Schaltfläche *DN Liste* können Sie mittels Doppelklick auf den gewünschten Dienstnehmer eine Gegenüberstellung der Kurzarbeits-Stammdaten für den ursprünglichen Antrag und den Verlängerungsantrag anzeigen lassen.
 
-![Image](<img/image670.png>)
+![Image](<img/image670.png>){width="600"}
 
 ## Kurzarbeitsbildschirm in der Abrechnung des Dienstnehmers
 
@@ -55,7 +55,7 @@ Seit Juli 2020 gibt es die Möglichkeit einer Kurzarbeitsabrechnung im RZL-Lohn-
 
 ### Kurzarbeit - Projektdaten
 
-![Image](<img/image668.png>)
+![Image](<img/image668.png>){width="500"}
 
 **Antragsnummer**
 
@@ -87,7 +87,7 @@ Die Wochenstunden werden aus dem *Eintrittsbildschirm* mit der *F2-Taste* übern
 
 ### Bruttoentgelt für Kurzarbeitsbeihilfe
 
-![Image](<img/image671.png>)
+![Image](<img/image671.png>){width="500"}
 
 **Brutto vor Kurzarbeit**
 
@@ -126,7 +126,7 @@ Seit der Phase 3 haben **KV-Erhöhungen, Umstufungen/Umgruppierungen** innerhalb
 
 Bei Erhöhung des Feldes *Lohn/Gehalt* und gleichbleibendem Wert bei Bruttoentgelt für Kurzarbeitsunterstützung, erhalten Sie einen Hinweis. Gleiches gilt, wenn das *HGKV Modul* im Abrechnungsmonat gestiegene Werte liefert oder wenn die Wochenstunden angepasst wurden.
 
-![Image](<img/image672.png>)
+![Image](<img/image672.png>){width="400"}
 
 Die Frage in welchem Ausmaß sich KV-Erhöhungen auf die Grundlage auswirken müssen, ist sehr komplex geregelt und ein automatischer Vorschlag daher nicht möglich.
 
@@ -136,7 +136,7 @@ Hierzu wurde im Programm eine Funktion eingebaut, um diese Dynamisierung leichte
 
 Durch Anwahl *KV-Erhöhung* öffnet sich ein Fenster für die Eingabe der KV-Erhöhung während der Kurzarbeit.
 
-![Image](<img/image674.png>)
+![Image](<img/image674.png>){width="400"}
 
 Sie haben hier die Möglichkeit eine prozentuelle KV-Erhöhung oder einen fixen Betrag einzugeben, um dessen das Brutto vor Kurzarbeit erhöht werden soll. Durch die KV-Erhöhung wird auch automatisch das Brutto vor Kurzarbeit bei der Kurzarbeitsunterstützung erhöht.
 
@@ -153,7 +153,7 @@ Hier wird vom Programm die letzte SV-Bemessung vor dem Kurzarbeitsbeginn vorgesc
 
 ### Bruttoentgelt für Kurzarbeitsunterstützung
 
-![Image](<img/image675.png>)
+![Image](<img/image675.png>){width="500"}
 
 **Brutto vor Kurzarbeit**
 
@@ -208,7 +208,7 @@ Hier geben Sie den Betrag des abweichenden Mindestbrutto ein.
 
 ### Kurzarbeitsunterstützung – Stunden
 
-![Image](<img/image676.png>)
+![Image](<img/image676.png>){width="500"}
 
 **Monatsteiler**
 
@@ -252,7 +252,7 @@ Der Wert des Urlaubes bzw. des Zeitausgleiches wird aus den eingegebenen Urlaubs
 
 ### Kurzarbeitsunterstützung
 
-![Image](<img/image677.png>)
+![Image](<img/image677.png>){width="500"}
 
 **Bruttobasis (Gehalt + freie Lohnarten definiert als KV-Bezug)**
 
@@ -310,7 +310,7 @@ Bei diesen Lohnarten kann es vorkommen, dass dieser Bezug in einem Monat zusätz
 
 Im Abrechnungsbildschirm *freie Lohnarten* gibt es daher die Möglichkeit, die Berücksichtigung beim Mindestbrutto pro Monat festzulegen.
 
-![Image](<img/image678.png>)
+![Image](<img/image678.png>){width="400"}
 
 Mit den Optionen *enthalten* und *nicht enthalten* wird eine Lohnart entweder komplett auf das Mindestbrutto angerechnet oder zu 100% als zusätzlicher Bezug ausbezahlt.
 
@@ -320,7 +320,7 @@ In den Übergangsmonaten zwischen Erstantrag und Verlängerung können Sie zudem
 
 ### Kurzarbeitsbeihilfe – Stunden
 
-![Image](<img/image679.png>)
+![Image](<img/image679.png>){width="500"}
 
 **Normalarbeitszeitstunden im Abrechnungszeitraum**
 
@@ -387,21 +387,21 @@ Differenz aus *errechnete Ausfallstunden* und *geleistete Überstunden*. Diese A
 
 Es ist möglich, gewisse Kurzarbeitswerte aus RZL-externen Zeiterfassungssystemen über eine CSV-Schnittstelle zu importieren und somit automatisch in die Abrechnung mitaufzunehmen. Um den Klienten die Erfassung der Grunddaten zu erleichtern, können Sie auf Basis der Abrechnungsmaske zunächst eine leere Musterdatei exportieren und dem Klienten vorlegen.
 
-### Datenexport
+**Datenexport**
 
-Über den Menüpunkt *Bearbeiten / Datenexport / Datenexport* wählen Sie zunächst einen bestimmten Monat und definieren, ob der gesamte Klient oder einzelne Dienstnehmer exportiert werden sollen. Die *Listenform* für den Datenexport muss einmalig angelegt werden. Wie eine Listenform angelegt wird finden Sie unter 18.1 Erstellung / Aufbau der Daten-Liste (Export-Datei), Seite [277](#erstellung-aufbau-der-daten-liste-export-datei) beschrieben.
+Über den Menüpunkt *Bearbeiten / Datenexport / Datenexport* wählen Sie zunächst einen bestimmten Monat und definieren, ob der gesamte Klient oder einzelne Dienstnehmer exportiert werden sollen. Die [*Listenform*](../LOHN/Datenexport/Erstellung%20und%20Aufbau%20der%20Daten-Liste%20(Export-Datei).md) für den Datenexport muss einmalig angelegt werden.
 
 Über die Schaltfläche *Suchen* definieren Sie den Speicherort und den Namen der Exportdatei. Wenn Sie beim Speichern den Dateityp CSV-Dateien (.csv) auswählen, können Sie die Datei mit dem Excel-Programm öffnen. Mit Klick auf die Schaltfläche *Exportieren* werden die Daten ausgegeben.
 
-![Image](<img/image680.png>)
+![Image](<img/image680.png>){width="500"}
 
 Die so genannte *Listenform* legt fest, welche Daten exportiert werden sollen und in welcher Reihenfolge die Spalten in der Datei angeführt sind. Wenn Sie dem Kunden eine Musterdatei liefern wollen, würden wir den Aufbau so wählen, wie auch in der AMS Projektdatei bzw. im Abrechnungsbildschirm vorgesehen. Zur besseren Orientierung würden wir noch die Felder *DN-Nummer, Name, Vorname* und *Beginn Kurzarbeit* dazugeben
 
-![Image](<img/image681.png>)
+![Image](<img/image681.png>){width="500"}
 
-### Datenimport
+**Datenimport**
 
-![Image](<img/image682.png>)
+![Image](<img/image682.png>){width="500"}
 
 Im Eingabefeld *Monat* tragen Sie das Monat ein in welches der Datenimport erfolgen soll. Sie erhalten nach jedem Datenimport ein Importprotokoll, wenn Sie die Option *Protokoll* *drucken* auswählen. Wird die Option *Dateiinhalt drucken* mit *Detaildarstellung* ausgewählt, sehen Sie vorab welche Werte in die Kurzarbeit-Abrechnungsmaske und bei welchem Dienstnehmer importiert werden.
 
@@ -421,7 +421,7 @@ Wir würden empfehlen, den Import auf die Felder aus der Ermittlung der Ausfalls
 - Geleistete Überstunden
 - Verrechnete Ausfallstunden
 
-![Image](<img/image683.png>)
+![Image](<img/image683.png>){width="500"}
 
 ## Export der Beihilfen-Aufstellung und Import in die AMS-Projektdatei
 
@@ -429,7 +429,7 @@ Wir würden empfehlen, den Import auf die Felder aus der Ermittlung der Ausfalls
 
 Nach erfolgreicher Eingabe der Ausfallstunden im Kurzarbeit-Bildschirm für die Beihilfenstunden, können Sie nun für den jeweiligen Monat die Exportdatei für die AMS-Projektdatei erstellen. Diese Funktion finden Sie im Menüpunkt *Ausdruck / Sonderdrucke / Kurzarbeit / Aufstellung Kurzarbeitsbeihilfe…*
 
-![Image](<img/image684.png>)
+![Image](<img/image684.png>){width="500"}
 
 Unter *Nach Projektanträgen getrennt* können die Projekte nach AMS-Projektnummer getrennt ausgegeben werden.
 
@@ -439,23 +439,23 @@ Mit Auswahl *Ausgabe in ASCII-Datei* erstellen Sie eine Excel-Datei mit der Date
 
 Nach erfolgreicher Speicherung der AMS-Projektdatei von der Webseite des AMS, öffnen Sie diese.
 
-![Image](<img/image685.png>)
+![Image](<img/image685.png>){width="500"}
 
 Im Menüpunkt ***Projektdaten erfassen***, erfassen Sie die AMS-Projektnummer und den Beginn und das Ende der Kurzarbeit lt. Antrag beim AMS.
 
-![Image](<img/image686.png>)
+![Image](<img/image686.png>){width="500"}
 
 Nach Eingabe der erforderlichen Daten gehen Sie auf *Daten übernehmen*.
 
 Im Menüpunkt ***CSV Import in Projektdatei*** wird nun die RZL-Lohn-Beihilfen-Auflistung importiert.
 
-![Image](<img/image687.png>)
+![Image](<img/image687.png>){width="500"}
 
 Überprüfen Sie nun die MA-Stammdaten. Wenn keine Fehler auftauchen, gehen Sie auf *Zurück zur Steuerung*.
 
 Im Menüpunkt ***Abrechnung erstellen/bearbeiten*** werden nun die Kurzarbeitsdaten erstellt.
 
-![Image](<img/image688.png>)
+![Image](<img/image688.png>){width="600"}
 
 Den Abrechnungszeitraum überprüfen und dann auf *Daten übernehmen* klicken.
 
@@ -467,6 +467,6 @@ Auf *Prüfen* gehen. Wenn alle Daten korrekt sind, klicken Sie auf *Zurück zur 
 
 Kommen wir nun zum letzten Menüpunkt *CSV-Datei speichern*. Hier muss nun die erstellte Abrechnung ausgewählt werden:
 
-![Image](<img/image690.png>)
+![Image](<img/image690.png>){width="600"}
 
 *Daten übernehmen*. Nach Anwahl dieses Punktes speichern Sie die Projektdatei an einem Ort Ihrer Wahl ab. Sie dürfen NICHT den Dateinamen verändern, da ansonsten das AMS die Datei nicht verarbeiten kann. 
