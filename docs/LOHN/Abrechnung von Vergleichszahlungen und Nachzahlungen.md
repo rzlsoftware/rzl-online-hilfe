@@ -14,54 +14,10 @@ Vergleichssummen (§ 67 Abs 8 lit a EStG) und Nachzahlungen für abgelaufene Kal
 
 In diesem Jahr sind folgende Lohnarten von Ihnen anzulegen (es gibt keine Musterlohnarten):
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 7%" />
-<col style="width: 25%" />
-<col style="width: 22%" />
-<col style="width: 15%" />
-<col style="width: 7%" />
-<col style="width: 21%" />
-</colgroup>
-<thead>
-<tr>
-<th></th>
-<th><blockquote>
-<p><strong>Lohnart</strong></p>
-</blockquote></th>
-<th style="text-align: center;"><strong>Sozialversicherung</strong></th>
-<th style="text-align: center;"><strong>Lohnsteuer</strong></th>
-<th style="text-align: center;"><strong>DB</strong></th>
-<th style="text-align: center;"><strong>Kommunalsteuer</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><blockquote>
-<p>507</p>
-</blockquote></td>
-<td><blockquote>
-<p>Erhöhung Bmgl SV-lfd</p>
-</blockquote></td>
-<td style="text-align: center;">8</td>
-<td style="text-align: center;">Egal</td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">0</td>
-</tr>
-<tr>
-<td><blockquote>
-<p>508</p>
-</blockquote></td>
-<td><blockquote>
-<p>Erhöhung Bmgl SV-SZ</p>
-</blockquote></td>
-<td style="text-align: center;">9</td>
-<td style="text-align: center;">Egal</td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">0</td>
-</tr>
-</tbody>
-</table>
+|                                       | Lohnart              | Sozialversicherung | Lohnsteuer |  DB   | Kommunalsteuer |
+| ------------------------------------- | -------------------- | :----------------: | :--------: | :---: | :------------: |
+| <span style="color: grey;">507</span> | Erhöhung Bmgl SV-lfd |         8          |    egal    |   0   |       0        |
+| <span style="color: grey;">508</span> | Erhöhung Bmgl SV-SZ  |         9          |    egal    |   0   |       0        |
 
 Über *Abrechnungen / Aufrollung / Lohn-/Gehaltsaufrollung* sind die Abrechnungen des Dienstnehmers aufzurufen und die nach SV-Pflichtigkeit aufgeteilte Vergleichssumme mit den Lohnarten *Erhöhung Bmgl SV-lfd* und *Erhöhung Bmgl SV-SZ* auf die jeweiligen Monate verteilt, abzurechnen.
 
@@ -81,121 +37,56 @@ Eine etwaige Zahlung einer Abfertigung kann über die fixen Lohnarten abgerechne
 
 Für die Vergleichssummen, welche für Dienstnehmer mit Abfertigung NEU sind und **unter** EUR 7.500,00 liegen, sind folgende Lohnarten anzulegen:
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 5%" />
-<col style="width: 37%" />
-<col style="width: 20%" />
-<col style="width: 13%" />
-<col style="width: 5%" />
-<col style="width: 17%" />
-</colgroup>
-<thead>
-<tr>
-<th></th>
-<th><blockquote>
-<p><strong>Lohnart</strong></p>
-</blockquote></th>
-<th style="text-align: center;"><strong>Sozialversicherung</strong></th>
-<th style="text-align: center;"><strong>Lohnsteuer</strong></th>
-<th style="text-align: center;"><strong>DB</strong></th>
-<th style="text-align: center;"><strong>Kommunalsteuer</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>353</td>
-<td><blockquote>
-<p>Vergleich SV lfd.</p>
-</blockquote></td>
-<td style="text-align: center;">1</td>
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">1</td>
-<td style="text-align: center;">1</td>
-</tr>
-<tr>
-<td>354</td>
-<td><blockquote>
-<p>Vergleich SV Sonderzahlung</p>
-</blockquote></td>
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">1</td>
-<td style="text-align: center;">1</td>
-</tr>
-<tr>
-<td></td>
-<td><blockquote>
-<p>Vergleich SV frei</p>
-</blockquote></td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">1</td>
-<td style="text-align: center;">1</td>
-</tr>
-<tr>
-<td>513</td>
-<td><blockquote>
-<p>SV als Werbungskosten KZ 226 Abzug</p>
-</blockquote></td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">35</td>
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">0</td>
-</tr>
-<tr>
-<td>510</td>
-<td><blockquote>
-<p>Abzug SV aus Vergleich</p>
-</blockquote></td>
-<td colspan="4" style="text-align: center;">Abzugslohnart, daher Option
-Abzug aktivieren</td>
-</tr>
-</tbody>
-</table>
+|                                       | Lohnart                            |              Sozialversicherung              | Lohnsteuer |  DB   | Kommunalsteuer |
+| ------------------------------------- | ---------------------------------- | :------------------------------------------: | :--------: | :---: | :------------: |
+| <span style="color: grey;">353</span> | Vergleich SV lfd.                  |                      1                       |     3      |   1   |       1        |
+| <span style="color: grey;">354</span> | Vergleich SV Sonderzahlung         |                      2                       |     3      |   1   |       1        |
+|                                       | Vergleich SV frei                  |                      0                       |     3      |   1   |       1        |
+| <span style="color: grey;">513</span> | SV als Werbungskosten KZ 226 Abzug |                      0                       |     35     |   0   |       0        |
+| <span style="color: grey;">510</span> | Abzug SV aus Vergleich             | Abzugslohnart, daher Option Abzug aktivieren |
 
 **Vergleich Abfertigung ALT**
 
 Für die Vergleichssummen für Dienstnehmer mit Abfertigung ALT, sind folgende Lohnarten anzulegen:
 
-|     | **Lohnart**                  |            **Sozialversicherung**            | **Lohnsteuer** | **DB** | **Kommunalsteuer** |       |
-| --- | ---------------------------- | :------------------------------------------: | :------------: | :----: | :----------------: | :---: |
-| 355 | Vergleich SV lfd.            |                      1                       |       18       |   1    |         1          |       |
-| 356 | Vergleich SV Sonderzahlung   |                      2                       |       18       |   1    |         1          |       |
-|     | Vergleich SV frei            |                      0                       |       18       |   1    |         1          |       |
-| 502 | SV als Werbungskosten        |                      0                       |       12       |   0    |         0          |       |
-| 509 | SV als Werbungskosten KZ 226 |                      0                       |       29       |   0    |         0          |       |
-| 510 | Abzug SV aus Vergleich       | Abzugslohnart, daher Option Abzug aktivieren |                |        |                    |       |
+|                                       | **Lohnart**                  |            **Sozialversicherung**            | **Lohnsteuer** | **DB** | **Kommunalsteuer** |       |
+| ------------------------------------- | ---------------------------- | :------------------------------------------: | :------------: | :----: | :----------------: | :---: |
+| <span style="color: grey;">355</span> | Vergleich SV lfd.            |                      1                       |       18       |   1    |         1          |       |
+| <span style="color: grey;">356</span> | Vergleich SV Sonderzahlung   |                      2                       |       18       |   1    |         1          |       |
+|                                       | Vergleich SV frei            |                      0                       |       18       |   1    |         1          |       |
+| <span style="color: grey;">502</span> | SV als Werbungskosten        |                      0                       |       12       |   0    |         0          |       |
+| <span style="color: grey;">509</span> | SV als Werbungskosten KZ 226 |                      0                       |       29       |   0    |         0          |       |
+| <span style="color: grey;">510</span> | Abzug SV aus Vergleich       | Abzugslohnart, daher Option Abzug aktivieren |                |        |                    |       |
 
 **Nachzahlung**
 
 Für die Nachzahlungssummen sind folgende Lohnarten anzulegen:
 
-|     | **Lohnart**                  |            **Sozialversicherung**            | **Lohnsteuer** | **DB** | **Kommunalsteuer** |
-| --- | ---------------------------- | :------------------------------------------: | :------------: | :----: | :----------------: |
-| 254 | Nachzahlung SV lfd.          |                      1                       |       27       |   1    |         1          |
-| 255 | Nachzahlung SV Sonderzahlung |                      2                       |       27       |   1    |         1          |
-|     | Nachzahlung SV frei          |                      0                       |       27       |   1    |         1          |
-| 502 | SV als Werbungskosten        |                      0                       |       12       |   0    |         0          |
-| 509 | SV als Werbungskosten KZ 226 |                      0                       |       29       |   0    |         0          |
-| 511 | Abzug SV aus Nachzahlung     | Abzugslohnart, daher Option Abzug aktivieren |                |        |                    |
+|                                       | **Lohnart**                  |            **Sozialversicherung**            | **Lohnsteuer** | **DB** | **Kommunalsteuer** |
+| ------------------------------------- | ---------------------------- | :------------------------------------------: | :------------: | :----: | :----------------: |
+| <span style="color: grey;">254</span> | Nachzahlung SV lfd.          |                      1                       |       27       |   1    |         1          |
+| <span style="color: grey;">255</span> | Nachzahlung SV Sonderzahlung |                      2                       |       27       |   1    |         1          |
+|                                       | Nachzahlung SV frei          |                      0                       |       27       |   1    |         1          |
+| <span style="color: grey;">502</span> | SV als Werbungskosten        |                      0                       |       12       |   0    |         0          |
+| <span style="color: grey;">509</span> | SV als Werbungskosten KZ 226 |                      0                       |       29       |   0    |         0          |
+| <span style="color: grey;">511</span> | Abzug SV aus Nachzahlung     | Abzugslohnart, daher Option Abzug aktivieren |                |        |                    |
 
 **Vergleich Abfertigung NEU über EUR 7.500,00**
 
 Für die Vergleichssummen, welche für Dienstnehmer mit Abfertigung NEU sind und **über** EUR 7.500,00 liegen, sind folgende Lohnarten anzulegen:
 
-|     | **Lohnart**                        |            **Sozialversicherung**            | **Lohnsteuer** | **DB** | **Kommunalsteuer** |
-| --- | ---------------------------------- | :------------------------------------------: | :------------: | :----: | :----------------: |
-| 353 | Vergleich SV lfd.                  |                      1                       |       3        |   1    |         1          |
-| 354 | Vergleich SV Sonderzahlung         |                      2                       |       3        |   1    |         1          |
-|     | Vergleich SV frei                  |                      0                       |       3        |   1    |         1          |
-| 355 | Vergleich SV lfd.                  |                      1                       |       18       |   1    |         1          |
-| 356 | Vergleich SV Sonderzahlung         |                      2                       |       18       |   1    |         1          |
-|     | Vergleich SV frei                  |                      0                       |       18       |   1    |         1          |
-| 502 | SV als Werbungskosten              |                      0                       |       12       |   0    |         0          |
-| 509 | SV als Werbungskosten KZ 226       |                      0                       |       29       |   0    |         0          |
-| 513 | SV als Werbungskosten KZ 226 Abzug |                      0                       |       35       |   0    |         0          |
-| 511 | Abzug SV aus Vergleich             | Abzugslohnart, daher Option Abzug aktivieren |                |        |                    |
+|                                       | **Lohnart**                        |            **Sozialversicherung**            | **Lohnsteuer** | **DB** | **Kommunalsteuer** |
+| ------------------------------------- | ---------------------------------- | :------------------------------------------: | :------------: | :----: | :----------------: |
+| <span style="color: grey;">353</span> | Vergleich SV lfd.                  |                      1                       |       3        |   1    |         1          |
+| <span style="color: grey;">354</span> | Vergleich SV Sonderzahlung         |                      2                       |       3        |   1    |         1          |
+|                                       | Vergleich SV frei                  |                      0                       |       3        |   1    |         1          |
+| <span style="color: grey;">355</span> | Vergleich SV lfd.                  |                      1                       |       18       |   1    |         1          |
+| <span style="color: grey;">356</span> | Vergleich SV Sonderzahlung         |                      2                       |       18       |   1    |         1          |
+|                                       | Vergleich SV frei                  |                      0                       |       18       |   1    |         1          |
+| <span style="color: grey;">502</span> | SV als Werbungskosten              |                      0                       |       12       |   0    |         0          |
+| <span style="color: grey;">509</span> | SV als Werbungskosten KZ 226       |                      0                       |       29       |   0    |         0          |
+| <span style="color: grey;">513</span> | SV als Werbungskosten KZ 226 Abzug |                      0                       |       35       |   0    |         0          |
+| <span style="color: grey;">511</span> | Abzug SV aus Vergleich             | Abzugslohnart, daher Option Abzug aktivieren |                |        |                    |
 
 Die Vergleichssumme ist je nach SV-Pflicht auf die Lohnarten Vergleich SV lfd., Vergleich SV Sonderzahlung und Vergleich SV frei aufzuteilen und mit diesen Lohnarten abzurechnen.
 
@@ -205,7 +96,7 @@ Die Differenz der SV von der Abrechnung im Austrittsmonat (ohne Vergleich) und j
 
 Als Ergebnis all dieser Änderungen kann für den Dienstnehmer ein Lohnzettel erstellt werden, es erfolgt jedoch richtigerweise kein Ausweis auf der monatlichen Beitragsgrundlagenmeldung (sofern in diesem Jahr keine Urlaubsersatzleistung abzurechnen war).
 
-## Beispiel Vergleich Abfertigung NEU unter EUR 7.500,00 Lohnsteuerpflichtigkeit Nr. 3
+## Beispiel Vergleich Abfertigung NEU unter EUR 7.500,00 Lohnsteuerpflichtigkeit Nr. <span style="color: red;">3</span>
 
 Vergleich betrifft das Jahr 2021: Insgesamt EUR 5.200,00 – Austrittsdatum: 31.12.2021
 
@@ -228,44 +119,44 @@ Verwenden Sie für die Aufrollung am besten das Monat 13, damit Sie die Aufrolld
 
 **Aufrollung Monat 13**
 
-**Monat Oktober**
+**<span style="color: grey;">Monat Oktober</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebene Lohnart *Erhöhung Bmgl SV-lfd*.
 
 Im Monat **10** tragen Sie in den *freien Lohnarten* diese Lohnart mit dem Betrag EUR 3.000,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image603.png>)
+![Image](<img/image603.png>){width="400"}
 
 !!! warning "Hinweis"
     Da der Dienstnehmer einen Lohn von EUR 3.500,00 erhalten hat, wird die Höchstbeitragsgrundlage überschritten.
 
-![Image](<img/image604.png>)
+![Image](<img/image604.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freie Lohnart dient nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
 
-**Monat November**
+**<span style="color: grey;">Monat November</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebenen Lohnarten *Erhöhung Bmgl SV-lfd* und *Erhöhung Bmgl SV-SZ*.
 
 Im Monat **11** tragen Sie in den *freien Lohnarten* die Lohnart *Erhöhung Bmgl SV-lfd* mit EUR 1.000,00 und bei der Lohnart *Erhöhung Bmgl SV-SZ* EUR 700,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image605.png>)
+![Image](<img/image605.png>){width="400"}
 
-![Image](<img/image606.png>)
+![Image](<img/image606.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freien Lohnarten dienen nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
 
-**Monat Dezember**
+**<span style="color: grey;">Monat Dezember</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebene Lohnart *Erhöhung Bmgl SV-lfd*.
 
 Im Monat **12** tragen Sie in den *freien Lohnarten* diese Lohnart mit EUR 500,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image607.png>)
+![Image](<img/image607.png>){width="400"}
 
-![Image](<img/image608.png>)
+![Image](<img/image608.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freie Lohnart dient nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
@@ -274,11 +165,11 @@ Im Monat **12** tragen Sie in den *freien Lohnarten* diese Lohnart mit EUR 500,
 
 Nach der erfolgreichen Aufrollung der Monate, erstellen Sie mit Monat 13 den mBGM für diesen einen Dienstnehmer. *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen*.
 
-![Image](<img/image609.png>)
+![Image](<img/image609.png>){width="600"}
 
 Es erfolgt eine automatische Erstellung der Storno mBGMs für die Monate Oktober bis Dezember, sowie die Neuerstellung der mBGMs für diese Monate.
 
-![Image](<img/image610.png>)
+![Image](<img/image610.png>){width="600"}
 
 Drucken Sie nun das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
 
@@ -286,82 +177,13 @@ Drucken Sie nun das Auszahlungsjournal und die Überweisungsliste mit Monat 13 a
 
 Diese Berechnung muss von Ihnen manuell durchgeführt werden. Eine Automatik ist hier nicht vorgesehen.
 
-<table>
-<colgroup>
-<col style="width: 15%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 15%" />
-<col style="width: 12%" />
-<col style="width: 4%" />
-<col style="width: 5%" />
-<col style="width: 14%" />
-</colgroup>
-<thead>
-<tr>
-<th><strong>Betroffene<br />
-Monate</strong></th>
-<th style="text-align: center;"><strong>SV Bemessung<br />
-ursprünglich</strong></th>
-<th style="text-align: center;"><strong>SV Bemessung<br />
-NEU</strong></th>
-<th style="text-align: center;"><strong>SV Abzug<br />
-ursprünglich</strong></th>
-<th style="text-align: center;"><strong>SV Abzug<br />
-neu</strong></th>
-<th colspan="2"
-style="text-align: center;"><strong>SV-Satz</strong></th>
-<th style="text-align: center;"><strong>Differenz</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Oktober</td>
-<td style="text-align: right;">3.500,00</td>
-<td style="text-align: right;">5.550,00</td>
-<td style="text-align: right;">634,20</td>
-<td style="text-align: right;">1.005,66</td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">371,46</td>
-</tr>
-<tr>
-<td>November</td>
-<td style="text-align: right;">3.500,00</td>
-<td style="text-align: right;">4.500,00</td>
-<td style="text-align: right;">634,20</td>
-<td style="text-align: right;">815,40</td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">181,20</td>
-</tr>
-<tr>
-<td>November SZ</td>
-<td style="text-align: right;">3.500,00</td>
-<td style="text-align: right;">4.200,00</td>
-<td style="text-align: right;">599,20</td>
-<td style="text-align: right;">719,04</td>
-<td colspan="2" style="text-align: right;">17,12%</td>
-<td style="text-align: right;">119,84</td>
-</tr>
-<tr>
-<td>Dezember</td>
-<td style="text-align: right;">3.500,00</td>
-<td style="text-align: right;">4.000,00</td>
-<td style="text-align: right;">634,20</td>
-<td style="text-align: right;">724,80</td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">90,60</td>
-</tr>
-<tr>
-<td><strong>Gesamt</strong></td>
-<td style="text-align: right;"><strong> </strong></td>
-<td style="text-align: right;"><strong> </strong></td>
-<td style="text-align: right;"><strong> </strong></td>
-<td colspan="2" style="text-align: right;"><strong> </strong></td>
-<td style="text-align: right;"></td>
-<td style="text-align: right;"><strong>763,10</strong></td>
-</tr>
-</tbody>
-</table>
+| Betroffene Monate | SV Bemessung ursprünglich | SV Bemessung NEU | SV Abzug ursprünglich | SV Abzug neu | SV-Satz |  Differenz |
+| ----------------- | ------------------------: | ---------------: | --------------------: | -----------: | ------: | ---------: |
+| Oktober           |                  3.500,00 |         5.550,00 |                634,20 |     1.005,66 | 18,12 % |     371,46 |
+| November          |                  3.500,00 |         4.500,00 |                634,20 |       815,40 | 18,12 % |     181,20 |
+| November SZ       |                  3.500,00 |         4.200,00 |                599,20 |       719,04 | 17,12 % |     119,84 |
+| Dezember          |                  3.500,00 |         4.000,00 |                634,20 |       724,80 | 18,12 % |      90,60 |
+| **Gesamt**        |                           |                  |                       |              |         | **763,10** |
 
 Es gelangen EUR 763,10 im **August 2022** als SV-DN-Anteil zum Abzug.
 
@@ -380,7 +202,7 @@ Im *Eintrittsbildschirm* geben Sie den 01.08.2022 ein. Ebenso geben Sie das Häk
 
 Wechseln Sie nun in den *Sozialversicherungsbildschirm*. Dort wählen Sie bei *BGR* *\<keine SV-Pflicht\>* aus.
 
-![Image](<img/image611.png>)
+![Image](<img/image611.png>){width="400"}
 
 **Fixe Lohnarten**
 
@@ -392,7 +214,7 @@ In den *Freien Lohnarten* geben Sie die Vergleichsbeträge, den Sozialversicheru
 
 Die Beträge finden Sie in den zwei oben erwähnten Berechnungstabellen:
 
-![Image](<img/image612.png>)
+![Image](<img/image612.png>){width="400"}
 
 Insgesamt dürfen *Vergleich SV lfd*. und *Vergleich SV Sonderzahlung* EUR 7.500,00 nicht übersteigen. Nur so darf der Vergleich mit dem festen Steuersatz (6 %) abgerechnet werden.
 
@@ -400,16 +222,17 @@ Rechnen Sie den Monat **August** ab. *Speichern*.
 
 ### Berechnung des Vergleiches
 
-| Vergleich SV lfd.          | 4.500,00 |
-| -------------------------- | -------: |
-| Vergleich SV Sonderzahlung |   700,00 |
-|                            | 5.200,00 |
-| -SV Vergleich              |  -763,10 |
-| LST BMGL SZ                | 4.436,90 |
-| \- LST fest 6 %            |  -266,21 |
-| Auszahlungsbetrag          | 4.170,69 |
+| Berechnung                 |              |
+| -------------------------- | -----------: |
+| Vergleich SV lfd.          |     4.500,00 |
+| Vergleich SV Sonderzahlung |       700,00 |
+|                            |   *5.200,00* |
+| -SV Vergleich              |      -763,10 |
+| LST BMGL SZ                |   *4.436,90* |
+| \- LST fest 6 %            |      -266,21 |
+| **Auszahlungsbetrag**      | **4.170,69** |
 
-![Image](<img/image613.png>)
+![Image](<img/image613.png>){width="600"}
 
 **mBGM**
 
@@ -419,9 +242,9 @@ Für den Monat August 2022 wird **kein** mBGM erstellt, da keine SV angefallen i
 
 Der Jahreslohnzettel wird mit allen anderen Lohnzettel im Februar des Folgejahres versendet.
 
-![Image](<img/image614.png>)
+![Image](<img/image614.png>){width="500"}
 
-## Beispiel Vergleich Abfertigung ALT Lohnsteuerpflichtigkeit Nr. 18
+## Beispiel Vergleich Abfertigung ALT Lohnsteuerpflichtigkeit Nr. <span style="color: red;">18</span>
 
 Vergleich betrifft das Jahr 2021: Insgesamt EUR 6.824,00 – Austrittsdatum: 31.07.2021
 
@@ -444,44 +267,44 @@ Verwenden Sie für die Aufrollung am besten das Monat 13, damit Sie die Aufrolld
 
 **Aufrollung Monat 13**
 
-**Monat Mai**
+**<span style="color: grey;">Monat Mai</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebene Lohnart *Erhöhung Bmgl SV-lfd*.
 
 Im Monat **05** tragen Sie in den *freien Lohnarten* diese Lohnart mit Betrag EUR 2.200,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image615.png>)
+![Image](<img/image615.png>){width="400"}
 
 !!! warning "Hinweis"
     Da der Dienstnehmer einen Lohn von EUR 4.000,00 erhalten hat, wird die Höchstbeitragsgrundlage überschritten.
 
-![Image](<img/image616.png>)
+![Image](<img/image616.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freie Lohnart dient nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
 
-**Monat Juni**
+**<span style="color: grey;">Monat Juni</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebenen Lohnarten *Erhöhung Bmgl SV-lfd* und *Erhöhung Bmgl SV-SZ*.
 
 Im Monat **06** tragen Sie in den *freien Lohnarten* die Lohnart *Erhöhung Bmgl SV-lfd* mit EUR 700,00 und bei der Lohnart *Erhöhung Bmgl SV-SZ* EUR 200,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image617.png>)
+![Image](<img/image617.png>){width="400"}
 
-![Image](<img/image618.png>)
+![Image](<img/image618.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freien Lohnarten dienen nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
 
-**Monat Juli**
+**<span style="color: grey;">Monat Juli</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebenen Lohnarten *Erhöhung Bmgl SV-lfd* und *Erhöhung Bmgl SV-SZ*.
 
 Im Monat **07** tragen Sie in den *freien Lohnarten* die Lohnart *Erhöhung Bmgl SV-lfd* mit EUR 1.200,00 und bei der Lohnart *Erhöhung Bmgl SV-SZ* EUR 2.524,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image619.png>)
+![Image](<img/image619.png>){width="400"}
 
-![Image](<img/image620.png>)
+![Image](<img/image620.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freien Lohnarten dienen nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
@@ -490,11 +313,11 @@ Im Monat **07** tragen Sie in den *freien Lohnarten* die Lohnart *Erhöhung Bmgl
 
 Nach der erfolgreichen Aufrollung der Monate, erstellen Sie mit Monat 13 den mBGM für diesen einen Dienstnehmer. *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen*.
 
-![Image](<img/image621.png>)
+![Image](<img/image621.png>){width="600"}
 
 Es erfolgt eine automatische Erstellung der Storno mBGMs für die Monate Mai bis Juni, sowie die Neuerstellung der mBGMs für diese Monate.
 
-![Image](<img/image622.png>)
+![Image](<img/image622.png>){width="600"}
 
 Drucken Sie nun das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
 
@@ -502,103 +325,14 @@ Drucken Sie nun das Auszahlungsjournal und die Überweisungsliste mit Monat 13 a
 
 Diese Berechnung muss von Ihnen manuell durchgeführt werden. Eine Automatik ist hier nicht vorgesehen.
 
-<table>
-<colgroup>
-<col style="width: 15%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 15%" />
-<col style="width: 11%" />
-<col style="width: 4%" />
-<col style="width: 6%" />
-<col style="width: 13%" />
-</colgroup>
-<thead>
-<tr>
-<th><strong>Betroffene<br />
-Monate</strong></th>
-<th style="text-align: center;"><strong>SV Bemessung<br />
-ursprünglich</strong></th>
-<th style="text-align: center;"><strong>SV Bemessung<br />
-NEU</strong></th>
-<th style="text-align: center;"><strong>SV Abzug<br />
-ursprünglich</strong></th>
-<th style="text-align: center;"><blockquote>
-<p><strong>SV Abzug<br />
-neu</strong></p>
-</blockquote></th>
-<th colspan="2"
-style="text-align: center;"><strong>SV-Satz</strong></th>
-<th style="text-align: center;"><strong>Differenz</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Mai</td>
-<td style="text-align: right;">4.000,00</td>
-<td style="text-align: right;">5.550,00</td>
-<td style="text-align: right;">724,80</td>
-<td style="text-align: right;"><blockquote>
-<p>1.005,66</p>
-</blockquote></td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">280,86</td>
-</tr>
-<tr>
-<td>Juni</td>
-<td style="text-align: right;">4.000,00</td>
-<td style="text-align: right;">4.700,00</td>
-<td style="text-align: right;">724,80</td>
-<td style="text-align: right;"><blockquote>
-<p>851,64</p>
-</blockquote></td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">126,84</td>
-</tr>
-<tr>
-<td>Juni SZ</td>
-<td style="text-align: right;">2.324,00</td>
-<td style="text-align: right;">2.524,00</td>
-<td style="text-align: right;">397,87</td>
-<td style="text-align: right;"><blockquote>
-<p>432,11</p>
-</blockquote></td>
-<td colspan="2" style="text-align: right;">17,12%</td>
-<td style="text-align: right;">34,24</td>
-</tr>
-<tr>
-<td>Juli</td>
-<td style="text-align: right;">4.000,00</td>
-<td style="text-align: right;">5.200,00</td>
-<td style="text-align: right;">724,80</td>
-<td style="text-align: right;"><blockquote>
-<p>942,24</p>
-</blockquote></td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">217,44</td>
-</tr>
-<tr>
-<td>Juli SZ</td>
-<td style="text-align: right;">0,00</td>
-<td style="text-align: right;">2.524,00</td>
-<td style="text-align: right;">0,00</td>
-<td style="text-align: right;"><blockquote>
-<p>432,11</p>
-</blockquote></td>
-<td colspan="2" style="text-align: right;">17,12%</td>
-<td style="text-align: right;">432,11</td>
-</tr>
-<tr>
-<td><strong>Gesamt</strong></td>
-<td style="text-align: right;"></td>
-<td style="text-align: right;"></td>
-<td style="text-align: right;"></td>
-<td colspan="2" style="text-align: right;"></td>
-<td style="text-align: right;"></td>
-<td style="text-align: right;"><strong>1.091,49</strong></td>
-</tr>
-</tbody>
-</table>
+| Betroffene Monate | SV Bemessung ursprünglich | SV Bemessung NEU | SV Abzug ursprünglich | SV Abzug neu | SV-Satz |    Differenz |
+| ----------------- | ------------------------: | ---------------: | --------------------: | -----------: | ------: | -----------: |
+| Mai               |                  4.000,00 |         5.550,00 |                724,80 |     1.005,66 | 18,12 % |       280,86 |
+| Juni              |                  4.000,00 |         4.700,00 |                724,80 |       851,64 | 18,12 % |       126,84 |
+| Juni SZ           |                  2.324,00 |         2.524,00 |                397,87 |       432,11 | 17,12 % |        34,24 |
+| Juli              |                  4.000,00 |         5.200,00 |                724,80 |       942,24 | 18,12 % |       217,44 |
+| Juli SZ           |                      0,00 |         2.524,00 |                  0,00 |       432,11 | 17,12 % |       432,11 |
+| **Gesamt**        |                           |                  |                       |              |         | **1.091,49** |
 
 Es gelangen EUR 1.091,49 im **September 2022** als SV-DN-Anteil zum Abzug.
 
@@ -617,7 +351,7 @@ Im *Eintrittsbildschirm* geben Sie den 01.09.2022 ein. Im *Austrittsbildschirm* 
 
 Wechseln Sie nun in den *Sozialversicherungsbildschirm*. Dort wählen Sie bei *BGR* *\<keine SV-Pflicht\>* aus.
 
-![Image](<img/image611.png>)
+![Image](<img/image611.png>){width="400"}
 
 **Fixe Lohnarten**
 
@@ -629,12 +363,13 @@ In den *Freien Lohnarten* geben Sie die Vergleichsbeträge, den Sozialversicheru
 
 Die Beträge finden Sie in den zwei oben erwähnten Berechnungstabellen und in den Erläuterungen unten:
 
-![Image](<img/image623.png>)
+![Image](<img/image623.png>){width="400"}
 
 **Berechnung SV als Werbungskosten**
 
-| SV-Abzug                | 1.091,49 |
+| Berechnung              |          |
 | ----------------------- | -------: |
+| SV-Abzug                | 1.091,49 |
 | : 5 x 4                 |   873,19 |
 | 1/5 steuerfrei (KZ 226) |   218,30 |
 
@@ -642,80 +377,21 @@ Rechnen Sie den Monat **September** ab. *Speichern*.
 
 ### Berechnung des Vergleiches
 
-<table>
-<colgroup>
-<col style="width: 63%" />
-<col style="width: 36%" />
-</colgroup>
-<thead>
-<tr>
-<th>Vergleich SV lfd.</th>
-<th style="text-align: right;"><blockquote>
-<p>4.100,00</p>
-</blockquote></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Vergleich SV Sonderzahlung</td>
-<td style="text-align: right;"><blockquote>
-<p>2.724,00</p>
-</blockquote></td>
-</tr>
-<tr>
-<td></td>
-<td style="text-align: right;"><blockquote>
-<p>6.824,00</p>
-</blockquote></td>
-</tr>
-<tr>
-<td>-SV Vergleich</td>
-<td style="text-align: right;"><blockquote>
-<p>-1.091,49</p>
-</blockquote></td>
-</tr>
-<tr>
-<td></td>
-<td style="text-align: right;"><blockquote>
-<p>5.732,51</p>
-</blockquote></td>
-</tr>
-<tr>
-<td>: 5 x 4</td>
-<td style="text-align: right;"><blockquote>
-<p>4.586,01</p>
-</blockquote></td>
-</tr>
-<tr>
-<td>LST BMGL lfd.</td>
-<td style="text-align: right;"><blockquote>
-<p>4.586,01</p>
-</blockquote></td>
-</tr>
-<tr>
-<td>x 42 %</td>
-<td style="text-align: right;"><blockquote>
-<p>1.926,12</p>
-</blockquote></td>
-</tr>
-<tr>
-<td>- Allg. Abzug</td>
-<td style="text-align: right;"><blockquote>
-<p>-654,20</p>
-</blockquote></td>
-</tr>
-<tr>
-<td>LST lfd.</td>
-<td style="text-align: right;">1.271,92</td>
-</tr>
-<tr>
-<td>Auszahlungsbetrag</td>
-<td style="text-align: right;">4.460,59</td>
-</tr>
-</tbody>
-</table>
+| Berechnung                 |              |
+| -------------------------- | -----------: |
+| Vergleich SV lfd.          |     4.100,00 |
+| Vergleich SV Sonderzahlung |     2.724,00 |
+|                            |   *6.824,00* |
+| -SV Vergleich              |    -1.091,49 |
+| LST BMGL SZ                |   *5.732,51* |
+| : 5 x 4                    |     4.586,01 |
+| *LST BMGL lfd.*            |   *4.586,01* |
+| x 42 %                     |     1.926,12 |
+| -Allg. Abzug               |      -654,20 |
+| - LST lfd.                 |     1.271,92 |
+| **Auszahlungsbetrag**      | **4.460,59** |
 
-![Image](<img/image624.png>)
+![Image](<img/image624.png>){width="600"}
 
 **mBGM**
 
@@ -725,17 +401,18 @@ Für den Monat September 2022 wird **kein** mBGM erstellt, da keine SV angefalle
 
 Der Jahreslohnzettel wird mit allen anderen Lohnzettel im Februar des Folgejahres versendet.
 
-![Image](<img/image625.png>)
+![Image](<img/image625.png>){width="500"}
 
 **Anmerkung**
 
 Berechnung Betrag „Steuerfreie bzw. mit festen Sätzen versteuerte Bezüge gemäß § 67 Abs. 3 bis 8 (ausgen. § 67 Abs. 5 zweiter TS), vor Abzug der SV-Beiträge“:
 
-| Gesamter Vergleich   | 6.824,00 |
+| Berechnung           |          |
 | -------------------- | -------- |
+| Gesamter Vergleich   | 6.824,00 |
 | : 5 (1/5 steuerfrei) | 1.364,80 |
 
-## Beispiel Nachzahlung Lohnsteuerpflichtigkeit Nr. 27
+## Beispiel Nachzahlung Lohnsteuerpflichtigkeit Nr. <span style="color: red;">27</span>
 
 Nachzahlung betrifft das Jahr 2021: Insgesamt EUR 775,00 – Austrittsdatum: 31.10.2021
 
@@ -758,41 +435,41 @@ Verwenden Sie für die Aufrollung am besten das Monat 13, damit Sie die Aufrolld
 
 **Aufrollung Monat 13**
 
-**Monat April**
+**<span style="color: grey;">Monat April</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebene Lohnart *Erhöhung Bmgl SV-lfd*.
 
 Im Monat **04** tragen Sie in den *freien Lohnarten* diese Lohnart mit Betrag EUR 200,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image626.png>)
+![Image](<img/image626.png>){width="400"}
 
-![Image](<img/image627.png>)
+![Image](<img/image627.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freie Lohnart dient nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
 
-**Monat August**
+**<span style="color: grey;">Monat August</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebene Lohnart *Erhöhung Bmgl SV-lfd*.
 
 Im Monat **08** tragen Sie in den *freien Lohnarten* diese Lohnart mit Betrag EUR 50,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image628.png>)
+![Image](<img/image628.png>){width="400"}
 
-![Image](<img/image629.png>)
+![Image](<img/image629.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freie Lohnart dient nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
 
-**Monat Oktober**
+**<span style="color: grey;">Monat Oktober</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebenen Lohnarten *Erhöhung Bmgl SV-lfd* und *Erhöhung Bmgl SV-SZ*.
 
 Im Monat **10** tragen Sie in den *freien Lohnarten* die Lohnart *Erhöhung Bmgl SV-lfd* mit EUR 300,00 und bei der Lohnart *Erhöhung Bmgl SV-SZ* EUR 225,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image630.png>)
+![Image](<img/image630.png>){width="400"}
 
-![Image](<img/image631.png>)
+![Image](<img/image631.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freien Lohnarten dienen nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
@@ -801,11 +478,11 @@ Im Monat **10** tragen Sie in den *freien Lohnarten* die Lohnart *Erhöhung Bmgl
 
 Nach der erfolgreichen Aufrollung der Monate, erstellen Sie mit Monat 13 den mBGM für diesen einen Dienstnehmer. *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen*.
 
-![Image](<img/image632.png>)
+![Image](<img/image632.png>){width="600"}
 
 Es erfolgt eine automatische Erstellung der Storno mBGMs für die Monate April, August und Oktober, sowie die Neuerstellung der mBGMs für diese Monate.
 
-![Image](<img/image633.png>)
+![Image](<img/image633.png>){width="600"}
 
 Drucken Sie nun das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
 
@@ -813,92 +490,13 @@ Drucken Sie nun das Auszahlungsjournal und die Überweisungsliste mit Monat 13 a
 
 Diese Berechnung muss von Ihnen manuell durchgeführt werden. Eine Automatik ist hier nicht vorgesehen.
 
-<table>
-<colgroup>
-<col style="width: 12%" />
-<col style="width: 12%" />
-<col style="width: 3%" />
-<col style="width: 12%" />
-<col style="width: 3%" />
-<col style="width: 11%" />
-<col style="width: 2%" />
-<col style="width: 12%" />
-<col style="width: 1%" />
-<col style="width: 9%" />
-<col style="width: 8%" />
-<col style="width: 9%" />
-</colgroup>
-<thead>
-<tr>
-<th><strong>Betroffene<br />
-Monate</strong></th>
-<th colspan="2" style="text-align: center;"><strong>SV Bemessung<br />
-ursprünglich</strong></th>
-<th colspan="2" style="text-align: center;"><strong>SV Bemessung<br />
-NEU</strong></th>
-<th colspan="2" style="text-align: center;"><strong>SV Abzug<br />
-ursprünglich</strong></th>
-<th colspan="2" style="text-align: center;"><strong>SV Satz<br />
-ursprünglich</strong></th>
-<th style="text-align: center;"><strong>SV Abzug<br />
-neu</strong></th>
-<th style="text-align: center;"><strong>SV-Satz</strong></th>
-<th style="text-align: center;"><strong>Differenz</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>April</td>
-<td colspan="2" style="text-align: right;">2.300,00</td>
-<td colspan="2" style="text-align: right;">2.500,00</td>
-<td colspan="2" style="text-align: right;">416,76</td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">453,00</td>
-<td style="text-align: right;">18,12%</td>
-<td style="text-align: right;">36,24</td>
-</tr>
-<tr>
-<td>August</td>
-<td colspan="2" style="text-align: right;">2.300,00</td>
-<td colspan="2" style="text-align: right;">2.350,00</td>
-<td colspan="2" style="text-align: right;">416,76</td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">425,82</td>
-<td style="text-align: right;">18,12%</td>
-<td style="text-align: right;">9,06</td>
-</tr>
-<tr>
-<td>Oktober</td>
-<td colspan="2" style="text-align: right;">2.300,00</td>
-<td colspan="2" style="text-align: right;">2.600,00</td>
-<td colspan="2" style="text-align: right;">416,76</td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">471,12</td>
-<td style="text-align: right;">18,12%</td>
-<td style="text-align: right;">54,36</td>
-</tr>
-<tr>
-<td>Oktober SZ</td>
-<td colspan="2" style="text-align: right;">1.900,00</td>
-<td colspan="2" style="text-align: right;">2.125,00</td>
-<td colspan="2" style="text-align: right;">287,28</td>
-<td colspan="2" style="text-align: right;">15,12%</td>
-<td style="text-align: right;">363,80</td>
-<td style="text-align: right;">17,12%</td>
-<td style="text-align: right;">76,52</td>
-</tr>
-<tr>
-<td><strong>Gesamt</strong></td>
-<td style="text-align: right;"><strong> </strong></td>
-<td colspan="2" style="text-align: right;"><strong> </strong></td>
-<td colspan="2" style="text-align: right;"><strong> </strong></td>
-<td colspan="2" style="text-align: right;"><strong> </strong></td>
-<td colspan="2" style="text-align: right;"><strong> </strong></td>
-<td style="text-align: right;"><strong> </strong></td>
-<td style="text-align: right;"><strong>176,18</strong></td>
-</tr>
-</tbody>
-</table>
+| Betroffene Monate | SV Bemessung ursprünglich | SV Bemessung NEU | SV Abzug ursprünglich | SV Satz ursprünglich | SV Abzug neu | SV-Satz |  Differenz |
+| ----------------- | ------------------------: | ---------------: | --------------------: | -------------------: | -----------: | ------: | ---------: |
+| April             |                  2.300,00 |         2.500,00 |                416,76 |              18,12 % |       453,00 | 18,12 % |      36,24 |
+| August            |                  2.300,00 |         2.350,00 |                416,76 |              18,12 % |       425,82 | 18,12 % |       9,06 |
+| Oktober           |                  2.300,00 |         2.600,00 |                416,76 |              18,12 % |       471,12 | 18,12 % |      54,36 |
+| Oktober SZ        |                  1.900,00 |         2.125,00 |                287,28 |              15,12 % |       363,80 | 17,12 % |      76,52 |
+| **Gesamt**        |                           |                  |                       |                      |              |         | **176,18** |
 
 Es gelangen EUR 176,18 im **Oktober 2022** als SV-DN-Anteil zum Abzug.
 
@@ -917,7 +515,7 @@ Im *Eintrittsbildschirm* geben Sie den 01.10.2022 ein. Ebenso geben Sie das Häk
 
 Wechseln Sie nun in den *Sozialversicherungsbildschirm*. Dort wählen Sie bei *BGR* *\<keine SV-Pflicht\>* aus.
 
-![Image](<img/image611.png>)
+![Image](<img/image611.png>){width="400"}
 
 **Fixe Lohnarten**
 
@@ -929,12 +527,13 @@ In den *Freien Lohnarten* geben Sie die Nachzahlungsbeträge, den Sozialversiche
 
 Die Beträge finden Sie in den zwei oben erwähnten Berechnungstabellen und in den Erläuterungen unten:
 
-![Image](<img/image634.png>)
+![Image](<img/image634.png>){width="400"}
 
 **Berechnung SV als Werbungskosten**
 
-| SV-Abzug                | 176,18 |
+| Berechnung              |        |
 | ----------------------- | -----: |
+| SV-Abzug                | 176,18 |
 | : 5 x 4                 | 140,94 |
 | 1/5 steuerfrei (KZ 226) |  35,24 |
 
@@ -942,18 +541,19 @@ Rechnen Sie den Monat **Oktober** ab. *Speichern*.
 
 ### Berechnung Nachzahlung
 
-| Nachzahlung SV lfd.          |  550,00 |
-| ---------------------------- | ------: |
-| Nachzahlung SV Sonderzahlung |  225,00 |
-|                              |  775,00 |
-| -SV Nachzahlung              | -176,18 |
-|                              |  598,82 |
-| : 5 x 4                      |  479,06 |
-| LST BMGL lfd.                |  479,06 |
-| LST lfd.                     |    0,00 |
-| Auszahlungsbetrag            |  598,82 |
+| Berechnung                   |            |
+| ---------------------------- | ---------: |
+| Nachzahlung SV lfd.          |     550,00 |
+| Nachzahlung SV Sonderzahlung |     225,00 |
+|                              |   *775,00* |
+| -SV Nachzahlung              |    -176,18 |
+|                              |   *598,82* |
+| : 5 x 4                      |     479,06 |
+| *LST BMGL lfd.*              |   *479,06* |
+| LST lfd.                     |       0,00 |
+| **Auszahlungsbetrag**        | **598,82** |
 
-![Image](<img/image635.png>)
+![Image](<img/image635.png>){width="600"}
 
 **mBGM**
 
@@ -963,17 +563,18 @@ Für den Monat Oktober 2022 wird **kein** mBGM erstellt, da keine SV angefallen 
 
 Der Jahreslohnzettel wird mit allen anderen Lohnzettel im Februar des Folgejahres versendet.
 
-![Image](<img/image636.png>)
+![Image](<img/image636.png>){width="500"}
 
 **Anmerkung**
 
 Berechnung Betrag „Steuerfreie bzw. mit festen Sätzen versteuerte Bezüge gemäß § 67 Abs. 3 bis 8 (ausgen. § 67 Abs. 5 zweiter TS), vor Abzug der SV-Beiträge“:
 
-| Gesamte Nachzahlung  | 775,00 |
+| Berechnung           |        |
 | -------------------- | -----: |
+| Gesamte Nachzahlung  | 775,00 |
 | : 5 (1/5 steuerfrei) | 155,00 |
 
-## Beispiel Vergleich Abfertigung NEU über EUR 7.500,00 Lohnsteuerpflichtigkeit Nr. 3 und Nr. 18
+## Beispiel Vergleich Abfertigung NEU über EUR 7.500,00 Lohnsteuerpflichtigkeit Nr. <span style="color: red;">3</span> und Nr. <span style="color: red;">18</span>
 
 Vergleich betrifft das Jahr 2021: Insgesamt EUR 8.800,00 – Austrittsdatum: 30.04.2021
 
@@ -997,66 +598,66 @@ Verwenden Sie für die Aufrollung am besten das Monat 13, damit Sie die Aufrolld
 
 **Aufrollung Monat 13**
 
-**Monat Jänner**
+**<span style="color: grey;">Monat Jänner</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebene Lohnart *Erhöhung Bmgl SV-lfd*.
 
 Im Monat **01** tragen Sie in den *freien Lohnarten* diese Lohnart mit Betrag EUR 1.200,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image637.png>)
+![Image](<img/image637.png>){width="400"}
 
 !!! warning "Hinweis"
     Da der Dienstnehmer einen Lohn von EUR 5.000,00 bekommen hat, wird die Höchstbeitragsgrundlage überschritten.
 
-![Image](<img/image638.png>)
+![Image](<img/image638.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freie Lohnart dient nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
 
-**Monat Februar**
+**<span style="color: grey;">Monat Februar</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebene Lohnart *Erhöhung Bmgl SV-lfd*.
 
 Im Monat **02** tragen Sie in den *freien Lohnarten* diese Lohnart mit Betrag EUR 1.400,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image639.png>)
+![Image](<img/image639.png>){width="400"}
 
 !!! warning "Hinweis"
     Da der Dienstnehmer einen Lohn von EUR 5.000,00 bekommen hat, wird die Höchstbeitragsgrundlage überschritten.
 
-![Image](<img/image640.png>)
+![Image](<img/image640.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freie Lohnart dient nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
 
-**Monat März**
+**<span style="color: grey;">Monat März</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebenen Lohnarten *Erhöhung Bmgl SV-lfd* und *Erhöhung Bmgl SV-SZ*.
 
 Im Monat **03** tragen Sie in den *freien Lohnarten* die Lohnart *Erhöhung Bmgl SV-lfd* mit EUR 1.200,00 und bei der Lohnart *Erhöhung Bmgl SV-SZ* EUR 3.000,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image641.png>)
+![Image](<img/image641.png>){width="400"}
 
 !!! warning "Hinweis"
     Da der Dienstnehmer einen Lohn von EUR 5.000,00 bekommen hat, wird die Höchstbeitragsgrundlage überschritten.
 
-![Image](<img/image642.png>)
+![Image](<img/image642.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freien Lohnarten dienen nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
 
-**Monat April**
+**<span style="color: grey;">Monat April</span>**
 
 Verwenden Sie für die Aufrollung die oben beschriebene Lohnart *Erhöhung Bmgl SV-lfd*.
 
 Im Monat **04** tragen Sie in den *freien Lohnarten* diese Lohnart mit Betrag EUR 2.000,00 ein (siehe Aufstellung oben).
 
-![Image](<img/image643.png>)
+![Image](<img/image643.png>){width="400"}
 
 !!! warning "Hinweis"
     Da der Dienstnehmer einen Lohn von EUR 5.000,00 bekommen hat, wird die Höchstbeitragsgrundlage überschritten.
 
-![Image](<img/image644.png>)
+![Image](<img/image644.png>){width="600"}
 
 !!! warning "Hinweis"
     Es hat sich die Abrechnung beim Auszahlungsbetrag, der Sozialversicherung und der Lohnsteuer nicht verändert, sondern nur die SV-Bemessungsgrundlage. An der Abrechnung selbst darf sich nichts verändern. Diese freie Lohnart dient nur zur Erstellung des mBGMs und der Berechnung der noch abzuführenden Sozialversicherungsbeiträge.
@@ -1065,11 +666,11 @@ Im Monat **04** tragen Sie in den *freien Lohnarten* diese Lohnart mit Betrag EU
 
 Nach der erfolgreichen Aufrollung der Monate, erstellen Sie mit Monat 13 den mBGM für diesen einen Dienstnehmer. *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen*.
 
-![Image](<img/image645.png>)
+![Image](<img/image645.png>){width="600"}
 
 Es erfolgt nun eine automatische Erstellung der Storno mBGMs für die Monate Jänner bis April, sowie die Neuerstellung der mBGMs für diese Monate.
 
-![Image](<img/image646.png>)
+![Image](<img/image646.png>){width="600"}
 
 Drucken Sie nun das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
 
@@ -1077,91 +678,14 @@ Drucken Sie nun das Auszahlungsjournal und die Überweisungsliste mit Monat 13 a
 
 Diese Berechnung muss von Ihnen manuell durchgeführt werden. Eine Automatik ist hier nicht vorgesehen.
 
-<table>
-<colgroup>
-<col style="width: 15%" />
-<col style="width: 17%" />
-<col style="width: 17%" />
-<col style="width: 15%" />
-<col style="width: 11%" />
-<col style="width: 4%" />
-<col style="width: 4%" />
-<col style="width: 12%" />
-</colgroup>
-<thead>
-<tr>
-<th><strong>Betroffene<br />
-Monate</strong></th>
-<th style="text-align: center;"><strong>SV Bemessung<br />
-ursprünglich</strong></th>
-<th style="text-align: center;"><strong>SV Bemessung<br />
-NEU</strong></th>
-<th style="text-align: center;"><strong>SV Abzug<br />
-ursprünglich</strong></th>
-<th style="text-align: center;"><strong>SV Abzug<br />
-neu</strong></th>
-<th colspan="2"
-style="text-align: center;"><strong>SV-Satz</strong></th>
-<th style="text-align: center;"><strong>Differenz</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Jänner</td>
-<td style="text-align: right;">5.000,00</td>
-<td style="text-align: right;">5.550,00</td>
-<td style="text-align: right;">906,00</td>
-<td style="text-align: right;">1.005,66</td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">99,66</td>
-</tr>
-<tr>
-<td>Februar</td>
-<td style="text-align: right;">5.000,00</td>
-<td style="text-align: right;">5.550,00</td>
-<td style="text-align: right;">906,00</td>
-<td style="text-align: right;">1.005,66</td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">99,66</td>
-</tr>
-<tr>
-<td>März</td>
-<td style="text-align: right;">5.000,00</td>
-<td style="text-align: right;">5.550,00</td>
-<td style="text-align: right;">906,00</td>
-<td style="text-align: right;">1.005,66</td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">99,66</td>
-</tr>
-<tr>
-<td>März SZ</td>
-<td style="text-align: right;"></td>
-<td style="text-align: right;">3.000,00</td>
-<td style="text-align: right;"></td>
-<td style="text-align: right;">513,60</td>
-<td colspan="2" style="text-align: right;">17,12%</td>
-<td style="text-align: right;">513,60</td>
-</tr>
-<tr>
-<td>April</td>
-<td style="text-align: right;">5.000,00</td>
-<td style="text-align: right;">5.550,00</td>
-<td style="text-align: right;">906,00</td>
-<td style="text-align: right;">1.005,66</td>
-<td colspan="2" style="text-align: right;">18,12%</td>
-<td style="text-align: right;">99,66</td>
-</tr>
-<tr>
-<td><strong>Gesamt</strong></td>
-<td style="text-align: right;"></td>
-<td style="text-align: right;"></td>
-<td style="text-align: right;"></td>
-<td colspan="2" style="text-align: right;"></td>
-<td style="text-align: right;"></td>
-<td style="text-align: right;"><strong>912,24</strong></td>
-</tr>
-</tbody>
-</table>
+| Betroffene Monate | SV Bemessung ursprünglich | SV Bemessung NEU | SV Abzug ursprünglich | SV Abzug neu | SV-Satz |  Differenz |
+| ----------------- | ------------------------: | ---------------: | --------------------: | -----------: | ------: | ---------: |
+| Jänner            |                  5.000,00 |         5.550,00 |                906,00 |     1.005,66 | 18,12 % |      99,66 |
+| Februar           |                  5.000,00 |         5.550,00 |                906,00 |     1.005,66 | 18,12 % |      99,66 |
+| März              |                  5.000,00 |         5.550,00 |                906,00 |     1.005,66 | 18,12 % |      99,66 |
+| März SZ           |                           |         3.000,00 |                       |       513,60 | 17,12 % |     513,60 |
+| April             |                  5.000,00 |         5.550,00 |                906,00 |     1.005,66 | 18,12 % |      99,66 |
+| **Gesamt**        |                           |                  |                       |              |         | **912,24** |
 
 Es gelangen EUR 912,24 im **Juni** **2022** als SV-DN-Anteil zum Abzug.
 
@@ -1180,7 +704,7 @@ Im *Eintrittsbildschirm* geben Sie den 01.06.2022 ein. Ebenso geben Sie das Häk
 
 Wechseln Sie nun in den *Sozialversicherungsbildschirm*. Dort wählen Sie bei *BGR* \<*keine SV-Pflicht*\> aus.
 
-![Image](<img/image611.png>)
+![Image](<img/image611.png>){width="400"}
 
 **Fixe Lohnarten**
 
@@ -1192,43 +716,44 @@ In den *Freien Lohnarten* geben Sie jetzt die Vergleichsbeträge, den Sozialvers
 
 Die Beträge finden Sie in den zwei oben erwähnten Berechnungstabellen und in den Erläuterungen unten:
 
-![Image](<img/image647.png>)
+![Image](<img/image647.png>){width="400"}
 
 **Berechnung SV als Werbungskosten**
 
-| SV-Abzug                | 134,76 |
+| Berechnung              |        |
 | ----------------------- | -----: |
+| SV-Abzug                | 134,76 |
 | : 5 x 4                 | 107,81 |
 | 1/5 steuerfrei (KZ 226) |  26,95 |
-|                         |        |
 | KZ 226 Abzug            | 777,48 |
 
 Rechnen Sie den Monat **Juni** ab. *Speichern*.
 
 ### Berechnung des Vergleiches
 
-| Vergleich SV lfd.          | 5.800,00 |                                |
-| -------------------------- | -------: | ------------------------------ |
-| Vergleich SV Sonderzahlung | 1.700,00 |                                |
-|                            | 7.500,00 |                                |
-| -SV Vergleich              |  -777,48 | (912,24 : 8.800,00 x 7.500,00) |
-| LST BMGL SZ                | 6.722,52 |                                |
-| \- LST 6 %                 |  -403,35 |                                |
-| Auszahlungsbetrag          | 6.319,17 |                                |
-|                            |          |                                |
-| Vergleich SV lfd.          |     0,00 |                                |
-| Vergleich SV Sonderzahlung | 1.300,00 |                                |
-|                            | 1.300,00 |                                |
-| -SV Vergleich              |  -134,76 | (912,24 : 8.800,00 x 1.300,00) |
-|                            | 1.165,24 |                                |
-| : 5 x 4                    |   932,19 |                                |
-| LST BMGL lfd.              |   932,19 |                                |
-| LST lfd.                   |     0,00 |                                |
-| Auszahlungsbetrag          | 1.165,24 |                                |
+| Berechnung                 |              |                                |
+| -------------------------- | -----------: | ------------------------------ |
+| Vergleich SV lfd.          |     5.800,00 |                                |
+| Vergleich SV Sonderzahlung |     1.700,00 |                                |
+|                            |   *7.500,00* |                                |
+| -SV Vergleich              |      -777,48 | (912,24 : 8.800,00 x 7.500,00) |
+| *LST BMGL SZ*              |   *6.722,52* |                                |
+| \- LST 6 %                 |      -403,35 |                                |
+| **Auszahlungsbetrag**      | **6.319,17** |                                |
+|                            |              |                                |
+| Vergleich SV lfd.          |         0,00 |                                |
+| Vergleich SV Sonderzahlung |     1.300,00 |                                |
+|                            |   *1.300,00* |                                |
+| -SV Vergleich              |      -134,76 | (912,24 : 8.800,00 x 1.300,00) |
+|                            |   *1.165,24* |                                |
+| : 5 x 4                    |       932,19 |                                |
+| *LST BMGL lfd.*            |     *932,19* |                                |
+| LST lfd.                   |         0,00 |                                |
+| **Auszahlungsbetrag**      | **1.165,24** |                                |
 
 **Auszahlungsbetrag Gesamt: EUR 7.484,41**
 
-![Image](<img/image648.png>)
+![Image](<img/image648.png>){width="600"}
 
 **mBGM**
 
@@ -1238,14 +763,15 @@ Für den Monat Juni 2022 wird **kein** mBGM erstellt, da keine SV angefallen ist
 
 Der Jahreslohnzettel wird mit allen anderen Lohnzettel im Februar des Folgejahres versendet.
 
-![Image](<img/image649.png>)
+![Image](<img/image649.png>){width="500"}
 
 **Anmerkung**
 
 Berechnung Betrag „Steuerfreie bzw. mit festen Sätzen versteuerte Bezüge gemäß § 67 Abs. 3 bis 8 (ausgen. § 67 Abs. 5 zweiter TS), vor Abzug der SV-Beiträge“:
 
-| Gesamter Vergleich       | 1.300,00 |
+| Berechnung               |          |
 | ------------------------ | -------: |
+| Gesamter Vergleich       | 1.300,00 |
 | : 5 (1/5 steuerfrei)     |   260,00 |
 | Vergleich unter 7.500,00 | 7.500,00 |
 |                          | 7.760,00 |
