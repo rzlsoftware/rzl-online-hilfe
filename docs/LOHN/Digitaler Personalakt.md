@@ -4,17 +4,17 @@ Mit dem kostenpflichten *RZL Lohn Modul digitaler Personalakt* *für die Lohnver
 
 ## RZL BOARD
 
-### Hinterlegung Berechtigungen im RZL BOARD
+**Hinterlegung Berechtigungen im RZL BOARD**
 
 Nach Lizenzierung des digitalen Personalakts im *RZL Kanzleiinformationssystem* und Zuweisung der entsprechenden Berechtigungen an den Benutzer im *RZL BOARD,* erscheinen in allen drei Ebenen (*Mein Arbeitsplatz, Klient* und *Kanzlei*) unter dem Punkt *Dokumente* die Menüpunkte *Lohn Allgemein* sowie *DN-Dokumente*.
 
 Aufgrund der Sensibilität dieser Dokumente ist es möglich, spezielle Sichtbarkeitsrechte zu bestimmen. Im *RZL BOARD* im Bereich *Stammdaten* im Registerblatt *Berechtigungen*, wählen Sie die Funktion *Dokumentenverwaltung* aus.
 
-![Image](<img/image691.png>)
+![Image](<img/image691.png>){width="400"}
 
 Kontrollieren Sie auch, ob im *RZL BOARD* unter *Stamm / Mitarbeiter* bei dem Benutzer unter *Berechtigungen / Einstellungen* folgende Einstellungen gesetzt sind:
 
-![Image](<img/image692.png>)
+![Image](<img/image692.png>){width="500"}
 
 ## KIS (Kanzleiinformationssystem)
 
@@ -26,7 +26,7 @@ Je nachdem auf welcher Ebene Sie sich befinden, finden Sie unter *LOHN Allgemein
 
 Im Detail der Dokumente erkennen Sie die LOHN-Dokumente stets am Dokumentbereich *Lohn- u. Gehaltsverrechnung* (***1***).
 
-![Image](<img/image694.png>)
+![Image](<img/image694.png>){width="500"}
 
 Innerhalb der Liste der *DN-Dokumente* haben Sie die Möglichkeit, einen Filter auf einen Dienstnehmer zu setzen, um sich alle lohnrelevanten Dokumente für diesen Dienstnehmer anzeigen zu lassen.
 
@@ -34,7 +34,7 @@ Innerhalb der Liste der *DN-Dokumente* haben Sie die Möglichkeit, einen Filter 
 
 Die Einstellung, unter welcher *Kategorie* und mit welchem *Thema* die ELDA-Dokumente abgelegt werden sollen, erfolgt im *KIS* im Menüpunkt *Verwaltung / ELDA-Zuweisungen*.
 
-![Image](<img/image696.png>)
+![Image](<img/image696.png>){width="500"}
 
 ### Andere Dokumente aus RZL LOHN hinzufügen
 
@@ -58,7 +58,7 @@ Neben der Zuordnung von Dokumenten über die Dokumentenverwaltung im *RZL-Kanzle
 
 Um die Zuordnung sämtlicher Dokumente mit Bezug zu einem einzelnen Dienstnehmer zu ermöglichen, gibt es bei sämtlichen Ausdrucken mit Bezug zu einem einzelnen Dienstnehmer die Option *Einzeldruck*.
 
-![Image](<img/image699.png>)
+![Image](<img/image699.png>){width="500"}
 
 Im *RZL PDF-Manager-Premium* werden bei diesen Dokumenten, neben dem für den Digitalen Personalakt wichtigen Dokumentenbereich *Lohn- und Gehaltsverrechnung*, auch die spezifischen Informationen zum Dienstnehmer mitübermittelt.
 
@@ -90,7 +90,7 @@ Im Gegensatz zum Aufruf außerhalb der Abrechnung sind hier jene Dokumente vorse
 
 Der Aufbau des Aufrufdialogs für den digitalen Personalakt entspricht in großen Teilen optisch dem Aufrufdialog, den Sie aus der Dokumentenverwaltung im *RZL Kanzleiinformationssystem* bereits kennen.
 
-![Image](<img/image706.png>)
+![Image](<img/image706.png>){width="500"}
 
 Direkt aus dem Aufrufdialog heraus können die Dokumente per E-Mail an den Dienstgeber oder Dienstnehmer verschickt, auf das *RZL Klientenportal* hochgeladen, an den *PDF-Manager* gesendet oder als Datei ausgegeben werden.
 
@@ -104,7 +104,7 @@ oder für die Dokumente mit Bezug zu einem einzigen Dienstnehmer wählt.
 
 Die Nutzung der Filter- und Sortierfunktion im Aufrufdialog erfolgt über die Spaltenüberschriften. Die temporären Filter werden über das *Trichtersymbol* in der Spaltenüberschrift gesetzt. Dieses ist nur sichtbar, wenn man mit dem Mauszeiger darüber gleitet. Hier stehen Ihnen verschiedene Operatoren zur Filterung zur Verfügung. In einigen Feldern können Sie auch direkt Filterwerte ansteuern.
 
-![Image](<img/image709.png>)
+![Image](<img/image709.png>){width="500"}
 
 In der linken oberen Ecke des Fensters können Sie auf die Dokumentenfilter des *RZL Kanzleiinformationssystems* zugreifen. Die Anlage dieser Filter ist allerdings nur im *RZL Kanzleiinformationssystem* (nur für KIS-Administratoren und Klientenbearbeiter) möglich. Im Gegensatz zu den temporären Filtern, bleiben diese Dokumentenfilter auch nach dem Neustart des Programmes verfügbar.
 
@@ -116,7 +116,7 @@ Die Meldebestätigungen und Protokolle stellen einen beträchtlichen Teil der in
 
 Unter *Klient / Elektronische Übermittlung / ELDA Einstellungen* können Sie **kanzleiweite** Einstellungen für die ELDA Übermittlung definieren.
 
-![Image](<img/image710.png>)
+![Image](<img/image710.png>){width="500"}
 
 Die Option *ÖGK-Datei nach Klient aufteilen* erlaubt trotz einer klientenübergreifenden Erstellung und Übermittlung, die Zuordnung der Protokolle zu einem einzelnen Klienten. Die Aufteilung der ÖGK-Datei erfolgt automatisch und führt lediglich zu einer kleinen Änderung im ELDA Software Druck- und Speicherdialog.
 
@@ -126,7 +126,7 @@ Mit den übrigen Optionen entscheiden Sie, ob und welche Arten von Meldebestäti
 
 Über den Menüpunkt *Bearbeiten / Elektronische Übermittlung / ELDA Einstellungen* kann für einen einzelnen Klienten die Ablage von ELDA-Dokumenten im digitalen Personalakt komplett deaktiviert werden.
 
-![Image](<img/image712.png>)
+![Image](<img/image712.png>){width="500"}
 
 Mit Hilfe der Option *kein* *ELDA Export ins KIS* erfolgt bei dem betroffenen Lohnverrechnungs-Klienten **keine** automatische Übergabe von ELDA-Meldebestätigungen und Protokollen in den digitalen Personalakt.
 
@@ -136,7 +136,7 @@ Mit Hilfe der Option *kein* *ELDA Export ins KIS* erfolgt bei dem betroffenen Lo
 
 Innerhalb des Klientenbereiches des Portals können Dokumente dienstnehmerbezogen an die Kanzlei übermittelt werden.
 
-### Klientenbenutzer sendet die Dokumente direkt an die Kanzlei
+**Klientenbenutzer sendet die Dokumente direkt an die Kanzlei**
 
 Wenn die Dokumente direkt vom Klienten an die Kanzlei übermittelt werden, findet die Übermittlung im Programmteil *Informationsaustausch / Dienstnehmer-Dokumente an Kanzlei übermitteln* statt.
 
@@ -144,7 +144,7 @@ Wenn die Dokumente direkt vom Klienten an die Kanzlei übermittelt werden, finde
 
 Im Bereich *Dienstnehmer* kann zwischen den im Lohnverrechnungsprogramm abgerechneten Mitarbeitern ausgewählt werden. Die nachfolgend angewählten Dokumente werden dienstnehmerbezogen an die Kanzlei übermittelt.
 
-### Klientenbenutzer leitet die vom Dienstnehmer erhaltenen Dokumente an die Kanzlei weiter
+**Klientenbenutzer leitet die vom Dienstnehmer erhaltenen Dokumente an die Kanzlei weiter**
 
 Wenn die Dokumente über das *Klientenportal* vom Dienstnehmer an den Dienstgeber (Klienten) versendet wurden, kann die Weiterleitung an die Kanzlei über zwei verschiedene Programmpunkte innerhalb des Klientenbereiches erfolgen.
 

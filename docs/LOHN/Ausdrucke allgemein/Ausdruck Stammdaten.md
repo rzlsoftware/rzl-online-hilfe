@@ -79,7 +79,7 @@ Die im Abrechnungsbildschirm *Dienstnehmer-Notizen* erfassten Daten können übe
 
 **Urlaubskartei**
 
-Die im Abrechnungsbildschirm *Urlaub* (Kapitel 5.19, Seite [119](#urlaub)) angelegte Urlaubskartei kann im Menüpunkt *Ausdruck / Stammdaten / Urlaubskartei* ausgedruckt werden. Es gibt hier die Möglichkeit, nach *aktuellem Urlaubsjahr*, *Gesamte Kartei* oder einem *individuellen Zeitraum* die Kartei auszudrucken. Bei Anwahl *Einzeldruck* wird pro Dienstnehmer eine eigene Seite erzeugt und kann somit in den Personalakt importiert werden.
+Die im [Abrechnungsbildschirm *Urlaub*](../Abrechnungsbildschirme/Urlaub.md) angelegte Urlaubskartei kann im Menüpunkt *Ausdruck / Stammdaten / Urlaubskartei* ausgedruckt werden. Es gibt hier die Möglichkeit, nach *aktuellem Urlaubsjahr*, *Gesamte Kartei* oder einem *individuellen Zeitraum* die Kartei auszudrucken. Bei Anwahl *Einzeldruck* wird pro Dienstnehmer eine eigene Seite erzeugt und kann somit in den Personalakt importiert werden.
 
 **Krankenstände**
 

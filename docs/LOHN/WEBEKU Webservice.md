@@ -8,15 +8,15 @@ In den meisten Fällen wird es noch keinen Webservice-Benutzer im Unternehmensse
 
 Wählen Sie zunächst den Punkt *Webservicekonten verwalten*.
 
-![Image](<img/image717.png>)
+![Image](<img/image717.png>){width="500"}
 
 Über die Schaltfläche *Neues Konto* *anlegen* wird automatisch ein Username vergeben, der noch mit einer E-Mail-Adresse ergänzt werden muss. Bereits bestehende Webservice-Benutzer können Sie in dieser Liste bearbeiten bzw. löschen.
 
-![Image](<img/image718.png>)
+![Image](<img/image718.png>){width="600"}
 
-![Image](<img/image719.png>)
+![Image](<img/image719.png>){width="600"}
 
-![Image](<img/image720.png>)
+![Image](<img/image720.png>){width="600"}
 
 Im anschließenden Bildschirm können Sie über die entsprechende Schaltfläche ein PDF-Dokument mit den Zugangsdaten herunterladen, welches Sie abspeichern oder ausdrucken sollten.
 
@@ -24,7 +24,7 @@ Nun muss der neu angelegte Webservice–Benutzer noch mit der entsprechenden Ber
 
 Über den Punkt *Zuordnen* können Sie den jeweiligen Benutzer „WEBEKU WS-Beitragskonto“ vergeben.
 
-![Image](<img/image721.png>)
+![Image](<img/image721.png>){width="600"}
 
 !!! warning "Hinweis"
     Bei Fragen zur Anlage eines Webservice-Benutzers für den WEBEKU-Webservice im USP wenden Sie sich bitte an <https://www.usp.gv.at/ueber-das-usp/index/kontakt.html>.
@@ -33,7 +33,7 @@ Nun muss der neu angelegte Webservice–Benutzer noch mit der entsprechenden Ber
 
 Die oben erhaltenen Zugangsdaten geben Sie in der ***ZMV*** (*Zentralen Mandantenverwaltung*) unter *Allg. Dateien / Stammdaten Absender* im Registerblatt *Online-Dienste* ein:
 
-![Image](<img/image722.png>)
+![Image](<img/image722.png>){width="500"}
 
 ## Aufruf in der RZL Lohnverrechnung 
 
@@ -43,7 +43,7 @@ Sie haben in der Symbolleiste einen neuen Button für den Aufruf des WEBEKU Dial
 
 Ebenso können Sie über *Aufruf / WEBEKU Abfrage* den Dialog öffnen.
 
-### Suchen / Öffnen
+**Suchen / Öffnen**
 
 Durch Auswahl des Buttons *Suchen / Öffnen* werden **alle Beitragskonten dieses Klienten** in der Tabelle darunter angeführt:
 
@@ -56,7 +56,7 @@ Durch Auswahl des Buttons *Suchen / Öffnen* werden **alle Beitragskonten dieses
 
 Den aktuellen Saldo der einzelnen Beitragskontonummern sehen Sie in der Spalte *Saldo.*
 
-### Ausgabe-/Ausdruckmöglichkeiten
+**Ausgabe-/Ausdruckmöglichkeiten**
 
 Sie haben in den drei Bereichen Kontosalden, Buchungsliste und Kontoinformationen die Möglichkeit:
 
@@ -67,7 +67,7 @@ Sie haben in den drei Bereichen Kontosalden, Buchungsliste und Kontoinformatione
 
 ![Image](<img/image727.png>)
 
-### Aufruf Kontoinformation 
+**Aufruf Kontoinformation**
 
 Durch das Markieren des gewünschten Beitragskontos und Anwahl der rechten Maustaste öffnet sich das Kontextmenü. Wählen Sie hier *Kontoinformation öffnen* aus.
 
@@ -80,7 +80,7 @@ Es öffnet sich ein weiteres Fenster. Wählen Sie hier *Suchen / Öffnen* aus, d
 !!! warning "Hinweis"
     Durch Auswahl des *Zurück-Buttons* kommen Sie in die Beitragskontenliste zurück.
 
-### Aufruf Kontobuchungsliste 
+**Aufruf Kontobuchungsliste**
 
 Durch Markieren des gewünschten Beitragskontos und Anwahl der rechten Maustaste öffnet sich das Kontextmenü. Wählen Sie hier *Kontobuchungsliste öffnen* aus.
 
@@ -95,7 +95,7 @@ Bei diesem Dialog haben Sie die Möglichkeit, nach bestimmten Kriterien eine Ein
 !!! warning "Hinweis"
     Durch Auswahl des *Zurück-Buttons* kommen Sie in die Beitragskontenliste zurück.
 
-### Abfragefehler
+**Abfragefehler**
 
 Kommt es zu einem Abfragefehler, erscheinen unterhalb des Fortschrittbalkens ein oder mehrere Hinweise.
 
@@ -109,39 +109,39 @@ Es ist eine Beitragskontonummer beim Klienten hinterlegt, wofür es im USP keine
 
 Sie haben die Möglichkeit in der Abrechnung des Dienstnehmers oder über *Aufruf / WEBEKU SV Nr. Abfrage* die Versicherungsnummernabfrage durchzuführen.
 
-### Einstellungen im USP-Portal
+**Einstellungen im USP-Portal**
 
 Im USP-Portal geben Sie beim bereits bestehenden Webservicekonto noch die Berechtigung für die Abfrage VSNR hinzu.
 
-![Image](<img/image733.png>)
+![Image](<img/image733.png>){width="500"}
 
-### Versicherungsnummernabfrage in der Abrechnung des Dienstnehmers
+**Versicherungsnummernabfrage in der Abrechnung des Dienstnehmers**
 
 Im Bereich *Stammdaten Dienstnehmer* finden Sie den neuen Aufruf-Button *Abfrage SV-Nr*.
 
-![Image](<img/image734.png>)
+![Image](<img/image734.png>){width="400"}
 
 !!! warning "Hinweis"
     Wenn der Button *Abfrage SV-Nr.* ausgegraut ist, dann ist in der *ZMV* (Zentrale Mandantenverwaltung) **kein** WEBEKU-Benutzer hinterlegt.
 
 Sobald die Versicherungsnummernabfrage gestartet wird, erscheint ein neues Fenster.
 
-![Image](<img/image735.png>)
+![Image](<img/image735.png>){width="600"}
 
 Die Felder in diesem Fenster werden ausgefüllt, wenn in der Abrechnung diese Daten vorhanden sind. Pflichtfelder sind Name, Vorname und Geburtsdatum.
 
 Durch Anwahl der Schaltfläche *Suchen* erscheint folgender Hinweis:
 
-![Image](<img/image736.png>)
+![Image](<img/image736.png>){width="350"}
 
 Mit diesem Hinweis möchten wir Sie darauf aufmerksam machen, dass bei jeder Abfrage das WEBEKU aufzeichnet, wer eine Abfrage durchgeführt hat. Dies muss WEBEKU aus datenschutzrechtlichen Gründen machen. Daher empfehlen wir, dass Sie nicht wahllos Abfragen durchführen, sondern nur wenn erforderlich.
 
 Wurde die Abfrage erfolgreich durchgeführt, erhalten Sie als Antwort die Sozialversicherungsnummer.
 
-![Image](<img/image737.png>)
+![Image](<img/image737.png>){width="600"}
 
 Durch Anwahl der Schaltfläche *Übernehmen / Zwischenablage* wird die Sozialversicherungsnummer in das Feld *SV-Nummer* übernommen.
 
-### Versicherungsnummernabfrage über Aufruf
+**Versicherungsnummernabfrage über Aufruf**
 
 Sie haben auch die Möglichkeit die Versicherungsnummernabfrage über *Aufruf / WEBEKU SV Nr. Abfrage* aufzurufen, woraufhin der WEBEKU Versicherungsnummernabfrage-Dialog erscheint. Der Dialog kann dann mit den Pflichtfeldern Name, Vorname und Geburtsdatum befüllt werden. Durch Drücken des Buttons *Suchen* ist der Hinweis bezüglich Datenschutzes zu sehen, sowie nach erfolgreicher Suche die Sozialversicherungsnummer. Die Sozialversicherungsnummer kann über die Schaltfläche *Übernehmen / Zwischenablage* in die Zwischenablage gegeben und in ein beliebiges Feld oder Dokument eingefügt werden.
