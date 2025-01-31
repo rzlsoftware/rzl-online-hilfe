@@ -46,7 +46,7 @@ Unterlagen. Falls Ihnen diese Zugangsdaten nicht mehr bekannt sind,
 fordern Sie diese bitte – unter Angabe Ihrer RZL Anwender-Nummer – per
 Mail unter *<software@rzl.at>* an.
 
-##  Neue Einzelplatz-Installation 
+## Neue Einzelplatz-Installation 
 
 Bei einer *Neuen Einzelplatz-Installation* werden sämtliche Komponenten
 lokal installiert und die Verwendung der RZL-Programme ist
@@ -55,49 +55,48 @@ unterschiedlichen Geräten im Netzwerk auf den gleichen Datenbestand
 zuzugreifen, wählen Sie bitte eine andere Installationsvariante ([siehe
 Kapitel 1.4](#expertenmodus-z.b.-für-netzwerkinstallation))
 
-1. Zum Starten der Installation führen Sie die Datei *RZL Setup.exe* aus.
+1.  Zum Starten der Installation führen Sie die Datei *RZL Setup.exe* aus.
 
-2. Bestätigen Sie die Lizenzbestimmungen und klicken Sie auf Weiter.
-   ![](<img/image3.png>)
+2.  Bestätigen Sie die Lizenzbestimmungen und klicken Sie auf Weiter.
+    ![](<img/image3.png>)
 
-3. Klicken Sie auf Neue Einzelplatz-Installation.
-   ![](<img/image4.png>)
+3.  Klicken Sie auf Neue Einzelplatz-Installation.
+    ![](<img/image4.png>)
 
-4. Wählen Sie Ihre lizenzierten RZL Programme und die gewünschten
-   zusätzlichen Komponenten aus und bestätigen mit *Aktion durchführen* bzw. *Weiter*.
-   ![](<img/image5.png>)
+4.  Wählen Sie Ihre lizenzierten RZL Programme und die gewünschten
+    zusätzlichen Komponenten aus und bestätigen mit *Aktion durchführen* bzw. *Weiter*.
+    ![](<img/image5.png>)
 
-Bei den Programmen Kanzlei-Informations-System, RZL Board und
-Firmen-Board mit Basis Modul ist der Einsatz einer Datenbank (Microsoft
-SQL-Server) erforderlich. Haben sie eines dieser Programme ausgewählt
-wird im Zuge einer Einzelplatzinstallation auch automatisch diese
-Datenbank installiert. Die für diese Installation notwendigen Eingaben
-müssen dann in der nachfolgenden zusätzlichen Einstellungsseite (4a)
-ergänzt werden. Bitte beachten sie hierzu Kapitel 12 und 13.
+    Bei den Programmen Kanzlei-Informations-System, RZL Board und
+    Firmen-Board mit Basis Modul ist der Einsatz einer Datenbank (Microsoft
+    SQL-Server) erforderlich. Haben sie eines dieser Programme ausgewählt
+    wird im Zuge einer Einzelplatzinstallation auch automatisch diese
+    Datenbank installiert. Die für diese Installation notwendigen Eingaben
+    müssen dann in der nachfolgenden zusätzlichen Einstellungsseite (4a)
+    ergänzt werden. Bitte beachten sie hierzu Kapitel 12 und 13.
+   
+    1.  Geben Sie in der zusätzlichen Einstellungsseite Ihre Anwendernummer ein
+        Soll der RZL Dienst ebenfalls lokal installiert werden, können Sie
+        diesen hier anhaken (wird aktuell für die Module RZL HON Next, RZL
+        FIBU Next, RZL KIS-Schnittstelle für Scanner-Anbindung, RZL
+        Dokumentenverwaltung Plus und Digitaler Personalakt benötigt)
+        ![](<img/image6.png>)
+        
+        Klicken Sie auf Aktionen durchführen
+      
+5.  Nach erfolgreicher Installation können Sie das Installationsfenster 
+    mit *Fertigstellen* schließen
 
-4a. Geben Sie in der zusätzlichen Einstellungsseite Ihre Anwendernummer ein
-
-> Soll der RZL Dienst ebenfalls lokal installiert werden, können Sie
-> diesen hier anhaken (wird aktuell für die Module RZL HON Next, RZL
-> FIBU Next, RZL KIS-Schnittstelle für Scanner-Anbindung, RZL
-> Dokumentenverwaltung Plus und Digitaler Personalakt benötigt)
-> ![](<img/image6.png>)
-
-Klicken Sie auf Aktionen durchführen
-
-1. Nach erfolgreicher Installation können Sie das Installationsfenster 
-   mit *Fertigstellen* schließen
-
-2. Im Anschluss können Sie die RZL-Programme starten. Beim ersten Start
-   werden Sie aufgefordert die Lizenzierung dieser Installation
-   durchzuführen (siehe Kapitel 2)
+6.  Im Anschluss können Sie die RZL-Programme starten. Beim ersten Start
+    werden Sie aufgefordert die Lizenzierung dieser Installation
+    durchzuführen (siehe Kapitel 2)
 
 ## Netzwerkarbeitsplatz einrichten
 
 !!! warning "Hinweis"
     Bei der Einrichtung der Netzwerkarbeitsplätze können Sie im
     Expertenmodus einzelne Programme abwählen die auf dem jeweiligen Gerät
-    nicht benötigt werden.
+    nicht benötigt werden.  
 
 Ein Netzwerkarbeitsplatz kann nur eingerichtet werden, wenn im Netzwerk
 bereits ein Datenrepository verfügbar ist. Ist dies noch nicht der Fall,
@@ -108,15 +107,15 @@ Datenrepository bzw. eine Serverinstallation ein ([siehe Kapitel
 Zum Starten der Installation führen Sie die Datei *RZL Setup.exe* aus
 dem Daten-Repository aus.
 
-1. Klicken Sie auf Netzwerkarbeitsplatz einrichten.
-   ![](<img/image7.png>)
+1.  Klicken Sie auf Netzwerkarbeitsplatz einrichten.
+    ![](<img/image7.png>)
 
-1. Wählen Sie im nächsten Fenster ihr vorhandenes Daten-Repository aus
-   ![](<img/image8.png>)
+2.  Wählen Sie im nächsten Fenster ihr vorhandenes Daten-Repository aus
+    ![](<img/image8.png>)
 
-2. Sobald Sie ein gültiges Daten-Repository ausgewählt haben, ändert
-   sich der Status auf *Gültig* (grünes Häkchen) und Sie können die
-   Installation mit *Aktion durchführen* beginnen.
+3.  Sobald Sie ein gültiges Daten-Repository ausgewählt haben, ändert
+    sich der Status auf *Gültig* (![](<img/image13.png>)) und Sie können die
+    Installation mit *Aktion durchführen* beginnen.
 
 ## Expertenmodus (z.B. für Netzwerkinstallation)
 
@@ -124,37 +123,33 @@ Der *Expertenmodus* kann für komplexere Installationsvarianten verwendet
 werden. Dieser bietet erweiterte Einstellungsmöglichkeiten und wurde für
 den Systembetreuer oder Personen mit guten IT-Kenntnissen konzipiert.
 
-Hinweis
-
-Im Expertenmodus kann auch der Pfad des lokalen Programmverzeichnisses
-und das Verzeichnis des Daten-Repository geändert werden.
+!!! warning "Hinweis"
+    Im Expertenmodus kann auch der Pfad des lokalen Programmverzeichnisses
+    und das Verzeichnis des Daten-Repository geändert werden.
 
 Zum Starten des Expertenmodus führen Sie die Datei *RZL Setup.exe* aus
 und wählen Sie die Option Expertenmodus.
 
 ![](<img/image9.png>)
 
-1. Im nächsten Fenster können Sie folgende Einstellungen anpassen.
+1.  Im nächsten Fenster können Sie folgende Einstellungen anpassen.
     ![](<img/image10.png>)
+        
+    Unter *Lokales Programmverzeichnis* können Sie über das
+    *Ordner-Symbol* ein Installationsverzeichnis auswählen in das die
+    RZL-Programme installiert werden sollen. Verwenden Sie hier bitte
+    immer ein lokales Laufwerk, da die Ausführung von Programmen über ein
+    Netzwerk Probleme verursachen kann
+    ![](<img/image11.jpg>)
 
-- Unter *Lokales Programmverzeichnis* können Sie über das
-  *Ordner-Symbol* ein Installationsverzeichnis auswählen in das die
-  RZL-Programme installiert werden sollen. Verwenden Sie hier bitte
-  immer ein lokales Laufwerk, da die Ausführung von Programmen über ein
-  Netzwerk Probleme verursachen kann
+2.  Unter Daten-Repository können Sie durch die Anwahl von „Auswählen“
+    ein bereits bestehendes Datenrepository auswählen.
 
-![](<img/image11.png>)
-
-2. Unter Daten-Repository können Sie durch die Anwahl von „Auswählen“
-   ein bereits bestehendes Datenrepository auswählen.
-
-3. Durch anschließendes klicken auf das *Ordner-Symbol* müssen Sie hier
-   ein vorhandenes Daten-Repository auswählen.
+3.  Durch anschließendes klicken auf das *Ordner-Symbol* müssen Sie hier
+    ein vorhandenes Daten-Repository auswählen.<br/>
     ![](<img/image12.png>)
 
-4.  Sobald sich der Status auf *Gültig*
-    (<img src=".\img/media/image13.png"
-    style="width:0.14875in;height:0.12847in" />) ändert, können Sie mit
+4.  Sobald sich der Status auf *Gültig* (![](<img/image13.png>)) ändert, können Sie mit
     *Weiter* die Installation fortsetzen.
 
 5.  Unter Daten-Repository können Sie durch die Anwahl von „Neu anlegen“
@@ -163,12 +158,12 @@ und wählen Sie die Option Expertenmodus.
     Datenrepository zugreift. Ist der Zugriff von mehreren
     Arbeitsplätzen gewünscht, wählen Sie eine Netzwerkfreigabe bzw.
     Netzlaufwerk aus.
-        ![](<img/image14.png>)
+    ![](<img/image14.png>)
 
-- Durch die Auswahl von Kombi-Arbeitsplatz haben Sie die Möglichkeit ein
-  lokales Offline-Datenrepository anzugeben. Diese Einstellung ist
-  natürlich nur sinnvoll, wenn es sich beim regulären Datenrepository um
-  ein Netzwerk-Verzeichnis handelt.
+    Durch die Auswahl von Kombi-Arbeitsplatz haben Sie die Möglichkeit ein
+    lokales Offline-Datenrepository anzugeben. Diese Einstellung ist
+    natürlich nur sinnvoll, wenn es sich beim regulären Datenrepository um
+    ein Netzwerk-Verzeichnis handelt.
 
 6.  ![](<img/image15.png>)
 
@@ -178,26 +173,23 @@ und wählen Sie die Option Expertenmodus.
     Netzwerk verbunden ist. Genaue Details zum Verschieben von
     Programmklienten entnehmen Sie bitte dem ZMV Handbuch.
 
-8.  Mit einem Klick auf Weiter gelangen Sie zum nächsten Fenster mit
-    Einstellungen
+8.  Mit einem Klick auf Weiter gelangen Sie zum nächsten Fenster mit Einstellungen
 
-9.  Im nächsten Fenster können Sie auswählen welche Programme bzw.
-    Komponenten im Detail installiert werden sollen
+9.  Im nächsten Fenster können Sie auswählen welche Programme bzw. Komponenten im Detail installiert werden sollen
 
-Hinweis
+!!! warning "Hinweis"
+    Die vorausgewählten RZL Programme werden vom vorhandenen
+    Daten-Repository ausgelesen. Wenn vorausgewählte Programme auf dem
+    jeweiligen Gerät nicht benötigt werden, oder zusätzliche Programme
+    installiert werden sollen, entfernen oder setzen Sie das Häkchen beim
+    jeweiligen RZL Programm.
 
-Die vorausgewählten RZL Programme werden vom vorhandenen
-Daten-Repository ausgelesen. Wenn vorausgewählte Programme auf dem
-jeweiligen Gerät nicht benötigt werden, oder zusätzliche Programme
-installiert werden sollen, entfernen oder setzen Sie das Häkchen beim
-jeweiligen RZL Programm.
-
-Bei den Programmen Kanzlei-Informations-System, RZL Board und
-Firmen-Board mit Basis Modul ist der Einsatz einer Datenbank (Microsoft
-SQL-Server) erforderlich. Haben Sie eines dieser Programme ausgewählt,
-gelangen Sie beim Klick auf Weiter zu einer zusätzlichen
-Einstellungsseite (1a), in der Sie Einstellungen zur Datenbank vornehmen
-können. Bitte beachten Sie hierzu Kapitel 12 und 13
+    Bei den Programmen Kanzlei-Informations-System, RZL Board und
+    Firmen-Board mit Basis Modul ist der Einsatz einer Datenbank (Microsoft
+    SQL-Server) erforderlich. Haben Sie eines dieser Programme ausgewählt,
+    gelangen Sie beim Klick auf Weiter zu einer zusätzlichen
+    Einstellungsseite (1a), in der Sie Einstellungen zur Datenbank vornehmen
+    können. Bitte beachten Sie hierzu Kapitel 12 und 13
 
 Abhängig von den eingesetzten Programmfunktionen kann es erforderlich
 sein, dass der RZL-Dienst installiert werden muss. Dieser kann im
@@ -245,10 +237,9 @@ RZL übermittelte Schreiben mit Ihren Erst-Benutzer-Zugangsdaten.
 
 Führen Sie die Datei *RZL SQL Server Setup.exe* am Datenbankserver aus.
 
-Hinweis
-
-Unter Umständen kann ein Neustart des Systems nötig sein, um den SQL
-Server zu installieren.
+!!! warning "Hinweis"
+    Unter Umständen kann ein Neustart des Systems nötig sein, um den SQL
+    Server zu installieren.
 
 Zum Starten der Installation Klicken Sie bitte auf *Installieren*.
 
@@ -256,3 +247,21 @@ Zum Starten der Installation Klicken Sie bitte auf *Installieren*.
 
 Nach erfolgreicher Installation können Sie das Installationsfenster
 schließen.
+
+## Neue Schüler-Installation für Zuhause
+
+Der Installationsmodus *Neue Schüler-Installation für Zuhause*
+installiert die RZL Programme *Finanzbuchhaltung* und
+*Anlagenabschreibung* lokal auf dem Arbeitsplatz.
+
+Zum Starten der Installation für Sie die *RZL Setup.exe* aus.
+
+1.  Klicken Sie bitte auf Neue Schüler-Installation für Zuhause.
+    ![](<img/image18.png>)
+
+2.  Anschließend wird die Installation der RZL Programme
+    Finanzbuchhaltung und Anlagenabschreibung durchgeführt.
+    ![](<img/image19.png>)
+
+Nach Abschluss der Installation beenden Sie die Installation mit
+*Fertigstellen*.
