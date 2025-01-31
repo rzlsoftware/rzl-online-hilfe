@@ -55,8 +55,10 @@ Tragen Sie die Höhe der Pauschale ein.
 
 **Aktiv**  
 Wird für einen Klienten die Pauschalverrechnung deaktiviert,
-kann die Option *Aktiv* deaktiviert werden.  
-Es werden keine Pauschalzeilen mehr generiert.
+kann die Option *Aktiv* deaktiviert werden. Es werden keine Pauschalzeilen mehr generiert.
+
+!!! warning "Hinweis"
+    Die Option *Aktiv* kann klientenübergreifend aktiviert/deaktiviert werden.
 
 **Text Pauschalzeile**  
 Grundsätzlich erhält die Pauschalzeile den Text,
