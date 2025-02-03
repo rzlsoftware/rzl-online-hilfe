@@ -114,7 +114,7 @@ dem Daten-Repository aus.
     ![](<img/image8.png>)
 
 3.  Sobald Sie ein gültiges Daten-Repository ausgewählt haben, ändert
-    sich der Status auf *Gültig* (![](<img/image13.png>)) und Sie können die
+    sich der Status auf *Gültig* (![](img/GruenerHaken_Gueltig.png)) und Sie können die
     Installation mit *Aktion durchführen* beginnen.
 
 ## Expertenmodus (z.B. für Netzwerkinstallation)
@@ -130,26 +130,26 @@ den Systembetreuer oder Personen mit guten IT-Kenntnissen konzipiert.
 Zum Starten des Expertenmodus führen Sie die Datei *RZL Setup.exe* aus
 und wählen Sie die Option Expertenmodus.
 
-![](<img/image9.png>)
+![](img/RZLSetup_Expertenmodusimage9.png)
 
 1.  Im nächsten Fenster können Sie folgende Einstellungen anpassen.
-    ![](<img/image10.png>)
+    ![](img/RZLSetup_Einstellungen.png)
         
     Unter *Lokales Programmverzeichnis* können Sie über das
     *Ordner-Symbol* ein Installationsverzeichnis auswählen in das die
     RZL-Programme installiert werden sollen. Verwenden Sie hier bitte
     immer ein lokales Laufwerk, da die Ausführung von Programmen über ein
     Netzwerk Probleme verursachen kann
-    ![](<img/image11.jpg>)
+    ![](img/RZLSetup_LokalesProgrammverzeichnis.jpg)
 
 2.  Unter Daten-Repository können Sie durch die Anwahl von „Auswählen“
     ein bereits bestehendes Datenrepository auswählen.
 
 3.  Durch anschließendes klicken auf das *Ordner-Symbol* müssen Sie hier
     ein vorhandenes Daten-Repository auswählen.<br/>
-    ![](<img/image12.png>)
+    ![](img/RZLSetup_Datenrepository.png)
 
-4.  Sobald sich der Status auf *Gültig* (![](<img/image13.png>)) ändert, können Sie mit
+4.  Sobald sich der Status auf *Gültig* (![](img/GruenerHaken_Gueltig.png)) ändert, können Sie mit
     *Weiter* die Installation fortsetzen.
 
 5.  Unter Daten-Repository können Sie durch die Anwahl von „Neu anlegen“
@@ -158,14 +158,14 @@ und wählen Sie die Option Expertenmodus.
     Datenrepository zugreift. Ist der Zugriff von mehreren
     Arbeitsplätzen gewünscht, wählen Sie eine Netzwerkfreigabe bzw.
     Netzlaufwerk aus.
-    ![](<img/image14.png>)
+    ![](img/RZLSetup_DatenrepositoryNeuAnlegen.png)
 
     Durch die Auswahl von Kombi-Arbeitsplatz haben Sie die Möglichkeit ein
     lokales Offline-Datenrepository anzugeben. Diese Einstellung ist
     natürlich nur sinnvoll, wenn es sich beim regulären Datenrepository um
     ein Netzwerk-Verzeichnis handelt.
 
-6.  ![](<img/image15.png>)
+6.  ![](img/RZLSetup_KombiArbeitsplatz.png)
 
 7.  Ein Kombi-Arbeitsplatz ermöglicht Ihnen bestimmte Daten in das
     Offline-Datenrepository zu verschieben. Der Zugriff auf diese Daten
@@ -209,7 +209,7 @@ Wurde noch keine entsprechende Datenbank-Instanz eingerichtet, können
 Sie durch einen Klick auf „Neue lokale SQL Server Instanz installieren“
 unser SQL-Server Setup starten
 
-![](<img/image16.png>)
+![](img/RZLSetup_NeueSQLServerInstanz.png)
 
 Es handelt sich dabei um ein eigenständiges Setup, welches automatisch
 eine für RZL passende neue Microsoft SQL-Server Express Instanz auf dem
@@ -243,7 +243,7 @@ Führen Sie die Datei *RZL SQL Server Setup.exe* am Datenbankserver aus.
 
 Zum Starten der Installation Klicken Sie bitte auf *Installieren*.
 
-![](<img/image17.png>)
+![](img/RZLSetup_SQLServerInstallieren.png)
 
 Nach erfolgreicher Installation können Sie das Installationsfenster
 schließen.
@@ -257,11 +257,11 @@ installiert die RZL Programme *Finanzbuchhaltung* und
 Zum Starten der Installation für Sie die *RZL Setup.exe* aus.
 
 1.  Klicken Sie bitte auf Neue Schüler-Installation für Zuhause.
-    ![](<img/image18.png>)
+    ![](<img/RZLSetup_SchuelerInstallation.png>)
 
 2.  Anschließend wird die Installation der RZL Programme
     Finanzbuchhaltung und Anlagenabschreibung durchgeführt.
-    ![](<img/image19.png>)
+    ![](img/RZLSetup_Fortschrittsbalken.png)
 
 Nach Abschluss der Installation beenden Sie die Installation mit
 *Fertigstellen*.
