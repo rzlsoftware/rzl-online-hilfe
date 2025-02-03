@@ -14,4 +14,4 @@ Eingabemaske Ihre Anwendernummer und Ihr Lizenzkennwort ein.
     den entsprechenden Treiber und wechseln dann bitte in den
     Lizenzierungsmodus für den RZL-Lizenzstecker
 
-![Online-Lizenzierung](img/Online-Lizenzierung.png)
+![Online-Lizenzierung](img/RZLOnlineLizenzierung_Zugangsdaten.png)
