@@ -58,14 +58,14 @@ Kapitel 1.4](#expertenmodus-z.b.-für-netzwerkinstallation))
 1.  Zum Starten der Installation führen Sie die Datei *RZL Setup.exe* aus.
 
 2.  Bestätigen Sie die Lizenzbestimmungen und klicken Sie auf Weiter.
-    ![](<img/image3.png>)
+    ![](img/RZLSetup_Lizenzbestimmungen.png)
 
 3.  Klicken Sie auf Neue Einzelplatz-Installation.
-    ![](<img/image4.png>)
+    ![](img/RZLSetup_NeueEinzelplatzinstallation.png)
 
 4.  Wählen Sie Ihre lizenzierten RZL Programme und die gewünschten
     zusätzlichen Komponenten aus und bestätigen mit *Aktion durchführen* bzw. *Weiter*.
-    ![](<img/image5.png>)
+    ![](img/RZLSetup_AuswahlLizenzierteModule.png)
 
     Bei den Programmen Kanzlei-Informations-System, RZL Board und
     Firmen-Board mit Basis Modul ist der Einsatz einer Datenbank (Microsoft
@@ -80,7 +80,7 @@ Kapitel 1.4](#expertenmodus-z.b.-für-netzwerkinstallation))
         diesen hier anhaken (wird aktuell für die Module RZL HON Next, RZL
         FIBU Next, RZL KIS-Schnittstelle für Scanner-Anbindung, RZL
         Dokumentenverwaltung Plus und Digitaler Personalakt benötigt)
-        ![](<img/image6.png>)
+        ![](img/RZLSetup_AnwendernummerEingeben.png)
         
         Klicken Sie auf Aktionen durchführen
       
@@ -108,10 +108,10 @@ Zum Starten der Installation führen Sie die Datei *RZL Setup.exe* aus
 dem Daten-Repository aus.
 
 1.  Klicken Sie auf Netzwerkarbeitsplatz einrichten.
-    ![](<img/image7.png>)
+    ![](img/RZLSetup_NetzwerkarbeitsplatzEinrichten.png)
 
 2.  Wählen Sie im nächsten Fenster ihr vorhandenes Daten-Repository aus
-    ![](<img/image8.png>)
+    ![](img/RZLSetup_DatenrepositoryAuswaehlen.png)
 
 3.  Sobald Sie ein gültiges Daten-Repository ausgewählt haben, ändert
     sich der Status auf *Gültig* (![](img/GruenerHaken_Gueltig.png)) und Sie können die
