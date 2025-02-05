@@ -357,7 +357,7 @@ soll.
 
 ![](<img/image96.png>)
 
-Weitere Einstellungen zur WiEReG-Anbindung finden Sie im Kapitel [USP](/Board/Portale/USP)
+Weitere Einstellungen zur WiEReG-Anbindung finden Sie im Kapitel [USP](../Portale/USP.md)
 
 ##  Geldwäscheprävention
 
