@@ -12,7 +12,7 @@ Für eine Komplettsicherung führen Sie folgende Schritte durch:
 
 1.  Öffnen Sie über das Windows Startmenü das Programm *RZL Admin*.
 
-    ![RZL-Admin](img/RZLAdmin_Starten.png)
+    ![RZL-Admin öffnen](img/RZLAdmin_Oeffnen.png)
 
 2.  Klicken Sie auf den Menüpunkt *RZL Daten Sichern/Wiederherstellen*.
     ![RZL-Admin Daten Sichern/Wiederherstellen](img/RZLAdmin_DatenSichernWiederherstellen.png)
@@ -27,7 +27,7 @@ Für eine Komplettsicherung führen Sie folgende Schritte durch:
     ![RZL-Admin Sicherung starten](img/RZLAdmin_SicherungsStarten.png)
 
 Sobald die Sicherung erstellt wurde scheint diese unter *Verfügbare Sicherungen* auf
-![RZL-Admin Verfügbare Sicherungen](img/RZLAdmin_VerfuegbareSicherunge.png)
+![RZL-Admin Verfügbare Sicherungen](img/RZLAdmin_VerfuegbareSicherungen.png)
 
 Nach Abschluss der Sicherung werden Sie aufgefordert die Lizenz
 zurückzulegen. Bestätigen Sie dies mit Ja.

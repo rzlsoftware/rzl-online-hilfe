@@ -102,8 +102,7 @@ wie folgt vor:
 
 1.  Starten Sie über das Windows-Startmenü den *RZL Admin*.
     
-    ![Programmaktualisierung über den RZL-Admin starten](img/RZLAdmin_Starten.png)
-
+    ![RZL-Admin öffnen](img/RZLAdmin_Oeffnen.png)
 2.  Klicken Sie in der Navigationsleiste auf die Schaltfläche *Informationen zur Installation und Update der Programme*.
     
     ![Informationen zur Installation und Update der Programme](img/Programmaktualisierung_InformationUndUpdate.png)
