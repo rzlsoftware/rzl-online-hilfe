@@ -1,0 +1,12 @@
+nav:
+    - index.md
+    - installation.md
+    - lizenzierung.md
+    - erste-schritte.md
+    - programmaktualisierung.md
+    - installation-reparieren.md
+    - installation-aendern.md
+    - installation-deinstallieren.md
+    - daten-sichern.md
+    - daten-wiederherstellen.md
+    - installation-uebertragen.md
