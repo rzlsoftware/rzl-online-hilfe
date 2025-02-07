@@ -52,20 +52,20 @@ Bei einer *Neuen Einzelplatz-Installation* werden sämtliche Komponenten
 lokal installiert und die Verwendung der RZL-Programme ist
 ausschließlich auf dem aktuellen Gerät möglich. Ist es notwendig von
 unterschiedlichen Geräten im Netzwerk auf den gleichen Datenbestand
-zuzugreifen, wählen Sie bitte eine andere Installationsvariante ([siehe
-Kapitel 1.4](#expertenmodus-z.b.-für-netzwerkinstallation))
+zuzugreifen, wählen Sie bitte eine andere Installationsvariante
+([*Expertenmodus*](#expertenmodus-zb-fur-netzwerkinstallation)).
 
 1.  Zum Starten der Installation führen Sie die Datei *RZL Setup.exe* aus.
 
 2.  Bestätigen Sie die Lizenzbestimmungen und klicken Sie auf Weiter.
-    ![](img/RZLSetup_Lizenzbestimmungen.png)
+    ![RZL-Setup Lizenzbestimmungen](img/RZLSetup_Lizenzbestimmungen.png)
 
 3.  Klicken Sie auf Neue Einzelplatz-Installation.
-    ![](img/RZLSetup_NeueEinzelplatzinstallation.png)
+    ![RZL-Setup - Neue Einzelplatzinstallation](img/RZLSetup_NeueEinzelplatzinstallation.png)
 
 4.  Wählen Sie Ihre lizenzierten RZL Programme und die gewünschten
     zusätzlichen Komponenten aus und bestätigen mit *Aktion durchführen* bzw. *Weiter*.
-    ![](img/RZLSetup_AuswahlLizenzierteModule.png)
+    ![RZL-Setup - Auswahl der lizenzierten RZL-Programme](img/RZLSetup_AuswahlLizenzierteModule.png)
 
     Bei den Programmen Kanzlei-Informations-System, RZL Board und
     Firmen-Board mit Basis Modul ist der Einsatz einer Datenbank (Microsoft
@@ -80,7 +80,7 @@ Kapitel 1.4](#expertenmodus-z.b.-für-netzwerkinstallation))
         diesen hier anhaken (wird aktuell für die Module RZL HON Next, RZL
         FIBU Next, RZL KIS-Schnittstelle für Scanner-Anbindung, RZL
         Dokumentenverwaltung Plus und Digitaler Personalakt benötigt)
-        ![](img/RZLSetup_AnwendernummerEingeben.png)
+        ![RZL-Setup - Anwendernummer eingeben](img/RZLSetup_AnwendernummerEingeben.png)
         
         Klicken Sie auf Aktionen durchführen
       
@@ -88,8 +88,8 @@ Kapitel 1.4](#expertenmodus-z.b.-für-netzwerkinstallation))
     mit *Fertigstellen* schließen
 
 6.  Im Anschluss können Sie die RZL-Programme starten. Beim ersten Start
-    werden Sie aufgefordert die Lizenzierung dieser Installation
-    durchzuführen (siehe Kapitel 2)
+    werden Sie aufgefordert die [*Lizenzierung*](/setup/lizenzierung)
+    dieser Installation durchzuführen.
 
 ## Netzwerkarbeitsplatz einrichten
 
@@ -100,18 +100,17 @@ Kapitel 1.4](#expertenmodus-z.b.-für-netzwerkinstallation))
 
 Ein Netzwerkarbeitsplatz kann nur eingerichtet werden, wenn im Netzwerk
 bereits ein Datenrepository verfügbar ist. Ist dies noch nicht der Fall,
-wechseln Sie bitte in den Expertenmodus und richten Sie initial ein
-Datenrepository bzw. eine Serverinstallation ein ([siehe Kapitel
-1.4](#expertenmodus-z.b.-für-netzwerkinstallation))
+wechseln Sie bitte in den [*Expertenmodus*](#expertenmodus-zb-fur-netzwerkinstallation)
+und richten Sie initial ein Datenrepository bzw. eine Serverinstallation ein.
 
 Zum Starten der Installation führen Sie die Datei *RZL Setup.exe* aus
 dem Daten-Repository aus.
 
 1.  Klicken Sie auf Netzwerkarbeitsplatz einrichten.
-    ![](img/RZLSetup_NetzwerkarbeitsplatzEinrichten.png)
+    ![RZL-Setup - Netzwerkarbeitsplatz einrichten](img/RZLSetup_NetzwerkarbeitsplatzEinrichten.png)
 
 2.  Wählen Sie im nächsten Fenster ihr vorhandenes Daten-Repository aus
-    ![](img/RZLSetup_DatenrepositoryAuswaehlen.png)
+    ![RZL-Setup - Datenrepository auswählen](img/RZLSetup_DatenrepositoryAuswaehlen.png)
 
 3.  Sobald Sie ein gültiges Daten-Repository ausgewählt haben, ändert
     sich der Status auf *Gültig* (![](img/GruenerHaken_Gueltig.png)) und Sie können die
@@ -130,24 +129,24 @@ den Systembetreuer oder Personen mit guten IT-Kenntnissen konzipiert.
 Zum Starten des Expertenmodus führen Sie die Datei *RZL Setup.exe* aus
 und wählen Sie die Option Expertenmodus.
 
-![](img/RZLSetup_Expertenmodusimage9.png)
+![RZL-Setup - Expertenmodus](img/RZLSetup_Expertenmodus.png)
 
 1.  Im nächsten Fenster können Sie folgende Einstellungen anpassen.
-    ![](img/RZLSetup_Einstellungen.png)
+    ![RZL-Setup - Einstellungen](img/RZLSetup_Einstellungen.png)
         
     Unter *Lokales Programmverzeichnis* können Sie über das
     *Ordner-Symbol* ein Installationsverzeichnis auswählen in das die
     RZL-Programme installiert werden sollen. Verwenden Sie hier bitte
     immer ein lokales Laufwerk, da die Ausführung von Programmen über ein
     Netzwerk Probleme verursachen kann
-    ![](img/RZLSetup_LokalesProgrammverzeichnis.jpg)
+    ![RZL-Setup - Lokales Programmverzeichnis](img/RZLSetup_LokalesProgrammverzeichnis.jpg)
 
 2.  Unter Daten-Repository können Sie durch die Anwahl von „Auswählen“
     ein bereits bestehendes Datenrepository auswählen.
 
 3.  Durch anschließendes klicken auf das *Ordner-Symbol* müssen Sie hier
     ein vorhandenes Daten-Repository auswählen.<br/>
-    ![](img/RZLSetup_Datenrepository.png)
+    ![RZL-Setup - Datenrepository](img/RZLSetup_Datenrepository.png)
 
 4.  Sobald sich der Status auf *Gültig* (![](img/GruenerHaken_Gueltig.png)) ändert, können Sie mit
     *Weiter* die Installation fortsetzen.
@@ -158,14 +157,14 @@ und wählen Sie die Option Expertenmodus.
     Datenrepository zugreift. Ist der Zugriff von mehreren
     Arbeitsplätzen gewünscht, wählen Sie eine Netzwerkfreigabe bzw.
     Netzlaufwerk aus.
-    ![](img/RZLSetup_DatenrepositoryNeuAnlegen.png)
+    ![RZL-Setup - Datenrepository neu anlegen](img/RZLSetup_DatenrepositoryNeuAnlegen.png)
 
     Durch die Auswahl von Kombi-Arbeitsplatz haben Sie die Möglichkeit ein
     lokales Offline-Datenrepository anzugeben. Diese Einstellung ist
     natürlich nur sinnvoll, wenn es sich beim regulären Datenrepository um
     ein Netzwerk-Verzeichnis handelt.
 
-6.  ![](img/RZLSetup_KombiArbeitsplatz.png)
+6.  ![RZL-Setup - Kombi-Arbeitsplatz](img/RZLSetup_KombiArbeitsplatz.png)
 
 7.  Ein Kombi-Arbeitsplatz ermöglicht Ihnen bestimmte Daten in das
     Offline-Datenrepository zu verschieben. Der Zugriff auf diese Daten
