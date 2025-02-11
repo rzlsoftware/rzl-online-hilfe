@@ -38,8 +38,7 @@ wiederhergestellt.
 
 ![RZL-Admin Wiederherstellung erfolgreich](img/RZLAdmin_WiederherstellungErfolgreichHinweis.png)
 
-Führen Sie anschließend die Lizenzierung der RZL-Programme aus  
-([Kapitel 2](#rzl-lizenzierung)).
+Führen Sie anschließend die [Lizenzierung](/setup/lizenzierung) der RZL-Programme aus.
 
 !!! warning "Hinweis"  
     Alle RZL-Programme müssen beendet werden und können für die Dauer
