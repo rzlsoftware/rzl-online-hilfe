@@ -9,4 +9,5 @@ nav:
     - installation-deinstallieren.md
     - daten-sichern.md
     - daten-wiederherstellen.md
-    - installation-uebertragen.md
+    - Installation übertragen: installation-uebertragen.md
+    - Umstellung Einzelplatz auf Netzwerkinstallation: umstellung-arbeitsplatz.md
