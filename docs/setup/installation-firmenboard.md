@@ -102,7 +102,7 @@ soll als *RZL Administrator* im *KIS* hinterlegt werden.
 
 Falls Klienten angezeigt werden, war die Datenübernahme erfolgreich!
 Falls **keine Klienten** angezeigt werden, führen Sie den Punkt
-[*ZMV Daten in die Datenbank übernehmen*](#zmv-daten-in-die-datenbank-übernehmen-1) erneut durch!
+[*ZMV Daten in die Datenbank übernehmen*](#zmv-daten-in-die-datenbank-ubernehmen) erneut durch!
 
 !!! warning "Hinweis"
     Teilen Sie die erfolgreiche Installation unter Angabe Ihrer
