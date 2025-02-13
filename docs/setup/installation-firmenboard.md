@@ -45,7 +45,7 @@ Falls keine RZL Daten vorhanden sind, kann dieser Punkt
 1.  Wählen Sie in der Zentralen Mandantenverwaltung
     *ZMV → Optionen → Datenübernahme aus ZMV-Datei…*
 
-    ![image49](.\img/media/image49.png)
+    ![Datenübernahme aus Datei](img/ZMV_DatenuebernahmeAusDatei.png)
 
 2.  Falls keine ZMV-Datei Sicherung existiert, wählen Sie
     *Datei sichern…* und erstellen Sie eine Sicherung.
@@ -53,14 +53,14 @@ Falls keine RZL Daten vorhanden sind, kann dieser Punkt
 3.  Wählen Sie *ZMV-Datei gesichert* und starten Sie
     die Übernahme mit *Durchführen*.
 
-    ![image58](.\img/media/image58.png)
+    ![alt text](img/ZMV_DatenuebernahmeSQLServer.png)
 
 ## Sicherung der RZL Datenbank erstellen
 
 Starten Sie den *RZL-Admin* und wählen Sie
 *Datensicherung erstellen*.
 
-![image51](.\img/media/image51.png)
+![alt text](img/RZLAdmin_SicherungRZLDatenbank.png)
 
 !!! warning "Hinweis"
     Beachten Sie bitte die Erfolgs- oder Fehlermeldung nach der
@@ -76,7 +76,7 @@ soll als *RZL Administrator* im *KIS* hinterlegt werden.
 1.  Starten Sie das *RZL Board* über das *Startmenü*.
 2.  Klicken Sie auf *Neuer Mitarbeiter*.
 
-    ![image59](.\img/media/image59.png)
+    ![alt text](img/STAMM_NeuenMitarbeiterAnlegen.png)
 
 3.  Wählen Sie eine freie Nummer für den neuen Mitarbeiter.
 4.  Falls die Person noch nicht existiert, kann sie über
@@ -84,7 +84,7 @@ soll als *RZL Administrator* im *KIS* hinterlegt werden.
 5.  Tragen Sie das *Eintritts- und Austrittsdatum* ein.
 6.  Geben Sie den *Benutzernamen* für die Windows-Zuordnung ein.
 
-    ![image60](.\img/media/image60.png)
+    ![alt text](img/STAMM_BenutzerAusADAuswaehlen.png)
 
 7.  Klicken Sie auf *Speichern*.
 8.  Hinterlegen Sie im *KIS* die *Mitarbeiterrechte* und
