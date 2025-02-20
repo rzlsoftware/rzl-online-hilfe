@@ -123,15 +123,7 @@ anzulegen.
 
 Der erstellte Benutzer verfügt nun über das Recht *RZL-Administrator*.
 
-## Netzwerkarbeitsplätze einrichten
 
-Öffnen Sie im Windows-Explorer das Setup-Verzeichnis im Daten-Repository
-(z. B.: `R:\RZL_DataRepository\Setup`) und starten Sie die Datei *RZL
-Setup.exe* auf jedem Arbeitsplatz. Weitere Infos finden Sie in diesem
-Handbuch unter
-[*Netzwerkarbeitsplatz einrichten*](/setup/installation#netzwerkarbeitsplatz-einrichten).
-
-*(Bei einer Installation auf einem Terminalserver entfällt dieser Punkt!)*
 
 ## Datei-Indizierung im Betriebssystem aktivieren
 
@@ -188,11 +180,7 @@ Falls *Microsoft Office Filter* für Office-Dateien nicht aktiv sind:
     Wenn in dieser Übersicht Klienten angezeigt werden, wurde die Datenübernahme erfolgreich durchgeführt.
     Falls *keine Klienten* angezeigt werden, führen Sie bitte *Punkt 1.6 ZMV Daten in die Datenbank übernehmen* erneut durch!
 
-!!! warning "Hinweis"
-    Die erfolgreiche Installation von *KIS/Board* und die notwendige
-    Installation der *Microsoft SQL-Datenbank* geben Sie bitte abschließend
-    unter Angabe Ihrer *RZL Anwendernummer* per E-Mail an
-    [Software@rzl.at](mailto:Software@rzl.at) bekannt. Herzlichen Dank!
+
 
 ## Zusätzliche Konfigurationen (optional)
 

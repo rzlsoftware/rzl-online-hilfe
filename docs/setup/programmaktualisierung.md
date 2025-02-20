@@ -15,12 +15,10 @@ Voraussetzungen erfüllt sein:
   standardmäßig automatisch installiert).
 - Falls *Kanzlei-Informations-System / Board* oder *Firmen-Board mit
   Basis-Modul Belege* installiert ist, sind erweiterte Benutzerrechte
-  auf die SQL-Datenbank notwendig ([siehe Kapitel 12.8](#zusätzliche-
-  konfigurationen-optional)).
+  auf die SQL-Datenbank notwendig [*siehe zusätzliche Konfigurationen*](/setup/installation-kis-board/#zusatzliche-konfigurationen-optional).
 - Wird der RZL-Dienst eingesetzt, kann die Aktualisierung nicht mehr
   an jedem beliebigen Arbeitsplatz gestartet werden, sondern nur noch
-  auf dem Gerät, auf dem der RZL-Dienst installiert ist ([siehe
-  Kapitel 14](#rzl-dienst-installieren)).
+  auf dem Gerät, auf dem der RZL-Dienst installiert ist [*siehe RZL-Dienst*](/setup/dienst-installieren).
 
 ## Aktualisierung starten
 
@@ -49,7 +47,7 @@ und anschließend auf *Programmaktualisierung...*
 
 ![Aktualisierung manuell über die Hilfsmittel anstoßen](img/Programmaktualisierung_ManuellAnstossen.jpg)
 
-### 3. RZL-Admin
+### 3. Über RZL-Admin aktualisieren
 
 Im RZL-Admin unter *Informationen zur Installation und Update der
 Programme* auf *Update der Programme* klicken und dann *Update
@@ -67,7 +65,7 @@ Download-Fortschritt informiert.
 
 Sobald der Download abgeschlossen ist, öffnet sich das RZL-Setup in
 der neuen Version zur Durchführung der Aktualisierung. **Schließen Sie
-jetzt bitte sämtliche Programme** (nicht nur die RZL-Programme), damit
+jetzt bitte sämtliche RZL-Programme**, damit
 der Aktualisierungsvorgang problemlos durchgeführt werden kann.
 
 Bestätigen Sie die Lizenzbestimmungen und klicken Sie auf *Weiter*.
