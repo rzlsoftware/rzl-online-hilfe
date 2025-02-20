@@ -1,6 +1,6 @@
 # Installation ändern/hinzufügen/entfernen
 
-Bei diesem Vorgang können Sie Programme hinzufügen (z. B. bei
+Bei dieser Funktion können Sie Programme hinzufügen (z. B. bei
 Nachbestellung von RZL-Programmen) oder entfernen.
 
 1.  Öffnen Sie die Systemsteuerung.

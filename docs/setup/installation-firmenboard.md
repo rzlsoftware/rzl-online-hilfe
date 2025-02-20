@@ -4,8 +4,8 @@ Diese Beschreibung enthält Anleitungen zur Installation der
 Datenbank und der RZL Belegverarbeitung sowie Schritte zur
 Installation/Konfiguration der RZL Programme.
 
-Administrator-Rechte sind erforderlich. Alle Schritte sind für
-eine vollständige Installation notwendig.
+Für die folgenden Schritte sind Administrator-Rechte erforderlich.
+Bitte beachten Sie dass alle Schritte für eine vollständige Installation notwendig sind.
 
 !!! warning "Hinweis"
     Bitte beachten Sie vor der Installation die Systemvoraussetzungen
@@ -15,7 +15,7 @@ eine vollständige Installation notwendig.
 
 ## Installation
 
-Für einen Einzelplatz folgen Sie der Anleitung
+Für eine lokale Einzelplatz Installation folgen Sie bitte der Anleitung:
 [*Neue Einzelplatz Installation*](/setup/installation#neue-einzelplatz-installation).
 
 Für eine Netzwerkinstallation folgen Sie der Anleitung
@@ -23,7 +23,7 @@ Für eine Netzwerkinstallation folgen Sie der Anleitung
 
 ## RZL Programmlizenzierung
 
-Lizenzieren Sie das Programm gemäß der Anleitung
+Lizenzieren Sie das Programm gemäß der Anleitung:
 [*RZL Lizenzierung*](/setup/lizenzierung).
 
 ## ZMV-Datenbank anlegen
@@ -103,8 +103,3 @@ soll als *RZL Administrator* im *KIS* hinterlegt werden.
 Falls Klienten angezeigt werden, war die Datenübernahme erfolgreich!
 Falls **keine Klienten** angezeigt werden, führen Sie den Punkt
 [*ZMV Daten in die Datenbank übernehmen*](#zmv-daten-in-die-datenbank-ubernehmen) erneut durch!
-
-!!! warning "Hinweis"
-    Teilen Sie die erfolgreiche Installation unter Angabe Ihrer
-    *RZL Anwendernummer* per E-Mail an
-    [Software@rzl.at](mailto:Software@rzl.at) mit. Vielen Dank!
