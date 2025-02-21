@@ -31,7 +31,7 @@ Technische Hilfestellungen finden Sie online auf der RZL-Webseite unter
 [*rzlsoftware.at/kb*](https://rzlsoftware.at/kb).
 
 Auf der RZL-Webseite [*rzlsoftware.at*](https://rzlsoftware.at) finden
-Sie im Bereich *Technik Knowledge Base/Downloads* stets die neuesten
+Sie im Anwenderbereich unter dem Bereich *Technik Knowledge Base/Downloads* stets die neuesten
 **Programmaktualisierungen (Updates)** zum Download.
 
 Die jeweils aktuelle **Vollversion** der RZL-Programme (für
