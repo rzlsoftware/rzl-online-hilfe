@@ -9,14 +9,11 @@ kosten- und lizenzierungspflichtige Programme und Module vorausgesetzt wird:
 - Modul RZL KIS-Schnittstelle für Scanner-Anbindung
 - Modul RZL Dokumentenverwaltung Plus
 - Modul Digitaler Personalakt
+- Modul EBICS
 
 !!! warning "Hinweis"
-    Ab Programmversion 2.23.9.0 wird nicht mehr nur ein RZL Dienst verwendet.
-    Nun wird zwischen dem RZL Dienst und dem RZL Diagnose Dienst unterschieden.
-    Die Aufgabe des RZL Diagnose Dienstes besteht darin, den Status des RZL
-    Dienstes zu protokollieren. Sollten Aktionen durch den Benutzer notwendig
-    sein, um den RZL Dienst ordnungsgemäß auszuführen, wird dies ebenfalls in
-    den Protokollen des RZL Diagnose Dienstes aufgeführt.  
+    Ab Programmversion 2.23.9.0 wird zwischen dem RZL Dienst und dem RZL Diagnose Dienst unterschieden.
+    Die Aufgabe des RZL Diagnose Dienstes besteht darin, den Status des RZL Dienstes zu protokollieren.  
 
     Wie Sie die Protokolle abrufen können, entnehmen Sie bitte dem
     ([Kapitel 15.2)](#rzl-diagnose-dienst-event-log).  
@@ -43,7 +40,7 @@ kosten- und lizenzierungspflichtige Programme und Module vorausgesetzt wird:
     damit das RZL Setup am Domänen-Controller den Service-Benutzer
     *rzlServiceMSA* anlegen kann.
 
-    Aktivieren von PS-Remoting:
+    **Aktivieren von PS-Remoting:**
 
     Starten Sie auf dem Domänen-Controller die Windows PowerShell als
     Administrator.
@@ -59,14 +56,14 @@ kosten- und lizenzierungspflichtige Programme und Module vorausgesetzt wird:
 
 Gehen Sie zur Installation bitte wie folgt vor:
 
-1.  Starten Sie das RZL Setup als Domänen-Administrator. Sie finden dieses
-    im Ordner *Setup* im *Daten-Repository*.
+1.  Starten Sie das RZL Setup als **Domänen-Administrator**. Sie finden dieses
+    im Ordner **Setup** im **Daten-Repository**.
 2.  Akzeptieren Sie die Lizenzbestimmungen und klicken Sie dann auf *Weiter*.
-3.  Klicken Sie auf die Schaltfläche *Expertenmodus*.
-4.  Wählen Sie nun rechts unten die Schaltfläche *Weiter*.
+3.  Klicken Sie auf die Schaltfläche **Expertenmodus**.
+4.  Gehen Sie auf **Weiter**.
 5.  Stellen Sie sicher, dass in der Programmliste die Einträge
-    *RZL Update-Service* und *RZL Dienst* ausgewählt sind.
-6.  Klicken Sie abschließend auf *Aktionen durchführen*.
+    **RZL Update-Service** und **RZL Dienst** ausgewählt sind.
+6.  Klicken Sie abschließend auf **Aktionen durchführen**.
 
 ### Zugriffsrechte
 
@@ -74,28 +71,28 @@ Damit der RZL Dienst ordnungsgemäß funktioniert, benötigt der Account
 `rzlServiceMSA\$` Zugriffsrechte auf das Daten-Repository und auf die
 KIS-Datenbank. Die notwendigen Berechtigungen werden vom Setup automatisch
 gesetzt, indem der Account `rzlServiceMSA\$` zur Benutzergruppe
-*Domänen-Benutzer* hinzugefügt und Mitglied der Datenbank-Rolle *rzl_admin*
+**Domänen-Benutzer** hinzugefügt und Mitglied der Datenbank-Rolle **rzl_admin**
 wird.
 
 Der Dienstbenutzer benötigt folgende Rechte auf der Datenbank:
 
-Server-Rollen: *public* (als Mitglied der Benutzergruppe Domänen-Benutzer)  
-Datenbank-Rollen: *rzl_admin*  
+- Server-Rollen: `public` (als Mitglied der Benutzergruppe Domänen-Benutzer)  
+- Datenbank-Rollen: `rzl_admin`
 
 Die Rechte werden im Microsoft SQL Server Management Studio verwaltet.
 
 ### RZL Dienst Administration
 
 Sobald der RZL Dienst erfolgreich installiert wurde, stehen Ihnen im
-RZL-Admin zusätzliche Statusmeldungen und Einstellungen zur Verfügung.
+**RZL-Admin** zusätzliche Statusmeldungen und Einstellungen zur Verfügung.
 
-Unter *Information zur Installation und Update der Programme* im Bereich
-*RZL Service* werden Ihnen, abhängig von den lizenzierten Programmen und
-Modulen, die Status der unterschiedlichen Endpunkte angezeigt.
+Unter **Information zur Installation und Update der Programme** im Bereich
+**RZL Dienst** werden Ihnen, abhängig von den lizenzierten Programmen und
+Modulen, die Status der unterschiedlichen Features angezeigt.
 
 ![RZL-Admin - Information zur Installation und Update der Programme](img/RZLAdmin_InfoUndUpdate.png)
 
-Im Bereich *RZL Dienst - Verwaltung* können Sie den RZL Dienst neu starten,
+Im Bereich **RZL Dienst - Verwaltung** können Sie den RZL Dienst neu starten,
 die Logdateien zu Supportzwecken übermitteln und die Ordnerüberwachung
 stoppen und starten.
 
@@ -106,7 +103,7 @@ stoppen und starten.
 ### KIS-Schnittstelle für Scanner-Anbindung
 
 Über die angebundenen Scan-Lösungen der
-[*RZL Scan-Partner*](https://www.rzlsoftware.at/ueber-rzl/partner/scanpartner)
+[*RZL Scan-Partner*](https://rzlsoftware.at/partner/scan-partner)
 und die lizenzierungspflichtige RZL KIS-Schnittstelle für Scanner-Anbindung
 (kostenpflichtig) können Dokumente sowie Postein- und -ausgänge ins
 RZL KIS übernommen werden.
@@ -124,7 +121,7 @@ Servers hergestellt werden. Falls der Scanner nicht direkt am Server
 angeschlossen ist, muss eine Firewall-Ausnahme erstellt werden.
 
 Die Firewall-Regel sollte so gestaltet werden, dass der Zugriff nur vom
-Scanner erfolgt (z. B. über eine *Nur Verbindungen durch folgende Computer-*
+Scanner erfolgt (z. B. über eine `Nur Verbindungen durch folgende Computer-`
 Regel oder IP-Beschränkung).
 
 Falls Scans von einem mobilen Endgerät im Kanzlei-Netzwerk kommen, sollte am
@@ -133,7 +130,7 @@ DHCP-Server eine feste IP für das Gerät eingerichtet werden.
 ### Anbindung über Ordnerüberwachung
 
 Damit Dokumente automatisch aus einem Scanordner ins KIS übernommen werden,
-muss im KIS unter *Verwaltung → Scanordner* die entsprechende Option
+muss im KIS unter **Verwaltung → Scanordner** die entsprechende Option
 aktiviert werden.  
 
 ![KIS - Verwaltung Scanordner](img/KIS_VerwaltungScanordner.png)
@@ -147,19 +144,19 @@ Der Account `rzlServiceMSA\$` benötigt Lese-/Schreibrechte auf diesen Ordner.
 Falls der RZL Dienst nicht startet, sollten die Diagnoseprotokolle
 überprüft werden.
 
-1.  Öffnen Sie das Programm *RZL Admin*.
-2.  Bleiben Sie im Reiter *Information zur Installation*.
-3.  Unter *RZL Dienst* finden Sie alle Optionen.
-4.  Klicken Sie auf *Diagnoseinformationen anzeigen…*.
+1.  Öffnen Sie das Programm **RZL Admin**.
+2.  Bleiben Sie im Reiter **Information zur Installation**.
+3.  Unter **RZL Dienst** finden Sie alle Optionen.
+4.  Klicken Sie auf **Diagnoseinformationen anzeigen…**.
 
     ![RZL Dienst - Diagnoseinformationen RZL Dienst](img/RZLAdmin_DiagnoseinformationenRZLDienst.png)
 
-5.  Es öffnet sich das Browserfenster *RZL Service Diagnose*.
+5.  Es öffnet sich das Browserfenster **RZL Service Diagnose**.
     Im Event-Log können Sie herauslesen, ob und wann der Start des
     RZL Dienstes gescheitert ist. Zudem erhalten Sie eine detaillierte
     Beschreibung der Ursache.
 
     ![RZL Service Diagnose - RZL Service Events](img/RZLServiceDiagnose_RZLServiceEvents.png)
 
-6.  Falls es Ihnen nicht möglich ist, das Problem zu beheben, 
-    teilen Sie Ihrem RZL-Mitarbeiter die erhaltene Meldung mit.
+6.  Bei Schwierigkeiten mit der Installation wenden Sie sich unter Angabe der erhaltenen Meldung
+    an unseren Technik Support (**technik@rzl.at**)
