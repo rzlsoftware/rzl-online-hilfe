@@ -3,9 +3,9 @@
 Siehe Kapitel [Installation übertragen](/setup/installation-uebertragen)
 
 
-Sollte eine Einzel Arbeitsplatz Lizenz auf eine Netzwerk Arbeitsplatz umgestellt werden um in ein vorhandenes Netzwerk eingebunden werden zu können ist eine Rückmledung an unseren Kollegen aus dem Vertrieb notwendig.
+Sollte eine Einzel-Arbeitsplatz Lizenz auf eine Netzwerk-Arbeitsplatz umgestellt werden, um in ein Netzwerk eingebunden werden zu können ist eine kurze Rückmeldung an unseren Vertrieb notwendig.
 
 
 !!! warning "Hinweis"
-    Bei der Einbindung eines Netzwerkarbeitsplatzes muss das DataRepository des Netzwerks hinterlegt sein.
+    Bei der Einbindung eines Netzwerkarbeitsplatzes sollte das DataRepository so hinterlegt, dass es von jedem Netzwerkarbeitsplatz aus erreichbar ist.
     
