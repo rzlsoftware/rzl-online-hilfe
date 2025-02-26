@@ -1,0 +1,18 @@
+nav:
+    - index.md
+    - installation.md
+    - lizenzierung.md
+    - erste-schritte.md
+    - programmaktualisierung.md
+    - installation-reparieren.md
+    - installation-aendern.md
+    - installation-deinstallieren.md
+    - daten-sichern.md
+    - daten-wiederherstellen.md
+    - Installation übertragen: installation-uebertragen.md
+    - Umstellung Einzelplatz auf Netzwerkinstallation: umstellung-arbeitsplatz.md
+    - Installation KIS/Board: installation-kis-board.md
+    - Installation Firmen-Board mit Basis Modul: installation-firmenboard.md
+    - dienst-installieren.md
+    - dokvplus-einrichten.md
+    - passiver-modus.md
