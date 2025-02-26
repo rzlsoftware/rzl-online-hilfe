@@ -120,7 +120,7 @@ einer Liste mit bereits angelegten RZL Standardrollen und die möglichen
 Funktionen der links markierten Rolle inklusive einer Liste von
 Mitarbeitern, welchen die Rolle zugeordnet wurde.
 
-![](<img/image139.png>) 
+![Rollen](<img/Rollen-Übersicht.png>) 
 
 Das Symbol ![](<img/image140.png>)  signalisiert, dass es sich
 um eine RZL Standardrolle handelt. Eine RZL Standardrolle kann nicht
@@ -132,7 +132,7 @@ Option *Ausgeblendete Rollen anzeigen* zu aktivieren.
 
 Mit dem Berechtigungssystem **Premium** haben Sie die Möglichkeit,
 zusätzlich zu den RZL Standardrollen selbst Rollen anzulegen. Diese
-können laufend bearbeitet und auch gelöscht werden.
+können laufend bearbeitet und auch gelöscht werden. Die RZL Premium Rollen werden mit diesem Symbol ![goldenes Herz](<img/Premium Herz.png>) gekennzeichnet.
 
 Eine neue Rolle können Sie mithilfe des Plussymbols
 ![](<img/image141.png>)  anlegen.
@@ -352,6 +352,10 @@ werden, wenn Sie die Lizenz dafür besitzen.
 <td>KIS Kanzlei Ansicht bzw. Firmen-Ansicht im Navigator sichtbar</td>
 <td>Kanzlei-Informations-System (KIS)</td>
 </tr>
+<tr class="even">
+<td>KIS Daten Bereinigung</td>
+<td>Kanzlei-Informations-System (KIS)</td>
+</tr>
 <tr class="odd">
 <td>FinanzOnline Steuerkonto Ansicht</td>
 <td>Modul FinanzOnline-Anbindung</td>
@@ -395,6 +399,26 @@ werden, wenn Sie die Lizenz dafür besitzen.
 <tr class="odd">
 <td>Alle Berechtigungen</td>
 <td></td>
+</tr>
+<tr class="odd">
+<td>EBICS CAMT Abruf</td>
+<td>Modul EBICS Schnittstelle</td>
+</tr>
+<tr class="even">
+<td>EBICS Lohnzahlungsansicht</td>
+<td>Modul EBICS Schnittstelle</td>
+</tr>
+<tr class="odd">
+<td>EBICS Teilnehmerverwaltung</td>
+<td>Modul EBICS Schnittstelle</td>
+</tr>
+<tr class="even">
+<td>EBICS Übermittlung eigene</td>
+<td>Modul EBICS Schnittstelle</td>
+</tr>
+<tr class="odd">
+<td>EBICS Übermittlung fremde</td>
+<td>Modul EBICS Schnittstelle</td>
 </tr>
 </tbody>
 </table>
