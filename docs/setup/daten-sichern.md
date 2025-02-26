@@ -1,84 +1,80 @@
 # RZL Daten sichern
 
-Bevor die Sicherung gestartet werden kann, müssen alle Programme
-beendet werden. Der RZL Service (wenn im Einsatz) wird vom RZL-Admin
-in einen Diagnosemodus versetzt. Bei der Komplettsicherung wird auch
-die Datenbank mitgesichert.
+Zunächst müssen **alle RZL - Programme auf dem Arbeitsplatz geschlossen werden**, damit die Sicherung gestartet werden kann!
+Der RZL Dienst (wenn optional installiert) wird bei diesem Vorgang, vom RZL-Admin
+in einen Diagnosemodus versetzt. Die Komplettsicherung umfasst auch die Sicherung der Datenbank sofern eine SQL- Instanz (optional)
 
-Während der Sicherung können keine anderen RZL-Programme gestartet
+Während der Sicherung können die RZL-Programme **NICHT** gestartet
 werden.
 
-Für eine Komplettsicherung führen Sie folgende Schritte durch:
+Für eine Komplettsicherung führen Sie folgende Schritte aus:
 
-1.  Öffnen Sie über das Windows-Startmenü das Programm *RZL Admin*.
+**1.**  Öffnen Sie das Programm **RZL Admin**.
 
-    ![RZL-Admin öffnen](img/RZLAdmin_Oeffnen.png)
+![RZL-Admin öffnen](img/RZLAdmin_Oeffnen.png)
 
-2.  Klicken Sie auf den Menüpunkt *RZL Daten Sichern/Wiederherstellen*.
+**2.**  Wählen Sie den Menüpunkt **RZL Daten Sichern/Wiederherstellen**.
 
-    ![RZL-Admin Daten Sichern/Wiederherstellen](img/RZLAdmin_DatenSichernWiederherstellen.png)
+![RZL-Admin Daten Sichern/Wiederherstellen](img/RZLAdmin_DatenSichernWiederherstellen.png)
 
-3.  Wählen Sie den Pfad für die Komplettsicherung.
+**3.**  Geben Sie den Pfad für die Komplettsicherung an und stellen Sie sicher, dass dieser Pfad überall erreichbar ist (Netzlaufwerk).
 
-    ![RZL-Admin Komplettsicherungspfad auswählen](img/RZLAdmin_KomplettsicherungspfadAuswaehlen.png)
+![RZL-Admin Komplettsicherungspfad auswählen](img/RZLAdmin_KomplettsicherungspfadAuswaehlen.png)
 
-    Stellen Sie sicher, dass dieser Pfad überall erreichbar ist.
+**4.**  Klicken Sie auf **Sicherung starten**.
 
-4.  Klicken Sie auf *Sicherung starten*.
+![RZL-Admin Sicherung starten](img/RZLAdmin_SicherungsStarten.png)
 
-    ![RZL-Admin Sicherung starten](img/RZLAdmin_SicherungsStarten.png)
+*Optional können hier zusätzliche Einstellungen vorgenommen werden:*
 
-Sobald die Sicherung erstellt wurde, erscheint sie unter
-*Verfügbare Sicherungen*:
+a) Die Sicherung soll nach Abschluss überprüft werden
 
-![RZL-Admin Verfügbare Sicherungen](img/RZLAdmin_VerfuegbareSicherungen.png)
+b) Die Sicherungsdatei wird zu einer Idf-Datei komprimiert
 
-Nach Abschluss der Sicherung werden Sie aufgefordert, die Lizenz
-zurückzulegen. Bestätigen Sie dies mit *Ja*.
+**5.**  Sobald die Sicherung erstellt wurde, erscheint sie unter **Verfügbare Sicherungen**:
+
+![RZL-Admin Verfügbare Sicherungen](img/RZLAdmin_VerfuegbareSicherungen.png) 
+
+**6.**  Nach Abschluss der Sicherung werden Sie aufgefordert, die Lizenz zurückzulegen. Bestätigen Sie dies mit **Ja**.
 
 ![RZL-Admin Sicherung erfolgreich](img/RZLAdmin_HinweisSicherungErfolgreich.png)
+
 ![RZL-Admin Lizenz zurücklegen](img/RZLAdmin_LizenzZuruecklegen.png)
 
-Sie können die Dateien (*.rzlbak* und *.rzlbak_hash*) im
-Komplettsicherungspfad abspeichern, um sie auf einem neuen
-Rechner/Server wiederherzustellen.
+(Siehe dazu auch [RZL Lizenzierung](http://127.0.0.1:8000/setup/lizenzierung/))
 
-**Mitgesichert werden:**
+Die Sicherungsdatei wird im Dateiformat `.rzlbak` und `.rzlbak_hash` im ausgewählten Komplettsicherungspfad abgelegt 
+und kann dann in der neuen Umgebung (Server /Rechner) wiederhergestellt werden.
 
-**Standard:**
+
+**Mitgesichert werden standardmäßig:**
 
 - DataRepository
-- DB-Sicherung (falls Datenbank-Installation)
+- Datenbank (optional)
 
-**Sonderfälle:**
+**in abweichenden Fällen:**
 
-- Abweichende Datenverzeichnisse aller PCs (sofern diese auf einem
-  Netzwerkpfad liegen und erreichbar sind)
-- Abweichende RZL-Dokumente-Ordner
-- Aus dem DokV+ gelöschte Dokumente
+- abweichende Datenverzeichnisse (sofern diese auf einem Netzwerkpfad liegen und erreichbar sind)
 
-Danach wird die Sicherung gezippt (ein Netzwerkzugriff kann unter
-Umständen sehr lange dauern). Der Hash-Wert der Datei wird berechnet.
+- abweichende RZL-Dokumente-Ordner
 
-!!! warning "Hinweis"
-    Bitte achten Sie darauf, dass **lokale abweichende Datenordner
-    nicht** mitgesichert werden. Fast alle Dateien aus dem
-    Data-Repository werden kopiert und gezippt. Falls eine
-    Datenbank-Installation vorhanden ist, werden die letzten bzw.
-    aktuellsten **drei** **Datenbank-Backups** in die Sicherung
-    übernommen.
+- aus der DokV+ gelöschte Dokumente (optional)
 
-!!! warning "Hinweis"
-    Wenn kein Zugriff mehr auf die RZL-Programme besteht, finden Sie
-    die Standardpfade einer Einzelplatz-Installation unter:
-    
-    - **RZL Setup (alt):** `C:\ProgramData\RZLWIN`
-    - **RZL Setup:** `C:\ProgramData\RZL_DataRepository`
+*Danach wird die Sicherung komprimiert (ein Netzwerkzugriff kann unter
+Umständen länger dauern) und der Hash-Wert der Datei wird berechnet.*
 
-!!! warning "Hinweis"
-    Sollen nur bestimmte Datendateien (z. B. Wirtschaftsjahre eines
-    Klienten) verschoben werden, verwenden Sie zwingend die
-    entsprechenden Menüpunkte in den RZL-Programmen.
-    Da die ZMV zusätzlich zu den Klientenstammdaten die RZL-Datendateien
-    verwaltet, würde eine Aktion mit dem Explorer an der ZMV vorbei gehen
-    und zu inkonsistenten Zuständen innerhalb der RZL-Programme führen.
+!!! warning "zu beachten:"
+
+    - Bitte achten Sie darauf, dass *lokale abweichende Datenordner*
+     **nicht** mitgesichert werden. Die Dateien aus dem Data-Repository werden kopiert und komprimiert.
+     Falls eine Datenbank-Installation vorhanden ist, werden die letzten bzw.
+     aktuellsten **drei** **Datenbank-Backups** in die Sicherung übernommen.
+     
+     - Wenn kein Zugriff mehr auf die RZL-Programme besteht, finden Sie die Standardpfade einer Einzelplatz-Installation unter:
+            **RZL Setup (alt):** `C:\ProgramData\RZLWIN`
+            **RZL Setup:** `C:\ProgramData\RZL_DataRepository`
+            
+     - Die Sicherung einzelner Datendateien wird in den jeweiligen RZL Programmen gesichert und wiederhergestellt
+        (bspw. bestimmte Datendateien z. B. Wirtschaftsjahre eines Klienten) 
+
+**Die ZMV verwaltet die Klientenstammdaten und die RZL-Datendateien, ein Verschieben von Daten im Explorer führt zu inkonsistenten Datenständen innerhalb der RZL-Programme und sollte daher vermieden werden!**

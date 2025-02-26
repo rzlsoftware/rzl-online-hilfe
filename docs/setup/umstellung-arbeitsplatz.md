@@ -7,5 +7,5 @@ Sollte eine Einzel-Arbeitsplatz Lizenz auf eine Netzwerk-Arbeitsplatz umgestellt
 
 
 !!! warning "Hinweis"
-    Bei der Einbindung eines Netzwerkarbeitsplatzes sollte das DataRepository so hinterlegt, dass es von jedem Netzwerkarbeitsplatz aus erreichbar ist.
+    Bei der Einbindung eines Netzwerkarbeitsplatzes sollte das DataRepository so hinterlegt sein, dass es von jedem Netzwerkarbeitsplatz aus erreichbar ist.
     
