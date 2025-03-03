@@ -64,7 +64,7 @@ mehrere Klienten/Personen auf einmal zu markieren und gleichzeitig hinzuzufügen
 Ihre Klientenliste nach bestimmten Informationen wie Klient Auswahlkriterium „Metallgewerbe“ und Verwendung
 Auswahlkriterium „Allg. Ansprechpartner“ filtern. Haben Sie sämtliche Filter gesetzt, die zum gewünschten
 Ergebnis führen, können Sie alle Einträge mit STRG + A auswählen und mit dem Pfeil zur Empfängerliste
-hinzufügen. Eine genauere Beschreibung zu den Filtern finden Sie unter [Listenfunktionen](/Board/Stammdatenverwaltung%20%28STAMM%29/Öffnen%20der%20Stammdatenverwaltung/#listenfunktionen).
+hinzufügen. Eine genauere Beschreibung zu den Filtern finden Sie unter [Listenfunktionen](../Stammdatenverwaltung%20%28STAMM%29/Öffnen%20der%20Stammdatenverwaltung.md/#listenfunktionen).
 Das Hinzufügen zur Empfängerliste ist auch über Drag & Drop möglich.
 
 Markieren Sie eine Person/Firma in der Empfängerliste, springt das Board automatisch in der Klienten- bzw.
