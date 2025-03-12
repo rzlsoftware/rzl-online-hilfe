@@ -22,4 +22,4 @@ Meldung sowie bei einem automatischen Abruf des Auszuges erstellt werden
 soll. Voraussetzung hierfür ist die Anlage einer entsprechenden
 Aufgabenvorlage
 
-![Zuweisung Aufgabenvorlage](<img/image184.png>)
+![Zuweisung Aufgabenvorlage](<img/Zuweisungen Wiereg.png>)
