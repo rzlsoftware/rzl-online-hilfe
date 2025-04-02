@@ -1,6 +1,6 @@
 # DN-Nummernbereich
 
-Im Menüpunkt *Klient / Optionen / DN-Nummernbereich* haben Sie die Möglichkeit den Bereich der DN-Nummern zu verändern. Dieser Vorgang verändert nicht die Anzahl der Dienstnehmer.
+Im Menüpunkt *Klient / Optionen / DN-Nummernbereich* haben Sie die Möglichkeit, den Bereich der DN-Nummern zu verändern. Dieser Vorgang verändert nicht die Anzahl der Dienstnehmer.
 
 ![Image](<img/image6.png>){width="500"}
 

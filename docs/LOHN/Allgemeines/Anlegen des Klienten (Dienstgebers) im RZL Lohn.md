@@ -14,6 +14,9 @@ Durch Anwahl des Menüpunkts *Klient / Neu anlegen* wird folgender Eingabebildsc
 
 Wenn Sie die Klientennummer eingeben, wird vom Programm automatisch das Mengengerüst für den betreffenden Klienten vorgeschlagen. Neben dem Standardvorschlag durch das Programm, wird daneben in Klammern der mögliche Bereich angezeigt. Dieser Standardvorschlag ist je nach gekaufter Version unterschiedlich.
 
+!!! warning "Hinweis"
+    Die Anlage des Mengengerüsts sollte den tatsächlichen Anforderungen des Klienten entsprechen, um nicht unnötig Speicherplatz auf der Festplatte zu reservieren. Entspricht das Mengengerüst, das Sie bei der Neuanlage des Klienten gewählt haben nicht mehr den Anforderungen, so können Sie das [Mengengerüst](../Verwaltung.md) durch Anwahl des Menüpunkts *Klient / Vergrößern/Verkleinern* an die neuen Anforderungen anpassen.
+
 ## Mengengerüst 1
 
 **Passwort**
@@ -38,7 +41,7 @@ Zusätzlich zu den monatlichen Abrechnungen stellt jede Aufrollung eine weitere 
 
 **Unterdienstgeber**
 
-Bei der Neuanlage besteht die Auswahlmöglichkeit zwischen 5 und **100** Unterdienstgeber.
+Bei der Neuanlage besteht die Auswahlmöglichkeit zwischen 5 und 100 Unterdienstgebern.
 
 **Angehörige**
 
@@ -46,11 +49,11 @@ Speicherplatz für Angehörige wird benötigt, um Daten bezüglich Unterhalt, Fa
 
 **EFZ-Anträge** 
 
-Hier können Sie festgelegen, wie viele Vergütungsanträge gemäß § 53b des Allgemeinen Sozialversicherungsgesetzes (EFZ) gestellt werden können.
+Hier können Sie festlegen, wie viele Vergütungsanträge gemäß § 53b des Allgemeinen Sozialversicherungsgesetzes (EFZ) gestellt werden können.
 
 **Lohnarten** 
 
-Mengengerüst für die freien Lohnarten (zwischen 200 und 1000).
+Mengengerüst für die freien Lohnarten (zwischen 200 und 1.000).
 
 
 ## Mengengerüst 2
@@ -63,7 +66,7 @@ Hier können Sie das Mengengerüst für die Arbeits- und Entgeltbestätigungen f
 
 **Dienstnehmer – Notizen** 
 
-Innerhalb der einzelnen Dienstnehmer besteht im *Abrechnungsbildschirm Dienstnehmer-Notizen* die Möglichkeit Notizen zu vermerken.
+Innerhalb der einzelnen Dienstnehmer besteht im *Abrechnungsbildschirm Dienstnehmer-Notizen* die Möglichkeit, Notizen zu vermerken.
 
 **Exekutionssachen**
 
@@ -96,7 +99,7 @@ Hier müssen Sie die Arbeitsstätten, die ab 2007 am L16 mitgeführt werden, ver
 
 **DN-Lohnarten**
 
-Hier können Sie die Anzahl der innerhalb der Klienten verwendeten freien Lohnarten eingetragen bzw. erhöhen.
+Hier können Sie die Anzahl der innerhalb der Klienten verwendeten freien Lohnarten eintragen bzw. erhöhen.
 
 **DG-Gemeinden**
 
@@ -110,7 +113,6 @@ Mengengerüst für die (importierten) Krankenstandsbescheinigungen.
 
 Festlegung der Anzahl der DN-Historieneinträge.
 
-Die Anlage des Mengengerüsts sollte den tatsächlichen Anforderungen des Klienten entsprechen, um nicht unnötig Speicherplatz auf der Festplatte zu reservieren. Entspricht das Mengengerüst, das Sie bei der Neuanlage des Klienten gewählt haben nicht mehr den Anforderungen, so können Sie es durch Anwahl des Menüpunkts *Klient / Vergrößern/Verkleinern* [(siehe Das Mengengerüst)](../Verwaltung.md) an die neuen Anforderungen anpassen.
 
 Durch Anwahl der Schaltfläche *Anlegen* wird der Klient mit den vorgenommenen Einstellungen angelegt. Als nächster Schritt ist der Klient mittels *Klient / Öffnen* und Eingabe der entsprechenden Klientennummer zu öffnen.
 
