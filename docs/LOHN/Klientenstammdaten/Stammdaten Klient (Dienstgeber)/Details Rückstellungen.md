@@ -1,3 +1,3 @@
 # Details Rückstellungen
 
-Vgl. [Rückstellungen](../../Rückstellungen/Stammdaten.md)
+Siehe [Rückstellungen](../../Rückstellungen/Stammdaten.md)

@@ -4,13 +4,13 @@
 
 **Selbstabrechner** 
 
-Die Aktivierung des Auswahlfeldes Selbstabrechner (Lohnsummenverfahren) ermöglicht den Ausdruck bzw. die elektronische Übertragung der gesetzlich vorgeschriebenen monatlichen Beitragsgrundlagenmeldung (mBGM) für Selbstabrechner. Wird dieses Auswahlfeld nicht aktiviert, werden die mBGM mit der Satzart für Vorschreibebetriebe erstellt.
+Die Aktivierung des Auswahlfeldes *Selbstabrechner* (Lohnsummenverfahren) ermöglicht den Ausdruck bzw. die elektronische Übertragung der gesetzlich vorgeschriebenen monatlichen Beitragsgrundlagenmeldung (mBGM). Wird dieses Auswahlfeld nicht aktiviert, werden die mBGM mit der Satzart für Vorschreibebetriebe erstellt.
 
 **Gesundheitskassen**
 
-Hier kann zwischen den im Listenfeld angeführten Gesundheitskassen ausgewählt werden. Wenn neben der ÖGK noch eine weitere Versicherungsanstalt geführt werden soll (z. B.: Notariat), kann diese zusätzliche Gesundheitskasse über einen [Unterdienstgeber](../Unterdienstgeber.md) geführt werden.
+Hier kann zwischen den im Listenfeld angeführten Gesundheitskassen ausgewählt werden. Wenn neben der ÖGK noch eine weitere Versicherungsanstalt geführt werden soll (z. B. Notariat), kann diese zusätzliche Gesundheitskasse über einen [Unterdienstgeber](../Unterdienstgeber.md) geführt werden.
 
-Die Gesundheitskasse für die Eisenbahn, den Bergbau, die öffentlich Bediensteten und des Notariats müssen in den Stammdaten der Behörden (*Klient / Finanzämter, Gemeinden, ÖGK, BV-Kassen, Gerichte* im Register ÖGK) angelegt werden. Wichtig dabei ist, die Vergabe der **laufenden Nummer** für das jeweilige Bundesland.
+Die Gesundheitskassen für die Eisenbahn, den Bergbau, die öffentlich Bediensteten und das Notariat müssen in den Stammdaten der Behörden (*Klient / Finanzämter, Gemeinden, ÖGK, BV-Kassen, Gerichte* im Register ÖGK) angelegt werden. Wichtig dabei ist, die Vergabe der **laufenden Nummer** für das jeweilige Bundesland.
 
 | **ÖGK**              |                |
 | -------------------- | -------------- |
@@ -45,11 +45,11 @@ Die Gesundheitskasse für die Eisenbahn, den Bergbau, die öffentlich Bedienstet
 
 **Geringfügige jährliche Zahlung**
 
-Eine monatliche Beitragsgrundlagenmeldung (mBGM) der Beiträge für Geringfügige ist verpflichtend. Jedoch wurde von der ÖGK eine Option geschaffen, die Beiträge zwar monatlich zu melden, aber jährlich zu bezahlen. Mit einem Haken bei *geringfügige jährliche Zahlung* werden die gemeldeten Beiträge für Geringfügige nicht auf der monatlichen Überweisungsliste der Abgaben mitgeführt, sondern am Ende des Jahres aufsummiert.
+Eine monatliche Beitragsgrundlagenmeldung (mBGM) der Beiträge für Geringfügige ist verpflichtend. Jedoch wurde von der ÖGK eine Option geschaffen, die Beiträge zwar monatlich zu melden, aber jährlich zu bezahlen. Wenn das Feld *geringfügige jährliche Zahlung* aktiviert wird, werden die gemeldeten Beiträge für geringfügig Beschäftigte nicht in der monatlichen Überweisungsliste der Abgaben berücksichtigt, sondern am Jahresende aufsummiert.
 
 **Kein WF-AgA – DN übernimmt WF-AgA**
 
-Diese beiden Felder werden in Ausnahmefällen bei der Abrechnung von Botschaften benötigt.
+Diese beiden Felder werden nur in Ausnahmefällen bei der Abrechnung von Botschaften verwendet.
 
 **Grenze DG-Abgabe (Geringf.) ber.(ücksichtigen)**
 
@@ -57,11 +57,11 @@ Wird dieses Feld deaktiviert, wird die 1,5-fache Geringfügigkeitsgrenze für di
 
 **Bank**
 
-In den Stammdaten der Gesundheitskassen können Sie bis zu 9 Bankverbindungen eingeben. In diesem Auswahlfeld erfolgt die Anwahl der Bankverbindung an die, die Zahlung der Beiträge an die jeweilige Gesundheitskasse erfolgen soll.
+In den Stammdaten der Gesundheitskassen können Sie bis zu 9 Bankverbindungen eingeben. In diesem Auswahlfeld wählen Sie die Bankverbindung aus, über die die Beiträge an die jeweilige Gesundheitskasse gezahlt werden sollen.
 
 **Beitragskontonummer (DG-Konto)**
 
-In diesem Feld können Sie die Beitragskontonummer des Dienstgebers eingeben. Durch die Zuordnung des Bundeslandes beim Dienstnehmer im [Abrechnungsbildschirm *Sozialversicherung*](../../Abrechnungsbildschirme/Sozialversicherung.md) wird die Erstellung der monatlichen Beitragsgrundlagenmeldungen getrennt für jedes Bundesland vorgenommen.
+In diesem Feld können Sie die Beitragskontonummer des Dienstgebers eingeben. Durch die Zuordnung des Bundeslandes beim Dienstnehmer im Abrechnungsbildschirm [*Sozialversicherung*](../../Abrechnungsbildschirme/Sozialversicherung.md) wird die Erstellung der monatlichen Beitragsgrundlagenmeldungen getrennt für jedes Bundesland vorgenommen.
 
 **Fibu**
 
@@ -69,18 +69,18 @@ Wird in diesem Feld die Kontonummer des Verbindlichkeitenkontos ÖGK in der Fina
 
 **Zahlungsreferenz**
 
-Im Feld *Zahlungsreferenz* können Sie die Eintragungen für die Überweisungen vornehmen. Die hier eingetragenen Daten werden sowohl beim Zahlscheindruck, als auch beim Elektronik Banking verwendet.
+Im Feld *Zahlungsreferenz* können Sie die Angaben für die Überweisungen eintragen. Diese werden sowohl beim Zahlscheindruck als auch beim Elektronik-Banking verwendet.
 
-Für die automatische Eintragung des Monats und des Jahres können Sie die Kürzel mm und jj, jjjj oder j eintragen.
+Für die automatische Eintragung des Monats und des Jahres können Sie die Kürzel **mm, jj, jjjj** oder **j** eintragen.
 
 !!! warning "Hinweis"
-    In Ausnahmefällen kann durch Anwahl der Schaltfläche *Details* das Zahlungsreferenzfeld für jeden Monat einzeln eingetragen werden. Diese Möglichkeit muss dann verwendet werden, wenn die von der Behörde vergebenen Kundendatenfelder unsystematisch sind.
+    In Ausnahmefällen kann durch Anwahl der Schaltfläche *Details* das Zahlungsreferenzfeld für jeden Monat einzeln eingetragen werden. Diese Möglichkeit kann genutzt werden, wenn die von der Behörde vergebenen Kundendatenfelder nicht systematisch aufgebaut sind.
 
 **BV-Kasse**
 
-In dem Feld *BV-Kassenleitzahl* ist die BV-Kassenleitzahl einzutragen. Durch Anwahl der *F2-Taste* werden die angelegten BV-Kassen aufgerufen und können direkt in das Feld übernommen werden.
+Im Feld *BV-Kassenleitzahl* ist die entsprechende Nummer einzutragen. Durch Anwahl der *F2-Taste* werden die angelegten BV-Kassen aufgerufen und können direkt in das Feld übernommen werden.
 
-Wird das Auswahlfeld *mehrere BV-Kassen* aktiviert, kann für jedes Bundesland eine eigene BV-Kasse ausgewählt werden. Sollten mehrere BV-Kassen pro Bundesland vorhanden sein (Ausnahmefall), dann ist pro BV-Kasse ein Unterdienstgeber anzulegen.
+Wird das Auswahlfeld *mehrere BV-Kassen* aktiviert, kann für jedes Bundesland eine eigene BV-Kasse ausgewählt werden. Falls mehrere BV-Kassen pro Bundesland vorhanden sind (Ausnahmefall), muss für jede BV-Kasse ein Unterdienstgeber angelegt werden.
 
 **BV-Beiträge Geringfügige jährlich**
 

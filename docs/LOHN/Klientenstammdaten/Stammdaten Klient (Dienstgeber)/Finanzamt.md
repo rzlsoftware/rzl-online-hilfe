@@ -13,14 +13,14 @@ In den Stammdaten der [Finanzämter](../../Finanzämter,%20Gemeinden,%20ÖGK,%20
 **Zahlungsreferenz**
 
 Im Feld *Zahlungsreferenz* können die Eintragungen für die Überweisungen vorgenommen werden. Die hier eingetragenen Daten werden sowohl beim Zahlscheindruck, als auch beim Elektronik Banking verwendet. 
-Für die automatische Eintragung des Monats und des Jahres können Sie die Kürzel mm und jj, jjjj oder j eintragen
+Für die automatische Eintragung des Monats und des Jahres können Sie die Kürzel **mm, jj, jjjj** oder **j** eintragen.
 
 !!! warning "Hinweis"
     In Ausnahmefällen kann durch Anwahl der Schaltfläche *Details* das Zahlungsreferenzfeld für jeden Monat einzeln eingetragen werden. Diese Möglichkeit können Sie dann verwenden, wenn die von der Behörde vergebenen Kundendatenfelder unsystematisch sind.
 
 **DB - Freibetrag berücksichtigen**
 
-Mit Hilfe dieses Auswahlfeldes können Sie den DB-Freibetrag ausschalten. Diese Möglichkeit besteht für Fälle, in denen mit dem Lohnprogramm nur ein Teil der Dienstnehmer eines Unternehmens abgerechnet werden und dieser Teil die vorgesehenen Befreiungen in Anspruch nehmen könnte, ber
+Mithilfe dieses Auswahlfeldes können Sie den DB-Freibetrag ausschalten. Diese Möglichkeit besteht für Fälle, in denen mit dem Lohnprogramm nur ein Teil der Dienstnehmer eines Unternehmens abgerechnet wird und dieser Teil die vorgesehenen Befreiungen in Anspruch nehmen könnte, aber
 das Unternehmen, dem diese Dienstnehmer angehören, insgesamt über den Befreiungsgrenzen liegt.
 
 Gleichzeitig mit der Deaktivierung dieses Feldes wird auch der DZ-Freibetrag nicht mehr berechnet.
@@ -33,11 +33,11 @@ Das Auswahlfeld *DZ-Pflicht und Bundesland* muss aktiviert werden, wenn der betr
 
 Hier kann die Kürzung der Bemessungsgrundlage für die Berechnung des DZ eingetragen werden. Wenn z.B.: 80 % eingetragen werden, wird die Bemessungsgrundlage um 80 % gekürzt. Eine nachträgliche Eintragung während des Jahres ändert nichts an der Berechnung bereits gespeicherter Abrechnungen.
 
-Im [Abrechnungsbildschirm *Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.md) kann im Bereich *DB/DZ* die Bemessungsgrundlage DZ je Dienstnehmer gekürzt werden.
+Im Abrechnungsbildschirm [*Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.md) kann im Bereich *DB/DZ* die Bemessungsgrundlage DZ je Dienstnehmer gekürzt werden.
 
 **Selbstträger Familienbeihilfe**
 
-Bis 2008 gab es die Möglichkeit, der Selbstträger der Familienbeihilfe, wobei der DB gesenkt wurde.
+Bis 2008 gab es die Möglichkeit, als Selbstträger der Familienbeihilfe den DB zu senken.
 
 **Fibu-Konten Lohnsteuer, DB, DZ**
 
@@ -51,10 +51,6 @@ Die Aktivierung dieses Feldes ermöglicht die Erstellung einer xml-Datei zur [Me
 
 Anfang 2022 kam es zu einer neuen Steuerreform und zur Senkung des Eingangssteuersatzes auf 32,50%. Der Menüpunkt ist generell ausgegraut und kann in Ausnahmefällen aktiviert werden.
 
-**alten DB-% (3,9%) 2023 verwenden**
-
-Ab 2023 wurde standardmäßig 3,7 % für den DB im Programm hinterlegt. Falls Sie trotzdem die 3,9 % abrechnen möchten bzw. müssen, aktivieren Sie dieses Feld.
-
 **alten FABO+ von Jan bis Juni 2022 verw.**
 
-Im Juli 2022 wurde rückwirkend beschlossen, dass der Familienbonus Plus für alle auf EUR 166,68 bzw. 54,18 angehoben werden muss. Mit Setzen dieses Häkchens kann mit den alten Werten abgerechnet werden.
+Im Juli 2022 wurde rückwirkend beschlossen, dass der Familienbonus Plus für alle auf EUR&nbsp;166,68 bzw. 54,18 angehoben werden muss. Mit Setzen dieses Häkchens kann mit den alten Werten abgerechnet werden.
