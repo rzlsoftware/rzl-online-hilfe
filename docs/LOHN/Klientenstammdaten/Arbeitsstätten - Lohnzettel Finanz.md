@@ -25,7 +25,7 @@ Eintragung der Postleitzahl und der Ortschaft. Die Ortschaft kann in   manchen F
 !!! warning "Hinweis"
     Wird die Schaltfläche *Übernahme Stammdaten DG* und die Schaltfläche *Übernehmen* angewählt, erstellt das Programm einen Vorschlag aufgrund der bei den einzelnen Dienstgeber-Stammdaten bzw. Stammdaten-Unterdienstgeber eingetragenen Gemeinden.
 
-Die Arbeitsstätte, die in den Stammdaten an oberster Stelle steht, wird automatisch allen Dienstnehmern im Abrechnungsbildschirm *Stammdaten Dienstnehmer* im Feld *Arbeitsstätte* zugeordnet.
+Die Arbeitsstätte, die in den Stammdaten an oberster Stelle steht, wird automatisch allen Dienstnehmern im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) im Feld *Arbeitsstätte* zugeordnet.
 
 ![Image](<img/image38.png>)
 
