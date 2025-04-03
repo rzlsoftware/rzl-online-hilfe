@@ -1,16 +1,16 @@
 # Neuanlage Dienstnehmer
 
-Neu eingetretene Dienstnehmer bzw. beim Start mit der RZL Lohnverrechnung werden die Dienstnehmer über *Abrechnung / Neuanlage Dienstnehmer* angelegt.
+Neu eingetretene Dienstnehmer oder Dienstnehmer bei einem Start mit der RZL Lohnverrechnung können über den Menüpunkt *Abrechnung / Neuanlage Dienstnehmer* angelegt werden.
 
 !!! warning "Hinweis"
-    [Freie Dienstnehmer](../Freie%20Dienstverträge/Allgemeines.md) sind im Menüpunkt *Abrechnungen / Neuanlage Freier Dienstvertrag* anzulegen.
+    [Freie Dienstnehmer](../Freie%20Dienstverträge/Allgemeines.md) müssen über den Menüpunkt *Abrechnungen / Neuanlage Freier Dienstvertrag* angelegt werden.
 
 !!! info "Tipp"
     Im Programmteil *Bearbeiten / Datenimport / Import Neuanlage* kann ein [Datenimport](../Datenimport/Allgemeines.md) für diese Abrechnungsart durchgeführt werden.
 
-Bei der Neuanlage eines Dienstnehmers gelangt man nach Festlegung der Dienstnehmernummer und Anwahl der Schaltfläche *Anlegen* automatisch in den ersten [Abrechnungsbildschirm *Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md).
+Bei der Neuanlage eines Dienstnehmers gelangt man nach Festlegung der Dienstnehmernummer und Anwahl der Schaltfläche *Anlegen* automatisch in den ersten Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md).
 
 !!! info "Tipp"
-    Es wird im Rahmen der Neuanlage empfohlen, sämtliche Daten des Dienstnehmers sogleich einzugeben, um späteres Nachbearbeiten wegen fehlender Daten zu vermeiden.
+    Es wird empfohlen, sämtliche Daten des Dienstnehmers direkt bei der Neuanlage einzugeben, um spätere Nachbearbeitungen aufgrund fehlender Informationen zu vermeiden.
 
-Eine Neuanlage eines Dienstnehmers ist gleichzeitig auch immer eine Abrechnung. Wurde ein Dienstnehmer nur für die Anmeldung angelegt, so ist dieser Dienstnehmer am Monatsende mit dem Programmteil *Korrektur letzte Abrechnung* mit den tatsächlichen Beträgen abzurechnen.
+Die Neuanlage eines Dienstnehmers führt gleichzeitig auch zu einer Abrechnung. Wenn der Dienstnehmer lediglich für die Anmeldung angelegt wurde, kann er am Monatsende mit dem Programmteil *Korrektur letzte Abrechnung* mit den tatsächlichen Beträgen abgerechnet werden.

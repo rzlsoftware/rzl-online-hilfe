@@ -10,7 +10,7 @@ Der Menüpunkt *Abrechnung mit Änderung* ermöglicht die Abrechnung eines Teils
     Im Programmteil *Bearbeiten / Übernahme / Datenimport laufende Abrechnung* kann ein [Datenimport](../Datenimport/Allgemeines.md) für diese Abrechnungsart durchgeführt werden.
 
 !!! warning "Hinweis"
-    Ist ein Dienstnehmer in der Liste mit einem Rufzeichen markiert, so sind im [Abrechnungsbildschirm *Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) Anmerkungen eingetragen, bei denen die Frist abgelaufen ist. Wird der Dienstnehmer angewählt, dann erscheint die betreffende Anmerkung (z. B. Geburtstag, Lohnerhöhung) am Eingabebildschirm.
+    Ist ein Dienstnehmer in der Liste mit einem Rufzeichen markiert, so sind im Abrechnungsbildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) Anmerkungen eingetragen, bei denen die Frist abgelaufen ist. Wird der Dienstnehmer angewählt, dann erscheint die betreffende Anmerkung (z. B. Geburtstag, Lohnerhöhung) am Eingabebildschirm.
 
 Sie haben vier verschiedene Möglichkeiten auszuwählen, welche Dienstnehmer abgerechnet werden sollen:
 
@@ -20,7 +20,7 @@ Wird das Auswahlfeld *Dienstnehmer* ausgewählt, so können sämtliche Dienstneh
 
 Soll nur ein Teil der Dienstnehmer abgerechnet werden, so sind die Kästchen, die sich vor den betreffenden Dienstnehmernummern befinden, mittels Maus oder Leertaste zu aktivieren und über die Schaltfläche *Abrechnen* abzurechnen.
 
-Weiters kann durch Eingabe eines Bereiches von Dienstnehmer-Nummern bestimmt werden, welche Dienstnehmer abgerechnet werden sollen.
+Weiters kann durch Eingabe eines Bereiches von Dienstnehmernummern bestimmt werden, welche Dienstnehmer abgerechnet werden sollen.
 
 !!! info "Tipp"
     Einzelne Dienstnehmer können mittels *Match-Code* durch Eingabe der Anfangsbuchstaben des Nachnamens im Auswahlfeld *Nummer* gesucht werden. Eine erweiterte Match-Code-Suche wird durch das Zeichen * (Stern) und der entsprechenden Buchstaben ermöglicht. In diesem Fall sucht das Programm nach sämtlichen Dienstnehmern, welche die nach dem Stern eingetragenen Buchstaben beinhalten.
