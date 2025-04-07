@@ -2,7 +2,7 @@
 
 Der Programmteil *Vorerfassung* bietet die Möglichkeit, Daten zu erfassen, **ohne** eine Abrechnung zu speichern. Die Bildschirme für die Datenvorerfassung unterscheiden sich nicht von den „normalen“ Abrechnungsbildschirmen.
 
-Im Rahmen der Vorerfassung können folgende Programmteile angesprochen werden.
+Im Rahmen der Vorerfassung können folgende Programmteile angesprochen werden:
 
 ## Neuanlage Stammdaten / Anmeldung Dienstnehmer
 
@@ -33,7 +33,7 @@ Bereits gespeicherte Vorerfassungen können über den Programmteil *Vorerfassung
 
 ## Vorerfassung Wiedereintritt
 
-Auch Wiedereintritte können vorerfasst werden. Voraussetzung dafür ist, dass in der letzten durchgeführten Dienstnehmer-Abrechnung ein Austritt abgerechnet wurde.  
+Auch Wiedereintritte können vorerfasst werden. Voraussetzung dafür ist, dass in der letzten durchgeführten Dienstnehmerabrechnung ein Austritt abgerechnet wurde.  
 
 ## Storno Vorerfassung
 
@@ -47,6 +47,6 @@ Die Übernahme der vorerfassten Daten erfolgt in den Programmteilen *Abrechnunge
 
 Das Programm zeigt die in der Vorerfassung geänderten Werte an. Wird der Haken im Kästchen nicht deaktiviert, werden die Werte in die Monatsabrechnung übernommen.
 
-!!! warning Hinweis
-    Die farblich hinterlegten Werte, in den Spalten bisher und neu, werden in die Abrechnung übernommen.
+!!! warning "Hinweis"
+    Die farblich hinterlegten Werte, in den Spalten *bisher* und *neu*, werden in die Abrechnung übernommen.
 
