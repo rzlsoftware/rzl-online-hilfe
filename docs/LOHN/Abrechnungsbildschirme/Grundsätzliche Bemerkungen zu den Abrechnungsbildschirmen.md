@@ -4,8 +4,8 @@ Die Eingabe sämtlicher Stammdaten des Dienstnehmers (Stammdaten und Daten für 
 
 ![Image](<img/image46.png>)
 
-Jeder Abrechnungsbildschirm enthält entweder die Schaltfläche *Abrechnen, Anlegen, Aufrollen* oder *Korrigieren* (je nach gewählter [Abrechnungsart](../Abrechnungen/Laufende%20Abrechnung%20mit%20Änderung.md). Nach Anwahl dieser Schaltflächen erscheint die vollständige Abrechnung am Bildschirm.
+Jeder Abrechnungsbildschirm enthält entweder die Schaltfläche *Abrechnen, Anlegen, Aufrollen* oder *Korrigieren* (je nach gewählter [Abrechnungsart](../Abrechnungen/Laufende%20Abrechnung%20mit%20Änderung.md)). Nach Anwahl dieser Schaltflächen erscheint die vollständige Abrechnung am Bildschirm.
 
 ![Image](<img/image47.png>)
 
-Durch Anwahl der Schaltfläche *Anlegen* oder *Speichern* wird die Abrechnung des Dienstnehmers abgespeichert und beendet. Durch Anwahl der Schaltfläche *Zurück* können entweder nochmals Korrekturen vorgenommen werden oder die Berechnung wird abgebrochen.
+Durch Anwahl der Schaltfläche *Anlegen* oder *Speichern* wird die Abrechnung des Dienstnehmers abgespeichert und beendet. Durch Anwahl der Schaltfläche *Zurück* können entweder nochmals Korrekturen vorgenommen werden oder die Berechnung abgebrochen werden.
