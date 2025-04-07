@@ -6,13 +6,13 @@ In diesem Bildschirm sind Daten, die unmittelbar mit dem Eintritt des Dienstnehm
 
 **Eintritt**
 
-Eingabe des Eintrittsdatums. Dieses Datum ist bei Neuanlage bzw. Wiedereintritt einzugeben. Auf Grund dieses Datums erfolgt die automatische Berechnung der SV-Tage. Dieses Eintrittsdatum wird auf den Lohnabrechnungen und am Lohnzettel angedruckt. Liegt das Eintrittsdatum nicht im Abrechnungsmonat, so erfolgt die Warnung *„Achtung, Eintrittsdatum liegt nicht im Abrechnungszeitraum“*. Wird mit der RZLWin-Lohnverrechnung neu begonnen und müssen daher sämtliche Dienstnehmer neu anlegt werden, so kann diese Warnung ignoriert werden. Ansonsten ist zu beachten, dass der Dienstnehmer im Monat des Eintrittes zu erfassen ist.
+Eingabe des Eintrittsdatums. Dieses Datum ist bei Neuanlage bzw. Wiedereintritt einzugeben. Auf Grund dieses Datums erfolgt die automatische Berechnung der SV-Tage. Dieses Eintrittsdatum wird sowohl auf den Lohnabrechnungen als auch auf dem Lohnzettel angedruckt. Liegt das Eintrittsdatum nicht im Abrechnungsmonat, so erfolgt die Warnung *„Achtung, Eintrittsdatum liegt nicht im Abrechnungszeitraum“*. Wird mit der RZLWin-Lohnverrechnung neu begonnen und müssen daher sämtliche Dienstnehmer neu angelegt werden, so kann diese Warnung ignoriert werden. Ansonsten ist zu beachten, dass der Dienstnehmer im Monat des Eintrittes zu erfassen ist.
 
-Bei einem Wiedereintritt aufgrund des Beginnes des Karenzurlaubes darf kein Eintrittsdatum eingegeben werden
+Bei einem Wiedereintritt aufgrund des Beginnes des Karenzurlaubs darf kein Eintrittsdatum eingegeben werden.
 
 **Ersteintritt**
 
-Eingabe des Datums des Ersteintrittes des Dienstnehmers in den Betrieb. Dieses Datum ist maßgeblich für die Berechnung des Abfertigungsanspruches. Bei einem Neueintritt müssen beide Datumsfelder befüllt werden.
+Eingabe des Datums des Ersteintritts des Dienstnehmers in den Betrieb. Dieses Datum ist maßgeblich für die Berechnung des Abfertigungsanspruches. Bei einem Neueintritt müssen beide Datumsfelder befüllt werden.
 
 **Beschäftigt in der Woche**
 
@@ -20,11 +20,11 @@ Eingabe der Tage, die der Dienstnehmer in der Woche beschäftigt ist. Maximal 7 
 
 **Beschäftigungsstunden je Tag**
 
-Eingabe der durchschnittlichen Beschäftigungsstunden je Tag mit bis zu 2 Nachkommastellen. Maximal 24 Stunden.
+Eingabe der durchschnittlichen Beschäftigungsstunden je Tag mit bis zu zwei Nachkommastellen. Maximal 24 Stunden.
 
 **Wochenstunden**
 
-Eingabe der Wochenstunden mit bis zu 2 Nachkommastellen.
+Eingabe der Wochenstunden mit bis zu zwei Nachkommastellen.
 
 **Arbeitstage**
 
@@ -42,7 +42,7 @@ Eingabe der gesetzlichen Grundlage des Arbeitsverhältnisses durch Auswahl aus d
 
 Für geringfügig beschäftigte Arbeiter ist als gesetzliche Grundlage *EFZG* anzuwählen, für geringfügig beschäftigte Angestellte *Angestelltengesetz*.
 
-Es besteht auch die Möglichkeit, durch Anwahl von *anderen Gesetzen,*eine individuelle gesetzliche Grundlage mit bis zu 8 Zeichen einzugeben.
+Es besteht auch die Möglichkeit, durch Anwahl von *anderen Gesetzen, *eine individuelle gesetzliche Grundlage mit bis zu 8 Zeichen einzugeben.
 
 **DV befristet bis**
 
@@ -50,13 +50,13 @@ Hier kann eine Befristung des Dienstverhältnisses hinterlegt werden. Bei der Ab
 
 **DV kürzer als 1 Monat vereinbart**
 
-Damit die Beschäftigtengruppe für die geringfügigen Beschäftigungen, welche kürzer als 1 Monat vereinbart sind, abgerechnet werden können, muss dieses Feld aktiviert werden.
+Damit die Beschäftigtengruppe für die geringfügigen Beschäftigungen, welche kürzer als ein Monat vereinbart sind, abgerechnet werden können, muss dieses Feld aktiviert werden.
 
 **Paralleles Beschäftigungsverhältnis beim selben Arbeitgeber**
 
 Die Aktivierung dieses Feldes ermöglicht die Erstellung eines L16 mit der Lohnzettelart 18. Die Lohnzettelart 18 wird laut Hilfetext innerhalb von FinanzOnline als „Lohnzettel § 84(1) EStG - mehrere LZ vom selben Arbeitgeber mit überschneidenden Zeiträumen“ beschrieben.
 
-Beispiel: Ein Dienstnehmer ist während der Karenz/Bildungskarenz beim gleichen Dienstgeber geringfügig beschäftigt. Für die geringfügige Beschäftigung muss der Dienstnehmer im Lohnprogramm unter einer neuen Nummer (Sonderfall: Wiedereintritt unter neuer Nummer) abgerechnet werden. Bei der Übermittlung der L16 akzeptiert die Finanzverwaltung keine zwei Lohnzettel vom gleichen Dienstgeber für einen überschneidenden Zeitraum. Die Lösung ist, den L16 für die geringfügige Beschäftigung mit der Lohnzettelart 18 zu übermitteln.
+Beispiel: Ein Dienstnehmer ist während der Karenz/Bildungskarenz beim gleichen Dienstgeber geringfügig beschäftigt. Für die geringfügige Beschäftigung muss der Dienstnehmer im Lohnprogramm unter einer neuen Nummer (Sonderfall: [Wiedereintritt unter neuer Nummer](../Abrechnungen/Sonderfälle.md)) abgerechnet werden. Bei der Übermittlung der L16 akzeptiert die Finanzverwaltung keine zwei Lohnzettel vom gleichen Dienstgeber für einen überschneidenden Zeitraum. Die Lösung ist, den L16 für die geringfügige Beschäftigung mit der Lohnzettelart 18 zu übermitteln.
 
 **mBGM Hauptdienstnehmer**
 
@@ -72,7 +72,7 @@ Durch Anwahl des blauen Rufzeichens wird angezeigt, welche Dienstverhältnisse z
 
 **BV-Beitragspflicht**
 
-Grundsätzlich ist das Auswahlfeld *BV-Beitragspflicht* aktiviert. Unterliegt der Dienstnehmer nicht der Beitragspflicht (z. B.: fallweise Beschäftigte, befristetes Dienstverhältnis nicht länger als ein Monat), dann ist dieses Feld zu deaktivieren. Vgl. [Abfertigung Neu](../Abfertigung%20Neu/Allgemeines.md)
+Grundsätzlich ist das Auswahlfeld *BV-Beitragspflicht* aktiviert. Unterliegt der Dienstnehmer nicht der Beitragspflicht (z. B. fallweise Beschäftigte, befristetes Dienstverhältnis nicht länger als ein Monat), dann ist dieses Feld zu deaktivieren.
 
 **Beginn BV-Beitragspflicht**
 
@@ -106,7 +106,7 @@ Wird dieses Auswahlfeld aktiviert, dann kann hier ein abweichender Betrag einget
 
 **Beschäftigungsbonus**
 
-Die hier verwalteten Daten werden für den Ausdruck der Liste der Arbeitsverhältnisse ab 01.07.2017 für den Beschäftigungsbonus verwendet. Der Ausdruck kann innerhalb der Sonderdrucke angewählt werden.
+Die hier verwalteten Daten werden für den Ausdruck der Liste der Arbeitsverhältnisse ab dem 01.07.2017 für den Beschäftigungsbonus verwendet. Der Ausdruck kann innerhalb der [Sonderdrucke](../Ausdrucke%20allgemein/Ausdruck%20Sonderdrucke.md) angewählt werden.
 
 Im Programmteil *Ausdruck / Sonderdrucke …* können Sie auch die Liste mit den Referenzwerten für den Beschäftigungsbonus und die voraussichtliche Zuschusshöhe ausdrucken.
 
@@ -119,7 +119,7 @@ Vorbezüge sind nur bei Eintritt eines Dienstnehmers während des Jahres einzuge
 
 **Verbrauchte Bemessungsgrundlage SV-Sonderzahlung**
 
-Für während eines Jahres eingetretene Dienstnehmer, die bereits vorher in einem Dienstverhältnis standen, ist hier die Summe der bisher verbrauchten Bemessungsgrundlage der SV-Sonderzahlung einzugeben.
+Für während des Jahres eingetretene Dienstnehmer, die bereits vorher in einem Dienstverhältnis standen, ist hier die Summe der bisher verbrauchten Bemessungsgrundlage der SV-Sonderzahlung einzugeben.
 
 **Bisherige SV KZ 225**
 
@@ -131,7 +131,7 @@ Eingabe der bisher verrechneten Sonderzahlung gemäß § 67 (1) und (2).
 
 **Bisherige Sonderzahlung ohne feste LSt**
 
-Es ist jener Betrag, der bisherigen Sonderzahlung einzugeben, der ohne feste Lohnsteuer behandelt wurde. Also jener Betrag zwischen EUR 620,00 und EUR 2.447,00 (bis 2023: EUR 2.100,00) von dem vom Vordienstgeber keine feste Lohnsteuer abgezogen wurde, weil die Sechstelgrenze von EUR 2.447,00 (bis 2023: EUR 2.100,00) nicht erreicht wurde (Bagatellgrenze).
+Es ist jener Betrag, der bisherigen Sonderzahlung einzugeben, der ohne feste Lohnsteuer behandelt wurde. Also jener Betrag zwischen EUR 620,00 und EUR 2.447,00 (bis 2023: EUR&nbsp;2.100,00), von dem vom Vordienstgeber keine feste Lohnsteuer abgezogen wurde, weil die Sechstelgrenze von EUR&nbsp;2.447,00 (bis 2023: EUR&nbsp;2.100,00) nicht erreicht wurde (Bagatellgrenze).
 
 **Bisheriger Bruttolohn**
 
@@ -139,8 +139,8 @@ Eingabe des bisherigen Bruttolohnes (ohne Sonderzahlungen) laut Lohnzettel. Dies
 
 **Vorjahresbemessungs-Grundlage**
 
-Eingabe der Lohnsteuer-Vorjahresbemessungs-Grundlage laut Lohnzettel (KZ 245). Im Zuge der Jahresübernahme wird diese Grundlage automatisch ermittelt und im neuen Jahr eingetragen.
+Eingabe der Lohnsteuervorjahresbemessungsgrundlage laut Lohnzettel (KZ 245). Im Zuge der Jahresübernahme wird diese Grundlage automatisch ermittelt und im neuen Jahr eingetragen.
 
 **Tage als Aushilfskraft**
 
-Wenn der Dienstnehmer im aktuellen Kalenderjahr bereits als Aushilfskraft gemäß § 3 Abs. 1 Z 11a EStG tätig war, ist hier die Anzahl der Tage einzutragen. Mit Hilfe dieses Eintrages werden die 18 Tage pro Dienstnehmer und Jahr überwacht. Dieses Feld hat ab 2020 keine Relevanz mehr, da es lohnsteuerlich keine Aushilfskräfte mehr gibt.
+Wenn der Dienstnehmer im aktuellen Kalenderjahr bereits als Aushilfskraft gemäß §&nbsp;3&nbsp;Abs.&nbsp;1&nbsp;Z&nbsp;11a&nbsp;EStG tätig war, ist hier die Anzahl der Tage einzutragen. Mit Hilfe dieses Eintrages werden die 18 Tage pro Dienstnehmer und Jahr überwacht. Dieses Feld hat ab 2020 keine Relevanz mehr, da es lohnsteuerlich keine Aushilfskräfte mehr gibt.

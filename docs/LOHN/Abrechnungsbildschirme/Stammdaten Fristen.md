@@ -1,6 +1,6 @@
 # Stammdaten-Fristen
 
-In diesem Bildschirm können Anmerkungen mit Fristen hinterlegt und Abrechnungstexte eingetragen werden, sowie weitere Stammdaten wie *Rundung*, *Aliquotierung*, *Arbeitsbewilligung* und Zuordnung zum *Buchungskreis*. In diesen Bildschirmen können auch die beiden Übertrittsvarianten für den Umstieg von Abfertigung alt auf Abfertigung neu (Voll- und Teilübertritt) abgerechnet werden.
+In diesem Bildschirm können Anmerkungen mit Fristen hinterlegt und Abrechnungstexte eingetragen werden, sowie weitere Stammdaten wie *Rundung*, *Aliquotierung*, *Arbeitsbewilligung* und die Zuordnung zum *Buchungskreis*. In diesen Bildschirmen können auch die beiden Übertrittsvarianten für den Umstieg von Abfertigung alt auf Abfertigung neu (Voll- und Teilübertritt) abgerechnet werden.
 
 ![Image](<img/image54.png>)
 
@@ -10,7 +10,7 @@ Dieses Auswahlfeld hat nur mehr für in Schilling geführte Lohnverrechnungen (b
 
 **Aliquotierung**
 
-Aliquotierung ist dann anzuwählen, wenn bei Eintritt oder Austritt während des Monats der Bruttolohn bzw. die Zulagen, gemäß den SV-Tagen aliquotiert werden sollen.
+Aliquotierung ist dann anzuwählen, wenn bei Eintritt oder Austritt während des Monats der Bruttolohn bzw. die Zulagen gemäß den SV-Tagen aliquotiert werden sollen.
 
 **Buchungskreis**
 
@@ -29,7 +29,7 @@ Grundsätzlich werden für den Andruck des monatlichen Zahltages am Jahreslohnko
 
 **Lohn-Formel-Zuordnungstabelle**
 
-Vgl. [Lohn-Formelzuordnung](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Lohnformel%20Zuordnung.md)
+Vgl. [Lohnformelzuordnung](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Lohnformel%20Zuordnung.md)
 
 **Ende Arbeitsbewilligung**
 
@@ -41,22 +41,22 @@ Wird dieses Auswahlfeld aktiviert, dann wird der Dienstnehmer für den jeweils a
 
 **Anmerkungen**
 
-Es können bis zu 5 Anmerkungen mit Datum und Text eingegeben werden. Eine Anmerkung wird nicht auf der Lohnabrechnung angedruckt, sondern nur auf bestimmten internen Auswertungen, wie Stammdatenblatt und Dienstnehmerliste mit Fristen. Typische Fälle von Anmerkungen sind ein vorhersehbarer Wechsel in der Beschäftigungsgruppe, Lohnerhöhungen zu einem bestimmten Zeitpunkt, usw. Ist eine Frist abgelaufen, wird der Anmerkungstext rechts oben am Bildschirm *blinkend* angezeigt, bzw. wird der Dienstnehmer in der Abrechnungsliste (*Abrechnung mit* oder *ohne Änderung*, *Korrektur letzter Abrechnung*) mit einem roten Rufzeichen markiert.
+Es können bis zu 5 Anmerkungen mit Datum und Text eingegeben werden. Eine Anmerkung wird nicht auf der Lohnabrechnung angedruckt, sondern nur auf bestimmten internen Auswertungen, wie dem Stammdatenblatt und der Dienstnehmerliste mit Fristen. Typische Fälle von Anmerkungen sind ein vorhersehbarer Wechsel in der Beschäftigungsgruppe, Lohnerhöhungen zu einem bestimmten Zeitpunkt usw. Ist eine Frist abgelaufen, wird der Anmerkungstext rechts oben am Bildschirm *blinkend* angezeigt bzw. wird der Dienstnehmer in der Abrechnungsliste (*Abrechnung mit* oder *ohne Änderung*, *Korrektur letzter Abrechnung*) mit einem roten Rufzeichen markiert.
 
 - **Stichtag**
 
-Eingabe des Datums, zu dem das eingetragene Ereignis eintritt. Im Monat des Eintritts dieses Zeitpunktes erfolgt ein entsprechender Hinweis in der Liste der Dienstnehmer, sowie in der Dienstnehmerliste mit Fristen.
+    Eingabe des Datums, zu dem das eingetragene Ereignis eintritt. Im Monat des Eintritts dieses Zeitpunktes erfolgt ein entsprechender Hinweis in der Liste der Dienstnehmer, sowie in der Dienstnehmerliste mit Fristen.
 
-- **Frist / Anmerkungs-Text**
+- **Frist / Anmerkungstext**
 
-Für den Anmerkungstext stehen Ihnen 200 Zeichen zur Verfügung.
+    Für den Anmerkungstext stehen Ihnen 200 Zeichen zur Verfügung.
 
-**Abrechnungs-Texte**
+**Abrechnungstexte**
 
-Im Bereich *Abrechnungs-Texte* ist es möglich, Abrechnungstexte zeitlich begrenzt für den Andruck auf der Abrechnung des jeweiligen Dienstnehmers anzulegen. Die maximale Länge dieser Texte beträgt 300 Zeichen. Abrechnungstexte können auch klientenbezogen eingetragen werden. Die Verwaltung erfolgt entweder klientenbezogen unter *Stamm / Abrechnungs-Texte* oder [kanzleibezogen](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) unter (*Klient / Kanzlei / Texte*).
+Im Bereich *Abrechnungstexte* ist es möglich, Abrechnungstexte zeitlich begrenzt für den Andruck auf der Abrechnung des jeweiligen Dienstnehmers anzulegen. Die maximale Länge dieser Texte beträgt 300 Zeichen. Abrechnungstexte können auch klientenbezogen eingetragen werden. Die Verwaltung erfolgt entweder klientenbezogen unter *Stamm / Abrechnungstexte* oder [kanzleibezogen](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) unter (*Klient / Kanzlei / Texte*).
 
 !!! info "Tipp"
-    Insgesamt können 4 Abrechnungstexte auf den Abrechnungen der Dienstnehmer ange­druckt werden. 2 dienstnehmerbezogene Abrechnungs-Texte im Abrechnungsbildschirm *Stammdaten* *Fristen* und 2 Klienten bezogene Abrechnungs-Texte, die auf den gesamten Abrechnungen der Dienstnehmer des jeweiligen Klienten aufscheinen.
+    Insgesamt können 4 Abrechnungstexte auf den Abrechnungen der Dienstnehmer ange­druckt werden. Zwei dienstnehmerbezogene Abrechnungstexte im Abrechnungsbildschirm *Stammdaten* *Fristen* und zwei klientenbezogene Abrechnungstexte, die auf den gesamten Abrechnungen der Dienstnehmer des jeweiligen Klienten aufscheinen.
 
 **Vollumstieg Abfertigung neu**
 
