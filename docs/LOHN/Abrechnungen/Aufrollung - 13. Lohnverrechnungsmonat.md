@@ -10,4 +10,4 @@ Die Erstellung der monatlichen Beitragsgrundlagenmeldung erfolgt auch mit Monat 
 
 ![Image](<img/image44.png>){width="600"}
 
-Durch die Erstellung der mBGM mit Monat 13 wird vom Programm automatisch ein Storno mBGM der aufgerollten Monate erzeugt, sowie im gleichen Zuge, jeweils ein neuer mBGM für die betroffenen Monate.
+Durch die Erstellung der mBGM mit Monat 13 wird vom Programm automatisch ein Storno mBGM der aufgerollten Monate erzeugt, sowie im gleichen Zuge jeweils ein neuer mBGM für die betroffenen Monate.

@@ -18,11 +18,11 @@ Der Menüpunkt *Abrechnungen / Sonderfälle / Vorwegabrechnung* ermöglicht die 
 Im Menüpunkt *Abrechnungen / Sonderfälle / Storno Abrechnung* lassen sich irrtümlich durchgeführte Abrechnungen stornieren.
 
 !!! warning "Hinweis"
-    Die erste Abrechnung eines Dienstnehmers im Jahr kann **nicht** storniert werden. In diesem Fall muss der Dienstnehmer über *Abrechnungen / [Löschung Stammdaten](/docs/LOHN/Abrechnungen/Löschung%20Stammdaten.md)* vollständig entfernt werden.
+    Die erste Abrechnung eines Dienstnehmers im Jahr kann **nicht** storniert werden. In diesem Fall muss der Dienstnehmer über *Abrechnungen / [Löschung Stammdaten](../Abrechnungen/Löschung%20Stammdaten.md)* vollständig entfernt werden.
 
 ## Wiedereintritt unter neuer Nummer
 
-Über den Menüpunkt  *Abrechnungen / Sonderfälle / Wiedereintritt unter neuer Nummer* Über den Menüpunkt Abrechnungen / Sonderfälle / Wiedereintritt unter neuer Nummer kann ein Dienstnehmer mit neuer Personalnummer erneut angelegt werden. Beispiel: Wiedereintritt mit geringfügiger Beschäftigung während der Karenz.
+Über den Menüpunkt  *Abrechnungen / Sonderfälle / Wiedereintritt unter neuer Nummer* kann ein Dienstnehmer mit neuer Personalnummer erneut angelegt werden. Beispiel: Wiedereintritt mit geringfügiger Beschäftigung während der Karenz.
 
 ## Stundenerfassung Kurzarbeitsbeihilfe
 
@@ -32,6 +32,6 @@ In diesem Menüpunkt erfassen Sie die Stunden für die Kurzarbeitsbeihilfe - auc
 
 ## Erfassung – Homeoffice-Tage
 
-Damit die Homeoffice-Tage für die vorangegangen Monate erfasst werden können, haben Sie hier die Möglichkeit, die Tage zu erfassen. Dabei verändert sich an der Abrechnung des Dienstnehmers nichts. Wenn Sie eine Pauschale abrechnen möchten, müssen Sie dies über eine Aufrollung durchführen.
+Damit die Homeoffice-Tage für die vorangegangen Monate erfasst werden können, haben Sie hier die Möglichkeit, die Tage zu erfassen. Dabei verändert sich an der Abrechnung des Dienstnehmers nichts. Wenn Sie eine Homeoffice-Pauschale abrechnen möchten, müssen Sie dies über eine Aufrollung durchführen.
 
 ![Image](<img/image42.png>)
