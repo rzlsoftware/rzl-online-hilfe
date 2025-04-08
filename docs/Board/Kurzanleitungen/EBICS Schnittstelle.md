@@ -1,4 +1,4 @@
-# RZL EBICS Schnittstelle
+# EBICS Schnittstelle
 
 Bei EBICS (Electronic Banking Internet Communication Standard) handelt es sich um einen internetbasierten Kom-munikationsstandard zwischen Unternehmen und Banken/Sparkassen, der neben dem gesicherten Datenaus-tausch auch die Autorisierung bzw. die Freigabe von (Zahlungs-)Aufträgen an die Bank standardisiert.
 Um den Zahlungsverkehr noch effizienter zu gestalten, wurde dieses Tool in RZL integriert. Die Einstellungen und sonstigen Funktionen finden Sie im RZL Board unter Portale.
