@@ -35,7 +35,7 @@ Im gewählten Speicherort finden Sie nach erfolgreichem Export zwei Dateien (3) 
 ![Image](<img/image-7.png>)
 
 
-#### Import von Belegen mit Belegdaten
+### Import von Belegen mit Belegdaten
 
 Möchten Sie Belege mit Belegdaten in die Belegverarbeitung im RZL Board importieren, ist entscheidend, dass zum jeweiligen Beleg auch eine XML Datei mit den Belegdaten vorhanden ist (siehe Abbildung 3). Ohne diese XML Datei können Belege nicht ins RZL Board importiert werden.
 
