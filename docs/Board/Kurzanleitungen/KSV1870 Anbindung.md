@@ -25,7 +25,7 @@ Ihre Zugangsdaten bekannt. Diese Zugangsdaten sind im RZL Board unter
 
 ![](<img/image184.png>) 
 
-1) Infos zum Bestellvorgang finden Sie auf unsere Homepage oder über folgenden [Link)(https://rzlsoftware.at/steuerberater/kanzleiorganisation/ksv1870-anbindung)]
+1) Infos zum Bestellvorgang finden Sie auf unsere Homepage oder über folgenden [Link](https://rzlsoftware.at/steuerberater/kanzleiorganisation/ksv1870-anbindung)
 
 Klicken Sie auf das Icon *Zugänge* und legen Sie dort über die Funktion
 *Neuer Zugang* Ihren KSV1870 Zugang im RZL Board an. Sie haben außerdem
