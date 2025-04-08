@@ -14,7 +14,7 @@ Folgende Funktionen stehen zur Verfügung:
 • Alle Belege dieses Klienten: „Alle Belege exportieren“
 
 
-![Image](<img/image-5.png.png>)
+![Image](<img/image-5.png>)
 
 
 Der Export der Belege ist in allen Ansichten *(Ungebuchte Belege/Gebuchte Belege)* möglich. Um mehrere Belege zu exportieren, müssen Sie diese vor Auswahl der Funktion markieren (mittels Strg oder Umschalt-Taste und Klick auf die gewünschten Belege).
