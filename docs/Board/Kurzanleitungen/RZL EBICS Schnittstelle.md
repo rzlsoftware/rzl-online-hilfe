@@ -10,7 +10,7 @@ Für die Nutzung der RZL EBICS Schnittstelle ist weiters der **RZL Dienst** vom 
 
 Unter EBICS Teilnehmer ist ein neuer Teilnehmer (1) anzulegen. Die dafür benötigten Zugangsdaten bzw. Informa-tionen erhalten Sie jeweils von den Banken. Speichern Sie den Teilnehmer mithilfe des Buttons. Der Status zeigt ![Plus](<img/Bild7.png>) , welcher symbolisieren soll, dass der Teilnehmer im RZL angelegt wurde und anschließend zur Initialisierung (2) bereits steht.
 
-![Portale - EBICS](<img/Bild8.png>)
+![Portale - EBICS](<img/EBICS Teilnehmer.png>)
 
 Beim Klick auf Initialisieren werden Sie aufgefordert ein Passwort für den Teilnehmer zu hinterlegen.
 
@@ -65,6 +65,10 @@ Mit dieser Berechtigung können CAMT-Auszüge über die EBICS Schnittstelle abge
 **Zeichnungsberechtigung**
 
 Mit dieser Berechtigung kann zusätzlich über die EBICS Schnittstelle die Freigabe der in der Zah-lungsverkehrsdatei enthaltenen Überweisungen vorgenommen werden. Dafür ist grundsätzlich aus Sicherheitsgründen die Eingabe des Passwortes für den jeweiligen Teilnehmer erforderlich. In der EBICS Schnittstelle besteht die Möglichkeit dieses Passwort lokal zu speichern, was aber aus den oben genannten Sicherheitsgründen nicht empfohlen wird.
+
+!!! info "Tipp"
+    Mithilfe Export Teilnehmerberechtigungen können Sie sich ein TXT File exportieren, welches Informationen über Berechtigungen je ausgewähltem EBICS Teilnehmer beinhaltet.
+    ![Export Teilnehmerberechtigungen](<img/Export Teilnehmerberechtigungen.png>)
 
 ## Passwort Speicherung
 
@@ -127,36 +131,32 @@ Unter Ungebuchte CAMT Dateien (3) finden Sie eine Übersicht, welche CAMT Dateie
 In dieser Übersicht können Sie ebenso die noch nicht gebuchten CAMT Dateien exportieren oder löschen.
 
 
-## Verarbeitung von CAMT Retourdaten mit EBICS
-
-Die abgerufenen CAMT53-Dateien werden durch den Abruf in der RZL Datenbank gespeichert und können automatisch in der RZL FIBU bzw. der RZL FIBU Next eingespielt werden. Somit fällt der manuelle Abruf, die Speicherung der Dateien bzw. das händische Einspielen der Retourdaten weg.
-
-### Verarbeitung FIBU/EA Klassik
-
-Bei den jeweiligen Klienten wird die Schnittstelle aktiviert. Unter *Stamm / Weitere Stammdaten / Bankkonten* ist in den Stammdaten des jeweiligen Bankkontos die Option **EBICS-Portal für CAMT** zu setzen.
-
 !!! warning "Hinweis"
     Die Verarbeitung von CAMT-Retourdaten in der RZL FIBU/EA Klassik bzw. der RZL FIBU Next bleibt mit Einführung der EBICS Schnittstelle ident. Die Schnittstelle dient lediglich zum Abruf bzw. zum Transport von Bankdaten.
-    
     Die bisherige Kommunikation über Online-Services der Bank (manueller Abruf CAMT53 oder .csv-Dateien ohne bisherige MBS-Software) ist weiterhin möglich. Detailinformationen erhalten Sie bei den jeweiligen Bankinstituten.
 
-![Bankkonto anlegen](<img/Bild42.png>)
 
-Die weiteren Schritte sind ident mit der bisherigen Vorgangsweise bei der Verarbeitung von Retourdaten. Über *Bearbeiten / Zahlungsverkehr SEPA bzw. EBICS / Verarbeitung CAMT Retourdaten* werden die CAMT-Daten abgeholt und in einen Zwischenordner (bisher bereits hinterlegter Datenordner) zwischengesichert.
+## Zahlungsverkehr
 
-![Ordner für EBICS](<img/Bild39.png>)
+!!! warning "Hinweis"
+    Bevor Sie innerhalb unseres EBICS Moduls mit der Verwendung des Zahlungsverkehrs beginnen, stellen Sie bitte sicher, dass die Klienten – für welche Sie eine Zahlungsdatei erzeugen und versenden – über ein EBICS-fähiges Kundenportal verfügen. Sollte dies nicht vorhanden sein, können Zahlungsdateien, welche mit einem transportberechtigten Teilnehmer versendet werden nicht von Ihrem Klienten freigege-ben werden.
 
-### Verarbeitung FIBU Next
+Bei Erstellung von Bankeinzügen und Überweisungen wird die XML-Datei in das RZL Board gestellt. Im RZL Board finden Sie diese offenen Übermittlungen unter Portale -> EBICS. Die Übermittlung kann hier direkt übermittelt werden, es können die Zahlungsdetails aufgerufen werden und die Übermittlung kann gelöscht werden.
 
-Unter *Stammdaten / Zahlungsverkehr / FIBU Bankverbindungen* ist in den Stammdaten des jeweiligen Bankkontos beim Klienten die Quelle EBICS zu setzen.
+![Offene EBICS Übermittlungen](<img/Offene EBICS Übermittlungen.png>)
 
-![Quelle EBICS](<img/Bild40.png>)
+Außerdem können die XML-Dateien exportiert und auch importiert werden.
+Die Liste der gesendeten Übermittlungen können Sie auch unter Portale -> EBICS einsehen. In dieser Liste können Sie die Zahlungsdetails aufrufen und die gesendete EBICS Übermittlung exportieren. 
 
-Die weiteren Schritte in der FIBU Next sind ident mit der bisherigen Vorgangsweise bei der Verarbeitung von Retourdaten.
+![Gesendete EBICS Übermittlungen](<img/Gesendete EBICS Übermittlungen.png>)
 
-![Kontoauszüge hereinspielen](<img/Bild41.png>)
+Mithilfe des Status können Sie überprüfen, ob die Übermittlung erfolgreich gesendet werden konnte bzw. ob dies bereits überwiesen wurde.
 
-Sobald ein Stapel im FIBU Next geöffnet wird, werden die Auszüge in den ungebuchten CAMT Dateien ausgeblendet (noch nicht gelöscht). Beim Verwerfen oder Löschen eines Stapels werden die Auszüge wieder zurück in die ungebuchten CAMT-Belegen gestellt. Erst wenn der Stapel finalisiert wird, werden die Daten aus den ungebuchten CAMT-Belegen gelöscht.
+## EBICS in der RZL FIBU/FIBU Next/EA und im RZL Lohn
+
+Die nötigen Einstellungen und die Bedienung von CAMT Retourdaten und des Zahlungsverkehrs mit EBICS in der RZL FIBU/FIBU Next/EA entnehmen Sie bitte der Kurzanleitung [*EBICS Schnittstelle RZL Finanzbuchhaltung*](https://rzlsoftware.at/fileadmin/user_upload/PDF_Kurzanleitungen/BOARD/BOARD_EBICS_Schnittstelle.pdf).
+
+Die nötigen Einstellungen und die Bedienung des Zahlungsverkehres mit EBICS im RZL Lohn entnehmen Sie bitte der Kurzanleitung *EBICS Schnittstelle im RZL Lohnverrechnungsprogramm*.
 
 
 ## Protokolle
@@ -171,4 +171,8 @@ Im Bereich EBICS Teilnehmer gibt es zusätzlich das Bankprotokoll. Dieses kommt 
 
 ## Berechtigungen
 
-Die EBICS-Schnittstelle ist an das RZL BOARD geknüpft. Um die Verwaltungs- bzw. Bearbeitungsmöglichkeiten Ihrer Mitarbeitenden steuern zu können, wurden eigene Berechtigungen (Rollen) definiert. Im RZL BOARD können unter *Stamm / Berechtigungen / Rollen* spezielle RZL EBICS-Rollen mit Einschränkungen auf bestimmte Klientengruppen vergeben werden.
+Die EBICS-Schnittstelle ist an das RZL BOARD geknüpft. Um die Verwaltungs- bzw. Bearbeitungsmöglichkeiten Ihrer Mitarbeitenden steuern zu können, wurden eigene Rollen definiert. Im RZL BOARD können unter Stamm / Berechtigungen / Rollen spezielle RZL EBICS-Rollen mit Einschränkungen auf bestimmte Klientengruppen vergeben werden.
+
+![EBICS Rollen](<img/EBICS Rollen.png>)
+
+Zudem befinden sich üblicherweise alle Berechtigungen betreffend EBICS in der Rolle *Alle Berechtigungen*. Die Rolle *RZL-Administrator* verfügt allerdings nur über bestimmte ausgewählte Berechtigungen betreffend EBICS.
