@@ -452,10 +452,11 @@ werden, wenn Sie die Lizenz dafür besitzen.
 </table>
 
 ## Berechtigungssystem Premium
+*(lizenzierungspflichtig)*
 
-In folgender Tabelle erhalten Sie eine Übersicht aller Rollen für das
-Berechtigungssystem Premium. Bestimmte Rollen können nur angewendet
-werden, wenn Sie die Lizenz dafür besitzen.
+Mit dem auf das RZL Berechtigungssystem Basismodul aufbauenden RZL Berechtigungssystem Premium haben Sie zusätzlich die Möglichkeit, mit Hilfe der von uns bereitgestellten Funktionen, selbst Nutzungsberechtigungen für Ihre Mitarbeitenden zu definieren. Außerdem können Sie die von uns bereits vordefinierten **Premium-Rollen** nutzen und diese Ihren Mitarbeitenden zuweisen.
+
+In nachfolgender Tabelle erhalten Sie eine Übersicht aller Premium-Rollen für das lizenzierungspflichtige RZL Berechtigungssystem Premium. Die nachfolgenden Rollen können nur bei Lizenzierung des RZL Berechtigungssystem Premium und bei entsprechender Lizenz für das angeführte RZL Programm / Modul verwendet werden. 
 
 <table>
 <colgroup>
