@@ -1,0 +1,3 @@
+## Variante 1 - WiEReG-Meldungen mithilfe von wiederkehrenden Aufgaben
+
+Bei dieser Variante legen Sie sich im RZL Kanzleiinformationssystem eine wiederkehrende Aufgabe, in der Sie den Zeitpunkt der durchzuführenden Meldung definieren, für die Klienten, wo eine WiEReG-Meldung erforderlich ist, an. Damit legen Sie also fest zu welchem Zeitpunkt eine Aufgabe an den zuständigen Mitarbeiter bei diesem Klienten generiert werden soll.

@@ -18,14 +18,14 @@ myKSV.at fallen zusätzliche Gebühren an.
 
 ## KSV1870 Zugang einrichten
 
-Nach erfolgter Bestellung **1)** der *KSV1870 Anbindung an die RZL Programme*
+Nach erfolgter Bestellung ****1** der *KSV1870 Anbindung an die RZL Programme*
 richtet Ihnen der KSV1870 das Portal **myksv.at** ein und gibt Ihnen
 Ihre Zugangsdaten bekannt. Diese Zugangsdaten sind im RZL Board unter
 *Portale* einzutragen.
 
 ![](<img/image184.png>) 
 
-1) Infos zum Bestellvorgang finden Sie auf unsere Homepage oder über folgenden [Link](https://rzlsoftware.at/steuerberater/kanzleiorganisation/ksv1870-anbindung)
+**1 Infos zum Bestellvorgang finden Sie auf unsere Homepage oder über folgenden [Link](https://rzlsoftware.at/steuerberater/kanzleiorganisation/ksv1870-anbindung)
 
 Klicken Sie auf das Icon *Zugänge* und legen Sie dort über die Funktion
 *Neuer Zugang* Ihren KSV1870 Zugang im RZL Board an. Sie haben außerdem
@@ -184,8 +184,7 @@ StammdatenReport. In dieser Liste können Sie die für Sie relevanten
 Spalten einblenden lassen und diese Liste z.B. drucken oder exportieren.
 
 Aufrufbar ist die Funktion entweder ohne geöffneten Klienten (=
-einsehbar sind die Dokumente, die alle Klienten betreffen) unter Portale
-(**2**) oder mit geöffnetem Klienten (=einsehbar sind die Dokumente, die
+einsehbar sind die Dokumente, die alle Klienten betreffen) unter Portale oder mit geöffnetem Klienten (=einsehbar sind die Dokumente, die
 diesen geöffneten Klienten betreffen) ebenfalls unter Portale.
 
 Damit die Dokumente mit passendem Thema, Kategorie und Dokumentbereich
@@ -196,7 +195,7 @@ definiert und unter *Zuweisungen* im KSV1870 Bereich hinterlegt werden.
 
 ## myKSV
 
-Mit einem Klick auf das Icon myKSV unter Portale (3) ohne geöffneten
+Mit einem Klick auf das Icon myKSV unter Portale ohne geöffneten
 Klienten bzw. mit geöffnetem Klienten werden Sie direkt auf die KV1870
 Website zum Login weitergeleitet.
 
