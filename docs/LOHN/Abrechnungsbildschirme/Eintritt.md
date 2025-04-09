@@ -117,30 +117,30 @@ Vorbezüge sind nur bei Eintritt eines Dienstnehmers während des Jahres einzuge
 !!! info "Tipp"
     Es ist zu beachten, dass ab 1994 die Dienstnehmer nicht mehr verpflichtet sind, einen Lohnzettel über die bisherigen Bezüge vorzulegen. Bei Nichtvorlage der bisherigen Bezüge kann trotzdem bei Sonderzahlungen der Freibetrag von EUR 620,00 berücksichtigt werden, es ist nur die Sechstelgrenze entsprechend geringer.
 
-**Verbrauchte Bemessungsgrundlage SV-Sonderzahlung**
+- **Verbrauchte Bemessungsgrundlage SV-Sonderzahlung**
 
-Für während des Jahres eingetretene Dienstnehmer, die bereits vorher in einem Dienstverhältnis standen, ist hier die Summe der bisher verbrauchten Bemessungsgrundlage der SV-Sonderzahlung einzugeben.
+    Für während des Jahres eingetretene Dienstnehmer, die bereits vorher in einem Dienstverhältnis standen, ist hier die Summe der bisher verbrauchten Bemessungsgrundlage der SV-Sonderzahlung einzugeben.
 
-**Bisherige SV KZ 225**
+- **Bisherige SV KZ 225**
 
-Hier können Sie den Betrag vom Jahreslohnzettel in der KZ 225 eintragen.
+    Hier können Sie den Betrag vom Jahreslohnzettel in der KZ 225 eintragen.
 
-**Bisherige Sonderzahlung**
+- **Bisherige Sonderzahlung**
 
-Eingabe der bisher verrechneten Sonderzahlung gemäß § 67 (1) und (2).
+    Eingabe der bisher verrechneten Sonderzahlung gemäß § 67 (1) und (2).
 
-**Bisherige Sonderzahlung ohne feste LSt**
+- **Bisherige Sonderzahlung ohne feste LSt**
 
-Es ist jener Betrag, der bisherigen Sonderzahlung einzugeben, der ohne feste Lohnsteuer behandelt wurde. Also jener Betrag zwischen EUR 620,00 und EUR 2.447,00 (bis 2023: EUR&nbsp;2.100,00), von dem vom Vordienstgeber keine feste Lohnsteuer abgezogen wurde, weil die Sechstelgrenze von EUR&nbsp;2.447,00 (bis 2023: EUR&nbsp;2.100,00) nicht erreicht wurde (Bagatellgrenze).
+    Es ist jener Betrag, der bisherigen Sonderzahlung einzugeben, der ohne feste Lohnsteuer behandelt wurde. Also jener Betrag zwischen EUR 620,00 und EUR 2.447,00 (bis 2023: EUR&nbsp;2.100,00), von dem vom Vordienstgeber keine feste Lohnsteuer abgezogen wurde, weil die Sechstelgrenze von EUR&nbsp;2.447,00 (bis 2023: EUR&nbsp;2.100,00) nicht erreicht wurde (Bagatellgrenze).
 
-**Bisheriger Bruttolohn**
+- **Bisheriger Bruttolohn**
 
-Eingabe des bisherigen Bruttolohnes (ohne Sonderzahlungen) laut Lohnzettel. Dieser Betrag bildet die Grundlage für die Sechstelberechnung. Tritt ein Dienstnehmer während eines Jahres ein und legt keinen Lohnzettel vor, so ist die Sechstelgrenze entsprechend niedriger und es kann bei einer Sonderzahlung zu einer Überschreitung dieser Grenze kommen.
+    Eingabe des bisherigen Bruttolohnes (ohne Sonderzahlungen) laut Lohnzettel. Dieser Betrag bildet die Grundlage für die Sechstelberechnung. Tritt ein Dienstnehmer während eines Jahres ein und legt keinen Lohnzettel vor, so ist die Sechstelgrenze entsprechend niedriger und es kann bei einer Sonderzahlung zu einer Überschreitung dieser Grenze kommen.
 
-**Vorjahresbemessungs-Grundlage**
+- **Vorjahresbemessungs-Grundlage**
 
-Eingabe der Lohnsteuervorjahresbemessungsgrundlage laut Lohnzettel (KZ 245). Im Zuge der Jahresübernahme wird diese Grundlage automatisch ermittelt und im neuen Jahr eingetragen.
+    Eingabe der Lohnsteuervorjahresbemessungsgrundlage laut Lohnzettel (KZ 245). Im Zuge der Jahresübernahme wird diese Grundlage automatisch ermittelt und im neuen Jahr eingetragen.
 
-**Tage als Aushilfskraft**
+- **Tage als Aushilfskraft**
 
-Wenn der Dienstnehmer im aktuellen Kalenderjahr bereits als Aushilfskraft gemäß §&nbsp;3&nbsp;Abs.&nbsp;1&nbsp;Z&nbsp;11a&nbsp;EStG tätig war, ist hier die Anzahl der Tage einzutragen. Mit Hilfe dieses Eintrages werden die 18 Tage pro Dienstnehmer und Jahr überwacht. Dieses Feld hat ab 2020 keine Relevanz mehr, da es lohnsteuerlich keine Aushilfskräfte mehr gibt.
+    Wenn der Dienstnehmer im aktuellen Kalenderjahr bereits als Aushilfskraft gemäß §&nbsp;3&nbsp;Abs.&nbsp;1&nbsp;Z&nbsp;11a&nbsp;EStG tätig war, ist hier die Anzahl der Tage einzutragen. Mit Hilfe dieses Eintrages werden die 18 Tage pro Dienstnehmer und Jahr überwacht. Dieses Feld hat ab 2020 keine Relevanz mehr, da es lohnsteuerlich keine Aushilfskräfte mehr gibt.

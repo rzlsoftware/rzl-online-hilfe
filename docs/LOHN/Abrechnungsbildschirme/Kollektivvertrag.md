@@ -20,7 +20,7 @@ In diesem Feld wird der Beginn der erstmaligen Einstufung eingetragen. Mit der *
 
 Die Eintragung von anrechenbaren Vordienstzeiten kann hier in Monaten eingetragen werden.
 
-**Umstufung Tätigkeitsgr.** 
+**Umstufung Tätigkeitsgruppe** 
 
 Dieser Punkt wurde ursprünglich für den Kollektivvertrag Handel Angestellte geschaffen und kann aber nun auch für alle anderen Kollektivverträge angewendet werden. (Näheres zur Umstufung KV-Handel finden Sie [hier](../Kollektivverträge/Umstellung%20KV-Handel%20Angestellte.md)).
 
@@ -30,52 +30,52 @@ In diesem Dialog wird oben immer die bisherige Einstufung dargestellt. Im untere
 
 Damit bei *Einstufung nach Umstufung* Werte angezeigt werden, müssen Sie bei *Bisherige Einstufung* *die Stufenwahl durch* auswählen: *Bezug lt. KV, Folgestufe – Bezug lt. KV, bisherige Stufe oder Einstiegsstufe*.
 
-***Bezug lt. KV***
+- *Bezug lt. KV*
 
-Bei der Stufenauswahl *Bezug lt. KV* (=bisheriger KV-Bezug) vergleicht das Lohnprogramm im Bereich *Einstufung nach Umstufung*, ob der Bezug mindestens dem bisherigen KV-Bezug (EUR 2.060,30) entspricht. In unserem Beispiel ist der nächst höhere Bezug in der Stufe 1 in der Gruppe 2 (EUR 2.065,00).
+    Bei der Stufenauswahl *Bezug lt. KV* (=bisheriger KV-Bezug) vergleicht das Lohnprogramm im Bereich *Einstufung nach Umstufung*, ob der Bezug mindestens dem bisherigen KV-Bezug (EUR&nbsp;2.060,30) entspricht. In unserem Beispiel ist der nächst höhere Bezug in der Stufe 1 in der Gruppe 2 (EUR 2.065,00).
 
-![Image](<img/image60.png>)
+    ![Image](<img/image60.png>)
 
-***Folgestufe – Bezug lt. KV***
+- *Folgestufe – Bezug lt. KV*
 
-Bei der Stufenauswahl ***Folgestufe - Bezug lt. KV*** vergleicht das Lohnprogramm im Bereich *Einstufung nach Umstufung*, ob der Bezug mindestens der bisherigen Folgestufe KV-Bezug (EUR 2.110,50) entspricht. In unserem Beispiel ist der nächst höhere Bezug in der Stufe 6 in der Gruppe 2 (EUR 2.116,60).
+    Bei der Stufenauswahl ***Folgestufe - Bezug lt. KV*** vergleicht das Lohnprogramm im Bereich *Einstufung nach Umstufung*, ob der Bezug mindestens der bisherigen Folgestufe KV-Bezug (EUR&nbsp;2.110,50) entspricht. In unserem Beispiel ist der nächst höhere Bezug in der Stufe 6 in der Gruppe 2 (EUR 2.116,60).
 
-![Image](<img/image61.png>)
+    ![Image](<img/image61.png>)
 
-***Bisherige Stufe***
+- *Bisherige Stufe*
 
-Bei der Stufenauswahl ***bisherige Stufe*** vergleicht das Lohnprogramm im Bereich *Einstufung nach Umstufung*, ob die gleiche Stufe wie zuvor angewendet wird. In unserem Beispiel Stufe 6.
+    Bei der Stufenauswahl ***bisherige Stufe*** vergleicht das Lohnprogramm im Bereich *Einstufung nach Umstufung*, ob die gleiche Stufe wie zuvor angewendet wird. In unserem Beispiel Stufe&nbsp;6.
 
-![Image](<img/image62.png>)
+    ![Image](<img/image62.png>)
 
-***Einstiegsstufe***
+- *Einstiegsstufe*
 
-Bei der Stufenauswahl ***Einstiegsstufe*** wird im Bereich *Einstufung nach Umstufung* die Stufe 1 vorgeschlagen. Es wird die erste Stufe von dieser neuen Tätigkeitsgruppe vorgeschlagen.
+    Bei der Stufenauswahl ***Einstiegsstufe*** wird im Bereich *Einstufung nach Umstufung* die Stufe 1 vorgeschlagen. Es wird die erste Stufe von dieser neuen Tätigkeitsgruppe vorgeschlagen.
 
-![Image](<img/image63.png>)
+    ![Image](<img/image63.png>)
 
 !!! warning "Hinweis"
     Bei allen vier Varianten wird die bisherige Vordienstzeit auf null gesetzt.
 
-***Nächste Vorrückung***
+- *Nächste Vorrückung*
 
-Grundsätzlich wird für die Ermittlung des nächsten Vorrückdatums das **Umstufungsdatum** herangezogen.
+    Grundsätzlich wird für die Ermittlung des nächsten Vorrückdatums das **Umstufungsdatum** herangezogen.
 
-![Image](<img/image64.png>){width="600"}
+    ![Image](<img/image64.png>){width="600"}
 
-Wenn das ursprüngliche Vorrückdatum erhalten bleiben soll, dann aktivieren Sie das Häkchen bei *bisheriges Vorrückungsdatum beibehalten*.
+    Wenn das ursprüngliche Vorrückdatum erhalten bleiben soll, dann aktivieren Sie das Häkchen bei *bisheriges Vorrückungsdatum beibehalten*.
 
-![Image](<img/image65.png>){width="600"}
+    ![Image](<img/image65.png>){width="600"}
 
-***Überzahlung beibehalten***
+- *Überzahlung beibehalten*
 
-Wenn die ursprüngliche Überzahlung beibehalten bleiben soll, dann aktivieren Sie das Feld *Überzahlung beibehalten*.
+    Wenn die ursprüngliche Überzahlung beibehalten bleiben soll, dann aktivieren Sie das Feld *Überzahlung beibehalten*.
 
-![Image](<img/image66.png>){width="600"}
+    ![Image](<img/image66.png>){width="600"}
 
-Wenn das Feld nicht angehakt wird, dann wird die *Überzahlung neu*, erneut ermittelt.
+    Wenn das Feld nicht angehakt wird, dann wird die *Überzahlung neu*, erneut ermittelt.
 
-![Image](<img/image67.png>){width="600"}
+    ![Image](<img/image67.png>){width="600"}
 
 **Aktuelle Tätigkeitsgruppe**
 
@@ -83,9 +83,9 @@ In diesem Bereich muss die Tätigkeitsgruppe des Dienstnehmers angewählt werden
 
 **Folgegruppen**
 
-In bestimmten Kollektivverträgen (z.B. Informationstechnik) verbleibt man eine bestimmte Zeitdauer in einer Gruppe (z. B. Einstiegsstufe) und wechselt dann automatisch in die nächsthöhere Gruppe (z. B. Regelgruppe). Diese [Folgegruppen](../Kollektivverträge/Wann%20sind%20Folgegruppen%20notwendig.md) werden im jeweiligen Kollektivvertrag verknüpft.
+In bestimmten Kollektivverträgen (z. B. Informationstechnik) verbleibt man eine bestimmte Zeitdauer in einer Gruppe (z. B. Einstiegsstufe) und wechselt dann automatisch in die nächsthöhere Gruppe (z. B. Regelgruppe). Diese [Folgegruppen](../Kollektivverträge/Wann%20sind%20Folgegruppen%20notwendig.md) werden im jeweiligen Kollektivvertrag verknüpft.
 
-**Letzter Gruppenwechsel/Letzte Tätigkeitsgruppe**
+**Letzter Gruppenwechsel / Letzte Tätigkeitsgruppe**
 
 Wenn bereits ein Wechsel innerhalb der Gruppen stattgefunden hat, zeigt das Programm den letzten Gruppenwechsel mit Datum und die letzte Tätigkeitsgruppe an.
 
@@ -109,7 +109,7 @@ Auf die hier angezeigten Werte kann im Rahmen der automatischen Berechnung mit [
 
 **KV-Handel Reformbetrag 1**
 
-Durch die Umstellung von KV-Handel Angestellte ALT auf KV-Handel Angestellte NEU kann es zu einem *Reformbetrag 1* kommen. Diesen Betrag können Sie hier eintragen bzw. wird vom Programm bei der Umstellung automatisch befüllt.
+Durch die Umstellung von KV-Handel Angestellte ALT auf KV-Handel Angestellte NEU kann es zu einem *Reformbetrag 1* kommen. Diesen Betrag können Sie hier eintragen bzw. wird dieser vom Programm bei der Umstellung automatisch befüllt.
 
 **Jubiläumsgelder**
 
@@ -119,35 +119,34 @@ Wenn im Kollektivvertrag ein eindeutiges Jubiläumsgeld hinterlegt ist, dann wer
 
 Im Programmteil *Klient / Kanzlei / Kollektivverträge* können in der Kurzinformation zusätzliche Daten pro Kollektivvertrag eingetragen werden.
 
-![Image](<img/image69.png>){width="600"}
+![Image](<img/image69.png>){width="500"}
 
 Wenn diese Felder im jeweiligen Kollektivvertrag ausgefüllt werden, gelten die Eintragungen für alle Dienstnehmer, die diesem KV zugeordnet sind und werden automatisch in den Abrechnungsbildschirm *Kollektivvertrag* übernommen.
 
-**Abw. Hochrechnungsfaktor (von Stundenlohn laut KV auf Monatsbezug)**
+!!! warning "Hinweis"
+    Diese hier gewählte Einstellung hat auf **alle Klienten**, wo dieser Kollektivvertrag hinterlegt wurde, eine Auswirkung.
 
-Wenn ein Kollektivvertrag keine Monatsbezüge beinhaltet, sondern Stundenlöhne liefert, rechnet das Programm grundsätzlich automatisch aufgrund der Normalarbeitszeit laut Kollektivvertrag mit dem Multiplikator 4,33 auf einen Monatsbezug hoch.
+- *Abw. Hochrechnungsfaktor (von Stundenlohn laut KV auf Monatsbezug)*
 
-Das Feld *Hochrechnungsfaktor* muss nur ausgefüllt werden, wenn die Hochrechnung vom Stundenlohn auf einen Monatslohn mit einem abweichenden Teiler (lt. KV) durchgeführt werden muss.
+    Wenn ein Kollektivvertrag keine Monatsbezüge beinhaltet, sondern Stundenlöhne liefert, rechnet das Programm grundsätzlich automatisch aufgrund der Normalarbeitszeit laut Kollektivvertrag mit dem Multiplikator 4,33 auf einen Monatsbezug hoch.
 
-**abw. Std.-Teiler-Teilzeit**
+    Das Feld *Hochrechnungsfaktor* muss nur ausgefüllt werden, wenn die Hochrechnung vom Stundenlohn auf einen Monatslohn mit einem abweichenden Teiler (laut Kollektivvertrag) durchgeführt werden muss.
 
-Manche Kollektivverträge schreiben für die Berechnung der Teilzeitbezüge – ausgehend von einem Monatsbezug – abweichende Stunden-Teiler vor. In diesem Feld ist ein abweichender Stundenteiler für die Berechnung des Teilzeitbezugs einzutragen.
+- *abw. Std.-Teiler-Teilzeit*
 
-**Überzahlung**
+    Manche Kollektivverträge schreiben für die Berechnung der Teilzeitbezüge – ausgehend von einem Monatsbezug – abweichende Stundenteiler vor. In diesem Feld ist ein abweichender Stundenteiler für die Berechnung des Teilzeitbezugs einzutragen.
 
-Im Bereich der Überzahlung kann pro Kollektivvertrag festgelegt werden, ob Überzahlungen beibehalten werden müssen. Wenn das Feld *Bei Biennalsprung beibehalten* aktiviert ist, bleibt die Überzahlung auch nach einer Erhöhung aufgrund der Dienstjahre in voller Höhe aufrecht.
+- *Überzahlung*
 
-Soll die Überzahlung nicht betraglich, sondern prozentuell beibehalten werden, ist das Feld *Prozentuelle Überzahlung beibehalten* zu aktivieren.
+    Im Bereich der Überzahlung kann pro Kollektivvertrag festgelegt werden, ob Überzahlungen beibehalten werden müssen. Wenn das Feld *Bei Biennalsprung beibehalten* aktiviert ist, bleibt die Überzahlung auch nach einer Erhöhung aufgrund der Dienstjahre in voller Höhe aufrecht.
 
-**Erhöh Reformbetrag in %**
-
-Hier kann optional ein anderer Erhöhungsprozentsatz für den Reformbetrag eingetragen werden.
+    Soll die Überzahlung nicht betraglich, sondern prozentuell beibehalten werden, ist das Feld *Prozentuelle Überzahlung beibehalten* zu aktivieren.
 
 **Abweichende Einstellungen für einzelne Dienstnehmer**
 
 Innerhalb des Abrechnungsbildschirms *Kollektivvertrag* können beim Dienstnehmer im Bereich *abw. Einstellungen für diesen Dienstnehmer* abweichende Eingaben eingetragen werden.
 
-![Image](<img/image70.png>)
+![Image](<img/image70.png>){width="500"}
 
 **Abw. Normalarbeitszeit lt. KV**
 
@@ -170,12 +169,12 @@ Die abonnierten Kollektivverträge müssen in den *Klientenstammdaten* zugeordne
 
 ![Image](<img/image72.png>){width="500"}
 
-Die manuelle Eintragung von KV-Daten ist nur möglich, wenn der Bereich *HGKV-DB* nicht aktiviert ist.
+Die manuelle Eintragung von Kollektivvertragsdaten ist nur möglich, wenn der Bereich *HGKV-DB* nicht aktiviert ist.
 
-**Kollektivvertrag**
+- *Kollektivvertrag*
 
-Eingabe des anzuwendenden Kollektivvertrages. Die Eintragung wird für die Erstellung des Dienstzettels verwendet.
+    Eingabe des anzuwendenden Kollektivvertrages. Die Eintragung wird für die Erstellung des Dienstzettels verwendet.
 
-**Stundensatz laut KV / Bezug laut KV**
+- *Stundensatz laut KV / Bezug laut KV*
 
-Auf die hier eingetragenen Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Anlage%20von%20Lohnformeln.md) zugegriffen werden.
+    Auf die hier eingetragenen Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Anlage%20von%20Lohnformeln.md) zugegriffen werden.

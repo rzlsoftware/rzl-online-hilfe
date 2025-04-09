@@ -38,7 +38,7 @@ Dieses Eingabefeld wird nur dann benötigt, wenn die Arbeitsbescheinigung mit En
 
 Seit 2020 gibt es das *Kontrollsechstel*. Das [Kontrollsechstel](../Abrechnungen%20Sonderfälle/Kontrollsechstel%20§%2077%20Abs.%204a%20EStG.md) muss bei Dienstnehmern, welche das ganze Jahr über beschäftigt waren, im letzten Monat des Kalenderjahres berechnet werden. Das heißt, es darf nur 1/6 der Bezüge für die Jahressechstelberechnung herangezogen werden. Alles darüber hinaus muss als Überhang mit dem laufenden Tarif versteuert werden.
 
-Das *erhöhte Jahres-/ Kontrollsechstel* findet nur bei der Kurzarbeit Anwendung. Fällt ein Dienstnehmer durch die Kurzarbeit unter seinen normalen Verdienst, wird in diesem Monat das erhöhte Jahres-/ Kontrollsechstel automatisch aktiviert. Das erhöhte Jahressechstel scheint nur in Verbindung mit dem Kurzarbeit-Bildschirm auf.
+Das *erhöhte Jahres-/ Kontrollsechstel* findet nur bei der Kurzarbeit Anwendung. Fällt ein Dienstnehmer durch die Kurzarbeit unter seinen normalen Verdienst, wird in diesem Monat das erhöhte Jahres-/ Kontrollsechstel automatisch aktiviert. Das erhöhte Jahressechstel wird nur in Verbindung mit dem Kurzarbeit-Bildschirm angezeigt.
 
 **Übermittlung an ÖGK (ELDA)**
 
@@ -46,7 +46,7 @@ In diesem Bereich wird angezeigt, welche Daten an die ÖGK im Zuge einer Abmeldu
 
 ![Image](<img/image75.png>)
 
-Bei manchen Austrittsgründen (z.B.: Karenzurlaub, Bildungskarenz) muss aus technischen Gründen das Austrittsdatum eingetragen werden, eine Übermittlung findet aber nicht statt (siehe Beispiel oben).
+Bei manchen Austrittsgründen (z. B. Karenzurlaub, Bildungskarenz) muss aus technischen Gründen das Austrittsdatum eingetragen werden, eine Übermittlung findet aber nicht statt (siehe Beispiel oben).
 
 **Mutterschutz / Karenzurlaub**
 
@@ -70,7 +70,7 @@ Wird hier das *Beginndatum* eingetragen, befüllt sich automatisch *das Bis-Datu
 
 **Mutterschutzmeldung gemäß § 3 Abs 6 MSchG**
 
-Durch Auswahl des zuständigen *Arbeitsinspektorats* und durch Eingabe des *Arbeitsplatzes / der Tätigkeit* kann im Anschluss an die Abrechnung eine Mutterschutzmeldung erstellt und ausgedruckt werden.
+Durch Auswahl des zuständigen *Arbeitsinspektorats* und durch Eingabe des *Arbeitsplatzes / der Tätigkeit* kann im Anschluss an die Abrechnung eine [Mutterschutzmeldung](../Ausdrucke%20allgemein/Ausdruck%20Sonderdrucke.md) erstellt und ausgedruckt werden.
 
 **Truppenübung**
 
@@ -84,15 +84,15 @@ Durch die Eingabe des Beginnes und Endes der Truppenübung wird automatisch die 
 
 ![Image](<img/image80.png>)
 
-!!! waring "Hinweis"
-    Wird das Beginn und Ende Datum der Truppenübung manuell gelöscht, dann wird auch der Austritt und die BV-Bemessung Präsenz-/Zivildienst wieder entfernt.
+!!! warning "Hinweis"
+    Werden das Beginn- und Enddatum der Truppenübung manuell gelöscht, dann wird auch der Austritt und die BV-Bemessung Präsenz-/Zivildienst wieder entfernt.
 
 !!! warning "Hinweis"
-    Wird nur der Austritt eingetragen, jedoch das Beginn- und Endedatum der Truppenübung nicht eingetragen, dann erfolgt folgender Hinweis:
+    Wird nur der Austritt eingetragen, jedoch nicht das Beginn- und Enddatum der Truppenübung, dann erfolgt folgender Hinweis:
 
 ![Image](<img/image81.png>)
 
-Würden Sie das Beginn- und Endedatum nicht eintragen, würde keine BV-Bemessung abgerechnet werden.
+Würden Sie das Beginn- und Enddatum nicht eintragen, würde keine BV-Bemessung abgerechnet werden.
 
 **BV – Beitragspflicht**
 
@@ -110,7 +110,7 @@ Ist eine Kündigungsentschädigung abzurechnen, so ist das Optionsfeld *gezahlt*
 
 Die Eingabe von *Beginn und Ende* des Zeitraumes, für den die Kündigungsentschädigung bezahlt wird, wird einerseits für die Abmeldung benötigt und ist andererseits für die richtige Berechnung der Sozialversicherung notwendig.
 
-Be der Eingabe des *Gesamtbetrages* an Kündigungsentschädigung. wird lohnsteuerrechtlich vom Programm automatisch ein Fünftel steuerfrei belassen und der Rest laufend versteuert.
+Bei der Eingabe des *Gesamtbetrages* an Kündigungsentschädigung wird lohnsteuerrechtlich vom Programm automatisch ein Fünftel steuerfrei belassen, und der Rest laufend versteuert.
 
 *Kündigungsentschädigung* *SZ-Anteil*: Eingabe jenes Teiles der Kündigungsentschädigung, der SV-mäßig als Sonderzahlung behandelt wird.
 
@@ -120,10 +120,10 @@ Im Falle einer (Urlaubs-) Ersatzleistung verlängert sich die SV-Pflicht. Diese 
 
 Ist eine UA/UE abzurechnen, so ist das Optionsfeld *gezahlt für* anzuwählen. Nachfolgend können dann die Tage, der Zeitraum, sowie der Betrag der UA/UE eingegeben werden oder sich vom Programm vorschlagen lassen.
 
-Im Feld *gezahlt für* tragen Sie die Tage der Ersatzleistung auf zwei Nachkommastellen genau ein. Im Abrechnungsbildschirm *Urlaub* stellen Sie ein ob *Werktag(e)* oder *Arbeitstag(e)* erfasst werden. Die Urlaubskartei des Dienstnehmers wird durch Anwahl der *F2-Taste* ausgewählt und der noch offene Urlaub kann übernommen werden.
+Im Feld *gezahlt für* tragen Sie die Tage der Ersatzleistung auf zwei Nachkommastellen genau ein. Im Abrechnungsbildschirm *Urlaub* stellen Sie ein ob *Werktag(e)* oder *Arbeitstag(e)* erfasst werden. Die Urlaubskartei des Dienstnehmers kann über die *F2-Taste* ausgewählt und der noch offene Urlaub kann übernommen werden.
 
 !!! warning "Hinweis"
-    Wurde bereits eine Urlaubsersatzleistung eingetragen und Sie möchten die Einheit (Werktage, Arbeitstage, Stunden) umstellen, erfolgt folgender Hinweis
+    Wurde bereits eine Urlaubsersatzleistung eingetragen und Sie möchten die Einheit (Werktage, Arbeitstage, Stunden) umstellen, erfolgt folgender Hinweis:
 
     ![Image](<img/image83.png>){width="400"}
 
@@ -144,7 +144,7 @@ Im Feld *Ersatzleistung (UE) gesamt* wird der Gesamtbetrag inkl. SZ-Anteil einge
 !!! warning "Hinweis"
     Wird eine Ersatzleistung abgerechnet, so ist lohnsteuerrechtlich ein monatlicher Lohnzahlungszeitraum (30 LSt-Tage) anzuwenden. Am Lohnzettel steht das tatsächliche Austrittsdatum.
 
-Wenn während einer Ersatzleistung die SV-Gruppe gewechselt werden muss, kann im Bereich *SV-Wechsel während der UE* die neue Gruppe angewählt werden. Im Feld *SV-Gruppe ab* tragen Sie bitte den Beginn der neuen SV-Gruppe ein.
+Wenn während einer Ersatzleistung die SV-Gruppe gewechselt werden muss, kann im Bereich *SV-Wechsel während der UE* die neue Gruppe angewählt werden. Im Feld *SV-Gruppe ab* tragen Sie den Beginn der neuen SV-Gruppe ein.
 
 **Unterbrechung der Beschäftigung**
 
@@ -164,7 +164,7 @@ Die Meldungen können nachträglich auch im Programmteil *Bearbeiten / Elektroni
 
 **Sonderfälle Abmeldung (Krankenstand / Richtigstellung Karenz)**
 
-Wenn es zu einer Kündigung während des Krankenstandes kommt, muss das Entgelt bis zum Ende des Krankenentgeltanspruches ausbezahlt werden. Da dies oft über Monate geht, haben Sie hier die Möglichkeit, schon vorab eine Abmeldung zu erzeugen. Durch Eingabe der Austrittsdaten in diesem Bereich kann eine Abmeldung erstellt werden und weiterhin ganz normal abgerechnet werden. Erst im Monat des Ende Entgeltsanspruches tragen Sie im oberen Bereich des Austrittes die Austrittsdaten ein.
+Wenn es zu einer [Kündigung während des Krankenstandes](../Abrechnungen%20Sonderfälle/Beendigung%20von%20Dienstverhältnissen%20im%20Krankenstand.md) kommt, muss das Entgelt bis zum Ende des Krankenentgeltanspruches ausbezahlt werden. Da dies oft über Monate geht, haben Sie hier die Möglichkeit, schon vorab eine Abmeldung zu erzeugen. Durch Eingabe der Austrittsdaten in diesem Bereich kann eine Abmeldung erstellt werden und weiterhin ganz normal abgerechnet werden. Erst im Monat des Ende Entgeltsanspruches tragen Sie im oberen Bereich des Austrittes die Austrittsdaten ein.
 
 ## Sonderfälle bei Austritt – Präsenzdienst/Truppenübung
 
@@ -178,6 +178,6 @@ Das auf den Antritt des Präsenz- oder Zivildienstes folgende Monat wird *mit lf
 
 Kehrt der Dienstnehmer nach dem Präsenz- bzw. Zivildienst wieder zurück, so ist dieser mit Wiedereintritt abzurechnen. Bei diesem Wiedereintritt sind die abzurechnenden Löhne bzw. Lohnarten neu einzutragen (nicht neu anlegen). Die Neueintragung ist notwendig, weil die laufenden Bezüge für die Abrechnung der BV-Beiträge während des Präsenz- bzw. Zivildienstes auf null gestellt wurden.
 
-Kehrt der Dienstnehmer nach dem Präsenz- bzw. Zivildienst nicht mehr zurück, ist ebenfalls mit Wiedereintritt abzurechnen. Es darf kein Eintrittsdatum eingetragen werden. Es ist das neue Austrittsdatum und der entsprechende Austrittsgrund einzugeben. Es können bei dieser Abrechnung noch Bezüge abgerechnet werden.
+Kehrt der Dienstnehmer nach dem Präsenz- bzw. Zivildienst nicht mehr zurück, ist ebenfalls mit Wiedereintritt abzurechnen. Es darf kein Eintrittsdatum eingetragen werden; stattdessen sind das neue Austrittsdatum und der entsprechende Austrittsgrund anzugeben. Es können bei dieser Abrechnung noch Bezüge abgerechnet werden.
 
 Vom Programm erfolgt die Abfrage, ob die Abmeldung in die ÖGK-Datei übernommen werden soll. Die Arbeitsbescheinigung mit Entgeltangabe wird mit allen Bezügen vor Beginn des Präsenz- bzw. Zivildienstes erstellt.

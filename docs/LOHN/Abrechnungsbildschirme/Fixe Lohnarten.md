@@ -6,11 +6,11 @@
 
 Hier können Sie einstellen, ob nach Stunden oder durch Eingabe des Grundlohnes bzw. Grundgehaltes abgerechnet werden soll. Wird nach Stunden abgerechnet, so können zwei verschiedene Stundensätze mit der entsprechenden Anzahl der Stunden eingegeben werden. Der eingegebene Stundensatz bleibt erhalten, die Stundenanzahl muss jeden Monat neu eingegeben werden.
 
-Wird nicht nach Stunden abgerechnet, so ist der monatliche Grundlohn bzw. Grundgehalt mit bis zu 2 Nachkommastellen einzugeben. Der hier eingegebene Betrag bleibt erhalten, kann jedoch in jedem Monat geändert werden. Die Eingabe des Betrages schließt sich mit der Verrechnung nach Stunden aus. Bei Ein- oder Austritt während des Monats wird dieser Betrag aliquotiert, falls das Eingabefeld *Aliquotierung* im Bildschirm *Stammdaten Fristen* aktiviert wurde.
+Wird nicht nach Stunden abgerechnet, so ist der monatliche Grundlohn bzw. Grundgehalt mit bis zu 2 Nachkommastellen einzugeben. Der hier eingegebene Betrag bleibt erhalten, kann jedoch in jedem Monat geändert werden. Die Eingabe des Betrages schließt sich mit der Verrechnung nach Stunden aus. Bei Ein- oder Austritt während des Monats wird dieser Betrag aliquotiert, falls das Eingabefeld *Aliquotierung* im Bildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) aktiviert wurde.
 
 **Brutto / Netto**
 
-Standardmäßig wird von Brutto auf Netto gerechnet. Es besteht jedoch auch die Möglichkeit, von Netto auf Brutto zu rechnen. Für diesen Fall ist unter *Lohn/Gehalt* der Nettobetrag einzugeben und das Programm ermittelt dann automatisch den richtigen Bruttobetrag.
+Standardmäßig wird von Brutto auf Netto gerechnet. Es besteht jedoch auch die Möglichkeit, von Netto auf Brutto zu rechnen. Für diesen Fall ist der Nettobetrag unter *Lohn/Gehalt* einzugeben und das Programm ermittelt dann automatisch den richtigen Bruttobetrag.
 
 **Trinkgeld**
 
@@ -18,11 +18,11 @@ Das Trinkgeld erhöht nur die Sozialversicherungsgrundlage, nicht jedoch den Aus
 
 **Sonderzahlung**
 
-Diese Lohnart dient zur Abrechnung einer Sonderzahlung gemäß § 67 (1) und (2) EStG (Urlaubszuschuss, Weihnachtsremuneration, sonstiger Sonderzahlungen). Die Sechstelberechnung, der Freibetrag, sowie die Bagatellregelung werden vom Programm berücksichtigt. Auf der Abrechnung wird diese fixe Lohnart allgemein als *Sonderzahlung* ausgewiesen. Sollte auf der Abrechnung eine Sonderzahlung mit individueller Bezeichnung, wie *Urlaubszuschuss*, *Weihnachtsremuneration* oder *Bilanz-Geld* aufscheinen, so ist dazu eine freie Lohnart mit dem entsprechenden Namen und den richtigen Pflichtigkeiten anzulegen.
+Diese Lohnart dient zur Abrechnung einer Sonderzahlung gemäß § 67 (1) und (2) EStG (Urlaubszuschuss, Weihnachtsremuneration, sonstiger Sonderzahlungen). Die Sechstelberechnung, der Freibetrag, sowie die Bagatellregelung werden vom Programm berücksichtigt. Auf der Abrechnung wird diese fixe Lohnart allgemein als *Sonderzahlung* ausgewiesen. Sollte auf der Abrechnung eine Sonderzahlung mit individueller Bezeichnung, wie *Urlaubszuschuss*, *Weihnachtsremuneration* oder *Bilanzgeld* aufscheinen, so ist dazu eine freie Lohnart mit dem entsprechenden Namen und den richtigen Pflichtigkeiten anzulegen.
 
 **Urlaubszuschuss**
 
-Diese Lohnart dient zur Abrechnung des Urlaubszuschusses gemäß § 67 (1) und (2) EStG. Die Sechstelberechnung, der Freibetrag, sowie die Bagatellregelung werden vom Programm berücksichtigt. Auf der Abrechnung wird diese fixe Lohnart allgemein als *Urlaubszuschuss* ausgewiesen. Sollte auf der Abrechnung eine individuelle Bezeichnung, wie *Urlaubsgeld* aufscheinen, so ist dazu eine freie Lohnart mit dem entsprechenden Namen und den richtigen Pflichtigkeiten anzulegen.
+Diese Lohnart dient zur Abrechnung des Urlaubszuschusses gemäß § 67 (1) und (2) EStG. Die Sechstelberechnung, der Freibetrag sowie die Bagatellregelung werden vom Programm berücksichtigt. Auf der Abrechnung wird diese fixe Lohnart allgemein als *Urlaubszuschuss* ausgewiesen. Sollte auf der Abrechnung eine individuelle Bezeichnung, wie *Urlaubsgeld* aufscheinen, so ist dazu eine freie Lohnart mit dem entsprechenden Namen und den richtigen Pflichtigkeiten anzulegen.
 
 **Weihnachtsremuneration**
 
@@ -38,9 +38,9 @@ In diesem Feld erfolgt die Eingabe von Aufwandsentschädigungen, die gemäß § 
 
 **Reisekosten pflichtig**
 
-Hier können Aufwandsentschädigungen eingegeben werden, die die Grenzen des § 26 Abs.4 überschreiten und somit lohnsteuerpflichtig und sozialversicherungspflichtig sind. Solche pflichtigen Aufwandsentschädigungen können auch als freie Lohnarten angelegt werden.
+Hier können Aufwandsentschädigungen eingegeben werden, die die Grenzen des §&nbsp;26&nbsp;Abs.&nbsp;4 überschreiten und somit lohnsteuerpflichtig und sozialversicherungspflichtig sind. Solche pflichtigen Aufwandsentschädigungen können auch als freie Lohnarten angelegt werden.
 
-**Begünstigte Auslandstätigkeit § 3 Abs. 1 Z 10 u. 11 EStG (Montagetätigkeit**)
+**Begünstigte Auslandstätigkeit § 3 Abs. 1 Z 10 u. 11 EStG (Montagetätigkeit)**
 
 Dieser Bereich ermöglicht die Abrechnung der Montagetätigkeit gemäß § 3 Abs. 1 Z 10 und 11 EStG.
 
@@ -48,7 +48,7 @@ Dieser Bereich ermöglicht die Abrechnung der Montagetätigkeit gemäß § 3 Abs
 
 Nach Abzug der Sozialversicherungsbeiträge können seit 2012 60 % der laufenden Einkünfte steuerfrei bleiben, wenn dieser Betrag die monatliche Höchstbeitragsgrundlage nicht übersteigt. Bezüge gemäß §§ 26 und 3 Abs. 1 Z 16b EStG (Reisekosten) bleiben dabei außer Ansatz. Sonderzahlungen fallen generell nicht unter die Befreiungsbestimmungen, da diese nur die laufenden Bezüge einschließt. Zusätzlich können die Zulagen und Zuschläge gemäß § 68 EStG während der Entsendung nicht in Anspruch genommen werden. Diese Bestimmungen werden vom Programm automatisch berücksichtigt.
 
-Je nachdem, ob zur Vermeidung von Doppelbesteuerungen die Anrechnungsmethode oder die Befreiungsmethode (kein Hackerl im Feld *DBA-Anrechnungsmethode*) mit oder ohne Lohnsteuerabzug zur Anwendung kommt, werden unterschiedliche Lohnzettel-Arten erstellt (siehe Tabelle unterhalb).
+Je nachdem, ob zur Vermeidung von Doppelbesteuerungen die Anrechnungsmethode oder die Befreiungsmethode (kein Häkchen im Feld *DBA-Anrechnungsmethode*) mit oder ohne Lohnsteuerabzug zur Anwendung kommt, werden unterschiedliche Lohnzettelarten erstellt (siehe Tabelle unterhalb).
 
 **Auslandstätigkeit (keine Montage) – Besteuerungsrecht im Ausland**
 
@@ -56,14 +56,14 @@ In diesem Bereich werden Einkünfte abgerechnet, die keine Montagetätigkeit (§
 
 ![Image](<img/image102.png>)
 
-Je nachdem, ob zur Vermeidung von Doppelbesteuerungen die Anrechnungsmethode oder die Befreiungsmethode (kein Hackerl im Feld *DBA-Anrechnungsmethode*) mit oder ohne Lohnsteuerabzug zur Anwendung kommt, werden unterschiedliche Lohnzettel-Arten erstellt (siehe Tabelle unterhalb).
+Je nachdem, ob zur Vermeidung von Doppelbesteuerungen die Anrechnungsmethode oder die Befreiungsmethode (kein Häkchen im Feld *DBA-Anrechnungsmethode*) mit oder ohne Lohnsteuerabzug zur Anwendung kommt, werden unterschiedliche Lohnzettelarten erstellt (siehe Tabelle unterhalb).
 
-| Übersicht Lohnzettelarten | Auslandstätigkeit/Montagetätigkeit | Auslandstätigkeit/Montagetätigkeit |
-| ------------------------- | ---------------------------------- | ---------------------------------- |
-| Befreiung/mit LSt         | LZ-Art 23                          | LZ-Art 8                           |
-| Befreiung/ohne LSt        | LZ-Art 8 und 23                    | LZ-Art 8                           |
-| Anrechnung/mit LSt        | LZ-Art 23 und 24 je Land           | LZ-Art 24 je Land                  |
-| Anrechnung/ohne LSt       | LZ-Art 23 und 24 je Land           | LZ-Art 24 je Land                  |
+| Übersicht Lohnzettelarten | Auslandstätigkeit/Montagetätigkeit | Auslandstätigkeit/ Keine Montagetätigkeit |
+| ------------------------- | ---------------------------------- | ----------------------------------------- |
+| Befreiung/mit LSt         | LZ-Art 23                          | LZ-Art 8                                  |
+| Befreiung/ohne LSt        | LZ-Art 8 und 23                    | LZ-Art 8                                  |
+| Anrechnung/mit LSt        | LZ-Art 23 und 24 je Land           | LZ-Art 24 je Land                         |
+| Anrechnung/ohne LSt       | LZ-Art 23 und 24 je Land           | LZ-Art 24 je Land                         |
 
 **Urlaubsablöse**
 
@@ -88,7 +88,7 @@ Eingabe des *Entgeltes*, das für die Berechnung der Abfertigung maßgeblich ist
 
 Eingabe des *Sonderzahlungs-Anspruches*, der für die Berechnung der Abfertigung maßgeblich ist. Entweder Eingabe des Gesamtjahresanspruches oder des Anspruches in Monaten (vom Programm werden Eingabewerte unter 20 als Monatseingaben gewertet).
 
-Aufgrund der für die Abfertigung maßgeblichen Daten wird vom Programm automatisch der *Abfertigungs-Anspruch* berechnet und vorgeschlagen. Dieser kann auch abgeändert werden. Eine solche vorgenommene Änderung ist durch ein Sternchen (*) vor dem Betragsfeld ersichtlich.
+Aufgrund der für die Abfertigung maßgeblichen Daten wird vom Programm automatisch der *Abfertigungs-Anspruch* berechnet und vorgeschlagen. Dieser kann auch abgeändert werden. Eine solche Änderung ist durch ein Sternchen (*) vor dem Betragsfeld ersichtlich.
 
 **Lohnbasis SW-Entschädigung**
 
@@ -97,7 +97,7 @@ Eingabe des vollen Stundensatzes und der Stundenanzahl. Es werden davon automati
 **Unbezahlter Urlaub**
 
 Eingabe der Zahl der Tage und des Grundlohns für den Zeitraum des unbezahlten Urlaubs für Zwecke der Sozialversicherung. Für die Zeit des unbezahlten Urlaubes hat der Dienstnehmer die Sozialversicherungsbeiträge (einschließlich Schlechtwetter-Beitrag), auch die Dienstgeberanteile, zur Gänze zu tragen. Die KU, der WF und die
-LKU (außer in der Steiermark und Kärnten) entfallen für solche Zeiträume. Der IESG-Zuschlag und der Beitrag nach dem Nachtschicht-Schwerarbeitsgesetz sind jedoch vom Dienstgeber zu entrichten.
+LKU (außer in der Steiermark und Kärnten) entfallen für solche Zeiträume. Der IESG-Zuschlag und der Beitrag gemäß dem Nachtschicht-Schwerarbeitsgesetz sind jedoch vom Dienstgeber zu entrichten.
 
 **Teilentgelt**
 
@@ -132,7 +132,7 @@ Die Eintragung im RZL Feld *Monat der RV* muss nicht dasselbe Monat sein, sonder
 
 ![Image](<img/image107.png>){width="700"}
 
-Im Kontextmenü wählen Sie *BUAK – Urlaubsentgeltverrechnung* aus.
+Im Kontextmenü wählen Sie *BUAK–Urlaubsentgeltverrechnung* aus.
 
 ![Image](<img/image108.png>){width="700"}
 
@@ -144,7 +144,7 @@ Es erfolgt eine automatische Aufteilung des Urlaubsentgelts und des Urlaubszusch
 
 Seit 1.1.2012 darf der Urlaubszuschuss für Dienstnehmer, die dem BUAG unterliegen und die keine Direktauszahlung von der BUAK erhalten, nicht als normale Sonderzahlung abgerechnet werden.
 
-Die Eintragung kann im Feld *UZ (BUAG)* erfolgen. Die Versteuerung erfolgt mit 6 % ohne Berücksichtigung des Freibetrages (EUR 620,00), ohne Berücksichtigung der Freigrenze (ab 2024: EUR 2.447,00 bis 2023: EUR 2.100) und ohne Anrechnung auf das Jahreszwölftel. Der Urlaubszuschuss kann auch mit einer freien Lohnart mit Lohnsteuerpflichtigkeit *Nr. 3 LSt. gem. § 67 ohne Freibetrag von 620,-- ohne Sechstelbestimmung* abgerechnet werden.
+Die Eintragung kann im Feld *UZ (BUAG)* erfolgen. Die Versteuerung erfolgt mit 6 % ohne Berücksichtigung des Freibetrages (EUR 620,00), ohne Berücksichtigung der Freigrenze (ab 2024: EUR 2.447,00 bis 2023: EUR 2.100) und ohne Anrechnung auf das Jahreszwölftel. Der Urlaubszuschuss kann auch mit einer freien Lohnart mit Lohnsteuerpflichtigkeit *Nr. 3 LSt. gem. § 67 ohne Freibetrag von 620,00 ohne Sechstelbestimmung* abgerechnet werden.
 
 Damit das Feld *UZ (BUAG)* ausgefüllt werden kann und für weitere sonstige Bezüge (Weihnachtsremuneration) das Jahreszwölftel gemäß § 67 (5) EStG berücksichtigt wird, muss im Abrechnungsbildschirm *Sozialversicherung* im Bereich *Bauarbeiter- Urlaubs- und Abfertigungskasse (BUAK)* das Häkchen gesetzt sein.
 
@@ -171,16 +171,16 @@ Siehe [Start-Up-Mitarbeiterbeteiligung](../Abrechnungen%20Sonderfälle/Start-Up-
 
 ![Image](<img/image110.png>){width="500"}
 
-In Ausnahmefällen kann die Berechnung der Lohnsteuer und/oder der Sozialversicherung durch den Benutzer abweichend eingetragen (geändert) werden. Durch Anwahl der *rechten Maustaste* oder der Tastenkombination *Strg – 0,* kann der Wert im jeweiligen Feld *Explizit 0* gesetzt werden.
+In Ausnahmefällen kann die Berechnung der Lohnsteuer und/oder der Sozialversicherung durch den Benutzer abweichend eingetragen bzw. geändert werden. Durch Anwahl der *rechten Maustaste* oder der Tastenkombination *Strg – 0,* kann der Wert im jeweiligen Feld *Explizit 0* gesetzt werden.
 
 Eingabe der *abweichenden Lohnsteuer* getrennt nach laufender und fester Lohnsteuer gemäß §&nbsp;67&nbsp;(1) und § 67 (3) EStG 1988. Wird eine abweichende Lohnsteuer eingegeben, so ist immer die gesamte Lohnsteuer der Abrechnung (laufende und feste Lohnsteuer) einzugeben.
 
-Wie bei der abweichenden Lohnsteuer kann auch die *Sozialversicherung* bei Vorliegen eines speziellen Falles *abweichend* eingegeben werden. Im Feld *Betrag* ist immer der gesamte SV-Arbeitnehmeranteil einzutragen, in den beiden Eingabefeldern KZ 225 und KZ 226 jener SV-Anteil, der auf diese beiden Kennziffern laut Lohnzettel entfällt.
+Wie bei der abweichenden Lohnsteuer kann auch die *Sozialversicherung* bei Vorliegen eines speziellen Falles *abweichend* eingegeben werden. Im Feld *Betrag* ist immer der gesamte SV-Arbeitnehmeranteil einzutragen, in den beiden Eingabefeldern KZ 225 und KZ 226 jener SV-Anteil, der auf diese beiden Kennziffern gemäß Lohnzettel entfällt.
 
-Das Programm berechnet bei Ein- und Austritten während eines Monats die SV und LSt-Tage automatisch. Eine davon abweichende Regelung kann in den Feldern *abw. SV* und *LST-Tage* eingegeben werden.
+Das Programm berechnet bei Ein- und Austritten während eines Monats die SV und LSt-Tage automatisch. Eine davon abweichende Regelung kann in den Feldern *abw. SV* und *LST-Tage* vorgenommen werden.
 
 Im Feld *abw. BV-Bemessung* kann die automatische Berechnung der BV-Bemessung durch eine abweichende Eintragung geändert werden.
 
 **BVA/Eisenbahn/Bergbau – Bem. Krankenversicherung während der Karenz**
 
-Wenn in den Stammdaten des Klienten im [Registerblatt *ÖGK, BV-Kasse*](../Klientenstammdaten/Stammdaten%20Klient/ÖGK,%20BV-Kasse.md) die Versicherungsanstalt für öffentlich Bedienstete, Eisenbahnen oder Bergbau ausgewählt ist, kann hier die Bemessungsgrundlage für die Krankenversicherung während der Karenz eingetragen werden. Betrifft zum Beispiel die Tarifgruppen V603, V604, V605, V606, V607).
+Wenn in den Stammdaten des Klienten im [Registerblatt *ÖGK, BV-Kasse*](../Klientenstammdaten/Stammdaten%20Klient/ÖGK,%20BV-Kasse.md) die Versicherungsanstalt für öffentlich Bedienstete, Eisenbahnen oder Bergbau ausgewählt ist, kann hier die Bemessungsgrundlage für die Krankenversicherung während der Karenz eingetragen werden. Dies betrifft beispielsweise die Tarifgruppen V603, V604, V605, V606, V607.

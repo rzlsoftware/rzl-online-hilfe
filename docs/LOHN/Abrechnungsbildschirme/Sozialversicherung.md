@@ -4,29 +4,29 @@
 
 **SV-Pflicht**
 
-- *Bundesland*
+- **Bundesland**
 
-Eingabe des Bundeslandes, in welchem der Dienstnehmer bei der ÖGK angemeldet ist, durch Auswahl aus der vorgegebenen Liste der österreichischen Bundesländer. Neben dem Eintrag *ÖGK-Nummer* wird die in den Stammdaten des Klienten eingetragene Beitragskontonummer angezeigt. Sollte keine Kontonummer vorhanden sein, erfolgt ein Warnhinweis.
+    Eingabe des Bundeslandes, in welchem der Dienstnehmer bei der ÖGK angemeldet ist, durch Auswahl aus der vorgegebenen Liste der österreichischen Bundesländer. Neben dem Eintrag *ÖGK-Nummer* wird die in den Stammdaten des Klienten eingetragene Beitragskontonummer angezeigt. Sollte keine Kontonummer vorhanden sein, erfolgt ein Warnhinweis.
 
-- *Filter Beschäftigtengruppe*
+- **Filter Beschäftigtengruppe**
 
-![Image](<img/image93.png>)
+    ![Image](<img/image93.png>)
 
-Hier kann die Beschäftigtengruppenauswahl gefiltert werden. Somit erscheinen nur die benötigten Beschäftigungsgruppen.
+    Hier kann die Beschäftigtengruppenauswahl gefiltert werden. Somit erscheinen nur die benötigten Beschäftigungsgruppen.
 
-- *Beschäftigungsgruppe*
+- **Beschäftigungsgruppe**
 
-Eingabe der Beschäftigungsgruppe durch Auswahl aus der vorgegebenen Liste der im Programm vorgesehenen Beschäftigungsgruppen.
+    Eingabe der Beschäftigungsgruppe durch Auswahl aus der vorgegebenen Liste der im Programm vorgesehenen Beschäftigungsgruppen.
 
-Aufgrund der gewählten Beschäftigungsgruppe werden die jeweiligen Felder hinsichtlich der Nebenbeiträge automatisch aktiviert. Es brauchen daher nur in Ausnahmefällen diese vorgeschlagenen Eingaben korrigiert werden, wenn z.B. ein Berufsanwärter nicht der Kammerumlagepflicht unterliegt.
+    Aufgrund der gewählten Beschäftigungsgruppe werden die jeweiligen Felder hinsichtlich der Nebenbeiträge automatisch aktiviert. Es brauchen daher nur in Ausnahmefällen diese vorgeschlagenen Eingaben korrigiert werden, wenn z. B. ein Berufsanwärter nicht der Kammerumlagepflicht unterliegt.
 
-Durch Anklicken des blauen Rufzeichens ![Image](<img/image94.png>) dieser Beschäftigtengruppe anzeigen lassen.
+    Durch Anklicken des blauen Rufzeichens ![Image](<img/image94.png>) können Sie sich die Details der Beschäftigtengruppe anzeigen lassen.
 
-![Image](<img/image95.png>){width="500"}
+    ![Image](<img/image95.png>){width="500"}
 
-- *Beschäftigungsbereich (Anmeldung)*
+- **Beschäftigungsbereich (Anmeldung)**
 
-Aufgrund der gewählten Beschäftigtengruppe erkennt das Programm automatisch, ob es sich um einen Arbeiter oder Angestellten handelt. Dieses Eingabefeld muss daher nur dann entsprechend beachtet werden, wenn ausnahmsweise keine SV-Pflicht vorliegt.
+    Aufgrund der gewählten Beschäftigtengruppe erkennt das Programm automatisch, ob es sich um einen Arbeiter oder Angestellten handelt. Dieses Eingabefeld muss daher nur dann entsprechend beachtet werden, wenn ausnahmsweise keine SV-Pflicht vorliegt.
 
 **Minderung PV um 50 % (Abschlag A15)**
 
@@ -38,7 +38,7 @@ Da die Nutzung des Abschlages A15 zeitlich begrenzt ist, kommt in jenem Monat, w
 
 **Reduktion DN-Anteil PV (Abschlag A22)**
 
-Von 2024 bis 2025 können Dienstnehmer, die bereits das Regelpensionsalter erreicht haben und Pensionsbezüge erhält, einen Abschlag der PV-Anteile bis zur doppelten Geringfügigkeitsgrenze in Anspruch nehmen.
+Von 2024 bis 2025 können Dienstnehmer, die bereits das Regelpensionsalter erreicht haben und Pensionsbezüge erhalten, einen Abschlag der PV-Anteile bis zur doppelten Geringfügigkeitsgrenze in Anspruch nehmen.
 
 Das Feld *Reduktion DN-Anteil PV* kann nur aktiviert werden, wenn der Dienstnehmer das Regelpensionsalter bereits erreicht hat. Das Feld ist zu aktivieren, wenn der Dienstnehmer das Regelpensionsalter erreicht hat und Pensionsbezüge erhält. Das Feld muss von Ihnen manuell angewählt werden, da das Lohnprogramm nicht erkennen kann, ob der Dienstnehmer Pensionsbezüge erhält oder nicht.
 
@@ -46,17 +46,17 @@ Das Feld *Reduktion DN-Anteil PV* kann nur aktiviert werden, wenn der Dienstnehm
     Die Felder *Reduktion DN-Anteil PV* und *Minderung PV um 50 %* schließen sich gegenseitig aus.
 
 !!! warning "Hinweis"
-    Es erfolgt einen Monat vor dem erreichen der Regelpension und im aktuellen Monat des Erreichens der Regelpension ein Hinweis bei den Fristen / Termine:
+    Es erfolgt ein Monat vor dem Erreichen der Regelpension und im aktuellen Monat des Erreichens der Regelpension ein Hinweis bei den Fristen / Termine:
 
-![Image](<img/image97.png>)
+    ![Image](<img/image97.png>)
 
-![Image](<img/image98.png>)
+    ![Image](<img/image98.png>)
 
 **Sozialfonds**
 
 Durch Aktivierung des Häkchens wird der Sozialfonds automatisch abgerechnet.
 
-Die Bemessung ergibt sich aus den laufenden Bezügen und den Sonderzahlungen nach § 49 ASVG. Die Höchstbeitragsgrundlage kommt hierbei NICHT zur Anwendung. Auch für geringfügige Dienstnehmer ist der Sozialfonds abzuführen. 2022 beträgt der Sozialfonds 0,20 %.
+Die Bemessung ergibt sich aus den laufenden Bezügen und den Sonderzahlungen nach §&nbsp;49&nbsp;ASVG. Die Höchstbeitragsgrundlage kommt hierbei **nicht** zur Anwendung. Auch für geringfügige Dienstnehmer ist der Sozialfonds abzuführen. Seit 2022 beträgt der Sozialfonds 0,20 %.
 
 **Meldung Schwerarbeit**
 
@@ -67,7 +67,7 @@ In diesem Bereich kann die Schwerarbeit für den abgerechneten Monat erfasst wer
 
 **UST-Pflicht**
 
-Handelt es sich beim Auftragnehmer um einen umsatzsteuerpflichtigen Unternehmer, so ist dieses Auswahl-feld zu aktivieren. Im nächsten Eingabefeld ist dann der *USt-Prozentsatz* einzugeben. Die USt wird vom Pro-gramm automatisch berechnet und zum Entgelt hinzugezählt. Das Programm geht davon aus, dass es sich bei den abgerechneten Beträgen um Nettobeträge, d. h. ohne Umsatzsteuer, handelt. Sie haben auch die Möglichkeit, eine *abweichende UST-Basis* einzutragen.
+Handelt es sich beim Auftragnehmer um einen umsatzsteuerpflichtigen Unternehmer, so ist dieses Auswahlfeld zu aktivieren. Im nächsten Eingabefeld ist dann der *USt-Prozentsatz* einzugeben. Die USt wird vom Programm automatisch berechnet und zum Entgelt hinzugezählt. Das Programm geht davon aus, dass es sich bei den abgerechneten Beträgen um Nettobeträge, das heißt ohne Umsatzsteuer, handelt. Sie haben auch die Möglichkeit, eine *abweichende UST-Basis* einzutragen.
 
 **Service – Entgelt (e-card)**
 
@@ -93,14 +93,14 @@ Im Feld *Bemessungsgrundlage SV alt* ist die Anzahl und der Betrag der Sozialver
 
 Im Feld *Bemessungsgrundlage SV SZ alt* wird die Bemessungsgrundlage für die Sonderzahlung, der auf diese Beschäftigtengruppe entfallenden Sonderzahlungen, eingetragen.
 
-Im Feld *Bemessungsgrundlage BV alt* wird die Bemessungsgrundlage für die auf diese Beschäftigtengruppe entfallenden Beiträge, eingetragen.
+Im Feld *Bemessungsgrundlage BV alt* wird die Bemessungsgrundlage für die auf diese Beschäftigtengruppe entfallenden Beiträge eingetragen.
 
 **SV-Freibetrag**
 
 Eingabe eines Freibetrages zur Berechnung der Sozialversicherung mit Prozentsatz und Höchstbetrag. Eine solche Sonderregelung gibt es beispielsweise für Schilehrer in Tirol.
 
 !!! warning "Hinweis"
-    Bei Hausgehilfen und Landarbeitern wird u.U. die Sozialversicherung der Sonderzahlungen pauschal monatlich in die normale SV-Grundlage einbezogen. Bei Eingabe des Prozentsatzes mit einem **vorgestellten Minus** (z. B. –17 %) wird die Grundlage erhöht.
+    Bei Hausgehilfen und Landarbeitern wird unter Umständen die Sozialversicherung der Sonderzahlungen pauschal monatlich in die normale SV-Grundlage einbezogen. Bei Eingabe des Prozentsatzes mit einem **vorgestellten Minus** (z. B. –17 %) wird die Grundlage erhöht.
 
 Wird das Feld *Pauschale SV-SZ bei 20 % Regelung nicht berücksichtigen* aktiviert, dann wird diese 20 % Regelung auf die pauschale Sozialversicherung nicht angewendet.
 
@@ -110,7 +110,7 @@ Diese 20 % Regelung sagt aus, dass die allgemeinen Beiträge (Kranken, Pensions-
 
 In Ausnahmefällen kann die Rückverrechnung der Arbeitslosenversicherung durch Anwahl des Feldes *keine AlV-Rückverrechnung* unterbunden werden.
 
-Eine Minderung der ALV-Rückverrechnung kann in Fällen vorkommen, wo in einem Monat mehrere Dienstverhältnisse stattfinden. In diesem Fall müssen die Bemessungsgrundlagen summiert werden und es kann sich eine niedrigere ALV-Rückverrechnung ergeben, als das Programm vorschlägt.
+Eine Minderung der ALV-Rückverrechnung kann in Fällen vorkommen, wo in einem Monat mehrere Dienstverhältnisse bestanden haben. In diesem Fall müssen die Bemessungsgrundlagen summiert werden und es kann sich eine niedrigere ALV-Rückverrechnung ergeben, als das Programm vorschlägt.
 
 **Bonusgruppen**
 
@@ -122,4 +122,4 @@ Falls ein mBGM nicht korrekt von uns vorgeschlagen wird, haben Sie hier die Mög
 
 Die Verrechnungsgrundlage und der Beginn der Verrechnung können unabhängig voneinander abweichend eingestellt werden.
 
-Wenn kein mBGM erstellt werden soll, aktivieren Sie das Hackerl *mBGM nicht erstellen*.
+Wenn kein mBGM erstellt werden soll, aktivieren Sie das Häkchen *mBGM nicht erstellen*.
