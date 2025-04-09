@@ -79,7 +79,7 @@ Eingabe des Staatsbürgerschaftsschlüssels laut Österreichischer Gesundheitska
 
 **externe DN-Nummer**
 
-Wenn in den Stammdaten des Klienten im Registerblatt [*Neufög, BUAK, ELDA*](../Klientenstammdaten/Stammdaten Klient (Dienstgeber)/Neufög, BUAK, ELDA.md) das Feld *externe DN-Nummer* aktiviert ist, kann hier diese extra Nummer eingetragen werden. Diese Nummer kann beim Ausdruck der Abrechnungen, beim Datenimport und Datenexport verwendet werden.
+Wenn in den Stammdaten des Klienten im Registerblatt [*Neufög, BUAK, ELDA*](../Klientenstammdaten/Stammdaten Klient/Neufög, BUAK, ELDA.md) das Feld *externe DN-Nummer* aktiviert ist, kann hier diese extra Nummer eingetragen werden. Diese Nummer kann beim Ausdruck der Abrechnungen, beim Datenimport und Datenexport verwendet werden.
 
 **Beruf**
 

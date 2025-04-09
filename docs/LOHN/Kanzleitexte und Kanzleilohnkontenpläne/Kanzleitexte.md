@@ -16,7 +16,7 @@ folgender Dialog:
 
 Im Registerblatt *Tabelle* wird der Name des *Kanzleitextes* festgelegt. Nach Eingabe der *Bezeichnung* können in den Registerfeldern *Standard-Texte,* *Dienstzettel-Texte* *und Abrechnungs-Texte* die gewünschten Texte eingegeben werden.
 
-Diese Kanzlei-Texte, die in diesem Menüpunkt festgelegt werden, können wenn gewünscht, bei jedem Klienten verwendet werden. Voraussetzung für die Verwendung beim Klienten ist die Aktivierung des Auswahlfeldes [*Kanzleitexte*](../Klientenstammdaten/Stammdaten Klient (Dienstgeber)/LA, Formeln, Texte, Kontenplan, Beiträge, Währung.md) mit Eingabe der gewünschten Nummer im Registerblatt *LA, Texte, Kontenplan usw.* des Menüpunkts *Stamm / Klient.*
+Diese Kanzlei-Texte, die in diesem Menüpunkt festgelegt werden, können wenn gewünscht, bei jedem Klienten verwendet werden. Voraussetzung für die Verwendung beim Klienten ist die Aktivierung des Auswahlfeldes [*Kanzleitexte*](../Klientenstammdaten/Stammdaten%20Klient/LA,%20Formeln,%20Texte,%20Kontenplan,%20Beiträge,%20Währung.md) mit Eingabe der gewünschten Nummer im Registerblatt *LA, Texte, Kontenplan usw.* des Menüpunkts *Stamm / Klient.*
 
 **Standardtexte**
 

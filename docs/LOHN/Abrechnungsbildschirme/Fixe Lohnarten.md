@@ -183,4 +183,4 @@ Im Feld *abw. BV-Bemessung* kann die automatische Berechnung der BV-Bemessung du
 
 **BVA/Eisenbahn/Bergbau – Bem. Krankenversicherung während der Karenz**
 
-Wenn in den Stammdaten des Klienten im [Registerblatt *ÖGK, BV-Kasse*](../Klientenstammdaten/Stammdaten Klient (Dienstgeber)/ÖGK, BV-Kasse.md) die Versicherungsanstalt für öffentlich Bedienstete, Eisenbahnen oder Bergbau ausgewählt ist, kann hier die Bemessungsgrundlage für die Krankenversicherung während der Karenz eingetragen werden. Betrifft zum Beispiel die Tarifgruppen V603, V604, V605, V606, V607).
+Wenn in den Stammdaten des Klienten im [Registerblatt *ÖGK, BV-Kasse*](../Klientenstammdaten/Stammdaten%20Klient/ÖGK,%20BV-Kasse.md) die Versicherungsanstalt für öffentlich Bedienstete, Eisenbahnen oder Bergbau ausgewählt ist, kann hier die Bemessungsgrundlage für die Krankenversicherung während der Karenz eingetragen werden. Betrifft zum Beispiel die Tarifgruppen V603, V604, V605, V606, V607).

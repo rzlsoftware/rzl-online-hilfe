@@ -6,11 +6,11 @@ Dieser Abrechnungsbildschirm bietet im ersten Bereich die Verknüpfung mit der H
 
 **HGKV-DB**
 
-Mit den in diesem Bereich getroffenen Einstellungen weist das Programm auf „Bezüge unter KV-Mindestlohn“ und auf „Bezüge unter vereinbarter KV-Überzahlung“ hin. Im Abrechnungsbildschirm *Fixe Lohnarten* kann im Feld *Betrag* bzw. in den Feldern *Stundensatz 1* und *2* mit der Tastenkombination *Strg – K* der KV-Bezug (mit oder ohne Überzahlung) automatisch übernommen werden.
+Mit den in diesem Bereich getroffenen Einstellungen weist das Programm auf „Bezüge unter KV-Mindestlohn“ und auf „Bezüge unter vereinbarter KV-Überzahlung“ hin. Im Abrechnungsbildschirm *Fixe Lohnarten* kann im Feld *Betrag* bzw. in den Feldern *Stundensatz 1* und *2* mit der Tastenkombination *Strg + K* der KV-Bezug (mit oder ohne Überzahlung) automatisch übernommen werden.
 
 **Kollektivvertrag**
 
-Durch Anwahl der *F2-Taste* können die in den *Klientenstammdaten* hinterlegten [Kollektivverträge](../Klientenstammdaten/Stammdaten Klient (Dienstgeber)/Kostenstellen, Kostenträger, Krankenstandsbescheinigungen, KV.md) aufgerufen und dem Dienstnehmer zugeordnet werden.
+Durch Anwahl der *F2-Taste* können die in den *Klientenstammdaten* hinterlegten [Kollektivverträge](../Klientenstammdaten/Stammdaten Klient/Kostenstellen, Kostenträger, Krankenstandsbescheinigungen, KV.md) aufgerufen und dem Dienstnehmer zugeordnet werden.
 
 **Beginn Einstufung**
 
@@ -22,7 +22,7 @@ Die Eintragung von anrechenbaren Vordienstzeiten kann hier in Monaten eingetrage
 
 **Umstufung Tätigkeitsgr.** 
 
-Dieser Punkt wurde ursprünglich für den Kollektivvertrag Handel Angestellte geschaffen und kann jetzt auch für alle anderen Kollektivverträge angewendet werden. (Näheres zur Umstufung KV-Handel finden Sie [hier](../Kollektivverträge/Umstellung%20KV-Handel%20Angestellte.md).
+Dieser Punkt wurde ursprünglich für den Kollektivvertrag Handel Angestellte geschaffen und kann aber nun auch für alle anderen Kollektivverträge angewendet werden. (Näheres zur Umstufung KV-Handel finden Sie [hier](../Kollektivverträge/Umstellung%20KV-Handel%20Angestellte.md)).
 
 ![Image](<img/image59.png>){width="600"}
 
@@ -73,7 +73,7 @@ Wenn die ursprüngliche Überzahlung beibehalten bleiben soll, dann aktivieren S
 
 ![Image](<img/image66.png>){width="600"}
 
-Wenn das Feld nicht angehakt wird, dann wird die *Überzahlung neu*, neu ermittelt.
+Wenn das Feld nicht angehakt wird, dann wird die *Überzahlung neu*, erneut ermittelt.
 
 ![Image](<img/image67.png>){width="600"}
 
@@ -162,7 +162,7 @@ Dieses Feld ermöglicht die Eingabe eines Zu- oder Abschlags zum Bezug laut Koll
 !!! info "Tipp"
     Durch Anwahl der Tastenkombination *Alt – F8* kann der beim Dienstnehmer ausgewählte Kollektivvertrag aufgerufen werden.
 
-Die abonnierten Kollektivverträge müssen in den *Klientenstammdaten* zugeordnet werden. Die Zuordnung erfolgt im [Registerblatt *Kostenstellen, Krankenstandsbesch., KV* im Bereich *Kollektivverträge*](..//Klientenstammdaten/Stammdaten%20Klient%20%28Dienstgeber%29/Kostenstellen%2C%20Kostenträger%2C%20Krankenstandsbescheinigungen%2C%20KV.md).
+Die abonnierten Kollektivverträge müssen in den *Klientenstammdaten* zugeordnet werden. Die Zuordnung erfolgt im [Registerblatt *Kostenstellen, Krankenstandsbesch., KV* im Bereich *Kollektivverträge*](..//Klientenstammdaten/Stammdaten%20Klient/Kostenstellen,%20Kostenträger,%20Krankenstandsbescheinigungen,%20KV.md).
 
 ![Image](<img/image71.png>){width="500"}
 

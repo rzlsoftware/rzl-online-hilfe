@@ -11,7 +11,7 @@ Die Überweisungsliste kann auch für die Dienstgeberabgaben gedruckt werden.
 Durch Anwahl des Feldes *IBAN und BIC drucken*, werden anstatt Bankleitzahl und Kontonummer eben IBAN und BIC angedruckt.
 
 !!! warning "Hinweis"
-    Es kann zwischen den in den [*Dienstgeberstammdaten*](../Klientenstammdaten/Stammdaten Klient (Dienstgeber)/Bank, Überweisung, Zahltag.md) oder [*Unter­dienstgeberstammdaten*](../Klientenstammdaten/Unterdienstgeber.md) angelegten Banken ausgewählt werden.
+    Es kann zwischen den in den [*Dienstgeberstammdaten*](../Klientenstammdaten/Stammdaten Klient/Bank, Überweisung, Zahltag.md) oder [*Unter­dienstgeberstammdaten*](../Klientenstammdaten/Unterdienstgeber.md) angelegten Banken ausgewählt werden.
 
 Beim Ausdruck der Überweisungslisten wird bei den Abrechnungen automatisch ein Sperrvermerk gesetzt. Ein neuerlicher Ausdruck der *Überweisungsliste Abrechnungen* kann nur nach einem *Repair* (*Bearbeiten / Repair / Überweisungen / Überweisung Abrechnung zurücksetzen*) durchgeführt werden.
 

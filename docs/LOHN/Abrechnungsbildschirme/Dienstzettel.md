@@ -18,7 +18,7 @@ Das Bruttogehalt, der Bruttolohn bzw. das Lehrlingseinkommen kommen aus der Fixe
 
 **Fälligkeit des Entgeltes**
 
-Als Vorschlag wird jene Eingabe unter *Stamm / Klient / *[*Zahltag Abrechnung*](../Klientenstammdaten/Stammdaten Klient (Dienstgeber)/Bank, Überweisung, Zahltag.md) angeführt. Sie haben die Möglichkeit den Vorschlag mit bis zu 30 Zeichen zu überschreiben.
+Als Vorschlag wird jene Eingabe unter *Stamm / Klient / *[*Zahltag Abrechnung*](../Klientenstammdaten/Stammdaten%20Klient/Bank,%20Überweisung,%20Zahltag.md) angeführt. Sie haben die Möglichkeit den Vorschlag mit bis zu 30 Zeichen zu überschreiben.
 
 **Art der Auszahlung**
 

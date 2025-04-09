@@ -8,7 +8,7 @@ Außerdem wird bei Aufrollungen eine eventuelle Differenz an Lohnsteuer, DB, DZ,
 
 Wird das Auswahlfeld *ursprüngliche Werte verwenden* aktiviert, dann erfolgt der Ausdruck vor Aufrolldifferenzen (betrifft aufgerollte Monate).
 
-Ist in den Dienstgeber-Stammdaten das Auswahlfeld [*Münzliste*](../../Klientenstammdaten/Stammdaten%20Klient%20(Dienstgeber)/Bank, Überweisung, Zahltag.md) aktiviert, so erfolgt nach dem Ausdruck des Auszahlungsjournals der Ausdruck der Münzliste. Dabei werden nur jene Dienstnehmer berücksichtigt, bei denen keine Bank mit Namen und Kontonummer angelegt wurde.
+Ist in den Dienstgeber-Stammdaten das Auswahlfeld [*Münzliste*](../../Klientenstammdaten/Stammdaten%20Klient/Bank,%20Überweisung,%20Zahltag.md) aktiviert, so erfolgt nach dem Ausdruck des Auszahlungsjournals der Ausdruck der Münzliste. Dabei werden nur jene Dienstnehmer berücksichtigt, bei denen keine Bank mit Namen und Kontonummer angelegt wurde.
 
 !!! info "Tipp"
     Das Auszahlungsjournal kann auch für mehrere Klienten gleichzeitig (klientenübergreifend) im Programmteil *Klient / Drucken / Journal / ÖGK / Auszahlungsjournal* ausgedruckt werden.

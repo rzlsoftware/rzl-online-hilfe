@@ -4,7 +4,7 @@ Im Eingabebildschirm der frei definierbaren Lohnarten können zusätzliche Lohna
 
 **Lohnarten-Nummer**
 
-Eingabe der Nummer der selbst definierten Lohnart. Mit der *F2-Taste* kann eine Liste der Lohnarten aufgerufen werden. Ist unter der eingegebenen Nummer keine Lohnart angelegt, erscheint die Meldung *Die angegebene Lohnart existiert nicht.* Diese kann mit der *F4-Taste* nun sofort angelegt werden. Werden Kanzleilohnarten verwendet, so kann eine neue Lohnart nicht bei der Abrechnung des Dienstnehmers angelegt werden, sondern nur im Programmpunkt [*Kanzleilohnarten*](../Klientenstammdaten/Stammdaten%20Klient%20(Dienstgeber)/LA, Formeln, Texte, Kontenplan, Beiträge, Währung.md).
+Eingabe der Nummer der selbst definierten Lohnart. Mit der *F2-Taste* kann eine Liste der Lohnarten aufgerufen werden. Ist unter der eingegebenen Nummer keine Lohnart angelegt, erscheint die Meldung *Die angegebene Lohnart existiert nicht.* Diese kann mit der *F4-Taste* nun sofort angelegt werden. Werden Kanzleilohnarten verwendet, so kann eine neue Lohnart nicht bei der Abrechnung des Dienstnehmers angelegt werden, sondern nur im Programmpunkt [*Kanzleilohnarten*](../Klientenstammdaten/Stammdaten%20Klient/LA,%20Formeln,%20Texte,%20Kontenplan,%20Beiträge,%20Währung.md).
 
 **Anzahl**
 

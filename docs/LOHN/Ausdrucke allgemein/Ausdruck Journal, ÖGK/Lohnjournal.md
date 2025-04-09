@@ -16,7 +16,7 @@ Auf dem Ausweis der einzelnen Dienstnehmer erfolgt eine Aufgliederung der Brutto
 
 Im Anschluss an die Aufgliederung der Bruttobezüge erfolgt die Darstellung der Berechnung des Dienstgeberbeitrages, des Zuschlages zum DB, der Kommunalsteuer und in Wien der U-Bahn-Abgabe. Diese Berechnungen sind immer *ohne* Aufrolldifferenzen.
 
-Aufgrund der in den Stammdaten des Dienstgebers festgelegten Abrechnungsmethode gegenüber der [österreichischen Gesundheitskasse](../../Klientenstammdaten/Stammdaten Klient (Dienstgeber)/ÖGK, BV-Kasse.md) wird bei Selbstabrechnern automatisch die monatliche Beitragsgrundlagenmeldung für die österreichische Gesundheitskasse ausgedruckt.
+Aufgrund der in den Stammdaten des Dienstgebers festgelegten Abrechnungsmethode gegenüber der [österreichischen Gesundheitskasse](../../Klientenstammdaten/Stammdaten Klient/ÖGK, BV-Kasse.md) wird bei Selbstabrechnern automatisch die monatliche Beitragsgrundlagenmeldung für die österreichische Gesundheitskasse ausgedruckt.
 
 !!! info "Tipp"
     Das Lohnjournal kann auch für mehrere Klienten gleichzeitig (klientenübergreifend) im Programmteil *Klient / Drucken / Journal / ÖGK / Lohnjournal / ÖGK* ausgedruckt werden.
