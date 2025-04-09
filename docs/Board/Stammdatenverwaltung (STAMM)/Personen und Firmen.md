@@ -41,18 +41,16 @@ Nach Bestätigen der Eingaben mit *OK* gelangen Sie in die Stammdaten
 einer neuen Person. Die Bereiche der Stammdaten der Personen bzw. Firmen
 werden in den folgenden Unterkapiteln beschrieben.
 
-## Personen
-
 ### **Personendaten Allgemein**
 
 In der Startansicht werden die zentralen Personendaten angezeigt. Über
-die Leiste auf der linken Seite **(1)** können die einzelnen Bereiche
-der Stammdaten der Person gewählt werden. Mittels *Speichern* **(2)**
+die Leiste auf der linken Seite können die einzelnen Bereiche
+der Stammdaten der Person gewählt werden. Mittels *Speichern* 
 werden die eingegebenen Daten übernommen. Die Übersicht (Liste) der
-Personen und Firmen bleibt in einem eigenen Tab offen **(3)**. Durch
+Personen und Firmen bleibt in einem eigenen Tab offen. Durch
 Klick auf diesen Tab können weitere Personen/Firmen geöffnet werden.
 
-![](<img/image23.png>)
+![](<img/Personendaten Allgemein.png>)
 
 Über das Symbol **(4)** können Sie die Personendaten aus dem RZL Board
 mit den Kontakt-Personen im MS Outlook abgleichen.
@@ -427,20 +425,20 @@ grundsätzliche Bedienung unterscheidet sich nicht von der
 Personenansicht. Die Firmendaten werden in Firmendaten Allgemein und
 Firmendaten Erweitert unterteilt.
 
-![](<img/image54.png>)
+![](<img/Firmendaten Allgemein.png>)
 
 
 Im Register *Firmendaten Allgemein* besteht die Möglichkeit den
-NACE-Code einzutragen. Klicken Sie dazu auf das grüne Plus **(1)**.
+NACE-Code einzutragen. Klicken Sie dazu auf das grüne Plus.
 
-Im folgenden Dialogfeld können Sie die NACE/Branche hinzufügen **(2)**
-und mit Klick auf Auswählen **(3)** die Liste der zur Verfügung
+Im folgenden Dialogfeld können Sie die NACE/Branche hinzufügen und mit Klick auf *Auswählen* die Liste der zur Verfügung
 stehenden NACE-Codes aufrufen. Es ist möglich mehrere NACE-Codes
 auszuwählen und eine prozentuelle Verteilung vorzunehmen bzw. eine der
 eingetragenen NACE-Codes als Haupttätigkeit zu kennzeichnen.
 
 ![](<img/image55.png>)
 
+Angezeigt werden die NACE Codes gültig ab 2008 und darunter die neuen gültig ab 2025. Wenn bereits vor den neuen gültigen NACE Codes ein NACE Code eingetragen wurde, werden diese grundsätzlich übernommen. Ist ein NACE Code 2025 nicht mehr gültig wird das mit einem roten Warndreieck gekennzeichnet und es ist der aktuell gültige auszuwählen.
 
 Im Register *Firmendaten Erweitert* können Sie weitere Informationen
 hinterlegen. Im Zuge der Hinterlegung der UID-Nummer kann diese
