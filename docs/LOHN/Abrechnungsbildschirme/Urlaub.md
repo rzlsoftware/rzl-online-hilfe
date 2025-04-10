@@ -2,7 +2,7 @@
 
 ![Image](<img/image126.png>)
 
-In diesem Eingabebildschirm kann die *Urlaubskartei* des Dienstnehmers geführt werden. Der Ausdruck der Urlaubskartei ist im *Ausdruckmenü* unter *Stammdaten* möglich. Die Eintragungen in der Urlaubskartei werden auch für die Berechnung der Urlaubsrückstellung verwendet. Es können wahlweise *Werktage*, *Arbeitstage* oder *Stunden* eingetragen werden.
+In diesem Eingabebildschirm kann die *Urlaubskartei* des Dienstnehmers geführt werden. Der [Ausdruck der Urlaubskartei](../Ausdrucke%20allgemein/Ausdruck%20Stammdaten.md) ist im *Ausdruckmenü* unter *Stammdaten* möglich. Die Eintragungen in der Urlaubskartei werden auch für die Berechnung der [Urlaubsrückstellung](../Rückstellungen/Urlaubsrückstellung.md) verwendet. Es können wahlweise *Werktage*, *Arbeitstage* oder *Stunden* eingetragen werden.
 
 **Beginn Urlaubsjahr**
 
@@ -22,11 +22,11 @@ Wird dieses Auswahlfeld angewählt, wird nur während der ersten sechs Monate de
 
 **Dauerhafte Anspruchsaliquotierung**
 
-Dieses Feld ermöglicht eine dauerhafte Aliquotierung des Urlaubsanspruchs. Wird diese Option aktiviert, wird der Urlaubsanspruch für jeden Monat aliquot gerechnet und nicht nur für die ersten 6 Monate ab Eintritt, wie im Feld oberhalb.
+Dieses Feld ermöglicht eine dauerhafte Aliquotierung des Urlaubsanspruchs. Wird diese Option aktiviert, wird der Urlaubsanspruch für jeden Monat aliquot gerechnet und nicht nur für die ersten sechs Monate ab Eintritt, wie im Feld oberhalb.
 
 **Dauer laut Arbeitstage Eintritt**
 
-Im Abrechnungsbildschirm *Eintritt* können die Arbeitstage des Dienstnehmers für jeden Tag der Woche einzeln festgelegt werden. Wenn diese Eintragungen für die Ermittlung der Urlaubsdauer übernommen werden sollen, muss dieses Feld aktiviert werden.
+Im Abrechnungsbildschirm [*Eintritt*](../Abrechnungsbildschirme/Eintritt.md) können die Arbeitstage des Dienstnehmers für jeden Tag der Woche einzeln festgelegt werden. Wenn diese Eintragungen für die Ermittlung der Urlaubsdauer übernommen werden sollen, muss dieses Feld aktiviert werden.
 
 **Anfangsstand**
 
@@ -36,7 +36,7 @@ Eingabe eines eventuellen Resturlaubes zu Beginn des Urlaubsjahres. Wurde mehr v
 
 Hier kann für den Dienstnehmer ein *abweichender Monatsteiler* eingetragen werden. Der Monatsteiler wird für die Berechnung der [Urlaubsrückstellung](../Rückstellungen/Urlaubsrückstellung.md) verwendet.
 
-Wenn die Urlaubskartei nach Stunden geführt wird, hat die Eintragung des Monatsteilers keine Auswirkungen auf die Urlaubsrückstellung. Das Programm rechnet automatisch die Anzahl der Wochenstunden, welche im Abrechnungsbildschirm *Eintritt* eingetragen sind, auf einen vollen Monat hoch und verwendet diesen Wert als Teiler.
+Wenn die Urlaubskartei nach Stunden geführt wird, hat die Eintragung des Monatsteilers **keine Auswirkungen** auf die Urlaubsrückstellung. Das Programm rechnet automatisch die Anzahl der Wochenstunden, welche im Abrechnungsbildschirm *Eintritt* eingetragen sind, auf einen vollen Monat hoch und verwendet diesen Wert als Teiler.
 
 **Urlaubskartei**
 
@@ -52,7 +52,7 @@ Es können die in Anspruch genommenen Urlaubstage oder Stunden mit Anfang und En
 
 **Einfügen einer Anspruchszeile**
 
-Wenn ein neues Urlaubsjahr beginnt, dann wird durch Eintragung des Beginnes des Urlaubsjahres in das Eingabefeld **von** und das Bestätigen der restlichen Felder ohne Eintragung, eine sogenannte *Anspruchszeile* in das Listenfeld eingetragen. Der Urlaubsanspruch, der in diese Anspruchszeile eingetragen wird, wird aus dem Feld *Urlaubsanspruch*
+Wenn ein neues Urlaubsjahr beginnt, dann wird durch Eintragung des Beginns des Urlaubsjahres in das Eingabefeld **von** und das Bestätigen der restlichen Felder ohne Eintragung, eine sogenannte *Anspruchszeile* in das Listenfeld eingetragen. Der Urlaubsanspruch, der in diese Anspruchszeile eingetragen wird, wird aus dem Feld *Urlaubsanspruch*
 übernommen und je nach gewählter Option (keine Aliquotierung, Aliquotierung, dauerhafte Aliquotierung) aliquotiert.
 
 **Verdichten von Urlaubszeilen**

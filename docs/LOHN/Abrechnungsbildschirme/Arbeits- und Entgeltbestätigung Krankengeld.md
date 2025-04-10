@@ -4,7 +4,7 @@
 
 **Beschäftigt ab / Beschäftigungstage pro Woche**
 
-Die entsprechenden Daten werden vom Programm aus dem Erfassungsbildschirm *Eintritt* übernommen und angezeigt.
+Die entsprechenden Daten werden vom Programm aus dem Erfassungsbildschirm [*Eintritt*](../Abrechnungsbildschirme/Eintritt.md) übernommen und angezeigt.
 
 **Vertragsbediensteter**
 
@@ -31,11 +31,11 @@ Hier ist auszuwählen, ob es sich um
 
 handelt.
 
-Die Einträge in den Feldern *Austrittsdatum, Kündigungsentschädigung, Ersatzleistung (UE)* beziehen sich auf die Daten im Eingabebildschirm *Austritt*.
+Die Einträge in den Feldern *Austrittsdatum, Kündigungsentschädigung, Ersatzleistung (UE)* beziehen sich auf die Daten im Eingabebildschirm [*Austritt*](../Abrechnungsbildschirme/Austritt.md).
 
 **Volles Entgelt bis**
 
-In diesem Feld ist das Datum vom Ende des Entgeltanspruches unter Berücksichtigung des § 9 Arbeitsruhegesetzes einzutragen. Durch einen *rechten Mausklick* in dieses Feld und Auswahl von *Aufruf* oder der *F2-Taste* können Sie die Krankenstandskartei öffnen und den betroffenen Krankenstand auswählen. Es werden somit alle Felder automatisch befüllt.
+In diesem Feld ist das Datum vom Ende des Entgeltanspruches unter Berücksichtigung des §&nbsp;9&nbsp;Arbeitsruhegesetzes einzutragen. Durch einen *rechten Mausklick* in dieses Feld und Auswahl von *Aufruf* oder der *F2-Taste* können Sie die Krankenstandskartei öffnen und den betroffenen Krankenstand auswählen. Es werden somit alle Felder automatisch befüllt.
 
 **Teilentgelt**
 
@@ -71,9 +71,9 @@ Dieses Feld wird aktiviert, wenn nach Stunden abgerechnet wird (Stundenlöhner).
 
 **Anspruch auf Sonderzahlung**
 
-In diesem Feld wird der Anspruch auf Sonderzahlungen bestätigt, wenn solche im Kalenderjahr, in dem die Arbeitsunfähigkeit eingetreten ist, bereits gezahlt wurden oder unter Annahme eines fortlaufenden Beschäftigungsverhältnisses noch fällig werden. Ebenso muss mitgeteilt werden, ob die *Sonderzahlungen* zu *100% ausbezahlt* wird, oder ob die *Sonderzahlung* nur *aliquot* zur Auszahlung gelangt.
+In diesem Feld wird der Anspruch auf Sonderzahlungen bestätigt, wenn solche im Kalenderjahr, in dem die Arbeitsunfähigkeit eingetreten ist, bereits gezahlt wurden oder unter Annahme eines fortlaufenden Beschäftigungsverhältnisses noch fällig werden. Ebenso muss mitgeteilt werden, ob die *Sonderzahlungen* zu *100 % ausbezahlt* wird, oder ob die *Sonderzahlung* nur *aliquot* zur Auszahlung gelangt.
 
-**SZ wird zu 100% weitergewährt**
+**SZ wird zu 100 % weitergewährt**
 
 Die Sonderzahlung wird durch den Krankengeldbezug von der ÖGK nicht geschmälert, sondern gelangt voll zur Auszahlung.
 
@@ -83,7 +83,7 @@ Die Sonderzahlung wird nur aliquot ausbezahlt während des Krankengeldbezuges, d
 
 **Sachbezüge**
 
-Werden Sachbezüge bezogen, ist dieses Feld zu aktivieren. Ebenso muss angegeben werden, ob der Sachbezug zu 100% während des Krankengeldbezuges weitergewährt wird oder ob der Sachbezug nur bis Ende Entgeltfortzahlung, also aliquot, weitergewährt wird.
+Werden Sachbezüge bezogen, ist dieses Feld zu aktivieren. Ebenso muss angegeben werden, ob der Sachbezug zu 100 % während des Krankengeldbezuges weitergewährt wird oder ob der Sachbezug nur bis Ende Entgeltfortzahlung, also aliquot, weitergewährt wird.
 
 **Arten**
 
@@ -93,13 +93,13 @@ Sachbezüge sind art- und mengenmäßig genau anzuführen. Als solche gelten u. 
 
 Aktivieren Sie dieses Feld, wenn der Sachbezug im Geldbezug enthalten ist.
 
-**SB wird zu 100% weitergewährt**
+**SB wird zu 100 % weitergewährt**
 
-Der Sachbezug wird trotz Krankengeldbezug von der ÖGK weiterhin bezogen. Das heißt, der Dienstnehmer behält den PKW trotz 0% Entgeltfortzahlung.
+Der Sachbezug wird trotz Krankengeldbezug von der ÖGK weiterhin bezogen. Das heißt, der Dienstnehmer behält den PKW trotz 0 % Entgeltfortzahlung.
 
 **SB wird aliquot ausbezahlt**
 
-Der Sachbezug wird durch den Krankengeldbezug von der ÖGK gekürzt, das heißt, der Dienstnehmer muss während des 0% Entgeltfortzahlungszeitraumes seinen PKW zurückgeben und es wird kein Sachbezug für diesen Zeitraum abgerechnet.
+Der Sachbezug wird durch den Krankengeldbezug von der ÖGK gekürzt, das heißt, der Dienstnehmer muss während des 0 % Entgeltfortzahlungszeitraumes seinen PKW zurückgeben und es wird kein Sachbezug für diesen Zeitraum abgerechnet.
 
 **Anspruch besteht bis zu**
 
@@ -107,11 +107,11 @@ Besteht während der Arbeitsunfähigkeit auf Grund gesetzlicher oder vertraglich
 
 **Berechnung der Ansprüche nach / Abrechnung in**
 
-Diese Einstellungen werden vom Eingabebildschirm „Krankenstand“ übernommen.
+Diese Einstellungen werden vom Eingabebildschirm [*Krankenstand*](../Abrechnungsbildschirme/Krankenstand.md) übernommen.
 
 **Arbeitsfreie Tage**
 
-In diesem Bereich werden die arbeitsfreien Tage hinterlegt, sind diese regelmäßig, werden die jeweiligen Wochentage aktiviert, bei Unregelmäßigkeiten verwenden Sie das Eingabefeld „andere Regelung“. 
+In diesem Bereich werden die arbeitsfreien Tage hinterlegt, sind diese regelmäßig, werden die jeweiligen Wochentage aktiviert, bei Unregelmäßigkeiten verwenden Sie das Eingabefeld *andere Regelung*. 
 
 **Einarbeitungstage**
 
@@ -119,11 +119,11 @@ Hier sind die Einarbeitungstage des Kalenderjahres einzutragen.
 
 **Vordienstzeiten angerechnet**
 
-In diesem Feld sind Vordienstzeiten, welche angerechnet wurden einzutragen.
+In diesem Feld sind Vordienstzeiten, welche angerechnet wurden, einzutragen.
 
 **Vorerkrankungen angerechnet**
 
-In diesen Feldern werden angerechnete Vorerkrankungen eingetragen.
+In diesen Feldern werden angerechnete Vorerkrankungen eingetragen. Durch Betätigen der *F2-Taste* können die Vorerkrankungen aus der Krankenstandskartei aufgerufen und eingefügt werden.
 
 **Arbeitspflichtige Feiertage**
 

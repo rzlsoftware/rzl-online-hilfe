@@ -4,7 +4,7 @@
 
 **Beschäftigt ab / Beschäftigungstage pro Woche**
 
-Die entsprechenden Daten werden vom Programm aus dem Erfassungsbildschirm *Eintritt* übernommen und angezeigt.
+Die entsprechenden Daten werden vom Programm aus dem Erfassungsbildschirm [*Eintritt*](../Abrechnungsbildschirme/Eintritt.md) übernommen und angezeigt.
 
 **Vertragsbediensteter**
 
@@ -28,7 +28,7 @@ Hier wird der Zeitraum eines eventuell konsumierten Gebührenurlaubes oder unbez
 
 **Austrittsdatum, Kündigungsentschädigung, Ersatzleistung (UE)**
 
-Diese Felder werden automatisch, aufgrund der eingegebenen Daten im *Austrittsbildschirm* angezeigt.
+Diese Felder werden automatisch, aufgrund der eingegebenen Daten im [*Austrittsbildschirm*](../Abrechnungsbildschirme/Austritt.md) angezeigt.
 
 **Anspruch auf Fortbezug des Entgeltes**
 
@@ -60,13 +60,11 @@ Als Netto-Arbeitsverdienst gelten alle Geld- und Sachbezüge einschließlich der
 
 - des Wohnbauförderungsbeitrages und
 
-- der beitragsfreien Lohn- und Gehaltszuschläge, die beim Aussetzen der
-  Beschäftigung wegfallen (Ersätze für tatsächlich geleistete
-  Aufwendungen, wie z. B. Fahrtspesenvergütungen, Mankogeld, usw.)
+- der beitragsfreien Lohn- und Gehaltszuschläge, die beim Aussetzen der Beschäftigung wegfallen (Ersätze für tatsächlich geleistete Aufwendungen, wie z. B. Fahrtspesenvergütungen, Mankogeld usw.)
 
 - des Schlechtwetterentschädigungsbeitrages.
 
-Hat das versicherungspflichtige Beschäftigungsverhältnis in den letzten drei Kalendermonaten noch nicht bestanden, also es hat erst in dem Monat begonnen, in dem auch der Versicherungsfall der Mutterschaft eingetreten ist, so ist nur der Netto-Arbeitsverdienst für den Zeitraum anzugeben, in dem die Beschäftigte gearbeitet hat.
+Hat das versicherungspflichtige Beschäftigungsverhältnis in den letzten drei Kalendermonaten noch nicht bestanden und begann erst in dem Monat, in dem auch der Versicherungsfall der Mutterschaft eingetreten ist, so ist lediglich der Netto-Arbeitsverdienst für den Zeitraum anzugeben, in dem die Beschäftigte tatsächlich gearbeitet hat.
 
 **Anspruch auf Sonderzahlung**
 
@@ -88,14 +86,14 @@ Aktivieren Sie dieses Feld, wenn der Sachbezug im Arbeitsverdienst enthalten ist
 
 **Unterbrechung des Bezugs**
 
-Fallen in diese drei Kalendermonate Zeiten, in welchen die werdende Mutter keinen oder nicht den vollen Arbeitsverdienst erhalten hat, sind diese Zeiten als Unterbrechung anzuführen und bleiben beim Netto-Arbeitsverdienst außer Betracht. Solche Zeiten sind:
+Fallen in diese drei Kalendermonate Zeiten, in welchen die werdende Mutter keinen oder nicht den vollen Arbeitsverdienst erhalten hat, sind diese Zeiten als Unterbrechung anzuführen und bleiben beim Netto-Arbeitsverdienst außer Betracht.
 
 Unterbrechung des vollen Lohnes bzw. Gehaltes wegen
 
 - Krankheit,
 - Kurzarbeit,
 - Urlaub ohne Entgeltzahlung (unbezahlter Urlaub),
-- Dienstes als Schöffin, Geschworene,
+- Dienstes als Schöffin oder Geschworene,
 - einer Maßnahme nach dem Epidemie- oder Tierseuchengesetz und
 - Teilnahme an Schulungs- und Bildungsveranstaltungen im Rahmen der besonderen Vorschriften über die erweiterte Bildungsfreistellung.
 

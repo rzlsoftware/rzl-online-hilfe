@@ -10,11 +10,11 @@ Standardmäßig wird das Eintrittsdatum als Beginn vorgeschlagen. Es kann ein ab
 
 **Ende Arbeitsverhältnis**
 
-Handelt es sich um ein befristetes Arbeitsverhältnis, ist hier das Ende des Arbeitsverhältnisses einzugeben. Sie haben die Möglichkeit, mit der rechten Maustaste den Vorschlag aus dem Feld *DV befristet bis* aufzurufen. Die hier gemachte Eingabe wird nur am Dienstzettel ausgewiesen. Scheidet der Dienstnehmer aus, so muss das Ende des Arbeitsverhältnisses im *Austrittsbildschirm* eingegeben werden.
+Handelt es sich um ein befristetes Arbeitsverhältnis, ist hier das Ende des Arbeitsverhältnisses einzugeben. Sie haben die Möglichkeit, mit der rechten Maustaste den Vorschlag aus dem Feld *DV befristet bis* aufzurufen. Die hier gemachte Eingabe wird nur am Dienstzettel ausgewiesen. Scheidet der Dienstnehmer aus, so muss das Ende des Arbeitsverhältnisses im [*Austrittsbildschirm*](../Abrechnungsbildschirme/Austritt.md) eingegeben werden.
 
 **Bruttogehalt/Bruttolohn/Lehrlingseinkommen pro Monat und Überstundenpauschale**
 
-Das Bruttogehalt, der Bruttolohn bzw. das Lehrlingseinkommen kommen aus der Fixen Lohnart *Lohn/Gehalt*. Wurde im Bereich Über-/Mehrarbeitsstunden bei *Überstundenpauschale* ein Wert erfasst, wird dieser im Feld *Überstundenpauschale* dargestellt.
+Das Bruttogehalt, der Bruttolohn bzw. das Lehrlingseinkommen kommen aus der Fixen Lohnart [*Lohn/Gehalt*](../Abrechnungsbildschirme/Fixe%20Lohnarten.md). Wurde im Bereich [Über-/Mehrarbeitsstunden](../Abrechnungsbildschirme/Über-%20und%20Mehrarbeitsstunden.md) bei *Überstundenpauschale* ein Wert erfasst, wird dieser im Feld *Überstundenpauschale* dargestellt.
 
 **Fälligkeit des Entgeltes**
 
@@ -30,7 +30,7 @@ Sie können hier weitere Lohnvereinbarungen von bis zu 250 Zeichen erfassen.
 
 **Urlaubsjahr**
 
-Der Beginn des Urlaubsjahres, sowie der Anspruch sind im Bildschirm *Urlaub* einzugeben und wird für den Dienstzettel übernommen. Der Anspruch kann nur im Bereich *Urlaub* abgeändert werden.
+Der Beginn des Urlaubsjahres, sowie der Anspruch sind im Bildschirm [*Urlaub*](../Abrechnungsbildschirme/Urlaub.md) einzugeben und wird für den Dienstzettel übernommen. Der Anspruch kann nur im Bereich *Urlaub* abgeändert werden.
 
 **Anrechenbare Vordienstzeiten für Einstufung**
 
@@ -54,11 +54,11 @@ Falls mit dem Dienstnehmer eine Vorrückung vereinbart wurde, so sind in den dre
 
 **Vorgesehene Verwendung**
 
-Der *Beruf* aus *Stammdaten Dienstnehmer* wird bei *Verwendung als* eingetragen. Sie können im Feld *Beschreibung der Arbeitsleistung* bis zu 250 Zeichen erfassen.
+Der *Beruf* aus [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Bauarbeiter-Urlaubs-%20und%20Abfertigungskasse.md) wird bei *Verwendung als* eingetragen. Sie können im Feld *Beschreibung der Arbeitsleistung* bis zu 250 Zeichen erfassen.
 
 **Gewöhnlicher Arbeitsort**
 
-Beim Feld *Dienstort* wird jene Eingabe aus *Stammdaten Dienstnehmer Dienstort* vorgeschlagen. Sie können einen abweichenden Text von bis zu 50 Zeichen erfassen. Falls Ihr Dienstnehmer wechselnde Arbeitsorte hat, tragen Sie diese im Feld *Wechselnde Arbeitsorte* ein (bis zu 100 Zeichen). Beim Feld *Sitz des Unternehmens* wird die Adresse des Klienten vorgeschlagen. Eine abweichende Eingabe ist bis zu 50 Zeichen möglich.
+Beim Feld *Dienstort* wird jene Eingabe aus [*Stammdaten Dienstnehmer](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) Dienstort* vorgeschlagen. Sie können einen abweichenden Text von bis zu 50 Zeichen erfassen. Falls Ihr Dienstnehmer wechselnde Arbeitsorte hat, tragen Sie diese im Feld *Wechselnde Arbeitsorte* ein (bis zu 100 Zeichen). Beim Feld *Sitz des Unternehmens* wird die Adresse des Klienten vorgeschlagen. Eine abweichende Eingabe ist bis zu 50 Zeichen möglich.
 
 **Probezeit**
 
@@ -83,7 +83,7 @@ Hier können Sie einen individuellen Text für die Fortbildung erfassen (bis zu 
 
 **Wöchentliche Normalarbeitszeit**
 
-Die Daten der *Normalarbeitszeit* werden aus dem Eintrittsbildschirm übernommen. Bei der Position *Bedingungen für die Änderung von Schichtplänen* können Sie einen individuellen Text von bis zu 250 Zeichen eingeben.
+Die Daten der *Normalarbeitszeit* werden aus dem [Eintrittsbildschirm](../Abrechnungsbildschirme/Eintritt.md) übernommen. Bei der Position *Bedingungen für die Änderung von Schichtplänen* können Sie einen individuellen Text von bis zu 250 Zeichen eingeben.
 
 **Dauer der Kündigungsfrist**
 

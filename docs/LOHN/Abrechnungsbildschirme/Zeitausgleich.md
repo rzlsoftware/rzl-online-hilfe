@@ -1,6 +1,6 @@
 # Zeitausgleich
 
-Im oberen Bereich *Zeitausgleich (Rückstellungsberechnung)* werden die Daten für die Zeitausgleichsrückstellung verwendet und auf dem Ausdruck der Abrechnungen angezeigt. Im unteren Bereich *Zeitausgleich* können die eingetragenen Daten nur auf der Abrechnung angedruckt werden. Die untere Eingabe wird nicht bei der Zeitausgleichsrückstellung berücksichtigt.
+Im oberen Bereich *Zeitausgleich (Rückstellungsberechnung)* werden die Daten für die [Zeitausgleichsrückstellung](../Rückstellungen/Zeitausgleichsrückstellung.md) verwendet und auf dem Ausdruck der Abrechnungen angezeigt. Im unteren Bereich *Zeitausgleich* können die eingetragenen Daten nur auf der Abrechnung angedruckt werden. Die untere Eingabe wird nicht bei der Zeitausgleichsrückstellung berücksichtigt.
 
 ![Image](<img/image117.png>)
 

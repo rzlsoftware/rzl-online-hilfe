@@ -6,7 +6,7 @@ Dieser Abrechnungsbildschirm ermöglicht die automatische Berechnung der Entgelt
 
 **Allgemeine Daten**
 
-Im ersten Bereich des Bildschirms werden in den Feldern *Anrechnung ab* … *als* das Eintrittsdatum und die Zuordnung (Arbeiter, Angestellter, Lehrling) automatisch eingetragen. Die Zuordnung zu Arbeiter, Angestellter oder Lehrling erfolgt aufgrund der im [Abrechnungsbildschirm *Sozialversicherung*](../Abrechnungsbildschirme/Sozialversicherung.md) ausgewählten Beschäftigtengruppe.
+Im ersten Bereich des Bildschirms werden in den Feldern *Anrechnung ab* … *als* das Eintrittsdatum und die Zuordnung (Arbeiter, Angestellter, Lehrling) automatisch eingetragen. Die Zuordnung zu Arbeiter, Angestellter oder Lehrling erfolgt aufgrund der im Abrechnungsbildschirm [*Sozialversicherung*](../Abrechnungsbildschirme/Sozialversicherung.md) ausgewählten Beschäftigtengruppe.
 
 Im Feld *Beginn Arbeitsjahr* wird ebenfalls das Eintrittsdatum vorgeschlagen. Die Abrechnung erfolgt entweder in *Kalendertagen* oder *Arbeitstagen*. Feiertage werden vom Programm automatisch berücksichtigt. Eine nachträgliche Umstellung zwischen diesen beiden Möglichkeiten ist nur möglich, wenn vorhandene Krankenstandzeilen gelöscht werden. Seitens RZL wird die Praxismethode der Abrechnung nach Kalendertagen empfohlen.
 
@@ -46,7 +46,7 @@ Dieser Eintrag ermöglicht die Neuberechnung der eingetragenen Zeilen.
 
 Ändert sich die Rechtsgrundlage des Dienstverhältnisses erfolgt die Umstellung für die Berechnung der Entgeltfortzahlungsansprüche durch Anwahl des entsprechenden Eintrages. Bestehende Eintragungen werden nicht geändert.
 
-Die bloße Änderung der Beschäftigtengruppe im [Abrechnungsbildschirm *Sozialversicherung*](../Abrechnungsbildschirme/Sozialversicherung.md) bewirkt keine Änderung im Bereich der Krankenstandsverwaltung.
+Die bloße Änderung der Beschäftigtengruppe im Abrechnungsbildschirm [*Sozialversicherung*](../Abrechnungsbildschirme/Sozialversicherung.md) bewirkt keine Änderung im Bereich der Krankenstandsverwaltung.
 
 Mit der Angleichung der EFZ-Ansprüche bei Arbeitern und Angestellten kam es zu der Änderung, dass bei einem Wechsel von Arbeiter auf Angestellten bzw. umgekehrt kein getrennter Anspruch mehr besteht. Falls jedoch in Ausnahmefällen die EFZ-Ansprüche bei einem Wechsel getrennt werden müssen, können Sie seit 01.10.2021 *Arbeiter und Angestellte getrennt (Arbeitsjahr)* anwählen. Somit werden die Ansprüche von Arbeiter und Angestellte in diesem Arbeitsjahr getrennt betrachtet.
 
@@ -68,4 +68,4 @@ Durch Auswahl der Schaltfläche *Kürzungen* wird folgender Bildschirm aufgerufe
 
 ![Image](<img/image134.png>){width="400"}
 
-Hier besteht die Möglichkeit insgesamt 5 Kürzungen der Dienstjahre mit Eintragung des Datums und der Monate der Kürzung einzutragen. Die Eintragungen werden bei der Berechnung der Dienstjahre berücksichtigt. Dies hat eine Relevanz für die Höhe des Entgeltfortzahlungsanspruches.
+Hier besteht die Möglichkeit, insgesamt fünf Kürzungen der Dienstjahre mit Eintragung des Datums und der Monate der Kürzung einzutragen. Die Eintragungen werden bei der Berechnung der Dienstjahre berücksichtigt. Dies hat eine Relevanz für die Höhe des Entgeltfortzahlungsanspruchs.
