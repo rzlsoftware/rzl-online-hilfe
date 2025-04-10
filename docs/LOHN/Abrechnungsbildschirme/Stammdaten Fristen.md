@@ -1,4 +1,4 @@
-# Stammdaten-Fristen
+# Stammdaten Fristen
 
 In diesem Bildschirm können Anmerkungen mit Fristen hinterlegt und Abrechnungstexte eingetragen werden, sowie weitere Stammdaten wie *Rundung*, *Aliquotierung*, *Arbeitsbewilligung* und die Zuordnung zum *Buchungskreis*. In diesen Bildschirmen können auch die beiden Übertrittsvarianten für den Umstieg von Abfertigung alt auf Abfertigung neu (Voll- und Teilübertritt) abgerechnet werden.
 
