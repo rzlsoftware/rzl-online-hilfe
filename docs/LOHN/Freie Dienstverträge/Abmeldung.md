@@ -14,7 +14,7 @@ Eintragung des Austrittsgrundes laut Liste.
 
 **Zielbeitragskonto Ummeldung**
 
-Bei einer Abmeldung mit Grund Ummeldung muss seit 01.01.2023 die neue Ziel-Beitragskontonummer im Zuge der Meldung mitgesendet werden. Es spielt dabei keine Rolle, ob die Ummeldung aufgrund eines reinen Standortwechsels in ein anderes Bundesland oder aufgrund einer Umgründung oder eines Verkaufs erfolgt. Im Abrechnungsbildschirm *Austritt* kann beim Abmeldegrund Ummeldung über die Schaltfläche *Bearbeiten* eine neue Beitragskontonummer erfasst werden. Über das entsprechende Listenfeld können Sie diese dann beim Austritt festlegen.
+Bei einer Abmeldung mit Grund Ummeldung muss seit 01.01.2023 die neue Ziel-Beitragskontonummer im Zuge der Meldung mitgesendet werden. Es spielt dabei keine Rolle, ob die Ummeldung aufgrund eines reinen Standortwechsels in ein anderes Bundesland oder aufgrund einer Umgründung oder eines Verkaufs erfolgt. Im Abrechnungsbildschirm *Abmeldung* kann beim Abmeldegrund Ummeldung über die Schaltfläche *Bearbeiten* eine neue Beitragskontonummer erfasst werden. Über das entsprechende Listenfeld können Sie diese dann beim Austritt festlegen.
 
 **Datum der Ummeldung**
 
@@ -26,7 +26,7 @@ Wenn das Ende Entgelt vom Austrittsdatum abweicht (Mutterschutz, Karenz) können
 
 **Beginn anderweitiger Pflichtversicherung**
 
-Eingabe des Datums des Beginnes einer anderen Pflichtversicherung aufgrund dieser Tätigkeit. Vom Programm wird als Abmeldedatum der Letzte des Kalendermonats, in dem die Pflichtversicherung beginnt, automatisch ermittelt und angezeigt.
+Eingabe des Datums des Beginns einer anderen Pflichtversicherung aufgrund dieser Tätigkeit. Vom Programm wird als Abmeldedatum der Letzte des Kalendermonats, in dem die Pflichtversicherung beginnt, automatisch ermittelt und angezeigt.
 
 **Abmeldedatum**
 

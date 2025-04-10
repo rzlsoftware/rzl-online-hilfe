@@ -4,7 +4,7 @@
 
 **Bundesland**
 
-Hier ist das Bundeslandes einzugeben, in dem der Auftragnehmer gesundheitskassenmäßig angehört. . Dies ist ein Pflichtfeld.
+Hier ist das Bundesland einzugeben, in dem der Auftragnehmer gesundheitskassenmäßig angehört. Dies ist ein Pflichtfeld.
 
 **Beschäftigtengruppe ­ BGR**
 
@@ -23,9 +23,9 @@ In diesem Bereich kann die *Schwerarbeit* für den abgerechneten Monat erfasst w
 
 **USt-Pflicht**
 
-Handelt es sich beim Auftragnehmer um einen umsatzsteuerpflichtigen Unternehmer, so ist dieses Auswahlfeld zu aktivieren. Im nächsten Eingabefeld ist dann der *USt-Prozentsatz* einzugeben. Die USt wird vom Programm automatisch berechnet und zum Entgelt hinzugezählt. Das Programm geht davon aus, dass es sich bei den abgerechneten Beträgen um Nettobeträge, d. h. ohne Umsatzsteuer, handelt.
+Handelt es sich beim Auftragnehmer um einen umsatzsteuerpflichtigen Unternehmer, so ist dieses Auswahlfeld zu aktivieren. Im nächsten Eingabefeld ist dann der *USt-Prozentsatz* einzugeben. Die Umsatzsteuer wird vom Programm automatisch berechnet und zum Entgelt hinzugezählt. Das Programm geht davon aus, dass es sich bei den abgerechneten Beträgen um Nettobeträge, das heißt, ohne Umsatzsteuer, handelt.
 
-**Service – Entgelt (e-card)**
+**Service–Entgelt (e-card)**
 
 Seit November 2005 werden allen Dienstnehmern mit einem aufrechten Dienstverhältnis, das Service-Entgelt (E-Card-Gebühr) für das Folgejahr automatisch abgezogen und über den mBGM November in einer eigenen Verrechnungsgruppe an die ÖGK gemeldet und abgeführt.
 

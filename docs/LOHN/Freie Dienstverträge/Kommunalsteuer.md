@@ -4,35 +4,33 @@
 
 **Kommunalsteuer**
 
-*Kommunalsteuer*
+Diese Felder dienen zur Verteilung der Kommunalsteuer auf insgesamt 10 Gemeinden. Ein­gabe der Gemeindenummer laut den angelegten Gemeindestammdaten. Hat der Dienstgeber in einer Gemeinde nur eine Betriebsstätte, so braucht hier keine Nummer eingegeben zu werden, es wird automatisch die Gemeinde laut Dienstgeberstammdaten angesprochen.
 
-Diese Felder dienen zur Verteilung der Kommunalsteuer auf insgesamt 10 Gemeinden. Ein­gabe der Gemeinde-Nummer laut den angelegten Gemeindestammdaten. Hat der Dienstgeber in einer Gemeinde nur eine Betriebsstätte, so braucht hier keine Nummer eingegeben zu werden, es wird automatisch die Gemeinde laut *Dienstgeber-Stammdaten* angesprochen.
+- **Befreiung von Kommunalsteuer**
 
-*Befreiung von Kommunalsteuer*
+    Ist der Dienstnehmer von der Kommunalsteuer befreit (z. B. Invalide), so ist dieses Feld zu aktivieren. Unterliegt der Dienstgeber grundsätzlich nicht der Kommunalsteuer-Pflicht, so ist dies in den Dienstgeberstammdaten einzugeben. Es braucht dann hier beim Dienstnehmer nicht nochmals *Befreiung* von der Kommunalsteuer eingegeben zu werden.
 
-Ist der Dienstnehmer von der Kommunalsteuer befreit (z. B. Invalide), so ist dieses Feld zu aktivieren. Unterliegt der Dienstgeber grundsätzlich nicht der Kommunalsteuer-Pflicht, so ist dies in den *Dienstgeber-Stammdaten* einzugeben. Es braucht dann hier beim Dienstnehmer nicht nochmals *Befreiung* von der Kommunalsteuer eingegeben zu werden.
+- **Kürzung Bemessung Kommunalsteuer**
 
-*Kürzung Bemessung Kommunalsteuer*
-
-Hier kann eine prozentuelle Kürzung der Kommunalsteuerbesmessungsgrundlage vorgenommen werden.
+    Hier kann eine prozentuelle Kürzung der Kommunalsteuerbesmessungsgrundlage vorgenommen werden.
 
 **DB, DZ**
 
-*Befreiung vom DB*
+- **Befreiung vom DB**
 
-Ist der Dienstnehmer vom Dienstgeberbeitrag befreit, so ist dieses Feld zu aktivieren.
+    Ist der Dienstnehmer vom Dienstgeberbeitrag befreit, so ist dieses Feld zu aktivieren.
 
-*DZ-Bundesland*
+- **DZ-Bundesland**
 
-In Spezialfällen kann hier für einzelne Dienstnehmer ein abweichendes Bundesland für die DZ-Berechnung eingetragen werden. Grundsätzlich berechnet das Programm den DZ gemäß dem eingetragenen *DZ-Bundesland* in den *Dienstgeber-Stammdaten* im Register *Finanzamt*.
+    In Spezialfällen kann hier für einzelne Dienstnehmer ein abweichendes Bundesland für die DZ-Berechnung eingetragen werden. Grundsätzlich berechnet das Programm den DZ gemäß dem eingetragenen *DZ-Bundesland* in den Dienstgeberstammdaten im Register [*Finanzamt*](../Klientenstammdaten/Stammdaten%20Klient/Finanzamt.md).
 
-*Befreiung vom DZ*
+- **Befreiung vom DZ**
 
-Ist der Dienstnehmer vom Dienstgeberzuschlag befreit, so ist dieses Feld zu aktivieren. Unterliegt der Dienstgeber nicht der DZ-Pflicht, so ist dies in den *Dienstgeber-Stammdaten* einzugeben. Es braucht dann hier beim Dienstnehmer nicht nochmals *Befreiung* vom DZ eingegeben zu werden.
+    Ist der Dienstnehmer vom Dienstgeberzuschlag befreit, so ist dieses Feld zu aktivieren. Unterliegt der Dienstgeber nicht der DZ-Pflicht, so ist dies in den Dienstgeberstammdaten einzugeben. Es braucht dann hier beim Dienstnehmer nicht nochmals *Befreiung* vom DZ eingegeben zu werden.
 
-*Kürzung Bemessung DZ*
+- **Kürzung Bemessung DZ**
 
-Hier kann eine prozentuelle Kürzung der Kommunalsteuerbemessungsgrundlage vorgenommen werden.
+    Hier kann eine prozentuelle Kürzung der Kommunalsteuerbemessungsgrundlage vorgenommen werden.
 
 !!! warning "Hinweis"
     Wird ein Dienstnehmer 60 Jahre, somit entfällt die DB- und DZ-Pflicht. Das Lohnprogramm setzt bei diesen Personen automatisch das Häkchen bei DB- und DZ-Befreiung in jenem Monat, wo der Dienstnehmer genau am erste des Monats 60 wird oder bei einem späteren Geburtstag im Folgemonat.

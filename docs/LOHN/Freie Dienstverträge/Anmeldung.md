@@ -12,13 +12,13 @@ Da für An- bzw. Abmeldung von Freien Dienstverträgen die Druckbildmuster der n
 
 **BV-Beitragspflicht – Beginn BV - Beitragspflicht**
 
-Seit 1.1.2008 sind freie Dienstnehmer ebenfalls in die betriebliche Vorsorgekasse miteinzubeziehen.
+Seit 1.1.2008 sind freie Dienstnehmer ebenfalls in die betriebliche Vorsorgekasse mit einzubeziehen.
 
 Der Beginn der BV-Beitragspflicht wird vom Programm vorgeschlagen. Grundsätzlich ist der erste Monat beitragsfrei. Sollte der Dienstnehmer während des Monats eintreten, wird vom Programm der BV-Beitrag im Folgemonat automatisch aliquotiert.
 
-Der Vorschlag vom Programm muss nur abgeändert werden, wenn eine (fremde) Lohnverrechnung übernommen und ein freier Dienstnehmer neuangelegt wird, der innerhalb der letzten 12 Monate bereits bei diesem Dienstgeber beschäftigt war (Abrechnung mit Wiedereintritt nicht möglich). In diesem Fall entsteht sofort Beitragspflicht, das Programm würde jedoch aufgrund der fehlenden Wiedereintrittsdaten einen Monat beitragsfrei belassen.
+Der Vorschlag vom Programm muss nur abgeändert werden, wenn eine (fremde) Lohnverrechnung übernommen und ein freier Dienstnehmer neuangelegt wird, der innerhalb der letzten 12 Monate bereits bei diesem Dienstgeber beschäftigt war. Abrechnung mit Wiedereintritt nicht möglich. In diesem Fall entsteht sofort Beitragspflicht, das Programm würde jedoch aufgrund der fehlenden Wiedereintrittsdaten einen Monat beitragsfrei belassen.
 
-Soll ein Dienstnehmer nur zur BV-Pflicht angemeldet werden, sollten Sie bei *Anmeldung nur mit BV-Pflicht (B999)* das Häkchen setzen. Somit wird eine korrekte Anmeldung an die ÖGK übermittelt.
+Soll ein Dienstnehmer nur zur BV-Pflicht angemeldet werden, sollten Sie das Häkchen bei *Anmeldung nur mit BV-Pflicht (B999)* setzen. Somit wird eine korrekte Anmeldung an die ÖGK übermittelt.
 
 **Vertragsabschluss**
 
@@ -48,13 +48,13 @@ In dieses Eingabefeld können andere getroffene Vereinbarungen (bis zu 28 Zeiche
 
 **Zahlungstermine**
 
-Kurzangabe der Art der vereinbarten Zahlungsmodalität (z. B. Tage, Quartal, Lieferzeitpunkt, Vertragsende).
+Kurzangabe zur Art der vereinbarten Zahlungsmodalität (z. B. Tage, Quartal, Lieferzeitpunkt, Vertragsende).
 
 **Beschäftigungsbonus**
 
 Die hier verwalteten Daten werden für den Ausdruck der Liste der Arbeitsverhältnisse ab 01.07.2017 für den Beschäftigungsbonus verwendet. Der Ausdruck kann innerhalb der Sonderdrucke angewählt werden.
 
-Im Programmteil *Ausdruck / Sonderdrucke …* können Sie auch die Liste mit den Referenzwerten für den Beschäftigungsbonus und die voraussichtliche Zuschusshöhe ausdrucken.
+Im Programmteil *Ausdruck / Sonderdrucke* können Sie auch die Liste mit den Referenzwerten für den Beschäftigungsbonus und die voraussichtliche Zuschusshöhe ausdrucken.
 
 **Besondere Verhältnisse**
 
@@ -62,4 +62,4 @@ Hier kann der Verwandtschaftsgrad zum Dienstgeber angeführt werden.
 
 **Art der erbrachten Leistung**
 
-Hier kann die Art der Leistung angeführt werden. Zum Beispiel Freier Dienstvertrag, Mitglied des Aufsichtsrates, etc.
+Hier kann die Art der Leistung angeführt werden. Zum Beispiel Freier Dienstvertrag, Mitglied des Aufsichtsrates etc.
