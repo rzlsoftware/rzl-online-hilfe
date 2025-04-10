@@ -12,11 +12,11 @@ Wenn Sie **Kanzleilohnarten** verwenden, können Sie die Sonstigen Dienstverhind
 
 ![Image](<img/image120.png>){width="500"}
 
-Hier haben Sie die Möglichkeit Arztbesuche, Behördengänge, die Berufsschulzeiten, die Dienstverhinderungen nach dem Angestelltengesetz bzw. nach dem ABGB zu hinterlegen.
+Hier haben Sie die Möglichkeit, Arztbesuche, Behördengänge, die Berufsschulzeiten sowie die Dienstverhinderungen nach dem Angestelltengesetz bzw. nach dem ABGB zu hinterlegen.
 
 Das Feld *Dauer lt. Arbeitstage Eintritt* hängt mit der Eingabe in der Urlaubskartei zusammen. Wenn das Feld in der Urlaubskartei aktiviert ist, wird es auch automatisch in der Dienstverhinderungskartei aktiviert.
 
-Durch aktivieren der *Dienstverhinderungskartei* können Sie mit Hilfe der *F2-Taste* oder dem rechten Mausklick *Aufruf* in das Feld Dienstverhinderung die Liste von *Stamm / Sonstige Dienstverhinderungen* bzw. *Klient / Kanzlei / Lohnarten, Lohn-Formeln, Sonst. Dienstverh.* aufrufen und die entsprechende Dienstverhinderung auswählen.
+Durch Aktivieren der *Dienstverhinderungskartei* können Sie mit Hilfe der *F2-Taste* oder dem rechten Mausklick *Aufruf* in das Feld *Dienstverhinderung* die Liste von *Stamm / Sonstige Dienstverhinderungen* bzw. *Klient / Kanzlei / Lohnarten, Lohn-Formeln, Sonst. Dienstverh.* aufrufen und die entsprechende Dienstverhinderung auswählen.
 
 ![Image](<img/image121.png>){width="400"}
 

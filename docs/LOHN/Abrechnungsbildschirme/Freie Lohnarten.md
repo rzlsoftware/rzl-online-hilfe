@@ -12,9 +12,9 @@ Die Anzahl kann nur bei Lohnarten abgerechnet werden, welche nach Einheiten defi
 
 **Basis**
 
-Die Basis kann nur bei Lohnarten abgerechnet werden, welche nach Einheiten definiert sind. Die Eingabe der Basis (z. B. Stundenlohn, amtliches Kilometergeld, usw.) kann bis zu fünf Kommastellen aufweisen. Es wird vom Programm automatisch der Betrag der Lohnart durch Multiplikation von Anzahl und Basis ermittelt und angezeigt.
+Die Basis kann nur bei Lohnarten abgerechnet werden, welche nach Einheiten definiert sind. Die Eingabe der Basis (z. B. Stundenlohn, amtliches Kilometergeld usw.) kann bis zu fünf Kommastellen aufweisen. Es wird vom Programm automatisch der Betrag der Lohnart durch Multiplikation von Anzahl und Basis ermittelt und angezeigt.
 
-Wenn Sie eine freie Lohnart mit der Basis Null auf der Abrechnung angedruckt haben möchten (z. B. Arztstunden, Urlaubsstunden usw.), dann machen Sie im Feld *Basis* einen rechten Mausklick und wählen *Explizit 0* aus. Somit erscheint bei der Basis ein ***!***.
+Wenn Sie eine freie Lohnart mit der Basis Null auf der Abrechnung angedruckt haben möchten (z.&nbsp;B. Arztstunden, Urlaubsstunden usw.), dann machen Sie im Feld *Basis* einen rechten Mausklick und wählen *Explizit 0* aus. Somit erscheint bei der Basis ein ***!***.
 
 ![Image](<img/image111.png>){width="500"}
 
@@ -28,15 +28,15 @@ Wenn Sie eine freie Lohnart mit dem Betrag Null auf der Abrechnung angedruckt ha
 
 **Abw. Kostenstelle**
 
-Das Feld *abw.* *Kostenstelle* kann angewählt werden, wenn in den Klientenstammdaten Registerblatt *Kostenstellen* das Feld *Einzelzuordnung freier Lohnarten zu Kostenstellen* aktiviert ist. Wird in diesem Feld eine Kostenstelle eingetragen, erfolgt die Zuordnung des Aufwands der freien Lohnart zu 100 % zur eingetragenen Kostenstelle.
+Das Feld *abw.* *Kostenstelle* kann angewählt werden, wenn in den Klientenstammdaten Registerblatt *Kostenstellen* das Feld [*Einzelzuordnung freier Lohnarten zu Kostenstellen*](../Klientenstammdaten/Stammdaten%20Klient/Kostenstellen,%20Kostenträger,%20Krankenstandsbescheinigungen,%20KV.md) aktiviert ist. Wird in diesem Feld eine Kostenstelle eingetragen, erfolgt die Zuordnung des Aufwands der freien Lohnart zu 100 % zur eingetragenen Kostenstelle.
 
 **Abw. Kostenträger**
 
-Das Feld *abw.* *Kostenträger* kann angewählt werden, wenn in den Klientenstammdaten Registerblatt *Kostenträger* das Feld *Einzelzuordnung freier Lohnarten zu Kostenträger* aktiviert ist. Wird in diesem Feld ein Kostenträger eingetragen, erfolgt die Zuordnung des Aufwands der freien Lohnart zu 100 % zum eingetragenen Kostenträger.
+Das Feld *abw.* *Kostenträger* kann angewählt werden, wenn in den Klientenstammdaten Registerblatt *Kostenträger* das Feld [*Einzelzuordnung freier Lohnarten zu Kostenträger*](../Klientenstammdaten/Stammdaten%20Klient/Kostenstellen,%20Kostenträger,%20Krankenstandsbescheinigungen,%20KV.md) aktiviert ist. Wird in diesem Feld ein Kostenträger eingetragen, erfolgt die Zuordnung des Aufwands der freien Lohnart zu 100 % zum eingetragenen Kostenträger.
 
 **Sonstige Behörde**
 
-Hier können Sie die Behörde hinterlegen, welche Sie unter *Stamm / Klient / Registerblatt Sozialfonds, Überw. an Sonstige Behörden* hinterlegt haben. Somit wird dieser Betrag auf der Überweisungsliste angeführt. Mit Anwahl der *F2-Taste* können alle erfassten Behörden angezeigt und ausgewählt werden. Es kann eine *Sonstige Behörde* nur bei einer freien Lohnart mit Lohnartendefinition „*Abzug*“ oder „*Werbungskosten*“ hinterlegt werden.
+Hier können Sie die Behörde hinterlegen, welche Sie unter *Stamm / Klient / Registerblatt [Sozialfonds, Überw. an Sonstige Behörden](../Klientenstammdaten/Stammdaten%20Klient/Sozialfonds,%20Überw.%20an%20Behörden.md)* hinterlegt haben. Somit wird dieser Betrag auf der Überweisungsliste angeführt. Mit Anwahl der *F2-Taste* können alle erfassten Behörden angezeigt und ausgewählt werden. Es kann eine *Sonstige Behörde* nur bei einer freien Lohnart mit Lohnartendefinition „*Abzug*“ oder „*Werbungskosten*“ hinterlegt werden.
 
 !!! info "Tipp"
     Durch Anwahl der *F2-Taste* können die bestehenden Kostenstellen bzw. Kostenträger aufgerufen und übernommen werden. Die *F4-Taste* ermöglicht die Neuanlage von Kostenstellen bzw. Kostenträgern.

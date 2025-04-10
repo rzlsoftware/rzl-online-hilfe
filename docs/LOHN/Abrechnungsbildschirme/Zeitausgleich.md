@@ -1,6 +1,6 @@
 # Zeitausgleich
 
-Im oberen Bereich *Zeitausgleich (Rückstellungsberechnung)* werden die Daten für die Zeitausgleichsrückstellung und auf dem Ausdruck der Abrechnungen verwendet. Im unteren Bereich *Zeitausgleich* können die eingetragenen Daten nur auf der Abrechnung angedruckt werden. Die untere Eingabe wird nicht bei der Zeitausgleichsrückstellung berücksichtigt.
+Im oberen Bereich *Zeitausgleich (Rückstellungsberechnung)* werden die Daten für die Zeitausgleichsrückstellung verwendet und auf dem Ausdruck der Abrechnungen angezeigt. Im unteren Bereich *Zeitausgleich* können die eingetragenen Daten nur auf der Abrechnung angedruckt werden. Die untere Eingabe wird nicht bei der Zeitausgleichsrückstellung berücksichtigt.
 
 ![Image](<img/image117.png>)
 
@@ -32,7 +32,7 @@ Hier kann pro Zeitausgleichskartei eingestellt werden, ob diese Kartei bei der Z
 
 Die *Zeitausgleichskartei* wird für die Berechnung der Zeitausgleichsrückstellung verwendet. Die Daten können auch für den Ausdruck der Abrechnungen verwendet werden. Sie haben die Möglichkeit zwischen vier Karteien zu wählen. Die Bezeichnung der Karteien können Sie unter *Stamm / Klient / Registerblatt* [*Details Rückstellungen (4)*](../Rückstellungen/Stammdaten.md) ändern.
 
-Eintragung des Datums der Erfassung (z. B. des Monatsletzten).
+Eintragung des Datums der Erfassung (z. B. Monatsletzter).
 
 Im Feld *Arbeitsstunden* werden die Arbeitsstunden (ohne Zuschlag) eingetragen. Negative Werte werden durch ein Minus vor der Einheit eingetragen.
 
@@ -44,7 +44,7 @@ Im Feld *Saldo* finden Sie die Anzeige des aktuellen Saldos der Rückstellungsst
 
 **Zeitausgleich (wird nicht bei Zeitausgleichsrückstellung berücksichtigt)**
 
-In diesem Bereich können Aufzeichnungen für die Verwaltung des Zeitausgleiches geführt werden. Der Zeitausgleich kann auch bewertet werden. Beim [Ausdruck der Abrechnungen](../Ausdrucke%20allgemein/Ausdruck%20Abrechnungen.md) besteht die Möglichkeit, die Zeitausgleichsverwaltung auf der Abrechnung anzudrucken.
+In diesem Bereich können Aufzeichnungen für die Verwaltung des Zeitausgleiches geführt werden. Der Zeitausgleich kann ebenfalls bewertet werden. Beim [Ausdruck der Abrechnungen](../Ausdrucke%20allgemein/Ausdruck%20Abrechnungen.md) besteht die Möglichkeit, die Zeitausgleichsverwaltung auf der Abrechnung anzudrucken.
 
 Im Feld *Anfangsstand* wird der Anfangsstand des Zeitausgleichs eingetragen. Dieser Anfangsstand kann im Feld *Betrag* bewertet werden. Negative Werte werden durch ein Minus vor der Einheit eingetragen. 
 
@@ -52,4 +52,4 @@ Die *monatliche Veränderung* wird in der nächsten Zeile eingetragen.
 
 Darstellung des *Endsaldos* in der letzten Zeile. Negative Werte werden blinkend dargestellt.
 
-Sie haben die Möglichkeit 2 Zeitausgleichs-Konten zu führen.
+Sie haben die Möglichkeit zwei Zeitausgleichs-Konten zu führen.
