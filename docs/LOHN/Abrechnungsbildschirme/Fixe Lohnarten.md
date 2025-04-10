@@ -86,26 +86,28 @@ Eingabe der Anzahl der Monate, um die der Abfertigungszeitraum zu *kürzen* ist 
 
 Eingabe des *Entgeltes*, das für die Berechnung der Abfertigung maßgeblich ist. Bei der erstmaligen Eingabe wird der laufende Bezug des Monats als Entgelt vorgeschlagen. Ist der vorgeschlagene Betrag nicht die Basis für die Berechnung des Abfertigungsanspruches, so muss das entsprechende richtige Entgelt hier eingegeben werden. Das hier eingegebene Entgelt dient als Grundlage für den Vorteilsvergleich bei der Berechnung der Lohnsteuer (Vervielfachermethode oder fester Steuersatz).
 
-Eingabe des *Sonderzahlungs-Anspruches*, der für die Berechnung der Abfertigung maßgeblich ist. Entweder Eingabe des Gesamtjahresanspruches oder des Anspruches in Monaten (vom Programm werden Eingabewerte unter 20 als Monatseingaben gewertet).
+Eingabe des *Sonderzahlungsanspruches*, der für die Berechnung der Abfertigung maßgeblich ist. Entweder Eingabe des Gesamtjahresanspruches oder des Anspruches in Monaten (vom Programm werden Eingabewerte unter 20 als Monatseingaben gewertet).
 
-Aufgrund der für die Abfertigung maßgeblichen Daten wird vom Programm automatisch der *Abfertigungs-Anspruch* berechnet und vorgeschlagen. Dieser kann auch abgeändert werden. Eine solche Änderung ist durch ein Sternchen (*) vor dem Betragsfeld ersichtlich.
+Aufgrund der für die Abfertigung maßgeblichen Daten wird vom Programm automatisch der *Abfertigungsanspruch* berechnet und vorgeschlagen. Dieser kann auch abgeändert werden. Eine solche Änderung ist durch ein Sternchen (*) vor dem Betragsfeld ersichtlich.
 
 **Lohnbasis SW-Entschädigung**
 
-Eingabe des vollen Stundensatzes und der Stundenanzahl. Es werden davon automatisch 60% gerechnet. Die Differenz (= 40%) wird bis zur Krankenversicherungs-Höchstbeitragsgrundlage in der Zuschlagsgruppe Z06 bzw. Z11 (Lehrlinge) (nur Dienstgeberanteil) abgerechnet.
+Eingabe des vollen Stundensatzes und der Stundenanzahl. Es werden davon automatisch 60 % gerechnet. Die Differenz (= 40 %) wird bis zur Krankenversicherungshöchstbeitragsgrundlage in der Zuschlagsgruppe Z06 bzw. Z11 (Lehrlinge) (nur Dienstgeberanteil) abgerechnet.
 
 **Unbezahlter Urlaub**
 
-Eingabe der Zahl der Tage und des Grundlohns für den Zeitraum des unbezahlten Urlaubs für Zwecke der Sozialversicherung. Für die Zeit des unbezahlten Urlaubes hat der Dienstnehmer die Sozialversicherungsbeiträge (einschließlich Schlechtwetter-Beitrag), auch die Dienstgeberanteile, zur Gänze zu tragen. Die KU, der WF und die
+Eingabe der Zahl der Tage und des Grundlohns für den Zeitraum des unbezahlten Urlaubs für Zwecke der Sozialversicherung. Für die Zeit des unbezahlten Urlaubes hat der Dienstnehmer die Sozialversicherungsbeiträge (einschließlich Schlechtwetterbeitrag), auch die Dienstgeberanteile, zur Gänze zu tragen. Die KU, der WF und die
 LKU (außer in der Steiermark und Kärnten) entfallen für solche Zeiträume. Der IESG-Zuschlag und der Beitrag gemäß dem Nachtschicht-Schwerarbeitsgesetz sind jedoch vom Dienstgeber zu entrichten.
 
 **Teilentgelt**
 
-Hier sind die Anzahl der Tage und der Betrag des Teilentgeltes einzugeben. Es ist zu beachten, dass hier nur das beitragspflichtige Teilentgelt eingegeben werden darf. Ein nicht beitragspflichtiges Teilentgelt (z. B. beim Lehrling) muss als SV-freie Lohnart definiert werden.
+Hier sind die Anzahl der Tage und der Betrag des Teilentgeltes einzugeben. Es ist zu beachten, dass hier nur das beitragspflichtige Teilentgelt eingegeben werden darf. Ein nicht beitragspflichtiges Teilentgelt (z. B. beim Lehrling) muss als freie Lohnart definiert werden.
 
 **Teilentgelt Ausland**
 
 Wenn der Bezug von Teilentgelt in eine Periode mit Auslandstätigkeit fällt, können hier die Eintragungen vorgenommen werden. Die Abrechnung in diesen Feldern wird lohnsteuerfrei gerechnet.
+
+**BUAK-Direktauzahlung**
 
 Die Abwicklung der Direktauszahlung von Urlaubsentgelt ist ab 1.4.2010 in diesem Bereich der Fixen Lohnarten.
 
@@ -136,7 +138,7 @@ Im Kontextmenü wählen Sie *BUAK–Urlaubsentgeltverrechnung* aus.
 
 ![Image](<img/image108.png>){width="700"}
 
-Durch Anwahl *Werte übernehmen* können die in diesem Bildschirm angeführten Beträge in die neu entwickelten Felder importiert werden.
+Durch Anwahl *Werte übernehmen* können die in diesem Bildschirm angeführten Beträge in die vorgesehenen Felder importiert werden.
 
 Es erfolgt eine automatische Aufteilung des Urlaubsentgelts und des Urlaubszuschusses der BUAK.
 
@@ -144,9 +146,9 @@ Es erfolgt eine automatische Aufteilung des Urlaubsentgelts und des Urlaubszusch
 
 Seit 1.1.2012 darf der Urlaubszuschuss für Dienstnehmer, die dem BUAG unterliegen und die keine Direktauszahlung von der BUAK erhalten, nicht als normale Sonderzahlung abgerechnet werden.
 
-Die Eintragung kann im Feld *UZ (BUAG)* erfolgen. Die Versteuerung erfolgt mit 6 % ohne Berücksichtigung des Freibetrages (EUR 620,00), ohne Berücksichtigung der Freigrenze (ab 2024: EUR 2.447,00 bis 2023: EUR 2.100) und ohne Anrechnung auf das Jahreszwölftel. Der Urlaubszuschuss kann auch mit einer freien Lohnart mit Lohnsteuerpflichtigkeit *Nr. 3 LSt. gem. § 67 ohne Freibetrag von 620,00 ohne Sechstelbestimmung* abgerechnet werden.
+Die Eintragung kann im Feld *UZ (BUAG)* erfolgen. Die Versteuerung erfolgt mit 6 % ohne Berücksichtigung des Freibetrages (EUR 620,00), ohne Berücksichtigung der Freigrenze (ab 2024: EUR 2.447,00 bis 2023: EUR 2.100,00) und ohne Anrechnung auf das Jahreszwölftel. Der Urlaubszuschuss kann auch mit einer freien Lohnart mit Lohnsteuerpflichtigkeit *Nr. 3 LSt. gem. §&nbsp;67 ohne Freibetrag von 620,00 ohne Sechstelbestimmung* abgerechnet werden.
 
-Damit das Feld *UZ (BUAG)* ausgefüllt werden kann und für weitere sonstige Bezüge (Weihnachtsremuneration) das Jahreszwölftel gemäß § 67 (5) EStG berücksichtigt wird, muss im Abrechnungsbildschirm *Sozialversicherung* im Bereich *Bauarbeiter- Urlaubs- und Abfertigungskasse (BUAK)* das Häkchen gesetzt sein.
+Damit das Feld *UZ (BUAG)* ausgefüllt werden kann und für weitere sonstige Bezüge (Weihnachtsremuneration) das Jahreszwölftel gemäß § 67 (5) EStG berücksichtigt wird, muss im Abrechnungsbildschirm *Sozialversicherung* im Bereich [*Bauarbeiter- Urlaubs- und Abfertigungskasse (BUAK)*](../Bauarbeiter-Urlaubs-%20und%20Abfertigungskasse/Abrechnungsbildschirm%20Bauarbeiter-Urlaubs-%20und%20Abfertigungskasse.md) das Häkchen gesetzt sein.
 
 **BV-Bemessung für**
 
@@ -154,7 +156,7 @@ Damit das Feld *UZ (BUAG)* ausgefüllt werden kann und für weitere sonstige Bez
 
 Bei Ableistung von Präsenz- und Zivildienst und beim Bezug von Wochen- und Krankengeld sind vom Dienstgeber die BV-Beiträge weiter an die BV-Kasse abzuführen.
 
-Aufgrund des im [Abrechnungsbildschirm *Austritt*](../Abrechnungsbildschirme/Austritt.md) eingetragenen Austrittsgrunds (Präsenz- bzw. Zivildienst, Wochengeld) wird vom Programm automatisch die Bemessungsgrundlage in das jeweilige Feld eingetragen.
+Aufgrund des im Abrechnungsbildschirm [*Austritt*](../Abrechnungsbildschirme/Austritt.md) eingetragenen Austrittsgrunds (Präsenz- bzw. Zivildienst, Wochengeld) wird vom Programm automatisch die Bemessungsgrundlage in das jeweilige Feld eingetragen.
 
 Beim Bezug von Krankengeld ist die Eintragung und Aliquotierung manuell vorzunehmen.
 
@@ -171,7 +173,7 @@ Siehe [Start-Up-Mitarbeiterbeteiligung](../Abrechnungen%20Sonderfälle/Start-Up-
 
 ![Image](<img/image110.png>){width="500"}
 
-In Ausnahmefällen kann die Berechnung der Lohnsteuer und/oder der Sozialversicherung durch den Benutzer abweichend eingetragen bzw. geändert werden. Durch Anwahl der *rechten Maustaste* oder der Tastenkombination *Strg – 0,* kann der Wert im jeweiligen Feld *Explizit 0* gesetzt werden.
+In Ausnahmefällen kann die Berechnung der Lohnsteuer und/oder der Sozialversicherung durch den Benutzer abweichend eingetragen bzw. geändert werden. Durch Anwahl der *rechten Maustaste* oder der Tastenkombination *Strg + 0,* kann der Wert im jeweiligen Feld *Explizit 0* gesetzt werden.
 
 Eingabe der *abweichenden Lohnsteuer* getrennt nach laufender und fester Lohnsteuer gemäß §&nbsp;67&nbsp;(1) und § 67 (3) EStG 1988. Wird eine abweichende Lohnsteuer eingegeben, so ist immer die gesamte Lohnsteuer der Abrechnung (laufende und feste Lohnsteuer) einzugeben.
 
