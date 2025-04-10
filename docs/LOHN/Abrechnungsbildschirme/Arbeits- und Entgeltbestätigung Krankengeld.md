@@ -1,4 +1,4 @@
-# Arbeits- und Entgeltsbestätigung Krankengeld
+# Arbeits- und Entgeltbestätigung Krankengeld
 
 ![Image](<img/image135.png>)
 
@@ -35,7 +35,7 @@ Die Einträge in den Feldern *Austrittsdatum, Kündigungsentschädigung, Ersatzl
 
 **Volles Entgelt bis**
 
-In diesem Feld ist das Datum vom Ende des Entgeltanspruches unter Berücksichtigung des § 9 Arbeitsruhegesetzes einzutragen. Durch *rechten Mausklick* in dieses Feld und Anwahl *Aufruf* oder *F2-Taste* können Sie die Krankenstandskartei öffnen und den betroffenen Krankenstand auswählen. Es werden somit alle Felder automatisch befüllt.
+In diesem Feld ist das Datum vom Ende des Entgeltanspruches unter Berücksichtigung des § 9 Arbeitsruhegesetzes einzutragen. Durch einen *rechten Mausklick* in dieses Feld und Auswahl von *Aufruf* oder der *F2-Taste* können Sie die Krankenstandskartei öffnen und den betroffenen Krankenstand auswählen. Es werden somit alle Felder automatisch befüllt.
 
 **Teilentgelt**
 
@@ -55,7 +55,7 @@ In diesem Feld wird das Entgelt angegeben, das im **zuletzt vorangegangenen Beit
 
 Als **Entgelt** gelten die beitragspflichtigen Geld- und Sachbezüge, auf die der Dienstnehmer aus dem Beschäftigungsverhältnis Anspruch hat oder die er darüber hinaus auf Grund des Beschäftigungsverhältnisses vom Dienstgeber oder von einem Dritten (Trinkgelder) erhält. Sonderzahlungen und beitragsfreie Bezüge sind in das Entgelt nicht einzubeziehen. Wenn es sich um einen Zeitlohn handelt, muss das Feld *Zeitlohn* aktiviert werden.
 
-Der Beitragszeitraum umfasst für Pflichtversicherte den Kalendermonat. Das Entgelt des dem Ende des vollen Entgeltanspruches zuletzt vorangegangenen Beitragszeitraumes ist auch anzugeben, wenn in diesem wegen einer früheren Arbeitsunfähigkeit nur für einen Teil des Beitragszeitraumes Beitragspflicht bestand (das Entgelt des laufenden Beitragszeitraumes bleibt unberücksichtigt). Kommt ein zuletzt vorangegangener Beitragszeitraum nicht in Betracht, weil entweder das Beschäftigungsverhältnis noch nicht so lange besteht, oder weil der Dienstnehmer (z. B. bei Wiedererkrankung) in dem zuletzt vorangegangenen Beitragszeitraum wegen  Arbeitsunfähigkeit kein beitragspflichtiges Entgelt erhalten hat, so ist das beitragspflichtige Entgelt des laufenden Beitragszeitraumes auszuweisen.
+Der Beitragszeitraum umfasst für Pflichtversicherte den Kalendermonat. Das Entgelt des dem Ende des vollen Entgeltanspruches zuletzt vorangegangenen Beitragszeitraumes ist auch anzugeben, wenn in diesem wegen einer früheren Arbeitsunfähigkeit nur für einen Teil des Beitragszeitraumes Beitragspflicht bestand (das Entgelt des laufenden Beitragszeitraumes bleibt unberücksichtigt). Kommt ein zuletzt vorangegangener Beitragszeitraum nicht in Betracht, weil entweder das Beschäftigungsverhältnis noch nicht so lange besteht, oder weil der Dienstnehmer (z. B. bei Wiedererkrankung) in dem zuletzt vorangegangenen Beitragszeitraum wegen Arbeitsunfähigkeit kein beitragspflichtiges Entgelt erhalten hat, so ist das beitragspflichtige Entgelt des laufenden Beitragszeitraumes auszuweisen.
 
 **Bezüge enthalten**
 
@@ -79,7 +79,7 @@ Die Sonderzahlung wird durch den Krankengeldbezug von der ÖGK nicht geschmäler
 
 **SZ wird aliquot ausbezahlt**
 
-Die Sonderzahlung wird nur aliquot ausbezahlt während des Krankengeldbezuges, es wird die Sonderzahlung um die Krankengeldbezug-Tage geschmälert.
+Die Sonderzahlung wird nur aliquot ausbezahlt während des Krankengeldbezuges, die Sonderzahlung wird um die Krankengeldbezugstage geschmälert.
 
 **Sachbezüge**
 
@@ -95,11 +95,11 @@ Aktivieren Sie dieses Feld, wenn der Sachbezug im Geldbezug enthalten ist.
 
 **SB wird zu 100% weitergewährt**
 
-Der Sachbezug wird trotz Krankengeldbezug von der ÖGK weiterhin bezogen. D.h. der Dienstnehmer behält den PKW trotz 0% Entgeltfortzahlung.
+Der Sachbezug wird trotz Krankengeldbezug von der ÖGK weiterhin bezogen. Das heißt, der Dienstnehmer behält den PKW trotz 0% Entgeltfortzahlung.
 
 **SB wird aliquot ausbezahlt**
 
-Der Sachbezug wird durch den Krankengeldbezug von der ÖGK gekürzt, d.h. der Dienstnehmer muss während des 0% Entgeltfortzahlungszeitraumes seinen PKW zurückgeben und es wird kein Sachbezug für diesen Zeitraum abgerechnet.
+Der Sachbezug wird durch den Krankengeldbezug von der ÖGK gekürzt, das heißt, der Dienstnehmer muss während des 0% Entgeltfortzahlungszeitraumes seinen PKW zurückgeben und es wird kein Sachbezug für diesen Zeitraum abgerechnet.
 
 **Anspruch besteht bis zu**
 

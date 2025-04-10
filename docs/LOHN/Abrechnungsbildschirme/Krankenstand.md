@@ -6,7 +6,7 @@ Dieser Abrechnungsbildschirm ermöglicht die automatische Berechnung der Entgelt
 
 **Allgemeine Daten**
 
-Im ersten Bereich des Bildschirmes wird in den Feldern *Anrechnung* *ab* … *als* das Eintrittsdatum und die Zuordnung (Arbeiter, Angestellter, Lehrling) automatisch eingetragen. Die Zuordnung zu Arbeiter, Angestellter oder Lehrling erfolgt aufgrund der im [Abrechnungsbildschirm *Sozialversicherung*](../Abrechnungsbildschirme/Sozialversicherung.md) ausgewählten Beschäftigtengruppe.
+Im ersten Bereich des Bildschirms werden in den Feldern *Anrechnung ab* … *als* das Eintrittsdatum und die Zuordnung (Arbeiter, Angestellter, Lehrling) automatisch eingetragen. Die Zuordnung zu Arbeiter, Angestellter oder Lehrling erfolgt aufgrund der im [Abrechnungsbildschirm *Sozialversicherung*](../Abrechnungsbildschirme/Sozialversicherung.md) ausgewählten Beschäftigtengruppe.
 
 Im Feld *Beginn Arbeitsjahr* wird ebenfalls das Eintrittsdatum vorgeschlagen. Die Abrechnung erfolgt entweder in *Kalendertagen* oder *Arbeitstagen*. Feiertage werden vom Programm automatisch berücksichtigt. Eine nachträgliche Umstellung zwischen diesen beiden Möglichkeiten ist nur möglich, wenn vorhandene Krankenstandzeilen gelöscht werden. Seitens RZL wird die Praxismethode der Abrechnung nach Kalendertagen empfohlen.
 
@@ -36,7 +36,7 @@ Wenn die *F2-Taste* angewählt wird, werden die von Elda heruntergeladenen Krank
 
 **Folgeerkrankung**
 
-Im Bereich der Arbeitsunfälle steht ein extra Kontingent an Entgeltfortzahlung zur Verfügung. Folgekrankheiten aufgrund eines Arbeitsunfalles werden in der Kartei als „normale“ Krankheit erfasst und durch Anwahl der *F4-Taste* dem betreffenden Arbeitsunfall zugeordnet.Dadurch wird sichergestellt, dass der Verbrauch vom extra Kontingent für Arbeitsunfälle gerechnet wird.
+Im Bereich der Arbeitsunfälle steht ein zusätzliches Kontingent an Entgeltfortzahlung zur Verfügung. Folgekrankheiten aufgrund eines Arbeitsunfalls werden in der Kartei als „normale“ Krankheit erfasst und durch Anwahl der *F4-Taste* dem betreffenden Arbeitsunfall zugeordnet. Dadurch wird sichergestellt, dass der Verbrauch vom zusätzlichen Kontingent für Arbeitsunfälle gerechnet wird.
 
 **Neuberechnung aller EFZ-Tage**
 
@@ -48,11 +48,11 @@ Dieser Eintrag ermöglicht die Neuberechnung der eingetragenen Zeilen.
 
 Die bloße Änderung der Beschäftigtengruppe im [Abrechnungsbildschirm *Sozialversicherung*](../Abrechnungsbildschirme/Sozialversicherung.md) bewirkt keine Änderung im Bereich der Krankenstandsverwaltung.
 
-Mit der Angleichung der EFZ-Ansprüche bei Arbeiter und Angestellten kam es zu der Änderung, dass bei einem Wechsel von Arbeiter auf Angestellte bzw. umgekehrt, zu keinem getrennten Anspruch mehr kommt. Falls jedoch in Ausnahmefällen die EFZ-Ansprüche bei einem Wechsel getrennt werden müssen, können Sie seit 01.10.2021 *Arbeiter und Angestellte getrennt (Arbeitsjahr)* anwählen. Somit werden die Ansprüche von Arbeiter und Angestellte in diesem Arbeitsjahr getrennt betrachtet.
+Mit der Angleichung der EFZ-Ansprüche bei Arbeitern und Angestellten kam es zu der Änderung, dass bei einem Wechsel von Arbeiter auf Angestellten bzw. umgekehrt kein getrennter Anspruch mehr besteht. Falls jedoch in Ausnahmefällen die EFZ-Ansprüche bei einem Wechsel getrennt werden müssen, können Sie seit 01.10.2021 *Arbeiter und Angestellte getrennt (Arbeitsjahr)* anwählen. Somit werden die Ansprüche von Arbeiter und Angestellte in diesem Arbeitsjahr getrennt betrachtet.
 
 **Anzeige der Ansprüche – Vornahme von Kürzungen**
 
-Im unteren Bereich des Abrechnungsbildschirmes *Krankenstand* werden die Ansprüche, der Verbrauch und die noch zur Verfügung stehenden Tage angezeigt. Die Darstellung erfolgt unterschiedlich, je nachdem, ob ein Arbeiter, Angestellter oder Lehrling abgerechnet wird.
+Im unteren Bereich des Abrechnungsbildschirms *Krankenstand* werden die Ansprüche, der Verbrauch und die noch zur Verfügung stehenden Tage angezeigt. Die Darstellung erfolgt unterschiedlich, je nachdem, ob ein Arbeiter, Angestellter oder Lehrling abgerechnet wird.
 
 ![Image](<img/image132.png>){width="400"}
 
@@ -64,7 +64,7 @@ Wird im Bereich der Krankenstandskartei keine Krankenstandszeile angewählt, erf
 
 ![Image](<img/image133.png>){width="400"}
 
-Durch Anwahl der Schaltfläche *Kürzungen* wird folgender Bildschirm aufgerufen:
+Durch Auswahl der Schaltfläche *Kürzungen* wird folgender Bildschirm aufgerufen:
 
 ![Image](<img/image134.png>){width="400"}
 

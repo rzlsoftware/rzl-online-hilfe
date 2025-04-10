@@ -1,4 +1,4 @@
-# Arbeits- und Entgeltsbestätigung Wochengeld
+# Arbeits- und Entgeltbestätigung Wochengeld
 
 ![Image](<img/image136.png>)
 
@@ -6,7 +6,7 @@
 
 Die entsprechenden Daten werden vom Programm aus dem Erfassungsbildschirm *Eintritt* übernommen und angezeigt.
 
-**Vertragsbed**i**ensteter**
+**Vertragsbediensteter**
 
 Handelt es sich um einen Vertragsbediensteten, ist dies im dafür vorgesehenen Feld zu bestätigen.
 
@@ -66,7 +66,7 @@ Als Netto-Arbeitsverdienst gelten alle Geld- und Sachbezüge einschließlich der
 
 - des Schlechtwetterentschädigungsbeitrages.
 
-Hat das versicherungspflichtige Beschäftigungsverhältnis in den letzten drei Kalendermonaten noch nicht bestanden, also es hat erst in dem Monat begonnen, in dem auch der Versicherungsfall der Mutterschaft eingetreten ist, so ist nur der Netto-Arbeitsverdienst für den Zeitraum anzugeben, in dem die Beschäftige gearbeitet hat.
+Hat das versicherungspflichtige Beschäftigungsverhältnis in den letzten drei Kalendermonaten noch nicht bestanden, also es hat erst in dem Monat begonnen, in dem auch der Versicherungsfall der Mutterschaft eingetreten ist, so ist nur der Netto-Arbeitsverdienst für den Zeitraum anzugeben, in dem die Beschäftigte gearbeitet hat.
 
 **Anspruch auf Sonderzahlung**
 
@@ -80,11 +80,11 @@ Weiters ist noch anzugeben, ob eine Weitergewährung der Sachbezüge während de
 
 **Weitergewährung der Sachbezüge während Wochengeldbezug**
 
-Wird der Sachbezug während des Wochengeldbezuges weitergewährt muss dieses Feld aktiviert werden. Dies hat zur Folge, dass eines der zwei untenstehenden Felder auch aktiviert werden muss.
+Wird der Sachbezug während des Wochengeldbezuges weitergewährt, muss dieses Feld aktiviert werden. Dies hat zur Folge, dass eines der beiden untenstehenden Felder ebenfalls aktiviert werden muss.
 
 **Sachbezug in Arbeitsverdienst enthalten**
 
-Aktivieren Sie dieses Feld, wenn der Sachbezug im Geldbezug enthalten ist.
+Aktivieren Sie dieses Feld, wenn der Sachbezug im Arbeitsverdienst enthalten ist.
 
 **Unterbrechung des Bezugs**
 

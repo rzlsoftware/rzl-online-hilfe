@@ -1,6 +1,6 @@
 # Dienstzettel
 
-Dieser Bildschirm ist nur auszufüllen, falls für den Dienstnehmer ein Dienstzettel zu erstellen ist. Gemäß § 2 Abs. 1 Arbeitsvertragsrechts-Anpassungsgesetz (AVRAG) hat der Arbeitgeber dem Arbeitnehmer unverzüglich nach Beginn des Arbeitsverhältnisses einen Dienstzettel auszuhändigen. Der Dienstzettel für die einzelnen Dienstnehmer kann im Programmteil *Ausdruck / Stammdaten / Dienstzettel* wahlweise mit der Bezeichnung Dienstzettel oder Dienstvertrag ausgedruckt werden.
+Dieser Bildschirm ist nur auszufüllen, falls für den Dienstnehmer ein Dienstzettel erstellt werden soll. Gemäß § 2 Abs. 1 Arbeitsvertragsrechts-Anpassungsgesetz (AVRAG) hat der Arbeitgeber dem Arbeitnehmer unverzüglich nach Beginn des Arbeitsverhältnisses einen Dienstzettel auszuhändigen. Der Dienstzettel für die einzelnen Dienstnehmer kann im Programmteil *Ausdruck / Stammdaten / Dienstzettel* wahlweise mit der Bezeichnung Dienstzettel oder Dienstvertrag ausgedruckt werden.
 
 ![Image](<img/image138.png>)
 
@@ -10,15 +10,15 @@ Standardmäßig wird das Eintrittsdatum als Beginn vorgeschlagen. Es kann ein ab
 
 **Ende Arbeitsverhältnis**
 
-Handelt es sich um ein befristetes Arbeitsverhältnis, ist hier das Ende des Arbeitsverhältnisses einzugeben. Sie haben die Möglichkeit, mit rechtem Mausklick den Vorschlag vom Feld *DV befristet bis* aufzurufen. Die hier gemachte Eingabe wird nur am Dienstzettel ausgewiesen. Scheidet der Dienstnehmer aus, so muss das Ende des Arbeitsverhältnisses im *Austrittsbildschirm* eingegeben werden.
+Handelt es sich um ein befristetes Arbeitsverhältnis, ist hier das Ende des Arbeitsverhältnisses einzugeben. Sie haben die Möglichkeit, mit der rechten Maustaste den Vorschlag aus dem Feld *DV befristet bis* aufzurufen. Die hier gemachte Eingabe wird nur am Dienstzettel ausgewiesen. Scheidet der Dienstnehmer aus, so muss das Ende des Arbeitsverhältnisses im *Austrittsbildschirm* eingegeben werden.
 
 **Bruttogehalt/Bruttolohn/Lehrlingseinkommen pro Monat und Überstundenpauschale**
 
-Das Bruttogehalt, der Bruttolohn bzw. das Lehrlingseinkommen kommen aus der Fixen Lohnart *Lohn/Gehalt*. Wurde im Bereich Über-/Mehrarbeitsstunden bei *Überstundenpauschale* ein Wert erfasst, wird dieser in dem Feld *Überstundenpauschale* dargestellt.
+Das Bruttogehalt, der Bruttolohn bzw. das Lehrlingseinkommen kommen aus der Fixen Lohnart *Lohn/Gehalt*. Wurde im Bereich Über-/Mehrarbeitsstunden bei *Überstundenpauschale* ein Wert erfasst, wird dieser im Feld *Überstundenpauschale* dargestellt.
 
 **Fälligkeit des Entgeltes**
 
-Als Vorschlag wird jene Eingabe unter *Stamm / Klient / *[*Zahltag Abrechnung*](../Klientenstammdaten/Stammdaten%20Klient/Bank,%20Überweisung,%20Zahltag.md) angeführt. Sie haben die Möglichkeit den Vorschlag mit bis zu 30 Zeichen zu überschreiben.
+Als Vorschlag wird jene Eingabe unter *Stamm / Klient / *[*Zahltag Abrechnung*](../Klientenstammdaten/Stammdaten%20Klient/Bank,%20Überweisung,%20Zahltag.md) angeführt. Sie haben die Möglichkeit, den Vorschlag durch einen Text mit bis zu 30 Zeichen zu überschreiben.
 
 **Art der Auszahlung**
 
@@ -30,7 +30,7 @@ Sie können hier weitere Lohnvereinbarungen von bis zu 250 Zeichen erfassen.
 
 **Urlaubsjahr**
 
-Der Beginn des Urlaubsjahres, sowie der Anspruch, ist im Bildschirm *Urlaub* einzugeben und wird für den Dienstzettel übernommen. Der Anspruch kann nur im Bereich *Urlaub* abgeändert werden.
+Der Beginn des Urlaubsjahres, sowie der Anspruch sind im Bildschirm *Urlaub* einzugeben und wird für den Dienstzettel übernommen. Der Anspruch kann nur im Bereich *Urlaub* abgeändert werden.
 
 **Anrechenbare Vordienstzeiten für Einstufung**
 
@@ -46,7 +46,7 @@ Eingabe der Vordienstzeiten mit bis zu 10 Zeichen (Monate und Jahre), die bei de
 
 **Einstufung ab**
 
-Eingabe mit bis zu 10 Zeichen, ab wann die Einstufung erfolgt (z. B. Jänner 99). Diese Eingabe wird nur am Dienstzettel angedruckt.
+Eingabe mit bis zu 10 Zeichen, ab wann die Einstufung erfolgt (z. B. Jänner 1999). Diese Eingabe wird nur am Dienstzettel angedruckt.
 
 **Vorrückung**
 
@@ -70,7 +70,7 @@ Bei der Position *Kollektivvertrag* wird bei Verwendung der HGKV-Datenbank diese
 
 Als *Ort der Einsichtnahme* wird *im Personalbüro* vorgeschlagen. Dieser Textvorschlag kann manuell überschrieben werden (bis zu 50 Zeichen).
 
-Kommt die HGKV-Datenbank zur Anwendung wird bei der Position Dauer der Kündigungsfrist (HGKV), jener Text angeführt, welche die HGKV in dem ausgewählten Kollektivvertrag zur Verfügung stellt.
+Kommt die HGKV-Datenbank zur Anwendung wird bei der Position Dauer der Kündigungsfrist (HGKV), jener Text angeführt, welchen die HGKV im ausgewählten Kollektivvertrag zur Verfügung stellt.
 
 ![Image](<img/image139.png>)
 
@@ -90,7 +90,7 @@ Die Daten der *Normalarbeitszeit* werden aus dem Eintrittsbildschirm übernommen
 Für die Beschreibung der Kündigungsfristen bzw. Vereinbarungen bezüglich der Kündigung können je Dienstnehmer bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
 !!! warning "Hinweis"
-    Wird bei *Dauer der Kündigungsfrist* ein Textbaustein hinterlegt und ausgewählt, dann wird dieser Text verwendet und nicht mehr der Vorschlag vom Feld *Dauer der Kündigungsfrist (HGKV).*
+    Wird bei *Dauer der Kündigungsfrist* ein Textbaustein hinterlegt und ausgewählt, dann wird dieser Text verwendet und nicht mehr der Vorschlag aus dem Feld *Dauer der Kündigungsfrist (HGKV).*
 
 **Kündigungstermin**
 
