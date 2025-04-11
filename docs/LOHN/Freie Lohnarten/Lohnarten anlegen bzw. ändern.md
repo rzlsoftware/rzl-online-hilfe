@@ -4,10 +4,11 @@ Werden individuelle Lohnarten angelegt, so liegt die Verantwortung hinsichtlich 
 
 !!! warning "Hinweis"
     Sobald die freie Lohnart in der Abrechnung verwendet wurde, darf diese nicht mehr geändert werden. In diesem Fall müssen Sie die Lohnart mit den richtigen Pflichtigkeiten unter einer neuen Nummer anlegen.
+    Lediglich hinsichtlich der Zuordnung der Lohnart in den Eingabefeldern „Bemessung Sonderzahlung“ bis „Bemessung Urlaubsrückstellung Sonderzahlung“ kann eine spätere Korrektur erfolgen. Ein [Repair der Bemessungsgrundlagen](../Repair.md) ist nachfolgend notwendig.
 
-Lediglich hinsichtlich der Zuordnung der Lohnart in den Eingabefeldern „Bemessung Sonderzahlung“ bis „Bemessung Urlaubsrückstellung Sonderzahlung“ kann eine spätere Korrektur erfolgen. Ein Repair der Bemessungsgrundlagen ist nachfolgend notwendig.
+![Image](<img/image146.png>){width="500"}
 
-![Image](<img/image146.png>)
+## LA (1)
 
 **Nummer**
 
@@ -17,23 +18,23 @@ Es können die Nummern von 1 bis 999 verwendet werden.
 
 Eingabe der Bezeichnung der Lohnart mit bis zu **35** Stellen. Mit diesem Text wird die Lohnart auch auf der Abrechnung ausgedruckt.
 
-**Bezug ­ Sachbezug**
+**Bezug und­ Sachbezug**
 
-Durch Anwahl dieses Auswahlfeldes kann nachfolgend eine freie Lohnart angelegt werden, die als Bezugslohnart auf der Dienstnehmerabrechnung angeführt wird. Handelt es sich bei der Lohnart um einen Sachbezug, können Sie das Feld *Sachbezug* ebenfalls aktivieren. Sie ersparen sich damit die Anlage einer zusätzliche Abzugslohnart Sachbezug. Für die Kontierung des Buchungsbeleges können Sie nur eine Kontonummer für den Sachbezug eintragen.
+Durch Anwahl dieses Auswahlfeldes kann nachfolgend eine freie Lohnart angelegt werden, die als Bezugslohnart auf der Dienstnehmerabrechnung angeführt wird. Handelt es sich bei der Lohnart um einen Sachbezug, können Sie das Feld *Sachbezug* ebenfalls aktivieren. Sie ersparen sich damit die Anlage einer zusätzlichen Abzugslohnart Sachbezug. Für die Kontierung des Buchungsbeleges können Sie nur eine Kontonummer für den Sachbezug eintragen.
 
-**Abzug ­ Sachbezug**
+**Abzug und­ Sachbezug**
 
-In diesem Falle wird diese Lohnart nur als Abzugswert behandelt, d. h. nur vom Nettobezug abgezogen. So können z. B. Sachbezüge und andere Abzüge mit individuellen Bezeichnungen belegt werden. 
+In diesem Falle wird diese Lohnart nur als Abzugswert behandelt, das heißt nur vom Nettobezug abgezogen. So können z. B. Sachbezüge und andere Abzüge mit individuellen Bezeichnungen belegt werden. 
 
 Wird zusätzlich das Feld *Sachbezug* angewählt, wird die 20 % Regelung bei Abrechnung von Sachbezügen berücksichtigt. Der den Versicherten belastenden Teil der allgemeinen Beiträge (Kranken, Pensions- und Arbeitslosenversicherung) darf 20 % der Geldbezüge des Versicherten nicht übersteigen. Der Unterschiedsbetrag ist vom Dienstgeber allein zu tragen.
 
 **Ausweis Lohnkonto**
 
-Wird dieses Feld aktiviert, kann eine Lohnart angelegt werden die ausschließlich am Lohnkonto des Dienstnehmers geführt wird (z. B. inländische Pensionskassenbeiträge). Diese Lohnart erscheint nicht auf den Abrechnungen.
+Wird dieses Feld aktiviert, kann eine Lohnart angelegt werden, die ausschließlich am Lohnkonto des Dienstnehmers geführt wird (z. B. inländische Pensionskassenbeiträge). Diese Lohnart erscheint nicht auf den Abrechnungen.
 
 **Überstunden**
 
-Wenn das Feld *Überstunden* ausgewählt wird, stehen nur mehr bestimmte Pflichtigkeiten zur Auswahl. Im Registerblatt *LA (3)* stehen mehrere Optionen für die Überstundenabrechnung zur Verfügung (siehe Beschreibung unten *LA (3)*.
+Wenn das Feld *Überstunden* ausgewählt wird, stehen nur mehr bestimmte Pflichtigkeiten zur Auswahl. Im Registerblatt *LA (3)* stehen mehrere Optionen für die Überstundenabrechnung zur Verfügung (siehe Beschreibung unten *LA (3)*).
 
 **Lohnart wiederkehrend**
 
@@ -53,23 +54,24 @@ Lohnarten können nach Einheiten abgerechnet werden. Es ist dann im nächsten Ei
 
 **Einheit**
 
-Wird die Lohnart nach Einheiten abgerechnet, so ist hier die Bezeichnung der verwendeten Einheit mit bis zu 8 Zeichen einzugeben (z. B. Stunden, Tage, km, usw.). Dieser Text wird auf der Lohnabrechnung angedruckt.
+Wird die Lohnart nach Einheiten abgerechnet, so ist hier die Bezeichnung der verwendeten Einheit mit bis zu 8 Zeichen einzugeben (z. B. Stunden, Tage, km usw.). Dieser Text wird auf der Lohnabrechnung angedruckt.
 
 **Aufwandsentschädigung**
 
 Handelt es sich bei der Lohnart um eine Aufwandsentschädigung, so ist dieses Feld zu aktivieren. Dazu muss die Pflichtigkeit in der Sozialversicherung, LSt, DB und KommSt entsprechend definiert werden:
 
-| **SV** | **LSt** | **DB** | **Komm.** |                                                     |
-| :----: | :-----: | :----: | :-------: | --------------------------------------------------- |
-|   0    |    6    |   2    |     2     | Aufwandsentschädigung, SV-frei, steuerfrei          |
-|   0    |    1    |   1    |     1     | Aufwandsentschädigung, SV-frei, steuerpflichtig     |
-|   1    |    1    |   1    |     1     | Aufwandsentschädigung SV-pflichtig, steuerpflichtig |
+| **SV** | **LSt** | **DB** | **KommSt** |                                                     |
+| :----: | :-----: | :----: | :--------: | --------------------------------------------------- |
+|   0    |    6    |   2    |     2      | Aufwandsentschädigung, SV-frei, steuerfrei          |
+|   0    |    1    |   1    |     1      | Aufwandsentschädigung, SV-frei, steuerpflichtig     |
+|   1    |    1    |   1    |     1      | Aufwandsentschädigung SV-pflichtig, steuerpflichtig |
 
-Die Aufwandsentschädigung wird immer im unteren Teil der Lohnabrechnung angedruckt und **nicht** beim Bruttolohn.
+!!! warning "Hinweis"
+    Die Aufwandsentschädigung wird immer im unteren Teil der Lohnabrechnung angedruckt und **nicht** beim Bruttolohn.
 
 **SV-Pflichtigkeit**
 
-Festlegung der Sozialversicherungs-Pflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
+Festlegung der Sozialversicherungspflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
 
 | SV-Pflichtigkeit |                                                                                                                                                 |
 | :--------------: | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -93,14 +95,14 @@ Für die SV-Pflichtigkeiten von 1 bis 6 und 8 bis 9 besteht durch Anwahl der *F2
 
 **LSt-Pflichtigkeit**
 
-Festlegung der Lohnsteuer-Pflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
+Festlegung der Lohnsteuerpflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
 
 | LSt-Pflichtigkeit |                                                                                                                                                                                                                                                                                         |
 | :---------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |         0         | steuerfrei gem. § 68 (1) und Nachtarbeit § 68 (6)                                                                                                                                                                                                                                       |
 |         1         | LSt laufender Bezug                                                                                                                                                                                                                                                                     |
 |         2         | LSt gem. § 67 (1) und (2) mit Freibetrag von EUR 620,00 mit Sechstelbestimmung                                                                                                                                                                                                          |
-|         3         | LSt gem. § 67 (3) ohne Freibetrag von EUR 620,00, ohne Sechstelbestimmung                                                                                                                                                                                                               |
+|         3         | LSt gem. § 67 (3) ohne Freibetrag von EUR 620,00 ohne Sechstelbestimmung                                                                                                                                                                                                                |
 |         4         | LSt Auslandsbezug                                                                                                                                                                                                                                                                       |
 |         5         | steuerfrei gemäß § 3 EstG, nicht sechstelerhöhend                                                                                                                                                                                                                                       |
 |         6         | Aufwandsentschädigung § 26 (4) EStG                                                                                                                                                                                                                                                     |
@@ -129,6 +131,9 @@ Festlegung der Lohnsteuer-Pflichtigkeit der Lohnart durch Auswahl aus der vorgeg
 |        34         | Werbungskosten gem. § 16 Abs 1 Z 3 b – freiw. Beiträge                                                                                                                                                                                                                                  |
 |        35         | Werbungskosten SV (KZ 226 – Abzug Bem. LSt. fest)                                                                                                                                                                                                                                       |
 |        36         | LSt. gem. § 67a (4) Z 2 – Start-Up-Mitarbeiterbeteiligung (27,5%)                                                                                                                                                                                                                       |
+|        37         | Zuschuss zur Kinderbetreuung § 3 Abs. 1 Z 13 lit. b                                                                                                                                                                                                                                     |
+|        38         | Kostenersatz Aufladen E-Fahrzeug                                                                                                                                                                                                                                                        |
+|        39         | Kostenersatz Anschaffung einer Ladeeinrichtung                                                                                                                                                                                                                                          |
 
 **DB-Pflichtigkeit**
 
@@ -144,7 +149,7 @@ Festlegung der DB-Pflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen L
 
 **KommSt-Pflichtigkeit**
 
-Festlegung der KommSt-Pflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
+Festlegung der Kommunalsteuerpflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
 
 | KommSt-Pflichtigkeit |                                              |
 | -------------------- | -------------------------------------------- |
@@ -154,7 +159,7 @@ Festlegung der KommSt-Pflichtigkeit der Lohnart durch Auswahl aus der vorgegeben
 | 3                    | nur Erhöhung der KommSt-Bemessungsgrundlagen |
 | 4                    | Erhöhung gemäß ATZ 2017                      |
 
-**LA (2)**
+## LA (2)
 
 ![Image](<img/image148.png>)
 
@@ -172,7 +177,7 @@ Wenn Sie dieses Feld anhaken, wird die Lohnart als *KV-Bezug* deklariert. Dies b
 
 **Bemessung SZ**
 
-Wird dieses Feld aktiviert, wird die freie Lohnart in der Sonderzahlungsberechnung miteingerechnet, wenn im Zuge der Abrechnung mit [../Lohnformeln/Formelsyntax/) gearbeitet wird.
+Wird dieses Feld aktiviert, wird die freie Lohnart in der Sonderzahlungsberechnung miteingerechnet, wenn im Zuge der Abrechnung mit [Lohnformeln](../Lohnformeln/Formelsyntax/Lohnarten.md) gearbeitet wird.
 
 **Monatsschnitt**
 
@@ -228,7 +233,7 @@ Festlegung, ob die Lohnart bei Berechnung der Zeitausgleichsrückstellung in die
 
 Festlegung, ob die Lohnart bei Berechnung der Zeitausgleichsrückstellung in die Berechnungsbasis für die anteiligen Sonderzahlungen einzubeziehen ist. Dieses Feld darf daher nicht angewählt werden, wenn es sich bei der Lohnart selbst um eine Sonderzahlung handelt, sondern nur, wenn diese Lohnart in die Berechnungsbasis für die Sonderzahlungen einzubeziehen ist.
 
-**MA-Rabatt \<= 20 %**
+**MA-Rabatt <= 20 %**
 
 Damit die Mitarbeiterrabatte korrekt berechnet werden können, wählen Sie hier aus, ob es sich um Mitarbeiterrabatte unter 20 % handelt.
 
@@ -239,7 +244,7 @@ Damit die Mitarbeiterrabatte korrekt berechnet werden können, wählen Sie hier 
 
 Handelt es sich bei der freien Lohnart um Teilentgelt, aktivieren Sie dieses Feld.
 
-**LA (3)**
+## LA (3)
 
 ![Image](<img/image149.png>)
 
@@ -249,7 +254,7 @@ Wenn Sie bei einer freien Abzugslohnart eine Sonstige Behörde in der Abrechnung
 
 **Überstunden als freie Lohnarten**
 
-Wenn im Registerblatt LA (1) die Option *Überstunde* ausgewählt wurde, sind nur mehr bestimmte Pflichtigkeiten auswählbar. Die (neuen) Pflichtigkeiten sind vor allem im Bereich der Lohnsteuer interessant.
+Wenn im Registerblatt LA (1) die Option *Überstunde* ausgewählt wurde, sind nur mehr bestimmte Pflichtigkeiten auswählbar. Die Pflichtigkeiten sind vor allem im Bereich der Lohnsteuer interessant.
 
 ![Image](<img/image150.png>)
 
@@ -271,7 +276,7 @@ Es gibt drei Möglichkeiten den Stundensatz für die Berechnung der Überstunden
 
 **1. Verwendung USt.-Grunddaten**
 
-Wenn das Feld *Verwendung ÜSt.-Grunddaten* aktiviert ist, übernimmt das Programm die Einstellungen (Überstundenteiler oder abw. Überstundengrundlohn) aus dem Abrechnungsbildschirm *Über-/Mehrarbeitsstunden/Zeitausgleich.*
+Wenn das Feld *Verwendung ÜSt.-Grunddaten* aktiviert ist, übernimmt das Programm die Einstellungen (Überstundenteiler oder abw. Überstundengrundlohn) aus dem Abrechnungsbildschirm [*Über-/Mehrarbeitsstunden*](../Abrechnungsbildschirme/Über-%20und%20Mehrarbeitsstunden.md).
 
 ![Image](<img/image152.png>)
 
@@ -285,10 +290,10 @@ Wird das Feld *Verwendung ÜSt-Grunddaten* deaktiviert, kann der Überstundentei
 
 Die Ermittlung der Basis erfolgt ebenfalls automatisch und kann nicht geändert werden.
 
-1.  **Keine Verwendung der Grunddaten – keine Eintragung bei     ÜSt-Teiler**
+**3. Keine Verwendung der Grunddaten – keine Eintragung bei ÜSt-Teiler**
 
 ![Image](<img/image154.png>)
 
 Wenn weder die ÜSt-Grunddaten aktiviert sind, noch ein ÜSt-Teiler eingetragen ist, muss die Eintragung im Feld *Basis* bei der Abrechnung der freien Lohnart erfolgen.
 
-![Image](<img/image155.png>)
+![Image](<img/image155.png>){width="500"}
