@@ -438,7 +438,7 @@ eingetragenen NACE-Codes als Haupttätigkeit zu kennzeichnen.
 
 ![](<img/image55.png>)
 
-Angezeigt werden die NACE Codes gültig ab 2008 und darunter die neuen gültig ab 2025. Wenn bereits vor den neuen gültigen NACE Codes ein NACE Code eingetragen wurde, werden diese grundsätzlich übernommen. Ist ein NACE Code 2025 nicht mehr gültig wird das mit einem roten Warndreieck gekennzeichnet und es ist der aktuell gültige auszuwählen.
+Angezeigt werden die NACE Codes gültig ab 2008 und darunter die neuen gültig ab 2025. Wenn bereits vor den neuen gültigen NACE Codes ein NACE Code eingetragen wurde, werden diese grundsätzlich übernommen. Ist ein voriger NACE Code von 2008 in 2025 nicht mehr gültig wird das mit einem roten Warndreieck gekennzeichnet und es ist der aktuell gültige auszuwählen.
 
 Im Register *Firmendaten Erweitert* können Sie weitere Informationen
 hinterlegen. Im Zuge der Hinterlegung der UID-Nummer kann diese
