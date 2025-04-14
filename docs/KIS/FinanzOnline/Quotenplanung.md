@@ -16,9 +16,7 @@ die *Abgabefertig*-Markierung in den Registerblättern
 
 ### Quotenplanung bearbeiten
 
-Die Quotenplanung ist nur für Mitarbeiter zugänglich, die auch das Recht
-*FinanzOnline Quotenplanung* besitzen. Mitarbeiter mit der Berechtigung
-FinanzOnline Quotenerfüllung hingegen können lediglich die *Details* zu
+Die Quotenplanung ist nur für Mitarbeiter zugänglich, die auch die Rolle **FinanzOnline Quotenplanung** besitzen. Mitarbeiter mit der Rolle **FinanzOnline Quotenerfüllung** hingegen können lediglich die *Details* zu
 den einzelnen Quotenfällen einsehen.
 
 Die (abgabefertigen) Quotenfälle werden aus dem Pool der *Nicht
