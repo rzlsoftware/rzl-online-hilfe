@@ -53,7 +53,7 @@ Es können bis zu 5 Anmerkungen mit Datum und Text eingegeben werden. Eine Anmer
 
 **Abrechnungstexte**
 
-Im Bereich *Abrechnungstexte* ist es möglich, Abrechnungstexte zeitlich begrenzt für den Andruck auf der Abrechnung des jeweiligen Dienstnehmers anzulegen. Die maximale Länge dieser Texte beträgt 300 Zeichen. Abrechnungstexte können auch klientenbezogen eingetragen werden. Die Verwaltung erfolgt entweder klientenbezogen unter *Stamm / Abrechnungstexte* oder [kanzleibezogen](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) unter (*Klient / Kanzlei / Texte*).
+Im Bereich *Abrechnungstexte* ist es möglich, Abrechnungstexte zeitlich begrenzt für den Andruck auf der Abrechnung des jeweiligen Dienstnehmers anzulegen. Die maximale Länge dieser Texte beträgt 300 Zeichen. Abrechnungstexte können auch klientenbezogen eingetragen werden. Die Verwaltung erfolgt entweder klientenbezogen unter *Stamm / Abrechnungstexte* oder [kanzleibezogen](../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) unter (*Klient / Kanzlei / Texte*).
 
 !!! info "Tipp"
     Insgesamt können 4 Abrechnungstexte auf den Abrechnungen der Dienstnehmer ange­druckt werden. Zwei dienstnehmerbezogene Abrechnungstexte im Abrechnungsbildschirm *Stammdaten* *Fristen* und zwei klientenbezogene Abrechnungstexte, die auf den gesamten Abrechnungen der Dienstnehmer des jeweiligen Klienten aufscheinen.

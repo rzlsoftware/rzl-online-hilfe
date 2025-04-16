@@ -87,19 +87,19 @@ Die Daten der *Normalarbeitszeit* werden aus dem [Eintrittsbildschirm](../Abrech
 
 **Dauer der Kündigungsfrist**
 
-Für die Beschreibung der Kündigungsfristen bzw. Vereinbarungen bezüglich der Kündigung können je Dienstnehmer bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
+Für die Beschreibung der Kündigungsfristen bzw. Vereinbarungen bezüglich der Kündigung können je Dienstnehmer bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
 !!! warning "Hinweis"
     Wird bei *Dauer der Kündigungsfrist* ein Textbaustein hinterlegt und ausgewählt, dann wird dieser Text verwendet und nicht mehr der Vorschlag aus dem Feld *Dauer der Kündigungsfrist (HGKV).*
 
 **Kündigungstermin**
 
-Je Dienstnehmer können bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
+Je Dienstnehmer können bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
 **Einzuhaltende Kündigungsverfahren**
 
-Je Dienstnehmer können bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
+Je Dienstnehmer können bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
 **Sonstige Vereinbarungen**
 
-Für die Angabe der sonstigen für das Dienstverhältnis geschlossenen Vereinbarungen können bis zu 20 der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte für Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
+Für die Angabe der sonstigen für das Dienstverhältnis geschlossenen Vereinbarungen können bis zu 20 der in den [Standardtexten](..//Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte für Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).

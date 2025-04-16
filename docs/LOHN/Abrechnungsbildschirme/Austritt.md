@@ -8,7 +8,7 @@ Eingabe des arbeitsrechtlichen Endes des Dienstverhältnisses. Das Austrittsdatu
 
 **Grund**
 
-Eingabe des Austrittsgrundes durch Auswahl aus der von der ÖGK vorgegebenen Liste. Für die Abmeldung muss ein Austrittsgrund angewählt werden. Bei der Eingabe eines *sonstigen Grundes* wird auf die angelegten [*Standardtexte*](../Kanzleitexte%20und%20Kanzleilohnkontenpläne/Kanzleitexte.md) zurückgegriffen.
+Eingabe des Austrittsgrundes durch Auswahl aus der von der ÖGK vorgegebenen Liste. Für die Abmeldung muss ein Austrittsgrund angewählt werden. Bei der Eingabe eines *sonstigen Grundes* wird auf die angelegten [*Standardtexte*](../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) zurückgegriffen.
 
 **Zielbeitragskonto Ummeldung**
 
