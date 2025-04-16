@@ -3,52 +3,61 @@
 Die Erstellung der ÖGK-Datei erfolgt im Menüpunkt *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen.*
 
 !!! info "Tipp"
-    Die ÖGK-Datei kann auch **klientenübergreifend** im Programmteil *Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* erstellt werden. Sämtliche elektronischen Meldungen können im Programmteil *Ausdruck* in Papierform ausgegeben werden.
+    Die ÖGK-Datei kann auch **klientenübergreifend** im Programmteil *Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* erstellt werden. Sämtliche elektronischen Meldungen können im Programmteil *Ausdruck* auch in Papierform ausgegeben werden.
 
 ![Image](<img/image181.png>){width="600"}
 
-Eine Reihe von Meldungen werden automatisch beim Beenden der Abrechnung vorgeschlagen. Daneben besteht aber immer auch die Möglichkeit, in den ersten beiden Registerblättern des oben abgebildeten Programmteils, die diversen Meldungen auszuwählen und manuell zu erstellen.
+Im ersten Registerblatt *Erstellung ÖGK-Datei* können Sie *Erstübermittlungen, Richtigstellungen und Stornomeldungen* für folgende Meldungen erstellen:
 
-**Meldungen mit neuem Aufbau**
+- Anmeldungen
+- Abmeldungen
+- Anmeldung fallweise Beschäftigter
+- Änderungsmeldungen
+- Adresse Versicherter
+- monatliche Beitragsgrundlagenmeldung (mBGM)
+- Arbeits- und Entgeltbestätigung Krankengeld
+- Arbeits- und Entgeltbestätigung Wochengeld
 
-Die bisherigen Vollanmeldungen und –abmeldungen wurden mit 2019 durch die sogenannten reduzierten An- und Abmeldungen ersetzt. Dafür sind deutlich weniger Pflichtfelder als bisher nötig.
+Die einzelnen Meldungen können sowohl für einen oder mehrere bestimmte Dienstnehmer sowie für den gesamten Klienten bzw. Unterdienstgeber durchgeführt werden.
 
-Änderungsmeldungen sind aufgrund der Vorgaben der ÖGK nur mehr in ganz wenigen Fällen nötig (z. B. Wechsel vom System Abfertigung Alt auf Abfertigung Neu).
+Alle Meldungen bis auf die monatliche Beitragsgrundlagenmeldung (mBGM) werden beim Verlassen der Abrechnung des Dienstnehmers automatisch erstellt. Diese Meldungen können über die *Erstellung ÖGK-Datei* nochmals manuell erstellt werden.
 
-Die Anmeldung fallweise Beschäftigung ersetzt die Mindestangabenanmeldung für unregelmäßig beschäftigte Dienstnehmer.
+**Änderungsmeldung**
 
-**Neue Meldungen seit 2019**
+Die Änderungsmeldung wird nur mehr in sehr wenigen Fällen von der ÖGK benötigt:
 
-Wichtigster Bestandteil des neuen Tarifsystems ist die monatliche Beitragsgrundlagenmeldung (mBGM). Diese Meldung ersetzt für Zeiträume ab Jänner 2019 den monatlichen Beitragsnachweis (BN) und die Beitragsgrundlagennachweise der Mitarbeiter (SV-Teil des Lohnzettels) am Jahresende.
+- Änderung von einem geringfügigen zu einem vollversicherten Beschäftigungsverhältnis
+- Umstieg von Abfertigung Alt in das Abfertigungssystem nach dem Betrieblichen Mitarbeiter- und Selbstständigenvorsorgegesetz
+- Beginn oder Ende der Betrieblichen Vorsorge
+- Korrektur des Beschäftigungsbereiches (Arbeiter, Angestellter bzw. Lehrling)
+- Beginn und Ende der Betrieblichen Vorsorge bei einem Unbezahlten Urlaub bis zu einem Monat
 
-Wir empfehlen wie bisher die mBGM nach Fertigstellung der Lohnverrechnung für den jeweiligen Monat über die Option *Klient* – also für alle Dienstnehmer des Betriebes – zu erstellen.
+**Monatliche Beitragsgrundlagenmeldung (mBGM)**
 
-!!! info "Tipp"
-    Aufgrund der unterschiedlichen Meldefristen können die mBGM für die fallweise beschäftigten Dienstnehmer über die entsprechende Option nun getrennt von den mBGM für die normalen Dienstverhältnisse erstellt werden.
+Aufgrund der unterschiedlichen Meldefristen können die mBGM für die fallweise beschäftigten Dienstnehmer über die entsprechende Option getrennt von den mBGM für die normalen Dienstverhältnisse erstellt werden.
 
-Die Adressmeldung für Versicherte gibt Adressänderungen bei den Dienstnehmern gegenüber der ÖGK bekannt und erfolgt nun in Form einer eigenständigen Meldung.
+- **Meldungen Vorschreibebetriebe**
 
-**Unveränderte Meldungen**
+    Klienten, die im Bereich der [*Dienstgeberstammdaten*](../../Klientenstammdaten/Stammdaten%20Klient/ÖGK,%20BV-Kasse.md) kein Häkchen bei Selbstabrechner gesetzt haben, werden als Vorschreibebetriebe gekennzeichnet. Durch das Programm wird der mBGM mit der nötigen eigenständigen Satzart für Vorschreibebetriebe versehen.
 
-Die Arbeits- und Entgeltsbestätigung Krankengeld, sowie die Arbeits- und Entgeltsbestätigung Wochengeld können nachträglich über diesen Dialog ausgegeben werden.
-
-!!! info "Tipp"
-    Der Lohnzettel L16 (Finanzteil) und die Meldung der Arbeitsstätte können seit 2019 nur mehr über das Register Erstellung ÖGK-Datei (2) ausgegeben werden.
-
-Neben der **Erstübermittlung** sind für die meisten Meldungen auch Stornos möglich. Wichtig ist, dass ein Storno immer mit den ursprünglichen noch nicht geänderten Daten erfolgt. Bei An- und Abmeldungen besteht zudem die Möglichkeit, für bereits übermittelte Meldungen eine **Richtigstellung** zu senden.
+    ![Image](img/image189.png){width="500"}
 
 **Berücksichtigung von Aufrollungen im Meldewesen**
 
-Die bisherige Systematik, dass Aufrolldifferenzen im nächsten Monat nachgeholt werden, ist nicht mehr zulässig. Im Zuge einer Aufrollung wird durch das Programm automatisch ein Storno mBGM mit den ursprünglichen Werten, sowie eine Neuübermittlung mit den neuen Werten produziert.
+Im Zuge einer Aufrollung wird durch das Programm automatisch ein Storno mBGM mit den ursprünglichen Werten sowie eine Neuübermittlung mit den neuen Werten produziert.
 
-![Image](<img/image182.png>)
+![Image](<img/image182.png>){width="600"}
 
-Die Abbildung zeigt die Konsequenzen aus einer Aufrollung vom Februar in den Jänner. Im Zuge der Erstellung des mBGM für den Aufrollmonat Februar, wird automatisch zugleich ein Storno mBGM für den Monat Jänner mit den ursprünglichen Werten erzeugt und schließlich ein neuer mBGM Jänner mit den neuen Werten.
+Die Abbildung zeigt die Konsequenzen aus einer Aufrollung vom Februar in den Jänner. Im Zuge der Erstellung des mBGM für den Aufrollmonat Februar, wird automatisch zugleich ein Storno mBGM für den Monat Jänner mit den ursprünglichen Werten erzeugt und schließlich ein neuer mBGM für Jänner mit den neuen Werten.
 
-Die beiden Optionen *Aufrolldifferenzen im lfd. Monat* und *Ursprüngliche Werte verwenden*, haben daher seit 2019 für den Übermittlungsdialog keine Funktion mehr.
+**Erstellen der Datei**
 
-**Meldungen Vorschreibebetriebe**
+Wenn die notwendige Meldung ausgewählt wurde, muss die Schaltfläche *Erstellen* angewählt werden. Wurden bereits Daten in die ÖGK-Datei übernommen, zeigt das Programm folgende Meldung an:
 
-Klienten, die im Bereich der *Dienstgeberstammdaten* als Vorschreibebetriebe gekennzeichnet sind, müssen seit 2019 ebenso einen mBGM erstellen. Durch das Programm wird dieser mBGM mit der nötigen eigenständigen Satzart für Vorschreibebetriebe versehen.
+![Image](<img/image188.png>){width="400"}
 
-Die separaten Meldungen für die Vorschreibebetriebe sind seit 01.01.2019 weggefallen (Lohn-/Gehaltsänderungsmeldung, SZ-Meldung, ...).
+Wird *zu bestehenden Meldungen hinzufügen* ausgewählt, dann werden die in der Datei bereits enthaltenen Daten, im Gegensatz zur Auswahl *vorhandene Datei überschreiben* nicht gelöscht, sondern es werden die neuen Daten angefügt. Wird das Auswahlfeld *vorhandene Datei überschreiben* angewählt, erfolgt vom Programm die Abfrage, ob die bestehenden Daten gelöscht werden sollen.
+
+Für die Übermittlung der im Registerblatt angeführten Meldungen, müssen bestimmte Pflichtfelder in den Stammdaten des Dienstgebers und Dienstnehmers ausgefüllt sein, ohne die eine elektronische Übermittlung nicht durchgeführt werden kann.
+
+Wenn eine elektronische Meldung nicht durchgeführt werden kann (z. B. die elektronische Anmeldung eines Dienstnehmers), so weist das Programm nach Anwahl der Schaltfläche *Erstellen* darauf hin, dass der Dienstnehmer nicht in die ÖGK-Datei übernommen und somit in weiterer Folge auch nicht angemeldet wird.

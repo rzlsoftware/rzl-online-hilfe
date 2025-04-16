@@ -2,35 +2,39 @@
 
 ![Image](<img/image183.png>){width="600"}
 
-**Lohnzettelerstellung L16/E18**
+## Familienhospiz
 
-Aufgrund der Änderungen des § 84 EStG ist die Übermittlung des L16 bei unterjährigen Austritten nur mehr im absoluten Ausnahmefall (bei Insolvenzen) erforderlich bzw. von der Finanz gewünscht. In diesen Fällen kann über die Eingabe des Monats des Austritts auch weiterhin ein unterjähriger L16 erstellt werden. Aufgrund der geänderten gesetzlichen Vorgaben, erfolgt seit 2019 bei der Abrechnung eines Austritts kein automatischer Vorschlag mehr für die Meldungserstellung.
+Falls vom Dienstnehmer zur Pflege bzw. Betreuung von erkrankten Angehörigen die Pflege-/ Hospizkarenz in Anspruch genommen wird, muss dies entsprechend den Vorgaben der ÖGK gemeldet werden. Über diesen Menüpunkt kann die entsprechende Meldung dazu erstellt werden.
 
-In allen anderen Fällen kann per Monat 12 für sämtliche Dienstnehmer des Klienten der L16 und die Meldung der Arbeitsstätte für die Statistik Austria ausgegeben werden.
+## Schwerarbeitsmeldung
 
-**Lohnzettelerstellung im Monat Dezember**
+Hier haben Sie die Möglichkeit, eine Erstübermittlung bzw. Storno für die Schwerarbeitsmeldung durchzuführen.
 
-Für den Kalendermonat Dezember gibt es unterschiedliche Varianten der Lohnzettelerstellung.
+## Lohnzettelerstellung L16/E18
 
-**alle Lohnzettel L16/E18**
+Aufgrund der Änderungen des § 84 EStG ist die Übermittlung des L16 bei unterjährigen Austritten nur mehr in absoluten Ausnahmefällen (bei Insolvenzen) erforderlich bzw. von der Finanz gewünscht. In diesen Fällen kann über die Eingabe des Monats des Austritts auch weiterhin ein unterjähriger L16 erstellt werden.
 
-Wird nur diese Option angewählt, dann werden entweder für die „normalen“ Dienstnehmer oder für die freien Dienstnehmer sämtliche L16/E18 des Jahres ausgegeben In der Regel werden L16/E18 und Arbeitsstätte gemeinsam erstellt. In Ausnahmefällen können die einzelnen Meldungen (L16, Arbeitsstätte) auch getrennt erstellt werden.
+In allen anderen Fällen kann per Monat 12 der L16 und die Meldung der Arbeitsstätte für die Statistik Austria für sämtliche Dienstnehmer des Klienten  ausgegeben werden.
+
+**alle Lohnzettel L16/E18 des Jahres**
+
+Wird nur diese Option angewählt, dann werden entweder für Dienstnehmer mit regulärem Dienstverhältnis oder für die freien Dienstnehmer sämtliche L16/E18 des Jahres ausgegeben. In der Regel werden L16/E18 und Arbeitsstätte gemeinsam erstellt. Bei Bedarf können die Meldungen (L16 und Arbeitsstätte) auch getrennt erstellt werden.
 
 **Gesendete Lohnzettel (L16/E18) ausschließen**
 
-Wurden ausnahmsweise auch während des Jahres L16/E18 erstellt, wird mit Hilfe dieser Option verhindert, dass Meldungen doppelt verschickt werden.
+Wurden ausnahmsweise auch während des Jahres L16/E18 erstellt, verhindert diese Option, dass Meldungen doppelt übermittelt werden.
 
 **E18 – Bagatellgrenzen nicht berücksichtigen**
 
-Wenn bestimmte Bagatellgrenzen nicht überschritten werden (EUR 900,00 / Jahr bzw. EUR 450,00 / Monat) wird keine Meldung erstellt. Durch Anwahl dieses Felds werden die Bagatellgrenzen nicht berücksichtigt.
+Wenn bestimmte Bagatellgrenzen nicht überschritten werden (EUR 900,00 / Jahr bzw. EUR 450,00 / Monat), wird keine Meldung erstellt. Durch Anwahl dieses Felds werden die Bagatellgrenzen nicht berücksichtigt.
 
-**Gesundheitsregistermeldung**
+## Gesundheitsregistermeldung
 
-Seit 01.01.2018 müssen Neueintritte von Dienstnehmern im Gesundheits- und Pflegebereich, im medizinisch-technischen Bereich gegenüber der Arbeiterkammer gemeldet werden. Wird ein neuer Dienstnehmer als dem Bereich zugehörig gekennzeichnet, kann über diesen Menüpunkt die entsprechende Meldung erstellt werden.
+Seit 01.01.2018 müssen Neueintritte von Dienstnehmern im Gesundheits- und Pflegebereich, im medizinisch-technischen Bereich an die Arbeiterkammer gemeldet werden. Wird ein neuer Dienstnehmer als dem Bereich zugehörig gekennzeichnet, kann über diesen Menüpunkt die entsprechende Meldung erstellt werden.
 
-**VSNR-Anforderung**
+## VSNR-Anforderung
 
-Seit 01.07.2018 kann für Dienstnehmer ohne Versicherungsnummer oder bei jenen diese nicht bekannt ist, eine Versicherungsnummernanforderung erstellt werden. Falls ein Dienstnehmer ohne VSNR – Nummer angelegt wurde, erhalten Sie beim Verlassen der Abrechnung eine Abfrage zur Erstellung dieser Meldung.
+Seit 01.07.2018 kann für Dienstnehmer ohne Versicherungsnummer oder bei jenen diese nicht bekannt ist, eine *Versicherungsnummernanforderung* erstellt werden. Falls ein Dienstnehmer ohne VSNR–Nummer angelegt wurde, werden Sie beim Verlassen der Abrechnung zur Erstellung dieser Meldung aufgefordert.
 
 ![Image](<img/image184.png>){width="350"}
 
@@ -46,18 +50,14 @@ Entsprechende Rückmeldungen mit der neuen Versicherungsnummer werden automatisc
 
 ![Image](<img/image187.png>){width="600"}
 
-**Familienhospizanmeldung/-abmeldung/-änderungsmeldung**
+## Erstellen der Datei
 
-Falls vom Dienstnehmer zur Pflege bzw. Betreuung von erkrankten Angehörigen die Pflege-/ Hospizkarenz in Anspruch genommen wird, muss dies entsprechend der ÖGK gemeldet werden. Über diesen Menüpunkt kann die entsprechende Meldung dazu erstellt werden.
-
-**Erstellen der Datei**
-
-Wenn die notwendige Meldung ausgewählt wurde, muss die Schaltfläche *Erstellen* angewählt werden. Wurden bereits Daten in die ÖGK-Datei übernommen, so erfolgt vom Programm die nachfolgende Meldung:
+Wenn die notwendige Meldung ausgewählt wurde, muss die Schaltfläche *Erstellen* angewählt werden. Wurden bereits Daten in die ÖGK-Datei übernommen, zeigt das Programm folgende Meldung an:
 
 ![Image](<img/image188.png>){width="400"}
 
-Wird *Anfügen* ausgewählt, dann werden die in der Datei bereits enthaltenen Daten, im Gegensatz zum Auswahlfeld *Löschen*, nicht gelöscht, sondern es werden die neuen Daten angefügt. Wird das Auswahlfeld *Löschen* angewählt, erfolgt vom Programm die Abfrage, ob die bestehenden Daten gelöscht werden sollen.
+Wird *zu bestehenden Meldungen hinzufügen* ausgewählt, dann werden die in der Datei bereits enthaltenen Daten, im Gegensatz zur Auswahl *vorhandene Datei überschreiben* nicht gelöscht, sondern es werden die neuen Daten angefügt. Wird das Auswahlfeld *vorhandene Datei überschreiben* angewählt, erfolgt vom Programm die Abfrage, ob die bestehenden Daten gelöscht werden sollen.
 
-Für die Übermittlung der im Registerblatt angeführten Meldungen, sind in den Stammdaten des Dienstgebers und in den Stammdaten des Dienstnehmers gewisse Pflichtfelder auszufüllen, ohne die eine elektronische Übermittlung nicht durchgeführt werden kann.
+Für die Übermittlung der im Registerblatt angeführten Meldungen, müssen bestimmte Pflichtfelder in den Stammdaten des Dienstgebers und Dienstnehmers ausgefüllt sein, ohne die eine elektronische Übermittlung nicht durchgeführt werden kann.
 
 Wenn eine elektronische Meldung nicht durchgeführt werden kann (z. B. die elektronische Anmeldung eines Dienstnehmers), so weist das Programm nach Anwahl der Schaltfläche *Erstellen* darauf hin, dass der Dienstnehmer nicht in die ÖGK-Datei übernommen und somit in weiterer Folge auch nicht angemeldet wird.

@@ -1,5 +1,7 @@
 # Protokoll
 
+![Image](img/image191.png)
+
 Im Registerblatt *Protokoll* kann Einsicht in die Liste der in der ÖGK-Datei enthaltenen Meldungen genommen werden.
 
 !!! info "Tipp"

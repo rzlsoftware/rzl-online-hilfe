@@ -18,7 +18,7 @@ Mit diesen beiden Menüpunkten kann die ÖGK-Datei gesichert oder hereingespielt
 
 **Löschen**
 
-Mit diesem Programmteil kann die ÖGK-Datei gelöscht werden.
+Mit diesem Programmpunkt kann die ÖGK-Datei gelöscht werden.
 
 **ins ÖGK-Verzeichnis kopieren**
 
@@ -37,10 +37,13 @@ Das Feld *ÖGK – Übertragungsmodul* dient der Eingabe des Pfades, damit das R
 
 ## Individuelle (abweichende) ÖGK-Dateien
 
-Beim Arbeiten innerhalb eines Netzwerkes kann jeder Mitarbeiter, der Lohnverrechnungen durchführt, eine eigene *abweichende* ÖGK-Datei verwenden. Diese ÖGK-Datei kann durch Anwahl der Schalfläche *Dateiname* angelegt werden.
+Beim Arbeiten innerhalb eines Netzwerkes kann jeder Mitarbeiter, der Lohnverrechnungen durchführt, eine eigene *abweichende* ÖGK-Datei verwenden. Diese ÖGK-Datei kann durch Anwahl der Schaltfläche *Dateiname* angelegt werden.
 
 ![Image](<img/image190.png>){width="400"}
 
 Die Standardeinstellung des Programmes ist das Auswahlfeld *Standard ÖGK-Datei verwenden*. Wird das Feld *individuelle ÖGK-Datei für Benutzer* angewählt, dann wird diese ÖGK-Datei nur für den jeweiligen Benutzer verwendet.
 
 Die hier getroffene Einstellung bleibt auch beim Absenden der ÖGK-Datei erhalten.
+
+!!! info "Tipp"
+    Um sicher zu gehen, dass es zu keinerlei Überschneidungen beim Versenden der ÖGK-Meldung kommt, sollten Sie unter *Klient / Elektronische Übermittlung / ELDA-Einstellungen* den Punkt *ELDA-Software Sperre* aktivieren.

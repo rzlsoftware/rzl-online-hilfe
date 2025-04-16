@@ -7,10 +7,10 @@ Die Datenübermittlung an die Österreichische Gesundheitskasse erfolgt in zwei 
 
 Als erster Schritt wird die ÖGK-Datei im Menüpunkt *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* erzeugt.
 
-Die elektronische Übertragung wird durch Anwahl des Menüpunktes *Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK absenden* ermöglicht. Die Übertragung selbst erfolgt durch das Elda-Programm der Österreichischen Gesundheitskasse. Dieses muss auf dem Computer, von dem die Daten abgesandt werden, installiert sein. Das Lohnverrechnungsprogramm muss nicht unbedingt auf demselben PC installiert sein.
+Die elektronische Übertragung wird durch Anwahl des Menüpunktes *Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK absenden* ermöglicht. Die Übertragung selbst erfolgt durch das Elda-Programm der Österreichischen Gesundheitskasse. Dieses muss auf dem Computer, von dem aus die Daten abgesandt werden, installiert sein. Das Lohnverrechnungsprogramm muss nicht unbedingt auf demselben PC installiert sein.
 
 !!! warning "Hinweis"
-    Als ASP bzw. Cloud Anwender müssen Sie die ELDA-Software nicht installieren.
+    Als [ASP- bzw. Cloud-Anwender](../Elektronische%20Meldungen%20ÖGK/Allgemeine%20Einstellungen%20für%20ASP%20bzw.%20Cloud%20Anwender.md) müssen Sie die ELDA-Software nicht installieren.
 
 Die Übermittlung kann auch über den Menüpunkt *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* durchgeführt werden.
 
@@ -23,4 +23,4 @@ Nach der Erstellung und einer eventuellen Kontrolle im Protokoll kommen Sie durc
 Durch Anwahl *Senden* werden die von Ihnen erstellten Meldungen an die ÖGK übermittelt.
 
 !!! info "Tipp"
-    Das Elda-Programm der Österreichischen Gesundheitskasse kann über die Adresse www.elda.at heruntergeladen und aktualisiert werden. Speziell zum Jahreswechsel ist es unbedingt erforderlich die ELDA-Software auf dem neuesten Stand zu bringen.
+    Das Elda-Programm der Österreichischen Gesundheitskasse kann über die Adresse [www.elda.at](https://www.elda.at/cdscontent/?contentid=10007.843272&portal=eldaportal) heruntergeladen und aktualisiert werden. Speziell zum Jahreswechsel ist es unbedingt erforderlich, die ELDA-Software auf dem neuesten Stand zu bringen.
