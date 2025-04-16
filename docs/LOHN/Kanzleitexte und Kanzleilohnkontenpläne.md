@@ -1,16 +1,15 @@
 # Kanzleitexte und Kanzleilohnkontenpläne
 
-Das RZLWin-Lohnprogramm bietet Ihnen die Möglichkeit, Standard-Texte für den Abrechnungsbildschirm *Austritt, Dienstzettel-Texte* und *Abrechnungs-Texte* sowohl klientenbezogen zu erstellen und zu verwalten, als auch für alle Klienten als Kanzleitexte zur Verfügung zu stellen.
+Das RZLWin-Lohnprogramm bietet Ihnen die Möglichkeit, Standardtexte für den Abrechnungsbildschirm *[Austritt](../LOHN/Abrechnungsbildschirme/Austritt.md), Dienstzettel-Texte* und *Abrechnungs-Texte* sowohl klientenbezogen zu erstellen und zu verwalten als auch für alle Klienten als Kanzleitexte zur Verfügung zu stellen.
 
 !!! info "Tipp"
-    Im Programmteil *Klient / Kanzlei / Texte von Klient übernehmen* besteht die Möglichkeit beim einzelnen Klienten angelegte Standard-, Dienstzettel- oder Abrechnungstexte als Kanzleitexte-Tabelle anzulegen.
+    Im Programmteil *Klient / Kanzlei / Texte von Klient übernehmen* besteht die Möglichkeit, beim einzelnen Klienten angelegte Standard-, Dienstzettel- oder Abrechnungstexte als Kanzleitexte-Tabelle anzulegen.
 
-Innerhalb des Klienten besteht im Programmteil *Stamm / Texte von Kanzlei-Tabelle übernehmen* die Möglichkeit, Kanzleitexte-Tabelle auf den Klienten zu überspielen.
+Innerhalb des Klienten besteht im Programmteil *Stamm / Texte von Kanzlei-Tabelle übernehmen* die Möglichkeit, eine Kanzleitexte-Tabelle auf den Klienten zu übertragen.
 
-## Kanzlei-Texte
+## Kanzleitexte
 
-Durch Anwahl des Menüpunkts *Klient / Kanzlei / Texte* erscheint
-folgender Dialog:
+Durch Anwahl des Menüpunkts *Klient / Kanzlei / Texte* erscheint folgender Dialog:
 
 ![Image](<img/image171.png>){width="500"}
 
@@ -22,25 +21,25 @@ Diese Kanzlei-Texte, die in diesem Menüpunkt festgelegt werden, können wenn ge
 
 Im Registerblatt Standardtexte können bis zu 20 Standardtexte mit einer Länge von maximal 20 Zeichen angelegt werden. Die Standardtexte können wie folgt verwendet werden:
 
-**Sonstiger Austrittsgrund**
+- **Sonstiger Austrittsgrund**
 
-Im Programm ist im [Abrechnungsbildschirm *Austritt*](../LOHN//Abrechnungsbildschirme/Austritt.md) bereits eine umfangreiche Liste mit Austrittsgründen verankert. Um einen Kanzleitext verwenden zu können, muss der Austrittsgrund *sonstiger Grund* gewählt werden. Nach Anwahl des sonstigen Grundes wird ein zweites Auswahlfeld geöffnet, in dem nun zwischen den unter der ausge­wählten Standardtext-Tabelle angelegten Kanzlei-Texten ausgewählt werden kann.
+    Im Programm ist im Abrechnungsbildschirm [*Austritt*](../LOHN//Abrechnungsbildschirme/Austritt.md) bereits eine umfangreiche Liste mit Austrittsgründen verankert. Um einen Kanzleitext verwenden zu können, muss der Austrittsgrund *sonstiger Grund* gewählt werden. Nach Anwahl des sonstigen Grundes wird ein zweites Auswahlfeld geöffnet, in dem nun zwischen den unter der ausge­wählten Standardtext-Tabelle angelegten Kanzleitexten ausgewählt werden kann.
 
-**Grund der Unterbrechung der Beschäftigung**
+- **Grund der Unterbrechung der Beschäftigung**
 
-Ebenfalls im [Abrechnungsbildschirm *Austritt*](../LOHN/Abrechnungsbildschirme/Austritt.md) ist im Falle einer Unterbrechung der Beschäftigung der Grund für diese Unterbrechung einzugeben. In diesem Auswahlfeld sind im Programm keine Vorschläge angelegt, sondern es wird, wenn vorhanden und aktiviert, sofort auf die Kanzleistandard-Texte zurückgegriffen.
+    Ebenfalls im Abrechnungsbildschirm [*Austritt*](../LOHN/Abrechnungsbildschirme/Austritt.md) ist im Falle einer Unterbrechung der Beschäftigung der Grund für diese Unterbrechung einzugeben. In diesem Auswahlfeld sind im Programm keine Vorschläge angelegt, sondern es wird, wenn vorhanden und aktiviert, sofort auf die Kanzleistandard-Texte zurückgegriffen.
 
 **Dienstzetteltexte**
 
-Die Kanzlei-Dienstzetteltexte finden Verwendung im [Abrechnungsbildschirm *Dienstzettel*](../LOHN/Abrechnungsbildschirme/Dienstzettel.md) in den Feldern *Kündigung* und *Sonstiges.* In diesen Feldern ist nur die Nummer des gewünschten Textes einzugeben und die Eintragung auf den Dienstzettel erfolgt automatisch.
+Die Kanzlei-Dienstzetteltexte finden Verwendung im Abrechnungsbildschirm [*Dienstzettel*](../LOHN/Abrechnungsbildschirme/Dienstzettel.md) in den Feldern *Kündigung* und *Sonstiges.* In diesen Feldern ist nur die Nummer des gewünschten Textes einzugeben und die Eintragung auf dem Dienstzettel erfolgt automatisch.
 
 Es können bis zu 99 Standardtexte für den Dienstzettel mit bis zu je 4 Zeilen Text angelegt werden.
 
 **Abrechnungstexte**
 
-In diesem Registerblatt können bis zu 20 Kanzlei-Abrechnungstexte angelegt werden. In den Stammdaten des Klienten können im Registerblatt *Abrechnungstexte* maximal zwei der angelegten Abrechnungstexte mit einer zeitlichen Begrenzung ausgewählt werden. Die ausgewählten Abrechnungstexte werden auf den monatlichen Lohnabrechnungen der Dienstnehmer des jeweiligen Klienten links unten im Bereich des Auszahlungsbetrages angedruckt.
+In diesem Registerblatt können bis zu 20 Kanzlei-Abrechnungstexte angelegt werden. In den Stammdaten des Klienten können im Registerblatt [*Abrechnungstexte*](../LOHN/Klientenstammdaten/Stammdaten%20Klient/Abrechnungs-Texte,%20Buchungskreis-Texte.md) maximal zwei der angelegten Abrechnungstexte mit einer zeitlichen Begrenzung ausgewählt werden. Die ausgewählten Abrechnungstexte werden auf den monatlichen Lohnabrechnungen der Dienstnehmer des jeweiligen Klienten links unten im Bereich des Auszahlungsbetrages angedruckt.
 
-Abrechnungstexte können auch dienstnehmerbezogen im [Abrechnungsbildschirm *Stammdaten Fristen*](../LOHN/Abrechnungsbildschirme/Stammdaten%20Fristen.md) eingetragen werden.
+Abrechnungstexte können auch dienstnehmerbezogen im Abrechnungsbildschirm [*Stammdaten Fristen*](../LOHN/Abrechnungsbildschirme/Stammdaten%20Fristen.md) eingetragen werden.
 
 Insgesamt können somit 4 Abrechnungstexte auf den Abrechnungen der Dienstnehmer platziert werden. Zwei Abrechnungstexte klientenbezogen (kanzlei- oder klientenbezogene Abrechnungstexte) und 2 Abrechnungstexte dienstnehmerbezogen im Abrechnungsbildschirm *Stammdaten* *Fristen.*
 
@@ -48,7 +47,7 @@ Insgesamt können somit 4 Abrechnungstexte auf den Abrechnungen der Dienstnehmer
 
 Die Anlage von klientenbezogenen Standardtexten erfolgt im Menüpunkt *Stamm / Standardtexte.* Es können 20 Standardtexte mit bis zu je 20 Zeichen eingegeben werden.
 
-Die hier angelegten Standardtexte können nur bei dem Klienten verwendet werden, bei dem sie auch angelegt worden sind. Die klientenbezogenen Standardtexte finden ebenso wie die Kanzlei-Standardtexte Anwendung im [Abrechnungsbildschirm *Austritt*](../LOHN/Abrechnungsbildschirme/Austritt.md).
+Die hier angelegten Standardtexte können nur bei dem Klienten verwendet werden, bei dem sie auch angelegt wurden. Die klientenbezogenen Standardtexte finden ebenso wie die Kanzlei-Standardtexte Anwendung im Abrechnungsbildschirm [*Austritt*](../LOHN/Abrechnungsbildschirme/Austritt.md).
 
 ### Klientenbezogene Dienstzetteltexte
 
@@ -56,13 +55,13 @@ Die Funktion der klientenbezogenen Dienstzetteltexte ist dieselbe, wie jene der 
 
 ### Klientenbezogene Abrechnungs-Texte
 
-Insgesamt 20 Abrechnungstexte mit einer Länge von bis zu 30 Zeichen können im Programmteil *Stamm / Abrechnungs-Texte* klientenbezogen eingetragen werden. In den *Klienten-Stammdaten* im Registerblatt *Abrechnungs-Texte* können wiederum jeweils zwei Abrechnungs-Texte für den Andruck auf den Abrechnungen der Dienstnehmer des jeweiligen Klienten ausgewählt werden.
+Insgesamt 20 Abrechnungstexte mit einer Länge von bis zu 30 Zeichen können im Programmteil *Stamm / Abrechnungs-Texte* klientenbezogen eingetragen werden. In den *Klientenstammdaten* im Registerblatt [*Abrechnungs-Texte*](../LOHN/Klientenstammdaten/Stammdaten%20Klient/Abrechnungs-Texte,%20Buchungskreis-Texte.md) können wiederum jeweils zwei Abrechnungs-Texte für den Andruck auf den Abrechnungen der Dienstnehmer des jeweiligen Klienten ausgewählt werden.
 
 ## Kanzlei-Lohnkontenpläne
 
 Im Programmteil *Klient / Kanzlei / Lohn-Kontenpläne* können für die fixen Lohnarten, die angelegten freien Lohnarten und für die Lohnarten der Werkverträge Kontonummern hinterlegt werden. Lediglich die Verbindlichkeitskonten der Behörden werden in den Stammdaten des Klienten (*Stamm / Klient*) eingetragen.
 
-Im Registerblatt *Tabelle* wird die *Nummer* und die *Bezeichnung* des Kanzlei-Lohnkontenplanes eingetragen und die Anzahl der Belegkreise eingetragen.
+Im Registerblatt *Tabelle* wird die *Nummer* und die *Bezeichnung* des Kanzlei-Lohnkontenplanes eingetragen und die Anzahl der Belegkreise festgelegt.
 
 Diese Kontonummern werden als Vorkontierung am [Buchungsbeleg](../LOHN/Ausdrucke%20allgemein/Ausdruck%20Journal,%20ÖGK/Buchungsbeleg.md) angedruckt.
 

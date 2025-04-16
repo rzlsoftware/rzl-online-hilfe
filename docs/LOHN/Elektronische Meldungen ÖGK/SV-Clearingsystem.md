@@ -1,4 +1,35 @@
-# Clearingfälle im RZL-Lohnprogramm
+# SV-Clearingsystem
+
+Seit 01.01.2019 werden Rückmeldungen und Fehlerhinweise durch die Österreichischen Gesundheitskasse nur mehr in elektronischer Form bekannt gegeben. Statt eines Schreibens per Post oder eines Telefonanrufes erhält man einen sogenannten Clearing-Fall zugestellt. Diese Zustellung erfolgt einerseits über das Portal WEBEKU der Österreichischen Gesundheitskasse und andererseits mit Hilfe der ELDA-Software.
+
+## Clearingsystem Email Verständigung
+
+Speziell dann, wenn das Lohnprogramm nur sporadisch geöffnet wird, sollten Sie sicherstellen, dass Sie keine in den Clearingfällen definierte Frist versäumen. Im Portal WEBEKU können hierfür je Beitragskontonummer E-Mail-Adressen hinterlegt und bearbeitet werden.
+
+![Image](<img/image200.png>)
+
+![Image](<img/image201.png>)
+
+![Image](<img/image202.png>)
+
+Falls anschließend ein Clearingfall eintrifft ist sichergestellt, dass der entsprechende Sachbearbeiter rechtzeitig darauf reagieren kann.
+
+## Zuordnungsanwendung
+
+Die automatische Übernahme der Clearingfälle erfolgt mit Hilfe der ELDA-Software, die auch für die Übermittlung der Meldungen herangezogen wird. Hierfür muss aber zunächst sichergestellt werden, dass sämtliche Clearingfälle auch in der ELDA Software des zuständigen Dienstgebers bzw. der zuständigen Kanzlei landen.
+
+Hierfür wurde im Unternehmensserviceportal mit dem Punkt *SV-Clearingsystem Zuordnungsanwendung* eine neue Funktion geschaffen.
+
+![Image](<img/image203.png>)
+
+![Image](<img/image204.png>)
+
+Es muss hier einmalig eine Zuordnung sämtlicher Beitragskontonummern der Kanzlei / Firma zur jeweiligen Seriennummer erfolgen.
+
+!!! info "Tipp"
+    Nur mit Hilfe der Zuordnungsanwendung können Sie sicherstellen, dass auch Clearingfälle, die keinen direkten Bezug zu einer erfolgten Meldung haben (z.B. Mahnungen wegen fehlender Abmeldung), in der ELDA-Software zugestellt werden.
+
+## Clearingfälle im RZL-Lohnprogramm
 
 Die RZL-Lohnverrechnung prüft beim Programmstart, ob neue Clearingfälle in der ELDA-Software vorhanden sind, diese werden gegebenenfalls durch einen Hinweis angezeigt.
 
