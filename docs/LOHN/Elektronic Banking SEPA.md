@@ -1,16 +1,16 @@
 # Electronic Banking SEPA
 
-## Electronic-Banking Abrechnungen Inland
-
 Im Programmteil *Bearbeiten / Elektronic Banking (SEPA)* können Sie Überweisungsdateien für die Abrechnungen der Dienstnehmer, für die Zahlungen an die Behörden (Abgaben) und für die mit dem Exekutionsmodul errechneten Exekutionsbeträge erstellt werden.
 
-Durchgeführte Überweisungen von Lohnabrechnungen werden bei den einzelnen Dienstnehmern vermerkt. Damit ist sichergestellt, dass eine Überweisung nicht zweimal erfolgen kann. Ist es erforderlich, dass Sie die Überweisung nochmals ausdrucken bzw. die Überweisungsdatei nochmals erstellen, müssen Sie vorher ein [*Repair*](../Repair.md) der Überweisungen durchführen.
+## Electronic-Banking Abrechnungen Inland
+
+Durchgeführte Überweisungen von Lohnabrechnungen werden bei den einzelnen Dienstnehmern vermerkt. Damit ist sichergestellt, dass eine Überweisung nicht zweimal erfolgen kann. Ist es erforderlich, dass Sie die Überweisung nochmals ausdrucken bzw. die Überweisungsdatei nochmals erstellen, müssen Sie vorher ein [*Repair*](../LOHN/Repair.md) der Überweisungen durchführen.
 
 ![Image](<img/image212.png>){width="500"}
 
 Im Eingabefeld *Monat* legen Sie fest, für welchen Monat die Überweisungen durchgeführt werden sollen. Anschließend müssen Sie festlegen, für welche Dienstnehmer überwiesen wird.
 
-Für die Überweisung legen Sie nun fest, von welchem [Bankkonto](../Klientenstammdaten/Stammdaten%20Klient/Bank,%20Überweisung,%20Zahltag.md) (*Dienstgeber-Banken)* die Zahlung erfolgen soll.
+Für die Überweisung legen Sie nun fest, von welchem [Bankkonto](../LOHN/Klientenstammdaten/Stammdaten%20Klient/Bank,%20Überweisung,%20Zahltag.md) (*Dienstgeber-Banken)* die Zahlung erfolgen soll.
 
 **Dienstnehmer alphabetisch sortiert**
 
@@ -24,6 +24,14 @@ Wird dieses Feld angewählt, erfolgt die Ausgabe des Überweisungsprotokolls als
 
 Bei ausländischen Banken können sich Probleme ergeben, wenn Umlaute in die Datei mitausgegeben werden. Die Anwahl dieses Feldes ersetzt folgende Zeichen (ä = a, ü =u, ö = o, ß = s).
 
+**High Priority**
+
+Durch dieses Auswahlfeld geben Sie an, dass es sich um eine Eilüberweisung handelt. Die Banken verlangen in der Regel eine Gebühr für solche Überweisungen.
+
+**Sammelüberweisung**
+
+Diese Auswahl bewirkt, dass auf dem Kontoauszug nicht jeder Dienstnehmer einzeln ausgewiesen wird, sondern nur eine Summe dargestellt wird. Für die Sammelüberweisungen kann im Onlinebanking-Programm ein Detailausdruck ausgegeben werden.
+
 **Dateiname**
 
 Im Feld *Dateiname* ist festzulegen, wo (auf welchem Laufwerk, in welchem Ordner) die Überweisungsdatei mit welcher Bezeichnung (z. B. Lohn Feb 2020) vom Lohnprogramm erzeugt werden soll.
@@ -32,7 +40,11 @@ Im Feld *Dateiname* ist festzulegen, wo (auf welchem Laufwerk, in welchem Ordner
 
 In dieses Feld ist das Datum der Durchführung einzugeben. Dieses Datum muss aufgrund des Datenträger-Begleitzettels von der durchzuführenden Bank berücksichtigt werden.
 
-Nach der vollständigen Eingabe der Daten wird durch Anwahl der Schaltfläche *Überweisen* die Datei erzeugt. 
+Nach der vollständigen Eingabe der Daten wird durch Anwahl der Schaltfläche *Überweisen* die Datei erzeugt.
+
+**Benutzerdefinierte Auswahl des Formates der SEPA-Datei**
+
+Nur in bestimmten Fällen muss hier für die Überweisung ein eigenes Rulebook ausgewählt werden. Ein Beispiel dafür wäre eine Überweisung von einem deutschen Bankkonto.
 
 ## Elektronic Banking Abgaben 
 
@@ -40,80 +52,81 @@ Der Vorgang der elektronischen Überweisung der Abgaben ist weitgehend derselbe,
 
 ## Elektronic Banking Exekutionsbeträge
 
-Im RZLWin-Lohnverrechnungsprogramm können Sie Drittschuldner-Erklärungen anlegen. Innerhalb der betroffenen Dienstnehmer kann dann eine automatische Exekutionsberechnung vorgenommen werden.
+Im RZLWin-Lohnverrechnungsprogramm können Sie Drittschuldnererklärungen anlegen. Innerhalb der betroffenen Dienstnehmer kann dann eine automatische Exekutionsberechnung vorgenommen werden.
 
-Die errechneten Exekutionsbeträge können mittels Elektronic Banking überwiesen werden. Die Vorgehensweise ist wie bei [Electronic-Banking Abrechnungen Inland](../Elektronic%20Banking%20SEPA/Elektronic%20Banking%20Abrechnungen%20Inland.md).
+Die errechneten Exekutionsbeträge können mittels Elektronic Banking überwiesen werden. Die Vorgehensweise ist wie bei Electronic-Banking Abrechnungen Inland.
 
-Nach dem Erstellen der Datei wird vom Programm ein Sperrvermerk gesetzt, damit die Überweisung versehentlich nicht nochmals durchgeführt werden kann. Diese Sperre kann durch ein *Repair* im Programmteil *Bearbeiten / Repair / Überweisungen / Sperre Exekutionsbeträge* wieder gelöscht werden, um eine neuerliche Überweisung zu ermöglichen.
+Nach dem Erstellen der Datei wird vom Programm ein Sperrvermerk gesetzt, damit die Überweisung versehentlich nicht nochmals durchgeführt werden kann. Diese Sperre kann mittels [*Repair*](../LOHN/Repair.md) im Programmteil *Bearbeiten / Repair / Überweisungen / Sperre Exekutionsbeträge* wieder gelöscht werden, um eine neuerliche Überweisung zu ermöglichen.
+
+!!! warning "Hinweis"
+    Das Electronic Banking für Exekutionsbeträge funktioniert nur in Verbindung mit dem Exekutionsmodul.
 
 ## Elektronic Banking Sonstige Behörden
 
 ![Image](<img/image213.png>){width="500"}
 
-Der Vorgang der elektronischen Überweisung der Sonstigen Behörden ist weitgehend derselbe, wie bei den Abrechnungen. Sie können zwischen der Ausgabe *aller Behörden* und einzelner Behörden wählen.
+Der Vorgang der elektronischen Überweisung der Sonstigen Behörden ist weitgehend derselbe wie bei den Abrechnungen. Sie können zwischen der Ausgabe *aller Behörden* und einzelner Behörden wählen.
 
 ## Händisches Erstellen einer Überweisung
 
-Neben dem Zugriff auf Daten der Lohnverrechnung (Bezüge, Abgaben, Exekutionsbeträge) haben Sie die Möglichkeit, Überweisungen auch manuell zu erstellen. Die Vorgehensweise im ersten Registerblatt *Erstellung Überweisungsdatei* ist wie bei [Electronic-Banking Abrechnungen Inland](../Elektronic%20Banking%20SEPA/Elektronic%20Banking%20Abrechnungen%20Inland.md) beschrieben.
+Neben dem Zugriff auf Daten der Lohnverrechnung (Bezüge, Abgaben, Exekutionsbeträge) haben Sie die Möglichkeit, Überweisungen auch manuell zu erstellen. Die Vorgehensweise im ersten Registerblatt *Erstellung Überweisungsdatei* ist wie bei Electronic-Banking Abrechnungen Inland beschrieben.
 
 Die Auswahl zwischen Klienten und Unterdienstgeber ermöglicht Ihnen den Zugriff auf unterschiedliche Dienstgeberbanken, wenn überhaupt vorhanden (Ausnahmefall).
 
-*Geschäftsvorfallcode* (nur bei händischer Erstellung)
-
-Falls die zu erstellenden Überweisungen einem speziellen Geschäftsvorfall zuzuordnen sind (z. B. Pension, Miete, Gehalt, ...), kann dieser aus einer vorgegebenen Liste ausgewählt werden. Diese Liste entspricht den Angaben der STUZZA.Der Code wird bis zur Empfängerbank und wenn der Empfänger Edifact-Daten entgegennimmt, bis zum Empfänger durchgeschleust. Der Empfänger hat sodann die Möglichkeit zu erkennen, in welchen Teilbereich seiner Buchhaltung er den Zahlungseingang zu buchen hat.
+- **Geschäftsvorfallcode** (nur bei händischer Erstellung)
+  Falls die zu erstellenden Überweisungen einem speziellen Geschäftsvorfall zuzuordnen sind (z. B. Pension, Miete, Gehalt, ...), kann dieser aus einer vorgegebenen Liste ausgewählt werden. Diese Liste entspricht den Angaben der STUZZA. Der Code wird bis zur Empfängerbank und wenn der Empfänger Edifact-Daten entgegennimmt, bis zum Empfänger durchgeschleust. Der Empfänger hat sodann die Möglichkeit zu erkennen, in welchen Teilbereich seiner Buchhaltung er den Zahlungseingang zu buchen hat.
 
 ![Image](<img/image214.png>){width="500"}
 
-Nach Anwahl der Schaltfläche *Erstellen* wird nachfolgender Programmteil geöffnet. Hier besteht die Möglichkeit, die durchzuführenden Überweisungen einzutragen. Es können mehrere Überweisungen gleichzeitig in eine Datei aufgenommen werden.
+Nach Anwahl der Schaltfläche *Erstellen* wird der nachfolgende Programmteil geöffnet. Hier besteht die Möglichkeit, die durchzuführenden Überweisungen einzutragen. Es können mehrere Überweisungen gleichzeitig in eine Datei aufgenommen werden.
 
 ![Image](<img/image215.png>){width="500"}
 
-## Vorschlag
+**Vorschlag**
 
-Durch Anwahl des *Vorschlages* wird eine Liste der erfassten Sonstigen Behörden aufgerufen und es kann eine Behörde aufgerufen werden. Somit müssen Die Empfängerdaten nicht immer wieder eingetragen werden.
+Durch Anwahl des *Vorschlages* wird eine Liste der erfassten Sonstigen Behörden aufgerufen und es kann eine Behörde aufgerufen werden. Somit müssen die Empfängerdaten nicht immer wieder eingetragen werden.
 
-### Empfänger
+**Empfänger**
 
-**Betrag**
+- **Betrag**
+  
+    In diesem Feld können Sie den Überweisungsbetrag eintragen.
 
-In diesem Feld können Sie den Überweisungsbetrag eintragen.
+- **Zahlungsreferenz**
 
-**Zahlungsreferenz**
+    Die *Zahlungsreferenz* kann aus maximal 35 Zeichen bestehen. Es können Groß- und Kleinbuchstaben, Leerzeichen und Sonderzeichen verwendet werden.
 
-Die *Zahlungsreferenz* kann aus maximal 35 Zeichen bestehen. Es können Groß- und Kleinbuchstaben, Leerzeichen und Sonderzeichen verwendet werden.
+- **Name/Ort**
 
-**Name/Ort**
+    Eingabe des *Namens* und des *Ortes* des Empfängers.
 
-Eingabe des *Namens* und des *Ortes* des Empfängers.
+- **IBAN**
 
-**IBAN**
+    Eingabe der internationalen Bank-Kontonummer. Diese muss für Österreich genau 20-stellig sein. Maximal kann diese jedoch 34 alphanumerische Zeichen umfassen.
 
-Eingabe der internationalen Bank-Kontonummer. Diese muss für Österreich genau 20-stellig sein. Maximal kann diese jedoch 34 alphanumerische Zeichen umfassen.
+    Die IBAN besteht aus
 
-Die IBAN besteht aus
+    - dem ISO 3166 Ländercode der Bankverbindung (also für in Österreich geführte Konten „AT")
 
-- dem ISO 3166 Ländercode der Bankverbindung (also für in Österreich
-  geführte Konten „AT")
+    - einer zweistelligen Prüfziffer
 
-- einer zweistelligen Prüfziffer
+    - dem nationalen Bank-Code (für Österreich die BLZ)
 
-- dem nationalen Bank-Code (für Österreich die BLZ)
+    - der Kontonummer
 
-- der Kontonummer
+    In der Darstellung für den elektronischen Datenaustausch also LLppBBBBBKKKKKKKKKKK, wobei LL der Ländercode, pp eine rein numerische Prüfziffer, BBBBB die Bankleitzahl und KKKKKKKKKKK die Kontonummer ist. Bankleitzahl und Kontonummer können, abhängig vom Land, unterschiedlich lang sein und auch Alpha-Zeichen (in der elektronischen Darstellung aber keine Sonderzeichen und natürlich auch keine nationalen Sonderzeichen, wie Umlaute) enthalten. Es wird jedoch festgelegt, dass je Land die IBAN-Länge konstant ist.
 
-In der Darstellung für den elektronischen Datenaustausch alsoLLppBBBBBKKKKKKKKKKK, wobei LL der Ländercode, pp eine rein numerische Prüfziffer, BBBBB die Bankleitzahl und KKKKKKKKKKK die Kontonummer ist.Bankleitzahl und Kontonummer können, abhängig vom Land, unterschiedlich lang sein und auch Alpha-Zeichen (in der elektronischen Darstellung aber keine Sonderzeichen und natürlich auch keine nationalen Sonderzeichen, wie Umlaute) enthalten. Es wird jedoch festgelegt, dass je Land die IBAN-Länge konstant ist.
+- **BIC**
 
-**BIC**
+    Eintragung des BIC. Ist jedoch für Inlandszahlungen ab Rulebook 6.0. nicht mehr erforderlich.
 
-Eintragung des BIC. Ist jedoch für Inlandszahlungen ab Rulebook 6.0. nicht mehr erforderlich.
+**Verwendungszweck**
 
-### Verwendungszweck
+- **Zusatztext**
 
-**Zusatztext**
+    Hier können Sie zusätzliche Textzeilen zur Beschreibung des Zahlungsgrundes eingeben.
 
-Hier können Sie zusätzliche Textzeilen zur Beschreibung des Zahlungsgrundes eingeben.
-
-![Image](<img/image216.png>){width="500"}
+    ![Image](<img/image216.png>){width="500"}
 
 Nach Anwahl der Schaltfläche *Speichern* wird die Überweisung mit den wichtigsten Daten in das Listenfeld eingetragen.
 
@@ -121,7 +134,7 @@ Es können weitere Überweisungen erfasst werden. Ist die Erfassung vollständig
 
 Wird die Abfrage mit *JA* beantwortet, wird die Datei erstellt und die Überweisung(en) werden nochmals angezeigt.
 
-Durch Anwahl der Schaltfläche *Weiter* erfolgt die endgültige Erstellung der Datei und der automatische Ausdruck eines Datenträger-Protokolls.
+Durch Anwahl der Schaltfläche *Weiter* erfolgt die endgültige Erstellung der Datei und der automatische Ausdruck eines Datenträgerprotokolls.
 
 ## Ausdruck Begleitzettel / Protokoll
 
@@ -145,7 +158,7 @@ Eingabe des Namens der Datei, welche die Überweisungen enthalten.
 
 **Suchen**
 
-Der Datei-Name kann nach Aktivierung dieser Schaltfläche gesucht und in das Eingabefeld *Datei* übernommen werden.
+Der Dateiname kann nach Aktivierung dieser Schaltfläche gesucht und in das Eingabefeld *Datei* übernommen werden.
 
 **ANSI-Format (Windows)**
 
@@ -153,4 +166,4 @@ Dieses Format ist zu wählen, falls die Datei mit einem Windows-Programm weiterb
 
 **ASCII-Format (DOS)**
 
-Dieses Format ist zu wählen, falls die Datei mit einem Dos-Programm weiterbearbeitet werden soll.
+Dieses Format ist zu wählen, falls die Datei mit einem DOS-Programm weiterbearbeitet werden soll.

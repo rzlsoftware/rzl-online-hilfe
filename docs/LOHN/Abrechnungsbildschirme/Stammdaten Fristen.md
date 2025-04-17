@@ -1,6 +1,6 @@
 # Stammdaten Fristen
 
-In diesem Bildschirm können Anmerkungen mit Fristen hinterlegt und Abrechnungstexte eingetragen werden, sowie weitere Stammdaten wie *Rundung*, *Aliquotierung*, *Arbeitsbewilligung* und die Zuordnung zum *Buchungskreis*. In diesen Bildschirmen können auch die beiden Übertrittsvarianten für den Umstieg von Abfertigung alt auf Abfertigung neu (Voll- und Teilübertritt) abgerechnet werden.
+In diesem Bildschirm können Anmerkungen mit Fristen hinterlegt und Abrechnungstexte eingetragen werden sowie weitere Stammdaten wie *Rundung*, *Aliquotierung*, *Arbeitsbewilligung* und die Zuordnung zum *Buchungskreis*. In diesen Bildschirmen können auch die beiden Übertrittsvarianten für den Umstieg von Abfertigung alt auf Abfertigung neu (Voll- und Teilübertritt) abgerechnet werden.
 
 ![Image](<img/image54.png>)
 
@@ -22,10 +22,10 @@ Vgl. [Auswahlkriterien](../Auswahlkriterien.md)
 
 **Keine Auszahlung – Zahltag Abrechnung**
 
-Grundsätzlich werden für den Andruck des monatlichen Zahltages am Jahreslohnkonto des Dienstnehmers die Eintragungen in den Stammdaten des Klienten im Registerblatt *Bank, Überweisung* herangezogen. Hier können abweichende Eintragungen vorgenommen werden.
+Grundsätzlich werden für den Andruck des monatlichen Zahltages am Jahreslohnkonto des Dienstnehmers die Eintragungen im Registerblatt *Bank, Überweisung* der Klienstenstammdaten herangezogen. Hier können abweichende Eintragungen vorgenommen werden.
 
 !!! info "Tipp"
-    Wird für die Überweisung der Abrechnungen [Elektronik Banking](../Elektronic%20Banking%20SEPA/Elektronic%20Banking%20Abrechnungen%20Inland.md) durchgeführt, wird das *Durchführungsdatum* als Zahltag am Jahreslohnkonto eingetragen.
+    Wird für die Überweisung der Abrechnungen [Elektronik Banking](../Elektronic%20Banking%20SEPA.md) durchgeführt, wird das *Durchführungsdatum* als Zahltag am Jahreslohnkonto eingetragen.
 
 **Lohn-Formel-Zuordnungstabelle**
 
