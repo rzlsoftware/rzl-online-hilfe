@@ -41,7 +41,7 @@ Sollen am Ausdruck die Dienstnehmer-Abgaben angedruckt werden, ist dieses Feld a
 
 *Brutto ohne Aufwandsentschädigung drucken*
 
-Wenn im Brutto die Aufwandsentschädigungen nicht enthalten sein sollen, wählen Sie dieses Feld an.
+Wenn Aufwandsentschädigungen im Brutto nicht enthalten sein sollen, wählen Sie dieses Feld an.
 
 *Aufteilung nach Kostenträgern*
 
@@ -49,7 +49,7 @@ Wenn im Brutto die Aufwandsentschädigungen nicht enthalten sein sollen, wählen
 
 **Jahres-Kostenstellen-Lohnarten**
 
-In der Liste der Jahres-Kostenstellen-Lohnarten werden je Kostenstelle die angefallenen Lohnarten, sowie die Lohnnebenkosten angeführt.
+In der Liste der Jahres-Kostenstellen-Lohnarten werden je Kostenstelle die angefallenen Lohnarten sowie die Lohnnebenkosten angeführt.
 
 *neue Seite pro Kostenst. /Kostentr.*
 
@@ -97,7 +97,7 @@ Wenn im Brutto die Aufwandsentschädigungen nicht enthalten sein sollen, wählen
 
 **Jahres-Kostenträger-Lohnarten**
 
-In der Liste der Jahres-Kostenträger-Lohnarten werden je Kostenträger die angefallenen Lohnarten, sowie die Lohnnebenkosten angeführt.
+In der Liste der Jahres-Kostenträger-Lohnarten werden je Kostenträger die angefallenen Lohnarten sowie die Lohnnebenkosten angeführt.
 
 *neue Seite pro Kostenst. /Kostentr.*
 
@@ -117,7 +117,7 @@ Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrec
 
 **Jahres-Dienstgeber-Gesamtkosten**
 
-In dieser Liste können Sie sich die gesamten Dienstgeberkosten des Jahres pro Dienstnehmer ausgeben. Sie haben die Möglichkeit die *Nebenbeträge einzeln* zu *drucken*. Ebenso kann der *Sachbezug als DG-Kosten* ausgewiesen werden. Bei einem abweichenden Wirtschaftsjahr kann ein *abweichender Zeitraum* eingegeben werden.
+In dieser Liste können Sie sich die gesamten Dienstgeberkosten des Jahres pro Dienstnehmer ausgeben. Sie haben die Möglichkeit, die *Nebenbeträge einzeln* zu *drucken*. Ebenso kann der *Sachbezug als DG-Kosten* ausgewiesen werden. Bei einem abweichenden Wirtschaftsjahr kann ein *abweichender Zeitraum* eingegeben werden.
 
 **U-Bahn-Abgabe-Jahreserklärung / U-Bahn-Abgabe- Formular**
 
@@ -146,7 +146,7 @@ Durch Aktivierung des Auswahlfeldes *abweichender Zeitraum* kann durch Eintragun
 Durch Anwahl des Kästchens *Aufstellung Lehrlinge drucken* werden die Lehrlinge extra angedruckt.
 
 !!! info "Tipp"
-    Wird das Auswahlfeld *Ausgabe in ascii-Datei* angewählt, dann kann das Betriebsjahreslohnkonto als ascii-Datei ausgegeben werden.
+    Wird das Auswahlfeld *Ausgabe in ASCII-Datei* angewählt, dann kann das Betriebsjahreslohnkonto als ASCII-Datei ausgegeben werden.
 
 **Aufstellung SV-Bemessungen**
 
@@ -162,7 +162,7 @@ Auf dieser Aufstellung werden alle Dienstnehmer pro Monat mit den jeweiligen BV-
 
 **Aufstellung Homeoffice-Pauschale**
 
-Mit dieser Aufstellung können alle Dienstnehmer mit Homeoffice-Pauschale ausgedruckt werden. Es werden die Homeoffice-Tage und die Homeoffice-Pauschale pro Monat aufgegliedert. Durch Anwahl *Alle Dienstnehmer ausgeben* werden auch Dienstnehmer, welche keine Homeoffice-Pauschale bekommen, angedruckt.
+Mit dieser Aufstellung können alle Dienstnehmer mit Homeoffice-Pauschale ausgedruckt werden. Es werden die Homeoffice-Tage und die Homeoffice-Pauschale pro Monat aufgegliedert. Durch Anwahl *Alle Dienstnehmer ausgeben* werden auch Dienstnehmer, die keine Homeoffice-Pauschale bekommen, angedruckt.
 
 **Aufstellung Sozialfonds**
 
@@ -172,7 +172,7 @@ Auf dieser Aufstellung sehen Sie alle Dienstnehmer pro Monat mit dem abgerechnet
 
 Das Jahres-Abschlussprotokoll kann für das gesamte Jahr ausgedruckt werden.
 
-Es können 4 Möglichkeiten des Ausdruckes bzw. der Prüfung aktiviert werden.
+Es können vier Möglichkeiten des Ausdruckes bzw. der Prüfung aktiviert werden.
 
 *Offene Meldungen*
 
