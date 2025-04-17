@@ -21,7 +21,7 @@ Der Programmteil *Aufruf / Abrechnungen* bewirkt den Aufruf aller Abrechnungen d
 
 **Aufruf Schwerarbeitsmeldungen**
 
-Hier können die im Abrechnungsbildschirm *Sozialversicherung* bzw. im Programmteil *Stamm / Schwerarbeitsmeldungen* erfassten Schwerarbeitsmeldungen aufgerufen werden.
+Hier können die im Abrechnungsbildschirm [*Sozialversicherung*](../LOHN/Abrechnungsbildschirme/Sozialversicherung.md) bzw. im Programmteil *Stamm / Schwerarbeitsmeldungen* erfassten Schwerarbeitsmeldungen aufgerufen werden.
 
 **Aufruf Lohnarten**
 
@@ -113,7 +113,7 @@ Durch Anwahl dieses Programmteiles werden die im Abrechnungsbildschirm [*Arbeits
 
 **Aufruf Dienstnehmer-Notizen**
 
-Hier werden die bei den einzelnen Dienstnehmern angelegten Dienstnehmer-Notizen angezeigt. Zudem besteht die Möglichkeit die Dienstnehmerliste im Programmteil *Ausdruck / Stammdaten / Dienstnehmer* mit den Dienstnehmer-Notizen auszudrucken.
+Hier werden die bei den einzelnen Dienstnehmern angelegten Dienstnehmer-Notizen angezeigt. Zudem besteht die Möglichkeit, die Dienstnehmerliste mit den Dienstnehmer-Notizen im Programmteil *Ausdruck / Stammdaten / Dienstnehmer* auszudrucken.
 
 **Aufruf Monats- und Jahresabschlussprotokoll**
 
@@ -125,7 +125,7 @@ In diesem Programmteil wird die Anzahl der für diesen Klienten durchgeführten 
 
 **Aufruf Dienstnehmer-Historie**
 
-Durch Anwahl dieses Programmteiles werden von allen Dienstnehmern das Eintrittsdatum, die Wochenstunden, die Tarifgruppe, sowie die SV-Tage (bis zum Abrechnungsmonat) angezeigt.
+Durch Anwahl dieses Programmteiles werden von allen Dienstnehmern das Eintrittsdatum, die Wochenstunden, die Tarifgruppe, sowie die SV-Tage bis einschließlich des Abrechnungsmonats angezeigt.
 
 **Aufruf Dienstnehmer suchen**
 
