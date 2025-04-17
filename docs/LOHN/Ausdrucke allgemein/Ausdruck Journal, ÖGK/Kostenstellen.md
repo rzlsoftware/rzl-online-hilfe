@@ -4,17 +4,17 @@ Durch Anwahl des Menüpunktes *Ausdruck / Ausdruck Journal / ÖGK / Kostenstelle
 
 ![Image](<img/image227.png>){width="500"}
 
-**Dienstnehmer alphabetisch sort
+**Dienstnehmer alphabetisch sortiert**
 
 Durch Anwahl dieser Option werden die *Dienstnehmer alphabetisch sortiert* ausgedruckt.
 
 **Aufteilung nach Kostenträger**
 
-Mit dieser Option können Sie die Kostenstellenauswertung mit den Kostenträgern ausgeben.
+Mit dieser Option können Sie die Kostenstellenauswertung mit den Kostenträgern ausdrucken.
 
 **Sachbezug als DG-Kosten**
 
-Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug am Buchungsbeleg nicht als Durchläufer, sondern kostenwirksam verbucht wird.
+Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug am Buchungsbeleg nicht als Durchläufer, sondern als kostenwirksam verbucht wird.
 
 **Nebenbeiträge einzeln drucken**
 
@@ -22,11 +22,11 @@ Die Nebenbeiträge wie BV, DB, DZ und KommSt werden nach Anwahl dieses Feldes ei
 
 **neue Seite pro Kostenstelle**
 
-Soll der Ausdruck pro Kostenstelle auf einer eigenen Seite erfolgen, ist dieses Feld anzuwählen.
+Soll der Ausdruck pro Kostenstelle auf einer eigenen Seite erfolgen, ist dieses Feld auszuwählen.
 
 **Dienstnehmer-Abgaben drucken**
 
-Dieses Feld ermöglicht den zusätzlichen Ausdruck der Dienstnehmer-Abgaben inklusive Abzüge, Vorschüsse, Aufwandsentschädigungen und dem Nettobezug.
+Dieses Feld ermöglicht den zusätzlichen Ausdruck der Dienstnehmerabgaben inklusive Abzüge, Vorschüsse, Aufwandsentschädigungen und dem Nettobezug.
 
 **Brutto ohne Aufwandsentschädigung drucken**
 

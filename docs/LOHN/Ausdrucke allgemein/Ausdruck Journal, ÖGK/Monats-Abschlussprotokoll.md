@@ -1,12 +1,14 @@
 # Monats–Abschlussprotokoll
 
+![Image](img/image233.png){width="500"}
+
 Das Monats-Abschlussprotokoll kann für das im Feld *Monat* eingetragene Monat ausgedruckt werden.
 
 Es können 4 Möglichkeiten des Ausdrucks bzw. der Prüfung aktiviert werden.
 
 **Offene Meldungen**
 
-Durch Anwahl dieser Option werden die für den eingetragenen Monat noch nicht erstellten Meldungen angezeigt.
+Durch Anwahl dieser Option werden die für den eingetragenen Monat noch nicht erstellten Meldungen aufgelistet.
 
 **Erledigte Meldungen**
 

@@ -1,6 +1,6 @@
 # Ausdruck Stammdaten
 
-Im Menüpunkt *Ausdruck / Stammdaten* stehen folgende Möglichkeiten des Ausdruckes zur Verfügung:
+Im Menüpunkt *Ausdruck / Stammdaten* stehen Ihnen folgende Ausdruckoptionen zur Verfügung:
 
 **Stammdaten Klient/Dienstgeber**
 
@@ -20,23 +20,23 @@ Nach Anwahl des Menüpunktes *Ausdruck / Stammdaten / Dienstnehmer* erscheint fo
 
 ![Image](<img/image218.png>){width="500"}
 
-*Liste*
+- **Liste**
 
-Der Ausdruck der Liste der Dienstnehmer kann wahlweise *mit* oder *ohne Fristen* erfolgen. Bei diesen Fristen handelt es sich um die im Abrechnungsbildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) eingetragenen *Anmerkungen* (z. B. 1.4.2022 Gehaltserhöhung). Im Feld *Stichtagsmonat* kann das für den Ausdruck der Fristen gewünschte Monat eingetragen werden.
+    Der Ausdruck der Liste der Dienstnehmer kann wahlweise *mit* oder *ohne Fristen* erfolgen. Bei diesen Fristen handelt es sich um die im Abrechnungsbildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) eingetragenen *Anmerkungen* (z. B. 1.4.2022 Gehaltserhöhung). Im Feld *Stichtagsmonat* kann das für den Ausdruck der Fristen gewünschte Monat eingetragen werden.
 
-Sollen die im Abrechnungsbildschirm *Dienstnehmer-Notizen* geführten Eintragungen angedruckt werden, ist das Feld *mit Notizen* anzuwählen.
+    Sollen die im Abrechnungsbildschirm [*Dienstnehmer-Notizen*](../Abrechnungsbildschirme/Dienstnehmer-Notizen.md) geführten Eintragungen angedruckt werden, ist das Feld *mit Notizen* anzuwählen.
 
-*Stammdatenblatt*
+- **Stammdatenblatt**
 
-Das Stammdatenblatt kann sowohl in Kurzfassung, als auch in Normalfassung ausgedruckt werden.
+    Das Stammdatenblatt kann sowohl in Kurzfassung, als auch in Normalfassung ausgedruckt werden.
 
-*Ohne beendete DV*
+- **Ohne beendete DV**
 
-Durch Anwahl dieses Feldes werden nur jene Dienstnehmer ausgedruckt, welche ein aufrechtes Dienstverhältnis zum Zeitpunkt des Ausdruckes haben.
+    Durch Anwahl dieses Feldes werden nur jene Dienstnehmer ausgedruckt, welche ein aufrechtes Dienstverhältnis zum Zeitpunkt des Ausdruckes haben.
 
-*Dienstnehmer alphabetisch sortiert*
+- **Dienstnehmer alphabetisch sortiert**
 
-Grundsätzlich werden die Dienstnehmer nach Personalnummer ausgedruckt. Wenn Sie die Liste alphabetisch haben möchten, dann wählen Sie dieses Feld aus.
+    Grundsätzlich werden die Dienstnehmer nach Personalnummer ausgedruckt. Wenn Sie die Liste alphabetisch sortieren möchten, aktivieren Sie dieses Feld.
 
 !!! info "Tipp"
     Dieser Dialog enthält einen Bereich, der bei den nachfolgenden Ausdrucken sehr häufig enthalten ist. Mittels *Dienstnehmer* können einzelne Dienstnehmer oder ein Bereich von Dienstnehmern ausgedruckt werden. Wird das Auswahlfeld *Klient* angewählt, dann werden sämtliche Dienstnehmer des Klienten, auch die der Unterdienstgeber ausgedruckt. Durch Anwahl des Feldes *Unterdienstgeber* werden sämtliche Dienstnehmer der angelegten Unterdienstgeber ausgedruckt.
@@ -79,19 +79,19 @@ Die im Abrechnungsbildschirm *Dienstnehmer-Notizen* erfassten Daten können übe
 
 **Urlaubskartei**
 
-Die im [Abrechnungsbildschirm *Urlaub*](../Abrechnungsbildschirme/Urlaub.md) angelegte Urlaubskartei kann im Menüpunkt *Ausdruck / Stammdaten / Urlaubskartei* ausgedruckt werden. Es gibt hier die Möglichkeit, nach *aktuellem Urlaubsjahr*, *Gesamte Kartei* oder einem *individuellen Zeitraum* die Kartei auszudrucken. Bei Anwahl *Einzeldruck* wird pro Dienstnehmer eine eigene Seite erzeugt und kann somit in den Personalakt importiert werden.
+Die im Abrechnungsbildschirm [*Urlaub*](../Abrechnungsbildschirme/Urlaub.md) angelegte Urlaubskartei kann im Menüpunkt *Ausdruck / Stammdaten / Urlaubskartei* ausgedruckt werden. Es gibt hier die Möglichkeit, nach *aktuellem Urlaubsjahr*, *Gesamte Kartei* oder einem *individuellen Zeitraum* die Kartei auszudrucken. Wird *Einzeldruck* aktiviert, wird für jeden Dienstnehmer eine eigene Seite erstellt - ideal zur Ablage im Personalakt.
 
 **Krankenstände**
 
-Der Menüpunkt *Ausdruck / Stammdaten / Krankenstände* ermöglicht den Ausdruck der im Abrechnungsbildschirm [*Krankenstand*](../Abrechnungsbildschirme/Krankenstand.md) angelegten Kranken­standsaufzeichnungen. Es gibt hier die Möglichkeit, nach *aktuellem Krankenstandsjahr*, *Gesamte Kartei* oder einem *individuellen Zeitraum* die Kartei auszudrucken. Bei Anwahl *Einzeldruck* wird pro Dienstnehmer eine eigene Seite erzeugt und kann somit in den Personalakt importiert werden.
+Der Menüpunkt *Ausdruck / Stammdaten / Krankenstände* ermöglicht den Ausdruck der im Abrechnungsbildschirm [*Krankenstand*](../Abrechnungsbildschirme/Krankenstand.md) angelegten Kranken­standsaufzeichnungen. Es gibt hier die Möglichkeit, nach *aktuellem Krankenstandsjahr*, *Gesamte Kartei* oder einem *individuellen Zeitraum* die Kartei auszudrucken. Wird *Einzeldruck* aktiviert, wird für jeden Dienstnehmer eine eigene Seite erstellt - ideal zur Ablage im Personalakt.
 
 **Zeitausgleichskartei**
 
-Die im Abrechnungsbildschirm [*Zeitausgleich*](../Abrechnungsbildschirme/Zeitausgleich.md) vorgenommenen Eintragungen, können im Programmteil *Ausdruck / Stammdaten / Zeitausgleichskartei* ausgedruckt werden. Es gibt hier die Möglichkeit, nach *aktuellem Kalenderjahr*, *Gesamte Kartei* oder einem *individuellen Zeitraum* die Kartei auszudrucken. Bei Anwahl *Einzeldruck* wird pro Dienstnehmer eine eigene Seite erzeugt und kann somit in den Personalakt importiert werden. Sie haben hier die Auswahl, ob Sie *alle* (vier) *einzelnen Karteien* oder ausgewählte Karteien drucken.
+Die im Abrechnungsbildschirm [*Zeitausgleich*](../Abrechnungsbildschirme/Zeitausgleich.md) vorgenommenen Eintragungen, können im Programmteil *Ausdruck / Stammdaten / Zeitausgleichskartei* ausgedruckt werden. Es gibt hier die Möglichkeit, nach *aktuellem Kalenderjahr*, *Gesamte Kartei* oder einem *individuellen Zeitraum* die Kartei auszudrucken. Wird *Einzeldruck* aktiviert, wird für jeden Dienstnehmer eine eigene Seite erstellt - ideal zur Ablage im Personalakt. Sie haben hier die Auswahl, ob Sie *alle* (vier) *einzelnen Karteien* oder ausgewählte Karteien drucken.
 
 **Dienstverhinderungskartei**
 
-Die im Abrechnungsbildschirm [*Dienstverhinderung*](../Abrechnungsbildschirme/Dienstverhinderung.md) vorgenommenen Eintragungen, können im Programmteil *Ausdruck / Stammdaten / Dienstverhinderung* ausgedruckt werden. Es gibt hier die Möglichkeit, nach *aktuellem Arbeitsjahr*, *Gesamte Dienstverhinderungskartei* oder einem *Datumsbereich* die Kartei auszudrucken. Bei Anwahl *Einzeldruck* wird pro Dienstnehmer eine eigene Seite erzeugt und kann somit in den Personalakt importiert werden. Sie haben hier die Auswahl, ob Sie eine *Auswahl* der *Dienstverhinderungen* für den Ausdruck vornehmen möchten.
+Die im Abrechnungsbildschirm [*Dienstverhinderung*](../Abrechnungsbildschirme/Dienstverhinderung.md) vorgenommenen Eintragungen, können im Programmteil *Ausdruck / Stammdaten / Dienstverhinderung* ausgedruckt werden. Es gibt hier die Möglichkeit, nach *aktuellem Arbeitsjahr*, *Gesamte Dienstverhinderungskartei* oder einem *Datumsbereich* die Kartei auszudrucken. Wird *Einzeldruck* aktiviert, wird für jeden Dienstnehmer eine eigene Seite erstellt - ideal zur Ablage im Personalakt. Sie haben hier die Auswahl, ob Sie eine *Auswahl* der *Dienstverhinderungen* für den Ausdruck vornehmen möchten.
 
 **EFZ-Tage**
 
@@ -108,8 +108,6 @@ Dieser Ausdruck ermöglicht den Ausdruck einer Dienstnehmerliste mit den aktuell
 **Aufstellung der Ein- und Austritte**
 
 Dieser Programmteil ermöglicht einen Listendruck mit den Ein- und Austritten der Dienstnehmer. Wahlweise können *nur Eintritte* oder *nur Austritte* ausgedruckt werden.
-
-Wenn die Option *mit Auflösungsabgabe* aktiviert wird, wird zusätzlich zu den Austritten auch die entrichtete Auflösungsabgabe pro Dienstnehmer angezeigt (2013 bis 2019). Ebenso haben Sie die Möglichkeit, die Liste alphabetisch zu sortieren.
 
 Eine Einschränkung dieser Liste nach einzelnen Monaten bzw. Monat von – bis ist möglich.
 
@@ -131,4 +129,4 @@ Der Programmteil *Ausdruck / Stammdaten / Übersicht KV-Lohn / Ist-Lohn* listet 
 
 **KV-Vorrückungen**
 
-Der Ausdruck *KV-Vorrückungen* zeigt die nächste Vorrückung der Dienstnehmer und die Höhe des Bezuges nach der Vorrückung.
+Der Ausdruck *KV-Vorrückungen* zeigt pro Dienstnehmer die nächste geplante Vorrückung samt dem Bezug nach der Anpassung.

@@ -1,6 +1,8 @@
 # Kostenträger-Lohnarten
 
-In der Liste der *Kostenträger-Lohnarten* werden je Kostenträger die angefallenen Lohnarten, sowie die Lohnnebenkosten angeführt.
+![Image](img/image230.png){width="500"}
+
+In der Liste der *Kostenträger-Lohnarten* werden je Kostenträger die angefallenen Lohnarten sowie die Lohnnebenkosten angeführt.
 
 **Sachbezug als DG-Kosten**
 
@@ -8,7 +10,7 @@ Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug
 
 **Aufteilung nach Kostenstellen**
 
-Über die Option *Aufteilung nach Kostenstellen* können Sie die Kostenstelle als übergeordnete Ebene in dem Ausdruck darstellen.
+Über die Option *Aufteilung nach Kostenstellen* können Sie die Kostenstelle als übergeordnete Ebene im Ausdruck darstellen.
 
 **neue Seite pro Kostenst. / Kostentr.**
 

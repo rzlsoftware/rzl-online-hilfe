@@ -138,3 +138,6 @@ Durch Anwahl dieses Programmteils öffnet sich der [WEBEKU](../LOHN/WEBEKU%20Web
 **Aufruf SV Nr. Abfrage**
 
 Durch Anwahl dieses Programmteils öffnet sich die [WEBEKU Versicherungsnummernabfrage](../LOHN/WEBEKU%20Webservice.md).
+
+!!! info "Tipp"
+    Durch Drücken von **STRG + A** und **STRG + C** kann der gesamte Inhalt der Aufrufe markiert und kopiert werden. Anschließend lässt er sich mit **STRG + V** z. B. in Microsoft Excel einfügen.

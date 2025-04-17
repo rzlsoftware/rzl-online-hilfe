@@ -1,6 +1,6 @@
 # Kostenträger
 
-Durch Anwahl des Menüpunktes *Ausdruck / Ausdruck Journal / ÖGK / Kostenträger* wird eine aufsteigend nach Kostenträger gegliederte Zusammenfassung der in den einzelnen Kostenträger angefallenen Lohn und Lohnnebenkosten je Dienstnehmer gedruckt. Voraussetzung dafür ist jedoch, dass bei der Anlage des Dienstnehmers im Eingabebildschirm [*Kostenstelle/Kostenträger*](../../Abrechnungsbildschirme/Kostenstellen%20und%20Kostenträger.md) eine Zuordnung zu den Kostenträgern vorgenommen wurde.
+Durch Anwahl des Menüpunktes *Ausdruck / Ausdruck Journal / ÖGK / Kostenträger* wird eine aufsteigend nach Kostenträger gegliederte Zusammenfassung der in den einzelnen Kostenträgern angefallenen Lohn und Lohnnebenkosten je Dienstnehmer gedruckt. Voraussetzung dafür ist jedoch, dass bei der Anlage des Dienstnehmers im Eingabebildschirm [*Kostenstelle/Kostenträger*](../../Abrechnungsbildschirme/Kostenstellen%20und%20Kostenträger.md) eine Zuordnung zu den Kostenträgern vorgenommen wurde.
 
 ![Image](<img/image228.png>){width="500"}
 
@@ -10,7 +10,7 @@ Durch Anwahl dieser Option werden die *Dienstnehmer alphabetisch sortiert* ausge
 
 **Aufteilung nach Kostenstellen**
 
-Über die Option *Aufteilung nach Kostenstellen* können Sie die Kostenstelle als übergeordnete Ebene in dem Ausdruck darstellen.
+Über die Option *Aufteilung nach Kostenstellen* können Sie die Kostenstelle als übergeordnete Ebene im Ausdruck darstellen.
 
 **Sachbezug als DG-Kosten**
 
@@ -22,11 +22,11 @@ Die Nebenbeiträge wie BV, DB, DZ und KommSt werden nach Anwahl dieses Feldes ei
 
 **neue Seite pro Kostenstelle**
 
-Soll der Ausdruck pro Kostenstelle auf einer eigenen Seite erfolgen, ist dieses Feld anzuwählen.
+Soll der Ausdruck pro Kostenstelle auf einer eigenen Seite erfolgen, ist dieses Feld auszuwählen.
 
 **Dienstnehmer-Abgaben drucken**
 
-Dieses Feld ermöglicht den zusätzlichen Ausdruck der Dienstnehmer-Abgaben inklusive Abzüge, Vorschüsse, Aufwandsentschädigungen und dem Nettobezug.
+Dieses Feld ermöglicht den zusätzlichen Ausdruck der Dienstnehmerabgaben inklusive Abzüge, Vorschüsse, Aufwandsentschädigungen und dem Nettobezug.
 
 **Brutto ohne Aufwandsentschädigung drucken**
 
