@@ -2,7 +2,7 @@
 
 Zunächst müssen **alle RZL - Programme auf dem Arbeitsplatz geschlossen werden**, damit die Sicherung gestartet werden kann!
 Der RZL Dienst (wenn optional installiert) wird bei diesem Vorgang, vom RZL-Admin
-in einen Diagnosemodus versetzt. Die Komplettsicherung umfasst auch die Sicherung der Datenbank sofern eine SQL- Instanz (optional)
+in einen Diagnosemodus versetzt. Die Komplettsicherung umfasst auch die Sicherung der Datenbank.
 
 Während der Sicherung können die RZL-Programme **NICHT** gestartet
 werden.
