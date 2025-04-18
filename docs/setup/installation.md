@@ -171,7 +171,7 @@ und wählen die Option *Expertenmodus*.
 7.  Ein *Kombi-Arbeitsplatz* ermöglicht Ihnen, bestimmte Daten in das
     Offline-Daten-Repository zu verschieben. Der Zugriff auf diese Daten
     ist dann auch möglich, wenn das Gerät nicht mit dem Netzwerk verbunden
-    ist. Genaue Details zum Verschieben von Programmklienten entnehmen Sie
+    ist. Genaue Details zum verschieben von Programmklienten entnehmen Sie
     bitte dem [*ZMV-Handbuch*](https://rzlsoftware.at/fileadmin/user_upload/PDF_Handbuecher/ZMV.pdf).
 
 8.  Mit einem Klick auf *Weiter* gelangen Sie zum nächsten Fenster mit
