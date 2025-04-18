@@ -4,7 +4,7 @@ Die Sonderzahlungsrückstellung wird im Programmteil *Ausdruck / Rückstellungen
 
 ![Image](<img/image277.png>){width="500"}
 
-Im Eingabebereich *Basis für Sonderzahlungsrückstellung* ist festzulegen, welche Basis für die Berechnung herangezogen werden soll. Das sind entweder der *letzte Monatsbezug* oder einer der entsprechenden Durchschnittswerte. Als Monatsbezug wird vom Programm von den vorgegebenen Lohnarten der Bruttolohn, die Stundenlöhne, die Erschwerniszulage, eine eventuelle Auslandstätigkeit, die Überstunden, die Mehrarbeitsstunden, das Überstundenpauschale und das BUAK-Urlaubsgeld laufend miteinbezogen. Von den freien Lohnarten werden nur jene in der Rückstellungsberechnung berücksichtigt, bei denen eine Lohnsteuerpflichtigkeit für Sonderzahlungen abgerechnet wurde. Durch Anwahl des Feldes *Aufteilung nach Kostenstellen* kann die Rückstellung getrennt nach Kostenstellen ausgegeben werden.
+Im Eingabebereich *Basis für Sonderzahlungsrückstellung* ist festzulegen, welche Basis für die Berechnung herangezogen werden soll. Das sind entweder der *letzte Monatsbezug* oder einer der entsprechenden Durchschnittswerte. Als Monatsbezug wird vom Programm von den vorgegebenen Lohnarten der Bruttolohn, die Stundenlöhne, die Erschwerniszulage, eine eventuelle Auslandstätigkeit, die Überstunden, die Mehrarbeitsstunden, die Überstundenpauschale und das BUAK-Urlaubsgeld laufend miteinbezogen. Von den freien Lohnarten werden nur jene in der Rückstellungsberechnung berücksichtigt, bei denen eine Lohnsteuerpflichtigkeit für Sonderzahlungen abgerechnet wurde. Durch Anwahl des Feldes *Aufteilung nach Kostenstellen* kann die Rückstellung getrennt nach Kostenstellen ausgegeben werden.
 
 Als Basis für die Berücksichtigung der Sonderzahlungen kann entweder der *Anspruch der SZ laut Eingabe* (manuelle Eingabe siehe unten) oder *die im laufenden Jahr abgerechneten SZ* ausgewählt werden.
 
@@ -16,7 +16,8 @@ Die Felder der Sonderzahlungsrückstellung funktionieren sinngemäß, wie bereit
 
 ## Aufruf Berechnungsblatt Sonderzahlungsrückstellung
 
-Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung von diesem ausgewählten Dienstnehmer.
+Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung dieses 
+ausgewählten Dienstnehmers.
 
 ![Image](<img/image279.png>)
 

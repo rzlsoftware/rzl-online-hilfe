@@ -2,17 +2,17 @@
 
 UGB § 211 Abs. 1 idF RÄG 2014 bzw. AFRAC Stellungnahme 27 sehen die **Nominalmethode** (Bruttomethode) vor. Abfertigungen und Jubiläumsgelder sind mit dem Erfüllungsbetrag anzusetzen. Dieser **Erfüllungsbetrag** ist mit einem **Nominalzinssatz** über die Dienstzeit zu verteilen. Dagegen wird im aktuellen Fachgutachten KFS/RL 2 die Anwendung der **Realwertmethode** (Nettomethode) gefordert. Dabei wird der **aktuelle Bezug,** also ohne zukünftige Gehaltssteigerungen, mit einem **Realzinssatz** verzinst.
 
-Schon bisher war es möglich in den Stammdaten des Klienten diese Gehaltssteigerungen zu berücksichtigen und damit den erwarteten Erfüllungsbetrag in der Berechnung zu berücksichtigen. Für die Nettomethode musste bislang der Nominalzinssatz manuell auf einen Realzinssatz umgerechnet werden.
+Schon bisher war es möglich, in den Stammdaten des Klienten diese Gehaltssteigerungen zu berücksichtigen und damit den erwarteten Erfüllungsbetrag in der Berechnung zu berücksichtigen. Für die Nettomethode musste bislang der Nominalzinssatz manuell auf einen Realzinssatz umgerechnet werden.
 
 **Vorgehensweise in den RZL-Programmen zur Ermittlung der Abfertigungs-Rückstellung**
 
-Die Rückstellung wird auf Basis der Bruttomethode mit **konstanten Rentenendwertfaktoren** mit Hilfe der Formel
+Die Rückstellung wird auf Basis der Bruttomethode mit **konstanten Rentenendwertfaktoren** mithilfe der Formel
 
 ![Image](img/image282.png){width="500"}
 
 gebildet. Der maßgebliche Abfertigungsanspruch ergibt sich hierbei aus dem laufenden Bezug, der mit einem Gehaltssteigerungsprozentsatz erhöht wird.
 
-Die Rentenendwertfaktoren werden dabei bisher mit Hilfe der Formel für eine **vorschüssige, konstante Rente ermittelt.**
+Die Rentenendwertfaktoren wurden dabei bisher mithilfe der Formel für eine **vorschüssige, konstante Rente ermittelt.**
 
 ![Image](img/image283.png){width="300"}
 
@@ -36,11 +36,11 @@ Als Alternative dazu kann in den Stammdaten auch die *Nettomethode* angewählt w
 
 ![Image](img/image285.png){width="200"}
 
-ein **Realzinssatz** ermittelt, der auch sofort angezeigt wird. Im Gegensatz zu den beiden Bruttovarianten wird in der Nettomethode der maßgebliche Abfertigungsanspruch **nur aus den laufenden Bezügen** gebildet (also ohne Gehaltssteigerung). Nachdem die Gehaltssteigerungen hier bereits über den Realzinssatz (ireal) Berücksichtigung finden, kommt hier wieder
+ein **Realzinssatz** ermittelt, der auch sofort angezeigt wird. Im Gegensatz zu den beiden Bruttovarianten wird in der Nettomethode der maßgebliche Abfertigungsanspruch **nur aus den laufenden Bezügen** gebildet (also ohne Gehaltssteigerungen). Nachdem die Gehaltssteigerungen hier bereits über den Realzinssatz (ireal) Berücksichtigung finden, kommt hier wieder
 
 ![Image](img/image286.png){width="300"}
 
-d. h. die Formel für die konstanten Rentenendwertfaktoren zum Einsatz, allerdings natürlich mit einem veränderten Zinssatz im Vergleich zur bisherigen Berechnung.
+d. h., die Formel für die konstanten Rentenendwertfaktoren zum Einsatz, allerdings natürlich mit einem veränderten Zinssatz im Vergleich zur bisherigen Berechnung.
 
 Speziell bei der **Rückstellung für Abfertigungen** werden die beiden Berechnungsvarianten zu einer sehr exakten Übereinstimmung der Rückstellungswerte führen. Welche der beiden Varianten eingesetzt wird, ist daher eigentlich nicht entscheidend. Der Vorteil der Nettomethode liegt aus unserer Sicht in der etwas leichteren Nachvollziehbarkeit der Werte.
 

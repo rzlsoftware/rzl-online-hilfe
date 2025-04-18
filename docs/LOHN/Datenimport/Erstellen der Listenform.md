@@ -1,6 +1,6 @@
 # Erstellen der Listenform
 
-Im Programmteil *Bearbeiten / Datenimport* besteht die Möglichkeit, innerhalb der Abrechnungsvarianten *Import lfd. Abrechnung, Import Korrektur letzte Abrechnung, Import Wiedereintritt, Import Neuanlage, Neuanlage Exekution, Import Bankdaten* eine Datenübernahme aus einer Datei zu übernehmen.
+Im Programmteil *Bearbeiten / Datenimport* besteht die Möglichkeit, innerhalb der Abrechnungsvarianten *Import lfd. Abrechnung, Import Korrektur letzte Abrechnung, Import Wiedereintritt, Import Neuanlage, Neuanlage Exekution, Import Bankdaten* eine Datenübernahme aus einer Datei vorzunehmen.
 
 ![Image](<img/image290.png>){width="500"}
 
@@ -41,7 +41,7 @@ Durch Anwahl der Schaltfläche *Neu* (siehe oben) wird folgender Dialog aufgeruf
 
 **Registerblatt Allgemein**
 
-Im Registerblatt *Allgemein* wird der *Name* und ein eventueller *Kommentar* dazu eingetragen.
+Im Registerblatt *Allgemein* werden der *Name* und ein eventueller *Kommentar* dazu eingetragen.
 
 **Registerblatt Felder**
 
@@ -54,13 +54,13 @@ Durch Anwahl des +(plus)-Feldes vor dem jeweiligen Datenordner wird die darunter
 !!! warning "Hinweis"
     Die Daten, die im Listenfeld *Listenform* eingetragen sind, können in der angezeigten Reihenfolge in das Lohnverrechnungsprogramm importiert werden.
 
-Wird die +(plus)-Struktur eines Datenordners nicht geöffnet (z. B. Sozialversicherung), dann werden durch Aktivierung des Kästchens sämtlich Felder, die sich hinter diesem Datenordner befinden, in die Listenform übertragen.
+Wird die +(plus)-Struktur eines Datenordners nicht geöffnet (z. B. Sozialversicherung), dann werden durch Aktivierung des Kästchens sämtliche Felder, die sich hinter diesem Datenordner befinden, in die Listenform übertragen.
 
-Im Listenfeld *Listenform* (am Bildschirm rechts) werden die ausgewählten Daten, die in die Liste eingetragen werden, angezeigt. Die Bewegung innerhalb der *Listenform* erfolgt entweder mit der *Maus*, mit der *Pfeil-nach-oben* oder der *Pfeil-nach-unten-Taste*. Durch Anwahl der Schaltfläche *Feld löschen* wird die im Listenfeld *Listenform* farblich hinterlegte Zeile gelöscht. Die Schaltfläche *Leerfeld* bewirkt das Einfügen einer Leerzeile, dabei wird die farblich hinterlegte Zeile um eine Zeile nach unten verschoben.
+Im Listenfeld *Listenform* (am Bildschirm rechts) werden die ausgewählten Daten, die in die Liste eingetragen werden, angezeigt. Die Bewegung innerhalb der *Listenform* erfolgt entweder mit der *Maus*, mit der *Pfeil-nach-oben* oder der *Pfeil-nach-unten-Taste*. Durch Anwahl der Schaltfläche *Feld löschen* wird die im Listenfeld *Listenform* farblich hinterlegte Zeile gelöscht. Die Schaltfläche *Leerfeld* bewirkt das Einfügen einer Leerzeile. Dabei wird die farblich hinterlegte Zeile um eine Zeile nach unten verschoben.
 
 !!! info "Tipp"
-    Die Reihenfolge der Eintragung der zu importierenden Daten in das Listenfeld Listenform hängt von der Reihenfolge der Aktivierung der
-Daten im Listenfeld *Felder* ab. Die farblich hinterlegte Zeile kann durch Anwahl der *Nach-Oben*- oder *Nach-Unten-Schaltflächen* in eine andere Position, in Bezug auf die Reihenfolge der Ausgabe, gebracht werden.
+    Die Reihenfolge der Eintragung der zu importierenden Daten in das Listenfeld *Listenform* hängt von der Reihenfolge der Aktivierung der
+Daten im Listenfeld *Felder* ab. Die farblich hinterlegte Zeile kann durch Anwahl der *Nach-Oben*- oder *Nach-Unten-Schaltflächen* in eine andere Position in Bezug auf die Reihenfolge der Ausgabe gebracht werden.
 
 **Registerblatt Optionen**
 
@@ -68,18 +68,18 @@ Im Registerblatt *Optionen* werden die Eigenschaften der Importdatei festgelegt:
 
 ![Image](<img/image295.png>){width="500"}
 
-*Datenformat*
+- **Datenformat**
 
-Die Auswahl des Datenformates ANSI- oder ASCII hängt vom Programm, in dem die Import-Datei erzeugt wird, ab.
+    Die Auswahl des Datenformates ANSI- oder ASCII hängt vom Programm, in dem die Import-Datei erzeugt wird, ab.
 
-*Feldtrennzeichen, Textbegrenzungszeichen*
+- **Feldtrennzeichen, Textbegrenzungszeichen**
 
-Als *Feldtrennzeichen* können *Strichpunkt, Komma, Leerzeichen, Tabulator* oder *Anderes* verwendet werden. Wird die Option *Anderes* angewählt, dann kann ein beliebiges *Feldtrennzeichen* eingetragen werden.
+    Als *Feldtrennzeichen* können *Strichpunkt, Komma, Leerzeichen, Tabulator* oder *Anderes* verwendet werden. Wird die Option *Anderes* angewählt, dann kann ein beliebiges *Feldtrennzeichen* eingetragen werden.
 
-Als *Textbegrenzungszeichen* können *Anführungszeichen, Hochkomma* oder *kein* (Textbegrenzungszeichen) verwendet werden.
+    Als *Textbegrenzungszeichen* können *Anführungszeichen, Hochkomma* oder *kein* (Textbegrenzungszeichen) verwendet werden.
 
-*Spaltenüberschriften generieren*
+- **Spaltenüberschriften generieren**
 
-Beinhaltet die zu übernehmende Datei Spaltenüberschriften, dann ist dieses Auswahlfeld zu aktivieren.
+    Beinhaltet die zu übernehmende Datei Spaltenüberschriften, dann ist dieses Auswahlfeld zu aktivieren.
 
 Nach der Festlegung der einzelnen Felder und des Formates der Import-Datei in den jeweiligen Registerblättern, wird durch Anwahl der Schaltfläche *Neu* die erstellte Liste im Ausgangsdialog (siehe oben) in den Bereich *Auswahl Listenform* eingetragen.

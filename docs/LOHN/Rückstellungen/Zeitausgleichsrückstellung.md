@@ -5,7 +5,7 @@ Die Zeitausgleichsrückstellung wird im Programmteil *Ausdruck / Rückstellungen
 ![Image](<img/image269.png>){width="500"}
 
 
-Im Eingabebereich *Basis für Zeitausgleichsrückstellung* ist festzulegen, welche Basis für die Berechnung herangezogen werden soll. Das sind entweder der *letzte Monatsbezug* oder einer der entsprechenden Durchschnittswerte. Als Monatsbezug wird vom Programm von den vorgegebenen Lohnarten der Bruttolohn, die Stundenlöhne, die Erschwerniszulage, eine eventuelle Auslandstätigkeit, die Überstunden, die Mehrarbeitsstunden, das Überstundenpauschale und das BUAK-Urlaubsgeld laufend miteinbezogen. Von den freien Lohnarten werden nur jene in der Rückstellungsberechnung berücksichtigt, bei denen das Auswahlfeld *Bemessung ZA Rückstellung* aktiviert wurde. Durch Anwahl des Feldes *Aufteilung nach Kostenstellen* kann die Rückstellung getrennt nach Kostenstellen ausgegeben werden.
+Im Eingabebereich *Basis für Zeitausgleichsrückstellung* ist festzulegen, welche Basis für die Berechnung herangezogen werden soll. Das sind entweder der *letzte Monatsbezug* oder einer der entsprechenden Durchschnittswerte. Als Monatsbezug wird vom Programm von den vorgegebenen Lohnarten der Bruttolohn, die Stundenlöhne, die Erschwerniszulage, eine eventuelle Auslandstätigkeit, die Überstunden, die Mehrarbeitsstunden, die Überstundenpauschale und das BUAK-Urlaubsgeld laufend miteinbezogen. Von den freien Lohnarten werden nur jene in der Rückstellungsberechnung berücksichtigt, bei denen das Auswahlfeld *Bemessung ZA Rückstellung* aktiviert wurde. Durch Anwahl des Feldes *Aufteilung nach Kostenstellen* kann die Rückstellung getrennt nach Kostenstellen ausgegeben werden.
 
 Als Basis für die Berücksichtigung der Sonderzahlungen kann entweder der *Anspruch der SZ laut Eingabe* (manuelle Eingabe siehe unten) oder *die im laufenden Jahr abgerechneten SZ* ausgewählt werden.
 
@@ -45,7 +45,7 @@ Hier wird der im Abrechnungsbildschirm *Zeitausgleich* eingetragene Teiler angez
 
 ![Image](<img/image273.png>){width="400"}
 
-Soll eine Kartei nicht verwendet werden, geben Sie das Häkchen bei *Teiler* heraus. Auch ein überschreiben der Daten für den Teiler und der Stunden ist möglich. Wird eine Kartei ausgehakt, verändert sich die Stundenanzahl und der Teiler. Mit *Übernehmen* können die hier erfolgten Änderungen in die Rückstellung übernommen werden.
+Soll eine Kartei nicht verwendet werden, geben Sie das Häkchen bei *Teiler* heraus. Auch ein Überschreiben der Daten für den Teiler und der Stunden ist möglich. Wird eine Kartei ausgehakt, verändert sich die Stundenanzahl und der Teiler. Mit *Übernehmen* können die hier erfolgten Änderungen in die Rückstellung übernommen werden.
 
 ![Image](<img/image274.png>){width="400"}
 
@@ -55,11 +55,11 @@ Hier werden die im Abrechnungsbildschirm *Zeitausgleich* erfassten Rückstellung
 
 **Rückstellung**
 
-Hier wird der vom Programm errechnete Rückstellungbetrag eingetragen. Wird der errechnete Rückstellungsbetrag korrigiert, erfolgt eine Kennzeichnung mit einem Sternchen (\*) vor dem Betrag. Mit der *F2-Taste* kann eine Eintragung des ursprünglichen Wertes, wenn vorher eine abweichende Eintragung erfolgte, erfasst werden.
+Hier wird der vom Programm errechnete Rückstellungsbetrag eingetragen. Wird der errechnete Rückstellungsbetrag korrigiert, erfolgt eine Kennzeichnung mit einem Sternchen (\*) vor dem Betrag. Mit der *F2-Taste* kann eine Eintragung des ursprünglichen Wertes, wenn vorher eine abweichende Eintragung erfolgte, erfasst werden.
 
 ## Aufruf Berechnungsblatt Zeitausgleichsrückstellung
 
-Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung von diesem ausgewählten Dienstnehmer.
+Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung dieses ausgewählten Dienstnehmers.
 
 ![Image](<img/image275.png>)
 
