@@ -23,97 +23,97 @@ Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrec
 
 In diesem Programmteil wird eine Jahresauswertung der einzelnen Kostenstellen ausgedruckt.
 
-*Sachbezug als DG-Kosten*
+- **Sachbezug als DG-Kosten**
 
-Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug am Buchungsbeleg nicht als Durchläufer, sondern kostenwirksam verbucht wird.
+    Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug am Buchungsbeleg nicht als Durchläufer, sondern kostenwirksam verbucht wird.
 
-*Nebenbeträge einzeln drucken*
+- **Nebenbeträge einzeln drucken**
 
-Durch Anwahl *Nebenbeträge einzeln drucken*, werden die Nebenkosten einzeln aufgegliedert.
+    Durch Anwahl *Nebenbeträge einzeln drucken*, werden die Nebenkosten einzeln aufgegliedert.
 
-*neue Seite pro Kostenst. / Kostentr.*
+- **neue Seite pro Kostenst. / Kostentr.**
 
-Soll der Ausdruck pro Kostenstelle bzw. Kostenträger auf einer eigenen Seite erfolgen, ist dieses Feld anzuwählen.
+    Soll der Ausdruck pro Kostenstelle bzw. Kostenträger auf einer eigenen Seite erfolgen, ist dieses Feld anzuwählen.
 
-*Dienstnehmer-Abgaben drucken*
+- **Dienstnehmer-Abgaben drucken**
 
-Sollen am Ausdruck die Dienstnehmer-Abgaben angedruckt werden, ist dieses Feld anzuwählen.
+    Sollen am Ausdruck die Dienstnehmer-Abgaben angedruckt werden, ist dieses Feld anzuwählen.
 
-*Brutto ohne Aufwandsentschädigung drucken*
+- **Brutto ohne Aufwandsentschädigung drucken**
 
-Wenn Aufwandsentschädigungen im Brutto nicht enthalten sein sollen, wählen Sie dieses Feld an.
+    Wenn Aufwandsentschädigungen im Brutto nicht enthalten sein sollen, wählen Sie dieses Feld an.
 
-*Aufteilung nach Kostenträgern*
+- **Aufteilung nach Kostenträgern**
 
-Über die Option *Aufteilung nach Kostenträgern* können Sie die Kostenträger als übergeordnete Ebene in dem Ausdruck darstellen.
+    Über die Option *Aufteilung nach Kostenträgern* können Sie die Kostenträger als übergeordnete Ebene in dem Ausdruck darstellen.
 
 **Jahres-Kostenstellen-Lohnarten**
 
 In der Liste der Jahres-Kostenstellen-Lohnarten werden je Kostenstelle die angefallenen Lohnarten sowie die Lohnnebenkosten angeführt.
 
-*neue Seite pro Kostenst. /Kostentr.*
+- **neue Seite pro Kostenst. /Kostentr.**
 
-Soll der Ausdruck pro Kostenstelle bzw. Kostenträger auf einer eigenen Seite erfolgen, ist dieses Feld anzuwählen.
+    Soll der Ausdruck pro Kostenstelle bzw. Kostenträger auf einer eigenen Seite erfolgen, ist dieses Feld anzuwählen.
 
-*Aufteilung nach Kostenträgern*
+- **Aufteilung nach Kostenträgern**
 
-Über die Option *Aufteilung nach Kostenträgern* können Sie die Kostenträger als übergeordnete Ebene in dem Ausdruck darstellen.
+    Über die Option *Aufteilung nach Kostenträgern* können Sie die Kostenträger als übergeordnete Ebene in dem Ausdruck darstellen.
 
-*Sachbezug als DG-Kosten*
+- **Sachbezug als DG-Kosten**
 
-Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug am Buchungsbeleg nicht als Durchläufer, sondern kostenwirksam verbucht wird.
+    Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug am Buchungsbeleg nicht als Durchläufer, sondern kostenwirksam verbucht wird.
 
-*Detail BUAK*
+- **Detail BUAK**
 
-Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../Abrechnungsbildschirme/Fixe%20Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
+    Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../Abrechnungsbildschirme/Fixe%20Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
 
 **Jahres-Kostenträger**
 
 In diesem Programmteil wird eine Jahresauswertung der einzelnen Kostenträger ausgedruckt.
 
-*Sachbezug als DG-Kosten*
+- **Sachbezug als DG-Kosten**
 
-Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug am Buchungsbeleg nicht als Durchläufer, sondern kostenwirksam verbucht wird.
+    Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug am Buchungsbeleg nicht als Durchläufer, sondern kostenwirksam verbucht wird.
 
-*Nebenbeträge einzeln drucken*
+- **Nebenbeträge einzeln drucken**
 
-Durch Anwahl *Nebenbeträge einzeln drucken*, werden die Nebenkosten einzeln aufgegliedert.
+    Durch Anwahl *Nebenbeträge einzeln drucken*, werden die Nebenkosten einzeln aufgegliedert.
 
-*neue Seite pro Kostenst. / Kostentr.*
+- **neue Seite pro Kostenst. / Kostentr.**
 
-Soll der Ausdruck pro Kostenstelle bzw. Kostenträger auf einer eigenen Seite erfolgen, ist dieses Feld anzuwählen.
+    Soll der Ausdruck pro Kostenstelle bzw. Kostenträger auf einer eigenen Seite erfolgen, ist dieses Feld anzuwählen.
 
-*Dienstnehmer-Abgaben drucken*
+- **Dienstnehmer-Abgaben drucken**
 
-Sollen am Ausdruck die Dienstnehmer-Abgaben angedruckt werden, ist dieses Feld anzuwählen.
+    Sollen am Ausdruck die Dienstnehmer-Abgaben angedruckt werden, ist dieses Feld anzuwählen.
 
-*Brutto ohne Aufwandsentschädigung drucken*
+- **Brutto ohne Aufwandsentschädigung drucken**
 
-Wenn im Brutto die Aufwandsentschädigungen nicht enthalten sein sollen, wählen Sie dieses Feld an.
+    Wenn im Brutto die Aufwandsentschädigungen nicht enthalten sein sollen, wählen Sie dieses Feld an.
 
-*Aufteilung nach Kostenstellen*
+- **Aufteilung nach Kostenstellen**
 
-Über die Option *Aufteilung nach Kostenstellen* können Sie die Kostenstellen als übergeordnete Ebene in dem Ausdruck darstellen.
+    Über die Option *Aufteilung nach Kostenstellen* können Sie die Kostenstellen als übergeordnete Ebene in dem Ausdruck darstellen.
 
 **Jahres-Kostenträger-Lohnarten**
 
 In der Liste der Jahres-Kostenträger-Lohnarten werden je Kostenträger die angefallenen Lohnarten sowie die Lohnnebenkosten angeführt.
 
-*neue Seite pro Kostenst. /Kostentr.*
+- **neue Seite pro Kostenst. /Kostentr.**
 
-Soll der Ausdruck pro Kostenstelle bzw. Kostenträger auf einer eigenen Seite erfolgen, ist dieses Feld anzuwählen.
+    Soll der Ausdruck pro Kostenstelle bzw. Kostenträger auf einer eigenen Seite erfolgen, ist dieses Feld anzuwählen.
 
-*Aufteilung nach Kostenträgern*
+- **Aufteilung nach Kostenträgern**
 
-Über die Option *Aufteilung nach Kostenträgern* können Sie die Kostenträger als übergeordnete Ebene in dem Ausdruck darstellen.
+    Über die Option *Aufteilung nach Kostenträgern* können Sie die Kostenträger als übergeordnete Ebene in dem Ausdruck darstellen.
 
-*Sachbezug als DG-Kosten*
+- **Sachbezug als DG-Kosten**
 
-Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug am Buchungsbeleg nicht als Durchläufer, sondern kostenwirksam verbucht wird.
+    Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug am Buchungsbeleg nicht als Durchläufer, sondern kostenwirksam verbucht wird.
 
-*Detail BUAK*
+- **Detail BUAK**
 
-Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../Abrechnungsbildschirme/Fixe%20Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
+    Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../Abrechnungsbildschirme/Fixe%20Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
 
 **Jahres-Dienstgeber-Gesamtkosten**
 
@@ -174,21 +174,21 @@ Das Jahres-Abschlussprotokoll kann für das gesamte Jahr ausgedruckt werden.
 
 Es können vier Möglichkeiten des Ausdruckes bzw. der Prüfung aktiviert werden.
 
-*Offene Meldungen*
+- **Offene Meldungen**
 
-Durch Anwahl dieser Option werden die für den eingetragenen Monat noch nicht erstellten Meldungen angezeigt.
+    Durch Anwahl dieser Option werden die für den eingetragenen Monat noch nicht erstellten Meldungen angezeigt.
 
-*Erledigte Meldungen*
+- **Erledigte Meldungen**
 
-Anzeige der für diesen Monat bereits erledigten Meldungen.
+    Anzeige der für diesen Monat bereits erledigten Meldungen.
 
-*ELDA-Meldungen prüfen*
+- **ELDA-Meldungen prüfen**
 
-Hier wird festgelegt, ob die Elda-Meldungen geprüft werden sollen und somit im Ausdruck der *Offenen* oder *Erledigten Meldungen* aufscheinen.
+    Hier wird festgelegt, ob die Elda-Meldungen geprüft werden sollen und somit im Ausdruck der *Offenen* oder *Erledigten Meldungen* aufscheinen.
 
-*Überweisungen prüfen*
+- **Überweisungen prüfen**
 
-Hier wird festgelegt, ob die Überweisungen geprüft werden sollen und somit im Ausdruck der *Offenen* oder *Erledigten Meldungen* aufscheinen.
+    Hier wird festgelegt, ob die Überweisungen geprüft werden sollen und somit im Ausdruck der *Offenen* oder *Erledigten Meldungen* aufscheinen.
 
 **Anzahl der Abrechnungen**
 
