@@ -19,7 +19,7 @@ auf alle anderen Auszüge übernommen werden.
 Unter den USP-Zuweisungen / Aufgabenvorlagen können Sie definieren
 welche Aufgabe bei Eintritt der Meldepflicht, bei einer durchgeführten
 Meldung sowie bei einem automatischen Abruf des Auszuges erstellt werden
-soll. Voraussetzung hierfür ist die Anlage einer entsprechenden
-Aufgabenvorlage
+soll. Ebenso wird bei Signal des Änderungsdienstes eine Aufgabe für die Prüfung des Rechtsträgers erstellt (betrifft RT Beendet, RT Insolvent, RT Scheinunternehmen, RT Sanktioniert)
+Voraussetzung hierfür ist die Anlage und Hinterlegung einer entsprechenden Aufgabenvorlage.
 
 ![Zuweisung Aufgabenvorlage](<img/image184.png>)
