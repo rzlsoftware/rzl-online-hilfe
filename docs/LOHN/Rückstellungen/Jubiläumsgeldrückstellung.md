@@ -4,9 +4,9 @@ Die Rückstellung der Jubiläumsgelder für Dienstnehmerjubiläen wird im Menüp
 
 ![Image](<img/image264.png>){width="500"}
 
-Im Eingabebereich *Basis für Jubiläumsgeldrückstellung* ist festzulegen, wie die Basis für die Rückstellung gebildet werden soll. In den Monatsbezug wird vom Programm von den vorgegebenen Lohnarten der Bruttolohn, die Stundenlöhne, die Erschwerniszulage, eventuelle Auslandseinkünfte, die Überstunden, Mehrstunden, sowie die Überstundenpauschale miteinbezogen.
+Im Eingabebereich *Basis für Jubiläumsgeldrückstellung* ist festzulegen, wie die Basis für die Rückstellung gebildet werden soll. In den Monatsbezug wird vom Programm von den vorgegebenen Lohnarten der Bruttolohn, die Stundenlöhne, die Erschwerniszulage, eventuelle Auslandseinkünfte, die Überstunden, Mehrstunden sowie die Überstundenpauschale miteinbezogen.
 
-Wird das Auswahlfeld *Ausdruck detailliert* aktiviert, dann wird pro Dienstnehmer die Berechnung jedes einzelnen Jubiläumsgeldes extra angeführt. Wird das Feld *Aufteilung nach Kostenstellen* angehakt, kann die Rückstellung getrennt nach Kostenstellen ausgegeben werden. Wenn die Dienstnehmer nach Auswahlkriterium sortiert werden sollen, dann aktivieren Sie *DN nach Auswahlkriterium sortiert*.
+Wird das Auswahlfeld *Ausdruck detailliert* aktiviert, dann wird pro Dienstnehmer die Berechnung jedes einzelnen Jubiläumsgeldes gesondert angeführt. Wird das Feld *Aufteilung nach Kostenstellen* angehakt, kann die Rückstellung getrennt nach Kostenstellen ausgegeben werden. Wenn die Dienstnehmer nach einem Auswahlkriterium sortiert werden sollen, dann aktivieren Sie *DN nach Auswahlkriterium sortiert*.
 
 Sollen auch Dienstnehmer in die Berechnung der Rückstellung miteinbezogen werden, die kürzer als 6 Monate im Unternehmen sind, dann aktivieren Sie das Häkchen *inkl. Eintritt der letzten 6 Monate*.
 
@@ -20,7 +20,7 @@ Sind die entsprechenden Eintragungen vorgenommen, kehrt man durch Anwahl der Sch
 
 ![Image](<img/image266.png>)
 
-Durch Anwahl des Feldes *ausgetretene Dienstnehmer nicht anzeigen* werden ausgetretene Dienstnehmer in der Liste nicht mehr angezeigt.
+Durch Anwahl des Feldes *ausgetretene Dienstnehmer nicht anzeigen* werden diese Dienstnehmer in der Liste nicht mehr angezeigt.
 
 !!! info "Tipp"
     Durch Anwahl der *F3-Taste* können einzelne Dienstnehmer von der Rückstellungsberechnung ausgenommen werden.
@@ -31,7 +31,7 @@ Im Eingabefeld *Eintritt* wird das im Abrechnungsbildschirm *Eintritt* eingegebe
 
 **Pension**
 
-Das Feld Pension zeigt den Zeitpunkt des Pensionsantrittes des jeweiligen Dienstnehmers an. Das Programm ermittelt diesen Zeitpunkt automatisch aufgrund des Geburtsdatums und des im Eingabebildschirm *Details* festgelegten Pensionsalters. Ein eigenes Datum ist daher nur im Falle eines abweichenden Pensionsbeginnes einzugeben.
+Das Feld Pension zeigt den Zeitpunkt des Pensionsantritts des jeweiligen Dienstnehmers an. Das Programm ermittelt diesen Zeitpunkt automatisch aufgrund des Geburtsdatums und des im Eingabebildschirm *Details* festgelegten Pensionsalters. Ein eigenes Datum ist daher nur im Falle eines abweichenden Pensionsbeginns einzugeben.
 
 **Vordienstzeiten**
 
@@ -43,13 +43,13 @@ Hier wird die Anzahl der Monate, um die der Anspruch für die Jubiläumsgeldrüc
 
 **Basis**
 
-Das Eingabefeld *Bezug* zeigt den für die Berechnung der Jubiläumsgeldrückstellung maßgeblichen Bezug an. Der angezeigte Betrag ist abhängig von der Einstellung im Ausdruckdialog, das sind entweder der letzte Monatsbezug oder die entsprechenden Durchschnittswerte. 
+Das Eingabefeld *Bezug* zeigt den für die Berechnung der Jubiläumsgeldrückstellung maßgeblichen Bezug an. Der angezeigte Betrag ist abhängig von der Einstellung im Ausdruckdialog, dies sind entweder der letzte Monatsbezug oder die entsprechenden Durchschnittswerte. 
 
 Dieser Wert wird bei jedem Aufruf bzw. Ausdruck neu berechnet. Wird ein abweichender Betrag manuell eingegeben, wird dies durch ein Sternchen (\*) vor dem Feld *Betrag* angezeigt. Bei der Eingabe abweichender Beträge bleibt dieser erhalten und wird nicht bei einem neuerlichen Aufruf neu berechnet.
 
 **Lohn-Nebenkosten**
 
-In diesem Eingabefeld werden die Lohnnebenkosten in Prozent angezeigt. Vom Programm wird automatisch der mittels der Schaltfläche *Detail* hinterlegte Prozentsatz angezeigt. Dieser Prozentsatz kann falls notwendig auch manuell korrigiert werden.
+In diesem Eingabefeld werden die Lohnnebenkosten in Prozent angezeigt. Vom Programm wird automatisch der mittels der Schaltfläche *Detail* hinterlegte Prozentsatz angezeigt. Dieser Prozentsatz kann, falls notwendig, auch manuell korrigiert werden.
 
 **Jährl. Anspr. SZ**
 
@@ -57,16 +57,16 @@ Für die Ermittlung der Nebenkosten kann die Anzahl der Sonderzahlungen oder der
 
 **SZ berücksichtigt**
 
-Durch dieses Feld wird bestimmt wieviel von der Sonderzahlungshöchstbemessungsgrundlage bereits durch normale Sonderzahlungen verbraucht wurde. Der zeitliche Anfall des Jubiläumsgeldes wird dabei die maßgebliche Höhe der Nebenkosten beeinflussen.
+Durch dieses Feld wird bestimmt, wie viel von der Sonderzahlungshöchstbemessungsgrundlage bereits durch normale Sonderzahlungen verbraucht wurde. Der zeitliche Anfall des Jubiläumsgeldes beeinflusst dabei die maßgebliche Höhe der Nebenkosten.
 
 !!! info "Tipp"
     Wurden in den Eingabefeldern *Pension, Basis* oder *Lohnnebenkosten* abweichende Eintragungen vorgenommen, so wird durch Anwahl der *F2-Taste* der ursprünglich eingetragene bzw. vom Programm errechnete Wert eingetragen.
 
 ## Aufruf Berechnungsblatt Jubiläumsgeldrückstellung
 
-Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung von diesem ausgewählten Dienstnehmer.
+Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung für diesen ausgewählten Dienstnehmer.
 
-A![Image](<img/image267.png>)
+![Image](<img/image267.png>)
 
 !!! info "Tipp"
     Durch Anwahl *++* öffnen sich alle Bereiche. Mit *- -* schließen sich wieder alle Bereiche. Mit *+* wird nur dieser eine Bereich geöffnet. Mit *–* nur dieser eine Bereich geschlossen.

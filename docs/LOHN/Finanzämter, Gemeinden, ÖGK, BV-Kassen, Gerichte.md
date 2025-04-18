@@ -3,7 +3,7 @@
 Wurden die *Behördendateien* in der *ZMV* im Menüpunkt *Allgemeine Dateien / Installieren* installiert, stehen sowohl sämtliche Finanzämter, Gesundheitskassen, Gemeinden, BV-Kassen und Gerichte Österreichs, laut der offiziellen Liste, zur Verfügung. Bei den einzelnen Behörden müssen nur mehr die jeweiligen Bankverbindungen ergänzt werden.
 
 !!! warning "Hinweis"
-    Die Behörden-Datei darf in der *ZMV* nur einmal installiert werden. Bei einer nochmaligen Installation gehen die Eintragungen des Anwenders verloren.
+    Die Behörden-Datei darf in der *ZMV* nur **einmal** installiert werden. Bei einer nochmaligen Installation gehen die Eintragungen des Anwenders verloren.
 
 ## Anlegen der Bankverbindungen
 
@@ -23,7 +23,7 @@ Bei der Neuinstallation werden sämtliche Gemeinden mit der fünfstelligen Gemei
 
 Speziell wenn Lohnverrechnungsklienten übernommen werden, kann es aus Zeitgründen Sinn machen eine Gemeinde über eine lfd. Nummer oder die Postleitzahl nochmals anzulegen. In diesem Fall muss der verwendeten lfd. Nummer aber die Gemeindekennziffer zugeordnet werden.
 
-Die Bankverbindungen der Gemeinden sind in der Behördendatei nicht enthalten und müssen im Registerblatt Bankverbindung manuell angelegt werden.
+Die Bankverbindungen der Gemeinden sind in der Behördendatei **nicht enthalten** und müssen im Registerblatt Bankverbindung manuell angelegt werden.
 
 !!! info "Tipp"
     Um die Kommunalsteuererklärung ohne Probleme erstellen zu können, muss die in der Behördendatei verwendete Nummer mit jener in den Dienstgeberstammdaten, sowie ggf. mit der abweichenden Einstellung beim Dienstnehmer übereinstimmen.

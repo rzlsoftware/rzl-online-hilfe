@@ -6,18 +6,17 @@ Im Menüpunkt *Stamm / Klient / Details Rückstellungen (1), Details Rückstellu
 
 ![Image](<img/image250.png>){width="500"}
 
-
 **Rechnungszinssatz**
 
 Das Feld *Rechnungszinssatz* ermöglicht die Eingabe eines Prozentsatzes mit bis zu 2 Kommastellen (negative Zinssätze sind möglich). Für die unterschiedlichen Rückstellungsarten wird es daher nötig sein, die Rechnungszinssätze über dieses Feld zu adaptieren.
 
 **Pensionsalter Männer, Frauen**
 
-Das Pensionsantrittsalter wird sich normalerweise nach der aktuellen Gesetzeslage richten. Das durchschnittliche Pensionsalter nach den statistischen Unterlagen des Unternehmens oder der Pensionsversicherungsanstalten oder bei einzelvertraglicher Regelung der vertragliche Zeitpunkt kommen ebenfalls in Betracht.
+Das Pensionsantrittsalter wird sich normalerweise nach der aktuellen Gesetzeslage richten. Das durchschnittliche Pensionsalter nach den statistischen Unterlagen des Unternehmens oder der Pensionsversicherungsanstalten oder bei einzelvertraglicher Regelung der vertragliche Zeitpunkt kommt ebenfalls in Betracht.
 
 **Gesetzliches Pensionsalter verwenden**
 
-Wird dieses Auswahlfeld aktiviert, dann wird die schrittweise Erhöhung des Mindestpensionsalters für Frauen automatisch berücksichtigt. Die Berücksichtigung erfolgt bis zum Pensionsalter das in den Feldern Pensionsalter (max.) für Männer und Frauen eingetragen ist. Das Feld Pensionsalter darf daher trotzdem nicht auf null belassen werden.
+Wird dieses Auswahlfeld aktiviert, dann wird die schrittweise Erhöhung des Mindestpensionsalters für Frauen automatisch berücksichtigt. Die Berücksichtigung erfolgt bis zum Pensionsalter, das in den Feldern Pensionsalter (max.) für Männer und Frauen eingetragen ist. Das Feld Pensionsalter darf daher trotzdem nicht auf null belassen werden.
 
 **Fluktuationsabschläge**
 
@@ -81,7 +80,6 @@ Wird das Auswahlfeld *Berechnung Einheitswert* aktiviert, dann erfolgt die separ
 
 ![Image](<img/image252.png>){width="500"}
 
-
 **Berechnung laut Erlass**
 
 Ohne die Option bringt das Programm den unternehmensrechtlichen Ansatz für die Jubiläumsgelder zur Anwendung. Wird das Auswahlfeld *Berechnung lt. Erlass* aktiviert, so ist das Ergebnis der steuerliche Wert der Rückstellung. Es werden vom Programm 25 % Fluktuationsabschlag und anschließend ein Gegenwartsverfahren-Abschlag von 10 % vorgenommen.
@@ -96,7 +94,7 @@ Wird dieses Auswahlfeld aktiviert, werden automatisch die aktuellen Lohnnebenkos
 
 **DG-Abgabe (Geringfügig.) berücksichtigen**
 
-Die Aktivierung dieses Feld bewirkt die Berücksichtigung der pauschalen Dienstgeberabgabe, wenn geringfügig Beschäftigte abgerechnet werden. D. h. der Nebenkostenprozentsatz wird dadurch um 16,4 % erhöht. Wird das Feld nicht aktiviert, wird nur der Unfallversicherungsbeitrag berücksichtigt.
+Die Aktivierung dieses Feldes bewirkt die Berücksichtigung der pauschalen Dienstgeberabgabe, wenn geringfügig Beschäftigte abgerechnet werden. D. h. der Nebenkostenprozentsatz wird dadurch um 16,4 % erhöht. Wird das Feld nicht aktiviert, wird nur der Unfallversicherungsbeitrag berücksichtigt.
 
 **Abweichende Nebenkosten Arbeiter, Angestellte**
 
@@ -116,14 +114,13 @@ Als aufzuschlagende Nebenkosten bleiben dann nur noch jene Beiträge, die nicht 
 
 ![Image](<img/image253.png>){width="500"}
 
-
 **Automatische Ermittlung der Lohnnebenkosten**
 
 Wird dieses Auswahlfeld aktiviert, werden automatisch die aktuellen Lohnnebenkostensätze lt. Programm für die Berechnung der Zeitausgleichsrückstellung herangezogen.
 
 **DG-Abgabe (Geringfügig.) berücksichtigen**
 
-Die Aktivierung dieses Feld bewirkt die Berücksichtigung des Pauschalen Dienstgeberbeitrages, wenn geringfügig Beschäftigte abgerechnet werden. D. h. der Nebenkostenprozentsatz wird dadurch um 16,4 % erhöht. Wird das Feld nicht aktiviert, wird nur der Unfallversicherungsbeitrag berücksichtigt.
+Die Aktivierung dieses Feldes bewirkt die Berücksichtigung des Pauschalen Dienstgeberbeitrages, wenn geringfügig Beschäftigte abgerechnet werden. D. h. der Nebenkostenprozentsatz wird dadurch um 16,4 % erhöht. Wird das Feld nicht aktiviert, wird nur der Unfallversicherungsbeitrag berücksichtigt.
 
 **Abweichende Nebenkosten Arbeiter, Angestellte**
 
@@ -137,7 +134,7 @@ Sie können hier für die vier Zeitausgleichskarteien eine Bezeichnung hinterleg
 
 **Rückstellung nach Zeitpunkt der SZ berechnen – Sonderzahlungsrückstellung**
 
-Wenn Sie dieses Feld aktivieren und die Sonderzahlungsmonate anhaken, wirkt sich dies nach Bilanzstichtag auf die abgegrenzten Beträge aus. Zudem wird über diese Option verhindert, dass im Falle von Prämienlohnarten mit der *Lst-Pflichtigkeit 2* die Ermittlung der Rückstellung verfälscht wird.
+Wenn Sie dieses Feld aktivieren und die Sonderzahlungsmonate anhaken, wirkt sich dies nach dem Bilanzstichtag auf die abgegrenzten Beträge aus. Zudem wird über diese Option verhindert, dass im Falle von Prämienlohnarten mit der *Lst-Pflichtigkeit 2* die Ermittlung der Rückstellung verfälscht wird.
 
 !!! info "Tipp"
     Diese Stammdaten können bei jeder einzelnen Rückstellung im Bearbeitungsdialog mit Hilfe der Schaltfläche *Detail* aufgerufen und bearbeitet werden. Die Dialoge, die direkt den einzelnen Rückstellungen zugeordnet sind, enthalten jeweils die für die jeweilige Rückstellung relevanten Felder.

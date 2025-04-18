@@ -6,7 +6,7 @@ Sollte bei einem Dienstnehmer die monatliche Abrechnung nicht mehr aufgerufen we
 
 ## Repair Beschäftigungsverhältnis (Voll/teilzeit)
 
-Auf dem Lohnzettel, der an das Finanzamt übersendet wird, wird als Beschäftigungsverhältnis entweder Vollzeit- oder Teilzeitbeschäftigt angedruckt. Am Lohnzettel wird vom Programm die „überwiegende“ Einstellung angedruckt. Wenn ein Dienstnehmer 5 Monate Teilzeit und 7 Monate Vollzeit abgerechnet wurde, wird am Lohnzettel Vollbeschäftigung angedruckt.
+Auf dem Lohnzettel, der an das Finanzamt übersendet wird, wird als Beschäftigungsverhältnis entweder Vollzeit- oder Teilzeitbeschäftigt angedruckt. Am Lohnzettel wird vom Programm die „überwiegende“ Einstellung angedruckt. Wenn ein Dienstnehmer 5 Monate Teilzeit und 7 Monate Vollzeit abgerechnet wurde, wird am Lohnzettel *Vollbeschäftigung* angedruckt.
 
 Wurde dieser Einstellung während des Jahres keine Beachtung geschenkt, so kann hier ein Repair durchgeführt werden.
 
@@ -33,7 +33,7 @@ In diesem Repair erfolgt eine neuerliche Aufsummierung der monatlichen Bemessung
 
 ## Repair Gemeindenummern anpassen
 
-Mit diesem Repair können die Gemeinenummern angepasst werden.
+Mit diesem Repair können die Gemeindenummern angepasst werden.
 
 ## Repair Reports löschen
 

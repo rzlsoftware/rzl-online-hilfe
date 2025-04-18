@@ -7,4 +7,4 @@ Im Registerblatt *Klienten* werden zunächst jene Klienten aktiviert, für die d
 ![Image](<img/image248.png>){width="500"}
 
 
-Im Registerblatt *Jahresübernahme* können dieselben Optionen wie bei der Jahresübernahme innerhalb des Klienten angewählt werden. Eine Liste mit den Namen der Dienstnehmer wird allerdings nicht angezeigt.
+Im Registerblatt *Jahresübernahme* können dieselben Optionen wie bei der Jahresübernahme innerhalb eines Klienten angewählt werden. Eine Liste mit den Namen der Dienstnehmer wird allerdings nicht angezeigt.

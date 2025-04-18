@@ -2,30 +2,30 @@
 
 ## Das Mengengerüst
 
-Das *Mengengerüst* sollte immer den tatsächlichen Anforderungen des jeweiligen Klienten entsprechen, damit nicht unnötig Speicherplatz auf der Festplatte reserviert wird. Änderungen des Mengengerüstes während des Arbeitens in der Lohnverrechnung werden über den Menüpunkt *Klient */ *Vergrößern/Verkleinern* vorgenommen.
+Das *Mengengerüst* sollte immer den tatsächlichen Anforderungen des jeweiligen Klienten entsprechen, damit nicht unnötig Speicherplatz auf der Festplatte belegt wird. Änderungen am Mengengerüst während der Arbeit in der Lohnverrechnung werden über den Menüpunkt *Klient / Vergrößern/Verkleinern* vorgenommen.
 
 ![Image](<img/image245.png>){width="500"}
 
 ## Klient komprimieren/dekomprimieren
 
-Durch das Komprimieren braucht der Klient nur mehr 20 – 30 % des ursprünglichen Platzes auf dem Speichermedium.
+Durch das Komprimieren benötigt der Klient nur noch etwa 20 – 30 % des ursprünglichen Speicherplatzes.
 
-Nach Anwahl des Menüpunktes *Klient / Verwaltung / Komprimieren* besteht die Möglichkeit, entweder *Komprimieren* oder *Dekomprimieren* auszuwählen und anschließend nach Eingabe der Klientennummer den gewünschten Klienten zu komprimieren bzw. zu dekomprimieren.
+Nach Anwahl des Menüpunktes *Klient / Verwaltung / Komprimieren* kann zwischen *Komprimieren* und *Dekomprimieren* gewählt werden. Nach Eingabe der Klientennummer wird der gewünschte Klient entsprechend verarbeitet.
 
-Durch Drücken der Schaltfläche *Erweitert* werden sämtliche Lohn-Klienten aufgelistet. Nach Auswahl der betreffenden Klienten mit dem *Cursor* und Aktivierung mit der *Leertaste* bzw. durch Anklicken der Rechtecke direkt mit der Maus, werden wiederum über die Schaltfläche *Komprimieren* oder *Dekomprimieren* alle ausgewählten Klienten in einem Schritt bearbeitet.
+Über die Schaltfläche *Erweitert* werden alle Lohn-Klienten aufgelistet. Die gewünschten Klienten können mit dem *Cursor* ausgewählt und mit der *Leertaste* oder per Mausklick aktiviert werden. Mit *Komprimieren* oder *Dekomprimieren* werden alle ausgewählten Klienten in einem Schritt bearbeitet.
 
 !!! warning "Hinweis"
     Komprimierte Klienten werden beim Öffnen automatisch dekomprimiert. Es wird empfohlen, die Daten des zweitvergangenen Jahres auf der Festplatte zu komprimieren.
 
 ## Klienten sichern
 
-Durch Anwahl des Menüpunktes *Klient* / *Verwaltung* / *Sichern* wird die Sicherung des Klienten ermöglicht. Durch Anwählen der Schaltfläche *Erweitert* besteht in diesem Dialog die Möglichkeit, gleichzeitig mehrere Klienten zu sichern.
+Durch Anwahl des Menüpunktes *Klient* / *Verwaltung* / *Sichern* kann ein Klient gesichert werden. Über die Schaltfläche *Erweitert* besteht die Möglichkeit, mehrere Klienten gleichzeitig zu sichern.
 
-Die Einstellung auf welchen Datenordner (Festplatte, u. ä.) gesichert werden soll, wird im Menüpunkt *Hilfsmittel / Einstellungen / Datenordner* festgelegt. Dieser kann selbst hinterlegt oder manuell ausgewählt werden.
+Die Einstellung, auf welchen Datenordner (Festplatte, u. Ä.) gesichert werden soll, wird im Menüpunkt *Hilfsmittel / Einstellungen / Datenordner* festgelegt. Dieser kann selbst hinterlegt oder manuell ausgewählt werden.
 
 ## Klient hereinspielen
 
-Der Menüpunkt *Klient / Verwaltung / Hereinspielen* ermöglicht das Hereinspielen von Lohn-Klienten auf den Rechner. Befinden sich auf dem Speichermedium mehrere Klienten, so werden wiederum durch Betätigung der Schaltfläche *Erweitert* alle darauf befindlichen Klienten angezeigt. Durch Aktivierung der gewünschten Klienten mittels *Leertaste* oder *Maus* und Drücken der Schaltfläche *Hereinspielen* werden diese gleichzeitig hereingespielt.
+Der Menüpunkt *Klient / Verwaltung / Hereinspielen* ermöglicht das Einspielen von Lohn-Klienten auf den Rechner. Befinden sich auf dem Speichermedium mehrere Klienten, so werden wiederum durch Betätigung der Schaltfläche *Erweitert* alle darauf befindlichen Klienten angezeigt. Durch Aktivierung der gewünschten Klienten mittels *Leertaste* oder *Maus* und Drücken der Schaltfläche *Hereinspielen* werden diese gleichzeitig hereingespielt.
 
 ## Klient sperren/freigeben
 
@@ -52,11 +52,11 @@ Auch der Dialog *Klient löschen* beinhaltet durch die Schaltfläche *Erweitert*
 
 ## (Klient) Mit E-Mail senden
 
-Der Programmteil *Klient / Verwaltung / Mit E-Mail versenden* ermöglicht die Versendung eines oder mehrerer Klienten (durch Anwahl der Schaltfläche *Erweitert*) per E-Mail. Die Daten-Dateien der Klienten werden automatisch in das zu versendende E-Mail als Anlagen eingetragen und es sind nur mehr die Empfängeradresse und eventuelle Bemerkungen einzutragen.
+Der Programmteil *Klient / Verwaltung / Mit E-Mail versenden* ermöglicht die Versendung eines oder mehrerer Klienten (durch Anwahl der Schaltfläche *Erweitert*) per E-Mail. Die Daten-Dateien der Klienten werden automatisch in das zu versendende E-Mail als Anlagen eingetragen und es müssen nur noch die Empfängeradresse und eventuelle Bemerkungen eingetragen werden.
 
 !!! info "Tipp"
-    Bezüglich der Vorgehensweise beim Erhalt von Daten per E-Mail siehe unter *Hilfe / Handbuch / Zentrale Mandantenverwaltung* Kapitel 8 Versenden und Erhalten von Dateien per E-Mail.
+    Bezüglich der Vorgehensweise beim Erhalt von Daten per E-Mail siehe unter *Hilfe / Handbuch / Zentrale Mandantenverwaltung*.
 
 ## Erhalt einer Sicherung mit E-Mail
 
-Siehe Handbuch *ZMV* im Programmteil *Hilfe / Handbuch / Zentrale Mandantenverwaltung* Kapitel 8 Versenden und Erhalten von E-Mail Dateien.
+Siehe Handbuch *ZMV* im Programmteil *Hilfe / Handbuch / Zentrale Mandantenverwaltung*.
