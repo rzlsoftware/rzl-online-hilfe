@@ -4,11 +4,11 @@ Wenn außerhalb der Lohnverrechnung bereits Exekutionsbeträge beim Dienstnehmer
 
 ![Image](<img/image321.png>){width="500"}
 
-Zunächst ist die Dienstnehmernummer, für die nacherfasst werden soll, einzutragen. Eine Nacherfassung setzt voraus, dass für diesen Dienstnehmer bereits eine Exekution im Programmteil *Stamm / Exekutionen* angelegt ist. Die Pfändung für die, die Nacherfassung stattfinden soll, ist im ersten Listenfeld anzuwählen.
+Zunächst ist die Dienstnehmernummer, für die nacherfasst werden soll, einzutragen. Eine Nacherfassung setzt voraus, dass für diesen Dienstnehmer bereits eine Exekution im Programmteil *Stamm / Exekutionen* angelegt ist. Die Pfändung, für die die Nacherfassung stattfinden soll, ist im ersten Listenfeld anzuwählen.
 
 **Monat/Jahr**
 
-Eintragung des Zeitraumes für den in den nachfolgenden Feldern die Erfassung gemacht werden soll. Es kann rückwärts nur bis zu dem in der Exekution eingetragenen Einlangungszeitpunkt nacherfasst werden.
+Eintragung des Zeitraums, für den in den nachfolgenden Feldern die Erfassung gemacht werden soll. Es kann rückwärts nur bis zu dem in der Exekution eingetragenen Einlangungszeitpunkt nacherfasst werden.
 
 **Exekutions-(Teil)betrag**
 

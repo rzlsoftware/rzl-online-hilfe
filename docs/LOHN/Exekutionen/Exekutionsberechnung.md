@@ -10,7 +10,7 @@ Im unteren rechten Bereich des Bildschirmes sind die freien Lohnarten für die E
 
 **unpfändbar**
 
-Soll die freie Lohnart als nicht pfändbar behandelt werden (z. B. Reisekosten frei), ist dieses Feld zu aktiveren.
+Soll die freie Lohnart als nicht pfändbar behandelt werden (z. B. Reisekosten frei), ist dieses Feld zu aktivieren.
 
 **SZ für Exekution**
 
@@ -22,7 +22,7 @@ Beendigungsansprüche (Abfertigungen, Urlaubsersatzleistungen), die als freie Lo
 
 **Aktivierung bzw. Eintragung der Unterhaltsberechtigten**
 
-Die Anzahl der Unterhaltsberichtigten wird aus dem Abrechnungsbildschirm *Stammdaten* *Dienstnehmer* aus den Bereichen *Ehepartner* und *Kinder* übernommen, wenn dort das Feld *Unterhalt* aktiviert wird.
+Die Anzahl der Unterhaltsberechtigten wird aus dem Abrechnungsbildschirm *Stammdaten* *Dienstnehmer* aus den Bereichen *Ehepartner* und *Kinder* übernommen, wenn dort das Feld *Unterhalt* aktiviert wird.
 
 ![Image](<img/image315.png>){width="500"}
 

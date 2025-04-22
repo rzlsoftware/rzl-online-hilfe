@@ -1,6 +1,8 @@
-# Drittschuldner-Erklärung
+# Drittschuldnererklärung
 
-Im Programmteil *Stamm / Exekutionen* werden im Wesentlichen die Eintragungen für die Drittschuldnererklärung vorgenommen. Als erster Schritt ist die Dienstnehmernummer, für die die Eintragungen vorgenommen werden sollen, einzutragen.
+Im Bereich *Stamm / Exekutionen* werden die Angaben für die Drittschuldnererklärung erfasst. Zuerst muss die Dienstnehmernummer eingegeben werden.
+
+Als erster Schritt ist die Dienstnehmernummer, für die die Eintragungen vorgenommen werden sollen, einzutragen.
 
 ## Registerblatt Exekutionssache
 
@@ -22,7 +24,7 @@ In der Behörden-Datei im Programmteil *Klient / Finanzämter/Gemeinden/ÖGK/BV-
 
 **Private Pfändung – Verpfändungsgläubiger**
 
-Eintragungen in das Feld *Verpfändungsgläubiger* sind notwendig, wenn die Forderung wegen der Reihung angemeldet wird, aber noch keine Exekutionsberechnung erfolgen soll (Absicherung eines Bankkredits). Diese Eintragung muss, wenn tatsächlich noch kein Abzug eines Exekutionsbetrages erfolgen soll, durch Anwahl der Schaltfläche *Sperren* gesperrt werden.
+Eintragungen in das Feld *Verpfändungsgläubiger* sind notwendig, wenn die Forderung wegen der Reihung angemeldet wird, aber noch keine Exekutionsberechnung erfolgen soll (zur Absicherung eines Bankkredits). Diese Eintragung muss, wenn tatsächlich noch kein Abzug eines Exekutionsbetrages erfolgen soll, durch Anwahl der Schaltfläche *Sperren* gesperrt werden.
 
 **Unterhaltsexekution**
 
@@ -36,7 +38,7 @@ Im Feld *davon Kapitalforderung* können Sie die Höhe der (Kapital-)Forderung, 
 
 **Nachforderungen … ab**
 
-Hier werden Forderungen, die nach dem Einlangungszeitpunkt geltend gemacht werden (z. B. Zinsen), mit Betrag und Datum eingetragen. Die Datumseingabe ist nicht für die Rangreihenfolge notwendig, hier zählt der Einlangungszeitpunkt, für die erstmalige Berücksichtigung im Rahmen der Exekution.
+Hier werden Forderungen, die nach dem Einlangungszeitpunkt geltend gemacht werden (z. B. Zinsen), mit Betrag und Datum eingetragen. Die Eingabe des Datums ist nicht für die Rangreihenfolge notwendig, hier zählt der Einlangungszeitpunkt für die erstmalige Berücksichtigung im Rahmen der Exekution.
 
 ## Registerblatt Betreiber 1/2
 
@@ -44,7 +46,7 @@ In diesen Registerblättern sind die Daten des Betreibers (Gläubigers) und even
 
 Im Fall von Unterhaltsforderungen können mehrere Parteien mit den Daten des Vertreters eingetragen werden.
 
-Im Feld *Anmerkung* können Einträge gemacht werden, die wenn zusätzlich das Feld *Anmerkung auf Überweisung* aktiviert ist, als Information (Verwendungszweck) bei den Überweisungen verwendet werden.
+Im Feld *Anmerkung* können Einträge gemacht werden die, wenn zusätzlich das Feld *Anmerkung auf Überweisung* aktiviert ist, als Information (Verwendungszweck) bei den Überweisungen verwendet werden.
 
 ## Registerblatt Drittschuldner-Erklärung (1)
 
@@ -52,8 +54,8 @@ Im Feld *Anmerkung* können Einträge gemacht werden, die wenn zusätzlich das F
 
 Hier wird festgelegt, ob der Drittschuldner (Dienstgeber) dem Verpflichteten (Schuldner = Dienstnehmer) Entgelt schuldet oder nicht.
 
-Die Forderung ist **nicht begründet**, wenn beispielsweise das Dienstverhältnis mit dem Dienstnehmer nicht mehr besteht. Ist das Dienstverhältnis aufrecht, ist die Höhe der Forderung, der durchschnittliche Nettobezug, einzutragen. Durch Anwahl der *F2-Taste* wird der Nettobezug des zuletzt abgerechneten Monats automatisch eingetragen. Wenn Sie jedoch einen rechten Mausklick in das Feld *Höhe der Forderung* machen, können Sie zwischen einem Vorschlag mit *3-monatigem* bzw. *12-monatigem Schnitt* auswählen. Weitere Forderungen, wie Sonderzahlungen und Prämien sind ebenfalls mit dem
-durchschnittlichen Nettowert als Gesamtbetrag einzutragen. Die hier vorgenommenen Eintragungen beeinflussen die Exekutionsberechnung nicht, sondern sind Bestandteil der Drittschuldnererklärung.
+Die Forderung ist **nicht mehr gegeben**, wenn beispielsweise das Dienstverhältnis mit dem Dienstnehmer nicht mehr besteht. Ist das Dienstverhältnis aufrecht, ist die Höhe der Forderung, der durchschnittliche Nettobezug, einzutragen. Durch Anwahl der *F2-Taste* wird der Nettobezug des zuletzt abgerechneten Monats automatisch eingetragen. Wenn Sie jedoch einen rechten Mausklick in das Feld *Höhe der Forderung* machen, können Sie zwischen einem Vorschlag mit *3-monatigem* bzw. *12-monatigem Schnitt* auswählen. Weitere Forderungen, wie Sonderzahlungen und Prämien sind ebenfalls mit dem
+durchschnittlichen Nettobetrag als Gesamtbetrag einzutragen. Die hier vorgenommenen Eintragungen beeinflussen die Exekutionsberechnung nicht, sondern sind Bestandteil der Drittschuldnererklärung.
 
 **Unterhaltspflicht**
 
@@ -75,7 +77,7 @@ Klagt der Dienstnehmer auf Zahlung der Bezüge, ist hier eine Eintragung vorzune
 
 **Keine Zahlungsbereitschaft**
 
-Liegt keine Zahlungsbereitschaft des Dienstgebers (Drittschuldners) vor, dann ist dieses Feld zu aktiveren und der Grund einzutragen (z. B. es existiert eine Gegenforderung oder eine Schadenersatzforderung).
+Liegt keine Zahlungsbereitschaft des Dienstgebers (Drittschuldners) vor, dann ist dieses Feld zu aktivieren und der Grund einzutragen (z. B. es existiert eine Gegenforderung oder eine Schadenersatzforderung).
 
 **Berechnung des unpfändbaren Freibetrags durch Verwalter**
 
