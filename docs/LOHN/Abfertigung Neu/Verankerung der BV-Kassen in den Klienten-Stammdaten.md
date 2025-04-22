@@ -6,7 +6,7 @@ Nach Anlage der BV-Kasse in den Stammdaten der Behörden, muss in den Stammdaten
 
 **BV-Kassenleitzahl**
 
-Die Verankerung der BV-Kasse erfolgt mittels der BV-Kassenleitzahl. Die in der Behörden-Datei angelegten BV-Kassen können im Feld *BV-Kassenleitzahl* durch Anwahl der *F2-Taste* angelegt werden.
+Die Verankerung der BV-Kasse erfolgt mittels der BV-Kassenleitzahl. Die in der Behörden-Datei angelegten BV-Kassen können im Feld *BV-Kassenleitzahl* durch Anwahl der *F2-Taste* ausgewählt werden.
 
 **Mehrere BV-Kassen**
 
@@ -18,4 +18,4 @@ Dieses Feld wird nur benötigt, wenn Zahlungen direkt an die BV-Kassen zu leiste
 
 **Mehrere BV-Kassen in einem Bundesland**
 
-Sollte dieser Ausnahmefall eintreten, erhält der Dienstgeber von der ÖGK verschiedene DG-Beitragsnummern. In diesem Fall sind die Dienstnehmer über Unterdienstgeber zu trennen. Über die Stammdaten der Unterdienstgeber können für ein Bundesland mehrere DG-Kontonummern und BV-Kassen geführt werden.
+Sollte dieser Ausnahmefall eintreten, erhält der Dienstgeber von der ÖGK verschiedene DG-Beitragsnummern. In diesem Fall sind die Dienstnehmer über Unterdienstgeber zu trennen. Über die Stammdaten dieser können für ein Bundesland mehrere DG-Kontonummern und BV-Kassen geführt werden.

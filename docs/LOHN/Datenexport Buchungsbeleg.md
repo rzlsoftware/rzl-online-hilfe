@@ -1,8 +1,8 @@
 # Datenexport Buchungsbeleg
 
-Die Anwahl des Programmteiles *Bearbeiten / Datenexport / Export Buchungsbeleg (RZL-Format)* ermöglicht die Erstellung einer Datei, die die Buchungen des Buchungsbeleges beinhaltet und die in das RZLWin-Finanzbuchhaltungsprogramm bzw. RZLWin-Einnahmen-Ausgaben-Programm importiert werden kann.
+Die Anwahl des Programmteiles *Bearbeiten / Datenexport / Export Buchungsbeleg (RZL-Format)* ermöglicht die Erstellung einer Datei, die die Buchungen des Buchungsbelegs beinhaltet und die in das RZLWin-Finanzbuchhaltungsprogramm bzw. RZLWin-Einnahmen-Ausgaben-Programm importiert werden kann.
 
-Voraussetzung für eine erfolgreiche Erstellung der Datei ist die Verankerung eines [Kanzleilohnkontenplanes](../LOHN/Klientenstammdaten/Stammdaten%20Klient/LA,%20Formeln,%20Texte,%20Kontenplan,%20Beiträge,%20Währung.md) in den Stammdaten des Klienten. Im Kanzleilohnkontenplan müssen die Aufwandskonten (Löhne, Gehälter, Überstunden, SV-AGA, KommST, usw.) vorkontiert werden. In den Stammdaten des Klienten sind die Verbindlichkeitskonten der einzelnen Behörden einzutragen.
+Voraussetzung für eine erfolgreiche Erstellung der Datei ist die Verankerung eines [Kanzleilohnkontenplans](../LOHN/Klientenstammdaten/Stammdaten%20Klient/LA,%20Formeln,%20Texte,%20Kontenplan,%20Beiträge,%20Währung.md) in den Stammdaten des Klienten. Im Kanzleilohnkontenplan müssen die Aufwandskonten (Löhne, Gehälter, Überstunden, SV-AGA, KommST, usw.) vorkontiert werden. In den Stammdaten des Klienten sind die Verbindlichkeitskonten der einzelnen Behörden einzutragen.
 
 ![Image](<img/image298.png>){width="500"}
 
@@ -17,7 +17,7 @@ Sind den Dienstnehmern einzelne [Buchungskreise](../LOHN/Abrechnungsbildschirme/
 !!! info "Hinweis"
     Bei dieser Ausdruckvariante wird jene Kontierung verwendet, die im Lohnkontenplan unter dem Buchungskreis *Null* festgelegt wurde.
 
-Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm [*Fixe Lohnarten*](../LOHN/Abrechnungsbildschirme/Fixe%20Lohnarten.md) im Bereich *BUAK* eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge verbucht werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
+Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm [*Fixe Lohnarten*](../LOHN/Abrechnungsbildschirme/Fixe%20Lohnarten.md) im Bereich *BUAK* eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge verbucht werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend erforderlich.
 
 Sollen Aufrolldifferenzen aus Vormonaten im laufenden Monat berücksichtigt werden, ist das Auswahlfeld *Aufrolldifferenzen im laufenden Monat* zu aktivieren. Wird das Auswahlfeld *ursprüngliche Werte verwenden* aktiviert, dann erfolgt die Ausgabe **vor** Aufrolldifferenzen (betrifft die aufgerollten Monate).
 
@@ -27,8 +27,6 @@ Das im Feld *Belegdatum* eingetragene Datum wird in der Finanzbuchhaltung als Bu
 
 In das Eingabefeld *Belegnummer* kann eine Nummer eingetragen werden, die in der Finanz­buchhaltung entsprechend verbucht wird.
 
-Im Feld *Offene Posten-Nummer* können Eintragungen für die Verbuchung der OP-Nummer (Sachkonten) gemacht werden. Es besteht die Möglichkeit, mit sogenannten Platzhaltern zu arbeiten. *0* bedeutet keinen Eintrag. Wenn einzelne Buchungskreise vorhanden sind, werden diese durch das Kürzel *BB* eingetragen. *MM* steht für das Buchungsmonat und *JJ* steht für das Buchungsjahr.
+Im Feld *Offene Posten-Nummer* können Eintragungen für die Verbuchung der OP-Nummer (Sachkonten) gemacht werden. Es besteht die Möglichkeit, mit sogenannten Platzhaltern zu arbeiten. *0* bedeutet keinen Eintrag. Wenn einzelne Buchungskreise vorhanden sind, werden diese durch das Kürzel *BB* angegeben. *MM* steht für das Buchungsmonat und *JJ* steht für das Buchungsjahr.
 
 In das Feld *Auswahl Export-Datei* sind der Pfad zur Export-Datei und die Bezeichnung der Export-Datei einzutragen oder über die Schaltfläche *Suchen* festzulegen.
-
-Bezüglich des Datenimportes in der Finanzbuchhaltung vgl. Handbuch Finanzbuchhaltung **Kapitel 29 Datenimport/Datenexport.**
