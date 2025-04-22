@@ -1,4 +1,4 @@
-# Elektronische Dienstgebererklärung
+# Elektronische Dienstgeberabgabeerklärung
 
 ## Erstellung der Übermittlungsdatei
 
@@ -43,11 +43,11 @@ Hier müssen Sie zunächst das zu übermittelnde Jahr bestimmen. Zudem ist es ü
 
 Wenn Sie auf *Senden* klicken, werden Sie über den Webbrowser auf die Homepage der Stadt Wien verbunden: [wien.gv.at](https://www.wien.gv.at/amtshelfer/finanzielles/rechnungswesen/abgaben/dienstgeberabgabe.html)
 
-Dorf befindet sich eine neue Schaltfläche *Dienstgeberabgabe-Erklärung – Massenupload*. Diesen Punkt auf der Homepage müssen Sie auch dann verwenden, wenn Sie die U-Bahn-Abgabe-Jahreserklärung nur für eine einzelne Firma vornehmen.
+Dort befindet sich eine neue Schaltfläche *Dienstgeberabgabe-Erklärung – Massenupload*. Diesen Punkt auf der Homepage müssen Sie auch dann verwenden, wenn Sie die U-Bahn-Abgabe-Jahreserklärung nur für eine einzelne Firma vornehmen.
 
 ![Image](<img/image339.png>){width="600"}
 
-In dem dann folgenden Dialog können Sie über *Datei auswählen*, die aus der RZL-Lohnverrechnung erstellte Datei, übernehmen.
+In dem dann folgenden Dialog können Sie über *Datei auswählen* die aus der RZL-Lohnverrechnung erstellte Datei übernehmen.
 
 ![Image](<img/image340.png>){width="600"}
 
