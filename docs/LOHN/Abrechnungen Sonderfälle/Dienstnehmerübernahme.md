@@ -1,14 +1,14 @@
 # Dienstnehmerübernahme
 
-In bestimmten Fällen, wie Insolvenzabrechnungen, AVRAG-Übernahmen, usw. ist es notwendig, Dienstnehmer von einem Klienten auf einen anderen zu überspielen. Nachdem die Vorgehensweise im Detail sehr stark vom Einzelfall abhängt, fertigen Sie ggf. einen Sicherungsstand an und kontaktieren Sie den RZL-Support.
+In bestimmten Fällen, wie Insolvenzabrechnungen, AVRAG-Übernahmen usw. ist es notwendig, Dienstnehmer von einem Klienten auf einen anderen zu überspielen. Nachdem die Vorgehensweise im Detail sehr stark vom Einzelfall abhängt, fertigen Sie ggf. einen Sicherungsstand an und kontaktieren Sie den RZL-Support.
 
 ## Anlage eines neuen Klienten bzw. bestehenden Klienten duplizieren
 
 Zunächst ist der Klient, auf den die Dienstnehmer übernommen werden sollen, neu anzulegen. Vor allem ist darauf zu achten, dass die verwendeten freien Lohnarten gleich sind.
 
-Nachdem in sehr vielen Fällen ein Naheverhältnis zwischen den Firmen bestehen wird und auch sehr viele Grunddaten identisch sein werden, empfiehlt sich, zur Zeitersparnis sehr häufig, stattdessen den bestehenden Klienten zu duplizieren. In der *ZMV* – *Zentralen Mandantenverwaltung* kann über den Menüpunkt *Klient / Nummer duplizieren / Erweitert* z. B. nur das Lohnverrechnungsjahr 2020 den Klienten Nummer 1 auf die Nummer 100 dupliziert werden.
+Nachdem in sehr vielen Fällen ein Naheverhältnis zwischen den Firmen bestehen wird und auch sehr viele Grunddaten identisch sein werden, empfiehlt sich zur Zeitersparnis häufig, stattdessen den bestehenden Klienten zu duplizieren. In der *ZMV* – *Zentralen Mandantenverwaltung* kann über den Menüpunkt *Klient / Nummer duplizieren / Erweitert* z. B. nur das Lohnverrechnungsjahr 2020 den Klienten mit der Nummer 1 auf die Nummer 100 dupliziert werden.
 
-Jene Details, die sich verändert haben, wie z. B. Wortlaut der Firma, Steuernummer, Beitragskontonummer sind über die *ZMV* oder das *RZL-Board* anzupassen.
+Jene Details, die sich verändert haben, wie z. B. der Wortlaut der Firma, die Steuernummer, die Beitragskontonummer sind über die *ZMV* oder das *RZL-Board* anzupassen.
 
 ## Übernahme der Dienstnehmer
 
@@ -28,7 +28,7 @@ Anschließend werden durch die Übernahme mit der Variante *Wiedereintritt,* NUR
 Die Vorbezüge aus dem alten Klienten bleiben dabei erhalten und finden in der Jahressechstelberechnung Berücksichtigung.
 
 !!! info "Tipp"
-    Die Variante der Übernahme mit Übernahme bei der nur die Stammdaten der Dienstnehmer im neuen Klienten benötigt werden, ist bei Insolvenzen, Umgründungen, usw. fast immer die sinnvollste Variante. Es ist zu beachten, dass am Jahresende sowohl aus dem alten Klienten, als auch dem neuen Klienten, ein L16 erstellt werden muss.
+    Die Variante der Übernahme mit Übernahme, bei der nur die Stammdaten der Dienstnehmer im neuen Klienten benötigt werden, ist bei Insolvenzen, Umgründungen, usw. fast immer die sinnvollste Variante. Es ist zu beachten, dass am Jahresende sowohl aus dem alten Klienten als auch dem neuen Klienten, ein L16 erstellt werden muss.
 
 **Vollständige Übernahme**
 
