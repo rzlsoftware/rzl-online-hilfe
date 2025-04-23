@@ -69,5 +69,6 @@ Vergleichen Sie die Versionsnummer mit den Release-Notes des Updates auf der Mic
 - Öffnen Sie SSMS, navigieren Sie zu Verwaltung > SQL Server-Protokolle.
 - Notieren Sie die installierte KB-Nummer und das Datum der Installation für zukünftige Referenzen.
 - Planen Sie regelmäßige Überprüfungen auf neue Cumulative Updates, da Microsoft diese in regelmäßigen Abständen veröffentlicht.
-Hinweise
-Sollten Probleme auftreten, können Sie das Update über Systemsteuerung > Programme und Features > Installierte Updates anzeigen deinstallieren und gegebenenfalls Ihren Systembetreuer kontaktieren.
+
+!!! node "Hinweis"
+    Sollten Probleme auftreten, können Sie das Update über **Systemsteuerung > Programme und Features > Installierte Updates anzeigen** deinstallieren und gegebenenfalls Ihren Systembetreuer kontaktieren.
