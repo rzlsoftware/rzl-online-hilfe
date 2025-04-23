@@ -15,7 +15,7 @@ Der Programmteil *Klient / Elektronische Übermittlung / BUAK Monatsmeldung abse
 
 ![Image](<img/image481.png>){width="500"}
 
-Die genau gleiche Vorgehensweise finden Sie unter *Bearbeiten / Elektronische Übermittlung / Elektronisch Urlaubsentgeltsmeldung* auch für die Urlaubsentgeltsmeldung.
+Dieselbe Vorgehensweise finden Sie unter *Bearbeiten / Elektronische Übermittlung / Elektronische Urlaubsentgeltsmeldung* auch für die Urlaubsentgeltsmeldung.
 
 !!! info "Tipp"
     Über den Punkt *Sende-Optionen* ist der Standardpfad für den BUAK Login hinterlegt. Falls sich durch die BUAK eine Änderung ergibt, können Sie den Pfad manuell anpassen oder nach unserem Update den neuen Standardpfad vorschlagen lassen.
@@ -24,7 +24,7 @@ Die genau gleiche Vorgehensweise finden Sie unter *Bearbeiten / Elektronische Ü
 
 Über den Link [*https://sp.buak.at/de/login/*](https://sp.buak.at/de/login/) wechseln Sie zunächst in Ihrem Browser zur Login-Seite für das BUAK-Portal. Nun müssen Sie sich mit den Zugangsdaten, die Sie von der BUAK erhalten haben, einloggen.
 
-Über den Button *Steuerberatungsportal oder. Firmenportal* und anschließend den Punkt *Meldungseingabe* können Sie die Option *Direktdaten* auswählen.
+Über den Button *Steuerberatungsportal oder Firmenportal* und anschließend den Punkt *Meldungseingabe* können Sie die Option *Direktdaten* auswählen.
 
 ![Image](<img/image482.png>)
 
@@ -35,7 +35,7 @@ Die genau gleiche Vorgehensweise finden Sie unter *Bearbeiten / Elektronische Ü
 Sie müssen den Vorgang mit *Daten verarbeiten* und schlussendlich mit der Freigabe des Betriebes abschließen.
 
 !!! info "Tipp"
-    Die Urlaubsentgeltsverrechnung steht zurzeit nur für Betriebe mit Treuhandkonto zur Verfügung.
+    Die Urlaubsentgeltverrechnung steht zurzeit nur für Betriebe mit Treuhandkonto zur Verfügung.
 
 ## Erstellung der BUAK-Austrittsmeldung
 
@@ -63,11 +63,11 @@ Die betroffene Datei können Sie hier auswählen und mit der Tastenkombination *
 
 ## Import BUAK-Rückmeldung
     
-Der Programmteil *Bearbeiten / Elektronische Übermittlung / Elektronische Monatsmeldung BUAK-Rückdatei importieren* können die XML-Dateien, die die BUAK zum Download zur Verfügung stellt, importiert werden.
+Im Programmteil *Bearbeiten / Elektronische Übermittlung / Elektronische Monatsmeldung BUAK-Rückdatei importieren* können die XML-Dateien, die die BUAK zum Download zur Verfügung stellt, importiert werden.
     
 ![Image](<img/image487.png>){width="500"}
         
-Im Feld *Importdatei* wählen Sie die XML-Datei an, die von der BUAK     gesendet wurde. Sie können die Zuschlagsverrechnungsliste beim Import durch Anwahl des Feldes *Zuschlagsverrechnungsliste drucken* oder innerhalb der Abrechnung der Dienstnehmer, durch Anwahl der Tastenkombination *Strg-Z,* aufrufen bzw. ausdrucken.
+Im Feld *Importdatei* wählen Sie die XML-Datei an, die von der BUAK gesendet wurde. Sie können die Zuschlagsverrechnungsliste beim Import durch Anwahl des Feldes *Zuschlagsverrechnungsliste drucken* oder innerhalb der Abrechnung der Dienstnehmer, durch Anwahl der Tastenkombination *Strg + Z,* aufrufen bzw. ausdrucken.
     
 Im Abrechnungsbildschirm *BUAK* werden im Bereich *Urlaubsentgelt-Verrechnung (nur bei vorhandenem Treuhandkonto)* der Monat der letzten Rückmeldung, die Offenen Urlaubstage und der Offene Anspruch angezeigt.
     

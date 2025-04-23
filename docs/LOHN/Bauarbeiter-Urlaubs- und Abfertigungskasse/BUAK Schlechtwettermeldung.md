@@ -12,7 +12,7 @@ Durch Anwahl der Schaltfläche *Neuer Antrag* kann ein neuer Antrag erstellt wer
 
 **Zeitraum**
 
-Hier wählen Sie das Monat aus, für welches der Antrag auf Schlechtwetterentschädigung gestellt werden soll.
+Hier wählen Sie das Monat aus, für den der Antrag auf Schlechtwetterentschädigung gestellt werden soll.
 
 **Betriebskennzeichen**
 
@@ -30,7 +30,7 @@ Hier muss der *Beginn* der Baustelle eingetragen werden. Dieses Datum kann natü
 
 Hier tragen Sie die *Postleitzahl*, den *Ort* und die genaue *Adresse* der Baustelle ein.
 
-Nach erstmaliger Speicherung der Baustelle, kann man diese durch Aufruf mit der *F2-Taste* im Feld *Bauvorhaben* auch für andere Anträge übernehmen.
+Nach erstmaliger Speicherung der Baustelle kann man diese durch Aufruf mit der *F2-Taste* im Feld *Bauvorhaben* auch für andere Anträge übernehmen.
 
 ![Image](<img/image490.png>){width="500"}
 
@@ -42,13 +42,13 @@ Durch Eingabe von *Suchbegriffen* können Sie nach einem bestimmten Bauvorhaben,
 
 Im zweiten Bereich können Sie jene Tage markieren, an welchen auf der Baustelle zehn *Schlechtwetter-Stunden* überschritten wurden, sowie die Tage, an denen *besondere Witterungsverhältnisse* die Arbeiten unmöglich gemacht haben.
 
-![Image](<img/image492.png>)
+![Image](<img/image492.png>){width="600"}
 
 Durch Anklicken eines Tages wird der Tag blau markiert und somit ausgewählt.
 
-Eine *Begründung* warum es zu einer Überschreitung kam bzw. welche witterungsbedingten Einschränkungen an dem Tag vorlagen, sollte auch angeführt werden.
+Eine *Begründung*, warum es zu einer Überschreitung kam bzw. welche witterungsbedingten Einschränkungen an dem Tag vorlagen, sollte auch angeführt werden.
 
-Ab 01.08.2024 können Sie die Hitzetage im BUAK Portal geltend machen. Aufgrund steigender Temperaturen und länger anhaltenden Hitzeperioden haben sich die Sozialpartner dazu verständigt, dass ab einer Temperatur von 32,5°C die Arbeit eingestellt und um Rückerstattung bei der BUAK angesucht werden kann.
+Ab 01.08.2024 können Sie die Hitzetage im BUAK Portal geltend machen. Aufgrund steigender Temperaturen und länger anhaltende Hitzeperioden haben sich die Sozialpartner dazu verständigt, dass ab einer Temperatur von 32,5°C die Arbeit eingestellt und um Rückerstattung bei der BUAK angesucht werden kann.
 
 **Hitzetag**
 
@@ -68,7 +68,7 @@ Im oberen Teil wählen Sie den Dienstnehmer aus, bei dem auf dieser Baustelle Sc
 
 **Lohnbasis**
 
-Tragen Sie hier die *Lohnbasis* für den Dienstnehmer ein. Im Regelfall wird hier der Ist-Stundenlohn des Dienstnehmers zu erfassen sein. Mit der *F2-Taste* oder *rechtem Mausklick* kann ein *Vorschlag* für die Lohnbasis angewählt werden, jedoch nur, wenn
+Tragen Sie hier die *Lohnbasis* für den Dienstnehmer ein. Im Regelfall ist hier der Ist-Stundenlohn des Dienstnehmers zu erfassen. Mit der *F2-Taste* oder *rechtem Mausklick* kann ein *Vorschlag* für die Lohnbasis angewählt werden, jedoch nur, wenn
 
 - im Schlechtwettermonat schon eine Abrechnung vorhanden ist oder
 
@@ -88,7 +88,7 @@ Geben Sie die Ausfallstunden pro Tag ein. Es werden nur die im Erfassungsdialog 
 
 **Std. übernehm.**
 
-Markieren Sie im oberen Bereich den Dienstnehmer, von welchem Sie die Stunden übernehmen wollen, welche Sie zuvor erfasst haben. Durch Anwahl des Feldes *Std. übernehm.* können zuvor erfasste Stunden und Tage von einem Dienstnehmer auf andere Dienstnehmer übernommen werden.
+Markieren Sie im oberen Bereich den Dienstnehmer, von welchem Sie die Stunden übernehmen wollen, die Sie zuvor erfasst haben. Durch Anwahl des Feldes *Std. übernehm.* können zuvor erfasste Stunden und Tage von einem Dienstnehmer auf andere Dienstnehmer übernommen werden.
 
 ![Image](<img/image495.png>){width="500"}
 
@@ -124,7 +124,7 @@ Durch Anwahl dieses Kästchens können Sie die Anträge *alphabetisch sortieren*
 
 **Übermittlungsdaten BUAK ausgeben**
 
-Durch Anwahl dieses Feldes werden die *Übermittlungsdaten der BUAK* ausgegeben.
+Durch Anwahl dieses Feldes werden die *Übermittlungsdaten an die BUAK* ausgegeben.
 
 ![Image](<img/image499.png>)
 
@@ -150,7 +150,7 @@ Sie können nun die erfassten Baustellen vom ausgewählten Monat markieren und m
 
 ![Image](<img/image502.png>)
 
-Im *Registerblatt Protokoll* befinden sich nun die Daten der erstellten Schlechtwettermeldung. Drücken Sie nun *zum Senden*. Es öffnet sich das BUAK-Portal.
+Im *Registerblatt Protokoll* befinden sich nun die Daten der erstellten Schlechtwettermeldung. Drücken Sie nun auf *zum Senden*. Es öffnet sich das BUAK-Portal.
 
 ## Import Rückmeldung Schlechtwettermeldung
 
@@ -166,7 +166,7 @@ Wählen Sie unter *Suchen* die Rückmeldedatei aus und klicken Sie auf *Importie
 
 ## Abrechnung der Schlechtwetterstunden in der Abrechnung
 
-In der Abrechnung selbst, können die oben erfassten Stunden in die Abrechnung übernommen werden. Hierzu klicken Sie im Bildschirm *Fixe Lohnarten* im linken grauen Bereich die *rechte Maustaste*.
+In der Abrechnung selbst, können die zuvor erfassten Stunden in die Abrechnung übernommen werden. Hierzu klicken Sie im Bildschirm *Fixe Lohnarten* im linken grauen Bereich die *rechte Maustaste*.
 
 ![Image](<img/image505.png>)
 
