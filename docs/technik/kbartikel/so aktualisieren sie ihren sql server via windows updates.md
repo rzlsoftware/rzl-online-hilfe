@@ -27,7 +27,7 @@
 
 ### Optionale Updates
 
-Falls keine SQL Server-Updates angezeigt werden, überprüfen Sie die optionalen Updates:
+- Falls keine SQL Server-Updates angezeigt werden, überprüfen Sie die optionalen Updates:
 - Klicken Sie auf *Optionale Updates anzeigen*.
 - Suchen Sie nach SQL Server-bezogenen Einträgen.
 - Aktivieren Sie auch "Updates für andere Microsoft-Produkte erhalten"
