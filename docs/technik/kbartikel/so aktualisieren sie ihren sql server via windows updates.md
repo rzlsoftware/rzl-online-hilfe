@@ -14,7 +14,7 @@
   Klicken Sie hier, um nach Windows Updates zu suchen:  
   [*Windows Update öffnen*](ms-settings:windowsupdate)
 
-  *Alternativ*
+  *Alternativ:*
 
 1. Öffnen Sie die Einstellungen unter Windows (Tastenkombination: Win + I).
 2. Navigieren Sie zu *Update und Sicherheit > Windows Update*.
