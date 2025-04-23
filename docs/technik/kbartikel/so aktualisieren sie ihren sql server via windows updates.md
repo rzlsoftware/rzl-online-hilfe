@@ -71,4 +71,4 @@ Vergleichen Sie die Versionsnummer mit den Release-Notes des Updates auf der Mic
 - Planen Sie regelmäßige Überprüfungen auf neue Cumulative Updates, da Microsoft diese in regelmäßigen Abständen veröffentlicht.
 
 !!! node "Hinweis"
-    Sollten Probleme auftreten, können Sie das Update über **Systemsteuerung > Programme und Features > Installierte Updates anzeigen** deinstallieren und gegebenenfalls Ihren Systembetreuer kontaktieren.
+    Sollten Probleme auftreten, können Sie das Update über **Systemsteuerung > Programme und Features > Installierte Updates anzeigen** deinstallieren und gegebenenfalls Ihren Support kontaktieren.
