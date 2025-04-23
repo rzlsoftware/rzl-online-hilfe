@@ -19,7 +19,7 @@ Beim Start von KIS wird versucht, deaktivierte und inaktive Add-Ins automatisch 
 - Falls die Add-Ins nicht neu installiert werden können (z. B. weil sie als bereits installiert angezeigt werden), deinstallieren Sie alle KIS Add-Ins vollständig über **Programme und Features** in der Systemsteuerung und installieren Sie sie anschließend neu.
 
 !!! warning "Achtung"
-    Führen Sie die folgende Änderung nur durch, wenn Ihnen klar ist, welche Auswirkungen es auf Ihr System hat. Ein vollständiges Backup des Betriebssystems wird empfohlen.
+    Führen Sie die folgende Änderung nur durch, wenn Ihnen klar ist, welche Auswirkungen sie auf Ihr System hat. Ein vollständiges Backup des Betriebssystems wird empfohlen.
 
 ## Weitere Tipps und Hinweise
 - Achten Sie darauf, das **TEMP-Verzeichnis** regelmäßig zu leeren, da zu viele Dateien Probleme verursachen können.
