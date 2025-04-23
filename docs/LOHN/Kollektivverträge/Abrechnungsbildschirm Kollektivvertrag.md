@@ -1,6 +1,6 @@
 # Abrechnungsbildschirm Kollektivvertrag
 
-Die Zuordnung des Kollektivvertrages zum Dienstnehmer erfolgt im [Abrechnungsbildschirm *Kollektivvertrag*](../Abrechnungsbildschirme/Kollektivvertrag.md).
+Die Zuordnung des Kollektivvertrages zum Dienstnehmer erfolgt im Abrechnungsbildschirm [*Kollektivvertrag*](../Abrechnungsbildschirme/Kollektivvertrag.md).
 
 ![Image](<img/image437.png>){width="500"}
 
@@ -24,4 +24,4 @@ Wenn der laufende Bezug über freie Lohnarten abgerechnet wird, muss in den Stam
 
 ![Image](<img/image440.png>){width="500"}
 
-Mit der Aktivierung in den Stammdaten der *Freien Lohnart* (siehe Abb. oben) kann die KV-Bezug-Übernahme auch bei freien Lohnarten durchgeführt werden. Bei der Prüfung, ob der entsprechende KV-Mindestbezug bezahlt wird, werden dadurch auch die abgerechneten freien Lohnarten berücksichtig.
+Mit der Aktivierung in den Stammdaten der *Freien Lohnart* (siehe Abb. oben) kann die KV-Bezug-Übernahme auch bei freien Lohnarten durchgeführt werden. Bei der Prüfung, ob der entsprechende KV-Mindestbezug bezahlt wird, werden dadurch auch die abgerechneten freien Lohnarten berücksichtigt.

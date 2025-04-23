@@ -1,8 +1,8 @@
 # RZL Klientenportal
 
-RZL Software bietet die Möglichkeit, ein Internetmodul das *RZL-Klientenportal* zu nutzen. Diese Schnittstelle zwischen Lohnverrechnungsprogramm und Klienten bietet die Möglichkeit, Daten der Lohnverrechnung, wie Anmeldungen, Abmeldungen, Bezüge, diverse Änderungen via Internet direkt in die Lohnverrechnung zu importieren.
+RZL Software bietet die Möglichkeit, ein Internetmodul, das *RZL-Klientenportal* zu nutzen. Diese Schnittstelle zwischen Lohnverrechnungsprogramm und Klienten bietet die Möglichkeit, Daten der Lohnverrechnung, wie Anmeldungen, Abmeldungen, Bezüge, diverse Änderungen via Internet direkt in die Lohnverrechnung zu importieren.
 
-Der häufigste Anwendungsfall ist der Datentransfer zwischen dem Wirtschaftstreuhänder der die Lohnverrechnung für seine Mandanten in der Kanzlei abwickelt und dem betreffenden Mandanten. Beim Mandanten werden die Daten über das Modul *RZL-Klientenportal* erfasst und über das Internet automatisch in die Lohnverrechnung eingelesen.
+Der häufigste Anwendungsfall ist der Datentransfer zwischen dem Wirtschaftstreuhänder, der die Lohnverrechnung für seine Mandanten in der Kanzlei abwickelt und dem betreffenden Mandanten. Beim Mandanten werden die Daten über das Modul *RZL-Klientenportal* erfasst und über das Internet automatisch in die Lohnverrechnung eingelesen.
 
 Die Dienstnehmer können die monatlichen Abrechnungen im *RZL-Klientenportal* nach Eingabe eines Kennwortes abrufen. Die Dienstnehmer erhalten dazu monatlich ein E-Mail mit einem Link auf das Klientenportal.
 
@@ -25,11 +25,11 @@ Im Zuge einer *benutzergesteuerten Übernahme* werden die Daten eingetragen. Es 
 
 **Vorschau Änderungen**
 
-Das Feld V*orschau Änderungen* zeigt die Änderungen, die durch den Import durchgeführt werden, an, bevor die Abrechnung gespeichert wird. In dieser Voransicht kann ausgewählt werden, welche Änderungen übernommen werden sollen und welche nicht.
+Das Feld *Vorschau Änderungen* zeigt die Änderungen, die durch den Import durchgeführt werden, an, bevor die Abrechnung gespeichert wird. In dieser Voransicht kann ausgewählt werden, welche Änderungen übernommen werden sollen und welche nicht.
 
 **Ablehnen**
 
-Wenn die Daten nicht importiert werden, und der Benutzer des *RZL-Klientenportals* eine Information erhalten soll, warum die Übernahme nicht erfolgt ist, kann die Schalfläche *Ablehnen* angewählt werden.
+Wenn die Daten nicht importiert werden, und der Benutzer des *RZL-Klientenportals* eine Information erhalten soll, warum die Übernahme nicht erfolgt ist, kann die Schaltfläche *Ablehnen* angewählt werden.
 
 **Probelauf**
 
@@ -37,7 +37,7 @@ Wird die Schaltfläche *Probelauf* angewählt, weist das Programm auf Fehler, di
 
 **Protokolldruck, Ausdruck Dateiinhalt**
 
-Im Zuge des Datenimports besteht durch Anwahl der Feldes *Protokoll drucken* die Möglichkeit, ein Übernahmeprotokoll zu drucken. Wird zusätzlich das Feld *Ausgabe über RZL PDF-Drucker* angewählt, erfolgt der Protokollausdruck im PDF-Format.
+Im Zuge des Datenimports besteht durch Anwahl des Feldes *Protokoll drucken* die Möglichkeit, ein Übernahmeprotokoll zu drucken. Wird zusätzlich das Feld *Ausgabe über RZL PDF-Drucker* angewählt, erfolgt der Protokollausdruck im PDF-Format.
 
 *Dateiinhalt drucken* ermöglicht den Ausdruck des Inhaltes der importierten Datei. Der Ausdruck kann mit Tabellendarstellung oder Detaildarstellung erfolgen. Eine Einschränkung ist durch Anwahl des Feldes *Kurzfassung* möglich.
 
@@ -82,7 +82,7 @@ Danach aktualisieren Sie die Daten über den Menüpunkt *Bearbeiten /* R*ZL Klie
 
 Somit bekommt der Dienstnehmer erstmalig eine E-Mail-Benachrichtigung mit den Zugangsdaten.
 
-Die Übertragung der Abrechnungen erfolgt im Programmteil *Ausdruck / Abrechnungen* mit Hilfe des *RLZ-PDF-Drucker bzw. dem RZL-PDF-Manager*.
+Die Übertragung der Abrechnungen erfolgt im Programmteil *Ausdruck / Abrechnungen* mit Hilfe des *RZL-PDF-Drucker bzw. dem RZL-PDF-Manager*.
 
 ![Image](<img/image367.png>){width="500"}
 
@@ -102,7 +102,7 @@ Nach Anwahl der Schaltfläche *Exportieren* werden die Abrechnungen der Dienstne
 
 **RZL PDF-Manager – Klientenportal**
 
-Auch im PDF-Manager können sie die jeweiligen Abrechnungen markieren und dann in das Klientenportal hochladen:
+Auch im PDF-Manager können Sie die jeweiligen Abrechnungen markieren und dann in das Klientenportal hochladen:
 
 ![Image](<img/image364.png>){width="600"}
 

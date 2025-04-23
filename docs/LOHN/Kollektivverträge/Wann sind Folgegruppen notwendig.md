@@ -29,7 +29,7 @@ Anschließend wird das *+ Symbol* am rechten Rand angewählt. Aus der aufgeschla
 
 ![Image](<img/image445.png>){width="500"}
 
-Um unteren Bereich des Bildschirmes werden jetzt die erste Gruppe (Einstiegsstufe) und die erste Folgegruppe (Regelstufe) grafisch dargestellt. Im Feld der Einstiegsstufe wird der Gültigkeitszeitraum (hier *3 Jahre*) angedruckt.
+Im unteren Bereich des Bildschirmes werden jetzt die erste Gruppe (Einstiegsstufe) und die erste Folgegruppe (Regelstufe) grafisch dargestellt. Im Feld der Einstiegsstufe wird der Gültigkeitszeitraum (hier *3 Jahre*) angedruckt.
 
 ![Image](<img/image446.png>){width="600"}
 
@@ -37,4 +37,4 @@ In der Verlaufsdarstellung muss jetzt die Folgegruppe markiert werden. Anschlie�
 
 ![Image](<img/image447.png>){width="500"}
 
-In der Verlaufsdarstellung sind jetzt alle drei Gruppen dargestellt. Wenn bei einem Dienstnehmer mit einem bestimmten Einstufungsdatum die Einstiegsstufe der Gruppe ST2 zugeordnet wird, erfolgt die Umstellung der Gruppe vom Programm automatisch und der Hinweis, dass die Bezahlung unterhalb des Kollektivvertragsbezuges liegt.
+In der Verlaufsdarstellung sind jetzt alle drei Gruppen dargestellt. Wenn bei einem Dienstnehmer mit einem bestimmten Einstufungsdatum die Einstiegsstufe der Gruppe ST2 zugeordnet wird, erfolgt die Umstellung der Gruppe vom Programm automatisch und der Hinweis, dass die Bezahlung unterhalb des Kollektivvertragsbezugs liegt.

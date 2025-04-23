@@ -6,7 +6,7 @@ Im Programmteil *Ausdruck / Stammdaten / KV-Einstufungen* kann eine Übersicht �
 
 **Übersicht KV-Lohn/Ist-Lohn**
 
-Der Programmteil *Ausdruck / Stammdaten / Übersicht KV-Lohn/Ist-Lohn* werden die Lohngruppen, die KV-Löhne, die Ist-Löhne und eventuelle Überzahlungen aufgelistet.
+Der Programmteil *Ausdruck / Stammdaten / Übersicht KV-Lohn/Ist-Lohn* listet die Lohngruppen, die KV-Löhne, die Ist-Löhne und eventuelle Überzahlungen auf.
 
 **KV-Vorrückungen**
 

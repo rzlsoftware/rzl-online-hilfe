@@ -8,7 +8,7 @@ Die Kollektivverträge werden im Programmteil *Klient / Kanzlei / Kollektivvertr
 
 Im linken oberen Bereich dieses Programmteiles können neue Kollektivverträge abonniert oder storniert bzw. die bestehenden (bereits abonnierten Kollektivverträge) aktualisiert werden.
 
-Durch Anwahl des Eintrages *Neuen KV abonnieren* wird die Liste sämtlicher in der HG-KV-Datenbank gespeicherter, und noch nicht abonnierter, Kollektivverträge aufgerufen.
+Durch Anwahl des Eintrages *Neuen KV abonnieren* wird die Liste sämtlicher in der HG-KV-Datenbank gespeicherter und noch nicht abonnierter, Kollektivverträge aufgerufen.
 
 ![Image](<img/image428.png>)
 
@@ -19,7 +19,7 @@ Hier können die benötigten KVs mit Hilfe eines Filters gesucht und ausgewählt
 
 ## Automatische Aktualisierung der Kollektivverträge
 
-Die Kollektivverträge werden beim erstmaligen Start des Lohnverrechnungsprogrammes automatisch aktualisiert. D. h. die Aktualisierung erfolgt einmal pro Tag, egal ob im Netzwerk oder auf einem Einzelplatz gearbeitet wird und kann manuell über das Symbol ![Image](<img/image429.png>)
+Die Kollektivverträge werden beim erstmaligen Start des Lohnverrechnungsprogrammes automatisch aktualisiert. D. h., die Aktualisierung erfolgt einmal pro Tag, egal ob im Netzwerk oder auf einem Einzelplatz gearbeitet wird und kann manuell über das Symbol ![Image](<img/image429.png>)
  ausgelöst werden.
 
 ![Image](<img/image430.png>)
@@ -28,7 +28,7 @@ Wenn der gelbe Ordner *Kollektivverträge* markiert ist, werden alle abonnierten
 
 ## KV-Information suchen bzw. ausdrucken
 
-Im linken Bereich des Bildschirmes werden die abonnierten Kollektivverträge angezeigt. Hier kann durch Anwahl der *+-Zeichen* vor dem gewünschten KV die Ansicht erweitert werden. Je nachdem welcher Eintrag im linken Bereich angewählt ist (hier *Volltext* für KV Handel Angestellte) wird die Information dazu im rechten Bereich angezeigt.
+Im linken Bereich des Bildschirmes werden die abonnierten Kollektivverträge angezeigt. Hier kann durch Anwahl des *+-Zeichen* vor dem gewünschten KV die Ansicht erweitert werden. Je nachdem welcher Eintrag im linken Bereich angewählt ist (hier *Volltext* für KV Handel Angestellte) wird die Information dazu im rechten Bereich angezeigt.
 
 ![Image](<img/image431.png>)
 
@@ -46,7 +46,7 @@ Durch Eintragung eines bestimmten Begriffes (hier *Urlaubszuschuss*) können die
 
 Wenn der Haupteintrag eines bestimmten Kollektivvertrages markiert ist, wird rechts im ersten Bereich eine Kurzinformation *HG-Daten (Blitzinfo)* angezeigt. Diese Informationen kommen aus der *HG-KV Datenbank* und können nicht bearbeitet werden.
 
-Im Bereich *weitere Informationen* können pro Kollektivvertrag zusätzliche Informationen hinterlegt werden wie z. B. Einstellungen zur Überzahlung.
+Im Bereich *weitere Informationen* können pro Kollektivvertrag zusätzliche Informationen hinterlegt werden, wie z. B. Einstellungen zur Überzahlung.
 
 ![Image](<img/image435.png>){width="500"}
 

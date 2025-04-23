@@ -1,6 +1,6 @@
-# Exkurs: Umstellung KV-Handel Angestellte
+# Umstellung KV-Handel Angestellte
 
-Seit der Anpassung im Jahr 2017 sieht der Kollektivvertrag für Angestellte und Lehrlinge im Handel ein neues Gehaltssystem vor. Die Umstellung auf dieses neue Gehaltssystem muss spätestens bis 01.01.2022 erfolgen. Das RZL-*Lohnverrechnungsmodul* *HGKV-Datenbanken* wurde um einige Felder bzw. Optionen erweitert. Die Ermittlung des korrekten Bezuges in der neuen Beschäftigungsgruppe, die Ermittlung des nächsten Vorrückungsstichtages und die Administration des Reformbetrages 1 sollte dadurch wesentlich erleichtert werden.
+Seit der Anpassung im Jahr 2017 sieht der Kollektivvertrag für Angestellte und Lehrlinge im Handel ein neues Gehaltssystem vor. Die Umstellung auf dieses neue Gehaltssystem muss spätestens bis 01.01.2022 erfolgen. Das RZL-*Lohnverrechnungsmodul* *HGKV-Datenbanken* wurde um einige Felder bzw. Optionen erweitert. Die Ermittlung des korrekten Bezuges in der neuen Beschäftigungsgruppe, die Ermittlung des nächsten Vorrückungsstichtages und die Administration des Reformbetrages 1 sollten dadurch wesentlich erleichtert werden.
 
 **Gehaltssystem Neu**
 
@@ -74,7 +74,7 @@ Eintrittsdatum: 1. April 2011, BG 2
 
 Umstiegsstichtag: 1. März 2021, von BG2, in BG C
 
-Die erste Vorrückung des Dienstnehmers erfolgt stets **im dritten Jahr**, mit dem Monatsersten des Monats **das dem Vorrückungsstichtag/Eintrittstag** **entspricht** 🡪 **1. April 2023** also hier bereits nach 2 Jahren und 1 Monat bzw. einer Kürzung der Stufe um 11 Monate.
+Die erste Vorrückung des Dienstnehmers erfolgt stets **im dritten Jahr**, mit dem Monatsersten des Monats **der dem Vorrückungsstichtag/Eintrittstag** **entspricht** 🡪 **1. April 2023** also hier bereits nach 2 Jahren und 1 Monat bzw. einer Kürzung der Stufe um 11 Monate.
 
 ![Image](<img/image453.png>){width="500"}
 
@@ -104,7 +104,7 @@ Reformbetrag 1 EUR 68,00
 
 Grundgehalt NEU EUR 2.600,00
 
-Nachdem der alte KV-Mindestlohn von EUR 2.459,00 höher ist, als der Maximalwert in der neuen Beschäftigtengruppe D = EUR 2.391,00 (Stufe 5), muss in Höhe der Differenz ein Reformbetrag 1 angesetzt werden (= EUR 68,00). Die Überzahlung muss in diesen Fällen unbedingt erhalten bleiben.
+Nachdem der alte KV-Mindestlohn von EUR 2.459,00 höher ist, als der Maximalwert in der neuen Beschäftigtengruppe D = EUR 2.391,00 (Stufe 5), muss in Höhe der Differenz ein Reformbetrag 1 angesetzt werden (= EUR 68,00). Die Überzahlung muss in diesen Fällen unbedingt beibehalten werden.
 
 Auch für den Reformbetrag 1 haben wir im Umstellungsdialog eine automatische Ermittlung integriert.
 
@@ -127,8 +127,7 @@ Reformbetrages 1 bewirkt.
 
 Nehmen Dienstnehmer, die bereits ins *Gehaltsschema Neu* umgestiegen sind, zusätzliche bzw. höher gewichtete Tätigkeiten auf, müssen diese Personen innerhalb des Gehaltsschemas umgereiht werden.
 
-Bei der Umreihung in eine höhere Beschäftigungsgruppe gebührt das **kollektivvertragliche Mindestgrundgehalt jener Stufe**, welche das kollektivvertragliche Mindestgrundgehalt **jener Stufe,** die durch die
-**nächste Vorrückung bei Verbleiben in der bisherigen Beschäftigungsgruppe erreicht worden wäre, übersteigt**.
+Bei der Umreihung in eine höhere Beschäftigungsgruppe gebührt das **kollektivvertragliche Mindestgrundgehalt jener Stufe**, welches das kollektivvertragliche Mindestgrundgehalt **jener Stufe,** die durch die **nächste Vorrückung bei Verbleiben in der bisherigen Beschäftigungsgruppe erreicht worden wäre, übersteigt**.
 
 **Beispiel 5 – Umreihung in eine neue Gruppe**
 
@@ -144,16 +143,13 @@ Vergleich des KV-Mindestgehalt BG E, Stufe 4 (EUR 2.550,00) mit der Tabelle von 
 
 ![Image](<img/image460.png>){width="500"}
 
-Hierbei sei darauf hingewiesen, dass sich die Bezeichnung der Stufe hier ein wenig unterscheidet, die vorgeschlagene Stufe jedenfalls korrekt ist. Die 2. Stufe des KV wird in der Tabelle der HGKV-Datenbank als
-Stufe 4 bezeichnet, um die erstmalige Vorrückung leichter erkennbar zu machen.
+Hierbei sei darauf hingewiesen, dass sich die Bezeichnung der Stufe hier ein wenig unterscheidet, die vorgeschlagene Stufe jedenfalls korrekt ist. Die 2. Stufe des KV wird in der Tabelle der HGKV-Datenbank als Stufe 4 bezeichnet, um die erstmalige Vorrückung leichter erkennbar zu machen.
 
 ## Rückreihung / Rückstufung innerhalb des Gehaltsschemas NEU
 
 Wenn ein Dienstnehmer bestimmte Tätigkeiten nicht mehr ausübt, ist auch die Rückreihung in eine niedrigere Gruppe denkbar. Auch hier gibt es einen genau bestimmten Weg, wie der korrekte KV-Mindestbezug zu ermitteln ist.
 
-Bei Umreihung in eine niedrigere Beschäftigungsgruppe gebührt das kollektivvertragliche Mindestgehalt **jener Stufe**, welches **nächst niedriger** dem **bisherigen kollektivvertraglichen Mindestgrundgehalt**
-liegt. Die **Differenz** zwischen dem alten und neuen kollektivvertraglichem Mindestgehalt ist in Form einer **Überzahlung** auszuweisen. Der Vorrückungsstichtag bleibt unverändert. Die in der
-höheren Stufe verbrachte Dienstzeit wird auf die niedrigere Stufe übertragen.
+Bei Umreihung in eine niedrigere Beschäftigungsgruppe gebührt das kollektivvertragliche Mindestgehalt **jener Stufe**, welches dem **nächstniedrigeren bisherigen kollektivvertraglichen Mindestgrundgehalt** entspricht. Die **Differenz** zwischen dem alten und neuen kollektivvertraglichem Mindestgehalt ist in Form einer **Überzahlung** auszuweisen. Der Vorrückungsstichtag bleibt unverändert. Die in der höheren Stufe verbrachte Dienstzeit wird auf die niedrigere Stufe übertragen.
 
 **Beispiel 6 – Rückreihung / Rückstufung**
 
