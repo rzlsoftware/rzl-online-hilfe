@@ -1,6 +1,6 @@
 # Abrechnung einer Insolvenz
 
-Mit dieser Kurzanleitung möchten wir Ihnen anhand eines Beispiels, die Abrechnung einer Insolvenz im RZL Lohn Programm erläutern.
+Mit dieser Kurzanleitung möchten wir Ihnen anhand eines Beispiels die Abrechnung einer Insolvenz im RZL Lohnprogramm erläutern.
 
 ## Grunddaten des Beispiels
 
@@ -33,7 +33,7 @@ In der ZMV können Sie unter *Klient / Stammdaten* einen neuen Namen für den Kl
 ![Image](<img/image652.png>){width="500"}
 
 !!! warning "Hinweis"
-    Diese Vorgehensweise gilt ebenso für Firmen und Kanzleien die das *RZL-Board* einsetzen. Da diese Funktionen zurzeit nur in der *ZMV* *(Zentralen Mandantenverwaltung)* verfügbar sind. Falls gewünscht, können die neu angelegten Klienten ins *RZL-Board* übernommen werden.
+    Diese Vorgehensweise gilt ebenso für Firmen und Kanzleien, die das *RZL-Board* einsetzen. Da diese Funktionen zurzeit nur in der *ZMV* *(Zentralen Mandantenverwaltung)* verfügbar sind. Falls gewünscht, können die neu angelegten Klienten ins *RZL-Board* übernommen werden.
 
 **Löschung Stammdaten**
 
@@ -115,7 +115,7 @@ Aus dem **<span style="color: darkblue;">Klienten 3</span>** versenden Sie nun d
 
 ## Konkursbeginn
 
-Der Konkurs beginnt mit 17.04. Deshalb benötigen Sie wiederum einen neuen Klienten (**<span style="color: darkgreen;">Klient 4</span>**).
+Der Konkurs beginnt mit 17.04. Deshalb benötigen Sie erneut einen neuen Klienten (**<span style="color: darkgreen;">Klient 4</span>**).
 
 **Duplizieren des Klienten**
 
@@ -167,4 +167,4 @@ Rechnen Sie den April wie gewohnt ab.
 
 ![Image](<img/image658.png>){width="400"}
 
-Vergleichen Sie nun die Abrechnung von **<span style="color: darkblue;">Klient 3</span>** mit den Abrechnungen aus **<span style="color: brown;">Klient 2</span>** und **<span style="color: darkgreen;">4</span>**. Die Summe der Sozialversicherungsbeträge aus **<span style="color: brown;">Klient 2</span>** und **<span style="color: darkgreen;">4</span>** muss ident sein, mit jener aus **<span style="color: darkblue;">Klient 3</span>**.
+Vergleichen Sie nun die Abrechnung von **<span style="color: darkblue;">Klient 3</span>** mit den Abrechnungen aus **<span style="color: brown;">Klient 2</span>** und **<span style="color: darkgreen;">4</span>**. Die Summe der Sozialversicherungsbeträge aus **<span style="color: brown;">Klient 2</span>** und **<span style="color: darkgreen;">4</span>** muss ident sein mit jener aus **<span style="color: darkblue;">Klient 3</span>**.
