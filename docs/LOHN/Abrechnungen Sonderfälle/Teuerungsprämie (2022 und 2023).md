@@ -1,8 +1,8 @@
 # Teuerungsprämie (2022 und 2023)
 
-Neben der Mitarbeitergewinnbeteiligung wurde im Zuge des Teuerungsentlastungspakets eine weitere Möglichkeit für abgabenfreie Zahlungen an die Mitarbeiter eingeführt. Die **Teuerungsprämie**.
+Neben der Mitarbeitergewinnbeteiligung wurde im Zuge des Teuerungsentlastungspakets mit der **Teuerungsprämie** eine weitere Möglichkeit für abgabenfreie Zahlungen an die Mitarbeiter eingeführt.
 
-Der § 124b Z 408 EStG erlaubt die abgabenfreie Auszahlung von bis zu EUR 3.000,00 für die Jahre 2022 und 2023. Im Gegensatz zur Mitarbeitergewinnbeteiligung bezieht sich diese Befreiung auf sämtliche Abgabenbereiche (SV, LST, DB/DZ und Kommst). Wir empfehlen für die Abrechnung die Anlage einer neuen freien Lohnart mit der neu geschaffenen Lohnsteuerpflichtigkeit Nr. **32** *steuerfrei gem. § 124b Z 408 EStG – Teuerungsprämie.*
+Der § 124b Z 408 EStG erlaubt die abgabenfreie Auszahlung von bis zu EUR 3.000,00 für die Jahre 2022 und 2023. Im Gegensatz zur Mitarbeitergewinnbeteiligung bezieht sich diese Befreiung auf sämtliche Abgabenbereiche (SV, LST, DB/DZ und KommSt). Wir empfehlen für die Abrechnung die Anlage einer neuen freien Lohnart mit der neu geschaffenen Lohnsteuerpflichtigkeit Nr. **32** *steuerfrei gem. § 124b Z 408 EStG – Teuerungsprämie.*
 
 ![Image](<img/image556.png>){width="500"}
 
@@ -10,7 +10,7 @@ Der § 124b Z 408 EStG erlaubt die abgabenfreie Auszahlung von bis zu EUR 3.000,
 !!! warning "Hinweis"
     Unser Vorschlag zur Anlage der Lohnart basiert auf dem Informationsstand aus diversen Fachartikeln zum Zeitpunkt 07/2022. Die Letztverantwortung hinsichtlich der Anlage der Lohnarten verbleibt beim Anwender.
 
-Aufgrund der erweiterten Abgabenbegünstigung wird seitens der Dienstgeber wohl häufig der Wunsch auftauchen, die bisherige Mitarbeitergewinnbeteiligung in eine Teuerungsprämie umzuändern. Lt. der uns vorliegenden Fachliteratur sollte eine solche Umwandlung möglich sein. Schon bisher gewährte Leistungsprämien durch Teuerungsprämien zu ersetzen, ist allerdings nicht zu empfehlen, da der Gesetzgeber ausdrücklich von zusätzlichen Zahlungen spricht.
+Aufgrund der erweiterten Abgabenbegünstigung wird seitens der Dienstgeber wohl häufig der Wunsch auftauchen, die bisherige Mitarbeitergewinnbeteiligung in eine Teuerungsprämie umzuändern. Lt. der uns vorliegenden Fachliteratur sollte eine solche Umwandlung möglich sein. Bereits gewährte Leistungsprämien durch Teuerungsprämien zu ersetzen, ist allerdings nicht zu empfehlen, da der Gesetzgeber ausdrücklich von zusätzlichen Zahlungen spricht.
 
 ## Betragliche Obergrenze
 
@@ -22,7 +22,7 @@ Zudem wurde die Obergrenze von EUR 3.000,00 auch noch mit der Mitarbeitergewinnb
 
 ## Ausweis am Jahreslohnkonto und am L16
 
-Durch eine Änderung der Lohnkontenverordnung (BGBL 303/2022) wird der separate Ausweis jener Teile der Teuerungsprämie gefordert, die aufgrund einer lohngestaltenden Vorschrift gewährt werden. Wir empfehlen daher, die EUR 2.000,00 übersteigenden Bezüge im Moment, mit einer eigenen Lohnart mit der gleichen Pflichtigkeit Nr. 32 abzurechnen, jedoch mit dem Zusatztext „lt. lohngestaltender Vorschrift“ zu versehen.
+Durch eine Änderung der Lohnkontenverordnung (BGBL 303/2022) wird der separate Ausweis jener Teile der Teuerungsprämie gefordert, die aufgrund einer lohngestaltenden Vorschrift gewährt werden. Wir empfehlen daher, die EUR 2.000,00 übersteigenden Bezüge im Moment, mit einer eigenen Lohnart mit derselben Pflichtigkeit Nr. 32 abzurechnen, jedoch mit dem Zusatztext „lt. lohngestaltender Vorschrift“ zu versehen.
 
 **Beispiel**
 

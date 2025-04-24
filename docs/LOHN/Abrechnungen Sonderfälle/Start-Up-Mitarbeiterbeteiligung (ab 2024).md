@@ -4,14 +4,14 @@
 
 **Voraussetzungen**
 
-- Der Arbeitgeber oder ein Gesellschafter des Arbeitgebers gewährt einem oder mehreren Arbeitnehmern aus sachlichen, betriebsbezogenen Gründen unentgeltlich Anteile an seinem Unternehmen, wobei die Abgabe gegen eine Gegenleistung bis zur Höhe des Nennwerts für die Anwendung dieser Bestimmung als unentgeltliche Abgabe gilt.
+- Der Arbeitgeber oder ein Gesellschafter des Arbeitgebers gewährt einem oder mehreren Arbeitnehmern aus sachlichen, betriebsbezogenen Gründen unentgeltlich Anteile an seinem Unternehmen, wobei die Abgabe gegen eine Gegenleistung bis zur Höhe des Nennwertes als unentgeltliche Abgabe im Sinne dieser Bestimmung gilt.
 
 - Das Unternehmen des Arbeitgebers erfüllt bezogen auf das dem Zeitpunkt der Abgabe der Anteile vorangegangene Wirtschaftsjahr folgende   Voraussetzungen:
 
-  - Im Jahresdurchschnitt werden nicht mehr als 100 Arbeitnehmer beschäftigt.
-  - Die Umsatzerlöse betragen nicht mehr als 40 Millionen EUR. 
-  - Das Unternehmen ist nicht vollständig in einen Konzernabschluss einzubeziehen.
-  - Die Anteile am Kapital oder den Stimmrechten am Unternehmen werden nicht zu mehr als 25% durch Unternehmen gehalten, die in einen Konzernabschluss einzubeziehen sind.
+    - Im Jahresdurchschnitt werden nicht mehr als 100 Arbeitnehmer beschäftigt.
+    - Die Umsatzerlöse betragen nicht mehr als 40 Millionen EUR. 
+    - Das Unternehmen ist nicht vollständig in einen Konzernabschluss einzubeziehen.
+    - Die Anteile am Kapital oder den Stimmrechten am Unternehmen werden nicht zu mehr als 25% durch Unternehmen gehalten, die in einen Konzernabschluss einzubeziehen sind.
 
 - Die Anteile werden dem Arbeitnehmer innerhalb von zehn Jahren nach Ablauf des Kalenderjahres der Gründung des Unternehmens gewährt.
 
@@ -25,7 +25,7 @@
 
 - soweit der Arbeitnehmer die Anteile veräußert, wobei die Rückübertragung der Anteile an den Arbeitgeber insbesondere in Zusammenhang mit der Beendigung des Dienstverhältnisses als Veräußerung gilt;
 
-- bei Beendigung des Dienstverhältnisses; dies gilt nicht für Anteile, die kein Stimmrecht und kein generelles Recht auf Anfechtung oder Nichtigerklärung von Gesellschafterbeschlüssen vorsehen und deren Inhaber entweder individuell im Firmenbuch eingetragen oder in einem Anteilsbuch oder vergleichbaren Verzeichnis erfasst werden, wenn der Arbeitgeber bei Beendigung des Dienstverhältnisses am Lohnzettel des Arbeitnehmers erklärt, dass der Zufluss erst nach Maßgabe der Z 1 und 3 bis 5 erfolgen soll. Der Arbeitgeber hat in den Fällen der Z 1 und 3 den späteren Zufluss nach Beendigung des Dienstverhältnisses dem Finanzamt Österreich mitzuteilen und haftet dabei für die Entrichtung der Einkommensteuer;
+- bei Beendigung des Dienstverhältnisses; dies gilt nicht für Anteile, die kein Stimmrecht und kein generelles Recht auf Anfechtung oder Nichtigerklärung von Gesellschafterbeschlüssen vorsehen und deren Inhaber entweder individuell im Firmenbuch eingetragen oder in einem Anteilsbuch oder vergleichbaren Verzeichnis erfasst werden, wenn der Arbeitgeber bei Beendigung des Dienstverhältnisses auf dem Lohnzettel des Arbeitnehmers erklärt, dass der Zufluss erst nach Maßgabe der Ziffern 1 sowie 3 bis 5 erfolgen soll. Der Arbeitgeber hat in den Fällen der Z 1 und 3 den späteren Zufluss nach Beendigung des Dienstverhältnisses dem Finanzamt Österreich mitzuteilen und haftet dabei für die Entrichtung der Einkommensteuer;
 
 - soweit die Vinkulierung aufgehoben wird und im Kalenderjahr der Aufhebung keine Veräußerung oder Beendigung des Dienstverhältnisses   stattfindet;
 
@@ -43,7 +43,7 @@
 
 - Im Fall des Todes des Arbeitnehmers sind diese Fristen nicht maßgeblich. Soweit der feste Satz auf den geldwerten Vorteil nicht anzuwenden ist, hat die steuerliche Erfassung nach dem Tarif zu erfolgen.
 
-- Gewinnausschüttungen während der drei Jahren gelten als sonstige Bezüge soweit sie den Anspruch übersteigen, der sich aus dem quotenmäßigen Anteil am Kapital ergeben würde.
+- Gewinnausschüttungen während der drei Jahre gelten als sonstige Bezüge soweit sie den Anspruch übersteigen, der sich aus dem quotenmäßigen Anteil am Kapital ergeben würde.
 
 Die auf die Start-Up-Mitarbeiterbeteiligung entfallenden Sozialversicherungsbeiträge sind beim Steuerabzug vom Arbeitslohn vor Anwendung des Lohnsteuertarifs vom Arbeitslohn abzuziehen.
 
@@ -71,7 +71,7 @@ Für Entgelte, die mit dem festen Satz von 27,50 % zu versteuern sind, besteht
 
 - keine DZ-Pflicht 
 
-## Abrechnungsbildschirm Fixe Lohnarten – Start-Up-Mitarbeiterbeteiligung (2024)
+## Abrechnungsbildschirm Fixe Lohnarten – Start-Up-Mitarbeiterbeteiligung (ab 2024)
 
 ![Image](<img/image590.png>){width="500"}
 
@@ -95,7 +95,7 @@ Dieses Feld ist zu aktivieren, wenn es zu einer Veräußerung der Anteile kommt.
 
 **Beendigung DV ohne Zufluss § 67a Abs. 3**
 
-Dieses Feld ist zu aktivieren, wenn es zu keiner Veräußerung der Anteile kommt, jedoch zur Beendigung des Dienstverhältnisses. Durch Aktivierung dieses Häkchens wird bis zur 30-fachen täglichen Höchstbeitragsgrundlage der Sozialversicherung hochgerechnet und so die Sozialversicherung ermittelt. Es handelt sich seitens ÖGK um einen fiktiven Wert.
+Dieses Feld ist zu aktivieren, wenn es zu keiner Veräußerung der Anteile kommt, jedoch zur Beendigung des Dienstverhältnisses. Durch Aktivierung dieses Häkchens wird bis zur 30-fachen täglichen Höchstbeitragsgrundlage der Sozialversicherung hochgerechnet und so die Sozialversicherung ermittelt. Es handelt sich aus Sicht der ÖGK um einen fiktiven Wert.
 
 **Auszahlungsbetrag**
 
@@ -142,7 +142,7 @@ Tragen Sie im Bildschirmteil *Start-Up-Mitarbeiterbeteiligung (ab 2024)* beim *A
 !!! warning "Hinweis"
     Die Start-Up-Mitarbeiterbeteiligung darf nicht auf das Jahressechstel bzw. Kontrollsechstel angerechnet werden.
 
-## Nicht begünstige Auszahlung einer Start-Up-Mitarbeiterbeteiligung
+## Nicht begünstigte Auszahlung einer Start-Up-Mitarbeiterbeteiligung
 
 Tragen Sie im Bildschirmteil *Start-Up-Mitarbeiterbeteiligung (ab 2024)* beim *Auszahlungsbetrag*, den Verkaufserlös bzw. gemeinen Wert ein. Darunter definieren Sie, dass es sich um eine *Nicht begünstigte Auszahlung* handelt. Bei einer Nicht begünstigten Auszahlung wird der gesamte Auszahlungsbetrag nach dem laufenden Tarif versteuert.
 
@@ -207,7 +207,7 @@ Das Lohnprogramm ermittelt selbständig den Differenzbetrag auf die tägliche H�
 (30 x EUR 202,00 =) 6.060,00 – 4.000,00 = 2.060,00
 
 !!! warning "Hinweis"
-    Erfolgt ein untermonatiger Austritt, dann werden nicht 30 SV-Tage angewendet, sondern jene SV-Tage bis zum Austrittstag. Es ändert sich somit auch die monatliche Höchstbeitragsgrundlage in diesem Monat. (z.B. Austritt am 15.03.2024: Es werden 15 SV-Tage angewendet und somit nur 3.030,00 (EUR 202,00 x 15) als Höchstbemessungsgrundlage angenommen.)
+    Erfolgt ein untermonatiger Austritt, so werden nicht 30 SV-Tage angewendet, sondern jene SV-Tage bis zum Austrittstag. Es ändert sich somit auch die monatliche Höchstbeitragsgrundlage in diesem Monat. (z.B. Austritt am 15.03.2024: Es werden 15 SV-Tage angewendet und somit nur 3.030,00 (EUR 202,00 x 15) als Höchstbemessungsgrundlage angenommen.)
 
 ## Ausweis am Jahreslohnkonto und Jahreslohnzettel
 

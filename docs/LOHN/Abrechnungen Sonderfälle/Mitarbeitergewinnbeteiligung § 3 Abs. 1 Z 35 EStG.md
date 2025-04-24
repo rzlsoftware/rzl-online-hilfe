@@ -6,9 +6,9 @@ Für Zeiträume ab dem 01.01.2022 hat der Gesetzgeber die Möglichkeit geschaffe
 
 - Die Gewinnbeteiligung muss **allen Mitarbeitern** oder **bestimmten   Gruppen** von Mitarbeitern bezahlt werden.
 
-- Begrenzung der Steuerfreiheit der jährlich gewährten   Gewinnbeteiligungen mit der **Höhe des Vorjahresergebnisses** bzw.   EBIT des Vorjahres.
+- Begrenzung der Steuerfreiheit der jährlich gewährten Gewinnbeteiligungen auf die **Höhe des Vorjahresergebnisses** bzw. EBIT des Vorjahres.
 
-- Die Zahlung darf nicht aufgrund einer lohngestaltenden Vorschrift   (Kollektivvertrag, Betriebsvereinbarung oder einer anderen lohngestaltenden Vorschrift) erfolgen.
+- Die Zahlung darf nicht aufgrund einer lohngestaltenden Vorschrift (Kollektivvertrag, Betriebsvereinbarung oder einer anderen lohngestaltenden Vorschrift) erfolgen.
 
 - Es darf **keine Bezugsumwandlung** vorliegen.
 
@@ -27,7 +27,7 @@ Der separate Ausweis der Mitarbeitergewinnbeteiligung am L16 (Jahreslohnzettel) 
 !!! warning "Hinweis"
     Unser Vorschlag zur Anlage der Lohnart basiert auf dem Informationsstand aus diversen Fachartikeln zum Zeitpunkt 04/2022. Die Letztverantwortung hinsichtlich der Anlage der Lohnarten verbleibt beim Anwender.
 
-Der gesonderte Ausweis am L16 erfordert im Bereich der Lohnsteuer die **Lohnsteuerpflichtigkeit Nr. 31 „steuerfrei gem. § 3 Abs. 1 Z 35 EStG – Mitarbeitergewinnbeteiligung**. Eine Befreiung bei den Lohnnebenkosten (DB, DZ und Kommunalsteuer) ist durch den Gesetzgeber nicht vorgesehen.
+Der gesonderte Ausweis am L16 erfordert im Bereich der Lohnsteuer die **Lohnsteuerpflichtigkeit Nr. 31 „steuerfrei gem. § 3 Abs. 1 Z 35 EStG – Mitarbeitergewinnbeteiligung**. Eine Befreiung von den Lohnnebenkosten (DB, DZ und Kommunalsteuer) ist durch den Gesetzgeber nicht vorgesehen.
 
 **Wiederkehrender Bezug**
 
@@ -40,7 +40,7 @@ Ist dagegen bereits jetzt eine **mehrmalige Auszahlung** dieser Lohnart geplant,
 
 **Beispiel 1**
 
-In beiden Varianten der Auszahlung trifft die Pflichtigkeit in der Sozialversicherung auf eine Abgabenbefreiung in der Lohnsteuer. Diese inzwischen recht seltene Konstellation, führt in Verbindung mit der Darstellung am L16 (Jahreslohnzettel), zur Notwendigkeit diese SV-Dienstnehmeranteile zu „neutralisieren“.
+In beiden Varianten der Auszahlung trifft die Pflichtigkeit in der Sozialversicherung auf eine Abgabenbefreiung in der Lohnsteuer. Diese inzwischen recht seltene Konstellation führt in Verbindung mit der Darstellung am L16 (Jahreslohnzettel), zur Notwendigkeit diese SV-Dienstnehmeranteile zu „neutralisieren“.
 
 Lfd. Bezug EUR 2.500,00; Mitarbeitergewinnbeteiligung einmalig EUR 3.000,00
 
@@ -55,13 +55,13 @@ Der gesamte SV-Dienstnehmeranteil in Höhe von EUR 996,60 setzt sich zusammen au
 | - steuerfr. MA-Beteiligung | EUR     |   - 3.000,00 |
 | **Lohnsteuer-BMGL lfd.**   | **EUR** | **2.047,00** |
 
-In Verbindung mit der Einführung der steuerfreien  Mitarbeitergewinnbeteiligung, wurde auch das bisherige L16-Formulardurch die Finanzverwaltung überarbeitet.
+In Verbindung mit der Einführung der steuerfreien  Mitarbeitergewinnbeteiligung wurde auch das bisherige L16-Formulardurch die Finanzverwaltung überarbeitet.
 
-Aus den gesamten SV-Dienstnehmeranteilen, wird über die KZ 226, der Anteil der auf die Mitarbeitergewinnbeteiligung entfällt, ausgeschieden und kürzt daher **nicht** die lfd. Lohnsteuer-Bemessungsgrundlage.
+Aus den gesamten SV-Dienstnehmeranteilen wird über die KZ 226, der Anteil der auf die Mitarbeitergewinnbeteiligung entfällt, ausgeschieden und kürzt daher **nicht** die lfd. Lohnsteuer-Bemessungsgrundlage.
 
 ![Image](<img/image553.png>){width="600"}
 
-Die Höhe der jährlich gewährten Mitarbeitergewinnbeteiligung (vor Abzug der SV-Beiträge) wird in einem neu geschaffenen Feld extra ausgewiesen. Mit der Version 2.22.4 haben wir das neue L16-Formular im *RZL-Lohnverrechnungsprogramm* eingebaut. Eine Integration in der ELDA-Schnittstellenbeschreibung ist allerdings noch nicht erfolgt und eine **Übermittlung** des neuen **L16-Formulars** daher im Moment **nicht möglich**.
+Die Höhe der jährlich gewährten Mitarbeitergewinnbeteiligung (vor Abzug der SV-Beiträge) wird in einem neu geschaffenen Feld extra ausgewiesen. Mit der Version 2.22.4 haben wir das neue L16-Formular im *RZL-Lohnverrechnungsprogramm* eingebaut. Eine Integration in die ELDA-Schnittstellenbeschreibung ist allerdings noch nicht erfolgt und eine **Übermittlung** des neuen **L16-Formulars** daher im Moment **nicht möglich**.
 
 **Beispiel 2**
 

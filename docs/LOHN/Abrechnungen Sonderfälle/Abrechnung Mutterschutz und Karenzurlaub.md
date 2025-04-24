@@ -6,7 +6,7 @@ Sobald die Dienstnehmerin dem Dienstgeber den voraussichtlichen Geburtstermin mi
 
 ![Image](<img/image518.png>){width="500"}
 
-Wird jener Monat erreicht, indem der Beginn des Mutterschutzes liegt, werden durch das Programm automatisch jene Informationen eingetragen, die für die Berechnung der MV-Bemessungsgrundlage Wochengeld erforderlich sind.
+Wird jener Monat erreicht, in dem der Beginn des Mutterschutzes liegt, werden durch das Programm automatisch jene Informationen eingetragen, die für die Berechnung der MV-Bemessungsgrundlage Wochengeld erforderlich sind.
 
 ![Image](<img/image519.png>){width="500"}
 
@@ -14,7 +14,7 @@ Neben dem für die BV-Bemessung schon bisher notwendigen Austrittsgrund *Wocheng
 
 Wie bisher wird im Bereich *Fixe Lohnarten* / *BV-Bemessung Sonderfälle* / im Feld *Mutterschutz* die Grundlage für den BV-Beitrag ermittelt. Die Basis hierfür bildet unverändert der Durchschnittsbezug der letzten 3 Monate vor Beginn des Mutterschutzes + 1/12 für Urlaubszuschuss und 1/12 für Weihnachtsremuneration. In den beiden Übergangsmonaten von lfd. Beschäftigung hin zum Mutterschutz und von Mutterschutz hin zur Karenz, wird die Bemessungsgrundlage für den BV-Beitrag auf Basis der SV-Tage aliquotiert. Vom Benutzer kann die Bemessungsgrundlage natürlich übersteuert werden.
 
-Im Zuge dieser Änderung wird nun auch ein Hinweis auf die ebenfalls notwendige Arbeits- und Entgeltsbestätigung Wochengeld im Feld *Fristen/Termine* angezeigt. Es werden nun sämtliche, für die Übermittlung notwendigen Pflichtfelder befüllt. Wir empfehlen vor der Übermittlung eine möglichst genaue Kontrolle im Abrechnungsbildschirm *Arbeits- und Entgeltsbestätigung Wochengeld*.
+Im Zuge dieser Änderung wird nun auch ein Hinweis auf die ebenfalls notwendige Arbeits- und Entgeltbestätigung Wochengeld im Feld *Fristen/Termine* angezeigt. Es werden nun sämtliche, für die Übermittlung notwendigen Pflichtfelder befüllt. Wir empfehlen vor der Übermittlung eine möglichst genaue Kontrolle im Abrechnungsbildschirm *Arbeits- und Entgeltsbestätigung Wochengeld*.
 
 ![Image](<img/image520.png>){width="500"}
 
@@ -34,10 +34,10 @@ Kommt das Kind allerdings z. B. erst nach 9 Wochen Mutterschutz zur Welt, bleib
 
 Im Falle von Früh-, Kaiserschnitt- und Mehrlingsgeburten beträgt die Dauer des Beschäftigungsverbotes nach der Geburt 12 Wochen. Mit Hilfe der Option *verlängerter Mutterschutz* kann dieses erweiterte Beschäftigungsverbot berücksichtigt werden.
 
-Die restlichen Monate des Mutterschutzes können nun weiter über *laufende Abrechnung mit / ohne Änderung* abgerechnet werden. D. h. im Gegensatz zu bisher, muss auch jener Monat, indem der Karenzurlaub angetreten wird, nicht mehr über die Variante mit Wiedereintritt abgerechnet werden.
+Die restlichen Monate des Mutterschutzes können nun weiter über *laufende Abrechnung mit / ohne Änderung* abgerechnet werden. D. h. im Gegensatz zu bisher, muss auch jener Monat, in dem der Karenzurlaub angetreten wird, nicht mehr über die Variante mit Wiedereintritt abgerechnet werden.
 
 ![Image](<img/image522.png>){width="500"}
 
 Mit Hilfe der Option *Dienstnehmerin geht in Karenz* die automatisch durch das Programm gesetzt wird, kommt es in dem Monat in dem der Karenzurlaub angetreten wird, nun zu einem automatischen Vorschlag für die Austrittsdaten.
 
-Wird die letzte Abrechnung dann abgespeichert, erhalten Sie vom Programm wie gewohnt die Abfrage, ob die Abmeldung in die ÖGK-Datei gestellt werden soll. Der L16 für diese Dienstnehmer ist unverändert erst am Ende des Jahres fällig und wird mit den restlichen Dienstnehmern per Monat 12 ausgegeben.
+Wird die letzte Abrechnung dann abgespeichert, erhalten Sie vom Programm wie gewohnt die Abfrage, ob die Abmeldung in die ÖGK-Datei gestellt werden soll. Der L16 für diese Dienstnehmerin ist unverändert erst am Ende des Jahres fällig und wird mit den restlichen Dienstnehmern per Monat 12 ausgegeben.

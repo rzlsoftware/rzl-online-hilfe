@@ -16,7 +16,7 @@ Es gibt drei Möglichkeiten der abgabenfreien Kostenrückerstattung:
 
 Ladevorgänge an öffentlichen Ladestationen, die der Arbeitnehmer dem Arbeitgeber nachweist (z.B. durch Belege) sind nicht als Einnahmen anzusetzen und daher folglich von **allen Abgaben** (SV, BV, Lohnsteuer, DB, DZ und Kommunalsteuer) **befreit**.
 
-Kostenersätze des Dienstgebers für das Aufladen eines dienstnehmereigenen (**privaten**) E-Auto, stellen keinen Auslagenersatz dar. Es liegt somit **beitrags- und steuerpflichtiger Arbeitslohn** vor.
+Kostenersätze des Dienstgebers für das Aufladen eines dienstnehmereigenen (**privaten**) E-Autos, stellen keinen Auslagenersatz dar. Es liegt somit **beitrags- und steuerpflichtiger Arbeitslohn** vor.
 
 ## Abrechnung des amtlichen kWh Preises
 

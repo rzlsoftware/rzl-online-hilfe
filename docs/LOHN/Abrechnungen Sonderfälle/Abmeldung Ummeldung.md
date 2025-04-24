@@ -6,7 +6,7 @@ Seit 01.01.2023 muss an die ÖGK bei einer Ummeldung eine Abmeldung und eine Anm
 
 ## Ummeldung auf eine andere Beitragskontonummer im gleichen Klienten (Abfertigung NEU)
 
-Wird ein Dienstnehmer von einer Beitragskontonummer auf eine andere Beitragskontonummer umgemeldet, zum Beispiel bei einer Änderung des Bundeslandes, muss eine Abmeldung mit Grund Ummeldung an die ÖGK gesendet werden.
+Wird ein Dienstnehmer von einer Beitragskontonummer auf eine andere Beitragskontonummer umgemeldet, zum Beispiel bei einer Änderung des Bundeslandes, muss eine Abmeldung mit dem Grund Ummeldung an die ÖGK gesendet werden.
 
 Danach sollten Sie ein Wiedereintritt mit derselben Dienstnehmernummer durchführen. Bei diesem Wiedereintritt sollte ab dieser Version KEINE eigenständige Anmeldung an die ÖGK gesendet werden, da dies mit der neuen Ummeldung erfolgt.
 
@@ -40,7 +40,7 @@ Dienstnehmer wird mit 28.02.2023 auf eine neue Beitragskontonummer umgemeldet. H
 
 ![Image](<img/image564.png>){width="500"}
 
-Nach der Februar Abrechnung wird eine Übernahme in den anderen Klienten vorgenommen: *Bearbeiten / Übernahme / Dienstnehmer-Übernahme in anderen Klienten*.
+Nach der Februar-Abrechnung wird eine Übernahme in den anderen Klienten vorgenommen: *Bearbeiten / Übernahme / Dienstnehmer-Übernahme in anderen Klienten*.
 
 ![Image](<img/image565.png>){width="500"}
 

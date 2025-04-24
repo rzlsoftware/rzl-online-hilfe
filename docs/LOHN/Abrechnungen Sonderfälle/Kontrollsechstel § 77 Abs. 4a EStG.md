@@ -6,33 +6,29 @@
 
 2)  Bezug von Krankengeld aus der gesetzlichen Krankenversicherung
 
-3)  Bezug von Rehabilitationsgeld gemäß § 143a ASVT
+3)  Bezug von Rehabilitationsgeld gemäß § 143a ASVG
 
 4)  Pflegekarenz oder Pflegeteilzeit gemäß § 14c oder § 14d AVRAG
 
-5)  Familienhospizkarenz oder Familienhospizteilzeit gemäß § 14a oder §
-    14b AVRAG
+5)  Familienhospizkarenz oder Familienhospizteilzeit gemäß § 14a oder § 14b AVRAG
 
 6)  Wiedereingliederungsteilzeit gemäß § 13a AVRAG
 
-7)  Grundwehrdienst gemäß § 20 Wehrgesetz 2001 oder Zivildienst gemäß §
-    6a Zivildienstgesetz 1986
+7)  Grundwehrdienst gemäß § 20 Wehrgesetz 2001 oder Zivildienst gemäß § 6a Zivildienstgesetz 1986
 
 8)  Bezug von Altersteilzeitgeld gemäß § 27 AlVG
 
 9)  Teilpension gemäß § 27a AlVG oder
 
-10) Beendigung des Dienstverhältnisses, wenn im Kalenderjahr kein neues
-    Dienstverhältnis bei demselben Arbeitgeber oder einem mit diesem
-    verbundenen Konzernunternehmen eingegangen wird.
+10) Beendigung des Dienstverhältnisses, wenn im Kalenderjahr kein neues Dienstverhältnis bei demselben Arbeitgeber oder einem mit diesem verbundenen Konzernunternehmen eingegangen wird.
 
-Es gibt nun erstmals die Möglichkeit, zu einem positiven Kontrollsechsteleffekt für den Dienstnehmer. Ein Überhang aus der normalen Jahressechstelberechnung, wird im Falle von steigenden Bezügen teilweise oder zur Gänze abgebaut. Dies führt am Jahresende oder beim Austritt des Dienstnehmers zu einer Steuergutschrift.
+Es gibt nun erstmals die Möglichkeit, zu einem positiven Kontrollsechsteleffekt für den Dienstnehmer. Ein Überhang aus der normalen Jahressechstelberechnung wird im Falle von steigenden Bezügen teilweise oder zur Gänze abgebaut. Dies führt am Jahresende oder beim Austritt des Dienstnehmers zu einer Steuergutschrift.
 
 ## Automatische Aufrollfunktion bei mehr als einem Dienstverhältnis beim selben Dienstgeber
 
 Wenn es zu einem Austritt beim zweiten Dienstverhältnis beim selben Arbeitgeber kommt bzw. wenn der Monat Dezember abgerechnet wird, erfolgt vom Programm eine automatische Aufrollung aller Dienstverhältnisse, welche bis dorthin bestanden haben, vorausgesetzt es liegt kein Ausschlussgrund vor.
 
-Nach erfolgreicher Rollung erscheint dieser Bildschirm:
+Nach erfolgreicher Aufrollung erscheint dieser Bildschirm:
 
 ![Image](<img/image538.png>){width="600"}
 
@@ -46,7 +42,8 @@ Somit erscheint ein Beiblatt zur Abrechnung, welches wie folgt aussieht:
 
 ![Image](<img/image540.png>)
 
-Dieser Ausdruck ist nur im Hochformat möglich.
+!!! warning "Hinweis"
+    Dieser Ausdruck ist nur im Hochformat möglich.
 
 ## Abweichende Eingabe Kontrollsechstel
 
@@ -97,15 +94,15 @@ Bei Fallweisen Beschäftigten, welche im *Sozialversicherungsbildschirm* auch so
 
 ## Beispiele
 
-Mit den folgenden Ausführungen und Beispielen wollen wir vor allem häufig auftretende Fragen beantworten. Zudem möchten wir Ihnen die beiden integrierten Ausdrucke vorstellen. Diese sollen Ihnen die Nachvollziehbarkeit der Sechstelberechnung erhöhen und die Abstimmungsarbeiten am Jahresende erleichtern.
+Mit den folgenden Ausführungen und Beispielen wollen wir vor allem häufig auftretende Fragen beantworten. Zudem möchten wir Ihnen die beiden integrierten Ausdrucke vorstellen. Diese sollen Ihnen die Nachvollziehbarkeit der Sechstelberechnung verbessern und die Abstimmungsarbeiten am Jahresende erleichtern.
 
-**Ein ununterbrochenes Dienstverhältnis während des gesamten Kalenderjahres**
+**Ein ununterbrochenes Dienstverhältnis über das gesamte Kalenderjahr hinweg**
 
 Wie bislang muss im Monat Dezember grundsätzlich eine Kontrollsechstelberechnung erfolgen. In der *RZL-Lohnverrechnung* wird daher im Dezember im Bereich *Austritt* weiterhin die Option *Kontrollsechstel* gesetzt.
 
 ![Image](<img/image543.png>){width="400"}
 
-**Beispiel 1: Fallende Bezüge gegen Jahresende**
+### Beispiel 1: Fallende Bezüge gegen Jahresende
 
 Nur bei stark schwankenden Bezügen wird im Zusammenhang mit dem Kontrollsechstel auch eine Aufrollung nötig sein. Wie bisher wird beim Verlassen der Dezemberabrechnung die Kontrollsechstelaufrollung automatisch ausgelöst und die sich ergebende Steuerdifferenz dargestellt.
 
@@ -119,7 +116,7 @@ In diesem Beispiel kam es durch das **Absinken der Bezüge** am Jahresende zu ei
 
 ![Image](<img/image546.png>){width="500"}
 
-**Beispiel 2 – Im Jahresverlauf ansteigende Bezüge**
+### Beispiel 2 – Im Jahresverlauf ansteigende Bezüge
 
 Im Gegensatz zum Jahr 2020 darf bei steigenden Bezügen ein etwaiger Überhang aus den Vormonaten am Jahresende an den Dienstnehmer rückvergütet werden.
 
