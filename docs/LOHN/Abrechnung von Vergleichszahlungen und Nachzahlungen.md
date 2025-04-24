@@ -31,7 +31,7 @@ Beinhaltet der Vergleich eine Auszahlung, welche den Zeitraum nach dem Austritt 
 
 Es ist eine Abrechnung mit Wiedereintritt im Monat der Zahlung der Vergleichssumme vorzunehmen und analog zum Standardfall abzurechnen.
 
-Eine etwaige Zahlung einer Abfertigung kann über die fixen Lohnarten abgerechnet werden. Für die Vergleichssummen bzw. Nachzahlungen sind folgende Lohnarten, wie folgt anzulegen:
+Eine etwaige Zahlung einer Abfertigung kann über die fixen Lohnarten abgerechnet werden. Für die Vergleichssummen bzw. Nachzahlungen sind folgende Lohnarten anzulegen:
 
 **Vergleich Abfertigung NEU unter EUR 7.500,00**
 
@@ -92,7 +92,7 @@ Die Vergleichssumme ist je nach SV-Pflicht auf die Lohnarten Vergleich SV lfd., 
 
 Im Abrechnungsbildschirm Sozialversicherung ist die SV-Gruppe auf 0 *keine SV-Pflicht* zu ändern.
 
-Die Differenz der SV von der Abrechnung im Austrittsmonat (ohne Vergleich) und jener Abrechnung mit Vergleichssumme, ist unter der Lohnart SV als Werbungskosten, sowie bei der Lohnart Abzug SV aus Vergleich, einzugeben. Die SV-Differenz muss von Ihnen manuell errechnet werden. Eine Automatik ist hier nicht möglich.
+Die Differenz der SV von der Abrechnung im Austrittsmonat (ohne Vergleich) und jener Abrechnung mit Vergleichssumme ist unter der Lohnart SV als Werbungskosten, sowie bei der Lohnart Abzug SV aus Vergleich, einzugeben. Die SV-Differenz muss von Ihnen manuell errechnet werden. Eine Automatik ist hier nicht möglich.
 
 Als Ergebnis all dieser Änderungen kann für den Dienstnehmer ein Lohnzettel erstellt werden, es erfolgt jedoch richtigerweise kein Ausweis auf der monatlichen Beitragsgrundlagenmeldung (sofern in diesem Jahr keine Urlaubsersatzleistung abzurechnen war).
 
@@ -123,7 +123,7 @@ Verwenden Sie für die Aufrollung am besten das Monat 13, damit Sie die Aufrolld
 
 Verwenden Sie für die Aufrollung die oben beschriebene Lohnart *Erhöhung Bmgl SV-lfd*.
 
-Im Monat **10** tragen Sie in den *freien Lohnarten* diese Lohnart mit dem Betrag EUR 3.000,00 ein (siehe Aufstellung oben).
+Im Monat **10** tragen Sie in den *freien Lohnarten* diese Lohnart mit einem Betrag von EUR 3.000,00 ein (siehe Aufstellung oben).
 
 ![Image](<img/image603.png>){width="400"}
 
@@ -152,7 +152,7 @@ Im Monat **11** tragen Sie in den *freien Lohnarten* die Lohnart *Erhöhung Bmgl
 
 Verwenden Sie für die Aufrollung die oben beschriebene Lohnart *Erhöhung Bmgl SV-lfd*.
 
-Im Monat **12** tragen Sie in den *freien Lohnarten* diese Lohnart mit EUR 500,00 ein (siehe Aufstellung oben).
+Im Monat **12** tragen Sie in den *freien Lohnarten* diese Lohnart mit einem Betrag von EUR 500,00 ein (siehe Aufstellung oben).
 
 ![Image](<img/image607.png>){width="400"}
 
@@ -163,7 +163,7 @@ Im Monat **12** tragen Sie in den *freien Lohnarten* diese Lohnart mit EUR 500,
 
 **Erstellung mBGM**
 
-Nach der erfolgreichen Aufrollung der Monate, erstellen Sie mit Monat 13 den mBGM für diesen einen Dienstnehmer. *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen*.
+Nach der erfolgreichen Aufrollung der Monate erstellen Sie mit Monat 13 den mBGM für diesen einen Dienstnehmer. *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen*.
 
 ![Image](<img/image609.png>){width="600"}
 
@@ -171,7 +171,7 @@ Es erfolgt eine automatische Erstellung der Storno mBGMs für die Monate Oktober
 
 ![Image](<img/image610.png>){width="600"}
 
-Drucken Sie nun das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
+Drucken Sie das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die ausstehenden Sozialversicherungsbeiträge abführen können.
 
 ### Berechnung SV Abzug des Dienstnehmers
 
@@ -193,7 +193,7 @@ Es gelangen EUR 763,10 im **August 2022** als SV-DN-Anteil zum Abzug.
 
 **Eintritts- und Austrittsbildschirm**
 
-Im *Eintrittsbildschirm* geben Sie den 01.08.2022 ein. Ebenso geben Sie das Häkchen bei *Beginn BV-Beitragspflicht* heraus. Im *Austrittsbildschirm* geben Sie als Austrittsdatum den 31.08.2022 ein. Bei *Austrittsgrund* erfassen Sie denselben Grund wie bei dem ursprünglichen Dienstverhältnis.
+Im *Eintrittsbildschirm* geben Sie den 01.08.2022 ein. Ebenso entfernen Sie das Häkchen bei *Beginn BV-Beitragspflicht*. Im *Austrittsbildschirm* geben Sie als Austrittsdatum den 31.08.2022 ein. Bei *Austrittsgrund* erfassen Sie denselben Grund wie bei dem ursprünglichen Dienstverhältnis.
 
 !!! warning "Hinweis"
     Die An- und Abmeldung wird nicht an die ÖGK versendet.
@@ -263,7 +263,7 @@ Die Auszahlung des Vergleiches erfolgt im **September 2022**.
 
 Beginnen Sie mit der Aufrollung der Monate **Mai** **bis** **Juli** im Klienten **2021**.
 
-Verwenden Sie für die Aufrollung am besten das Monat 13, damit Sie die Aufrolldifferenzen für die Sozialversicherung auf dem Auszahlungsjournal aufgegliedert haben. Ebenso lassen sich die mBGMs (monatliche Beitragsgrundlagenmeldung) mit diesem Monat 13 am leichtesten erstellen.
+Verwenden Sie für die Aufrollung am besten das Monat 13, damit Sie die Aufrolldifferenzen für die Sozialversicherung auf dem Auszahlungsjournal aufgegliedert haben. Ebenso lassen sich die mBGMs (monatliche Beitragsgrundlagenmeldung) am einfachsten mit Monat 13 erstellen.
 
 **Aufrollung Monat 13**
 
@@ -319,7 +319,7 @@ Es erfolgt eine automatische Erstellung der Storno mBGMs für die Monate Mai bis
 
 ![Image](<img/image622.png>){width="600"}
 
-Drucken Sie nun das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
+Drucken Sie das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
 
 ### Berechnung SV Abzug des Dienstnehmers
 
@@ -484,7 +484,7 @@ Es erfolgt eine automatische Erstellung der Storno mBGMs für die Monate April, 
 
 ![Image](<img/image633.png>){width="600"}
 
-Drucken Sie nun das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
+Drucken Sie das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
 
 **Berechnung SV Abzug des Dienstnehmers**
 
@@ -506,7 +506,7 @@ Es gelangen EUR 176,18 im **Oktober 2022** als SV-DN-Anteil zum Abzug.
 
 **Eintritts- und Austrittsbildschirm**
 
-Im *Eintrittsbildschirm* geben Sie den 01.10.2022 ein. Ebenso geben Sie das Häkchen bei *Beginn BV-Beitragspflicht* heraus. Im *Austrittsbildschirm* geben Sie als Austrittsdatum den 31.10.2022 ein. Bei *Austrittsgrund* erfassen Sie denselben Grund wie bei dem ursprünglichen Dienstverhältnis.
+Im *Eintrittsbildschirm* geben Sie den 01.10.2022 ein. Ebenso entfernen Sie das Häkchen bei *Beginn BV-Beitragspflicht*. Im *Austrittsbildschirm* geben Sie als Austrittsdatum den 31.10.2022 ein. Bei *Austrittsgrund* erfassen Sie denselben Grund wie bei dem ursprünglichen Dienstverhältnis.
 
 !!! warning "Hinweis"
     Die An- und Abmeldung wird nicht an die ÖGK versendet.
@@ -523,9 +523,9 @@ Gehen Sie zu den *Fixen Lohnarten Gehalt / Lohn*. Stellen Sie den *Betrag* auf 0
 
 **Freie Lohnarten**
 
-In den *Freien Lohnarten* geben Sie die Nachzahlungsbeträge, den Sozialversicherungsabzug und die Werbungskosten ein. Die Lohnarten hierfür finden Sie im oberen Bereich unter **Allgemeine Informationen**.
+In den *Freien Lohnarten* geben Sie die Nachzahlungsbeträge sowie den Sozialversicherungsabzug und die Werbungskosten ein. Die Lohnarten hierfür finden Sie im oberen Bereich unter **Allgemeine Informationen**.
 
-Die Beträge finden Sie in den zwei oben erwähnten Berechnungstabellen und in den Erläuterungen unten:
+Die Beträge finden Sie in den oben erwähnten beiden Berechnungstabellen und in den Erläuterungen unten:
 
 ![Image](<img/image634.png>){width="400"}
 
@@ -537,7 +537,7 @@ Die Beträge finden Sie in den zwei oben erwähnten Berechnungstabellen und in d
 | : 5 x 4                 | 140,94 |
 | 1/5 steuerfrei (KZ 226) |  35,24 |
 
-Rechnen Sie den Monat **Oktober** ab. *Speichern*.
+Führen Sie die Abrechnung für den Monat **Oktober** durch. *Speichern*.
 
 ### Berechnung Nachzahlung
 
@@ -561,24 +561,24 @@ Für den Monat Oktober 2022 wird **kein** mBGM erstellt, da keine SV angefallen 
 
 **Jahreslohnzettel L16**
 
-Der Jahreslohnzettel wird mit allen anderen Lohnzettel im Februar des Folgejahres versendet.
+Der Jahreslohnzettel wird mit allen anderen Lohnzetteln im Februar des Folgejahres versendet.
 
 ![Image](<img/image636.png>){width="500"}
 
 **Anmerkung**
 
-Berechnung Betrag „Steuerfreie bzw. mit festen Sätzen versteuerte Bezüge gemäß § 67 Abs. 3 bis 8 (ausgen. § 67 Abs. 5 zweiter TS), vor Abzug der SV-Beiträge“:
+Berechnung des Betrags „Steuerfreie bzw. mit festen Sätzen versteuerte Bezüge gemäß § 67 Abs. 3 bis 8 (ausgenommen § 67 Abs. 5 zweiter TS), vor Abzug der SV-Beiträge“:
 
-| Berechnung           |        |
-| -------------------- | -----: |
-| Gesamte Nachzahlung  | 775,00 |
-| : 5 (1/5 steuerfrei) | 155,00 |
+| Berechnung                   |        |
+| ---------------------------- | -----: |
+| Gesamtbetrag der Nachzahlung | 775,00 |
+| : 5 (1/5 steuerfrei)         | 155,00 |
 
 ## Beispiel Vergleich Abfertigung NEU über EUR 7.500,00 Lohnsteuerpflichtigkeit Nr. <span style="color: red;">3</span> und Nr. <span style="color: red;">18</span>
 
 Vergleich betrifft das Jahr 2021: Insgesamt EUR 8.800,00 – Austrittsdatum: 30.04.2021
 
-Vorab muss geklärt werden, wie sich der Vergleich zusammensetzt und in welche Monate der Vergleich aufgeteilt gehört:
+Zunächst muss geklärt werden, wie sich der Vergleich zusammensetzt und in welche Monate der Vergleich aufgeteilt gehört:
 
 | **Betroffene Monate** | **laufender Bezug** | **Sonderzahlung** |   **GESAMT** |
 | --------------------- | ------------------: | ----------------: | -----------: |
@@ -672,7 +672,7 @@ Es erfolgt nun eine automatische Erstellung der Storno mBGMs für die Monate Jä
 
 ![Image](<img/image646.png>){width="600"}
 
-Drucken Sie nun das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
+Drucken Sie das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
 
 ### Berechnung SV Abzug des Dienstnehmers
 
@@ -695,7 +695,7 @@ Es gelangen EUR 912,24 im **Juni** **2022** als SV-DN-Anteil zum Abzug.
 
 **Eintritts- und Austrittsbildschirm**
 
-Im *Eintrittsbildschirm* geben Sie den 01.06.2022 ein. Ebenso geben Sie das Häkchen bei *Beginn BV-Beitragspflicht* heraus. Im *Austrittsbildschirm* geben Sie als Austrittsdatum den 30.06.2022 ein. Bei *Austrittsgrund* erfassen Sie denselben Grund wie bei dem ursprünglichen Dienstverhältnis.
+Im *Eintrittsbildschirm* geben Sie den 01.06.2022 ein. Ebenso entfernen Sie das Häkchen bei *Beginn BV-Beitragspflicht*. Im *Austrittsbildschirm* geben Sie als Austrittsdatum den 30.06.2022 ein. Bei *Austrittsgrund* erfassen Sie denselben Grund wie bei dem ursprünglichen Dienstverhältnis.
 
 !!! warning "Hinweis"
     Die An- und Abmeldung wird nicht an die ÖGK versendet.
@@ -714,7 +714,7 @@ Gehen Sie zu den *Fixen Lohnarten Gehalt / Lohn*. Stellen Sie den *Betrag* auf 0
 
 In den *Freien Lohnarten* geben Sie jetzt die Vergleichsbeträge, den Sozialversicherungsabzug und die Werbungskosten ein. Die Lohnarten hierfür finden Sie im oberen Bereich unter **Allgemeine Informationen**. Der Vergleichsbetrag muss aufgeteilt werden, da nur EUR 7.500,00 mit dem festen Steuersatz besteuert werden dürfen. Der Rest muss zu 4/5 mit dem laufenden Bezug versteuert werden.
 
-Die Beträge finden Sie in den zwei oben erwähnten Berechnungstabellen und in den Erläuterungen unten:
+Die Beträge entnehmen Sie in den beiden oben genannten Berechnungstabellen und in den Erläuterungen unten:
 
 ![Image](<img/image647.png>){width="400"}
 
@@ -761,7 +761,7 @@ Für den Monat Juni 2022 wird **kein** mBGM erstellt, da keine SV angefallen ist
 
 **Jahreslohnzettel L16**
 
-Der Jahreslohnzettel wird mit allen anderen Lohnzettel im Februar des Folgejahres versendet.
+Der Jahreslohnzettel wird mit allen anderen Lohnzetteln im Februar des Folgejahres versendet.
 
 ![Image](<img/image649.png>){width="500"}
 
