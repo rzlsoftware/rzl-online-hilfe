@@ -1,6 +1,6 @@
 # Digitaler Personalakt
 
-Mit dem kostenpflichten *RZL Lohn Modul digitaler Personalakt* *für die Lohnverrechnung*, welches in Kombination mit dem *RZL Lohn-Programm*, dem *RZL Board*, dem *RZL KIS* und der *RZL Dokumentenverwaltung plus* verfügbar ist, wollen wir die Digitalisierung auch im Bereich der Lohnverrechnung vorantreiben und Ihnen den einfachen und sicheren Umgang mit den sensiblen Lohndokumenten ermöglichen.
+Mit dem kostenpflichtigen *RZL Lohn Modul digitaler Personalakt* *für die Lohnverrechnung*, welches in Kombination mit dem *RZL Lohn-Programm*, dem *RZL Board*, dem *RZL KIS* und der *RZL Dokumentenverwaltung plus* verfügbar ist, wollen wir die Digitalisierung auch im Bereich der Lohnverrechnung vorantreiben und Ihnen den einfachen und sicheren Umgang mit den sensiblen Lohndokumenten ermöglichen.
 
 ## RZL BOARD
 
@@ -20,7 +20,7 @@ Kontrollieren Sie auch, ob im *RZL BOARD* unter *Stamm / Mitarbeiter* bei dem Be
 
 ### Hinzufügen von Dokumenten aus dem RZL LOHN (digitaler Personalakt)
 
-Je nachdem auf welcher Ebene Sie sich befinden, finden Sie unter *LOHN Allgemein* alle LOHN-spezifischen Dokumente und unter *DN-Dokumente* (Dienstnehmer-Dokumente) alle Dokumente mit Bezug zu einem Dienstnehmer Ihres Klienten. Die Funktionen innerhalb dieser Liste sind mit den Funktionen der *Standard* *Dokumentenliste* ident.
+Je nachdem auf welcher Ebene Sie sich befinden, finden Sie unter *LOHN Allgemein* alle LOHN-spezifischen Dokumente und unter *DN-Dokumente* (Dienstnehmer-Dokumente) alle Dokumente mit Bezug zu einem Dienstnehmer Ihres Klienten. Die Funktionen innerhalb dieser Liste sind mit den Funktionen der *Standard* *Dokumentenliste* identisch.
 
 ![Image](<img/image693.png>)
 
@@ -108,11 +108,11 @@ Die Nutzung der Filter- und Sortierfunktion im Aufrufdialog erfolgt über die Sp
 
 In der linken oberen Ecke des Fensters können Sie auf die Dokumentenfilter des *RZL Kanzleiinformationssystems* zugreifen. Die Anlage dieser Filter ist allerdings nur im *RZL Kanzleiinformationssystem* (nur für KIS-Administratoren und Klientenbearbeiter) möglich. Im Gegensatz zu den temporären Filtern, bleiben diese Dokumentenfilter auch nach dem Neustart des Programmes verfügbar.
 
-Die Sortierung der Einträge ist in den meisten Spalten über das *Kontextmenü* (rechte Maustaste) möglich. Zusätzlich können so weitere Spalten ein- oder ausgeblendet und über Drag und Drop die Position der Spalten verändert werden.
+Die Sortierung der Einträge ist in den meisten Spalten über das *Kontextmenü* (Rechtsklick) möglich. Zusätzlich können so weitere Spalten ein- oder ausgeblendet und über Drag und Drop die Position der Spalten verändert werden.
 
 ### ELDA Einstellungen
 
-Die Meldebestätigungen und Protokolle stellen einen beträchtlichen Teil der in der Lohnverrechnung anfallenden Dokumente dar. Nachdem die Arbeitsabläufe in den Kanzleien und Firmen in Verbindung mit diesen Dokumenten recht unterschiedlich sind, haben wir uns bemüht eine möglichst flexible Anbindung an den Personalakt zu gestalten.
+Die Meldebestätigungen und Protokolle stellen einen beträchtlichen Teil der in der Lohnverrechnung anfallenden Dokumente dar. Nachdem die Arbeitsabläufe in den Kanzleien und Firmen im Umgang mit diesen Dokumenten recht unterschiedlich sind, haben wir uns bemüht, eine möglichst flexible Anbindung an den Personalakt zu gestalten.
 
 Unter *Klient / Elektronische Übermittlung / ELDA Einstellungen* können Sie **kanzleiweite** Einstellungen für die ELDA Übermittlung definieren.
 
@@ -128,7 +128,7 @@ Mit den übrigen Optionen entscheiden Sie, ob und welche Arten von Meldebestäti
 
 ![Image](<img/image712.png>){width="500"}
 
-Mit Hilfe der Option *kein* *ELDA Export ins KIS* erfolgt bei dem betroffenen Lohnverrechnungs-Klienten **keine** automatische Übergabe von ELDA-Meldebestätigungen und Protokollen in den digitalen Personalakt.
+Mit Hilfe der Option *kein* *ELDA Export ins KIS* erfolgt bei dem betroffenen Lohnverrechnungs-Klienten **keine** automatische Übertragung von ELDA-Meldebestätigungen und Protokollen in den digitalen Personalakt.
 
 ## Klientenportal
 
@@ -148,7 +148,7 @@ Im Bereich *Dienstnehmer* kann zwischen den im Lohnverrechnungsprogramm abgerech
 
 Wenn die Dokumente über das *Klientenportal* vom Dienstnehmer an den Dienstgeber (Klienten) versendet wurden, kann die Weiterleitung an die Kanzlei über zwei verschiedene Programmpunkte innerhalb des Klientenbereiches erfolgen.
 
-Die erste Möglichkeit die Dokumente weiterzuleiten, findet Ihr Klient in der vom Dienstnehmer erhaltenen Nachricht. Nach Anwahl des Programmteiles *Informationsaustausch / Empfangene Nachrichten* wird das Dokument durch Anwahl der Schaltfläche *An den WT weiterleiten* direkt an die Kanzlei übermittelt.
+Die erste Möglichkeit, die Dokumente weiterzuleiten, findet Ihr Klient in der vom Dienstnehmer erhaltenen Nachricht. Nach Anwahl des Programmteiles *Informationsaustausch / Empfangene Nachrichten* wird das Dokument durch Klick auf die Schaltfläche *An den WT weiterleiten* direkt an die Kanzlei übermittelt.
 
 ![Image](<img/image714.png>)
 
@@ -166,11 +166,11 @@ Innerhalb des *Kanzleiinformationssystems* können Sie die Dokumente des *Klient
 
 Im oberen Bereich wählen Sie den gewünschten Klienten aus. Sie können die Dokumente auf einzelne Dokumentbereiche (hier: *Lohn- und Gehaltsverrechnung*) eingrenzen.
 
-Wenn die Dokumente mit Bezug auf einen Dienstnehmer aus dem Portal versendet wurden, ist der Dienstnehmer den Dokumenten auch im *Kanzleiinformationssystem* zugeordnet und wird entsprechend abgespeichert.
+Wenn die Dokumente mit Bezug auf einen Dienstnehmer aus dem Portal versendet wurden, ist der Dienstnehmer auch im *Kanzleiinformationssystem* den Dokumenten zugeordnet und wird entsprechend abgespeichert.
 
 ## RZL Dokumentenverwaltung plus
 
-Für die Nutzung des *RZL Lohn* Moduls D*igitaler Personalakt in der Lohnverrechnung* haben wir zusätzlich die ***RZL Dokumentenverwaltung plus*** entwickelt, welches einen **Zugriffsschutz für sensible Dokumente umfasst.** Dokumente werden dadurch nicht mehr im Dateisystem abgelegt, sondern werden durch eine spezielle RZL Komponente verwaltet (basierend auf der kostenlosen Microsoft SQL-Express Version oder einer kostenpflichtigen Microsoft SQL-Standard Edition), die den Zugriff auf Dokumente und Belege nur den berechtigten Personen erlaubt.
+Für die Nutzung des *RZL Lohn* Moduls D*igitaler Personalakt in der Lohnverrechnung* haben wir zusätzlich die ***RZL Dokumentenverwaltung plus*** entwickelt, das einen **Zugriffsschutz für sensible Dokumente umfasst.** Dokumente werden dadurch nicht mehr im Dateisystem abgelegt, sondern werden durch eine spezielle RZL Komponente verwaltet (basierend auf der kostenlosen Microsoft SQL-Express Version oder einer kostenpflichtigen Microsoft SQL-Standard Edition), die den Zugriff auf Dokumente und Belege nur den berechtigten Personen erlaubt.
 
 Sobald die *RZL Dokumentenverwaltung plus* lizenziert und aktiviert wird, werden alle neu hinzugefügten Dokumente automatisch in die *RZL Dokumentenverwaltung plus* übernommen. Bestehende Dokumente können je Klient gesondert in das neue System übernommen werden. Siehe dazu auch die entsprechende Beschreibung zur *RZL Dokumentenverwaltung plus* im **RZL Setup-Handbuch** (unter Punkt „Dokumentenverwaltung plus einrichten“).
 

@@ -6,7 +6,7 @@ Unter *Stamm / AMS-KUA-Projekte* haben Sie die Möglichkeit, die AMS-Projekte f�
 
 ![Image](<img/image667.png>){width="500"}
 
-Handelt es sich um einen Verlängerungsantrag so setzen Sie den Haken bei *Verlängerung der Kurzarbeit*. Bei einem Verlängerungsantrag können Sie über das Zusatzfeld *urspr. Antrag* die Nummer des ursprünglichen Antrages eintragen, oder mit der *F2-Taste* auswählen. Einige Grunddaten werden aus dem ursprünglichen Antrag übernommen, können aber natürlich ergänzt oder korrigiert werden. Auch die Dienstnehmer, die beim urspr. Antrag hinterlegt waren, sind automatisch in den Verlängerungsantrag übernommen worden. Im Falle eines Neuantrages sind die Felder *Kurzarbeit Beginn, Ende, Arbeitsausfall in %* und die *Normalarbeitszeit lt. KV* vollständig zu erfassen.
+Handelt es sich um einen Verlängerungsantrag so setzen Sie den Haken bei *Verlängerung der Kurzarbeit*. Bei einem Verlängerungsantrag können Sie über das Zusatzfeld *urspr. Antrag* die Nummer des ursprünglichen Antrages eintragen, oder mit der *F2-Taste* auswählen. Einige Grunddaten werden aus dem ursprünglichen Antrag übernommen, können aber natürlich ergänzt oder korrigiert werden. Auch die Dienstnehmer, die beim ursprünglichen Antrag hinterlegt waren, sind automatisch in den Verlängerungsantrag übernommen worden. Im Falle eines Neuantrages sind die Felder *Kurzarbeit Beginn, Ende, Arbeitsausfall in %* und die *Normalarbeitszeit lt. KV* vollständig zu erfassen.
 
 Im *Kurzarbeit-Abrechnungsbildschirm* werden bei den Dienstnehmern die *Antragsnummer* und die *AMS-Projektnummer* hinterlegt. Alle weiteren Kurzarbeitsdaten bleiben unverändert.
 
@@ -18,18 +18,18 @@ Wählen Sie das korrekte AMS-Projekt aus und klicken Sie auf die Schaltfläche *
 
 ![Image](<img/image669.png>){width="500"}
 
-Sobald Sie die Dienstnehmer dem AMS-Projektantrag zugeordnet haben, können Sie die im Zuge der Datenkonvertierung erstellten, aber nicht mehr benötigen AMS-KUA-Projekte über die Schaltfläche *Löschen* entfernen.
+Sobald Sie die Dienstnehmer dem AMS-Projektantrag zugeordnet haben, können Sie die im Zuge der Datenkonvertierung erstellten, aber nicht mehr benötigten AMS-KUA-Projekte über die Schaltfläche *Löschen* entfernen.
 
 **Filtermöglichkeiten**
 
 Es stehen Ihnen nachfolgende Filtermöglichkeiten zur Verfügung.
 
 - *Antragsnummer*: Die Dienstnehmer, die dem jeweiligen Antrag zugeordnet wurden, werden gefiltert.
-- *Urspr. Antrag*: Dieses Feld ist nur freigeschaltet, wenn Sie in einem Verlängerungsantrag filtern. Sie können sich die Dienstnehmer des urspr. Antrages anzeigen lassen.
+- *Urspr. Antrag*: Dieses Feld ist nur freigeschaltet, wenn Sie in einem Verlängerungsantrag filtern. Sie können sich die Dienstnehmer des ursprünglichen Antrages anzeigen lassen.
 - *Dienstnehmer von … bis*: Filtern nach der/den gewünschten Dienstnehmernummer/n.
 - *Suchbegriff*: Sie können nach Vornamen, Nachnamen, SV-Nummern und Wohnort des Dienstnehmers filtern.
 - *Alle Dienstnehmer*: Anzeige aller Dienstnehmer im Klienten. Diese Option ist standardmäßig gesetzt.
-- *Alle Dienstnehmer mit Kurzarbeit aber ohne AMS-KUA-Projekt:* Es werden Ihnen alle Dienstnehmer gefiltert, die zwar die Kurzarbeit in der Abrechnung aktiviert haben, aber bei denen noch kein Kurzarbeitsprojekt zugeordnet wurde.
+- *Alle Dienstnehmer mit Kurzarbeit aber ohne AMS-KUA-Projekt:* Es werden Ihnen alle Dienstnehmer gefiltert, die zwar die Kurzarbeit in der Abrechnung aktiviert haben, aber für die noch kein Kurzarbeitsprojekt zugeordnet wurde.
 
 **Sonderfunktionen**
 
@@ -37,7 +37,7 @@ Nachfolgend werden Ihnen zusätzliche Sonderfunktionen zum Überschreiben bzw. L
 
 **Kurzarbeitsdaten initialisieren und die Antragsdaten neu übernehmen**
 
-Mit dieser Option können Sie für die markierten Dienstnehmer die Daten des Antrages neu übernehmen bzw. alle bereits vorhandenen Kurzarbeitsdaten löschen. Das ist nur möglich, wenn keine Abrechnungen für den Zeitraum vorhanden sind.
+Mit dieser Option können Sie für die markierten Dienstnehmer die Daten des Antrags neu übernehmen bzw. alle bereits vorhandenen Kurzarbeitsdaten löschen. Das ist nur möglich, wenn keine Abrechnungen für den Zeitraum vorhanden sind.
 
 **Kurzarbeit deaktivieren und sämtliche Kurzarbeitsdaten löschen**
 
@@ -45,7 +45,7 @@ Die Kurzarbeit wird deaktiviert. D. h. alle Kurzarbeitsdaten werden gelöscht. 
 
 **Aufruf Kurzarbeits-Stammdaten**
 
-Über den Stammdatendialog der *AMS-KUA-Projekte* und anschließend über die Schaltfläche *DN Liste* können Sie mittels Doppelklick auf den gewünschten Dienstnehmer eine Gegenüberstellung der Kurzarbeits-Stammdaten für den ursprünglichen Antrag und den Verlängerungsantrag anzeigen lassen.
+Über den Stammdatendialog der *AMS-KUA-Projekte* und anschließend über die Schaltfläche *DN Liste* können Sie durch Doppelklick auf den gewünschten Dienstnehmer eine Gegenüberstellung der Kurzarbeits-Stammdaten für den ursprünglichen Antrag und den Verlängerungsantrag anzeigen lassen.
 
 ![Image](<img/image670.png>){width="600"}
 
@@ -120,7 +120,7 @@ In Fällen bei denen vor der Kurzarbeit **unbezahlte Zeiträume** vorlagen, muss
 
 **Entgeltdynamisierung**
 
-Mit Phase 3 begann die Entgeltdynamisierung des Brutto vor Kurzarbeit. Bislang waren bei Fällen ununterbrochener Kurzarbeit seit März 2020 stets die Bezüge vor Kurzarbeit bzw. ein entsprechender Durchschnitt der Bezüge für das Bruttoentgelt für die Kurzarbeitsunterstützung relevant.
+Mit Phase 3 begann die Entgeltdynamisierung des Brutto vor Kurzarbeit. Bislang waren bei Fällen ununterbrochener Kurzarbeit seit März 2020 stets die Bezüge vor Kurzarbeit bzw. ein entsprechender Durchschnittswert der Bezüge für das Bruttoentgelt für die Kurzarbeitsunterstützung relevant.
 
 Seit der Phase 3 haben **KV-Erhöhungen, Umstufungen/Umgruppierungen** innerhalb des Kollektivvertrags und **Änderungen beim Stundenausmaß** der Dienstnehmer eine Veränderung des Bruttoentgelts für die Kurzarbeitsunterstützung und damit auch eine Veränderung des Mindestbruttoentgelts zur Folge.
 
@@ -145,7 +145,7 @@ Sie haben hier die Möglichkeit eine prozentuelle KV-Erhöhung oder einen fixen 
 
 **SV-Bemessung vor Kurzarbeit**
 
-Hier wird vom Programm die letzte SV-Bemessung vor dem Kurzarbeitsbeginn vorgeschlagen. Dieser Wert kann von Ihnen jederzeit abgeändert werden. Bei einem erneuten Beginn einer Kurzarbeitsphase bzw. bei einer Verlängerung der Kurzarbeit muss im ersten Monat ein *Günstigkeitsvergleich* gemacht werden. Dieser Vergleich wird vom Programm automatisch durchgeführt. Mit drücken der *F2-Taste* kann der Vorschlag erneut aufgerufen werden.
+Hier wird vom Programm die letzte SV-Bemessung vor dem Kurzarbeitsbeginn vorgeschlagen. Dieser Wert kann von Ihnen jederzeit abgeändert werden. Bei einem erneuten Beginn einer Kurzarbeitsphase bzw. bei einer Verlängerung der Kurzarbeit muss im ersten Monat ein *Günstigkeitsvergleich* durchgeführt werden. Dieser Vergleich wird vom Programm automatisch durchgeführt. Durch Drücken der *F2-Taste* kann der Vorschlag erneut aufgerufen werden.
 
 **BV-Bemessung vor Kurzarbeit**
 
@@ -204,7 +204,7 @@ In Fällen wo im AMS Tool eine höhere Kurzarbeitsunterstützung angezeigt wird,
 
 **Abweichendes Mindestbrutto während Kurzarbeit**
 
-Hier geben Sie den Betrag des abweichenden Mindestbrutto ein.
+Hier geben Sie den Betrag des abweichenden Mindestbruttos ein.
 
 ### Kurzarbeitsunterstützung – Stunden
 

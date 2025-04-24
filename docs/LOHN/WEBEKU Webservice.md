@@ -10,7 +10,7 @@ Wählen Sie zunächst den Punkt *Webservicekonten verwalten*.
 
 ![Image](<img/image717.png>){width="500"}
 
-Über die Schaltfläche *Neues Konto* *anlegen* wird automatisch ein Username vergeben, der noch mit einer E-Mail-Adresse ergänzt werden muss. Bereits bestehende Webservice-Benutzer können Sie in dieser Liste bearbeiten bzw. löschen.
+Über die Schaltfläche *Neues Konto* *anlegen* wird automatisch ein Benutzername vergeben, der noch mit einer E-Mail-Adresse ergänzt werden muss. Bereits bestehende Webservice-Benutzer können Sie in dieser Liste bearbeiten bzw. löschen.
 
 ![Image](<img/image718.png>){width="600"}
 
@@ -18,11 +18,11 @@ Wählen Sie zunächst den Punkt *Webservicekonten verwalten*.
 
 ![Image](<img/image720.png>){width="600"}
 
-Im anschließenden Bildschirm können Sie über die entsprechende Schaltfläche ein PDF-Dokument mit den Zugangsdaten herunterladen, welches Sie abspeichern oder ausdrucken sollten.
+Im anschließenden Bildschirm können Sie über die entsprechende Schaltfläche ein PDF-Dokument mit den Zugangsdaten herunterladen, das Sie abspeichern oder ausdrucken sollten.
 
 Nun muss der neu angelegte Webservice–Benutzer noch mit der entsprechenden Berechtigung belegt werden. Dazu wählen Sie im USP die Option *Webservicerechte verwalten*.
 
-Über den Punkt *Zuordnen* können Sie den jeweiligen Benutzer „WEBEKU WS-Beitragskonto“ vergeben.
+Über den Punkt *Zuordnen* können Sie den jeweiligen Benutzer „WEBEKU WS-Beitragskonto“ zuordnen.
 
 ![Image](<img/image721.png>){width="600"}
 
@@ -50,11 +50,11 @@ Durch Auswahl des Buttons *Suchen / Öffnen* werden **alle Beitragskonten dieses
 ![Image](<img/image725.png>)
 
 !!! warning "Hinweis"
-    Es werden nur all jene Beitragskonten angeführt, die im Klienten bzw. Unterdienstgeber hinterlegt sind und welche im USP zugeordnet wurden.
+    Es werden nur all jene Beitragskonten angeführt, die im Klienten bzw. Unterdienstgeber hinterlegt sind und die im USP zugeordnet wurden.
 
 ![Image](<img/image726.png>)
 
-Den aktuellen Saldo der einzelnen Beitragskontonummern sehen Sie in der Spalte *Saldo.*
+Den aktuellen Saldo der einzelnen Beitragskontonummern sehen Sie in der Spalte *Saldo*.
 
 **Ausgabe-/Ausdruckmöglichkeiten**
 
@@ -144,4 +144,4 @@ Durch Anwahl der Schaltfläche *Übernehmen / Zwischenablage* wird die Sozialver
 
 **Versicherungsnummernabfrage über Aufruf**
 
-Sie haben auch die Möglichkeit die Versicherungsnummernabfrage über *Aufruf / WEBEKU SV Nr. Abfrage* aufzurufen, woraufhin der WEBEKU Versicherungsnummernabfrage-Dialog erscheint. Der Dialog kann dann mit den Pflichtfeldern Name, Vorname und Geburtsdatum befüllt werden. Durch Drücken des Buttons *Suchen* ist der Hinweis bezüglich Datenschutzes zu sehen, sowie nach erfolgreicher Suche die Sozialversicherungsnummer. Die Sozialversicherungsnummer kann über die Schaltfläche *Übernehmen / Zwischenablage* in die Zwischenablage gegeben und in ein beliebiges Feld oder Dokument eingefügt werden.
+Sie haben auch die Möglichkeit, die Versicherungsnummernabfrage über *Aufruf / WEBEKU SV Nr. Abfrage* aufzurufen, woraufhin der WEBEKU Versicherungsnummernabfrage-Dialog erscheint. Der Dialog kann dann mit den Pflichtfeldern Name, Vorname und Geburtsdatum befüllt werden. Durch Drücken des Buttons *Suchen* ist der Hinweis bezüglich Datenschutzes zu sehen, sowie nach erfolgreicher Suche die Sozialversicherungsnummer. Die Sozialversicherungsnummer kann über die Schaltfläche *Übernehmen / Zwischenablage* in die Zwischenablage kopiert und in ein beliebiges Feld oder Dokument eingefügt werden.
