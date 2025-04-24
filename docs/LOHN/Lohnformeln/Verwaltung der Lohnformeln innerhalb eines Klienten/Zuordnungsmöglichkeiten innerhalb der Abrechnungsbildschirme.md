@@ -1,6 +1,6 @@
 # Zuordnungsmöglichkeiten innerhalb der Abrechnungsbildschirme
 
-**Fixe Lohnarten**
+## Fixe Lohnarten
 
 - Lohn / Gehalt
 
@@ -30,7 +30,7 @@
 
 - Urlaubsablöse
 
-- Schlechtwetter Ents. Lohnbasis und Anzahl
+- Schlechtwetter-Entschädigung Lohnbasis und Anzahl
 
 - Unbezahlter Urlaub Betrag und Anzahl
 
@@ -50,7 +50,7 @@
 
 - Bem. BV-Krankheit
 
-**Freie Lohnarten**
+## Freie Lohnarten
 
 - Anzahl
 
@@ -58,7 +58,7 @@
 
 - Betrag
 
-**Überstunden**
+## Überstunden
 
 - Überstunden-Grundlohn
 
@@ -68,13 +68,13 @@
 
 - abw. Basis MA-Zuschlag
 
-**Austritt**
+## Austritt
 
 - Kündigungsentschädigung
 
 - Ersatzleistung (UE)
 
-**Urlaub**
+## Urlaub
 
 - Anspruch
 

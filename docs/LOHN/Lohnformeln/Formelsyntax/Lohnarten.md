@@ -4,7 +4,7 @@
 
 **Wert = Lohnart()Wert.()**
 
-Die Formel *Wert* addiert die Beträge auf die zugegriffen wird (keine Durchschnittsbildung).
+Die Formel *Wert* addiert die Beträge, auf die zugegriffen wird (keine Durchschnittsbildung).
 
 **Wert Wenn Überwiegend = Lohnart()WertWennÜberwiegend()**
 
@@ -20,36 +20,31 @@ Mit dieser Formel kann auf die im Feld *Basis* eingetragenen Werte einer freien 
 
 **Durchschnitt = Lohnart().Durchschnitt()**
 
-Die Formel *Durchschnitt* addiert die Beträge auf die zugegriffen wird und bildet den Durchschnitt. Die Durchschnittsberechnung erfolgt mit 30 SV-Tagen pro Monat.
+Die Formel *Durchschnitt* addiert die Beträge, auf die zugegriffen wird und bildet den Durchschnitt. Die Durchschnittsberechnung erfolgt mit 30 SV-Tagen pro Monat.
 
 **Durchschnitt Wenn Überwiegend = Lohnart().DurchschnittWennÜberwiegend()**
 
 Die Formel filtert heraus, ob die Beträge überwiegend in den Monaten aufgetreten sind. Nur wenn die Beträge überwiegend aufgetreten sind, wird die Formel berechnet.
 
-## Formelsyntax
+| **Formelsyntax** |                                                |
+| ---------------- | ---------------------------------------------- |
+| Lohnart(1001...) | Fixe Lohnarten                                 |
+| Lohnart(1-999)   | Freie Lohnarten                                |
+| Lohnart(2001…)   | Bemessungen (Bem. SZ, Bem. Abfertigung alt, …) |
 
-Lohnart(1001...) Fixe-Lohnarten
+| **Zugriff auf Werte**               |
+| ----------------------------------- |
+| Lohnart(191).Wert(Monat\[\|Jahr\])  |
+| Lohnart(1001).Wert(Monat\[\|Jahr\]) |
+| Lohnart(2001).Wert(Monat\[\|Jahr\]) |
 
-Lohnart(1-999) Freie-Lohnarten
+| **Bei freien Lohnarten nach Einheiten** |
+| --------------------------------------- |
+| Lohnart(1).Anzahl(Monat\[\|Jahr\])      |
+| Lohnart(1).Basis(Monat\[\|Jahr\])       |
 
-Lohnart(2001…) Bemessungen (Bem. SZ, Bem. Abfertigung alt, …)
+| **Ermittlung eines Durchschnittwertes über mehrere Monate** |
+| ----------------------------------------------------------- |
+| Lohnart(1001).Durchschnitt(Monat\[\|Jahr\])                 |
 
-## Zugriff auf Werte
-
-Lohnart(191).Wert(Monat\[\|Jahr\])
-
-Lohnart(1001).Wert(Monat\[\|Jahr\])
-
-Lohnart(2001).Wert(Monat\[\|Jahr\])
-
-## Bei freien Lohnarten nach Einheiten
-
-Lohnart(1).Anzahl(Monat\[\|Jahr\])
-
-Lohnart(1).Basis(Monat\[\|Jahr\])
-
-## Ermittlung eines Durchschnittwertes über mehrere Monate
-
-Lohnart(1001).Durchschnitt(Monat\[\|Jahr\])  
-dabei wird immer auf den Wert einer Lohnart zugegriffen (auch bei freien
-Lohnarten nach Einheiten)
+Dabei wird immer auf den Wert einer Lohnart zugegriffen (auch bei freien Lohnarten nach Einheiten)
