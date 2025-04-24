@@ -13,7 +13,7 @@ Die Versionsverwaltung wird derzeit dafür genutzt, die verschiedenen Versionen 
 Aufgrund der Dokumentation der Versionen können mit der Versionsverwaltung jetzt auch bei gebuchten Bele-gen Seiten bearbeitet werden.
 
 Die Versionsverwaltung befindet sich in den Beleglisten *Ungebuchte Belege/Belegfreigabe* bzw. *Gebuchte Belege*.
-In der Menüleiste oder mit einem Rechtsklick auf einen Beleg können Sie die Funktionen der Versionsverwal-tung nutzen.
+In der Menüleiste oder mit einem Rechtsklick auf einen Beleg können Sie die Funktionen der Versionsverwaltung nutzen.
 
 
 
