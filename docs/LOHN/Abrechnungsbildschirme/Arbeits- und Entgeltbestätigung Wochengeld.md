@@ -70,6 +70,10 @@ Hat das versicherungspflichtige Beschäftigungsverhältnis in den letzten drei K
 
 Sonderzahlungen sind Bezüge, die in größeren Zeiträumen als den Beitragszeiträumen gewährt werden, wie z. B. Weihnachtsremuneration und Urlaubszuschuss. In den Eingabefeldern ist einzutragen, wie viele Monats- oder Wochenbezüge Anspruch auf Sonderzahlungen pro Jahr bestehen.
 
+**Enthaltene Prämie / Provision**
+
+Tragen Sie hier den **Nettowert** der im Verdienst enthaltenen Provision bzw. Prämie ein. Wurde die Prämie bzw. Provision in der Sonderzahlung berücksichtigt, aktivieren Sie das Häkchen bei *Berücksicht. bei Sonderzahlung*.
+
 **Sachbezüge**
 
 Sachbezüge sind art- und mengenmäßig anzuführen. Als solche gelten u. a. freie Station, volle Verpflegung (1. Frühstück, 2. Frühstück, Mittag- und Abendessen, Jause), Wohnung, Bekleidung und Grunddeputat, wenn sie dem Arbeitnehmer unentgeltlich gewährt werden. Es ist auch anzugeben, an wie viel Tagen pro Woche Sachbezüge gewährt werden. Beitragspflichtige Sachbezüge, die während der Wochenhilfe nicht weiter gewährt werden, sind in den Netto-Arbeitsverdienst zu inkludieren.

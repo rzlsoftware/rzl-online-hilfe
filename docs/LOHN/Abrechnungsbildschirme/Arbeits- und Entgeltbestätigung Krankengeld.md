@@ -33,6 +33,10 @@ handelt.
 
 Die Einträge in den Feldern *Austrittsdatum, Kündigungsentschädigung, Ersatzleistung (UE)* beziehen sich auf die Daten im Eingabebildschirm [*Austritt*](../Abrechnungsbildschirme/Austritt.md).
 
+**Ausspruch der Kündigung**
+
+Hier müssen Sie jenen Tag des Ausspruchs der Kündigung eintragen, wenn es sich um die Kündigungsgründe *Kündigung durch den Dienstgeber* oder *einvernehmliche Lösung* handelt.
+
 **Volles Entgelt bis**
 
 In diesem Feld ist das Datum vom Ende des Entgeltanspruches unter Berücksichtigung des §&nbsp;9&nbsp;Arbeitsruhegesetzes einzutragen. Durch einen *rechten Mausklick* in dieses Feld und Auswahl von *Aufruf* oder der *F2-Taste* können Sie die Krankenstandskartei öffnen und den betroffenen Krankenstand auswählen. Es werden somit alle Felder automatisch befüllt.

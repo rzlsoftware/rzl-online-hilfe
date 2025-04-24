@@ -34,6 +34,10 @@ Unter *begünstigte Überstunden § 68(2)* sind die „normalen“ Überstunden 
 
 Unter den *begünstigten Überstunden § 68(1)* sind jene Überstunden einzugeben, die in der sogenannten Blockzeit (das heißt von 19 Uhr bis 7 Uhr) geleistet werden. Bei diesen Überstunden wird der Überstundenzuschlag gemäß § 68 (1) EStG 1988 bis zu den jeweiligen Höchstgrenzen steuerfrei behandelt.
 
+**Nicht begünstigte Überstunden § 68**
+
+Unter den *nicht begünstigten Überstunden gemäß § 68* sind jene Überstunden einzugeben, die nicht in die Begünstigung gemäß § 68 fallen. Bei diesen Überstunden wird der Überstundenzuschlag pflichtig abgerechnet.
+
 **Überstunden zu 50 % und 100 %**
 
 Eingabe der im Abrechnungszeitraum zu verrechnenden 50 % bzw. 100 % Überstunden mit bis zu 2 Nachkommastellen.

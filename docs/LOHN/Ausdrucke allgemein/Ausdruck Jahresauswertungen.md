@@ -160,9 +160,9 @@ Dieser Programmteil ermöglicht den Ausdruck einer Aufstellung der geringfügig 
 
 Auf dieser Aufstellung werden alle Dienstnehmer pro Monat mit den jeweiligen BV-Beiträgen ausgewiesen. Durch Anwahl *Trennung geringfügig und vollversichert* werden die BV-Beiträge getrennt nach geringfügigen und vollversicherten Dienstnehmern ausgewiesen.
 
-**Aufstellung Homeoffice-Pauschale**
+**Aufstellung Telearbeitspauschale**
 
-Mit dieser Aufstellung können alle Dienstnehmer mit Homeoffice-Pauschale ausgedruckt werden. Es werden die Homeoffice-Tage und die Homeoffice-Pauschale pro Monat aufgegliedert. Durch Anwahl *Alle Dienstnehmer ausgeben* werden auch Dienstnehmer, die keine Homeoffice-Pauschale bekommen, angedruckt.
+Mit dieser Aufstellung können alle Dienstnehmer mit Telearbeitspauschale ausgedruckt werden. Es werden die Telearbeitstage und die Telearbeitspauschale pro Monat aufgegliedert. Durch Anwahl *Alle Dienstnehmer ausgeben* werden auch Dienstnehmer, die keine Telearbeitspauschale bekommen, angedruckt.
 
 **Aufstellung Sozialfonds**
 

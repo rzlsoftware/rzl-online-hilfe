@@ -97,7 +97,34 @@ Eingabe des vollen Stundensatzes und der Stundenanzahl. Es werden davon automati
 **Unbezahlter Urlaub**
 
 Eingabe der Zahl der Tage und des Grundlohns für den Zeitraum des unbezahlten Urlaubs für Zwecke der Sozialversicherung. Für die Zeit des unbezahlten Urlaubes hat der Dienstnehmer die Sozialversicherungsbeiträge (einschließlich Schlechtwetterbeitrag), auch die Dienstgeberanteile, zur Gänze zu tragen. Die KU, der WF und die
-LKU (außer in der Steiermark und Kärnten) entfallen für solche Zeiträume. Der IESG-Zuschlag und der Beitrag gemäß dem Nachtschicht-Schwerarbeitsgesetz sind jedoch vom Dienstgeber zu entrichten.
+LKU (außer in der Steiermark und Kärnten) entfallen für solche Zeiträume. Der IESG-Zuschlag und der Beitrag gemäß dem Nachtschicht-Schwerarbeitsgesetz sind jedoch vom Dienstgeber zu entrichten. Seit 01.01.2025 erwartet sich die ÖGK bei einem kürzer als ein Monat andauernden Unbezahlten Urlaub eine Änderungsmeldung mit der Abmeldung von der Betrieblichen Vorsorgekasse.
+
+- **Verlängerung des Unbezahlten Urlaubs**
+    
+    Kommt es zur Verlängerung des Unbezahlten Urlaubs muss das *Bis-Datum* entsprechend geändert werden. Zum Beispiel neues Bis-Datum ist der 29.01.2025
+
+    ![Image](img/image142.png){width="500"}
+
+    Danach erfolgt eine erneute Änderungsmeldung mit dem neuen Von-Bis-Datum 20.01.2025 bis 29.01.2025
+
+    ![Image](img/image143.png){width="500"}
+
+    Es wird **nicht** wieder der vollständige Zeitraum angeführt, sondern nur die neue Änderung.
+
+- **Verkürzung des Unbezahlten Urlaubs**
+
+    Kommt es zu einer Verkürzung des unbezahlten Urlaubes, dann muss die BV-Pflicht für diesen Zeitraum wieder aktiviert werden. In diesem Fall wird eine Änderungsmeldung mit dem Zeitraum vom ursprünglichen Datum gesendet:
+    
+    ![Image](img/image144.png){width="500"}
+
+- **Veränderung des Von- UND Bis-Datums**
+    
+    Eine gleichzeitige Änderung des Von und Bis-Datums ist nicht möglich. Es erfolgt folgende Meldung:
+ 
+    ![Image](img/image145.png){width="300"}
+
+    Sie müssen zuerst die Änderung für das Von-Datum vornehmen. Änderungsmeldung erstellen und versenden. Danach können Sie das Bis-Datum verändern und die Änderungsmeldung versenden.
+
 
 **Teilentgelt**
 
