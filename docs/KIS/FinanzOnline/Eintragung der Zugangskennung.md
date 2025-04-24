@@ -83,7 +83,7 @@ aktualisiert.
 
 ## Anlage des Zugangs im Detail
 
-Der Zugang für die Steuerkonto-, Quoten und Vertretungslistenabfrage
+Der Zugang für die Steuerkonto-, Erklärungen und Vertretungslistenabfrage
 sollte nur die notwendigen Rechte besitzen. Sie sollten keinen
 Supervisor-Zugang verwenden. Bei der Anlage dieses Benutzers sollten nur
 nachfolgende Felder aktiviert werden. Dieser Zugang muss alle Klienten
@@ -94,14 +94,14 @@ Teamverwaltung geben.
 
 ![Benutzerkennung](<img/image130.png>)
 
-Nur in den Bereichen *Abfragen, Databox* und *Admin* müssen nachfolgende
+In den Bereichen *Abfragen, Databox* und *Admin* müssen nachfolgende
 Aktivierungen vorgenommen werden.
 
 ![Benutzerzugang Abfragen](<img/image131.png>)
 
 ![Benutzerzugang - Nachrichten](<img/image132.png>)
 
-![Benutzerzugang](<img/image133.png>)
+![Benutzerzugang](<img/Steuerkonto Admin Bereich FinOn.png>)
 
 ## Mitarbeiter
 
