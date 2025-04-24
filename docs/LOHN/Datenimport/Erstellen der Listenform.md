@@ -59,8 +59,7 @@ Wird die +(plus)-Struktur eines Datenordners nicht geöffnet (z. B. Sozialversi
 Im Listenfeld *Listenform* (am Bildschirm rechts) werden die ausgewählten Daten, die in die Liste eingetragen werden, angezeigt. Die Bewegung innerhalb der *Listenform* erfolgt entweder mit der *Maus*, mit der *Pfeil-nach-oben* oder der *Pfeil-nach-unten-Taste*. Durch Anwahl der Schaltfläche *Feld löschen* wird die im Listenfeld *Listenform* farblich hinterlegte Zeile gelöscht. Die Schaltfläche *Leerfeld* bewirkt das Einfügen einer Leerzeile. Dabei wird die farblich hinterlegte Zeile um eine Zeile nach unten verschoben.
 
 !!! info "Tipp"
-    Die Reihenfolge der Eintragung der zu importierenden Daten in das Listenfeld *Listenform* hängt von der Reihenfolge der Aktivierung der
-Daten im Listenfeld *Felder* ab. Die farblich hinterlegte Zeile kann durch Anwahl der *Nach-Oben*- oder *Nach-Unten-Schaltflächen* in eine andere Position in Bezug auf die Reihenfolge der Ausgabe gebracht werden.
+    Die Reihenfolge der Eintragung der zu importierenden Daten in das Listenfeld *Listenform* hängt von der Reihenfolge der Aktivierung der Daten im Listenfeld *Felder* ab. Die farblich hinterlegte Zeile kann durch Anwahl der *Nach-Oben*- oder *Nach-Unten-Schaltflächen* in eine andere Position in Bezug auf die Reihenfolge der Ausgabe gebracht werden.
 
 **Registerblatt Optionen**
 

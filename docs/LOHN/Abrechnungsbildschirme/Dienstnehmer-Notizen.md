@@ -10,7 +10,9 @@ In diesem Feld ist eine Eingabe von bis zu 50 Zeichen möglich. Im Kontextmenü,
 
 !!! info "Tipp"
     Die *F2-Taste* bewirkt den Eintrag der Summe der *Arbeitstage* im gewählten Zeitraum.
+
     Die *F3-Taste* bewirkt den Eintrag der Summe der *Werktage* im gewählten Zeitraum.
+    
     Die *F4-Taste* bewirkt den Eintrag der Summe der *Wochentage* im ausgewählten Zeitraum.
 
 **Entfernen einer Zeile**

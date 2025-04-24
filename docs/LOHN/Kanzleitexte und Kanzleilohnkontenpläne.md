@@ -5,7 +5,7 @@ Das RZLWin-Lohnprogramm bietet Ihnen die Möglichkeit, Standardtexte für den Ab
 !!! info "Tipp"
     Im Programmteil *Klient / Kanzlei / Texte von Klient übernehmen* besteht die Möglichkeit, beim einzelnen Klienten angelegte Standard-, Dienstzettel- oder Abrechnungstexte als Kanzleitexte-Tabelle anzulegen.
 
-Innerhalb des Klienten besteht im Programmteil *Stamm / Texte von Kanzlei-Tabelle übernehmen* die Möglichkeit, eine Kanzleitexte-Tabelle auf den Klienten zu übertragen.
+    Innerhalb des Klienten besteht im Programmteil *Stamm / Texte von Kanzlei-Tabelle übernehmen* die Möglichkeit, eine Kanzleitexte-Tabelle auf den Klienten zu übertragen.
 
 ## Kanzleitexte
 

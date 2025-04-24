@@ -5,7 +5,7 @@ Tritt ein zuvor ausgetretener Dienstnehmer erneut ins Unternehmen ein, so ist di
 !!! info "Tipp"
     Ausgetretene Dienstnehmer werden im Rahmen der [Jahresübernahme](../Jahresübernahme/Jahresübernahme%20innerhalb%20eines%20Klienten.md) nur dann ins neue Jahr übernommen, wenn das Auswahlfeld *ausgetretene Dienstnehmer übernehmen* aktiviert wurde.
 
-Automatisch übernommen werden ausgetretene Dienstnehmer,
+    Automatisch übernommen werden ausgetretene Dienstnehmer,
 
-- wenn als Austrittsgrund Mutterschutz, Karenz, Präsenz- oder Zivildienst angegeben ist,
-- oder wenn sich die SV-Pflicht aufgrund von Kündigungsentschädigung und/oder Urlaubsersatzleistung ins neue Jahr erstreckt.
+    - wenn als Austrittsgrund Mutterschutz, Karenz, Präsenz- oder Zivildienst angegeben ist,
+    - oder wenn sich die SV-Pflicht aufgrund von Kündigungsentschädigung und/oder Urlaubsersatzleistung ins neue Jahr erstreckt.

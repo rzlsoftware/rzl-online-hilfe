@@ -96,7 +96,7 @@ Die Differenz der SV von der Abrechnung im Austrittsmonat (ohne Vergleich) und j
 
 Als Ergebnis all dieser Änderungen kann für den Dienstnehmer ein Lohnzettel erstellt werden, es erfolgt jedoch richtigerweise kein Ausweis auf der monatlichen Beitragsgrundlagenmeldung (sofern in diesem Jahr keine Urlaubsersatzleistung abzurechnen war).
 
-## Beispiel Vergleich Abfertigung NEU unter EUR 7.500,00 Lohnsteuerpflichtigkeit Nr. <span style="color: red;">3</span>
+## Beispiel Vergleich Abfertigung NEU <span style="color: red;">unter EUR 7.500,00</span> Lohnsteuerpflichtigkeit Nr. <span style="color: red;">3</span>
 
 Vergleich betrifft das Jahr 2021: Insgesamt EUR 5.200,00 – Austrittsdatum: 31.12.2021
 
@@ -200,7 +200,7 @@ Im *Eintrittsbildschirm* geben Sie den 01.08.2022 ein. Ebenso entfernen Sie das 
 
 **Sozialversicherungsbildschirm**
 
-Wechseln Sie nun in den *Sozialversicherungsbildschirm*. Dort wählen Sie bei *BGR* *\<keine SV-Pflicht\>* aus.
+Wechseln Sie nun in den *Sozialversicherungsbildschirm*. Dort wählen Sie bei *BGR* *&lt;keine SV-Pflicht&gt;* aus.
 
 ![Image](<img/image611.png>){width="400"}
 
@@ -244,7 +244,7 @@ Der Jahreslohnzettel wird mit allen anderen Lohnzettel im Februar des Folgejahre
 
 ![Image](<img/image614.png>){width="500"}
 
-## Beispiel Vergleich Abfertigung ALT Lohnsteuerpflichtigkeit Nr. <span style="color: red;">18</span>
+## Beispiel Vergleich <span style="color: red;">Abfertigung ALT</span> Lohnsteuerpflichtigkeit Nr. <span style="color: red;">18</span>
 
 Vergleich betrifft das Jahr 2021: Insgesamt EUR 6.824,00 – Austrittsdatum: 31.07.2021
 
@@ -349,7 +349,7 @@ Im *Eintrittsbildschirm* geben Sie den 01.09.2022 ein. Im *Austrittsbildschirm* 
 
 **Sozialversicherungsbildschirm**
 
-Wechseln Sie nun in den *Sozialversicherungsbildschirm*. Dort wählen Sie bei *BGR* *\<keine SV-Pflicht\>* aus.
+Wechseln Sie nun in den *Sozialversicherungsbildschirm*. Dort wählen Sie bei *BGR* *&lt;keine SV-Pflicht&gt;* aus.
 
 ![Image](<img/image611.png>){width="400"}
 
@@ -412,7 +412,7 @@ Berechnung Betrag „Steuerfreie bzw. mit festen Sätzen versteuerte Bezüge gem
 | Gesamter Vergleich   | 6.824,00 |
 | : 5 (1/5 steuerfrei) | 1.364,80 |
 
-## Beispiel Nachzahlung Lohnsteuerpflichtigkeit Nr. <span style="color: red;">27</span>
+## Beispiel <span style="color: red;">Nachzahlung</span> Lohnsteuerpflichtigkeit Nr. <span style="color: red;">27</span>
 
 Nachzahlung betrifft das Jahr 2021: Insgesamt EUR 775,00 – Austrittsdatum: 31.10.2021
 
@@ -513,7 +513,7 @@ Im *Eintrittsbildschirm* geben Sie den 01.10.2022 ein. Ebenso entfernen Sie das 
 
 **Sozialversicherungsbildschirm**
 
-Wechseln Sie nun in den *Sozialversicherungsbildschirm*. Dort wählen Sie bei *BGR* *\<keine SV-Pflicht\>* aus.
+Wechseln Sie nun in den *Sozialversicherungsbildschirm*. Dort wählen Sie bei *BGR* *&lt;keine SV-Pflicht&gt;* aus.
 
 ![Image](<img/image611.png>){width="400"}
 
@@ -574,7 +574,7 @@ Berechnung des Betrags „Steuerfreie bzw. mit festen Sätzen versteuerte Bezüg
 | Gesamtbetrag der Nachzahlung | 775,00 |
 | : 5 (1/5 steuerfrei)         | 155,00 |
 
-## Beispiel Vergleich Abfertigung NEU über EUR 7.500,00 Lohnsteuerpflichtigkeit Nr. <span style="color: red;">3</span> und Nr. <span style="color: red;">18</span>
+## Beispiel Vergleich Abfertigung NEU <span style="color: red;">über EUR 7.500,00</span> Lohnsteuerpflichtigkeit Nr. <span style="color: red;">3</span> und Nr. <span style="color: red;">18</span>
 
 Vergleich betrifft das Jahr 2021: Insgesamt EUR 8.800,00 – Austrittsdatum: 30.04.2021
 
@@ -702,7 +702,7 @@ Im *Eintrittsbildschirm* geben Sie den 01.06.2022 ein. Ebenso entfernen Sie das 
 
 **Sozialversicherungsbildschirm**
 
-Wechseln Sie nun in den *Sozialversicherungsbildschirm*. Dort wählen Sie bei *BGR* \<*keine SV-Pflicht*\> aus.
+Wechseln Sie nun in den *Sozialversicherungsbildschirm*. Dort wählen Sie bei *BGR* *&lt;keine SV-Pflicht&gt;* aus.
 
 ![Image](<img/image611.png>){width="400"}
 

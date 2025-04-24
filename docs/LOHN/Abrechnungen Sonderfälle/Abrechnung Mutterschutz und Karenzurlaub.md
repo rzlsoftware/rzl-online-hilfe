@@ -8,9 +8,15 @@ Sobald die Dienstnehmerin dem Dienstgeber den voraussichtlichen Geburtstermin mi
 
 Wird jener Monat erreicht, in dem der Beginn des Mutterschutzes liegt, werden durch das Programm automatisch jene Informationen eingetragen, die für die Berechnung der MV-Bemessungsgrundlage Wochengeld erforderlich sind.
 
+!!! info "Tipp"
+    Der voraussichtliche Geburtstermin muss spätestens in im Vormonat des Beginn Mutterschutzes eingetragen werden, sodass der Austrittsbildschirm korrekt befüllt werden kann. Zum Beispiel Beginn Mutterschutz ist im April, dann muss spätestens in der März-Abrechnung der voraussichtliche Geburtstermin eingetragen werden.
+
 ![Image](<img/image519.png>){width="500"}
 
 Neben dem für die BV-Bemessung schon bisher notwendigen Austrittsgrund *Wochengeld*, wird auch das Ende des Entgeltanspruches mit dem Tag vor dem Beginn Mutterschutz vorgeschlagen (= letzter regulärer Beschäftigungstag). Wie schon bisher ist aus unserer Sicht zu diesem Zeitpunkt keine Abmeldung erforderlich, weshalb das Austrittsdatum hier nicht befüllt werden muss.
+
+!!! warning "Hinweis"
+    Manche ÖGK-Sachbearbeiten möchten zum Beginn des Mutterschutzes auch eine Abmeldung erhalten. Sie haben die Möglichkeit, eine manuelle Abmeldung über *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* zu erzeugen.
 
 Wie bisher wird im Bereich *Fixe Lohnarten* / *BV-Bemessung Sonderfälle* / im Feld *Mutterschutz* die Grundlage für den BV-Beitrag ermittelt. Die Basis hierfür bildet unverändert der Durchschnittsbezug der letzten 3 Monate vor Beginn des Mutterschutzes + 1/12 für Urlaubszuschuss und 1/12 für Weihnachtsremuneration. In den beiden Übergangsmonaten von lfd. Beschäftigung hin zum Mutterschutz und von Mutterschutz hin zur Karenz, wird die Bemessungsgrundlage für den BV-Beitrag auf Basis der SV-Tage aliquotiert. Vom Benutzer kann die Bemessungsgrundlage natürlich übersteuert werden.
 

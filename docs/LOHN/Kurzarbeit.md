@@ -190,14 +190,6 @@ Die Bruttoersatzrate ist einheitlich 88 %.
 
 Der Dienstnehmer hat während der Kurzarbeit Anspruch auf das Mindestbrutto. Das Mindestbrutto errechnet sich indem das Brutto vor Kurzarbeit mal 88 % gerechnet wird.
 
-**Bruttozuschlag**
-
-Gibt es nicht mehr. Ist weggefallen.
-
-**Mindest-Brutto inkl. Bruttozuschlag**
-
-Gibt es nicht mehr. Ist weggefallen.
-
 **Abweichende Eingabe Mindestbrutto**
 
 In Fällen wo im AMS Tool eine höhere Kurzarbeitsunterstützung angezeigt wird, als Sie ausgezahlt haben, kann hier ein abweichendes Mindestbrutto aktiviert werden.
@@ -275,18 +267,6 @@ In einem vollen Kurzarbeitsmonat errechnet sich dieser Wert aus der Bruttobasis 
 Es wird hier, ausgehend von den Bruttobezügen innerhalb der Kurzarbeit, auf das Mindestbrutto während Kurzarbeit aufgefüllt. Dieser Wert stellt den kommunalsteuerfreien Teil der Bezüge dar.
 
 Zu beachten ist, dass das Mindestbrutto durch die EFZ50%, den Urlaub, die Zeitausgleichsstunden oder, wenn es sich um einen untermonatigen Kurzarbeitsbeginn handelt, gekürzt wird.
-
-**Bruttozuschlag für Dienstnehmer**
-
-Gibt es nicht mehr. Ist weggefallen.
-
-**davon steuerfrei gemäß § 68 (1)**
-
-Gibt es nicht mehr. Ist weggefallen.
-
-**davon steuerfrei gemäß § 68 (2)**
-
-Gibt es nicht mehr. Ist weggefallen.
 
 **Erhöhung SV-Bemessung**
 

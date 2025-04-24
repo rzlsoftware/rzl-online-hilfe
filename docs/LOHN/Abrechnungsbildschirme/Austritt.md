@@ -90,9 +90,9 @@ Durch die Eingabe des Beginnes und Endes der Truppenübung wird automatisch die 
 !!! warning "Hinweis"
     Wird nur der Austritt eingetragen, jedoch nicht das Beginn- und Enddatum der Truppenübung, dann erfolgt folgender Hinweis:
 
-![Image](<img/image81.png>)
+    ![Image](<img/image81.png>)
 
-Würden Sie das Beginn- und Enddatum nicht eintragen, würde keine BV-Bemessung abgerechnet werden.
+    Würden Sie das Beginn- und Enddatum nicht eintragen, würde keine BV-Bemessung abgerechnet werden.
 
 **BV – Beitragspflicht**
 
