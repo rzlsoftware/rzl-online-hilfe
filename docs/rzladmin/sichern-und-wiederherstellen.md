@@ -4,21 +4,20 @@
 
 
 Unter diesem Menüpunkt kann eine Komplettsicherung durchgeführt werden.
-Dabei wird eine Sicherungsdatei erstellt die bei einem Server /- Rechnertausch in
-der neuem Systemumgebung wieder eingespielt werden kann. (Migration des Datenstandes)
+Dabei wird eine Sicherungsdatei erstellt, die bei einem Server /- Rechnertausch in
+der neuen Systemumgebung wieder eingespielt werden kann. (Migration des Datenstandes)
 Dabei werden sämtliche Klienten - Daten aus den Programmen und bei (optionaler) Installation
-mit einer SQL - Datenbank, die letzten drei Datenbank - Backups in die Sicherung aufgenommen.
+mit einer SQL-Datenbank, die letzten drei Datenbank - Backups in die Sicherung aufgenommen.
 
 Zur Erstellung einer routinemäßigen Sicherung der Daten kann über die Komplettsicherung
 jederzeit eine Sicherung erstellt und wieder hergestellt werden.
 
-!!!Warning
-    Folgendes gilt es zu beachten:
+!!! warning "**Achtung**:"
     
     Während der Erstellung der Sicherung können die RZL Programme nicht verwendet werden.
     Bei einer Einspielung einer älteren Sicherungsdatei gehen die aktuellen Datenstände die 
     bis zum Zeitpunkt der Erstellung der Sicherungsdatei getätigt wurden,
-     verloren – diese werden dann mit dem Einspielen der Sicherungsdatei „überschrieben“.
+    verloren – diese werden dann mit dem Einspielen der Sicherungsdatei „überschrieben“.
 
 **Vorgang:**
 Zunächst wird der Pfad angegeben an dem die Sicherungsdatei abgespeichert werden soll:
@@ -26,12 +25,12 @@ Zunächst wird der Pfad angegeben an dem die Sicherungsdatei abgespeichert werde
 
 ![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_Komplettsicherungspfad.png)
 
-Optional kann ausgewählt werden ob die Sicherung nach Abschluss nochmals eines Prüflaufes unterzogen wird und ob die Transaktionslog Datei (Idf-Datei)´verkleinert werden soll.
+**Optional** kann ausgewählt werden ob die Sicherung nach Abschluss nochmals eines Prüflaufes unterzogen wird und ob die Transaktionslog Datei (Idf-Datei) verkleinert werden soll.
 (Betrifft nur die RZL Installationen mit SQL - Instanz)
 
 ![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_Sicherungerstellen.png)
 
-Abschließend klicken Sie zum Erstellen der Sicherungsdatei auf den Button SICHERUNG STARTEN:
+Abschließend klicken Sie zum Erstellen der Sicherungsdatei auf den Button ***Sicherung starten***:
 
 ![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_Sicherungstarten.png)
 
@@ -40,10 +39,10 @@ Abschließend klicken Sie zum Erstellen der Sicherungsdatei auf den Button SICHE
 
 Mit dem Ordnersymbol kann die Sicherungsdatei im Explorer direkt geöffnet werden. Mit dem Papierkorb Symbol kann die Sicherungsdatei gelöscht werden.
 
-Im Bereich Wiederherstellung kann ma ebenfalls zusätzlich verschiedene Optinen auswählen:
+Bei der Wiederherstellung können zusätzlich Optionen ausgewählt werden:
 ![RZL Daten Sichern/Wiederherstellen](img/DatensichernWiederherstellen_Wiederherstellungstarten.png)
 
 Die Option "Datenbank auf aktuelle Version bringen" ist nur sinnvoll zum Auswählen, wenn es bei der RZL INstallatin sich um eine mit einer SQL - Instanz handelt. In den meisten Fällen reicht die Auswahl der obersten Option (Disaster Revovery - Rechnertausch / Servertausch).
 
-**Abschließend klicken Sie auf den Button "Wiederherstellung starten"**
+Abschließend klicken Sie auf den Button ***Wiederherstellung starten***.
 
