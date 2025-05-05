@@ -8,23 +8,60 @@ verschiedenen Anwendungen und Installationen.**
 
 Der Verwaltungsbereich ist in 10 weitere Einzel-Bereiche untergliedert die im Folgenden 
 erläutert werden:
-
-
 ## Wartung
-
-![Wartung](img/Verwaltung_Wartung.png)
-
 Unter *Wartung* können Sie die Fernwartung (via Teamviewer) für den RZL Kundensupport
 freigeben. Weitere Schaltflächen bieten Ihnen die Möglichkeit, Protokolle
 und Log-Dateien für die genaue Fehleruntersuchung hochzuladen.
+![Wartung](img/Verwaltung_Wartung.png)
 
-- Fernwartung starten
-- RZL Log-Dateien hochladen
-- Windows-Ereignisanzeige hochladen
-- RZL Setup Protokolle hochladen
-- Datei hochladen
-- Ordnerstruktur der RZL Programme hochladen
+- **Fernwartung starten** 
+  
+  ![Wartung](img/Verwaltung_Fernwartung.png)
+  
+  Hier kann in 3 Schritten für Supportzwecke die Fernwartung über den Teamviewer gestartet werden.
+  *(Die Fernwartung kann ebenfalls direkt in den RZL Programmen unter dem Reiter Hilfe aufgerufen 
+  werden*)
 
+I)*Benutzerkontensteuerung zulassen (JA / NEIN)*
+
+![Wartung](img/Verwaltung_Fernwartung_1.png)
+
+II) *Teamviewer Lizenzabkommen und Bedingungen akzeptieren und bestätigen*
+![Wartung](img/Verwaltung_Fernwartung_2.png)
+
+III)*Teamviewer ID und Passwort angeben 
+    (wird vom Support Mitarbeiter abgefragt um eine Verbindung zum PC herstellen zu können)*
+
+![Wartung](img/Verwaltung_Fernwartung_3.png) 
+
+
+- **RZL Log-Dateien hochladen**
+        ![Wartung](img/Verwaltung_Log%20Datein%20hochladen.png)
+
+    Hier können ihre Log-Dateien an RZL übermittelt werden, im Anschluss bekommen Sie eine Erfolgsmeldung.
+
+    ![Wartung](img/Verwaltung_Log-Dateien_Erfolgsmeldung.png)
+
+- **Windows-Ereignisanzeige hochladen**
+        ![Wartung](<img/Verwaltung_Ereignisanzeige hochladen.png>)
+  
+    Hier kann die Ereignisanzeige direkt an RZL hochgeladen werden. Optional kann ausgewählt werden ob die Ereignisse gefiltert oder ungefiltert versendet werden sollen. 
+      
+- **RZL Setup Protokolle hochladen**
+  ![Wartung](<img/Verwaltung_Setup Protokolle.png>)
+
+    Mit Hilfe dieses Werkzeugs können die Protokolle die bei der Durchführung des Updates geschrieben werden, für Supportzwecke, an den Server von RZL, hochgeladen werden.
+  
+- **Datei hochladen**
+  
+    ![Wartung](<img/Verwaltung_Wartung_Dateien hochladen.png>)
+
+    Über das Verzeichnis können hier selbst ausgewählte Dateien an RZL übermittelt werden. (Sicherungsdateien, Dump Dateien, etc.)
+
+- **Ordnerstruktur der RZL Programme hochladen**
+  ![Wartung](<img/Verwaltung_Wartung_Ordnerstruktur hochladen.png>)
+
+    Dieser Button lädt direkt die gesamte Ordnerstruktur des Programmverzeichnisses der RZL Programme hoch. 
 
 ## Lizenzierung
 
