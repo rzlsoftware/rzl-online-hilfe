@@ -129,24 +129,67 @@ Die Einstellungen können auch manuell über das SQL Management Studio gesetzt w
 
 - **Einzelbenutzermodus/Mehrbenutzermodus**
   
+  ![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_Einzelbenutzer_Mehrbenutzer.png>)
+
+  Dieser Modus regelt, ob mehrere Benutzer oder nur ein Benutzer schreiben und/-oder lesend auf einen Klienten zugreifen können.Für den mehrfachen Lesezugriff auf eine Klientendatei zur Bearbeitung ist einezusätzliche Lizenz erforderlich.
+
+  - *Einzelbenutzermodus*: Der Klient kann nur von einer Person in den klassischen RZL Programmen bearbeitet werden. Beim Öffnen eines Klienten, ist dieser für die Bearbeitung durch andere Benutzer gesperrt.
+  - *Mehrbenutzermodus*: Mit einer Zusatzlizenz (optional) kann ein Klient von einem Benutzer bearbeitet werden und gleichzeitig von weiteren Benutzern angesehen werden  (Lesemodus).
+  
+  
+
 - **SQL Index Wartung**
+
+![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_SQL Index Wartung.png>)
+
+Generell bezeichnet die SQL Index Wartung die Pflege und Optimierung der Indizes in einer SQL-Datenbank. Indizes beschleunigen Datenbankabfragen, können aber mit der Zeit fragmentieren oder an Performance verlieren. Durch die Wartung werden sie neu organisiert oder aufgebaut, um die Datenbankgeschwindigkeit und Stabilität zu erhalten.
+
+!!! warning "Hinweis"  
+    Diese Optionen sollten nur nach direkter Anweisung durch Support Mitarbeiter von RZL ausgeführt werden.
 
 - **SQL Statistik Wartung**
   
+![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_SQL Statistik Wartung.png>)
+
+Zur Aktualisieren der Statistiken in der SQL-Datenbank, der SQL-Engine, um optimale Zugriffswege für Abfragen zu erhalten. 
+
+!!! warning "Hinweis"  
+    Diese Optionen sollten nur nach direkter Anweisung durch Support Mitarbeiter von RZL ausgeführt werden.
 
 
 ## RZL Kanzlei-Informations-System
 
-Hier können Sie für das Programm *KIS* das Standardlayout des aktuellen
-Benutzers zurücksetzen.
-
 ![KIS](img/Verwaltung_KISEinstellungen.png)
+
+Hier können Sie für das Programm *KIS* das Standardlayout des aktuellen
+Benutzers zurücksetzen. Das bedeutet, dass alle individuellen Anpassungen der Ansicht (wie verschobene oder ausgeblendete Spalten/Fenster) wieder auf die Standarddarstellung zurückgesetzt werden. So wird die Oberfläche auf das ursprüngliche Layout zurückgesetzt, das von RZL vorgegeben ist.
+
 
 ## RZL Board Einstellungen
 
-Für das Programm *Board* können Sie im RZL Admin folgende Einstellungen setzen:
-
 ![Board Einstellungen](img/Verwaltung_BoardEinstellungen.png)
+
+Für das Programm *Board* können hier zusätzliche Einstellungen gesetzt werden.
+
+ ![Wartung](<img/Verwaltung_RZL Board_Standardlayout.png>)
+
+- *Standardlayout für aktuellen Benutzer zurücksetzen*:   Die Oberfläche wird auf das ursprüngliche Layout zurückgesetzt, individuelle Einstellungen können erneut im RZL Board vorgenommen werden.
+  
+![Wartung](<img/Verwaltung_RZL Board_Hintergrundstart.png>)
+
+- *RZL Board im Hintergrund automatisch mit Windows starten*:   Damit wird das RZL Board beim Starten von Windows automatisch im Hintergrund gestartet und ist sofort einsatzbereit, ohne dass Sie es manuell öffnen müssen.
+
+![Wartung](<img/Verwaltung_RZL Board_schließen.png>)
+
+- *RZL Board schließen wenn alle Fenster geschlossen werden*:  Diese Einstellung finden Sie auch im RZL Board im Bereich „Einstellungen“. Damit können Sie steuern, wie sich das Programm beim Schließen der Fenster verhält, je nach Ihren Arbeitsgewohnheiten oder der Umgebung (lokal oder remote).
+  
+
+    •	**Immer**: Das RZL Board wird immer geschlossen, wenn alle Fenster geschlossen wurden.
+
+    •	**Nur Remote**: Das RZL Board wird nur dann geschlossen, wenn alle Fenster geschlossen wurden und Sie sich auf einem Remote-Desktop (z.B. über eine Terminalserver-Sitzung) befinden.
+    
+    • **Nie**: Das RZL Board bleibt immer geöffnet, auch wenn alle Fenster geschlossen wurden.
+
 
 ## DSGVO
 
