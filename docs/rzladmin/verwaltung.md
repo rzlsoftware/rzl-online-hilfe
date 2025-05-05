@@ -1,19 +1,34 @@
 # Verwaltung
 
-In der Verwaltung können die RZL Programme mittels der Online-Lizenzierung
-freigeschaltet werden. Es können jedoch auch einige Einstellungen, Prüfungen
-und Installationen durchgeführt werden.
+![Wartung](img/Verwaltung_Menuepunkt.png)
+
+**In diesem Bereich finden Sie die RZL Online-Lizenzierung und Möglichkeiten zur Grundeinstellung,
+Upload - Möglichkeiten von Daten, Prüfungsmöglichkeiten und Optionen zur Konfiguration der 
+verschiedenen Anwendungen und Installationen.**
+
+Der Verwaltungsbereich ist in 10 weitere Einzel-Bereiche untergliedert die im Folgenden 
+erläutert werden:
+
 
 ## Wartung
 
-Im Bereich *Wartung* können Sie die Fernwartung für den RZL Kundensupport
-freigeben. Wenn Sie die Schaltfläche *Fernwartung* betätigen, öffnet sich der
-TeamViewer. Weitere Schaltflächen bieten Ihnen die Möglichkeit, Protokolle
-und Log-Dateien für die genaue Fehleruntersuchung hochzuladen.
-
 ![Wartung](img/Verwaltung_Wartung.png)
 
+Unter *Wartung* können Sie die Fernwartung (via Teamviewer) für den RZL Kundensupport
+freigeben. Weitere Schaltflächen bieten Ihnen die Möglichkeit, Protokolle
+und Log-Dateien für die genaue Fehleruntersuchung hochzuladen.
+
+- Fernwartung starten
+- RZL Log-Dateien hochladen
+- Windows-Ereignisanzeige hochladen
+- RZL Setup Protokolle hochladen
+- Datei hochladen
+- Ordnerstruktur der RZL Programme hochladen
+
+
 ## Lizenzierung
+
+der Online-Lizenzierung - freigeschaltet werden
 
 Durch Anklicken der Funktion *Öffnen* können Sie im darauffolgenden Fenster
 eine Online-Lizenzierung durchführen. Dabei benötigen Sie Ihre Anwendernummer
