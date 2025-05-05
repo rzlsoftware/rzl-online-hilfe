@@ -17,7 +17,7 @@ und Log-Dateien für die genaue Fehleruntersuchung hochzuladen.
 - **Fernwartung starten** 
   
   ![Wartung](img/Verwaltung_Fernwartung.png)
-  
+
   Hier kann in 3 Schritten für Supportzwecke die Fernwartung über den Teamviewer gestartet werden.
   *(Die Fernwartung kann ebenfalls direkt in den RZL Programmen unter dem Reiter Hilfe aufgerufen 
   werden*)
@@ -64,22 +64,76 @@ III)*Teamviewer ID und Passwort angeben
     Dieser Button lädt direkt die gesamte Ordnerstruktur des Programmverzeichnisses der RZL Programme hoch. 
 
 ## Lizenzierung
-
-der Online-Lizenzierung - freigeschaltet werden
-
-Durch Anklicken der Funktion *Öffnen* können Sie im darauffolgenden Fenster
-eine Online-Lizenzierung durchführen. Dabei benötigen Sie Ihre Anwendernummer
-und das Lizenzkennwort.
-
 ![Lizenzierung](img/Verwaltung_Lizenzierung.png)
+
+**Beim Öffnen des Lizenzmanagers kann die Lizenzierung mittels Anwendernummer und Lizenzpassworts durchgeführt werden.**
+
+![Wartung](img/Verwaltung_Lizenzierung_Zugangsdaten.png)
+
+**Des Weiteren kann hier die Lizenz, im Falle eines Rechner – oder Servertauschs, zurückgelegt werden.**
+
+![Wartung](<img/Verwaltung_Lizenierung_Lizenzen bearbeiten.png>)
+
+**Man erhält Informationen über den Lizenztyp die Anwendernummer und die Anzahl der benutzen Lizenzen in der jeweiligen Organisation.**
 
 ## Allgemeine Datenbank-Einstellungen und Funktionen
 
-Dieser Punkt bietet Ihnen verschiedene Einstellungs- und Prüfungsmöglichkeiten
-für die Datenbank. Außerdem können Sie mittels *Datenbank aktualisieren* die
-Datenbank automatisch auf die neueste Version aktualisieren lassen.
-
 ![Allgemeine DB-Einstellungen](img/Verwaltung_DBEinstellungen.png)
+
+Dieser Punkt bietet Ihnen verschiedene Einstellungs- und Prüfungsmöglichkeiten für die Datenbank (optional). 
+!!! warning "Hinweis"  
+    Einige Optionen sollten nur nach direkter Anweisung durch Support Mitarbeiter von RZL ausgeführt werden.
+
+
+- **Datenbank auf die neueste Version aktualisieren**
+
+![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_DB aktualisieren.png>)
+
+Beim Ausführen dieses Befehls erhält man folgende Hinweismeldung:
+
+![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_DB aktualisieren_2.png>)
+
+Nach erfolgreicher Aktualisierung erhält man folgende Meldung:
+
+![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_DB aktualisiert.png>)
+
+- **Ausstehende Aktualisierungen prüfen**
+![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_DB Prüfen.png>)
+
+Dieser Befehl sollte nur in Ausnahmefällen nach Aufforderung des Supports ausgeführt werden.
+(Wenn im Falle eines Setups die Programme zwar aktualsiert wurden aber die SQL-Instanz nicht)
+
+- **Rechte zum Aktualisieren einer neuen Version prüfen**
+![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_Rechte Prüfung.png>)
+
+Hier kann überprüft werden ob von einem Arbeitsplatz aus mittels vorhandener Berechtigungen ein Update eingespielt 
+werden darf.
+![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_Rechte Prüfung_Erfolg.png>)
+
+- **RZL Dienst Benutzer auf Datenbank berechtigen**
+  
+![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_RZL Dienst berechtigen.png>)
+
+Über diesem Button kann der RZL Dienst (optional) auf der Datenbank berechtigt werden.
+Die Einstellungen können auch manuell über das SQL Management Studio gesetzt werden (siehe dazu auch *Berechtigungskonzept*)
+
+![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_RZL Dienst berechtigen_erfolgsmeldung.png>)
+
+- **Transaktions-Log der Datenbank verkleinern**
+  
+  ![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_Transaktionslog.png>)
+
+  Dieser Befehl kann ausgeführt werden, wenn die Daten der Datenbank aus verschiedenen Gründen zunehmen, meist wenn Konfigurationen der Datenbank selbst nicht sauber gesetzt worden sind.
+
+  ![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_Transaktionslog_Erfolg.png>)
+
+- **Einzelbenutzermodus/Mehrbenutzermodus**
+  
+- **SQL Index Wartung**
+
+- **SQL Statistik Wartung**
+  
+
 
 ## RZL Kanzlei-Informations-System
 
