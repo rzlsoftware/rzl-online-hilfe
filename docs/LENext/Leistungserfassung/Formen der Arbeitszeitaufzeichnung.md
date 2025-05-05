@@ -6,8 +6,7 @@
 
     Ansicht in der Leistungserfassung vom Mitarbeiter:
 
-    
-    ![](<img/image14.png>)
+    ![](<img/image77.png>)
 
 -   *Arbeitszeit aus den Leistungen entnehmen*
 
@@ -22,8 +21,7 @@
 
     Ansicht in der Leistungserfassung vom Mitarbeiter:
 
-   
-    ![](<img/image15.png>)
+    ![](<img/image78.png>)
 
 -   *Keine Arbeitszeitaufzeichnung*
 
@@ -33,8 +31,7 @@
 
     Ansicht in der Leistungserfassung vom Mitarbeiter:
 
-    
-    ![](<img/image16.png>)
+    ![](<img/image79.png>)
 
 -   *Digitale Stempeluhr*
 
@@ -49,6 +46,9 @@
     Die Arbeitszeiten können mit der digitalen Stempeluhr nur für den
     aktuellen Tag erfasst werden.
 
+    Ansicht in der Leistungserfassung vom Mitarbeiter:
+
+    ![](<img/image80.png>)
 
 !!! warning "Hinweis"
     Die Arbeitszeiten sowie die Pausen sind nur in einer Leseansicht
@@ -59,7 +59,3 @@
     Bei der Digitalen Stempeluhr, ist der Import von Arbeitszeiten nicht
     möglich.
 
-Ansicht in der Leistungserfassung vom Mitarbeiter:
-
-
-![](<img/image17.png>)

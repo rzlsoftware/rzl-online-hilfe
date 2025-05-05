@@ -1,9 +1,9 @@
 # Datenübernahme
 
 Die Honorarverrechnung ermöglicht durch Anwahl des Programmteils
-*Datenübernahme / Datenimport* den Import von Tätigkeiten aus einer CSV
+*Datenübernahme / Datenimport* den Import von Tätigkeiten aus einer CSV-
 Datei. Um den erfolgreichen Import zu gewährleisten, muss die
-Import-Datei genau dem Format laut Schnittstellenbeschreibung
+Importdatei genau dem Format laut Schnittstellenbeschreibung
 entsprechen.
 
 ## Datenimport Tätigkeiten
@@ -12,7 +12,7 @@ Im Feld *Dateiname* können Sie mit den drei Punkten **(1)** die zu
 importierende Datei auswählen. Mit der Lupe **(2)** können Sie sich die
 Datei vor dem Import nochmals ansehen.
 
-Vorab wird empfohlen eine Vorprüfung **(3)** durchzuführen, somit werden
+Vorab wird empfohlen, eine Vorprüfung **(3)** durchzuführen, somit werden
 Sie gleich auf etwaige Probleme hingewiesen. Nach der erfolgreichen
 Vorprüfung können Sie mit der Schaltfläche *Prüfen und Importieren*
 **(4)** die Tätigkeiten in die Honorarverrechnung holen.
@@ -20,7 +20,7 @@ Vorprüfung können Sie mit der Schaltfläche *Prüfen und Importieren*
 Folgende Ergebnisse kann die Prüfung liefern:
 
 ![](<img/image150.png>) Info – Dies erhalten Sie,
-wenn Bsp. es die hinterlegte Verrechnungsgruppe noch nicht gibt und
+wenn z. B. es die hinterlegte Verrechnungsgruppe noch nicht gibt und
 diese angelegt wird. Der Import kann dennoch durchgeführt werden.
 
 ![](<img/image151.png>) Fehler – Der Import kann
@@ -65,7 +65,7 @@ verpflichtend mit Werten befüllt werden muss.
 | 13   | Feiertag                                    | Nein          | **J**, wenn es sich um eine Feiertagstätigkeit handelt. Ansonsten **N** oder leer lassen                                                                                           |
 | 14   | Spesen                                      | Nein          | **J**, wenn Leistungen der Tätigkeiten Spesen sind. Ansonsten **N** oder leer lassen                                                                                               |
 | 15   | Projektzeitraum in Note                     | Nein          | **J**, wenn in den Honorarnoten Projektzeiträume dieser Tätigkeit gedruckt werden sollen. Ansonsten **N** oder leer lassen                                                         |
-| 16   | Projektzeitraumeingabe verpflichtend        | Nein          | **J**, enn bei der Erfassung von Leistungen auf diese Tätigkeit die Eingabe des Projektzeitraumes verpflichtend sein soll. Ansonsten **N** oder leer lassen                        |
+| 16   | Projektzeitraumeingabe verpflichtend        | Nein          | **J**, wenn bei der Erfassung von Leistungen auf diese Tätigkeit die Eingabe des Projektzeitraumes verpflichtend sein soll. Ansonsten **N** oder leer lassen                       |
 | 17   | Uhrzeiteingabe verpflichtend                | Nein          | **J**, wenn bei der Erfassung von Leistungen auf diese Tätigkeit die Eingabe des Beginns und des Endes verpflichtend sind. Ansonsten **N** oder leer lassen                        |
 | 18   | Texteingabe verpflichtend                   | Nein          | **J**, wenn bei der Erfassung von Leistungen auf diese Tätigkeit die Eingabe eines Textes verpflichtend ist. Ansonsten **N** oder leer lassen                                      |
 | 19   | Erlöskonto                                  | Nein          | Bereich: 1-999999999; Das Erlöskonto wird beim Erstellen der Buchungssätze im Zuge des Finalisierens einer Note verwendet                                                          |
@@ -92,7 +92,7 @@ Im Feld *Dateiname* können Sie mit den drei Punkten **(1)** die zu
 importierende Datei auswählen. Mit der Lupe **(2)** können Sie sich die
 Datei vor dem Import nochmals ansehen.
 
-Vorab wird empfohlen eine Vorprüfung **(3)** durchzuführen, somit werden
+Vorab wird empfohlen, eine Vorprüfung **(3)** durchzuführen, somit werden
 Sie gleich auf etwaige Probleme hingewiesen. Nach der erfolgreichen
 Vorprüfung können Sie mit der Schaltfläche *Prüfen und Importieren*
 **(4)** die Leistungen und Arbeitszeiten in die Leistungserfassung der
@@ -100,8 +100,8 @@ Mitarbeiter bzw. ins HON Next holen.
 
 Folgende Ergebnisse kann die Prüfung liefern:
 
-![](<img/image150.png>)Info – Dies erhalten Sie,
-wenn Bsp. der Projektzeitraum im falschen Format ist und daher nicht
+![](<img/image150.png>) Info – Dies erhalten Sie,
+wenn z. B. der Projektzeitraum im falschen Format ist und daher nicht
 übernommen wird. Der Import kann dennoch durchgeführt werden.
 
 ![](<img/image151.png>) Fehler – Der Import kann
@@ -112,13 +112,13 @@ angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
 ![](<img/image153.png>)
 
 !!! warning "Hinweis"
-    Mit der Option *Importdatei nach Übernahme löschen*, wird die
+    Mit der Option *Importdatei nach Übernahme löschen* wird die
     Importdatei nach erfolgreichem Import im hinterlegten Ordner gelöscht.
 
 ### Schnittstellenbeschreibung Datenimport Leistungen
 
 Die importierten Leistungen werden als „freigegeben“ importiert. Es
-können nur vollständige Leistungen importiert werden, das heißt alle
+können nur vollständige Leistungen importiert werden, das heißt, alle
 Pflichtfelder müssen befüllt und in Ordnung sein. Bei unvollständigen
 und/oder fehlerhaften Leistungen wird der Import abgebrochen und alle
 fehlerhaften Zeilen werden im Protokoll angezeigt.
@@ -243,9 +243,9 @@ CSV-Standard „RFC 4180“ behandelt werden.</td>
 
 !!! warning "Hinweis"
     Abhängig bedeutet, dass die Befüllung dieses Feldes abhängig von den
-    Einstellungen im HON Next sind. Ist beispielsweise bei einer Tätigkeit
-    die Option Projektz*eitraum Eingabe* verpflichtend gesetzt, muss auch in
-    der Importdatei der Projektzeitraum eingegeben werde, da die Leistung
+    Einstellungen im HON Next ist. Ist beispielsweise bei einer Tätigkeit
+    die Option *Projektzeitraum Eingabe* verpflichtend gesetzt, muss auch in
+    der Importdatei der Projektzeitraum eingegeben werden, da die Leistung
     sonst ungültig ist.
 
 ### Schnittstellenbeschreibung Datenimport Arbeitszeiten
@@ -254,7 +254,7 @@ Ein Datenimport von Arbeitszeiten ist nur bei der Art der
 Arbeitszeitaufzeichnung *Beginn, Ende und Pausen pro Tag erfassen*
 (*Einstellungen / Mitarbeiter Leistungserfassung*) möglich.
 
-Es können nur vollständige Arbeitszeiten importiert werden, das heißt
+Es können nur vollständige Arbeitszeiten importiert werden, das heißt,
 alle Pflichtfelder müssen befüllt und in Ordnung sein. Bei
 unvollständigen und/oder fehlerhaften Arbeitszeiten wird der Import
 abgebrochen und alle fehlerhaften Zeilen werden im Protokoll angezeigt.
@@ -266,11 +266,11 @@ Die Importdatei der Arbeitszeiten muss wie folgt aufgebaut sein:
 
 Das Datum und die Mitarbeiternummer sind Pflichtfelder. Die restlichen
 Felder sind wie in der Leistungserfassung einzugeben. Nicht benötigte
-Felder werden leer gelassen. Wenn es sich um einen ganztätigen
+Felder werden leer gelassen. Wenn es sich um einen ganztägigen
 Zeitausgleich handelt, darf keine Arbeitszeit eingetragen werden,
-sondern nur ein J (=Ja) in der Spalte *ganztätiger Zeitausgleich*.
-Befindet sich der Mitarbeiter im Homeoffice, muss in der Spalte
-Homeoffice ein J (=Ja) eingetragen werden.
+sondern nur ein J (=Ja) in der Spalte *ganztägiger Zeitausgleich*.
+Macht der Mitarbeiter Telearbeit, muss in der Spalte
+Telearbeit ein J (=Ja) eingetragen werden.
 
 Es werden nur Dateien im Format „CSV (Trennzeichen-getrennt)“
 unterstützt. Jede einzelne Zeile wird von der nächsten durch die Zeichen
@@ -384,9 +384,9 @@ CR\LF getrennt.
 </tr>
 <tr class="even">
 <td>16</td>
-<td>Homeoffice</td>
+<td>Telearbeit</td>
 <td>Nein</td>
-<td>J, wenn es sich um einen Homeoffice-Tag handelt.</td>
+<td>J, wenn es sich um einen Telearbeitstag handelt.</td>
 </tr>
 </tbody>
 </table>

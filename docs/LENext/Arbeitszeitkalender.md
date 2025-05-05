@@ -16,8 +16,7 @@ Sie gelangen automatisch in die Tagesansicht des Arbeitszeitkalenders.
     Der Arbeitszeitkalender kann aus der Tageserfassung mit der
     Tastenkombination *Strg + K* geöffnet werden.
 
-
-![](<img/image89.png>)
+![](<img/image113.png>)
 
 Es können unterschiedliche Ansichten **(1)** des Arbeitszeitkalenders
 geöffnet werden und zwar:
@@ -206,10 +205,10 @@ eingetragen worden sein. Gleiches gilt für die Schaltfläche
 rechter Maustaste kann ein Urlaubstag/Krankenstand eingetragen werden
 
 
-Mittels der Schaltfläche *Homeoffice eintragen* **(7)** können Sie
-einen/mehrere Tage als Homeoffice Tage markieren. In der Wochen-/Monats-
-und Jahresansicht sehen Sie in der Spalte *Homeoffice* die in Summe
-erfassten Homeoffice Tage.
+Mittels der Schaltfläche *Telearbeit eintragen* **(7)** können Sie
+einen/mehrere Tage als Telearbeitstage markieren. In der Wochen-/Monats-
+und Jahresansicht sehen Sie in der Spalte *Telearbeit* die in Summe
+erfassten Telearbeitstage.
 
 !!! info "Tipp"
     Der Arbeitszeitkalender kann auch direkt in der Leistungserfassung beim

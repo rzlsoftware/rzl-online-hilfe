@@ -5,8 +5,7 @@
 Durch die Anwahl des Menüpunktes *LE* **(1)** gelangen Sie in die
 Leistungserfassung.
 
-
-![](<img/image4.png>)
+![](<img/image111.png>)
 
 Die Leistungserfassung ist mitarbeiterbezogen. Standardmäßig wird der
 heutige Tag geöffnet. Wir empfehlen Ihnen die Leistungserfassung täglich
@@ -22,8 +21,7 @@ gleichzeitig geöffnet sein.
 Über das linke Icon **(1)** können Sie ein Fenster aus dem Board
 ausdocken und anschließend wieder ins RZL Board eindocken.
 
-
-![](<img/image6.png>)
+![](<img/image112.png>)
 
 Weitere Informationen zur Allgemeinen Bedienung, wie zum Beispiel zu den
 Listenfunktionen, oder zum Listen filtern etc. finden Sie im Handbuch

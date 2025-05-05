@@ -9,8 +9,7 @@ gruppiert.
 ![](<img/image137.png>)
 
 
-
-![](<img/image138.png>)
+![](<img/image171.png>)
 
 Der Arbeitszeitkalender ist in nachfolgende Spalten unterteilt:
 

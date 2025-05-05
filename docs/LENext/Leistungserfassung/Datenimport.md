@@ -219,8 +219,8 @@ Felder sind wie in der Leistungserfassung einzugeben. Nicht benötigte
 Felder werden leer gelassen. Wenn es sich um einen ganztätigen
 Zeitausgleich handelt, darf keine Arbeitszeit eingetragen werden,
 sondern nur ein J (=Ja) in der Spalte *ganztätiger Zeitausgleich*.
-Befindet sich der Mitarbeiter im Homeoffice, muss in der Spalte
-Homeoffice ein J (=Ja) eingetragen werden.
+Macht ein Mitarbeiter Telearbeit, muss in der Spalte
+Telearbeit ein J (=Ja) eingetragen werden.
 
 Es werden nur Dateien im Format „CSV (Trennzeichen-getrennt)“
 unterstützt. Jede einzelne Zeile wird von der nächsten durch die Zeichen
@@ -334,9 +334,9 @@ CR\LF getrennt.
 </tr>
 <tr class="even">
 <td>16</td>
-<td>Homeoffice</td>
+<td>Telearbeit</td>
 <td>Nein</td>
-<td>J, wenn es sich um einen Homeoffice-Tag handelt.</td>
+<td>J, wenn es sich um einen Telearbeitstag handelt.</td>
 </tr>
 </tbody>
 </table>

@@ -12,8 +12,7 @@ aufrufen.
 Sie eine Mitarbeiterübersicht, die sich in einem eigenen Tab öffnet und
 die Sie zeitlich eingrenzen können.
 
-
-![](<img/image136.png>)
+![](<img/image170.png>)
 
 In der Mitarbeiterübersicht können Sie sich die Urlaubskartei oder den
 Kalender für einen oder mehrere Mitarbeiter aufrufen.
@@ -22,7 +21,7 @@ Mit der Option *ZA und Urlaubssaldo berechnen* wird automatisch eine
 Spalte für den ZA und Urlaubssaldo eingefügt und der Stand bis zum
 eingegebenen Datum ermittelt.
 
-In der Spalte *Homeoffice* sehen Sie die erfassten Homeoffice Tage pro
+In der Spate *Telearbeit* sehen Sie die erfassten Telearbeitstage pro
 Mitarbeiter im definierten Zeitraum.
 
 Mehrere Mitarbeiter können Sie mit der *STRG-Taste* und dem Mauscursor

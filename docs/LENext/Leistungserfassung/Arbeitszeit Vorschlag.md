@@ -29,14 +29,12 @@ Feld Beginn oder Ende die Arbeitszeit vorschlagen zu lassen.
 Wurde keine Individuelle Arbeitszeit hinterlegt wird die
 Normalarbeitszeit aus der Honorarverrechnung vorgeschlagen.
 
-
-![](<img/image10.png>)
+![](<img/image74.png>)
 
 Des Weiteren kann die Arbeitszeit auch mittels Kontextmenü (rechte
 Maustaste) vorgeschlagen werden.
 
-
-![](<img/image11.png>)
+![](<img/image75.png>)
 
 Die Arbeitszeit kann entweder vorgeschlagen werden (wie oben
 beschrieben), oder händisch eingetragen werden. Mittels Papierkorbsymbol
@@ -47,8 +45,7 @@ neuerlichen Klick auf die fehlerhafte Arbeitszeit und Drücken der
 *Entf-Taste* die fehlerhafte Eingabe korrigiert werden.
 
 
-
-![](<img/image13.png>)
+![](<img/image76.png>)
 
 Weitere Pausenfelder werden freigeschaltet, wenn die Beginn- und
 Ende-Zeiten eingetragen wurden.

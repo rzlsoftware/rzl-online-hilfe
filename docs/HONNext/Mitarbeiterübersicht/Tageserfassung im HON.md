@@ -11,7 +11,7 @@ zu bearbeiten.
 ![](<img/image147.png>)
 
 Wird eine Änderung an der Arbeitszeit (Beginn/Ende/Pause, ganztätiger
-Zeitausgleich, Homeoffice) oder Leistungszeit (Datum, Tätigkeit, Klient,
+Zeitausgleich, Telearbeit) oder Leistungszeit (Datum, Tätigkeit, Klient,
 Beginn/Ende/Dauer, Projektzeitraum, Einheiten/Stunden/Betrag, Text)
 vorgenommen, wird der Änderungszeitpunkt sowie der letzte Bearbeiter
 gespeichert.
@@ -35,8 +35,7 @@ Grundsätzlich ist der letzte Bearbeiter anfangs immer der Mitarbeiter,
 da sobald dieser seine Leistungen in der Leistungserfassung erfasst,
 dies als Änderung gilt.
 
-
-![](<img/image148.png>)
+![](<img/image172.png>)
 
 !!! warning "Hinweis"
     Die Änderungsdaten werden erst für Erfassungszeilen ab der
