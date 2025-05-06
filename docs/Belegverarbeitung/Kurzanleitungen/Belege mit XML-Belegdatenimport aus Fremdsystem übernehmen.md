@@ -1,6 +1,6 @@
-# XML Belegdatenimport Schnittstelle
+# Belege mit XML-Belegdatenimport aus Fremdsystem übernehmen
 
-## RZL Belegverarbeitung XML Belegdatenimport Schnittstelle
+## RZL XML Belegdatenimport Schnittstelle
 
 Als Erweiterung zum RZL FIBU/EA Modul Belegverarbeitung bietet RZL die Möglichkeit, mit dem **lizenzierungspflichtigen Zusatzmodul „RZL XML Belegdatenimport Schnittstelle“** Belege aus einem Fremdsystem **mit Belegdaten** in die RZL Belegverarbeitung zu übernehmen.
 
