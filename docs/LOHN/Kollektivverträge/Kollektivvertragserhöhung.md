@@ -172,3 +172,9 @@ Es gibt natürlich auch KV-Erhöhungsvarianten, welche so komplex sind, dass wir
 
 !!! warning "Rechtlicher Hinweis"
     Die neu programmierte Funktion zur Istlohnerhöhung befindet sich in Entwicklung. Zu Testzwecken wird diese Funktion bereits unseren Anwendern zur Verfügung gestellt. Bitte beachten Sie, dass die Funktion fehlerhafte Ergebnisse liefern kann. Überprüfen Sie die zur Verfügung gestellten Informationen.
+
+## Kollektivvertragliche Zusatzbestimmungen
+
+Im Kollektivvertragsdialog haben Sie die Möglichkeit, speziell für Sie von der HGKV zusammengestellte Zusatzbestimmungen aufzurufen.
+
+![Image](img/image486.png)

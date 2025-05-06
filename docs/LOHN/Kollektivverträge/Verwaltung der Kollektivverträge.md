@@ -54,3 +54,4 @@ Diese Informationen werden bei den Abrechnungen der Dienstnehmer, die dem [Kolle
 
 !!! warning "Hinweis"
     Diese zusätzlichen Informationen müssen manuell eingetragen bzw. gewartet werden. Eine automatische Ermittlung aus den Daten des Kollektivvertrages ist derzeit nicht möglich.
+
