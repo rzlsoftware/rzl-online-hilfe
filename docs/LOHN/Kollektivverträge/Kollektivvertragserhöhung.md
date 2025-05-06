@@ -3,6 +3,7 @@
 **Drei Varianten der Kollektivvertragserhöhung**
 
 Die Kollektivverträge sehen drei verschiedene Varianten der Kollektivvertragserhöhung vor.
+
 - Betragsmäßige Überzahlung beibehalten
 - Betragsmäßige Überzahlung beibehalten und falls zusätzlich vereinbart eine prozentuelle Überzahlung beibehalten
 - Ist-Lohn-Erhöhung
@@ -41,7 +42,7 @@ Sieht der Kollektivvertrag vor, dass die Überzahlung erhalten bleiben muss, erf
 
 Durch einen Doppelklick auf diesen Hinweis werden Sie automatisch vom Programm in den entsprechenden Kollektivvertragsbereich geleitet. Dort können Sie die *abweichenden Einstellungen für diesen Dienstnehmer* und das Feld *Überzahlung beibehalten* aktivieren.
 
-Da diese Kollektivverträge besagen, dass wenn eine Vereinbarung (Dienstvertrag, Zusatzvereinbarung, etc.) zur prozentuellen Beibehaltung der Überzahlung besteht, diese anzuwenden ist, erfolgt noch dieser Hinweis:
+Da diese Kollektivverträge vorsehen, dass eine Vereinbarung (Dienstvertrag, Zusatzvereinbarung etc.) zur prozentuellen Beibehaltung der Überzahlung anzuwenden ist, erscheint zusätzlich folgender Hinweis:
 
 ![Image](img/image470.png)
 
@@ -148,18 +149,18 @@ Wenn der Vorschlag aktiviert wurde, erscheint ein grünes Kästchen mit dem Hinw
 
 Durch Anwahl der Schaltfläche *Übernehmen* wird der Betrag in die Lohnarten übernommen.
 
-Wenn Sie erneut die KV-Bezug Berechnung öffnen, erscheint im Bereich Verteilung der KV-Bezüge ein Hinweis auf, dass bereits eine Ist-Lohn-Erhöhung oder KV-Mindestbezug-Erhöhung stattgefunden hat:
+Wenn Sie erneut die KV-Bezug Berechnung öffnen, erscheint im Bereich *Verteilung der KV-Bezüge* ein Hinweis, dass bereits eine Ist-Lohn-Erhöhung oder KV-Mindestbezug-Erhöhung stattgefunden hat:
 
 ![Image](img/image482.png){width="400"}
 
 !!! warning "Hinweis"
-    Erfolgt keine Ist-Lohn-Erhöhung wird in den drei Folgemonaten mit diesem Hinweis darauf hingewiesen: 
+    Erfolgt keine Ist-Lohn-Erhöhung, wird in den drei Folgemonaten mit diesem Hinweis darauf hingewiesen: 
 
     ![Image](img/image483.png){width="300"}
 
 ### Sonderfunktion
 
-Haben Sie manuell die KV-Erhöhung vorgenommen, erscheint weiterhin der Hinweis, dass Sie eine Ist-Lohn-Erhöhung durchführen sollen. Dieser Hinweis ist natürlich störend. Deshalb gibt es die Möglichkeit, über rechten Mausklick in das Feld *Lohn/Gehalt* die *Ist-Lohn-Erhöhung (manuell) durchgeführt* zu aktivieren. Dadurch scheint der Hinweis nicht mehr auf.
+Haben Sie manuell die KV-Erhöhung vorgenommen, erscheint weiterhin der Hinweis, dass Sie eine Ist-Lohn-Erhöhung durchführen sollen. Dieser Hinweis ist natürlich störend. Deshalb gibt es die Möglichkeit, über rechten Mausklick in das Feld *Lohn/Gehalt* die *Ist-Lohn-Erhöhung (manuell) durchgeführt* zu aktivieren. Dadurch erscheint der Hinweis nicht mehr auf.
 
 ![Image](img/image484.png){width="400"}
 
