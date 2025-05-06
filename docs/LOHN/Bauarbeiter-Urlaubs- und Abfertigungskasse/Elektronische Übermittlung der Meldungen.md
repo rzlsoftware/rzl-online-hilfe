@@ -73,3 +73,17 @@ Im Abrechnungsbildschirm *BUAK* werden im Bereich *Urlaubsentgelt-Verrechnung (n
     
 !!! info "Tipp"   
     Über *Bearbeiten / Elektronische Übermittlung / Elektronische Urlaubsentgeltsmeldung BUAK-Rückdatei importieren* können Sie die Rückdatei zur Urlaubsverrechnung übernehmen.
+
+## Herunterladen der BUAK-Rückmeldung im BUAK-Portal
+
+Loggen Sie sich im BUAK-Portal ein. Wählen Sie den Punkt Portal an und gehen Sie dann auf Meldungseingabe.
+
+![Image](img/image508.png){width="500"}
+
+Im nächsten Bildschirm klicken Sie auf der rechten Seite auf Archiv Rückmeldungen.
+
+![Image](img/image509.png){width="400"}
+
+Im Archiv der Rückmeldungen wählen Sie die entsprechende Datei aus und laden Sie diese als XML-Datei herunter.
+
+![Image](img/image510.png){width="500"}
