@@ -191,30 +191,59 @@ Für das Programm *Board* können hier zusätzliche Einstellungen gesetzt werden
     • **Nie**: Das RZL Board bleibt immer geöffnet, auch wenn alle Fenster geschlossen wurden.
 
 
-## DSGVO
+## Anwender-Protokolle
 
-Das DSGVO-Protokoll kann hier geöffnet und exportiert werden.
+![Wartung](img/Verwaltung_Anwenderprotokoll(DSGVO).png)
 
-![DSGVO](img/Verwaltung_DSGVOProtokoll.png)
+Dieses Protokoll dokumentiert alle relevanten Aktivitäten im Zusammenhang mit der Datenschutz-Grundverordnung (DSGVO), wie z. B. Datenzugriffe, Änderungen oder Löschungen, und dient der Nachvollziehbarkeit und rechtlichen Absicherung gemäß DSGVO-Anforderungen.
+
+![Wartung](img/Verwaltung_Anwenderprotokoll(DSGVO)_2.png)
+
+Nach Eingabe des Zeitraums und des Lizenzpasswortes können die Daten abgerufen und auch als CSV - Datei exportiert werden.
+
 
 ## Anonymisierung
 
-Mitarbeiternamen, die an RZL als Teil eines Fehlerberichts übermittelt werden,
-sind anonymisiert. Mit dieser Funktion kann man den tatsächlichen Mitarbeiter
-bestimmen, falls das bei der Fehlersuche hilft.
-
 ![Anonymisierung](img/Verwaltung_Anonymisierung.png)
+
+Die Funktion "Anonymisierung" im RZL Admin sorgt dafür, dass Benutzerdaten (Namen), die als Teil eines Fehlerberichts an RZL übermittelt werden, anonymisiert sind. Das dient dem Datenschutz und stellt sicher, dass personenbezogene Daten nicht ohne Weiteres weitergegeben werden.
+Die Anonymisierung schützt die Identität der Mitarbeiter bei Fehlerberichten, kann aber im Bedarfsfall zur Fehleranalyse aufgehoben werden.
+
 
 ## RZL PDF-Drucker / Manager-Druckertreiber
 
+![Druckertreiber](img/Verwaltung_Druckertreiber.png)
+
 In dieser Rubrik können bestimmte Druckertreiber installiert werden. Wenn der
 Treiber bereits vorhanden ist, wird dieser durch das Ausführen der Installation
-automatisch entfernt und erneut installiert. Es besteht ebenfalls die
-Möglichkeit, den Dienst für die Druckwarteschlange neu zu starten.
+automatisch entfernt und erneut installiert. Diese Optionen dienen dazu, Probleme mit dem PDF-Druck oder der Druckerinstallation direkt aus dem RZL Admin heraus zu beheben oder die Funktionalität des RZL PDF-Druckers sicherzustellen.
 
 Für jede der folgenden Funktionen werden Administratorrechte benötigt.
 
-![Druckertreiber](img/Verwaltung_Druckertreiber.png)
+- **RZL PDF-Drucker Treiber installieren**
+  
+  ![Druckertreiber](<img/Verwaltung_PDF-Drucker Treiber.png>)
+  
+  Diese Funktion ist hilfreich, wenn es Probleme mit dem PDF-Drucker gibt oder eine Neuinstallation erforderlich ist, um die Funktionalität wiederherzustellen.
+
+- **Microsoft Print to PDF installieren**
+  
+  ![Druckertreiber](<img/Verwaltung_Microsoft print to PDF.png>)
+
+  Für den vollen Funktionsumfang des RZL PDF-Managers muss auf Ihrem Rechner der Standard-Windows-Druckertreiber „Microsoft Print to PDF“ installiert sein. Er wird für bestimmte Funktionen im Zusammenspiel mit dem RZL PDF-Manager benötigt (wenn Sie PDF-Ausdrucke aus externen Programmen (wie Word, Excel, etc.) in den RZL PDF-Manager übernehmen möchten).
+  Falls „Microsoft Print to PDF“ nicht installiert ist, kann dieser auch über die Windows-Systemsteuerung nachinstalliert werden.
+
+- **RZL PDF-Manager Treiber installieren**
+
+![Druckertreiber](<img/Verwaltung_PDF-Manager Treiber.png>)
+
+Der RZL PDF-Manager-Treiber ermöglicht es, PDF-Ausdrucke aus beliebigen externen Programmen (z. B. Word, Excel, Outlook, usw.) direkt an den RZL PDF-Manager zu übergeben. Zusätzlich muss auf dem System der Windows-Standarddruckertreiber „Microsoft Print to PDF“ installiert sein, damit alle Funktionen des RZL PDF-Managers genutzt werden können.
+
+- **Druckerwarteschlange/Spooler - Neustart**
+
+![Druckertreiber](img/Verwaltung_Druckerwarteschlange.png)
+
+Hiermit kann man den Dienst für die Druckwarteschlange (auch „Spooler“ genannt) neu starten. Diese Funktion ist besonders nützlich, wenn Probleme mit Druckaufträgen oder dem PDF-Druck auftreten. Durch einen Neustart des Spooler-Dienstes können oft Druckprobleme behoben werden, ohne dass der gesamte Rechner neu gestartet werden muss.
 
 ## Abbilddatei hochladen
 
