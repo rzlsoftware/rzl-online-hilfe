@@ -28,6 +28,33 @@
 
     Aufgrund der gewählten Beschäftigtengruppe erkennt das Programm automatisch, ob es sich um einen Arbeiter oder Angestellten handelt. Dieses Eingabefeld muss daher nur dann entsprechend beachtet werden, wenn ausnahmsweise keine SV-Pflicht vorliegt.
 
+**Schlechtwetterentschädigung / Schlechtwetterentschädigung Ausland**
+
+In diesem Bereich haben Sie die Möglichkeit, die Ergänzungen für die Schlechtwetterentschädigung (E02) sowie für die Schlechtwetterentschädigung Ausland (E15) zu aktivieren.
+
+Per Rechtsklick auf eines der beiden Felder öffnen Sie das Kontextmenü, über das Sie in den Detaildialog gelangen:
+
+![Image](img/image146.png){width="500"}
+
+In diesem Dialog können Sie folgende Zeiträume erfassen:
+
+- Zeiträume **ohne** Schlechtwetter-Ergänzung,
+- Zeiträume **mit** Schlechtwetter-Ergänzung **Inland** (E02),
+- Zeiträume **mit** Schlechtwetter-Ergänzung **Ausland** (E15).
+
+Außerdem weisen Sie hier die jeweiligen Bemessungsgrundlagen zu, bis der im Monat insgesamt abgerechnete Wert erreicht ist.
+
+Die vom Programm vorgeschlagene Aufteilung erfolgt auf Basis der **Kalendertage** (nicht der SV-Tage). Das bedeutet, dass es in Monaten mit 31 Tagen zu einer abweichenden Verteilung kommen kann, verglichen mit der Berechnung auf Basis von 30 SV-Tagen.
+
+Eine manuelle Anpassung der Verteilung ist jederzeit möglich. Wichtig ist, dass die gesamte Bemessungsgrundlage laut Abrechnung auf die jeweiligen Zeiträume verteilt wird. Sobald dies korrekt erfolgt ist, springt die Statusanzeige (Ampel) auf Grün.
+
+![Image](img/image147.png){width="500"}
+
+![Image](img/image148.png){width="500"}
+
+!!! warning "Hinweis"
+    Die Ergänzung wird im mBGM (monatlichen Beitragsgrundlagen) nicht separat ausgewiesen.
+
 **Minderung PV um 50 % (Abschlag A15)**
 
 Das Feld *Minderung PV um 50 %* kann nur aktiviert werden, wenn der Dienstnehmer das Regelpensionsalter bereits erreicht hat. Das Feld ist zu aktivieren, wenn der Dienstnehmer das Regelpensionsalter erreicht hat, jedoch keine Pensionsbezüge erhält. Das Feld muss von Ihnen manuell angewählt werden, da das Lohnprogramm nicht erkennen kann, ob der Dienstnehmer Pensionsbezüge erhält oder nicht.
