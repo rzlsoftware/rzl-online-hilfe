@@ -146,13 +146,13 @@ Die hochgeladenen Belege werden nun analysiert und sind kurze Zeit später mit d
 ## 6. Belege von Finmatics abholen
 
 
-Hochgeladenen Belege können nun jederzeit in der RZL Belegverarbeitung abgeholt werden. Öffnen Sie dazu im RZL Board den jeweiligen Klienten und wechseln Sie in den Bereich *BELEGE*. Wählen Sie hier den Eintrag *Belege Finmatics* ①.
+Hochgeladenen Belege können nun jederzeit in der RZL Belegverarbeitung abgeholt werden. Öffnen Sie dazu im RZL Board den jeweiligen Klienten und wechseln Sie in den Bereich *BELEGE*. Wählen Sie hier den Eintrag *Belege Finmatics* **①**.
 
 
 ![Image](<img/image-27.png>)
 
 
-Die RZL Belegverarbeitung zeigt nun alle bei Finmatics noch nicht abgeholten Belege, unabhängig vom Bearbeitungsstatus, an. In der *Seitenansicht* ② wird eine Vorschau aller Belege angezeigt, in der *Listenansicht* ③ eine Liste der Belege mit den Belegdaten von Finmatics und in der *Detailansicht* das Detail zum markierten Beleg (unter anderem im Registerblatt Gegenbuchungen das Gegenkonto, das von Finmatics vorgeschlagen wird ④).
+Die RZL Belegverarbeitung zeigt nun alle bei Finmatics noch nicht abgeholten Belege, unabhängig vom Bearbeitungsstatus, an. In der *Seitenansicht* **②** wird eine Vorschau aller Belege angezeigt, in der *Listenansicht* ③ eine Liste der Belege mit den Belegdaten von Finmatics und in der *Detailansicht* das Detail zum markierten Beleg (unter anderem im Registerblatt Gegenbuchungen das Gegenkonto, das von Finmatics vorgeschlagen wird **④**).
 
 !!! warning "Hinweis"
     Beim Öffnen dieser Ansicht werden die Belege noch nicht tatsächlich abgeholt und bei Finmatics noch nicht als exportiert markiert. Dies passiert erst beim Übernehmen der Belege ins RZL Board. D.h. wenn die Ansicht wieder geschlossen wird, wird am Status der Belege nichts verändert.
@@ -165,7 +165,7 @@ Die RZL Belegverarbeitung zeigt nun alle bei Finmatics noch nicht abgeholten Bel
     Bei Ausführung einer RZL Belegdatenerkennung werden die ausgelesenen Belegdaten von Finmatics NICHT verworfen!
 
 
-In den Spalten *Bearbeitungsstatus* und *Bestätigt* durch wird der aktuelle Status pro Beleg angezeigt ⑤.
+In den Spalten *Bearbeitungsstatus* und *Bestätigt* durch wird der aktuelle Status pro Beleg angezeigt **⑤**.
 
 Bearbeitungsstatus:
 - Fertig
@@ -193,9 +193,9 @@ Bestätigt durch:
     ... Der Beleg wurde auf der Weboberfläche von Finmatics manuell bestätigt.
 
 
-Zum Hinzufügen der Belege wählen Sie nun im Bereich Belege übernehmen ⑥ den Menüpunkt Alle übernehmen oder Auswahl übernehmen. Die Belege werden nun bei Finmatics als exportiert markiert und in die RZL Belegverarbeitung übernommen. Beim nächsten Abruf von Belegen scheinen diese Belege nicht mehr auf.
+Zum Hinzufügen der Belege wählen Sie nun im Bereich Belege übernehmen **⑥** den Menüpunkt Alle übernehmen oder Auswahl übernehmen. Die Belege werden nun bei Finmatics als exportiert markiert und in die RZL Belegverarbeitung übernommen. Beim nächsten Abruf von Belegen scheinen diese Belege nicht mehr auf.
 
-Die Belege finden Sie nun im Bereich Belege / ungebuchte Belege ⑦. Diese Belege können nun in der RZL Finanzbuchhaltung (Klassik oder Next) bzw. im RZL Einnahmen/Ausgaben Programm gebucht werden.
+Die Belege finden Sie nun im Bereich Belege / ungebuchte Belege **⑦**. Diese Belege können nun in der RZL Finanzbuchhaltung (Klassik oder Next) bzw. im RZL Einnahmen/Ausgaben Programm gebucht werden.
 
 
 ![Image](<img/image-29.png>)
@@ -238,17 +238,17 @@ Folgender Arbeitsablauf am Beispiel eines Bankkontos wird von uns empfohlen:
 4. Nur FIBU Klassik: 
    In den Stammdaten des Bankkontos im Registerblatt *Retourdaten 2* die Option *Beleg automatisch zuordnen* aktivieren. Mit dieser Option werden Belege, bei denen der Betrag und der IBAN, die Zahlungsreferenz bzw. die Belegnummer des Belegs mit den Daten der Bankbuchung übereinstimmen bzw. im Verwendungszweck gefunden werden, automatisch zugeordnet.
 
-5. Beim Verarbeiten eines camt53-Kontoauszugs wählen Sie in der FIBU Klassik im Vordialog die Option *DMS-Belege*, in der FIBU Next im Buchungsdialog Belegliste. Somit wird zusätzlich zum Dialog der Bankbuchungen ① eine Liste der vorhandenen Belege ② dieses Belegkreises angezeigt. Es wird nun in der FIBU Klassik versucht, die Belege automatisch den Bankbuchungen zuzuordnen. Zum manuellen Zuordnen der restlichen Belege (FIBU Klassik und FIBU Next) empfehlen wir, die Belegliste nach Betrag ③ zu sortieren, um schnell den richtigen Beleg zur jeweiligen Bankbuchung finden zu können.
+5. Beim Verarbeiten eines camt53-Kontoauszugs wählen Sie in der FIBU Klassik im Vordialog die Option *DMS-Belege*, in der FIBU Next im Buchungsdialog Belegliste. Somit wird zusätzlich zum Dialog der Bankbuchungen **①** eine Liste der vorhandenen Belege **②** dieses Belegkreises angezeigt. Es wird nun in der FIBU Klassik versucht, die Belege automatisch den Bankbuchungen zuzuordnen. Zum manuellen Zuordnen der restlichen Belege (FIBU Klassik und FIBU Next) empfehlen wir, die Belegliste nach Betrag **③** zu sortieren, um schnell den richtigen Beleg zur jeweiligen Bankbuchung finden zu können.
 
 6. Manuelles Zuordnen:
 
     a. FIBU Klassik: 
 
-    Zum manuellen Zuordnen zur Bankbuchung markieren Sie den gewünschten Beleg in der Belegliste und ordnen bei der Buchungszeile mit Umschalt + F7 bzw. mit der rechten Maustaste den Beleg der Buchung zu ④. Bereits zugeordnete Belege werden in der Belegliste in einem eigenen Bereich *Bereits zugeordnet* angezeigt. Erst beim Verbuchen des Kontoauszugs werden die Belege in der Belegverarbeitung als *Gebucht* markiert und somit unter *Gebuchte Belege* angezeigt.
+    Zum manuellen Zuordnen zur Bankbuchung markieren Sie den gewünschten Beleg in der Belegliste und ordnen bei der Buchungszeile mit Umschalt + F7 bzw. mit der rechten Maustaste den Beleg der Buchung zu **④**. Bereits zugeordnete Belege werden in der Belegliste in einem eigenen Bereich *Bereits zugeordnet* angezeigt. Erst beim Verbuchen des Kontoauszugs werden die Belege in der Belegverarbeitung als *Gebucht* markiert und somit unter *Gebuchte Belege* angezeigt.
 
     b. FIBU Next: 
     
-    Hier können Sie den Beleg aus der Belegliste (oder auch aus dem Windows Explorer oder einem E-Mail-Anhang im Outlook) einfach per Drag & Drop auf die Buchungszeile ziehen. Alternativ nutzen Sie die Funktion *Beleg zuordnen* in der Funktionsleiste ⑤. In der FIBU Next verschwinden die Belege somit aus der Belegliste, da diese unmittelbar als *Gebucht* markiert werden.
+    Hier können Sie den Beleg aus der Belegliste (oder auch aus dem Windows Explorer oder einem E-Mail-Anhang im Outlook) einfach per Drag & Drop auf die Buchungszeile ziehen. Alternativ nutzen Sie die Funktion *Beleg zuordnen* in der Funktionsleiste **⑤**. In der FIBU Next verschwinden die Belege somit aus der Belegliste, da diese unmittelbar als *Gebucht* markiert werden.
 
 
 **FIBU Klassik:**
