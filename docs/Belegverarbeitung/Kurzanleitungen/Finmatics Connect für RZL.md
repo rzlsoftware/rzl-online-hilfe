@@ -3,7 +3,7 @@ Alternativ zur Belegdaten-Erkennung über die RZL Programme besteht die Möglich
 
 Mit Hilfe von **selbstlernender künstlicher Intelligenz (KI)** und auf Basis der angelegten Konten und bisheriger Buchungen werden von Finmatics die bereitgestellten Belege analysiert, Belegdaten ausgelesen und daraus Buchungssätze generiert und vorgeschlagen. Diese Finmatics-Buchungsvorschläge (und die verknüpften Belege) können in den RZL Programmen automatisiert weiterverarbeitet werden.
 
-Sie benötigen dafür das **RZL FIBU/EA Modul Belegverarbeitung (dieses bedingt das RZL BOARD), die RZL FIBU Klassik oder die RZL FIBU Next** sowie das kostenpflichtige Modul **„Finmatics Connect für RZL“.**
+Sie benötigen dafür das **RZL FIBU/EA Modul Belegverarbeitung (dieses bedingt das RZL BOARD), die RZL FIBU Klassik oder die RZL FIBU Next** sowie das kostenpflichtige Modul **„Finmatics Connect für RZL“**.
 
 **Folgende Schritte sind zur Einrichtung notwendig:**
 
@@ -33,7 +33,7 @@ Die Zugangsdaten, die Sie nach Bestellung des Moduls „Finmatics Connect für R
 
 In den Klienten-Stammdaten unter *STAMM / Belegverarbeitung* beim jeweiligen Klienten im Bereich *Finmatics* kann nun Finmatics aktiviert werden. 
 
-Zusätzlich können Sie festlegen, welche Belegkreise ② des jeweiligen FIBU Klienten mit welcher Buchungskategorie bei Finmatics angelegt werden sollen. 
+Zusätzlich können Sie festlegen, welche Belegkreise **②** des jeweiligen FIBU Klienten mit welcher Buchungskategorie bei Finmatics angelegt werden sollen. 
 
 Standardmäßig werden folgende Belegkreise angelegt: ER Eingangsrechnungen, AR Ausgangs- rechnungen, KA Kassa.
 
@@ -51,7 +51,7 @@ Sie haben somit die Möglichkeit bspw. über einen Scanordner die Belege mit den
 Sollen Belege, die ein Klient über das RZL Klientenportal zu Ihnen überträgt, direkt vom Klientenportal zu Finmatics übertragen werden, kann dies im Bereich *Belegverarbeitung / Allgemeines* festgelegt werden.
 
 
-Aktivieren Sie zuerst den jeweiligen Belegkreis (hier z.B. SP Sparkasse) ③ für das Klientenportal. Anschließend können Sie in der rechten Spalte diesen Belegkreis am Klientenportal auch für Finmatics ④ aktivieren.
+Aktivieren Sie zuerst den jeweiligen Belegkreis (hier z.B. SP Sparkasse) **③** für das Klientenportal. Anschließend können Sie in der rechten Spalte diesen Belegkreis am Klientenportal auch für Finmatics **④** aktivieren.
 
 
 ![Image](<img/image-23.png>)
@@ -92,7 +92,7 @@ Starten Sie dazu in der RZL Finanzbuchhaltung Klassik den Menüpunkt *Bearbeiten
 
 **FIBU Next:**
 
-Direkt in den Klienten-Stammdaten im *RZL Board* unter *STAMM / Belegverarbeitung / Finmatics* können Sie mit der Funktion *Finmatics initial trainieren* ① den Kontenplan des aktuellsten Wirtschaftsjahres (Sachkonten und Personenkonten) sowie die Buchungen des aktuellen Wirtschaftsjahres und des Vorjahres zu Finmatics hochladen.
+Direkt in den Klienten-Stammdaten im *RZL Board* unter *STAMM / Belegverarbeitung / Finmatics* können Sie mit der Funktion *Finmatics initial trainieren* **①** den Kontenplan des aktuellsten Wirtschaftsjahres (Sachkonten und Personenkonten) sowie die Buchungen des aktuellen Wirtschaftsjahres und des Vorjahres zu Finmatics hochladen.
 
 
 ![Image](<img/image-25.png>)
