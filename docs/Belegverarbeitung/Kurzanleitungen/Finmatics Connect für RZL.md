@@ -3,7 +3,7 @@ Alternativ zur Belegdaten-Erkennung über die RZL Programme besteht die Möglich
 
 Mit Hilfe von **selbstlernender künstlicher Intelligenz (KI)** und auf Basis der angelegten Konten und bisheriger Buchungen werden von Finmatics die bereitgestellten Belege analysiert, Belegdaten ausgelesen und daraus Buchungssätze generiert und vorgeschlagen. Diese Finmatics-Buchungsvorschläge (und die verknüpften Belege) können in den RZL Programmen automatisiert weiterverarbeitet werden.
 
-Sie benötigen dafür das **RZL FIBU/EA Modul Belegverarbeitung (dieses bedingt das RZL BOARD), die RZL FIBU Klassik oder die RZL FIBU Next* sowie das kostenpflichtige Modul **„Finmatics Connect für RZL“**.
+Sie benötigen dafür das **RZL FIBU/EA Modul Belegverarbeitung (dieses bedingt das RZL BOARD), die RZL FIBU Klassik oder die RZL FIBU Next** sowie das kostenpflichtige Modul **„Finmatics Connect für RZL“**.
 
 **Folgende Schritte sind zur Einrichtung notwendig:**
 
@@ -97,7 +97,7 @@ Das Hochladen der Trainingsdaten kann einige Zeit in Anspruch nehmen. Bitte brec
 
 *FIBU Next:*
 
-Direkt in den Klienten-Stammdaten im *RZL Board* unter *STAMM / Belegverarbeitung / Finmatics* können Sie mit der Funktion *Finmatics initial trainieren* ① den Kontenplan des aktuellsten Wirtschaftsjahres (Sachkonten und Personenkonten) sowie die Buchungen des aktuellen Wirtschaftsjahres und des Vorjahres zu Finmatics hochladen.
+Direkt in den Klienten-Stammdaten im *RZL Board* unter *STAMM / Belegverarbeitung / Finmatics* können Sie mit der Funktion *Finmatics initial trainieren* **①** den Kontenplan des aktuellsten Wirtschaftsjahres (Sachkonten und Personenkonten) sowie die Buchungen des aktuellen Wirtschaftsjahres und des Vorjahres zu Finmatics hochladen.
 
 
 ![Image](<img/image-25.png>)
