@@ -47,3 +47,21 @@ Die restlichen Monate des Mutterschutzes können nun weiter über *laufende Abre
 Mit Hilfe der Option *Dienstnehmerin geht in Karenz* die automatisch durch das Programm gesetzt wird, kommt es in dem Monat in dem der Karenzurlaub angetreten wird, nun zu einem automatischen Vorschlag für die Austrittsdaten.
 
 Wird die letzte Abrechnung dann abgespeichert, erhalten Sie vom Programm wie gewohnt die Abfrage, ob die Abmeldung in die ÖGK-Datei gestellt werden soll. Der L16 für diese Dienstnehmerin ist unverändert erst am Ende des Jahres fällig und wird mit den restlichen Dienstnehmern per Monat 12 ausgegeben.
+
+## Erneuter Mutterschutz während Karenzurlaub
+
+Tritt bei einer Dienstnehmerin während des laufenden Karenzurlaubs erneut ein Mutterschutz ein, ist sie für die Betriebliche Vorsorge wieder bei der ÖGK anzumelden.
+
+In diesem Fall führen Sie im Monat des Beginns des neuerlichen Mutterschutzes einen Wiedereintritt durch. Öffnen Sie dazu den [*Eintrittsbildschrim*](../Abrechnungsbildschirme/Eintritt.md) und erfassen Sie im Feld *Eintrittsdatum* den ersten Tag des Mutterschutzes.
+
+Anschließend wechseln Sie in den [*Austrittsbildschirm*](../Abrechnungsbildschirme/Austritt.md), wo Sie im Bereich *Mutterschutz / Karenzurlaub* den *voraussichtlichen Geburtstermin* eintragen. Das Programm schlägt Ihnen daraufhin automatisch den *Beginn Mutterschutz* vor und trägt im oberen Bereich den Austritt mit dem Grund Wochengeld ein.
+
+![Image](img/image605.png){width="500"}
+
+Im nächsten Schritt öffnen Sie den [*Sozialversicherungsbildschirm*](../Abrechnungsbildschirme/Sozialversicherung.md) und wählen bei der Beschäftigtengruppe den Eintrag **B999 Betriebliche Vorsorge ohne SV-Pflicht** aus.
+
+![Image](img/image606.png){width="500"}
+
+Da während des Mutterschutzes kein Entgelt zu zahlen ist, darf in den *fixen und freien Lohnarten* nichts abgerechnet werden.
+
+Abschließend wechseln Sie in den Bereich der [*fixen Lohnarten*](../Abrechnungsbildschirme/Fixe%20Lohnarten.md) und geben im Abschnitt *BV-Bemessung für Mutterschutz* die entsprechende Bemessungsgrundlage **manuell** ein. Ein automatischer Vorschlag durch das Programm ist in diesem Fall **nicht** vorgesehen.
