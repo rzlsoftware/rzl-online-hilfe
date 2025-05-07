@@ -58,7 +58,7 @@ Anschließend wechseln Sie in den [*Austrittsbildschirm*](../Abrechnungsbildschi
 
 ![Image](img/image605.png){width="500"}
 
-Im nächsten Schritt öffnen Sie den [*Sozialversicherungsbildschirm*](../Abrechnungsbildschirme/Sozialversicherung.md) und wählen bei der Beschäftigtengruppe den Eintrag **B999 Betriebliche Vorsorge ohne SV-Pflicht** aus.
+Im nächsten Schritt öffnen Sie den [*Sozialversicherungsbildschirm*](../Abrechnungsbildschirme/Sozialversicherung.md) und wählen bei der Beschäftigtengruppe den Eintrag **B999 Betriebliche Vorsorge ohne SV-Pflicht** aus. Somit erfolgt nur eine Anmeldung zur Betrieblichen Vorsorge bei der ÖGK.
 
 ![Image](img/image606.png){width="500"}
 
