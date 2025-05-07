@@ -36,32 +36,36 @@ III)*Teamviewer ID und Passwort angeben
 
 
 - **RZL Log-Dateien hochladen**
-        ![Wartung](img/Verwaltung_Log%20Datein%20hochladen.png)
+  
+  ![Wartung](img/Verwaltung_Log-Datein_hochladen.png)
 
-    Hier können ihre Log-Dateien an RZL übermittelt werden, im Anschluss bekommen Sie eine Erfolgsmeldung.
+  Hier können ihre Log-Dateien an RZL übermittelt werden, im Anschluss bekommen Sie eine Erfolgsmeldung.
 
-    ![Wartung](img/Verwaltung_Log-Dateien_Erfolgsmeldung.png)
+  ![Wartung](img/Verwaltung_Log-Dateien_Erfolgsmeldung.png)
 
 - **Windows-Ereignisanzeige hochladen**
-        ![Wartung](<img/Verwaltung_Ereignisanzeige hochladen.png>)
   
-    Hier kann die Ereignisanzeige direkt an RZL hochgeladen werden. Optional kann ausgewählt werden ob die Ereignisse gefiltert oder ungefiltert versendet werden sollen. 
+  ![Wartung](img/Verwaltung_Ereignisanzeige-hochladen.png)
+
+  Hier kann die Ereignisanzeige direkt an RZL hochgeladen werden. Optional kann ausgewählt werden ob die Ereignisse gefiltert oder ungefiltert versendet werden sollen. 
       
 - **RZL Setup Protokolle hochladen**
-  ![Wartung](<img/Verwaltung_Setup Protokolle.png>)
+  
+  ![Wartung](img/Verwaltung_Setup-Protokolle.png)
 
-    Mit Hilfe dieses Werkzeugs können die Protokolle die bei der Durchführung des Updates geschrieben werden, für Supportzwecke, an den Server von RZL, hochgeladen werden.
+  Mit Hilfe dieses Werkzeugs können die Protokolle die bei der Durchführung des Updates geschrieben werden, für Supportzwecke, an den Server von RZL, hochgeladen werden.
   
 - **Datei hochladen**
   
     ![Wartung](<img/Verwaltung_Wartung_Dateien hochladen.png>)
 
-    Über das Verzeichnis können hier selbst ausgewählte Dateien an RZL übermittelt werden. (Sicherungsdateien, Dump Dateien, etc.)
+  Über das Verzeichnis können hier selbst ausgewählte Dateien an RZL übermittelt werden. (Sicherungsdateien, Dump Dateien, etc.)
 
 - **Ordnerstruktur der RZL Programme hochladen**
-  ![Wartung](<img/Verwaltung_Wartung_Ordnerstruktur hochladen.png>)
+  
+  ![Wartung](img/Verwaltung_Wartung_Ordnerstruktur-hochladen.png)
 
-    Dieser Button lädt direkt die gesamte Ordnerstruktur des Programmverzeichnisses der RZL Programme hoch. 
+  Dieser Button lädt direkt die gesamte Ordnerstruktur des Programmverzeichnisses der RZL Programme hoch. 
 
 ## Lizenzierung
 ![Lizenzierung](img/Verwaltung_Lizenzierung.png)
@@ -87,49 +91,52 @@ Dieser Punkt bietet Ihnen verschiedene Einstellungs- und Prüfungsmöglichkeiten
 
 - **Datenbank auf die neueste Version aktualisieren**
 
-![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_DB aktualisieren.png>)
+![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DB aktualisieren.png>)
 
 Beim Ausführen dieses Befehls erhält man folgende Hinweismeldung:
 
-![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_DB aktualisieren_2.png>)
+![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DB aktualisieren_2.png>)
 
 Nach erfolgreicher Aktualisierung erhält man folgende Meldung:
 
-![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_DB aktualisiert.png>)
+![Wartung](<img/Verwaltung-allgemeine-DBEinstellungen_DB aktualisiert.png>)
 
 - **Ausstehende Aktualisierungen prüfen**
-![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_DB Prüfen.png>)
+
+![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DB Pruefen.png>)
 
 Dieser Befehl sollte nur in Ausnahmefällen nach Aufforderung des Supports ausgeführt werden.
 (Wenn im Falle eines Setups die Programme zwar aktualsiert wurden aber die SQL-Instanz nicht)
 
 - **Rechte zum Aktualisieren einer neuen Version prüfen**
-![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_Rechte Prüfung.png>)
+  
+![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_Rechte Pruefung.png>)
 
 Hier kann überprüft werden ob von einem Arbeitsplatz aus mittels vorhandener Berechtigungen ein Update eingespielt 
 werden darf.
-![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_Rechte Prüfung_Erfolg.png>)
+
+![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_Rechte Pruefung_Erfolg.png>)
 
 - **RZL Dienst Benutzer auf Datenbank berechtigen**
   
-![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_RZL Dienst berechtigen.png>)
+![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_RZL-Dienst_berechtigen.png)
 
 Über diesem Button kann der RZL Dienst (optional) auf der Datenbank berechtigt werden.
 Die Einstellungen können auch manuell über das SQL Management Studio gesetzt werden (siehe dazu auch *Berechtigungskonzept*)
 
-![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_RZL Dienst berechtigen_erfolgsmeldung.png>)
+![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_RZL-Dienst-berechtigen_erfolgsmeldung.png)
 
 - **Transaktions-Log der Datenbank verkleinern**
   
-  ![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_Transaktionslog.png>)
+![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_Transaktionslog.png)
 
   Dieser Befehl kann ausgeführt werden, wenn die Daten der Datenbank aus verschiedenen Gründen zunehmen, meist wenn Konfigurationen der Datenbank selbst nicht sauber gesetzt worden sind.
 
-  ![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_Transaktionslog_Erfolg.png>)
+![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_Transaktionslog_Erfolg.png)
 
 - **Einzelbenutzermodus/Mehrbenutzermodus**
   
-  ![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_Einzelbenutzer_Mehrbenutzer.png>)
+![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_Einzelbenutzer_Mehrbenutzer.png)
 
   Dieser Modus regelt, ob mehrere Benutzer oder nur ein Benutzer schreiben und/-oder lesend auf einen Klienten zugreifen können.Für den mehrfachen Lesezugriff auf eine Klientendatei zur Bearbeitung ist einezusätzliche Lizenz erforderlich.
 
@@ -140,7 +147,7 @@ Die Einstellungen können auch manuell über das SQL Management Studio gesetzt w
 
 - **SQL Index Wartung**
 
-![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_SQL Index Wartung.png>)
+![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_SQL-Statistik-Wartung.png)
 
 Generell bezeichnet die SQL Index Wartung die Pflege und Optimierung der Indizes in einer SQL-Datenbank. Indizes beschleunigen Datenbankabfragen, können aber mit der Zeit fragmentieren oder an Performance verlieren. Durch die Wartung werden sie neu organisiert oder aufgebaut, um die Datenbankgeschwindigkeit und Stabilität zu erhalten.
 
@@ -149,7 +156,7 @@ Generell bezeichnet die SQL Index Wartung die Pflege und Optimierung der Indizes
 
 - **SQL Statistik Wartung**
   
-![Wartung](<img/Verwaltung_allgemeine DBEinstellungen_SQL Statistik Wartung.png>)
+![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_SQL-Statistik-Wartung.png)
 
 Zur Aktualisieren der Statistiken in der SQL-Datenbank, der SQL-Engine, um optimale Zugriffswege für Abfragen zu erhalten. 
 
@@ -212,7 +219,7 @@ Die Anonymisierung schützt die Identität der Mitarbeiter bei Fehlerberichten, 
 
 ## RZL PDF-Drucker / Manager-Druckertreiber
 
-![Druckertreiber](img/Verwaltung_Druckertreiber.png)
+![Druckertreiber](img/Verwaltung_PDF-Drucker_Treiber.png)
 
 In dieser Rubrik können bestimmte Druckertreiber installiert werden. Wenn der
 Treiber bereits vorhanden ist, wird dieser durch das Ausführen der Installation
@@ -222,7 +229,7 @@ Für jede der folgenden Funktionen werden Administratorrechte benötigt.
 
 - **RZL PDF-Drucker Treiber installieren**
   
-  ![Druckertreiber](<img/Verwaltung_PDF-Drucker Treiber.png>)
+  ![Druckertreiber](img/Verwaltung_PDF-Drucker_Treiber.png)
   
   Diese Funktion ist hilfreich, wenn es Probleme mit dem PDF-Drucker gibt oder eine Neuinstallation erforderlich ist, um die Funktionalität wiederherzustellen.
 
@@ -235,7 +242,7 @@ Für jede der folgenden Funktionen werden Administratorrechte benötigt.
 
 - **RZL PDF-Manager Treiber installieren**
 
-![Druckertreiber](<img/Verwaltung_PDF-Manager Treiber.png>)
+  ![Druckertreiber](img/Verwaltung_PDF-Manager_Treiber.png)
 
 Der RZL PDF-Manager-Treiber ermöglicht es, PDF-Ausdrucke aus beliebigen externen Programmen (z. B. Word, Excel, Outlook, usw.) direkt an den RZL PDF-Manager zu übergeben. Zusätzlich muss auf dem System der Windows-Standarddruckertreiber „Microsoft Print to PDF“ installiert sein, damit alle Funktionen des RZL PDF-Managers genutzt werden können.
 
