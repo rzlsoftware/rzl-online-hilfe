@@ -24,3 +24,11 @@ Im Feld Kanzlei-Lohnartentabelle ist die Nummer der Tabelle einzutragen und wird
 
 !!! warning "Hinweis"
     Ein Wechsel von klientenbezogenen Lohnarten auf eine Kanzleilohnarten-Tabelle oder umgekehrt ist nur im Zuge einer [Jahresübernahme](../Jahresübernahme/Jahresübernahme%20innerhalb%20eines%20Klienten.md) möglich.
+
+## Musterlohnartentabelle
+
+Die in der Musterlohnartentabelle sowie die im Handbuch beschriebenen Musterlohnarten verstehen sich als unverbindliche Vorschläge zur Lohnartenerfassung. Sie basieren auf dem aktuellen Informationsstand aus einschlägigen Fachartikeln.
+
+Bitte beachten Sie, dass die **Letztverantwortung** für die korrekte Anlage und Verwendung der Lohnarten beim Anwender liegt. Aufgrund der Komplexität und Vielschichtigkeit der lohnverrechnungsrechtlichen Bestimmungen kann eine **ungeprüfte** Übernahme der Musterlohnarten **nicht empfohlen** werden.
+
+Wir empfehlen daher, jede Musterlohnart vor dem Einsatz fachlich und unternehmensspezifisch zu prüfen und gegebenenfalls an individuelle Anforderungen anzupassen.

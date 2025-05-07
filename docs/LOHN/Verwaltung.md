@@ -60,3 +60,37 @@ Der Programmteil *Klient / Verwaltung / Mit E-Mail versenden* ermöglicht die Ve
 ## Erhalt einer Sicherung mit E-Mail
 
 Siehe Handbuch *ZMV* im Programmteil *Hilfe / Handbuch / Zentrale Mandantenverwaltung*.
+
+## Hereinspielen der Kanzleilohnarten, Kanzleitexte und Kanzleilohnkontenpläne
+
+Die Kanzleilohnarten, Kanzleitexte und Kanzleilohnkontenpläne werden über die **ZMV** (Zentrale Mandantenverwaltung) in das System eingespielt.
+
+Öffnen Sie den Menüpunkt *Allg. Dateien / Hereinspielen*. Klicken Sie auf den Button *Erweitert*. Wählen Sie bei Feld *Ordner* anstelle von *Sicherungen* den Eintrag *benutzerdefiniert* aus:
+
+![Image](img/image833.png){width="500"}
+
+Es öffnet sich das Windows-Auswahlfenster. Navigieren Sie zu dem Ordner, in dem Sie die bereitgestellten Daten gespeichert haben.
+
+!!! warning "Hinweis"
+    Der Ordner wird **leer** angezeigt - das ist korrekt. Klicken Sie auf *Ordner auswählen*.
+
+Im Darstellungsdialog werden nun die verfügbaren Dateien zur Auswahl angezeigt:
+
+![Image](img/image834.png){width="500"}
+
+Markieren Sie die gewünschten Dateien und klicken Sie auf *Hereinspielen*.
+
+Nach dem Schließen des Dialogfensters wurde der Import erfolgreich durchgeführt.
+
+!!! warning "Hinweis"
+    Bevor Sie die Kanzleilohnarten, Kanzleitexte und Kanzleilohnkontenpläne hereinspielen, prüfen Sie bitte, ob die enthaltenen Dateinummern in Ihrer Kanzlei bereits verwendet werden. Falls bereits Nummern belegt sind, würden bestehende Dateien beim Import überschrieben werden.
+
+    In diesem Fall wenden Sie sich bitte an den **RZL Lohnsupport** und geben Sie **freie Nummern** bekannt. Sie erhalten daraufhin die Dateien mit angepassten, freien Nummern zurück und können diese importieren.
+
+**Übersicht**
+
+| Datei                  | Dateibezeichnung | Beispiel     | Lösung - Nummer             |
+| ---------------------- | ---------------- | ------------ | --------------------------- |
+| Kanzleilohnarten       | Rnnnnn03.DAT     | R0042503.DAT | Kanzleilohnartentabelle 425 |
+| Kanzleilohnkontenpläne | Rnnnnn04.DAT     | R9000104.DAT | Kanzleilohnkontenplan 90001 |
+| Kanzleitexte           | Rnnnnn05.DAT     | R0003005.DAT | Kanzleitexte 30             |
