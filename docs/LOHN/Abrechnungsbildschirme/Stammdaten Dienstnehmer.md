@@ -238,3 +238,6 @@ Eine vollständige Nacherfassung ist somit nicht erforderlich.
 
 !!! warning "Hinweis"
     Durch die reine Stammdateneingabe brauchen Sie nur den Bildschirm *Stammdaten Dienstnehmer* befüllen, alle anderen Bildschirme können Sie außer Acht lassen. Diese Eingabe dient rein zur Erstellung und Übermittlung des L19 Formulars. Es kommt zu **keiner** Auszahlung der Pauschalen Reiseaufwandsentschädigung.
+
+!!! warning "Hinweis"
+    Für freie Dienstnehmer ist **kein** L19-Formular erforderlich. Die PRAE (Pauschale Reiseaufwandsentschädigung) muss vom freien Dienstnehmer im Rahmen der Einkommensteuererklärung selbst bekannt gegeben werden. ([Weitere Informationen finden Sie in den FAQs auf der Website von Sport Austria unter dem Punkt: „Welche Meldepflicht besteht, wenn Leistungen mit Honorarnoten bezahlt werden?“](https://www.sportaustria.at/de/service-center/recht-und-finanzen/aufwandsentschaedigung-und-abrechnungsformulare#c5557))

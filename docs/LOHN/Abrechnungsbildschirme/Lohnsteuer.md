@@ -193,6 +193,15 @@ Entwicklungshelfer sind von der Neuregelung der Auslandsbezüge ab dem Jahr 2011
 
     Hier haben Sie die Möglichkeit, die *Anzahl* der Kilowattstunden für die Aufladung des E-Fahrzeugs zu erfassen. Als *Basis* wird Ihnen der amtliche Kilowattstundenpreis vorgeschlagen. Sie können auch eine abweichende Basis erfassen. Falls keine genaue Überprüfung möglich ist, können Sie den aktuell gültigen Maximalbetrag von EUR 30,00 als Kostenersatz hinterlegen. Wenn Sie den Kostenersatz nicht auszahlen möchten, sondern dieser lediglich auf dem Jahreslohnkonto und dem Jahreslohnzettel (L16) ausgewiesen werden soll, aktivieren Sie das Häkchen *nur Ausweis am Lohnkonto u. L16*.
 
+!!! info "Tipp"
+    Zuschüsse und Kostenersätze können über freie Lohnarten abgerechnet werden. Dafür stehen Ihnen folgende Lohnsteuerpflichtigkeiten zur Auswahl:
+
+    - 37 Zuschuss zur Kinderbetreuung § 3 Abs 1 Z 13 lit. b
+    - 38 Kostenersatz Aufladen E-Fahrzeug
+    - 39 Kostenersatz Anschaffung einer Ladeeinrichtung
+    
+    Wenn Sie wiederkehrende Zahlungen (z. B. monatliche Zuschüsse) abrechnen möchten, erfolgt dies ebenfalls über die freien Lohnarten.
+
 **Kommunalsteuer**
 
 Hier kann die Kommunalsteuer auf insgesamt 10 Gemeinden verteilt werden. Tragen Sie die Gemeindenummer laut den angelegten Gemeindestammdaten ein. Hat der Dienstgeber in einer Gemeinde nur eine Betriebsstätte, so braucht hier keine Nummer eingegeben zu werden, es wird automatisch die Gemeinde laut Dienstgeberstammdaten angesprochen.
