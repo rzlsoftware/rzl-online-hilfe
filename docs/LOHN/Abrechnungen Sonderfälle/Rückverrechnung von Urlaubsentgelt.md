@@ -43,3 +43,6 @@ In alle zwei Lohnarten wird der Betrag EUR 1.000,00 berücksichtigt.
 **Auszug Jahreslohnzettel L16**
 
 ![Image](img/image621.png){width="600"}
+
+!!! warning "Hinweis"
+    Bei den oben aufgeführten Musterlohnarten handelt es sich lediglich um unverbindliche Vorschläge. Die endgültige Auswahl, Anpassung und rechtliche Prüfung obliegt ausschließlich dem Anwender. Eine Haftung für die Richtigkeit, Vollständigkeit oder Anwendbarkeit der Vorschläge wird nicht übernommen.
