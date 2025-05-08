@@ -2,7 +2,7 @@
 
 Zunächst müssen **alle RZL - Programme auf dem Arbeitsplatz geschlossen werden**, damit die Sicherung gestartet werden kann!
 Der RZL Dienst (wenn optional installiert) wird bei diesem Vorgang, vom RZL-Admin
-in einen Diagnosemodus versetzt. Die Komplettsicherung umfasst auch die Sicherung der Datenbank sofern eine SQL- Instanz (optional)
+in einen Diagnosemodus versetzt. Die Komplettsicherung umfasst auch die Sicherung der Datenbank.
 
 Während der Sicherung können die RZL-Programme **NICHT** gestartet
 werden.
@@ -11,7 +11,8 @@ Für eine Komplettsicherung führen Sie folgende Schritte aus:
 
 **1.**  Öffnen Sie das Programm **RZL Admin**.
 
-![RZL-Admin öffnen](img/RZLAdmin_Oeffnen.png)
+ ![alt text](img/RZLAdmin_Oeffnen.png#only-light)
+ ![alt text](img/RZLAdmin_Oeffnen DM.png#only-dark)
 
 **2.**  Wählen Sie den Menüpunkt **RZL Daten Sichern/Wiederherstellen**.
 
