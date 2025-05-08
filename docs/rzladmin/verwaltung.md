@@ -252,13 +252,21 @@ Der RZL PDF-Manager-Treiber ermöglicht es, PDF-Ausdrucke aus beliebigen externe
 
 Hiermit kann man den Dienst für die Druckwarteschlange (auch „Spooler“ genannt) neu starten. Diese Funktion ist besonders nützlich, wenn Probleme mit Druckaufträgen oder dem PDF-Druck auftreten. Durch einen Neustart des Spooler-Dienstes können oft Druckprobleme behoben werden, ohne dass der gesamte Rechner neu gestartet werden muss.
 
-## Abbilddatei hochladen
+## E-Mail
 
-Hier in der Tabelle werden alle offenen RZL Programme angezeigt. Eine Abbilddatei
-dieser Programme kann mittels der Funktion (rot markiert) an RZL gesendet werden.
+![E-Mail](img/Verwaltung_E-Mail_Konfiguration.png)
+
+Die Konfiguration für den SMTP-Server (Mail an SMTP) wird in den RZL-Programmen nicht direkt im RZL Admin vorgenommen. Die relevanten Einstellungen, wie Absenderadresse, Absendername und Antwortadresse, werden im Bereich Stammdatenverwaltung des Kanzlei-Informations-Systems (KIS) oder im Klientenportal hinterlegt.
+
+![E-Mail](img/Verwaltung_E-Mail_SMTP.png)
+
+
+## Abbilddatei hochladen
 
 ![Abbilddatei hochladen](img/Verwaltung_AbbilddateiHochladen.png)
 
-Durch den blau markierten Schalter werden nur Prozesse des angemeldeten Benutzers
-angezeigt. Sollte man diesen Schalter betätigen, werden alle auf dem Rechner
-laufenden Prozesse (z. B. RZL Diagnose Dienst) angezeigt.
+Hier werden alle offenen RZL Programme in einer Tabelle angezeigt.
+Sie können eine Abbilddatei (Snapshot) dieser Programme erstellen und mittels der Funktion (rot markiert) direkt an RZL senden.
+Mit dem blau markierten Schieberegler können Sie einstellen, ob nur die Prozesse des angemeldeten Benutzers oder alle auf dem Rechner laufenden Prozesse (z. B. auch den RZL Diagnose Dienst) angezeigt werden.
+
+Diese Funktion dient dazu, bei Supportfällen gezielte Diagnosedaten an RZL zu übermitteln, was die Fehlersuche und Analyse durch den technischen Support erleichtert.Für das Hochladen und die Nutzung dieser Funktionen werden Administratorrechte benötigt.
