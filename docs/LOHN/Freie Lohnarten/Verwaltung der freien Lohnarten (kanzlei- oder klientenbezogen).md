@@ -27,7 +27,7 @@ Im Feld Kanzlei-Lohnartentabelle ist die Nummer der Tabelle einzutragen und wird
 
 ## Musterlohnartentabelle
 
-Die in der Musterlohnartentabelle sowie die im Handbuch beschriebenen Musterlohnarten verstehen sich als unverbindliche Vorschläge zur Lohnartenerfassung. Sie basieren auf dem aktuellen Informationsstand aus einschlägigen Fachartikeln.
+Die in der Musterlohnartentabelle sowie die im Handbuch beschriebenen Musterlohnarten verstehen sich als unverbindliche Vorschläge zur Lohnartenerfassung. Sie basieren auf einschlägigen Fachartikeln.
 
 Bitte beachten Sie, dass die **Letztverantwortung** für die korrekte Anlage und Verwendung der Lohnarten beim Anwender liegt. Aufgrund der Komplexität und Vielschichtigkeit der lohnverrechnungsrechtlichen Bestimmungen kann eine **ungeprüfte** Übernahme der Musterlohnarten **nicht empfohlen** werden.
 
