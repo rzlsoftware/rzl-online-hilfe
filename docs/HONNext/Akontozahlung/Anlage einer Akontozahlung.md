@@ -1,15 +1,14 @@
-# Anlage einer Akonto-/ Anzahlung
+# Anlage einer Akonto-/Anzahlung
 
 Über *Akonto/Anzahlungen / Akontozahlungen/Anzahlungen* können Sie eine
-neue Akonto-/ Anzahlung anlegen.
+neue Akonto-/Anzahlung anlegen.
 
-Wählen Sie hierfür entweder im Ribbon die Schaltfläche Neue Akonto-/
-Anzahlung **(1)** oder die Schaltfläche rechts unten **(2).**
+Wählen Sie hierfür entweder im Ribbon die Schaltfläche *Neue Akonto-/
+Anzahlung* **(1)** oder die Schaltfläche rechts unten **(2).**
 
+![](<img/image264.png>)
 
-![](<img/image248.png>)
-
-Eine Akonto-/ Anzahlung besteht aus den folgenden Feldern:
+Eine Akonto-/Anzahlung besteht aus den folgenden Feldern:
 
 | *Feld*             | *Beschreibung*                                                                                                                                                                                                                                                                                              |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,18 +23,21 @@ Eine Akonto-/ Anzahlung besteht aus den folgenden Feldern:
 
 ![](<img/image249.png>)
 
-Durch klicken auf die Schaltfläche *Speichern*, wird die Akonto-/
+Durch Klicken auf die Schaltfläche *Speichern* wird die Akonto-/
 Anzahlung gespeichert.
 
 !!! info "Tipp"
     Mit der Schaltfläche *Akontozahlung/Anzahlung löschen* können Sie noch
-    nicht abgerechnete Akonto-/ Anzahlungszeilen löschen.
+    nicht abgerechnete Akonto-/Anzahlungszeilen löschen.
 
-## Akonto-/ Anzahlung duplizieren
+## Akonto-/Anzahlung duplizieren
 
-Mit der Schaltfläche *Akonto-/ Anzahlung duplizieren* können Sie eine
+Mit der Schaltfläche *Akonto-/Anzahlung duplizieren* können Sie eine
 bestehende Akonto-/Anzahlungszeile kopieren. Die neue Akonto-/Anzahlung
 muss noch über die Schaltfläche *Speichern* gespeichert werden.
 
 
 ![](<img/image250.png>)
+
+!!! info "Tipp"
+    Die Akonto-/Anzahlungen können Sie gruppieren und/oder filtern. Das Layout der Auswertung können Sie speichern (siehe [Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts)).
