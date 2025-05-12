@@ -2,6 +2,5 @@
 title: Setup Handbuch
 ---
 
-
- ![alt text](img/Setup.svg#only-light)
- ![alt text](img/Setup DM.svg#only-dark)     
+ ![alt text](img/Deckblatt_LM.svg#only-light)
+ ![alt text](img/Deckblatt_DM.svg#only-dark)
