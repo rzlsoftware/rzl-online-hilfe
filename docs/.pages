@@ -1,4 +1,3 @@
-
 nav:
   - FIBU Next: FIBUNext
   - Belegverarbeitung
@@ -7,4 +6,6 @@ nav:
   - PDF Manager: PDFManager
   - Board
   - KIS
-  - Setup : setup
+  - Setup: setup
+  - LOHN: LOHN
+  
