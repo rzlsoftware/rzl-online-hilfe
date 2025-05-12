@@ -91,40 +91,40 @@ Dieser Punkt bietet Ihnen verschiedene Einstellungs- und Prüfungsmöglichkeiten
 
 - **Datenbank auf die neueste Version aktualisieren**
 
-![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DB aktualisieren.png>)
+![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DBAktualisieren.png>)
 
 Beim Ausführen dieses Befehls erhält man folgende Hinweismeldung:
 
-![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DB aktualisieren_2.png>)
+![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DBAktualisieren_2.png>)
 
 Nach erfolgreicher Aktualisierung erhält man folgende Meldung:
 
-![Wartung](<img/Verwaltung-allgemeine-DBEinstellungen_DB aktualisiert.png>)
+![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DBAktualisiert.png>)
 
 - **Ausstehende Aktualisierungen prüfen**
 
-![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DB Pruefen.png>)
+![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DBPruefen.png>)
 
 Dieser Befehl sollte nur in Ausnahmefällen nach Aufforderung des Supports ausgeführt werden.
 (Wenn im Falle eines Setups die Programme zwar aktualsiert wurden aber die SQL-Instanz nicht)
 
 - **Rechte zum Aktualisieren einer neuen Version prüfen**
   
-![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_Rechte Pruefung.png>)
+![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_Rechtepruefung.png>)
 
 Hier kann überprüft werden ob von einem Arbeitsplatz aus mittels vorhandener Berechtigungen ein Update eingespielt 
 werden darf.
 
-![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_Rechte Pruefung_Erfolg.png>)
+![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_Rechtepruefung_Erfolg.png>)
 
 - **RZL Dienst Benutzer auf Datenbank berechtigen**
   
-![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_RZL-Dienst_berechtigen.png)
+![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_RZL-DienstBerechtigen.png)
 
 Über diesem Button kann der RZL Dienst (optional) auf der Datenbank berechtigt werden.
 Die Einstellungen können auch manuell über das SQL Management Studio gesetzt werden (siehe dazu auch *Berechtigungskonzept*)
 
-![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_RZL-Dienst-berechtigen_erfolgsmeldung.png)
+![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_RZL-DienstBerechtigen_erfolgsmeldung.png)
 
 - **Transaktions-Log der Datenbank verkleinern**
   
@@ -147,7 +147,7 @@ Die Einstellungen können auch manuell über das SQL Management Studio gesetzt w
 
 - **SQL Index Wartung**
 
-![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_SQL-Statistik-Wartung.png)
+![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_SQLIndexWartung.png)
 
 Generell bezeichnet die SQL Index Wartung die Pflege und Optimierung der Indizes in einer SQL-Datenbank. Indizes beschleunigen Datenbankabfragen, können aber mit der Zeit fragmentieren oder an Performance verlieren. Durch die Wartung werden sie neu organisiert oder aufgebaut, um die Datenbankgeschwindigkeit und Stabilität zu erhalten.
 
@@ -156,7 +156,7 @@ Generell bezeichnet die SQL Index Wartung die Pflege und Optimierung der Indizes
 
 - **SQL Statistik Wartung**
   
-![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_SQL-Statistik-Wartung.png)
+![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_SQLStatistikWartung.png)
 
 Zur Aktualisieren der Statistiken in der SQL-Datenbank, der SQL-Engine, um optimale Zugriffswege für Abfragen zu erhalten. 
 
@@ -186,7 +186,7 @@ Für das Programm *Board* können hier zusätzliche Einstellungen gesetzt werden
 
 - *RZL Board im Hintergrund automatisch mit Windows starten*:   Damit wird das RZL Board beim Starten von Windows automatisch im Hintergrund gestartet und ist sofort einsatzbereit, ohne dass Sie es manuell öffnen müssen.
 
-![Wartung](<img/Verwaltung_RZL Board_schließen.png>)
+![Wartung](img/Verwaltung_RZLBoardSchließen.png)
 
 - *RZL Board schließen wenn alle Fenster geschlossen werden*:  Diese Einstellung finden Sie auch im RZL Board im Bereich „Einstellungen“. Damit können Sie steuern, wie sich das Programm beim Schließen der Fenster verhält, je nach Ihren Arbeitsgewohnheiten oder der Umgebung (lokal oder remote).
   
@@ -219,7 +219,7 @@ Die Anonymisierung schützt die Identität der Mitarbeiter bei Fehlerberichten, 
 
 ## RZL PDF-Drucker / Manager-Druckertreiber
 
-![Druckertreiber](img/Verwaltung_PDF-Drucker_Treiber.png)
+![Druckertreiber](img/Verwaltung_Druckertreiber.png)
 
 In dieser Rubrik können bestimmte Druckertreiber installiert werden. Wenn der
 Treiber bereits vorhanden ist, wird dieser durch das Ausführen der Installation
@@ -229,20 +229,20 @@ Für jede der folgenden Funktionen werden Administratorrechte benötigt.
 
 - **RZL PDF-Drucker Treiber installieren**
   
-  ![Druckertreiber](img/Verwaltung_PDF-Drucker_Treiber.png)
-  
+  ![Druckertreiber](img/Verwaltung_PDFDruckerTreiber.png)
+
   Diese Funktion ist hilfreich, wenn es Probleme mit dem PDF-Drucker gibt oder eine Neuinstallation erforderlich ist, um die Funktionalität wiederherzustellen.
 
 - **Microsoft Print to PDF installieren**
   
-  ![Druckertreiber](<img/Verwaltung_Microsoft print to PDF.png>)
+  ![Druckertreiber](<img/Verwaltung_MicrosoftprinttoPDF.png>)
 
   Für den vollen Funktionsumfang des RZL PDF-Managers muss auf Ihrem Rechner der Standard-Windows-Druckertreiber „Microsoft Print to PDF“ installiert sein. Er wird für bestimmte Funktionen im Zusammenspiel mit dem RZL PDF-Manager benötigt (wenn Sie PDF-Ausdrucke aus externen Programmen (wie Word, Excel, etc.) in den RZL PDF-Manager übernehmen möchten).
   Falls „Microsoft Print to PDF“ nicht installiert ist, kann dieser auch über die Windows-Systemsteuerung nachinstalliert werden.
 
 - **RZL PDF-Manager Treiber installieren**
 
-  ![Druckertreiber](img/Verwaltung_PDF-Manager_Treiber.png)
+  ![Druckertreiber](img/Verwaltung_PDFManagerTreiber.png)
 
 Der RZL PDF-Manager-Treiber ermöglicht es, PDF-Ausdrucke aus beliebigen externen Programmen (z. B. Word, Excel, Outlook, usw.) direkt an den RZL PDF-Manager zu übergeben. Zusätzlich muss auf dem System der Windows-Standarddruckertreiber „Microsoft Print to PDF“ installiert sein, damit alle Funktionen des RZL PDF-Managers genutzt werden können.
 
