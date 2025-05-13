@@ -19,7 +19,7 @@ Weiters kann über *Stamm / Unternehmensverwaltung / Unternehmensbereiche* bei d
 Anzahlungen können über *Akonto / Anzahlungen / Anzahlungen* oder über *Wiederkehrende Anzahlungen* angelegt werden. Wiederkehrende Anzahlungen sind anzulegen, wenn der Klient z.B. monatlich eine Anzahlung leistet.
 
 ## Anlage einer einmaligen Anzahlung
-Steigen Sie über *Akonto/Anzahlungen / Anzahlungen* ein. Mit der Schaltfläche *Neue Anzahlung* können Sie eine neue Anzahlung anlegen. Eine Anzahlungszeile besteht aus den folgenden Feldern: Datum, Klient, Verrechnungsgruppe, Projektzeitraum, geplanter Leistungszeitraum und Betrag (vgl. [Anlage einer wiederkehrenden Anzahlung](/HONNext/Anzahlungsrechnungen/Anzahlungsrechnungen%20im%20HON%20Next/#anlage-einer-wiederkehrenden-anzahlung))
+Steigen Sie über *Akonto/Anzahlungen / Anzahlungen* ein. Mit der Schaltfläche *Neue Anzahlung* können Sie eine neue Anzahlung anlegen. Eine Anzahlungszeile besteht aus den folgenden Feldern: Datum, Klient, Verrechnungsgruppe, Projektzeitraum, geplanter Leistungszeitraum und Betrag.
 
 !!! warning "Hinweis"
     Wird die Option Anzahlungsnote gesetzt, wird die Anzahlung wie eine Anzahlungsrechnung im HON Next behandelt – siehe nachfolgende Erläuterungen. Wird die Option nicht gesetzt, wird die Anzahlung wie eine Akontozahlung (vgl. Kapitel 13, Seite 116) behandelt.
@@ -103,4 +103,4 @@ Die vom RZL Dienst generierten Anzahlungszeilen finden Sie über *Akonto/Anzahlu
     In der Spalte Status sieht man, ob die Anzahlungszeile offen ist, im Zuge einer Anzahlungsnote verrechnet wurde oder auch schon in einer Schlussnote berücksichtigt wurde.
 
 !!! info "Tipp"
-    Die Anzahlungen können Sie gruppieren und/oder filtern. Das Layout der Auswertung können Sie speichern (siehe [Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts)).
+    Die Anzahlungen können Sie gruppieren und/oder filtern. Das Layout der Auswertung können Sie speichern (siehe [Speicherbare Layouts](../Auswertungen/Speicherbare%20Layouts.md)).

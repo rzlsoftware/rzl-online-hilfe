@@ -156,20 +156,19 @@ Leistungsübersicht.
 In der Leistungsübersicht werden Ihnen alle Leistungen für den gewählten
 Mitarbeiter und den gewählten Zeitraum angeführt. Sie können
 Spaltenüberschriften in den Bereich **(1)** ziehen, um nach dieser
-Spalte zu gruppieren. Somit wird Ihnen ermöglicht die Leistungsübersicht
-nach gewissen Kriterien zu gruppieren.
-
+Spalte zu gruppieren. Somit wird Ihnen ermöglicht, die Leistungsübersicht
+nach bestimmten Kriterien zu gruppieren.
 
 ![](<img/image144.png>)
 
-Nachfolgend ein Screenshot mit gruppierten Leistungen. Die Spalten nach
-denen gruppiert werden sollte, wurden in den oberen Bereich gezogen. Sie
+Nachfolgend ein Screenshot mit gruppierten Leistungen. Die Spalten, nach
+denen gruppiert werden soll, wurden in den oberen Bereich gezogen. Sie
 können bei der Gruppierung mehrere Unterebenen bilden. In unserem
-Beispiel wurde nach der Tätigkeit gruppiert und nach der Unterebene
-Klient.
+Beispiel wurde nach der Tätigkeit gruppiert und als Unterebene nach dem
+Klienten.
 
 ![](<img/image145.png>)
 
-Falls eine Leistung die bereits verrechnet wurde, wird Ihnen dies in der
+Falls eine Leistung bereits verrechnet wurde, wird Ihnen dies in der
 Spalte Status mit diesem Symbol
-![](<img/image146.png>)angezeigt.
+![](<img/image146.png>) angezeigt.

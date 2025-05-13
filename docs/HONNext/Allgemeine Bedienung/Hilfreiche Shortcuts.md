@@ -1,6 +1,5 @@
 # Hilfreiche Shortcuts
 
-
 | *Shortcut*                | *Feld / Fenster*                              | *Beschreibung*                                                                    |
 | ------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------- |
 | STRG + A                  | ---                                           | Alle Mitarbeiter markieren.                                                       |
@@ -15,7 +14,7 @@
 | Strg + G                  | im Notenerstellungsdialog                     | Gruppierung                                                                       |
 | Strg + D                  | im Notenerstellungsdialog                     | Zeile drucken                                                                     |
 | Strg + M                  | im Notenerstellungsdialog                     | Automatische Verteilung auf Mitarbeiter                                           |
-| Strg + Shift + M          | im Notenerstellungsdialog                     | utomatische Verteilung auf Mitarbeiter                                            |
+| Strg + Shift + M          | im Notenerstellungsdialog                     | Automatische Verteilung auf Mitarbeiter                                           |
 | Strg + T                  | im Notenerstellungsdialog                     | Manuelle Verteilung                                                               |
 | Strg + W                  | im Notenerstellungsdialog                     | Manuelle Verteilung                                                               |
 | Einfg                     | im Notenerstellungsdialog                     | Neue Tätigkeit einfügen                                                           |
@@ -26,8 +25,8 @@
 | F8                        | im Notenerstellungsdialog                     | Rabatt einfügen                                                                   |
 | Strg + F8                 | im Notenerstellungsdialog                     | Positionsrabatt einfügen                                                          |
 | Alt + S                   | im Notenerstellungsdialog                     | Speichern & Schließen der Note                                                    |
-| Strg+Pfeil rauf/runter    | im Notenerstellungsdialog                     | Verschiebt die Tätigkeit/Verrechnungsgruppe                                       |
+| Strg + Pfeil rauf/runter  | im Notenerstellungsdialog                     | Verschiebt die Tätigkeit/Verrechnungsgruppe                                       |
 | F11                       | in Notenerstellung + Notenübersicht           | Öffnet den Notenrückblick                                                         |
 | F12                       | in Notenerstellung + Notenübersicht           | Öffnet die Druckvorschau                                                          |
 | Strg + O                  | bei den Notenvorschlägen                      | Offene Leistungen anzeigen                                                        |
-| Strg + P                  | in Notenerstellung + Notenübersicht           | Note Drucken                                                                      |
+| Strg + P                  | in Notenerstellung + Notenübersicht           | Note drucken                                                                      |

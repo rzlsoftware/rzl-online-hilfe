@@ -1,7 +1,7 @@
 # Statistik Manager Umsatz
 
 Über den Menüpunkt *Auswertungen / Umsatzstatistik / Statistik Manager*
-steht Ihnen ein Manager zum selbstständigen erzeugen und gestalten von
+steht Ihnen ein Manager zum selbstständigen Erzeugen und Gestalten von
 Umsatzstatistiken zur Verfügung.
 
 Der Statistik Manager unterteilt sich in folgende Bereiche:
@@ -265,7 +265,7 @@ wieder Löschen oder die Formel erneut aufrufen.
 
 Sollte die erstellte Statistik immer wieder aufrufbar sein, können Sie
 über *Layout Speichern* oder über *Layout Speichern unter* (7) die
-Statistik abspeichern (vgl. [Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts)).
+Statistik abspeichern (vgl. [Speicherbare Layouts](../Auswertungen/Speicherbare%20Layouts.md)).
 
 ### Prozentspalten einfügen
 
@@ -339,10 +339,10 @@ Folgende Prozent Spalten stehen zur Verfügung:
 # Statistik Manager Leistungen
 
 Über den Menüpunkt *Auswertungen / Leistungen / Statistik Manager* steht
-Ihnen ein Manager zum selbstständigen erzeugen und gestalten von
+Ihnen ein Manager zum selbstständigen Erzeugen und Gestalten von
 Leistungsstatistiken zur Verfügung.
 
-Der Statistik Manger Leistungen ist in der Bedienung ident wie der [Statistik Manager Umsatz](/HONNext/Auswertungen/Statistik%20Manager/#statistik-manager-umsatz). Nur können hier alle erfassten
+Der Statistik Manger Leistungen ist in der Bedienung ident wie der [Statistik Manager Umsatz](../Auswertungen/Statistik%20Manager.md/#statistik-manager-umsatz). Nur können hier alle erfassten
 Leistungen ausgewertet werden, offen sowie verrechnet.
 
 ## Bedeutung der Felder
@@ -380,7 +380,7 @@ Mit diesem Feld können Sie nach dem
 Unternehmensbereich, der bei den Klienten hinterlegt ist, gruppieren
 und/oder filtern.
 
-**Leistungsdatum Datum** der erfassten Leistung. Wird dies im
+**Leistungsdatum** Datum der erfassten Leistung. Wird dies im
 Zeilen-/Spaltenbereich verwendet, kann ein Datumsintervall definiert
 werden.
 
@@ -405,9 +405,9 @@ Tätigkeiten nach Betrag).
     Stunden der nicht verrechenbaren Tätigkeiten unter der Position ohne
     Unternehmensbereich.
 
-Weiterführende Informationen zur Bedienung des Statistik Manager
-Leistungen finden Sie unter [Bedienung Statistik Manager](/HONNext/Auswertungen/Statistik%20Manager/#bedienung-des-statistik-managers)
+Weiterführende Informationen zur Bedienung des Statistik Managers
+Leistungen finden Sie unter [Bedienung Statistik Manager](../Auswertungen/Statistik%20Manager.md#bedienung-des-statistik-managers)
 
 !!! warning "Hinweis"
-    Im Statistik Manager Leistungen werden alle Zeilen, offen sowie
-    verrechnet berücksichtigt.
+    Im Statistik Manager Leistungen werden alle Zeilen, offene sowie
+    verrechnete berücksichtigt.

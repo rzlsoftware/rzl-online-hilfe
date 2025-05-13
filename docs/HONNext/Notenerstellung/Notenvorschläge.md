@@ -3,7 +3,6 @@
 Damit die Notenerstellung geöffnet wird, wählen Sie den Menüpunkt
 *Honorarnoten – Notenerstellung* aus.
 
-
 ![](<img/image172.png>)
 
 Es öffnet sich anschließend ein eigener Tab für die Notenerstellung.
@@ -49,7 +48,7 @@ Rechnungssteller, Auswahlkriterium, Nettosumme, Akonto und den einzelnen
 ausgewählten Verrechnungsgruppen.
 
 !!! info "Tipp"
-    Bei den Notenvorschlägen besteht die Möglichkeit, sich Layouts anzulegen. (siehe [Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts))
+    Bei den Notenvorschlägen besteht die Möglichkeit, sich Layouts anzulegen. (siehe [Speicherbare Layouts](../Auswertungen/Speicherbare%20Layouts.md))
 
 Bei der Infozeile **(4)** erhalten Sie die Information, wie viele
 Notenvorschläge Sie von den insgesamt offenen Leistungen bei den

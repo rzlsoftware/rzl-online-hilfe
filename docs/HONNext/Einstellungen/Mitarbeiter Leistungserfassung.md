@@ -1,15 +1,15 @@
 # Mitarbeiter Leistungserfassung
 
 Unter diesem Punkt können Sie die Art der Arbeitszeiterfassung
-festlegen, sowie wie lange ihre Mitarbeiter Leistungen
+festlegen, sowie wie lange Ihre Mitarbeiter Leistungen
 bearbeiten/erfassen können und ob Leistungen automatisch freigegeben
 werden oder nicht. Dieser Tab ist vor allem für die Einstellungen der
 Leistungserfassung relevant und hat auch Auswirkungen auf die
-Honorarverrechnung, denn so lange Leistungen nicht von Ihren
+Honorarverrechnung, denn solange Leistungen nicht von Ihren
 Mitarbeitern freigegeben wurden, können Sie diese nicht verrechnen.
 
 Wählen Sie den Button *Mitarbeiter Leistungserfassung* aus, um die
-Grundeinstellungen für Sperren der Leistungserfassung festzulegen oder
+Grundeinstellungen für das Sperren der Leistungserfassung festzulegen oder
 die Leistungen automatisch freigeben zu lassen.
 
 ![](img/image100.png)
@@ -31,10 +31,10 @@ die Leistungen automatisch freigeben zu lassen.
     sondern aufgrund der eingegebenen Leistungszeilen mit *Beginn und
     Ende* wird die Arbeitszeit und die Unterbrechungen ermittelt. Wenn
     beispielsweise ein ganzer Tag an einer FIBU gearbeitet wurde,
-    müssen - damit die Mittagspause errechnet werden kann – zwei
+    müssen – damit die Mittagspause errechnet werden kann – zwei
     Tätigkeiten erfasst werden, wobei in den Feldern Beginn und Ende der
     Vormittag z. B.: 07:00 – 12:00 Uhr und der Nachmittag z. B.:
-    12:30-16:00 erfasst werden.
+    12:30–16:00 erfasst werden.
 
     Ansicht in der Leistungserfassung vom
     Mitarbeiter:![](<img/image91.png>)
@@ -42,7 +42,7 @@ die Leistungen automatisch freigeben zu lassen.
 !!! info "Tipp"
     Bei der Einstellung *Arbeitszeit aus den Leistungen entnehmen* ist es
     empfehlenswert in den Stammdaten der Tätigkeiten die *Uhrzeiteingabe
-    verpflichtend* zu machen (siehe [Tätigkeiten](/HONNext/Stammdaten%20HON%20Next/Tätigkeiten)).
+    verpflichtend* zu machen (siehe [Tätigkeiten](../Stammdaten%20HON%20Next/Tätigkeiten.md)).
 
 -   *Keine Arbeitszeitaufzeichnung*
 
@@ -74,10 +74,10 @@ die Leistungen automatisch freigeben zu lassen.
 
 Änderungen an den Arbeitszeiten können nur direkt in der
 Honorarverrechnung über die Mitarbeiterübersicht durchgeführt werden
-(vgl. [Mitarbeiterübersicht](/HONNext/Mitarbeiterübersicht)).
+(vgl. [Mitarbeiterübersicht](../Mitarbeiterübersicht/index.md)).
 
 !!! warning "Hinweis"
-    Bei der Digitalen Stempeluhr, ist der Import von Arbeitszeiten [Import von Arbeitszeiten](/HONNext/Mitarbeiterübersicht/Import%20Arbeitszeiten%20und%20Leistungen) nicht möglich.
+    Bei der Digitalen Stempeluhr, ist der Import von Arbeitszeiten [Import von Arbeitszeiten](../Datenübernahme.md#datenimport-leistungen-und-arbeitszeiten) nicht möglich.
 
 Ansicht in der Leistungserfassung vom
 Mitarbeiter:![](<img/image93.png>)

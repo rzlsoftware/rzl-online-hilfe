@@ -8,49 +8,51 @@ RZL-Board *– Personen/Klientenverwaltung – Mitarbeiter* auswählen.
 Anschließend gelangen Sie in die Mitarbeiterliste. Wählen Sie den zu
 bearbeitenden Mitarbeiter mit einem Doppelklick aus.
 
-Beim Mitarbeiter selbst klicken Sie auf *HON,* um die
+Beim Mitarbeiter selbst klicken Sie auf *HON Next,* um die
 Honorarverrechnungs-Einstellungen zu hinterlegen.
 
-![](img/image408.png)
+![](img/image409.png)
 
 !!! warning "Hinweis"
     Die HON Mitarbeiterstammdaten sind nur für jene Personen ersichtlich,
     die auch das HON Modul (Rolle Honorarverrechnung) benutzen dürfen.
 
 Die Eingabefelder *Zeitausgleich Stichtag* und *Zeitausgleich
-Anfangsbestand* sind für die Berechnung des Zeitausgleiches in der
+Anfangsbestand* sind für die Berechnung des Zeitausgleichs in der
 Leistungserfassung des Mitarbeiters relevant.
 
 Das hinterlegte *Mitarbeiter-Tarifschema* wird angezeigt. Weitere Infos
-zum Mitarbeiter-Tarifschema finden Sie im Kapitel [Tarifschemata](/HONNext/Stammdaten%20HON%20Next/Tarifschemata) beschrieben.
+zum Mitarbeiter-Tarifschema finden Sie im Kapitel [Tarifschemata](Stammdaten%20HON%20Next/Tarifschemata.md).
 
-Der *Eigenkosten-Stundensatz* zur späteren Berechnung der Eigenkosten,
-bei diversen Auswertungen, ist zu hinterlegen. Das Arbeitszeitmodell und
-der Urlaubsanspruch, sowie der Beginn des Urlaubsjahres können ebenso
+Der *Eigenkosten-Stundensatz* zur späteren Berechnung der Eigenkosten
+bei diversen Auswertungen ist zu hinterlegen. Das Arbeitszeitmodell und
+der Urlaubsanspruch sowie der Beginn des Urlaubsjahres können ebenso
 hinterlegt werden. Weiterführende Informationen zum Arbeitszeitmodell
-finden Sie im Kapitel [Arbeitszeitmodelle](/HONNext/Stammdaten%20HON%20Next/Arbeitszeitmodelle)
-beschrieben. Das Arbeitszeitmodell wird unter anderem für die
+finden Sie im Kapitel [Arbeitszeitmodelle](Stammdaten%20HON%20Next/Arbeitszeitmodelle.md).
+Das Arbeitszeitmodell wird unter anderem für die
 Leistungserfassung der Mitarbeiter benötigt. Weiterführende
-Informationen zum Urlaub finden Sie im Kapitel [Urlaubskartei](/HONNext/Mitarbeiterübersicht/Urlaubskartei) beschrieben. Die Urlaubsinformationen werden als
+Informationen zum Urlaub finden Sie im Kapitel [Urlaubskartei](Mitarbeiterübersicht/Urlaubskartei.md). Die Urlaubsinformationen werden als
 Information für die Mitarbeiter in der Leistungserfassung dargestellt.
 
 Die Option *Rahmenarbeitszeit ignorieren* kann aktiviert werden, wenn die Prüfung auf die Einhaltung der Rahmenarbeitszeit nicht erfolgen soll.
 
 Die Option *Geschäftsführung oder leitende Anstellung* kann aktiviert
 werden, wenn eine Arbeitszeitaufzeichnung nicht zwingend ist und die
-Regeln des Arbeitszeitgesetztes nicht angewandt werden sollen.
+Regeln des Arbeitszeitgesetzes nicht angewandt werden sollen.
+
+Mit dem Feld *Abweichende Arbeitszeitaufzeichnung* kann für den gewählten Mitarbeiter die Art der Arbeitsaufzeichnung abweichend zum Standard hinterlegt werden, vgl. Kapitel [MitarbeiterLeistungserfassung](Einstellungen/Mitarbeiter%20Leistungserfassung.md).
 
 Durch Aktivierung dieser Option prüft das Programm nicht mehr, ob
-Arbeits- und Leistungszeit übereinstimmen, ob das Arbeitszeitgesetzt
-eingehalten wird oder ob die Leistungserfassung vollständig ist (Bsp.
-Erfassung ganztätiger Zeitausgleich nicht notwendig).
+Arbeits- und Leistungszeit übereinstimmen, ob das Arbeitszeitgesetz
+eingehalten wird oder ob die Leistungserfassung vollständig ist (Bsp.:
+Erfassung ganztägiger Zeitausgleich nicht notwendig).
 
 !!! info "Tipp"
     Ausgetretene Mitarbeiter können Sie für die Leistungserfassung sperren,
     indem Sie in den Mitarbeiterstammdaten ein **Austrittsdatum** eintragen.
 
 !!! info "Tipp"
-    Die HON Mitarbeiter Stammdaten sind generationsverwaltet. Falls eine
+    Die HON Mitarbeiterstammdaten sind generationsverwaltet. Falls eine
     Änderung ab einem bestimmten Zeitpunkt gelten soll, so ist eine neue
     Generation anzulegen.
 
@@ -61,7 +63,7 @@ folgenden Hinweis:
 
 ## Transferstundensätze
 
-Dieser Eingabebereich ist nur aktiv, wenn mehrere [Unternehmensbereiche](/HONNext/Unternehmensbereiche)
+Dieser Eingabebereich ist nur aktiv, wenn mehrere [Unternehmensbereiche](Unternehmensbereiche.md)
 angelegt wurden. Ist dies der Fall, dann ist in den Stammdaten der Mitarbeiter im Reiter
 *Mitarbeiterdaten* festzulegen, für welchen Unternehmensbereich dieser
 Mitarbeiter tätig ist **(1).** Weiters ist in den Stammdaten des
