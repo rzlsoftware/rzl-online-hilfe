@@ -1,11 +1,11 @@
-
 nav:
+  - Board
   - FIBU Next: FIBUNext
   - Belegverarbeitung
+  - LOHN: LOHN
+  - KIS
   - HON Next: HONNext
   - LE Next: LENext
   - PDF Manager: PDFManager
-  - Board
-  - KIS
-  - Setup : setup
-  - RZL Admin : rzladmin
+  - Setup: setup
+  - RZL Admin: rzladmin
