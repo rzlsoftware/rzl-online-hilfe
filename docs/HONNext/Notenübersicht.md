@@ -94,7 +94,7 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
     Sie mit der Spalte *Klassik* erkennen, welche Noten aus HON Klassik
     übernommen wurden.
 
--   **Verrechnungsgruppen**: Blenden Sie Sich die Spalte
+-   **Verrechnungsgruppen**: Blenden Sie sich die Spalte
     *Verrechnungsgruppen* in der Notenübersicht ein, werden Ihnen die
     bei der Note abgerechneten Verrechnungsgruppen ausgewiesen.
 
@@ -109,14 +109,17 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
 ![](<img/image316.png>)
 
 !!! info "Tipp"
-    In der Notenübersicht haben Sie die Möglichkeit sich Layouts anzulegen
+    In der Notenübersicht haben Sie die Möglichkeit, sich Layouts anzulegen
     ([Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts)).
+
+!!! info "Tipp"
+    Mit der Tastenkombination *STRG+F* können Sie sich ein Suchfeld einblenden lassen.
 
 !!! warning "Hinweis"
     Die Notenübersicht ist initial auf das aktuelle Jahr (Notendatum)
     eingeschränkt. Der Datumsfilter kann jederzeit angepasst werden. Weiters
-    besteht die Möglichkeit einen Vorschlag für die Ansicht zu setzten. Mit
-    Rechtklick in das *von Feld* können Sie definieren, dass Sie Bsp. immer
+    besteht die Möglichkeit, einen Vorschlag für die Ansicht zu setzen. Mit
+    Rechtsklick in das *von Feld* können Sie definieren, dass Sie z. B. immer
     nur die Noten des letzten Monats sehen oder auch immer alle Noten der
     letzten zwei Jahre. Diese Einstellung wird pro Mitarbeiter gespeichert.
 
