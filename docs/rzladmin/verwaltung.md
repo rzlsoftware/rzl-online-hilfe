@@ -37,33 +37,33 @@ III)*Teamviewer ID und Passwort angeben
 
 - **RZL Log-Dateien hochladen**
   
-  ![Wartung](img/Verwaltung_Log-Datein_hochladen.png)
+  ![Wartung](img/Verwaltung_Log-DateienHochladen.png)
 
   Hier können ihre Log-Dateien an RZL übermittelt werden, im Anschluss bekommen Sie eine Erfolgsmeldung.
 
-  ![Wartung](img/Verwaltung_Log-Dateien_Erfolgsmeldung.png)
+  ![Wartung](img/Verwaltung_Log-DateienErfolgsmeldung.png)
 
 - **Windows-Ereignisanzeige hochladen**
   
-  ![Wartung](img/Verwaltung_Ereignisanzeige-hochladen.png)
+  ![Wartung](img/Verwaltung_EreignisanzeigeHochladen.png)
 
   Hier kann die Ereignisanzeige direkt an RZL hochgeladen werden. Optional kann ausgewählt werden ob die Ereignisse gefiltert oder ungefiltert versendet werden sollen. 
       
 - **RZL Setup Protokolle hochladen**
   
-  ![Wartung](img/Verwaltung_Setup-Protokolle.png)
+  ![Wartung](img/Verwaltung_SetupProtokolle.png)
 
   Mit Hilfe dieses Werkzeugs können die Protokolle die bei der Durchführung des Updates geschrieben werden, für Supportzwecke, an den Server von RZL, hochgeladen werden.
   
 - **Datei hochladen**
   
-    ![Wartung](<img/Verwaltung_Wartung_Dateien hochladen.png>)
+    ![Wartung](img/Verwaltung_Wartung_DateienHochladen.png)
 
   Über das Verzeichnis können hier selbst ausgewählte Dateien an RZL übermittelt werden. (Sicherungsdateien, Dump Dateien, etc.)
 
 - **Ordnerstruktur der RZL Programme hochladen**
   
-  ![Wartung](img/Verwaltung_Wartung_Ordnerstruktur-hochladen.png)
+  ![Wartung](img/Verwaltung_Wartung_OrdnerstrukturHochladen.png)
 
   Dieser Button lädt direkt die gesamte Ordnerstruktur des Programmverzeichnisses der RZL Programme hoch. 
 
@@ -76,7 +76,7 @@ III)*Teamviewer ID und Passwort angeben
 
 **Des Weiteren kann hier die Lizenz, im Falle eines Rechner – oder Servertauschs, zurückgelegt werden.**
 
-![Wartung](<img/Verwaltung_Lizenierung_Lizenzen bearbeiten.png>)
+![Wartung](img/Verwaltung_Lizenierung_LizenzenBearbeiten.png)
 
 **Man erhält Informationen über den Lizenztyp die Anwendernummer und die Anzahl der benutzen Lizenzen in der jeweiligen Organisation.**
 
@@ -91,7 +91,7 @@ Dieser Punkt bietet Ihnen verschiedene Einstellungs- und Prüfungsmöglichkeiten
 
 - **Datenbank auf die neueste Version aktualisieren**
 
-![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DBAktualisieren.png>)
+![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_DBAktualisieren.png)
 
 Beim Ausführen dieses Befehls erhält man folgende Hinweismeldung:
 
