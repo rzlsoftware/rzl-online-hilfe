@@ -96,9 +96,13 @@ In folgendem Beispiel wird der Freigabe-Standard *Rechnungen über 1.000* bei al
 
 
 Feldbeschreibung:
+
 1. Und/Oder ①: Mit diesem Feld können Sie festlegen, ob die folgenden Kriterien in dieser Gruppe alle zutreffen müssen (und) oder nur eines der Kriterien zutreffen muss (oder).
+   
 2. Bedingung hinzufügen ②: Fügen Sie innerhalb der jeweiligen Gruppe eine neue Bedingung hinzu.
+   
 3. Gruppe hinzufügen ③: Fügen Sie eine Ebene tiefer eine Gruppe mit Bedingungen hinzu.
+   
 4. Kriterien ④: Mit folgenden Kriterien kann eine automatische Zuordnung angestoßen werden:
 
 
@@ -182,4 +186,175 @@ Andernfalls müssen die Freigabe-Standards manuell zugeordnet werden. Markieren 
 
 *Menüleiste:* Mit einem Klick auf die Funktion Freigabe-Standards können Sie den gewünschten Freigabe-Standard den markierten Belegen zuordnen.
 
+
+![Image](<img/image-43.png>)
+
+
+*Detailansicht Freigabe:* Wechseln Sie im Bereich *Detailansicht* in das Registerblatt *Freigabe* ①. Hier können Sie für die aktuell markierten Belege die Freigebestufen und Freigeber lt. definiertem *Freigabe-Standard* ② hinterlegen.
+
+!!! warning "Hinweis"
+    Ein Freigabe-Standard dient „nur“ der einfachen Zuordnung von Freigabestufen und Mitarbeitern. Es wird nicht gespeichert, welcher Freigabe-Standard bei einem Beleg angewendet wurde.
+
+
+![Image](<img/image-44.png>)
+
+
+Nach dem Zuordnen der Freigabe-Standards ② werden die Freigabestufen und zugeordneten Mitarbeiter im Detail im Bereich *Freigabe* ① bzw. in der Listenansicht in der Spalte *Freigeber* ③ angezeigt. In der Listenansicht werden Stufen mit einem vertikalen Strich, Und-Freigeber mit einem Beistrich sowie Oder-Freigeber mit einem Schrägstrich getrennt, angezeigt.
+
+
+#### 4.2. Freigabestufen und Freigeber bei neuen Belegen manuell zuordnen
+
+Falls Sie *Freigabe-Standards* verwendet haben, können Sie nun jederzeit bei einzelnen Belegen Änderungen zu den bereits zugeordneten Stufen / Freigebern vornehmen (Stufen hinzufügen / löschen, Freigeber löschen, andere Freigeber hinzufügen usw.).
+
+Bei neuen Belegen können Stufen und Freigeber manuell einzelnen Belegen zugeordnet werden. Eine manuelle Zuordnung bei mehreren Belegen gleichzeitig ist nicht möglich – verwenden Sie dafür einen vorher definierten *Freigabe-Standard*.
+
+
+### 5. Ansicht Belegfreigabe
+
+#### 5.1. Neue Spalten bzw. neues Registerblatt im Detail
+
+Zum Freigeben von Belegen öffnen Sie nun die Ansicht *Belegfreigabe*.
+
+
+![Image](<img/image-45.png>)
+
+
+Hier werden nun in vier Spalten die aktuellen Freigabeinformationen angezeigt:
+
+1. Freigabestatus ①
+   a. Nicht freigegeben (kein Symbol)
+   b. Teilweise freigegeben
+   c. Freigegeben 
+   d. Abgelehnt (diese Belege werden in einer eigenen Liste angezeigt)
+
+2. Freigeber ②: die zugeordneten Freigeber werden angezeigt. Oder-Freigeber mit Schrägstrich, Und-Freigeber mit Beistrich getrennt. Freigabestufen werden mit einem vertikalen Strich unterteilt.
+   
+3. Freigabe-Fortschritt ③: In dieser Spalte wird grafisch dargestellt, wie viele Freigabestufen schon erledigt sind – diese werden grün dargestellt. In grauer Farbe werden die noch nicht erledigten Freigabestufen angezeigt. Somit kann in dieser Spalte der Gesamtfortschritt der Belegfreigabe abgelesen werden.
+
+4. Aktuelle Freigabestufe ④: Die Stufe, in der sich der Beleg gerade befindet, wird textuell angezeigt.
+
+Ganz unten in der Detailansicht eines Beleges im Registerblatt Freigabe werden die zugeordneten Freigeber und weitere Informationen, wie z.B. das Datum und die Uhrzeit einer erfolgten Freigabe, angezeigt.
+
+
+#### 5.2. Mögliche Aktionen
+
+Folgende Aktionen können bei einem Beleg nun getätigt werden, wenn Sie als Freigeber zugeordnet sind:
+
+- Freigeben (optional mit Anmerkung)
+
+- Ablehnen
+
+- Weiterleiten
+
+- Zurücksetzen
+
+Grundsätzlich gibt es drei verschiedene Möglichkeiten, eine Freigabe-Aktionen zu setzen:
+
+
+![Image](<img/image-46.png>)
+
+
+![Image](<img/image-47.png>)
+
+
+![Image](<img/image-48.png>)
+
+
+##### 5.2.1. Beleg freigeben
+
+Beim Freigeben eines Beleges wird gespeichert, welcher Mitarbeiter zu welchem Datum und zu welcher Uhrzeit den Beleg freigegeben hat. Zusätzlich kann jeder Freigeber eine Anmerkung erfassen.
+
+Wenn alle notwendigen Freigabestufen und Freigeber freigegeben haben, erhält der Beleg automatisch den Status *freigegeben*. Jetzt kann dieser Beleg in der FIBU / EA gebucht werden.
+
+
+##### 5.2.2. Beleg ablehnen
+
+Falls ein Beleg nicht akzeptiert wird, kann ein zugeordneter Freigeber einen Beleg *ablehnen*. Zusätzlich kann ein Ablehnungsgrund erfasst werden (dieser wird auch im E-Mail angeführt).
+
+
+![Image](<img/image-49.png>)
+
+
+Der Beleg wird nach einer Ablehnung von der Liste *Belegfreigabe* in die Liste der *Abgelehnte Belege* verschoben (Details dazu weiter unten).
+
+Wenn mehrere Freigeber zugeordnet sind reicht die Ablehnung eines Mitarbeiters, damit der Beleg in die Liste der abgelehnten Belege verschoben wird.
+
+Optional kann nun ein Infomail an bestimmte Mitarbeiter versendet werden (siehe Einstellungen weiter oben).
+
+
+##### 5.2.3. Beleg weiterleiten
+
+Falls Sie als zugeordneter Freigeber diesen Beleg einem anderen Mitarbeiter zum Freigeben übergeben möchten, verwenden Sie die Aktion *Weiterleiten*.
+
+Beim Weiterleiten wählen Sie den gewünschten Mitarbeiter und erfassen optional einen Weiterleitungsgrund bzw. eine Nachricht für den neuen Freigeber (wird auch im E-Mail angeführt).
+
+
+![Image](<img/image-50.png>)
+
+
+Beim ursprünglichen Freigeber wird vermerkt, an wen, zu welchem Datum und zu welcher Uhrzeit der Beleg weitergeleitet wurde. Der neue Freigeber ist als Oder-Freigeber in derselben Stufe hinterlegt. Solange der neue Freigeber keine Aktion getätigt hat, können Sie die Aktion zurücknehmen oder den Beleg auch selbst noch freigeben.
+
+In der Detailansicht zum entsprechenden Beleg finden Sie die entsprechenden Informationen:
+
+
+![Image](<img/image-51.png>)
+
+
+##### 5.2.4. Zurücksetzen
+
+Mit der Funktion *Zurücksetzen* können Sie bereits getätigte Aktionen wieder zurücknehmen. Es wird dies ebenfalls mit Datum und Uhrzeit vermerkt. Der Beleg gilt von Ihnen nun wieder als *nicht freigeben*.
+
+
+![Image](<img/image-52.png>)
+
+
+#### 5.3. Weitere Funktionen
+
+
+![Image](<img/image-53.png>)
+
+
+##### 5.3.1. Meine freizugebenden Beleg
+
+Um in der Liste aller Belege nur die Belege zu sehen, bei denen Sie als Freigeber zugeordnet sind, aktivieren Sie die Schaltfläche *Meine freizugebenden Belege*. Es wird somit ein Filter auf die Spalte Freigeber mit Ihrem Kürzel gesetzt. Ein erneutes Klicken dieser Schaltfläche deaktiviert diesen Filter wieder.
+
+
+##### 5.3.2. Freigeber bearbeiten
+
+Mit dieser Funktion können Sie in der Detailansicht im Registerblatt *Freigabe* die zugeordneten Mitarbeiter verändern (nur solange dieser noch keine Freigabe durchgeführt hat). Diese Funktion kann nur von dem Mitarbeiter ausgeführt werden, der die Belege ursprünglich hinzugefügt hat oder von einem RZL Administrator.
+
+
+##### 5.3.3. Seiten bearbeiten
+
+Jeder Freigeber kann über die Funktion *Seiten bearbeiten* Seiten zum bestehenden Beleg dazu hängen. Ziehen Sie die neue Seite oder die neuen Seiten z.B. aus dem Windows-Explorer oder aus einem Scanordner in diese Ansicht *Seiten bearbeiten*.
+
+
+#### 5.4. Sichtbarkeitsrechte einschränken (Nur Belegfreigeber)
+
+Im Berechtigungssystem gibt es die Möglichkeit, einem Mitarbeiter z.B. nur die Rolle Belegfreigeber zuzuordnen. Somit können diese Mitarbeiter in der *RZL Belegverarbeitung* (Ansichten *Belegfreigabe* und *Gebuchte Belege*) nur Belege sehen, bei denen sie selbst als Belegfreigeber zugeordnet sind.
+
+Somit sieht ein Belegfreigeber nie Belege von anderen Mitarbeitern. Diese Einstellung empfehlen wir für alle Mitarbeiter, die in den RZL Programmen nur Belege freigeben!
+
+![Image](<img/image-54.png>)
+
+
+### 6. Ansicht Abgelehnte Belege
+
+Falls Belege von einem Freigeber abgelehnt wurden, werden diese in der Ansicht *Abgelehnte Belege* angezeigt.
+
+
+![Image](<img/image-55.png>)
+
+
+Ein abgelehnter Beleg kann mit der Funktion Beleg löschen ① entweder zur Gänze gelöscht und somit in den Belege Papierkorb verschoben werden oder mit der Funktion Ablehnung zurücknehmen ②wieder in die Liste derBelegfreigabe zurückgeschoben werden. Die abgelehnten Belege können in dieser Liste auch einfach stehen bleiben.
+
+
+### 7. Ansicht Gebuchte Belege
+
+Belege, die den Status *Freigegeben* erreicht haben, können in der RZL FIBU / EA gebucht werden.
+
+Auch nach dem Buchen bleibt die Freigabeinformation erhalten und ist jederzeit aufrufbar.
+
+
+![Image](<img/image-56.png>)
 
