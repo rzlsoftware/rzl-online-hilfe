@@ -91,52 +91,52 @@ Dieser Punkt bietet Ihnen verschiedene Einstellungs- und Prüfungsmöglichkeiten
 
 - **Datenbank auf die neueste Version aktualisieren**
 
-![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_DBAktualisieren.png)
+![Wartung](img/Verwaltung_DBEinstellungen_DBAktualisieren.png)
 
 Beim Ausführen dieses Befehls erhält man folgende Hinweismeldung:
 
-![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DBAktualisieren_2.png>)
+![Wartung](img/Verwaltung_DBEinstellungen_DBAktualisieren_2.png)
 
 Nach erfolgreicher Aktualisierung erhält man folgende Meldung:
 
-![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DBAktualisiert.png>)
+![Wartung](img/Verwaltung_DBEinstellungen_DBAktualisiert.png)
 
 - **Ausstehende Aktualisierungen prüfen**
 
-![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_DBPruefen.png>)
+![Wartung](<img/Verwaltung_DBEinstellungen_DBPruefen.png>)
 
 Dieser Befehl sollte nur in Ausnahmefällen nach Aufforderung des Supports ausgeführt werden.
 (Wenn im Falle eines Setups die Programme zwar aktualsiert wurden aber die SQL-Instanz nicht)
 
 - **Rechte zum Aktualisieren einer neuen Version prüfen**
   
-![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_Rechtepruefung.png>)
+![Wartung](<img/Verwaltung_DBEinstellungen_Rechtepruefung.png>)
 
 Hier kann überprüft werden ob von einem Arbeitsplatz aus mittels vorhandener Berechtigungen ein Update eingespielt 
 werden darf.
 
-![Wartung](<img/Verwaltung_allgemeine-DBEinstellungen_Rechtepruefung_Erfolg.png>)
+![Wartung](<img/Verwaltung_DBEinstellungen_Rechtepruefung_Erfolg.png>)
 
 - **RZL Dienst Benutzer auf Datenbank berechtigen**
   
-![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_RZL-DienstBerechtigen.png)
+![Wartung](img/Verwaltung_DBEinstellungen_RZL-DienstBerechtigen.png)
 
 Über diesem Button kann der RZL Dienst (optional) auf der Datenbank berechtigt werden.
 Die Einstellungen können auch manuell über das SQL Management Studio gesetzt werden (siehe dazu auch *Berechtigungskonzept*)
 
-![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_RZL-DienstBerechtigen_erfolgsmeldung.png)
+![Wartung](img/Verwaltung_DBEinstellungen_RZL-DienstBerechtigen_erfolgsmeldung.png)
 
 - **Transaktions-Log der Datenbank verkleinern**
   
-![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_Transaktionslog.png)
+![Wartung](img/Verwaltung_DBEinstellungen_Transaktionslog.png)
 
   Dieser Befehl kann ausgeführt werden, wenn die Daten der Datenbank aus verschiedenen Gründen zunehmen, meist wenn Konfigurationen der Datenbank selbst nicht sauber gesetzt worden sind.
 
-![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_Transaktionslog_Erfolg.png)
+![Wartung](img/Verwaltung_DBEinstellungen_Transaktionslog_Erfolg.png)
 
 - **Einzelbenutzermodus/Mehrbenutzermodus**
   
-![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_Einzelbenutzer_Mehrbenutzer.png)
+![Wartung](img/Verwaltung_DBEinstellungen_Benutzermodus.png)
 
   Dieser Modus regelt, ob mehrere Benutzer oder nur ein Benutzer schreiben und/-oder lesend auf einen Klienten zugreifen können.Für den mehrfachen Lesezugriff auf eine Klientendatei zur Bearbeitung ist einezusätzliche Lizenz erforderlich.
 
@@ -147,7 +147,7 @@ Die Einstellungen können auch manuell über das SQL Management Studio gesetzt w
 
 - **SQL Index Wartung**
 
-![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_SQLIndexWartung.png)
+![Wartung](img/Verwaltung_DBEinstellungen_SQLIndexWartung.png)
 
 Generell bezeichnet die SQL Index Wartung die Pflege und Optimierung der Indizes in einer SQL-Datenbank. Indizes beschleunigen Datenbankabfragen, können aber mit der Zeit fragmentieren oder an Performance verlieren. Durch die Wartung werden sie neu organisiert oder aufgebaut, um die Datenbankgeschwindigkeit und Stabilität zu erhalten.
 
@@ -156,7 +156,7 @@ Generell bezeichnet die SQL Index Wartung die Pflege und Optimierung der Indizes
 
 - **SQL Statistik Wartung**
   
-![Wartung](img/Verwaltung_allgemeine-DBEinstellungen_SQLStatistikWartung.png)
+![Wartung](img/Verwaltung_DBEinstellungen_SQLStatistikWartung.png)
 
 Zur Aktualisieren der Statistiken in der SQL-Datenbank, der SQL-Engine, um optimale Zugriffswege für Abfragen zu erhalten. 
 
@@ -178,15 +178,15 @@ Benutzers zurücksetzen. Das bedeutet, dass alle individuellen Anpassungen der A
 
 Für das Programm *Board* können hier zusätzliche Einstellungen gesetzt werden.
 
- ![Wartung](<img/Verwaltung_RZL Board_Standardlayout.png>)
+ ![Wartung](img/Verwaltung_BoardStandardlayout.png)
 
 - *Standardlayout für aktuellen Benutzer zurücksetzen*:   Die Oberfläche wird auf das ursprüngliche Layout zurückgesetzt, individuelle Einstellungen können erneut im RZL Board vorgenommen werden.
   
-![Wartung](<img/Verwaltung_RZL Board_Hintergrundstart.png>)
+![Wartung](<img/Verwaltung_BoardHintergrundstart.png>)
 
 - *RZL Board im Hintergrund automatisch mit Windows starten*:   Damit wird das RZL Board beim Starten von Windows automatisch im Hintergrund gestartet und ist sofort einsatzbereit, ohne dass Sie es manuell öffnen müssen.
 
-![Wartung](img/Verwaltung_RZLBoardSchließen.png)
+![Wartung](img/Verwaltung_BoardSchließen.png)
 
 - *RZL Board schließen wenn alle Fenster geschlossen werden*:  Diese Einstellung finden Sie auch im RZL Board im Bereich „Einstellungen“. Damit können Sie steuern, wie sich das Programm beim Schließen der Fenster verhält, je nach Ihren Arbeitsgewohnheiten oder der Umgebung (lokal oder remote).
   
@@ -254,11 +254,11 @@ Hiermit kann man den Dienst für die Druckwarteschlange (auch „Spooler“ gena
 
 ## E-Mail
 
-![E-Mail](img/Verwaltung_E-Mail_Konfiguration.png)
+![E-Mail](img/Verwaltung_E-MailKonfiguration.png)
 
 Die Konfiguration für den SMTP-Server (Mail an SMTP) wird in den RZL-Programmen nicht direkt im RZL Admin vorgenommen. Die relevanten Einstellungen, wie Absenderadresse, Absendername und Antwortadresse, werden im Bereich Stammdatenverwaltung des Kanzlei-Informations-Systems (KIS) oder im Klientenportal hinterlegt.
 
-![E-Mail](img/Verwaltung_E-Mail_SMTP.png)
+![E-Mail](img/Verwaltung_E-MailSMTP.png)
 
 
 ## Abbilddatei hochladen
