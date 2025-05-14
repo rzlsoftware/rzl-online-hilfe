@@ -14,9 +14,9 @@ Kundennummer, Name, …) ausgelesen. [Belegverarbeitung im RZL Board](./Belegver
 
 Die Vorgehensweise für das Zusammenspiel zwischen Steuerberater und
 Klient über das web-basierte RZL Klientenportal entnehmen Sie bitte
-dem Kapitel [Modul Belege am RZL Klientenportal](./Modul%20Belege%20am%20RZL%20Klientenportal/).
+dem Kapitel [Modul Belege am RZL Klientenportal](../Belegverarbeitung/Modul%20Belege%20am%20RZL%20Klientenportal/Allgemeines.md).
 
-Im Kapitel [Verarbeitung in der RZL FIBU/EA-Rechnung](./Verarbeitung%20in%20der%20RZL%20FIBU/) erhalten Sie
+Im Kapitel [Verarbeitung in der RZL FIBU/EA-Rechnung](../Belegverarbeitung/Buchen%20eines%20EA%20Rechners%20mit%20Belegverarbeitung.md) erhalten Sie
 eine Beschreibung der Vorgehensweise innerhalb der RZL
 Finanzbuchhaltung und EA-Rechnung.
 
