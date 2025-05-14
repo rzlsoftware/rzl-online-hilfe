@@ -47,7 +47,7 @@ Anschließend wechseln Sie in den unteren Bereich des Dialogs *Einstufung nach U
 
 ![Image](img/image491.png){width="500"}
 
-Hier wählen Sie zunächst als *Aktuelle Tätigkeitsgruppe* die Lohngruppe 5 aus. Die zugehörigen Felder werden daraufhin automatisch befüllt. Im nächsten Schritt überprüfen Sie die vorgeschlagenen Werte und können bei Bedarf manuelle Änderungen vornehmen.
+Hier wählen Sie zunächst als *Aktuelle Tätigkeitsgruppe* die Lohngruppe 4 aus. Die zugehörigen Felder werden daraufhin automatisch befüllt. Im nächsten Schritt überprüfen Sie die vorgeschlagenen Werte und können bei Bedarf manuelle Änderungen vornehmen.
 
 ***Stufe***
 
