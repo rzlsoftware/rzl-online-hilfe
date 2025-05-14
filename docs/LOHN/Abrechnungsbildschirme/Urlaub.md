@@ -4,6 +4,8 @@
 
 In diesem Eingabebildschirm kann die *Urlaubskartei* des Dienstnehmers geführt werden. Der [Ausdruck der Urlaubskartei](../Ausdrucke%20allgemein/Ausdruck%20Stammdaten.md) ist im *Ausdruckmenü* unter *Stammdaten* möglich. Die Eintragungen in der Urlaubskartei werden auch für die Berechnung der [Urlaubsrückstellung](../Rückstellungen/Urlaubsrückstellung.md) verwendet. Es können wahlweise *Werktage*, *Arbeitstage* oder *Stunden* eingetragen werden.
 
+## Allgemeine Daten
+
 **Beginn Urlaubsjahr**
 
 Eingabe des Beginns des Urlaubsjahres. Normalerweise ist der Beginn des Urlaubsjahres identisch mit dem Eintrittsdatum, außer es wird das Urlaubsjahr nach dem Kalenderjahr berechnet.
@@ -38,7 +40,7 @@ Hier kann für den Dienstnehmer ein *abweichender Monatsteiler* eingetragen werd
 
 Wenn die Urlaubskartei nach Stunden geführt wird, hat die Eintragung des Monatsteilers **keine Auswirkungen** auf die Urlaubsrückstellung. Das Programm rechnet automatisch die Anzahl der Wochenstunden, welche im Abrechnungsbildschirm *Eintritt* eingetragen sind, auf einen vollen Monat hoch und verwendet diesen Wert als Teiler.
 
-**Urlaubskartei**
+## Urlaubskartei
 
 Soll die *Urlaubskartei* für den einzelnen Dienstnehmer geführt werden, ist dieses Auswahlfeld zu aktivieren. 
 

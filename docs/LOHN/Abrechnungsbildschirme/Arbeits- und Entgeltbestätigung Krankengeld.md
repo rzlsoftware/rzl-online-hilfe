@@ -2,6 +2,8 @@
 
 ![Image](<img/image135.png>)
 
+## Beschäftigungsdaten
+
 **Beschäftigt ab / Beschäftigungstage pro Woche**
 
 Die entsprechenden Daten werden vom Programm aus dem Erfassungsbildschirm [*Eintritt*](../Abrechnungsbildschirme/Eintritt.md) übernommen und angezeigt.
@@ -13,6 +15,8 @@ Handelt es sich um einen Vertragsbediensteten, ist dies im dafür vorgesehenen F
 **Tagesturnus**
 
 Dieses Feld stellt ein Pflichtfeld dar, in welches der Tagesturnus manuell einzutragen ist.
+
+## Letzter Arbeitstag, Grund der Arbeitseinstellung und Austrittsdaten
 
 **Letzter Arbeitstag**
 
@@ -36,6 +40,8 @@ Die Einträge in den Feldern *Austrittsdatum, Kündigungsentschädigung, Ersatzl
 **Ausspruch der Kündigung**
 
 Hier müssen Sie jenen Tag des Ausspruchs der Kündigung eintragen, wenn es sich um die Kündigungsgründe *Kündigung durch den Dienstgeber* oder *einvernehmliche Lösung* handelt.
+
+## Entgelt
 
 **Volles Entgelt bis**
 
@@ -85,7 +91,7 @@ Die Sonderzahlung wird durch den Krankengeldbezug von der ÖGK nicht geschmäler
 
 Die Sonderzahlung wird nur aliquot ausbezahlt während des Krankengeldbezuges, die Sonderzahlung wird um die Krankengeldbezugstage geschmälert.
 
-**Sachbezüge**
+## Sachbezüge
 
 Werden Sachbezüge bezogen, ist dieses Feld zu aktivieren. Ebenso muss angegeben werden, ob der Sachbezug zu 100 % während des Krankengeldbezuges weitergewährt wird oder ob der Sachbezug nur bis Ende Entgeltfortzahlung, also aliquot, weitergewährt wird.
 
@@ -105,6 +111,8 @@ Der Sachbezug wird trotz Krankengeldbezug von der ÖGK weiterhin bezogen. Das he
 
 Der Sachbezug wird durch den Krankengeldbezug von der ÖGK gekürzt, das heißt, der Dienstnehmer muss während des 0 % Entgeltfortzahlungszeitraumes seinen PKW zurückgeben und es wird kein Sachbezug für diesen Zeitraum abgerechnet.
 
+## Entgeltfortzahlungsanspruch
+
 **Anspruch besteht bis zu**
 
 Besteht während der Arbeitsunfähigkeit auf Grund gesetzlicher oder vertraglicher Vorschriften Anspruch auf Weiterleistung des Entgeltes oder auf Gewährung von Zuschüssen, muss dies genau angeführt werden. 
@@ -120,6 +128,8 @@ In diesem Bereich werden die arbeitsfreien Tage hinterlegt, sind diese regelmä�
 **Einarbeitungstage**
 
 Hier sind die Einarbeitungstage des Kalenderjahres einzutragen.
+
+## Vordienstzeiten und Vorerkrankungen
 
 **Vordienstzeiten angerechnet**
 

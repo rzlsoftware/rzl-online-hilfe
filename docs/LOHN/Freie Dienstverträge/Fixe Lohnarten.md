@@ -2,9 +2,11 @@
 
 ![Image](<img/image145.png>)
 
-**Honorar**
+## Honorar
 
 Eingabe des abzurechnenden Honorars.
+
+## Diäten
 
 **Diäten – Eingabe der Tage**
 
@@ -18,7 +20,7 @@ Werden Diäten stundenweise abgerechnet, so können hier die Anzahl der Stunden 
 
 Wird *Kilometergeld* abgerechnet, so kann hier die Anzahl der Kilometer und im nächsten Eingabefeld der Kilometersatz eingegeben werden. Das Programm ermittelt dann den Betrag automatisch. Wiederum kann der Betrag auch direkt eingetragen werden. Auch das Kilometergeld wird vom Programm SV-frei behandelt.
 
-**BV-Bemessung für**
+## BV-Bemessung für Mutterschutz und Krankheit
 
 Seit 1.1.2008 gilt auch für die freien Dienstnehmer die Betriebliche Vorsorgekasse.
 
@@ -30,6 +32,8 @@ Beim Bezug von Krankengeld ist die Eintragung und Aliquotierung manuell vorzuneh
 
 !!! info "Tipp"
     Für die korrekte Berücksichtigung der Sonderzahlung ist die Schaltfläche B*V-Bemessung Vorjahr* anzuwählen und es sind die entsprechenden Eintragungen vorzunehmen.
+
+## Sonderberechnung
 
 **Abweichende Basis SV**
 

@@ -2,13 +2,15 @@
 
 ![Image](<img/image113.png>)
 
-**Pauschale**
+## Pauschale
 
 Ist eine Überstunden-Pauschale abzurechnen, so ist das Auswahlfeld zu aktivieren und der Betrag der Überstunden-Pauschale einzugeben. Damit das Programm den steuerfreien Zuschlag ermitteln kann, muss entweder der *Überstunden-Teiler* oder der *abweichende Überstunden-Grundlohn* eingetragen werden. Wenn im Feld maximal begünstigte Stunden kein niedrigerer Eintrag erfolgt, werden die Zuschläge gemäß § 68 Abs. 2 für 18 Stunden pro Monat steuerfrei gerechnet (maximal EUR 200,00 pro Monat).
 
 Soll **kein** Freibetrag gerechnet werden, dann geben Sie bei *max. beg. h* Null ein und machen Sie einen rechten Mausklick und wählen Sie *Explizit 0* aus.
 
 ![Image](<img/image114.png>){width="500"}
+
+## Überstunden
 
 **Überstunden-Teiler / Abweichender Überstunden-Grundlohn**
 
@@ -50,7 +52,7 @@ Wie oben, jedoch kann der Prozentsatz frei gewählt werden (z. B. 150 %).
 
 In dieses Feld ist der Prozentsatz und die Stundenanzahl der Feiertags- bzw. Sonntagsstunden einzugeben. Im Gegensatz zu den normalen Überstunden wird bei diesen Überstunden nur der Überstundenzuschlag ohne Grundlohn berechnet.
 
-**Mehrarbeit-Stunden**
+## Mehrarbeitsstunden
 
 Ist die Normalarbeitszeit geringer als 40 Stunden, so sind jene Stunden bis zur Normalarbeitszeit als Mehrarbeitsstunden einzugeben.
 
@@ -72,7 +74,7 @@ Eingabe des Prozentsatzes und der Stunden für die Mehrarbeit. Werden die Mehrar
 
 Wird das Feld *nicht begünstigt gemäß § 68 (2)* angewählt, erfolgt keine begünstigte Besteuerung der Mehrarbeitszuschläge.
 
-**All-inclusive-Vereinbarung**
+## All-inclusive-Vereinbarung
 
 Wenn eine All-inclusive-Vereinbarung getroffen wurde, können Sie hier den *Gesamtstundenteiler* eintragen.
 

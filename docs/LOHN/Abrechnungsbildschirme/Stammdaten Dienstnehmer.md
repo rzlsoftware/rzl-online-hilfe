@@ -4,9 +4,11 @@ In diesem Bildschirm sind die persönlichen Daten des Dienstnehmers (Name, Adres
 
 ![Image](<img/image49.png>)
 
-**Klient (UDG)**
+## Klient (UDG)
 
 In diesem Eingabefeld kann ein Dienstnehmer einem eventuellen Unterdienstgeber zugeordnet werden. Mittels *F2-Taste* werden die bereits angelegten Unterdienstgeber aufgerufen.
+
+## Dienstnehmer
 
 **Name des Dienstnehmers**
 
@@ -81,6 +83,8 @@ Eingabe des Staatsbürgerschaftsschlüssels laut Österreichischer Gesundheitska
 
 Wenn in den Stammdaten des Klienten im Registerblatt [*Neufög, BUAK, ELDA*](../Klientenstammdaten/Stammdaten Klient/Neufög, BUAK, ELDA.md) das Feld *externe DN-Nummer* aktiviert ist, kann hier diese extra Nummer eingetragen werden. Diese Nummer kann beim Ausdruck der Abrechnungen, beim Datenimport und Datenexport verwendet werden.
 
+## Beruf
+
 **Beruf**
 
 Eingabe des Berufes mit bis zu 30 Stellen.
@@ -99,7 +103,7 @@ Seit 1.1.2018 müssen Dienstgeber, sofern sie Berufsangehörige der Pflege bzw. 
 
 ![Image](<img/image51.png>)
 
-**Bankverbindung**
+## Bankverbindung
 
 Die Bankverbindung ist dann einzugeben, wenn der Lohn/Gehalt an den Dienstnehmer überwiesen werden soll, entweder durch Ausdruck von Zahlscheinen oder mittels Elektronik Banking.
 
@@ -143,73 +147,73 @@ Wenn die Bankleitzahl eingetragen wird, wird in diesem Feld automatisch der korr
 
 Es kann hier verankert werden, ob die Lohn-/Gehaltsüberweisung an den Dienstnehmer immer nur von der ersten Bankverbindung oder von der zweiten Bankverbindung des Dienstgebers erfolgen soll. Die Eingabe von *&lt;keine&gt;* bedeutet, dass keine Festlegung erfolgt und jeweils von der, bei der Überweisung angewählten Bank, vorgenommen wird.
 
-**Einsatzdienststelle – Adresse der Arbeitsstätte - Freiwilligenmeldung**
+## Einsatzdienststelle – Adresse der Arbeitsstätte - Freiwilligenmeldung
 
 Für Dienstnehmer, die ein freiwilliges soziales Jahr absolvieren, muss am L16 die Einsatzdienststelle gemeldet werden. Diese Meldung erfolgt nicht automatisch, sondern muss im Rahmen der Lohnzettelerstellung in der Sonderübermittlung aktiviert werden.
 
-**(Ehe)Partner**
+## (Ehe)Partner
 
-- **Name**
+**Name**
 
-    Eintragung des Namens des Ehepartners.
+Eintragung des Namens des Ehepartners.
 
-- **SV-Nummer – Geburtsdatum**
+**SV-Nummer – Geburtsdatum**
 
-    Eintragung von SV-Nummer und Geburtsdatum.
+Eintragung von SV-Nummer und Geburtsdatum.
 
-- **Unterhalt**
+**Unterhalt**
 
-    Ist der Ehepartner dem Dienstnehmer gegenüber unterhaltsberechtigt, ist dieses Feld zu aktivieren. Die Unterhaltspflicht wird bei der automatischen Exekutionsberechnung berücksichtigt. Weiters wird der Ehepartner beim Ausdruck der Drittschuldner-Erklärung als unterhaltsberechtigt angedruckt.
+Ist der Ehepartner dem Dienstnehmer gegenüber unterhaltsberechtigt, ist dieses Feld zu aktivieren. Die Unterhaltspflicht wird bei der automatischen Exekutionsberechnung berücksichtigt. Weiters wird der Ehepartner beim Ausdruck der Drittschuldner-Erklärung als unterhaltsberechtigt angedruckt.
 
 !!! info "Tipp"
     Wird ein Alleinverdienerabsetzbetrag beantragt, sind der Name und das Geburtsdatum des Ehepartners für die elektronische Übermittlung des Lohnzettels einzutragen.
 
-**Kinder**
+## Kinder
 
-- **Name**
+**Name**
 
-    Eintragung des Namens des Kindes.
+Eintragung des Namens des Kindes.
 
-- **SV-Nummer – Geburtsdatum**
+**SV-Nummer – Geburtsdatum**
 
-    Eintragung von SV-Nummer und Geburtsdatum.
+Eintragung von SV-Nummer und Geburtsdatum.
 
-- **Unterhalt**
+**Unterhalt**
 
-    Ist das Kind dem Dienstnehmer gegenüber unterhaltsberechtigt, ist dieses Feld zu aktivieren. Die Unterhaltspflicht wird bei der automatischen [Exekutionsberechnung](../Exekutionen/Exekutionsberechnung.md) berücksichtigt. Weiters wird das Kind beim Ausdruck der Drittschuldnererklärung als unterhaltsberechtigt angedruckt.
+Ist das Kind dem Dienstnehmer gegenüber unterhaltsberechtigt, ist dieses Feld zu aktivieren. Die Unterhaltspflicht wird bei der automatischen [Exekutionsberechnung](../Exekutionen/Exekutionsberechnung.md) berücksichtigt. Weiters wird das Kind beim Ausdruck der Drittschuldnererklärung als unterhaltsberechtigt angedruckt.
 
-- **Kind § 106 EStG**
+**Kind § 106 EStG**
 
-    Liegt ein Kind gemäß § 106 EStG vor, so kann dieses Feld aktiviert werden. Im Abrechnungsbildschirm [*Lohnsteuer*](../Abrechnungsbildschirme/Lohnsteuer.md) im Bereich *Absetzbeträge* kann im Feld *Anzahl Kinder §&nbsp;106* durch Anwahl der *F2-Taste* die Anzahl der Kinder gemäß §&nbsp;106&nbsp;EStG übernommen werden.
+Liegt ein Kind gemäß § 106 EStG vor, so kann dieses Feld aktiviert werden. Im Abrechnungsbildschirm [*Lohnsteuer*](../Abrechnungsbildschirme/Lohnsteuer.md) im Bereich *Absetzbeträge* kann im Feld *Anzahl Kinder §&nbsp;106* durch Anwahl der *F2-Taste* die Anzahl der Kinder gemäß §&nbsp;106&nbsp;EStG übernommen werden.
 
-- **Familienbeihilfe**
+**Familienbeihilfe**
 
-    Hier muss für den Familienbonus Plus der Zeitraum des Anspruchs auf Familienbeihilfe eingetragen werden.
+Hier muss für den Familienbonus Plus der Zeitraum des Anspruchs auf Familienbeihilfe eingetragen werden.
 
-- **Familienbonus Plus**
+**Familienbonus Plus**
 
-    Durch Aktivieren dieses Punktes kann der Familienbonus Plus abgerechnet werden. Nach der Aktivierung geben Sie die Daten lt. E30 Formular ein. Je nach dem, was angegeben wurde, geben Sie den Familienbonusbezieher und die Familienbonushöhe an.
+Durch Aktivieren dieses Punktes kann der Familienbonus Plus abgerechnet werden. Nach der Aktivierung geben Sie die Daten lt. E30 Formular ein. Je nach dem, was angegeben wurde, geben Sie den Familienbonusbezieher und die Familienbonushöhe an.
 
-    Grundvoraussetzung für den Anspruch auf Familienbonus Plus ist der Anspruch auf die Familienbeihilfe. Die Kinder müssen sich ständig in Österreich, im EU/EWR-Raum oder in der Schweiz aufhalten.
+Grundvoraussetzung für den Anspruch auf Familienbonus Plus ist der Anspruch auf die Familienbeihilfe. Die Kinder müssen sich ständig in Österreich, im EU/EWR-Raum oder in der Schweiz aufhalten.
 
-    Die Höhe dieses Absetzbetrages richtet sich nach dem Alter des Kindes und beträgt:
+Die Höhe dieses Absetzbetrages richtet sich nach dem Alter des Kindes und beträgt:
 
-    - bis zum Monat in dem das Kind das 18. Lebensjahr vollendet **EUR 166,68** / Kalendermonat (= EUR 2.000,00 / Jahr)
-    - ab dem 18. Lebensjahr des Kindes **EUR 58,34** / Kalendermonat (= EUR 700,08 / Jahr)
+- bis zum Monat in dem das Kind das 18. Lebensjahr vollendet **EUR 166,68** / Kalendermonat (= EUR 2.000,00 / Jahr)
+- ab dem 18. Lebensjahr des Kindes **EUR 58,34** / Kalendermonat (= EUR 700,08 / Jahr)
 
-    Im Feld *Wohnsitz* kann mit der *F2-Taste* eine Liste mit den Ländercodes aufgerufen werden.
+Im Feld *Wohnsitz* kann mit der *F2-Taste* eine Liste mit den Ländercodes aufgerufen werden.
 
-    Aufgrund des Geburtsdatums des Kindes und dem Anspruchszeitraum für die Familienbeihilfe wird vom RZL-Lohnprogramm geprüft, ob weiterhin Anspruch auf FABO+ besteht. Ist dies nicht der Fall, wird der FABO+ automatisch deaktiviert, da ein Fortlaufen des Anspruchs nur im Falle von neuen Bestätigungen durch den Dienstnehmer möglich ist.
+Aufgrund des Geburtsdatums des Kindes und dem Anspruchszeitraum für die Familienbeihilfe wird vom RZL-Lohnprogramm geprüft, ob weiterhin Anspruch auf FABO+ besteht. Ist dies nicht der Fall, wird der FABO+ automatisch deaktiviert, da ein Fortlaufen des Anspruchs nur im Falle von neuen Bestätigungen durch den Dienstnehmer möglich ist.
 
-    Es können nur folgende Personen den Familienbonus Plus in Anspruch nehmen:
+Es können nur folgende Personen den Familienbonus Plus in Anspruch nehmen:
 
-    - Familienbeihilfeberechtigte
-    - der Ehepartner des Familienbeihilfenberechtigten (eingetragene   Partner, Lebensgemeinschaft über 6 Monate)
-    - Unterhaltsverpflichtete, welche auch tatsächlichen Unterhalt leisten.
+- Familienbeihilfeberechtigte
+- der Ehepartner des Familienbeihilfenberechtigten (eingetragene   Partner, Lebensgemeinschaft über 6 Monate)
+- Unterhaltsverpflichtete, welche auch tatsächlichen Unterhalt leisten.
 
-    Der FABO+ kann von einer der Personen zu 100&nbsp;% in Anspruch genommen werden oder zwischen zwei beteiligten Personen jeweils zu 50&nbsp;% aufgeteilt werden.
+Der FABO+ kann von einer der Personen zu 100&nbsp;% in Anspruch genommen werden oder zwischen zwei beteiligten Personen jeweils zu 50&nbsp;% aufgeteilt werden.
 
-**Pauschale Reiseaufwandsentschädigung – nur Ausweis auf L19**
+## Pauschale Reiseaufwandsentschädigung – nur Ausweis auf L19
 
 Sie haben die Möglichkeit, eine bereits ausbezahlte Pauschale Reiseaufwandsentschädigung rein für das L19 Formular nach zu erfassen.
 
