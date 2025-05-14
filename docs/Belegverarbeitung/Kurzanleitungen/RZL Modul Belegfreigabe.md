@@ -128,7 +128,7 @@ Nach Ende des gesetzten Zeitraumes wird in der Liste *Belegfreigabe* automatisch
 Mit der Schaltfläche *Freigabe-Vertretung löschen* kann eine gespeicherte Freigabe-Vertretung jederzeit gelöscht werden.
 
 
-#### 3.4. Freigabe-Benachrichtigung aktivieren
+#### 3.4. Freigabe-Benachrichtigung
 
 Im Bereich Freigabe-Benachrichtigung können Sie pro Mitarbeiter festlegen, in welchen Fällen bestimmte Mitarbeiter benachrichtigt werden sollen. Folgende Möglichkeiten zur Benachrichtigung gibt es:
 
@@ -136,7 +136,7 @@ Im Bereich Freigabe-Benachrichtigung können Sie pro Mitarbeiter festlegen, in w
 ![Image](<img/image-42.png>)
 
 
-##### 3.4.1. Benachrichtigungs-Möglichkeiten
+**Benachrichtigungs-Möglichkeiten**
 
 - *Neue Belege*
 
@@ -151,7 +151,7 @@ Im Bereich Freigabe-Benachrichtigung können Sie pro Mitarbeiter festlegen, in w
     Mitarbeiter mit dieser Option werden informiert, wenn Belege von beliebigen Freigebern abgelehnt wurden.
 
 
-##### 3.4.2. Allgemeine Einstellungen für die Freigabe-Benachrichtigung
+**Allgemeine Einstellungen für die Freigabe-Benachrichtigung**
 
 - *Mail nicht verwenden, wenn Oder-Freigeber bereits freigegeben hat*
 
@@ -227,7 +227,7 @@ Hier werden nun in vier Spalten die aktuellen Freigabeinformationen angezeigt:
    c. Freigegeben 
    d. Abgelehnt (diese Belege werden in einer eigenen Liste angezeigt)
 
-2. Freigeber ②: die zugeordneten Freigeber werden angezeigt. Oder-Freigeber mit Schrägstrich, Und-Freigeber mit Beistrich getrennt. Freigabestufen werden mit einem vertikalen Strich unterteilt.
+2. Freigeber **②**: die zugeordneten Freigeber werden angezeigt. Oder-Freigeber mit Schrägstrich, Und-Freigeber mit Beistrich getrennt. Freigabestufen werden mit einem vertikalen Strich unterteilt.
    
 3. Freigabe-Fortschritt **③**: In dieser Spalte wird grafisch dargestellt, wie viele Freigabestufen schon erledigt sind – diese werden grün dargestellt. In grauer Farbe werden die noch nicht erledigten Freigabestufen angezeigt. Somit kann in dieser Spalte der Gesamtfortschritt der Belegfreigabe abgelesen werden.
 
