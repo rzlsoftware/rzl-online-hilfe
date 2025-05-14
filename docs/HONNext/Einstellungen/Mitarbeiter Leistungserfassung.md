@@ -12,7 +12,7 @@ Wählen Sie den Button *Mitarbeiter Leistungserfassung* aus, um die
 Grundeinstellungen für das Sperren der Leistungserfassung festzulegen oder
 die Leistungen automatisch freigeben zu lassen.
 
-![](img/image100.png)
+![](<img/image104.png>)
 
 ### Arbeitszeitaufzeichnung
 
@@ -102,13 +102,22 @@ Ende der Arbeitszeit
 !!! warning "Hinweis"
     Die Art der Arbeitszeitaufzeichnung kann für einzelne Mitarbeiter abweichend definiert werden (siehe Kapitel [Mitarbeiterstammdaten](../Stammdaten%20Mitarbeiter.md)).
 
+### Zeitüberschneidungen prüfen
+
+Mit der Option *auf Zeitüberschneidungen bei der Tageserfassung hinweisen* erhalten die Mitarbeiter in der Leistungserfassung einen Hinweis, wenn sich Beginn- und Enddatum mehrerer Zeilen überschneiden.
+
+![](<img/image105.png>)
+
+Bis der Mitarbeiter die Leistungen nicht korrigiert, kann die Tageserfassung nicht freigegeben werden.
+Der Hinweis auf Überschneidungen ist auch in der Mitarbeiterübersicht ersichtlich (siehe Kapitel [Mitarbeiterübersicht](../Mitarbeiterübersicht/index.md)).
+
 ### Rahmenarbeitszeit
 
 Mit der Definition einer Rahmenarbeitszeit kann die Eingabe einer Arbeitszeit zu gewissen Zeiten gesperrt werden. Wird eine Rahmenarbeitszeit definiert, können die Mitarbeiter in dieser Zeitspanne Arbeitszeiten erfassen. Eine Arbeitszeit außerhalb des definierten Rahmens kann vom Mitarbeiter nicht gespeichert werden.
 
 Beispiel:
 Im HON Next ist eine Rahmenarbeitszeit von 06:00 - 21:00 Uhr definiert.
-Der Mitarbeiter möchte in seiner Leistungserfassung als Beginn der Arbeitszeit 05:30 eingeben – es kommt folgender Hinweis in der Leistungserfassung der Mitarbeiter:
+Der Mitarbeiter möchte in seiner Leistungserfassung als Beginn der Arbeitszeit 05:30 eingeben – es kommt folgender Hinweis in der Leistungserfassung des Mitarbeiters:
 
 ![](img/image101.png)
 

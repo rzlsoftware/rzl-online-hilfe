@@ -23,6 +23,11 @@
 
     ![](<img/image78.png>)
 
+!!! warning "Hinweis"
+    Sofern in der Honorarverrechnung aktiviert (siehe Handbuch Honorarverrechnung Next *Einstellungen Mitarbeiterleistungserfassung*) erhalten Sie  einen Hinweis bei Überschneidungen von Beginn und Ende.
+    
+    ![](<img/image83.png>)
+
 -   *Keine Arbeitszeitaufzeichnung*
 
     Wird diese Variante gewählt, wird keine Arbeitszeit ermittelt bzw.

@@ -25,12 +25,8 @@ Nummern sortiert.
     Für jede Leistungszeile muss eine Tätigkeit eingetragen werden, damit
     diese freigegeben werden kann.
 
-Die Suche bzw. Eingabe der *Klienten Nummer* erfolgt analog zur
+Die Suche bzw. Eingabe der *Klientennummer* erfolgt analog zur
 Vorgehensweise bei den Tätigkeiten.
-
-Die Felder *Tätigkeit* und *Klient* können nicht eingetragen werden.
-Diese werden aufgrund der Hinterlegung der Tätigkeiten bzw. Klienten aus
-der Honorarverrechnung bzw. aus dem RZL-Board übernommen.
 
 Die Felder *Projektzeitraum* und *Text* können befüllt werden. Je
 nachdem, wie die Tätigkeiten in der Honorarverrechnung definiert wurden,

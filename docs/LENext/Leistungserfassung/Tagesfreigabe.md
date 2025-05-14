@@ -12,7 +12,7 @@ dieser noch für die Honorarverrechnung freigegeben werden.
 
 Dazu gibt es mehrere Möglichkeiten.
 
-1.  Über den Button *Tagesfreigabe*.
+1.Über den Button *Tagesfreigabe*.
 
 ![](<img/image47.png>)
 
@@ -20,7 +20,7 @@ Dazu gibt es mehrere Möglichkeiten.
     Über den Kalender in der Tagesansicht können mehrere Tage gemeinsam
     freigegeben werden.
 
-2.  Durch Wechseln auf den nächsten Tag/einen anderen Tag im Kalender.
+2.Durch Wechseln auf den nächsten Tag/einen anderen Tag im Kalender.
 
 ![](<img/image48.png>)
 
@@ -28,16 +28,16 @@ Wenn Sie bei obiger Meldung auf *Freigeben* klicken, werden die
 Leistungen freigegeben. Klicken Sie auf *Nicht freigeben*, werden die
 Leistungen nicht für die Honorarverrechnung freigegeben.
 
-3.  Die Leistungen werden automatisch freigegeben, falls dies in der
+3.Die Leistungen werden automatisch freigegeben, falls dies in der
     Honorarverrechnung eingestellt wurde.
 
-4.  Durch Markieren der Leistungszeilen mit der rechten Maustaste können
+4.Durch Markieren der Leistungszeilen mit der rechten Maustaste können
     über das Kontextmenü alle oder einzelne Leistungen eines Tages
     freigegeben werden.
 
 ![](<img/image49.png>)
 
-5.  Mittels Shortcut *Strg + T* werden die Leistungen des ganzen
+5.Mittels Shortcut *Strg + T* werden die Leistungen des ganzen
     Tages freigegeben.
 
 Freigegebene Leistungen werden beim jeweiligen Tag bei den einzelnen
