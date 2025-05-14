@@ -175,7 +175,7 @@ CSV-Standard „RFC 4180“ behandelt werden.</td>
 
 Nach dem Import der Leistungen müssen diese noch explizit freigegeben
 werden. Dies machen Sie, indem Sie den Tag über den Kalender öffnen und
-über die Schaltfläche [Tagesfreigabe](/LENext/Leistungserfassung/Tagesfreigabe) den Tag freigeben.
+über die Schaltfläche [Tagesfreigabe](../Leistungserfassung/Tagesfreigabe.md) den Tag freigeben.
 
 
 
@@ -349,4 +349,4 @@ CR\LF getrennt.
 
 Über den Menüpunkt *Datenübernahme / Protokolle* können Sie sich die
 Importprotokolle aller durchgeführten Importe von Leistungen und
-Arbeitszeiten aufrufen.
+Arbeitszeiten anzeigen lassen.

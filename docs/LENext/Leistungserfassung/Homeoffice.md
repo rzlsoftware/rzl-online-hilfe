@@ -1,7 +1,7 @@
 # Telearbeit
 
 Befinden Sie sich an einem Tag in Telearbeit, so können Sie dies durch
-setzten des Hakens *Telearbeit* hinterlegen.
+Setzen des Hakens *Telearbeit* hinterlegen.
 
 ![](<img/image81.png>)
 

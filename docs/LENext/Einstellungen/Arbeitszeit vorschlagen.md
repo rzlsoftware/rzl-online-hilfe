@@ -1,7 +1,7 @@
 # Arbeitszeit vorschlagen
 
-Hier könne Sie Ihre individuelle Arbeitszeit (Beginn/Ende/Pause)
-definieren. Sowie, ob es sich standartmäßig um einen Telearbeitstag
+Hier können Sie Ihre individuelle Arbeitszeit (Beginn/Ende/Pause)
+definieren sowie festlegen, ob es sich standardmäßig um einen Telearbeitstag
 handelt.
 
 !!! warning "Hinweis"
