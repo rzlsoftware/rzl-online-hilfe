@@ -73,7 +73,7 @@ Grundsätzlich können Sie beim Zuordnen von Freigebern mit ODER bzw. UND Verkn�
 Zum Hinzufügen von Oder-Freigebern in derselben Zeile steht immer schon ein freies Feld zur Verfügung. Zum Hinzufügen eines Und-Freigebers klicken Sie auf die Schaltfläche Freigeber hinzufügen **⑥**, um eine neue Zeile einzufügen.
 
 
-![Image](<img/image-38.png>)
+![Image](<img/image-38.png>){width="400"}
 
 
 **Beispiel:** Belege, denen obiger Freigabe-Standard zugeordnet wird, müssen zuerst in der Stufe Formelle Prüfung, dann in der Stufe Inhaltliche Prüfung und zuletzt in der Stufe Geschäftsführung (in dieser Stufe von Stein Stefan **oder** Weber Martin **und** von Huberlehner Maria) freigegeben werden.
