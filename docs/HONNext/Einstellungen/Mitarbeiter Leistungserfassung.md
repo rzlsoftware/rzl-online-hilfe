@@ -21,7 +21,7 @@ die Leistungen automatisch freigeben zu lassen.
     Dies ist die genaueste Variante für die Leistungserfassung. Der
     Mitarbeiter erfasst täglich seine genaue Arbeitszeit inkl. Pausen.
 
-    Ansicht in der Leistungserfassung vom Mitarbeiter:
+    Ansicht in der Leistungserfassung des Mitarbeiters:
 
     ![](<img/image90.png>)
 
@@ -36,8 +36,8 @@ die Leistungen automatisch freigeben zu lassen.
     Vormittag z. B.: 07:00 – 12:00 Uhr und der Nachmittag z. B.:
     12:30–16:00 erfasst werden.
 
-    Ansicht in der Leistungserfassung vom
-    Mitarbeiter:![](<img/image91.png>)
+    Ansicht in der Leistungserfassung des
+    Mitarbeiters:![](<img/image91.png>)
 
 !!! info "Tipp"
     Bei der Einstellung *Arbeitszeit aus den Leistungen entnehmen* ist es
@@ -50,7 +50,7 @@ die Leistungen automatisch freigeben zu lassen.
     kann keine Arbeitszeit eingetragen werden. Der Mitarbeiter trägt nur
     seine Leistungen ein – die Felder Beginn/Ende können befüllt werden.
 
-    Ansicht in der Leistungserfassung vom Mitarbeiter:
+    Ansicht in der Leistungserfassung des Mitarbeiters:
 
     ![](<img/image92.png>)
 
@@ -69,7 +69,7 @@ die Leistungen automatisch freigeben zu lassen.
 
 !!! warning "Hinweis"
     Die Arbeitszeiten sowie die Pausen sind nur in einer Leseansicht
-    dargestellt und können in der Leistungserfassung vom Mitarbeiter nicht
+    dargestellt und können in der Leistungserfassung des Mitarbeiters nicht
     geändert werden.
 
 Änderungen an den Arbeitszeiten können nur direkt in der
@@ -77,30 +77,30 @@ Honorarverrechnung über die Mitarbeiterübersicht durchgeführt werden
 (vgl. [Mitarbeiterübersicht](../Mitarbeiterübersicht/index.md)).
 
 !!! warning "Hinweis"
-    Bei der Digitalen Stempeluhr, ist der Import von Arbeitszeiten [Import von Arbeitszeiten](../Datenübernahme.md#datenimport-leistungen-und-arbeitszeiten) nicht möglich.
+    Bei der digitalen Stempeluhr ist der Import von Arbeitszeiten [Import von Arbeitszeiten](../Datenübernahme.md#datenimport-leistungen-und-arbeitszeiten) nicht möglich.
 
-Ansicht in der Leistungserfassung vom
-Mitarbeiter:![](<img/image93.png>)
+Ansicht in der Leistungserfassung des Mitarbeiters:
+![](<img/image93.png>)
 
-**Rundung  
-**Bei der Variante *Digitale Stempeluhr* besteht die Möglichkeit die
+**Rundung**  
+Bei der Variante *Digitale Stempeluhr* besteht die Möglichkeit, die
 erfasste Zeit auf einen hinterlegten Wert zu runden.
 
 Mögliche Rundungen:
 
 -   0 = keine Rundung
-
 -   5 = Rundung auf volle 5 Minuten
-
 -   10 = Rundung auf volle 10 Minuten
-
 -   15 = Rundung auf volle 15 Minuten
 
 Beispiel für Rundung mit 15 Minuten:  
 Mitarbeiter klickt um 08:04 auf *Kommen* – es wird auf 08:15 gerundet
-als Beginn Arbeitszeit  
+als Beginn der Arbeitszeit  
 Mitarbeiter klickt um 16:46 auf *Gehen* – es wird auf 17:00 gerundet als
-Ende Arbeitszeit
+Ende der Arbeitszeit
+
+!!! warning "Hinweis"
+    Die Art der Arbeitszeitaufzeichnung kann für einzelne Mitarbeiter abweichend definiert werden (siehe Kapitel [Mitarbeiterstammdaten](../Stammdaten%20Mitarbeiter.md)).
 
 ### Rahmenarbeitszeit
 
@@ -108,17 +108,17 @@ Mit der Definition einer Rahmenarbeitszeit kann die Eingabe einer Arbeitszeit zu
 
 Beispiel:
 Im HON Next ist eine Rahmenarbeitszeit von 06:00 - 21:00 Uhr definiert.
-Der Mitarbeiter möchte in seiner Leistungserfassung als Beginn der Arbeitszeit 05:30 eingeben - es kommt folgender Hinweis in der Leistungserfassung der Mitarbeiter:
+Der Mitarbeiter möchte in seiner Leistungserfassung als Beginn der Arbeitszeit 05:30 eingeben – es kommt folgender Hinweis in der Leistungserfassung der Mitarbeiter:
 
 ![](img/image101.png)
 
 Bis der Mitarbeiter die Arbeitszeit nicht korrigiert, kann die Tageserfassung nicht beendet/gespeichert werden.
 
-Im HON Next über *Leistungserfassung / Mitarbeiterübersicht* beim Aufruf der Arbeitszeitkalender der Mitarbeiter ist eine Eingabe außerhalb der Rahmenarbeitszeit möglich. Man erhält folgenden Hinweis:
+Im HON Next über *Leistungserfassung / Mitarbeiterübersicht* beim Aufruf des Arbeitszeitkalenders der Mitarbeiter ist eine Eingabe außerhalb der Rahmenarbeitszeit möglich. Man erhält folgenden Hinweis:
 
 ![](img/image102.png)
 
-Mit der Option *Rahmenarbeitszeit ignorieren* kann die Rahemnarbeiszeit bewusst für diesen einen Tag deaktiviert werden. Es gibt weder im HON Next noch im LE Next einen Hinweis.
+Mit der Option *Rahmenarbeitszeit ignorieren* kann die Rahmenarbeitszeit bewusst für diesen einen Tag deaktiviert werden. Es gibt weder im HON Next noch im LE Next einen Hinweis.
 
 !!! warning "Hinweis"
     Sollte für bestimmte Mitarbeiter die Rahmenarbeitszeit nicht gelten, können Sie in den Stammdaten der Mitarbeiter im Reiter HON Next die Option *Rahmenarbeitszeit ignorieren* aktivieren. Für diese Mitarbeiter wird die Prüfung der Rahmenarbeitszeit nicht angewendet.
