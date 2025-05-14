@@ -128,11 +128,10 @@ oder noch nicht Freigegeben wurden.
     einblenden. In der Wochen-, Monats- und Jahresansicht werden die in
     Summe erfassten Stunden dargestellt.
 
-
-![](<img/image142.png>)
+![](<img/image173.png>)
 
 Es können unterschiedliche Ansichten **(1)** des Arbeitszeitkalenders
-geöffnet werden und zwar:
+geöffnet werden:
 
 **Tagesansicht:** Anzeige der einzelnen Tage des gewählten Mitarbeiters.
 
@@ -146,7 +145,10 @@ Monat dargestellt.
 Sie können über die Menüpunkte *Alles aufklappen* und *Alles zuklappen*
 **(2)** die Kalender entweder aufklappen oder zuklappen.
 
-Mittels des Buttons *Leistungen anzeigen* **(3)** oder über das
+!!! info "Tipp"
+    Im Menü steht Ihnen die Option *Liste drucken (pro Mitarbeiter)* **(3)** zur Verfügung. Es wird Ihnen pro Mitarbeiter ein Dokument mit dem Arbeitszeitkalender ausgegeben. Dies kann zum Unterfertigen an die Mitarbeiter genutzt werden. Auf dem Ausdruck werden das Tagesdatum und die Uhrzeit des Ausdrucks ausgewiesen.
+
+Mittels des Buttons *Leistungen anzeigen* **(4)** oder über das
 Kontextmenü können Sie die Leistungen des gewählten Mitarbeiters
 anzeigen lassen. Es öffnet sich ein eigener Tab mit der
 Leistungsübersicht.
