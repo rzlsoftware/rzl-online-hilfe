@@ -26,7 +26,7 @@ Voraussetzung dafür ist die Berechtigung *BELEGE / STAMM / Belegvearbeitung / V
 
 
 - Die Ansicht der Ungebuchten Belege ① zeigt die ungebuchten Belege aller Klienten ohne aktivierter Belegfreigabe.
-- Die Ansicht Belegfreigabe ② zeigt alle freizugebenden bzw. freigegebenen Belege und somit die ungebuchten Belege aller Klienten mit aktivierter Belegfreigabe.
+- Die Ansicht Belegfreigabe **②** zeigt alle freizugebenden bzw. freigegebenen Belege und somit die ungebuchten Belege aller Klienten mit aktivierter Belegfreigabe.
 - Zusätzlich gibt es eine Ansicht für Abgelehnte Belege **③**.
 
 
@@ -35,7 +35,7 @@ Voraussetzung dafür ist die Berechtigung *BELEGE / STAMM / Belegvearbeitung / V
 ![Image](<img/image-34.png>)
 
 
-- Bei Klienten mit aktivierter Belegfreigabe wird die Ansicht der Ungebuchten Belege ersetzt durch die Ansicht Belegfreigabe ①. 
+- Bei Klienten mit aktivierter Belegfreigabe wird die Ansicht der Ungebuchten Belege ersetzt durch die Ansicht Belegfreigabe **①**. 
 - Zusätzlich gibt es eine Ansicht für Abgelehnte Belege **②**.
 
 
@@ -54,7 +54,7 @@ Im Menüpunkt Einstellungen / Belegfreigabe **①** können Grundeinstellungen f
 
 In den Einstellungen der Belegfreigabe können Sie mit der Berechtigung *BELEGE / Einstellungen / Grundeinstellungen / Belegfreigabe / OCR / Stempel / Finmatics verwalten* sogenannte *Freigabe-Standards* anlegen. Der Vorteil eines Freigabe-Standards liegt darin, dass Sie die Freigabestufen sowie die Mitarbeiter, die bestimmte Belege freigeben müssen, vorab bereits festlegen können. Beim Hinzufügen von Belegen müssen Sie die Freigabestufen nicht manuell anlegen und benennen bzw. die Mitarbeiter nicht manuell zuordnen, sondern können einen beliebigen, vorher definierten, Freigabe-Standard anwenden.
 
-Zum Anlegen eines Freigabe-Standards klicken Sie in der Menüleiste auf *Neuer Freigabe-Standard* **①**:
+Zum Anlegen eines Freigabe-Standards klicken Sie in der Menüleiste auf *Neuer Freigabe-Standard* **①** :
 
 ![Image](<img/image-37.png>)
 
@@ -64,7 +64,7 @@ Sie können in diesem Bereich beliebig viele *Freigabe-Standards* anlegen.
 Mit der Schaltfläche *Freigabe-Standard löschen* **②** kann ein gespeicherter Freigabe-Standard jederzeit wieder gelöscht werden. Zusätzlich können Sie bestehende Freigabe-Standards auch duplizieren und dann anpassen.
 
 
-Sie können nun einen *Namen* ① vergeben und im Feld *Anmerkung* **②** eine Notiz zu diesem Freigabe-Standard hinterlegen. Um unteren Bereich können Sie *Freigabestufen hinzufügen* **③**, um die Freigabe in einem **Workflow** in einer gewissen Reihenfolge festzulegen. Die Freigabestufen können nun mit Doppelklick oder mit dem Bleistiftsymbol im jeweiligen Registerblatt benannt werden **④**. 
+Sie können nun einen *Namen* **①** vergeben und im Feld *Anmerkung* **②** eine Notiz zu diesem Freigabe-Standard hinterlegen. Um unteren Bereich können Sie *Freigabestufen hinzufügen* **③**, um die Freigabe in einem **Workflow** in einer gewissen Reihenfolge festzulegen. Die Freigabestufen können nun mit Doppelklick oder mit dem Bleistiftsymbol im jeweiligen Registerblatt benannt werden **④**. 
 
 Im Bereich *Freigabe durch* **⑤** können Sie den bzw. die gewünschten Mitarbeiter pro Freigabestufe hinterlegen.
 
@@ -81,10 +81,8 @@ Zum Hinzufügen von Oder-Freigebern in derselben Zeile steht immer schon ein fre
 
 Mit dem *Papierkorb-Symbol* können Freigabestufen sowie einzelne Freigeber wieder gelöscht werden. Um alle Freigeber zu löschen verwenden Sie ganz rechts die Schaltfläche *Alle Freigeber löschen*.
 
-
 !!! warning "Hinweis"
-Freigabe-Standards sind grundsätzlich klientenübergreifend und können somit bei jedem Klienten verwendet werden! Wir empfehlen daher, die Standards aussagekräftig zu benennen, um eine richtige Zuordnung zu erleichtern.
-
+    Freigabe-Standards sind grundsätzlich klientenübergreifend und können somit bei jedem Klienten verwendet werden! Wir empfehlen daher, die Standards aussagekräftig zu benennen, um eine richtige Zuordnung zu erleichtern.
 
 #### 3.2. Automatische Zuordnung von Freigabe-Standards
 
