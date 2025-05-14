@@ -4,7 +4,7 @@ Dieser Abrechnungsbildschirm ermöglicht die automatische Berechnung der Entgelt
 
 ![Image](<img/image128.png>)
 
-**Allgemeine Daten**
+## Allgemeine Daten
 
 Im ersten Bereich des Bildschirms werden in den Feldern *Anrechnung ab* … *als* das Eintrittsdatum und die Zuordnung (Arbeiter, Angestellter, Lehrling) automatisch eingetragen. Die Zuordnung zu Arbeiter, Angestellter oder Lehrling erfolgt aufgrund der im Abrechnungsbildschirm [*Sozialversicherung*](../Abrechnungsbildschirme/Sozialversicherung.md) ausgewählten Beschäftigtengruppe.
 
@@ -12,7 +12,7 @@ Im Feld *Beginn Arbeitsjahr* wird ebenfalls das Eintrittsdatum vorgeschlagen. Di
 
 Wenn *Abrechnung in Arbeitstage* angewählt wurde, müssen im Bereich der Arbeitstage die Tage aktiviert werden, an denen gearbeitet wird. Der Anspruch auf Entgeltfortzahlung wird aufgrund der aktivierten Tage gerechnet. Eine Erhöhung oder eine Verminderung der Arbeitstage während eines Arbeitsjahres ist nicht möglich, da der Anspruch immer für das gesamte Arbeitsjahr gerechnet wird.
 
-**Krankenstandskartei**
+## Krankenstandskartei
 
 ![Image](<img/image129.png>){width="500"}
 
@@ -50,7 +50,7 @@ Die bloße Änderung der Beschäftigtengruppe im Abrechnungsbildschirm [*Sozialv
 
 Mit der Angleichung der EFZ-Ansprüche bei Arbeitern und Angestellten kam es zu der Änderung, dass bei einem Wechsel von Arbeiter auf Angestellten bzw. umgekehrt kein getrennter Anspruch mehr besteht. Falls jedoch in Ausnahmefällen die EFZ-Ansprüche bei einem Wechsel getrennt werden müssen, können Sie seit 01.10.2021 *Arbeiter und Angestellte getrennt (Arbeitsjahr)* anwählen. Somit werden die Ansprüche von Arbeiter und Angestellte in diesem Arbeitsjahr getrennt betrachtet.
 
-**Anzeige der Ansprüche – Vornahme von Kürzungen**
+## Anzeige der Ansprüche – Vornahme von Kürzungen
 
 Im unteren Bereich des Abrechnungsbildschirms *Krankenstand* werden die Ansprüche, der Verbrauch und die noch zur Verfügung stehenden Tage angezeigt. Die Darstellung erfolgt unterschiedlich, je nachdem, ob ein Arbeiter, Angestellter oder Lehrling abgerechnet wird.
 

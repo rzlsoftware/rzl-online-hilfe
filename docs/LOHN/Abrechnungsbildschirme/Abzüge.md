@@ -2,11 +2,11 @@
 
 ![image](img/image141.png)
 
-**Vorschuss**
+## Vorschuss
 
 Eingabe eines vom Nettolohn abzuziehenden Vorschusses.
 
-**Sachbezug**
+## Sachbezug
 
 Eingabe des Betrages an Sachbezug (z. B. für freie Station, KFZ-Privatnutzung usw.), der vom Nettolohn abgezogen wird. Die hier eingegebenen Beträge werden lediglich abgezogen. Ist der Sachbezug nicht im Bruttolohn enthalten, so ist er als [eigene freie Lohnart](../Freie%20Lohnarten/Anlage%20freie%20Lohnart%20Sachbezug%20-%20drei%20Möglichkeiten.md) anzulegen, damit die Berücksichtigung bei SV und LSt erfolgen kann.
 
@@ -16,6 +16,8 @@ Eingabe des Betrages an Sachbezug (z. B. für freie Station, KFZ-Privatnutzung u
 **SV – 20 % Regelung bewirkt Erhöhung …**
 
 Durch Aktivierung dieser Felder erfolgt eine Erhöhung der DB- und Kommunalsteuerbemessung um den vom Dienstgeber übernommenen SV-Anteil des Dienstnehmers (20-%-Regelung).
+
+## Gewerkschaftsbeitrag und Betriebsratsumlage
 
 **Gewerkschaftsbeitrag**
 

@@ -4,6 +4,8 @@ Dieser Bildschirm ist nur auszufüllen, falls für den Dienstnehmer ein Dienstze
 
 ![Image](<img/image138.png>)
 
+## Dauer des Arbeitsverhältnisses
+
 **Beginn Arbeitsverhältnis**
 
 Standardmäßig wird das Eintrittsdatum als Beginn vorgeschlagen. Es kann ein abweichendes Datum eingetragen werden.
@@ -11,6 +13,8 @@ Standardmäßig wird das Eintrittsdatum als Beginn vorgeschlagen. Es kann ein ab
 **Ende Arbeitsverhältnis**
 
 Handelt es sich um ein befristetes Arbeitsverhältnis, ist hier das Ende des Arbeitsverhältnisses einzugeben. Sie haben die Möglichkeit, mit der rechten Maustaste den Vorschlag aus dem Feld *DV befristet bis* aufzurufen. Die hier gemachte Eingabe wird nur am Dienstzettel ausgewiesen. Scheidet der Dienstnehmer aus, so muss das Ende des Arbeitsverhältnisses im [*Austrittsbildschirm*](../Abrechnungsbildschirme/Austritt.md) eingegeben werden.
+
+## Entlohnung
 
 **Bruttogehalt/Bruttolohn/Lehrlingseinkommen pro Monat und Überstundenpauschale**
 
@@ -28,9 +32,11 @@ Als Vorschlag erhalten Sie den Text „Überweisung auf das vom Arbeitnehmer bek
 
 Sie können hier weitere Lohnvereinbarungen von bis zu 250 Zeichen erfassen.
 
-**Urlaubsjahr**
+## Urlaubsjahr
 
 Der Beginn des Urlaubsjahres, sowie der Anspruch sind im Bildschirm [*Urlaub*](../Abrechnungsbildschirme/Urlaub.md) einzugeben und wird für den Dienstzettel übernommen. Der Anspruch kann nur im Bereich *Urlaub* abgeändert werden.
+
+## Anrechenbare Vordienstzeiten bei Eintritt
 
 **Anrechenbare Vordienstzeiten für Einstufung**
 
@@ -44,6 +50,8 @@ Eingabe der Vordienstzeiten mit bis zu 10 Zeichen (Monate und Jahre), die bei de
 
 Eingabe der Vordienstzeiten mit bis zu 10 Zeichen (Monate und Jahre), die bei der Ermittlung des Urlaubsanspruches des Dienstnehmers angerechnet werden. Diese Eingabe wird nur am Dienstzettel angedruckt.
 
+## Einstufung
+
 **Einstufung ab**
 
 Eingabe mit bis zu 10 Zeichen, ab wann die Einstufung erfolgt (z. B. Jänner 1999). Diese Eingabe wird nur am Dienstzettel angedruckt.
@@ -52,19 +60,19 @@ Eingabe mit bis zu 10 Zeichen, ab wann die Einstufung erfolgt (z. B. Jänner 199
 
 Falls mit dem Dienstnehmer eine Vorrückung vereinbart wurde, so sind in den drei dafür vorgesehenen Eingabefeldern die entsprechenden Daten einzugeben (Beschäftigungsgruppe, Berufsjahr und ab wann die Vorrückung erfolgen soll). Die Eingabe erfolgt in gleicher Weise, wie bei der Einstufung. Diese Eingaben werden nur am Dienstzettel angedruckt.
 
-**Vorgesehene Verwendung**
+## Vorgesehene Verwendung
 
 Der *Beruf* aus [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Bauarbeiter-Urlaubs-%20und%20Abfertigungskasse.md) wird bei *Verwendung als* eingetragen. Sie können im Feld *Beschreibung der Arbeitsleistung* bis zu 250 Zeichen erfassen.
 
-**Gewöhnlicher Arbeitsort**
+## Gewöhnlicher Arbeitsort
 
 Beim Feld *Dienstort* wird jene Eingabe aus [*Stammdaten Dienstnehmer](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) Dienstort* vorgeschlagen. Sie können einen abweichenden Text von bis zu 50 Zeichen erfassen. Falls Ihr Dienstnehmer wechselnde Arbeitsorte hat, tragen Sie diese im Feld *Wechselnde Arbeitsorte* ein (bis zu 100 Zeichen). Beim Feld *Sitz des Unternehmens* wird die Adresse des Klienten vorgeschlagen. Eine abweichende Eingabe ist bis zu 50 Zeichen möglich.
 
-**Probezeit**
+## Probezeit
 
 Als *Beginn Probezeit* wird das Eintrittsdatum vorgeschlagen. Eine manuelle Übersteuerung ist möglich. Bei *Ende Probezeit* können Sie ein Datum oder einen Text (bis zu 50 Zeichen) eintragen.
 
-**Anzuwendender Kollektivvertrag**
+## Anzuwendender Kollektivvertrag
 
 Bei der Position *Kollektivvertrag* wird bei Verwendung der HGKV-Datenbank dieser Kollektivvertragstext vorgeschlagen. Wenn Sie die HGKV-Datenbank hier nicht verwenden, wird jener Kollektivvertrag angedruckt, welchen Sie im Bereich [*Kollektivvertrag*](../Abrechnungsbildschirme/Kollektivvertrag.md) ganz unten bei *Kollektivvertrag* eingetragen haben.
 
@@ -77,29 +85,29 @@ Kommt die HGKV-Datenbank zur Anwendung wird bei der Position Dauer der Kündigun
 !!! warning "Hinweis"
     Der Text in diesem Feld kann nicht bearbeitet werden. Wenn ein individueller Text zur Anwendung kommen soll, dann muss im Bereich *Kündigung* ein Text hinterlegt werden. Textbaustein Kündigung schlägt HGKV-Kündigungsfrist.
 
-**Fortbildung**
+## Fortbildung
 
 Hier können Sie einen individuellen Text für die Fortbildung erfassen (bis zu 100 Zeichen).
 
-**Wöchentliche Normalarbeitszeit**
+## Wöchentliche Normalarbeitszeit
 
 Die Daten der *Normalarbeitszeit* werden aus dem [Eintrittsbildschirm](../Abrechnungsbildschirme/Eintritt.md) übernommen. Bei der Position *Bedingungen für die Änderung von Schichtplänen* können Sie einen individuellen Text von bis zu 250 Zeichen eingeben.
 
-**Dauer der Kündigungsfrist**
+## Dauer der Kündigungsfrist
 
 Für die Beschreibung der Kündigungsfristen bzw. Vereinbarungen bezüglich der Kündigung können je Dienstnehmer bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
 !!! warning "Hinweis"
     Wird bei *Dauer der Kündigungsfrist* ein Textbaustein hinterlegt und ausgewählt, dann wird dieser Text verwendet und nicht mehr der Vorschlag aus dem Feld *Dauer der Kündigungsfrist (HGKV).*
 
-**Kündigungstermin**
+## Kündigungstermin
 
 Je Dienstnehmer können bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
-**Einzuhaltende Kündigungsverfahren**
+## Einzuhaltende Kündigungsverfahren
 
 Je Dienstnehmer können bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
-**Sonstige Vereinbarungen**
+## Sonstige Vereinbarungen
 
 Für die Angabe der sonstigen für das Dienstverhältnis geschlossenen Vereinbarungen können bis zu 20 der in den [Standardtexten](..//Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte für Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
