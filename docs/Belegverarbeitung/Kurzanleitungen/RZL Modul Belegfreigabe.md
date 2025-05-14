@@ -11,7 +11,7 @@ Grundsätzlich ändert sich mit Lizenzierung dieses Moduls in den verschiedenen 
 bei einem Klienten aktivieren, werden die entsprechenden Ansichten aktiv.
 
 Zum Aktivieren öffnen Sie den Klienten links oben im Feld *Klient wählen*. Wechseln Sie dann im Klienten in den Bereich *STAMM*. Dort können Sie unter 
-*Belegverarbeitung / Allgemeines* nun die Belegfreigabe aktivieren ①.
+*Belegverarbeitung / Allgemeines* nun die Belegfreigabe aktivieren **①**.
 Voraussetzung dafür ist die Berechtigung *BELEGE / STAMM / Belegvearbeitung / Verwalten.*
 
 
@@ -27,7 +27,7 @@ Voraussetzung dafür ist die Berechtigung *BELEGE / STAMM / Belegvearbeitung / V
 
 - Die Ansicht der Ungebuchten Belege ① zeigt die ungebuchten Belege aller Klienten ohne aktivierter Belegfreigabe.
 - Die Ansicht Belegfreigabe ② zeigt alle freizugebenden bzw. freigegebenen Belege und somit die ungebuchten Belege aller Klienten mit aktivierter Belegfreigabe.
-- Zusätzlich gibt es eine Ansicht für Abgelehnte Belege ③.
+- Zusätzlich gibt es eine Ansicht für Abgelehnte Belege **③**.
 
 
 #### 2.2. Menüpunkt *BELEGE / Belege* mit geöffnetem Klienten
@@ -36,14 +36,14 @@ Voraussetzung dafür ist die Berechtigung *BELEGE / STAMM / Belegvearbeitung / V
 
 
 - Bei Klienten mit aktivierter Belegfreigabe wird die Ansicht der Ungebuchten Belege ersetzt durch die Ansicht Belegfreigabe ①. 
-- Zusätzlich gibt es eine Ansicht für Abgelehnte Belege ②.
+- Zusätzlich gibt es eine Ansicht für Abgelehnte Belege **②**.
 
 
 #### 2.3. Menüpunkt *BELEGE / Einstellungen*
 
 ![Image](<img/image-35.png>)
 
-Im Menüpunkt Einstellungen / Belegfreigabe ① können Grundeinstellungen für das Modul Belegfreigabe vorgenommen werden.
+Im Menüpunkt Einstellungen / Belegfreigabe **①** können Grundeinstellungen für das Modul Belegfreigabe vorgenommen werden.
 
 
 ### 3. Einstellungen Belegfreigabe
@@ -54,23 +54,23 @@ Im Menüpunkt Einstellungen / Belegfreigabe ① können Grundeinstellungen für 
 
 In den Einstellungen der Belegfreigabe können Sie mit der Berechtigung *BELEGE / Einstellungen / Grundeinstellungen / Belegfreigabe / OCR / Stempel / Finmatics verwalten* sogenannte *Freigabe-Standards* anlegen. Der Vorteil eines Freigabe-Standards liegt darin, dass Sie die Freigabestufen sowie die Mitarbeiter, die bestimmte Belege freigeben müssen, vorab bereits festlegen können. Beim Hinzufügen von Belegen müssen Sie die Freigabestufen nicht manuell anlegen und benennen bzw. die Mitarbeiter nicht manuell zuordnen, sondern können einen beliebigen, vorher definierten, Freigabe-Standard anwenden.
 
-Zum Anlegen eines Freigabe-Standards klicken Sie in der Menüleiste auf *Neuer Freigabe-Standard* ①:
+Zum Anlegen eines Freigabe-Standards klicken Sie in der Menüleiste auf *Neuer Freigabe-Standard* **①**:
 
 ![Image](<img/image-37.png>)
 
 
 Sie können in diesem Bereich beliebig viele *Freigabe-Standards* anlegen.
 
-Mit der Schaltfläche *Freigabe-Standard löschen* ② kann ein gespeicherter Freigabe-Standard jederzeit wieder gelöscht werden. Zusätzlich können Sie bestehende Freigabe-Standards auch duplizieren und dann anpassen.
+Mit der Schaltfläche *Freigabe-Standard löschen* **②** kann ein gespeicherter Freigabe-Standard jederzeit wieder gelöscht werden. Zusätzlich können Sie bestehende Freigabe-Standards auch duplizieren und dann anpassen.
 
 
-Sie können nun einen *Namen* ① vergeben und im Feld *Anmerkung* ② eine Notiz zu diesem Freigabe-Standard hinterlegen. Um unteren Bereich können Sie *Freigabestufen hinzufügen* ③, um die Freigabe in einem **Workflow** in einer gewissen Reihenfolge festzulegen. Die Freigabestufen können nun mit Doppelklick oder mit dem Bleistiftsymbol im jeweiligen Registerblatt benannt werden ④. 
+Sie können nun einen *Namen* ① vergeben und im Feld *Anmerkung* **②** eine Notiz zu diesem Freigabe-Standard hinterlegen. Um unteren Bereich können Sie *Freigabestufen hinzufügen* **③**, um die Freigabe in einem **Workflow** in einer gewissen Reihenfolge festzulegen. Die Freigabestufen können nun mit Doppelklick oder mit dem Bleistiftsymbol im jeweiligen Registerblatt benannt werden **④**. 
 
-Im Bereich *Freigabe durch* ⑤ können Sie den bzw. die gewünschten Mitarbeiter pro Freigabestufe hinterlegen.
+Im Bereich *Freigabe durch* **⑤** können Sie den bzw. die gewünschten Mitarbeiter pro Freigabestufe hinterlegen.
 
 Grundsätzlich können Sie beim Zuordnen von Freigebern mit ODER bzw. UND Verknüpfungen arbeiten. Das heißt, Sie können z.B. entscheiden ob Mitarbeiter 1 oder Mitarbeiter 2 bzw. Mitarbeiter 1 und Mitarbeiter 2 freigeben müssen. Oder-Freigaben werden in derselben Zeile festgelegt, Und-Freigaben in einer neuen Zeile.
 
-Zum Hinzufügen von Oder-Freigebern in derselben Zeile steht immer schon ein freies Feld zur Verfügung. Zum Hinzufügen eines Und-Freigebers klicken Sie auf die Schaltfläche Freigeber hinzufügen ⑥, um eine neue Zeile einzufügen.
+Zum Hinzufügen von Oder-Freigebern in derselben Zeile steht immer schon ein freies Feld zur Verfügung. Zum Hinzufügen eines Und-Freigebers klicken Sie auf die Schaltfläche Freigeber hinzufügen **⑥**, um eine neue Zeile einzufügen.
 
 
 ![Image](<img/image-38.png>)
@@ -97,20 +97,20 @@ In folgendem Beispiel wird der Freigabe-Standard *Rechnungen über 1.000* bei al
 
 Feldbeschreibung:
 
-1. Und/Oder ①: Mit diesem Feld können Sie festlegen, ob die folgenden Kriterien in dieser Gruppe alle zutreffen müssen (und) oder nur eines der Kriterien zutreffen muss (oder).
+1. Und/Oder **①**: Mit diesem Feld können Sie festlegen, ob die folgenden Kriterien in dieser Gruppe alle zutreffen müssen (und) oder nur eines der Kriterien zutreffen muss (oder).
    
-2. Bedingung hinzufügen ②: Fügen Sie innerhalb der jeweiligen Gruppe eine neue Bedingung hinzu.
+2. Bedingung hinzufügen **②**: Fügen Sie innerhalb der jeweiligen Gruppe eine neue Bedingung hinzu.
    
-3. Gruppe hinzufügen ③: Fügen Sie eine Ebene tiefer eine Gruppe mit Bedingungen hinzu.
+3. Gruppe hinzufügen **③**: Fügen Sie eine Ebene tiefer eine Gruppe mit Bedingungen hinzu.
    
-4. Kriterien ④: Mit folgenden Kriterien kann eine automatische Zuordnung angestoßen werden:
+4. Kriterien **④**: Mit folgenden Kriterien kann eine automatische Zuordnung angestoßen werden:
 
 
 ![Image](<img/image-40.png>)
 
-5. Zeile löschen ⑤: Mit dem Papierkorb Symbol kann eine Zeile oder eine Gruppe gelöscht werden.
-6. In der Liste ⑥ wird gruppiert angezeigt, ob Kriterien für eine automatische Zuordnung hinterlegt sind.
-7. Zusätzlich gibt es die Möglichkeit, die Freigabe-Standards mit dem Feld Reihenfolge  zu reihen. Falls bei einem Beleg mehrere passen würden, wird zuerst der vorgereihte Freigabe-Standard verwendet.
+5. Zeile löschen **⑤**: Mit dem Papierkorb Symbol kann eine Zeile oder eine Gruppe gelöscht werden.
+6. In der Liste **⑥** wird gruppiert angezeigt, ob Kriterien für eine automatische Zuordnung hinterlegt sind.
+7. Zusätzlich gibt es die Möglichkeit, die Freigabe-Standards mit dem Feld Reihenfolge 7 zu reihen. Falls bei einem Beleg mehrere passen würden, wird zuerst der vorgereihte Freigabe-Standard verwendet.
 
 
 #### 3.3. Freigabe-Vertretung anlegen
@@ -190,7 +190,7 @@ Andernfalls müssen die Freigabe-Standards manuell zugeordnet werden. Markieren 
 ![Image](<img/image-43.png>)
 
 
-*Detailansicht Freigabe:* Wechseln Sie im Bereich *Detailansicht* in das Registerblatt *Freigabe* ①. Hier können Sie für die aktuell markierten Belege die Freigebestufen und Freigeber lt. definiertem *Freigabe-Standard* ② hinterlegen.
+*Detailansicht Freigabe:* Wechseln Sie im Bereich *Detailansicht* in das Registerblatt *Freigabe* **①**. Hier können Sie für die aktuell markierten Belege die Freigebestufen und Freigeber lt. definiertem *Freigabe-Standard* **②** hinterlegen.
 
 !!! warning "Hinweis"
     Ein Freigabe-Standard dient „nur“ der einfachen Zuordnung von Freigabestufen und Mitarbeitern. Es wird nicht gespeichert, welcher Freigabe-Standard bei einem Beleg angewendet wurde.
@@ -199,7 +199,7 @@ Andernfalls müssen die Freigabe-Standards manuell zugeordnet werden. Markieren 
 ![Image](<img/image-44.png>)
 
 
-Nach dem Zuordnen der Freigabe-Standards ② werden die Freigabestufen und zugeordneten Mitarbeiter im Detail im Bereich *Freigabe* ① bzw. in der Listenansicht in der Spalte *Freigeber* ③ angezeigt. In der Listenansicht werden Stufen mit einem vertikalen Strich, Und-Freigeber mit einem Beistrich sowie Oder-Freigeber mit einem Schrägstrich getrennt, angezeigt.
+Nach dem Zuordnen der Freigabe-Standards **②** werden die Freigabestufen und zugeordneten Mitarbeiter im Detail im Bereich *Freigabe* **①** bzw. in der Listenansicht in der Spalte *Freigeber* **③** angezeigt. In der Listenansicht werden Stufen mit einem vertikalen Strich, Und-Freigeber mit einem Beistrich sowie Oder-Freigeber mit einem Schrägstrich getrennt, angezeigt.
 
 
 #### 4.2. Freigabestufen und Freigeber bei neuen Belegen manuell zuordnen
@@ -221,7 +221,7 @@ Zum Freigeben von Belegen öffnen Sie nun die Ansicht *Belegfreigabe*.
 
 Hier werden nun in vier Spalten die aktuellen Freigabeinformationen angezeigt:
 
-1. Freigabestatus ①
+1. Freigabestatus **①**
    a. Nicht freigegeben (kein Symbol)
    b. Teilweise freigegeben
    c. Freigegeben 
@@ -229,9 +229,9 @@ Hier werden nun in vier Spalten die aktuellen Freigabeinformationen angezeigt:
 
 2. Freigeber ②: die zugeordneten Freigeber werden angezeigt. Oder-Freigeber mit Schrägstrich, Und-Freigeber mit Beistrich getrennt. Freigabestufen werden mit einem vertikalen Strich unterteilt.
    
-3. Freigabe-Fortschritt ③: In dieser Spalte wird grafisch dargestellt, wie viele Freigabestufen schon erledigt sind – diese werden grün dargestellt. In grauer Farbe werden die noch nicht erledigten Freigabestufen angezeigt. Somit kann in dieser Spalte der Gesamtfortschritt der Belegfreigabe abgelesen werden.
+3. Freigabe-Fortschritt **③**: In dieser Spalte wird grafisch dargestellt, wie viele Freigabestufen schon erledigt sind – diese werden grün dargestellt. In grauer Farbe werden die noch nicht erledigten Freigabestufen angezeigt. Somit kann in dieser Spalte der Gesamtfortschritt der Belegfreigabe abgelesen werden.
 
-4. Aktuelle Freigabestufe ④: Die Stufe, in der sich der Beleg gerade befindet, wird textuell angezeigt.
+4. Aktuelle Freigabestufe **④**: Die Stufe, in der sich der Beleg gerade befindet, wird textuell angezeigt.
 
 Ganz unten in der Detailansicht eines Beleges im Registerblatt Freigabe werden die zugeordneten Freigeber und weitere Informationen, wie z.B. das Datum und die Uhrzeit einer erfolgten Freigabe, angezeigt.
 
@@ -346,7 +346,7 @@ Falls Belege von einem Freigeber abgelehnt wurden, werden diese in der Ansicht *
 ![Image](<img/image-55.png>)
 
 
-Ein abgelehnter Beleg kann mit der Funktion Beleg löschen ① entweder zur Gänze gelöscht und somit in den Belege Papierkorb verschoben werden oder mit der Funktion Ablehnung zurücknehmen ②wieder in die Liste derBelegfreigabe zurückgeschoben werden. Die abgelehnten Belege können in dieser Liste auch einfach stehen bleiben.
+Ein abgelehnter Beleg kann mit der Funktion Beleg löschen **①** entweder zur Gänze gelöscht und somit in den Belege Papierkorb verschoben werden oder mit der Funktion Ablehnung zurücknehmen ②wieder in die Liste derBelegfreigabe zurückgeschoben werden. Die abgelehnten Belege können in dieser Liste auch einfach stehen bleiben.
 
 
 ### 7. Ansicht Gebuchte Belege
