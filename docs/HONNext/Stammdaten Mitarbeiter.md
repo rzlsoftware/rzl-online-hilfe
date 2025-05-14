@@ -4,18 +4,18 @@ In den Mitarbeiterstammdaten werden grundlegende Einstellungen für die
 Honorarverrechnung bzw. Leistungserfassung der Mitarbeiter verwaltet.
 
 Sie gelangen in die Mitarbeiterstammdaten, wenn Sie den Punkt *STAMM* im
-RZL-Board *– Personen/Klientenverwaltung – Mitarbeiter* auswählen.
+RZL-Board – *Personen/Klientenverwaltung – Mitarbeiter* auswählen.
 Anschließend gelangen Sie in die Mitarbeiterliste. Wählen Sie den zu
 bearbeitenden Mitarbeiter mit einem Doppelklick aus.
 
-Beim Mitarbeiter selbst klicken Sie auf *HON Next,* um die
+Beim Mitarbeiter selbst klicken Sie auf *HON Next*, um die
 Honorarverrechnungs-Einstellungen zu hinterlegen.
 
 ![](img/image409.png)
 
 !!! warning "Hinweis"
-    Die HON Mitarbeiterstammdaten sind nur für jene Personen ersichtlich,
-    die auch das HON Modul (Rolle Honorarverrechnung) benutzen dürfen.
+    Die HON-Mitarbeiterstammdaten sind nur für jene Personen ersichtlich,
+    die auch das HON-Modul (Rolle Honorarverrechnung) benutzen dürfen.
 
 Die Eingabefelder *Zeitausgleich Stichtag* und *Zeitausgleich
 Anfangsbestand* sind für die Berechnung des Zeitausgleichs in der
@@ -40,11 +40,11 @@ Die Option *Geschäftsführung oder leitende Anstellung* kann aktiviert
 werden, wenn eine Arbeitszeitaufzeichnung nicht zwingend ist und die
 Regeln des Arbeitszeitgesetzes nicht angewandt werden sollen.
 
-Mit dem Feld *Abweichende Arbeitszeitaufzeichnung* kann für den gewählten Mitarbeiter die Art der Arbeitsaufzeichnung abweichend zum Standard hinterlegt werden, vgl. Kapitel [MitarbeiterLeistungserfassung](Einstellungen/Mitarbeiter%20Leistungserfassung.md).
+Mit dem Feld *Abweichende Arbeitszeitaufzeichnung* kann für den gewählten Mitarbeiter die Art der Arbeitsaufzeichnung abweichend zum Standard hinterlegt werden, vgl. Kapitel [Mitarbeiter-Leistungserfassung](Einstellungen/Mitarbeiter%20Leistungserfassung.md).
 
 Durch Aktivierung dieser Option prüft das Programm nicht mehr, ob
 Arbeits- und Leistungszeit übereinstimmen, ob das Arbeitszeitgesetz
-eingehalten wird oder ob die Leistungserfassung vollständig ist (Bsp.:
+eingehalten wird oder ob die Leistungserfassung vollständig ist (z. B.:
 Erfassung ganztägiger Zeitausgleich nicht notwendig).
 
 !!! info "Tipp"
@@ -52,7 +52,7 @@ Erfassung ganztägiger Zeitausgleich nicht notwendig).
     indem Sie in den Mitarbeiterstammdaten ein **Austrittsdatum** eintragen.
 
 !!! info "Tipp"
-    Die HON Mitarbeiterstammdaten sind generationsverwaltet. Falls eine
+    Die HON-Mitarbeiterstammdaten sind generationsverwaltet. Falls eine
     Änderung ab einem bestimmten Zeitpunkt gelten soll, so ist eine neue
     Generation anzulegen.
 
@@ -70,9 +70,7 @@ Mitarbeiter tätig ist **(1).** Weiters ist in den Stammdaten des
 Klienten im Reiter *Klientendaten* festzulegen, welchem
 Unternehmensbereich der Klient angehört **(2).**
 
-
 ![](<img/image106.png>)
-
 
 ![](<img/image108.png>)
 
@@ -84,47 +82,43 @@ werden die Stundensätze der jeweiligen Tarifschemata verwendet. Der
 Transferstundensatz kommt dann zur Anwendung, wenn ein Mitarbeiter für
 einen Klienten Leistungen erbringt, der einem anderen
 Unternehmensbereich zugeordnet ist als der Mitarbeiter selbst. Der
-Transfer-Stundensatz wird für die Transferstunden Statistik benötigt.
-
+Transferstundensatz wird für die Transferstunden-Statistik benötigt.
 
 ![](<img/image109.png>)
 
-## Transferstunden Statistik
+## Transferstunden-Statistik
 
 Im HON Next können Sie über den Menüpunkt *Auswertungen* eine
-Transferstunden Statistik öffnen.
-
+Transferstunden-Statistik öffnen.
 
 ![](<img/image110.png>)
 
-Diese Auswertung zeigt Ihnen initial alle Leistungen, wo sich der
-Unternehmensbereich des Mitarbeiters und der Rechnungssteller für den
-die Leistungen erbracht wurden unterscheiden. Durch Filtern des
-Zeitraumes oder durch Gruppieren und Filtern einzelner Spalten können
+Diese Auswertung zeigt Ihnen initial alle Leistungen, bei denen sich der
+Unternehmensbereich des Mitarbeiters und der Rechnungssteller, für den
+die Leistungen erbracht wurden, unterscheiden. Durch Filtern des
+Zeitraums oder durch Gruppieren und Filtern einzelner Spalten können
 die dargestellten Zeilen eingeschränkt werden.
 
-Die Spalte *Transferwert* wird aufgrund der erfassten Dauer \* dem
+Die Spalte *Transferwert* wird aufgrund der erfassten Dauer mal dem
 hinterlegten Transferstundensatz beim Mitarbeiter ermittelt.
-
 
 ![](<img/image111.png>)
 
-In der Transferstunden Statistik steht Ihnen das RZL Layout
+In der Transferstunden-Statistik steht Ihnen das RZL-Layout
 *Unternehmensbereich für Rechnungssteller* zur Verfügung (3). Diese
-Auswertung zeigt Ihnen auf einen Blick wie viel Dauer/Wert des jeweilige
-Mitarbeiter Unternehmensbereich für einen Rechnungssteller erfasst
+Auswertung zeigt Ihnen auf einen Blick, wie viel Dauer/Wert der jeweilige
+Mitarbeiter-Unternehmensbereich für einen Rechnungssteller erfasst
 wurde.
 
 **Beispiel:**
 
 Mitarbeiter, welche dem Unternehmensbereich *RZL Steuerberatung*
-zugeordnet sind haben für Klienten des Rechnungsstellers *RZL
+zugeordnet sind, haben für Klienten des Rechnungsstellers *RZL
 Unternehmensberatung* 78 Stunden erfasst.
 
-Mitarbeiter, welche dem *Unternehmensbereich Vier* zugeordnet sind haben
+Mitarbeiter, welche dem *Unternehmensbereich Vier* zugeordnet sind, haben
 für Klienten des Rechnungsstellers *RZL Steuerberatung* 4 Stunden
 erfasst.
-
 
 ![](<img/image112.png>)
 

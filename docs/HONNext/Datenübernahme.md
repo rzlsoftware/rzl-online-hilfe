@@ -20,13 +20,12 @@ Vorprüfung können Sie mit der Schaltfläche *Prüfen und Importieren*
 Folgende Ergebnisse kann die Prüfung liefern:
 
 ![](<img/image150.png>) Info – Dies erhalten Sie,
-wenn z. B. es die hinterlegte Verrechnungsgruppe noch nicht gibt und
+wenn z. B. die hinterlegte Verrechnungsgruppe noch nicht existiert und
 diese angelegt wird. Der Import kann dennoch durchgeführt werden.
 
 ![](<img/image151.png>) Fehler – Der Import kann
 nicht durchgeführt werden. Die Importdatei muss dementsprechend
 angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
-
 
 ![](<img/image405.png>)
 
@@ -53,7 +52,7 @@ verpflichtend mit Werten befüllt werden muss.
 | 1    | Nummer                                      | Ja            | Die Nummer der Tätigkeit im Bereich: 1-999999999; muss eindeutig sein                                                                                                              |
 | 2    | Bezeichnung                                 | Ja            | Die interne Bezeichnung der Tätigkeit, welche im Programm verwendet wird, ist auf maximal 40 Zeichen beschränkt und muss eindeutig sein                                            |
 | 3    | Bezeichnung In Note                         | Ja            | Die Bezeichnung der Tätigkeit, welche auf der Note gedruckt wird, kann mehr als 40 Zeichen enthalten                                                                               |
-| 4    | Verrechnungsgruppe                          | Ja            | Die Verrechnungsgruppe zur der die Tätigkeit zugeordnet werden soll, ist auf maximal 40 Zeichen beschränkt                                                                         |
+| 4    | Verrechnungsgruppe                          | Ja            | Die Verrechnungsgruppe, zu der die Tätigkeit zugeordnet werden soll, ist auf maximal 40 Zeichen beschränkt                                                                         |
 | 5    | Verrechnungsart                             | Ja            | Dieses Feld definiert die Verrechnungsart der Tätigkeit. Es stehen folgende Verrechnungsarten zur Verfügung: Stunden, Einheiten, StundenUndEinheiten, StundenOderEinheiten, Betrag |
 | 6    | Verrechenbar                                | Nein          | **J**, wenn die Tätigkeit verrechenbar sein soll. Ansonsten **N** oder leer lassen                                                                                                 |
 | 7    | USt-Pflichtig                               | Nein          | **J**, wenn die Tätigkeit umsatzsteuerpflichtig sein soll. Ansonsten **N** oder leer lassen                                                                                        |
@@ -72,9 +71,6 @@ verpflichtend mit Werten befüllt werden muss.
 | 20   | Erlöskonto IG-Leistungen                    | Nein          | Bereich: 1-999999999; Das Erlöskonto wird beim Erstellen der Buchungssätze im Zuge des Finalisierens einer Note verwendet                                                          |
 | 21   | Erlöskonto für Drittländer (Reverse Charge) | Nein          | Bereich: 1-999999999; Das Erlöskonto wird beim Erstellen der Buchungssätze im Zuge des Finalisierens einer Note verwendet                                                          |
 | 22   | Kostenstelle                                | Nein          | Bereich: 1-999999999; Die Kostenstelle wird beim Erstellen der Buchungssätze im Zuge des Finalisierens einer Note verwendet                                                        |
-
-
-
 
 ## Datenimport Leistungen und Arbeitszeiten
 
@@ -108,7 +104,6 @@ wenn z. B. der Projektzeitraum im falschen Format ist und daher nicht
 nicht durchgeführt werden. Die Importdatei muss dementsprechend
 angepasst werden. Das Programm zeigt eine genaue Fehlerbeschreibung.
 
-
 ![](<img/image153.png>)
 
 !!! warning "Hinweis"
@@ -124,7 +119,6 @@ und/oder fehlerhaften Leistungen wird der Import abgebrochen und alle
 fehlerhaften Zeilen werden im Protokoll angezeigt.
 
 Die Importdatei der Leistungen muss wie folgt aufgebaut sein:
-
 
 ![](<img/image406.png>)
 
@@ -206,7 +200,7 @@ maximal 23:59 betragen.</p>
 <p>Form ist abhängig vom eingestellten Zeitformat.</p>
 <p>Bei “Normalstunden”: In der Form SS:MM (02:30)</p>
 <p>Bei „Industriestunden“: Maximal 2 Vorkommastellen, Beistrich oder
-Punkt, 2 Nach-kommastellen (2,50).</p>
+Punkt, 2 Nachkommastellen (2,50).</p>
 <p>Bei negativen Beträgen wird das Minus unmittelbar vor den Stunden
 gestellt.</p></td>
 </tr>
@@ -228,7 +222,7 @@ Erlaubt sind nur Ganzzahlen.</td>
 beschrieben werden. Bei Verrechnung nach Betrag muss dieses Feld
 ausgefüllt sein. Ansonsten das Feld „Betrag“ leer lassen. (keine
 0)<br />
-Eingabe als Dezimalzahl mit 2 Nach-kommastellen.</td>
+Eingabe als Dezimalzahl mit 2 Nachkommastellen.</td>
 </tr>
 <tr class="odd">
 <td>11</td>
@@ -260,7 +254,6 @@ unvollständigen und/oder fehlerhaften Arbeitszeiten wird der Import
 abgebrochen und alle fehlerhaften Zeilen werden im Protokoll angezeigt.
 
 Die Importdatei der Arbeitszeiten muss wie folgt aufgebaut sein:
-
 
 ![](<img/image407.png>)
 
