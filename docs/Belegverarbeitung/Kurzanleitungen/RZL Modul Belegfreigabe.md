@@ -73,7 +73,7 @@ Grundsätzlich können Sie beim Zuordnen von Freigebern mit ODER bzw. UND Verkn�
 Zum Hinzufügen von Oder-Freigebern in derselben Zeile steht immer schon ein freies Feld zur Verfügung. Zum Hinzufügen eines Und-Freigebers klicken Sie auf die Schaltfläche Freigeber hinzufügen **⑥**, um eine neue Zeile einzufügen.
 
 
-![Image](<img/image-38.png>){width="400"}
+![Image](<img/image-38.png>){width="800"}
 
 
 **Beispiel:** Belege, denen obiger Freigabe-Standard zugeordnet wird, müssen zuerst in der Stufe Formelle Prüfung, dann in der Stufe Inhaltliche Prüfung und zuletzt in der Stufe Geschäftsführung (in dieser Stufe von Stein Stefan **oder** Weber Martin **und** von Huberlehner Maria) freigegeben werden.
@@ -92,7 +92,7 @@ In den Stammdaten eines Freigabe-Standards können Sie im Registerblatt *Automat
 
 In folgendem Beispiel wird der Freigabe-Standard *Rechnungen über 1.000* bei allen Belegen über EUR 1.000,00 mit dem Belegkreis ER bei den Klienten 3 und 4 automatisch angewandt.
 
-![Image](<img/image-39.png>)
+![Image](<img/image-39.png>){width="800"}
 
 
 Feldbeschreibung:
