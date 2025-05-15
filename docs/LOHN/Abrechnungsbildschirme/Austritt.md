@@ -2,6 +2,8 @@
 
 ![Image](<img/image73.png>)
 
+## Austritt
+
 **Austrittsdatum**
 
 Eingabe des arbeitsrechtlichen Endes des Dienstverhältnisses. Das Austrittsdatum muss im Abrechnungsmonat liegen. Aufgrund des Austrittsdatums werden die SV-Tage und LSt-Tage berechnet. Ist [*Aliquotierung*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) angewählt, wird der Bruttolohn entsprechend aliquotiert. In den nächsten Monaten wird die Abrechnung automatisch unterdrückt. Der Dienstnehmer kann dann nur mittels Wiedereintritt im selben Monat oder zu einem späteren Zeitraum abgerechnet werden.
@@ -40,7 +42,7 @@ Seit 2020 gibt es das *Kontrollsechstel*. Das [Kontrollsechstel](../Abrechnungen
 
 Das *erhöhte Jahres-/ Kontrollsechstel* findet nur bei der Kurzarbeit Anwendung. Fällt ein Dienstnehmer durch die Kurzarbeit unter seinen normalen Verdienst, wird in diesem Monat das erhöhte Jahres-/ Kontrollsechstel automatisch aktiviert. Das erhöhte Jahressechstel wird nur in Verbindung mit dem Kurzarbeit-Bildschirm angezeigt.
 
-**Übermittlung an ÖGK (ELDA)**
+## Übermittlung an ÖGK (ELDA)
 
 In diesem Bereich wird angezeigt, welche Daten an die ÖGK im Zuge einer Abmeldung übermittelt werden.
 
@@ -48,7 +50,7 @@ In diesem Bereich wird angezeigt, welche Daten an die ÖGK im Zuge einer Abmeldu
 
 Bei manchen Austrittsgründen (z. B. Karenzurlaub, Bildungskarenz) muss aus technischen Gründen das Austrittsdatum eingetragen werden, eine Übermittlung findet aber nicht statt (siehe Beispiel oben).
 
-**Mutterschutz / Karenzurlaub**
+## Mutterschutz / Karenzurlaub
 
 Vgl. [Abrechnung Mutterschutz/Karenzurlaub](../Abrechnungen%20Sonderfälle/Abrechnung%20Mutterschutz%20und%20Karenzurlaub.md)
 
@@ -68,11 +70,11 @@ Wird hier das *Beginndatum* eingetragen, befüllt sich automatisch *das Bis-Datu
 
 ![Image](<img/image77.png>){width="500"}
 
-**Mutterschutzmeldung gemäß § 3 Abs 6 MSchG**
+## Mutterschutzmeldung gemäß § 3 Abs 6 MSchG
 
 Durch Auswahl des zuständigen *Arbeitsinspektorats* und durch Eingabe des *Arbeitsplatzes / der Tätigkeit* kann im Anschluss an die Abrechnung eine [Mutterschutzmeldung](../Ausdrucke%20allgemein/Ausdruck%20Sonderdrucke.md) erstellt und ausgedruckt werden.
 
-**Truppenübung**
+## Truppenübung
 
 ![Image](<img/image78.png>){width="500"}
 
@@ -94,17 +96,17 @@ Durch die Eingabe des Beginnes und Endes der Truppenübung wird automatisch die 
 
     Würden Sie das Beginn- und Enddatum nicht eintragen, würde keine BV-Bemessung abgerechnet werden.
 
-**BV – Beitragspflicht**
+## BV – Beitragspflicht
 
 Grundsätzlich wird das *Ende der Beitragspflicht* vom Programm vorgeschlagen. In Ausnahmefällen kann hier ein vom Austrittsdatum abweichendes Ende der BV-Beitragspflicht eingetragen werden.
 
-**abweichender Betrag Abmeldung**
+## abweichender Betrag Abmeldung
 
 Bis 2018 (vor mBGM) musste bei der Abmeldung das zuletzt bezogene Entgelt angeführt werden. Dies ist nun nicht mehr nötig. Wird dieses Auswahlfeld aktiviert, dann kann hier ein abweichender Betrag eingetragen werden.
 
 ![Image](<img/image82.png>)
 
-**Kündigungsentschädigung**
+## Kündigungsentschädigung
 
 Ist eine Kündigungsentschädigung abzurechnen, so ist das Optionsfeld *gezahlt* anzuwählen. Es kann dann der Zeitraum, sowie der Betrag der Kündigungsentschädigung eingegeben werden. Durch die Kündigungsentschädigung verlängert sich die SV-Pflicht. Diese Verlängerung der SV-Pflicht wird vom Programm automatisch vorgenommen, auch wenn damit das Ende des Entgeltsanspruches erst in einem späteren Monat oder auch erst im darauffolgenden Jahr endet. Die in späteren Monaten zu entrichtenden Beiträgen werden vom Programm evident gehalten und in die monatliche Beitragsgrundlagenmeldung der jeweiligen Monate übernommen.
 
@@ -114,7 +116,7 @@ Bei der Eingabe des *Gesamtbetrages* an Kündigungsentschädigung wird lohnsteue
 
 *Kündigungsentschädigung* *SZ-Anteil*: Eingabe jenes Teiles der Kündigungsentschädigung, der SV-mäßig als Sonderzahlung behandelt wird.
 
-**Ersatzleistung (Urlaubsersatzleistung**)
+## Ersatzleistung (Urlaubsersatzleistung
 
 Im Falle einer (Urlaubs-) Ersatzleistung verlängert sich die SV-Pflicht. Diese Verlängerung der SV-Pflicht wird vom Programm automatisch vorgenommen, auch wenn damit das Ende des Entgeltsanspruches erst in einem späteren Monat oder auch erst im darauffolgenden Jahr endet. Die in späteren Monaten zu entrichtenden Beiträgen werden vom Programm evident gehalten und in die monatliche Beitragsgrundlagenmeldung der jeweiligen Monate übernommen. Am Buchungsbeleg selbst werden im Monat der Abrechnung die noch nicht fälligen SV-Beiträge als *noch nicht fällige SV aus UE* ausgewiesen und in den nachfolgenden Monaten als *UE aus Vormonaten* gekennzeichnet.
 
@@ -146,15 +148,15 @@ Im Feld *Ersatzleistung (UE) gesamt* wird der Gesamtbetrag inkl. SZ-Anteil einge
 
 Wenn während einer Ersatzleistung die SV-Gruppe gewechselt werden muss, kann im Bereich *SV-Wechsel während der UE* die neue Gruppe angewählt werden. Im Feld *SV-Gruppe ab* tragen Sie den Beginn der neuen SV-Gruppe ein.
 
-**Unterbrechung der Beschäftigung**
+## Unterbrechung der Beschäftigung
 
 Wurde die Beschäftigung unterbrochen, so ist dieses Auswahlfeld zu aktivieren. Der Zeitraum der Unterbrechung der Beschäftigung wird auf der Arbeitsbescheinigung angedruckt.
 
-**Teilzeitbeschäftigung**
+## Teilzeitbeschäftigung
 
 Die hier vorgenommenen Eintragungen werden auf der Arbeitsbescheinigung angedruckt.
 
-**Hospizkarenz**
+## Hospizkarenz
 
 Mit Hilfe dieses Programmteils können, wenn Mitarbeiter die Familienhospizkarenz in Anspruch nehmen, die Anmeldungen, Änderungsmeldungen und Abmeldungen erstellt werden.
 
@@ -162,7 +164,7 @@ Nach dem Abspeichern der Daten erfolgt die Abfrage vom Programm, ob die jeweilig
 
 Die Meldungen können nachträglich auch im Programmteil *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* erstellt werden.
 
-**Sonderfälle Abmeldung (Krankenstand / Richtigstellung Karenz)**
+## Sonderfälle Abmeldung (Krankenstand / Richtigstellung Karenz)
 
 Wenn es zu einer [Kündigung während des Krankenstandes](../Abrechnungen%20Sonderfälle/Beendigung%20von%20Dienstverhältnissen%20im%20Krankenstand.md) kommt, muss das Entgelt bis zum Ende des Krankenentgeltanspruches ausbezahlt werden. Da dies oft über Monate geht, haben Sie hier die Möglichkeit, schon vorab eine Abmeldung zu erzeugen. Durch Eingabe der Austrittsdaten in diesem Bereich kann eine Abmeldung erstellt werden und weiterhin ganz normal abgerechnet werden. Erst im Monat des Ende Entgeltsanspruches tragen Sie im oberen Bereich des Austrittes die Austrittsdaten ein.
 

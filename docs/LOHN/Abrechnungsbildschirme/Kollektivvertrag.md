@@ -4,7 +4,7 @@ Dieser Abrechnungsbildschirm bietet im ersten Bereich die Verknüpfung mit der H
 
 ![Image](<img/image58.png>)
 
-**HGKV-DB**
+## HGKV-DB
 
 Mit den in diesem Bereich getroffenen Einstellungen weist das Programm auf „Bezüge unter KV-Mindestlohn“ und auf „Bezüge unter vereinbarter KV-Überzahlung“ hin. Im Abrechnungsbildschirm *Fixe Lohnarten* kann im Feld *Betrag* bzw. in den Feldern *Stundensatz 1* und *2* mit der Tastenkombination *Strg + K* der KV-Bezug (mit oder ohne Überzahlung) automatisch übernommen werden.
 
@@ -107,15 +107,15 @@ Durch die Verknüpfung mit dem Kollektivvertrag werden die Normalarbeitszeit, de
 
 Auf die hier angezeigten Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Anlage%20von%20Lohnformeln.md) zugegriffen werden.
 
-**KV-Handel Reformbetrag 1**
+## KV-Handel Reformbetrag 1
 
 Durch die Umstellung von KV-Handel Angestellte ALT auf KV-Handel Angestellte NEU kann es zu einem *Reformbetrag 1* kommen. Diesen Betrag können Sie hier eintragen bzw. wird dieser vom Programm bei der Umstellung automatisch befüllt.
 
-**Jubiläumsgelder**
+## Jubiläumsgelder
 
 Wenn im Kollektivvertrag ein eindeutiges Jubiläumsgeld hinterlegt ist, dann werden hier die Felder automatisch befüllt. Wenn es keine eindeutigen Daten zum Jubiläumsgeld gibt, müssen die Felder von Ihnen befüllt werden.
 
-**Weitere Informationen aus dem Kollektivvertrag/abweichende Einstellungen**
+## Weitere Informationen aus dem Kollektivvertrag/abweichende Einstellungen
 
 Im Programmteil *Klient / Kanzlei / Kollektivverträge* können in der Kurzinformation zusätzliche Daten pro Kollektivvertrag eingetragen werden.
 
@@ -126,23 +126,23 @@ Wenn diese Felder im jeweiligen Kollektivvertrag ausgefüllt werden, gelten die 
 !!! warning "Hinweis"
     Diese hier gewählte Einstellung hat auf **alle Klienten**, wo dieser Kollektivvertrag hinterlegt wurde, eine Auswirkung.
 
-- *Abw. Hochrechnungsfaktor (von Stundenlohn laut KV auf Monatsbezug)*
+**Abw. Hochrechnungsfaktor (von Stundenlohn laut KV auf Monatsbezug)**
 
-    Wenn ein Kollektivvertrag keine Monatsbezüge beinhaltet, sondern Stundenlöhne liefert, rechnet das Programm grundsätzlich automatisch aufgrund der Normalarbeitszeit laut Kollektivvertrag mit dem Multiplikator 4,33 auf einen Monatsbezug hoch.
+Wenn ein Kollektivvertrag keine Monatsbezüge beinhaltet, sondern Stundenlöhne liefert, rechnet das Programm grundsätzlich automatisch aufgrund der Normalarbeitszeit laut Kollektivvertrag mit dem Multiplikator 4,33 auf einen Monatsbezug hoch.
 
-    Das Feld *Hochrechnungsfaktor* muss nur ausgefüllt werden, wenn die Hochrechnung vom Stundenlohn auf einen Monatslohn mit einem abweichenden Teiler (laut Kollektivvertrag) durchgeführt werden muss.
+Das Feld *Hochrechnungsfaktor* muss nur ausgefüllt werden, wenn die Hochrechnung vom Stundenlohn auf einen Monatslohn mit einem abweichenden Teiler (laut Kollektivvertrag) durchgeführt werden muss.
 
-- *abw. Std.-Teiler-Teilzeit*
+**abw. Std.-Teiler-Teilzeit**
 
-    Manche Kollektivverträge schreiben für die Berechnung der Teilzeitbezüge – ausgehend von einem Monatsbezug – abweichende Stundenteiler vor. In diesem Feld ist ein abweichender Stundenteiler für die Berechnung des Teilzeitbezugs einzutragen.
+Manche Kollektivverträge schreiben für die Berechnung der Teilzeitbezüge – ausgehend von einem Monatsbezug – abweichende Stundenteiler vor. In diesem Feld ist ein abweichender Stundenteiler für die Berechnung des Teilzeitbezugs einzutragen.
 
-- *Überzahlung*
+**Überzahlung**
 
-    Im Bereich der Überzahlung kann pro Kollektivvertrag festgelegt werden, ob Überzahlungen beibehalten werden müssen. Wenn das Feld *Bei Biennalsprung beibehalten* aktiviert ist, bleibt die Überzahlung auch nach einer Erhöhung aufgrund der Dienstjahre in voller Höhe aufrecht.
+Im Bereich der Überzahlung kann pro Kollektivvertrag festgelegt werden, ob Überzahlungen beibehalten werden müssen. Wenn das Feld *Bei Biennalsprung beibehalten* aktiviert ist, bleibt die Überzahlung auch nach einer Erhöhung aufgrund der Dienstjahre in voller Höhe aufrecht.
 
-    Soll die Überzahlung nicht betraglich, sondern prozentuell beibehalten werden, ist das Feld *Prozentuelle Überzahlung beibehalten* zu aktivieren.
+Soll die Überzahlung nicht betraglich, sondern prozentuell beibehalten werden, ist das Feld *Prozentuelle Überzahlung beibehalten* zu aktivieren.
 
-**Abweichende Einstellungen für einzelne Dienstnehmer**
+## Abweichende Einstellungen für einzelne Dienstnehmer
 
 Innerhalb des Abrechnungsbildschirms *Kollektivvertrag* können beim Dienstnehmer im Bereich *abw. Einstellungen für diesen Dienstnehmer* abweichende Eingaben eingetragen werden.
 
@@ -165,16 +165,16 @@ Die abonnierten Kollektivverträge müssen in den *Klientenstammdaten* zugeordne
 
 ![Image](<img/image71.png>){width="500"}
 
-**Manuelle Eingabe von Kollektivvertragsdaten**
+## Manuelle Eingabe von Kollektivvertragsdaten
 
 ![Image](<img/image72.png>){width="500"}
 
 Die manuelle Eintragung von Kollektivvertragsdaten ist nur möglich, wenn der Bereich *HGKV-DB* nicht aktiviert ist.
 
-- *Kollektivvertrag*
+**Kollektivvertrag**
 
-    Eingabe des anzuwendenden Kollektivvertrages. Die Eintragung wird für die Erstellung des Dienstzettels verwendet.
+Eingabe des anzuwendenden Kollektivvertrages. Die Eintragung wird für die Erstellung des Dienstzettels verwendet.
 
-- *Stundensatz laut KV / Bezug laut KV*
+**Stundensatz laut KV / Bezug laut KV**
 
-    Auf die hier eingetragenen Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Anlage%20von%20Lohnformeln.md) zugegriffen werden.
+Auf die hier eingetragenen Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Anlage%20von%20Lohnformeln.md) zugegriffen werden.

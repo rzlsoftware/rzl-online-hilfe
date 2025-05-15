@@ -4,6 +4,8 @@ In diesem Bildschirm sind Daten, die unmittelbar mit dem Eintritt des Dienstnehm
 
 ![Image](<img/image55.png>)
 
+## Eintritt
+
 **Eintritt**
 
 Eingabe des Eintrittsdatums. Dieses Datum ist bei Neuanlage bzw. Wiedereintritt einzugeben. Auf Grund dieses Datums erfolgt die automatische Berechnung der SV-Tage. Dieses Eintrittsdatum wird sowohl auf den Lohnabrechnungen als auch auf dem Lohnzettel angedruckt. Liegt das Eintrittsdatum nicht im Abrechnungsmonat, so erfolgt die Warnung *„Achtung, Eintrittsdatum liegt nicht im Abrechnungszeitraum“*. Wird mit der RZLWin-Lohnverrechnung neu begonnen und müssen daher sämtliche Dienstnehmer neu angelegt werden, so kann diese Warnung ignoriert werden. Ansonsten ist zu beachten, dass der Dienstnehmer im Monat des Eintrittes zu erfassen ist.
@@ -70,7 +72,7 @@ Durch Anwahl des blauen Rufzeichens wird angezeigt, welche Dienstverhältnisse z
 
 ![Image](<img/image57.png>)
 
-**BV-Beitragspflicht**
+## BV-Beitragspflicht
 
 Grundsätzlich ist das Auswahlfeld *BV-Beitragspflicht* aktiviert. Unterliegt der Dienstnehmer nicht der Beitragspflicht (z. B. fallweise Beschäftigte, befristetes Dienstverhältnis nicht länger als ein Monat), dann ist dieses Feld zu deaktivieren.
 
@@ -81,6 +83,8 @@ Der *Beginn der BV-Beitragspflicht* wird vom Programm vorgeschlagen. Grundsätzl
 Der Vorschlag vom Programm muss nur abgeändert werden, wenn eine (fremde) Lohnverrechnung übernommen wird, dafür muss ein Dienstnehmer angelegt werden, der bereits in den letzten 12 Monaten bei diesem Dienstgeber beschäftigt war (Abrechnung mit Wiedereintritt nicht möglich).
 
 In diesem Fall entsteht sofort Beitragspflicht, das Programm würde jedoch aufgrund der fehlenden Wiedereintrittsdaten einen Monat beitragsfrei belassen.
+
+## Lehrzeit
 
 **Dauer der Lehrzeit**
 
@@ -98,49 +102,49 @@ Hier können Sie das Datum der Lehrabschlussprüfung eintragen.
 
 Steht für den Lehrling kein Lehrlingsfreibetrag zu, ist dieses Auswahlfeld zu aktivieren. Das wäre beispielsweise bei einer vorzeitigen Beendigung des Lehrverhältnisses der Fall.
 
-**Abweichender Betrag Anmeldung**
+## Abweichender Betrag Anmeldung
 
 Bis 2018 (vor mBGM) musste auf der Anmeldung der monatliche Geldbezug angegeben werden. Grundsätzlich wurde dieser Geldbezug automatisch vom Programm vorgeschlagen.
 
 Wird dieses Auswahlfeld aktiviert, dann kann hier ein abweichender Betrag eingetragen werden (gilt nur für die Anmeldung – hat keinerlei Einfluss auf die Abrechnung selbst).
 
-**Beschäftigungsbonus**
+## Beschäftigungsbonus
 
 Die hier verwalteten Daten werden für den Ausdruck der Liste der Arbeitsverhältnisse ab dem 01.07.2017 für den Beschäftigungsbonus verwendet. Der Ausdruck kann innerhalb der [Sonderdrucke](../Ausdrucke%20allgemein/Ausdruck%20Sonderdrucke.md) angewählt werden.
 
 Im Programmteil *Ausdruck / Sonderdrucke …* können Sie auch die Liste mit den Referenzwerten für den Beschäftigungsbonus und die voraussichtliche Zuschusshöhe ausdrucken.
 
-**Vorbezüge**
+## Vorbezüge
 
 Vorbezüge sind nur bei Eintritt eines Dienstnehmers während des Jahres einzugeben und nur dann, wenn vom Dienstnehmer ein Lohnzettel über diese Bezüge vorgelegt wird.
 
 !!! info "Tipp"
     Es ist zu beachten, dass ab 1994 die Dienstnehmer nicht mehr verpflichtet sind, einen Lohnzettel über die bisherigen Bezüge vorzulegen. Bei Nichtvorlage der bisherigen Bezüge kann trotzdem bei Sonderzahlungen der Freibetrag von EUR 620,00 berücksichtigt werden, es ist nur die Sechstelgrenze entsprechend geringer.
 
-- **Verbrauchte Bemessungsgrundlage SV-Sonderzahlung**
+**Verbrauchte Bemessungsgrundlage SV-Sonderzahlung**
 
-    Für während des Jahres eingetretene Dienstnehmer, die bereits vorher in einem Dienstverhältnis standen, ist hier die Summe der bisher verbrauchten Bemessungsgrundlage der SV-Sonderzahlung einzugeben.
+Für während des Jahres eingetretene Dienstnehmer, die bereits vorher in einem Dienstverhältnis standen, ist hier die Summe der bisher verbrauchten Bemessungsgrundlage der SV-Sonderzahlung einzugeben.
 
-- **Bisherige SV KZ 225**
+**Bisherige SV KZ 225**
 
-    Hier können Sie den Betrag vom Jahreslohnzettel in der KZ 225 eintragen.
+Hier können Sie den Betrag vom Jahreslohnzettel in der KZ 225 eintragen.
 
-- **Bisherige Sonderzahlung**
+**Bisherige Sonderzahlung**
 
-    Eingabe der bisher verrechneten Sonderzahlung gemäß § 67 (1) und (2).
+Eingabe der bisher verrechneten Sonderzahlung gemäß § 67 (1) und (2).
 
-- **Bisherige Sonderzahlung ohne feste LSt**
+**Bisherige Sonderzahlung ohne feste LSt**
 
-    Es ist jener Betrag, der bisherigen Sonderzahlung einzugeben, der ohne feste Lohnsteuer behandelt wurde. Also jener Betrag zwischen EUR 620,00 und EUR 2.447,00 (bis 2023: EUR&nbsp;2.100,00), von dem vom Vordienstgeber keine feste Lohnsteuer abgezogen wurde, weil die Sechstelgrenze von EUR&nbsp;2.447,00 (bis 2023: EUR&nbsp;2.100,00) nicht erreicht wurde (Bagatellgrenze).
+Es ist jener Betrag, der bisherigen Sonderzahlung einzugeben, der ohne feste Lohnsteuer behandelt wurde. Also jener Betrag zwischen EUR 620,00 und EUR 2.447,00 (bis 2023: EUR&nbsp;2.100,00), von dem vom Vordienstgeber keine feste Lohnsteuer abgezogen wurde, weil die Sechstelgrenze von EUR&nbsp;2.447,00 (bis 2023: EUR&nbsp;2.100,00) nicht erreicht wurde (Bagatellgrenze).
 
-- **Bisheriger Bruttolohn**
+**Bisheriger Bruttolohn**
 
-    Eingabe des bisherigen Bruttolohnes (ohne Sonderzahlungen) laut Lohnzettel. Dieser Betrag bildet die Grundlage für die Sechstelberechnung. Tritt ein Dienstnehmer während eines Jahres ein und legt keinen Lohnzettel vor, so ist die Sechstelgrenze entsprechend niedriger und es kann bei einer Sonderzahlung zu einer Überschreitung dieser Grenze kommen.
+Eingabe des bisherigen Bruttolohnes (ohne Sonderzahlungen) laut Lohnzettel. Dieser Betrag bildet die Grundlage für die Sechstelberechnung. Tritt ein Dienstnehmer während eines Jahres ein und legt keinen Lohnzettel vor, so ist die Sechstelgrenze entsprechend niedriger und es kann bei einer Sonderzahlung zu einer Überschreitung dieser Grenze kommen.
 
-- **Vorjahresbemessungs-Grundlage**
+**Vorjahresbemessungs-Grundlage**
 
-    Eingabe der Lohnsteuervorjahresbemessungsgrundlage laut Lohnzettel (KZ 245). Im Zuge der Jahresübernahme wird diese Grundlage automatisch ermittelt und im neuen Jahr eingetragen.
+Eingabe der Lohnsteuervorjahresbemessungsgrundlage laut Lohnzettel (KZ 245). Im Zuge der Jahresübernahme wird diese Grundlage automatisch ermittelt und im neuen Jahr eingetragen.
 
-- **Tage als Aushilfskraft**
+**Tage als Aushilfskraft**
 
-    Wenn der Dienstnehmer im aktuellen Kalenderjahr bereits als Aushilfskraft gemäß §&nbsp;3&nbsp;Abs.&nbsp;1&nbsp;Z&nbsp;11a&nbsp;EStG tätig war, ist hier die Anzahl der Tage einzutragen. Mit Hilfe dieses Eintrages werden die 18 Tage pro Dienstnehmer und Jahr überwacht. Dieses Feld hat ab 2020 keine Relevanz mehr, da es lohnsteuerlich keine Aushilfskräfte mehr gibt.
+Wenn der Dienstnehmer im aktuellen Kalenderjahr bereits als Aushilfskraft gemäß §&nbsp;3&nbsp;Abs.&nbsp;1&nbsp;Z&nbsp;11a&nbsp;EStG tätig war, ist hier die Anzahl der Tage einzutragen. Mit Hilfe dieses Eintrages werden die 18 Tage pro Dienstnehmer und Jahr überwacht. Dieses Feld hat ab 2020 keine Relevanz mehr, da es lohnsteuerlich keine Aushilfskräfte mehr gibt.

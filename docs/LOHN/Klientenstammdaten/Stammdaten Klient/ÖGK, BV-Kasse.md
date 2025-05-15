@@ -2,6 +2,8 @@
 
 ![Image](<img/image26.png>){width="500"}
 
+## Krankenkassen
+
 **Selbstabrechner** 
 
 Die Aktivierung des Auswahlfeldes *Selbstabrechner* (Lohnsummenverfahren) ermöglicht den Ausdruck bzw. die elektronische Übertragung der gesetzlich vorgeschriebenen monatlichen Beitragsgrundlagenmeldung (mBGM). Wird dieses Auswahlfeld nicht aktiviert, werden die mBGM mit der Satzart für Vorschreibebetriebe erstellt.
@@ -76,7 +78,7 @@ Für die automatische Eintragung des Monats und des Jahres können Sie die Kürz
 !!! warning "Hinweis"
     In Ausnahmefällen kann durch Anwahl der Schaltfläche *Details* das Zahlungsreferenzfeld für jeden Monat einzeln eingetragen werden. Diese Möglichkeit kann genutzt werden, wenn die von der Behörde vergebenen Kundendatenfelder nicht systematisch aufgebaut sind.
 
-**BV-Kasse**
+## BV-Kasse
 
 Im Feld *BV-Kassenleitzahl* ist die entsprechende Nummer einzutragen. Durch Anwahl der *F2-Taste* werden die angelegten BV-Kassen aufgerufen und können direkt in das Feld übernommen werden.
 

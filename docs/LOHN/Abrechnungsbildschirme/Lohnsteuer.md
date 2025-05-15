@@ -2,7 +2,7 @@
 
 ![Image](<img/image85.png>)
 
-**Absetzbeträge**
+## Absetzbeträge
 
 Soll der Alleinverdienerabsetzbetrag berücksichtigt werden, ist das Feld *Alleinverdiener* zu aktivieren. Wird der Alleinverdienerabsetzbetrag beansprucht, so müssen in den [*Dienstnehmer Stammdaten*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) die Daten des Ehepartners eingetragen werden.
 
@@ -10,7 +10,7 @@ Besteht Anspruch auf den Alleinerzieherabsetzbetrag ist das Feld *Alleinerzieher
 
 Seit Juli 2004 steht pro Kind ein Kinderzuschlag zum Alleinverdiener(-erzieher)absetzbetrag zu. Im Feld *Anzahl Kinder § 106* ist die Anzahl der Kinder einzutragen, für die ein Kinderzuschlag gerechnet werden soll. Durch Anwahl der *F2-Taste* besteht die Möglichkeit, die im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) im Bereich *Kinder* erfassten Kinder automatisch zu übernehmen.
 
-**Pendlerpauschale**
+## Pendlerpauschale
 
 Sie können die beantragte Pendlerpauschale aus der vorgegebenen Liste auswählen. Bei Ein- und Austritten während des Monats wird die Pauschale automatisch gemäß Rz. 250a LStR aliquotiert.
 
@@ -24,7 +24,7 @@ Wenn die Fahrttage pro Woche nicht regelmäßig anfallen (z. B. 1 Woche mit 2 Fa
 
 Eine Besonderheit gibt es bei der Erfassung der *Telearbeitstage*. Durch Eingabe der *Telearbeitstage* müssen seit 01.07.2021 die *Pendlerpauschaltage* gekürzt werden. Dies wird automatisch vom Programm vorgenommen, wenn die Telearbeitstage erfasst sind. Das bedeutet, dass Sie bei den Fahrttagen, jene Tage eintragen, die der Dienstnehmer inkl. Telearbeitstage fährt. Zum Beispiel: Dienstnehmer hat eine 5-Tage-Woche. Er arbeitet von Montag bis Freitag. Sie aktivieren diese 5 Arbeitstage, egal ob der Dienstnehmer an diesen Tagen Telearbeit hat oder im Büro anwesend ist. Durch die Eingabe der Telearbeitstage werden die Fahrttage automatisch gekürzt. 
 
-**Werkverkehr / Jobticket**
+## Werkverkehr / Jobticket
 
 Wird der Dienstnehmer im *Werkverkehr* gemäß § 26 Z 5 EStG befördert, muss die Anzahl der Monate am L16 (Jahreslohnzettel) vermerkt werden. Auf dem Jahreslohnkonto des Dienstnehmers erfolgt monatsweise ebenfalls ein Vermerk.
 
@@ -63,15 +63,15 @@ Falls Sie eine **individuelle Bezeichnung** für das Öffi-Ticket auf der Abrech
 
 Wichtig hierbei ist, dass das Feld *Aufwandsentschädigung* angewählt wird und DB und Kommst mit der *Pflichtigkeit 2 Aufwandsentschädigung* versehen wird. Nur so wird die Lohnart korrekt abgerechnet und auch auf allen Auswertungen korrekt angezeigt.
 
-**Kinder**
+## Kinder
 
 Falls die Kinder im *Stammdaten Dienstnehmer Bildschirm* noch nicht erfasst wurden, können diese hier erfasst werden. Die bereits erfassten Daten werden dann nochmals angezeigt. Es gibt hier auch wieder die Möglichkeit, den Familienbonus Plus einzutragen.
 
-**Telearbeitspauschale**
+## Telearbeitspauschale
 
 Durch Eingabe der *Telearbeitstage* werden die Tage auf dem Jahreslohnkonto und dem Jahreslohnzettel angeführt. Ebenso werden die Tage auf der Abrechnung angedruckt. Wenn Sie die *steuerfreie Pauschale* aktiviert haben, wird vom Programm automatisch der *Satz* EUR 3,00 vorgeschlagen. Dieser Satz kann von Ihnen abgeändert werden. Sie haben auch die Möglichkeit, einen unabhängigen Pauschalbetrag einzugeben (z. B. EUR 25,00), somit wird dieser Betrag ausbezahlt. Durch Anhaken von *wiederkehrend*, speichert sich das Programm den Pauschalbetrag ab.
 
-**Freibeträge**
+## Freibeträge
 
 Eingabe des monatlichen Freibetrages auf Grund des Freibetragsbescheides im Feld *monatl. Freibetrag*.
 
@@ -80,6 +80,8 @@ Im Feld *Werbungskosten* tragen Sie den Prozentsatz für erhöhte Werbungskosten
 Im Feld *Höchstbetrag* kann ein Maximalbetrag für Werbungskosten eingetragen werden. Wurde kein Prozentsatz eingegeben, so wird der Höchstbetrag als Werbungskosten berücksichtigt.
 
 Wenn Sie *Expatriates* (nach Österreich entsendete Fachkräfte) abrechnen und die allgemeinen Voraussetzungen erfüllt sind, können Sie das Feld *WK (Werbungskosten) Expatriates* für diese Dienstnehmer aktivieren. Der Freibetrag beträgt max. 20 % der Bemessungsgrundlage höchstens EUR 10.000,00 jährlich. Dieser Jahreshöchstbetrag ist bei nicht ganzjähriger Tätigkeit zu aliquotieren.
+
+## Sonstiges
 
 **Nachtarbeit**
 
@@ -179,19 +181,19 @@ Entwicklungshelfer sind von der Neuregelung der Auslandsbezüge ab dem Jahr 2011
 
 ![Image](<img/image91.png>)
 
-**Zuschüsse und Kostenersätze**
+## Zuschüsse und Kostenersätze
 
-- **Kinderbetreuungszuschuss**
+**Kinderbetreuungszuschuss**
 
-    Hier haben Sie die Möglichkeit, den erhaltenen Kinderbetreuungszuschuss einzutragen. Es muss auch die *Anzahl der Kinder*, die den Kinderbetreuungszuschuss erhalten, angegeben werden. Wenn Sie den Zuschuss an die Mitarbeiterin bzw. den Mitarbeiter auszahlen möchten, brauchen Sie nichts weiter zu tun, der Betrag wird über die Abrechnung abgegolten. Falls Sie den Zuschuss direkt an die Kinderbetreuungseinrichtung entrichtet haben, aktivieren Sie das Häkchen bei *nur Ausweis am Lohnkonto*. Somit wird der Zuschuss nur auf dem Jahreslohnkonto angeführt.
+Hier haben Sie die Möglichkeit, den erhaltenen Kinderbetreuungszuschuss einzutragen. Es muss auch die *Anzahl der Kinder*, die den Kinderbetreuungszuschuss erhalten, angegeben werden. Wenn Sie den Zuschuss an die Mitarbeiterin bzw. den Mitarbeiter auszahlen möchten, brauchen Sie nichts weiter zu tun, der Betrag wird über die Abrechnung abgegolten. Falls Sie den Zuschuss direkt an die Kinderbetreuungseinrichtung entrichtet haben, aktivieren Sie das Häkchen bei *nur Ausweis am Lohnkonto*. Somit wird der Zuschuss nur auf dem Jahreslohnkonto angeführt.
 
-- **Anschaffung Ladeeinrichtung**
+**Anschaffung Ladeeinrichtung**
 
-    Tragen Sie hier den Betrag für den steuerfreien Teil der Ladeeinrichtung ein. Falls Sie die Anschaffung direkt an die Verkaufsstelle gezahlt haben, aktivieren Sie das Häkchen bei *nur Ausweis am Lohnkonto u. L16*. Somit wird der Kostenersatz nur auf dem Jahreslohnkonto und dem Jahreslohnzettel (L16) ausgewiesen.
+Tragen Sie hier den Betrag für den steuerfreien Teil der Ladeeinrichtung ein. Falls Sie die Anschaffung direkt an die Verkaufsstelle gezahlt haben, aktivieren Sie das Häkchen bei *nur Ausweis am Lohnkonto u. L16*. Somit wird der Kostenersatz nur auf dem Jahreslohnkonto und dem Jahreslohnzettel (L16) ausgewiesen.
 
-- **Kostenersatz Aufladung E-Fahrzeuge**
+**Kostenersatz Aufladung E-Fahrzeuge**
 
-    Hier haben Sie die Möglichkeit, die *Anzahl* der Kilowattstunden für die Aufladung des E-Fahrzeugs zu erfassen. Als *Basis* wird Ihnen der amtliche Kilowattstundenpreis vorgeschlagen. Sie können auch eine abweichende Basis erfassen. Falls keine genaue Überprüfung möglich ist, können Sie den aktuell gültigen Maximalbetrag von EUR 30,00 als Kostenersatz hinterlegen. Wenn Sie den Kostenersatz nicht auszahlen möchten, sondern dieser lediglich auf dem Jahreslohnkonto und dem Jahreslohnzettel (L16) ausgewiesen werden soll, aktivieren Sie das Häkchen *nur Ausweis am Lohnkonto u. L16*.
+Hier haben Sie die Möglichkeit, die *Anzahl* der Kilowattstunden für die Aufladung des E-Fahrzeugs zu erfassen. Als *Basis* wird Ihnen der amtliche Kilowattstundenpreis vorgeschlagen. Sie können auch eine abweichende Basis erfassen. Falls keine genaue Überprüfung möglich ist, können Sie den aktuell gültigen Maximalbetrag von EUR 30,00 als Kostenersatz hinterlegen. Wenn Sie den Kostenersatz nicht auszahlen möchten, sondern dieser lediglich auf dem Jahreslohnkonto und dem Jahreslohnzettel (L16) ausgewiesen werden soll, aktivieren Sie das Häkchen *nur Ausweis am Lohnkonto u. L16*.
 
 !!! info "Tipp"
     Zuschüsse und Kostenersätze können über freie Lohnarten abgerechnet werden. Dafür stehen Ihnen folgende Lohnsteuerpflichtigkeiten zur Auswahl:
@@ -202,7 +204,7 @@ Entwicklungshelfer sind von der Neuregelung der Auslandsbezüge ab dem Jahr 2011
     
     Wenn Sie wiederkehrende Zahlungen (z. B. monatliche Zuschüsse) abrechnen möchten, erfolgt dies ebenfalls über die freien Lohnarten.
 
-**Kommunalsteuer**
+## Kommunalsteuer
 
 Hier kann die Kommunalsteuer auf insgesamt 10 Gemeinden verteilt werden. Tragen Sie die Gemeindenummer laut den angelegten Gemeindestammdaten ein. Hat der Dienstgeber in einer Gemeinde nur eine Betriebsstätte, so braucht hier keine Nummer eingegeben zu werden, es wird automatisch die Gemeinde laut Dienstgeberstammdaten angesprochen.
 
@@ -210,7 +212,7 @@ Ist der Dienstnehmer von der Kommunalsteuer befreit (z. B. Invalide), so ist das
 
 Die Eingabe eines Prozentsatzes im Feld *Kürzung Bem. Kommst.* verringert die Bemessungsgrundlage zur Berechnung der Kommunalsteuer für den jeweiligen Dienstnehmer. Eine nachträgliche Änderung während des Jahres ändert nichts an der Berechnung bereits gespeicherter Abrechnungen. In den Stammdaten des Klienten im Registerblatt [*Kommst., U-Bahn*](../Klientenstammdaten/Stammdaten%20Klient/KommSt,%20U-Bahn.md) kann die Bemessungsgrundlage für den gesamten Klienten gekürzt werden.
 
-**DB, DZ**
+## DB, DZ
 
 Wenn der Dienstnehmer von der Entrichtung des DB befreit ist, ist das Feld *Befreiung von DB* zu aktivieren.
 
@@ -223,6 +225,6 @@ Die Eingabe eines Prozentsatzes im Feld *Kürzung Bem. DZ.* verringert die Bemes
 !!! warning "Hinweis"
     Wird ein Dienstnehmer 60 Jahre, somit entfällt die DB- und DZ-Pflicht. Das Lohnprogramm setzt bei diesen Personen automatisch das Häkchen bei DB- und DZ-Befreiung in jenem Monat, wo der Dienstnehmer genau am ersten des Monats 60 wird oder bei einem späteren Geburtstag im Folgemonat.
 
-**U-Bahn-Abgabe**
+## U-Bahn-Abgabe
 
 Unterliegt der Dienstnehmer der U-Bahn-Abgabe, so ist das Feld *U-Bahn-Abgabe* zu aktivieren. Liegt die U-Bahn-Abgabenpflicht vor, so werden vom Programm automatisch die U-Bahn-Wochen ermittelt. Auch bei Eintritt oder Austritt während des Monats. Nur in Ausnahmefällen muss hier die U-Bahn-Wochenanzahl manuell eingegeben werden (z. B. wenn ein Lehrling während des Monats seine Lehrzeit beendet).
