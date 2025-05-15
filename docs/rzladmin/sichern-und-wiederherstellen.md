@@ -28,19 +28,19 @@ Zunächst wird der Pfad angegeben an dem die Sicherungsdatei abgespeichert werde
 **Optional** kann ausgewählt werden ob die Sicherung nach Abschluss nochmals eines Prüflaufes unterzogen wird und ob die Transaktionslog Datei (Idf-Datei) verkleinert werden soll.
 (Betrifft nur die RZL Installationen mit SQL - Instanz)
 
-![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_Sicherungerstellen.png)
+![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_SicherungErstellen.png)
 
 Abschließend klicken Sie zum Erstellen der Sicherungsdatei auf den Button ***Sicherung starten***:
 
-![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_Sicherungstarten.png)
+![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_SicherungStarten.png)
 
 **Zur Wiederherstellung** der Sicherungsdatei in der neuen Umgebung werden die bestehenden Sicherungen unter verfügbare Sicherungen angezeigt.
-![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_verfuegbareSicherung.png)
+![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_VerfuegbareSicherung.png)
 
 Mit dem Ordnersymbol kann die Sicherungsdatei im Explorer direkt geöffnet werden. Mit dem Papierkorb Symbol kann die Sicherungsdatei gelöscht werden.
 
 Bei der Wiederherstellung können zusätzlich Optionen ausgewählt werden:
-![RZL Daten Sichern/Wiederherstellen](img/DatensichernWiederherstellen_Wiederherstellungstarten.png)
+![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_WiederherstellungStarten.png)
 
 Die Option "Datenbank auf aktuelle Version bringen" ist nur sinnvoll zum Auswählen, wenn es bei der RZL INstallatin sich um eine mit einer SQL - Instanz handelt. In den meisten Fällen reicht die Auswahl der obersten Option (Disaster Revovery - Rechnertausch / Servertausch).
 

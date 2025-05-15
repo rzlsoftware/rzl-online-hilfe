@@ -115,7 +115,7 @@ Dieser Befehl sollte nur in Ausnahmefällen nach Aufforderung des Supports ausge
 Hier kann überprüft werden ob von einem Arbeitsplatz aus mittels vorhandener Berechtigungen ein Update eingespielt 
 werden darf.
 
-![Wartung](<img/Verwaltung_DBEinstellungen_Rechtepruefung_Erfolg.png>)
+![Wartung](img/Verwaltung_DBEinstellungen_RechtepruefungErfolg.png)
 
 - **RZL Dienst Benutzer auf Datenbank berechtigen**
   
@@ -124,7 +124,7 @@ werden darf.
 Über diesem Button kann der RZL Dienst (optional) auf der Datenbank berechtigt werden.
 Die Einstellungen können auch manuell über das SQL Management Studio gesetzt werden (siehe dazu auch *Berechtigungskonzept*)
 
-![Wartung](img/Verwaltung_DBEinstellungen_RZL-DienstBerechtigen_erfolgsmeldung.png)
+![Wartung](img/Verwaltung_DBEinstellungen_RZL-DienstBerechtigenErfolg.png)
 
 - **Transaktions-Log der Datenbank verkleinern**
   
@@ -132,7 +132,7 @@ Die Einstellungen können auch manuell über das SQL Management Studio gesetzt w
 
   Dieser Befehl kann ausgeführt werden, wenn die Daten der Datenbank aus verschiedenen Gründen zunehmen, meist wenn Konfigurationen der Datenbank selbst nicht sauber gesetzt worden sind.
 
-![Wartung](img/Verwaltung_DBEinstellungen_Transaktionslog_Erfolg.png)
+![Wartung](img/Verwaltung_DBEinstellungen_TransaktionslogErfolg.png)
 
 - **Einzelbenutzermodus/Mehrbenutzermodus**
   
@@ -186,7 +186,7 @@ Für das Programm *Board* können hier zusätzliche Einstellungen gesetzt werden
 
 - *RZL Board im Hintergrund automatisch mit Windows starten*:   Damit wird das RZL Board beim Starten von Windows automatisch im Hintergrund gestartet und ist sofort einsatzbereit, ohne dass Sie es manuell öffnen müssen.
 
-![Wartung](img/Verwaltung_BoardSchließen.png)
+![Wartung](img/Verwaltung_BoardSchliessen.png)
 
 - *RZL Board schließen wenn alle Fenster geschlossen werden*:  Diese Einstellung finden Sie auch im RZL Board im Bereich „Einstellungen“. Damit können Sie steuern, wie sich das Programm beim Schließen der Fenster verhält, je nach Ihren Arbeitsgewohnheiten oder der Umgebung (lokal oder remote).
   
@@ -200,11 +200,11 @@ Für das Programm *Board* können hier zusätzliche Einstellungen gesetzt werden
 
 ## Anwender-Protokolle
 
-![Wartung](img/Verwaltung_Anwenderprotokoll(DSGVO).png)
+![Wartung](img/Verwaltung_AnwenderprotokollDSGVO1.png)
 
 Dieses Protokoll dokumentiert alle relevanten Aktivitäten im Zusammenhang mit der Datenschutz-Grundverordnung (DSGVO), wie z. B. Datenzugriffe, Änderungen oder Löschungen, und dient der Nachvollziehbarkeit und rechtlichen Absicherung gemäß DSGVO-Anforderungen.
 
-![Wartung](img/Verwaltung_Anwenderprotokoll(DSGVO)_2.png)
+![Wartung](img/Verwaltung_AnwenderprotokollDSGVO2.png)
 
 Nach Eingabe des Zeitraums und des Lizenzpasswortes können die Daten abgerufen und auch als CSV - Datei exportiert werden.
 
