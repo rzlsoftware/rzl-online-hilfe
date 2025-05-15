@@ -21,27 +21,26 @@ Nachfolgend wird die Arbeitsoberfläche im *Report Designer* beschrieben.
 
 3.  Formelansicht (Kapitel 5.1.1 Das Formeldialogfenster, Seite [36](#das-formeldialogfenster))
 
-4.  Lineal mit Tabulatoreinstellungen (Kapitel 2.1.4 [[]{.indexref entry="Tabulator"}]{.indexref entry="Tabstopps"}Arbeiten mit Tabulator und Lineal, Seite
-    [15](#arbeiten-mit-tabulator-und-lineal))
+4.  Lineal mit Tabulatoreinstellungen (Kapitel 2.1.4 Arbeiten mit Tabulator und Lineal, Seite [15](#arbeiten-mit-tabulator-und-lineal))
 
 5.  Kopfzeilenbereich: Durch Doppelklick kann eine Kopf-/Fußzeile eingegeben werden.
 
 6.  Ausgegrauter Textbereich: Zur Hinterlegung von Kommentaren und Anweisungen können Textbereiche für den Ausdruck ausgegraut werden (Kapitel 2.1.2 Nützliche Shortcuts und Symbole, Seite [13](#texteabsätze-ausblenden)).
 
-7.  Farbliche Markierungen im Seitenbereich[]{.indexref entry="farbliche Markierungen Seitenbereich"} (betreffend ausgegraute Textbereiche):
+7.  Farbliche Markierungen im Seitenbereich (betreffend ausgegraute Textbereiche):
 
-    *Blau:* Absatz wird als reiner Informationstext angezeigt und beim Ausdruck komplett ausgeblendet.
+    <span style="color: darkblue;">**Blau:**</span> Absatz wird als reiner Informationstext angezeigt und beim Ausdruck komplett ausgeblendet.
 
-    *Grün:* Im Absatz ist/sind eine/mehrere Bedingung(en) hinterlegt, die erfüllt ist/sind. Der Absatz wird beim Ausdruck daher angedruckt.
+    <span style="color: green;">**Grün**:</span> Im Absatz ist/sind eine/mehrere Bedingung(en) hinterlegt, die erfüllt ist/sind. Der Absatz wird beim Ausdruck daher angedruckt.
 
-    *Rot:* Im Absatz ist/sind eine/mehrere Bedingung(en) hinterlegt, die nicht erfüllt ist/sind. Der Absatz wird nicht angedruckt.
+    <span style="color: red;">**Rot:**</span> Im Absatz ist/sind eine/mehrere Bedingung(en) hinterlegt, die nicht erfüllt ist/sind. Der Absatz wird nicht angedruckt.
 
-    *Gelb:* Im Absatz sind mehrere Bedingungen hinterlegt und nicht zur Gänze erfüllt. Im Ausdruck werden nur die erfüllten Bedingungen angedruckt.
+    <span style="color: darkgoldenrod;">**Gelb:**</span> Im Absatz sind mehrere Bedingungen hinterlegt und nicht zur Gänze erfüllt. Im Ausdruck werden nur die erfüllten Bedingungen angedruckt.
 
 8.  Eigenschaftsfenster: Je nach markiertem Bereich können Einstellungen zur Formatierung getroffen werden.
 
-!!! info "Tipp"
-    Das Eigenschaftsfenster[]{.indexref entry="Eigenschaftsfenster"} im rechten Bildschirmbereich dient zur Eingabe und Anpassung der Formatierung des selektierten Bereiches. Je nach markiertem Bereich (Tabelle, Text, Spalte, Dokument, Formel, Diagramm) wird es den jeweiligen Funktionen automatisch angepasst. []{.indexref entry="Ansichten:Eigenschaftsfenster"}
+    !!! info "Tipp"
+        Das Eigenschaftsfenster[]{.indexref entry="Eigenschaftsfenster"} im rechten Bildschirmbereich dient zur Eingabe und Anpassung der Formatierung des selektierten Bereiches. Je nach markiertem Bereich (Tabelle, Text, Spalte, Dokument, Formel, Diagramm) wird es den jeweiligen Funktionen automatisch angepasst. []{.indexref entry="Ansichten:Eigenschaftsfenster"}
 
 9.  Gelbe Markierung eines Textes: Anzeige eines Formelergebnisses.
 
