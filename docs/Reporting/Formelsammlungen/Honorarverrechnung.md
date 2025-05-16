@@ -1,29 +1,16 @@
 # Formelsammlung für die Honorarverrechnung 
 
-Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln
-für das Reporting im Honorarverrechnungsprogramm.
+Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das Reporting im Honorarverrechnungsprogramm.
 
-## RZL Notenvorlage Erweitert[]{.indexref entry="Formelliste: Honorarverrechnung"}
+## RZL Notenvorlage Erweitert
 
-Eine aktuelle Übersicht finden Sie in der ZMV unter *Allg. Dateien* /
-*Installieren* im Registerblatt *Reports* oder im Kapitel 9 Auflistung
-Musterreports Seite [57](#auflistung-musterreports) ff beschrieben.
+Eine aktuelle Übersicht finden Sie in der ZMV unter *Allg. Dateien* / *Installieren* im Registerblatt *Reports* oder im Kapitel 9 Auflistung Musterreports Seite [57](#auflistung-musterreports) ff beschrieben.
 
-Tipp
+!!! info "Tipp"
+    RZL bietet Ihnen Musterhonorarnotenvorlagen in Form eines Reports mit der Nummer *300-RZL Muster Notenvorlagen* an. Diese können auf den gewünschten Klienten überspielt und anschließend abgeändert werden. Die notwendigen Einstellungen betreffend des Klienten in der RZL-Honorarverrechnung finden Sie in der Kurzanleitung *Notenvorlage Erweitert*, welche über *Hilfe / Kurzanleitungen* im Honorarprogramm aufgerufen werden kann.
 
-RZL bietet Ihnen Musterhonorarnotenvorlagen in Form eines Reports mit
-der Nummer *300-RZL Muster Notenvorlagen* an. Diese können auf den
-gewünschten Klienten überspielt und anschließend abgeändert werden. Die
-notwendigen Einstellungen betreffend des Klienten in der
-RZL-Honorarverrechnung finden Sie in der Kurzanleitung *Notenvorlage
-Erweitert*, welche über *Hilfe / Kurzanleitungen* im Honorarprogramm
-aufgerufen werden kann.
-
-Tipp
-
-Die RZL-Musterreports werden stetig erweitert. Neuerungen werden auch im
-Zuge der RZL-Programmaktualisierung in den RZL-Newslettern
-veröffentlicht.
+!!! info "Tipp"
+    Die RZL-Musterreports werden stetig erweitert. Neuerungen werden auch im Zuge der RZL-Programmaktualisierung in den RZL-Newslettern veröffentlicht.
 
 ## Liste der Honorarverrechnungsformeln
 
@@ -31,320 +18,184 @@ Die folgenden Formeln sind im Honorarverrechnungsprogramm anwendbar.
 
 ### Dokument Allgemein
 
-  -----------------------------------------------------------------------
-  **Formel**                          **Beschreibung**
-  ----------------------------------- -----------------------------------
-  AktuellesDatum                      Tagesdatum
-
-  AktuelleSeite                       Nummer der aktuellen Seite
-
-  Seitenanzahl                        Gesamtzahl der Seiten
-  -----------------------------------------------------------------------
+| **Formel**     | **Beschreibung**           |
+| -------------- | -------------------------- |
+| AktuellesDatum | Tagesdatum                 |
+| AktuelleSeite  | Nummer der aktuellen Seite |
+| Seitenanzahl   | Gesamtzahl der Seiten      |
 
 ### Honorarnote Allgemein
 
-  ---------------------------------------------------------------------------
-  **Formel**                **Beschreibung**
-  ------------ ------------ -------------------------------------------------
-  Note         Nr           Notennummer
-
-  Note         Datum        Notendatum
-
-  Note         EMail        E-Mail
-
-  Note         Intern       „Wahr" wenn es sich um eine interne Note handelt
-
-  Note         Zeitraum     Erfassungszeitraum; Zeitraum in dem die
-                            Leistungen erbracht wurden
-
-  Note         Zusatztext   Zusatztext; kann während der Notenerstellung
-                            eingegeben werden
-  ---------------------------------------------------------------------------
+| **Formel** |            | **Beschreibung**                                                   |
+| ---------- | ---------- | ------------------------------------------------------------------ |
+| Note       | Nr         | Notennummer                                                        |
+| Note       | Datum      | Notendatum                                                         |
+| Note       | EMail      | E-Mail                                                             |
+| Note       | Intern     | „Wahr" wenn es sich um eine interne Note handelt                   |
+| Note       | Zeitraum   | Erfassungszeitraum; Zeitraum in dem die Leistungen erbracht wurden |
+| Note       | Zusatztext | Zusatztext; kann während der Notenerstellung eingegeben werden     |
 
 ### Kanzleibereich (Rechnungssteller)
 
-Die Daten des Kanzleibereiches können vor allem für die Erstellung des
-Briefkopfes herangezogen werden
+Die Daten des Kanzleibereiches können vor allem für die Erstellung des Briefkopfes herangezogen werden
 
-  --------------------------------------------------------------------------------------
-  **Formel**                                    **Beschreibung**                      
-  ------------ ---------------- --------------- ------------------------------------- --
-  Note         Kanzleibereich   Nr              Nummer                                
-
-  Note         Kanzleibereich   Name            Name                                  
-
-  Note         Kanzleibereich   Strasse         Straße                                
-
-  Note         Kanzleibereich   PLZ             Postleitzahl                          
-
-  Note         Kanzleibereich   Ort             Ort                                   
-
-  Note         Kanzleibereich   Land            Länderkürzel                          
-
-  Note         Kanzleibereich   UID             Umsatzsteuer-Identifikations-Nummer   
-
-  Note         Kanzleibereich   Homepage        Homepage                              
-
-  Note         Kanzleibereich   EMail           E-Mail-Adresse                        
-  --------------------------------------------------------------------------------------
+| **Formel** |                |          | **Beschreibung**                    |
+| ---------- | -------------- | -------- | ----------------------------------- |
+| Note       | Kanzleibereich | Nr       | Nummer                              |
+| Note       | Kanzleibereich | Name     | Name                                |
+| Note       | Kanzleibereich | Strasse  | Straße                              |
+| Note       | Kanzleibereich | PLZ      | Postleitzahl                        |
+| Note       | Kanzleibereich | Ort      | Ort                                 |
+| Note       | Kanzleibereich | Land     | Länderkürzel                        |
+| Note       | Kanzleibereich | UID      | Umsatzsteuer-Identifikations-Nummer |
+| Note       | Kanzleibereich | Homepage | Homepage                            |
+| Note       | Kanzleibereich | EMail    | E-Mail-Adresse                      |
 
 ### Klient (Rechnungsempfänger)
 
-  ------------------------------------------------------------------------------------
-  **Formel**                                **Beschreibung**
-  ------------ -------- ------------------- ------------------------------------------
-  Note         Klient   Nr                  Nummer
-
-  Note         Klient   Adressanrede        Adressanrede
-
-  Note         Klient   AkademischerGrad    Vorangestellter akademischer Grad (zB
-                                            „Mag.")
-
-  Note         Klient   Gesamtname          Zusammengesetzter Name inkl. Akademischer
-                                            Grade, Vorname und Nachname
-
-  Note         Klient   Vorname             Vorname
-
-  Note         Klient   Nachname            Nachname
-
-  Note         Klient   AkademischerGrad2   Nachgestellter akademischer Grad (zB „MS")
-
-  Note         Klient   Tätigkeit           Art der Tätigkeit (bei Firmendaten) bzw.
-                                            Beruf (bei Personendaten)
-
-  Note         Klient   Strasse             Straße
-
-  Note         Klient   PLZ                 Postleitzahl
-
-  Note         Klient   Ort                 Ort
-
-  Note         Klient   Land                Langform (zB „Deutschland"); bei
-                                            österreichischen Klienten bleibt das Feld
-                                            leer
-
-  Note         Klient   Briefanrede         Briefanrede
-
-  Note         Klient   EMail               E-Mail-Adresse
-
-  Note         Klient   Kurzbezeichnung     Kurzbezeichnung
-
-  Note         Klient   UID                 Umsatzsteuer-Identifikations-Nummer
-  ------------------------------------------------------------------------------------
+| **Formel** |        |                   | **Beschreibung**                                                                |
+| ---------- | ------ | ----------------- | ------------------------------------------------------------------------------- |
+| Note       | Klient | Nr                | Nummer                                                                          |
+| Note       | Klient | Adressanrede      | Adressanrede                                                                    |
+| Note       | Klient | AkademischerGrad  | Vorangestellter akademischer Grad (zB „Mag.")                                   |
+| Note       | Klient | Gesamtname        | Zusammengesetzter Name inkl. Akademischer Grade, Vorname und Nachname           |
+| Note       | Klient | Vorname           | Vorname                                                                         |
+| Note       | Klient | Nachname          | Nachname                                                                        |
+| Note       | Klient | AkademischerGrad2 | Nachgestellter akademischer Grad (zB „MS")                                      |
+| Note       | Klient | Tätigkeit         | Art der Tätigkeit (bei Firmendaten) bzw. Beruf (bei Personendaten)              |
+| Note       | Klient | Strasse           | Straße                                                                          |
+| Note       | Klient | PLZ               | Postleitzahl                                                                    |
+| Note       | Klient | Ort               | Ort                                                                             |
+| Note       | Klient | Land              | Langform (zB „Deutschland"); bei österreichischen Klienten bleibt das Feld leer |
+| Note       | Klient | Briefanrede       | Briefanrede                                                                     |
+| Note       | Klient | EMail             | E-Mail-Adresse                                                                  |
+| Note       | Klient | Kurzbezeichnung   | Kurzbezeichnung                                                                 |
+| Note       | Klient | UID               | Umsatzsteuer-Identifikations-Nummer                                             |
 
 ### Zustellvertreter
 
-  ----------------------------------------------------------------------------------------
-  **Formel**                                     **Beschreibung**
-  ------------ ------------------ -------------- -----------------------------------------
-  Note         Zustellvertreter   Vorhanden      „Wahr" wenn ein Zustellvertreter
-                                                 vorhanden ist
-
-  Note         Zustellvertreter   Adressanrede   Adressanrede
-
-  Note         Zustellvertreter   Name           Name
-
-  Note         Zustellvertreter   Funktion       Funktion
-
-  Note         Zustellvertreter   Strasse        Straße
-
-  Note         Zustellvertreter   PLZ            Postleitzahl
-
-  Note         Zustellvertreter   Ort            Ort
-
-  Note         Zustellvertreter   Land           Langform (zB „Deutschland"); bei
-                                                 österreichischen Klienten bleibt das Feld
-                                                 leer
-  ----------------------------------------------------------------------------------------
+| **Formel** |                  |              | **Beschreibung**                                                                |
+| ---------- | ---------------- | ------------ | ------------------------------------------------------------------------------- |
+| Note       | Zustellvertreter | Vorhanden    | „Wahr" wenn ein Zustellvertreter vorhanden ist                                  |
+| Note       | Zustellvertreter | Adressanrede | Adressanrede                                                                    |
+| Note       | Zustellvertreter | Name         | Name                                                                            |
+| Note       | Zustellvertreter | Funktion     | Funktion                                                                        |
+| Note       | Zustellvertreter | Strasse      | Straße                                                                          |
+| Note       | Zustellvertreter | PLZ          | Postleitzahl                                                                    |
+| Note       | Zustellvertreter | Ort          | Ort                                                                             |
+| Note       | Zustellvertreter | Land         | Langform (zB „Deutschland"); bei österreichischen Klienten bleibt das Feld leer |
 
 ## Bereiche
 
 ### Mit Umsatzsteuer
 
-In diesem Bereich werden die Tätigkeiten mit Umsatzsteuer-Pflicht
-dargestellt. Je nach Einstellungen in den Programmoptionen erfolgt eine
-Aufteilung auf die (Unter-)Klienten und die Verrechnungskreise.
+In diesem Bereich werden die Tätigkeiten mit Umsatzsteuer-Pflicht dargestellt. Je nach Einstellungen in den Programmoptionen erfolgt eine Aufteilung auf die (Unter-)Klienten und die Verrechnungskreise.
 
-HInweis
+!!! warning "Hinweis"
+    Die Klammern weisen darauf hin, dass mehrere Zeilen vorhanden sind.
 
-Die Klammern weisen darauf hin, dass mehrere Zeilen vorhanden sind.
-
-  -----------------------------------------------------------------------------------------------------------------------
-  **Formel**                                                                                   **Beschreibung**
-  ------------ --------- -------- ---------- --------------------- ------------- ------------- --------------------------
-  Note         Bereich   MitUSt   Klient()   Nr                                                Klientennummer
-
-  Note         Bereich   MitUSt   Klient()   Name                                              Klientenname
-
-  Note         Bereich   MitUSt   Klient()   Stunden                                           Anzahl der Stunden für den
-                                                                                               Klienten
-
-  Note         Bereich   MitUSt   Klient()   Verrechnungskreis()   Nr                          Verrechnungskreis-Nummer
-
-  Note         Bereich   MitUSt   Klient()   Verrechnungskreis()   Bezeichnung                 Bezeichnung bzw. Text
-
-  Note         Bereich   MitUSt   Klient()   Verrechnungskreis()   Stunden                     Anzahl der Stunden
-
-  Note         Bereich   MitUSt   Klient()   Verrechnungskreis()   Zeitraum                    Leistungszeitraum (wenn
-                                                                                               nach VK abgerechnet)
-
-  Note         Bereich   MitUSt   Klient()   Verrechnungskreis()   Betrag                      Betrag (wenn nach VK
-                                                                                               abgerechnet)
-
-  Note         Bereich   MitUSt   Klient()   Verrechnungskreis()   Tätigkeit()   Nr            Nummer der Tätigkeit
-
-  Note         Bereich   MitUSt   Klient()   Verrechnungskreis()   Tätigkeit()   Bezeichnung   Bezeichnung bzw. Text
-
-  Note         Bereich   MitUSt   Klient()   Verrechnungskreis()   Tätigkeit()   Einheiten     Anzahl der Einheiten
-
-  Note         Bereich   MitUSt   Klient()   Verrechnungskreis()   Tätigkeit()   Stunden       Anzahl der Stunden
-
-  Note         Bereich   MitUSt   Klient()   Verrechnungskreis()   Tätigkeit()   Zeitraum      Leistungszeitraum
-
-  Note         Bereich   MitUSt   Klient()   Verrechnungskreis()   Tätigkeit()   Betrag        Betrag
-  -----------------------------------------------------------------------------------------------------------------------
+| **Formel** |         |        |          |                     |             |             | **Beschreibung**                             |
+| ---------- | ------- | ------ | -------- | ------------------- | ----------- | ----------- | -------------------------------------------- |
+| Note       | Bereich | MitUSt | Klient() | Nr                  |             |             | Klientennummer                               |
+| Note       | Bereich | MitUSt | Klient() | Name                |             |             | Klientenname                                 |
+| Note       | Bereich | MitUSt | Klient() | Stunden             |             |             | Anzahl der Stunden für den Klienten          |
+| Note       | Bereich | MitUSt | Klient() | Verrechnungskreis() | Nr          |             | Verrechnungskreis-Nummer                     |
+| Note       | Bereich | MitUSt | Klient() | Verrechnungskreis() | Bezeichnung |             | Bezeichnung bzw. Text                        |
+| Note       | Bereich | MitUSt | Klient() | Verrechnungskreis() | Stunden     |             | Anzahl der Stunden                           |
+| Note       | Bereich | MitUSt | Klient() | Verrechnungskreis() | Zeitraum    |             | Leistungszeitraum (wenn nach VK abgerechnet) |
+| Note       | Bereich | MitUSt | Klient() | Verrechnungskreis() | Betrag      |             | Betrag (wenn nach VK abgerechnet)            |
+| Note       | Bereich | MitUSt | Klient() | Verrechnungskreis() | Tätigkeit() | Nr          | Nummer der Tätigkeit                         |
+| Note       | Bereich | MitUSt | Klient() | Verrechnungskreis() | Tätigkeit() | Bezeichnung | Bezeichnung bzw. Text                        |
+| Note       | Bereich | MitUSt | Klient() | Verrechnungskreis() | Tätigkeit() | Einheiten   | Anzahl der Einheiten                         |
+| Note       | Bereich | MitUSt | Klient() | Verrechnungskreis() | Tätigkeit() | Stunden     | Anzahl der Stunden                           |
+| Note       | Bereich | MitUSt | Klient() | Verrechnungskreis() | Tätigkeit() | Zeitraum    | Leistungszeitraum                            |
+| Note       | Bereich | MitUSt | Klient() | Verrechnungskreis() | Tätigkeit() | Betrag      | Betrag                                       |
 
 ### Ohne Umsatzsteuer
 
-In diesem Bereich werden die Tätigkeiten ohne Umsatzsteuer-Pflicht
-dargestellt. Der Aufbau ist ident zum Bereich „Mit Umsatzsteuer".
+In diesem Bereich werden die Tätigkeiten ohne Umsatzsteuer-Pflicht dargestellt. Der Aufbau ist ident zum Bereich „Mit Umsatzsteuer".
 
-  ------------------------------------------------------------------------------
-  **Formel**                         **Beschreibung**
-  ------------ --------- ----------- -------------------------------------------
-  Note         Bereich   OhneUSt     Siehe Bereich „Mit Umsatzsteuer"
-
-  ------------------------------------------------------------------------------
+| **Formel** |         |         | **Beschreibung**                 |
+| ---------- | ------- | ------- | -------------------------------- |
+| Note       | Bereich | OhneUSt | Siehe Bereich „Mit Umsatzsteuer" |
 
 ### Rabatte
 
-  ----------------------------------------------------------------------------
-  **Fomel**                                         **Beschreibung**
-  ----------- ----------- ----------- ------------- --------------------------
-  Note        Bereich     Rabatt()    Nr            Nummer der Rabattzeile
-
-  Note        Bereich     Rabatt()    Bezeichnung   Bezeichnung bzw. Text
-
-  Note        Bereich     Rabatt()    Zeitraum      Leistungszeitraum
-
-  Note        Bereich     Rabatt()    Betrag        Betrag
-
-  Note        Bereich     Rabatt()    Stunden       Stunden
-  ----------------------------------------------------------------------------
+| **Fomel** |         |          |             | **Beschreibung**       |
+| --------- | ------- | -------- | ----------- | ---------------------- |
+| Note      | Bereich | Rabatt() | Nr          | Nummer der Rabattzeile |
+| Note      | Bereich | Rabatt() | Bezeichnung | Bezeichnung bzw. Text  |
+| Note      | Bereich | Rabatt() | Zeitraum    | Leistungszeitraum      |
+| Note      | Bereich | Rabatt() | Betrag      | Betrag                 |
+| Note      | Bereich | Rabatt() | Stunden     | Stunden                |
 
 ### Akonto
 
-In diesem Bereich werden die Akonto-Zeilen dargestellt. Je nach
-Einstellungen in den Programmoptionen erfolgt eine Aufteilung auf die
-(Unter-)Klienten.
+In diesem Bereich werden die Akonto-Zeilen dargestellt. Je nach Einstellungen in den Programmoptionen erfolgt eine Aufteilung auf die (Unter-)Klienten.
 
-  --------------------------------------------------------------------------------------------
-  **Formel**                                                             **Beschreibung**
-  ------------ --------- -------- ---------- ------------- ------------- ---------------------
-  Note         Bereich   Akonto   Klient()   Nr                          Klientennummer
-
-  Note         Bereich   Akonto   Klient()   Name                        Klientenname
-
-  Note         Bereich   Akonto   Klient()   Stunden                     Stundenanzahl
-
-  Note         Bereich   Akonto   Klient()   Tätigkeit()   Nr            Nummer der
-                                                                         Akonto-Tätigkeit
-
-  Note         Bereich   Akonto   Klient()   Tätigkeit()   Bezeichnung   Bezeichnung bzw. Text
-
-  Note         Bereich   Akonto   Klient()   Tätigkeit()   Zeitraum      Akonto-Zeitraum
-
-  Note         Bereich   Akonto   Klient()   Tätigkeit()   Betrag        Betrag
-
-  Note         Bereich   Akonto   Klient()   Tätigkeit()   Einheiten     Einheiten
-
-  Note         Bereich   Akonto   Klient()   Tätigkeit()   Stunden       Stunden
-  --------------------------------------------------------------------------------------------
+| **Formel** |         |        |          |             |             | **Beschreibung**            |
+| ---------- | ------- | ------ | -------- | ----------- | ----------- | --------------------------- |
+| Note       | Bereich | Akonto | Klient() | Nr          |             | Klientennummer              |
+| Note       | Bereich | Akonto | Klient() | Name        |             | Klientenname                |
+| Note       | Bereich | Akonto | Klient() | Stunden     |             | Stundenanzahl               |
+| Note       | Bereich | Akonto | Klient() | Tätigkeit() | Nr          | Nummer der Akonto-Tätigkeit |
+| Note       | Bereich | Akonto | Klient() | Tätigkeit() | Bezeichnung | Bezeichnung bzw. Text       |
+| Note       | Bereich | Akonto | Klient() | Tätigkeit() | Zeitraum    | Akonto-Zeitraum             |
+| Note       | Bereich | Akonto | Klient() | Tätigkeit() | Betrag      | Betrag                      |
+| Note       | Bereich | Akonto | Klient() | Tätigkeit() | Einheiten   | Einheiten                   |
+| Note       | Bereich | Akonto | Klient() | Tätigkeit() | Stunden     | Stunden                     |
 
 ## Summen
 
 ### Nettosumme vor Abzug der Rabatte
 
-  -----------------------------------------------------------------------------------
-  **Fomel**                                        **Beschreibung**
-  ----------- -------- ---------------- ---------- ----------------------------------
-  Note        Summe    NettoVorRabatt   Drucken    „Wahr", wenn Rabattzeilen
-                                                   vorhanden sind
-
-  Note        Summe    NettoVorRabatt   Text       Text lt. Programmoptionen
-
-  Note        Summe    NettoVorRabatt   Betrag     Summe
-  -----------------------------------------------------------------------------------
+| **Fomel** |       |                |         | **Beschreibung**                         |
+| --------- | ----- | -------------- | ------- | ---------------------------------------- |
+| Note      | Summe | NettoVorRabatt | Drucken | „Wahr", wenn Rabattzeilen vorhanden sind |
+| Note      | Summe | NettoVorRabatt | Text    | Text lt. Programmoptionen                |
+| Note      | Summe | NettoVorRabatt | Betrag  | Summe                                    |
 
 ### Nettosumme vor der Umsatzsteuer
 
-  -------------------------------------------------------------------------------
-  **Fomel**                                    **Beschreibung**
-  ----------- -------- ------------ ---------- ----------------------------------
-  Note        Summe    Netto        Drucken    „Wahr", wenn eine Umsatzsteuer
-                                               auszuweisen ist
-
-  Note        Summe    Netto        Text       Text lt. Programmoptionen
-
-  Note        Summe    Netto        Betrag     Summe
-  -------------------------------------------------------------------------------
+| **Fomel** |       |       |         | **Beschreibung**                               |
+| --------- | ----- | ----- | ------- | ---------------------------------------------- |
+| Note      | Summe | Netto | Drucken | „Wahr", wenn eine Umsatzsteuer auszuweisen ist |
+| Note      | Summe | Netto | Text    | Text lt. Programmoptionen                      |
+| Note      | Summe | Netto | Betrag  | Summe                                          |
 
 ### Umsatzsteuer
 
-  ---------------------------------------------------------------------------------
-  **Fomel**                                      **Beschreibung**
-  ----------- -------- -------------- ---------- ----------------------------------
-  Note        Summe    Umsatzsteuer   Drucken    „Wahr", wenn eine Umsatzsteuer
-                                                 auszuweisen ist
-
-  Note        Summe    Umsatzsteuer   Text       Text lt. Programmoptionen
-
-  Note        Summe    Umsatzsteuer   Prozent    Prozentsatz
-
-  Note        Summe    Umsatzsteuer   Berag      Umsatzsteuerbetrag
-  ---------------------------------------------------------------------------------
+| **Fomel** |       |              |         | **Beschreibung**                               |
+| --------- | ----- | ------------ | ------- | ---------------------------------------------- |
+| Note      | Summe | Umsatzsteuer | Drucken | „Wahr", wenn eine Umsatzsteuer auszuweisen ist |
+| Note      | Summe | Umsatzsteuer | Text    | Text lt. Programmoptionen                      |
+| Note      | Summe | Umsatzsteuer | Prozent | Prozentsatz                                    |
+| Note      | Summe | Umsatzsteuer | Berag   | Umsatzsteuerbetrag                             |
 
 ### Summe Nach Umsatzsteuer
 
-  -------------------------------------------------------------------------------
-  **Fomel**                                    **Beschreibung**
-  ----------- -------- ------------ ---------- ----------------------------------
-  Note        Summe    NachUSt      Drucken    „Wahr", wenn eine Umsatzsteuer
-                                               auszuweisen ist und wenn im
-                                               Bereich „ohne Umsatzsteuer" Zeilen
-                                               vorhanden sind.
-
-  Note        Summe    NachUSt      Text       Text lt. Programmoptionen
-
-  Note        Summe    NachUSt      Betrag     Summe
-  -------------------------------------------------------------------------------
+| **Fomel** |       |         |         | **Beschreibung**                                                                                              |
+| --------- | ----- | ------- | ------- | ------------------------------------------------------------------------------------------------------------- |
+| Note      | Summe | NachUSt | Drucken | „Wahr", wenn eine Umsatzsteuer auszuweisen ist und wenn im Bereich „ohne Umsatzsteuer" Zeilen vorhanden sind. |
+| Note      | Summe | NachUSt | Text    | Text lt. Programmoptionen                                                                                     |
+| Note      | Summe | NachUSt | Betrag  | Summe                                                                                                         |
 
 ### Bruttosumme (Zwischensumme vor Akonto)
 
-  -------------------------------------------------------------------------------
-  **Fomel**                                    **Beschreibung**
-  ----------- -------- ------------ ---------- ----------------------------------
-  Note        Summe    Brutto       Drucken    „Wahr", wenn Akonto-Zeilen
-                                               vorhanden sind
-
-  Note        Summe    Brutto       Text       Text lt. Programmoptionen
-
-  Note        Summe    Brutto       Betrag     Summe
-  -------------------------------------------------------------------------------
+| **Fomel** |       |        |         | **Beschreibung**                          |
+| --------- | ----- | ------ | ------- | ----------------------------------------- |
+| Note      | Summe | Brutto | Drucken | „Wahr", wenn Akonto-Zeilen vorhanden sind |
+| Note      | Summe | Brutto | Text    | Text lt. Programmoptionen                 |
+| Note      | Summe | Brutto | Betrag  | Summe                                     |
 
 ### Akonto Umsatzsteuer
 
-  ---------------------------------------------------------------------------------------
-  **Fomel**                                            **Beschreibung**
-  ----------- -------- -------------------- ---------- ----------------------------------
-  Note        Summe    AkontoUmsatzsteur    Drucken    „Wahr", wenn Akontozeilen mit
-                                                       USt-Ausweis vorhanden sind
-
-  Note        Summe    AkontoUmsatzsteuer   Text       Text lt. Programmoptionen
-
-  Note        Summe    AkontoUmsatzsteuer   Prozent    Prozentsatz
-
-  Note        Summe    AkontoUmsatzsteuer   Betrag     Umsatzsteuerbetrag
-  ---------------------------------------------------------------------------------------
+| **Fomel** |       |                    |         | **Beschreibung**                                         |
+| --------- | ----- | ------------------ | ------- | -------------------------------------------------------- |
+| Note      | Summe | AkontoUmsatzsteur  | Drucken | „Wahr", wenn Akontozeilen mit USt-Ausweis vorhanden sind |
+| Note      | Summe | AkontoUmsatzsteuer | Text    | Text lt. Programmoptionen                                |
+| Note      | Summe | AkontoUmsatzsteuer | Prozent | Prozentsatz                                              |
+| Note      | Summe | AkontoUmsatzsteuer | Betrag  | Umsatzsteuerbetrag                                       |
 
 ### Gesamtbetrag
 
