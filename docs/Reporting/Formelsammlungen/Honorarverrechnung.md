@@ -199,187 +199,88 @@ In diesem Bereich werden die Akonto-Zeilen dargestellt. Je nach Einstellungen in
 
 ### Gesamtbetrag
 
-  --------------------------------------------------------------------------
-  Fomel                                      Beschreibung
-  ------- ------- ---------------- --------- -------------------------------
-  Note    Summe   Gesamtbetrag     Drucken   Immer „Wahr"; Gesamtsumme wird
-                                             immer gedruckt
-
-  Note    Summe   Gesamtbetrag     Text      Text lt. Programmoptionen
-
-  Note    Summe   Gesamtbetrag     Betrag    Summe
-  --------------------------------------------------------------------------
+| Fomel |       |              |         | Beschreibung                                  |
+| ----- | ----- | ------------ | ------- | --------------------------------------------- |
+| Note  | Summe | Gesamtbetrag | Drucken | Immer „Wahr"; Gesamtsumme wird immer gedruckt |
+| Note  | Summe | Gesamtbetrag | Text    | Text lt. Programmoptionen                     |
+| Note  | Summe | Gesamtbetrag | Betrag  | Summe                                         |
 
 ### Zahlung
 
-  -----------------------------------------------------------------------------------
-  Formel                                    Beschreibung
-  -------- --------- ------------ --------- -----------------------------------------
-  Note     Zahlung   Bankeinzug             „Wahr", wenn für diese Rechnung ein
-                                            Bankeinzug erfolgen soll
-
-  Note     Zahlung   Bankname               Name der Bank (lt. Stammdaten des
-                                            Kanzleibereiches)
-
-  Note     Zahlung   BIC                    Bank Identifier Code
-
-  Note     Zahlung   Frist                  Zahlungs-Frist in Tagen
-
-  Note     Zahlung   IBAN                   International Bank Accout Number
-
-  Note     Zahlung   QRCode                 Überweisungsdaten als QR-Code (Bild)
-
-  Note     Zahlung   Referenz               Zahlungsreferenz (12-stellig nummerisch)
-
-  Note     Zahlung   Skonto       Betrag    Skonto-Betrag
-
-  Note     Zahlung   Skonto       Frist     Skonto-Frist in Tagen
-
-  Note     Zahlung   Skonto       Prozent   Skonto-Prozentsatz
-  -----------------------------------------------------------------------------------
+| Formel |         |            |         | Beschreibung                                                 |
+| ------ | ------- | ---------- | ------- | ------------------------------------------------------------ |
+| Note   | Zahlung | Bankeinzug |         | „Wahr", wenn für diese Rechnung ein Bankeinzug erfolgen soll |
+| Note   | Zahlung | Bankname   |         | Name der Bank (lt. Stammdaten des Kanzleibereiches)          |
+| Note   | Zahlung | BIC        |         | Bank Identifier Code                                         |
+| Note   | Zahlung | Frist      |         | Zahlungs-Frist in Tagen                                      |
+| Note   | Zahlung | IBAN       |         | International Bank Accout Number                             |
+| Note   | Zahlung | QRCode     |         | Überweisungsdaten als QR-Code (Bild)                         |
+| Note   | Zahlung | Referenz   |         | Zahlungsreferenz (12-stellig nummerisch)                     |
+| Note   | Zahlung | Skonto     | Betrag  | Skonto-Betrag                                                |
+| Note   | Zahlung | Skonto     | Frist   | Skonto-Frist in Tagen                                        |
+| Note   | Zahlung | Skonto     | Prozent | Skonto-Prozentsatz                                           |
 
 ### Journal
 
-Das Journal ist eine Auflistung der in der Note abgerechneten
-Erfassungszeilen. Das Journal ist untergliedert in die Ebenen Bereich,
-Klient, Verrechnungskreis, Tätigkeit und Erfassungszeile. Je nach
-Verwendung der Formeln können einzelne Bereiche auch zusammengefasst
-werden. Ein Beispiel ist in der „RZL Mustervorlage mit Vorblatt Journal
-Rückblick" zu finden.
+Das Journal ist eine Auflistung der in der Note abgerechneten Erfassungszeilen. Das Journal ist untergliedert in die Ebenen Bereich, Klient, Verrechnungskreis, Tätigkeit und Erfassungszeile. Je nach Verwendung der Formeln können einzelne Bereiche auch zusammengefasst werden. Ein Beispiel ist in der „RZL Mustervorlage mit Vorblatt Journal Rückblick" zu finden.
 
-  ---------------------------------------------------------------------------------
-  **Formel**                                              **Beschreibung**
-  ------------ --------- -------------- ----------------- -------------------------
-  Note         Journal   Bereich()      Nr                Bereichsnummer
+| **Formel** |         |           |                 |                     |                 | **Beschreibung**              |
+| ---------- | ------- | --------- | --------------- | ------------------- | --------------- | ----------------------------- |
+| Note       | Journal | Bereich() | Nr              |                     |                 | Bereichsnummer                |
+| Note       | Journal | Bereich() | Bezeichnung     |                     |                 | Bereichs-Bezeichnung          |
+| Note       | Journal | Bereich() | Zeitraum        |                     |                 | Leistungszeitraum             |
+| Note       | Journal | Bereich() | Stunden         |                     |                 | Anzahl der Stunden            |
+| Note       | Journal | Bereich() | Betrag          |                     |                 | Summe                         |
+| Note       | Journal | Bereich() | Kurzbezeichnung |                     |                 | Kurzbezeichnung des Bereiches |
+| Note       | Journal | Bereich() | Klient()        | Nr                  |                 | Klienten-Nummer               |
+| Note       | Journal | Bereich() | Klient()        | Name                |                 | Klienten-Name                 |
+| Note       | Journal | Bereich() | Klient()        | Kurzbezeichnung     |                 | Klienten-Kurzbezeichnung      |
+| Note       | Journal | Bereich() | Klient()        | Zeitraum            |                 | Leistungszeitraum             |
+| Note       | Journal | Bereich() | Klient()        | Stunden             |                 | Anzahl der Stunden            |
+| Note       | Journal | Bereich() | Klient()        | Betrag              |                 | Summe                         |
+| Note       | Journal | Bereich() | Klient()        | Verrechnungskreis() | Nr              | Verrechnungskreis-Nummer      |
+| Note       | Journal | Bereich() | Klient()        | Verrechnungskreis() | Bezeichnung     | Verrechnungskreis-Bezeichnung |
+| Note       | Journal | Bereich() | Klient()        | Verrechnungskreis() | Kurzbezeichnung | VK-Kurzbezeichnung            |
+| Note       | Journal | Bereich() | Klient()        | Verrechnungskreis() | Zeitraum        | Leistungszeitraum             |
+| Note       | Journal | Bereich() | Klient()        | Verrechnungskreis() | Stunden         | Anzahl der Stunden            |
+| Note       | Journal | Bereich() | Klient()        | Verrechnungskreis() | Betrag          | Summe                         |
 
-  Note         Journal   Bereich()      Bezeichnung       Bereichs-Bezeichnung
-
-  Note         Journal   Bereich()      Zeitraum          Leistungszeitraum
-
-  Note         Journal   Bereich()      Stunden           Anzahl der Stunden
-
-  Note         Journal   Bereich()      Betrag            Summe
-
-  Note         Journal   Bereich()      Kurzbezeichnung   Kurzbezeichnung des
-                                                          Bereiches
-  ---------------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------------------
-  **Formel**                                                      **Beschreibung**
-  ------------ --------- ----------- ---------- ----------------- --------------------------
-  Note         Journal   Bereich()   Klient()   Nr                Klienten-Nummer
-
-  Note         Journal   Bereich()   Klient()   Name              Klienten-Name
-
-  Note         Journal   Bereich()   Klient()   Kurzbezeichnung   Klienten-Kurzbezeichnung
-
-  Note         Journal   Bereich()   Klient()   Zeitraum          Leistungszeitraum
-
-  Note         Journal   Bereich()   Klient()   Stunden           Anzahl der Stunden
-
-  Note         Journal   Bereich()   Klient()   Betrag            Summe
-  ------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------
-  Formel                                                                            Beschreibung
-  -------- --------- ----------- ---------- --------------------- ----------------- -------------------------------
-  Note     Journal   Bereich()   Klient()   Verrechnungskreis()   Nr                Verrechnungskreis-Nummer
-
-  Note     Journal   Bereich()   Klient()   Verrechnungskreis()   Bezeichnung       Verrechnungskreis-Bezeichnung
-
-  Note     Journal   Bereich()   Klient()   Verrechnungskreis()   Kurzbezeichnung   VK-Kurzbezeichnung
-
-  Note     Journal   Bereich()   Klient()   Verrechnungskreis()   Zeitraum          Leistungszeitraum
-
-  Note     Journal   Bereich()   Klient()   Verrechnungskreis()   Stunden           Anzahl der Stunden
-
-  Note     Journal   Bereich()   Klient()   Verrechnungskreis()   Betrag            Summe
-  -----------------------------------------------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Formel**                                                                                                        **Beschreibung**    
-  ------------ --------- ----------- ---------- --------------------- ------------- ----------------- ------------- ------------------- ----------------------
-  Note         Journal   Bereich()   Klient()   Verrechnungskreis()   Tätigkeit()   Nr                              Nummer              
-
-  Note         Journal   Bereich()   Klient()   Verrechnungskreis()   Tätigkeit()   Bezeichnung                     Bezeichnung         
-
-  Note         Journal   Bereich()   Klient()   Verrechnungskreis()   Tätigkeit()   Kurzbezeichnung                 Kurzbezeichnung     
-
-  Note         Journal   Bereich()   Klient()   Verrechnungskreis()   Tätigkeit()   Zeitraum                        Leistungszeitraum   
-
-  Note         Journal   Bereich()   Klient()   Verrechnungskreis()   Tätigkeit()   Stunden                         Anzahl der Stunden  
-
-  Note         Journal   Bereich()   Klient()   Verrechnungskreis()   Tätigkeit()   Betrag                          Summe               
-
-  Note         Journal   Bereich()   Klient()   Verrechnungskreis()   Tätigkeit()   Einheiten                       Anzahl der          
-                                                                                                                    Einheiten           
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Nr.           Zeilen-Nummer       
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Datum         Erfassungsdatum     
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Mitarbeiter   Nr.                 Mit.-Nummer
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Mitarbeiter   Name                Mit.-Name
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Mitarbeiter   Kurzbezeichnung     Mit.-Kurzbezeichnung
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Tätigkeit     Nr.                 Tät.-Nummer
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Tätigkeit     Bezeichnung         Tät. Bezeichnung
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Tätigkeit     Kurzbezeichnung     Tät. Kurzbez.
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Klient        Nr.                 Kli-Nummer
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Klient        Kurzbezeichnung     Kli.-Kurzbezeichnung
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Zeitraum      Leistungszeitraum   
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Stunden       Anzahl der Stunden  
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Einheiten     Anzahl der          
-                                                                                    ()                              Einheiten           
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Betrag        Betrag              
-                                                                                    ()                                                  
-
-  Note         Journal   Bereich()   Klient ()  Verrechnungskreis()   Tätigkeit     Erfassungszeile   Text          Eingegebener Text   
-                                                                                    ()                                                  
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **Formel** |         |           |           |                     |             |                 |             |                 | **Beschreibung**     |
+| ---------- | ------- | --------- | --------- | ------------------- | ----------- | --------------- | ----------- | --------------- | -------------------- |
+| Note       | Journal | Bereich() | Klient()  | Verrechnungskreis() | Tätigkeit() | Nr              |             |                 | Nummer               |
+| Note       | Journal | Bereich() | Klient()  | Verrechnungskreis() | Tätigkeit() | Bezeichnung     |             |                 | Bezeichnung          |
+| Note       | Journal | Bereich() | Klient()  | Verrechnungskreis() | Tätigkeit() | Kurzbezeichnung |             |                 | Kurzbezeichnung      |
+| Note       | Journal | Bereich() | Klient()  | Verrechnungskreis() | Tätigkeit() | Zeitraum        |             |                 | Leistungszeitraum    |
+| Note       | Journal | Bereich() | Klient()  | Verrechnungskreis() | Tätigkeit() | Stunden         |             |                 | Anzahl der Stunden   |
+| Note       | Journal | Bereich() | Klient()  | Verrechnungskreis() | Tätigkeit() | Betrag          |             |                 | Summe                |
+| Note       | Journal | Bereich() | Klient()  | Verrechnungskreis() | Tätigkeit() | Einheiten       |             |                 | Anzahl der Einheiten |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Nr.         |                 | Zeilen-Nummer        |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Datum       |                 | Erfassungsdatum      |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Mitarbeiter | Nr.             | Mit.-Nummer          |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Mitarbeiter | Name            | Mit.-Name            |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Mitarbeiter | Kurzbezeichnung | Mit.-Kurzbezeichnung |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Tätigkeit   | Nr.             | Tät.-Nummer          |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Tätigkeit   | Bezeichnung     | Tät. Bezeichnung     |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Tätigkeit   | Kurzbezeichnung | Tät. Kurzbez.        |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Klient      | Nr.             | Kli-Nummer           |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Klient      | Kurzbezeichnung | Kli.-Kurzbezeichnung |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Zeitraum    |                 | Leistungszeitraum    |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Stunden     |                 | Anzahl der Stunden   |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Einheiten   |                 | Anzahl der Einheiten |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Betrag      |                 | Betrag               |
+| Note       | Journal | Bereich() | Klient () | Verrechnungskreis() | Tätigkeit() | Erfassungszeile | Text        |                 | Eingegebener Text    |
 
 ### Verrechnungskreis-Rückblick
 
-Je Verrechnungskreis können die Werte der aktuellen und der letzten 5
-Honorarnoten dargestellt werden. Ein Beispiel ist in der „RZL
+Je Verrechnungskreis können die Werte der aktuellen und der letzten 5 Honorarnoten dargestellt werden. Ein Beispiel ist in der „RZL
 Mustervorlage mit Vorblatt Journal Rückblick" zu finden
 
-  ---------------------------------------------------------------------------------------------------------
-  Formel                                                                    Beschreibung
-  -------- --------------- --------------------- ------------- ------------ -------------------------------
-  Note     VkRückblick()   Verrechnungskreis()   Nr                         Verrechnungskreis-Nummer
-
-  Note     VkRückblick()   Verrechnungskreis()   Bezeichnung                Verrechnungskreis-Bezeichnung
-
-  Note     VkRückblick()   Verrechnungskreis()   Note()        Nr           Notennummer
-
-  Note     VkRückblick()   Verrechnungskreis()   Note()        Datum        Notendatum
-
-  Note     VkRückblick()   Verrechnungskreis()   Note()        Stunden      Anzahl der Stunden
-
-  Note     VkRückblick()   Verrechnungskreis()   Note()        ZuAbschlag   Zu-/Abschläge
-
-  Note     VkRückblick()   Verrechnungskreis()   Note()        Summe        Summe
-  ---------------------------------------------------------------------------------------------------------
+| Formel |               |                     |             |            | Beschreibung                  |
+| ------ | ------------- | ------------------- | ----------- | ---------- | ----------------------------- |
+| Note   | VkRückblick() | Verrechnungskreis() | Nr          |            | Verrechnungskreis-Nummer      |
+| Note   | VkRückblick() | Verrechnungskreis() | Bezeichnung |            | Verrechnungskreis-Bezeichnung |
+| Note   | VkRückblick() | Verrechnungskreis() | Note()      | Nr         | Notennummer                   |
+| Note   | VkRückblick() | Verrechnungskreis() | Note()      | Datum      | Notendatum                    |
+| Note   | VkRückblick() | Verrechnungskreis() | Note()      | Stunden    | Anzahl der Stunden            |
+| Note   | VkRückblick() | Verrechnungskreis() | Note()      | ZuAbschlag | Zu-/Abschläge                 |
+| Note   | VkRückblick() | Verrechnungskreis() | Note()      | Summe      | Summe                         |
