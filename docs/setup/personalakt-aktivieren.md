@@ -15,7 +15,7 @@ Web-Oberfläche des RZL Dienstes. Gehen Sie dabei wie folgt vor:
     ![RZL Dienst - Status Personalakt](img/RZLDienst_Personalakt_DokVPlusNichtAktiviert.png)
     
     Informationen zur Aktivierung der Dokumentenveraltung Plus finden Sie
-    im Kapitel [*Dokumentenverwaltung Plus einrichten*]([/setup/installation](https://hilfe.rzlsoftware.at/setup/dokvplus-einrichten/)).
+    im Kapitel [*Dokumentenverwaltung Plus einrichten*](dokvplus-einrichten.md).
 
 3.  Aktivierung durchführen  
     Sobald die Lizenz für die Dokumentenverwaltung Plus aktiv ist, erhalten Sie
