@@ -6,7 +6,7 @@ Zur Formatierung der Diagramme stehen Ihnen die Diagrammeigenschaften zur Verfü
 
 ## Allgemeine Diagrammeinstellungen
 
-Neben dem Diagrammtyp und der Farbvorlage können Sie hier die Ausrichtung (Datenbezug nach Spalten oder Zeilen) auswählen. Die verwendeten Farben hängen von der gewählten Farbformatvorlage ab. Diese kann unter *Bearbeiten / Farbformatvorlage* neu angelegt bzw. abgeändert werden (Kapitel Farbformatvorlagen, Seite [19](#farbformatvorlagen)). Mit dem Häkchen *Datenquelle ausblenden* können Sie die verwendete Tabelle für den Ausdruck ausblenden/einblenden.
+Neben dem Diagrammtyp und der Farbvorlage können Sie hier die Ausrichtung (Datenbezug nach Spalten oder Zeilen) auswählen. Die verwendeten Farben hängen von der gewählten Farbformatvorlage ab. Diese kann unter *Bearbeiten / [Farbformatvorlage](../Report_bearbeiten/Formatvorlagen.md)* neu angelegt bzw. abgeändert werden. Mit dem Häkchen *Datenquelle ausblenden* können Sie die verwendete Tabelle für den Ausdruck ausblenden/einblenden.
 
 ## Säulendiagramm/Kreisdiagramm/Liniendiagramm
 

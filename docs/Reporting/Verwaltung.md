@@ -12,7 +12,7 @@ Mit *Ausführen* werden die einzelnen Reports angezeigt und können durch Setzen
     Musterreports können über die *Zentrale Mandantenverwaltung (ZMV)* auch via E-Mail versendet werden. Wählen Sie dazu den Menüpunkt *Allg. Dateien / Mit E-Mail senden* und die Schaltfläche *Erweitert* aus. Der gewünschte Report (mit Typ *KREP*) kann dann angewählt und mit *Senden* versendet werden. Beim Empfänger kann der Musterreport anschließend wiederum in der ZMV über *Allg. Dateien / Hereinspielen* hochgeladen und importiert werden.
 
 !!! info "Tipp"
-    Eine noch schnellere Variante Musterreports zu versenden bzw. zu exportieren ist über den Menüpunkt *Report öffnen* möglich. Je nach Programm ist der Vormenüpunkt unterschiedlich (siehe Kapitel 1.3 Report öffnen, Seite [9](#report-öffnen)). Hier kann mittels Klick auf Exportieren der Report als  XML-Datei exportiert werden. Über denselben Menüpunkt kann der Report über die Schaltfläche *Importieren* importiert werden.
+    Eine noch schnellere Variante Musterreports zu versenden bzw. zu exportieren ist über den Menüpunkt [*Report öffnen*](../Reporting/Kanzleireports.md) möglich. Je nach Programm ist der Vormenüpunkt unterschiedlich. Hier kann mittels Klick auf Exportieren der Report als  XML-Datei exportiert werden. Über denselben Menüpunkt kann der Report über die Schaltfläche *Importieren* importiert werden.
 
     ![Image](img/image112.png)
 
@@ -41,19 +41,19 @@ Wählen Sie für den Export die Schaltfläche *Exportieren* aus. Sie gelangen in
 
 ## Report löschen
 
-Im *Report-Öffnen* Dialogfenster ( Abb. 8‑1, Seite [55](#_Ref453858760)) können Sie mit der Schaltfläche *Löschen* den aktiv angewählten Report des geöffneten Klienten löschen.
+Im *Report-Öffnen* Dialogfenster können Sie mit der Schaltfläche *Löschen* den aktiv angewählten Report des geöffneten Klienten löschen.
 
 ## Report umbenennen
 
-Im *Report-Öffnen* Dialogfenster ( Abb. 8‑1, Seite [55](#_Ref453858760)) können Sie nach Anwahl des gewünschten Reports im unteren Eingabefeld einen neuen Namen definieren. Mit der Schaltfläche *Umbenennen* wird der bisherige Name überschrieben.
+Im *Report-Öffnen* Dialogfenster können Sie nach Anwahl des gewünschten Reports im unteren Eingabefeld einen neuen Namen definieren. Mit der Schaltfläche *Umbenennen* wird der bisherige Name überschrieben.
 
 ## Drucken von Reports
 
-Für den Ausdruck eines Reports muss dieser zunächst geöffnet werden (Kapitel 1.3 Report öffnen, Seite [9](#_Ref452557488)). Anschließend stehen Ihnen folgende Druckmöglichkeiten zur Verfügung:
+Für den Ausdruck eines Reports muss dieser zunächst geöffnet werden. Anschließend stehen Ihnen folgende Druckmöglichkeiten zur Verfügung:
 
 ### Ausgabe über den RZL PDF-Drucker/RZL PDF-Manager Premium
 
-Zur Vorabansicht bzw. für die Sicherung des Reports als PDF-Dokument empfiehlt sich die Ausgabe im RZL PDF-Drucker/RZL PDF-Manager Premium. Wählen Sie dazu den Menüpunkt *Datei / PDF Drucken* oder das PDF-Druckersymbol in der Werkzeugleiste (Kapitel 2.1.2 Nützliche Shortcuts und Symbole, Seite [12](#nützliche-shortcuts-und-symbole)).
+Zur Vorabansicht bzw. für die Sicherung des Reports als PDF-Dokument empfiehlt sich die Ausgabe im RZL PDF-Drucker/RZL PDF-Manager Premium. Wählen Sie dazu den Menüpunkt *Datei / PDF Drucken* oder das PDF-Druckersymbol in der [Werkzeugleiste](../Reporting/Report_bearbeiten/ErsteSchritte_Kurzuebersicht.md).
 
 Der aktuelle Report wird im RZL PDF-Drucker geöffnet und kann von dort aus direkt gespeichert, gedruckt oder per E-Mail versendet werden.
 

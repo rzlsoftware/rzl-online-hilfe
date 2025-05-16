@@ -4,13 +4,12 @@ Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das
 
 ## RZL Musterreports LV
 
-Neben Statistikauswertungen können Sie auch Musterschreiben für Dienstzettel oder Dienstverträge von RZL übernehmen und nach Ihren individuellen Bedürfnissen einrichten. Eine aktuelle Übersicht zu den Musterreports finden Sie in der ZMV unter *Allg. Dateien / Installieren* im Registerblatt *Reports* oder im Kapitel 9 Auflistung Musterreports Seite [57](#auflistung-musterreports) ff beschrieben.
+Neben Statistikauswertungen können Sie auch Musterschreiben für Dienstzettel oder Dienstverträge von RZL übernehmen und nach Ihren individuellen Bedürfnissen einrichten. Eine aktuelle Übersicht zu den Musterreports finden Sie in der ZMV unter *Allg. Dateien / Installieren* im Registerblatt *Reports* oder unter [Musterreports](../Auflistung_Musterreports.md) beschrieben.
 
 !!! info "Tipp"
     Die RZL-Musterreports werden stetig erweitert. Neuerungen werden auch im Zuge der Programmaktualisierung in den RZL-Newslettern veröffentlicht.
 
-Diese können nach erfolgreicher Installation in der ZMV auf den gewünschten Klienten überspielt und anschließend individuell angepasst und abgeändert werden. Genauere Informationen zur Installation und Übertragung auf den Klienten finden Sie im Kapitel 1.2 Reports auf einen Klienten überspielen, Seite
-[7](#reports-auf-einen-klienten-überspielen).
+Diese können nach erfolgreicher Installation in der ZMV auf den gewünschten [Klienten überspielt](../Kanzleireports.md) und anschließend individuell angepasst und abgeändert werden.
 
 ## Liste der Lohnformeln
 

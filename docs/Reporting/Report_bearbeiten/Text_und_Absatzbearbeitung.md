@@ -1,6 +1,6 @@
 # Text- und Absatzbearbeitung
 
-Die Textverarbeitung bietet Ihnen neben standardisierten Gestaltungsmöglichkeiten wie Formatierungen, Tabellen oder Grafiken auch den Zugriff auf unterschiedlichste Programm-Klientendaten in Form von Formeln (Kapitel 5 Formeln, Seite [36](#formeln)). Der große Nutzen in der Formelanwendung liegt in der sofortigen Aktualisierung der Daten.
+Die Textverarbeitung bietet Ihnen neben standardisierten Gestaltungsmöglichkeiten wie Formatierungen, Tabellen oder Grafiken auch den Zugriff auf unterschiedlichste Programm-Klientendaten in Form von [Formeln](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md). Der große Nutzen in der Formelanwendung liegt in der sofortigen Aktualisierung der Daten.
 
 !!! info "Tipp"
     Blenden Sie sich zur Bearbeitung des Reports die Absatzmarken und den verborgenen Text ein, damit erleichtern Sie sich die Bearbeitung und Layoutgestaltung.
@@ -42,7 +42,7 @@ In der Werkzeugleiste stehen folgende Möglichkeiten zur Text-/Absatzformatierun
 
 **Ausblendung mit Bedingungsformel**
 
-Mit Hilfe einer Bedingungsformel werden Absätze nur gedruckt, wenn die im Absatz integrierte Formel erfüllt wird. Die Einrichtung der Bedingungsformel ist im Kapitel 5.1.7, Seite [45](#anwendung-von-bedingungsformeln) beschrieben.
+Mit Hilfe einer [Bedingungsformel](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) werden Absätze nur gedruckt, wenn die im Absatz integrierte Formel erfüllt wird.
 
 Der betroffene Absatz wird im Bearbeitungsmodus grau dargestellt. Sofern die im Absatz hinterlegte Bedingung erfüllt ist, ist der Text beim Ausdruck sichtbar. Am linken Seitenbereich erscheint zusätzlich ein grüner Balken. Bei Nichterfüllung der Bedingung erscheint der Balken im linken Seitenbereich rot, der Text wird beim Druck somit ausgeblendet.
 
@@ -54,8 +54,7 @@ Bestimmte Bereiche in Reports können mit Eingabefeldern ausgestattet sein, um d
 
 **Ein Beispiel** hierfür ist der Unternehmensreport.
 
-Grün markierte Felder können mittels *Doppelklick*, oder *F4-Taste* bearbeitet werden. Wird beispielsweise beim Punkt *Eingabe Monat* 3 eingetragen, wird der Unternehmensreport für März erstellt. Die Kästchen sind Optionen, die entweder dazu oder weggeschalten werden können. Die Texte der KER-Gliederungen und die KER-Gliederungen selbst, können entweder mittels Formel oder manuell eingetragen werden. Soll die Eingabe beendet werden kann der
-Eingabedialog mit der *ESC-Taste*, oder der Tastenkombination *Return + Enter-Taste* geschlossen werden.
+Grün markierte Felder können mittels *Doppelklick*, oder *F4-Taste* bearbeitet werden. Wird beispielsweise beim Punkt *Eingabe Monat* 3 eingetragen, wird der Unternehmensreport für März erstellt. Die Kästchen sind Optionen, die entweder dazu oder weggeschalten werden können. Die Texte der KER-Gliederungen und die KER-Gliederungen selbst, können entweder mittels Formel oder manuell eingetragen werden. Soll die Eingabe beendet werden kann der Eingabedialog mit der *ESC-Taste*, oder der Tastenkombination *Return + Enter-Taste* geschlossen werden.
 
 ![Image](img/image44.png){width="400"}
 
@@ -75,7 +74,7 @@ Das Eingabefeld wird nun in gelber Farbe dargestellt. Sie müssen nun noch defin
 
 ![Image](img/image46.png)
 
-Wir empfehlen das Häkchen bei *Nicht löschbar* zu setzen, damit das Eingabefeld nicht versehentlich gelöscht werden kann. Beim Punkt *Direkteingabe* müssen Sie noch einstellen, um welche Eingabe es sich handelt (Kapitel 3.6.5 Formel, Seite [25](#formel-eigenschaftsfenster)).
+Wir empfehlen das Häkchen bei *Nicht löschbar* zu setzen, damit das Eingabefeld nicht versehentlich gelöscht werden kann. Beim Punkt [*Direkteingabe*](../Eigenschaftsfenster/Formel.md) müssen Sie noch einstellen, um welche Eingabe es sich handelt.
 
 Im Anschluss wird das Eingabefeld grün dargestellt. Sie können nun Ihre Eingaben mit einem *Doppelklick*, oder mit der *F4-Taste,* auf das grüne Feld ändern.
 
@@ -97,7 +96,7 @@ Die Positionierung der Tabulatoren ist mit Hilfe des Lineals möglich. Klicken S
 Mit einem Doppelklick auf den Tabstopp im Lineal wird das Eigenschaftsfenster zur Ausrichtung und Positionierung geöffnet und es können Änderungen durchgeführt werden. Ein manuell ausgerichteter Tabstopp kann durch anklicken und verschieben außerhalb des Lineals wieder gelöscht werden.
 
 !!! warning "Hinweis"
-    Die Ausrichtung von Absätzen bzw. komplexeren Formatierungen innerhalb eines Absatzes können oft in einer Tabelle schneller und präziser gelöst werden (Kapitel 6.1 Arbeiten mit Tabellen, Seite [49](#arbeiten-mit-tabellen)).
+    Die Ausrichtung von Absätzen bzw. komplexeren Formatierungen innerhalb eines Absatzes können oft in einer [Tabelle](../Tabelle.md) schneller und präziser gelöst werden.
 
 Soll der Tabulator mit einem Füllzeichen .... ausgefüllt werden, so besteht die Möglichkeit über den Menüpunkt *Ansicht / Eigenschaftsfenster / Tabulator* das Füllzeichen auszuwählen. Ein praktisches Beispiel hierfür wäre die Erstellung eines Inhaltsverzeichnisses über den *Report Designer*.
 

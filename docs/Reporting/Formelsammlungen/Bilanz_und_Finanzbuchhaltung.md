@@ -4,7 +4,7 @@ Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das
 
 ## RZL Musterreports Finanzbuchhaltung und Bilanz
 
-Neben Briefvorlagen für Mahnungen können Sie auch unterschiedliche Musteranhänge, Checklisten oder Kennzahlenanalysen für Ihre Jahresabschlüsse übernehmen und nach Ihren individuellen Bedürfnissen einrichten. Eine aktuelle Übersicht finden Sie in der *ZMV* unter *Allg. Dateien / Installieren* im Registerblatt *Reports* oder im Kapitel 9 Auflistung Musterreports Seite [57] (#auflistung-musterreports) ff beschrieben.
+Neben Briefvorlagen für Mahnungen können Sie auch unterschiedliche Musteranhänge, Checklisten oder Kennzahlenanalysen für Ihre Jahresabschlüsse übernehmen und nach Ihren individuellen Bedürfnissen einrichten. Eine aktuelle Übersicht finden Sie in der *ZMV* unter *Allg. Dateien / Installieren* im Registerblatt *Reports* oder unter [Auflistung Musterreports](../Auflistung_Musterreports.md) beschrieben.
 
 !!! info "Tipp"
     Die RZL-Musterreports werden stetig erweitert. Neuerungen werden auch im Zuge der RZL-Programmaktualisierung in den  RZL-Newslettern veröffentlicht.
@@ -418,11 +418,7 @@ Die folgenden Formeln sind für Mahnvorlagen in der RZL-Finanzbuchhaltung anwend
 
 ### Allgemein
 
-Siehe Kapitel []{.mark}1 []{.mark}Kanzleireports, Seite []{.mark}[7](#kanzleireports) ff.
-
-### Klientendaten
-
-Siehe Kapitel 12.2.2 Klientendaten, Seite [87](#klientendaten).
+Siehe Kapitel [Kanzleireports](../Kanzleireports.md)
 
 ### Bankkonten des Klienten
 

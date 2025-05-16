@@ -37,12 +37,12 @@ Sollte nach Anwendung dieser Formatvorlage eine bestimmte Formatierung im nächs
 
 ## Zahlenformatvorlagen
 
-Um Berechnungen im Report durchführen zu können, müssen Zahlenwerte mit Hilfe von Formeln eingegeben werden (Kapitel 5 Formeln, Seite [36](#formeln)). Einzelne Zahlenwerte wie Datum, Eurobeträge oder Angaben zu einer Dauer können anschließend mit Hilfe der *Formeleigenschaften* individuell gestaltet werden.
+Um Berechnungen im Report durchführen zu können, müssen Zahlenwerte mit Hilfe von [Formeln](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) eingegeben werden. Einzelne Zahlenwerte wie Datum, Eurobeträge oder Angaben zu einer Dauer können anschließend mit Hilfe der *Formeleigenschaften* individuell gestaltet werden.
 
 Zahlenformatvorlagen erleichtern Ihnen dabei die schnellere Formatierung von Formeln. Durch das einmalige Anlegen einer Formatvorlage kann diese Formatierung sehr schnell mittels Drop-Down Auswahl in der Werkzeugleiste auf einen Formelwert angewendet werden.
 
-Im Menüpunkt *Bearbeiten / Zahlenformatvorlage* können Sie neue Formatvorlagen anlegen bzw. bestehende verändern. Eine genaue Erläuterung der einzelnen Felder finden Sie im Kapitel 5.1.5, Seite [43](#formatieren-von-formeln).
+Im Menüpunkt *Bearbeiten / Zahlenformatvorlage* können Sie neue Formatvorlagen anlegen bzw. bestehende verändern.
 
 ## Farbformatvorlagen
 
-Farbformatvorlagen werden für die Farbgestaltung von Diagrammen verwendet und können unter *Bearbeiten / Farbformatvorlagen* neu angelegt und gespeichert werden. Diese dort eingestellten Farben werden bei der Gestaltung von Diagrammen verwendet (Kapitel 2.3.3 Farbformatvorlagen, Seite [19] #farbformatvorlagen)).
+Farbformatvorlagen werden für die Farbgestaltung von Diagrammen verwendet und können unter *Bearbeiten / Farbformatvorlagen* neu angelegt und gespeichert werden. Diese dort eingestellten Farben werden bei der Gestaltung von Diagrammen verwendet.

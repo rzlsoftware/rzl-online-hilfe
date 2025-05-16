@@ -17,13 +17,13 @@ Das Formeldialogfenster dient zur Erstellung und Bearbeitung der Formeln und kan
 
 Hier können Sie zwischen den einzelnen Anwendungsarten wechseln:
 
-- *Formel in Text* -- F7-Taste (Kapitel 5.1.2 Berechnungen, Seite [37](#berechnungen))
-- *Bedingungsformel* -- F8-Taste (Kapitel Anwendung von Bedingungsformeln, Seite [45](#anwendung-von-bedingungsformeln)) 
-- *Tabelle* -- F9-Taste (Kapitel 5.1.9 Arbeiten mit Formeltabellen, Seite [47](#arbeiten-mit-formeltabellen))
+- [*Formel in Text*](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) - F7-Taste
+- [*Bedingungsformel*](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) - F8-Taste
+- [*Tabelle*](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) - F9-Taste
 
 ### Formel im Text
 
-Eingabefeld bzw. Auswahl der gewünschten Formel. Solange die eingegebene Formel nicht vollständig bzw. korrekt eingegeben wurde, wird der Rahmen des Dialogfensters rot markiert. Eine genauere Erläuterung zur richtigen Formeleingabe finden Sie im nächsten Kapitel 5.1.2 Berechnungen, Seite [37](#berechnungen).
+Eingabefeld bzw. Auswahl der gewünschten [Formel](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md). Solange die eingegebene Formel nicht vollständig bzw. korrekt eingegeben wurde, wird der Rahmen des Dialogfensters rot markiert.
 
 ### Kontext Info
 
@@ -85,7 +85,7 @@ Auswahl der Formatvorlage *Zahlen-Standard* und Eingabe im Formeldialog:
 Mit der Enter-Taste bzw. der Schaltfläche *Formel in Text einfügen* wird der Wert übernommen.
 
 !!! info "Tipp"
-    Die Formatierung des Ergebnisses ist vom ausgewählten Zahlenformat abhängig. Sie können diese jederzeit durch Markieren des Wertes und Änderung der Zahlenformatvorlage mittels Auswahl in der Werkzeugleiste anpassen (Kapitel 2.3.2 Zahlenformatvorlagen, Seite [19](#zahlenformatvorlagen)).
+    Die Formatierung des Ergebnisses ist vom ausgewählten Zahlenformat abhängig. Sie können diese jederzeit durch Markieren des Wertes und Änderung der [Zahlenformatvorlage](../Report_bearbeiten/Formatvorlagen.md) mittels Auswahl in der Werkzeugleiste anpassen.
 
 ### Textformeln
 
@@ -106,7 +106,7 @@ Wählen Sie dazu die Funktion *WENN()* aus. Im Parameter wird zunächst die Bedi
 
 ### Boolsche Formeln / Wahrheitswerte
 
-Eine sogenannte „Boolsche Formel" kann als Ergebnis nur WAHR oder FALSCH ausweisen. Die von Ihnen eingegebenen Parameter treffen entweder zu, oder nicht. Sie werden im Zusammenhang mit Bedingungsformeln (Kapitel 5.1.7 Andruck durch Bedingungen, Seite [45](#andruck-durch-bedingungen)) verwendet.
+Eine sogenannte „Boolsche Formel" kann als Ergebnis nur WAHR oder FALSCH ausweisen. Die von Ihnen eingegebenen Parameter treffen entweder zu, oder nicht. Sie werden im Zusammenhang mit [Bedingungsformeln](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md)  verwendet.
 
 | **Art**   | **Operator** | **Beschreibung** |
 | --------- | ------------ | ---------------- |
@@ -115,14 +115,14 @@ Eine sogenannte „Boolsche Formel" kann als Ergebnis nur WAHR oder FALSCH auswe
 | Wert      | WAHR         | Wert WAHR        |
 | Wert      | FALSCH       | Wert FALSCH      |
 
-### Datum[]{.indexref entry="Formeln:Datumsformeln"}
+### Datum
 
 | **Funktion**                        | **Beschreibung**                                                   |
 | ----------------------------------- | ------------------------------------------------------------------ |
 | Datum(Tag;Monat;Jahr)               | Darstellung des eingegebenen Datums in der aktuellen Formatvorlage |
 | Datum(Tag;Monat;Jahr;Stunde;Minute) | Stunde/Minute können optional ergänzt werden                       |
 
-Mit Hilfe der Datumsformel kann ein Datum in unterschiedlichen Formaten dargestellt werden. Bei der Datumseingabe sind die Werte *Tag, Monat* und *Jahr* verpflichtend zu definieren. *Stunde* und *Minute* können optional ergänzt werden. Nach Eingabe der Werte können Sie die gewünschten Änderungen der Formatierung (z.B. Anzeige eines Wochentages) im *Formel-Eigenschaftsfenster* durchführen (Kapitel 5.1.5 Formatieren von Formeln, Seite [43] #formatieren-von-formeln)).
+Mit Hilfe der Datumsformel kann ein Datum in unterschiedlichen Formaten dargestellt werden. Bei der Datumseingabe sind die Werte *Tag, Monat* und *Jahr* verpflichtend zu definieren. *Stunde* und *Minute* können optional ergänzt werden. Nach Eingabe der Werte können Sie die gewünschten Änderungen der Formatierung (z.B. Anzeige eines Wochentages) im [*Formel-Eigenschaftsfenster*](../Eigenschaftsfenster/Formel.md) durchführen.
 
 ### Dauer
 
@@ -185,14 +185,13 @@ Funktionen sind mit der *F3-Taste* im Formeldialog jederzeit aufrufbar und werde
 | Wenn(Bedingung;Dann;Sonst)                                                                                                      | Auswertung der eingegebenen Bedingung. Ist die Bedingung WAHR, dann wird der Dann-Wert ausgegeben, bei einer FALSCH-Bedingung der Sonst-Wert. |
 | ZeilenZusammenfassen(Datenquelle;Maximale Zeilenanzahl;Bezeichnungsspaltennummer;Zusammenfassungsbezeichnung;Wertspaltennummer) | Maximale Anzahl der Diagrammwert in einem Diagramm darstellen                                                                                 |
 
-### Beispiel Darstellung der Dauer[]{.indexref entry="Lohnformeln:Dauer"} {#beispiel-darstellung-der-dauer-1 .Überschrift-4---VG}
+### Beispiel Darstellung der Dauer
 
 Ein Dienstnehmer ist von 1. Juni bis 15. November 2019 bei Ihnen angestellt. Sie möchten die Dauer in Tagen ausgeben:
 
-1.  Geben Sie die Formel Dauer(Datum(15;11;2019);DATUM(1;6:2019)) im Formeldialog ein. Achten Sie darauf, dass der höhere Wert immer an
-    erster Stelle steht.
+1.  Geben Sie die Formel Dauer(Datum(15;11;2019);DATUM(1;6:2019)) im Formeldialog ein. Achten Sie darauf, dass der höhere Wert immer an erster Stelle steht.
 
-2.  Ändern Sie anschließend im *Formel-Eigenschaftsfenster* das     Dauerformat auf Tage um. Das Tagesformat ist mit der Option Immer anzeigen, alle anderen Formate mit der Option Nicht anzeigen zu definieren.
+2.  Ändern Sie anschließend im *Formel-Eigenschaftsfenster* das Dauerformat auf Tage um. Das Tagesformat ist mit der Option Immer anzeigen, alle anderen Formate mit der Option Nicht anzeigen zu definieren.
 
 Nun werden nur noch die Tage in der Formel ausgegeben.
 
@@ -233,7 +232,7 @@ Sofern in der verwendeten Formel auch ein Zeitraum (Jahr oder Monat) erfasst wir
  
 ### Formel einfügen
 
-Nach Abschluss der korrekten Formeleingabe können Sie diese über *Formel in Text einfügen* oder mit Hilfe der *Enter-Taste* in den Report übernehmen. Die Formel kann anschließend nach Ihren Wünschen formatiert werden (Kapitel 5.1.5 Formatieren von Formeln , Seite [43](#formatieren-von-formeln)).
+Nach Abschluss der korrekten Formeleingabe können Sie diese über *Formel in Text einfügen* oder mit Hilfe der *Enter-Taste* in den Report übernehmen. Die [Formel](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) kann anschließend nach Ihren Wünschen formatiert werden.
 
 ### Beispiel Einfügen von KER-Werten
 
@@ -322,7 +321,7 @@ Im Formellistendialog können Sie bestehende benannte Formeln aufrufen, verwalte
 
 ### Definition
 
-Möchten Sie Teilbereiche eines Reports nur andrucken, wenn bestimmte Werte vorhanden/erfüllt bzw. nicht vorhanden/nicht erfüllt sind, eignet sich die Hinterlegung einer Bedingungsformel in Form einer boolschen Formel (Kapitel 5.1.2 Berechnungen, Seite [37](#berechnungen)).
+Möchten Sie Teilbereiche eines Reports nur andrucken, wenn bestimmte Werte vorhanden/erfüllt bzw. nicht vorhanden/nicht erfüllt sind, eignet sich die Hinterlegung einer Bedingungsformel in Form einer [boolschen Formel](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md).
 
 ### Anwendung von Bedingungsformeln
 
@@ -368,14 +367,16 @@ Aufgrund der farblichen Markierung im linken Seitenbereich des Dokuments sind hi
 
 - **Gelb:** Im Absatz sind mehrere Bedingungen hinterlegt und nicht zur Gänze erfüllt. Im Ausdruck werden nur die erfüllten Bedingungen angedruckt.
 
-Bei einem blau markierten Bereich handelt es sich nicht um eine Bedingungsformel. Hier wurde der Text bewusst ausgeblendet (Kapitel 2.1.2 Nützliche Shortcuts und Symbole, Seite [13](#texteabsätze-ausblenden)).
+Bei einem blau markierten Bereich handelt es sich nicht um eine Bedingungsformel. Hier wurde der Text bewusst [ausgeblendet](../Report_bearbeiten/Text_und_Absatzbearbeitung.md).
 
 !!! info "Tipp"
     Bedingungen werden durch ausblenden nicht gelöscht, sondern nur auf „inaktiv" gesetzt.
 
 ## Arbeiten mit Tabellenformeln
 
-Mit einer sogenannten Tabellenformel können Sie eine Formel mit einer Referenz auf einen oder mehrere Werte einer Tabelle einfügen. Das Einfügen funktioniert analog zum Zugriff auf Klientendaten (Kapitle 5.1.3 Datenzugriff auf Klientendaten, Seite [42](#datenzugriff-auf-klientendaten)). Folgende Formeleingabe bietet Ihnen Zugriff auf Tabellenwerte:
+Mit einer sogenannten Tabellenformel können Sie eine Formel mit einer Referenz auf einen oder mehrere Werte einer Tabelle einfügen. Das Einfügen funktioniert analog zum Zugriff auf [Klientendaten](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md). 
+
+Folgende Formeleingabe bietet Ihnen Zugriff auf Tabellenwerte:
 
 *Tabellenname.Zeile().Spalte().Wert*
 

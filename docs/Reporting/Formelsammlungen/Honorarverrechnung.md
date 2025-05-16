@@ -4,7 +4,7 @@ Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das
 
 ## RZL Notenvorlage Erweitert
 
-Eine aktuelle Übersicht finden Sie in der ZMV unter *Allg. Dateien* / *Installieren* im Registerblatt *Reports* oder im Kapitel 9 Auflistung Musterreports Seite [57](#auflistung-musterreports) ff beschrieben.
+Eine aktuelle Übersicht finden Sie in der ZMV unter *Allg. Dateien* / *Installieren* im Registerblatt *Reports* oder unter [Auflistung Musterreports](../Auflistung_Musterreports.md) beschrieben.
 
 !!! info "Tipp"
     RZL bietet Ihnen Musterhonorarnotenvorlagen in Form eines Reports mit der Nummer *300-RZL Muster Notenvorlagen* an. Diese können auf den gewünschten Klienten überspielt und anschließend abgeändert werden. Die notwendigen Einstellungen betreffend des Klienten in der RZL-Honorarverrechnung finden Sie in der Kurzanleitung *Notenvorlage Erweitert*, welche über *Hilfe / Kurzanleitungen* im Honorarprogramm aufgerufen werden kann.

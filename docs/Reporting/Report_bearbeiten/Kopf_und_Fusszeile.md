@@ -30,4 +30,4 @@ Damit die Ziffer richtig ausgewiesen wird treffen Sie beim Zahlenformat, welches
 Ändern Sie die Position vom Währungssymbol auf *Nicht anzeigen*. Stellen Sie bei den Dezimalzahlen *Keine* ein. Anschließend wird Ihnen die Seitennummer wie gewünscht formatiert.
 
 !!! info "Tipp"
-    Es können auch **Firmenlogos/Grafiken** in der Kopf-/Fußzeile hinterlegt werden. Stellen Sie dazu den Cursor auf den gewünschten Bereich in der Kopf-/Fußzeile und wählen Sie im Menüpunkt *Einfügen / Grafik* die gewünschte Grafik aus (Kapitel 4.1 Grafik, Seite [33](#grafik)).
+    Es können auch **Firmenlogos/Grafiken** in der Kopf-/Fußzeile hinterlegt werden. Stellen Sie dazu den Cursor auf den gewünschten Bereich in der Kopf-/Fußzeile und wählen Sie im Menüpunkt *Einfügen / Grafik* die gewünschte [Grafik](../Einfuegen.md) aus.

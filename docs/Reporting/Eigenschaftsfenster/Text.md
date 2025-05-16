@@ -1,6 +1,6 @@
 # Text
 
-Formatierungen eines Textes können neben der Werkzeugleiste (siehe Kapitel 2.1.1 Die Werkzeugleiste für Text-/Absatzformatierungen, Seite [13](#die-werkzeugleiste-für-text-absatzformatierungen)) auch im Texteigenschaftsfenster durchgeführt werden. Das Fenster kann im Menüpunkt *Ansicht / Eigenschaftsfenster / Text* oder im Kontextmenü *Texteigenschaften* aufgerufen werden:
+Formatierungen eines Textes können neben der [Werkzeugleiste](../Report_bearbeiten/Text_und_Absatzbearbeitung.md) auch im Texteigenschaftsfenster durchgeführt werden. Das Fenster kann im Menüpunkt *Ansicht / Eigenschaftsfenster / Text* oder im Kontextmenü *Texteigenschaften* aufgerufen werden:
 
 ![Image](img/image69.png)
 

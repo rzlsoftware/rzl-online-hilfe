@@ -16,7 +16,7 @@ Grafiken können in Tabellenzellen eingefügt werden.
 
 Mit dem Menüpunkt *Einfügen / Manueller Seitenumbruch* oder der Tastenkombination *Strg+Enter* wird ein manueller Seitenumbruch im aktuell markierten Dokumentenbereich eingefügt.
 
-Seitenübergreifende Absätze werden grundsätzlich automatisch getrennt. Um mehrere Absätze bewusst auf einer Seite darzustellen, können Sie diese miteinander verknüpfen. Markieren Sie dazu den gewünschten Absatz und setzen Sie im *Absatzeigenschaftsfenster* die Option *Mit nächstem Absatz zusammenhalten* (siehe Kapitel 3.6.2 Absatz-Eigenschaftsfenster, Seite [23](#absatz-eigenschaftsfenster))*.*
+Seitenübergreifende Absätze werden grundsätzlich automatisch getrennt. Um mehrere Absätze bewusst auf einer Seite darzustellen, können Sie diese miteinander verknüpfen. Markieren Sie dazu den gewünschten Absatz und setzen Sie im [*Absatzeigenschaftsfenster*](../Reporting/Eigenschaftsfenster/Absatz.md) die Option *Mit nächstem Absatz zusammenhalten*.
 
 ## Abschnittswechsel
 
@@ -32,31 +32,25 @@ Soll ein Text durch Eingabe eines Leerzeichens nicht getrennt werden, dann geben
 
 ## Formel
 
-Über *Einfügen / Formel* öffnet sich das Formel-Fenster und Sie können eine Formel anlegen.
+Über *Einfügen / Formel* öffnet sich das [Formel-Fenster](../Reporting/Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) und Sie können eine Formel anlegen.
 
 ![Image](img/image84.png)
 
-Näheres zur Anlage einer Formel finden Sie im Kapitel 5.1 Einfügen und Bearbeiten von Formeln ab Seite [36](#einfügen-und-bearbeiten-von-formeln).
-
 ## Tabelle
 
-Über *Einfügen / Tabelle* können Sie eine Tabelle in den Report einfügen. Es öffnet sich nachstehendes Fenster. In diesem Dialog können Sie einen *Tabellennamen*, die *Spalten- und Zeilenanzahl* vergeben, sowie auswählen, ob eine *Kopfzeile eingefügt* werden soll.
+Über *Einfügen / [Tabelle](../Reporting/Tabelle.md)* können Sie eine Tabelle in den Report einfügen. Es öffnet sich nachstehendes Fenster. In diesem Dialog können Sie einen *Tabellennamen*, die *Spalten- und Zeilenanzahl* vergeben, sowie auswählen, ob eine *Kopfzeile eingefügt* werden soll.
 
 ![Image](img/image85.png)
-
-Mehr Details zu den Tabellen finden Sie im Kapitel 6.1 Arbeiten mit Tabellen, Seite [49](#arbeiten-mit-tabellen) und im Kapitel 5.1.8 Arbeiten mit Tabellenformeln, Seite [46](#arbeiten-mit-tabellenformeln).
 
 ## Formeltabelle
 
-Über *Einfügen / Formeltabelle* können Sie eine Tabelle mit Formelfunktion in den Report einfügen. Sie werden nach Anwahl des Menüpunkts auf den *Formeldialog* verwiesen. Geben Sie hier die Formel für die Tabelle ein. Nachdem Sie *Tabelle einfügen* angeklickt haben, öffnet sich das Fenster für *Neue Tabelle einfügen*.
+Über *Einfügen / [Formeltabelle](../Reporting/Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md)* können Sie eine Tabelle mit Formelfunktion in den Report einfügen. Sie werden nach Anwahl des Menüpunkts auf den *Formeldialog* verwiesen. Geben Sie hier die Formel für die Tabelle ein. Nachdem Sie *Tabelle einfügen* angeklickt haben, öffnet sich das Fenster für *Neue Tabelle einfügen*.
 
 ![Image](img/image85.png)
 
-Mehr Details zu den Formeltabellen finden Sie im Kapitel 6.1 Arbeiten mit Tabellen, Seite [49](#arbeiten-mit-tabellen) und im Kapitel 5.1.9 Arbeiten mit Formeltabellen, Seite [47](#arbeiten-mit-formeltabellen) 
-
 ## Diagramm
 
-Grundvoraussetzung zur Erstellung eines Diagrammes ist eine bestehende Datenquelle in Form einer Tabelle bei der die Werte in Form einer Formel eingegeben wurden. Sollte die Tabelle im ausgedruckten Report anschließend nicht sichtbar sein, kann sie für die Ausgabe ausgeblendet werden. Das Ausblenden von einzelnen Bereichen finden Sie im Kapitel 2.1.2 Texte/Absätze ausblenden, Seite [13](#texteabsätze-ausblenden).
+Grundvoraussetzung zur Erstellung eines Diagrammes ist eine bestehende Datenquelle in Form einer Tabelle bei der die Werte in Form einer Formel eingegeben wurden. Sollte die Tabelle im ausgedruckten Report anschließend nicht sichtbar sein, kann sie für die [Ausgabe ausgeblendet](../Reporting/Report_bearbeiten/Text_und_Absatzbearbeitung.md) werden.
 
 !!! info "Tipp"
     Scheint eine Datenquelle im Report nicht auf, d.h. auch nicht ausgegraut, können Sie diese in den *Diagrammeigenschaften* durch Anwahl der Option *Datenquelle ausblenden* wieder einblenden.
@@ -67,7 +61,7 @@ Grundvoraussetzung zur Erstellung eines Diagrammes ist eine bestehende Datenquel
 
 ### Diagramme formatieren
 
-Zur Formatierung der Diagramme stehen Ihnen die Diagrammeigenschaften zur Verfügung. Markieren Sie dazu im linken Randbereich das komplette Diagramm mit der linken Maustaste. Anschließend öffnen sich im Eigenschaftsfenster die Diagrammeigenschaften. Eine Erklärung zu den Diagrammeigenschaften finden Sie im Kapitel 3.6.10 Diagramm, Seite [30](#diagramm-eigenschaftsfenster).
+Zur Formatierung der Diagramme stehen Ihnen die Diagrammeigenschaften zur Verfügung. Markieren Sie dazu im linken Randbereich das komplette Diagramm mit der linken Maustaste. Anschließend öffnen sich im Eigenschaftsfenster die [Diagrammeigenschaften](../Reporting/Eigenschaftsfenster/Diagramm.md).
 
 ## Eledigtsymbol
 
