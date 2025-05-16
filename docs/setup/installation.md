@@ -74,7 +74,7 @@ zuzugreifen, wählen Sie bitte eine andere Installationsvariante
     wird im Zuge einer Einzelplatzinstallation automatisch auch diese
     Datenbank installiert. Die dafür notwendigen Eingaben müssen in der
     nachfolgenden zusätzlichen Einstellungsseite (4a) ergänzt werden.
-    Bitte beachten Sie hierzu [*Installation KIS/Board*](/setup/installation-kis-board) und [*Installation Firmen-Board mit Basis Modul*](/setup/installation-firmenboard).
+    Bitte beachten Sie hierzu [*Installation KIS/Board*](installation-kis-board.md) und [*Installation Firmen-Board mit Basis Modul*](installation-firmenboard.md).
    
     1.  Geben Sie in der zusätzlichen Einstellungsseite Ihre Anwendernummer ein.
         Falls der RZL-Dienst ebenfalls lokal installiert werden soll, können Sie
@@ -91,7 +91,7 @@ zuzugreifen, wählen Sie bitte eine andere Installationsvariante
     mit *Fertigstellen* schließen.
 
 6.  Anschließend können Sie die RZL-Programme starten. Beim ersten Start
-    werden Sie aufgefordert, die [*Lizenzierung*](/setup/lizenzierung)
+    werden Sie aufgefordert, die [*Lizenzierung*](lizenzierung.md)
     dieser Installation durchzuführen.
 
 ## Netzwerkarbeitsplatz einrichten
@@ -192,11 +192,11 @@ und wählen die Option *Expertenmodus*.
         erforderlich. Falls Sie eines dieser Programme ausgewählt haben, gelangen
         Sie beim Klick auf *Weiter* zu einer zusätzlichen Einstellungsseite (9a),
         in der Sie Datenbankeinstellungen vornehmen können. Bitte beachten Sie
-        hierzu [*Installation KIS/Board*](/setup/installation-kis-board) und [*Installation Firmen-Board mit Basis Modul*](/setup/installation-firmenboard).
+        hierzu [*Installation KIS/Board*](installation-kis-board.md) und [*Installation Firmen-Board mit Basis Modul*](installation-firmenboard.md).
 
     Abhängig von den eingesetzten Programmfunktionen kann es erforderlich sein,
     den *RZL-Dienst* zu installieren. Dieser kann im Bereich *Zusätzliche
-    Komponenten* ausgewählt werden. Bitte beachten Sie hierzu [*RZL Dienst installieren*](/setup/dienst-installieren).
+    Komponenten* ausgewählt werden. Bitte beachten Sie hierzu [*RZL Dienst installieren*](dienst-installieren.md).
 
     Klicken Sie auf *Weiter* bzw. *Aktionen durchführen*, um mit dem
     Installationsvorgang fortzufahren.  
