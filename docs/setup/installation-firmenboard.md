@@ -16,15 +16,15 @@ Bitte beachten Sie dass alle Schritte für eine vollständige Installation notwe
 ## Installation
 
 Für eine lokale Einzelplatz Installation folgen Sie bitte der Anleitung:
-[*Neue Einzelplatz Installation*](/setup/installation#neue-einzelplatz-installation).
+[*Neue Einzelplatz Installation*](installation.md#neue-einzelplatz-installation).
 
 Für eine Netzwerkinstallation folgen Sie der Anleitung
-[*Expertenmodus (Netzwerkinstallation)*](/setup/installation#expertenmodus-zb-fur-netzwerkinstallation).
+[*Expertenmodus (Netzwerkinstallation)*](installation.md#expertenmodus-zb-fur-netzwerkinstallation).
 
 ## RZL Programmlizenzierung
 
 Lizenzieren Sie das Programm gemäß der Anleitung:
-[*RZL Lizenzierung*](/setup/lizenzierung).
+[*RZL Lizenzierung*](lizenzierung.md).
 
 ## ZMV-Datenbank anlegen
 
@@ -34,7 +34,7 @@ Lassen Sie die ZMV-Datenbank automatisch anlegen.
 ## RZL Datenübernahme
 
 Falls eine Datensicherung vorhanden ist, übernehmen Sie diese
-jetzt ([siehe *RZL Daten wiederherstellen*](/setup/daten-wiederherstellen)).
+jetzt ([siehe *RZL Daten wiederherstellen*](daten-wiederherstellen.md)).
 Bei einer Neuinstallation können Sie diesen Punkt überspringen.
 
 ## ZMV Daten in die Datenbank übernehmen

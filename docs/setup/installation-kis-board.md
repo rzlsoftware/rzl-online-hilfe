@@ -26,7 +26,7 @@ Kanzlei vorzunehmen.
 
 ## Datenbankserver installieren
 
-Gehen Sie wie in Kapitel [*Expertenmodus*](/setup/installation#expertenmodus-zb-fur-netzwerkinstallation)
+Gehen Sie wie in Kapitel [*Expertenmodus*](installation.md#expertenmodus-zb-fur-netzwerkinstallation)
 beschrieben vor.
 
 ## Konfigurieren der Datenbank
