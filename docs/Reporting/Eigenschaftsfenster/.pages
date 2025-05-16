@@ -1,0 +1,13 @@
+nav:
+    - Abschnitt_Dokument.md
+    - Absatz.md
+    - Tabulator.md
+    - Text.md
+    - Formel.md
+    - Tabelle.md
+    - Tabellenzeile.md
+    - Tabellenspalte.md
+    - Tabellenzelle.md
+    - Diagramm.md
+    - Aufruf_Eigenschaftsfenster.md
+    - ...
