@@ -1,4 +1,5 @@
 nav:
+    - index.md 
     - Kanzleireports.md
     - Report_bearbeiten
     - Ansichten.md
