@@ -20,32 +20,32 @@ Für das RZL Lohnprogramm stehen Ihnen im Reporting-Modul die folgenden Lohnform
 
 ### Zeitraum
 
-| **Formel** |          |          |        | **Beschreibung**                                 |
-| ---------- | -------- | -------- | ------ | ------------------------------------------------ |
-| ZR().      | AktMonat |          |        | Zeigt das aktuelle Monat an                      |
-| ZR().      | Jahr().  | Jahr     |        | Zeigt das ausgewählte Jahr an                    |
-| ZR().      | Jahr().  | Anfang   |        | Zeigt den Beginn des aktuellen Jahres an         |
-| ZR().      | Jahr().  | Ende     |        | Zeigt das Ende des aktuellen Jahres an           |
-| ZR().      | Jahr().  | Monat(). | Anfang | Zeigt den ersten Tag des ausgewählten Monats an  |
-| ZR().      | Jahr().  | Monat(). | Ende   | Zeigt den letzten Tag des ausgewählten Monats an |
+| **Formel**                   | **Beschreibung**                                 |
+| ---------------------------- | ------------------------------------------------ |
+| `ZR().AktMonat`              | Zeigt das aktuelle Monat an                      |
+| `ZR().Jahr().Jahr`           | Zeigt das ausgewählte Jahr an                    |
+| `ZR().Jahr().Anfang`         | Zeigt den Beginn des aktuellen Jahres an         |
+| `ZR().Jahr().Ende`           | Zeigt das Ende des aktuellen Jahres an           |
+| `ZR().Jahr().Monat().Anfang` | Zeigt den ersten Tag des ausgewählten Monats an  |
+| `ZR().Jahr().Monat().Ende`   | Zeigt den letzten Tag des ausgewählten Monats an |
 
 ### Arbeitsstätte
 
-| **Formel**        |                    | **Beschreibung**                                      |
-| ----------------- | ------------------ | ----------------------------------------------------- |
-| Arbeitsstaette(). | Gemeinde           | Gemeinde der Arbeitsstätte                            |
-| Arbeitsstaette(). | GemeindeKennziffer | Gemeindekennziffer der Arbeitsstätte                  |
-| Arbeitsstaette(). | GemeindeNr         | Nummer der Gemeinde der Arbeitsstätte                 |
-| Arbeitsstaette(). | HausNrBis          | Hausnummer bis der Arbeitsstätte                      |
-| Arbeitsstaette(). | HausNrVon          | Hausnummer von der Arbeitsstätte                      |
-| Arbeitsstaette(). | Land               | Länderkennzeichen der Arbeitsstätte                   |
-| Arbeitsstaette(). | Nummer             | Nummer der Arbeitsstätte beim jeweiligen Dienstgebers |
-| Arbeitsstaette(). | Ortschaft          | Ort der Arbeitsstätte                                 |
-| Arbeitsstaette(). | Plz                | Postleitzahl der Arbeitsstätte                        |
-| Arbeitsstaette(). | Staat              | Staat -- nur bei ausländischer Arbeitsstätte          |
-| Arbeitsstaette(). | Stiege             | Stiegennummer der Arbeitsstätte                       |
-| Arbeitsstaette(). | Strasse            | Straße der Arbeitsstätte                              |
-| Arbeitsstaette(). | Tuer               | Türnummer der Arbeitsstätte                           |
+| **Formel**                            | **Beschreibung**                                      |
+| ------------------------------------- | ----------------------------------------------------- |
+| `Arbeitsstaette().Gemeinde`           | Gemeinde der Arbeitsstätte                            |
+| `Arbeitsstaette().GemeindeKennziffer` | Gemeindekennziffer der Arbeitsstätte                  |
+| `Arbeitsstaette().GemeindeNr`         | Nummer der Gemeinde der Arbeitsstätte                 |
+| `Arbeitsstaette().HausNrBis`          | Hausnummer bis der Arbeitsstätte                      |
+| `Arbeitsstaette().HausNrVon`          | Hausnummer von der Arbeitsstätte                      |
+| `Arbeitsstaette().Land`               | Länderkennzeichen der Arbeitsstätte                   |
+| `Arbeitsstaette().Nummer`             | Nummer der Arbeitsstätte beim jeweiligen Dienstgebers |
+| `Arbeitsstaette().Ortschaft`          | Ort der Arbeitsstätte                                 |
+| `Arbeitsstaette().Plz`                | Postleitzahl der Arbeitsstätte                        |
+| `Arbeitsstaette().Staat`              | Staat -- nur bei ausländischer Arbeitsstätte          |
+| `Arbeitsstaette().Stiege`             | Stiegennummer der Arbeitsstätte                       |
+| `Arbeitsstaette().Strasse`            | Straße der Arbeitsstätte                              |
+| `Arbeitsstaette().Tuer`               | Türnummer der Arbeitsstätte                           |
 
 ### Dienstgeber - Allgemein
 
@@ -327,9 +327,11 @@ Für das RZL Lohnprogramm stehen Ihnen im Reporting-Modul die folgenden Lohnform
 
 ### Dienstnehmer - Kollektivvertrag
 
-| **Formel** |          |                  |                           | **Beschreibung**                                                  |
-| ---------- | -------- | ---------------- | ------------------------- | ----------------------------------------------------------------- |
-| DN().      | Monat(). | KV().            | Nummer                    | Nummer des Kollektivvertrages                                     |
+| **Formel**                 | **Beschreibung**              |
+| -------------------------- | ----------------------------- |
+| `DN().Monat().KV().Nummer` | Nummer des Kollektivvertrages |
+
+
 | DN().      | Monat(). | KV().            | Name                      | Name des Kollektivvertrages                                       |
 | DN().      | Monat(). | KV().            | EinstufungBeg             | Beginn der Einstufung                                             |
 | DN().      | Monat(). | KV().            | Vordienstzeit             | Anzahl der Monate der Vordienstzeiten                             |
