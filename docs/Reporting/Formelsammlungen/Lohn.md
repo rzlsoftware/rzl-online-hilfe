@@ -20,14 +20,14 @@ Für das RZL Lohnprogramm stehen Ihnen im Reporting-Modul die folgenden Lohnform
 
 ### Zeitraum
 
-| **Formel**                   | **Beschreibung**                                 |
-| ---------------------------- | ------------------------------------------------ |
-| `ZR().AktMonat`              | Zeigt das aktuelle Monat an                      |
-| `ZR().Jahr().Jahr`           | Zeigt das ausgewählte Jahr an                    |
-| `ZR().Jahr().Anfang`         | Zeigt den Beginn des aktuellen Jahres an         |
-| `ZR().Jahr().Ende`           | Zeigt das Ende des aktuellen Jahres an           |
-| `ZR().Jahr().Monat().Anfang` | Zeigt den ersten Tag des ausgewählten Monats an  |
-| `ZR().Jahr().Monat().Ende`   | Zeigt den letzten Tag des ausgewählten Monats an |
+| **Formel**                                            | **Beschreibung**                                 |
+| ----------------------------------------------------- | ------------------------------------------------ |
+| `ZR().AktMonat`{ data-clipboard-text="ZR().AktMonat"} | Zeigt das aktuelle Monat an                      |
+| `ZR().Jahr().Jahr`                                    | Zeigt das ausgewählte Jahr an                    |
+| `ZR().Jahr().Anfang`                                  | Zeigt den Beginn des aktuellen Jahres an         |
+| `ZR().Jahr().Ende`                                    | Zeigt das Ende des aktuellen Jahres an           |
+| `ZR().Jahr().Monat().Anfang`                          | Zeigt den ersten Tag des ausgewählten Monats an  |
+| `ZR().Jahr().Monat().Ende`                            | Zeigt den letzten Tag des ausgewählten Monats an |
 
 ### Arbeitsstätte
 
