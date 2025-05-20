@@ -16,7 +16,16 @@ Anzeige der für diesen Monat bereits erledigten Meldungen.
 
 **ELDA-Meldungen prüfen**
 
-Hier wird festgelegt, ob die Elda-Meldungen geprüft werden sollen und somit im Ausdruck der *Offenen* oder *Erledigten Meldungen* aufscheinen.
+Hier wird festgelegt, ob die Elda-Meldungen geprüft werden sollen und somit im Ausdruck der *Offenen* oder *Erledigten Meldungen* aufscheinen. Über das Drop-down-Menü haben Sie die Möglichkeit, gezielt nach folgenden ELDA-Meldungsarten zu filtern:
+
+- alle ELDA-Meldungen
+- monatliche Beitragsgrundlagenmeldung (mBGM)
+- An- und Abmeldungen
+- Änderungsmeldungen
+- Jahreslohnzettel
+- Kommunalsteuererklärung
+- Dienstgeberabgabemeldung
+- Schwerarbeitsmeldung
 
 **Überweisungen prüfen**
 
