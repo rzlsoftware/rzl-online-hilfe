@@ -1,13 +1,13 @@
 # Formelsammlung für die Honorarverrechnung 
 
-Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das Reporting im Honorarverrechnungsprogramm.
+Im folgenden Kapitel finden Sie eine Auflistung der verfügbaren Formeln für das Reporting im Honorarverrechnungsprogramm.
 
 ## RZL Notenvorlage Erweitert
 
-Eine aktuelle Übersicht finden Sie in der ZMV unter *Allg. Dateien* / *Installieren* im Registerblatt *Reports* oder unter [Auflistung Musterreports](../Auflistung_Musterreports.md) beschrieben.
+Eine aktuelle Übersicht finden Sie in der ZMV unter *Allg. Dateien* / *Installieren* im Registerblatt *Reports* oder unter [Auflistung Musterreports](../Auflistung_Musterreports.md).
 
 !!! info "Tipp"
-    RZL bietet Ihnen Musterhonorarnotenvorlagen in Form eines Reports mit der Nummer *300-RZL Muster Notenvorlagen* an. Diese können auf den gewünschten Klienten überspielt und anschließend abgeändert werden. Die notwendigen Einstellungen betreffend des Klienten in der RZL-Honorarverrechnung finden Sie in der Kurzanleitung *Notenvorlage Erweitert*, welche über *Hilfe / Kurzanleitungen* im Honorarprogramm aufgerufen werden kann.
+    RZL bietet Ihnen Musterhonorarnotenvorlagen in Form eines Reports mit der Nummer *300-RZL Muster Notenvorlagen* an. Diese können auf den gewünschten Klienten überspielt und anschließend abgeändert werden.
 
 !!! info "Tipp"
     Die RZL-Musterreports werden stetig erweitert. Neuerungen werden auch im Zuge der RZL-Programmaktualisierung in den RZL-Newslettern veröffentlicht.
@@ -26,18 +26,18 @@ Die folgenden Formeln sind im Honorarverrechnungsprogramm anwendbar.
 
 ### Honorarnote Allgemein
 
-| **Formel**                                               | **Beschreibung**                                                   |
-| -------------------------------------------------------- | ------------------------------------------------------------------ |
-| `Note.Nr`{data-clipboard-text="Note.Nr"}                 | Notennummer                                                        |
-| `Note.Datum`{data-clipboard-text="Note.Datum"}           | Notendatum                                                         |
-| `Note.EMail`{data-clipboard-text="Note.EMail"}           | E-Mail                                                             |
-| `Note.Intern`{data-clipboard-text="Note.Intern"}         | „Wahr" wenn es sich um eine interne Note handelt                   |
-| `Note.Zeitraum`{data-clipboard-text="Note.Zeitraum"}     | Erfassungszeitraum; Zeitraum in dem die Leistungen erbracht wurden |
-| `Note.Zusatztext`{data-clipboard-text="Note.Zusatztext"} | Zusatztext; kann während der Notenerstellung eingegeben werden     |
+| **Formel**                                               | **Beschreibung**                                                    |
+| -------------------------------------------------------- | ------------------------------------------------------------------- |
+| `Note.Nr`{data-clipboard-text="Note.Nr"}                 | Notennummer                                                         |
+| `Note.Datum`{data-clipboard-text="Note.Datum"}           | Notendatum                                                          |
+| `Note.EMail`{data-clipboard-text="Note.EMail"}           | E-Mail-Adresse                                                      |
+| `Note.Intern`{data-clipboard-text="Note.Intern"}         | „Wahr", wenn es sich um eine interne Note handelt                   |
+| `Note.Zeitraum`{data-clipboard-text="Note.Zeitraum"}     | Erfassungszeitraum; Zeitraum, in dem die Leistungen erbracht wurden |
+| `Note.Zusatztext`{data-clipboard-text="Note.Zusatztext"} | Zusatztext; kann während der Notenerstellung eingegeben werden.     |
 
 ### Kanzleibereich (Rechnungssteller)
 
-Die Daten des Kanzleibereiches können vor allem für die Erstellung des Briefkopfes herangezogen werden
+Die Daten des Kanzleibereichs können vor allem für die Erstellung des Briefkopfes herangezogen werden.
 
 | **Formel**                                                                         | **Beschreibung**                    |
 | ---------------------------------------------------------------------------------- | ----------------------------------- |
@@ -53,37 +53,37 @@ Die Daten des Kanzleibereiches können vor allem für die Erstellung des Briefko
 
 ### Klient (Rechnungsempfänger)
 
-| **Formel**                                                                           | **Beschreibung**                                                                |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| `Note.Klient.Nr`{data-clipboard-text="Note.Klient.Nr"}                               | Nummer                                                                          |
-| `Note.Klient.Adressanrede`{data-clipboard-text="Note.Klient.Adressanrede"}           | Adressanrede                                                                    |
-| `Note.Klient.AkademischerGrad`{data-clipboard-text="Note.Klient.AkademischerGrad"}   | Vorangestellter akademischer Grad (zB „Mag.")                                   |
-| `Note.Klient.Gesamtname`{data-clipboard-text="Note.Klient.Gesamtname"}               | Zusammengesetzter Name inkl. Akademischer Grade, Vorname und Nachname           |
-| `Note.Klient.Vorname`{data-clipboard-text="Note.Klient.Vorname"}                     | Vorname                                                                         |
-| `Note.Klient.Nachname`{data-clipboard-text="Note.Klient.Nachname"}                   | Nachname                                                                        |
-| `Note.Klient.AkademischerGrad2`{data-clipboard-text="Note.Klient.AkademischerGrad2"} | Nachgestellter akademischer Grad (zB „MS")                                      |
-| `Note.Klient.Tätigkeit`{data-clipboard-text="Note.Klient.Tätigkeit"}                 | Art der Tätigkeit (bei Firmendaten) bzw. Beruf (bei Personendaten)              |
-| `Note.Klient.Strasse`{data-clipboard-text="Note.Klient.Strasse"}                     | Straße                                                                          |
-| `Note.Klient.PLZ`{data-clipboard-text="Note.Klient.PLZ"}                             | Postleitzahl                                                                    |
-| `Note.Klient.Ort`{data-clipboard-text="Note.Klient.Ort"}                             | Ort                                                                             |
-| `Note.Klient.Land`{data-clipboard-text="Note.Klient.Land"}                           | Langform (zB „Deutschland"); bei österreichischen Klienten bleibt das Feld leer |
-| `Note.Klient.Briefanrede`{data-clipboard-text="Note.Klient.Briefanrede"}             | Briefanrede                                                                     |
-| `Note.Klient.EMail`{data-clipboard-text="Note.Klient.EMail"}                         | E-Mail-Adresse                                                                  |
-| `Note.Klient.Kurzbezeichnung`{data-clipboard-text="Note.Klient.Kurzbezeichnung"}     | Kurzbezeichnung                                                                 |
-| `Note.Klient.UID`{data-clipboard-text="Note.Klient.UID"}                             | Umsatzsteuer-Identifikations-Nummer                                             |
+| **Formel**                                                                           | **Beschreibung**                                                                   |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| `Note.Klient.Nr`{data-clipboard-text="Note.Klient.Nr"}                               | Nummer                                                                             |
+| `Note.Klient.Adressanrede`{data-clipboard-text="Note.Klient.Adressanrede"}           | Adressanrede                                                                       |
+| `Note.Klient.AkademischerGrad`{data-clipboard-text="Note.Klient.AkademischerGrad"}   | Vorangestellter akademischer Grad (z. B. „Mag.")                                   |
+| `Note.Klient.Gesamtname`{data-clipboard-text="Note.Klient.Gesamtname"}               | Zusammengesetzter Name inkl. Akademischer Grade, Vorname und Nachname              |
+| `Note.Klient.Vorname`{data-clipboard-text="Note.Klient.Vorname"}                     | Vorname                                                                            |
+| `Note.Klient.Nachname`{data-clipboard-text="Note.Klient.Nachname"}                   | Nachname                                                                           |
+| `Note.Klient.AkademischerGrad2`{data-clipboard-text="Note.Klient.AkademischerGrad2"} | Nachgestellter akademischer Grad (z. B. „MS")                                      |
+| `Note.Klient.Tätigkeit`{data-clipboard-text="Note.Klient.Tätigkeit"}                 | Art der Tätigkeit (bei Firmendaten) bzw. Beruf (bei Personendaten)                 |
+| `Note.Klient.Strasse`{data-clipboard-text="Note.Klient.Strasse"}                     | Straße                                                                             |
+| `Note.Klient.PLZ`{data-clipboard-text="Note.Klient.PLZ"}                             | Postleitzahl                                                                       |
+| `Note.Klient.Ort`{data-clipboard-text="Note.Klient.Ort"}                             | Ort                                                                                |
+| `Note.Klient.Land`{data-clipboard-text="Note.Klient.Land"}                           | Langform (z. B. „Deutschland"); bei österreichischen Klienten bleibt das Feld leer |
+| `Note.Klient.Briefanrede`{data-clipboard-text="Note.Klient.Briefanrede"}             | Briefanrede                                                                        |
+| `Note.Klient.EMail`{data-clipboard-text="Note.Klient.EMail"}                         | E-Mail-Adresse                                                                     |
+| `Note.Klient.Kurzbezeichnung`{data-clipboard-text="Note.Klient.Kurzbezeichnung"}     | Kurzbezeichnung                                                                    |
+| `Note.Klient.UID`{data-clipboard-text="Note.Klient.UID"}                             | Umsatzsteuer-Identifikations-Nummer                                                |
 
 ### Zustellvertreter
 
-| **Formel**                                                                                     | **Beschreibung**                                                                |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| `Note.Zustellvertreter.Vorhanden`{data-clipboard-text="Note.Zustellvertreter.Vorhanden"}       | „Wahr" wenn ein Zustellvertreter vorhanden ist                                  |
-| `Note.Zustellvertreter.Adressanrede`{data-clipboard-text="Note.Zustellvertreter.Adressanrede"} | Adressanrede                                                                    |
-| `Note.Zustellvertreter.Name`{data-clipboard-text="Note.Zustellvertreter.Name"}                 | Name                                                                            |
-| `Note.Zustellvertreter.Funktion`{data-clipboard-text="Note.Zustellvertreter.Funktion"}         | Funktion                                                                        |
-| `Note.Zustellvertreter.Strasse`{data-clipboard-text="Note.Zustellvertreter.Strasse"}           | Straße                                                                          |
-| `Note.Zustellvertreter.PLZ`{data-clipboard-text="Note.Zustellvertreter.PLZ"}                   | Postleitzahl                                                                    |
-| `Note.Zustellvertreter.Ort`{data-clipboard-text="Note.Zustellvertreter.Ort"}                   | Ort                                                                             |
-| `Note.Zustellvertreter.Land`{data-clipboard-text="Note.Zustellvertreter.Land"}                 | Langform (zB „Deutschland"); bei österreichischen Klienten bleibt das Feld leer |
+| **Formel**                                                                                     | **Beschreibung**                                                                   |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| `Note.Zustellvertreter.Vorhanden`{data-clipboard-text="Note.Zustellvertreter.Vorhanden"}       | „Wahr" wenn ein Zustellvertreter vorhanden ist                                     |
+| `Note.Zustellvertreter.Adressanrede`{data-clipboard-text="Note.Zustellvertreter.Adressanrede"} | Adressanrede                                                                       |
+| `Note.Zustellvertreter.Name`{data-clipboard-text="Note.Zustellvertreter.Name"}                 | Name                                                                               |
+| `Note.Zustellvertreter.Funktion`{data-clipboard-text="Note.Zustellvertreter.Funktion"}         | Funktion                                                                           |
+| `Note.Zustellvertreter.Strasse`{data-clipboard-text="Note.Zustellvertreter.Strasse"}           | Straße                                                                             |
+| `Note.Zustellvertreter.PLZ`{data-clipboard-text="Note.Zustellvertreter.PLZ"}                   | Postleitzahl                                                                       |
+| `Note.Zustellvertreter.Ort`{data-clipboard-text="Note.Zustellvertreter.Ort"}                   | Ort                                                                                |
+| `Note.Zustellvertreter.Land`{data-clipboard-text="Note.Zustellvertreter.Land"}                 | Langform (z. B. „Deutschland"); bei österreichischen Klienten bleibt das Feld leer |
 
 ## Bereiche
 
@@ -94,26 +94,26 @@ In diesem Bereich werden die Tätigkeiten mit Umsatzsteuer-Pflicht dargestellt. 
 !!! warning "Hinweis"
     Die Klammern weisen darauf hin, dass mehrere Zeilen vorhanden sind.
 
-| **Formel**                                                                                                                                                                 | **Beschreibung**                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| `Note.Bereich.MitUSt.Klient().Nr`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Nr"}                                                                                   | Klientennummer                               |
-| `Note.Bereich.MitUSt.Klient().Name`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Name"}                                                                               | Klientenname                                 |
-| `Note.Bereich.MitUSt.Klient().Stunden`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Stunden"}                                                                         | Anzahl der Stunden für den Klienten          |
-| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Nr`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Nr"}                                           | Verrechnungskreis-Nummer                     |
-| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Bezeichnung`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Bezeichnung"}                         | Bezeichnung bzw. Text                        |
-| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Stunden`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Stunden"}                                 | Anzahl der Stunden                           |
-| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Zeitraum`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Zeitraum"}                               | Leistungszeitraum (wenn nach VK abgerechnet) |
-| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Betrag`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Betrag"}                                   | Betrag (wenn nach VK abgerechnet)            |
-| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Nr`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Nr"}                   | Nummer der Tätigkeit                         |
-| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Bezeichnung`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Bezeichnung"} | Bezeichnung bzw. Text                        |
-| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Einheiten`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Einheiten"}     | Anzahl der Einheiten                         |
-| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Stunden`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Stunden"}         | Anzahl der Stunden                           |
-| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Zeitraum`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Zeitraum"}       | Leistungszeitraum                            |
-| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Betrag`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Betrag"}           | Betrag                                       |
+| **Formel**                                                                                                                                                                 | **Beschreibung**                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| `Note.Bereich.MitUSt.Klient().Nr`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Nr"}                                                                                   | Klientennummer                                    |
+| `Note.Bereich.MitUSt.Klient().Name`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Name"}                                                                               | Klientenname                                      |
+| `Note.Bereich.MitUSt.Klient().Stunden`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Stunden"}                                                                         | Anzahl der Stunden für den Klienten               |
+| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Nr`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Nr"}                                           | Verrechnungskreis-Nummer                          |
+| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Bezeichnung`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Bezeichnung"}                         | Bezeichnung bzw. Text                             |
+| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Stunden`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Stunden"}                                 | Anzahl der Stunden                                |
+| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Zeitraum`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Zeitraum"}                               | Leistungszeitraum (wenn nach VK abgerechnet wird) |
+| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Betrag`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Betrag"}                                   | Betrag (wenn nach VK abgerechnet wird)            |
+| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Nr`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Nr"}                   | Nummer der Tätigkeit                              |
+| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Bezeichnung`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Bezeichnung"} | Bezeichnung bzw. Text                             |
+| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Einheiten`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Einheiten"}     | Anzahl der Einheiten                              |
+| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Stunden`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Stunden"}         | Anzahl der Stunden                                |
+| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Zeitraum`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Zeitraum"}       | Leistungszeitraum                                 |
+| `Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Betrag`{data-clipboard-text="Note.Bereich.MitUSt.Klient().Verrechnungskreis().Tätigkeit().Betrag"}           | Betrag                                            |
 
 ### Ohne Umsatzsteuer
 
-In diesem Bereich werden die Tätigkeiten ohne Umsatzsteuer-Pflicht dargestellt. Der Aufbau ist ident zum Bereich „Mit Umsatzsteuer".
+In diesem Bereich werden die Tätigkeiten ohne Umsatzsteuer-Pflicht dargestellt. Der Aufbau ist identisch zum Bereich „Mit Umsatzsteuer".
 
 | **Formel**                                                         | **Beschreibung**                 |
 | ------------------------------------------------------------------ | -------------------------------- |
@@ -152,7 +152,7 @@ In diesem Bereich werden die Akonto-Zeilen dargestellt. Je nach Einstellungen in
 | **Formel**                                                                                   | **Beschreibung**                         |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | `Note.Summe.NettoVorRabatt.Drucken`{data-clipboard-text="Note.Summe.NettoVorRabatt.Drucken"} | „Wahr", wenn Rabattzeilen vorhanden sind |
-| `Note.Summe.NettoVorRabatt.Text`{data-clipboard-text="Note.Summe.NettoVorRabatt.Text"}       | Text lt. Programmoptionen                |
+| `Note.Summe.NettoVorRabatt.Text`{data-clipboard-text="Note.Summe.NettoVorRabatt.Text"}       | Text laut Programmoptionen               |
 | `Note.Summe.NettoVorRabatt.Betrag`{data-clipboard-text="Note.Summe.NettoVorRabatt.Betrag"}   | Summe                                    |
 
 ### Nettosumme vor der Umsatzsteuer
@@ -160,7 +160,7 @@ In diesem Bereich werden die Akonto-Zeilen dargestellt. Je nach Einstellungen in
 | **Formel**                                                                 | **Beschreibung**                               |
 | -------------------------------------------------------------------------- | ---------------------------------------------- |
 | `Note.Summe.Netto.Drucken`{data-clipboard-text="Note.Summe.Netto.Drucken"} | „Wahr", wenn eine Umsatzsteuer auszuweisen ist |
-| `Note.Summe.Netto.Text`{data-clipboard-text="Note.Summe.Netto.Text"}       | Text lt. Programmoptionen                      |
+| `Note.Summe.Netto.Text`{data-clipboard-text="Note.Summe.Netto.Text"}       | Text laut Programmoptionen                     |
 | `Note.Summe.Netto.Betrag`{data-clipboard-text="Note.Summe.Netto.Betrag"}   | Summe                                          |
 
 ### Umsatzsteuer
@@ -168,7 +168,7 @@ In diesem Bereich werden die Akonto-Zeilen dargestellt. Je nach Einstellungen in
 | **Formel**                                                                               | **Beschreibung**                               |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | `Note.Summe.Umsatzsteuer.Drucken`{data-clipboard-text="Note.Summe.Umsatzsteuer.Drucken"} | „Wahr", wenn eine Umsatzsteuer auszuweisen ist |
-| `Note.Summe.Umsatzsteuer.Text`{data-clipboard-text="Note.Summe.Umsatzsteuer.Text"}       | Text lt. Programmoptionen                      |
+| `Note.Summe.Umsatzsteuer.Text`{data-clipboard-text="Note.Summe.Umsatzsteuer.Text"}       | Text laut Programmoptionen                     |
 | `Note.Summe.Umsatzsteuer.Prozent`{data-clipboard-text="Note.Summe.Umsatzsteuer.Prozent"} | Prozentsatz                                    |
 | `Note.Summe.Umsatzsteuer.Berag`{data-clipboard-text="Note.Summe.Umsatzsteuer.Berag"}     | Umsatzsteuerbetrag                             |
 
@@ -177,7 +177,7 @@ In diesem Bereich werden die Akonto-Zeilen dargestellt. Je nach Einstellungen in
 | **Formel**                                                                     | **Beschreibung**                                                                                              |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 | `Note.Summe.NachUSt.Drucken`{data-clipboard-text="Note.Summe.NachUSt.Drucken"} | „Wahr", wenn eine Umsatzsteuer auszuweisen ist und wenn im Bereich „ohne Umsatzsteuer" Zeilen vorhanden sind. |
-| `Note.Summe.NachUSt.Text`{data-clipboard-text="Note.Summe.NachUSt.Text"}       | Text lt. Programmoptionen                                                                                     |
+| `Note.Summe.NachUSt.Text`{data-clipboard-text="Note.Summe.NachUSt.Text"}       | Text laut Programmoptionen                                                                                    |
 | `Note.Summe.NachUSt.Betrag`{data-clipboard-text="Note.Summe.NachUSt.Betrag"}   | Summe                                                                                                         |
 
 ### Bruttosumme (Zwischensumme vor Akonto)
@@ -185,7 +185,7 @@ In diesem Bereich werden die Akonto-Zeilen dargestellt. Je nach Einstellungen in
 | **Formel**                                                                   | **Beschreibung**                          |
 | ---------------------------------------------------------------------------- | ----------------------------------------- |
 | `Note.Summe.Brutto.Drucken`{data-clipboard-text="Note.Summe.Brutto.Drucken"} | „Wahr", wenn Akonto-Zeilen vorhanden sind |
-| `Note.Summe.Brutto.Text`{data-clipboard-text="Note.Summe.Brutto.Text"}       | Text lt. Programmoptionen                 |
+| `Note.Summe.Brutto.Text`{data-clipboard-text="Note.Summe.Brutto.Text"}       | Text laut Programmoptionen                |
 | `Note.Summe.Brutto.Betrag`{data-clipboard-text="Note.Summe.Brutto.Betrag"}   | Summe                                     |
 
 ### Akonto Umsatzsteuer
@@ -193,7 +193,7 @@ In diesem Bereich werden die Akonto-Zeilen dargestellt. Je nach Einstellungen in
 | **Formel**                                                                                           | **Beschreibung**                                         |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | `Note.Summe.AkontoUmsatzsteuer.Drucken`{data-clipboard-text="Note.Summe.AkontoUmsatzsteuer.Drucken"} | „Wahr", wenn Akontozeilen mit USt-Ausweis vorhanden sind |
-| `Note.Summe.AkontoUmsatzsteuer.Text`{data-clipboard-text="Note.Summe.AkontoUmsatzsteuer.Text"}       | Text lt. Programmoptionen                                |
+| `Note.Summe.AkontoUmsatzsteuer.Text`{data-clipboard-text="Note.Summe.AkontoUmsatzsteuer.Text"}       | Text laut Programmoptionen                               |
 | `Note.Summe.AkontoUmsatzsteuer.Prozent`{data-clipboard-text="Note.Summe.AkontoUmsatzsteuer.Prozent"} | Prozentsatz                                              |
 | `Note.Summe.AkontoUmsatzsteuer.Betrag`{data-clipboard-text="Note.Summe.AkontoUmsatzsteuer.Betrag"}   | Umsatzsteuerbetrag                                       |
 
@@ -220,20 +220,20 @@ In diesem Bereich werden die Akonto-Zeilen dargestellt. Je nach Einstellungen in
 | `Note.Zahlung.Skonto.Frist`{data-clipboard-text="Note.Zahlung.Skonto.Frist"}     | Skonto-Frist in Tagen                                        |
 | `Note.Zahlung.Skonto.Prozent`{data-clipboard-text="Note.Zahlung.Skonto.Prozent"} | Skonto-Prozentsatz                                           |
 
-### Journal
+## Journal
 
 Das Journal ist eine Auflistung der in der Note abgerechneten Erfassungszeilen. Das Journal ist untergliedert in die Ebenen Bereich, Klient, Verrechnungskreis, Tätigkeit und Erfassungszeile. Je nach Verwendung der Formeln können einzelne Bereiche auch zusammengefasst werden. Ein Beispiel ist in der „RZL Mustervorlage mit Vorblatt Journal Rückblick" zu finden.
 
 | **Formel**                                                                                                                                                                                                                                       | **Beschreibung**              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
 | `Note.Journal.Bereich().Nr`{data-clipboard-text="Note.Journal.Bereich().Nr"}                                                                                                                                                                     | Bereichsnummer                |
-| `Note.Journal.Bereich().Bezeichnung`{data-clipboard-text="Note.Journal.Bereich().Bezeichnung"}                                                                                                                                                   | Bereichs-Bezeichnung          |
+| `Note.Journal.Bereich().Bezeichnung`{data-clipboard-text="Note.Journal.Bereich().Bezeichnung"}                                                                                                                                                   | Bereichsbezeichnung           |
 | `Note.Journal.Bereich().Zeitraum`{data-clipboard-text="Note.Journal.Bereich().Zeitraum"}                                                                                                                                                         | Leistungszeitraum             |
 | `Note.Journal.Bereich().Stunden`{data-clipboard-text="Note.Journal.Bereich().Stunden"}                                                                                                                                                           | Anzahl der Stunden            |
 | `Note.Journal.Bereich().Betrag`{data-clipboard-text="Note.Journal.Bereich().Betrag"}                                                                                                                                                             | Summe                         |
 | `Note.Journal.Bereich().Kurzbezeichnung`{data-clipboard-text="Note.Journal.Bereich().Kurzbezeichnung"}                                                                                                                                           | Kurzbezeichnung des Bereiches |
-| `Note.Journal.Bereich().Klient().Nr`{data-clipboard-text="Note.Journal.Bereich().Klient().Nr"}                                                                                                                                                   | Klienten-Nummer               |
-| `Note.Journal.Bereich().Klient().Name`{data-clipboard-text="Note.Journal.Bereich().Klient().Name"}                                                                                                                                               | Klienten-Name                 |
+| `Note.Journal.Bereich().Klient().Nr`{data-clipboard-text="Note.Journal.Bereich().Klient().Nr"}                                                                                                                                                   | Klientennummer                |
+| `Note.Journal.Bereich().Klient().Name`{data-clipboard-text="Note.Journal.Bereich().Klient().Name"}                                                                                                                                               | Klientenname                  |
 | `Note.Journal.Bereich().Klient().Kurzbezeichnung`{data-clipboard-text="Note.Journal.Bereich().Klient().Kurzbezeichnung"}                                                                                                                         | Klienten-Kurzbezeichnung      |
 | `Note.Journal.Bereich().Klient().Zeitraum`{data-clipboard-text="Note.Journal.Bereich().Klient().Zeitraum"}                                                                                                                                       | Leistungszeitraum             |
 | `Note.Journal.Bereich().Klient().Stunden`{data-clipboard-text="Note.Journal.Bereich().Klient().Stunden"}                                                                                                                                         | Anzahl der Stunden            |
@@ -266,17 +266,17 @@ Das Journal ist eine Auflistung der in der Note abgerechneten Erfassungszeilen. 
 | `Note.Journal.Bereich().Klient().Verrechnungskreis().Tätigkeit().Erfassungszeile.Einheiten`{data-clipboard-text="Note.Journal.Bereich().Klient().Verrechnungskreis().Tätigkeit().Erfassungszeile.Einheiten"}                                     | Anzahl der Einheiten          |
 | `Note.Journal.Bereich().Klient().Verrechnungskreis().Tätigkeit().Erfassungszeile.Betrag`{data-clipboard-text="Note.Journal.Bereich().Klient().Verrechnungskreis().Tätigkeit().Erfassungszeile.Betrag"}                                           | Betrag                        |
 
-### Verrechnungskreis-Rückblick
+## Verrechnungskreis-Rückblick
 
 Je Verrechnungskreis können die Werte der aktuellen und der letzten 5 Honorarnoten dargestellt werden. Ein Beispiel ist in der „RZL
 Mustervorlage mit Vorblatt Journal Rückblick" zu finden
 
-| **Formel**                                                                                                                                 | **Beschreibung**              |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
-| `Note.VkRückblick().Verrechnungskreis().Nr`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Nr"}                               | Verrechnungskreis-Nummer      |
-| `Note.VkRückblick().Verrechnungskreis().Bezeichnung`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Bezeichnung"}             | Verrechnungskreis-Bezeichnung |
-| `Note.VkRückblick().Verrechnungskreis().Note().Nr`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Note().Nr"}                 | Notennummer                   |
-| `Note.VkRückblick().Verrechnungskreis().Note().Datum`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Note().Datum"}           | Notendatum                    |
-| `Note.VkRückblick().Verrechnungskreis().Note().Stunden`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Note().Stunden"}       | Anzahl der Stunden            |
-| `Note.VkRückblick().Verrechnungskreis().Note().ZuAbschlag`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Note().ZuAbschlag"} | Zu-/Abschläge                 |
-| `Note.VkRückblick().Verrechnungskreis().Note().Summe`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Note().Summe"}           | Summe                         |
+| **Formel**                                                                                                                                 | **Beschreibung**             |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+| `Note.VkRückblick().Verrechnungskreis().Nr`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Nr"}                               | Verrechnungskreisnummer      |
+| `Note.VkRückblick().Verrechnungskreis().Bezeichnung`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Bezeichnung"}             | Verrechnungskreisbezeichnung |
+| `Note.VkRückblick().Verrechnungskreis().Note().Nr`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Note().Nr"}                 | Notennummer                  |
+| `Note.VkRückblick().Verrechnungskreis().Note().Datum`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Note().Datum"}           | Notendatum                   |
+| `Note.VkRückblick().Verrechnungskreis().Note().Stunden`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Note().Stunden"}       | Anzahl der Stunden           |
+| `Note.VkRückblick().Verrechnungskreis().Note().ZuAbschlag`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Note().ZuAbschlag"} | Zu- und Abschläge            |
+| `Note.VkRückblick().Verrechnungskreis().Note().Summe`{data-clipboard-text="Note.VkRückblick().Verrechnungskreis().Note().Summe"}           | Summe                        |
