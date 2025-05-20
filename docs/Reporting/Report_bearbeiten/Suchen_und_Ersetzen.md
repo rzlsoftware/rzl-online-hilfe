@@ -20,7 +20,7 @@ Groß-/Kleinschreibung wird bei der Suche beachtet.
 
 ## Nur ganzes Wort suchen
 
-Mit der Option werden nur Wörter gesucht, die eigenständig durch ein Leerzeichen, Satzzeichen oder einen Tabulator getrennt sind.
+Mit dieser Option werden nur Wörter gesucht, die eigenständig durch ein Leerzeichen, Satzzeichen oder einen Tabulator getrennt sind.
 
 ## Nur Markierung durchsuchen
 
@@ -32,8 +32,8 @@ Das erste oder nächste gesuchte Wort wird lt. Suchrichtung aufgerufen.
 
 ## Ersetzen
 
-Ersetzt das gefundene und markierte Wort mit dem eingegebenen Wort des Feldes *Ersetzen.*
+Ersetzt das gefundene und markierte Wort mit dem eingegebenen Wort des Felds *Ersetzen.*
 
 ## Alle Ersetzen
 
-Alle im Dokument gefundenen Suchwörter werden in einem Schritt ersetzt.
+Alle im Dokument gefundenen Suchwörter werden auf einmal ersetzt.

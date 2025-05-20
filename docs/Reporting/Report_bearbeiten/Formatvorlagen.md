@@ -1,6 +1,6 @@
 # Formatvorlagen
 
-Um bei einheitlichen oder wiederkehrenden Formatierungen von Texten nicht immer die gleichen Formatierungsbefehle (wie Schriftart, Größe, Nummerierung, Zahlenformat) eingeben zu müssen, eignet sich die Anlage einer Formatvorlage. So können beispielsweise Überschriften oder Zahlen durch Markierung des  Textes und Zuweisung der Formatvorlage sehr schnell einheitlich angepasst werden.
+Um bei einheitlichen oder wiederkehrenden Formatierungen von Texten nicht immer die gleichen Formatierungsbefehle (wie Schriftart, Größe, Nummerierung, Zahlenformat) eingeben zu müssen, eignet sich das Anlagen einer Formatvorlage. So können beispielsweise Überschriften oder Zahlen durch Markierung des Textes und Zuweisung der Formatvorlage sehr schnell einheitlich angepasst werden.
 
 ## Textformatvorlagen
 
@@ -18,7 +18,7 @@ Im Menüpunkt *Bearbeiten / Textformatvorlage* können neue Vorlagen angelegt bz
 
 ![Image](img/image56.png)
 
-Beim Öffnen des Menüpunktes wird immer die aktuell verwendete Formatvorlage angezeigt. Mit der Schaltfläche *Neu* können Sie eine neue Formatvorlage, basierend auf der derzeit aktiven, anlegen.
+Beim Öffnen des Menüpunktes wird immer die aktuell verwendete Formatvorlage angezeigt. Mit der Schaltfläche *Neu* können Sie eine neue Formatvorlage, basierend auf der derzeit aktiven, erstellen.
 
 ### Name
 
@@ -26,14 +26,14 @@ Vergeben Sie einen selbsterklärenden Namen für die Formatvorlage. Dieser wird 
 
 ### Basiert auf
 
-Werden bei der neuen Formatvorlage nur kleine Änderungen zu einer bereits bestehenden durchgeführt, kann diese als Basis angewählt und die gewünschten Felder abgeändert werden.
+Werden bei der neuen Formatvorlage nur kleine Änderungen an einer bereits bestehenden durchgeführt, kann diese als Basis angewählt und die gewünschten Felder abgeändert werden.
 
 !!! warning "Hinweis"
     Hier kommt es zur hierarchischen Vererbung. Wird in der ursprünglichen Formatvorlage ein gleich definiertes Feld, wie beispielsweise die Schriftart umgestellt, wird diese Änderung auch in die neue Formatvorlage übertragen.
 
 ### Vorlage für nächsten Absatz
 
-Sollte nach Anwendung dieser Formatvorlage eine bestimmte Formatierung im nächsten Absatz verwendet werden, können Sie diese hier definieren.
+Sollte nach Anwendung dieser Formatvorlage eine bestimmte Formatierung für den nächsten Absatz verwendet werden, können Sie diese hier definieren.
 
 ## Zahlenformatvorlagen
 

@@ -54,7 +54,7 @@ Bestimmte Bereiche in Reports können mit Eingabefeldern ausgestattet sein, um d
 
 **Ein Beispiel** hierfür ist der Unternehmensreport.
 
-Grün markierte Felder können mittels *Doppelklick*, oder *F4-Taste* bearbeitet werden. Wird beispielsweise beim Punkt *Eingabe Monat* 3 eingetragen, wird der Unternehmensreport für März erstellt. Die Kästchen sind Optionen, die entweder dazu oder weggeschalten werden können. Die Texte der KER-Gliederungen und die KER-Gliederungen selbst, können entweder mittels Formel oder manuell eingetragen werden. Soll die Eingabe beendet werden kann der Eingabedialog mit der *ESC-Taste*, oder der Tastenkombination *Return + Enter-Taste* geschlossen werden.
+Grün markierte Felder können mittels *Doppelklick*, oder *F4-Taste* bearbeitet werden. Wird beispielsweise beim Punkt *Eingabe Monat* 3 eingetragen, wird der Unternehmensreport für März erstellt. Die Kästchen sind Optionen, die entweder dazu- oder weggeschalten werden können. Die Texte der KER-Gliederungen und die KER-Gliederungen selbst, können entweder mittels Formel oder manuell eingetragen werden. Soll die Eingabe beendet werden kann der Eingabedialog mit der *ESC-Taste*, oder der Tastenkombination *Return + Enter-Taste* geschlossen werden.
 
 ![Image](img/image44.png){width="400"}
 
@@ -64,11 +64,11 @@ Das **Eingabe Monat** soll mit einem **Eingabefeld selber angelegt werden**.
 
 **Vorgehensweise:**
 
-Zuerst stellen Sie sich an die Stelle mit dem Mauscursor an welcher das Eingabefeld künftig sein soll. Danach klicken Sie auf den Menüpunkt *Formel / Einfügen/Bearbeiten.* Nun tragen Sie im Feld *Formel* für unser Beispiel ein Monat ein. Beispielsweise 1. Danach drücken Sie die *F5-Taste* um eine **benannte Formel** anzulegen. Sie gelangen nun zu folgender Ansicht:
+Zuerst stellen Sie den Cursor an die Stelle, an welcher das Eingabefeld künftig sein soll. Danach klicken Sie auf den Menüpunkt *Formel / Einfügen/Bearbeiten.* Nun tragen Sie im Feld *Formel* für unser Beispiel einen Monat ein, beispielsweise 1. Danach drücken Sie die *F5-Taste* um eine **benannte Formel** anzulegen. Sie gelangen nun zu folgender Ansicht:
 
 ![Image](img/image45.png){width="400"}
 
-Vergeben Sie nun einen Namen für das Eingabefeld. Wichtig dabei ist, dass keine Leerzeichen erlaubt sind. Wurde ein Name vergeben, ist die Schaltfläche „*Extrahieren*" aktiv. Klicken Sie zum Abschluss auf *Extrahieren*.
+Vergeben Sie nun einen Namen für das Eingabefeld. Wichtig dabei ist, dass keine Leerzeichen erlaubt sind. Wurde ein Name vergeben, ist die Schaltfläche *Extrahieren* aktiv. Klicken Sie zum Abschluss auf *Extrahieren*.
 
 Das Eingabefeld wird nun in gelber Farbe dargestellt. Sie müssen nun noch definieren, dass es sich um keine Formel, sondern um ein Eingabefeld handelt. Dies können Sie über die *Formeleigenschaften* ändern (*Ansicht / Eigenschaftsfenster / Formel*).
 
@@ -76,7 +76,7 @@ Das Eingabefeld wird nun in gelber Farbe dargestellt. Sie müssen nun noch defin
 
 Wir empfehlen das Häkchen bei *Nicht löschbar* zu setzen, damit das Eingabefeld nicht versehentlich gelöscht werden kann. Beim Punkt [*Direkteingabe*](../Eigenschaftsfenster/Formel.md) müssen Sie noch einstellen, um welche Eingabe es sich handelt.
 
-Im Anschluss wird das Eingabefeld grün dargestellt. Sie können nun Ihre Eingaben mit einem *Doppelklick*, oder mit der *F4-Taste,* auf das grüne Feld ändern.
+Im Anschluss wird das Eingabefeld grün dargestellt. Sie können nun Ihre Eingaben mit einem *Doppelklick*, oder mit der *F4-Taste* auf das grüne Feld ändern.
 
 ## Arbeiten mit Tabulator und Lineal
 
@@ -93,7 +93,7 @@ Die Positionierung der Tabulatoren ist mit Hilfe des Lineals möglich. Klicken S
 
 ![Image](img/image51.png)
 
-Mit einem Doppelklick auf den Tabstopp im Lineal wird das Eigenschaftsfenster zur Ausrichtung und Positionierung geöffnet und es können Änderungen durchgeführt werden. Ein manuell ausgerichteter Tabstopp kann durch anklicken und verschieben außerhalb des Lineals wieder gelöscht werden.
+Mit einem Doppelklick auf den Tabstopp im Lineal wird das Eigenschaftsfenster zur Ausrichtung und Positionierung geöffnet und es können Änderungen durchgeführt werden. Ein manuell ausgerichteter Tabstopp kann durch Anklicken und Verschieben außerhalb des Lineals wieder gelöscht werden.
 
 !!! warning "Hinweis"
     Die Ausrichtung von Absätzen bzw. komplexeren Formatierungen innerhalb eines Absatzes können oft in einer [Tabelle](../Tabelle.md) schneller und präziser gelöst werden.
