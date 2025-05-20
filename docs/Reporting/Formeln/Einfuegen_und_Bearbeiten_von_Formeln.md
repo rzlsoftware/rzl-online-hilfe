@@ -1,6 +1,6 @@
 # Einfügen und Bearbeiten von Formeln
 
-Mit der Verwendung von Formeln können Sie im *Report Designer* nicht nur Berechnungen durchführen oder Bedingungen verwenden, sondern auch direkt und schnell auf klientenbezogene Daten zugreifen und Auswertungen erstellen.
+Mit der Verwendung von Formeln können Sie im *Report Designer* nicht nur Berechnungen durchführen oder Bedingungen verwenden, sondern auch direkt und schnell auf klientenbezogene Daten zugreifen sowie Auswertungen erstellen.
 
 ## Das Formeldialogfenster
 
@@ -9,7 +9,7 @@ Das Formeldialogfenster dient zur Erstellung und Bearbeitung der Formeln und kan
 - Über den Menüpunkt *Einfügen / Formel*,
 - mit dem *Formel einfügen Symbol* in der Werkzeugleiste,
 - mit der Tastenkombination *Strg + I* oder
-- bei einer bereits existierenden Formel im Text mittels Kontextmenü und   Auswahl der Option *Formel in Formeldialog* bzw. der *F4-Taste*.
+- bei einer bereits existierenden Formel im Text mittels Kontextmenü und Auswahl der Option *Formel in Formeldialog* bzw. der *F4-Taste*.
 
 ![Image](img/image92.png)
 
@@ -23,7 +23,7 @@ Hier können Sie zwischen den einzelnen Anwendungsarten wechseln:
 
 ### Formel im Text
 
-Eingabefeld bzw. Auswahl der gewünschten [Formel](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md). Solange die eingegebene Formel nicht vollständig bzw. korrekt eingegeben wurde, wird der Rahmen des Dialogfensters rot markiert.
+Eingabefeld bzw. Auswahl der gewünschten [Formel](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) solange die eingegebene Formel nicht vollständig bzw. korrekt eingegeben wurde, wird der Rahmen des Dialogfensters rot markiert.
 
 ### Kontext Info
 
@@ -122,7 +122,7 @@ Eine sogenannte „Boolsche Formel" kann als Ergebnis nur WAHR oder FALSCH auswe
 | Datum(Tag;Monat;Jahr)               | Darstellung des eingegebenen Datums in der aktuellen Formatvorlage |
 | Datum(Tag;Monat;Jahr;Stunde;Minute) | Stunde/Minute können optional ergänzt werden                       |
 
-Mit Hilfe der Datumsformel kann ein Datum in unterschiedlichen Formaten dargestellt werden. Bei der Datumseingabe sind die Werte *Tag, Monat* und *Jahr* verpflichtend zu definieren. *Stunde* und *Minute* können optional ergänzt werden. Nach Eingabe der Werte können Sie die gewünschten Änderungen der Formatierung (z.B. Anzeige eines Wochentages) im [*Formel-Eigenschaftsfenster*](../Eigenschaftsfenster/Formel.md) durchführen.
+Mit Hilfe der Datumsformel kann ein Datum in unterschiedlichen Formaten dargestellt werden. Bei der Datumseingabe sind die Werte *Tag, Monat* und *Jahr* verpflichtend zu definieren. *Stunde* und *Minute* können optional ergänzt werden. Nach Eingabe der Werte können Sie die gewünschten Änderungen der Formatierung (z. B. Anzeige eines Wochentages) im [*Formel-Eigenschaftsfenster*](../Eigenschaftsfenster/Formel.md) durchführen.
 
 ### Dauer
 
@@ -152,7 +152,7 @@ Funktionen sind mit der *F3-Taste* im Formeldialog jederzeit aufrufbar und werde
 | Abs(Wert)                                                                                                                       | Absoluter Wert                                                                                                                                |
 | Anzahl(Datenzeilen)                                                                                                             | Anzahl der Datenzeilen                                                                                                                        |
 | Aufrunden(Kommazahl;Kommastellen)                                                                                               | Aufrunden                                                                                                                                     |
-| Bereich()                                                                                                                       | Für benannte Formel z.B. Bereich(KER(\*);10;20). Damit mit F2 die Dokumentauswahl geöffnet werden kann.                                       |
+| Bereich()                                                                                                                       | Für benannte Formel z. B. Bereich(KER(\*);10;20). Damit mit F2 die Dokumentauswahl geöffnet werden kann.                                      |
 | Datum(Tag;Monat;Jahr;\[Minute;Sekunde\]                                                                                         | Darstellung des Datums                                                                                                                        |
 | Dauer(Datum1;Datum2)                                                                                                            | Darstellung der Dauer zwischen zwei Zeiträumen                                                                                                |
 | Filter(Datenzeilen;Bedingung)                                                                                                   | Herausfiltern gewünschter Werte                                                                                                               |
@@ -161,29 +161,29 @@ Funktionen sind mit der *F3-Taste* im Formeldialog jederzeit aufrufbar und werde
 | IstVorhanden(Ausdruck)                                                                                                          | Bei optionalen Werten wird geprüft, ob dieser vorhanden ist.                                                                                  |
 |                                                                                                                                 | Wenn der Wert nicht null ist = WAHR, wenn Wert null = FALSCH                                                                                  |
 |                                                                                                                                 | zB Geburtsdatum ist optional. Wenn es nicht ausgefüllt wurde, der Wert null (= FALSCH)                                                        |
-| Jahr(Datum)                                                                                                                     | Hier kann aus einem Datum das Jahr ausgelesen werden z.B. Jahr(Datum(1;1;2024)) = 2024                                                        |
-| Jahre(Anzahl)                                                                                                                   | Hier kann eine Anzahl an Jahre zu einem Datum hinzugerechnet werden z.B. Datum(1;1;2024+Jahre(4) = 01.01.2028                                 |
+| Jahr(Datum)                                                                                                                     | Hier kann aus einem Datum das Jahr ausgelesen werden z. B. Jahr(Datum(1;1;2024)) = 2024                                                       |
+| Jahre(Anzahl)                                                                                                                   | Hier kann eine Anzahl an Jahre zu einem Datum hinzugerechnet werden z. B. Datum(1;1;2024+Jahre(4) = 01.01.2028                                |
 | Max(Wert1;Wert2;...)                                                                                                            | Ausgabe des größten Werts innerhalb der Wertmenge                                                                                             |
 | MaximaleKombination()                                                                                                           |                                                                                                                                               |
 | Min(Wert1;Wert2;...)                                                                                                            | Ausgabe des kleinsten Werts innerhalb der Wertmenge                                                                                           |
 | MitNullFüllen(Zahl;Anzahl der Nullen)                                                                                           | Füllt einen Wert mit der mitgeteilten Anzahl an Nullen auf                                                                                    |
-| Monat(Datum)                                                                                                                    | Hier kann aus einem Datum das Monat ausgelesen werden z.B. Monat(Datum(1;8;2024)) = 8                                                         |
-| Monate(Anzahl)                                                                                                                  | Hier kann eine Anzahl an Monate zu einem Datum hinzugerechnet werden z.B. Datum(1;1;2024+Monate(4) = 01.05.2024                               |
+| Monat(Datum)                                                                                                                    | Hier kann aus einem Datum das Monat ausgelesen werden z. B. Monat(Datum(1;8;2024)) = 8                                                        |
+| Monate(Anzahl)                                                                                                                  | Hier kann eine Anzahl an Monate zu einem Datum hinzugerechnet werden z. B. Datum(1;1;2024+Monate(4) = 01.05.2024                              |
 | MonatsErster(Monat;Jahr)                                                                                                        | Erster Tag im Monat                                                                                                                           |
-| MonatsLetzer(Monat;Jahr)                                                                                                        | Letzer Tag im Monat                                                                                                                           |
+| MonatsLetzter(Monat;Jahr)                                                                                                       | Letzter Tag im Monat                                                                                                                          |
 | NächsterBankTag(Datum)                                                                                                          | Nächstmöglicher Banktag (Werktag)                                                                                                             |
 | Nicht()                                                                                                                         | Dreht Funktionen ins Gegenteil                                                                                                                |
 | NullWennKeinWert()                                                                                                              | Wenn kein Wert dann Null.                                                                                                                     |
 | Oder(Wert1;Wert2;...)                                                                                                           | Wenn mindestens ein Wert WAHR ist, liefert die Formel WAHR. Nur wenn alle Werte FALSCH sind, liefert die Formel FALSCH                        |
 | Runden(Wert)                                                                                                                    | Runden des eingegeben Wertes auf die definierte Dezimale                                                                                      |
 | Summe()                                                                                                                         | Summe der Werte                                                                                                                               |
-| SummeWennÜbewiegend()                                                                                                           |                                                                                                                                               |
-| Tag(Datum)                                                                                                                      | Hier kann aus einem Datum der Tag ausgelesen werden z.B. Tag(Datum(28;4;2024)) = 28                                                           |
-| Tage(Anzahl)                                                                                                                    | Hier kann eine Anzahl an Tage zu einem Datum hinzugerechnet werden z.B. Datum(16;1;2024+Tage(4) = 20.01.2024                                  |
+| SummeWennÜberwiegend()                                                                                                          |                                                                                                                                               |
+| Tag(Datum)                                                                                                                      | Hier kann aus einem Datum der Tag ausgelesen werden z. B. Tag(Datum(28;4;2024)) = 28                                                          |
+| Tage(Anzahl)                                                                                                                    | Hier kann eine Anzahl an Tage zu einem Datum hinzugerechnet werden z. B. Datum(16;1;2024+Tage(4) = 20.01.2024                                 |
 | Und(Wert1;Wert2;...)                                                                                                            | Nur wenn alle Werte WAHR sind, liefert die Formel WAHR                                                                                        |
 | VorherigerBankTag(Datum)                                                                                                        | Vorheriger Banktag (Werktag)                                                                                                                  |
 | Wenn(Bedingung;Dann;Sonst)                                                                                                      | Auswertung der eingegebenen Bedingung. Ist die Bedingung WAHR, dann wird der Dann-Wert ausgegeben, bei einer FALSCH-Bedingung der Sonst-Wert. |
-| ZeilenZusammenfassen(Datenquelle;Maximale Zeilenanzahl;Bezeichnungsspaltennummer;Zusammenfassungsbezeichnung;Wertspaltennummer) | Maximale Anzahl der Diagrammwert in einem Diagramm darstellen                                                                                 |
+| ZeilenZusammenfassen(Datenquelle;Maximale Zeilenanzahl;Bezeichnungsspaltennummer;Zusammenfassungsbezeichnung;Wertspaltennummer) | Maximale Anzahl der Diagrammwerte in einem Diagramm darstellen                                                                                |
 
 ### Beispiel Darstellung der Dauer
 
@@ -285,7 +285,7 @@ Wird ein Dauerformat mit *Nicht anzeigen* definiert, wird automatisch die nächs
 
 **Beispiel:**
 
-Sie tragen die Formel *Dauer(AktuellesDatum;DN(1).Geburtsdatum)* in den Formeldialog ein um das Alter des Dienstnehmers in eine Liste führen zu können. Nun sehen Sie im rechten Bereich des *Report Designers* ein Formatierungsfenster. In diesem Formatierungsfenster für die Formel können Sie das Dauerformat festlegen. In unserem Beispiel soll nur die Jahreszahl angezeigt werden, deswegen wurden alle weiteren Formate (Monatsformat usw.) auf den Stauts „*Nicht anzeigen*" gesetzt.
+Sie tragen die Formel *Dauer(AktuellesDatum;DN(1).Geburtsdatum)* in den Formeldialog ein um das Alter des Dienstnehmers in eine Liste führen zu können. Nun sehen Sie im rechten Bereich des *Report Designers* ein Formatierungsfenster. In diesem Formatierungsfenster für die Formel können Sie das Dauerformat festlegen. In unserem Beispiel soll nur die Jahreszahl angezeigt werden, deswegen wurden alle weiteren Formate (Monatsformat usw.) auf den Status „*Nicht anzeigen*" gesetzt.
 
 ![Image](img/image74.png)
 
@@ -402,7 +402,7 @@ Geben Sie dazu im Modus *Tabelle* die Formel *Konto(\*)* ein, damit alle Konten 
 
 ![Image](img/image103.png)
 
-Mit der Schaltfläche *Tabelle übernehmen* wird ein Fester zur Definition des Namens und der Spalten/Zeilen geöffnet. Die benötigte Liste enthält drei Spalten für *Kontonummer, Text und Saldowerte*. 
+Mit der Schaltfläche *Tabelle übernehmen* wird ein Fenster zur Definition des Namens und der Spalten/Zeilen geöffnet. Die benötigte Liste enthält drei Spalten für *Kontonummer, Text und Saldowerte*. 
 
 Wechseln Sie anschließend in den Modus *Formel im Text.* Klicken Sie zur automatischen Befüllung der Spalten anschließend in eine beliebige Zeile der Spalte zur Befüllung der gewünschten Werte:
 
