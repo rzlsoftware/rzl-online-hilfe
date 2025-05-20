@@ -7,7 +7,7 @@ Das Einfügen von Tabellen funktioniert über die Menüpunkte:
 - *Einfügen / Tabelle* oder
 - *Tabelle / Einfügen*.
 
-Anschließend öffnet sich ein Dialogfenster zur Eingabe eines Tabellennamens, der Anzahl der Spalten und Zeilen. Mit der Schaltfläche *Einfügen* können Sie die Tabelle einfügen und bearbeiten. Durch Setzen des Häkchens *Kopfzeile einfügen* wird eine Überschriftenzeile (zur Verwendung bei Formeltabellen) hinzugefügt.
+Anschließend öffnet sich ein Dialogfenster zur Eingabe eines Tabellennamens, der Anzahl von Spalten und Zeilen. Mit der Schaltfläche *Einfügen* können Sie die Tabelle einfügen, und bearbeiten. Durch Setzen des Häkchens *Kopfzeile einfügen* wird eine Überschriftenzeile (zur Verwendung bei Formeltabellen) hinzugefügt.
 
 ![Image](img/image106.png)#
 
@@ -32,7 +32,7 @@ Ziehen Sie dazu den gedrückten Mauszeiger über das Feld bis die gesamte Zeile 
 
 ### Zeilen/Spalten hinzufügen oder löschen
 
-Rufen Sie sich im Tabellenbereich mit der rechten Maustaste das Kontextmenü auf und wählen Sie die gewünschte Option (*Zeile oberhalb/unterhalb einfügen* oder *Spalte links/rechts einfügen*) aus. Möchten Sie zusätzliche Zeilen anstellen, ist dies auch durch Drücken der Tabulator-Taste möglich.
+Rufen Sie sich im Tabellenbereich mit der rechten Maustaste das Kontextmenü auf und wählen Sie die gewünschte Option (*Zeile oberhalb/unterhalb einfügen* oder *Spalte links/rechts einfügen*) aus. Möchten Sie zusätzliche Zeilen einfügen, ist dies auch durch Drücken der Tabulator-Taste möglich.
 
 Ganze Zeilen oder Spalten können nach Anwahl über das Kontextmenü und *Zeile(n) löschen* bzw. *Spalte(n) löschen* entfernt werden. Mit der *Entf-Taste* werden lediglich die Inhalte herausgelöscht.
 
@@ -56,11 +56,11 @@ Durch Aufruf des Kontextmenüs im Tabellenbereich und der Anwahl des Punktes *Ta
 
 ![Image](img/image107.png)
 
-Mit Anwahl der jeweiligen Schalfläche werden die vorgenommenen Einstellungen in der Vorschau angezeigt. Diese gelten immer für den aktuell markierten Bereich. Wenn Sie beispielsweise nur die Rahmenlinien einer Zeile formatieren möchten, ist diese vor Anwahl des Kontextmenüs zu markieren.
+Mit Anwahl der jeweiligen Schaltfläche werden die vorgenommenen Einstellungen in der Vorschau angezeigt. Diese gelten immer für den aktuell markierten Bereich. Wenn Sie beispielsweise nur die Rahmenlinien einer Zeile formatieren möchten, ist diese vor Anwahl des Kontextmenüs zu markieren.
 
 ## Tabellen-Eigenschaften
 
-Durch Anwahl des jeweiligen Menüpunkt im Kontextmenü können Sie gewünschte Formatierungen durchführen:
+Durch Anwahl des jeweiligen Menüpunktes im Kontextmenü können Sie gewünschte Formatierungen durchführen:
 
 #### Tabelleneigenschaften
 
@@ -68,7 +68,7 @@ In den Tabelleneigenschaften kann der Tabellenname und Seiteneinzug geändert we
 
 #### Zeileneigenschaften
 
-Markieren Sie zur Anpassung und Ausrichtung die gewünschte Zeile und rufen Sie sich im Kontextmenü die [*Zeileneigenschaften*](../Reporting/Eigenschaftsfenster/Tabellenzeile.md) auf. Im Zeilentyp können Sie auch eine *Kopf-*/*Fußzeile* definieren. Diese Zeile wird bei seitenübergreifenden Tabellen auf jeder Seite angedruckt.
+Markieren Sie zur Anpassung und Ausrichtung die gewünschte Zeile und rufen Sie im Kontextmenü die [*Zeileneigenschaften*](../Reporting/Eigenschaftsfenster/Tabellenzeile.md) auf. Im Zeilentyp können Sie auch eine *Kopf-*/*Fußzeile* definieren. Diese Zeile wird bei seitenübergreifenden Tabellen auf jeder Seite angedruckt.
 
 #### Zelleneigenschaften
 

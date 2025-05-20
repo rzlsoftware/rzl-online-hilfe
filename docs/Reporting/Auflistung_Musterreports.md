@@ -78,7 +78,7 @@ Nachfolgende Musterreports wurden von uns ausgeliefert.
 |            |                                | Sozialpartner EV Beilage 1 ab 10_2023, Stand: 09112023    |
 |            |                                | Sozialpartner EV Beilage 2 ab 10_2023, Stand: 09112023    |
 | 207        | Umstiegsdienstzettel KV Handel | Muster Umstiegsdienstzettel KV Handel 2022 Stand 13122021 |
-|            |                                | - Muster Umstiegsdienstzettel KV Handel Stand 14042021    |
+|            |                                | Muster Umstiegsdienstzettel KV Handel Stand 14042021      |
 | 250        | RZL Muster Statistik Lohn      | Konjunkturerhebung Ausfüllhilfe Stand 21112023            |
 |            |                                | Statistik Personal 112016                                 |
 |            |                                | Vollzeiteinheiten 112016                                  |

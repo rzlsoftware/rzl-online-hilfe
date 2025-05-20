@@ -2,9 +2,9 @@
 
 ## Bestehende Reports als Musterreport sichern
 
-Bereits bestehende Reports eines Klienten können gesondert gespeichert und zur Verwendung und individuellen Abänderung auf einen anderen Klienten übertragen werden.
+Bereits bestehende Reports eines Klienten können gesondert gespeichert und zur Verwendung und individuellen Änderung auf einen anderen Klienten übertragen werden.
 
-Wählen Sie dazu den Menüpunkt *Klient / Kanzlei / Reports* an. Durch die Eingabe einer neuen, noch nicht belegten Nummer können Sie nach Eingabe eines Textes mit der Option *von Klient übernehmen* im Feld *Klientennummer* die Klientennummer mit dem Wirtschaftsjahr eingeben oder den gewünschten Klienten über den Aufruf mit der *F2-Taste* auswählen.
+Wählen Sie dazu den Menüpunkt *Klient / Kanzlei / Reports* aus. Durch die Eingabe einer neuen, noch nicht belegten Nummer können Sie nach Eingabe eines Textes mit der Option *von Klient übernehmen* im Feld *Klientennummer* die Klientennummer mit dem Wirtschaftsjahr eingeben oder den gewünschten Klienten über den Aufruf mit der *F2-Taste* auswählen.
 
 Mit *Ausführen* werden die einzelnen Reports angezeigt und können durch Setzen von Häkchen individuell angewählt und als Musterreport gesichert werden. Im Anschluss können Sie den Musterreport aus der Liste auswählen und sofort auf einen anderen Klienten überspielen.
 
@@ -18,16 +18,16 @@ Mit *Ausführen* werden die einzelnen Reports angezeigt und können durch Setzen
 
 ## Report sichern
 
-Nach der Bearbeitung eines Reports müssen die Änderungen gesichert werden. Zur Speicherung haben Sie folgende Möglichkeiten:
+Nach der Bearbeitung eines Reports müssen die Änderungen gesichert werden. Zur Speicherung stehen Ihnen folgende Möglichkeiten zur Verfügung:
 
 - über den Menüpunkt *Datei / Speichern,*
 - mit dem *Speichern-Symbol* in der Werkzeugleiste ![Image](img/image113.png) oder
 - mit der Tastenkombination *Strg + S*.
 
-Sofern ein neuer Report erstellt wurde, erhalten Sie einen Zwischendialog zur Eingabe eines Report-Namens. Über den Menüpunkt *Datei / Speichern unter* können Sie den geöffneten Report mit einem neuen Namen sichern. Der ursprüngliche Report bleibt mit dem alten Namen somit erhalten.
+Sofern ein neuer Report erstellt wurde, erhalten Sie einen Zwischendialog zur Eingabe eines Reportnamens. Über den Menüpunkt *Datei / Speichern unter* können Sie den geöffneten Report mit einem neuen Namen sichern. Der ursprüngliche Report bleibt mit dem alten Namen somit erhalten.
 
 !!! warning "Hinweis"
-    Sobald Sie einen Report auf einen Klienten überspielt haben, wird durch die Sicherung des Klienten der Report mitgesichert. Ein individuelles Speichern ist nur im Zuge der Erstellung bzw. Bearbeitung notwendig.
+    Sobald Sie einen Report auf einen Klienten überspielt haben, wird durch die Sicherung des Klienten der Report mitgesichert. Ein individuelles Speichern ist nur im Zuge der Erstellung bzw. der Bearbeitung notwendig.
 
 ## Export/Import eines Reports
 
@@ -67,11 +67,11 @@ Zur Direktausgabe am installierten Drucker stehen Ihnen folgende Möglichkeiten 
 
 ### Sonderoption: Drucken von dienstnehmer- und dienstgeberbezogenen Daten
 
-Das RZL-Lohnprogramm bietet Ihnen die Möglichkeit Reports auf Basis von definierten Dienstgeber- bzw. Dienstnehmerdaten zu drucken.
+Das RZL-Lohnprogramm bietet Ihnen die Möglichkeit, Reports auf Basis von definierten Dienstgeber- bzw. Dienstnehmerdaten zu drucken.
 
 #### Dienstgeberbezogene Reports drucken
 
-Sofern im Klienten ein Report mit Dienstgeber-Formeln hinterlegt ist, können Sie diesen über den Menüpunkt *Report / DG Report drucken* für den jeweilig gewünschten Monat ausgeben.
+Sofern im Klienten ein Report mit Dienstgeber-Formeln hinterlegt ist, können Sie diesen über den Menüpunkt *Report / DG Report drucken* für den jeweils gewünschten Monat ausgeben.
 
 #### Dienstnehmerbezogene Reports drucken
 

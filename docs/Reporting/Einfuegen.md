@@ -2,7 +2,7 @@
 
 ## Grafik
 
-Zum Einfügen einer Grafik stellen Sie sich mit dem Cursor im Report auf die gewünschte Position und wählen den Menüpunkt *Einfügen / Grafik* aus. Es erscheint ein Auswahldialog indem Sie die gewünschte Datei aus dem Quellordner anwählen können. Mit der Schalfläche *Öffnen* wird die Grafik eingefügt.
+Zum Einfügen einer Grafik stellen Sie sich mit dem Cursor im Report auf die gewünschte Position und wählen den Menüpunkt *Einfügen / Grafik* aus. Es erscheint ein Auswahldialog indem Sie die gewünschte Datei aus dem Quellordner anwählen können. Mit der Schaltfläche *Öffnen* wird die Grafik eingefügt.
 
 Die Größenanpassung der Grafik erfolgt mit gedrückter Maustaste an der unteren rechten Ecke durch Verschieben des Doppelpfeils:
 
@@ -50,7 +50,7 @@ Soll ein Text durch Eingabe eines Leerzeichens nicht getrennt werden, dann geben
 
 ## Diagramm
 
-Grundvoraussetzung zur Erstellung eines Diagrammes ist eine bestehende Datenquelle in Form einer Tabelle bei der die Werte in Form einer Formel eingegeben wurden. Sollte die Tabelle im ausgedruckten Report anschließend nicht sichtbar sein, kann sie für die [Ausgabe ausgeblendet](../Reporting/Report_bearbeiten/Text_und_Absatzbearbeitung.md) werden.
+Grundvoraussetzung zur Erstellung eines Diagramms ist eine bestehende Datenquelle in Form einer Tabelle bei der die Werte in Form einer Formel eingegeben wurden. Sollte die Tabelle im ausgedruckten Report anschließend nicht sichtbar sein, kann sie für die [Ausgabe ausgeblendet](../Reporting/Report_bearbeiten/Text_und_Absatzbearbeitung.md) werden.
 
 !!! info "Tipp"
     Scheint eine Datenquelle im Report nicht auf, d.h. auch nicht ausgegraut, können Sie diese in den *Diagrammeigenschaften* durch Anwahl der Option *Datenquelle ausblenden* wieder einblenden.

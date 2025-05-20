@@ -1,22 +1,22 @@
 # Kontextmenü
 
-Das Kontextmenü kann mit einem *rechten Mausklick* in das Dokument geöffnet werden:
+Das Kontextmenü kann mit einem *rechten Mausklick* im Dokument geöffnet werden:
 
 ![Image](img/image109.png)
 
 ## Absatzbedingungen hinterlegen/ändern
 
-Durch Anwahl des Punktes *Absatzbedingungen hinterlegen/ändern* im *Kontextmenü* öffnet sich das Formeldialog-Fenster in dem Modus *Bedingungsformel (F8)*. Hier können Sie eine [Bedingungsformel](../Reporting/Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) hinterlegen.
+Durch Anwahl des Punktes *Absatzbedingungen hinterlegen/ändern* im *Kontextmenü* öffnet sich das Formeldialog-Fenster im Modus *Bedingungsformel (F8)*. Hier können Sie eine [Bedingungsformel](../Reporting/Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) hinterlegen.
 
 ![Image](img/image110.png)
 
 ## Bedingung vom vorherigen Absatz übernehmen
 
-Mit dem Punkt *Bedingung vom vorherigen Absatz übernehmen*, können Sie die Bedingung des vorherigen Absatzes ganz einfach auf den neu markierten Absatz übernehmen.
+Mit dem Punkt *Bedingung vom vorherigen Absatz übernehmen* können Sie die Bedingung des vorherigen Absatzes ganz einfach auf den neu markierten Absatz übernehmen.
 
 ## Bedingung vom nächsten Absatz übernehmen
 
-Mit dem Punkt *Bedingung vom nächsten Absatz übernehmen*, können Sie die Bedingung des nächsten Absatzes ganz einfach auf den neu markierten Absatz übernehmen.
+Mit dem Punkt *Bedingung vom nächsten Absatz übernehmen* können Sie die Bedingung des nächsten Absatzes ganz einfach auf den neu markierten Absatz übernehmen.
 
 ## Abschnittshintergrund einfügen
 
@@ -24,7 +24,7 @@ Mit dem Menüpunkt *Abschnittshintergrund einfügen* im *Kontextmenü* können S
 
 ## Eigenschaften
 
-Im Kontextmenü können über Eigenschaften alle [Eigenschaftsfenster](../Reporting/Eigenschaftsfenster/Aufruf_Eigenschaftsfenster.md) geöffnet werden.
+Im Kontextmenü können über *Eigenschaften* alle [Eigenschaftsfenster](../Reporting/Eigenschaftsfenster/Aufruf_Eigenschaftsfenster.md) geöffnet werden.
 
 ## Absatzrahmen
 
