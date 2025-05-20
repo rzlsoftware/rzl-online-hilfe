@@ -1,6 +1,6 @@
 # Ansichten
 
-## Absatzmarke ausblenden / einblenden
+## Absatzmarke ein- oder ausblenden
 
 Mit diesem Menüpunkt kann die Absatzmarke ![Image](img/image62.png) ein- bzw. ausgeblendet werden.
 
@@ -10,7 +10,7 @@ Mit diesem Menüpunkt kann statt des Ergebnisses der Formel der Formeltext darge
 
 ![Image](img/image63.png)
 
-## Verborgenen Text ausblenden / einblenden
+## Verborgenen Text ein- oder ausblenden
 
 Durch Anwahl *Verborgenen Text ausblenden* wird der grau hinterlegte Text nicht mehr dargestellt. Dieser verborgene Text ist gekennzeichnet durch die blaue Linie auf der linken Seite.
 
@@ -20,7 +20,7 @@ Umfangreiche Reports mit mehreren Seiten werden schnell unübersichtlich. Zur be
 
 ![Image](img/image64.png)
 
-Die Ebenen können mittels Klick auf das *Plus- bzw. Minussymbol* ein-/ausgeblendet werden. Mit Anwahl einer Position kann durch *Rechtsklick* und Auswahl der Option *Verbergen* der gesamte markierte Absatz ausgeblendet werden. Soll der verborgene Punkt wieder eingeblendet werden, so ist dieser mit der rechten Maustaste anzuwählen und auf *Einblenden* zu klicken. Mit einem Doppelklick können Sie den gesamten Absatz selektieren um beispielsweise im Formelfenster eine Bedingung für diesen Absatz zu hinterlegen. Wird auf *Alle erweitern* geklickt, so wird die gesamte Untergliederung des Dokumentes in einem Schritt geöffnet. Die Option *Alle reduzieren* bewirkt, dass alle Untergliederungen in einem Schritt geschlossen werden und nur noch die
+Die Ebenen können mittels Klick auf das *Plus- bzw. Minussymbol* ein- oder ausgeblendet werden. Mit Anwahl einer Position kann durch *Rechtsklick* und Auswahl der Option *Verbergen* der gesamte markierte Absatz ausgeblendet werden. Soll der verborgene Punkt wieder eingeblendet werden, so ist dieser mit der rechten Maustaste anzuwählen und auf *Einblenden* zu klicken. Mit einem Doppelklick können Sie den gesamten Absatz selektieren um beispielsweise im Formelfenster eine Bedingung für diesen Absatz zu hinterlegen. Wird auf *Alle erweitern* geklickt, so wird die gesamte Untergliederung des Dokuments in einem Schritt geöffnet. Die Option *Alle reduzieren* bewirkt, dass alle Untergliederungen in einem Schritt geschlossen werden und nur noch die
 Hauptüberschriften ersichtlich sind.
 
 ## Zweite Dokumentenansicht öffnen

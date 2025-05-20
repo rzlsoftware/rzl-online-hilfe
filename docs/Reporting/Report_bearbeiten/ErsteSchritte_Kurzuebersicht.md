@@ -1,4 +1,4 @@
-# Erste Schritte/Kurzübersicht
+# Erste Schritte (Kurzübersicht)
 
 Die Funktionen des *RZL-Report Designer* sind ähnlich einem Textverarbeitungsprogramm aufgebaut. Der große Vorteil hier ist der sofortige Direktzugriff auf klientenbezogene Informationen. Mit Hilfe von [Formeln](../Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) können Sie einen direkten Bezug zu den benötigten Daten schnell und einfach herstellen. Interne Bearbeitungsnotizen, Anweisungen oder sonstige Informationen können Sie im Report vermerken und anschließend ausblenden. Diese werden somit nicht angedruckt.
 
@@ -7,7 +7,7 @@ Die Funktionen des *RZL-Report Designer* sind ähnlich einem Textverarbeitungspr
 Durch Öffnen eines Reports wird der *RZL Report Designer* in einem separaten Dialogfenster gestartet.
 
 !!! warning "Hinweis"
-    Zur besseren Bearbeitung können Sie sich nach dem erstmaligen Start die einzelnen Bearbeitungsfenster (Formelansicht, Eigenschaftsfenster) über den Menüpunkt *Ansicht / Eigenschaftsfenster* einblenden lassen (siehe nachfolgende Abbildung).
+    Zur besseren Bearbeitung können Sie sich nach dem erstmaligen Start die einzelnen Bearbeitungsfenster (Formelansicht, Eigenschaftsfenster) über den Menüpunkt *Ansicht / Eigenschaftsfenster* einblenden lassen.
 
 ![Image](img/image6.png)
 
@@ -40,7 +40,7 @@ Nachfolgend wird die Arbeitsoberfläche im *Report Designer* beschrieben.
 8.  Eigenschaftsfenster: Je nach markiertem Bereich können Einstellungen zur Formatierung getroffen werden.
 
     !!! info "Tipp"
-        Das Eigenschaftsfenster im rechten Bildschirmbereich dient zur Eingabe und Anpassung der Formatierung des selektierten Bereiches. Je nach markiertem Bereich (Tabelle, Text, Spalte, Dokument, Formel, Diagramm) passt es sich automatisch den jeweiligen Funktionen an.
+        Das Eigenschaftsfenster im rechten Bildschirmbereich dient zur Eingabe und Anpassung der Formatierung des selektierten Bereichs. Je nach markiertem Bereich (Tabelle, Text, Spalte, Dokument, Formel, Diagramm) passt es sich automatisch den jeweiligen Funktionen an.
 
 9.  Gelbe Markierung eines Textes: Anzeige eines Formelergebnisses.
 
@@ -48,25 +48,25 @@ Nachfolgend wird die Arbeitsoberfläche im *Report Designer* beschrieben.
 
 ## Nützliche Shortcuts und Symbole
 
-| Symbol               | Tastenkombination             | Funktion                                                 |
-| -------------------- | ----------------------------- | -------------------------------------------------------- |
-| ![](img/image8.png)  | Strg+N                        | Neuen Report öffnen                                      |
-| ![](img/image9.png)  | Strg+S                        | Report speichern                                         |
-| ![](img/image10.png) | Strg+P                        | Report drucken                                           |
-| ![](img/image11.png) |                               | Report im RZL PDF-Drucker/RZL PDF-Manager Premium öffnen |
-| ![](img/image12.png) | Strg+Z                        | Rückgängig                                               |
-| ![](img/image13.png) | Strg+Y                        | Rückgängig gemachte Änderung wiederherstellen            |
-| ![](img/image14.png) | Strg+X                        | Textbereich ausschneiden und in Zwischenablage stellen   |
-| ![](img/image15.png) | Strg+C                        | Textbereich in die Zwischenablage kopieren               |
-| ![](img/image16.png) | Strg+V                        | Textbereich aus Zwischenablage einfügen                  |
-| ![](img/image17.png) | Strg+F                        | öffnet den Suchen und Ersetzen Dialog                    |
-| ![](img/image18.png) | Strg+F                        | öffnet den Suchen und Ersetzen Dialog                    |
-|                      | Strg+I                        | öffnet Formeldialog zur sofortigen Bearbeitung           |
-|                      | Strg+E                        | Einfügen eines Erledigt-Symbols                          |
-|                      | Enter am Textblock            | Zeilenumbruch einfügen                                   |
-|                      | Enter am Nummernblock         | Tabstopp einfügen                                        |
-|                      | Tabulatortaste                | Tabstopp einfügen                                        |
-|                      | F4                            | Formeldialog zur Ansicht öffnen                          |
-|                      | Strg+Enter                    | manueller Seitenumbruch einfügen                         |
-|                      | Doppelklick linker Seitenrand | Markiert den gesamten Absatz bzw. die Tabelle            |
+| Symbol               | Tastenkombination             | Funktion                                                      |
+| -------------------- | ----------------------------- | ------------------------------------------------------------- |
+| ![](img/image8.png)  | Strg + N                      | Neuen Report öffnen                                           |
+| ![](img/image9.png)  | Strg + S                      | Report speichern                                              |
+| ![](img/image10.png) | Strg + P                      | Report drucken                                                |
+| ![](img/image11.png) |                               | Report im RZL PDF-Drucker bzw. RZL PDF-Manager Premium öffnen |
+| ![](img/image12.png) | Strg + Z                      | Rückgängig                                                    |
+| ![](img/image13.png) | Strg + Y                      | Rückgängig gemachte Änderung wiederherstellen                 |
+| ![](img/image14.png) | Strg + X                      | Textbereich ausschneiden und in Zwischenablage stellen        |
+| ![](img/image15.png) | Strg + C                      | Textbereich in die Zwischenablage kopieren                    |
+| ![](img/image16.png) | Strg + V                      | Textbereich aus Zwischenablage einfügen                       |
+| ![](img/image17.png) | Strg + F                      | öffnet den Suchen- und Ersetzen-Dialog                        |
+| ![](img/image18.png) | Strg + F                      | öffnet den Suchen- und Ersetzen-Dialog                        |
+|                      | Strg + I                      | öffnet den Formeldialog zur sofortigen Bearbeitung            |
+|                      | Strg + E                      | Einfügen eines Erledigt-Symbols                               |
+|                      | Enter am Textblock            | Zeilenumbruch einfügen                                        |
+|                      | Enter am Nummernblock         | Tabstopp einfügen                                             |
+|                      | Tabulatortaste                | Tabstopp einfügen                                             |
+|                      | F4-Taste                      | Formeldialog zur Ansicht öffnen                               |
+|                      | Strg + Enter                  | manueller Seitenumbruch einfügen                              |
+|                      | Doppelklick linker Seitenrand | markiert den gesamten Absatz bzw. die Tabelle                 |
   

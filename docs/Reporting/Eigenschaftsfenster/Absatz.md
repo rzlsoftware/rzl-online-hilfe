@@ -1,6 +1,6 @@
 # Absatz
 
-Durch das Markieren eines Textbereiches mittels Doppelklick auf einen Textbereich im linken Seitenbereich öffnet sich im rechten Bildschirmbereich das Eigenschaftsfenster zur Absatzformatierung. Dieses Fenster kann auch mit dem Kontextmenü und *Absatzeigenschaften* oder im Menüpunkt *Ansicht Eigenschaftsfenster Absatz* geöffnet werden.
+Durch das Markieren eines Textbereichs mittels Doppelklick auf einen Textbereich im linken Seitenbereich öffnet sich im rechten Bildschirmbereich das Eigenschaftsfenster zur Absatzformatierung. Dieses Fenster kann auch mit dem Kontextmenü *Absatzeigenschaften* oder im Menüpunkt *Ansicht Eigenschaftsfenster Absatz* geöffnet werden.
 
 ![Image](img/image66.png)
 
@@ -28,7 +28,7 @@ Zusammengehaltene Absätze werden im *Report Designer* mit einer Klammer dargest
 
 ## Verbergen
 
-Zur Hinterlegung von Kommentaren oder Bearbeitungsanweisungen können Texte/Absätze eingefügt und anschließend ausgeblendet werden. Somit werden sie beim Druck des Reports nicht angezeigt. Sie werden nur bei der Bearbeitung des Reports im *Report Designer* angezeigt.
+Zur Hinterlegung von Kommentaren oder Bearbeitungsanweisungen können Texte oder Absätze eingefügt und anschließend ausgeblendet werden. Somit werden sie beim Druck des Reports nicht angezeigt. Sie werden nur bei der Bearbeitung des Reports im *Report Designer* angezeigt.
 
 Markieren Sie dazu den gewünschten Textbereich. Mit dem Schnellstartsymbol ![Image](img/image30.png) oder durch Anwahl der Option *Absatz verbergen* in den *Absatzeigenschaften* wird der Bereich grau hinterlegt und somit ausgeblendet. Im linken Seitenbereich wird dieser Absatz mit einem blauen Balken markiert:
 

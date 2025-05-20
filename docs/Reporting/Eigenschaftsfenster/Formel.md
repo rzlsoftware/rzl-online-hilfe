@@ -10,7 +10,7 @@ Hier sind detaillierte Einstellungen zur Darstellung von Zahlen möglich.
 
 ![Image](img/image72.png)
 
-Neben Einstellungen zur *Währung* *und Position des Währungssymbols* können Sie mittels *Drop-Down Menü* bzw. Optionsanwahl den gewünschten Ausweis einstellen. Im *Farbumschlag* wird die Farbe für einen Negativwert der Formel definiert.
+Neben Einstellungen zur *Währung* *und Position des Währungssymbols* können Sie mittels *Drop-down-Menü* bzw. Optionsanwahl den gewünschten Ausweis einstellen. Im *Farbumschlag* wird die Farbe für einen Negativwert der Formel definiert.
 
 ## Datumsformat
 
@@ -18,7 +18,7 @@ Bei Datumsausgaben können Sie die Ausgabe des Datums gestalten.
 
 ![Image](img/image73.png)
 
-Neben Einstellungen zur Anzeige von Tag, Monat und Jahr kann zusätzlich der *Wochentag* und die *Zeit* angezeigt werden. Einzelne Parameter können auch ausgeblendet werden. Wählen Sie dazu im jeweiligen Drop-Down Menü *Nicht anzeigen* aus.
+Neben Einstellungen zur Anzeige von Tag, Monat und Jahr kann zusätzlich der *Wochentag* und die *Zeit* angezeigt werden. Einzelne Parameter können auch ausgeblendet werden. Wählen Sie dazu im jeweiligen Drop-down-Menü *Nicht anzeigen* aus.
 
 ## Dauerformat
 
@@ -26,7 +26,7 @@ Wird ein Dauerformat mit *Nicht anzeigen* definiert, wird automatisch die nächs
 
 **Beispiel:**
 
-Sie tragen die Formel *Dauer(AktuellesDatum;DN(1).Geburtsdatum)* in den Formeldialog ein um das Alter des Dienstnehmers in eine Liste führen zu können. Nun sehen Sie im rechten Bereich des *Report Designers* ein Formatierungsfenster. In diesem Formatierungsfenster für die Formel können Sie das  Dauerformat* festlegen. In unserem Beispiel soll nur die Jahreszahl angezeigt werden, deswegen wurden alle weiteren Formate (Monatsformat usw.) auf den Status „*Nicht anzeigen*" gesetzt.
+Sie tragen die Formel *Dauer(AktuellesDatum;DN(1).Geburtsdatum)* in den Formeldialog ein um das Alter des Dienstnehmers in eine Liste führen zu können. Nun sehen Sie im rechten Bereich des *Report Designers* ein Formatierungsfenster. In diesem Formatierungsfenster für die Formel können Sie das  *Dauerformat* festlegen. In unserem Beispiel soll nur die Jahreszahl angezeigt werden, deswegen wurden alle weiteren Formate (Monatsformat usw.) auf den Status *Nicht anzeigen* gesetzt.
 
 ![Image](img/image74.png)
 
@@ -44,7 +44,7 @@ Je nach Option kann hier der Wert null, kein Ausweis oder ein Fehlerausweis ausg
 
 ## Zahlenformatvorlagen anlegen oder ändern
 
-Zahlenformatvorlagen erleichtern Ihnen die schnellere Formatierung von Formeln. Durch das einmalige Anlegen einer Formatvorlage kann diese Formatierung mittels Drop-Down Auswahl in der Werkzeugleiste auf einen Formelwert angewendet werden. Markieren Sie die Zahl mit einem Doppelklick und wählen Sie in der Werkzeugleiste das gewünschte Zahlenformat im Drop-down-Menü an.
+Zahlenformatvorlagen erleichtern Ihnen die schnellere Formatierung von Formeln. Durch das einmalige Anlegen einer Formatvorlage kann diese Formatierung mittels Drop-down-Auswahl in der Werkzeugleiste auf einen Formelwert angewendet werden. Markieren Sie die Zahl mit einem Doppelklick und wählen Sie in der Werkzeugleiste das gewünschte Zahlenformat im Drop-down-Menü an.
 
 ## Bearbeitungsverhalten
 

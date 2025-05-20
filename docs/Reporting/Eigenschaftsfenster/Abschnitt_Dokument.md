@@ -1,6 +1,6 @@
 # Abschnitt (Dokument)
 
-Mit Anwahl des Menüpunktes *Ansicht / Eigenschaftsfenster / Abschnitt (Dokument)* wird das Eigenschaftsfenster für die allgemeinen Formatierungen des Dokuments geöffnet:
+Mit Anwahl des Menüpunkts *Ansicht / Eigenschaftsfenster / Abschnitt (Dokument)* wird das Eigenschaftsfenster für die allgemeinen Formatierungen des Dokuments geöffnet:
 
 ![Image](img/image65.png)
 
@@ -8,7 +8,7 @@ Durch Anwahl des jeweiligen Auswahlfeldes können Sie die Einstellungen mittels 
 
 ## Name
 
-Hier kann für den Abschnitt ein Name vergeben werden (z.B. Titelblatt).
+Hier kann für den Abschnitt ein Name vergeben werden (z. B. Titelblatt).
 
 ## Größe
 
@@ -20,9 +20,10 @@ Ausrichtung des Dokuments in Hoch- oder Querformat.
 
 ## Seitennummerierung
 
-***Seiten berücksichtigen:*** Hier wird eingestellt, ob die Seite(n) des Abschnittes für die Seitennummerierung berücksichtigt werden soll(en).
-
-***Seiten überspringen:*** Ab welcher Seitennummer das Dokument beginnen soll.
+|                             |                                                                                                                   |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Seiten berücksichtigen:** | Hier wird eingestellt, ob die Seite(n) des Abschnittes für die Seitennummerierung berücksichtigt werden soll(en). |
+| **Seiten überspringen:**    | Ab welcher Seitennummer das Dokument beginnen soll.                                                               |
 
 **Beispiel:** Das Dokument soll mit der Seitennummer 10 beginnen. Es wird bei Seiten überspringen die Ziffer 9 eingetragen. D.h. die Seitennummerierung beginnt mit der Nummer 10.
 

@@ -14,17 +14,17 @@ Grafiken können in Tabellenzellen eingefügt werden.
 
 ## Manueller Seitenumbruch
 
-Mit dem Menüpunkt *Einfügen / Manueller Seitenumbruch* oder der Tastenkombination *Strg+Enter* wird ein manueller Seitenumbruch im aktuell markierten Dokumentenbereich eingefügt.
+Mit dem Menüpunkt *Einfügen / Manueller Seitenumbruch* oder der Tastenkombination *Strg + Enter* wird ein manueller Seitenumbruch im aktuell markierten Dokumentenbereich eingefügt.
 
 Seitenübergreifende Absätze werden grundsätzlich automatisch getrennt. Um mehrere Absätze bewusst auf einer Seite darzustellen, können Sie diese miteinander verknüpfen. Markieren Sie dazu den gewünschten Absatz und setzen Sie im [*Absatzeigenschaftsfenster*](../Reporting/Eigenschaftsfenster/Absatz.md) die Option *Mit nächstem Absatz zusammenhalten*.
 
 ## Abschnittswechsel
 
-Wird der Menüpunkt *Einfügen / Abschnittswechsel* verwendet, beginnt eine neue Seite und zugleich ein neuer Abschnitt. Dieser Abschnitt kann über *Ansicht / Eigenschaftsfenster / Abschnitt (Dokument)* bearbeitet werden.
+Wird der Menüpunkt *Einfügen / Abschnittswechsel* verwendet, beginnt eine neue Seite und zugleich ein neuer Abschnitt. Dieser Abschnitt kann über *Ansicht / Eigenschaftsfenster / [Abschnitt (Dokument)](../Reporting/Eigenschaftsfenster/Abschnitt_Dokument.md)* bearbeitet werden.
 
 ## Geschütztes Leerzeichen
 
-Soll ein Text durch Eingabe eines Leerzeichens nicht getrennt werden, dann geben Sie über *Einfügen / Geschütztes Leerzeichen* dieses Leerzeichen hinein. Zum Beispiel bei „EUR 200,00".
+Soll ein Text durch Eingabe eines Leerzeichens nicht getrennt werden, dann geben Sie über *Einfügen / Geschütztes Leerzeichen* dieses Leerzeichen hinein. Zum Beispiel bei *EUR 200,00*.
 
 ## Zeilenumbruch
 
@@ -32,7 +32,7 @@ Soll ein Text durch Eingabe eines Leerzeichens nicht getrennt werden, dann geben
 
 ## Formel
 
-Über *Einfügen / Formel* öffnet sich das [Formel-Fenster](../Reporting/Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) und Sie können eine Formel anlegen.
+Über *Einfügen / Formel* öffnet sich das [Formelfenster](../Reporting/Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) und Sie können eine Formel anlegen.
 
 ![Image](img/image84.png)
 
@@ -53,7 +53,7 @@ Soll ein Text durch Eingabe eines Leerzeichens nicht getrennt werden, dann geben
 Grundvoraussetzung zur Erstellung eines Diagramms ist eine bestehende Datenquelle in Form einer Tabelle bei der die Werte in Form einer Formel eingegeben wurden. Sollte die Tabelle im ausgedruckten Report anschließend nicht sichtbar sein, kann sie für die [Ausgabe ausgeblendet](../Reporting/Report_bearbeiten/Text_und_Absatzbearbeitung.md) werden.
 
 !!! info "Tipp"
-    Scheint eine Datenquelle im Report nicht auf, d.h. auch nicht ausgegraut, können Sie diese in den *Diagrammeigenschaften* durch Anwahl der Option *Datenquelle ausblenden* wieder einblenden.
+    Scheint eine Datenquelle im Report nicht auf, d.h. auch nicht ausgegraut, können Sie diese in den [*Diagrammeigenschaften*](../Reporting/Eigenschaftsfenster/Diagramm.md) durch Anwahl der Option *Datenquelle ausblenden* wieder einblenden.
 
 ### Neues Diagramm erstellen
 

@@ -5,40 +5,40 @@ Die Textverarbeitung bietet Ihnen neben standardisierten Gestaltungsmöglichkeit
 !!! info "Tipp"
     Blenden Sie sich zur Bearbeitung des Reports die Absatzmarken und den verborgenen Text ein, damit erleichtern Sie sich die Bearbeitung und Layoutgestaltung.
 
-Zur Formatierung stehen unterschiedliche Tools zur Verfügung. Neben der Werkzeugleiste können Sie das Eigenschaftsfenster oder das Kontextmenü (Aufruf mit der rechten Maustaste) des jeweils markierten Textbereiches verwenden. Zusätzlich können individuelle Formatvorlagen zur Formatierung gestaltet werden.
+Zur Formatierung stehen unterschiedliche Tools zur Verfügung. Neben der Werkzeugleiste können Sie das Eigenschaftsfenster oder das Kontextmenü (Aufruf mit der rechten Maustaste) des jeweils markierten Textbereichs verwenden. Zusätzlich können individuelle Formatvorlagen zur Formatierung gestaltet werden.
 
 ## Die Werkzeugleiste für Text-/Absatzformatierungen
 
-In der Werkzeugleiste stehen folgende Möglichkeiten zur Text-/Absatzformatierung zur Verfügung:
+In der Werkzeugleiste stehen folgende Möglichkeiten zur Text- und Absatzformatierung zur Verfügung:
 
-| Schaltfläche              | Bedeutung                                              |
-| ------------------------- | ------------------------------------------------------ |
-| ![Image](img/image19.png) | Auswahl der Textformatvorlage (Standard/Überschriften) |
-| ![Image](img/image20.png) | Auswahl der Schriftart                                 |
-| ![Image](img/image21.png) | Schriftgröße einstellen                                |
-| ![Image](img/image22.png) | fett                                                   |
-| ![Image](img/image23.png) | kursiv                                                 |
-| ![Image](img/image24.png) | unterstrichen                                          |
-| ![Image](img/image25.png) | Text wird durchgestrichen                              |
-| ![Image](img/image26.png) | Text wird tiefgestellt                                 |
-| ![Image](img/image27.png) | Text wird hochgestellt                                 |
-| ![Image](img/image28.png) | Schriftfarbe auswählen                                 |
-| ![Image](img/image29.png) | Textmarkierungsfarbe auswählen                         |
-| ![Image](img/image30.png) | markierten Text verbergen                              |
-| ![Image](img/image31.png) | Absatzausrichtung linksbündig                          |
-| ![Image](img/image32.png) | Absatzausrichtung zentriert                            |
-| ![Image](img/image33.png) | Absatzausrichtung rechtsbündig                         |
-| ![Image](img/image34.png) | Absatzausrichtung Blocksatz                            |
-| ![Image](img/image35.png) | Absatzmarken und Formatierungssymbole ein-/ausblenden  |
-| ![Image](img/image36.png) | Formeltext ein-/ausblenden                             |
-| ![Image](img/image37.png) | Verborgenen Text ein-/ausblenden                       |
-| ![Image](img/image38.png) | Einzeilige Formeltabellen                              |
-| ![Image](img/image39.png) | Zweite Dokumentansicht öffnen                          |
-| ![Image](img/image40.png) | Formel einfügen                                        |
-| ![Image](img/image41.png) | Formelliste öffnen                                     |
-| ![Image](img/image42.png) | Formelsuche öffnen                                     |
+| Schaltfläche              | Bedeutung                                                  |
+| ------------------------- | ---------------------------------------------------------- |
+| ![Image](img/image19.png) | Auswahl der Textformatvorlage (Standard/Überschriften)     |
+| ![Image](img/image20.png) | Auswahl der Schriftart                                     |
+| ![Image](img/image21.png) | Schriftgröße einstellen                                    |
+| ![Image](img/image22.png) | fett                                                       |
+| ![Image](img/image23.png) | kursiv                                                     |
+| ![Image](img/image24.png) | unterstrichen                                              |
+| ![Image](img/image25.png) | Text wird durchgestrichen                                  |
+| ![Image](img/image26.png) | Text wird tiefgestellt                                     |
+| ![Image](img/image27.png) | Text wird hochgestellt                                     |
+| ![Image](img/image28.png) | Schriftfarbe auswählen                                     |
+| ![Image](img/image29.png) | Textmarkierungsfarbe auswählen                             |
+| ![Image](img/image30.png) | markierten Text verbergen                                  |
+| ![Image](img/image31.png) | Absatzausrichtung linksbündig                              |
+| ![Image](img/image32.png) | Absatzausrichtung zentriert                                |
+| ![Image](img/image33.png) | Absatzausrichtung rechtsbündig                             |
+| ![Image](img/image34.png) | Absatzausrichtung Blocksatz                                |
+| ![Image](img/image35.png) | Absatzmarken und Formatierungssymbole ein- oder ausblenden |
+| ![Image](img/image36.png) | Formeltext ein- oder ausblenden                            |
+| ![Image](img/image37.png) | Verborgenen Text ein- oder ausblenden                      |
+| ![Image](img/image38.png) | Einzeilige Formeltabellen                                  |
+| ![Image](img/image39.png) | Zweite Dokumentansicht öffnen                              |
+| ![Image](img/image40.png) | Formel einfügen                                            |
+| ![Image](img/image41.png) | Formelliste öffnen                                         |
+| ![Image](img/image42.png) | Formelsuche öffnen                                         |
 
-## Texte/Absätze ausblenden
+## Texte und Absätze ausblenden
 
 **Ausblendung mit Bedingungsformel**
 
@@ -48,13 +48,13 @@ Der betroffene Absatz wird im Bearbeitungsmodus grau dargestellt. Sofern die im 
 
 ![Image](img/image43.png)
 
-## Eingabefelder/Eingabewerte in Reports
+## Eingabefelder oder Eingabewerte in Reports
 
 Bestimmte Bereiche in Reports können mit Eingabefeldern ausgestattet sein, um den Report einfach verändern zu können.
 
 **Ein Beispiel** hierfür ist der Unternehmensreport.
 
-Grün markierte Felder können mittels *Doppelklick*, oder *F4-Taste* bearbeitet werden. Wird beispielsweise beim Punkt *Eingabe Monat* 3 eingetragen, wird der Unternehmensreport für März erstellt. Die Kästchen sind Optionen, die entweder dazu- oder weggeschalten werden können. Die Texte der KER-Gliederungen und die KER-Gliederungen selbst, können entweder mittels Formel oder manuell eingetragen werden. Soll die Eingabe beendet werden kann der Eingabedialog mit der *ESC-Taste*, oder der Tastenkombination *Return + Enter-Taste* geschlossen werden.
+Grün markierte Felder können mittels *Doppelklick*, oder *F4-Taste* bearbeitet werden. Wird beispielsweise beim Punkt *Eingabe Monat* 3 eingetragen, wird der Unternehmensreport für März erstellt. Die Kästchen sind Optionen, die entweder dazu- oder weggeschalten werden können. Die Texte der KER-Gliederungen und die KER-Gliederungen selbst, können entweder mittels Formel oder manuell eingetragen werden. Soll die Eingabe beendet werden, kann der Eingabedialog mit der *ESC-Taste*, oder der Tastenkombination *Return + Enter-Taste* geschlossen werden.
 
 ![Image](img/image44.png){width="400"}
 
@@ -70,7 +70,7 @@ Zuerst stellen Sie den Cursor an die Stelle, an welcher das Eingabefeld künftig
 
 Vergeben Sie nun einen Namen für das Eingabefeld. Wichtig dabei ist, dass keine Leerzeichen erlaubt sind. Wurde ein Name vergeben, ist die Schaltfläche *Extrahieren* aktiv. Klicken Sie zum Abschluss auf *Extrahieren*.
 
-Das Eingabefeld wird nun in gelber Farbe dargestellt. Sie müssen nun noch definieren, dass es sich um keine Formel, sondern um ein Eingabefeld handelt. Dies können Sie über die *Formeleigenschaften* ändern (*Ansicht / Eigenschaftsfenster / Formel*).
+Das Eingabefeld wird nun in gelber Farbe dargestellt. Sie müssen nun noch definieren, dass es sich um keine Formel, sondern um ein Eingabefeld handelt. Dies können Sie über die [*Formeleigenschaften*](../Eigenschaftsfenster/Formel.md) ändern (*Ansicht / Eigenschaftsfenster / Formel*).
 
 ![Image](img/image46.png)
 
@@ -98,7 +98,7 @@ Mit einem Doppelklick auf den Tabstopp im Lineal wird das Eigenschaftsfenster zu
 !!! warning "Hinweis"
     Die Ausrichtung von Absätzen bzw. komplexeren Formatierungen innerhalb eines Absatzes können oft in einer [Tabelle](../Tabelle.md) schneller und präziser gelöst werden.
 
-Soll der Tabulator mit einem Füllzeichen .... ausgefüllt werden, so besteht die Möglichkeit über den Menüpunkt *Ansicht / Eigenschaftsfenster / Tabulator* das Füllzeichen auszuwählen. Ein praktisches Beispiel hierfür wäre die Erstellung eines Inhaltsverzeichnisses über den *Report Designer*.
+Soll der Tabulator mit einem Füllzeichen ... ausgefüllt werden, so besteht die Möglichkeit über den Menüpunkt *Ansicht / Eigenschaftsfenster / Tabulator* das Füllzeichen auszuwählen. Ein praktisches Beispiel hierfür wäre die Erstellung eines Inhaltsverzeichnisses über den *Report Designer*.
 
 Es öffnet sich nachfolgendes Fenster auf der rechten Seite.
 

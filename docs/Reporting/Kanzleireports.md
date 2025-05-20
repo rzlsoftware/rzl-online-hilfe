@@ -28,7 +28,7 @@ Vor dem Überspielen der gewünschten Reports auf den Klienten erscheint folgend
 
 ![Image](img/image4.png){width="350"}
 
-Mit Klick auf „*Ja*" kann das Überspielen einige Sekunden in Anspruch nehmen.
+Mit Klick auf *Ja* kann das Überspielen einige Sekunden in Anspruch nehmen.
 
 !!! warning "Hinweis"
     Wurde die obige Hinweismeldung mit *Ja* bestätigt, darf der Vorgang **keinesfalls** abgebrochen werden. Es könnte ansonsten zu Datenverlusten kommen.
@@ -45,7 +45,7 @@ Das Öffnen eines Reports ist vom jeweiligen Programm abhängig.
 
 | Programm                         |                                                       |
 | -------------------------------- | ----------------------------------------------------- |
-| RZL Bilanz                       | über *Analyse/Bericht /Report* öffnen                 |
+| RZL Bilanz                       | über *Analyse/Bericht /Report öffnen*                 |
 | RZL Finanzbuchhaltung            | über *Reporting / Report öffnen*                      |
 | RZL Lohn                         | über *Report / Report* *öffnen*                       |
 | RZL Einnahmen/Ausgaben Abschluss | über *EA-Analyse/EA-Bericht / Report öffnen*          |
