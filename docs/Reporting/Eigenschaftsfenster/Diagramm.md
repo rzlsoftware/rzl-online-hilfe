@@ -6,7 +6,7 @@ Zur Formatierung der Diagramme stehen Ihnen die Diagrammeigenschaften zur Verfü
 
 ## Allgemeine Diagrammeinstellungen
 
-Neben dem Diagrammtyp und der Farbvorlage können Sie hier die Ausrichtung (Datenbezug nach Spalten oder Zeilen) auswählen. Die verwendeten Farben hängen von der gewählten Farbformatvorlage ab. Diese kann unter *Bearbeiten / [Farbformatvorlage](../Report_bearbeiten/Formatvorlagen.md)* neu angelegt bzw. abgeändert werden. Mit dem Häkchen *Datenquelle ausblenden* können Sie die verwendete Tabelle für den Ausdruck ausblenden/einblenden.
+Neben dem Diagrammtyp und der Farbvorlage können Sie hier die Ausrichtung (Datenbezug nach Spalten oder Zeilen) auswählen. Die verwendeten Farben hängen von der gewählten Farbformatvorlage ab. Diese kann unter *Bearbeiten / [Farbformatvorlage](../Report_bearbeiten/Formatvorlagen.md)* neu angelegt bzw. abgeändert werden. Mit dem Häkchen *Datenquelle ausblenden* können Sie die verwendete Tabelle für den Ausdruck aus- bzw. einblenden.
 
 ## Säulendiagramm/Kreisdiagramm/Liniendiagramm
 
@@ -22,4 +22,4 @@ Die Ausrichtung von Grafik und Legende ist in den jeweiligen Bereichen möglich.
 
 ## Schriftart anpassen
 
-Die im Diagramm verwendeten Schriften zur Legende, Achsenbeschriftung und Überschrift können nach jeweiliger Auswahl mit Hilfe der Werkzeugleiste formatiert werden.
+Die im Diagramm verwendeten Schriften zur Legende, Achsenbeschriftung und Überschrift können nach jeweiliger Auswahl mithilfe der Werkzeugleiste formatiert werden.

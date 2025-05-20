@@ -22,11 +22,11 @@ Neben Einstellungen zur Anzeige von Tag, Monat und Jahr kann zusätzlich der *Wo
 
 ## Dauerformat
 
-Wird ein Dauerformat mit *Nicht anzeigen* definiert, wird automatisch die nächst höhere Ebene des Formates ausgewählt und der Wert laut eingegebenen  Dezimalstellen gerundet.
+Wird ein Dauerformat mit *Nicht anzeigen* definiert, wird automatisch die nächsthöhere Ebene des Formats ausgewählt und der Wert laut eingegebener  Dezimalstellen gerundet.
 
 **Beispiel:**
 
-Sie tragen die Formel *Dauer(AktuellesDatum;DN(1).Geburtsdatum)* in den Formeldialog ein um das Alter des Dienstnehmers in eine Liste führen zu können. Nun sehen Sie im rechten Bereich des *Report Designers* ein Formatierungsfenster. In diesem Formatierungsfenster für die Formel können Sie das  Dauerformat* festlegen. In unserem Beispiel soll nur die Jahreszahl angezeigt werden, deswegen wurden alle weiteren Formate (Monatsformat usw.) auf den Stauts „*Nicht anzeigen*" gesetzt.
+Sie tragen die Formel *Dauer(AktuellesDatum;DN(1).Geburtsdatum)* in den Formeldialog ein um das Alter des Dienstnehmers in eine Liste führen zu können. Nun sehen Sie im rechten Bereich des *Report Designers* ein Formatierungsfenster. In diesem Formatierungsfenster für die Formel können Sie das  Dauerformat* festlegen. In unserem Beispiel soll nur die Jahreszahl angezeigt werden, deswegen wurden alle weiteren Formate (Monatsformat usw.) auf den Status „*Nicht anzeigen*" gesetzt.
 
 ![Image](img/image74.png)
 
@@ -44,7 +44,7 @@ Je nach Option kann hier der Wert null, kein Ausweis oder ein Fehlerausweis ausg
 
 ## Zahlenformatvorlagen anlegen oder ändern
 
-Zahlenformatvorlagen erleichtern Ihnen die schnellere Formatierung von Formeln. Durch das einmalige Anlegen einer Formatvorlage kann diese Formatierung mittels Drop-Down Auswahl in der Werkzeugleiste auf einen Formelwert angewendet werden. Markieren Sie die Zahl mit einem Doppelklick und wählen Sie in der Werkzeugleiste das gewünschte Zahlenformat im Drop-Down Menü an.
+Zahlenformatvorlagen erleichtern Ihnen die schnellere Formatierung von Formeln. Durch das einmalige Anlegen einer Formatvorlage kann diese Formatierung mittels Drop-Down Auswahl in der Werkzeugleiste auf einen Formelwert angewendet werden. Markieren Sie die Zahl mit einem Doppelklick und wählen Sie in der Werkzeugleiste das gewünschte Zahlenformat im Drop-down-Menü an.
 
 ## Bearbeitungsverhalten
 

@@ -22,11 +22,11 @@ Wählen Sie eine Hintergrundfarbe aus.
 
 ## Sortierreihenfolge
 
-Hier haben Sie die Möglichkeit, eine Sortierung der Spalte vorzunehmen. *Aufsteigend* und *Absteigend*.
+Hier haben Sie die Möglichkeit, eine Sortierung der Spalte vorzunehmen: *Aufsteigend* oder *Absteigend*.
 
 ## Sortierpriorität
 
-Nach der Sortierreihenfolge können Sie hier wählen, welche Spalte, in welcher Sortierreihenfolge Vorrang hat. Wenn die Spalte „Nachname" aufsteigend sein soll und vorrangig zur Spalte „Vorname" sein soll, geben Sie bei „Nachname" die Sortierpriorität 1 hinein und bei der Spalte „Vorname" die  Sortierpriorität 2.
+Nach der Sortierreihenfolge können Sie hier wählen, welche Spalte, in welcher Sortierreihenfolge Vorrang hat. Wenn die Spalte „Nachname" aufsteigend sein soll und vorrangig zur Spalte „Vorname" sein soll, geben Sie bei „Nachname" die Sortierpriorität 1 ein und bei der Spalte „Vorname" die  Sortierpriorität 2.
 
 ## Abstand zum Rahmen
 

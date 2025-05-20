@@ -22,7 +22,7 @@ Wählen Sie eine Hintergrundfarbe aus.
 
 ## Nächste Zeile
 
-Hier können Sie auswählen, ob das *Standard*verhalten einer Tabellenzeile angewendet, die *Zeile zusammengehalten* oder auf einer *neuen Seite* dargestellt werden soll.
+Hier können Sie auswählen, ob das *Standardverhalten* einer Tabellenzeile angewendet, die *Zeile zusammengehalten* oder auf einer *neuen Seite* dargestellt werden soll.
 
 ## Abstand zum Rahmen
 

@@ -14,4 +14,4 @@ Wählen Sie eine Hintergrundfarbe aus.
 
 ## Abstand zum Rahmen
 
-Stellen Sie hier ein, wie sich der Abstand (*Links*, *Oben*, *Rechts* oder *Unten*) zum Rahmen verhalten soll.
+Stellen Sie hier ein, wie groß der Abstand (*Links*, *Oben*, *Rechts* oder *Unten*) zum Rahmen sein soll.

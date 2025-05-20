@@ -5,6 +5,6 @@ Formatierungen eines Textes können neben der [Werkzeugleiste](../Report_bearbei
 ![Image](img/image69.png)
 
 !!! info "Tipp"
-    Sofern Sie bereits mehrere Eigenschaftsfenster angewählt haben, können Sie im unteren Bereich des Eigenschaftsfensters zwischen den einzelnen Ansichten wechseln:
+    Sofern Sie bereits mehrere Eigenschaftsfenster geöffnet haben, können Sie im unteren Bereich des Eigenschaftsfensters zwischen den einzelnen Ansichten wechseln:
     
     ![Image](img/image70.png)
