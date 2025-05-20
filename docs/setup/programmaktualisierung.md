@@ -15,10 +15,10 @@ Voraussetzungen erfüllt sein:
   standardmäßig automatisch installiert).
 - Falls *Kanzlei-Informations-System / Board* oder *Firmen-Board mit
   Basis-Modul Belege* installiert ist, sind erweiterte Benutzerrechte
-  auf die SQL-Datenbank notwendig [*siehe zusätzliche Konfigurationen*](/setup/installation-kis-board/#zusatzliche-konfigurationen-optional).
+  auf die SQL-Datenbank notwendig [*siehe zusätzliche Konfigurationen*](installation-kis-board.md#zusatzliche-konfigurationen-optional).
 - Wird der RZL-Dienst eingesetzt, kann die Aktualisierung nicht mehr
   an jedem beliebigen Arbeitsplatz gestartet werden, sondern nur noch
-  auf dem Gerät, auf dem der RZL-Dienst installiert ist [*siehe RZL-Dienst*](/setup/dienst-installieren).
+  auf dem Gerät, auf dem der RZL-Dienst installiert ist [*siehe RZL-Dienst*](dienst-installieren.md).
 
 ## Aktualisierung starten
 

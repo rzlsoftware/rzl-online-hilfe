@@ -2,7 +2,7 @@
 
 Damit Sie die kosten- und lizenzpflichtige Dokumentenverwaltung Plus
 aktivieren können, müssen der RZL Dienst installiert (siehe
-[*RZL Dienst installieren*](/setup/dienst-installieren)), sowie einige zusätzliche
+[*RZL Dienst installieren*](dienst-installieren.md)), sowie einige zusätzliche
 technische Voraussetzungen am Datenbankserver erfüllt sein.
 Um diese Voraussetzungen zu prüfen und eventuell fehlende Komponenten
 bzw. Konfigurationen einzurichten, verwenden Sie bitte unseren
