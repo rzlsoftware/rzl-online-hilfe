@@ -76,3 +76,7 @@ figcaption {
   height: 1.2rem;
   width: 1.5rem;
 }
+
+.md-typeset [data-clipboard-text] {
+  cursor: pointer;
+}
