@@ -2,7 +2,7 @@
 
 ![Image](<img/image25.png>){width="500"}
 
-**Kommunalsteuer**
+## Kommunalsteuer
 
 Ist der Dienstgeber grundsätzlich kommunalsteuerpflichtig, so ist dieses Feld zu aktivieren. Eventuelle Kommunalsteuerfreibeträge werden vom Programm automatisch berücksichtigt.
 
@@ -40,7 +40,7 @@ Für die automatische Eintragung des Monats und des Jahres können Sie die Kürz
 
 Wenn eine [Kommunalsteuer-Schließungserklärung](../../Elektronische%20Kommunalsteuererklärung.md) erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen.
 
-**U-Bahn-Abgabe**
+## U-Bahn-Abgabe
 
 Hier wird festgelegt, ob der Dienstgeber grundsätzlich der U-Bahn-Abgabe in Wien unterliegt. Diese Angabe wird unter anderem für den Ausdruck der Dienstgeber-Abgaben-Erklärung benötigt.
 

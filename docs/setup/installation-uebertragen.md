@@ -4,7 +4,7 @@
 
 ### RZL Daten sichern
 
-Gehen Sie wie im Kapitel [*RZL Daten sichern*](/setup/daten-sichern) beschrieben vor.
+Gehen Sie wie im Kapitel [*RZL Daten sichern*](daten-sichern.md) beschrieben vor.
 
 ### Installieren Sie RZL in der neuen Umgebung
 
@@ -12,12 +12,12 @@ Den Downloadlink für die aktuelle RZL-Komplettversion finden Sie unter Download
 der RZL Technik-Knowledge-Base unter [*rzlsoftware.at/kb*](https://rzlsoftware.at/kb).
 
 Eine genaue Beschreibung zur Installation finden Sie im Kapitel
-[*Installation*](/setup/installation).
+[*Installation*](installation.md).
 
 ### RZL Daten wiederherstellen
 
 Stellen Sie die gesicherten Daten wie in Kapitel
-[*RZL Daten wiederherstellen*](/setup/daten-wiederherstellen) beschrieben in der neuen
+[*RZL Daten wiederherstellen*](daten-wiederherstellen.md) beschrieben in der neuen
 Umgebung wieder her.
 
 ### Zurücklegen der Lizenz bei der alten Installation
@@ -26,7 +26,7 @@ Sie werden beim Sichern der Daten aufgefordert, die Lizenz zurückzulegen.
 
 ### Neue Installation lizenzieren
 
-Gehen Sie wie im Kapitel [*RZL Lizenzierung*](/setup/lizenzierung) beschrieben vor.
+Gehen Sie wie im Kapitel [*RZL Lizenzierung*](lizenzierung.md) beschrieben vor.
 
 ### Deinstallation und Bereinigung der alten Installation
 

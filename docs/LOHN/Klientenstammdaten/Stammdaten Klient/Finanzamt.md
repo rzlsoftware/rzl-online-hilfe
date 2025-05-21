@@ -2,6 +2,8 @@
 
 ![Image](<img/image24.png>){width="500"}
 
+## Finanzamt
+
 **Finanzamt Steuernummer**
 
 Die Nummer der zuständigen Dienststelle und die Steuernummer werden automatisch aus der *ZMV* übernommen. Bei der Anlage von [Unterdienstgebern](../Unterdienstgeber.md) können Sie abweichende Eingaben vornehmen.
@@ -17,6 +19,8 @@ Für die automatische Eintragung des Monats und des Jahres können Sie die Kürz
 
 !!! warning "Hinweis"
     In Ausnahmefällen kann durch Anwahl der Schaltfläche *Details* das Zahlungsreferenzfeld für jeden Monat einzeln eingetragen werden. Diese Möglichkeit können Sie dann verwenden, wenn die von der Behörde vergebenen Kundendatenfelder unsystematisch sind.
+
+## Dienstgeberbeitrag und Zuschlag zum Dienstgeberbeitrag
 
 **DB - Freibetrag berücksichtigen**
 
@@ -39,11 +43,11 @@ Im Abrechnungsbildschirm [*Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.
 
 Bis 2008 gab es die Möglichkeit, als Selbstträger der Familienbeihilfe den DB zu senken.
 
-**Fibu-Konten Lohnsteuer, DB, DZ**
+## Fibu-Konten Lohnsteuer, DB, DZ
 
 In diese drei Eingabefelder können Sie die jeweiligen Verbindlichkeitskonten eingeben. Die Eingabe ist für die Kontierung am Buchungsbeleg nötig.
 
-**Selbstbemessungsabgaben übermitteln**
+## Selbstbemessungsabgaben übermitteln
 
 Die Aktivierung dieses Feldes ermöglicht die Erstellung einer xml-Datei zur [Meldung der Selbstbemessungsabgaben](../../Selbstbemessungsabgaben melden.md) in FinanzOnline.
 

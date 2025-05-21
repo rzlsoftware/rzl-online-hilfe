@@ -2,6 +2,8 @@
 
 ![Image](<img/image136.png>)
 
+## Beschäftigungsdaten
+
 **Beschäftigt ab / Beschäftigungstage pro Woche**
 
 Die entsprechenden Daten werden vom Programm aus dem Erfassungsbildschirm [*Eintritt*](../Abrechnungsbildschirme/Eintritt.md) übernommen und angezeigt.
@@ -13,6 +15,8 @@ Handelt es sich um einen Vertragsbediensteten, ist dies im dafür vorgesehenen F
 **Tagesturnus**
 
 Dieses Feld stellt ein Pflichtfeld dar, in welches der Tagesturnus manuell einzutragen ist.
+
+## Letzter Arbeitstag, Grund der Arbeitseinstellung und Austrittsdaten
 
 **Letzter Arbeitstag**
 
@@ -30,7 +34,7 @@ Hier wird der Zeitraum eines eventuell konsumierten Gebührenurlaubes oder unbez
 
 Diese Felder werden automatisch, aufgrund der eingegebenen Daten im [*Austrittsbildschirm*](../Abrechnungsbildschirme/Austritt.md) angezeigt.
 
-**Anspruch auf Fortbezug des Entgeltes**
+## Anspruch auf Fortbezug des Entgeltes
 
 Besteht während des Beschäftigungsverbotes ein Anspruch auf Fortbezug des Entgeltes, wird dieser hier hinterlegt.
 
@@ -45,6 +49,8 @@ In diesem Feld wird der Zeitpunkt eingetragen, bis zu dem das halbe Entgelt fort
 **Mehr als halbes Entgelt bis**
 
 Hier wird jenes Datum hinterlegt, bis zu dem mehr als das halbe Entgelt fortbezahlt wird.
+
+## Verdienst
 
 **Verdienst der letzten drei Monate**
 
@@ -74,7 +80,7 @@ Sonderzahlungen sind Bezüge, die in größeren Zeiträumen als den Beitragszeit
 
 Tragen Sie hier den **Nettowert** der im Verdienst enthaltenen Provision bzw. Prämie ein. Wurde die Prämie bzw. Provision in der Sonderzahlung berücksichtigt, aktivieren Sie das Häkchen bei *Berücksicht. bei Sonderzahlung*.
 
-**Sachbezüge**
+## Sachbezüge
 
 Sachbezüge sind art- und mengenmäßig anzuführen. Als solche gelten u. a. freie Station, volle Verpflegung (1. Frühstück, 2. Frühstück, Mittag- und Abendessen, Jause), Wohnung, Bekleidung und Grunddeputat, wenn sie dem Arbeitnehmer unentgeltlich gewährt werden. Es ist auch anzugeben, an wie viel Tagen pro Woche Sachbezüge gewährt werden. Beitragspflichtige Sachbezüge, die während der Wochenhilfe nicht weiter gewährt werden, sind in den Netto-Arbeitsverdienst zu inkludieren.
 
@@ -88,7 +94,7 @@ Wird der Sachbezug während des Wochengeldbezuges weitergewährt, muss dieses Fe
 
 Aktivieren Sie dieses Feld, wenn der Sachbezug im Arbeitsverdienst enthalten ist.
 
-**Unterbrechung des Bezugs**
+## Unterbrechung des Bezugs
 
 Fallen in diese drei Kalendermonate Zeiten, in welchen die werdende Mutter keinen oder nicht den vollen Arbeitsverdienst erhalten hat, sind diese Zeiten als Unterbrechung anzuführen und bleiben beim Netto-Arbeitsverdienst außer Betracht.
 
@@ -101,7 +107,7 @@ Unterbrechung des vollen Lohnes bzw. Gehaltes wegen
 - einer Maßnahme nach dem Epidemie- oder Tierseuchengesetz und
 - Teilnahme an Schulungs- und Bildungsveranstaltungen im Rahmen der besonderen Vorschriften über die erweiterte Bildungsfreistellung.
 
-**Pragmatisierung**
+## Pragmatisierung
 
 Liegt eine *Pragmatisierung* vor, so ist diese im Eingabefeld zu aktivieren und der Pragmatisierungsbeginn einzutragen.
 

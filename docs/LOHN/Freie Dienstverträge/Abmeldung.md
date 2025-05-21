@@ -4,6 +4,8 @@
 
 Im Abrechnungsbildschirm Abmeldung sind folgende Eingabefelder vorgesehen:
 
+## Austritt
+
 **Ende der Tätigkeit**
 
 Eingabe des Datums der Beendigung der Tätigkeit. Vom Programm wird als Abmeldedatum der Letzte des Kalendermonats, in dem die Tätigkeit beendet wird, automatisch ermittelt und angezeigt.
@@ -32,14 +34,14 @@ Eingabe des Datums des Beginns einer anderen Pflichtversicherung aufgrund dieser
 
 Das Abmeldedatum ist der letzte Tag des Kalendermonats, in dem die Tätigkeit beendet wird bzw. in dem eine andere Pflichtversicherung beginnt.
 
-**Ende BV-Beitragspflicht**
+## Ende BV-Beitragspflicht
 
 Das Datum Ende BV-Beitragspflicht wird vom Programm automatisch ermittelt.
 
-**Mutterschutz / Karenzurlaub**
+## Mutterschutz / Karenzurlaub
 
 Hier können die Daten der Geburt und des Mutterschutzes erfasst werden.
 
-**Mutterschutzmeldung gemäß § 3 Abs 6 MSchG**
+## Mutterschutzmeldung gemäß § 3 Abs 6 MSchG
 
 Wählen Sie das entsprechende *Arbeitsinspektorat* aus und geben Sie eine kurze Beschreibung des *Arbeitsplatzes* bzw. der *Tätigkeit* ein. Nach erfolgreicher Eingabe der Daten kann über *Ausdruck / Sonderdrucke / Mutterschutzmeldung an das Arbeitsinspektorat* die Mutterschutzmeldung ausgedruckt werden.
