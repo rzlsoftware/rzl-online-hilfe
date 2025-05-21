@@ -4,7 +4,7 @@ Das Kontextmenü kann mit einem *rechten Mausklick* im Dokument geöffnet werden
 
 ![Image](img/image109.png)
 
-## Absatzbedingungen hinterlegen/ändern
+## Absatzbedingungen hinterlegen und ändern
 
 Durch Anwahl des Punktes *Absatzbedingungen hinterlegen/ändern* im *Kontextmenü* öffnet sich das Formeldialog-Fenster im Modus *Bedingungsformel (F8)*. Hier können Sie eine [Bedingungsformel](../Reporting/Formeln/Einfuegen_und_Bearbeiten_von_Formeln.md) hinterlegen.
 

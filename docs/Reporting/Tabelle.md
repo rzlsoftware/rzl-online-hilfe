@@ -18,15 +18,15 @@ Anschließend öffnet sich ein Dialogfenster zur Eingabe eines Tabellennamens, d
 
 Zur Formatierung und Bearbeitung einzelner Tabellenbereiche müssen diese zunächst ausgewählt werden. Danach können die gewünschten Änderungen mit Hilfe des Eigenschaftsfensters und Kontextmenüs (rechte Maustaste) ausgeführt werden:
 
-#### Markieren einer ganzen Tabellenzeile
+**Markieren einer ganzen Tabellenzeile**
 
-Klicken Sie einmal mit dem Mauszeiger am linken Seitenrand der gewünschten Zeile, die markierte Zeile wird blau hinterlegt. Dadurch wird das [Eigenschaftsfenster](../Reporting/Eigenschaftsfenster/Tabellenzeile.md) auf Tabellenzeile angepasst. Sie können nun die Abstände bzw. Zeilenhöhe, Ausrichtungen, Hintergrundfarben etc. bearbeiten.
+Klicken Sie einmal mit dem Mauszeiger am linken Seitenrand der gewünschten Zeile, die markierte Zeile wird blau hinterlegt. Dadurch wird das Eigenschaftsfenster auf [Tabellenzeile](../Reporting/Eigenschaftsfenster/Tabellenzeile.md) angepasst. Sie können nun die Abstände bzw. Zeilenhöhe, Ausrichtungen, Hintergrundfarben etc. bearbeiten.
 
-#### Markieren einer Spalte
+**Markieren einer Spalte**
 
-Setzen Sie den Mauszeiger an den Spaltenanfang bis er die Form eines Pfeils nach unten annimmt. Klicken Sie doppelt mit der linken Maustaste. Es öffnet sich nun das Eigenschaftsfenster für die Tabellenspalte. Sie können hier den Abstand zum Rahmen und die [Tabellenspalteneigenschaften](../Reporting/Eigenschaftsfenster/Tabellenspalte.md) bearbeiten.
+Setzen Sie den Mauszeiger an den Spaltenanfang bis er die Form eines Pfeils nach unten annimmt. Klicken Sie doppelt mit der linken Maustaste. Es öffnet sich nun das Eigenschaftsfenster für die [Tabellenspalte](../Reporting/Eigenschaftsfenster/Tabellenspalte.md). Sie können hier den Abstand zum Rahmen und die Tabellenspalteneigenschaften bearbeiten.
 
-#### Markieren einer einzelnen Zelle
+**Markieren einer einzelnen Zelle**
 
 Ziehen Sie dazu den gedrückten Mauszeiger über das Feld bis die gesamte Zeile blau markiert ist. Sie können nun die Zelle in den [Tabellenzelleneigenschaften](../Reporting/Eigenschaftsfenster/Tabellenzelle.md) bearbeiten.
 
@@ -50,15 +50,15 @@ Je nach markiertem Feldbereich (ganze Tabelle / Spalten / Zeilen / Zellen) könn
 
 Formatierungen sind zum einen über die *Tabelleneigenschaften* im rechten Bildschirmbereich, zum anderen über das *Kontextmenü* über die *rechte Maustaste* möglich.
 
-#### Tabellenrahmen anpassen
+**Tabellenrahmen anpassen**
 
 Durch Aufruf des Kontextmenüs im Tabellenbereich und der Anwahl des Punktes *Tabellenrahmen* können Sie die Linienart der Tabelle einstellen.
 
-![Image](img/image107.png)
+![Image](img/image107.png){width="500"}
 
 Mit Anwahl der jeweiligen Schaltfläche werden die vorgenommenen Einstellungen in der Vorschau angezeigt. Diese gelten immer für den aktuell markierten Bereich. Wenn Sie beispielsweise nur die Rahmenlinien einer Zeile formatieren möchten, ist diese vor Anwahl des Kontextmenüs zu markieren.
 
-## Tabellen-Eigenschaften
+## Tabelle
 
 Durch Anwahl des jeweiligen Menüpunktes im Kontextmenü können Sie gewünschte Formatierungen durchführen:
 
@@ -68,7 +68,7 @@ In den Tabelleneigenschaften kann der Tabellenname und Seiteneinzug geändert we
 
 #### Zeileneigenschaften
 
-Markieren Sie zur Anpassung und Ausrichtung die gewünschte Zeile und rufen Sie im Kontextmenü die [*Zeileneigenschaften*](../Reporting/Eigenschaftsfenster/Tabellenzeile.md) auf. Im Zeilentyp können Sie auch eine *Kopf-*/*Fußzeile* definieren. Diese Zeile wird bei seitenübergreifenden Tabellen auf jeder Seite angedruckt.
+Markieren Sie zur Anpassung und Ausrichtung die gewünschte Zeile und rufen Sie im Kontextmenü die [*Zeileneigenschaften*](../Reporting/Eigenschaftsfenster/Tabellenzeile.md) auf. Im Zeilentyp können Sie auch eine *Kopf- und Fußzeile* definieren. Diese Zeile wird bei seitenübergreifenden Tabellen auf jeder Seite angedruckt.
 
 #### Zelleneigenschaften
 

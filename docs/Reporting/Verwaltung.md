@@ -29,7 +29,7 @@ Sofern ein neuer Report erstellt wurde, erhalten Sie einen Zwischendialog zur Ei
 !!! warning "Hinweis"
     Sobald Sie einen Report auf einen Klienten überspielt haben, wird durch die Sicherung des Klienten der Report mitgesichert. Ein individuelles Speichern ist nur im Zuge der Erstellung bzw. der Bearbeitung notwendig.
 
-## Export/Import eines Reports
+## Export und Import eines Reports
 
 Reports eines Klienten können zur Weitergabe auch als XML-Struktur gespeichert werden. Dadurch werden keine klientenspezifischen Daten weitergegeben. Im Report-*Öffnen Dialogfenster* können Sie die Auswertungen exportieren:
 
@@ -51,9 +51,9 @@ Im *Report-Öffnen* Dialogfenster können Sie nach Anwahl des gewünschten Repor
 
 Für den Ausdruck eines Reports muss dieser zunächst geöffnet werden. Anschließend stehen Ihnen folgende Druckmöglichkeiten zur Verfügung:
 
-### Ausgabe über den RZL PDF-Drucker/RZL PDF-Manager Premium
+### Ausgabe über den RZL PDF-Drucker bzw. RZL PDF-Manager Premium
 
-Zur Vorabansicht bzw. für die Sicherung des Reports als PDF-Dokument empfiehlt sich die Ausgabe im RZL PDF-Drucker/RZL PDF-Manager Premium. Wählen Sie dazu den Menüpunkt *Datei / PDF Drucken* oder das PDF-Druckersymbol in der [Werkzeugleiste](../Reporting/Report_bearbeiten/ErsteSchritte_Kurzuebersicht.md).
+Zur Vorabansicht bzw. für die Sicherung des Reports als PDF-Dokument empfiehlt sich die Ausgabe im RZL PDF-Drucker bzw. RZL PDF-Manager Premium. Wählen Sie dazu den Menüpunkt *Datei / PDF Drucken* oder das PDF-Druckersymbol in der [Werkzeugleiste](../Reporting/Report_bearbeiten/ErsteSchritte_Kurzuebersicht.md).
 
 Der aktuelle Report wird im RZL PDF-Drucker geöffnet und kann von dort aus direkt gespeichert, gedruckt oder per E-Mail versendet werden.
 
@@ -67,12 +67,12 @@ Zur Direktausgabe am installierten Drucker stehen Ihnen folgende Möglichkeiten 
 
 ### Sonderoption: Drucken von dienstnehmer- und dienstgeberbezogenen Daten
 
-Das RZL-Lohnprogramm bietet Ihnen die Möglichkeit, Reports auf Basis von definierten Dienstgeber- bzw. Dienstnehmerdaten zu drucken.
+Das *RZL Lohnprogramm* bietet Ihnen die Möglichkeit, Reports auf Basis von definierten Dienstgeber- bzw. Dienstnehmerdaten zu drucken.
 
-#### Dienstgeberbezogene Reports drucken
+**Dienstgeberbezogene Reports drucken**
 
 Sofern im Klienten ein Report mit Dienstgeber-Formeln hinterlegt ist, können Sie diesen über den Menüpunkt *Report / DG Report drucken* für den jeweils gewünschten Monat ausgeben.
 
-#### Dienstnehmerbezogene Reports drucken
+**Dienstnehmerbezogene Reports drucken**
 
 Auf dienstnehmerbezogene Daten basierende Reports können Sie über den Menüpunkt *Report / DN Report drucken* ausgeben. Nach Eingabe des gewünschten Monats und Dienstnehmers werden die Daten in den ausgewählten Report eingelesen und können anschließend ausgedruckt werden.
