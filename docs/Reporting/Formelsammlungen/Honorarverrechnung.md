@@ -1,10 +1,10 @@
 # Formelsammlung für die Honorarverrechnung 
 
-Im folgenden Kapitel finden Sie eine Auflistung der verfügbaren Formeln für das Reporting im Honorarverrechnungsprogramm.
+Im folgenden Kapitel finden Sie eine Auflistung der verfügbaren Formeln für das Reporting im *Honorarverrechnungsprogramm*.
 
 ## RZL Notenvorlage Erweitert
 
-Eine aktuelle Übersicht finden Sie in der ZMV unter *Allg. Dateien* / *Installieren* im Registerblatt *Reports* oder unter [Auflistung Musterreports](../Auflistung_Musterreports.md).
+Eine aktuelle Übersicht finden Sie in der *ZMV* unter *Allg. Dateien* / *Installieren* im Registerblatt *Reports* oder unter [Auflistung Musterreports](../Auflistung_Musterreports.md).
 
 !!! info "Tipp"
     RZL bietet Ihnen Musterhonorarnotenvorlagen in Form eines Reports mit der Nummer *300-RZL Muster Notenvorlagen* an. Diese können auf den gewünschten Klienten überspielt und anschließend abgeändert werden.
@@ -14,7 +14,7 @@ Eine aktuelle Übersicht finden Sie in der ZMV unter *Allg. Dateien* / *Installi
 
 ## Liste der Honorarverrechnungsformeln
 
-Die folgenden Formeln sind im Honorarverrechnungsprogramm anwendbar.
+Die folgenden Formeln sind im *Honorarverrechnungsprogramm* anwendbar.
 
 ### Dokument Allgemein
 
@@ -89,7 +89,7 @@ Die Daten des Kanzleibereichs können vor allem für die Erstellung des Briefkop
 
 ### Mit Umsatzsteuer
 
-In diesem Bereich werden die Tätigkeiten mit Umsatzsteuer-Pflicht dargestellt. Je nach Einstellungen in den Programmoptionen erfolgt eine Aufteilung auf die (Unter-)Klienten und die Verrechnungskreise.
+In diesem Bereich werden die Tätigkeiten mit Umsatzsteuerpflicht dargestellt. Je nach Einstellungen in den Programmoptionen erfolgt eine Aufteilung auf die (Unter-)Klienten und die Verrechnungskreise.
 
 !!! warning "Hinweis"
     Die Klammern weisen darauf hin, dass mehrere Zeilen vorhanden sind.
@@ -113,7 +113,7 @@ In diesem Bereich werden die Tätigkeiten mit Umsatzsteuer-Pflicht dargestellt. 
 
 ### Ohne Umsatzsteuer
 
-In diesem Bereich werden die Tätigkeiten ohne Umsatzsteuer-Pflicht dargestellt. Der Aufbau ist identisch zum Bereich „Mit Umsatzsteuer".
+In diesem Bereich werden die Tätigkeiten ohne Umsatzsteuerpflicht dargestellt. Der Aufbau ist identisch zum Bereich „Mit Umsatzsteuer".
 
 | **Formel**                                                         | **Beschreibung**                 |
 | ------------------------------------------------------------------ | -------------------------------- |

@@ -1,6 +1,6 @@
 # Formelsammlung für das Lohn-Reporting
 
-Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das Reporting im RZL Lohnprogramm. Seitens der RZL Software werden Ihnen mit dem Reporting-Modul auch diverse Musterreports zur Verfügung gestellt.
+Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das Reporting im *RZL Lohnprogramm*. Seitens der RZL Software werden Ihnen mit dem *Reporting-Modul* auch diverse Musterreports zur Verfügung gestellt.
 
 ## RZL Musterreports LV
 
@@ -9,14 +9,14 @@ Neben Statistikauswertungen können Sie auch Musterschreiben für Dienstzettel o
 !!! info "Tipp"
     Die RZL-Musterreports werden stetig erweitert. Neuerungen werden auch im Zuge der Programmaktualisierung in den RZL-Newslettern veröffentlicht.
 
-Diese können nach erfolgreicher Installation in der ZMV auf den gewünschten [Klienten überspielt](../Kanzleireports.md) und anschließend individuell angepasst oder abgeändert werden.
+Diese können nach erfolgreicher Installation in der *ZMV* auf den gewünschten [Klienten überspielt](../Kanzleireports.md) und anschließend individuell angepasst oder abgeändert werden.
 
 ## Liste der Lohnformeln
 
-Für das RZL Lohnprogramm stehen Ihnen im Reporting-Modul die folgenden Lohnformeln zur Verfügung.
+Für das *RZL Lohnprogramm* stehen Ihnen im *Reporting-Modul* die folgenden Lohnformeln zur Verfügung.
 
 !!! warning "Hinweis"
-    Sofern bei einem Dienstnehmer mehrere Abrechnungen vorhanden sind, kann mit der Formel `Monat_L().` anstatt `Monat().` immer **auf die letzte Abrechnung** zugegriffen werden.
+    Sofern bei einem Dienstnehmer mehrere Abrechnungen vorhanden sind, kann mit der Formel `Monat_L().`{data-clipboard-text="Monat_L()."} anstatt `Monat().`{data-clipboard-text="Monat()."} immer **auf die letzte Abrechnung** zugegriffen werden.
 
 ### Zeitraum
 
@@ -42,7 +42,7 @@ Für das RZL Lohnprogramm stehen Ihnen im Reporting-Modul die folgenden Lohnform
 | `Arbeitsstaette().Nummer`{data-clipboard-text="Arbeitsstaette().Nummer"}                         | Nummer der Arbeitsstätte beim jeweiligen Dienstgebers |
 | `Arbeitsstaette().Ortschaft`{data-clipboard-text="Arbeitsstaette().Ortschaft"}                   | Ort der Arbeitsstätte                                 |
 | `Arbeitsstaette().Plz`{data-clipboard-text="Arbeitsstaette().Plz"}                               | Postleitzahl der Arbeitsstätte                        |
-| `Arbeitsstaette().Staat`{data-clipboard-text="Arbeitsstaette().Staat"}                           | Staat -- nur bei ausländischer Arbeitsstätte          |
+| `Arbeitsstaette().Staat`{data-clipboard-text="Arbeitsstaette().Staat"}                           | Staat - nur bei ausländischer Arbeitsstätte           |
 | `Arbeitsstaette().Stiege`{data-clipboard-text="Arbeitsstaette().Stiege"}                         | Stiegennummer der Arbeitsstätte                       |
 | `Arbeitsstaette().Strasse`{data-clipboard-text="Arbeitsstaette().Strasse"}                       | Straße der Arbeitsstätte                              |
 | `Arbeitsstaette().Tuer`{data-clipboard-text="Arbeitsstaette().Tuer"}                             | Türnummer der Arbeitsstätte                           |
@@ -413,59 +413,59 @@ Für das RZL Lohnprogramm stehen Ihnen im Reporting-Modul die folgenden Lohnform
 
 #### Lohnsteuer
 
-| **Formel**                                                                                                                           | **Beschreibung**                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| `DN().Monat().Alleinverdiener`{data-clipboard-text="DN().Monat().Alleinverdiener"}                                                   | Ob Alleinverdiener aktiviert ist (Wahr/Falsch)                             |
-| `DN().Monat().Alleinerzieher`{data-clipboard-text="DN().Monat().Alleinerzieher"}                                                     | Ob Alleinerzieher aktiviert ist (Wahr/Falsch)                              |
-| `DN().Monat().KinderPar106`{data-clipboard-text="DN().Monat().KinderPar106"}                                                         | Anzahl der Kinder gemäß § 106                                              |
-| `DN().Monat().PendlerpauschaleNr`{data-clipboard-text="DN().Monat().PendlerpauschaleNr"}                                             | Nummer der Pendlerpauschale                                                |
-| `DN().Monat().PendlerpauschaleText`{data-clipboard-text="DN().Monat().PendlerpauschaleText"}                                         | Art der Pendlerpauschale (z. B. „klein 20-40 km")                          |
-| `DN().Monat().EinfacheFahrtstrecke`{data-clipboard-text="DN().Monat().EinfacheFahrtstrecke"}                                         | Anzahl der Kilometer der einfachen Fahrtstrecke                            |
-| `DN().Monat().Werkverkehr`{data-clipboard-text="DN().Monat().Werkverkehr"}                                                           | Werkverkehr/Jobticket aktiviert (Wahr/Falsch)                              |
-| `DN().Monat().Firmenfahrzeug`{data-clipboard-text="DN().Monat().Firmenfahrzeug"}                                                     | Firmenfahrzeug aktiviert (Wahr/Falsch)                                     |
-| `DN().Monat().FahrtagMo`{data-clipboard-text="DN().Monat().FahrtagMo"}                                                               | Fahrttage Montag aktiviert (Wahr/Falsch)                                   |
-| `DN().Monat().FahrtagDi`{data-clipboard-text="DN().Monat().FahrtagDi"}                                                               | Fahrttage Dienstag aktiviert (Wahr/Falsch)                                 |
-| `DN().Monat().FahrtagMi`{data-clipboard-text="DN().Monat().FahrtagMi"}                                                               | Fahrttage Mittwoch aktiviert (Wahr/Falsch)                                 |
-| `DN().Monat().FahrtagDo`{data-clipboard-text="DN().Monat().FahrtagDo"}                                                               | Fahrttage Donnerstag aktiviert (Wahr/Falsch)                               |
-| `DN().Monat().FahrtagFr`{data-clipboard-text="DN().Monat().FahrtagFr"}                                                               | Fahrttage Freitag aktiviert (Wahr/Falsch)                                  |
-| `DN().Monat().FahrtagSa`{data-clipboard-text="DN().Monat().FahrtagSa"}                                                               | Fahrttage Samstag aktiviert (Wahr/Falsch)                                  |
-| `DN().Monat().FahrtagSo`{data-clipboard-text="DN().Monat().FahrtagSo"}                                                               | Fahrttage Sonntag aktiviert (Wahr/Falsch)                                  |
-| `DN().Monat().Fahrtage`{data-clipboard-text="DN().Monat().Fahrtage"}                                                                 | Anzahl der Fahrttage pro Monat                                             |
-| `DN().Monat().FahrtageAbw`{data-clipboard-text="DN().Monat().FahrtageAbw"}                                                           | Anzahl der abweichenden Fahrttage                                          |
-| `DN().Monat().FahrtageAbwWiederkend`{data-clipboard-text="DN().Monat().FahrtabeAbwWiederkend"}                                       | Abw. Fahrttage wiederkehrend aktiviert (Wahr/Falsch)                       |
-| `DN().Monat().Freibetrag`{data-clipboard-text="DN().Monat().Freibetrag"}                                                             | Wert des monatlichen Freibetrages                                          |
-| `DN().Monat().Werbungskosten`{data-clipboard-text="DN().Monat().Werbungskosten"}                                                     | Prozentwert der Werbungskosten                                             |
-| `DN().Monat().WerbungskostenMax`{data-clipboard-text="DN().Monat().WerbungskostenMax"}                                               | Höchstbetrag der Werbungskosten                                            |
-| `DN().Monat().Nachtarbeit`{data-clipboard-text="DN().Monat().Nachtarbeit"}                                                           | Nachtarbeit aktiviert (Wahr/Falsch)                                        |
-| `DN().Monat().Pensionist`{data-clipboard-text="DN().Monat().Pensionist"}                                                             | Pensionist aktiviert (Wahr/Falsch)                                         |
-| `DN().Monat().PauschaleLSt`{data-clipboard-text="DN().Monat().PauschaleLSt"}                                                         | Pauschale Lohnsteuer aktiviert (Wahr/Falsch)                               |
-| `DN().Monat().PauschaleLStProz`{data-clipboard-text="DN().Monat().PauschaleLStProz"}                                                 | Prozentsatz der Pauschalen Lohnsteuer                                      |
-| `DN().Monat().Grenzgaenger`{data-clipboard-text="DN().Monat().Grenzgaenger"}                                                         | Grenzgänger aktiviert (Wahr/Falsch)                                        |
-| `DN().Monat().BeschraenkteSteuerpflicht`{data-clipboard-text="DN().Monat().BeschraenkteSteuerpflicht"}                               | Beschränkte Steuerpflicht aktiviert (Wahr/Falsch)                          |
-| `DN().Monat().LStGemPara70Z2`{data-clipboard-text="DN().Monat().LStGemPara70Z2"}                                                     | Lohnsteuer gem. § 70 / 2 Z 2 aktiviert (Wahr/Falsch)                       |
-| `DN().Monat().LandarbeiterFreibetrag`{data-clipboard-text="DN().Monat().LandarbeiterFreibetrag"}                                     | Landarbeiter-Freibetrag aktiviert (Wahr/Falsch)                            |
-| `DN().Monat().Entwicklungshelfer`{data-clipboard-text="DN().Monat().Entwicklungshelfer"}                                             | Auslandsbezüge als Entwicklungshelfer Z 11 aktiviert (Wahr/Falsch)         |
-| `DN().Monat().Gemeinde().Nummer`{data-clipboard-text="DN().Monat().Gemeinde().Nummer"}                                               | Nummer der gewählten Gemeinde                                              |
-| `DN().Monat().Gemeinde().Name`{data-clipboard-text="DN().Monat().Gemeinde().Name"}                                                   | Name der gewählten Gemeinde                                                |
-| `DN().Monat().Gemeinde().Prozent`{data-clipboard-text="DN().Monat().Gemeinde().Prozent"}                                             | Prozentzuordnung der gewählten Gemeinde                                    |
-| `DN().Monat().BefreiungKommst`{data-clipboard-text="DN().Monat().BefreiungKommst"}                                                   | Befreiung von Kommunalsteuer aktiviert (Wahr/Falsch)                       |
-| `DN().Monat().KuerzungKommSt`{data-clipboard-text="DN().Monat().KuerzungKommSt"}                                                     | Kürzung der Bemessungsgrundlage der Kommunalsteuer aktiviert (Wahr/Falsch) |
-| `DN().Monat().KuerzungKommstProz`{data-clipboard-text="DN().Monat().KuerzungKommstProz"}                                             | Prozentsatz der Kürzung der Kommunalsteuer-Grundlage                       |
-| `DN().Monat().BefreiungDB`{data-clipboard-text="DN().Monat().BefreiungDB"}                                                           | Befreiung von DB aktiviert (Wahr/Falsch)                                   |
-| `DN().Monat().DZBundeslandAbw`{data-clipboard-text="DN().Monat().DZBundeslandAbw"}                                                   | Abweichendes DZ-Bundesland                                                 |
-| `DN().Monat().BefreiungDZ`{data-clipboard-text="DN().Monat().BefreiungDZ"}                                                           | Befreiung von DZ aktiviert (Wahr/Falsch)                                   |
-| `DN().Monat().KuerzungDZ`{data-clipboard-text="DN().Monat().KuerzungDZ"}                                                             | Kürzung von DZ aktiviert (Wahr/Falsch)                                     |
-| `DN().Monat().KuerzungDZProz`{data-clipboard-text="DN().Monat().KuerzungDZProz"}                                                     | Kürzung der Bemessungsgrundlage des DZ aktiviert (Wahr/Falsch)             |
-| `DN().Monat().UBahnAbgabe`{data-clipboard-text="DN().Monat().UBahnAbgabe"}                                                           | U-Bahn-Abgabe aktiviert (Wahr/Falsch)                                      |
-| `DN().Monat().UBahnWochenAbw`{data-clipboard-text="DN().Monat().UBahnWochenAbw"}                                                     | Anzahl der U-Bahn-Wochen                                                   |
-| `DN().Monat().HomeofficePauschale`{data-clipboard-text="DN().Monat().HomeofficePauschale"}                                           | Steuerfreie Pauschale aktiviert (Wahr/Falsch)                              |
-| `DN().Monat().HomeofficePauschaleBetrag`{data-clipboard-text="DN().Monat().HomeofficePauschaleBetrag"}                               | Betrag der Homeoffice-Pauschale                                            |
-| `DN().Monat().HomeofficePauschaleSatz`{data-clipboard-text="DN().Monat().HomeofficePauschaleSatz"}                                   | Satz der Homeoffice-Pauschale                                              |
-| `DN().Monat().HomeofficePauschaleWiederkehrend`{data-clipboard-text="DN().Monat().HomeofficePauschaleWiederkehrend"}                 | Homeoffice Pauschale wiederkehrend aktiviert (Wahr/Falsch)                 |
-| `DN().Monat().HomeofficeTage`{data-clipboard-text="DN().Monat().HomeofficeTage"}                                                     | Homeoffice Tage                                                            |
-| `DN().Monat().KostenuebernahmeOeffiTicket`{data-clipboard-text="DN().Monat().KostenuebernahmeOeffiTicket"}                           | Betrag der Kostenübernahme durch DG                                        |
-| `DN().Monat().KostenuebernahmeOeffiTicketNurL16`{data-clipboard-text="DN().Monat().KostenuebernahmeOeffiTicketNurL16"}               | Nur Ausweis am Lohnkonto und L16 aktiviert (Wahr/Falsch)                   |
-| `DN().Monat().KostenuebernahmeOeffiTicketWiederkehrend`{data-clipboard-text="DN().Monat().KostenuebernahmeOeffiTicketWiederkehrend"} | Kostenübernahme durch DG wiederkehrend aktiviert (Wahr/Falsch)             |
+| **Formel**                                                                                                                           | **Beschreibung**                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| `DN().Monat().Alleinverdiener`{data-clipboard-text="DN().Monat().Alleinverdiener"}                                                   | Ob Alleinverdiener aktiviert ist (Wahr/Falsch)                                       |
+| `DN().Monat().Alleinerzieher`{data-clipboard-text="DN().Monat().Alleinerzieher"}                                                     | Ob Alleinerzieher aktiviert ist (Wahr/Falsch)                                        |
+| `DN().Monat().KinderPar106`{data-clipboard-text="DN().Monat().KinderPar106"}                                                         | Anzahl der Kinder gemäß § 106                                                        |
+| `DN().Monat().PendlerpauschaleNr`{data-clipboard-text="DN().Monat().PendlerpauschaleNr"}                                             | Nummer der Pendlerpauschale                                                          |
+| `DN().Monat().PendlerpauschaleText`{data-clipboard-text="DN().Monat().PendlerpauschaleText"}                                         | Art der Pendlerpauschale (z. B. „klein 20-40 km")                                    |
+| `DN().Monat().EinfacheFahrtstrecke`{data-clipboard-text="DN().Monat().EinfacheFahrtstrecke"}                                         | Anzahl der Kilometer der einfachen Fahrtstrecke                                      |
+| `DN().Monat().Werkverkehr`{data-clipboard-text="DN().Monat().Werkverkehr"}                                                           | Werkverkehr/Jobticket aktiviert (Wahr/Falsch)                                        |
+| `DN().Monat().Firmenfahrzeug`{data-clipboard-text="DN().Monat().Firmenfahrzeug"}                                                     | Firmenfahrzeug aktiviert (Wahr/Falsch)                                               |
+| `DN().Monat().FahrtagMo`{data-clipboard-text="DN().Monat().FahrtagMo"}                                                               | Fahrttage Montag aktiviert (Wahr/Falsch)                                             |
+| `DN().Monat().FahrtagDi`{data-clipboard-text="DN().Monat().FahrtagDi"}                                                               | Fahrttage Dienstag aktiviert (Wahr/Falsch)                                           |
+| `DN().Monat().FahrtagMi`{data-clipboard-text="DN().Monat().FahrtagMi"}                                                               | Fahrttage Mittwoch aktiviert (Wahr/Falsch)                                           |
+| `DN().Monat().FahrtagDo`{data-clipboard-text="DN().Monat().FahrtagDo"}                                                               | Fahrttage Donnerstag aktiviert (Wahr/Falsch)                                         |
+| `DN().Monat().FahrtagFr`{data-clipboard-text="DN().Monat().FahrtagFr"}                                                               | Fahrttage Freitag aktiviert (Wahr/Falsch)                                            |
+| `DN().Monat().FahrtagSa`{data-clipboard-text="DN().Monat().FahrtagSa"}                                                               | Fahrttage Samstag aktiviert (Wahr/Falsch)                                            |
+| `DN().Monat().FahrtagSo`{data-clipboard-text="DN().Monat().FahrtagSo"}                                                               | Fahrttage Sonntag aktiviert (Wahr/Falsch)                                            |
+| `DN().Monat().Fahrtage`{data-clipboard-text="DN().Monat().Fahrtage"}                                                                 | Anzahl der Fahrttage pro Monat                                                       |
+| `DN().Monat().FahrtageAbw`{data-clipboard-text="DN().Monat().FahrtageAbw"}                                                           | Anzahl der abweichenden Fahrttage                                                    |
+| `DN().Monat().FahrtageAbwWiederkend`{data-clipboard-text="DN().Monat().FahrtabeAbwWiederkend"}                                       | Abw. Fahrttage wiederkehrend aktiviert (Wahr/Falsch)                                 |
+| `DN().Monat().Freibetrag`{data-clipboard-text="DN().Monat().Freibetrag"}                                                             | Wert des monatlichen Freibetrages                                                    |
+| `DN().Monat().Werbungskosten`{data-clipboard-text="DN().Monat().Werbungskosten"}                                                     | Prozentwert der Werbungskosten                                                       |
+| `DN().Monat().WerbungskostenMax`{data-clipboard-text="DN().Monat().WerbungskostenMax"}                                               | Höchstbetrag der Werbungskosten                                                      |
+| `DN().Monat().Nachtarbeit`{data-clipboard-text="DN().Monat().Nachtarbeit"}                                                           | Nachtarbeit aktiviert (Wahr/Falsch)                                                  |
+| `DN().Monat().Pensionist`{data-clipboard-text="DN().Monat().Pensionist"}                                                             | Pensionist aktiviert (Wahr/Falsch)                                                   |
+| `DN().Monat().PauschaleLSt`{data-clipboard-text="DN().Monat().PauschaleLSt"}                                                         | Pauschale Lohnsteuer aktiviert (Wahr/Falsch)                                         |
+| `DN().Monat().PauschaleLStProz`{data-clipboard-text="DN().Monat().PauschaleLStProz"}                                                 | Prozentsatz der Pauschalen Lohnsteuer                                                |
+| `DN().Monat().Grenzgaenger`{data-clipboard-text="DN().Monat().Grenzgaenger"}                                                         | Grenzgänger aktiviert (Wahr/Falsch)                                                  |
+| `DN().Monat().BeschraenkteSteuerpflicht`{data-clipboard-text="DN().Monat().BeschraenkteSteuerpflicht"}                               | Beschränkte Steuerpflicht aktiviert (Wahr/Falsch)                                    |
+| `DN().Monat().LStGemPara70Z2`{data-clipboard-text="DN().Monat().LStGemPara70Z2"}                                                     | Lohnsteuer gem. § 70 / 2 Z 2 aktiviert (Wahr/Falsch)                                 |
+| `DN().Monat().LandarbeiterFreibetrag`{data-clipboard-text="DN().Monat().LandarbeiterFreibetrag"}                                     | Landarbeiter-Freibetrag aktiviert (Wahr/Falsch)                                      |
+| `DN().Monat().Entwicklungshelfer`{data-clipboard-text="DN().Monat().Entwicklungshelfer"}                                             | Auslandsbezüge als Entwicklungshelfer Z 11 aktiviert (Wahr/Falsch)                   |
+| `DN().Monat().Gemeinde().Nummer`{data-clipboard-text="DN().Monat().Gemeinde().Nummer"}                                               | Nummer der gewählten Gemeinde                                                        |
+| `DN().Monat().Gemeinde().Name`{data-clipboard-text="DN().Monat().Gemeinde().Name"}                                                   | Name der gewählten Gemeinde                                                          |
+| `DN().Monat().Gemeinde().Prozent`{data-clipboard-text="DN().Monat().Gemeinde().Prozent"}                                             | Prozentzuordnung der gewählten Gemeinde                                              |
+| `DN().Monat().BefreiungKommst`{data-clipboard-text="DN().Monat().BefreiungKommst"}                                                   | Befreiung von Kommunalsteuer aktiviert (Wahr/Falsch)                                 |
+| `DN().Monat().KuerzungKommSt`{data-clipboard-text="DN().Monat().KuerzungKommSt"}                                                     | Kürzung der Bemessungsgrundlage der Kommunalsteuer aktiviert (Wahr/Falsch)           |
+| `DN().Monat().KuerzungKommstProz`{data-clipboard-text="DN().Monat().KuerzungKommstProz"}                                             | Prozentsatz der Kürzung der Kommunalsteuer-Grundlage                                 |
+| `DN().Monat().BefreiungDB`{data-clipboard-text="DN().Monat().BefreiungDB"}                                                           | Befreiung von DB aktiviert (Wahr/Falsch)                                             |
+| `DN().Monat().DZBundeslandAbw`{data-clipboard-text="DN().Monat().DZBundeslandAbw"}                                                   | Abweichendes DZ-Bundesland                                                           |
+| `DN().Monat().BefreiungDZ`{data-clipboard-text="DN().Monat().BefreiungDZ"}                                                           | Befreiung von DZ aktiviert (Wahr/Falsch)                                             |
+| `DN().Monat().KuerzungDZ`{data-clipboard-text="DN().Monat().KuerzungDZ"}                                                             | Kürzung von DZ aktiviert (Wahr/Falsch)                                               |
+| `DN().Monat().KuerzungDZProz`{data-clipboard-text="DN().Monat().KuerzungDZProz"}                                                     | Kürzung der Bemessungsgrundlage des DZ aktiviert (Wahr/Falsch)                       |
+| `DN().Monat().UBahnAbgabe`{data-clipboard-text="DN().Monat().UBahnAbgabe"}                                                           | U-Bahn-Abgabe aktiviert (Wahr/Falsch)                                                |
+| `DN().Monat().UBahnWochenAbw`{data-clipboard-text="DN().Monat().UBahnWochenAbw"}                                                     | Anzahl der U-Bahn-Wochen                                                             |
+| `DN().Monat().HomeofficePauschale`{data-clipboard-text="DN().Monat().HomeofficePauschale"}                                           | Steuerfreie Pauschale aktiviert (Wahr/Falsch)                                        |
+| `DN().Monat().HomeofficePauschaleBetrag`{data-clipboard-text="DN().Monat().HomeofficePauschaleBetrag"}                               | Betrag der Homeoffice-Pauschale bzw. Telearbeitspauschale                            |
+| `DN().Monat().HomeofficePauschaleSatz`{data-clipboard-text="DN().Monat().HomeofficePauschaleSatz"}                                   | Satz der Homeoffice-Pauschale bzw. Telearbeitspauschale                              |
+| `DN().Monat().HomeofficePauschaleWiederkehrend`{data-clipboard-text="DN().Monat().HomeofficePauschaleWiederkehrend"}                 | Homeoffice Pauschale bzw. Telearbeitspauschale wiederkehrend aktiviert (Wahr/Falsch) |
+| `DN().Monat().HomeofficeTage`{data-clipboard-text="DN().Monat().HomeofficeTage"}                                                     | Homeoffice Tage bzw. Telearbeitstage                                                 |
+| `DN().Monat().KostenuebernahmeOeffiTicket`{data-clipboard-text="DN().Monat().KostenuebernahmeOeffiTicket"}                           | Betrag der Kostenübernahme durch DG                                                  |
+| `DN().Monat().KostenuebernahmeOeffiTicketNurL16`{data-clipboard-text="DN().Monat().KostenuebernahmeOeffiTicketNurL16"}               | Nur Ausweis am Lohnkonto und L16 aktiviert (Wahr/Falsch)                             |
+| `DN().Monat().KostenuebernahmeOeffiTicketWiederkehrend`{data-clipboard-text="DN().Monat().KostenuebernahmeOeffiTicketWiederkehrend"} | Kostenübernahme durch DG wiederkehrend aktiviert (Wahr/Falsch)                       |
 
 #### Sozialversicherung
 

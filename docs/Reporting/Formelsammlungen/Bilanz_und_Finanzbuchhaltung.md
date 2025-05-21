@@ -1,6 +1,6 @@
 # Formelsammlung für die Bilanz und Finanzbuchhaltung
 
-Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das Reporting im RZL Bilanz- und Finanzbuchhaltungsprogramm. Seitens RZL Software werden Ihnen mit dem Reporting-Modul auch diverse RZL-Musterreports zur Verfügung gestellt.
+Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das Reporting im *RZL Bilanz- und Finanzbuchhaltungsprogramm*. Seitens RZL Software werden Ihnen mit dem *Reporting-Modul* auch diverse RZL-Musterreports zur Verfügung gestellt.
 
 ## RZL Musterreports Finanzbuchhaltung und Bilanz
 
@@ -9,11 +9,11 @@ Neben Briefvorlagen für Mahnungen können Sie auch unterschiedliche Musteranhä
 !!! info "Tipp"
     Die RZL-Musterreports werden stetig erweitert. Neuerungen werden auch im Zuge der RZL-Programmaktualisierung in den  RZL-Newslettern veröffentlicht.
 
-Diese Musterreports können nach erfolgreicher Installation in der ZMV auf den gewünschten Klienten überspielt und anschließend individuell angepasst und abgeändert werden.
+Diese Musterreports können nach erfolgreicher Installation in der *ZMV* auf den gewünschten Klienten überspielt und anschließend individuell angepasst und abgeändert werden.
 
 ## Liste der Bilanz- und Finanzbuchhaltungsformeln
 
-Die folgenden Formeln sind sowohl in der RZL-Finanzbuchhaltung als auch im RZL-Bilanzprogramm anwendbar.
+Die folgenden Formeln sind sowohl in der *RZL Finanzbuchhaltung* als auch im *RZL Bilanzprogramm* anwendbar.
 
 ### Zeitraum
 
@@ -401,24 +401,20 @@ Die folgenden Formeln können nur im Bilanz-Reporting verwendet werden.
 | `Gesell().PLZ`{data-clipboard-text="Gesell().PLZ"}         | Postleitzahl des Gesellschafters                                                 |
 | `Gesell().Strasse`{data-clipboard-text="Gesell().Strasse"} | Straße des Gesellschafters                                                       |
 | `Gf().FBNr`{data-clipboard-text="Gf().FBNr"}               | Firmenbuchnummer der Komplementär GmbH des dafür zuständigen Geschäftsführers    |
-| `Gf().GebDat`{data-clipboard-text="Gf().GebDat"}           | Geburtsdatum des Gesellschafters                                                 |
-| `Gf().Name`{data-clipboard-text="Gf().Name"}               | Nachname des Gesellschafters                                                     |
+| `Gf().GebDat`{data-clipboard-text="Gf().GebDat"}           | Geburtsdatum des Geschäftsführers                                                |
+| `Gf().Name`{data-clipboard-text="Gf().Name"}               | Nachname des Geschäftsführers                                                    |
 | `Gf().Register`{data-clipboard-text="Gf().Register"}       | Registerbezeichnung der Komplementär GmbH des dafür zuständigen Geschäftsführers |
-| `Gf().Titel`{data-clipboard-text="Gf().Titel"}             | Titel des Gesellschafters                                                        |
-| `Gf().Vorhanden`{data-clipboard-text="Gf().Vorhanden"}     | Ob der Gesellschafter vorhanden ist (Wahr/Falsch)                                |
-| `Gf().Vorname`{data-clipboard-text="Gf().Vorname"}         | Vorname des Gesellschafters                                                      |
+| `Gf().Titel`{data-clipboard-text="Gf().Titel"}             | Titel des Geschäftsführers                                                       |
+| `Gf().Vorhanden`{data-clipboard-text="Gf().Vorhanden"}     | Ob der Geschäftsführers vorhanden ist (Wahr/Falsch)                              |
+| `Gf().Vorname`{data-clipboard-text="Gf().Vorname"}         | Vorname des Geschäftsführers                                                     |
 | `Gf().Wortlt`{data-clipboard-text="Gf().Wortlt"}           | Firmenname der Komplementär GmbH des dafür zuständigen Geschäftsführers          |
 
 ## Formelliste für das Mahnwesen in der RZL-Finanzbuchhaltung
 
-Die folgenden Formeln sind für Mahnvorlagen in der RZL-Finanzbuchhaltung anwendbar.
+Die folgenden Formeln sind für Mahnvorlagen in der *RZL Finanzbuchhaltung* anwendbar.
 
 !!! info "Tipp"
-    RZL bietet Ihnen Mustermahnschreiben in Form eines Reports mit der Nummer *91-RZL Mahnreports* an. Diese können auf den gewünschten Klienten überspielt und anschließend abgeändert werden. Die notwendigen Einstellungen betreffend des Klienten in der RZL-Finanzbuchhaltung finden Sie im *RZL Handbuch Finanzbuchhaltung* (Kapitel *Mahnwesen*).
-
-### Allgemein
-
-Siehe Kapitel [Kanzleireports](../Kanzleireports.md)
+    RZL bietet Ihnen Mustermahnschreiben in Form eines Reports mit der Nummer *91-RZL Mahnreports* an. Diese können auf den gewünschten Klienten überspielt und anschließend abgeändert werden. Die notwendigen Einstellungen betreffend des Klienten in der *RZL Finanzbuchhaltung* finden Sie im *RZL Handbuch Finanzbuchhaltung* (Kapitel *Mahnwesen*).
 
 ### Bankkonten des Klienten
 
