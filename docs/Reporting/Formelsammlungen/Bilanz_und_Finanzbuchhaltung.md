@@ -1,4 +1,4 @@
-# Formelsammlung für die Bilanz und Finanzbuchhaltung
+# Bilanz und Finanzbuchhaltung
 
 Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das Reporting im *RZL Bilanz- und Finanzbuchhaltungsprogramm*. Seitens RZL Software werden Ihnen mit dem *Reporting-Modul* auch diverse RZL-Musterreports zur Verfügung gestellt.
 

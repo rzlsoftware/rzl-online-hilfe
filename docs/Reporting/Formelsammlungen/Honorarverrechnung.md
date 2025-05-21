@@ -1,4 +1,4 @@
-# Formelsammlung für die Honorarverrechnung 
+# Honorarverrechnung 
 
 Im folgenden Kapitel finden Sie eine Auflistung der verfügbaren Formeln für das Reporting im *Honorarverrechnungsprogramm*.
 
