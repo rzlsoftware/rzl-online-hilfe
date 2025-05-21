@@ -2,7 +2,7 @@
 title: Reporting Handbuch
 ---
 
-![Image](img/Reporting LM.svg#only-light)
+![Image](img/ReportingLM.svg#only-light)
 
-![Image](img/Reporting DM.svg#only-dark)
+![Image](img/ReportingDM.svg#only-dark)
 
