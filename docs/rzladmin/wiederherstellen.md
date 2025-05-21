@@ -10,9 +10,10 @@ Seite auswählen (siehe Screenshot). Den Quellpfad können Sie entweder
 manuell eingeben oder über die Schaltfläche rechts die gewünschte
 Sicherungsdatei auswählen.
 
-Sobald ein gültiger Pfad angegeben wurde, erscheint in der Liste
-*Verfügbare Sicherungen* Ihre ausgewählte Datei. Die Wiederherstellung
-erfolgt durch einen Klick auf den Button *Sicherung wiederherstellen*.
+Sobald ein gültiger Pfad angegeben wurde, erscheinen in der Liste
+*Verfügbare Sicherungen* Alle Sicherungen die in dieser Datei enthalten sind. 
+Bitte wählen Sie bei einer mehrfachen Auswahlmöglichkeit die Sicherung, welche benötigt wird aus.
+Die Wiederherstellung erfolgt durch einen Klick auf den Button *Sicherung wiederherstellen*.
 
 ![RZL Datenbank wiederherstellen](img/Wiederherstellen_SicherungWiederherstellen.png)
 
