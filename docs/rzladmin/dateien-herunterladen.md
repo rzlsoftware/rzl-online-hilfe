@@ -2,9 +2,6 @@
 
 Unter der Rubrik *Dateien herunterladen* können diverse Dateien, Hotfixes und maßgeschneiderte Skripte zur Verfügung gestellt werden.
 
-!!!warning "Achtung"
-    Bitte agieren Sie nur auf Anweisung des RZL Support in dieser Rubrik. Das Ausführen von Skripten kann zu einem unerwünschtem Verhalten der RZL-Programme führen.
-
 ![Dateien herunterladen](img/DateienHerunterladen.png)
 
   *Liste aktualisieren:*  
