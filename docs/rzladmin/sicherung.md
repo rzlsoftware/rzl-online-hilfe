@@ -17,7 +17,7 @@ Unter dem Punkt **Erweiterte Einstellungen** können Sie zudem folgende Optionen
 ![Datensicherung erstellen - erweiterte Einstellungen](img/Sicherung_ErweiterteEinstellungen.png)
 
   * **Für jede Sicherung automatisch eine neue Datei erstellen**  
- Erstellt für jede Sicherung eine separate Datei, anstatt bestehende Backups zu überschreiben.
+ Erstellt für jede Sicherung eine separate Datei.
   * **Die Sicherung in folgende Datei schreiben**  
  Ermöglicht das manuelle Festlegen eines spezifischen Dateipfads und -namens für die Sicherung.
  * **Sicherung komprimieren**  
@@ -27,14 +27,12 @@ Unter dem Punkt **Erweiterte Einstellungen** können Sie zudem folgende Optionen
  * **LDF-Datei verkleinern**  
  Verkleinert die Protokolldatei (LDF) einer Microsoft SQL Server-Datenbank, um Speicherplatz zu sparen. 
  * **Sicherung ohne Dokumente**  
- Eine Sicherung der Datenbank ohne Dokumente ist grundsätzlich möglich, wird aber nicht empfohlen. Wenn eine Sicherung an den RZL-Support gesendet werden soll, kann durch das Aktiveren der Option „Sicherung ohne Dokumente“ die Backupgröße minimiert werden.
+ Bei dieser Option wird eine Sicherung der Datenbank ohne Dokumente erstellt.
 
 ## Automatische Sicherung der RZL-Datenbank über RZL-Dienst
 Unter dem Punkt **Automatische Sicherung über RZL Dienst** können Sicherungen automatisiert erstellt werden.
 
 Bitte beachten Sie, dass eine automatische Sicherung nur dann genutzt werden kann, wenn der RZL-Dienst installiert ist.
-
-Der RZL-Dienst sollte ausschließlich für die im Setup-Handbuch in der RZL Online Hilfe [RZL Dienst installieren](https://hilfe.rzlsoftware.at/setup/dienst-installieren/) genannten Module eingerichtet werden.
 
 In diesem Bereich stehen Ihnen folgende Optionen zur Verfügung:
 ![Automatische Sicherung über RZL Dienst](img/Sicherung_AutomatischUeberRZLDienst.png)
@@ -46,7 +44,7 @@ In diesem Bereich stehen Ihnen folgende Optionen zur Verfügung:
   * **LDF-Datei verkleinern**  
  Verkleinert die Protokolldatei (LDF) einer Microsoft SQL Server-Datenbank, um Speicherplatz zu sparen.
   * **Sicherung ohne Dokumente**  
- Eine Sicherung der Datenbank ohne Dokumente ist grundsätzlich möglich, wird aber nicht empfohlen.Wenn eine Sicherung an den RZL-Support gesendet werden soll, kann durch das Aktiveren der Option „Sicherung ohne Dokumente“ die Backupgröße minimiert werden.
+ Bei dieser Option wird eine Sicherung der Datenbank ohne Dokumente erstellt.
 
 Zusätzlich können Sie:
 
