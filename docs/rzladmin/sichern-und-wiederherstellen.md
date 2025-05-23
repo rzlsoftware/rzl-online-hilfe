@@ -30,10 +30,11 @@ Zunächst wird der Pfad angegeben an dem die Sicherungsdatei abgespeichert werde
 
 ![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_SicherungErstellen.png)
 
-**Zusätzlich** kann aktiviert werden wie die Sicherung als komprimierte Datei (meist idf-Datei) gespeichert werden soll. Das reduziert den benötigten Speicherplatz und kann vor allem bei Sicherungen im Netzwerk sinnvoll sein, da weniger Daten übertragen werden müssen. Nach der Sicherung wird die Datei komprimiert und ein Hash-Wert zur Überprüfung berechnet. 
+**Zusätzlich** kann aktiviert werden wie die Sicherung als komprimierte Datei (meist idf-Datei) gespeichert werden soll. Das reduziert den benötigten Speicherplatz und kann vor allem bei Sicherungen im Netzwerk sinnvoll sein, da weniger Daten übertragen werden müssen. Nach der Sicherung wird die Datei komprimiert und ein Hash-Wert zur Überprüfung berechnet.
+
 **Beachten Sie**, dass das Komprimieren die Sicherungsdauer (besonders im Netzwerk) verlängern kann.
 
-Die Komprimierung ist optional und dient hauptsächlich dazu, Speicherplatz zu sparen und gegebenenfalls den Transfer zu vereinfachen.
+**Die Komprimierung ist optional** und dient hauptsächlich dazu, Speicherplatz zu sparen und gegebenenfalls den Transfer zu vereinfachen.
 
 ![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_Komprimierung.png)
 

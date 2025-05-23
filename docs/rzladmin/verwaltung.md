@@ -47,7 +47,7 @@ III)*Teamviewer ID und Passwort angeben
   
   ![Wartung](img/Verwaltung_EreignisanzeigeHochladen.png)
 
-  Hier kann die Ereignisanzeige direkt an RZL hochgeladen werden. Optional kann ausgewählt werden ob die Ereignisse gefiltert oder ungefiltert versendet werden sollen. 
+  Hier kann die Ereignisanzeige des aktuellen Arbeitsplatzes direkt an RZL hochgeladen werden. Optional kann ausgewählt werden ob die Ereignisse gefiltert oder ungefiltert versendet werden sollen. 
       
 - **RZL Setup Protokolle hochladen**
   
@@ -59,7 +59,7 @@ III)*Teamviewer ID und Passwort angeben
   
     ![Wartung](img/Verwaltung_Wartung_DateienHochladen.png)
 
-  Über das Verzeichnis können hier selbst ausgewählte Dateien an RZL übermittelt werden. (Sicherungsdateien, Dump Dateien, etc.)
+  Über das Verzeichnis können hier selbst ausgewählte Dateien an RZL übermittelt werden.(Sicherungsdateien,etc.)
 
 - **Ordnerstruktur der RZL Programme hochladen**
   
@@ -93,6 +93,7 @@ Dieser Punkt bietet Ihnen verschiedene Einstellungs- und Prüfungsmöglichkeiten
 
 ![Wartung](img/Verwaltung_DBEinstellungen_DBAktualisieren.png)
 
+Diese Funktion ist abhängig von Berechtigungen die gesetzt wurden und kann daher aktiv oder inaktiv sein.
 Beim Ausführen dieses Befehls erhält man folgende Hinweismeldung:
 
 ![Wartung](img/Verwaltung_DBEinstellungen_DBAktualisieren_2.png)
@@ -138,13 +139,8 @@ Die Einstellungen können auch manuell über das SQL Management Studio gesetzt w
   
 ![Wartung](img/Verwaltung_DBEinstellungen_Benutzermodus.png)
 
-  Dieser Modus regelt, ob mehrere Benutzer oder nur ein Benutzer schreiben und/-oder lesend auf einen Klienten zugreifen können.Für den mehrfachen Lesezugriff auf eine Klientendatei zur Bearbeitung ist einezusätzliche Lizenz erforderlich.
-
-  - *Einzelbenutzermodus*: Der Klient kann nur von einer Person in den klassischen RZL Programmen bearbeitet werden. Beim Öffnen eines Klienten, ist dieser für die Bearbeitung durch andere Benutzer gesperrt.
-  - *Mehrbenutzermodus*: Mit einer Zusatzlizenz (optional) kann ein Klient von einem Benutzer bearbeitet werden und gleichzeitig von weiteren Benutzern angesehen werden  (Lesemodus).
-  
-  
-
+Der SQL Server im Einzelbenutzermodus erlaubt lässt nur eine VERBINDUNG zu, üblicherweise über das SQL Management Studio zur Wartungszwecken.
+ 
 - **SQL Index Wartung**
 
 ![Wartung](img/Verwaltung_DBEinstellungen_SQLIndexWartung.png)
@@ -184,7 +180,7 @@ Für das Programm *Board* können hier zusätzliche Einstellungen gesetzt werden
   
 ![Wartung](<img/Verwaltung_BoardHintergrundstart.png>)
 
-- *RZL Board im Hintergrund automatisch mit Windows starten*:   Damit wird das RZL Board beim Starten von Windows automatisch im Hintergrund gestartet und ist sofort einsatzbereit, ohne dass Sie es manuell öffnen müssen.
+- *RZL Board im Hintergrund automatisch mit Windows starten*:   Damit wird das RZL Board beim Anmelden automatisch im Hintergrund gestartet und ist sofort einsatzbereit, ohne dass Sie es manuell öffnen müssen.
 
 ![Wartung](img/Verwaltung_BoardSchliessen.png)
 
@@ -195,7 +191,9 @@ Für das Programm *Board* können hier zusätzliche Einstellungen gesetzt werden
 
     •	**Nur Remote**: Das RZL Board wird nur dann geschlossen, wenn alle Fenster geschlossen wurden und Sie sich auf einem Remote-Desktop (z.B. über eine Terminalserver-Sitzung) befinden.
     
-    • **Nie**: Das RZL Board bleibt immer geöffnet, auch wenn alle Fenster geschlossen wurden.
+    • **Nie**: Das RZL Board bleibt im Hintergrund aktiv (Symbol im Benachrichtigungsbereich),
+    auch wenn alle Fenster geschlossen wurden.
+
 
 
 ## Anwender-Protokolle
@@ -256,7 +254,7 @@ Hiermit kann man den Dienst für die Druckwarteschlange (auch „Spooler“ gena
 
 ![E-Mail](img/Verwaltung_E-MailKonfiguration.png)
 
-Die Konfiguration für den SMTP-Server (Mail an SMTP) wird in den RZL-Programmen nicht direkt im RZL Admin vorgenommen. Die relevanten Einstellungen, wie Absenderadresse, Absendername und Antwortadresse, werden im Bereich Stammdatenverwaltung des Kanzlei-Informations-Systems (KIS) oder im Klientenportal hinterlegt.
+Hier können Konfigurationen für den SMTP-Server (Mail an SMTP) vorgenommen werden. Ebenfalls können Einstellungen, wie Absenderadresse, Absendername und Antwortadresse, im Bereich Stammdatenverwaltung des Kanzlei-Informations-Systems (KIS) oder im Klientenportal hinterlegt werden.
 
 ![E-Mail](img/Verwaltung_E-MailSMTP.png)
 
@@ -269,4 +267,4 @@ Hier werden alle offenen RZL Programme in einer Tabelle angezeigt.
 Sie können eine Abbilddatei (Snapshot) dieser Programme erstellen und mittels der Funktion (rot markiert) direkt an RZL senden.
 Mit dem blau markierten Schieberegler können Sie einstellen, ob nur die Prozesse des angemeldeten Benutzers oder alle auf dem Rechner laufenden Prozesse (z. B. auch den RZL Diagnose Dienst) angezeigt werden.
 
-Diese Funktion dient dazu, bei Supportfällen gezielte Diagnosedaten an RZL zu übermitteln, was die Fehlersuche und Analyse durch den technischen Support erleichtert.Für das Hochladen und die Nutzung dieser Funktionen werden Administratorrechte benötigt.
+Diese Funktion dient dazu, bei Supportfällen gezielte Diagnosedaten (Dump-Dateien, etc.) an RZL zu übermitteln, was die Fehlersuche und Analyse durch den technischen Support erleichtert.
