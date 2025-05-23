@@ -139,7 +139,8 @@ Die Einstellungen können auch manuell über das SQL Management Studio gesetzt w
   
 ![Wartung](img/Verwaltung_DBEinstellungen_Benutzermodus.png)
 
-Der SQL Server im Einzelbenutzermodus erlaubt lässt nur eine VERBINDUNG zu, üblicherweise über das SQL Management Studio zur Wartungszwecken.
+Der Einzelbenutzermodus lässt nur eine Verbindung zum SQL Server zu. Diese erfolgt überlicherweise über das SQL Managment Studio und ist für Wartungszwecke vorgesehen.
+
  
 - **SQL Index Wartung**
 
