@@ -29,10 +29,10 @@ Mitarbeiter mehr Leistungen auf diesen Klienten erfassen kann.
 **Klienten-Tarifschema**   
 Das hinterlegte Klienten Tarifschema wird für die Notenerstellung
 verwendet. Weitere Informationen zum Klienten-Tarifschema finden Sie im
-Kapitel [Tarifschemata](/HONNext/Stammdaten%20HON%20Next/Tarifschemata) beschrieben.
+Kapitel [Tarifschemata](../HONNext/Stammdaten%20HON%20Next/Tarifschemata.md) beschrieben.
 
 Die Felder *abweichender Verrechnungsklient* sowie *zugeordneter
-Erfassungsklient* werden im Kapitel [Verrechnungs-/ Erfassungsklient](/HONNext/Verrechnungs%20Erfassungsklient/Allgemeines)
+Erfassungsklient* werden im Kapitel [Verrechnungs-/ Erfassungsklient](../HONNext/Verrechnungs%20Erfassungsklient/Allgemeines.md)
 erläutert.
 
 ## Honorarnote
@@ -139,14 +139,14 @@ Klientenportal und Druckausgabe ausgewählt werden. Beim Ausdrucken einer
 Honorarnote wird bei den Zustellarten E-Mail und Klientenportal
 automatisch der PDF-Drucker bzw. der PDF-Manager als Drucker ausgewählt.
 Während der Notenerstellung kann die Art der Zustellung abgeändert
-werden, siehe [Notenerstellung/Einstellungen](/HONNext/Notenerstellung/Notenerstellung/#einstellungen).
+werden, siehe [Notenerstellung/Einstellungen](../HONNext/Notenerstellung/Notenerstellung.md#einstellungen).
 
 **Zahlungsart**   
 Bei der Zahlungsart stehen Ihnen die Optionen *Überweisung, SEPA
 Lastschrift* und *keine Zahlung* zur Verfügung. Bei der Option
 Überweisung kann für die Note ein QR Code erzeugt werden. Bei der Option
 SEPA Lastschrift wird kein QR Code erzeugt, sondern auf den Bankeinzug
-hingewiesen (siehe auch [Formelsammlung](/HONNext/Notenvorlagen/Formelsammlung)).
+hingewiesen (siehe auch [Formelsammlung](../HONNext/Notenvorlagen/Formelsammlung.md)).
 
 **Zustellvertreter**   
 Über das Feld *Zustellvertreter* können Sie einen Zustellvertreter für
@@ -163,18 +163,18 @@ des Zustellvertreters ist ein Pflichtfeld.
 Der *Hinweis zur Notenerstellung* kann direkt in den Klienten-Stammdaten
 hinterlegt werden und wird Ihnen immer bei jeder Notenerstellung
 angezeigt – wird nicht auf der Note gedruckt. Weitere Informationen zum
-Hinweis finden Sie unter [Notenerstellung/Einstellungen](/HONNext/Notenerstellung/Notenerstellung/#einstellungen)
+Hinweis finden Sie unter [Notenerstellung/Einstellungen](../HONNext/Notenerstellung/Notenerstellung.md#einstellungen)
 beschrieben.
 
 **Zusatztext auf der Note**   
-Sollte auf der Note ein zusätzlicher Text angeführt werden, kann dies in
+Soll auf der Note ein zusätzlicher Text angeführt werden, kann dies in
 den Stammdaten des Klienten definiert werden. Der Zusatztext wird auf
 der Note angedruckt und kann im Zuge der Notenerstellung noch editiert
 werden.
 
 !!! warning "Hinweis"
-    Der bei der Note eingegebene Zusatztext kann in der [Notenübersicht](/HONNext/Notenübersicht)
-    eingeblendet werden 
+    Der bei der Note eingegebene Zusatztext kann in der [Notenübersicht](../HONNext/Notenübersicht.md)
+    eingeblendet werden.
 
 ## Buchhaltung
 
@@ -186,4 +186,4 @@ Debitoren-Kontonummer als Kontonummer in die RZL-Belegverarbeitung
 
 **Kostenstelle**   
 Ebenfalls kann für die Verbuchung in der Finanzbuchhaltung pro Klient
-eine Kostenstelle hinterlegt werden (1-999999999). Siehe hierzu [Tätigkeiten](/HONNext/Stammdaten%20HON%20Next/Tätigkeiten).
+eine Kostenstelle hinterlegt werden (1-999999999). Siehe hierzu [Tätigkeiten](../HONNext/Stammdaten%20HON%20Next/Tätigkeiten.md).

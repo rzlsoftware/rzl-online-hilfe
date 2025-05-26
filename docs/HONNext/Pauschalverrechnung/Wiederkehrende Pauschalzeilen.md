@@ -62,7 +62,7 @@ kann die Option *Aktiv* deaktiviert werden. Es werden keine Pauschalzeilen mehr 
 
 **Text Pauschalzeile**  
 Grundsätzlich erhält die Pauschalzeile den Text,
-welcher bei der Verrechnungsgruppe hinterlegt wurde (vgl. [Bezeichnung der Pauschale](/HONNext/Pauschalverrechnung/Bezeichnung%20der%20Pauschale)) über das Feld *Text
+welcher bei der Verrechnungsgruppe hinterlegt wurde (vgl. [Bezeichnung der Pauschale](../Pauschalverrechnung/Bezeichnung%20der%20Pauschale.md)) über das Feld *Text
 Pauschalzeile* kann hier etwas abweichendes eingetragen werden. Soll
 der abweichende Text auch auf der Note angedruckt werden, ist der Text
 mit der rechten Maustaste zu übernehmen. Der zu übernehmende Text ist
@@ -73,7 +73,7 @@ Dieses Feld steht Ihnen für interne Bemerkungen zur
 Verfügung.
 
 **Automatischen Ausgleich**    
-Aktivieren: Kann optional aktiviert werden. Siehe [Automatischer Pauschalausgleich](/HONNext/Pauschalverrechnung/Pauschalausgleich/#automatischer-pauschalausgleich)
+Aktivieren: Kann optional aktiviert werden. Siehe [Automatischer Pauschalausgleich](../Pauschalverrechnung/Pauschalausgleich.md#automatischer-pauschalausgleich)
 
 
 Nachdem die Daten der wiederkehrenden Pauschale eingegeben und
@@ -227,7 +227,7 @@ werden.
     pro Pauschalzeile zu ändern.
 
 !!! warning "Hinweis"
-    Beim Beträge ändern empfehlen wir die Filterfunktionen zu nutzen, um
+    Beim Ändern von Beträgen empfehlen wir, die Filterfunktionen zu nutzen, um
     beispielsweise einzuschränken, dass Sie nun alle jährlichen
     Bilanzierungspauschalen erhöhen oder alle monatlichen
     Buchhaltungspauschalen mit gleichem Datum und Projektzeitraum der

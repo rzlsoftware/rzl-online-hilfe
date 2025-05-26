@@ -1,13 +1,12 @@
 # Interne Note
 
-Für Situationen in denen die offenen Leistungen nicht mehr an den
+Für Situationen, in denen die offenen Leistungen nicht mehr an den
 Klienten weiterverrechnet werden sollen/können, bietet das RZL HON die
 Möglichkeit der Erstellung einer internen Note.
 
 Die Option *interne Note* (**1**) in den Noteneinstellungen ist nur
-aktiv, wenn die Nettosumme aller UST-pflichtigen und nicht
-UST-pflichtigen Tätigkeiten Null (**2**) ergibt.
-
+aktiv, wenn die Nettosumme aller USt-pflichtigen und nicht
+USt-pflichtigen Tätigkeiten Null (**2**) ergibt.
 
 ![](<img/image238.png>) 
 
@@ -22,7 +21,8 @@ offen.
 
 !!! warning "Hinweis"
     Interne Noten werden nicht finalisiert. Die Option *interne Note* kann
-    jederzeit deaktiviert werden und die Leistungen wieder weiterverrechnet.
+    jederzeit deaktiviert werden und die Leistungen wieder weiterverrechnet
+    werden.
 
 Interne Noten werden nicht fortlaufend nummeriert, ebenso wird für
 interne Noten kein Beleg für das Belegsystem erzeugt.
