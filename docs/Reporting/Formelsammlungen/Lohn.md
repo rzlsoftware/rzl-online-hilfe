@@ -900,3 +900,12 @@ Für das *RZL Lohnprogramm* stehen Ihnen im *Reporting-Modul* die folgenden Lohn
 | ---------------------------------------------------------------------------- | ---------------------------- |
 | `Auswahlkriterium().Nummer`{data-clipboard-text="Auswahlkriterium().Nummer"} | Nummer des Auswahlkriteriums |
 | `Auswahlkriterium().Text`{data-clipboard-text="Auswahlkriterium().Text"}     | Text des Auswahlkriteriums   |
+
+### Dienstverhinderung
+
+| **Formel**                                                                             | **Beschreibung**                                                              |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| `Dienstverhinderung().InAT`{data-clipboard-text="Dienstverhinderung().InAT"}           | Gibt an, ob die Dienstverhinderung in Arbeitstagen geführt wird (Wahr/Falsch) |
+| `Dienstverhinderung().InStunden`{data-clipboard-text="Dienstverhinderung().InStunden"} | Gibt an, ob die Dienstverhinderung in Stunden geführt wird (Wahr/Falsch)      |
+| `Dienstverhinderung().Name`{data-clipboard-text="Dienstverhinderung().Name"}           | Bezeichnung der Dienstverhinderung                                            |
+| `Dienstverhinderung().Nummer`{data-clipboard-text="Dienstverhinderung().Nummer"}       | Nummer der Dienstverhinderung                                                 |
