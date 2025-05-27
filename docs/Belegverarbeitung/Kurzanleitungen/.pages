@@ -1,8 +1,7 @@
 nav:
-- RZL Belegverarbeitung Versionsverwaltung.md
-- RZL Modul Belegfreigabe.md
-- Finmatics Connect für RZL.md
-- Belege mit XML-Belegdatenimport aus Fremdsystem übernehmen.md
-- Synchronisation der Belege mit dem RZL Klientenportal.md
-- RZL Belegverarbeitung Export und Import mit Belegdaten.md
-- ...
+    - Belege mit XML-Belegdatenimport aus Fremdsystem übernehmen.md
+    - Finmatics Connect für RZL.md
+    - RZL Belegverarbeitung Export und Import mit Belegdaten.md
+    - RZL Belegverarbeitung Versionsverwaltung.md
+    - Synchronisation der Belege mit dem RZL Klientenportal.md
+    - ...
