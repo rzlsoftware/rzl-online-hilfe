@@ -1,11 +1,11 @@
-Mit der Programmversion 2.25.6 haben Sie künftig die Möglichkeit Rollen bzw. einzelne Berechtigungen in den jeweiligen Rollen auf Dokumentbereiche einzuschränken. Um diese Funktion nutzen zu können, benötigen Sie zum RZL KIS & Board Basis Programm mindestens das Modul RZL KIS Dokumentenverwaltung (bzw. das Modul RZL Dokumentenverwaltung plus) und unbedingt erforderlich für die Nutzung das [Modul RZL Berechtigungssystem Premium](https://neu.rzlsoftware.at/steuerberater/kanzleiorganisation/rzl-berechtigungssystem-premium).
+Mit der Programmversion 2.25.6 haben Sie künftig die Möglichkeit Rollen bzw. einzelne Berechtigungen in den jeweiligen Rollen auf Dokumentbereiche einzuschränken. Um diese Funktion nutzen zu können, benötigen Sie zum RZL KIS & Board Basis Programm mindestens das Modul RZL KIS Dokumentenverwaltung (bzw. das Modul RZL Dokumentenverwaltung plus) und essentiell für die Nutzung das [Modul RZL Berechtigungssystem Premium](https://neu.rzlsoftware.at/steuerberater/kanzleiorganisation/rzl-berechtigungssystem-premium).
 
 ## Rolle auf Dokumentbereiche einschränken
 
 Wollen Sie eine Rolle auf einen oder mehrere Dokumentbereiche einschränken, können Sie das im RZL Board unter *Stamm / Berechtigungen / Rollen* durchführen. Markieren Sie in der Liste die gewünschte Rolle und fügen Sie eine Rolleneinschränkung hinzu.
 
 !!! warning "Hinweis"
-    Einschränkungen auf Dokumentbereiche ist nur für Rollen vorgesehen, welche Berechtigungen im Bezug auf die Dokumente besitzen, wie z.B. die Rollen Geldwäscheprävention, Finanzbuchhaltung und Kanzleitätigkeiten usw.
+    Einschränkungen auf Dokumentbereiche ist nur für Rollen vorgesehen, welche Berechtigungen in Bezug auf die Dokumente besitzen, wie z.B. die Rollen Geldwäscheprävention, Finanzbuchhaltung und Kanzleitätigkeiten usw.
 
 ![Einschränkung hinzufügen](<img/hinzufügen.png>)
 
@@ -16,7 +16,7 @@ Die Einschränkung auf Dokumentbereiche bietet zwei Möglichkeiten:
 
 Der Unterschied zwischen Erlauben und Verbieten ist der, dass Dokumente in einem *erlaubten* Dokumentbereich für den Mitarbeiter **sichtbar** und in einem *verbotenen* Dokumentbereich **nicht sichtbar** sind.
 
-Wird die Option Erlauben verwendet, spiegelt sich das in den Icons bzw. den Checkboxen wieder. Beim Wählen der zu erlaubenden Dokumentbereiche wird ein grünes Hakerl zur Kennzeichnung verwendet.
+Wird die Option Erlauben verwendet, spiegelt sich das in den Icons bzw. den Checkboxen wider. Beim Wählen der zu erlaubenden Dokumentbereiche wird ein grünes Hakerl zur Kennzeichnung verwendet.
 
 ![Einschränkung auf DB erlauben](<img/dokumentbereiche erlauben.png>){width="640"}
 
@@ -50,14 +50,19 @@ Die Zuordnung und Einschränkung muss direkt in den Mitarbeiterstammdaten erfolg
 
 Die Auswahlmöglichkeiten *Keine Einschränkung, Ausgewählte Dokumentbereiche erlauben und Ausgewählte Dokumentbereiche verbieten* sind hier frei wählbar, da die zu vergebende Rolle keine Rolleneinschränkung besitzt. Der Rolle wird die Einschränkung auf Mitarbeiterebene vergeben.
 
-Würden Sie dieselbe Rolle auch einem anderen Mitarbeiter geben, können ganz neue Einschränkungen getätigt werden. Es ist hier dann auch möglich ein *erlauben* zu vergeben, obwohl bei einem anderen Mitarbeiter ein *verbieten* oder *keine Einschränkung* vergeben wurde.
+Würden Sie dieselbe Rolle auch einem anderen Mitarbeiter geben, können ganz neue Einschränkungen getätigt werden. Es ist hier dann auch möglich ein *erlauben* zu vergeben, obwohl bei einem anderen Mitarbeiter ein *verbieten* vergeben wurde.
 
 Sie beschließen der Rolle eine allgemein geltende Rolleneinschränkung zu vergeben, obwohl bereits Einschränkungen auf Mitarbeiterebene getätigt wurden:
 
-* Die Rolle wurde auf Mitarbeiterebene jeweils mit **verbieten** eingeschränkt. Die Rolleneinschränkung kann durchgeführt werden, jedoch nur mit der Option **Verbieten**.
+* Der Mitarbeiter wird mit **verbieten** auf einen Dokumentbereich eingeschränkt. Die Rolleneinschränkung kann durchgeführt werden, jedoch nur mit der Option **Verbieten**.
 ![Ansicht Rolleneinschränkung vergeben](<img/Rolle einschränken obwohl MA vorher eingeschränkt.png>)
-  Es muss nicht zwingend der auf Mitarbeiterebene vergebene Dokumentbereich verwendet werden. Aber wird hier eine Einschränkung festgelegt, wird dies automatisch für den Mitarbeiter hinterlegt.
-  Beispiel: Zuerst wurde **auf Mitarbeiterebene** die Rolle Kanzleiverwaltung zugeordnet mit der Einschränkung auf den Dokumentbereich Lohn- und Gehaltsverrechnung (verbieten). Die Rolle selbst hat **keine** Rolleneinschränkung. Im Nachhinein wird der Rolle eine Rolleneinschränkung auf den Dokumentbereich Finanzbuchhaltung zugeweisen (verbieten). Automatisch hat der Mitarbeiter jetzt auch die Einschränkung auf den Dokumentbereich Finanzbuchhaltung (verbieten).
+  Es muss nicht zwingend der auf den Mitarbeiter eingeschränkte Dokumentbereich verwendet werden. 
+  Wird im Nachhinein aber eine Rolleneinschränkung festgelegt, wird dies automatisch für den Mitarbeiter hinterlegt.
+  
+!!! warning "Hinweis"
+    Rolleneinschränkungen überwiegen stets Einschränkung für Mitarbeiter!
+
+  Beispiel: Zuerst wurde **auf Mitarbeiterebene** die Rolle Kanzleiverwaltung zugeordnet mit der Einschränkung auf den Dokumentbereich Lohn- und Gehaltsverrechnung (verbieten). Die Rolle selbst hat **keine** Rolleneinschränkung. Im Nachhinein wird der Rolle eine Rolleneinschränkung auf den Dokumentbereich Finanzbuchhaltung zugewiesen (verbieten). Automatisch hat der Mitarbeiter jetzt auch die Einschränkung auf den Dokumentbereich Finanzbuchhaltung (verbieten).
    
 !!! info "Tipp"
     Finanzbuchhaltung = Rolleneinschränkung
@@ -93,11 +98,13 @@ Sie haben die Möglichkeit sich eine Übersicht der Rolleneinschränkungen und E
 
 ## Digitaler Personalakt
 
-In Ihrer Kanzlei wird bereits das [RZL LOHN Modul Digitaler Personalakt](https://neu.rzlsoftware.at/steuerberater/personalverrechnung) verwendet. Mit der Programmversion 2.25.6 werden die Einschränkungen automatisch aus Ihren vorigen Einstellungen migriert. Hier kommt es darauf an, aufgrund welcher Optionen die Sichtbarkeit auf Lohn-/Dienstnehmer-Dokumente gewählt wurde.
+### In Ihrer Kanzlei wird bereits das [RZL LOHN Modul Digitaler Personalakt](https://neu.rzlsoftware.at/steuerberater/personalverrechnung) verwendet.
+
+ Mit der Programmversion 2.25.6 werden die Einschränkungen automatisch aus Ihren vorigen Einstellungen migriert. Hier kommt es darauf an, aufgrund welcher Optionen die Sichtbarkeit auf Lohn-/Dienstnehmer-Dokumente gewählt wurde.
 
 ![Einstellungen MA-Stammdaten Sichtbarkeit Lohn](<img/MAStammdaten Einstellungen.png>)
 
-### Migration aufgrund Zuständigkeitsbereich für LOHN
+#### Migration aufgrund Zuständigkeitsbereich für LOHN
 
 In den Mitarbeiterstammdaten ist die Sichtbarkeit Lohn-/Dienstnehmer-Dokumente aufgrund Zuständigkeitsbereich für LOHN hinterlegt. Im Kanzlei-Informations-System wurde im Zuständigkeitsbereich das Programm LOHN aktiviert und außerdem sind die Klienten für den Zuständigkeitsbereich hinterlegt.
 
@@ -108,7 +115,7 @@ Zuordnungen Zuständigkeiten:
 
 Die Migration erfolgt in folgenden Schritten:
 
-* eine neue Klientengruppe wird erstellt (Personalakt-Klient von ...)
+* eine neue Klientengruppe wird erstellt (Personalakt-Klienten von ...)
      * wird einem Mitarbeiter im KIS unter Zuständigkeitsbereich LOHN alle Klienten zugeordnet, wird keine neue Klientengruppe erstellt, sondern es wird durch *Alle Klienten* ersetzt
 * dem Mitarbeiter wird die Rolle *Lohnverrechnung* mit dieser neu angelegten Klientengruppe (oder *Alle Klienten*) zugeordnet
     * besitzt der Mitarbeiter bereits die Rolle Lohnverrechnung, wird diese mit der neuen Klientengruppe ergänzt
@@ -119,7 +126,7 @@ Es erfolgt **keine** Änderung, wenn der Mitarbeiter bereits die Rolle Lohnverre
     Zur Bereinigung der neu erstellten Klientengruppen durch die Migration, verwenden Sie gerne die Funktion *Klientengruppen Ersetzen* oder *Duplikate zusammenführen*. In der Kurzanleitung [Berechtigungssystem](https://hilfe.rzlsoftware.at/Board/Kurzanleitungen/Berechtigungssystem/#tipps-zur-bereinigung) ist dies detailliert beschrieben.
 
 
-### Migration aufgrund Berechtigung 'Dokumente anzeigen'
+#### Migration aufgrund Berechtigung 'Dokumente anzeigen'
 
 In den Mitarbeiterstammdaten ist die Sichtbarkeit Lohn-/Dienstnehmer-Dokumente aufgrund 'Dokumente anzeigen' hinterlegt. Außerdem besitzt der Mitarbeiter bereits eine Rolle, welche die Funktion 'Dokument anzeigen' beinhaltet. (z.B. Lohnverrechnung, Kanzleitätigkeiten, ...)
 
@@ -131,18 +138,18 @@ Die Migration erfolgt in folgenden Schritten:
     * die Rolle Lohnverrechnung wird hinzugefügt
 * der Mitarbeiter besitzt mindestens eine Rolle mit der Funktion 'Dokumente anzeigen' für *Alle Klienten*  
      * die Rolle Lohnverrechnung für *Alle Klienten* wird hinzugefügt
-* der Mitarbeiter besitzt mindestens eine Rolle mit der Funktion 'Dokumente anzieigen' für eine bestimmte Klientengruppe  
+* der Mitarbeiter besitzt mindestens eine Rolle mit der Funktion 'Dokumente anzeigen' für eine bestimmte Klientengruppe  
     * die Rolle Lohnverrechnung wird für jene bestimmte Klientengruppe hinzugefügt
 
 
 Es erfolgt **keine** Änderung, wenn der Mitarbeiter bereits die Rolle Lohnverrechnung mit der Klientengruppe *Alle Klienten* besitzt.
 
 !!! warning "Hinweis"
-    Wurden bereits Einschränkungen auf Dokumentbereich durchgeführt und erst dann der digitale Personalakt aktiviert, beachten Sie bitte folgendes:
-    Bei bereits existierenden Einschränkungen auf Dokumentbereiche können keine neuen Einschränkungen gesetzt werden. Die Sichtbarkeit auf den Dokumentbereich Lohn- und Gehaltsverrechnung ist dementsprechend manuell zu kontrollieren und gegebenenfalls abzuändern.
+    Wurden bereits Einschränkungen auf Dokumentbereiche durchgeführt und erst dann der digitale Personalakt aktiviert, beachten Sie bitte folgendes:
+    Bei bereits existierenden Einschränkungen auf Dokumentbereiche können **keine** neuen Einschränkungen gesetzt werden. Die Sichtbarkeit auf den Dokumentbereich Lohn- und Gehaltsverrechnung ist dementsprechend manuell zu kontrollieren und gegebenenfalls abzuändern.
 
 
-In Ihrer Kanzlei wird das [RZL LOHN Modul Digitaler Personalakt](https://neu.rzlsoftware.at/steuerberater/personalverrechnung) noch nicht verwendet.
+### In Ihrer Kanzlei wird das [RZL LOHN Modul Digitaler Personalakt](https://neu.rzlsoftware.at/steuerberater/personalverrechnung) noch nicht verwendet.
 
 Aktivieren können Sie den digitalen Personalakt in der Web Oberfläche des RZL Dienstes. Dazu verwenden Sie bitte die Anleitung vom [Setup Handbuch](LINK!!!!!).
 Sie benötigen zum Aktivieren die Rolle *Benutzerverwaltung* oder *Alle Berechtigungen* bzw. eine Rolle mit den Funktionen *Rolle verwalten* und *Mitarbeiter verwalten*.
@@ -156,10 +163,13 @@ Wird der digitale Personalakt aktiviert, werden alle Rollen  auf den Dokumentber
 Jegliche Änderungen werden selbstverständlich im Protokoll detailliert erfasst. Das Protokoll können Sie unter *Stamm / Berechtigungen / Protokoll* öffnen.
 
 ![Protokoll Eintrag](<img/Beispiel Protokoll.png>)
-![Protokoll Eintrag 2](<img/Beispiel 2 Protokoll.png>)
 
-### Sonstige Änderungen im Zusammenhang mit dem digitalen Personalakt
+### Sonstige Änderungen
 
 In den Mitarbeiterstammdaten im RZL Board fällt die Drop-Down Einstellung *Sichtbarkeit Lohn-/Dienstnehmer-Dokumente* komplett weg. Diese Einstellung wird nicht mehr benötigt, da das Sichtbarkeitsrecht für den Dokumentbereich Lohn- und Gehaltsverrechnung über die Rolleneinschränkungen geregelt wird. 
 
-In der Verwaltung der Zuständigkeitsbereiche im Kanzlei-Informations-System wird für den Zuständigkeitsbereich 
+![Ma-Stammtdaten DropDown Feld weg](<img/Zuständigkeitensbereich anlegen alt_neu.png>)
+
+In der Verwaltung der Zuständigkeitsbereiche im Kanzlei-Informations-System können keine Einstellungen mehr betreffend der Klassik Programme getroffen werden. Das wird mit den Rollen und Klientengruppen im RZL Board definiert.
+
+![Zuständigkeitsbereich Klassik Programme KIS](<img/Einstellungen MA-Stammdaten neu.png>)
