@@ -151,7 +151,7 @@ Es erfolgt **keine** Änderung, wenn der Mitarbeiter bereits die Rolle Lohnverre
 
 ### In Ihrer Kanzlei wird das [RZL LOHN Modul Digitaler Personalakt](https://neu.rzlsoftware.at/steuerberater/personalverrechnung) noch nicht verwendet.
 
-Aktivieren können Sie den digitalen Personalakt in der Web Oberfläche des RZL Dienstes. Dazu verwenden Sie bitte die Anleitung vom [Setup Handbuch](LINK!!!!!).
+Aktivieren können Sie den digitalen Personalakt in der Web Oberfläche des RZL Dienstes. Hierzu verweise ich Sie auf das Setup Handbuch.
 Sie benötigen zum Aktivieren die Rolle *Benutzerverwaltung* oder *Alle Berechtigungen* bzw. eine Rolle mit den Funktionen *Rolle verwalten* und *Mitarbeiter verwalten*.
 
 Wird der digitale Personalakt aktiviert, werden alle Rollen  auf den Dokumentbereich Lohn- und Gehaltsverrechnung eingeschränkt.
