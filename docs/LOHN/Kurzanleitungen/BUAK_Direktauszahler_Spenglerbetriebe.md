@@ -39,10 +39,10 @@ Damit wird die Betriebliche Vorsorge auch für Urlaubsentgelt und Urlaubszuschus
 
 **3. mBGM-Korrektur**
 
-Bei der Erstellung des mBGMs wird nun automatisch der alte mBGM storniert und ein neuer mBGM mit der noch fehlenden Betrieblichen Vorsorge übermittelt. Ebenso befindet sich auf dem Auszahlungsjournal (und der Überweisungsliste Abgaben) die Aufrolldifferenz.
+Bei der Erstellung der mBGMs wird nun automatisch der alte mBGM storniert und ein neuer mBGM erstellt, der zusätzlich zu den unveränderten SV-Beiträgen auch die bisher fehlenden Beiträge zur Betrieblichen Vorsorge übermittelt. Ebenso befindet sich die Aufrolldifferenz auf dem Auszahlungsjournal und der Überweisungsliste Abgaben.
 
 !!! warning "Hinweis"
     Nur Dienstnehmer mit BUAK-Direktverrechnung sind betroffen. Dienstnehmer, die über das **Treuhandkonto** abgerechnet werden, sind **nicht** betroffen.
 
 !!! warning "Hinweis"
-    Vergessen Sie nicht: Auch Monate des Vorjahres – insbesondere November und Dezember – können betroffen sein und müssen überprüft werden.
+    Vergessen Sie nicht: Auch Monate des Vorjahres – insbesondere November und Dezember – können betroffen sein und müssen überprüft werden. Falls dabei Differenzen entstanden sind, ist eine Aufrollung für den Monat 13 im Jahr 2024 durchzuführen.
