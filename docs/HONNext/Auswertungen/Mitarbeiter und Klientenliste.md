@@ -17,8 +17,8 @@ ist.
 ![](<img/image388.png>)
 
 Diese Liste können Sie nach einzelnen Spalten gruppieren oder auch
-filtern ([Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts)) sowie 
-Ausdrucken und/oder Exportieren (vgl. [Liste exportieren](/HONNext/Allgemeine%20Bedienung/Sonstige%20Funktionen/#liste-exportieren)).
+filtern ([Speicherbare Layouts](../Auswertungen/Speicherbare%20Layouts.md)) sowie 
+Ausdrucken und/oder Exportieren (vgl. [Liste exportieren](../Allgemeine%20Bedienung/Sonstige%20Funktionen.md#liste-exportieren)).
 
 !!! info "Tipp"
     Wenn Sie einen Mitarbeiter markieren, gelangen Sie mit der Schaltfläche
@@ -43,8 +43,8 @@ erscheint der Klient pro Generation in der Liste. Über die Spalte
 ist.
 
 Diese Liste können Sie nach einzelnen Spalten gruppieren oder auch
-filtern ([Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts)) sowie 
-Ausdrucken und/oder Exportieren (vgl. [Liste exportieren](/HONNext/Allgemeine%20Bedienung/Sonstige%20Funktionen/#liste-exportieren)).
+filtern ([Speicherbare Layouts](../Auswertungen/Speicherbare%20Layouts.md)) sowie 
+Ausdrucken und/oder Exportieren (vgl. [Liste exportieren](../Allgemeine%20Bedienung/Sonstige%20Funktionen.md#liste-exportieren)).
 
 !!! info "Tipp"
     Wenn Sie einen Klienten markieren, gelangen Sie mit der Schaltfläche *zu

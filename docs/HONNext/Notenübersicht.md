@@ -17,16 +17,16 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
 
 -   **Rechnung Nr.:** Nur, wenn die Noten finalisiert wurden, erhalten
     Sie eine Rechnungsnummer. Die Einstellungen zur Rechnungsnummer
-    finden Sie im Kapitel [Nummernbereiche](/HONNext/Stammdaten%20HON%20Next/Nummernbereiche) beschrieben.
+    finden Sie im Kapitel [Nummernbereiche](../HONNext/Stammdaten%20HON%20Next/Nummernbereiche.md) beschrieben.
 
 -   **Zustellung:** Die Art der Zustellung, die Sie bei der
-    Notenerstellung ausgewählt haben wird angezeigt. Siehe [Stammdaten Klienten](/HONNext/Stammdaten%20Klienten).
+    Notenerstellung ausgewählt haben wird angezeigt. Siehe [Stammdaten Klienten](../HONNext/Stammdaten%20Klienten.md).
 
 -   Klienten-Nummer
 
 -   Klienten-Name
 
--   **Rechnungssteller:** Der Rechnungsteller ist im Kapitel [Unternehmensbereiche](/HONNext/Unternehmensbereiche) beschrieben.
+-   **Rechnungssteller:** Der Rechnungsteller ist im Kapitel [Unternehmensbereiche](../HONNext/Unternehmensbereiche.md) beschrieben.
 
 -   Letzter Bearbeiter der Note
 
@@ -84,17 +84,17 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
 
     ![](<img/image315.png>) Gutschrift
 
--   **Anmerkung** (vgl. Kapitel [Notenerstellung/Einstellungen](/HONNext/Notenerstellung/Notenerstellung/#einstellungen))
+-   **Anmerkung** (vgl. Kapitel [Notenerstellung/Einstellungen](../HONNext/Notenerstellung/Notenerstellung.md/#einstellungen))
 
--   **Zusatztext auf Note** (vgl. Kapitel [Honorarnote](/HONNext/Stammdaten%20Klienten/#honorarnote))
+-   **Zusatztext auf Note** (vgl. Kapitel [Honorarnote](../HONNext/Stammdaten%20Klienten.md#honorarnote))
 
--   [Schlussnote](/HONNext/Pauschalverrechnung/Schlussnote)
+-   [Schlussnote](../HONNext/Pauschalverrechnung/Schlussnote.md)
 
 -   **Klassik**: Wenn Sie von HON Klassik auf HON Next umsteigen, können
     Sie mit der Spalte *Klassik* erkennen, welche Noten aus HON Klassik
     übernommen wurden.
 
--   **Verrechnungsgruppen**: Blenden Sie Sich die Spalte
+-   **Verrechnungsgruppen**: Blenden Sie sich die Spalte
     *Verrechnungsgruppen* in der Notenübersicht ein, werden Ihnen die
     bei der Note abgerechneten Verrechnungsgruppen ausgewiesen.
 
@@ -109,14 +109,17 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
 ![](<img/image316.png>)
 
 !!! info "Tipp"
-    In der Notenübersicht haben Sie die Möglichkeit sich Layouts anzulegen
-    ([Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts)).
+    In der Notenübersicht haben Sie die Möglichkeit, sich Layouts anzulegen
+    ([Speicherbare Layouts](../HONNext/Auswertungen/Speicherbare%20Layouts.md)).
+
+!!! info "Tipp"
+    Mit der Tastenkombination *STRG+F* können Sie sich ein Suchfeld einblenden lassen.
 
 !!! warning "Hinweis"
     Die Notenübersicht ist initial auf das aktuelle Jahr (Notendatum)
     eingeschränkt. Der Datumsfilter kann jederzeit angepasst werden. Weiters
-    besteht die Möglichkeit einen Vorschlag für die Ansicht zu setzten. Mit
-    Rechtklick in das *von Feld* können Sie definieren, dass Sie Bsp. immer
+    besteht die Möglichkeit, einen Vorschlag für die Ansicht zu setzen. Mit
+    Rechtsklick in das *von Feld* können Sie definieren, dass Sie z. B. immer
     nur die Noten des letzten Monats sehen oder auch immer alle Noten der
     letzten zwei Jahre. Diese Einstellung wird pro Mitarbeiter gespeichert.
 
@@ -177,7 +180,7 @@ können. Es können auch mehrere Noten in einem Schritt geändert werden.
 
 ## Anmerkung ändern
 
-Die bei der Honorarnote definierte Anmerkung (Kapitel [Notenerstellung/Einstellungen](/HONNext/Notenerstellung/Notenerstellung/#einstellungen)) kann über die Schaltfläche *Anmerkung ändern*
+Die bei der Honorarnote definierte Anmerkung (Kapitel [Notenerstellung/Einstellungen](../HONNext/Notenerstellung/Notenerstellung.md#einstellungen)) kann über die Schaltfläche *Anmerkung ändern*
 jederzeit editiert werden, ohne die Note öffnen zu müssen.
 
 Es öffnet sich ein Fenster mit der bisherigen Anmerkung, diese können
@@ -236,7 +239,7 @@ vermieden werden.
     schlägt das Programm die alte Notennummer vor – sofern diese nicht
     bereits vergeben wurde.
 
-Sollten Sie in den [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen) bereits die Einstellung „*Note beim Speichern
+Sollten Sie in den [Grundeinstellungen](../HONNext/Einstellungen/Grundeinstellungen.md) bereits die Einstellung „*Note beim Speichern
 & schließen finalisieren*“ ausgewählt haben, so ist für Sie dieser
 Menüpunkt hinfällig.
 
@@ -247,7 +250,7 @@ Menüpunkt hinfällig.
 
 Wurde eine Note finalisiert, kann später noch die Zustellung
 (Druckausgabe, E-Mail, Klientenportal) (Kapitel 6) sowie die Anmerkung
-je Note ([Einstellungen](/HONNext/Notenerstellung/Notenerstellung/#einstellungen)) geändert werden. Sollten weitere Änderungen
+je Note ([Einstellungen](../HONNext/Notenerstellung/Notenerstellung.md#einstellungen)) geändert werden. Sollten weitere Änderungen
 nötig sein, muss die Note zurückgesetzt werden.
 
 ## Noten drucken
@@ -300,7 +303,7 @@ als vorläufige Note gespeichert.
 Nach dem Zurücksetzten der Note auf den Status *Vorläufig* und dem
 erneuten Finalisieren bekommt die Note eine neue Notennummer, da weiter
 fortlaufend Nummeriert wird. Daher empfiehlt sich hier die Funktion
-*erweitertes Finalisieren* ([Note finalisieren](/HONNext/Notenübersicht/#note-finalisieren)).
+*erweitertes Finalisieren* ([Note finalisieren](../HONNext/Notenübersicht.md#note-finalisieren)).
 
 ## Beleg anzeigen
 
@@ -350,7 +353,7 @@ innerhalb einer Note dar.
 
 !!! warning "Hinweis"
     Im Aufruf des Notenjournal besteht die Möglichkeit sich Layouts
-    anzulegen (vgl. [Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts)).
+    anzulegen (vgl. [Speicherbare Layouts](../HONNext/Auswertungen/Speicherbare%20Layouts.md)).
 
 ## Tätigkeitsnachweis drucken
 
@@ -379,12 +382,12 @@ ausgedruckt werden.
 
 ## Notendetails anzeigen
 
-Um die erstellte Note inkl. den Verrechneten Leistungen sowie die
+Um die erstellte Note inklusive der verrechneten Leistungen sowie der
 Zu-/Abschläge einsehen zu können, ohne jede Note extra öffnen zu müssen,
 können Sie sich die Notendetails einblenden lassen.
 
-Mit der Schaltfläche *Notendetails anzeigen*, wird die Note in einem
-extra Fenster in einem Art Lesemodus geöffnet. Sie können Sich noch
+Mit der Schaltfläche *Notendetails anzeigen* wird die Note in einem
+separaten Fenster in einer Art Lesemodus geöffnet. Sie können sich noch
 zusätzlich die Erfassungszeilen einblenden lassen **(1)**. Mit der
 Schaltfläche *Nicht verrechnete Zeilen anzeigen* **(2)** können Sie
 zwischen den verrechneten und offenen Leistungen des Klienten
@@ -394,9 +397,6 @@ die Druckvorschau in Echtzeit.
 Möchten Sie an der Note Änderungen vornehmen, muss die Note über die
 Notenübersicht geöffnet werden.
 
-
-![](<img/image330.png>)
-
 ## Druckvorschau anzeigen
 
 Über den Button *Druckvorschau anzeigen* können Sie die Druckvorschau
@@ -405,6 +405,6 @@ Echtzeit.
 
 ## Notenrückblick anzeigen
 
-Über den Button *Notenrückblick anzeigen* können Sie den [Notenrückblick](/HONNext/Notenrückblick/)
+Über den Button *Notenrückblick anzeigen* können Sie den [Notenrückblick](../HONNext/Notenrückblick.md)
 öffnen und von Note zu
 Note wechseln. Die Ansicht aktualisiert sich in Echtzeit.

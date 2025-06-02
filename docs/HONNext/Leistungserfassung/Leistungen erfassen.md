@@ -90,32 +90,31 @@ Leistung eintragen können. Mittels der *Tabulator-Taste* oder der
 Enter-Taste am Ziffernblock können Sie in das nächste Feld springen.
 
 
-
 ![](<img/image130.png>)
 
 Zuerst sollten Sie das Datum der Leistung eintragen. Sie können auch mit
-Shortcuts (siehe [Hilfreiche Shortcuts](/HONNext/Allgemeine%20Bedienung/Hilfreiche%20Shortcuts/)) das
+Shortcuts (siehe [Hilfreiche Shortcuts](../Allgemeine%20Bedienung/Hilfreiche%20Shortcuts.md)) das
 Datum eintragen. Im Anschluss können Sie den Mitarbeiter mittels Eingabe
 des Namens suchen. Alle Mitarbeiter können mit der F2-Taste, oder
 mittels Kontextmenü im Feld *Mitarbeiter* vorgeschlagen werden. Eine
-weitere Möglichkeit den Mitarbeiter einzutragen ist, die Nummer des
+weitere Möglichkeit, den Mitarbeiter einzutragen, ist, die Nummer des
 Mitarbeiters manuell in das Feld *Mitarbeiter* zu schreiben. Dies ist
 jedoch nur sinnvoll, wenn die Nummern bekannt sind.
 
-Die Suche bzw. Eingabe der *Tätigkeit*, des *Klienten* erfolgt analog
+Die Suche bzw. Eingabe der *Tätigkeit* und des *Klienten* erfolgt analog
 zur Vorgehensweise bei den Mitarbeitern.
 
-Die Felder Projektz*eitraum* und *Text* können befüllt werden. Je
-nachdem wie die Tätigkeiten in der Honorarverrechnung definiert wurden
+Die Felder *Projektzeitraum* und *Text* können befüllt werden. Je
+nachdem, wie die Tätigkeiten in der Honorarverrechnung definiert wurden,
 müssen *Beginn, Ende, Einheiten* und *Beträge* eingetragen werden.
 
 Im Feld *Dauer* ist eine Eingabe notwendig, wenn Beginn und Ende nicht
-eingetragen wurden. Wird Beginn und Ende eingetragen, wird das Feld
+eingetragen wurden. Werden Beginn und Ende eingetragen, wird das Feld
 Dauer automatisch befüllt.
 
 !!! warning "Hinweis"
     Die Eingaben in der Leistungserfassung werden automatisch gespeichert.
-    Es existiert kein *Speichern* Button in dieser Ansicht. Beim Verlassen
+    Es existiert kein *Speichern*-Button in dieser Ansicht. Beim Verlassen
     des Textfeldes in der Leistungserfassung wird die Leistung bestätigt und
     gespeichert.
 

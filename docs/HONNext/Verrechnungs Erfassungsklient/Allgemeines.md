@@ -1,6 +1,6 @@
 # Allgemeines
 
-Die Honorarverrechnung bietet Ihnen die Möglichkeit für mehrere Klienten
+Die Honorarverrechnung bietet Ihnen die Möglichkeit, für mehrere Klienten
 einen gemeinsamen Klienten als Rechnungsempfänger zu definieren. In der
 Honorarverrechnung werden die Klienten hierfür in Verrechnungsklienten
 und Erfassungsklienten untergliedert.
@@ -12,7 +12,7 @@ und Erfassungsklienten untergliedert.
 
 -   **Erfassungsklient**
 
-    Erfassungsklienten sind grundsätzliche alle Klienten für die
+    Erfassungsklienten sind grundsätzlich alle Klienten, für die
     Leistungen erbracht werden.
 
 !!! warning "Hinweis"
