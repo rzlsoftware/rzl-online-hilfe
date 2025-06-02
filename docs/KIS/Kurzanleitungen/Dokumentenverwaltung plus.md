@@ -14,7 +14,7 @@ Die RZL Dokumentenverwaltung plus / Belegverwaltung plus ist [**zertifiziert**](
   dass Unternehmen eigene Belege digital aufbewahren. Ob bei der digitalen Aufbewahrung von Fremdbelegen (von Klienten) durch Dritte abweichende Anforderungen bestehen, kann der Richtlinie nicht entnommen werden.
 
 
-Zur Einrichtung der Dokumentenverwaltung plus / Belegverwaltung plus verwenden Sie bitte das Setup Handbuch, welches Sie hier aufrufen können: [Setup Handbuch](/docs/setup/dokvplus-einrichten.md)
+Zur Einrichtung der Dokumentenverwaltung plus / Belegverwaltung plus verwenden Sie bitte das Setup Handbuch, welches Sie hier aufrufen können: [Setup Handbuch](https://hilfe.rzlsoftware.at/setup/dokvplus-einrichten/)
 
 Zur Kurzanleitung für die Belegverwaltung plus gelangen Sie über diesen Link: [Belegverwaltung plus](/docs/Belegverarbeitung/Kurzanleitungen/RZL%20Belegverarbeitung%20Versionsverwaltung.md)
 
