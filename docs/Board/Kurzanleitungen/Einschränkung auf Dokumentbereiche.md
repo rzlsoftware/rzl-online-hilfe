@@ -77,12 +77,12 @@ Sie beschließen der Rolle eine allgemein geltende Rolleneinschränkung zu verge
 
 ## Auf Dokumentbereiche übergreifend festlegen
 
-Um schell und einfach mehrere Rollen auf Dokumentbereiche einschränken zu können, gibt es die übergreifende Funktion. Hier werden nur Rollen angezeigt, welche auf Dokumentbereich(e) einschränkbare Funktionen beinhalten.
+Um schnell und einfach mehrere Rollen auf Dokumentbereiche einschränken zu können, gibt es die übergreifende Funktion. Hier werden nur Rollen angezeigt, welche auf Dokumentbereich(e) einschränkbare Funktionen beinhalten.
 
 ![DB übergreifend festlegen](<img/auf DB übergreifend festlegen.png>)
 
 Die Rollen, welche im linken Bereich angezeigt werden, werden in *Keine Einschränkung, Erlauben* und *Verbieten* unterteilt.
-Ist eine Rolle bereits durch *verbieten* auf Dokumentebereiche eingeschränkt, kann dies mit Klick auf *Erlauben* (oder *Keine Einschränkung*) geändert werden. Die Checkboxen wechseln dann mit Änderung der Option *Verbieten* von ![Verbieten Kreuz](<img/Kreuzal.png>) auf das Symbol für *Erlauben* ![erlauben Hakerl](<img/Hakerl.png>)
+Ist eine Rolle bereits durch *verbieten* auf Dokumentbereiche eingeschränkt, kann dies mit Klick auf *Erlauben* (oder *Keine Einschränkung*) geändert werden. Die Checkboxen wechseln dann mit Änderung der Option *Verbieten* von ![Verbieten Kreuz](<img/Kreuzal.png>) auf das Symbol für *Erlauben* ![erlauben Hakerl](<img/Hakerl.png>)
 
 Für eine Rolle, welche bereits Rolleneinschränkungen auf Dokumentbereiche **und** auf Mitarbeiterebene führt oder **nur** auf Mitarbeiterebene, kann die Option nicht geändert werden.
 
