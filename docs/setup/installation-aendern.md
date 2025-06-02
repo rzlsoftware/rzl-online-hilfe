@@ -18,7 +18,7 @@ Nachbestellung von RZL-Programmen) oder entfernen.
     Firmen-Board mit Basis-Modul, dass diese Programme den Einsatz einer
     Microsoft SQL-Server-Datenbank und eventuell auch den RZL-Dienst
     erfordern. Es empfiehlt sich daher, diese Programme mit Hilfe des
-    [Expertenmodus](/setup/installation#expertenmodus-zb-fur-netzwerkinstallation)
+    [Expertenmodus](installation.md#expertenmodus-zb-fur-netzwerkinstallation)
     zu installieren.
 
 ## Umstieg von Fibu Klassik auf Fibu Next
