@@ -1,0 +1,2 @@
+Willkommen in unserem Hilfebereich für technische Anliegen!
+Hier finden Sie alles, was Sie für die Wartung und den reibungslosen Umgang mit unseren Produkten benötigen. Unser Ziel ist es, Ihnen schnell und effizenz weiterzuhelfen.
