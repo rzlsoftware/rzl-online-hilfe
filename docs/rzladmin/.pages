@@ -1,0 +1,12 @@
+nav:
+    - index.md
+    - allgemein.md
+    - information.md
+    - sicherung.md
+    - wiederherstellen.md
+    - skripte.md
+    - sichern-und-wiederherstellen.md
+    - dateien-herunterladen.md
+    - verwaltung.md
+    - aktivitaetsmonitor.md
+    - knowledge-base.md
