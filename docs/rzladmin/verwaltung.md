@@ -2,12 +2,13 @@
 
 ![Wartung](img/Verwaltung_Menuepunkt.png)
 
-**In diesem Bereich finden Sie die RZL Online-Lizenzierung und Möglichkeiten zur Grundeinstellung,
+In diesem Bereich finden Sie die RZL Online-Lizenzierung und Möglichkeiten zur Grundeinstellung,
 Upload - Möglichkeiten von Daten, Prüfungsmöglichkeiten und Optionen zur Konfiguration der 
-verschiedenen Anwendungen und Installationen.**
+verschiedenen Anwendungen und Installationen.
 
 Der Verwaltungsbereich ist in 10 weitere Einzel-Bereiche untergliedert die im Folgenden 
 erläutert werden:
+
 ## Wartung
 Unter *Wartung* können Sie die Fernwartung (via Teamviewer) für den RZL Kundensupport
 freigeben. Weitere Schaltflächen bieten Ihnen die Möglichkeit, Protokolle
@@ -16,56 +17,55 @@ und Log-Dateien für die genaue Fehleruntersuchung hochzuladen.
 
 - **Fernwartung starten** 
   
-  ![Wartung](img/Verwaltung_Fernwartung.png)
+![Wartung](img/Verwaltung_Fernwartung.png)
 
-  Hier kann in 3 Schritten für Supportzwecke die Fernwartung über den Teamviewer gestartet werden.
-  *(Die Fernwartung kann ebenfalls direkt in den RZL Programmen unter dem Reiter Hilfe aufgerufen 
-  werden*)
+Hier kann in 3 Schritten für Supportzwecke die Fernwartung über den Teamviewer gestartet werden.
+*(Die Fernwartung kann ebenfalls direkt in den RZL Programmen unter dem Reiter Hilfe aufgerufen 
+werden*)
 
-I)*Benutzerkontensteuerung zulassen (JA / NEIN)*
+I) *Benutzerkontensteuerung zulassen (JA / NEIN)*
 
 ![Wartung](img/Verwaltung_Fernwartung_1.png)
 
 II) *Teamviewer Lizenzabkommen und Bedingungen akzeptieren und bestätigen*
 ![Wartung](img/Verwaltung_Fernwartung_2.png)
 
-III)*Teamviewer ID und Passwort angeben 
+III) *Teamviewer ID und Passwort angeben 
     (wird vom Support Mitarbeiter abgefragt um eine Verbindung zum PC herstellen zu können)*
 
 ![Wartung](img/Verwaltung_Fernwartung_3.png) 
 
-
 - **RZL Log-Dateien hochladen**
-  
-  ![Wartung](img/Verwaltung_Log-DateienHochladen.png)
 
-  Hier können ihre Log-Dateien an RZL übermittelt werden, im Anschluss bekommen Sie eine Erfolgsmeldung.
+![Wartung](img/Verwaltung_Log-DateienHochladen.png)
 
-  ![Wartung](img/Verwaltung_Log-DateienErfolgsmeldung.png)
+Hier können ihre Log-Dateien an RZL übermittelt werden, im Anschluss bekommen Sie eine Erfolgsmeldung.
+
+![Wartung](img/Verwaltung_Log-DateienErfolgsmeldung.png)
 
 - **Windows-Ereignisanzeige hochladen**
   
-  ![Wartung](img/Verwaltung_EreignisanzeigeHochladen.png)
+![Wartung](img/Verwaltung_EreignisanzeigeHochladen.png)
 
-  Hier kann die Ereignisanzeige des aktuellen Arbeitsplatzes direkt an RZL hochgeladen werden. Optional kann ausgewählt werden ob die Ereignisse gefiltert oder ungefiltert versendet werden sollen. 
+Hier kann die Ereignisanzeige des aktuellen Arbeitsplatzes direkt an RZL hochgeladen werden. Optional kann ausgewählt werden ob die Ereignisse gefiltert oder ungefiltert versendet werden sollen. 
       
 - **RZL Setup Protokolle hochladen**
   
-  ![Wartung](img/Verwaltung_SetupProtokolle.png)
+![Wartung](img/Verwaltung_SetupProtokolle.png)
 
-  Mit Hilfe dieses Werkzeugs können die Protokolle die bei der Durchführung des Updates geschrieben werden, für Supportzwecke, an den Server von RZL, hochgeladen werden.
+Mit Hilfe dieses Werkzeugs können die Protokolle die bei der Durchführung des Updates geschrieben werden, für Supportzwecke, an den Server von RZL, hochgeladen werden.
   
 - **Datei hochladen**
   
-    ![Wartung](img/Verwaltung_Wartung_DateienHochladen.png)
+![Wartung](img/Verwaltung_Wartung_DateienHochladen.png)
 
-  Über das Verzeichnis können hier selbst ausgewählte Dateien an RZL übermittelt werden.(Sicherungsdateien,etc.)
+Über das Verzeichnis können hier selbst ausgewählte Dateien an RZL übermittelt werden.(Sicherungsdateien,etc.)
 
 - **Ordnerstruktur der RZL Programme hochladen**
   
-  ![Wartung](img/Verwaltung_Wartung_OrdnerstrukturHochladen.png)
+![Wartung](img/Verwaltung_Wartung_OrdnerstrukturHochladen.png)
 
-  Dieser Button lädt direkt die gesamte Ordnerstruktur des Programmverzeichnisses der RZL Programme hoch. 
+Dieser Button lädt direkt die gesamte Ordnerstruktur des Programmverzeichnisses der RZL Programme hoch. 
 
 ## Lizenzierung
 ![Lizenzierung](img/Verwaltung_Lizenzierung.png)
@@ -88,13 +88,15 @@ Dieser Punkt bietet Ihnen verschiedene Einstellungs- und Prüfungsmöglichkeiten
 !!! warning "Hinweis"  
     Einige Optionen sollten nur nach direkter Anweisung durch Support Mitarbeiter von RZL ausgeführt werden.
 
-
 - **Datenbank auf die neueste Version aktualisieren**
 
 ![Wartung](img/Verwaltung_DBEinstellungen_DBAktualisieren.png)
 
 Diese Funktion ist abhängig von Berechtigungen die gesetzt wurden und kann daher aktiv oder inaktiv sein.
 Beim Ausführen dieses Befehls erhält man folgende Hinweismeldung:
+
+!!! warning "Hinweis"  
+    Diese Optionen sollten nur nach direkter Anweisung durch Support Mitarbeiter von RZL ausgeführt werden.
 
 ![Wartung](img/Verwaltung_DBEinstellungen_DBAktualisieren_2.png)
 
@@ -106,8 +108,10 @@ Nach erfolgreicher Aktualisierung erhält man folgende Meldung:
 
 ![Wartung](<img/Verwaltung_DBEinstellungen_DBPruefen.png>)
 
-Dieser Befehl sollte nur in Ausnahmefällen nach Aufforderung des Supports ausgeführt werden.
-(Wenn im Falle eines Setups die Programme zwar aktualsiert wurden aber die SQL-Instanz nicht)
+Mit Hilfe dieses Buttons können Sie überprüfen, ob ausstehende Aktualisierungen
+für die Datenbank vorhanden sind. Eine Überprüfung ist grundsätzlich nur
+erforderlich, wenn bei der Installation Probleme aufgetreten sind und Sie von
+einem Supportmitarbeiter dazu gebeten wurden, diese Funktion auszuführen.
 
 - **Rechte zum Aktualisieren einer neuen Version prüfen**
   
@@ -131,7 +135,11 @@ Die Einstellungen können auch manuell über das SQL Management Studio gesetzt w
   
 ![Wartung](img/Verwaltung_DBEinstellungen_Transaktionslog.png)
 
-  Dieser Befehl kann ausgeführt werden, wenn die Daten der Datenbank aus verschiedenen Gründen zunehmen, meist wenn Konfigurationen der Datenbank selbst nicht sauber gesetzt worden sind.
+Dieser Befehl kann ausgeführt werden, wenn die Daten der Datenbank aus verschiedenen Gründen zunehmen, meist wenn Konfigurationen der Datenbank selbst 
+nicht sauber gesetzt worden sind.
+
+!!! warning "Hinweis"  
+    Diese Optionen sollten nur nach direkter Anweisung durch Support Mitarbeiter von RZL ausgeführt werden.
 
 ![Wartung](img/Verwaltung_DBEinstellungen_TransaktionslogErfolg.png)
 
@@ -140,7 +148,6 @@ Die Einstellungen können auch manuell über das SQL Management Studio gesetzt w
 ![Wartung](img/Verwaltung_DBEinstellungen_Benutzermodus.png)
 
 Der Einzelbenutzermodus lässt nur eine Verbindung zum SQL Server zu. Diese erfolgt überlicherweise über das SQL Managment Studio und ist für Wartungszwecke vorgesehen.
-
  
 - **SQL Index Wartung**
 
@@ -160,14 +167,12 @@ Zur Aktualisieren der Statistiken in der SQL-Datenbank, der SQL-Engine, um optim
 !!! warning "Hinweis"  
     Diese Optionen sollten nur nach direkter Anweisung durch Support Mitarbeiter von RZL ausgeführt werden.
 
-
 ## RZL Kanzlei-Informations-System
 
 ![KIS](img/Verwaltung_KISEinstellungen.png)
 
 Hier können Sie für das Programm *KIS* das Standardlayout des aktuellen
 Benutzers zurücksetzen. Das bedeutet, dass alle individuellen Anpassungen der Ansicht (wie verschobene oder ausgeblendete Spalten/Fenster) wieder auf die Standarddarstellung zurückgesetzt werden. So wird die Oberfläche auf das ursprüngliche Layout zurückgesetzt, das von RZL vorgegeben ist.
-
 
 ## RZL Board Einstellungen
 
@@ -187,15 +192,12 @@ Für das Programm *Board* können hier zusätzliche Einstellungen gesetzt werden
 
 - *RZL Board schließen wenn alle Fenster geschlossen werden*:  Diese Einstellung finden Sie auch im RZL Board im Bereich „Einstellungen“. Damit können Sie steuern, wie sich das Programm beim Schließen der Fenster verhält, je nach Ihren Arbeitsgewohnheiten oder der Umgebung (lokal oder remote).
   
+    • **Immer**: Das RZL Board wird immer geschlossen, wenn alle Fenster geschlossen wurden.
 
-    •	**Immer**: Das RZL Board wird immer geschlossen, wenn alle Fenster geschlossen wurden.
-
-    •	**Nur Remote**: Das RZL Board wird nur dann geschlossen, wenn alle Fenster geschlossen wurden und Sie sich auf einem Remote-Desktop (z.B. über eine Terminalserver-Sitzung) befinden.
+    • **Nur Remote**: Das RZL Board wird nur dann geschlossen, wenn alle Fenster geschlossen wurden und Sie sich auf einem Remote-Desktop (z.B. über eine Terminalserver-Sitzung) befinden.
     
     • **Nie**: Das RZL Board bleibt im Hintergrund aktiv (Symbol im Benachrichtigungsbereich),
     auch wenn alle Fenster geschlossen wurden.
-
-
 
 ## Anwender-Protokolle
 
@@ -207,14 +209,12 @@ Dieses Protokoll dokumentiert alle relevanten Aktivitäten im Zusammenhang mit d
 
 Nach Eingabe des Zeitraums und des Lizenzpasswortes können die Daten abgerufen und auch als CSV - Datei exportiert werden.
 
-
 ## Anonymisierung
 
 ![Anonymisierung](img/Verwaltung_Anonymisierung.png)
 
 Die Funktion "Anonymisierung" im RZL Admin sorgt dafür, dass Benutzerdaten (Namen), die als Teil eines Fehlerberichts an RZL übermittelt werden, anonymisiert sind. Das dient dem Datenschutz und stellt sicher, dass personenbezogene Daten nicht ohne Weiteres weitergegeben werden.
 Die Anonymisierung schützt die Identität der Mitarbeiter bei Fehlerberichten, kann aber im Bedarfsfall zur Fehleranalyse aufgehoben werden.
-
 
 ## RZL PDF-Drucker / Manager-Druckertreiber
 
@@ -258,7 +258,6 @@ Hiermit kann man den Dienst für die Druckwarteschlange (auch „Spooler“ gena
 Hier können Konfigurationen für den SMTP-Server (Mail an SMTP) vorgenommen werden. Ebenfalls können Einstellungen, wie Absenderadresse, Absendername und Antwortadresse, im Bereich Stammdatenverwaltung des Kanzlei-Informations-Systems (KIS) oder im Klientenportal hinterlegt werden.
 
 ![E-Mail](img/Verwaltung_E-MailSMTP.png)
-
 
 ## Abbilddatei hochladen
 
