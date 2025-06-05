@@ -1,4 +1,3 @@
-nav:
 ###Installation 
 [Installation mit DB übersiedeln]()   
 [RZL Dienst installieren]()   
