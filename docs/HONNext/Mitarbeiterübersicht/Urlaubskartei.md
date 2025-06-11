@@ -312,7 +312,7 @@ Urlaubsanspruch):**
     192,5 / (38,5\*5) \* (25\*5) + 30 = 155 h – neuer Saldo ab Zeitpunkt
     Wechsel der Arbeitszeit
 
-4.  Alt: 38,5/Woche - 5 AT  
+4.  Alt: 38,5 h/Woche - 5 AT  
     Neu: 25 h/Woche – 5 AT  
     Resturlaub aktuelles UJ: 25 Tage
 

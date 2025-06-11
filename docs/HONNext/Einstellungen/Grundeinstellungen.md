@@ -82,7 +82,7 @@ deaktiviert:
 **Erfassungsklienten getrennt ausweisen**
 
 Mit der Option *Erfassungsklienten getrennt ausweisen*, werden die
-[Erfassungsklienten](/HONNext/Verrechnungs%20Erfassungsklient/Allgemeines) auf der Note mit dem Klientennamen extra
+[Erfassungsklienten](../Verrechnungs%20Erfassungsklient/Allgemeines.md) auf der Note mit dem Klientennamen extra
 ausgewiesen. Diese Einstellung wird beim Erstellen der Note gespeichert
 und kann für die erstellte Note nicht mehr verändert werden.
 
@@ -113,7 +113,7 @@ sofort bei Fertigstellung finalisieren wollen.
 Betrag vorreihen**
 
 Die Optionen *Betrag bei Verrechnungsgruppenwechsel drucken* und
-*Tätigkeiten ohne Betrag vorreihen* beziehen sich auf *[Tätigkeiten](/HONNext/Stammdaten%20HON%20Next/Tätigkeiten) ohne
+*Tätigkeiten ohne Betrag vorreihen* beziehen sich auf *[Tätigkeiten](../Stammdaten%20HON%20Next/Tätigkeiten.md) ohne
 Betrag in Note*.
 
 Die Option *Betrag bei Verrechnungsgruppenwechsel drucken* bewirkt, dass
@@ -150,7 +150,7 @@ der Betrag wird zur nächsten Tätigkeit der gleichen Verrechnungsgruppe
 
 !!! warning "Hinweis"
     Eine Gruppierung kann auch individuell pro Note gemacht werden. Siehe
-    Kapitel 11.4.9, Seite [94](#notenzeilen-gruppieren).
+    Kapitel [Notenerstellung](../Notenerstellung/Notenerstellung.md#notenzeilen-gruppieren).
 
 **Beispiel 2:** Gleiche Ausgangssituation wie Beispiel 1. In den
 Grundeinstellungen sind die Optionen *Verrechnungsgruppen getrennt
@@ -262,7 +262,7 @@ Modul Belegverarbeitung lizenziert haben.
 
 !!! warning "Hinweis"
     Finalisierte Noten können nur unter gewissen Umständen wieder verändert
-    werden (siehe [Note zurücksetzen](/HONNext/Notenübersicht/Notenübersicht/#note-zurucksetzen)).
+    werden (siehe [Note zurücksetzen](../Notenübersicht.md#note-zurucksetzen)).
 
 **Buchungstext**
 
@@ -303,47 +303,47 @@ Werte die Platzhalter bzw. ihr gewählter Text liefert.
     Der Buchungstext ist kein Pflichtfeld und kann somit auch leer gelassen
     werden.
 
-**Standart-Debitoren-Kontonummer**
+**Standard-Debitoren-Kontonummer**
 
--   *keine Standard-Debitoren Kontonummer  
-    *Mit dieser Option muss die Debitoren Kontonummer selbstständig in
+-   *keine Standard-Debitoren-Kontonummer*  
+    Mit dieser Option muss die Debitoren-Kontonummer selbstständig in
     den Klientenstammdaten eingetragen werden.
 
 -   *Entspricht der Klientennummer, wenn diese mindestens fünfstellig
-    ist  
-    *Bei mindestens fünfstelligen Klientennummern, wird automatisch die
-    Klientennummer als Debitoren Kontonummer vorgeschlagen. Bei einer
-    unter fünfstelligen Klientennummer muss die Debitoren Kontonummer
+    ist*  
+    Bei mindestens fünfstelligen Klientennummern wird automatisch die
+    Klientennummer als Debitoren-Kontonummer vorgeschlagen. Bei einer
+    unter fünfstelligen Klientennummer muss die Debitoren-Kontonummer
     selbstständig in den Klientenstammdaten eingetragen werden.
 
--   *Wert + Klientennummer (z.B. 20001)  
-    *Mit dieser Option können Sie definieren, dass zur Klientennummer
+-   *Wert + Klientennummer (z.B. 20001)*  
+    Mit dieser Option können Sie definieren, dass zur Klientennummer
     immer ein bestimmter Wert addiert wird. Bsp. Wert 20000 –
-    Klientennummer 500 entspricht der Debitoren Kontonummer 20500
+    Klientennummer 500 entspricht der Debitoren-Kontonummer 20500
 
 !!! warning "Hinweis"
-    Den Vorschlag der Debitorennummer ist in den Klientenstammdaten (siehe [Buchhaltung](/HONNext/Stammdaten%20Klienten/#buchhaltung)) ersichtlich.
+    Der Vorschlag der Debitorennummer ist in den Klientenstammdaten (siehe [Buchhaltung](../Stammdaten%20Klienten.md#buchhaltung)) ersichtlich.
 
 **Anzahlungskonten**
-Diese Konten werden bei der Verbuchung von Anzahlungsrechnungen benötigt (vgl. Kapitel 14, Seite 122).
+Diese Konten werden bei der Verbuchung von Anzahlungsrechnungen benötigt (vgl. Kapitel [Anzahlungsrechnungen](../Anzahlungsrechnungen/Allgemein.md)).
 
 ## Verteilung der Zu- und Abschläge
 
 Hier kann die übliche bzw. am häufigsten verwendete Verteilungsmethode
 eingestellt werden. Während der Notenerstellung kann die Art der
 Verteilung bei jeder Notenzeile angepasst werden. Sie können mittels
-Optionsfelder einstellen, ob die Zu- bzw. Abschläge automatisch auf den
+Optionsfeldern einstellen, ob die Zu- bzw. Abschläge automatisch auf den
 Mitarbeiter, ohne Mitarbeiterbezug oder manuell verteilt werden.
 
-Ihre Einstellungen können Sie mittels *Speichern* Button bestätigen.
+Ihre Einstellungen können Sie mittels *Speichern* bestätigen.
 
 ## Verteilung der Rabatte/Aufschläge
 
-Hier kann die standartmäßige Verteilungsmethode für Rabatte und
+Hier kann die standardmäßige Verteilungsmethode für Rabatte und
 Aufschläge definiert werden. Während der Notenerstellung kann die Art
 der Verteilung bei jeder Rabatt-/Aufschlagszeile angepasst werden. Sie
-können mittels Optionsfelder einstellen, ob die Rabatte/Aufschläge
+können mittels Optionsfeldern einstellen, ob die Rabatte/Aufschläge
 automatisch auf den Mitarbeiter oder ohne Mitarbeiterbezug verteilt
 werden.
 
-Ihre Einstellungen können Sie mittels *Speichern* Button bestätigen.
+Ihre Einstellungen können Sie mittels *Speichern* bestätigen.

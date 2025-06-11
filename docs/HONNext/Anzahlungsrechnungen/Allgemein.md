@@ -25,4 +25,4 @@ Abschließend wird die Schlussrechnung erstellt, in der im OP-Ausgleich über di
     ![](<img/image1.png>)
 
 !!! warning "Hinweis"
-    Sind Sie IST-Versteuerer, kann die Teilrechnungsverbuchung in der FIBU nicht aktiviert werden. Daher wer-den bei Anzahlungen die jeweiligen Anzahlungserlöskonten (M20, IGL, RC) gebucht und diese dann bei der Schlussrechnung wieder abgezogen (siehe [Beispiel IST Versteuerer - wiederkehrende Anzahlung M20](/HONNext/Anzahlungsrechnungen/Beispiel%20Ist-Versteuerer)).
+    Sind Sie IST-Versteuerer, kann die Teilrechnungsverbuchung in der FIBU nicht aktiviert werden. Daher wer-den bei Anzahlungen die jeweiligen Anzahlungserlöskonten (M20, IGL, RC) gebucht und diese dann bei der Schlussrechnung wieder abgezogen (siehe [Beispiel IST Versteuerer - wiederkehrende Anzahlung M20](../Anzahlungsrechnungen/Beispiel%20Ist-Versteuerer.md)).

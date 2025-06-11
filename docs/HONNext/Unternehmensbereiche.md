@@ -1,13 +1,12 @@
 # Unternehmensbereiche
 
 Ein Unternehmensbereich ist zum Beispiel Ihre Kanzlei. Wenn Sie die
-Honorarnoten auf unterschiedliche Kanzleien/Bereiche aufteilen, so
-können Sie auch mehrere Unternehmensbereiche haben. Ein
-Unternehmensbereich ist also so zu sagen der Rechnungssteller der
-Honorarnoten die Sie schreiben.
+Honorarnoten auf unterschiedliche Kanzleien/Bereiche aufteilen, können
+Sie auch mehrere Unternehmensbereiche haben. Ein Unternehmensbereich ist
+also sozusagen der Rechnungssteller der Honorarnoten, die Sie schreiben.
 
-Ihre Unternehmensbereiche befinden sich **im Bord** unter der Rubrik
-*Stamm **(1)** – Unternehmensverwaltung - Unternehmensbereiche*. Wurde
+Ihre Unternehmensbereiche befinden sich **im Board** unter der Rubrik
+*Stamm **(1)** – Unternehmensverwaltung – Unternehmensbereiche*. Wurde
 dieser Punkt von Ihnen ausgewählt, so öffnet sich ein eigener Tab für
 die Unternehmensbereiche.
 
@@ -16,29 +15,26 @@ die Unternehmensbereiche.
     Berechtigungssystem eine Rolle mit der Eigenschaft *Unternehmensbereiche
     verwalten* zugeordnet haben.
 
-
-
 ![](<img/image100.png>)
 
-Ein neuer Unternehmensbereich kann über den Button „*Neuer
-Unternehmensbereich*“ im Ribbon **(2)** oder im rechten unteren Bereich
+Ein neuer Unternehmensbereich kann über den Button *Neuer
+Unternehmensbereich* im Ribbon **(2)** oder im rechten unteren Bereich
 angelegt werden.
 
-Bei der Neuanlage eines Unternehmensbereiches müssen Sie die Bezeichnung
-des Unternehmensbereiches und die Klienten-Zuordnung entsprechend
+Bei der Neuanlage eines Unternehmensbereichs müssen Sie die Bezeichnung
+des Unternehmensbereichs und die Klienten-Zuordnung entsprechend
 treffen. Des Weiteren können die Adresse, Telefonnummer, E-Mail-Adresse
-und Bankverbindung hinterlegt werden. Über den Button *zur*
-*Klientenansicht* gelangen Sie in die Stammdaten des Klienten und über
+und Bankverbindung hinterlegt werden. Über den Button *zur
+Klientenansicht* gelangen Sie in die Stammdaten des Klienten und über
 den Button *zur Firmenansicht* gelangen Sie zur Firmenansicht.
-
 
 ![](<img/image101.png>)
 
 Im Bereich *HON* können Sie für den Unternehmensbereich den zugehörigen
-Nummernbereich (siehe Kapitel [Nummernbereich](/HONNext/2%20Stammdaten/Nummernbereiche/)), die
+Nummernbereich (siehe Kapitel [Nummernbereich](../HONNext/Stammdaten%20HON%20Next/Nummernbereiche.md)), die
 zugehörige Notenvorlage **(1)** und die Zahlungsbedingungen **(2)** hinterlegen. Ebenso
-ist die Hinterlegung eines PDF-Briefpapier **(3)** möglich. Bei *Briefpapier*
-ist der Pfad, wo das Briefpapier abgespeichert ist zu definieren.
+ist die Hinterlegung eines PDF-Briefpapiers **(3)** möglich. Bei *Briefpapier*
+ist der Pfad, wo das Briefpapier abgespeichert ist, zu definieren.
 
 !!! warning "Hinweis"
     Das hinterlegte Briefpapier wird für die Ausgabe der Note verwendet
@@ -69,7 +65,6 @@ Hakens markieren und entsprechend zuordnen. Eine weitere Möglichkeit den
 Klienten einem Unternehmensbereich zuzuordnen ist im BOARD in den
 Stammdaten des Klienten. Auch hier können Sie unterhalb dem zugeordneten
 Betrieb den Unternehmensbereich zuordnen.
-
 
 ![](<img/image103.png>)
 

@@ -12,18 +12,18 @@ Tätigkeiten.
 ### Tätigkeiten anlegen
 
 Neue Tätigkeiten können Sie entweder über die Schaltfläche im Ribbon
-**(1)** „*Neue Tätigkeit*“ oder über die Schaltfläche **(2)** „*Neue
-Tätigkeit*“ im rechten unteren Bereich anlegen.
+**(1)** *Neue Tätigkeit* oder über die Schaltfläche **(2)** *Neue
+Tätigkeit* im rechten unteren Bereich anlegen.
 
 ![](<img/image24.png>)
 
 Nun öffnet sich im unteren Bereich die Eingabe für eine neue Tätigkeit.
-Als erstes müssen Sie eine *Nummer* für die Tätigkeit vergeben. Danach
+Als Erstes müssen Sie eine *Nummer* für die Tätigkeit vergeben. Danach
 die *Bezeichnung* und die *Bezeichnung in Note* eintragen **(1).**
 
-Im Feld *Bezeichnung* *in Note* **(3)** können die Stundenanzahl, der
+Im Feld *Bezeichnung in Note* **(3)** können die Stundenanzahl, der
 Stundensatz, die Einheitenanzahl und der Einheitensatz automatisch durch
-Verwendung nachstehender Platzhalter (Aufruf mit Rechter Maustaste)
+Verwendung nachstehender Platzhalter (Aufruf mit rechter Maustaste)
 eingetragen werden.
 
 *{StundenAnzahl}* Stundenanzahl
@@ -36,8 +36,8 @@ eingetragen werden.
 
 !!! warning "Hinweis"
     Der Stundensatz und der Einheitensatz werden errechnet aufgrund des
-    Betrages der Tätigkeit und der Anzahl der Stunden bzw. Einheiten. D.h.
-    es wird nicht auf Stundensätze der Tarifschema zugegriffen. Werden
+    Betrags der Tätigkeit und der Anzahl der Stunden bzw. Einheiten. D. h.,
+    es wird nicht auf Stundensätze der Tarifschemata zugegriffen. Werden
     Zu-/Abschläge durchgeführt, beeinflusst das auch die Berechnung des
     Stundensatzes bzw. Einheitensatzes. Die Platzhalter können auch direkt
     während der Notenerstellung ergänzt werden.
@@ -60,7 +60,7 @@ den Haken.
 
 **Außerhalb der AZ**
 
-Handelt es sich um eine Tätigkeit die außerhalb der Arbeitszeit ist, wie
+Handelt es sich um eine Tätigkeit, die außerhalb der Arbeitszeit ist, wie
 zum Beispiel Behördengänge, Krankenstand, Arztbesuche, Urlaub,
 Feiertage, so setzen Sie hier den Haken.
 
@@ -76,27 +76,27 @@ Weiters wird diese Tätigkeit beim Pauschalausgleich ausgeschlossen.
 
 Handelt es sich um eine Urlaubstätigkeit, setzen Sie den Haken für
 Urlaub. Der erfasste Urlaubskonsum kann so in der Urlaubskartei und im
-Urlaubssaldo berücksichtig werden. Bei Tätigkeiten außerhalb der
+Urlaubssaldo berücksichtigt werden. Bei Tätigkeiten außerhalb der
 Arbeitszeit kann so die Unterbrechung der Arbeitszeit ermittelt werden.
 Es kann mehrere Urlaubstätigkeiten geben – empfohlen wird aber nur eine.
 
 !!! warning "Hinweis"
     Grundsätzlich sollte eine Urlaubstätigkeit nicht verrechenbar sein und
     außerhalb der Arbeitszeit liegen. Es besteht jedoch die Möglichkeit,
-    eine Urlaubstätigkeit als Verrechenbar zu definieren. Eine verrechenbare
+    eine Urlaubstätigkeit als verrechenbar zu definieren. Eine verrechenbare
     Urlaubstätigkeit hat auf die Urlaubskartei der Mitarbeiter keinen
     Einfluss.
 
 **Krankenstand**
 
-Handelt es ich um einen Krankenstand, setzten Sie den Haken für
+Handelt es sich um einen Krankenstand, setzen Sie den Haken für
 Krankenstand. Der Krankenstand ist nur anwählbar, wenn er weder
-verrechenbar noch UST pflichtig ist und außerhalb der AZ liegt. Es kann
+verrechenbar noch USt-pflichtig ist und außerhalb der AZ liegt. Es kann
 mehrere Krankenstandstätigkeiten geben.
 
 **Feiertag**
 
-Ist die Tätigkeit eine Feiertagstätigkeit ist beim Feiertag ein Haken zu
+Ist die Tätigkeit eine Feiertagstätigkeit, ist beim Feiertag ein Haken zu
 setzen.
 
 *Achtung:* Es darf nur eine Tätigkeit geben, die als Feiertag definiert
@@ -132,14 +132,14 @@ angedruckt, sondern zu einer anderen Tätigkeit der gleichen
 Verrechnungsgruppe dazu addiert.
 
 !!! warning "Hinweis"
-    Bitte beachten Sie auch die definierten [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen).
+    Bitte beachten Sie auch die definierten [Grundeinstellungen](../Einstellungen/Grundeinstellungen.md).
 
 **Projektzeitraumeingabe verpflichtend**
 
 Wird die Tätigkeit bei der Leistungserfassung ausgewählt, so muss der
 Leistungserfasser verpflichtend einen Projektzeitraum eintragen.
 
-**Uhrzeiteingabe** **verpflichtend**
+**Uhrzeiteingabe verpflichtend**
 
 Wird die Tätigkeit bei der Leistungserfassung ausgewählt, so muss der
 Leistungserfasser verpflichtend die Uhrzeit (von/bis) eintragen.
@@ -153,7 +153,7 @@ Leistungserfasser verpflichtend einen Text eintragen.
 
 Die Tätigkeiten müssen einer Verrechnungsgruppe **(3)** zugeordnet
 werden. Weitere Informationen zu Verrechnungsgruppen finden Sie im
-Kapitel [Verrechnungsgruppen](/HONNext/Stammdaten%20HON%20Next/Verrechnungsgruppen).
+Kapitel [Verrechnungsgruppen](../Stammdaten%20HON%20Next/Verrechnungsgruppen.md).
 
 **Verrechnungsart**
 
@@ -169,7 +169,7 @@ Hier **(4)** haben Sie die Auswahl zwischen
 
 -   Betrag
 
-Je nachdem wie Sie die Leistung, die auf die Tätigkeit erfasst wird
+Je nachdem, wie Sie die Leistung, die auf die Tätigkeit erfasst wird,
 abrechnen wollen, stehen Ihnen obige Auswahlmöglichkeiten zur Verfügung.
 Die Auswahl, die Sie hier treffen, hat Auswirkungen auf die
 Leistungserfassung Ihrer Mitarbeiter. Wenn Sie beispielsweise Einheiten
@@ -180,7 +180,7 @@ die Anzahl der Einheiten eingetragen werden.
     Bei der Erfassung einer Tätigkeit nach Betrag muss keine Dauer in der
     Leistungserfassung eingegeben werden.
 
-**Unterschied** **Stunden** **und Einheiten / Stunden oder Einheiten**
+**Unterschied Stunden und Einheiten / Stunden oder Einheiten**
 
 Bei der Verrechnungsart *Stunden und Einheiten* müssen im Zuge der
 Leistungserfassung die Stunden und die Einheiten eingegeben werden. Es
@@ -192,12 +192,12 @@ Leistungserfassung nur die Stunden erfasst werden, die Eingabe der
 Einheiten ist optional. Es werden initial die angefallenen Stunden
 verrechnet. Während der Notenerstellung kann die Verrechnung jedoch nach
 Stunden oder Einheiten erfolgen, sofern beides vom Mitarbeiter erfasst
-wurde (vgl. [Verrechnung nach Stunden oder Einheiten](/HONNext/Notenerstellung/Notenerstellung/#verrechnung-nach-stunden-oder-einheiten))
+wurde (vgl. [Verrechnung nach Stunden oder Einheiten](../Notenerstellung/Notenerstellung.md#verrechnung-nach-stunden-oder-einheiten))
 
 !!! info "Tipp"
     Bei den Tarifschemata soll eine Tätigkeit mit der Verrechnungsart
     *Stunden oder Einheiten* einem Stunden- sowie einem Einheitensatz
-    zugordnet werden.
+    zugeordnet werden.
 
 !!! warning "Hinweis"
     Bei Tätigkeiten, welche nach Einheiten abgerechnet werden, kann im Tarifschema ebenso ein Stundensatz hinterlegt werden. In der Notenerstellung kann damit von *Verrechnung nach Einheiten* auf *Verrechnung nach Stunden* gewechselt werden.
@@ -227,14 +227,14 @@ vorhanden ist. Der Nummernbereich für die Erlöskonten ist von 1-
 **Kostenstelle**
 
 Standardmäßig wird die bei der Verrechnungsgruppe hinterlegte
-Kostenstelle übernommen. Sie haben pro Tätigkeit die Möglichkeit eine
+Kostenstelle übernommen. Sie haben pro Tätigkeit die Möglichkeit, eine
 abweichende Kostenstelle zu hinterlegen (Nummernbereich 1-999999999).
 Bei der Erstellung der Buchungen für die Buchhaltung, werden die Erlöse
 auf die Kostenstellen aufgeteilt.
 
 !!! warning "Hinweis"
-    Bei der Kontierung der Kostenstellen wird nach Folgender Reihenfolge
-    vorgegangen. Ist in den [Klientenstammdaten](/HONNext/Stammdaten%20Klienten) eine
+    Bei der Kontierung der Kostenstellen wird nach folgender Reihenfolge
+    vorgegangen. Ist in den [Klientenstammdaten](../Stammdaten%20Klienten.md) eine
     Kostenstelle hinterlegt, wird diese immer vorrangig zur Kontierung
     herangezogen. Anschließend kommen die abweichenden Kostenstellen der
     Tätigkeiten zur Anwendung und zum Schluss wird geprüft, ob bei den
@@ -247,7 +247,7 @@ Wenn Sie alle Einstellungen getroffen haben, können Sie Ihre Tätigkeit
 
 Tätigkeitsnummern können über das Bleistiftsymbol
 ![](<img/image30.png>) **(1),** über das Kontextmenü
-oder über die Schaltfläche „*Tätigkeitsnummer ändern*“ **(2)** geändert
+oder über die Schaltfläche *Tätigkeitsnummer ändern* **(2)** geändert
 werden.
 
 
@@ -255,7 +255,7 @@ werden.
 
 
 !!! warning "Hinweis"
-    Solange noch keine Leistungen auf die Tätigkeit erfasst wurde, können
+    Solange noch keine Leistungen auf die Tätigkeit erfasst wurden, können
     alle Einstellungen geändert werden. Später ist es nur mehr möglich, in
     derselben Generation, die laufende Nummer und die Bezeichnung zu ändern.
 
@@ -263,40 +263,40 @@ Bereits vorhandene Tätigkeiten werden in einer Tabellendarstellung
 **(3)** dargestellt. Dabei ist auf einen Blick ersichtlich, welche
 Optionen Sie bei welchen Tätigkeiten gesetzt haben.
 
-Wollen Sie eine bereits bestehende Tätigkeit ab einen bestimmten
+Wollen Sie eine bereits bestehende Tätigkeit ab einem bestimmten
 Zeitpunkt anders abrechnen bzw. erfassen lassen, so können Sie für die
 bereits bestehende Tätigkeit eine neue Generation vergeben. Dazu wählen
 Sie die entsprechende Tätigkeit aus und blenden die *Details* ein. Im
 linken Bereich befindet sich die Schaltfläche „*Generation*“. Klicken
 Sie einmal auf diese Schaltfläche **(1).** Sie können nun über die
-Schaltfläche „*neue Generation*“ **(2)** die Tätigkeit ab einen
+Schaltfläche „*neue Generation*“ **(2)** die Tätigkeit ab einem
 bestimmten Zeitpunkt anders erfassen bzw. abrechnen lassen.
 
 !!! warning "Hinweis"
-    Generationen sind immer ab einem bestimmten Datum gültig. D.h. die
-    Einstellungen die vor diesem Datum gespeichert sind, sind dann bis zum
+    Generationen sind immer ab einem bestimmten Datum gültig. D. h. die
+    Einstellungen, die vor diesem Datum gespeichert sind, sind dann bis zum
     Zeitpunkt der neuen Generation gültig. Beispiel: Sie legen sich für die
     Tätigkeit Finanzbuchhaltung eine neue Generation ab 25.05.xxxx an, weil
     Sie die Uhrzeiteingabe verpflichtend bei der Leistungserfassung haben
     wollen. Die Einstellungen ohne Uhrzeiteingabe sind dann bis 24.05.xxxx
-    gültig und die Einstellungen mit Uhrzeiteingabe für Leistungen die ab
+    gültig und die Einstellungen mit Uhrzeiteingabe für Leistungen, die ab
     25.05.xxxx erfasst werden.
 
 
 ![](<img/image7.png>)
 
 
-Wenn Sie auf „*neue Generation***“ (2)** geklickt haben, öffnet sich ein
+Wenn Sie auf *neue Generation* **(2)** geklickt haben, öffnet sich ein
 Dialogfenster, in welchem Sie das Datum, ab welchem die Tätigkeit anders
-berechnet werden soll, eintragen können. Wenn Sie auf „*Anlegen*“
-klicken, wird die Generation angelegt, mit Klick auf „*Abbrechen*“
+berechnet werden soll, eintragen können. Wenn Sie auf *Anlegen*
+klicken, wird die Generation angelegt, mit Klick auf *Abbrechen*
 werden die Änderungen verworfen.
 
 
 ![](<img/image8.png>)
 
 Ihnen wird nun die soeben neu angelegte Generation im Detailbereich
-**(1**) der Tätigkeit angezeigt. Nun können Sie die Einstellungen für
+**(1)** der Tätigkeit angezeigt. Nun können Sie die Einstellungen für
 die Tätigkeit ab der neuen Generation setzen und speichern. Die neue
 Generation ist mit einem ab Datum **(2)** gekennzeichnet. Dieses Datum
 finden Sie auch im linken Bereich **(3)**.
@@ -304,14 +304,14 @@ finden Sie auch im linken Bereich **(3)**.
 ![](<img/image11.png>)
 
 !!! warning "Hinweis"
-    Optionen die mit einem türkisen G gekennzeichnet sind, sind
+    Optionen, die mit einem türkisen G gekennzeichnet sind, sind
     generationsübergreifende Optionen.
 
 ### Tätigkeiten löschen
 
 Tätigkeiten können über den Button *Tätigkeit löschen* nur gelöscht
 werden, falls keine Leistungen auf diese Tätigkeit erfasst wurden.
-Ebenso ist es möglich eine Tätigkeit über das Kontextmenü zu löschen.
+Ebenso ist es möglich, eine Tätigkeit über das Kontextmenü zu löschen.
 
 
 ![](<img/image33.png>)
@@ -326,12 +326,12 @@ Sie können über Generationen die Zeiträume steuern. Wenn die Tätigkeit
 nicht mehr erfasst werden soll, so können Sie ein bis Datum bei der
 gültigen Generation setzen. Dazu wählen Sie die gewünschte Tätigkeit
 aus, klicken Sie auf *Details* und auf die Schaltfläche *Generation*.
-Anschließend wählen Sie \**Generation bearbeiten*“ aus.
+Anschließend wählen Sie *Generation bearbeiten* aus.
 
 
 ![](<img/image34.png>)
 
-Nun öffnet sich ein Dialogfenster in welchem Sie das Datum eintragen
+Nun öffnet sich ein Dialogfenster, in welchem Sie das Datum eintragen
 können, bis zu dem die Leistung in der Leistungserfassung von den
 Mitarbeitern erfasst werden kann.
 
@@ -342,7 +342,7 @@ Klicken Sie auf *Übernehmen,* um die Einstellungen zu speichern.
 
 Deaktivierte Tätigkeiten werden in der Übersicht der Tätigkeiten
 grundsätzlich ausgeblendet. Sie können sich diese Tätigkeiten jedoch
-über die Schaltfläche „*Vergangene Tätigkeiten anzeigen*“ wieder
+über die Schaltfläche *Vergangene Tätigkeiten anzeigen* wieder
 einblenden lassen. Deaktivierte Tätigkeiten werden in der Tabelle in
 grauer Schriftfarbe dargestellt.
 
