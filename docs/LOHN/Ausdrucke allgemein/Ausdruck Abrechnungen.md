@@ -62,3 +62,6 @@ Wenn das Modul [*Kollektivverträge*](../Kollektivverträge/Abrechnungsbildschir
 Wenn abweichende externe Dienstnehmer-Nummern verwendet werden, können diese Nummern durch Aktivierung der Option *externe DN-Nr. drucken* auf der Abrechnung angedruckt werden.
 
 Wenn das Zusatzblatt zur Berechnung des Kontrollsechstels ausgedruckt werden soll, aktivieren Sie das Feld *K/6 Aufrollungen drucken*.
+
+!!! warning "Hinweis"
+    Die Abrechnung kann **nicht** in englischer Sprache ausgegeben werden.
