@@ -1,15 +1,13 @@
 # Allgemeines
 
-
 ![](<img/image13.png>)
-
 
 Über den Reiter *Stammdaten* werden Ihnen die verschiedenen Stammdaten
 der Honorarverrechnung aufgelistet.
 
 !!! info "Tipp"
-    Über die Schaltflächen Zu den Klientenstammdaten / Zu den
-    Mitarbeiterstammdaten gelangen Sie mit einem Klick in die Stammdaten der
+    Über die Schaltflächen *Zu den Klientenstammdaten* / *Zu den
+    Mitarbeiterstammdaten* gelangen Sie mit einem Klick in die Stammdaten der
     Klienten/Mitarbeiter.
 
 !!! warning "Hinweis"

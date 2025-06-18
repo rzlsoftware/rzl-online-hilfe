@@ -5,36 +5,31 @@
 Mittels Mausklick in das Feld *Tätigkeit Nr.* oder mit der Tabulator-
 bzw. Enter-Taste **(1)** kann eine Leistungszeile eingetragen werden.
 
-
 ![](<img/image23.png>)
 
-Die Tätigkeit im Eingabefeld *Tätigkeit Nr*. kann mittels Eingabe des
-Wortes gesucht werden. Alle Tätigkeiten können mit der F2-Taste, oder
-mittels Kontextmenü im Feld *Tätigkeit Nr*. vorgeschlagen werden
-**(2)**. Eine weitere Möglichkeit die Tätigkeit Nr. einzutragen ist, die
+Die Tätigkeit im Eingabefeld *Tätigkeit Nr.* kann mittels Eingabe des
+Wortes gesucht werden. Alle Tätigkeiten können mit der F2-Taste oder
+mittels Kontextmenü im Feld *Tätigkeit Nr.* vorgeschlagen werden
+**(2)**. Eine weitere Möglichkeit, die Tätigkeit Nr. einzutragen, ist, die
 Nummer der Tätigkeit manuell in das Feld *Tätigkeit Nr.* zu schreiben.
 Dies ist jedoch nur sinnvoll, wenn die Nummern bekannt sind.
 
-Die ersten zehn Einträge der Tätigkeiten und der Klienten beinhaltet die
+Die ersten zehn Einträge der Tätigkeiten und der Klienten beinhalten die
 in den letzten zwei Monaten am häufigsten verwendeten Tätigkeiten und
 Klienten **(3)**. Die ersten zehn Einträge (maximal 10 Einträge) sind
 sogenannte Favoriten. Die Favoriten werden nach der Häufigkeit sortiert
-(absteigend). Die restlichen Einträge, nach den Favoriten, bleiben nach
+(absteigend). Die restlichen Einträge nach den Favoriten bleiben nach
 Nummern sortiert.
 
 !!! warning "Hinweis"
     Für jede Leistungszeile muss eine Tätigkeit eingetragen werden, damit
     diese freigegeben werden kann.
 
-Die Suche bzw. Eingabe der *Klienten Nummer* erfolgt analog zur
+Die Suche bzw. Eingabe der *Klientennummer* erfolgt analog zur
 Vorgehensweise bei den Tätigkeiten.
 
-Die Felder *Tätigkeit* und *Klient* können nicht eingetragen werden.
-Diese werden aufgrund der Hinterlegung der Tätigkeiten bzw. Klienten aus
-der Honorarverrechnung bzw. aus dem RZL-Board übernommen.
-
-Die Felder Projektz*eitraum* und *Text* können befüllt werden. Je
-nachdem wie die Tätigkeiten in der Honorarverrechnung definiert wurden
+Die Felder *Projektzeitraum* und *Text* können befüllt werden. Je
+nachdem, wie die Tätigkeiten in der Honorarverrechnung definiert wurden,
 müssen *Beginn, Ende, Einheiten* und *Beträge* eingetragen werden.
 
 Im Feld *Dauer* ist eine Eingabe notwendig, wenn Beginn und Ende nicht
@@ -50,32 +45,31 @@ fahren.
 
 Im nachfolgenden Beispiel wurden diverse Fehler produziert.
 
-
 ![](<img/image24.png>)
 
 *1. Zeile:* Kein Status, die Zeile wurde vollständig erfasst.
 
 *2. Zeile:* Beginn und Ende sowie der Text wurden nicht befüllt. Beginn
 und Ende sowie der Text sind in diesem Fall verpflichtend, weil die
-Tätigkeit so definiert wurde. Beim Status werden die Hinweise „*Bei
-dieser Tätigkeit ist die Eingabe eines Textes verpflichtend“* und *„Bei
-dieser Tätigkeit ist die Eingabe von Beginn und Ende verpflichtend“*
+Tätigkeit so definiert wurde. Beim Status werden die Hinweise *Bei
+dieser Tätigkeit ist die Eingabe eines Textes verpflichtend* und *Bei
+dieser Tätigkeit ist die Eingabe von Beginn und Ende verpflichtend*
 angezeigt.
 
 *3. Zeile:* Der Klient wurde nicht ausgewählt. Beim Status wird der
-Hinweis *„Die Auswahl des Klienten ist leer“* angezeigt.
+Hinweis *Die Auswahl des Klienten ist leer* angezeigt.
 
 *4. Zeile:* Die Tätigkeit wurde nicht eingetragen. Beim Status wird der
-Hinweis *„Die Auswahl der Tätigkeit ist leer*“ angezeigt.
+Hinweis *Die Auswahl der Tätigkeit ist leer* angezeigt.
 
 ## Textfeld
 
-Über das Textfeld besteht die Möglichkeit einen Text für die
+Über das Textfeld besteht die Möglichkeit, einen Text für die
 Notenerstellung zu definieren. Hierfür wird im Textfeld der zu
 übernehmende Text markiert.
 
 Es kann entweder der gesamte Text oder nur einzelne Textbausteine
-übernommen werden. Jener Text der übernommen wird, wird gelb
+übernommen werden. Jener Text, der übernommen wird, wird gelb
 hervorgehoben.
 
 Beispiele für die Leistungserfassung:
@@ -84,30 +78,26 @@ Beispiele für die Leistungserfassung:
 
 Erfassung:
 
-Mit rechtsklick in das Textfeld und Auswahl der Option *Text in die
-Honorarnote übernehmen* (Strg+M), wird der gesamte Text gelb markiert
+Mit Rechtsklick in das Textfeld und Auswahl der Option *Text in die
+Honorarnote übernehmen* (Strg+M) wird der gesamte Text gelb markiert
 und somit in die Note übernommen.
-
 
 ![](<img/image25.png>)
 
 Ansicht in der Note:
 
-
 ![](<img/image26.png>)
 
 **Beispiel 2 – nur ein Teil soll übernommen werden:**
 
-Der Teil, welcher übernommen werden soll markieren und mit rechtsklick
+Den Teil, welcher übernommen werden soll, markieren und mit Rechtsklick
 in das Textfeld und Auswahl der Option *Text in die Honorarnote
-übernehmen* (Strg+M), wird der gewählte Text gelb markiert und somit in
+übernehmen* (Strg+M) wird der gewählte Text gelb markiert und somit in
 die Note übernommen.
-
 
 ![](<img/image27.png>)
 
 Nur der gelb hinterlegte Text wird anschließend in die Note aufgenommen.
-
 
 ![](<img/image28.png>)
 
@@ -115,16 +105,14 @@ Nur der gelb hinterlegte Text wird anschließend in die Note aufgenommen.
 
 Erfassung:
 
-Die Teile, welche übernommen werden sollen markieren und mit rechtsklick
+Die Teile, welche übernommen werden sollen, markieren und mit Rechtsklick
 in das Textfeld und Auswahl der Option *Text in die Honorarnote
-übernehmen* (Strg+M), wird der gewählte Text gelb markiert und somit in
+übernehmen* (Strg+M) wird der gewählte Text gelb markiert und somit in
 die Note übernommen.
-
 
 ![](<img/image29.png>)
 
 Ansicht in der Note:
-
 
 ![](<img/image30.png>)
 
@@ -133,17 +121,16 @@ Ansicht in der Note:
     jeweiligen Textbausteine mittels Zeilenschaltung getrennt (siehe
     Beispiel 3).
 
-## Infozeile 
+## Infozeile
 
 Während der Leistungserfassung ist im unteren Bereich der Erfassung
 ersichtlich, ob es Differenzen zur Arbeitszeit gibt **(1).** Ebenso
 sehen Sie die erfassten Leistungen, die Arbeitszeit, die
-Leistungserfassung außerhalb (z.B. Arztbesuche, Urlaube, Krankenstände),
+Leistungserfassung außerhalb (z. B. Arztbesuche, Urlaube, Krankenstände),
 die Normalarbeitszeit und die Mehrarbeit **(1).** Für nähere
-Informationen, warum z. B. die Arbeitszeit den angeführten Wert aufweist
+Informationen, warum z. B. die Arbeitszeit den angeführten Wert aufweist,
 wird ein Tooltip eingeblendet **(2)**. Damit der Tooltip eingeblendet
-wird ist auf den jeweiligen Eintrag mit dem Mauscursor zu fahren.
-
+wird, ist auf den jeweiligen Eintrag mit dem Mauscursor zu fahren.
 
 ![](<img/image34.png>)
 
@@ -155,18 +142,18 @@ Summe der Dauer aller Leistungen innerhalb der Arbeitszeit.
 
 **Arbeitszeit**
 
-Bruttoarbeitszeit abzüglich Pausen und Unterberechnungen.
+Bruttoarbeitszeit abzüglich Pausen und Unterbrechungen.
 
 **Differenz Arbeitszeit**
 
 Die Differenz zwischen Leistungen innerhalb der Arbeitszeit und der
 Nettoarbeitszeit. Es sollte keine Differenz vorhanden sein. Sollte
-dennoch eine Differenz aufscheinen ist diese mit einer roten Schrift
+doch eine Differenz aufscheinen, ist diese mit einer roten Schrift
 gekennzeichnet.
 
 **LE (außerhalb)**
 
-Summe der Dauer aller Leistungen außerhalb der Arbeitszeit (z.B.
+Summe der Dauer aller Leistungen außerhalb der Arbeitszeit (z. B.
 Arztbesuch, Behördengänge).
 
 **Normalarbeitszeit**
@@ -179,11 +166,11 @@ Die Summe der Dauer aller Leistungen abzüglich der Normalarbeitszeit.
 
 **Zeitausgleichsaldo**
 
-Der aktuelle Saldo des Zeitausgleiches für den jeweiligen Tag.
+Der aktuelle Saldo des Zeitausgleichs für den jeweiligen Tag.
 
 !!! info "Tipp"
     Alle Werte der Infozeile werden mittels Tooltip erläutert. Sie können
-    rasch und einfach herausfinden wie sich der Wert zusammensetzt.
+    rasch und einfach herausfinden, wie sich der Wert zusammensetzt.
 
 ## Tageserfassung
 
@@ -195,39 +182,36 @@ ist jedoch immer im Vordergrund (mit einem blauen Rahmen) markiert
 Über den Button *Vorheriger Tag* oder *Nächster Tag* kann in der
 Leistungserfassung der Vortag oder der nächste Tag erfasst werden.
 
-
 ![](<img/image35.png>)
 
 !!! info "Tipp"
     Mit der Tastenkombination Strg + L kann rasch aus der
     Arbeitszeiterfassung in die Leistungseingabe gewechselt werden.
 
-Mittels Shortcut *Alt + Links* (Linke Pfeiltaste/Cursortaste) kann der
+Mittels Shortcut *Alt + Links* (linke Pfeiltaste/Cursortaste) kann der
 Vortag erfasst werden. Der nächste Tag kann mittels Shortcut *Alt +
-Rechts* (Rechte Pfeiltaste/Cursortaste) erfasst werden.
+Rechts* (rechte Pfeiltaste/Cursortaste) erfasst werden.
 
 !!! warning "Hinweis"
     Die Eingaben in der Leistungserfassung werden automatisch gespeichert.
-    Es existiert kein Speichern Button in dieser Ansicht.
+    Es existiert kein Speichern-Button in dieser Ansicht.
 
-## Arbeitszeitgesetz 
+## Arbeitszeitgesetz
 
 Wird das Arbeitszeitgesetz nicht eingehalten, so erhalten Sie im unteren
 Bereich der Leistungserfassung einen Hinweis in den nachfolgend
 beschriebenen Fällen.
 
-
 ![](<img/image36.png>)
 
-**Nicht Einhaltung der Ruhezeiten:**
+**Nichteinhaltung der Ruhezeiten:**
 
 Nach sechs Stunden muss in Summe mindestens eine Pause von 30 Minuten
 eingehalten werden, wobei Pausen unter zehn Minuten ignoriert werden  
 (vgl. §11 Abs. 1 AZG).
 
-Darüberhinausgehende Regelungen wie die Behandlung von Reisezeiten
+Darüber hinausgehende Regelungen wie die Behandlung von Reisezeiten
 usw. werden derzeit nicht berücksichtigt.
-
 
 ![](<img/image37.png>)
 
@@ -239,4 +223,4 @@ Die tägliche Arbeitszeit darf zwölf Stunden nicht überschreiten. (vgl.
 !!! warning "Hinweis"
     Ist in den Mitarbeiterstammdaten im Board die Option *Geschäftsführung
     oder leitende Anstellung* (siehe HON Next Handbuch Kapitel Stammdaten
-    Mitarbeiter) aktiv, erhalten Sie keine Hinweise zum Arbeitszeitgesetzt.
+    Mitarbeiter) aktiv, erhalten Sie keine Hinweise zum Arbeitszeitgesetz.

@@ -10,19 +10,16 @@ Erfassungsklienten abweicht.
 
 ### Erfassungsklient
 
-In den Stammdaten im Board ist beim Erfassungsklient im Reiter *HON* der
+In den Stammdaten im Board ist beim Erfassungsklienten im Reiter *HON* der
 dazugehörige Verrechnungsklient zu hinterlegen.
-
 
 ![](<img/image118.png>)
 
 ### Verrechnungsklient
 
 Beim Verrechnungsklienten sind die dazugehörigen Erfassungsklienten in
-den Board Stammdaten im Reiter *HON* bereits als Zugeordnete
+den Board-Stammdaten im Reiter *HON* bereits als zugeordnete
 Erfassungsklienten definiert.
-
-
 
 ![](<img/image119.png>)
 

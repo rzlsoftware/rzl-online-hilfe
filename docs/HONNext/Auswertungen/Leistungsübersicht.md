@@ -1,3 +1,3 @@
 # Leistungsübersicht
 
-Siehe Kapitel [Leistungsübersicht]([/HONNext/Leistungserfassung/Leistungsübersicht)
+Siehe Kapitel [Leistungsübersicht](../Leistungserfassung/Leistungsübersicht.md)

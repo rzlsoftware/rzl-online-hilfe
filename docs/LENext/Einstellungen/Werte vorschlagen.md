@@ -10,7 +10,7 @@ wird in der nächsten Eingabezeile vorgeschlagen.
 eingegebenen Zeile wird in der neuen Leistungszeile vorgeschlagen.
 
 **Beginn vorschlagen:** Wird das Ende einer Leistungszeile ausgefüllt
-und wird diese Option aktiviert, dann erscheint in der Beginn Spalte in
+und diese Option aktiviert, dann erscheint in der Spalte Beginn in
 der neuen Zeile die Uhrzeit wieder als Startzeit. Wird eine Pause oder
-Unterbrechung mit Beginn des Vorschlagwerts gefunden, wird der Vorschlag
+Unterbrechung mit Beginn des Vorschlagswerts gefunden, wird der Vorschlag
 auf das Ende der Pause geändert.

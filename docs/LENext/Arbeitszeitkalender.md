@@ -7,7 +7,6 @@ Zukunft im Arbeitszeitkalender angezeigt.
 
 Der Arbeitszeitkalender kann über den Button *Kalender* geöffnet werden.
 
-
 ![](<img/image82.png>)
 
 Sie gelangen automatisch in die Tagesansicht des Arbeitszeitkalenders.
@@ -16,11 +15,10 @@ Sie gelangen automatisch in die Tagesansicht des Arbeitszeitkalenders.
     Der Arbeitszeitkalender kann aus der Tageserfassung mit der
     Tastenkombination *Strg + K* geöffnet werden.
 
-
-![](<img/image89.png>)
+![](<img/image113.png>)
 
 Es können unterschiedliche Ansichten **(1)** des Arbeitszeitkalenders
-geöffnet werden und zwar:
+geöffnet werden:
 
 **Tagesansicht:** Wird beim Öffnen des Arbeitszeitkalenders automatisch
 geöffnet.
@@ -34,7 +32,7 @@ Monat dargestellt.
 
 Bei den Zeitraumansichten werden Spalten wie Leistungszeit,
 Normalarbeitszeit und Mehrarbeit summiert. Bei Saldospalten wird immer
-der letzte Eintrag des Zeitraumes angezeigt.
+der letzte Eintrag des Zeitraums angezeigt.
 
 Der Arbeitszeitkalender ist in folgende Spalten unterteilt:
 
@@ -81,7 +79,7 @@ Anzeige von Ende der Tagesarbeitszeit.
 
 Anzeige der gehaltenen Pausen. Wird das
 ![](<img/image91.png>)(Pfeil) Symbol angezeigt, so
-wurden mehrere Pausen und Unterberechnungen eingetragen. Sie können die
+wurden mehrere Pausen und Unterbrechungen eingetragen. Sie können die
 weiteren Pausen über dieses Symbol einblenden lassen.
 
 **AZ**
@@ -101,7 +99,7 @@ Urlaub). Die Kennzeichnung erfolgt in den Stammdaten der Tätigkeiten.
 **Normalarbeitszeit**
 
 Anzeige des in den Stammdaten der Honorarverrechnung definierten
-Arbeitszeitmodelles.
+Arbeitszeitmodells.
 
 **Mehrarbeit**
 
@@ -110,20 +108,20 @@ geleisteter Arbeitszeit.
 
 **Lohnverrechnung**
 
-Anzahl der ausbezahlten Überstunden die in der Honorarverrechnung bei
+Anzahl der ausbezahlten Überstunden, die in der Honorarverrechnung bei
 den Überstundenauszahlungen erfasst wurden.
 
 **ZA Saldo**
 
 Anzeige des laufenden Arbeitszeitsaldos. Mittels Tooltip wird Ihnen die
 Veränderung des ZA-Saldos erläutert. Der Tooltip wird nur bei einer
-Veränderung des ZA-Saldos angezeigt. Bleibt der ZA-Saldo gleich wird
+Veränderung des ZA-Saldos angezeigt. Bleibt der ZA-Saldo gleich, wird
 kein Tooltip angezeigt.
 
-**Urlaubs Saldo**
+**Urlaubssaldo**
 
 Anzeige des Urlaubssaldos. Analog zum ZA-Saldo wird auch die Veränderung
-des Urlaubs-Saldos mittels Tooltip eingeblendet und zwar nur, wenn eine
+des Urlaubssaldos mittels Tooltip eingeblendet, und zwar nur, wenn eine
 Veränderung eintrat.
 
 **Bearbeitungssperre**
@@ -144,9 +142,9 @@ beschrieben.
 
 **Freigabe**
 
-Wenn Sie sich zusätzlich die Spalte *Freigabe* einblenden, sehen Sie
-welche Tage bereits Freigegeben, teilweise Freigegeben oder noch nicht
-Freigegeben wurden.
+Wenn Sie sich zusätzlich die Spalte *Freigabe* einblenden, sehen Sie,
+welche Tage bereits freigegeben, teilweise freigegeben oder noch nicht
+freigegeben wurden.
 
 !!! info "Tipp"
     Mit Rechtsklick in die Überschriftenspalte können Sie sich unter anderem
@@ -158,7 +156,7 @@ Freigegeben wurden.
     Mit Rechtsklick in die Überschriftenspalte können Sie sich noch
     zusätzlich die Spalten *Änderungszeitpunkt AZ, Letzter Bearbeiter AZ*
     sowie *Änderungszeitpunkt LE, Letzter Bearbeiter LE zur Verfügung*
-    einblenden*.* Hier ist ersichtlich wer zuletzt diesen Tag bearbeitet
+    einblenden. Hier ist ersichtlich, wer zuletzt diesen Tag bearbeitet
     hat.
 
 Der Button *Tag(e) bearbeiten* **(2)** bewirkt, dass der im Kalender
@@ -176,44 +174,42 @@ Kontextmenü mit der rechten Maustaste bearbeitet werden. Der Punkt
 die Zwischenablage kopiert wird und beispielsweise im Excel eingefügt
 werden kann.
 
-
 ![](<img/image93.png>)
 
-Mittels des Icon’s *Heute* **(3)** wird der heutige Tag im Kalender
+Mittels des Icons *Heute* **(3)** wird der heutige Tag im Kalender
 markiert. Dieses Icon ist nur in der *Tagesansicht* vorhanden. Wechseln
-Sie auf die *Wochenansicht* können Sie auf *Aktuelle Woche* klicken, in
+Sie auf die *Wochenansicht*, können Sie auf *Aktuelle Woche* klicken, in
 der *Monatsansicht* auf *Aktueller Monat* und in der *Jahresansicht* auf
 *Aktuelles Jahr*. Dabei wird jeweils immer der aktuelle Zeitraum
 markiert.
 
 Mit dem Button *Leistungen anzeigen* **(4)** gelangen Sie in die
-Leistungsübersicht. Je nach dem welcher/e Tag/e farblich markiert
+Leistungsübersicht. Je nachdem, welcher/e Tag/e farblich markiert
 wurde/n, öffnet sich die Leistungsübersicht für diesen Zeitraum. In der
 Leistungsübersicht werden die erfassten Leistungen für den Zeitraum in
 einem eigenen Tab angezeigt. Die Leistungen in dieser Übersicht können
 nicht bearbeitet werden.
 
 Über das Kontextmenü (Klick mit der rechten Maustaste) können die
-Leistungen für den jeweiligen Zeitraum ebenfalls angezeigt werden 
+Leistungen für den jeweiligen Zeitraum ebenfalls angezeigt werden.
 
 Die Schaltfläche *Urlaub eintragen* **(5)** bewirkt, dass die markierten
 Tage als Urlaubstage automatisch erfasst werden. Mit der *STRG-Taste*
 können mehrere Tage markiert werden. Diese Funktion ist nur möglich,
 wenn noch keine andere Leistung für diesen Tag eingetragen wurde. Ebenso
-darf kein ganztägiger Zeitausgleich angehakt sein, oder eine Arbeitszeit
+darf kein ganztägiger Zeitausgleich angehakt sein oder eine Arbeitszeit
 eingetragen worden sein. Gleiches gilt für die Schaltfläche
 *Krankenstand eintragen* **(6).** Auch über das Kontextmenü mittels
-rechter Maustaste kann ein Urlaubstag/Krankenstand eingetragen werden
+rechter Maustaste kann ein Urlaubstag/Krankenstand eingetragen werden.
 
-
-Mittels der Schaltfläche *Homeoffice eintragen* **(7)** können Sie
-einen/mehrere Tage als Homeoffice Tage markieren. In der Wochen-/Monats-
-und Jahresansicht sehen Sie in der Spalte *Homeoffice* die in Summe
-erfassten Homeoffice Tage.
+Mittels der Schaltfläche *Telearbeit eintragen* **(7)** können Sie
+einen/mehrere Tage als Telearbeitstage markieren. In der Wochen-/Monats-
+und Jahresansicht sehen Sie in der Spalte *Telearbeit* die in Summe
+erfassten Telearbeitstage.
 
 !!! info "Tipp"
     Der Arbeitszeitkalender kann auch direkt in der Leistungserfassung beim
-    erfassten Tag über den Button *Kalende*r geöffnet werden.
+    erfassten Tag über den Button *Kalender* geöffnet werden.
 
 In der Wochenansicht besteht ebenso die Möglichkeit, sich den
 Urlaub/Krankenstand/Homeoffice für eine oder mehrere Wochen eintragen zu
@@ -225,20 +221,20 @@ lassen.
     jedoch jederzeit übersteuern.
 
 Mit der Schaltfläche *Layout Speichern* **(8)** können Sie sich den
-Arbeitszeitkalender bzgl. der Spalten so gestalten wie Sie möchte und
+Arbeitszeitkalender bzgl. der Spalten so gestalten, wie Sie möchten und
 dieses gestaltete Layout immer wieder aufrufen.
 
 ## Arbeitszeitkalender exportieren
 
 Über die Schaltfläche *Liste exportieren* im Ribbon haben Sie die
-Möglichkeit sich den Arbeitszeitkalender als PDF oder Excel auszugeben
+Möglichkeit, sich den Arbeitszeitkalender als PDF oder Excel auszugeben.
 
-Bei der Ausgabe in ein Excel Dokument können Sie innerhalb des Excel mit
+Bei der Ausgabe in ein Excel-Dokument können Sie innerhalb des Excels mit
 den Stunden arbeiten und beispielsweise Summen bilden.
 
 ## Urlaubssaldo
 
-Verändert sich der Urlaubssaldo wird diese Veränderung farblich (gelb)
+Verändert sich der Urlaubssaldo, wird diese Veränderung farblich (gelb)
 im Arbeitszeitkalender dargestellt.
 
 Ist nur eine Zelle farblich hinterlegt, bedeutet dies, dass sich der
@@ -252,10 +248,9 @@ zusätzlich 3,5 h gearbeitet. Die Zelle Urlaubssaldo ist an diesem Tag
 gelb markiert, weil sich der Urlaubssaldo von 70 Stunden auf 65 Stunden
 reduziert hat und nicht der ganze Tag ein Urlaubstag war.
 
-
 ![](<img/image94.png>)
 
-Entsteht ein neuer Urlaubsanspruch, so ist die Zeile des Anspruches
+Entsteht ein neuer Urlaubsanspruch, so ist die Zeile des Anspruchs
 ebenso farblich hinterlegt.
 
 **Beispiel:**
@@ -271,7 +266,7 @@ die Veränderung des Urlaubssaldos.
     Zelle auswählen.
 
 Ist eine ganze Zeile gelb markiert, so handelt es sich um einen
-ganztätigen Urlaub.
+ganztägigen Urlaub.
 
 **Beispiel:**
 

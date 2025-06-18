@@ -45,24 +45,22 @@ Spalte nicht dargestellt werden, können Sie diese aushaken. Die
 Anordnung der Spalten kann ebenso von Ihnen verschoben werden.
 
 !!! warning "Hinweis"
-    Die beschriebene Funktionsweise bzgl. der Gruppierung ist in allen frei
-    gestaltbaren Auswertungen im HON Next möglich (Kapitel [RZL Layouts](/HONNext/Auswertungen/RZL%20Layouts); [Mitarbeiterliste](/HONNext/Auswertungen/Mitarbeiter%20und%20Klientenliste/#mitarbeiterliste); [Pauschalstatistik](/HONNext/Auswertungen/Statistiken/#pauschalstatistik)).
+    Die beschriebene Funktionsweise bezüglich der Gruppierung ist in allen frei
+    gestaltbaren Auswertungen im HON Next möglich (Kapitel [RZL Layouts](../Auswertungen/RZL%20Layouts.md); [Mitarbeiterliste](../Auswertungen/Mitarbeiter%20und%20Klientenliste.md#mitarbeiterliste); [Pauschalstatistik](../Pauschalverrechnung/Pauschalstatistik.md)).
 
 
 
 ![](<img/image357.png>)
 
 Mithilfe des Filtersymbols neben den jeweiligen Überschriften können Sie
-auch z.B. nach einem bestimmten Klienten oder einer bestimmten
+auch z. B. nach einem bestimmten Klienten oder einer bestimmten
 Verrechnungsgruppe filtern.
-
-![](<img/image358.png>)
 
 !!! info "Tipp"
     Die verwendeten Filter sind unterhalb der allgemeinen Umsatzstatistik
     ersichtlich.
 
-Nachdem Sie nach einem/mehreren Kriterien gruppiert haben, können Sie
+Nachdem Sie nach einem oder mehreren Kriterien gruppiert haben, können Sie
 sich über die Funktionen *Alles aufklappen/zuklappen* im Ribbon wieder
 die dazugehörigen Zeilen einblenden lassen. Über die Funktion *Ebene
 aufklappen/zuklappen* können Sie nur einzelne Ebenen einblenden. Über
@@ -77,4 +75,4 @@ Zeile in einem separaten Tab geöffnet.
     gruppieren, steht Ihnen im Ribbon die Option *Notendatum* zur Verfügung.
     Hiermit können Sie schnell und einfach nach Tag/Monat/Jahr unterteilen.
 
-![](<img/image360.png>)
+    ![](<img/image360.png>)
