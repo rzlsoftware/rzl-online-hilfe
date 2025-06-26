@@ -20,8 +20,8 @@ Um Belege mit Belegdaten zu importieren, muss im Verzeichnis, der Speicherpfad h
 
 ### FIBU Next Belegdaten
 
-Der Menüpunkt **FIBU Next Belegdaten** ermöglicht, dass die Belege in einem Wirtschaftsjahr aktualisiert werden. Hierzu kann in einem Dropdown Menü das gewünschte Wirtschaftsjahr der FIBU Next ausgewählt werden.
+Der Menüpunkt **FIBU Next Belegdate** ermöglicht es, die Buchungsinformationen aus dem gewählten Wirtschaftsjahr als Beleginformation, im Belegverarbeitungsprogramm zu aktualisieren. Dabei werden sich Buchungsinformationen wie das Buchungsdatum, der Betrag, die OP-Nummer, die Belegnummer, der Text, das Konto und das Gegenkonto vom Programm angesehen und aktualisiert.
 
 ### Dateigrößen ermitteln
 
-
+Durch den Menüpunkt **Dateigrößen ermittelt** wird in den Beleglisten die Dateigröße aktualisiert, falls diese noch nicht eingetragen war.
