@@ -44,7 +44,9 @@ extra_javascript:
   - scripts/redirect.js
           
 plugins:
-  - search
+  - search:
+      lang: de
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - awesome-pages
 
 markdown_extensions:
