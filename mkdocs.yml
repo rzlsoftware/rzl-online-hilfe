@@ -48,6 +48,12 @@ plugins:
       lang: de
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - awesome-pages
+  - tags                     # NEW: Tag support for content organization
+  - git-revision-date-localized:  # NEW: Show last updated dates
+      type: date
+      locale: de
+  - minify:                  # NEW: Minify HTML/CSS/JS
+      minify_html: true
 
 markdown_extensions:
   - admonition
