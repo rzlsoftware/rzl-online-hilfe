@@ -1,10 +1,10 @@
-# Installation mit Datenbank und Dokumentenverwaltung Standard „übersiedeln“
+# Installation mit Datenbank und Dokumentenverwaltung Standard übersiedeln
 
 Diese Anleitung beschreibt, wie Sie eine Installation mit einer bestehenden Datenbank auf einen neuen Server oder ein neues Verzeichnis übersiedeln.
 
 ## 1. Dokumentenordner ändern
 
-Standardmäßig befinden sich die Dokumente/Belege in einem Unterordner des Daten-Repositories (z.B. `R:\RZL_DataRepository\RZL_DOKUMENTE`). Sie können den Speicherort anpassen, indem Sie die Datei RZLDb.ini im INI-Ordner des Daten-Repositories bearbeiten.
+Standardmäßig befinden sich die Dokumente/Belege in einem Unterordner des Daten-Repositories (z. B. `R:\RZL_DataRepository\RZL_DOKUMENTE`). Sie können den Speicherort anpassen, indem Sie die Datei RZLDb.ini im INI-Ordner des Daten-Repositories bearbeiten.
 
 **Beispiel für die Anpassung:**
 ```ini
@@ -22,7 +22,7 @@ Es sind lokale Laufwerkspfade, Netzlaufwerkspfade und UNC-Pfade möglich.
 
 ## 2. Datenbankserver übersiedeln
 
-1. Installieren und konfigurieren Sie auf dem neuen Server den Microsoft SQL Server Express [RZL SQL Server Setup](https://rzl.blob.core.windows.net/setups/RZL%20SQL%20Server%20Setup.exe) herunterladen.
+1. Laden Sie das [RZL SQL Server Setup](https://rzl.blob.core.windows.net/setups/RZL%20SQL%20Server%20Setup.exe) herunter und installieren sowie konfigurieren Sie den Microsoft SQL Server Express auf dem neuen Server.
 2. Sichern Sie die bestehende Datenbank mit dem SQL Server Management Studio.
 3. Kopieren Sie die Backupdatei auf den neuen Server.
 4. Öffnen Sie die Zentrale Mandantenverwaltung und tragen Sie unter **Hilfsmittel > Einstellungen** im Reiter **Datenbank** unter **SQL-Server (Host)** den neuen Servernamen ein.

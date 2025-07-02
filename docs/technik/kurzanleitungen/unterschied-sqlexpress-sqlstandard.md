@@ -1,12 +1,12 @@
 # Technische Unterschiede zwischen SQL Server Express und SQL Server Standard
 
-Im Folgenden werden die technischen Unterschiede zwischen den SQL Server Editionen **Express** und **Standard** im Zusammenhang mit RZL Programmen aufgelistet. Die Unterschiede treffen auf alle SQL Server Versionen ab SQL Server 2016 zu.
+Im Folgenden werden die technischen Unterschiede zwischen den SQL Server Editionen **Express** und **Standard** im Zusammenhang mit RZL-Programmen aufgelistet. Die Unterschiede treffen auf alle SQL Server-Versionen ab SQL Server 2016 zu.
 
 > **Hinweis:** Allgemein ist zu erwähnen, dass sich die Performance durch ein Upgrade von Express auf Standard – vor allem bei vielen gleichzeitigen Benutzern – verbessert.
 
 ## Skalierungslimits
 
-Die angeführten Limits beziehen sich nur auf die Datenbank-Engine. Limits für Analysis Services oder Reporting Services werden nicht angeführt, da diese Funktionen von den RZL Programmen nicht eingesetzt werden.
+Die angeführten Limits beziehen sich nur auf die Datenbank-Engine. Limits für Analysis Services oder Reporting Services werden nicht angeführt, da diese Funktionen von den RZL-Programmen nicht eingesetzt werden.
 
 | Funktion | Express | Standard |
 |---|---|---|
