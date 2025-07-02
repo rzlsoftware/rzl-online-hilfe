@@ -1,17 +1,16 @@
 # Unterschiede bei Erfassung zu LE Klassik
 
-## Ganztätiger Zeitausgleich
+## Ganztägiger Zeitausgleich
 
-Der [ganztägige Zeitausgleich](/LENext/Leistungserfassung/Ganztägiger%20Zeitausgleich) wird in der LE Klassik nicht eingetragen.
+Der [ganztägige Zeitausgleich](../LENext/Leistungserfassung/Ganztägiger%20Zeitausgleich.md) wird in der LE Klassik nicht eingetragen.
 Im Arbeitszeitkalender wird der Zeitausgleich dargestellt. Jedoch ist
 für den Mitarbeiter in der Honorarverrechnung hieraus nicht ersichtlich,
 ob der Mitarbeiter mit seiner Eingabe der Leistungen schon fertig ist
 oder nicht. Deswegen wurde in der neuen Leistungserfassung die
-Möglichkeit geschaffen einen ganztätigen Zeitausgleich separat zu
+Möglichkeit geschaffen, einen ganztägigen Zeitausgleich separat zu
 kennzeichnen.
 
 ![](<img/image108.png>)
-
 
 ## Leistungen außerhalb der Arbeitszeit
 
@@ -26,7 +25,7 @@ Ein Mitarbeiter kommt um 07:30 zur Arbeit und ist von 11:00 bis 12:00
 beim Arzt. Danach hat er eine halbe Stunde Mittagspause und ab 12:30 ist
 er wieder in der Arbeit.
 
-In der Leistungserfassung Klassik ist für die Zeit des Arztbesuches eine
+In der Leistungserfassung Klassik ist für die Zeit des Arztbesuchs eine
 Pause einzutragen.
 
 ![](<img/image109.png>)

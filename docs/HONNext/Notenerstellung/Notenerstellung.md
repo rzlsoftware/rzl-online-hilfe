@@ -2,7 +2,7 @@
 
 Diese Vorgehensweise, die hier beschrieben wird, können Sie durchführen,
 wenn Sie die Möglichkeit *Note erstellen ohne automatische Erstellung*
-ausgewählt haben. Siehe [Möglichkeiten zur Notenerstellung](/HONNext/Notenerstellung/Möglichkeiten%20zur%20Notenerstellung)
+ausgewählt haben. Siehe [Möglichkeiten zur Notenerstellung](../Notenerstellung/Möglichkeiten%20zur%20Notenerstellung.md)
 
 Sie gelangen in die Notenansicht:
 
@@ -62,25 +62,25 @@ Im Reiter *Anmerkungen* können Sie pro Note Anmerkungen hinterlegen. Die
 Anmerkungen werden pro Note gespeichert. Dieser Text wird nicht auf der
 Note angedruckt.
 
-Die Anmerkungen je Note können Sie sich in der [Notenübersicht](/HONNext/Notenübersicht) über das Einblenden der Spalte
+Die Anmerkungen je Note können Sie sich in der [Notenübersicht](../Notenübersicht.md) über das Einblenden der Spalte
 *Anmerkung* anzeigen lassen.
 
 **Zusatztext für Note**
 
 Im Reiter *Zusatztext für Note*, wird jener Text angedruckt, der in den
-[Stammdaten des Klienten](/HONNext/Stammdaten%20Klienten)
+[Stammdaten des Klienten](../Stammdaten%20Klienten.md)
 hinterlegt wurde. Während der Notenerstellung kann dieser Text ergänzt
 bzw. editiert werden. Dieser Text wird auf der Note angedruckt.
 
 !!! warning "Hinweis"
-    Der bei der Note eingegebene Zusatztext kann in der [Notenübersicht](/HONNext/Notenübersicht)
+    Der bei der Note eingegebene Zusatztext kann in der [Notenübersicht](../Notenübersicht.md)
     eingeblendet werden.
 
 **Notenstruktur**
 
 Im Reiter *Notenstruktur* können Sie die Einstellung bzgl. dem Ausweis
 der Verrechnungsgruppen für diese Note ändern. Die Einstellung wird aus
-den [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen/#note) genommen.
+den [Grundeinstellungen](../Einstellungen/Grundeinstellungen.md#note) genommen.
 
 Wird die Notenstruktur verändert, werden bereits durchgeführte
 Gruppierungen und Sortierungen verworfen. Durchgeführte Änderungen an
@@ -399,8 +399,7 @@ Erfassung:
 
 Ansicht in der Note:![](<img/image207.png>)
 
-Weitere Beispiele hierzu finden Sie im Handbuch Leistungserfassung
-Kapitel 2.4.2, Seite 10.
+Weitere Beispiele hierzu finden Sie im Handbuch Leistungserfassung.
 
 ## Notenzeile einfügen
 
@@ -427,7 +426,7 @@ Nachdem der Betrag eingegeben wurde, muss der Zuschlag verteilt werden.
 Es öffnet sich hierfür ein eigenes Fenster. Der Zuschlag kenn entweder
 einem Mitarbeiter direkt zugewiesen werden oder, wenn man das Feld
 *Mitarbeiter* leer lässt, erhält der Klient den Zuschlag (siehe hierzu
-[Zu-/Abschläge](/HONNext/Notenerstellung/Notenerstellung/#zu-abschlage)).
+[Zu-/Abschläge](../Notenerstellung/Notenerstellung.md#zu-abschlage)).
 
 
 ![](<img/image210.png>)
@@ -441,7 +440,7 @@ einem Mitarbeiter direkt zugewiesen werden oder, wenn man das Feld
 ## Zu-/Abschläge 
 
 Zu- und Abschläge werden automatisch, je nachdem welche Einstellungen
-Sie bei den [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen) getroffen haben, verteilt. Es besteht die Möglichkeit die Zu-
+Sie bei den [Grundeinstellungen](../Einstellungen/Grundeinstellungen.md) getroffen haben, verteilt. Es besteht die Möglichkeit die Zu-
 und Abschläge automatisch auf die Mitarbeiter, automatisch ohne
 Mitarbeiterbezug und manuell zu verteilen.
 
@@ -541,7 +540,7 @@ der gesamte Betrag verteilt wird.
 
 **Beispiel Zu-/Abschlag bei Gruppen**
 
-Nachdem Sie eine Gruppe gebildet haben (siehe [Notenzeilen gruppieren](/HONNext/Notenerstellung/Notenerstellung/#notenzeilen-gruppieren)), können Sie die Gruppensumme ändern. Nach
+Nachdem Sie eine Gruppe gebildet haben (siehe [Notenzeilen gruppieren](../Notenerstellung/Notenerstellung.md#notenzeilen-gruppieren)), können Sie die Gruppensumme ändern. Nach
 dem Ändern der Gruppensumme, wird der Zu-/Abschlag je nach
 Grundeinstellungen dem Mitarbeiter zugeordnet. Sie haben nun die
 Möglichkeit die einzelnen Zu-/Abschläge je Tätigkeit oder den
@@ -597,7 +596,7 @@ Zeile Zwischensumme (**1**).
 Rabatte werden mit einem Minus und Aufschläge mit einem Plus
 symbolisiert (**2**).
 
-Rabatte/Aufschläge werden, je nach den getroffenen [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen),
+Rabatte/Aufschläge werden, je nach den getroffenen [Grundeinstellungen](../Einstellungen/Grundeinstellungen.md),
 mit oder ohne Mitarbeiterbezug verteilt. Sollte diese Einstellung innerhalb der
 Notenerstellung abgeändert werden, kann dies über das Kontextmenü
 (rechte Maustaste auf die Rabatt-/Aufschlagszeile) erfolgen.
@@ -677,7 +676,7 @@ Excel einfügen.
 
 Sie können die Note sofort beim Speichern & schließen endgültig
 finalisieren, wenn Sie dies nicht schon bereits in den
-[Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen) eingestellt haben. Dazu gibt es während der Notenerstellung das
+[Grundeinstellungen](../Einstellungen/Grundeinstellungen.md) eingestellt haben. Dazu gibt es während der Notenerstellung das
 Optionsfeld „*Note beim ‚Speichern & schließen‘ finalisieren*“ welches
 Sie aktivieren können.
 
@@ -710,8 +709,8 @@ Klienten zum Nachsehen aufzeigen. Sie erhalten einen Überblick über alle
 bereits verrechneten Noten und sehen im unteren Bereich die Notendetails
 zu den bereits verrechneten Noten.
 
-Den Notenrückblick können Sie über die Schaltfläche *Notenrückblick* der
-sich im Ribbon befindet zusätzlich öffnen.
+Den Notenrückblick können Sie über die Schaltfläche *Notenrückblick*, die
+sich im Ribbon befindet, zusätzlich öffnen.
 
 
 ![](<img/image235.png>) 
@@ -727,8 +726,8 @@ der Notenerstellung auch den zugehörigen Ausgangsbeleg anzeigen lassen.
 
 Wenn Sie mit der Notenbearbeitung/Notenerstellung fertig sind, muss die
 Note noch gespeichert werden. Im rechten unteren Bereich bestehen die
-Möglichkeiten die Note entweder mit, *Speichern & schließen* zu beenden,
+Möglichkeiten, die Note entweder mit *Speichern & schließen* zu beenden
 oder nur zu *Speichern*. Wenn Sie nur *Speichern* auswählen, bleiben Sie
-im Notenbearbeitungsansicht bei der gewählten Note. Sollten Sie
+in der Notenbearbeitungsansicht bei der gewählten Note. Sollten Sie
 *Speichern & schließen* auswählen, so wird die Note gespeichert und die
 Notenbearbeitungsansicht geschlossen.

@@ -1,17 +1,15 @@
-# Homeoffice
+# Telearbeit
 
-Befinden Sie sich an einem Tag im Homeoffice, so können Sie dies durch
-setzten des Hakens *Homeoffice* hinterlegen.
+Befinden Sie sich an einem Tag in Telearbeit, so können Sie dies durch
+Setzen des Hakens *Telearbeit* hinterlegen.
 
+![](<img/image81.png>)
 
-![](<img/image20.png>)
+Im Arbeitszeitkalender werden Telearbeitstage durch einen Haken in der
+Spalte *Telearbeit* dargestellt:
 
-Im Arbeitszeitkalender werden Homeoffice Tage durch einen Haken in der
-Spalte *Homeoffice* dargestellt:
-
-
-![](<img/image21.png>)
+![](<img/image82.png>)
 
 !!! info "Tipp"
-    Über die Tages- und Wochenansicht im Arbeitszeitkalender kann Homeoffice
+    Über die Tages- und Wochenansicht im Arbeitszeitkalender kann Telearbeit
     über einen längeren Zeitraum erfasst werden.
