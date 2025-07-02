@@ -4,7 +4,7 @@ Im Reiter *Einstellungen Urlaubsverwaltung* wird definiert, ob der
 Urlaub im HON Next in Stunden oder in Tagen verwaltet wird.
 
 Bei der Urlaubsverwaltung in Tagen kann zusätzlich definiert werden, ob
-die Eingabe halber Urlaubstage möglich ist oder nur ganztätige Urlaube
+die Eingabe halber Urlaubstage möglich ist oder nur ganztägige Urlaube
 erlaubt sind.
 
 !!! warning "Hinweis"
@@ -15,7 +15,7 @@ erlaubt sind.
 ![](<img/image94.png>)
 
 Bei der Verwaltung in Stunden und in Tagen ist die Urlaubstätigkeit wie
-folgt anzulegen (vgl. [Tätigkeit anlegen](/HONNext/Stammdaten%20HON%20Next/Tätigkeiten/#tatigkeiten-anlegen))
+folgt anzulegen (vgl. [Tätigkeit anlegen](../Stammdaten%20HON%20Next/Tätigkeiten.md#tatigkeiten-anlegen)).
 
 
 ![](<img/image95.png>)

@@ -7,7 +7,7 @@
 Die Gegenrechnung/der Ausgleich der Pauschale mit den tatsächlich
 erfassten Leistungen der Mitarbeiter erfolgt über *Pauschalverrechnung /
 Pauschalzeilen* oder im Zuge des
- [automatischen Pauschalausgleiches](/HONNext/Pauschalverrechnung/Pauschalausgleich/#automatischer-pauschalausgleich).
+ [automatischen Pauschalausgleiches](../Pauschalverrechnung/Pauschalausgleich.md#automatischer-pauschalausgleich).
 
 Zuerst wählt man die Pauschalzeile, welche ausgeglichen werden soll aus.
 Anschließend wählt man die Schaltfläche *Pauschale ausgleichen /
@@ -25,18 +25,18 @@ Erfassungszeilen, welche man ausgleichen möchte, anhaken.
     zur Pauschale aus.
 
 Das Programm ermittelt automatisch einen Zu-/Abschlag **(1)**. Die
-Verteilung der Zu/Abschläge ist von den [Grundeinstellungen](/HONNext/Einstellungen/Grundeinstellungen) abhängig.
+Verteilung der Zu-/Abschläge ist von den [Grundeinstellungen](../Einstellungen/Grundeinstellungen.md) abhängig.
 
-Der Zu/Abschlag passt sich automatisch an, wenn eine Erfassungszeile
+Der Zu-/Abschlag passt sich automatisch an, wenn eine Erfassungszeile
 zusätzlich angehakt oder ausgehakt wird.
 
 
 ![](<img/image280.png>)
 
 Die Detailzeile im oberen Bereich des Bildschirmes **(2)** zeigt Ihnen
-den Wert der Pauschale, die Art der Verteilung der Zu/Abschläge, sowie
-eine möglich vorhandene Differenz nach einer manuellen Verteilung der
-Zu/Abschläge.
+den Wert der Pauschale, die Art der Verteilung der Zu-/Abschläge, sowie
+eine mögliche vorhandene Differenz nach einer manuellen Verteilung der
+Zu-/Abschläge.
 
 ## Ändern einer ausgeglichenen Pauschale
 
@@ -49,7 +49,7 @@ Projektzeitraum und der Betrag der Zeile geändert werden.
 
 Eine Änderung löst automatisch den Pauschalausgleich aus. Es öffnet sich
 daher die Ansicht des Pauschalausgleiches, wo das Programm bei einer
-Änderung des Betrages auch die Zu/Abschläge neu verteilt bzw., wo Sie
+Änderung des Betrages auch die Zu-/Abschläge neu verteilt bzw., wo Sie
 selbst noch Änderungen durchführen können.
 
 !!! warning "Hinweis"
@@ -64,7 +64,7 @@ Speichern der Note mitgespeichert.
 ## Pauschalausgleich während der Notenerstellung
 
 !!! warning "Hinweis"
-    Im Zuge der Anlage der [Pauschalzeilen](/HONNext/Pauschalverrechnung/Pauschalzeilen/)
+    Im Zuge der Anlage der [Pauschalzeilen](../Pauschalverrechnung/Pauschalausgleich.md)
     kann definiert werden, dass der Pauschalausgleich gleich im Zuge der
     Notenerstellung vom Programm automatisch vorgenommen wird.
 
@@ -122,7 +122,7 @@ werden soll. Sie können zwischen folgenden Optionen wählen:
     Verrechnungsgruppe fallen sowie den gleichen Projektzeitraum wie die
     Pauschalzeile aufweisen und gleicht diese mit der Pauschalzeile aus.
     Der Ausgleich kann während der Notenerstellung bearbeitet werden
-    ([Pauschalausgleich während der Notenerstellung](/HONNext/Pauschalverrechnung/Pauschalausgleich/#pauschalausgleich-wahrend-der-notenerstellung)).
+    ([Pauschalausgleich während der Notenerstellung](../Pauschalverrechnung/Pauschalausgleich.md#pauschalausgleich-wahrend-der-notenerstellung)).
 
 -   Datum
 
@@ -138,8 +138,8 @@ werden soll. Sie können zwischen folgenden Optionen wählen:
 
 **Verteilungsart**
 
-Hier ist einzustellen, ob die Zu/Abschläge die durch den Ausgleich der
-Pauschale entstehen mit/ohne Mitarbeiterbezug oder manuell Verteilt
+Hier ist einzustellen, ob die Zu-/Abschläge die durch den Ausgleich der
+Pauschale entstehen mit/ohne Mitarbeiterbezug oder manuell verteilt
 werden sollen.
 
 **Beispiel Automatischer Pauschalausgleich mit Datum:**
@@ -172,7 +172,7 @@ Projektzeitraum wie die Pauschalzeile aufweisen und gleicht diese mit
 der Pauschalzeile aus.
 
 !!! info "Hinweis"
-    Zeilen ohne Projektzeitraum bzw. mit überschneidenten Projektzeiträumen
+    Zeilen ohne Projektzeitraum bzw. mit überschneidenden Projektzeiträumen
     werden ebenso ausgewählt.
 
 Über die Schaltfläche *Pauschale ausgleichen*, kann der
@@ -187,12 +187,12 @@ Mitarbeiterbezug* ordnet das Programm die Zuschläge den Mitarbeitern zu
 Mit 30.09.2023 generiert der RZL-Dienst automatisch eine neue
 Pauschalzeile mit Datum 30.09.2023 für den Projektzeitraum August 2023.
 
-Der Automatische Ausgleiche erfolgt ebenso am 30.09.2023 – das Programm
+Der Automatische Ausgleich erfolgt ebenso am 30.09.2023 – das Programm
 wählt nun alle Buchhaltungszeilen mit Projektzeitraum August 2023.
 
 Mit 31.10.2023 generiert der RZL-Dienst automatisch eine neue
 Pauschalzeile mit Datum 31.10.2023 für den Projektzeitraum September
-1.    Der Automatische Ausgleiche erfolgt ebenso am 31.10.2023 – das
+2023. Der Automatische Ausgleich erfolgt ebenso am 31.10.2023 – das
 Programm wählt nun alle Buchhaltungszeilen mit Projektzeitraum September
 2023 usw.
 
@@ -228,7 +228,7 @@ Zeilen das Programm ausgeglichen hat.
 ![](<img/image290.png>)
 
 Wird eine Pauschale abgerechnet, zu der es noch keine Leistungen in der
-Leistungserfassung gib, erhalten Sie folgenden Hinweis beim Öffnen der
+Leistungserfassung gibt, erhalten Sie folgenden Hinweis beim Öffnen der
 Note:
 
 ![](<img/image291.png>)
@@ -237,29 +237,25 @@ Der Pauschalausgleich kann nicht vom Programm automatisch durchgeführt
 werden und muss manuell über *Pauschalverrechnung / Pauschalzeilen*
 gemacht werden.
 
-## Pauschlausgleich zurücksetzten
+## Pauschalausgleich zurücksetzen
 
-Wurde ein Pauschlausgleich irrtümlich durchgeführt, kann dieser über die
-Schaltfläche *Pauschalausgleich zurücksetzten* wieder rückgängig gemacht
+Wurde ein Pauschalausgleich irrtümlich durchgeführt, kann dieser über die
+Schaltfläche *Pauschalausgleich zurücksetzen* wieder rückgängig gemacht
 werden.
-
 
 ![](<img/image292.png>)
 
 Sie erhalten eine Abfrage, ob der Pauschalausgleich tatsächlich
 zurückgesetzt werden soll.
 
-
 ![](<img/image293.png>)
 
-Wird diese Abfrage mit Zurücksetzten bestätigt, werden alle
-Zu/Abschläge, die durch den vorher durchgeführten Pauschalausgleich
+Wird diese Abfrage mit Zurücksetzen bestätigt, werden alle
+Zu-/Abschläge, die durch den vorher durchgeführten Pauschalausgleich
 generiert wurden, verworfen.
 
 Die Erfassungszeilen stehen für einen erneuten Pauschalausgleich wieder
 zur Verfügung.
 
 !!! info "Hinweis"
-    Wurde für die Pauschalzeile eine [Schlussnote](/HONNext/Pauschalverrechnung/Schlussnote) erstellt, kann der Pauschalausgleich nicht mehr
-    bearbeitet werden, sondern nur noch in einer Art Lesezugriff aufgerufen
-    werden.
+    Wurde für die Pauschalzeile eine [Schlussnote](../Pauschalverrechnung/Schlussnote.md) erstellt, kann der Pauschalausgleich nicht mehr bearbeitet werden, sondern nur noch in einer Art Lesezugriff aufgerufen werden.

@@ -9,8 +9,7 @@ gruppiert.
 ![](<img/image137.png>)
 
 
-
-![](<img/image138.png>)
+![](<img/image171.png>)
 
 Der Arbeitszeitkalender ist in nachfolgende Spalten unterteilt:
 
@@ -129,11 +128,10 @@ oder noch nicht Freigegeben wurden.
     einblenden. In der Wochen-, Monats- und Jahresansicht werden die in
     Summe erfassten Stunden dargestellt.
 
-
-![](<img/image142.png>)
+![](<img/image173.png>)
 
 Es können unterschiedliche Ansichten **(1)** des Arbeitszeitkalenders
-geöffnet werden und zwar:
+geöffnet werden:
 
 **Tagesansicht:** Anzeige der einzelnen Tage des gewählten Mitarbeiters.
 
@@ -147,7 +145,10 @@ Monat dargestellt.
 Sie können über die Menüpunkte *Alles aufklappen* und *Alles zuklappen*
 **(2)** die Kalender entweder aufklappen oder zuklappen.
 
-Mittels des Buttons *Leistungen anzeigen* **(3)** oder über das
+!!! info "Tipp"
+    Im Menü steht Ihnen die Option *Liste drucken (pro Mitarbeiter)* **(3)** zur Verfügung. Es wird Ihnen pro Mitarbeiter ein Dokument mit dem Arbeitszeitkalender ausgegeben. Dies kann zum Unterfertigen an die Mitarbeiter genutzt werden. Auf dem Ausdruck werden das Tagesdatum und die Uhrzeit des Ausdrucks ausgewiesen.
+
+Mittels des Buttons *Leistungen anzeigen* **(4)** oder über das
 Kontextmenü können Sie die Leistungen des gewählten Mitarbeiters
 anzeigen lassen. Es öffnet sich ein eigener Tab mit der
 Leistungsübersicht.
@@ -157,20 +158,19 @@ Leistungsübersicht.
 In der Leistungsübersicht werden Ihnen alle Leistungen für den gewählten
 Mitarbeiter und den gewählten Zeitraum angeführt. Sie können
 Spaltenüberschriften in den Bereich **(1)** ziehen, um nach dieser
-Spalte zu gruppieren. Somit wird Ihnen ermöglicht die Leistungsübersicht
-nach gewissen Kriterien zu gruppieren.
-
+Spalte zu gruppieren. Somit wird Ihnen ermöglicht, die Leistungsübersicht
+nach bestimmten Kriterien zu gruppieren.
 
 ![](<img/image144.png>)
 
-Nachfolgend ein Screenshot mit gruppierten Leistungen. Die Spalten nach
-denen gruppiert werden sollte, wurden in den oberen Bereich gezogen. Sie
+Nachfolgend ein Screenshot mit gruppierten Leistungen. Die Spalten, nach
+denen gruppiert werden soll, wurden in den oberen Bereich gezogen. Sie
 können bei der Gruppierung mehrere Unterebenen bilden. In unserem
-Beispiel wurde nach der Tätigkeit gruppiert und nach der Unterebene
-Klient.
+Beispiel wurde nach der Tätigkeit gruppiert und als Unterebene nach dem
+Klienten.
 
 ![](<img/image145.png>)
 
-Falls eine Leistung die bereits verrechnet wurde, wird Ihnen dies in der
+Falls eine Leistung bereits verrechnet wurde, wird Ihnen dies in der
 Spalte Status mit diesem Symbol
-![](<img/image146.png>)angezeigt.
+![](<img/image146.png>) angezeigt.

@@ -13,11 +13,11 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><em>Alt + Links (</em>Linke Pfeiltaste/Cursortaste)</td>
+<td><em>Alt + Links</em> (linke Pfeiltaste/Cursortaste)</td>
 <td>Vorherigen Tag erfassen.</td>
 </tr>
 <tr class="even">
-<td><em>Alt + Rechts</em> (Rechte Pfeiltaste/Cursortaste)</td>
+<td><em>Alt + Rechts</em> (rechte Pfeiltaste/Cursortaste)</td>
 <td>Nächsten Tag erfassen.</td>
 </tr>
 <tr class="odd">
@@ -51,8 +51,7 @@ Tastenkombination geöffnet werden.</td>
 </tr>
 <tr class="even">
 <td><em>Strg + U</em></td>
-<td>Eine neue Leistungszeile außerhalb der Leistungserfassung
-erfassen.</td>
+<td>Eine neue Leistungszeile außerhalb der Leistungserfassung erfassen.</td>
 </tr>
 </tbody>
 </table>
