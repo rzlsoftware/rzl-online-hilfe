@@ -41,7 +41,6 @@ Klicken Sie auf *Gerät speichern*.
     Aktivieren Sie die 2-Faktor-Authentifizierung, so ist stets ein 2. Faktor erforderlich. Wenn Sie das KIS als 2. Faktor hinzufügen - was für den automatischen Login erforderlich ist - muss bei jedem Login der 2FA Code im KIS zur Anmeldung verwendet werden. Würden Sie sich am Mobiltelefon/Tablet mit Ihrem FinanzOnline Benutzer anmelden wollen, benötigen Sie dazu den 2FA Code aus dem KIS.
     Wir empfehlen daher die Anlage eines 2. Gerätes (z.B. Ihr Mobiltelefon) im FinanzOnline. So ist auch unterwegs eine Anmeldung in FinanzOnline möglich.
 
-
 Es erscheint folgende Seite:
 
 ![Wiederherstellungscode](<img/Wiederherstellungscode.png>)
