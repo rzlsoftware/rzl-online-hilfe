@@ -1,17 +1,47 @@
-## Belege
+## Belege hinzufügen
 
 !!! info "Tipp"
     In Listenansichten im RZL Board gibt es die Möglichkeit Spalten ein- und auszublenden, Spaltenpositionen zu verändern und Filter pro Spalte zu setzen. Diese benutzerdefinierten Einstellungen können über **Layout speichern** gesichert werden. Über das DropDown-Menü kann das abgespeicherte Layout ausgewählt werden.
 
+Die folgend beschriebenen Ansichten verhalten sich alle sehr ähnlich. Es werden bei jeder Ansicht die Belege in der Mitte angezeigt, darunter befindet sich die Listenansicht (vorausgesetzt das Layout der Ansicht wurde nicht verändert). Es muss immer der Klient und der Belegkreis dem Beleg zugeordnet werden, ansonsten kann mit der Belegaufbereitung nicht begonnen werden.
+
+![Ansicht Belege](<img/image9.png>)
+
 ### Belege hinzufügen
+
+In der Ansicht **Belege hinzufügen** können Belege mittels Drag&Drop in das Programm gezogen werden. Hierzu muss der Beleg nicht abgespeichert werden, sondern kann z.B. aus der E-Mail in die Belegverarbeitung gezogen werden.
+
+Es können Belege neuen Klientengruppen oder Belegkreisgruppen zugeordnet, aufgetrennt oder komprimiert und Belegdaten erkannt werden. Die Funktion **Belege zu Finmatics hochlanden** schickt die ausgewählten Belege zu Finmatics, die dann die Belegdaten auswerten. Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
 
 ### Belege Scanordner
 
+In der Ansicht **Belege Scanordner** wird ein Ordner ausgewählt, welcher keine Unterordner besitzen kann. Im Scanordner erfolgt eine automatische Texterkennung (OCR), falls diese in den Einstellungen des Scanordners aktiviert wurde. Mehr zur Konfiguration des Scanordners finden Sie ...
+
+Im Scanordner können Belege neuen Klientengruppen oder Belegkreisgruppen zugeordnet, aufgetrennt oder komprimiert und Belegdaten erkannt werden. Die Funktion **Belege zu Finmatics hochlanden** schickt die ausgewählten Belege zu Finmatics, die dann die Belegdaten auswerten. Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
+
 ### Belege Verzeichnis
+
+In der Ansicht **Belege Verzeichnis** kann ein Ordner als Verzeichnis hinterlegt werden, in welchem mehrere Unterordner angelegt sein können (z.B. Ordner für AR, ER, sonstige, ...). Hier können Belege neuen Klientengruppen oder Belegkreisgruppen zugeordnet, aufgetrennt oder komprimiert und Belegdaten erkannt werden. Die Funktion **Belege zu Finmatics hochlanden** schickt die ausgewählten Belege zu Finmatics, die dann die Belegdaten auswerten. Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
+
+Bei der Belegfreigabe kann man Belege direkt einer Person zur Freigabe zuordnen oder automatisch zuordnen lassen.
+
+!!! warning "Hinweis"
+    In der Ansicht **Belege Verzeichnis** erfolgt keine OCR-Erkennung, anders als im Scanordner.
 
 ### Belege Klietenportal
 
+In der Ansicht **Belege Klientenportal** werden die Belege, die von einem Klienten im Klientenportal hochgeladen worden sind, angezeigt. Hier können Belege neuen Klientengruppen oder Belegkreisgruppen zugeordnet, aufgetrennt oder komprimiert und Belegdaten erkannt werden. Die Funktion **Belege zu Finmatics hochlanden** schickt die ausgewählten Belege zu Finmatics, die dann die Belegdaten auswerten. Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
+
+Bei der Belegfreigabe kann man Belege direkt einer Person zur Freigabe zuordnen oder automatisch zuordnen lassen.
+
 ### Belege Finmatics
+
+In der Ansicht **Belege Finmatics** werden alle Belege, die von Finmatics bearbeitet und wieder zurück übermittelt wurden, angezeigt. Hier können Belege neuen Klientengruppen oder Belegkreisgruppen zugeordnet, aufgetrennt oder komprimiert und Belegdaten erkannt werden. Es kann hier ein Filter der abgeholten Belege von Finmatics gesetzt werden, sowie für die Belegfreigabe gibt es zwei Funktionen.
+Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
+
+Bei den Belegen kann eine weitere Belegdatenerkennung durchgeführt werden, falls manche Werte noch nicht von Finmatics ermittelt wurden.
+
+Bei der Belegfreigabe kann man Belege direkt einer Person zur Freigabe zuordnen oder automatisch zuordnen lassen.
 
 ## Beleglisten
 
