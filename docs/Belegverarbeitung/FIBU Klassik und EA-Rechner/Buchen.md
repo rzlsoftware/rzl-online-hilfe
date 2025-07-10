@@ -1,7 +1,11 @@
 ## Allgemein
 
 Es gibt zwei verschiedene Möglichkeiten, digitale Belege in der FIBU Klassik oder im EA-Rechner zu buchen.
-Der zuerst erfolgende Schritt startet in der Belegaufbereitung, nach dieser müssen die Belege zu den ungebuchten Belegen verschoben werden. Ab diesem Zeitpunkt können die Belege in den jeweiligen Programmen verbucht werden.
+Der zuerst erfolgende Schritt startet in der Belegaufbereitung, nach diesem müssen die Belege zu den ungebuchten Belegen verschoben werden. Ab diesem Zeitpunkt können die Belege in den jeweiligen Programmen verbucht werden.
+
+## Hilfsmittel zur Belegsverbuchung
+
+### Verbuchungsregeln
 
 ### Aktualisierungsoptionen für Personenkonten
 
@@ -9,10 +13,7 @@ Es gibt noch eine sehr empfehlenswerte Einstellung, die in der FIBU Klassik vor 
 
 Öffnen Sie hierzu den Menüpunkt *Stamm / Konten/ Aktualisierungsoptionen*. Hier können Sie im Bereich nach DMS-Buchung aktivieren, dass nach dem Buchen von digitalen Belegen die Daten (IBAN, Kundennummer, UID) vom Beleg in die Kontenstammdaten übernommen werden.
 
-
-
-
-
+![Aktualisierungsoptionen](<img/image3.png>)
 
 ## Buchen
 
@@ -40,7 +41,20 @@ Die Belege aus der ungebuchten Liste können dann nach der Reihe verbucht werden
 !!! warning "Hinweis"
     In der Verbuchung von digitalen Belegen in der normalen Verbuchung können auch Splitbuchungen vorgenommen werden, dass ist in der Stapelbuchung nicht möglich. Ansonsten funktioniert die Stapelbuchung ident.
 
-
-
 ## Belegsverbuchung aus DMS-Systemen
+
+Die Belegsverbuchung aus DMS-Systemen unterscheidet sich einbisschen zu der normalen Verbuchung mit digitalen Belegen. Gebucht kann hier nur noch mittels Belegen werden. Es funktioniert so wie die Verarbeitung von Bankauszügen. Es werden die Buchungen direkt angezeigt, diese können dann überarbeitet werden.
+
+![DMS-Buchen](<img/image4.png>)
+
+Damit der Beleg aufgerufen wird, muss auf eine der Buchungen mittels der **rechten Maustaste**, **Anzeige Beleg** geklickt werden. Sobald zwischen den Buchungssätzen gewechselt wird, wechselt das Programm auch automatisch richtig zwischen den Belegen.
+
+![Anzeige Beleg](<img/image5.png>)
+
+In der Belegverbuchung aus DMS-Systemen kann eine Buchung auch in eine Splitbuchung geändert werden, dabei kann man die Buchung mit der rechten Maustaste **auf Splitbuchung ändern** aufteilen.
+
+!!! warning "Hinweis"
+    Abgeschlossen werden die Buchungen nur, wenn die Buchungen links angehakt sind und unten auf **Verbuchen** geklickt wird.
+
+
 
