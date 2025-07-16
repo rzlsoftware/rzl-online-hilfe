@@ -2,7 +2,7 @@
 
 Der Scanordner wird für einen oder mehrere Mitarbeiter festgelegt. Dieser kann mit einem Namen und einer Anmerkung versehen werden. Weiters wird der Speicherpfad des Laufwerkes gewählt, wo die Belege abgespeichert werden.
 
-![Scanordner](<img/image10.png>)
+![Scanordner](<img/image10.png>){width="1000"}
 
 - **Name:**  
 Sie können hier einen Namen für jeden Scanordner vergeben,
@@ -40,9 +40,10 @@ Bei Aktivierung
     zwischengespeichert und die Zugriffe auf den Scan-Ordner auf ein
     Minimum reduziert. Diese Einstellung ist bei einer langsamen oder
     instabilen Verbindung zum Scan-Ordner zu empfehlen.
-    
-- **Belege automatisch zuordnen**
+- **Belege automatisch zuordnen:**  
 Im gewählten Scanordner kann der Klient sowie der Belegkreis vordefiniert werden.
+
+
 
 ## Belegschablone
 
