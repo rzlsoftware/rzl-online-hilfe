@@ -1,23 +1,5 @@
 # Gebuchte Belege aufrufen
 
-## Aufruf eines einzelnen Belegs in der RZL Fibu / EA-Rechnung
-
-Über den Kontenaufruf (*Aufruf / Konten)* wird bei jeder Buchung mit
-Beleg das Belegsymbol ganz links angezeigt.
-
-![](img/image90.png)
-
-Der Beleg einer Buchung kann mit Mausklick auf das Belegsymbol, der
-F7-Taste oder mit der rechten Maustaste und *Aufruf DMS-Beleg*
-aufgerufen werden.
-
-![](img/image91.png)
-
-Der Buchungsstempel ist nur hier im Belegaufruf ersichtlich und kann
-optional ausgeblendet werden. Ganz unten werden die Buchungsdetails
-angezeigt. Der geöffnete Beleg kann hier durch Anwahl der gewünschten
-Schaltfläche gedruckt, gespeichert oder per E-Mail versendet werden.
-
 ## Aufruf mehrerer Belege im RZL Board (Dokumenten-Management-System)
 
 Ein großer Vorteil der digitalen Belegablage ist das schnelle Auffinden
