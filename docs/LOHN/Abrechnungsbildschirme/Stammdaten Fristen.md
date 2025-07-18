@@ -43,7 +43,7 @@ Wird dieses Auswahlfeld aktiviert, dann wird der Dienstnehmer für den jeweils a
 
 ## Anmerkungen
 
-Es können bis zu 5 Anmerkungen mit Datum und Text eingegeben werden. Eine Anmerkung wird nicht auf der Lohnabrechnung angedruckt, sondern nur auf bestimmten internen Auswertungen, wie dem Stammdatenblatt und der Dienstnehmerliste mit Fristen. Typische Fälle von Anmerkungen sind ein vorhersehbarer Wechsel in der Beschäftigungsgruppe, Lohnerhöhungen zu einem bestimmten Zeitpunkt usw. Ist eine Frist abgelaufen, wird der Anmerkungstext rechts oben am Bildschirm *blinkend* angezeigt bzw. wird der Dienstnehmer in der Abrechnungsliste (*Abrechnung mit* oder *ohne Änderung*, *Korrektur letzter Abrechnung*) mit einem roten Rufzeichen markiert.
+Es können bis zu 10 Anmerkungen mit Datum und Text eingegeben werden. Eine Anmerkung wird nicht auf der Lohnabrechnung angedruckt, sondern nur auf bestimmten internen Auswertungen, wie dem Stammdatenblatt und der Dienstnehmerliste mit Fristen. Typische Fälle von Anmerkungen sind ein vorhersehbarer Wechsel in der Beschäftigungsgruppe, Lohnerhöhungen zu einem bestimmten Zeitpunkt usw. Ist eine Frist abgelaufen, wird der Anmerkungstext rechts oben am Bildschirm *blinkend* angezeigt bzw. wird der Dienstnehmer in der Abrechnungsliste (*Abrechnung mit* oder *ohne Änderung*, *Korrektur letzter Abrechnung*) mit einem roten Rufzeichen markiert.
 
 **Stichtag**
 
