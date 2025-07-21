@@ -1,24 +1,24 @@
 # Mitarbeiterprämie 2025
 
-Durch das Budgetbegleitgesetz 2025 hat der Gesetzgeber die Möglichkeit geschaffen, ab dem 01.01.2025 Zulagen und Bonuszahlungen bis zu **EUR 1.000,00 jährlich** steuerfrei auszubezahlen. Die gesetzliche Grundlage hierfür findet sich in **§ 124b Z 478 lit a bis e EStG**.
+Durch das Budgetbegleitgesetz 2025 hat der Gesetzgeber die Möglichkeit geschaffen, ab dem 01.01.2025 Zulagen und Bonuszahlungen bis zu **EUR 1.000,00 jährlich** steuerfrei auszubezahlen. Die gesetzliche Grundlage hierfür findet sich in [**§ 124b Z 478 lit a bis e EStG**](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Artikel=&Paragraf=124b&Anlage=&Uebergangsrecht=).
 
 ## Voraussetzungen und Einschränkungen für die Steuerfreiheit
 
 - Die Mitarbeiterprämie kann einem oder mehreren Arbeitnehmern aus sachlichen, betriebsbezogenen Gründen gewährt werden.
 - Es muss sich dabei um eine **zusätzliche Zahlung** handeln, die bisher nicht üblich war.
-- Erfolgt im Kalenderjahr 2025 sowohl eine Auszahlung einer **Gewinnbeteiligung gem. §&nbsp;3&nbsp;Abs. 1 Z 35 EStG** als auch eine Zahlung der **Mitarbeiterprämie 2025**, ist die Gewinnbeteiligung nur insoweit steuerfrei, als sie gemeinsam mit der Mitarbeiterprämie den Betrag von **EUR 3.000,00** im Kalenderjahr nicht übersteigt.
-- Wird mehr als EUR 1.000,00 für die Mitarbeiterprämie steuerfrei berücksichtigt und gleichzeitig der Gesamtbetrag von EUR 3.000,00 für die Mitarbeiterprämie und Gewinnbeteiligung überschritten, besteht ein Pflichtveranlagungstatbestand gem. §&nbsp;41&nbsp;Abs.&nbsp;1 EStG.
+- Erfolgt im Kalenderjahr 2025 sowohl eine Auszahlung einer [**Gewinnbeteiligung gem. §&nbsp;3&nbsp;Abs. 1 Z 35 EStG**](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Artikel=&Paragraf=3&Anlage=&Uebergangsrecht=) als auch eine Zahlung der **Mitarbeiterprämie 2025**, ist die Gewinnbeteiligung nur insoweit steuerfrei, als sie gemeinsam mit der Mitarbeiterprämie den Betrag von **EUR 3.000,00** im Kalenderjahr nicht übersteigt.
+- Wird mehr als EUR 1.000,00 für die Mitarbeiterprämie steuerfrei berücksichtigt und gleichzeitig der Gesamtbetrag von EUR 3.000,00 für die Mitarbeiterprämie und Gewinnbeteiligung überschritten, besteht ein Pflichtveranlagungstatbestand gem. [§&nbsp;41&nbsp;Abs.&nbsp;1 EStG](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Artikel=&Paragraf=41&Anlage=&Uebergangsrecht=).
 
 ## Keine Befreiung im Bereich der Sozialversicherung, DB/DZ und Kommunalsteuer
 
 Für das Jahr 2025 sieht der Gesetzgeber **keine Befreiung** im Bereich der **Sozialversicherung** sowie der Nebenabgaben **DB/DZ** und **Kommunalsteuer** vor. Die fehlende Befreiung in der Sozialversicherung wird politisch mit der Vermeidung negativer Auswirkungen auf die Pensionshöhe begründet.
 
-Voraussichtlich wird es auch **nicht möglich sein**, die auf die Mitarbeiterprämie 2025 entfallenden Dienstnehmeranteile zur Sozialversicherung bei der Ermittlung der Lohnsteuer-Bemessungsgrundlage abzuziehen (laut § 20 Abs. 2 EStG). Dadurch erhöht sich der Auszahlungsbetrag an die Dienstnehmer nicht um den vollen steuerfreien Maximalbetrag von EUR 1.000,00, sondern um einen geringeren Nettobetrag.
+Voraussichtlich wird es auch **nicht möglich sein**, die auf die Mitarbeiterprämie 2025 entfallenden Dienstnehmeranteile zur Sozialversicherung bei der Ermittlung der Lohnsteuer-Bemessungsgrundlage abzuziehen (laut [§ 20 Abs. 2 EStG](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Artikel=&Paragraf=20&Anlage=&Uebergangsrecht=)). Dadurch erhöht sich der Auszahlungsbetrag an die Dienstnehmer nicht um den vollen steuerfreien Maximalbetrag von EUR 1.000,00, sondern um einen geringeren Nettobetrag.
 
 !!! warning "Hinweis"
-    <span style="color: red;">Bislang gibt es seitens des Finanzamts keine eindeutige Stellungnahme dazu, ob die Mitarbeiterprämie ebenfalls unter § 20 Abs. 2 EStG fällt.</span>
+    <span style="color: red;">Bislang gibt es seitens des Finanzamts keine eindeutige Stellungnahme dazu, ob die Mitarbeiterprämie ebenfalls unter [§ 20 Abs. 2 EStG](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Artikel=&Paragraf=20&Anlage=&Uebergangsrecht=) fällt.</span>
 
-Wie in § 124b Z 478a EStG festgelegt, erhöht die Mitarbeiterprämie 2025 das Jahressechstel **nicht**.
+Wie in [§ 124b Z 478 lit. a EStG](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Artikel=&Paragraf=124b&Anlage=&Uebergangsrecht=) festgelegt, erhöht die Mitarbeiterprämie 2025 das Jahressechstel **nicht**.
 
 Die Abrechnung der Mitarbeiterprämie 2025 in der RZL Lohnverrechnung muss über eine neu anzulegende freie Lohnart erfolgen. Diese ist entweder unter *Stamm / Lohnarten* oder in der Kanzleilohnartentabelle unter *Klient / Kanzlei / Lohnarten, Lohnformeln* anzulegen.
 
@@ -39,7 +39,7 @@ Wird keine Wiederkehr vereinbart und handelt es sich um den erstmaligen Bezug de
 !!! warning "Hinweis"
     Unser Vorschlag zur Anlage der Lohnart basiert auf dem Informationsstand aus verschiedenen Fachartikeln mit Stand **Juli 2025**. Die Letztverantwortung für die korrekte Anlage der Lohnarten liegt beim Anwender.
 
-Im Bereich der Lohnsteuer gibt es eine eigene Lohnsteuerpflicht **Nr. 40 - steuerfrei gem. § 124b Z. 447 EStG – Mitarbeiterprämie 2025**. Wegen der abweichenden gesetzlichen Vorgaben gegenüber den Vorjahren halten wir die Wiederverwendung der bisherigen Lohnsteuerpflichtigkeit für nicht sinnvoll.
+Im Bereich der Lohnsteuer gibt es eine eigene Lohnsteuerpflicht-Nr. **40 steuerfrei gem. § 124b Z 478 EStG – Mitarbeiterprämie 2025**. Wegen der abweichenden gesetzlichen Vorgaben gegenüber den Vorjahren halten wir die Wiederverwendung der bisherigen Lohnsteuerpflichtigkeit für nicht sinnvoll.
 
 Eine Befreiung von den **Lohnnebenkosten** (DB, DZ und Kommunalsteuer) ist vom Gesetzgeber nicht vorgesehen. In diesem Bereich muss die Lohnart daher als **1 = pflichtig** definiert werden.
 
@@ -56,7 +56,7 @@ Wird hingegen bereits im Vorfeld eine mehrmalige Auszahlung dieser Lohnart verei
 
 **Beispiel 1**
 
-In beiden Varianten der Auszahlung (laufender Bezug oder Sonderzahlung) trifft die Pflichtigkeit in der Sozialversicherung auf eine Abgabenbefreiung in der Lohnsteuer. Diese inzwischen seltene Konstellation führt - insbesondere im Zusammenhang mit der Darstellung am L16 (Jahreslohnzettel) - dazu, dass die SV-Dienstnehmeranteile „neutralisiert“ werden müssen. Gemäß § 20 Abs. 2 EStG dürfen Sozialversicherungsbeiträge, die sich auf nicht steuerpflichtige Einkünfte beziehen, nicht als Werbungskosten vom steuerpflichtigen Einkommen abgezogen werden.
+In beiden Varianten der Auszahlung (laufender Bezug oder Sonderzahlung) trifft die Pflichtigkeit in der Sozialversicherung auf eine Abgabenbefreiung in der Lohnsteuer. Diese inzwischen seltene Konstellation führt - insbesondere im Zusammenhang mit der Darstellung am L16 (Jahreslohnzettel) - dazu, dass die SV-Dienstnehmeranteile „neutralisiert“ werden müssen. Gemäß [§ 20 Abs. 2 EStG](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Artikel=&Paragraf=20&Anlage=&Uebergangsrecht=) dürfen Sozialversicherungsbeiträge, die sich auf nicht steuerpflichtige Einkünfte beziehen, nicht als Werbungskosten vom steuerpflichtigen Einkommen abgezogen werden.
 
 - Laufender Bezug: EUR 2.500,00
 - Mitarbeiterprämie 2025 (einmalig): EUR 1.000,00
