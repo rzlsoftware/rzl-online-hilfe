@@ -292,13 +292,9 @@ height="3.232283464566929in"}
 
 Klicken Sie anschließend auf *Speichern*.
 
-Tipp
 
-Verwahren Sie Ihr Passwort bitte sorgfältig. Sollte Ihnen Ihr Passwort
-nicht mehr bekannt sein, senden Sie bitte ein E-Mail an
-<klientenportal@rzl.at>. Wir setzten Ihr Passwort nach telefonischer
-Rücksprache wieder auf admin zurück. Anschließend ist erneut ein
-individuelles Passwort zu vergeben.
+!!! info "Tipp"
+    Verwahren Sie Ihr Passwort bitte sorgfältig. Sollte Ihnen Ihr Passwort nicht mehr bekannt sein, senden Sie bitte ein E-Mail an <klientenportal@rzl.at>. Wir setzten Ihr Passwort nach telefonischer Rücksprache wieder auf admin zurück. Anschließend ist erneut ein individuelles Passwort zu vergeben.
 
 ## WEB-Service für RZL-Programme einrichten[]{.indexref entry="Plug-Ins"}
 
@@ -334,16 +330,13 @@ Abb. ‑ WEB-Service einrichten
 ![](img/image7.png){width="3.9763779527559056in"
 height="1.8346456692913387in"}
 
-Tipp
 
-Wenn die Schaltfläche *Testen* angewählt wird, sollte eine positive
-Rückmeldung erfolgen.
+!!! info "Tipp"
+    Wenn die Schaltfläche *Testen* angewählt wird, sollte eine positive Rückmeldung erfolgen.
 
-HInweis
 
-Hinweis für den EDV-Verantwortlichen: Wenn trotz korrekter Eingaben eine
-Fehlermeldung angezeigt wird, sind die Proxy- und Firewall-Einstellungen
-des Systems zu prüfen.
+!!! warning "Hinweis"
+    Hinweis für den EDV-Verantwortlichen: Wenn trotz korrekter Eingaben eine Fehlermeldung angezeigt wird, sind die Proxy- und Firewall-Einstellungen des Systems zu prüfen.
 
 ## Login-Formular auf Ihre Kanzlei-Homepage
 
@@ -425,11 +418,9 @@ In oben abgebildeten Programmteil kann die Klientenstammdaten
 Synchronisation händisch angewählt werden. Die im Klientenportal
 angelegten Klienten finden Sie unterhalb in Listenform dargestellt.
 
-Tipp
 
-Eine genaue Beschreibung der Belegsynchronisation finden Sie im Board im
-Programmteil *Hilfe / Kurzanleitungen* im Bereich *RZL
-Belegverarbeitung*.
+!!! info "Tipp"
+    Eine genaue Beschreibung der Belegsynchronisation finden Sie im Board im Programmteil *Hilfe / Kurzanleitungen* im Bereich *RZL Belegverarbeitung*.
 
 ### Übernahme der Klienten aus der ZMV []{.indexref entry="ZMV"}
 
@@ -641,12 +632,9 @@ Bei dieser Option werden vom Klienten die benötigten Angaben für die
 Anmeldung erfasst und an die ÖGK und den Wirtschaftstreuhänder
 übermittelt. Die Übermittlung von zusätzlichen Daten ist nicht möglich.
 
-**TIPP**
 
-Beim Menüpunkt steht Ihnen die Kurzanleitung mit weiteren Informationen
-zu den verschiedenen Optionen und der jeweiligen Darstellung beim
-Klienten zur Verfügung. Diese kann über das Informations-Icon, rechts
-neben dem Text der Option, aufgerufen werden.
+!!! info "Tipp"
+    Beim Menüpunkt steht Ihnen die Kurzanleitung mit weiteren Informationen zu den verschiedenen Optionen und der jeweiligen Darstellung beim Klienten zur Verfügung. Diese kann über das Informations-Icon, rechts neben dem Text der Option, aufgerufen werden.
 
 ##### Dienstnehmerliste ausblenden
 
@@ -689,10 +677,9 @@ Adresse auch beim WT-Mitarbeiter (Benutzer) eingetragen werden kann. Der
 WT-Benutzer erhält E-Mails nur aufgrund der in den eigenen Stammdaten
 aktivierten Berechtigungen.
 
-Tipp
 
-Sie können in den E-Mail Feldern auch mehrere E-Mail-Adressen --
-getrennt durch einen Beistrich - eintragen.
+!!! info "Tipp"
+    Sie können in den E-Mail Feldern auch mehrere E-Mail-Adressen - getrennt durch einen Beistrich - eintragen.
 
 ### Benutzerdaten und Berechtigungen [[]{.indexref entry="Benutzer"}]{.indexref entry="Einrichtung:Benutzer"}
 
@@ -1258,24 +1245,18 @@ Homepage bewirken, dass der Klient nach dem Ausstieg aus dem RZL
 Klientenportal zurück auf Ihre Login-Seite fällt (Kapitel 1.3, Seite
 [7](#login-formular-auf-ihre-kanzlei-homepage)).
 
-Hinweis
 
-Bitte stellen Sie zuvor sicher, dass das Login-Formular auf Ihrer
-Kanzlei-Homepage korrekt funktioniert, da beim Aufruf der Klientenportal
-URL -- welchen Sie von uns erhalten haben -- nicht mehr das
-Login-Formular des Klientenportals angezeigt wird, sondern Ihre hier
-eingetragene Adresse.
+!!! warning "Hinweis"
+    Bitte stellen Sie zuvor sicher, dass das Login-Formular auf Ihrer Kanzlei-Homepage korrekt funktioniert, da beim Aufruf der Klientenportal URL -- welchen Sie von uns erhalten haben -- nicht mehr das Login-Formular des Klientenportals angezeigt wird, sondern Ihre hier eingetragene Adresse.
 
 #### Service-Account Passwort {#service-account-passwort .Überschrift-4---VG}
 
 Hier ist das Service-Account Passwort für die Belegsynchronisation
 einzutragen.
 
-Tipp
 
-Eine genaue Beschreibung der Belegsynchronisation finden Sie im Board im
-Programmteil *Hilfe / Kurzanleitungen* im Bereich *RZL
-Belegverarbeitung*.
+!!! info "Tipp"
+    Eine genaue Beschreibung der Belegsynchronisation finden Sie im Board im Programmteil *Hilfe / Kurzanleitungen* im Bereich *RZL Belegverarbeitung*.
 
 ## Mein Profil
 
@@ -1432,11 +1413,8 @@ Schaltfläche *Öffnen* wechselt das Programm in den Ausgangsbildschirm
 zurück und die angewählten Dokumente werden ins Klientenportal
 hochgeladen.
 
-Tipp
-
-Sie können auch mehrere Dokumente gleichzeitig übermitteln. Halten Sie
-hierfür die STRG-Taste gedrückt und wählen Sie die gewünschten Dokumente
-aus.
+!!! info "Tipp"
+    Sie können auch mehrere Dokumente gleichzeitig übermitteln. Halten Sie hierfür die STRG-Taste gedrückt und wählen Sie die gewünschten Dokumente aus.
 
 Abb. ‑ Anzeige des hochgeladenen Dokuments
 
@@ -1851,12 +1829,9 @@ height="3.5118110236220472in"}
 
 ## Klientendaten aus der RZL Lohnverrechnung exportieren[]{.indexref entry="Lohnverrechnung: Daten bereitstellen"}
 
-HInweis
 
-Stellen Sie vor dem Export der Lohnverrechnungsdaten Ihres Klienten
-sicher, dass das Klientenportal korrekt eingerichtet und die notwendigen
-Einstellungen in den Klientenstammdaten vorgenommen wurden (Kapitel 2.2,
-Seite [9](#klientenstammdaten)).
+!!! warning "Hinweis"
+    Stellen Sie vor dem Export der Lohnverrechnungsdaten Ihres Klienten sicher, dass das Klientenportal korrekt eingerichtet und die notwendigen Einstellungen in den Klientenstammdaten vorgenommen wurden (Kapitel 2.2,Seite [9](#klientenstammdaten)).
 
 Öffnen Sie den gewünschten Klienten in der RZL Lohnverrechnung. Unter
 dem Programmpunkt *Bearbeiten / RZL Klientenportal / Daten
@@ -1878,11 +1853,9 @@ verwendet. Die Eingabemasken können bei mehreren Benutzern gleichzeitig
 verwendet werden. Sie können die passende Eingabemaske in den Stammdaten
 des Klienten (*Stammdaten / Klienten*) pro Benutzer zuordnen.
 
-Hinweis
 
-Beachten Sie, dass die Eingabemasken nur von Kanzleibenutzern mit der
-Berechtigung *Lohnvorerfassung* erstellt und verändert werden können.
-Diese Änderungen gelten für den gesamten Kanzleibereich.
+!!! warning "Hinweis"
+    Beachten Sie, dass die Eingabemasken nur von Kanzleibenutzern mit der Berechtigung *Lohnvorerfassung* erstellt und verändert werden können.Diese Änderungen gelten für den gesamten Kanzleibereich.
 
 Wählen Sie das Menü *Lohnverrechnung / Eingabemasken verwalten* aus.
 
