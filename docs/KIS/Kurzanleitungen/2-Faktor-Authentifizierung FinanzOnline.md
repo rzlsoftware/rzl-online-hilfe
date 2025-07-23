@@ -9,8 +9,7 @@ Ab Oktober 2025 ist die 2FA verpflichtend zu verwenden. Damit die automatischen 
 Für die Aktivierung melden Sie sich mit dem jeweiligen Zugang, für welchen die 2FA aktiviert werden soll, auf der FinanzOnline-Webseite an.
 
 !!! warning "Hinweis"
-    Die 2FA ist **GETRENNT** pro Zugang zu hinterlegen. Der im FinanzOnline angezeigt 2FA-Schlüssen darf also nur bei dem jeweilig betroffenen Zugang hinterlegt werden. der Zugang für Steuerkonto-, Erklärungen- und Vertretungslistenabfragen sollte grundsätzlich **KEIN** Mitarbeiter-Zugang sein, sondern ein separater Zugang, eigens angelegt für den Abruf von Steuerkonto-, Erklärunge- und Vertretungslistenabfragen! Demnach ist auch das Anmelden mit den Zugangsdaten dieses Zugangs nötig, um die 2FA zu aktivieren.
-
+    Die 2FA ist **GETRENNT** pro Zugang zu hinterlegen. Der im FinanzOnline angezeigte 2FA-Schlüssel darf also nur bei dem jeweilig betroffenen Zugang hinterlegt werden. Der Zugang für Steuerkonto-, Erklärungen- und Vertretungslistenabfragen sollte **KEIN** Mitarbeiter-Zugang sein, sondern ein separater Zugang, eigens angelegt für den Abruf von Steuerkonto-, Erklärungen- und Vertretungslistenabfragen! Demnach ist auch das Anmelden mit den Zugangsdaten dieses Zugangs nötig, um die 2FA zu aktivieren.
 
 Erscheint der Hinweis zur 2FA Registrierung sofort nach dem Login, können Sie auf *Registrierung starten* klicken.
 
