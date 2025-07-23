@@ -41,7 +41,7 @@ Berechtigungen:
   gemeldeten wirtschaftlichen Eigentümern ihrer Kunden
 
 Eine ausführliche Dokumentation zur Anlage eines Webservicebenutzers
-finden Sie in der Anwendungshilfe des BMF oder Sie klicken [hier.](<https://www.usp.gv.at/ueber-das-usp/index/faq/usp-administrator-und-benutzer.html>)
+finden Sie in der Anwendungshilfe des BMF.
 
 ## USP-Zuweisungen
 
