@@ -1,3 +1,0 @@
-# Stammdaten der Kanzleibenutzer
-
-test
