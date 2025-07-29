@@ -107,7 +107,7 @@ Im Beispiel oben wird beim Klienten mit der Nummer 86, der bereits beim Klienten
 
 ## Klientenbenutzer löschen
 
-![](image-1.png)
+![](img/image-1.png)
 
 Wenn bei einem Klienten mehr als ein Benutzer angelegt ist, kann ein Benutzer durch Anwahl des Papierkorbs (**1**) gelöscht werden. Existiert nur ein Benutzer kann dieser *Inaktiv* (**2**) geschaltet werden oder der Klient vollständig aus dem RZL Klientenportal herausgelöscht werden.
 

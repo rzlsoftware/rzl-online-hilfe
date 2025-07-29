@@ -6,14 +6,14 @@ Im Programmteil *Stammdaten / Kanzlei / Benutzer* werden Kanzleibenutzer angeleg
 
 ![](img/image27.png)
 
-## Benutzerdaten 
+### Benutzerdaten 
 
 Für die Anlage eines Kanzleibenutzers im RZL Klientenportal sind zwingend Benutzername und Passwort zu vergeben. Optional können Sie den Nachnamen und den Vornamen des Benutzers eintragen.
 
 Im Feld *E-Mail* sollte die E-Mail Adresse des Kanzleimitarbeiters eingetragen werden. Eine Benachrichtigung an diese E-Mail Adresse erfolgt beim Absenden von Daten bzw. Bereitstellen von Dokumenten aus dem\ Klientenbereich des Portals. Der Kanzleimitarbeiter erhält nur E-Mails bezüglich Klienten - die mit den entsprechenden Berechtigungen -
 zugeordnet sind.
 
-## Stammdaten 
+### Stammdaten 
 
 Für die Anlage eines Kanzleibenutzers im RZL Klientenportal sind zwingend Benutzername und Passwort zu vergeben.
 
@@ -38,13 +38,13 @@ Diese Option ermöglicht es dem Kanzleimitarbeiter, Dokumente und/oder Nachricht
 Wenn Sie diese Option aktivieren, können Sie pro Berechtigung und Klient entscheiden, ob Sie eine E-Mail-Benachrichtigung wünschen oder nicht.
 
 
-## Dokumentbereiche 
+### Dokumentbereiche 
 
 Die Dokumentbereiche werden für die Bereitstellung von Dokumenten benötigt. Der Kanzleimitarbeiter erhält eine E-Mail-Benachrichtigung,wenn die -- beim Versenden - vom Klienten ausgewählte Berechtigung, beim Kanzleimitarbeiter aktiviert ist.
 
 ![](img/image28.png)
 
-## Lohnverrechnung 
+### Lohnverrechnung 
 
 *Lohn Vorerfassung* 
 
@@ -55,7 +55,7 @@ Lohnverrechnungsprogramm übernehmen.
 
 Die Option *Lohn Vorerfassung Verwaltung* ermöglicht die Neuanlage und Bearbeitung von Eingabemasken
 
-## Finanzbuchhaltung/EA-Rechnung 
+### Finanzbuchhaltung/EA-Rechnung 
 
 *Fibu/EA-Rechnung Auswertungen*
 
@@ -69,25 +69,25 @@ Werden im Klientenbereich FIBU bzw. EA-Vorerfassungen freigegeben, dann erhält 
 
 Diese Option ermöglicht das Bearbeiten der Stammdaten der Kassa/Bankbücher, der Kostenrechnung, der Registrierkassen, der Buchungsregeln und der Vorlagen Buchungsregeln (kanzleiweit).
 
-## Belegbox 
+### Belegbox 
 
 *Hochgeladene Belege abholen / Verbuchte Belege hochladen*
 
 Im Klientenbereich des Portals können die Benutzer Belege einscannen und/oder hochladen. Diese Belege können im RZL-Board abgeholt werden. Wenn bei einem Kanzleimitarbeiter dieses Feld nicht aktiviert ist, kann dieser Mitarbeiter keine Belege vom Klientenportal herunterladen. Zusätzlich kann der Kanzleibenutzer durch diese Einstellung auf die verbuchten (automatisch synchronisierten) Belege zugreifen.
 
-## Klientensicherungen austauschen
+### Klientensicherungen austauschen
 
 Die Berechtigung ermöglicht die Datenaustausch der FIBU bzw. EA-Daten über das RZL-Klientenportal.
 
-# Mehrfachzuweisung
+## Mehrfachzuweisung
 
 In der Übersicht können im linken Feld die gewünschten Klienten und im Feld *Berechtigungen wählen* die benötigte Dokumentbereiche und Berechtigungen zugeordnet werden. Mit den Schaltflächen *Hinzufügen* und *Entfernen* werden die ausgewählten Klienten und Berechtigungen in den darunter angeführten Dokumentbereichen und Berechtigungen angefügt bzw.
 gelöscht.
 
-# Vertretungen verwalten/Inaktiv-Setzen und Löschen von Kanzleibenutzern
+## Vertretungen verwalten/Inaktiv-Setzen und Löschen von Kanzleibenutzern
 
 
-![](image.png)
+![](img/image.png)
 
 
 Die Anwahl des ersten Symbols (**1**) ermöglicht die Eingabe der E-Mail-Adresse und des Zeitraums für Vertretungen. Innerhalb des eingetragenen Zeitraums werden die E-Mails an den Benutzer **UND** die hier eingetragene E-Mail versendet.

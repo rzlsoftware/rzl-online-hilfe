@@ -30,713 +30,85 @@ Inhaltsverzeichnis
 
 ## Stammdaten des Portals
 
-### E-Mail Texte
 
-Im Programmteil *Stammdaten / Portal / E-Mail Texte* können Sie die
-Texte der automatisch generierten E-Mails bearbeiten und formatieren. Es
-können auch Bilder eingefügt werden.
-
-
-![](img/image31.png){width="6.480314960629921in"
-height="5.2047244094488185in"}
-
-**5**
-
-**4**
-
-**1**
-
-**3**
-
-**2**
-
-Die Texte werden je nach Thema (**1**) in unterschiedlichen
-Registerblättern dargestellt. Ein E-Mail-Text enthält den Betreff
-(**2**) und den Textkörper (**3**) bearbeiten wollen. Nach Anwahl der
-gewünschten Schaltfläche können Sie die Texte bearbeiten, formatieren,
-Bilder einfügen und vieles mehr.
-
-Die Schaltfläche *RZL Vorgabe* (**4**) holt den Original RZL Text
-zurück. Die Anzahl der Platzhalter wird links unten (**5**) angezeigt
-und kann nicht bearbeitet werden. Die Platzhalter werden durch
-eingeklammerte Nummern dargestellt. Sie können Platzhalter {KNA} für den
-Klientennamen und {KNR} für die Klientennummer vergeben.
-
-### E-Mail Einstellungen
-
-Im Programmteil *Stammdaten / Portal / E-Mail Einstellungen* können Sie
-allgemeine Einstellungen zu den E-Mail Benachrichtigungen treffen.
-
-
-![](img/image32.png){width="6.578740157480315in"
-height="2.393700787401575in"}
-
-**1**
-
-#### Allgemeine Absenderadresse 
-
-Die hier eingetragene Absenderadresse wird bei einer E-Mail
-Benachrichtigung als Absenderadresse herangezogen.
-
-#### Absendername 
-
-Der Name der Kanzlei wird im Mailprogramm als Absender angezeigt. Damit
-für den Klienten einfach ersichtlich ist, von wem das E-Mail kommt,
-sollte dieses Feld unbedingt ausgefüllt werden.
-
-#### Allgemeine Antwortadresse
-
-Wenn auf eine E-Mail Benachrichtigung geantwortet wird, so wird --
-sofern keine E-Mail Adresse beim Kanzleimitarbeiter bzw. Klienten
-Benutzer hinterlegt ist -- diese Adresse vorgeschlagen. Durch die
-allgemeine Antwortadresse sollen jene Fälle abgedeckt werden, für die
-keine E-Mail Adresse für die Antwort aus den Stammdaten gefunden wurde.
-
-#### E-Mail Benachrichtigung aktivieren 
-
-Durch diese Auswahl können Sie die E-Mail Benachrichtigungen aktivieren.
-Nur wenn diese Option (*E-Mail Benachrichtigungen aktivieren* (**1**))
-aktiviert ist, werden E-Mails an die in der Verwaltung eingetragenen
-E-Mail Adressen versendet.
-
-### Passwort Einstellungen
-
-Am RZL Klientenportal können Sie selbst die Sicherheitsstufe für die zu
-vergebenden Passwörter am RZL Klientenportal definieren. Die
-Einstellungen dazu finden Sie unter *Stammdaten / Portal / Passwort
-Einstellungen.* Wählen Sie hier Stufe 3, können Sie selbst festlegen,
-wie viele Zeichen Ihr Passwort haben soll und welche Eigenschaften die
-Passwörter aufweisen sollen. Im Gegensatz dazu, wird Ihnen dies bei
-Stufe 2 vorgegeben.
-
-
-![](img/image33.png){width="6.417322834645669in"
-height="4.838582677165355in"}
-
-### Farben[]{.indexref entry="Farben"}
-
-Am RZL Klientenportal können Sie die Farben der Menüpunkte, des
-Hintergrundes usw. ändern. Diese Möglichkeiten finden Sie im
-Programmteil *Stammdaten / Portal / Farben*.
-
-
-![](img/image34.png){width="6.381889763779528in"
-height="2.4173228346456694in"}
-
-**2**
-
-**1**
-
-Das Farbschema *Standard* (**1**) ist das voreingestellte Farbschema.
-Sie können dieses Farbschema weder löschen noch bearbeiten. Wenn Sie ein
-neues Schema anlegen wollen, vergeben Sie im Feld *Name* (**2**) eine
-Bezeichnung und wählen die Schaltfläche *Erstellen* an.
-
-
-![](img/image35.png){width="6.503937007874016in"
-height="2.5236220472440944in"}
-
-**3**
-
-**4**
-
-Nach Anwahl des Eintrags *Editieren* (**3**) können Sie das neue
-Farbschema bearbeiten. Das neu angelegte Farbschema können Sie durch
-Anwahl des Icons *auswählen* (**4**) aktivieren.
-
-
-![](img/image36.png){width="6.169291338582677in"
-height="1.6338582677165354in"}
-
-Für den jeweiligen Bereich des RZL Klientenportals werden die Farbe, der
-Farbcode und die Darstellung angezeigt. Die gewünschte Farbe kann aus
-der Liste -- durch einen Klick auf das Pfeil-Symbol -- ausgewählt
-werden. Durch Anklicken der Schaltfläche *Speichern* -- ganz unten im
-Dialog -- werden die vorgenommenen Änderungen gespeichert.
-
-### Logo[]{.indexref entry="Logo"}
-
-Im Programmteil *Stammdaten / Portal / Logo* können Sie ein
-individuelles Logo für das RZL Klientenportal hochladen.
-
-
-![](img/image37.png){width="6.255905511811024in"
-height="2.645669291338583in"}
-
-Nach Anwahl der Schaltfläche *Datei auswählen* öffnet sich ein Dialog
-zur Auswahl einer Bilddatei auf ihrem Computer. Hier ist das gewünschte
-Logo auszuwählen.
-
-Das Logo sollte maximal 500 Pixel breit und 500 Pixel hoch sowie 1024kB
-groß sein. Durch Anwahl der Schaltfläche *Hochladen* wird das Logo im
-Klientenportal hochgeladen. Die Schaltfläche *Zurücksetzen* entfernt das
-neu hinterlegte Logo wieder.
-
-### Sonstige Einstellungen
-
-#### Externe Login-Seite definieren 
-
-Über das Menü *Stammdaten / Portal / Sonstige Einstellungen* können Sie
-eine Externe Login-Seite definieren.
-
-
-![](img/image38.png){width="6.488188976377953in"
-height="2.405511811023622in"}
-
-Wenn Sie auf Ihrer Kanzlei-Homepage ein Login zum RZL Klientenportal
-eingerichtet haben, können Sie hier durch Eintragung der Adresse Ihrer
-Homepage bewirken, dass der Klient nach dem Ausstieg aus dem RZL
-Klientenportal zurück auf Ihre Login-Seite fällt (Kapitel 1.3, Seite
-[7](#login-formular-auf-ihre-kanzlei-homepage)).
-
-
-!!! warning "Hinweis"
-    Bitte stellen Sie zuvor sicher, dass das Login-Formular auf Ihrer Kanzlei-Homepage korrekt funktioniert, da beim Aufruf der Klientenportal URL -- welchen Sie von uns erhalten haben -- nicht mehr das Login-Formular des Klientenportals angezeigt wird, sondern Ihre hier eingetragene Adresse.
-
-#### Service-Account Passwort 
-
-Hier ist das Service-Account Passwort für die Belegsynchronisation
-einzutragen.
-
-
-!!! info "Tipp"
-    Eine genaue Beschreibung der Belegsynchronisation finden Sie im Board im Programmteil *Hilfe / Kurzanleitungen* im Bereich *RZL Belegverarbeitung*.
 
 ## Mein Profil
 
 
-![](img/image39.png){width="5.937007874015748in"
-height="5.933070866141732in"}
-
-**4**
-
-**2**
-
-**3**
-
-**1**
-
-Sie können innerhalb des eigenen Profils im Bereich *Allgemeine
-Einstellungen* zwischen 4 verschiedenen Darstellungen des Menüs (**1**)
-auswählen. Der Menü Modus *Standard* zeigt links zunächst nur die
-Symbole für die einzelnen Programmteile an. Wenn Sie mit der Maus auf
-die Leiste fahren, werden die Symbole und der Text der einzelnen
-Programmteile angezeigt. Der Menü Modus *Fixiert groß* blendet die
-Symbole und den Text dauerhaft ein. *Fixiert klein* zeigt auf der ersten
-Ebene nur mehr die Symbole ohne Text für die Programmteile, *Fixiert
-Klein mit Text* zeigt die Symbole mit dem Text der Programmteile in
-kleiner Schrift unterhalb des Symbols.
-
-Im Bereich *Passwort ändern* können Sie ihr aktuelles Passwort abändern.
-Mit dem Button *Sicherheitseinstellung* kommen Sie in die Einstellungen
-für das Passwort. Weitere Informationen finden Sie unter 2.4.3 Passwort
-Einstellungen.
-
-Die E-Mail Adresse, die bei Ihrem Kanzlei-Benutzer hinterlegt ist,
-können Sie im Bereich *Meine E-Mail Adresse* (**3**) ändern.
-
-Im Bereich *Nachrichtenversand -- Fußzeile* (**4**) kann eine Fußzeile
-gestaltet werden. Die Fußzeile kann beim Nachrichtenversand verwendet
-werden, sowohl aus dem Klientenportal als auch aus dem KIS und dem RZL
-PDF-Manager.
-
 # Informationsaustausch
 
-Das RZL Basismodul inkludiert einen sicheren und schnellen Austausch von
-Dokumenten und Nachrichten zwischen Wirtschaftstreuhänder, Klienten und
-Dienstnehmern.
 
 ## Allgemeine Listenfunktionen
 
-Am Beginn dieses Kapitels 3 *Informationsaustausch* werden die
-allgemeinen Listenfunktionen anhand des Programmteils
-*Informationsaustausch / Dokumentenlisten / An Klienten übermittelte
-Dokumente* erläutert. Diese Funktionen finden sich auch in den Listen
-des Programmteils *Belegbox*.
-
-![](img/image40.png){width="6.377952755905512in"
-height="4.066929133858268in"}
-
-**7**
-
-**1**
-
-**4**
-
-**8**
-
-**6**
-
-**5**
-
-**3**
-
-**2**
-
-1.  Durch Anwahl der Spaltenbezeichnung wird die Liste auf- oder
-    absteigend sortiert.
-
-2.  Das kleine Symbol neben der Spaltenbezeichnung zeigt an, dass die
-    Liste nach dieser Eigenschaft sortiert ist (hier die Spalte
-    *Bereitgestellt*).
-
-3.  In den Textfeldern können Suchbegriffe eintragen werden. Die Liste
-    wird nach dem eingetragenen Suchbegriff gefiltert.
-
-4.  Nach Anwahl des kleinen Filtersymbols können Sie im oberen Bereich
-    ebenfalls durch Texteingabe - filtern. Zusätzlich werden die in der
-    Spalte verwendeten Eigenschaften angezeigt, nach denen Sie - durch
-    Setzen von Hackerln und Anwahl der Schaltfläche *Anwenden* - filtern
-    können.
-
-![](img/image41.png){width="1.6653543307086613in"
-height="2.2283464566929134in"}
-
-5.  Eine Gruppierung nach Spalten ist möglich, indem Sie mit der Maus
-    die gewünschte Spalte in den Bereich links oben ziehen.
-
-6.  Nach Anwahl der Schaltfläche *Tabelleneinstellungen* können zwischen
-    nachfolgenden Einträgen auswählen.
-
-![](img/image42.png){width="1.4448818897637796in"
-height="1.5393700787401574in"}
-
-> *Ansicht zurücksetzen* macht Änderungen innerhalb der Tabelle
-> rückgängig. *Gruppierungen aufheben* beseitigt bestehende
-> Gruppierungen. Nach Anwahl des Eintrags *Ansicht anpassen* können Sie
-> Spalten aus- und einblenden. Bestehende Filter werden nach Anwahl des
-> Eintrags *Filter deaktivieren* entfernt. Im unteren Bereich können Sie
-> den Bereich *Gruppierungen*, die *Filter*- und die *Fußzeile* aus- und
-> einblenden.
-
-7.  Im rechten unteren Bereich legen Sie fest, wie viele Einträge pro
-    Seite angezeigt werden sollen.
-
-8.  Im linken Bereich sehen die Anzahl der Seiten und die Anzahl der
-    Elemente. Mit Direktanwahl mit der Maus können Sie zwischen den
-    Seiten navigieren.
+A
 
 ## Dokumente bereitstellen
 
-Innerhalb des Kanzleibereichs des RZL Klientenportals können Sie
-Dokumente für die Klienten oder die Dienstnehmer Ihrer Klienten über
-eine gesicherte Verbindung bereitstellen. Diese Funktion ist auch über
-das RZL KIS bzw. im RZL PDF-Drucker/PDF-Manager Premium aufrufbar.
+
 
 ### Dokumente für einzelne Klienten bereitstellen
 
-Der Programmteil *Informationsaustausch / Dokumente an einen Klienten
-übermitteln* ermöglicht Ihnen das Hochladen von Dokumenten für einzelne
-im RZL Klientenportal angelegte Klienten.
 
-
-![](img/image43.png){width="6.433070866141732in"
-height="3.0669291338582676in"}
-
-**1**
-
-Wählen Sie zunächst den gewünschten Klienten und Dokumentbereich aus.
-Nachfolgend können Sie entweder in das große Rechteck (**1**) mit der
-Maus klicken und die Datei(en) durch Anwahl in der Explorer Struktur
-hochladen oder per Drag & Drop ablegen und ebenfalls hochladen.
-
-
-![](img/image44.png){width="5.456692913385827in"
-height="1.9724409448818898in"}
-
-Im Dialogfenster können Sie ein bestimmtes Dokument suchen und
-auswählen. Durch einen Doppelklick auf das Dokument oder nach Anwahl der
-Schaltfläche *Öffnen* wechselt das Programm in den Ausgangsbildschirm
-zurück und die angewählten Dokumente werden ins Klientenportal
-hochgeladen.
-
-!!! info "Tipp"
-    Sie können auch mehrere Dokumente gleichzeitig übermitteln. Halten Sie hierfür die STRG-Taste gedrückt und wählen Sie die gewünschten Dokumente aus.
-
-
-![](img/image45.png){width="6.125984251968504in"
-height="2.4606299212598426in"}
-
-> Im unteren Bereich des Programmteils sehen Sie die Dokumente, die
-> bereits hochgeladen wurden. Angezeigt werden der jeweilige
-> Dokumentbereich und wann das Dokument bereitgestellt und gelesen
-> wurde.
 
 ### Informationen an alle Klienten übermitteln
 
-Unter *Informationsaustausch / Informationen an alle Klienten
-übermitteln* können Sie Informationen (Dokumente) allen im
-Klientenportal angelegten Klienten zur Verfügung stellen.
 
-
-![](img/image46.png){width="6.153543307086614in"
-height="3.1377952755905514in"}
-
-Die Vorgehensweise entspricht der Versendung von Dokumenten an einen
-Klienten (Kapitel 3.2.1, Seite
-[31](#dokumente-für-einzelne-klienten-bereitstellen)).
 
 ### Dokumente an einen Dienstnehmer übermitteln 
 
-Die notwendigen Schritte zur Anlage der Dienstnehmer für das
-Bereitstellen der Daten werden im Kapitel 6, Seite
-[65](#dienstnehmerbereich) beschrieben.
 
-Zur Übermittlung von Dokumenten wählen Sie den Menüpunkt
-*Informationsaustausch / Dokumente an einen Dienstnehmer übermitteln*
-aus.
-
-
-![](img/image47.png){width="5.791338582677166in"
-height="4.165354330708661in"}
-
-Hier können Sie nach Anwahl des Klienten aus den im RZL Klientenportal
-angelegten Dienstnehmern auswählen. Nachfolgend können Sie entweder in
-das große Rechteck (**1**) mit der Maus klicken und die Datei(en) durch
-Anwahl in der Explorer Struktur hochladen oder per Drag & Drop ablegen
-und ebenfalls hochladen.
-
-Anschließend wird dem Dienstnehmer das Dokument im Klientenportal zur
-Verfügung gestellt. Bereitgestellte Dokumente werden im unteren Bereich
-des Bildschirms angezeigt.
 
 ### Dokumentenübermittlung aus dem RZL KIS
 
-Im KIS gespeicherte Dokument können im Header oder in der
-Dokumentenliste mit der rechten Maustaste und den Optionen *Zum
-Klientenportal hochladen* oder *Zum Klientenportal mit Nachricht
-hochladen* sofort dem Klienten zur Verfügung gestellt werden. Abb. ‑
-Dokumente aus dem RZL KIS übermitteln
 
-![](img/image48.png){width="6.330708661417323in"
-height="1.2598425196850394in"}
 
 ### Dokumentenübermittlung aus dem RZL PDF-Manager Premium
 
-Ein im RZL PDF-Manager-Premium erstelltes Dokument kann in der
-Dokumentenansicht über die Schaltfläche *Klientenportal* dem Klienten
-zur Verfügung gestellt werden. Gleichzeitig ist die Ablage im RZL KIS
-(Postausgang) und die Übermittlung einer Nachricht möglich.
-
-
-![](img/image49.png){width="3.8031496062992125in"
-height="3.283464566929134in"}
-
-Eine detaillierte Beschreibung des Programmteils finden Sie im Handbuch
-RZL PDF-Manager Premium.
 
 ### Dokumentenübermittlung aus dem RZL PDF Drucker
 
-Im RZL PDF-Drucker erstellte Dokumente können über die Schaltfläche
-*Export* ins RZL Klientenportal hochgeladen werden.
 
-
-![](img/image50.jpg){width="4.268657042869641in"
-height="2.302899168853893in"}
-
-Wählen Sie dazu die Option *Exportieren nach: RZL Klientenportal* an.
-Nach Eingabe des gewünschten Dateinamens und der Zuordnung im
-Klientenportal können Sie optional noch das Passwort des Klienten
-zuordnen. Nach Anwahl der Schaltfläche *Exportieren* wird das Dokument
-hochgeladen.
 
 ### Dokumentenlisten
 
-#### Empfangene Dokumente 
 
-Der Programmteil *Informationsaustausch / Dokumentenlisten /Empfangene
-Dokumente* zeigt die Dokumente, die von den Klienten zur Verfügung
-gestellt worden sind. Sie können zwischen den Registerblättern
-*Klientendokumente* und *Dienstnehmerdokumente* auswählen. Durch einen
-Doppelklick auf den Dateinamen wird das Dokument aufgerufen.
-
-
-![](img/image51.png){width="6.322834645669292in"
-height="3.1102362204724407in"}
-
-Sie können die Ansicht auf einzelne Klienten einschränken oder die
-Dokumente aller Klienten auflisten.
-
-#### An Klienten übermittelte Dokumente
-
-Im Programmteil *Informationsaustausch / Dokumentenlisten / An Klienten
-übermittelte Dokumente finden Sie* die an die Klienten übermittelten
-Dokumente. Durch einen Doppelklick auf den Dateinamen wird das Dokument
-aufgerufen.
-
-
-![](img/image40.png){width="6.377952755905512in"
-height="4.066929133858268in"}
-
-#### An Dienstnehmer übermittelte Dokumente 
-
-Im Programmteil *Informationsaustausch /* *Dokumentenlisten / An
-Dienstnehmer übermittelte Dokumente* werden an Dienstnehmer übermittelte
-Informationen angezeigt.
-
-#### Gelöschte Dokumente 
-
-Im Programmteil *Informationsaustausch* / *Dokumentenlisten / Gelöschte
-Dokumente* sehen Sie eine Liste mit den bereits gelöschten Dokumenten.
-
-
-![](img/image52.png){width="6.464566929133858in"
-height="2.7401574803149606in"}
-
-In dieser Liste können die Dokumente nicht mehr aufgerufen werden.
-Sichtbar sind der Name der Datei und der Benutzer, der die Datei
-gelöscht hat sowie das Datum der Löschung. Ins KIS gespeicherte
-Dokumente werden automatisch gelöscht und erhalten in der Spalte *Im KIS
-gespeichert* ein Hakerl.
 
 ## Nachrichtenübermittlung
 
-Die Nachrichtenübermittlung im RZL Klientenportal bietet Ihnen die
-Möglichkeit, Nachrichten an Ihre Klienten verschlüsselt über die
-https-gesicherte Verbindung zu senden bzw. von Ihrem Klienten zu
-empfangen. Dieses Feature steht Ihnen auch im Zuge des Hochladens von
-Dokumenten aus dem Kanzleiinformationssystem bzw. PDF-Manager Premium
-zur Verfügung. Sie können dabei einzelne/individuelle Nachrichten
-erstellen bzw. erhalten oder ganze Newsletter an alle im Klientenportal
-angelegten Klienten übermitteln.
+
 
 ### Nachrichten an einen Klienten übermitteln
 
-Im Programmteil *Informationsaustausch / Nachricht an einen Klienten
-übermitteln* können Sie Nachrichten mit Anhängen an den gewünschten
-Klienten versenden. Nach Auswahl des Klienten gelangen Sie in folgende
-Ansicht.
 
-
-![](img/image53.png){width="6.1299212598425195in"
-height="6.267716535433071in"}
-
-#### Dokumentbereich
-
-Wählen Sie den benötigten Dokumentbereich im Drop-Down Menü an. Nur
-Klientenbenutzer, die in den Stammdaten diesem Dokumentbereich
-zugeordnet sind, können diese Nachricht lesen (Kapitel 2.2.4, Seite
-[16](#benutzerdaten-und-berechtigungen)).
-
-#### Gültig Bis 
-
-Nach Auswahl des Dokumentbereichs können Sie im Feld *Gültig Bis* ein
-Enddatum der Nachricht hinterlegen. Die Nachricht wird nach diesem Datum
-automatisch vom Portal gelöscht.
-
-#### Betreff 
-
-Geben Sie hier einen kurzen Nachrichtenbetreff ein.
-
-#### Nachricht 
-
-Hier geben Sie die gewünschte Nachricht an Ihren Klienten ein. Die
-Tastenkombination STRG+RETURN fügt einen Zeilenumbruch ein.
-
-#### Dokumente 
-
-Sie können optional ein Dokument an die Nachricht anhängen. Diese werden
-dann nicht nur in der Nachricht, sondern auch in der Dokumentenansicht
-angezeigt.
-
-Wählen Sie über die Schaltfläche *Durchsuchen* das gewünschte Dokument
-aus.
-
-Mit der Schaltfläche *Nachricht* *senden* wird die Nachricht an den
-Klienten übermittelt. Der Klient erhält bei korrekter Einstellung in den
-Benutzerstammdaten eine automatische E-Mail Benachrichtigung über den
-Nachrichteneingang. Nach dem Einstieg ins Klientenportal ist die
-Benachrichtigung auch im Protokoll ersichtlich.
-
-Die versendeten Nachrichten können jederzeit über *Informationsaustausch
-/ Nachrichtenlisten / Gesendete Nachrichten* eingesehen werden (Kapitel
-3.3.6, Seite [39](#gesendete-nachrichten)).
-
-#### Fußzeile 
-
-Im Benutzerprofil kann eine Fußzeile hinterlegt werden, die beim Versand
-von Nachrichten verwendet wird. Sie können die Fußzeile beim Versenden
-einer Nachricht optional einfügen oder ausblenden. Die im Profil
-gespeicherte Fußzeile bleibt dabei unverändert erhalten.
 
 ### Nachrichten an alle Klienten übermitteln
 
-Als Kanzleisachbearbeiter können Sie im Programmteil
-*Informationsaustausch / Nachricht an alle Klienten übermitteln*
-Mitteilungen an alle Klienten im Klientenportal zustellen:
 
-Auch hier kann die Gültigkeitsdauer der Nachricht eingeschränkt werden.
-Nach der Eingabe eines Betreffes und der Nachricht ist es zudem möglich,
-ein Dokument hochzuladen (vgl. Kapitel 3.3.1, Seite
-[37](#nachrichten-an-einen-klienten-übermitteln)). Mit *Nachricht
-senden* wird die Nachricht an alle aktiven Klienten am Klientenportal
-übermittelt.
 
 ### Nachrichten an einen Dienstnehmer übermitteln
 
-Als Klientensachbearbeiter können Sie im Programmteil
-*Informationsaustausch / Nachricht an einen Dienstnehmer übermitteln*
-auch Nachrichten mit Dokumentenanhang an einen gewünschten Dienstnehmer
-übermitteln. Nach Anwahl des Klienten können Sie ebenfalls den
-gewünschten Dienstnehmer anwählen und die Nachricht erstellen. Dieser
-erhält wiederum ein E-Mail als Information über den Nachrichteneingang.
+
 
 ### Nachrichten über das RZL KIS bei Dokumentenübermittlung senden
 
-Eines beim Klienten abgelegte Dokument im RZL KIS kann durch Anwahl in
-der Dokumentenliste mit der rechten Maustaste und der Option *zum
-Klientenportal mit Nachricht hochladen* sofort inklusive Nachricht an
-den Klienten übermittelt werden.
+
 
 ### Nachrichten über den RZL PDF-Manager Premium senden
 
-Im RZL PDF-Manager Premium kann im Zuge einer Dokumentenübermittlung
-auch gleichzeitig eine Nachricht angehängt werden. Die Beschreibung dazu
-finden Sie im Kapitel 3.2.4, Seite
-[34](#dokumentenübermittlung-aus-dem-rzl-kis).
-
-### Gesendete Nachrichten
-
-Im Programmteil *Informationsaustausch / Nachrichtenlisten / Gesendete
-Nachrichten* kann der eingeloggte Kanzleisachbearbeiter die versendeten
-Nachrichten einsehen.
 
 
-![](img/image54.png){width="6.102362204724409in"
-height="4.692913385826771in"}
-
-Durch Anklicken des \>-Symbols in der ersten Spalte öffnet sich die
-Detailansicht der Nachricht. Zur besseren Übersicht und Sortierung
-stehen Ihnen verschiedene Filtermöglichkeiten zur Verfügung. In den
-Spalten *Gelesen, Gelesen von und Gelesen am* sehen Sie, ob und wann der
-Klient die Nachricht gelesen hat.
-
-#### Tabelleneinstellungen 
-
-Vgl. Kap. 3.1 Allgemeine Listenfunktionen
-
-**Verlauf der Nachricht / Antwort aufrufen**
-
-Gibt es in der geöffneten Nachricht dazugehörige frühere Nachrichten,
-können diese über die Schaltfläche *Verlauf der Nachricht* aufgerufen
-werden. Wurde die geöffnete Nachricht bereits beantwortet, kann die
-Antwort durch Anwahl der Schaltfläche *Antwort aufrufen* geöffnet
-werden. Diese Schaltflächen finden Sie im unteren Teil der Nachricht.
-
-**Anhänge herunterladen**
-
-Beinhaltet die Nachricht einen Anhang kann dieser über den *Menüpunkt
-Anhänge herunterladen* geöffnet und gespeichert werden.
-
-#### Nachrichten löschen 
-
-Wählen Sie dazu die gewünschte Nachricht in der letzten Spalte durch
-Setzen des Häkchens an. Mit *Nachricht löschen* werden die markierten
-Nachrichten nicht nur in der Kanzleisachbearbeiter-Ansicht, sondern auch
-bei den betroffenen Klienten gelöscht.
-
-### Empfangene Nachrichten
-
-Wenn der Klient eine Nachricht an den Kanzleisachbearbeiter übermittelt,
-erscheint diese beim nächsten Login des Kanzleisachbearbeiters am
-Klientenportal in der Protokollansicht. Diese kann auch jederzeit im
-Menü *Informationsaustausch / Nachrichtenlisten / Empfangene
-Nachrichte*n aufgerufen werden.
 
 ## Datenverbrauch
 
-Der Programmpunkts *Informationsaustausch / Sonstiges* bietet die
-Möglichkeit, Ihren Datenverbrauch aufzurufen. Die Aktualisierung des
-Datenverbrauchs erfolgt einmal pro Tag. Die Darstellung des
-Datenverbrauchs erfolgt monatlich getrennt nach Klienten.
 
-
-![](img/image55.png){width="5.47244094488189in"
-height="4.362204724409449in"}
 
 ## Benutzerdefinierte Dokumentbereiche ohne RZL KIS/ BOARD
 
-Im Programmpunkt *Informationsaustausch / Sonstiges* können unter dem
-gleichnamigen Menüpunkt *benutzerdefinierte Dokumentbereiche* angelegt
-werden. Diese stehen dann ebenfalls im Auswahldialog neben den Standard-
-Dokumentbereichen (entspricht den lizensierten Programmen) zur
-Verfügung.
 
-Tragen Sie im Bereich *Neuer Name* die Bezeichnung des Dokumentbereichs
-ein und klicken Sie nachfolgend auf den Punkt *Erstellen*. Im oberen
-Bereich werden alle Dokumentbereiche, die benutzerdefiniert angelegt
-wurden, angezeigt. Noch nicht verwendete benutzerdefinierte
-Dokumentbereiche können gelöscht werden.
-
-
-![](img/image56.png){width="6.216982720909886in"
-height="2.1692913385826773in"}
-
-Nach Anlegen eines Dokumentbereichs können Sie die neue Berechtigung den
-Klienten und Kanzleibenutzern zuweisen. Im nachfolgenden Bildschirm ist
-die Zuweisung zu einem Kanzlei-Mitarbeiter abgebildet.
-
-
-![](img/image57.png){width="6.318897637795276in"
-height="2.6102362204724407in"}
-
-Wählen Sie hier den neu angelegten Dokumentbereich und die gewünschten
-Klienten aus und bestätigen Sie die Eingabe mit *Speichern*. Durch diese
-Auswahl können Sie nun, wenn Sie Dokumente an einen Klienten
-übermitteln, den neu angelegten Dokumentbereich verwenden.
-
-
-![](img/image58.png){width="5.874015748031496in"
-height="3.374015748031496in"}
-
-Damit Ihr Klient auch diesen neuen Dokumentbereich verwenden kann, ist
-dieser in den Benutzerstammdaten des Klienten zu aktivieren. Gehen Sie
-hierfür unter *Stammdaten / Klienten / Klientenstammdaten* und wählen
-Sie die betreffenden Klienten aus. Anschließend sind bei den
-Berechtigungen die Dokumentbereiche beim gewünschten Benutzer anzuwählen
-und mit *Speichern* zu bestätigen.
-
-
-![](img/image59.png){width="6.15748031496063in"
-height="4.440944881889764in"}
 
 ## Benutzerdefinierte Dokumentbereiche mit RZL KIS/ BOARD
 
-Wird das KIS/ Board verwendet, können die benutzerdefinierten
-Dokumentbereiche im Kanzlei-Informations-System unter
-*Verwaltung/Dokumentbereich* angelegt und bearbeitet werden.
 
-In der Übersicht werden alle vom Anwender lizensierten Programme als RZL
-Standard Dokumentbereich mit einem Hackerl versehen angeführt. Diese
-Dokumentbereiche können vom Anwender nicht verändert oder gelöscht
-werden.
-
-
-![](img/image60.png){width="6.248031496062992in"
-height="3.5118110236220472in"}
-
-> Unter gleichnamigen Menüpunkt kann ein *neuer Dokumentbereich*
-> angelegt werden. Dafür ist im Feld *Bezeichnung* der gewünschte Name
-> einzugeben und mit *Speichern* zu bestätigen.
->
-> Sollen bestehende Dokumentbereiche zusammengelegt werden, kann das
-> unter dem Menüpunkt *Dokumentbereich übertragen* vorgenommen werden.
-> Mit dieser Funktion werden die mit diesem Dokumentbereich verknüpften
-> Nachrichten und Dokumente dem neuen Dokumentbereich zugeordnet.
->
-> Benutzerdefinierte Dokumentbereiche, die nicht verwendet werden,
-> können über *Dokumentbereich löschen* gelöscht werden.
->
-> Im KIS/ BOARD vorgenommene Änderungen werden automatisch zum
-> Klientenportal hochgeladen und stehen da zur Verfügung. Über den
-> Menüpunkt *Zum Klientenportal* *hochladen* kann der Datenaustausch mit
-> dem Klientenportal manuell angestoßen werden.
->
-> Anschließend sind bei dem Kanzleibenutzer und Klientenbenutzer die
-> Berechtigung für den neu angelegten Dokumentbereich zu hinterlegen.
-> (vgl. Kapitel 3.5 Benutzerdefinierte Dokumentbereiche ohne KIS / BOARD
-> Abb. 3.18 und 3.20 Berechtigung für benutzerdefinierten
-> Dokumentbereich erteilen)
 
 # Lohnverrechnung
 

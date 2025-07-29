@@ -14,7 +14,7 @@ Hier legen Sie fest, welche Klientenliste(n) angezeigt werden sollen. Sie könne
 Die Klienten können in drei unterschiedliche Listen aufscheinen.
 
 
-![](image-2.png)
+![](img/image-2.png)
 
 
 Klienten, die in der dritten Spalte (**2**) als *Portal*-Klienten (**2**) bezeichnet sind, sind bereits im RZL Klientenportal angelegt. Das bedeutet, dass es zumindest einen Klientenbenutzer mit bestimmten Berechtigungen gibt.
