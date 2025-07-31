@@ -127,4 +127,31 @@ In der Belegverbuchung aus DMS-Systemen kann eine Buchung auch in eine Splitbuch
     Abgeschlossen werden die Buchungen nur, wenn die Buchungen links angehakt sind und unten auf **Verbuchen** geklickt wird.
 
 
+## Retourdaten verbuchen mit Belegen
+
+Beim Buchen von Retourdaten ist es möglich, Belegen automatisiert den Bankbuchungen aufgrund verschiedener Kritierien zuzuordnen.
+Damit diese automatische Zuordnung erfolgen kann, muss in den Stammdaten der Bankverbindung, das Häkchen **Beleg automatisch zuordnen** im Registerblatt *Retourdaten 2* aktiviert werden. Dabei kann in Prozent angegeben werden, wie weit der Zahlungsbetrag vom Belegbetrag abweichen darf um richtig zugeordnet zu werden.
+
+![Beleg automatisch](<img/image19.png>)
+
+
+Beim Einsteigen in die Verarbeitung von Retourdaten muss nach Auswahl der Auszüge noch das Häkchen **DMS-Belege zuordnen** ausgewählt werden.
+
+![Häkchen zuordnen](<img/image20.png>)
+
+
+Die **DMS-Verbuchung** kann dann mit der **rechten Maustaste / DMS-Verbindun starten** auf die Buchung oder mit der **Umschalt+F9** Funktion gestartet werden. Aufgehoben kann sie mittels der **rechten Maustaste / DMS-Verbindung aufheben** order mit der **Umschalt+F9** werden.
+Der Beleg kann dann, nachdem die **DMS-Verbindung** gestartet wurde, hinzugefügt werden. Dabei muss der Beleg in der Belegliste ausgewählt werden und dann kann per **DMS-Beleg zuordnen** dieser an die Buchung gehängt werden.
+
+![Belege zuordnen](<img/image21.png>)
+
+### Reihenfolge der automatischen Zuordnung von Belegen
+
+1. Der **Betrag** stimmt zwischen Belegdaten und Bankbuchung überein (bzw. mit eingestellter maximaler Abweichung, z.B. für Skonti) und die **ausgelesene Zahlungsreferenz am Beleg** entspricht der **Zahlungsreferenz der Bankbuchung**.
+
+2. Der **Betrag** stimmt überein (bzw. mit eingestellter maximaler Abweichung, z.B. für Skonti) und der **ausgelesene IBAN am Beleg** entspricht dem **IBAN der Bankbuchung**.
+
+3. Der Betrag stimmt überein (bzw. mit eingestellter maximaler Abweichung, z.B. für Skonti) und die **ausgelesene Belegnummer am Beleg** entspricht der **Zahlungsreferenz der Bankbuchung**.
+   
+4 Der **Betrag** stimmt überein (bzw. mit eingestellter maximaler Abweichung, z.B. für Skonti) und die **ausgelesene Belegnummer am Beleg** wird als **Teil des Verwendungszwecks der Bankbuchung** gefunden.
 
