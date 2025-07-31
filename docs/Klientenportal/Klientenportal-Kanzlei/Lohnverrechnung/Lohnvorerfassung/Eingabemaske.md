@@ -77,4 +77,4 @@ Die allgemeine Bedienung dieser Eingabemaske entspricht der Beschreibung im vorh
 (**2**) Die freien Lohnarten können nach Anwahl der Schaltfläche *Freie Lohnarten hinzufügen* (**2**) durch ein Hackerl ins Kästchen und *Hinzufügen* in die Eingabemaske übernommen werden.
 
 
-![](img/image66.png)
+![](img/image66.png) {width="300"}

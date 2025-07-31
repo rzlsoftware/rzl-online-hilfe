@@ -117,13 +117,6 @@ A
 ## Klientendaten aus der RZL Lohnverrechnung exportieren
 
 
-!!! warning "Hinweis"
-    Stellen Sie vor dem Export der Lohnverrechnungsdaten Ihres Klienten sicher, dass das Klientenportal korrekt eingerichtet und die notwendigen Einstellungen in den Klientenstammdaten vorgenommen wurden (Kapitel 2.2,Seite [9](#klientenstammdaten)).
-
-Öffnen Sie den gewünschten Klienten in der RZL Lohnverrechnung. Unter
-dem Programmpunkt *Bearbeiten / RZL Klientenportal / Daten
-bereitstellen* können Sie die Dienstnehmerstammdaten aus der RZL
-Lohnverrechnung auf das RZL Klientenportal exportieren.
 
 ## Eingabemasken für Klienten konfigurieren
 
@@ -131,420 +124,43 @@ Lohnverrechnung auf das RZL Klientenportal exportieren.
 
 ## Vom Klienten freigegebene Daten der Vorerfassung
 
-Im Klientenbereich werden vom Klientenbenutzer Daten für die
-Lohnverrechnung vorerfasst. Je nach Einstellung in den
-Klientenstammdaten des Klientenportals können
-Mindestangaben-Anmeldungen/Versichertenmeldungen reduziert als Eintritte
-an den Wirtschaftstreuhänder übermittelt werden. Ebenfalls ist die
-Erfassung von Austritten, laufenden Änderungen, Urlauben, Krankenständen
-und Zeitausgleich durch den Klienten im Portal möglich.
 
-### Import in die RZL Lohnverrechnung
-
-Der in den Stammdaten hinterlegte Klientensachbearbeiter erhält nach der
-Freigabe durch den Klienten zunächst eine E-Mail-Benachrichtigung.
-Voraussetzung für die E-Mail-Benachrichtigung ist die Aktivierung im
-Programmteil *Stammdaten/Portal/E-Mail Einstellungen* Wird der Klient
-anschließend in der RZL Lohnverrechnung geöffnet, können die
-Vorerfassungen automatisch übernommen werden. Eine detaillierte
-Beschreibung dazu finden Sie im Handbuch RZL Lohn-/Gehaltsverrechnung.
-
-### Abruf am RZL Klientenportal
-
-Beim nächsten Login in das Klientenportal werden die Erfassungen auch im
-Startbildschirm (Protokoll) des Kanzleisachbearbeiters angedruckt. Die
-Vorerfassungen können auch jederzeit im Programmteil *Lohnverrechnung /
-Vom Klienten freigegebene Daten* abgerufen werden.
-
-
-![](img/image67.png){width="5.952755905511811in"
-height="2.783464566929134in"}
-
-Wählen Sie im Drop-Down Menü den gewünschten Klienten aus. Im Bereich
-*Zeitraum wählen* können Sie einzelne Monate auswählen oder nach dem Typ
-der Meldung (Eintritt, Laufende Änderung, usw.) filtern. Wenn Sie den
-Eintrag *Alle Erfassungen* anwählen, erhalten Sie eine vollständige
-Liste der freigegebenen Daten. Durch Klick auf eine Vorerfassung werden
-die Details angezeigt.
 
 ## Vom Klienten nicht freigegebene Daten
 
-Der Programmteil *Lohnverrechnung/Vom Klienten nicht freigegebene Daten*
-bietet eine Übersicht über bereits erfasste, aber noch nicht
-freigegebene Daten aus den Erfassungen der Lohnverrechnung. Die
-Auflistung beinhaltet die nicht freigegebenen Lohnvorerfassungen, die
-nicht freigegebenen Zeiterfassungen, nicht freigegebene Daten von
-bereits übermittelten Versicherungsmeldungen und noch nicht übermittelte
-Versicherungsmeldungen.
+
 
 ## ÖGK-Anmeldungen / Stornomeldungen
 
-Nachdem der Klient die ÖGK-Meldungen übermittelt hat, können Sie als
-Kanzleisachbearbeiter diese Meldungen über den Menüpunkt
-*Lohnverrechnung / Übermittelte Anmeldungen* prüfen.
 
-
-![](img/image68.png){width="5.940944881889764in"
-height="3.338582677165354in"}
-
-Wählen Sie dazu den gewünschten Klienten, Zeitraum und Typ in den
-Drop-Down Menüs aus. Durch Anwahl in der folgenden Auflistung werden die
-Details aufgerufen.
-
-**ÖGK-Protokolle aufrufen und ausgeben**
-
-Der Programmteil *Lohnverrechnung / Protokolle der Anmeldungen* bietet
-Ihnen die Möglichkeit die ÖGK-Protokolle der Meldungen aufzurufen und
-auszudrucken.
-
-
-![](img/image69.png){width="6.437007874015748in"
-height="5.358267716535433in"}
-
-In der Spalte Datei können Sie durch Anwahl des Dateinamens die
-ÖGK-Protokolle aufrufen und mit der Schaltfläche *Druckvorschau*
-ausdrucken.
-
-**ÖGK-Protokolle archivieren**
-
-Die Eintragungen in dieser Liste können archiviert werden. Sie können
-die Archivierung für Meldungen die älter als sieben bzw. 30 Tage sind
-durchführen, in dem Sie die Schaltfläche *Archivierung starten*
-anwählen. Die archivierten Protokolle lassen sich jederzeit durch Anwahl
-des Eintrags *Archivierte Protokolle* anzeigen aufrufen.
-
-**Ausgewählte Protokolle zusammenführen**
-
-Nach Anwahl der Schaltfläche *Ausgewählte Protokolle zusammenführen*
-werden die Protokolle - die mit einem Hackerl gekennzeichnet sind - in
-eine PDF-Datei ausgegeben.
 
 ## Anbindung zur rota-Schnittstelle
 
-Mit dem Klientenportal **Modul rota Schnittstelle** können Sie die von
-Ihrem Klienten erfassten Daten in der rota-Software direkt in das RZL
-Lohn-Programm importieren.
 
-Legen Sie zunächst den Klienten am Klientenportal an und stellen Sie die
-Stammdaten aus der Lohnverrechnung am RZL Klientenportal bereit (Kapitel
-2.2, Seite [9](#klientenstammdaten)).
-
-Zur Nutzung der Schnittstelle müssen Sie im RZL Klientenportal in den
-Klientenstammdaten unter *Stammdaten / Klienten / Klientenstammdaten*
-die Option *Daten für Lohnvorerfassung aktivieren* anwählen. Legen Sie
-anschließend einen separaten Benutzer mit der Berechtigung *Lohn
-Vorerfassung* an und stellen Sie sicher, dass der angelegte
-Klientenzugang funktioniert, indem Sie den Login kurz testen. Leiten Sie
-diese Benutzerdaten mit Passwort an die Firma rota zur weiteren
-Einrichtung weiter.
 
 > 
 
 # Finanzbuchhaltung
 
-Im RZL Klientenportal können im Klientenbereich Buchungen wahlweise mit
-oder ohne Vorkontierung vorerfasst werden. In den Klientenstammdaten
-wird festgelegt, ob eine Vorkontierung möglich ist. Die Vorerfassungen
-können in die Finanzbuchhaltung bzw. EA-Rechnung der Kanzlei übernommen
-werden.
+
 
 ## Bereitstellen des Kontenplans in der Fibu/EA-Rechnung Klassik
 
-Bei der Anlage der Kassa/Bankbücher und der Verbuchungsregeln wird im
-RZL Klientenportal auf den Kontenplan der Fibu bzw. EA-Rechnung
-zugegriffen. Deshalb müssen Sie vorab in der Fibu bzw. EA-Rechnung den
-Programmteil *Bearbeiten / Klientenportal / Daten bereitstellen*
-anwählen und über diesen Menüpunkt den Kontenplan bereitstellen.
 
-
-
-![](img/image70.png){width="4.196850393700787in"
-height="0.9803149606299213in"}
-
-## Bereitstellen des Kontenplans in der Fibu Next
-
-In der FIBU-Next werden die Daten im Programmteil *Datenimport/-export /
-Zum Klientenportal hochladen* (**1**) bereitgestellt.
-
-![](img/image71.png){width="5.2637795275590555in"
-height="3.661417322834646in"}
-
-**3**
-
-**2**
-
-**1**
-
-Für die Fibuvorerfassung müssen die Konten (**2**) aktiviert und die
-Schaltfläche Hochladen (**3**) angewählt werden.
 
 ## Anlage von Kassa/Bankbüchern am RZL Klientenportal
 
-Kassa/Bankbücher werden im Programmteil *Finanzbuchhaltung / Stammdaten
-Kassa/Bankbuch* für die einzelnen Klienten angelegt.
-
-Im Bereich *Klient wählen* klicken Sie auf die kleine Pfeiltaste und
-wählen den gewünschten Klienten aus.
-
-Nach der Auswahl der Klienten können Sie in den unten angeführten
-Feldern die Kassa/Bankbücher anlegen.
-
-
-![](img/image72.png){width="6.649606299212598in"
-height="3.7283464566929134in"}
-
-**1**
-
-Durch Anwahl der Schaltfläche NEU können Sie ein neues Kassa/Bankbuch
-anlegen.
-
-Im Feld *Bezeichnung* wird ein Name für das Kassa/Bankbuch vergeben.
-
-Im Feld *Belegkreis* tragen Sie bitte den Belegkreis ein, der in der
-Buchhaltung bzw. EA-Rechnung für das Kassa/Bankbuch verwendet wird.
-
-Wenn Sie im Feld *Konto* die STRG-Taste anwählen, wird der Kontenplan
-der Fibu bzw. EA-Rechnung aufgerufen und Sie können das Kassa oder
-Bankkonto auswählen. Auf diese Kontonummer werden die Vorerfassungen in
-der Fibu bzw. EA-Rechnung gebucht.
-
-Damit der Benutzer im Klientenbereich beim Vorerfassen die richtigen
-Anfangs- und Endsalden angezeigt bekommt, erfassen Sie den *Saldo* des
-eingetragenen Kontos zu einem bestimmten *Stichtag.*
-
-Beim Kassabuch müssen Sie darüber hinaus noch den Merker setzten
-(**1**), dass es sich um ein Kassabuch handelt. Ein Kassabuch mit einem
-negativen Kassasaldo (Kassaminus) kann nicht freigegeben werden.
-
-#### Einschränken auf bestimmte Benutzer 
-
-Im rechten Bereich des Dialogs unterhalb der Bezeichnung *Erlaubt für
-Benutzer* steht zunächst der Eintrag *alle*. Somit können alle beim
-Klienten angelegten Benutzer das Kassa- oder Bankbuch bearbeiten.
-
-
-![](img/image73.png){width="6.239583333333333in"
-height="3.9659722222222222in"}
-
-Wenn Sie rechts das Bearbeiten- Symbol anwählen, können die berechtigen
-Benutzer ausgewählt werden.
-
-Im oben angezeigten Dialog werden die berechtigen Benutzer durch ein
-Hackerl ins Kästchen ausgewählt und durch Anwahl der Schaltfläche
-*Übernehmen* gespeichert.
-
-
-![](img/image74.png){width="5.984251968503937in"
-height="3.3503937007874014in"}
-
-Im abgebildeten Beispiel darf das Kassabuch von den Benutzern
-65.schuster, 65.schuster1 und 65.schuster7 bearbeitet werden.
-
-#### Löschen von Kassa/Bankbüchern 
-
-Angelegte Kassa/Bankbücher können durch Anwahl des Papierkorbes ganz
-rechts im Dialog gelöscht werden.
-
-Nach Anwahl des Papierkorbsymbols erhalten Sie nachfolgende Abfrage.
-
-
-![](img/image75.png){width="3.937007874015748in"
-height="1.065721784776903in"}
-
-Wenn Sie die oben angezeigte Abfrage mit OK beantworten, wird das
-jeweilige Kassa/Bankbuch gelöscht. Sind bereits Vorerfassungen vorhanden
-ist ein Löschen nicht möglich.
-
-
-![](img/image76.png){width="3.937007874015748in"
-height="1.3651804461942256in"}
 
 ## Vorerfassung Kostenstellen
 
-Wenn im Buchhaltungsklienten eine Kostenstellen und/oder eine
-Kostenträgerrechnung gebucht wird, kann im RZL Klientenportal im
-Programmteil *Finanzbuchhaltung / Stammdaten KORE* den Benutzern eine
-Kostenstelle und ein Kostenträger zugeordnet werden.
 
-
-![](img/image77.png){width="6.503937007874016in"
-height="2.4960629921259843in"}
-
-Die Anwendung der in diesem Bereich definierten Werte hängt von der
-Einstellung ab, ob für diesen Klienten die Erfassung der Kostenstelle /
-Kostenträger bei der Buchungsvorerfassung aktiviert ist (siehe
-Klientenstammdaten).\
-\
-Ist die Erfassung der Kostenstelle / Kostenträger bei der
-Buchungsvorerfassung nicht aktiviert, so gilt:\
-Die für einen Benutzer festgelegte Kostenstelle / Kostenträger werden
-bei der Freigabe der Vorerfassungen für die Buchungszeilen automatisch
-gesetzt. Somit sind die in diesem Abschnitt definierten Werte erst zum
-Zeitpunkt der Freigabe relevant - nicht zum Zeitpunkt der Erfassung.
-
-Ist die Erfassung der Kostenstelle / Kostenträger bei der
-Buchungsvorerfassung aktiviert, so gilt:\
-Die für einen Benutzer festgelegte Kostenstelle / Kostenträger werden
-bei der Vorerfassung der Buchungszeilen automatisch vorgeschlagen.
 
 ## Anlage der Registrierkassen
 
-Nach Anlage der Kassa/Bankbücher (*Finanzbuchhaltung / Stammdaten
-Kassa/Bankbuch*; siehe Kapitel 5.2) sind über den Menüpunkt
-*Finanzbuchhaltung / Stammdaten Registrierkassen* die Einstellungen zu
-den Registrierkassen durchzuführen.
 
-
-![](img/image78.png){width="6.100659448818898in"
-height="1.6368055555555556in"}
-
-
-![](img/image79.png){width="6.081975065616798in"
-height="1.0965277777777778in"}
-
-Unter *Finanzbuchhaltung / Stammdaten Registrierkassen* können Sie
-anschließend die Einstellungen zu den Registrierkassen durchführen. Das
-RZL Klientenportal greift dabei auf die unter *my.kassandro.at*
-hinterlegten Daten zu. Ordnen Sie hier das jeweilige Zahlungsmittel dem
-jeweiligen Kassa/Bankbuch zu. Mit *Speichern* werden die Einstellungen
-gesichert.
-
-Somit sind alle erforderlichen Stammdaten für die Registrierkassa
-angelegt und der Klient kann dem Steuerberater die Daten der
-Registrierkassen über die FIBU-Vorerfassung am RZL Klientenportal zur
-Verfügung stellen.
 
 ## Anlage von Buchungsregeln
 
-### Buchungsregeln - Individuell beim Klienten
-
-Im Programmteil *Finanzbuchhaltung / Stammdaten
-Buchungsregeln*[]{.indexref entry="Buchungsregeln"} können Buchungsregel
-für bestimmte Klienten erfasst werden. Ganz oben im Programmteil wird
-der Klient ausgewählt.
-
-In dieser Ansicht können Sie unterhalb der Klientenauswahl erkennen, ob
-für diesen Klienten bereits eine allgemeine Vorlage (**1**) für
-Buchungsregeln[]{.indexref entry="Buchungsregeln"} verankert wurde.
-Buchungsregeln-Vorlagen (kanzleiweit) werden im Programmteil
-*Finanzbuchhaltung / Vorlagen Buchungsregeln (kanzleiweit)* (vgl. Kap.
-5.6.2 *Vorlagen Buchungsregeln kanzleiweit*) angelegt und werden in den
-Klientenstammdaten zugeordnet. Im zweiten Bereich kann eine allgemeine
-Vorlage (**2**), zum Kopieren (**3**) von einzelnen Buchungsregeln,
-verankert werden.
-
-Wenn der Benutzer im Klientenbereich bei der Vorerfassung bestimmte
-(Erfassungs)-Texte verwendet, werden die Erfassungen automatisch
-vorkontiert. Die *Erfassungstexte* (**4**) werden in diesem Programmteil
-eingetragen und dem gewünschten *Konto* und *Steuersatz* zugeordnet.
-Nach der Eintragung des Erfassungstextes können Sie im Feld *Konto* mit
-der STRG-Taste den Kontenplan aus der Fibu bzw. EA-Rechnung aufrufen und
-die gewünschten Konten übernehmen.
-
-
-![](img/image80.png){width="6.157132545931758in"
-height="4.346456692913386in"}
-
-**4**
-
-**5**
-
-**6**
-
-**3**
-
-**2**
-
-**1**
-
-Das Feld *fix* (**5**) enthält zwingend ein Hackerl, wenn der Steuersatz
-nicht geändert werden kann (Umsatzsteuerkonten, ig. Erwerbe, keine
-Steuerverankerung). Auch für Konten mit Vorsteuerverankerung (z.B.
-Wareneinsatz), kann durch Setzen des Häkchens der Steuersatz fix
-verankert werden.
-
-Sie können Buchungsregeln auch aus allgemeinen Vorlagen (**2**) durch
-Anwahl des plus-Symbols (**3**) in den Klientenbereich kopieren. Die
-beim Klienten gespeicherten bzw. zugeordneten Buchungsregeln können im
-**PDF** oder **Excel**-Format (**6**) ausgegeben werden.
-
-Wenn der Benutzer im **Klientenbereich** im Rahmen der Vorerfassung die
-ersten Buchstaben des (Erfassungs)-Textes einträgt, werden die möglichen
-Buchungsregeln[]{.indexref entry="Buchungsregeln"} angezeigt (siehe
-Abbildung 5.14).
-
-
-![](img/image81.png){width="6.291666666666667in"
-height="1.4177482502187226in"}
-
-Der Dialog oberhalb zeigt einen Teil der Erfassung im Klientenbereich.
-Wenn der Benutzer einen Text eingibt, der als Buchungsregel hinterlegt
-ist, werden die möglichen Buchungsregeln[]{.indexref
-entry="Buchungsregeln"} aufgelistet.
-
-#### Verdeckte Erfassungstexte 
-
-Wenn Sie betimmte Texte z.B. 10%, in eine eckige Klammer setzen \[10%\],
-wird dieser Teil des Textes bei der Vorerfassung im Klientenbereich
-angezeigt. Dieser Text wird allerdings nicht in die Fibu bzw.
-EA-Rechnung übernommen.
-
-Mit diesen eckigen Klammern können Sie somit für die Vorerfassung des
-Benutzers im Klientenbereich mehr Text für die Auswahl der richtigen
-Buchungsregel zur Verfügung stellen, als in das Textfeld der Fibu bzw.
-EA-Rechnung übernommen wird.
-
-#### Benutzerverwaltung Buchungsregeln
-
-Die Buchungsregeln[]{.indexref entry="Buchungsregeln"} können auf
-einzelne beim Klienten angelegte Benutzer eingeschränkt werden.
-
-
-![](img/image82.png){width="6.267716535433071in"
-height="1.6732283464566928in"}
-
-Die Bearbeitung der Benutzer ist bereits im Kap. 5.3 *Anlage des
-Kassa/Bankbuchs im RZL Klientenportal* beschrieben. Nach Auswahl des
-Benutzers muss die Hinterlegung mit dem Speichersymbol gesichert werden.
-
-### Vorlagen Buchungsregeln (kanzleiweit)
-
-Damit Sie Buchungsregeln[]{.indexref entry="Buchungsregeln"}, die für
-mehrere Klienten verwendet werden können, nicht bei jedem Klienten
-einzeln anlegen müssen, können Sie im Programmteil *Finanzbuchhaltung /
-Vorlagen Buchungsregeln (kanzleiweit)* allgemeine Vorlagen anlegen. Die
-Kontonummer und Kontostammdaten, die in der Vorlage verwendet werden,
-müssen bei den Klienten - die diese Vorlage gemeinsam verwenden -
-übereinstimmen.
-
-
-![](img/image83.png){width="6.251968503937008in"
-height="1.921259842519685in"}
-
-**1**
-
-Nach Anwahl der Schaltfläche NEU vergeben Sie eine Bezeichnung für die
-Vorlage, ordnen einen Referenzklienten zu und speichern (**1**) die
-Vorlage ab.
-
-
-![](img/image84.png){width="6.251968503937008in"
-height="1.9173228346456692in"}
-
-**3**
-
-**2**
-
-Nach Anwahl des Bearbeiten-Symbols (**2**) öffnet sich der Dialog für
-die Anlage und Bearbeitung der Verbuchungsregeln. Vorlagen können durch
-Anwahl des Papierkorb-Symbols (**3**) gelöscht werden.
-
-
-![](img/image85.png){width="6.251968503937008in"
-height="2.8661417322834644in"}
-
-Die Anlage von Buchungsregeln ist im Kap. 5.6.1 *Buchungsregeln --
-Individuell beim Klienten* beschrieben.
 
 ## Vom Klienten freigegebene Daten
 

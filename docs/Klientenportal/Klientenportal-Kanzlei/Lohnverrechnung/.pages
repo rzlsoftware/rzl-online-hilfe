@@ -1,5 +1,7 @@
 nav:
-    - Lohnvorerfassung: index.md
+    - Allgemein: index.md
     - KlientendatenausLohn.md
-    - Eingabemaske.md
+    - Lohnvorerfassung
+    - Anmeldungen.md
+    - AnbindungRota.md
     - ...
