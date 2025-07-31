@@ -153,5 +153,5 @@ Der Beleg kann dann, nachdem die **DMS-Verbindung** gestartet wurde, hinzugefüg
 
 3. Der Betrag stimmt überein (bzw. mit eingestellter maximaler Abweichung, z.B. für Skonti) und die **ausgelesene Belegnummer am Beleg** entspricht der **Zahlungsreferenz der Bankbuchung**.
    
-4 Der **Betrag** stimmt überein (bzw. mit eingestellter maximaler Abweichung, z.B. für Skonti) und die **ausgelesene Belegnummer am Beleg** wird als **Teil des Verwendungszwecks der Bankbuchung** gefunden.
+4. Der **Betrag** stimmt überein (bzw. mit eingestellter maximaler Abweichung, z.B. für Skonti) und die **ausgelesene Belegnummer am Beleg** wird als **Teil des Verwendungszwecks der Bankbuchung** gefunden.
 
