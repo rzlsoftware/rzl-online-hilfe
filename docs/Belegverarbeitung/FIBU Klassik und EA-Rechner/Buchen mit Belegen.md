@@ -61,6 +61,7 @@ Bei Belegen eines bestimmten Steuerfalles (Export, innergemeinschaftliche Liefer
 ![Steuerfall](<img/image13.png>)
 
 
+
 **Beispiel Verbuchungsregel bei einer ebInterface Rechnung**
 
 ![ebInferface](<img/image14.png>)
