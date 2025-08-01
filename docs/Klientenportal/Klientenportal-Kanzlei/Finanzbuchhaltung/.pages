@@ -1,8 +1,5 @@
 nav:
     - Allgemein: index.md
-    - Kontenplan.md
-    - KassaBankbuch.md
-    - VorerfassungKST.md
-    - Registrierkasse.md
-    - Buchungsregeln.md
+    - Fibu Vorerfassung: FibuVorerfassung
+    - FibuAuswertung.md
     - ...

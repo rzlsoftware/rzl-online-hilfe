@@ -164,154 +164,17 @@ A
 
 ## Vom Klienten freigegebene Daten
 
-Sie haben im Kanzleibereich des RZL Klientenportal im Programmteil
-*Finanzbuchhaltung / Vom Klienten freigegebene Daten* eine Übersicht
-über die Daten des Klienten.
 
-Im Bereich *Klient wählen* tragen Sie zunächst den gewünschten Klienten
-ein. Anschließend erhalten Sie vier verschiedene Bereiche angezeigt.
-
-
-![](img/image86.png){width="6.275590551181103in"
-height="4.322834645669292in"}
-
-Durch Anwahl des Ansichtssymbols rechts können Sie die Buchungen im
-Detail aufrufen.
-
-
-![](img/image87.png){width="6.303149606299213in"
-height="4.015748031496063in"}
-
-#### Saldo der Buchungen 
-
-Durch den Saldo der Buchungen wird die Differenz zwischen Anfangssaldo
-und Endsaldo des betreffenden Zeitraums detailliert dargestellt. Die
-Darstellung erfolgt nach dem jeweiligen Status der Buchungen:
-
-- *nicht freigegeben:* dies ist der Saldo der Buchungen, die vom
-  Klienten noch nicht freigegeben wurden
-
-- *freigegeben:* dies ist der Saldo der Buchungen, welche der Klient
-  bereits freigegeben hat, von Ihnen jedoch noch nicht bearbeitet wurden
-
-- *gesperrt:* dies ist der Saldo der Buchungen, die von Ihnen bereits
-  bearbeitet werden
-
-- *übernommen:* dies ist der Saldo der Buchungen, die von Ihnen bereits
-  übernommen (verbucht) wurden
-
-Nach Anwahl der Schaltfläche *Drucken* können Sie den gewünschten
-Drucker auswählen und die Ansicht ausdrucken.
-
-#### Folgende Buchungen wurden vom Klienten für die Verarbeitung freigegeben 
-
-Hier erhalten Sie eine Ansicht jener Buchungen, die der Klient im
-Klientenbereich erfasst und bereits freigegen hat. Durch Anwahl des
-Papierkorb-Symbols kann eine Vorerfassung gelöscht werden.
-
-Gelöschte Vorerfassungen werden in den Bereich *Folgende freigegebenen
-Buchungen wurden durch einen Kanzleibenutzer gelöscht* verschoben und
-können bei Bedarf reaktiviert werden.
-
-#### Folgende Buchungen werden aktuell mit der RZL Finanzbuchhaltung bearbeitet 
-
-Dieser Bereich zeigt jene Buchungen an, die im Moment in die
-Buchhaltung/EA-Rechnung übernommen werden (Programmteil in Fibu/EA:
-*Bearbeiten / Klientenportal / Buchungen importieren*).
-
-#### Folgende Buchungen wurden bereits übernommen 
-
-In diesem Bereich sehen Sie die Buchungen, die bereits in die
-Fibu/EA-Rechnung übernommen worden sind. Hier können Sie - für die
-Darstellung der Ansicht - im Bereich *Erfassungszeitraum auswählen* --
-verschiedene Filter setzen. Der Standardfilter ist *die letzten 6
-Monate*. Mögliche Filter sind noch: *die letzten 12 Monate*, *die
-letzten 24 Monate* und *alle*.
-
-In Ausnahmefällen kann eine bereits übernommene Vorerfassung durch
-Anwahl des Pfeilsymbols ganz rechts wieder aktiviert werden. Das
-bedeutet, dass die Buchungen wieder übernommen werden können.
-
-**Folgende freigegebene Buchungen wurden durch einen Kanzleibenutzer
-gelöscht**
-
-Dieser Bereich zeigt, welche freigegebenen Buchungen durch welchen
-Kanzleibenutzer gelöscht wurden und zu welchem Zeitpunkt die Löschung
-erfolgte. Diese Vorerfassungen können durch Anwahl des Pfeil-Symbols
-ganz rechts wieder aktiviert werden.
 
 ## Vom Klienten nicht freigegebene Daten
 
-Im Programmteil *Finanzbuchhaltung / Vom Klienten nicht freigegebene
-Daten* werden die noch nicht freigegebenen Vorerfassungen des Klienten
-aufgelistet und können aufgerufen werden (**1**).
 
-![](img/image88.png){width="5.978996062992126in"
-height="2.3149606299212597in"}
 
 **1**
 
 ## Bereitstellen von Auswertungen aus der RZL Fibu bzw. EA-Rechnung
 
-Sie können Ihrem Klienten aus der RZL Fibu bzw. EA-Rechnung die
-Journalzeilen,[]{.indexref entry="Auswertungen:Journalzeilen"} die
-Saldenliste und die Kontenebene[]{.indexref
-entry="Auswertungen:Kontensalden"} am RZL Klientenportal zur Verfügung
-stellen.
 
-Um Ihrem Klienten den Zugang zu diesen Daten zu ermöglichen, müssen Sie
-zunächst in den Klientenstammdaten unter *Stammdaten / Klienten /
-Klientenstammdaten* für den jeweiligen Benutzer des Klienten die
-Berechtigung *Finanzbuchhaltung Auswertungen* aktivieren.
-
-In der RZL FIBU Klassik können Sie über *Bearbeiten / Klientenportal /
-Daten bereitstellen* die Journalzeilen und Salden bereitstellen.
-
-
-![](img/image89.png){width="6.45752624671916in"
-height="1.5102274715660542in"}
-
-Ihr Klient hat am RZL Klientenportal immer nur Zugriff auf den
-bereitgestellten Stand der Daten. Um Ihren Klienten einen laufenden
-Stand der Journalzeilen und Salden zur Verfügung zu stellen, müssen die
-Daten aus der RZL Fibu bzw. EA-Rechnung laufend bereitgestellt werden.
-
-
-![](img/image71.png){width="5.2637795275590555in"
-height="3.661417322834646in"}
-
-**4**
-
-**2**
-
-**3**
-
-**1**
-
-In der FIBU-Next werden die Auswertungen im Programmteil
-*Datenimport/Export / Zum Klientenportal hochladen* (**1**) zur
-Verfügung gestellt. Sie können im Bereich *Einstellungen* (**2**) den
-Zeitraum einschränken und auswählen ob die Bilanzumbuchungen auch
-hochgeladen werden sollen. Beim *Daten hochladen* (**3**) aktivieren Sie
-die notwendigen Felder. Durch Anwahl der Schaltfläche *Hochladen*
-(**4**) werden die Auswertungen im Klientenportal zur Verfügung
-gestellt.
-
-### Auswertungen löschen
-
-Im Kanzleibereich haben Sie die Möglichkeit, die bereitgestellten
-Auswertungen je Klient wieder zu löschen. Den Menüteil dazu finden Sie
-unter *Finanzbuchhaltung / Auswertungen löschen*.
-
-
-> ![](img/image90.png){width="5.874015748031496in"
-> height="2.106299212598425in"}
-
-**1**
-
-Nach Auswahl des jeweiligen Klienten wählen Sie die Auswertung (**1**)
-und das betreffende Wirtschaftsjahr an. Nach Anwahl der Schaltfläche
-*Auswertungen löschen* werden die vorher gewählten Daten gelöscht.
 
 # Dienstnehmerbereich
 

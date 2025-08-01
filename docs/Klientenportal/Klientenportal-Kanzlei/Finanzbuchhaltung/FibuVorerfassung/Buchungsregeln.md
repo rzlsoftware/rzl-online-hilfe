@@ -12,7 +12,7 @@ Im zweiten Bereich kann eine allgemeine Vorlage (**2**), zum Kopieren (**3**) vo
 Wenn der Benutzer im Klientenbereich bei der Vorerfassung bestimmte (Erfassungs)-Texte verwendet, werden die Erfassungen automatisch vorkontiert. Die *Erfassungstexte* (**4**) werden in diesem Programmteil eingetragen und dem gewünschten *Konto* und *Steuersatz* zugeordnet. Nach der Eintragung des Erfassungstextes können Sie im Feld *Konto* mit
 der STRG-Taste den Kontenplan aus der Fibu bzw. EA-Rechnung aufrufen und die gewünschten Konten übernehmen.
 
-![](img/image-1.png)
+![](img/image-11.png)
 
 
 Das Feld *fix* (**5**) enthält zwingend ein Hackerl, wenn der Steuersatz nicht geändert werden kann (Umsatzsteuerkonten, ig. Erwerbe, keine Steuerverankerung). Auch für Konten mit Vorsteuerverankerung (z.B. Wareneinsatz), kann durch Setzen des Häkchens der Steuersatz fix verankert werden.
