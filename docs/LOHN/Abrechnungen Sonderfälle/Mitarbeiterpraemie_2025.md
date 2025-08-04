@@ -86,7 +86,7 @@ Im L16 (Jahreslohnzettel) wird über die Kennzahl 226 jener Teil der SV-Dienstne
 ![Image](img/image626.png){width="600"}
 
 !!! warning "Hinweis"
-    Aktuell liegen keine offiziellen Vorgaben vor, ob die Mitarbeiterprämie 2025 im L16 über eine eigene Kennzahl auszuweisen ist. Aus diesem Grund wird der Betrag vorläufig unter „Sonstige steuerfreie Bezüge“ im L16 ausgewiesen. Sowohl der Ausdruck des L16 als auch die elektronische Übermittlung wurden unsererseits mit entsprechenden Warnhinweisen abgesichert.Die Weitergabe des L16-Formulars bei Auszahlung einer solchen Prämie ist zum aktuellen Zeitpunkt nicht zu empfehlen, da eine eindeutige gesetzliche oder technische Umsetzung noch aussteht.
+    Zum Zeitpunkt der Implementierung der Mitarbeiterprämie lag noch kein neues L16 Formular vor. Aus diesem Grund wird der Betrag vorläufig unter „Sonstige steuerfreie Bezüge“ im L16 ausgewiesen. Sowohl der Ausdruck des L16 als auch die elektronische Übermittlung wurden unsererseits mit entsprechenden Warnhinweisen abgesichert. Die Weitergabe des L16-Formulars bei Auszahlung einer solchen Prämie ist zum aktuellen Zeitpunkt nicht zu empfehlen, da eine eindeutige gesetzliche oder technische Umsetzung noch aussteht.
 
 **Beispiel 2**
 
