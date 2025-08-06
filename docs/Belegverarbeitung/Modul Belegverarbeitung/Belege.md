@@ -11,17 +11,23 @@ Die folgend beschriebenen Ansichten verhalten sich alle sehr ähnlich. Es werden
 
 In der Ansicht **Belege hinzufügen** können Belege mittels Drag&Drop in das Programm gezogen werden. Hierzu muss der Beleg nicht abgespeichert werden, sondern kann z.B. aus der E-Mail in die Belegverarbeitung gezogen werden.
 
-Es können Belege neuen Klientengruppen oder Belegkreisgruppen zugeordnet, aufgetrennt oder komprimiert und Belegdaten erkannt werden. Die Funktion **Belege zu Finmatics hochlanden** schickt die ausgewählten Belege zu Finmatics, die dann die Belegdaten auswerten. Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
+Hier ist die Zuordnung von Belegen zu Klientengruppen oder Belegkreisgruppen möglich; zudem lassen sich Belege aufteilen, zusammenführen und Belegdaten erkennen. Die Funktion **Belege zu Finmatics hochlanden** schickt die ausgewählten Belege zu Finmatics, die dann die Belegdaten auswerten. Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
+
+Bei der Belegfreigabe kann man Belege direkt einer Person zur Freigabe zuordnen oder automatisch zuordnen lassen.
 
 ### Belege Scanordner
 
 In der Ansicht **Belege Scanordner** wird ein Ordner ausgewählt, welcher keine Unterordner besitzen kann. Im Scanordner erfolgt eine automatische Texterkennung (OCR), falls diese in den Einstellungen des Scanordners aktiviert wurde. Mehr zur Konfiguration des Scanordners finden Sie ...
 
-Im Scanordner können Belege neuen Klientengruppen oder Belegkreisgruppen zugeordnet, aufgetrennt oder komprimiert und Belegdaten erkannt werden. Die Funktion **Belege zu Finmatics hochlanden** schickt die ausgewählten Belege zu Finmatics, die dann die Belegdaten auswerten. Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
+Im Scanordner ist die Zuordnung von Belegen zu Klientengruppen oder Belegkreisgruppen möglich; zudem lassen sich Belege aufteilen, zusammenführen und Belegdaten erkennen. Die Funktion **Belege zu Finmatics hochlanden** schickt die ausgewählten Belege zu Finmatics, die dann die Belegdaten auswerten. Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
+
+Bei der Belegfreigabe kann man Belege direkt einer Person zur Freigabe zuordnen oder automatisch zuordnen lassen.
 
 ### Belege Verzeichnis
 
-In der Ansicht **Belege Verzeichnis** kann ein Ordner als Verzeichnis hinterlegt werden, in welchem mehrere Unterordner angelegt sein können (z.B. Ordner für AR, ER, sonstige, ...). Hier können Belege neuen Klientengruppen oder Belegkreisgruppen zugeordnet, aufgetrennt oder komprimiert und Belegdaten erkannt werden. Die Funktion **Belege zu Finmatics hochlanden** schickt die ausgewählten Belege zu Finmatics, die dann die Belegdaten auswerten. Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
+In der Ansicht **Belege Verzeichnis** kann ein Ordner als Verzeichnis hinterlegt werden, in welchem mehrere Unterordner angelegt sein können (z.B. Ordner für AR, ER, sonstige, ...). 
+
+Hier ist die Zuordnung von Belegen zu Klientengruppen oder Belegkreisgruppen möglich; zudem lassen sich Belege aufteilen, zusammenführen und Belegdaten erkennen. Die Funktion **Belege zu Finmatics hochlanden** schickt die ausgewählten Belege zu Finmatics, die dann die Belegdaten auswerten. Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
 
 Bei der Belegfreigabe kann man Belege direkt einer Person zur Freigabe zuordnen oder automatisch zuordnen lassen.
 
@@ -30,13 +36,13 @@ Bei der Belegfreigabe kann man Belege direkt einer Person zur Freigabe zuordnen 
 
 ### Belege Klietenportal
 
-In der Ansicht **Belege Klientenportal** werden die Belege, die von einem Klienten im Klientenportal hochgeladen worden sind, angezeigt. Hier können Belege neuen Klientengruppen oder Belegkreisgruppen zugeordnet, aufgetrennt oder komprimiert und Belegdaten erkannt werden. Die Funktion **Belege zu Finmatics hochlanden** schickt die ausgewählten Belege zu Finmatics, die dann die Belegdaten auswerten. Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
+In der Ansicht **Belege Klientenportal** werden die Belege, die von einem Klienten im Klientenportal hochgeladen worden sind, angezeigt. Hier ist die Zuordnung von Belegen zu Klientengruppen oder Belegkreisgruppen möglich; zudem lassen sich Belege aufteilen, zusammenführen und Belegdaten erkennen. Die Funktion **Belege zu Finmatics hochlanden** schickt die ausgewählten Belege zu Finmatics, die dann die Belegdaten auswerten. Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
 
 Bei der Belegfreigabe kann man Belege direkt einer Person zur Freigabe zuordnen oder automatisch zuordnen lassen.
 
 ### Belege Finmatics
 
-In der Ansicht **Belege Finmatics** werden alle Belege, die von Finmatics bearbeitet und wieder zurück übermittelt wurden, angezeigt. Hier können Belege neuen Klientengruppen oder Belegkreisgruppen zugeordnet, aufgetrennt oder komprimiert und Belegdaten erkannt werden. Es kann hier ein Filter der abgeholten Belege von Finmatics gesetzt werden, sowie für die Belegfreigabe gibt es zwei Funktionen.
+In der Ansicht **Belege Finmatics** werden alle Belege, die von Finmatics bearbeitet und wieder zurück übermittelt wurden, angezeigt. Hier ist die Zuordnung von Belegen zu Klientengruppen oder Belegkreisgruppen möglich; zudem lassen sich Belege aufteilen, zusammenführen und Belegdaten erkennen. Es kann hier ein Filter der abgeholten Belege von Finmatics gesetzt werden, sowie für die Belegfreigabe gibt es zwei Funktionen.
 Weiters können die überarbeiteten Belege übernommen werden, diese landen dann in der Liste der ungebuchten Belege.
 
 Bei den Belegen kann eine weitere Belegdatenerkennung durchgeführt werden, falls manche Werte noch nicht von Finmatics ermittelt wurden.
@@ -54,19 +60,21 @@ In der Liste der **Ungebuchten Belege** können Belege gelöscht, Belegdaten erk
 Bei der Funktion **Belegdaten erkennen** läuft eine Software über den Beleg und ermittelt diverse Werte, die dann bei den Belegdaten eingetragen werden.
 Die Option **Seiten bearbeiten** ermöglicht es, denn Beleg zu öffnen und Bearbeitungen an diesem vorzunehmen. Zu der Belegaufbereitung finden Sie im Kapitel ... mehr dazu.
 
-Mit der Funktion **Versenden** kann ein oder mehrere Belege per E-Mail versandt werden. Hierbei kann der Belege mit oder ohne Stempel verschickt werden.
-Zur Übermittlung muss das Board mit einem kompatiblen E-Mail Programm verknüpft sein.
+Mit der Funktion **Versenden** kann ein oder mehrere Belege per E-Mail versandt, dabei kann auch ein Stempel, angehängt werden.
+
+!!! warning "Hinweis"
+    Zur Übermittlung muss das Board mit einem kompatiblen E-Mail Programm verknüpft sein.
 
 Zu der Funktion **Belege exportieren** finden Sie mehr in der Kurzanleitung **Belege mit XML-Belegdaten exportieren und in andere Installationen importieren**.
 Hierbei kann zwischen "mit" oder "ohne" Stempel gewählt werden.
 
 Mithilfe der Option **Belege in Dokument umwandeln** kann ein Beleg in das KIS als Dokument hochgeladen werden. Diesen Vorgang kann man im KIS genauso durchführen.
 
-Die ungebuchten Belege können mittels **Im RZL PDF-Manager anzeigen** im PDF-Manager geöffnet werden. Das kann "mit" oder "ohne" Stempel erfolgen.
+Die ungebuchten Belege können mittels **Im RZL PDF-Manager anzeigen** im PDF-Manager geöffnet werden, dies kann wiederum "mit" oder "ohne" Stempel erfolgen.
 
 Mittels der Funktion **Belege in Scanordner zurücksetzen** kann ein oder mehrere Belege von dieser Liste zurück in den Scanordner gesetzt werden. Durch die Zurücksetzung wird dieser dann in der FIBU Klassik/Next nicht angezeigt und kann auch nicht verbucht werden.
 
-Die **Buchungssperre** ist die letzte verfügbare Option bei den ungebuchten Belegen. Mit dieser kann man Belege sperren, damit Sie zwar auf der Liste der ungebuchten Belege bleiben, aber nicht verbucht werden können. Es kann eine Belegsperre gesetzt oder aufgehoben werden.
+Die **Buchungssperre** ist die letzte verfügbare Option bei den ungebuchten Belegen. Mit dieser kann man Belege sperren, damit bleibt der gewählte Beleg in der Liste der ungebuchten Belege, wird jedoch nicht beim Buchen angezeigt. Diese Sperre kann genauso wieder aufgehoben werden.
 
 ### Gebuchte Belege
 
@@ -75,7 +83,9 @@ Bei den **Gebuchten Belegen** wird eine Liste der bereits verbuchten Belege ange
 ![Gebuchte Belege](<img/image8.png>)
 
 Mit der Funktion **Versenden** kann ein oder mehrere Belege per E-Mail versandt werden. Hierbei kann der Belege "mit" oder ""ohne" Stempel verschickt werden.
-Zur Übermittlung muss das Board mit einem kompatiblen E-Mail Programm verknüpft sein.
+
+!!! warning "Hinweis"
+    Zur Übermittlung muss das Board mit einem kompatiblen E-Mail Programm verknüpft sein.
 
 Zu der Funktion **Belege exportieren** finden Sie mehr in der Kurzanleitung **Belege mit XML-Belegdaten exportieren und in andere Installationen importieren**.
 Hierbei kann zwischen "mit" oder "ohne" Stempel gewählt werden.
@@ -94,6 +104,6 @@ Unter **Anzahl Belege monatlich** wird eine Liste nach den einzelnen Monaten ers
 
 ### Anzahl Belege jährlich
 
-In deiesem Menüpunkt werden alle Belege eines Jahres angezeigt. Hier wird die Quelle, Dateisystem, Klientenportal oder Finmatics angezeigt. Weiters werden die Belege noch nach dem Belegkreis angezeigt, sowie dem Buchungsstatus (Ungebucht und Gebucht)
+In diesem Menüpunkt werden alle Belege eines Jahres angezeigt. Hier wird die Quelle (Dateisystem, Klientenportal oder Finmatics) ausgewertet. Weiters werden die Belege noch nach dem Belegkreis angezeigt, sowie dem Buchungsstatus (Ungebucht und Gebucht).
 
 ![Belege_jährlich](<img/image6.png>)
