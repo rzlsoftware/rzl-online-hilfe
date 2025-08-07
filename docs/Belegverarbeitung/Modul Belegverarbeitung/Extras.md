@@ -12,16 +12,22 @@ Um Belege mit Belegdaten zu importieren, muss im Verzeichnis, der Speicherpfad h
 
 ### Protokoll Belegsynchronisation
 
+Das Protokoll der Belegsynchronisation gibt einen Überblick über die jeweiligen Klienten die synchronisiert werden. Dabei kann die Synchronisation der Belege auch manuell für Bestimmte oder für alle Klienten durchgeführt werden.
+
 ### Protokoll Klientenportal Belege
 
+Dieser Menüpunkt ist nur ersichtlich, wenn ein Klient ausgewählt wurde. Hier werden die Belege angezeigt, die bereits vom Klientenportal abgeholt wurden. Dabei kann der Zeitpunkt gewählt werden.
+
 ### Protokoll Finmatics Belege
+
+Dieser Menüpunkt ist nur ersichtlich, wenn ein Klient ausgewählt wurde. Das Prinzip ist das selbe wie beim Protkoll fürs Klientenportal. Es werden alle Belege angezeigts die von Finmatics abgeholt wurden, den Zeitpunkt kann man genauso wieder wählen.
 
 ## Aktualisieren
 
 ### FIBU Next Belegdaten
 
-Der Menüpunkt **FIBU Next Belegdate** ermöglicht es, die Buchungsinformationen aus dem gewählten Wirtschaftsjahr als Beleginformation, im Belegverarbeitungsprogramm zu aktualisieren. Dabei werden sich Buchungsinformationen wie das Buchungsdatum, der Betrag, die OP-Nummer, die Belegnummer, der Text, das Konto und das Gegenkonto vom Programm angesehen und aktualisiert.
+Der Menüpunkt **FIBU Next Belegdaten** ermöglicht es, die Buchungsinformationen aus dem gewählten Wirtschaftsjahr als Beleginformation, im Belegverarbeitungsprogramm zu aktualisieren. Dabei werden sich Buchungsinformationen wie das Buchungsdatum, der Betrag, die OP-Nummer, die Belegnummer, der Text, das Konto und das Gegenkonto vom Programm angesehen und aktualisiert.
 
 ### Dateigrößen ermitteln
 
-Durch den Menüpunkt **Dateigrößen ermittelt** wird in den Beleglisten die Dateigröße aktualisiert, falls diese noch nicht eingetragen war.
+Durch den Menüpunkt **Dateigrößen ermittelt** wird in den Beleglisten die Dateigröße aktualisiert, falls diese noch nicht automatisch eingetragen wurde.
