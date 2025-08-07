@@ -1,18 +1,18 @@
 ## Scanordner
 
-Der Scanordner wird für einen oder mehrere Mitarbeiter festgelegt. Dieser kann mit einem Namen und einer Anmerkung versehen werden. Weiters wird der Speicherpfad des Laufwerkes gewählt, wo die Belege abgespeichert werden.
+Der Scanordner kann für einen oder mehrere Mitarbeiter festgelegt werden. Beim Einstellen des Scanordners wird ein Name vergeben, weiters kann man noch eine Anmerkung angeben und als wichtigste Eingabe ist der Ordnerpfad, in welchem die Belege abgespeichert worden sind.
 
 ![Scanordner](<img/image10.png>){width="1000"}
 
 - **Name:**  
-Sie können hier einen Namen für jeden Scanordner vergeben,
+Es kann ein Name für jeden Scanordner vergeben werden,
 der dann im Bereich *Belege hinzufügen / Belege Scanordner*
 angezeigt wird.
 
 
 - **Ordner für Mitarbeiter:**  
-  Scanordner können Sie einem
-  oder mehreren Mitarbeitern zuordnen, somit sieht nur der ausgewählte Mitarbeiter seinen hinterlegten öffentlichen (kanzleiweiten) Scanordner.
+  Scanordner können einem
+  oder mehreren Mitarbeitern zugeordnet werden, danach sehen nur die ausgewählten Mitarbeiter diesen (kanzleiweiten) Scanordner.
 
 - **Anmerkung:**  
 Notiz zu diesem Scanordner.
@@ -37,9 +37,9 @@ Diese Option steht nur dann zur Verfügung, wenn in den Einstellungen zur
 - **Belege für schnelleren Zugriff lokal kopieren:**  
 Bei Aktivierung
     dieser Option werden die Belege für die Bearbeitung lokal
-    zwischengespeichert und die Zugriffe auf den Scan-Ordner auf ein
+    zwischengespeichert und die Zugriffe auf den Scanordner auf ein
     Minimum reduziert. Diese Einstellung ist bei einer langsamen oder
-    instabilen Verbindung zum Scan-Ordner zu empfehlen.
+    instabilen Verbindung zum Scanordner zu empfehlen.
 - **Belege automatisch zuordnen:**  
 Im gewählten Scanordner kann der Klient sowie der Belegkreis vordefiniert werden.
 
