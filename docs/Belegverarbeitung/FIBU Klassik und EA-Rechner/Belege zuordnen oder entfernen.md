@@ -1,10 +1,10 @@
 ## Belege aufrufen
 
-Über den Kontenaufruf (*Aufruf / Konten*) kann Beleg über eine Buchung aufgerufen werden. Falls an einer Buchung ein Beleg angefügt ist, wird in der ersten Spalte ein Belegsymbol angezeigt. Falls vor dem Datum keine weitere Spalte ersichtlich ist, kann diese mit der rechten Maustaste in der Überschriftenspalte mit **Aus/Einblenden** eingeblendet werden.
+Über den Kontenaufruf (*Aufruf / Konten*) kann ein Beleg über eine Buchung aufgerufen werden. Falls an einer Buchung ein Beleg angefügt ist, wird in der ersten Spalte ein Belegsymbol angezeigt. Falls vor dem Datum keine weitere Spalte ersichtlich ist, kann diese mit der **rechten Maustaste** in der Überschriftenspalte mit **Aus/Einblenden** eingeblendet werden.
 
 ![Beleg einblenden](<img/image16.png>)
 
-Aufgerufen kann der Beleg dann mittels Doppelklick auf das Symbol, der F7-Taste auf der Buchung, mit der rechten Maustaste *Aufruf DMS-Beleg* oder über den Detailaufruf der Buchung im Register DMS.
+Aufgerufen kann der Beleg dann mittels **Doppelklick** auf das Symbol, der **F7-Taste** auf der Buchung, mit der rechten Maustaste **Aufruf DMS-Beleg** oder über den Detailaufruf der Buchung im Register DMS.
 
 ## Beleg nachträglich zuordnen
 
@@ -24,7 +24,7 @@ Dann öffnet sich die Liste und es kann der gewünschte Beleg gewählt werden. Z
 
 ## Beleg nachträglich entfernen
 
-Belege können nachträglich über den Kontenaufruf gelöscht werden. Dabei muss man in die Detailansicht der Buchung, diese Ansicht kann mit der rechten *Maustaste / Aufruf Detail* oder *Umschalt+F2* aufgerufen werden. Es öffnet sich dann das Detailfenster der Buchung, bei welcher es drei Register gibt. Zur Entfernung eines Beleges muss in das **DMS**-Register gewechselt werden.
+Belege können nachträglich über den Kontenaufruf gelöscht werden. Dabei muss man in die Detailansicht der Buchung, diese Ansicht kann mit der rechten *Maustaste / Aufruf Detail* oder **Umschalt+F2** aufgerufen werden. Es öffnet sich dann das Detailfenster der Buchung, bei welcher es drei Register gibt. Zur Entfernung eines Beleges muss in das **DMS**-Register gewechselt werden.
 
 Mit der Funktion **Belegzuordnung entfernen + ungebucht markieren** (der Beleg wird in die Liste der ungebuchten Belege verschoben) oder **Belegzuordnung entfernen (als ungebucht markiert belassen)** (bleibt in der Liste der gebuchten Belege) kann der Beleg entfernt werden.
 
