@@ -1,7 +1,5 @@
-## Belege buchen
-
 Im Register **Erfassen** kann im Menüpunkt **Belege**, die Belegverbuchung gestartet werden.
-Es öffnet sich dann die Liste der ungebuchten Belege. Bei den Belegoptionen kann dann der **Belegkreis** und das Abw. **USt-Monat** ausgewählt werden.
+Es öffnet sich dann die Liste der ungebuchten Belege. Bei den Belegoptionen kann dann der **Belegkreis** und das **Abw. USt-Monat** ausgewählt werden.
 Diese Funktionen bieten die Möglichkeit, die gewünschten Belege genauer einzuschrenken, da sonst alle ungebuchten Belege des gewählten Jahres angezeigt werden.
 
 Die Belege können dann mittles dem Kästchen ausgewählt werden und mit einem neuen Stapel gebucht oder zu einem bereitsbestehenden Stapel hinzugefügt werden. Diese Option findet man in der Menüleiste.
@@ -13,6 +11,6 @@ Nachdem die Belege in den Stapel geführt wurden, werden die Buchungen anhand de
 Das Buchen mit Belegen verhält sich sehr ähnlich zur Verarbeitung von Retourdaten. Es können keine weiteren Buchungen eingeben werden, wenn es keinen Beleg dazu gibt.
 
 !!! info "Tipp"
-    Es kann auch im normalen Buchen mit Belegen gearbeitet werden, dabei muss nur die **Belegliste** aktiviert werden. Diese befindet sich in der Menüleiste bei den Buchungsoptionen. Hierbei kann dann ein Buchungsvorschlag generiert oder manuell eingegeben werden.
+    Es kann auch im normalen Buchen mit Belegen gearbeitet werden, dabei muss nur die **Belegliste** aktiviert werden. Diese befindet sich in der Menüleiste bei den **Buchungsoptionen**. Hierbei kann dann ein Buchungsvorschlag generiert oder manuell eingegeben werden.
 
 
