@@ -2,8 +2,7 @@
 
 ## Nachrichten an Dienstnehmer übermitteln.
 
-Die direkte Nachrichtenübermittlung an einzelne Dienstnehmer über das RZL Klientenportal finden Sie im Kapitel 3.3.3, Seite
-[39](#nachrichten-an-einen-dienstnehmer-übermitteln).
+Die direkte Nachrichtenübermittlung an einzelne Dienstnehmer über das RZL Klientenportal finden [hier](../Informationsaustausch/Nachrichten/NachrichtausKliport.md#nachrichten-an-einen-dienstnehmer-übermitteln).
 
 ## Bereitstellen der Abrechnung
 

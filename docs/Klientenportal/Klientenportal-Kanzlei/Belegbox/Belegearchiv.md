@@ -38,3 +38,4 @@ Im rechten unteren Bereich haben Sie die Möglichkeit, die ausgewählten Belege 
 Belege können über die Funktion *ausgewählte Belege herunterladen* exportiert werden. Wenn Sie mehrere Belege ausgewählt haben, wird Ihnen ein ZIP-Ordner, der die Belege beinhaltet, erstellt.
 
 Sie haben weiters die Möglichkeit, die Belegbox als Darstellung sämtlicher Belege in Tabellenform im PDF- oder Excel Format (Schaltfläche *Export PDF* / *Export Excel*) zu exportieren. Ist ein Filter aktiviert, werden nur die angezeigten Daten exportiert.
+

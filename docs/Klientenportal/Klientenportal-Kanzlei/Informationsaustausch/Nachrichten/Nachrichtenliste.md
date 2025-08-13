@@ -11,7 +11,7 @@ Durch Anklicken des \> Symbols in der ersten Spalte öffnet sich die Detailansic
 
 ### Tabelleneinstellungen 
 
-Vgl. Kapitel [Allgemeine Listenfunktionen](/Klientenportal/Klientenportal-Kanzlei/Informationsaustausch/Listenfunktion/)
+Vgl. Kapitel [Allgemeine Listenfunktionen](../Listenfunktion.md)
 
 **Verlauf der Nachricht / Antwort aufrufen**
 

@@ -80,7 +80,7 @@ Das Logo sollte maximal 500 Pixel breit und 500 Pixel hoch sowie 1024kB groß se
 
 ![](img/image38.png)
 
-Wenn Sie auf Ihrer Kanzlei-Homepage ein Login zum RZL Klientenportal eingerichtet haben, können Sie hier durch Eintragung der Adresse Ihrer Homepage bewirken, dass der Klient nach dem Ausstieg aus dem RZL Klientenportal zurück auf Ihre Login-Seite fällt (Kapitel 1.3, Seite [7](#login-formular-auf-ihre-kanzlei-homepage)).
+Wenn Sie auf Ihrer Kanzlei-Homepage ein Login zum RZL Klientenportal eingerichtet haben, können Sie hier durch Eintragung der Adresse Ihrer Homepage bewirken, dass der Klient nach dem Ausstieg aus dem RZL Klientenportal zurück auf Ihre Login-Seite fällt.  [siehe Login Formular auf Ihrer Kanzlei-Homepage](../Einrichtung/Login-Formular.md)
 
 
 !!! warning "Hinweis"

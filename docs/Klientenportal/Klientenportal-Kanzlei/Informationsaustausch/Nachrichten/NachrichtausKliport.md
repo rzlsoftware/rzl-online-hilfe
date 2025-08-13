@@ -9,7 +9,7 @@ Im Programmteil *Informationsaustausch / Nachricht an einen Klienten übermittel
 
 ### Dokumentbereich
 
-Wählen Sie den benötigten Dokumentbereich im Drop-Down Menü an. Nur Klientenbenutzer, die in den Stammdaten diesem Dokumentbereich zugeordnet sind, können diese Nachricht lesen (Kapitel 2.2.4, Seite [16](#benutzerdaten-und-berechtigungen)).
+Wählen Sie den benötigten Dokumentbereich im Drop-Down Menü an. Nur Klientenbenutzer, die in den Stammdaten diesem Dokumentbereich zugeordnet sind, können diese Nachricht lesen. [siehe Klientenbenutzer](../../Stammdaten/KlientStammdaten/Klientenbenutzer.md)
 
 ### Gültig Bis 
 
@@ -32,7 +32,7 @@ Wählen Sie über die Schaltfläche *Durchsuchen* das gewünschte Dokument aus.
 
 Mit der Schaltfläche *Nachricht* *senden* wird die Nachricht an den Klienten übermittelt. Der Klient erhält bei korrekter Einstellung in den Benutzerstammdaten eine automatische E-Mail Benachrichtigung über den Nachrichteneingang. Nach dem Einstieg ins Klientenportal ist die Benachrichtigung auch im Protokoll ersichtlich.
 
-Die versendeten Nachrichten können jederzeit über *Informationsaustausch / Nachrichtenlisten / Gesendete Nachrichten* eingesehen werden (Kapitel 3.3.6, Seite [39](#gesendete-nachrichten)).
+Die versendeten Nachrichten können jederzeit über *Informationsaustausch / Nachrichtenlisten / Gesendete Nachrichten* eingesehen werden. [siehe Nachrichtenliste](./Nachrichtenliste.md)
 
 ### Fußzeile 
 
@@ -42,7 +42,7 @@ Im Benutzerprofil kann eine Fußzeile hinterlegt werden, die beim Versand von Na
 
 Als Kanzleisachbearbeiter können Sie im Programmteil *Informationsaustausch / Nachricht an alle Klienten übermitteln* Mitteilungen an alle Klienten im Klientenportal zustellen:
 
-Auch hier kann die Gültigkeitsdauer der Nachricht eingeschränkt werden. Nach der Eingabe eines Betreffes und der Nachricht ist es zudem möglich, ein Dokument hochzuladen (vgl. Kapitel 3.3.1, Seite [37](#nachrichten-an-einen-klienten-übermitteln)). Mit *Nachricht senden* wird die Nachricht an alle aktiven Klienten am Klientenportal übermittelt.
+Auch hier kann die Gültigkeitsdauer der Nachricht eingeschränkt werden. Nach der Eingabe eines Betreffes und der Nachricht ist es zudem möglich, ein Dokument hochzuladen. Mit *Nachricht senden* wird die Nachricht an alle aktiven Klienten am Klientenportal übermittelt.
 
 ## Nachrichten an einen Dienstnehmer übermitteln
 

@@ -5,4 +5,4 @@ Ein im RZL PDF-Manager-Premium erstelltes Dokument kann in der Dokumentenansicht
 
 ![](img/image49.png)
 
-Eine detaillierte Beschreibung des Programmteils finden Sie im Handbuch [RZL PDF-Manager Premium](/PDFManager).
+Eine detaillierte Beschreibung des Programmteils finden Sie im Handbuch [RZL PDF-Manager Premium](../../../../PDFManager/index.md).

@@ -11,7 +11,7 @@ Anschließend vergeben Sie das Passwort für den Einstieg des Benutzers ins RZL 
 Feld *Benutzer muss Passwort ändern* aktiviert, muss der Benutzer beim erstmaligen Einstieg in das RZL Klientenportal das Passwort zwingend abändern. Wird das Feld nicht aktiviert, bleibt das hier eingetragene Passwort bestehen.
 
 Die E-Mail- Adresse kann benutzerbezogen eingetragen werden. Auf diese E-Mail- Adresse werden Nachrichten gesendet, wenn im Kanzleibereich Dokumente für den Klienten hochgeladen werden. Der Benutzer erhält nur dann ein E-Mail, wenn die Berechtigung *E-Mail Benachrichtigung aktivieren* in den Stammdaten unter *Stammdaten / Portal / E-Mail
-Einstellungen* aktiviert ist (Kapitel 2.4.2, Seite [23](#e-mail-einstellungen)).
+Einstellungen* aktiviert ist. [siehe E-Mail Einstellungen](../StammdatenPortal.md#e-mail-einstellungen)
 
 Wenn Sie bei einem Klientenbenutzer das Feld *Inaktiv* aktivieren, kann der Benutzer nicht mehr in das RZL Klientenportal einsteigen und ist somit gesperrt.
 
@@ -23,7 +23,7 @@ Wird bei der Anlage des Benutzers dieses Feld aktiviert, kann dieser Benutzer im
 
 ### Dienstnehmerverwaltung
 
-Sie können die Klientenportal Dienstnehmer-Stammdaten im Kanzleibereich des Portals im Programmteil *Stammdaten / Klienten / Dienstnehmer* bearbeiten bzw. löschen (Kapitel 6.2, Seite [66](#stammdaten-dienstnehmer-im-rzl-klientenportal)). Wenn Sie das Feld *Dienstnehmerverwaltung* aktivieren, kann der Klientenbenutzer die Klientenportal Dienstnehmer-Stammdaten ebenfalls bearbeiten.
+Sie können die Klientenportal Dienstnehmer-Stammdaten im Kanzleibereich des Portals im Programmteil *Stammdaten / Klienten / Dienstnehmer* bearbeiten bzw. löschen. [siehe Stammdaten Dienstnehmer im RZL Klientenportal](../../Dienstnehmerbereich/Einrichtung.md#stammdaten-dienstnehmer-im-rzl-klientenportal) Wenn Sie das Feld *Dienstnehmerverwaltung* aktivieren, kann der Klientenbenutzer die Klientenportal Dienstnehmer-Stammdaten ebenfalls bearbeiten.
 
 Wenn Sie die Info-Schaltfläche rechts neben der ausgewählten Option drücken, erhalten Sie eine detaillierte Beschreibung der Möglichkeiten innerhalb der Dienstnehmerverwaltung.
 
@@ -45,14 +45,13 @@ kann.
 
 *Lohn Vorerfassung*
 
-Die Berechtigung Lohn Vorerfassung ermöglicht Dienstnehmerdaten zu erfassen und in den Kanzleibereich zu laden (Kapitel 4, Seite [45](#lohnverrechnung-2)).
+Die Berechtigung Lohn Vorerfassung ermöglicht Dienstnehmerdaten zu erfassen und in den Kanzleibereich zu laden. [siehe Lohnverrechnung](../../Lohnverrechnung/index.md)
 
-Sie können hier für die Lohn Vorerfassung festlegen, welche Eingabemaske für den Benutzer zur Verfügung gestellt wird. Sie können diese Eingabemasken bearbeiten bzw. auch neue Masken definieren (Kapitel 4.2, Seite [45](#eingabemasken-für-klienten-konfigurieren)).
+Sie können hier für die Lohn Vorerfassung festlegen, welche Eingabemaske für den Benutzer zur Verfügung gestellt wird. Sie können diese Eingabemasken bearbeiten bzw. auch neue Masken definieren. [siehe Eingabemaske für Klient konfigurieren](../../Lohnverrechnung/Lohnvorerfassung/Eingabemaske.md)
 
 *Lohn Vorerfassung in Tabellenform*
 
-Die Berechtigung *Lohn Vorerfassung in Tabellenform* ermöglicht die Erfassung von bestimmten Lohnarten (Fixe und freie Lohnarten, Über- und Mehrstunden, Abzüge, Lohnsteuertage) in Tabellenform. Die Dienstnehmer werden in den Zeilen dargestellt. Für diese Form der Erfassung müssen eigene Eingabemasken je Klient eingerichtet werden (Kap. 4.2.2, Seite
-[47](#eingabemasken-für-die-tabellenerfassung-laufende-änderungen)).
+Die Berechtigung *Lohn Vorerfassung in Tabellenform* ermöglicht die Erfassung von bestimmten Lohnarten (Fixe und freie Lohnarten, Über- und Mehrstunden, Abzüge, Lohnsteuertage) in Tabellenform. Die Dienstnehmer werden in den Zeilen dargestellt. Für diese Form der Erfassung müssen eigene Eingabemasken je Klient eingerichtet werden. [siehe Eingabemaske für Tabellenferfassung](../../Lohnverrechnung/Lohnvorerfassung/Eingabemaske.md#eingabemasken-fur-die-tabellenerfassung-laufende-anderungen) 
 
 *Mindestangaben Anmeldung / Versichertenmeldung reduziert*
 
@@ -66,14 +65,14 @@ Aus der RZL FIBU bzw. EA-Rechnung können Auswertungen (Saldenliste, Konten, Jou
 
 *Fibu /EA-Rechnung Auswertungen Schnittstelle*
 
-Mit dieser Berechtigung kann der Benutzer die Salden der Konten und das Journal pro Wirtschaftsjahr in einem Fremdprogramm über die API-Schnittstelle abfragen. Die Swagger-Dokumentation finden Sie, wenn sie im unten angeführten Link die Anwendernummer der Steuerberatungskanzlei bei RZL Software eintragen. Die Dokumentation
-enthält alle verfügbaren Methoden, die in der Schnittstelle aufgerufen werden können.
-
-[https://klientenportal.at/\<AnwenderNr\>/api/swagger/fibuausw](https://klientenportal.at/%3cAnwenderNr%3e/api/swagger/fibuausw)/
+Mit dieser Berechtigung kann der Benutzer die Salden der Konten und das Journal pro Wirtschaftsjahr in einem Fremdprogramm über die API-Schnittstelle abfragen. Die Swagger-Dokumentation finden Sie, wenn sie im unten angeführten Link die Anwendernummer der Steuerberatungskanzlei bei RZL Software eintragen (und die Pfeile weglöschen). Die Dokumentation enthält alle verfügbaren Methoden, die in der Schnittstelle aufgerufen werden können.
+```
+https://klientenportal.at/<AnwenderNr>/api/swagger/fibuausw
+```
 
 *Fibu /EA-Rechnung Vorerfassung*
 
-Wenn Sie dieses Feld aktivieren, können im Klientenbereich des RZL Klientenportals die Bewegungen der Kassa/Bankbücher vorerfasst werden. Diese Einnahmen-Ausgaben werden vom Benutzer erfasst und freigegeben. Anschließend kann eine Übernahme in die Finanzbuchhaltung oder EA-Rechnung erfolgen).
+Wenn Sie dieses Feld aktivieren, können im Klientenbereich des RZL Klientenportals die Bewegungen der Kassa/Bankbücher vorerfasst werden. Diese Einnahmen-Ausgaben werden vom Benutzer erfasst und freigegeben. Anschließend kann eine Übernahme in die Finanzbuchhaltung oder EA-Rechnung erfolgen.
 
 ### Belegbox 
 

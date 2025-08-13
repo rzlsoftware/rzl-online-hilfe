@@ -1,6 +1,6 @@
 nav:
-    - KlientStammdaten
-    - KanzleiStammdaten
+    - Klienten: KlientStammdaten
+    - Kanzlei: KanzleiStammdaten
     - StammdatenPortal.md
     - StammdatenProfil.md
     - ...

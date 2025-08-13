@@ -29,11 +29,11 @@ Unter *Informationsaustausch / Informationen an alle Klienten übermitteln* kön
 
 ![](img/image46.png)
 
-Die Vorgehensweise entspricht der Versendung von Dokumenten an einen Klienten (Kapitel 3.2.1, Seite [31](#dokumente-für-einzelne-klienten-bereitstellen)).
+Die Vorgehensweise entspricht der Versendung von Dokumenten an einen Klienten. 
 
 ## Dokumente an einen Dienstnehmer übermitteln
 
-Die notwendigen Schritte zur Anlage der Dienstnehmer für das Bereitstellen der Daten werden im Kapitel 6, Seite [65](#dienstnehmerbereich) beschrieben.
+Die notwendigen Schritte zur Anlage der Dienstnehmer für das Bereitstellen der Daten werden [hier](../../Dienstnehmerbereich/Einrichtung.md) beschrieben.
 
 Zur Übermittlung von Dokumenten wählen Sie den Menüpunkt *Informationsaustausch / Dokumente an einen Dienstnehmer übermitteln* aus.
 

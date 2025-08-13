@@ -2,7 +2,7 @@
 
 Im Klientenbereich des Portals können die Benutzer Daten für die Lohnverrechnung vorerfassen und der Lohnverrechnung zur Verfügung stellen. Die Felder (Lohnarten, Überstunden, Homeoffice-Tage, usw.) werden im Kanzleibereich festgelegt.
 
-## Eingabemasken (Vorerfassungen gesamt)
+## Eingabemasken Vorerfassungen gesamt
 
 Die in diesem Kapitel beschriebenen Eingabemasken werden für die Vorerfassungen *laufende Änderungen*, *Eintritte* und *Austritte* verwendet. Die Eingabemasken können bei mehreren Benutzern gleichzeitig verwendet werden. Sie können die passende Eingabemaske in den Stammdaten des Klienten (*Stammdaten / Klienten*) pro Benutzer zuordnen.
 
@@ -55,9 +55,9 @@ Einzelne Datenfelder können als *Pflichtfelder* (**6**) oder als *Nur lesbar* (
 
 ### Zuteilung der Eingabemasken zu den Klientenbenutzern 
 
-Die gewünschten Eingabemasken werden in den Klientenstammdaten in den Berechtigungen der Benutzer mit der Option *Lohn Vorerfassung* zugeteilt (Kapitel 2.2.4, Seite [16](#benutzerdaten-und-berechtigungen)).
+Die gewünschten Eingabemasken werden in den Klientenstammdaten in den Berechtigungen der Benutzer mit der Option *Lohn Vorerfassung* zugeteilt. [siehe Klientenbenutzer](../../Stammdaten/KlientStammdaten/Klientenbenutzer.md)
 
-## Eingabemasken für die Tabellenerfassung (laufende Änderungen)
+## Eingabemasken für die Tabellenerfassung laufende Änderungen
 
 Im Klientenbereich besteht die Möglichkeit laufende Änderungen nur für bestimmte Lohnarten (Fixe Lohnarten, freie Lohnarten, Über- und Mehrstunden, Abzüge, Lohnsteuertage) in Tabellenform zu erfassen.
 

@@ -32,15 +32,16 @@ Der Name des Klienten wird aus dem RZL Board bzw. der ZMV übernommen und kann i
 
 #### Vorlage für Buchungsregeln
 
-Für die Buchungsvorerfassung können Buchungsregeln angelegt werden. Sie können Buchungsregeln auch in einer allgemeinen Vorlage speichern, die bei mehreren Klienten verankert werden kann. Die Zuordnung erfolgt in den Klientenstammdaten durch Anwahl der benötigten Vorlage (Kapitel 5.6, Seite [57](#anlage-von-buchungsregeln)).
+Für die Buchungsvorerfassung können Buchungsregeln angelegt werden. Sie können Buchungsregeln auch in einer allgemeinen Vorlage speichern, die bei mehreren Klienten verankert werden kann. Die Zuordnung erfolgt in den Klientenstammdaten durch Anwahl der benötigten Vorlage. [siehe Buchungsregeln](../../Finanzbuchhaltung/FibuVorerfassung/Buchungsregeln.md)
+
 
 #### Kontierung für Buchungsvorerfassung erlauben
 
-Wenn Sie dieses Feld aktivieren, kann Ihr Klient im Rahmen der Vorerfassung Kontonummern eintragen. Wird dieses Feld nicht aktiviert, kann der Klient nur Ausgaben und Einnahmen erfassen und die Vorkontierung kann nur mehr über Buchungstexte erfolgen (Kapitel 5.6, Seite [57](#anlage-von-buchungsregeln)).
+Wenn Sie dieses Feld aktivieren, kann Ihr Klient im Rahmen der Vorerfassung Kontonummern eintragen. Wird dieses Feld nicht aktiviert, kann der Klient nur Ausgaben und Einnahmen erfassen und die Vorkontierung kann nur mehr über Buchungstexte erfolgen. [siehe Buchungsregeln](../../Finanzbuchhaltung/FibuVorerfassung/Buchungsregeln.md)
 
 #### Kostenstelle/Kostenträger bei Buchungsvorerfassung erfassen
 
-Wenn Sie diese Option aktivieren, kann der Klient bei der Vorerfassung der Buchungszeilen auch Kostenstellen und Kostenträger miterfassen (Kapitel 5.4, Seite [56](#vorerfassung-kostenstellen)).
+Wenn Sie diese Option aktivieren, kann der Klient bei der Vorerfassung der Buchungszeilen auch Kostenstellen und Kostenträger miterfassen. [siehe Stammdaten Kostenrechnung](../../Finanzbuchhaltung/FibuVorerfassung/VorerfassungKST.md)
 
 #### Anbindung an Registrierkassensystem
 
@@ -51,7 +52,6 @@ Im Bereich *Anbindung an Registrierkassen* können Sie den Eintrag *Kassandro* a
 Wenn der Klient nach vereinnahmten Entgelten (Ist-Versteuerung) gebucht wird, ist dieses Feld zu aktivieren. Diese Einstellung wird -- wenn zutreffend -- für die Buchungsvorerfassung benötigt.
 
 ## Lohnvorerfassung
-
 
 ![](img/image17.png)
 
@@ -78,7 +78,7 @@ Bei der Erfassung von Lohnarten nach Einheiten wird die bereits einmal erfasste 
 
 Wenn Sie dieses Feld deaktivieren, werden keine Daten aus der Lohnverrechnung des Klienten auf das Klienten-Portal hochgeladen.
 
-Dieses Feld sollte nur dann deaktiviert werden, wenn Sie lediglich die Abrechnungen der Dienstnehmer ins Klienten-Portal hochladen wollen (Kapitel 6, Seite [65](#dienstnehmerbereich)).
+Dieses Feld sollte nur dann deaktiviert werden, wenn Sie lediglich die Abrechnungen der Dienstnehmer ins Klienten-Portal hochladen wollen. [siehe Dienstnehmerbereich](../../Dienstnehmerbereich/index.md)
 
 #### Korrektur der letzten Abrechnung erlauben
 
@@ -118,7 +118,8 @@ Wenn Sie diese Einstellung treffen, so können die Benutzer des ausgewählten Kl
 
 Aktivieren Sie dieses Feld, damit der Klient die Übertragung der Meldungen an ELDA mit seiner eigenen ELDA-Lizensierung durchführen kann. Die Absender-Stammdaten werden vom Programm ausgefüllt. Sie müssen anschließend die Verarbeitungsnummer der GKK (DVR-Nummer), die ELDA Seriennummer und das ELDA Passwort (Kundenpasswort) für die ELDA-Übertragung eintragen.
 
-Wenn Sie dieses Feld nicht aktivieren, wird die Übertragung mit der ELDA-Lizenz des Wirtschaftstreuhänders durchgeführt (Kapitel 2.1, Seite [9](#stammdaten-der-kanzlei)).
+Wenn Sie dieses Feld nicht aktivieren, wird die Übertragung mit der ELDA-Lizenz des Wirtschaftstreuhänders durchgeführt. [siehe Stammdaten der Kanzlei](../KanzleiStammdaten/StammdatenKanzlei.md)
+
 
 ## Email Einstellungen
 
