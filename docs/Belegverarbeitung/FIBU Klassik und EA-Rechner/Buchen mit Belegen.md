@@ -1,6 +1,6 @@
 ## Allgemein
 
-Es gibt zwei verschiedene Möglichkeiten, digitale Belege in der FIBU Klassik oder im EA-Rechner zu buchen.
+Es gibt zwei verschiedene Möglichkeiten digitale Belege in der FIBU Klassik oder im EA-Rechner zu verbuchen.
 Der zuerst erfolgende Schritt startet in der Belegaufbereitung, nach diesem müssen die Belege zu den ungebuchten Belegen verschoben werden. Ab diesem Zeitpunkt können die Belege in den jeweiligen Programmen verbucht werden.
 
 ## Hilfsmittel zur Belegsverbuchung
@@ -80,9 +80,9 @@ Wird somit bei der Belegdatenerkennung der **Typ** Produktgruppe und **Wert A** 
 
 ### Aktualisierungsoptionen für Personenkonten
 
-Es gibt noch eine sehr empfehlenswerte Einstellung, die in der FIBU Klassik vor der Verbuchung mit digitalen Belegen aktiviert werden kann. Mittles dieser können Sie ausgelesene UID-Nummern oder Kundennummern auf den Belegen automatisch in den Stammdaten der Kreditoren bzw. Debitoren einfügen lassen. Damit ersparen Sie sich die manuell Hinterlegung.
+Es gibt noch eine sehr empfehlenswerte Einstellung, die in der FIBU Klassik vor der Verbuchung mit digitalen Belegen aktiviert werden kann. Mittles dieser können Sie ausgelesene UID-Nummern oder Kundennummern auf den Belegen automatisch in den Stammdaten der Kreditoren bzw. Debitoren einfügen lassen. Damit ersparen Sie sich die manuelle Hinterlegung.
 
-Öffnen Sie hierzu den Menüpunkt *Stamm / Konten/ Aktualisierungsoptionen*. Hier können Sie im Bereich nach DMS-Buchung aktivieren, dass nach dem Buchen von digitalen Belegen die Daten (IBAN, Kundennummer, UID) vom Beleg in die Kontenstammdaten übernommen werden.
+Öffnen Sie hierzu den Menüpunkt *Stamm / Konten / Aktualisierungsoptionen*. Hier können Sie im Bereich nach DMS-Buchung aktivieren, dass nach dem Buchen von digitalen Belegen die Daten (IBAN, Kundennummer, UID) vom Beleg in die Kontenstammdaten übernommen werden.
 
 ![Aktualisierungsoptionen](<img/image3.png>)
 
@@ -90,17 +90,17 @@ Es gibt noch eine sehr empfehlenswerte Einstellung, die in der FIBU Klassik vor 
 
 Für die Verbuchung der digitalen Belege in der normalen Verbuchung, muss im Vorbuchungsdialog einiges eingestellt werden.
 
-- Bei der Auswahl **Monat/Jahr** muss das gewünschte Buchungsmonat ausgewählt werden. Zu beachten ist hier, es werden nur ungebuchte Belege beim Buchen angezeigt, bei welchen das Monat und das Jahr übereinstimmt. Wenn im Monat **00** ausgewählt wird, werden alle ungebuchten Belege mit diesem Jahr angezeigt.
+- Bei der Auswahl **Monat/Jahr** muss das gewünschte Buchungsmonat ausgewählt werden. Zu beachten ist hier, es werden nur ungebuchte Belege beim Buchen angezeigt, bei welchen das Monat und das Jahr übereinstimmt. Wenn im Monat **00** ausgewählt wird, werden alle ungebuchten Belege in diesem Jahr angezeigt.
 - Bei der Auswahl des **Belegkreises** muss der Belegkreis der digitalen Belege gewählt werden. Wenn Belege nicht mit dem gewählten Belegkreis übereinstimmen, werden diese nicht angezeigt. Falls kein Belegkreis gewählt wird, werden alle Belege zur Verbuchung ersichtlich sein.
-- Damit die Verbuchung von Belegen möglich ist, muss das Häkchen **DMS-Belege** aktiviert sein, hier wird das Häkchen **automatisch** auch empfohlen. Es kann dann auch noch gewählt werden, dass die Fremdbelegnummer manuell eingegeben werden kann, sowie das die Belegnummer als OP-Nummer vorgeschlagen wird.
+- Damit die Verbuchung von Belegen möglich ist, muss das Häkchen **DMS-Belege** aktiviert werden, hier wird das Häkchen **automatisch** auch empfohlen. Es kann dann auch gewählt werden, dass die Fremdbelegnummer manuell eingegeben werden kann, sowie das die Belegnummer als OP-Nummer vorgeschlagen wird.
 - Falls die **Eingabe des Valuta-Datums** ausgewählt wird, kann hier noch das Häkchen **Belegeingangsdatum als Valutadatum verwenden** gesetzt werden.
 
 ![Vorbuchungsdialog](<img/image1.png>)
 
-Nachdem die Optionen getroffen wurden und das Häkchen **DMS-Belege** aktiviert wurde, kann die Verbuchung gestartet werden.
-Es öffnet sich im Anschluss der Buchungsdialog, sowie ein Fenster für die ungebuchten Belege.
+Nachdem die Optionen getroffen und das Häkchen **DMS-Belege** aktiviert wurde, kann die Verbuchung gestartet werden.
+Im Anschluss öffnet sich der Buchungsdialog, sowie ein Fenster für die ungebuchten Belege.
 
-Mittels der **rechten Maustaste** in das Datumsfeld oder wenn das Datumsfeld ausgewählt ist, der **F6-Taste** kann ein DMS-Vorschlag aktiviert werden. Den DMS-Vorschlag kann man mittles der **Umschalt+F8-Taste** wieder beenden.
+Mittels der **rechten Maustaste** oder der **F6-Taste** im Datumsfeld, kann der DMS-Vorschlag aktiviert werden. Den DMS-Vorschlag kann man mittles der **Umschalt+F8-Taste** wieder beenden.
 
 ![DMS-Vorschlag](<img/image2.png>)
 
@@ -141,8 +141,8 @@ Beim Einsteigen in die Verarbeitung von Retourdaten muss nach Auswahl der Auszü
 ![Häkchen zuordnen](<img/image20.png>)
 
 
-Die **DMS-Verbuchung** kann dann mit der **rechten Maustaste / DMS-Verbindun starten** auf die Buchung oder mit der **Umschalt+F9** Funktion gestartet werden. Aufgehoben kann sie mittels der **rechten Maustaste / DMS-Verbindung aufheben** order mit der **Umschalt+F9** werden.
-Der Beleg kann dann, nachdem die **DMS-Verbindung** gestartet wurde, hinzugefügt werden. Dabei muss der Beleg in der Belegliste ausgewählt werden und dann kann per **DMS-Beleg zuordnen** dieser an die Buchung gehängt werden.
+Die **DMS-Verbuchung** kann dann mit der **rechten Maustaste / DMS-Verbindung starten** auf die Buchung oder mit der **Umschalt+F9** Funktion gestartet werden. Aufgehoben kann sie mittels der **rechten Maustaste / DMS-Verbindung aufheben** oder mit der **Umschalt+F9** werden.
+Der Beleg kann dann, nachdem die **DMS-Verbindung** gestartet wurde, hinzugefügt werden. Dabei muss der Beleg in der Belegliste ausgewählt und dann per **DMS-Beleg zuordnen** an die Buchung angehängt werden.
 
 ![Belege zuordnen](<img/image21.png>)
 
