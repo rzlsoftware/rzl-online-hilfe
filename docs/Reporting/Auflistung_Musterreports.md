@@ -81,6 +81,7 @@
 |            |                                   | VZÄ jährlich auf Stundenbasis Stand 29022024                |
 |            |                                   | VZÄ monatlich auf Std.basis mit Auswahlkrit. Stand 29022024 |
 |            |                                   | VZÄ monatlich auf Stundenbasis Stand 07062023               |
+|            |                                   | VZÄ monatlich auf Std.basis nach SVTagen Stand 04082025     |
 | 251        | RZL Lohnstatistik LSE             | Ausfüllhilfe LSE Personal Stand 10082023                    |
 
 ## Honorarverrechnung
