@@ -5,7 +5,7 @@
 Die Freischaltung der Dienstnehmer erfolgt im RZL Lohnverrechnungsprogramm im Abrechnungsbildschirm *Stammdaten Dienstnehmer*.
 
 
-![](img/image91.png)
+![](img/image91.png){width="600"}
 
 Das Feld *E-Mail Adresse* muss ausgefüllt und die Option *Dienstnehmer am Klientenportal anlegen* (**1**) muss aktiviert werden.
 

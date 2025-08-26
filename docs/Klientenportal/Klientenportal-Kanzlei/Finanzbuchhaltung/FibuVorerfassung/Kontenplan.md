@@ -6,7 +6,7 @@ Bei der Anlage der Kassa/Bankbücher und der Verbuchungsregeln wird im RZL Klien
 
 
 
-![](img/image70.png){width="400"}
+![](img/image70.png){width="600"}
 
 
 ## Bereitstellen des Kontenplans in der Fibu Next

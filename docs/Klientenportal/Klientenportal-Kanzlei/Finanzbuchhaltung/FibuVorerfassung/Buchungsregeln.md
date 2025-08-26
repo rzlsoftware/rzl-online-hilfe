@@ -5,7 +5,7 @@
 
 Im Programmteil *Finanzbuchhaltung / Stammdaten Buchungsregeln* können Buchungsregel für bestimmte Klienten erfasst werden. Ganz oben im Programmteil wird der Klient ausgewählt.
 
-In dieser Ansicht können Sie unterhalb der Klientenauswahl erkennen, ob für diesen Klienten bereits eine allgemeine Vorlage (**1**) für Buchungsregeln verankert wurde. Buchungsregeln-Vorlagen (kanzleiweit) werden im Programmteil *Finanzbuchhaltung / Vorlagen Buchungsregeln (kanzleiweit)* (vgl. Kap.5.6.2 *Vorlagen Buchungsregeln kanzleiweit*) angelegt und werden in den Klientenstammdaten zugeordnet. 
+In dieser Ansicht können Sie unterhalb der Klientenauswahl erkennen, ob für diesen Klienten bereits eine allgemeine Vorlage (**1**) für Buchungsregeln verankert wurde. Buchungsregeln-Vorlagen (kanzleiweit) werden im Programmteil *Finanzbuchhaltung / Vorlagen Buchungsregeln (kanzleiweit)* (vgl. Überschrift *Vorlagen Buchungsregeln (kanzleiweit)*) angelegt und werden in den Klientenstammdaten zugeordnet. 
 
 Im zweiten Bereich kann eine allgemeine Vorlage (**2**), zum Kopieren (**3**) von einzelnen Buchungsregeln, verankert werden.
 
@@ -19,7 +19,7 @@ Das Feld *fix* (**5**) enthält zwingend ein Hackerl, wenn der Steuersatz nicht 
 
 Sie können Buchungsregeln auch aus allgemeinen Vorlagen (**2**) durch Anwahl des plus-Symbols (**3**) in den Klientenbereich kopieren. Die beim Klienten gespeicherten bzw. zugeordneten Buchungsregeln können im **PDF** oder **Excel**-Format (**6**) ausgegeben werden.
 
-Wenn der Benutzer im **Klientenbereich** im Rahmen der Vorerfassung die ersten Buchstaben des (Erfassungs)-Textes einträgt, werden die möglichen Buchungsregeln[]{.indexref entry="Buchungsregeln"} angezeigt (siehe Abbildung 5.14).
+Wenn der Benutzer im **Klientenbereich** im Rahmen der Vorerfassung die ersten Buchstaben des (Erfassungs)-Textes einträgt, werden die möglichen Buchungsregeln angezeigt.
 
 
 ![](img/image81.png)

@@ -25,7 +25,7 @@ In oben abgebildeten Programmteil kann die Klientenstammdaten Synchronisation h�
 
 Prüfen Sie zunächst die Stammdaten der Klienten bezüglich der Freischaltung für das RZL Klientenportal. Sie finden die Markierung *Ausgabe für RZL Klientenportal* im Programmteil *Klient / Stammdaten* im Register\ blatt *Klient.*
 
-![](img/image.png)
+![](img/image.png){width="600"}
 
 Im Programmteil *Export/Klientenliste für RZL Klientenportal* können Sie die Klienten aus der ZMV für die Übernahme in das RZL Klientenportal bereitstellen.
 

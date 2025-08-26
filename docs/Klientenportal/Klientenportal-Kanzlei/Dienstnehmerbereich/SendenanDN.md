@@ -15,7 +15,7 @@ Innerhalb des Lohnverrechnungsprogramms müssen Sie im Programmteil *Ausdruck / 
 
 Nach Anwahl der übrigen gewünschten Optionen wählen Sie die Schaltfläche *RZL PDF-Drucker* an. Die Abrechnungen werden im RZL PDF-Manager Premium geöffnet. Dort können Sie die Abrechnungen über die Schaltfläche *Klientenportal* hochladen.
 
-![](img/image96.png)
+![](img/image96.png){width="600"}
 
 
 Der Dateiname kann manuell oder mittels Platzhalter definiert werden (**1**). 
