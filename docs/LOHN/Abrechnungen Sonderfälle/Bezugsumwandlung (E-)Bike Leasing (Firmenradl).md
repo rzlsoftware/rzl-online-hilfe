@@ -8,12 +8,6 @@ Es ist somit bei einer Gehaltsumwandlung des (E-) Bikes die *Fixe Lohnart Lohn/G
 
 Ein Ausweis am Lohnkonto bzw. am Lohnzettel ist zum derzeitigen Stand nicht notwendig.
 
-Grundlage der Befreiung in der **Sozialversicherung**:
-<https://www.gesundheitskasse.at/cdscontent/?contentid=10007.896256&portal=oegkdgportal>
-
-Grundlage der Befreiung in der **Lohnsteuer**:
-<https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2022_II_504/BGBLA_2022_II_504.html>
-
 ## Möglichkeit 1 des Ausweises auf der Abrechnung (nicht notwendig)
 
 Wenn Sie jedoch trotzdem das (E-) Bike auf der Abrechnung bzw. am Jahreslohnkonto angeführt haben möchten, können Sie eine Lohnart mit Betrag 0,00 anlegen. (Lohnartendefinition ist in diesem Fall egal.)
