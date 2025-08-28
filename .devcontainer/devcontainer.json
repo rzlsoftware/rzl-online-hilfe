@@ -4,6 +4,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
+        "editorconfig.editorconfig",
 				"yzhang.markdown-all-in-one"
 			],
 			"settings": {
