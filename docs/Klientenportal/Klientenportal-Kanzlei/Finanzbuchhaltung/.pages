@@ -1,0 +1,5 @@
+nav:
+    - Allgemein: index.md
+    - Fibu Vorerfassung: FibuVorerfassung
+    - FibuAuswertung.md
+    - ...
