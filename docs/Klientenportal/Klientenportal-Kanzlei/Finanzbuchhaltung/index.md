@@ -1,4 +1,4 @@
-# Finanzbuchahltung
+# Finanzbuchhaltung
 
 ## Fibu Vorerfassung
 

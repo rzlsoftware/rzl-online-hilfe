@@ -1,6 +1,6 @@
 # Belegkreise
 
-In den Stammdaten des Klienten im Board können Sie festlegen welche Belegkreise ihrem Klienten beim Hochladen der Belege zur Verfügung stehen.
+In den Stammdaten des Klienten im Board können Sie festlegen, welche Belegkreise ihrem Klienten beim Hochladen der Belege zur Verfügung stehen.
 
 ![](img/image107.png)
 

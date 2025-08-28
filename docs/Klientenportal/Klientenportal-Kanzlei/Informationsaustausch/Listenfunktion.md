@@ -20,7 +20,7 @@ Am Beginn dieses Kapitels 3 *Informationsaustausch* werden die allgemeinen Liste
 
 ![](img/image42.png){width="300"}
 
-*Ansicht zurücksetzen* macht Änderungen innerhalb der Tabelle > rückgängig.
+*Ansicht zurücksetzen* macht Änderungen innerhalb der Tabelle rückgängig.
 
 *Gruppierungen aufheben* beseitigt bestehende Gruppierungen. 
 
