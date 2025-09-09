@@ -3,7 +3,7 @@
 Neu eingetretene Dienstnehmer oder Dienstnehmer bei einem Start mit der RZL Lohnverrechnung können über den Menüpunkt *Abrechnung / Neuanlage Dienstnehmer* angelegt werden.
 
 !!! warning "Hinweis"
-    [Freie Dienstnehmer](../Freie%20Dienstverträge/Allgemeines.md) müssen über den Menüpunkt *Abrechnungen / Neuanlage Freier Dienstvertrag* angelegt werden.
+    [Freie Dienstnehmer](../Freie_Dienstvertraege/Allgemeines.md) müssen über den Menüpunkt *Abrechnungen / Neuanlage Freier Dienstvertrag* angelegt werden.
 
 !!! info "Tipp"
     Im Programmteil *Bearbeiten / Datenimport / Import Neuanlage* kann ein [Datenimport](../Datenimport/Allgemeines.md) für diese Abrechnungsart durchgeführt werden.
