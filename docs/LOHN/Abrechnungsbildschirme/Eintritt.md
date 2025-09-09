@@ -110,7 +110,7 @@ Wird dieses Auswahlfeld aktiviert, dann kann hier ein abweichender Betrag einget
 
 ## Beschäftigungsbonus
 
-Die hier verwalteten Daten werden für den Ausdruck der Liste der Arbeitsverhältnisse ab dem 01.07.2017 für den Beschäftigungsbonus verwendet. Der Ausdruck kann innerhalb der [Sonderdrucke](../Ausdrucke%20allgemein/Ausdruck%20Sonderdrucke.md) angewählt werden.
+Die hier verwalteten Daten werden für den Ausdruck der Liste der Arbeitsverhältnisse ab dem 01.07.2017 für den Beschäftigungsbonus verwendet. Der Ausdruck kann innerhalb der [Sonderdrucke](../Ausdrucke_allgemein/Ausdruck_Sonderdrucke.md) angewählt werden.
 
 Im Programmteil *Ausdruck / Sonderdrucke …* können Sie auch die Liste mit den Referenzwerten für den Beschäftigungsbonus und die voraussichtliche Zuschusshöhe ausdrucken.
 

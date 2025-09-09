@@ -63,7 +63,7 @@ Im Programmteil *Klient / Kanzlei / Lohn-Kontenpläne* können für die fixen Lo
 
 Im Registerblatt *Tabelle* wird die *Nummer* und die *Bezeichnung* des Kanzlei-Lohnkontenplanes eingetragen und die Anzahl der Belegkreise festgelegt.
 
-Diese Kontonummern werden als Vorkontierung am [Buchungsbeleg](../LOHN/Ausdrucke%20allgemein/Ausdruck%20Journal,%20ÖGK/Buchungsbeleg.md) angedruckt.
+Diese Kontonummern werden als Vorkontierung am [Buchungsbeleg](../LOHN/Ausdrucke_allgemein/Ausdruck_Journal_OEGK/Buchungsbeleg.md) angedruckt.
 
 ![Image](<img/image172.png>){width="500"}
 

@@ -2,7 +2,7 @@
 
 ![Image](<img/image126.png>)
 
-In diesem Eingabebildschirm kann die *Urlaubskartei* des Dienstnehmers geführt werden. Der [Ausdruck der Urlaubskartei](../Ausdrucke%20allgemein/Ausdruck%20Stammdaten.md) ist im *Ausdruckmenü* unter *Stammdaten* möglich. Die Eintragungen in der Urlaubskartei werden auch für die Berechnung der [Urlaubsrückstellung](../Rückstellungen/Urlaubsrückstellung.md) verwendet. Es können wahlweise *Werktage*, *Arbeitstage* oder *Stunden* eingetragen werden.
+In diesem Eingabebildschirm kann die *Urlaubskartei* des Dienstnehmers geführt werden. Der [Ausdruck der Urlaubskartei](../Ausdrucke_allgemein/Ausdruck_Abrechnungen.md) ist im *Ausdruckmenü* unter *Stammdaten* möglich. Die Eintragungen in der Urlaubskartei werden auch für die Berechnung der [Urlaubsrückstellung](../Rückstellungen/Urlaubsrückstellung.md) verwendet. Es können wahlweise *Werktage*, *Arbeitstage* oder *Stunden* eingetragen werden.
 
 ## Allgemeine Daten
 
@@ -46,7 +46,7 @@ Soll die *Urlaubskartei* für den einzelnen Dienstnehmer geführt werden, ist di
 
 Wird das Feld *Sonderurlaub* aktiviert, erfolgt keine Verringerung des Urlaubsanspruches.
 
-Auf den [Abrechnungen der Dienstnehmer](../Ausdrucke%20allgemein/Ausdruck%20Abrechnungen.md) kann die Urlaubskartei wahlweise normal oder im *Detail* gedruckt werden.
+Auf den [Abrechnungen der Dienstnehmer](../Ausdrucke_allgemein/Ausdruck_Abrechnungen.md) kann die Urlaubskartei wahlweise normal oder im *Detail* gedruckt werden.
 
 **In Anspruch genommener Urlaub (Eintragung des verbrauchten Urlaubes)**
 

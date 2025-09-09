@@ -72,7 +72,7 @@ Wird hier das *Beginndatum* eingetragen, befüllt sich automatisch *das Bis-Datu
 
 ## Mutterschutzmeldung gemäß § 3 Abs 6 MSchG
 
-Durch Auswahl des zuständigen *Arbeitsinspektorats* und durch Eingabe des *Arbeitsplatzes / der Tätigkeit* kann im Anschluss an die Abrechnung eine [Mutterschutzmeldung](../Ausdrucke%20allgemein/Ausdruck%20Sonderdrucke.md) erstellt und ausgedruckt werden.
+Durch Auswahl des zuständigen *Arbeitsinspektorats* und durch Eingabe des *Arbeitsplatzes / der Tätigkeit* kann im Anschluss an die Abrechnung eine [Mutterschutzmeldung](../Ausdrucke_allgemein/Ausdruck_Sonderdrucke.md) erstellt und ausgedruckt werden.
 
 ## Truppenübung
 

@@ -48,7 +48,7 @@ Im Feld *Saldo* finden Sie die Anzeige des aktuellen Saldos der Rückstellungsst
 
 ## Zeitausgleich (wird nicht bei Zeitausgleichsrückstellung berücksichtigt)
 
-In diesem Bereich können Aufzeichnungen für die Verwaltung des Zeitausgleiches geführt werden. Der Zeitausgleich kann ebenfalls bewertet werden. Beim [Ausdruck der Abrechnungen](../Ausdrucke%20allgemein/Ausdruck%20Abrechnungen.md) besteht die Möglichkeit, die Zeitausgleichsverwaltung auf der Abrechnung anzudrucken.
+In diesem Bereich können Aufzeichnungen für die Verwaltung des Zeitausgleiches geführt werden. Der Zeitausgleich kann ebenfalls bewertet werden. Beim [Ausdruck der Abrechnungen](../Ausdrucke_allgemein/Ausdruck_Abrechnungen.md) besteht die Möglichkeit, die Zeitausgleichsverwaltung auf der Abrechnung anzudrucken.
 
 Im Feld *Anfangsstand* wird der Anfangsstand des Zeitausgleichs eingetragen. Dieser Anfangsstand kann im Feld *Betrag* bewertet werden. Negative Werte werden durch ein Minus vor der Einheit eingetragen. 
 
