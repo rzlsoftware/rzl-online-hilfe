@@ -22,7 +22,7 @@ Die Eintragung von anrechenbaren Vordienstzeiten kann hier in Monaten eingetrage
 
 **Umstufung Tätigkeitsgruppe** 
 
-Dieser Punkt wurde ursprünglich für den Kollektivvertrag Handel Angestellte geschaffen und kann aber nun auch für alle anderen Kollektivverträge angewendet werden. (Näheres zur Umstufung KV-Handel finden Sie [hier](../Kollektivverträge/Umstellung%20KV-Handel%20Angestellte.md)).
+Dieser Punkt wurde ursprünglich für den Kollektivvertrag Handel Angestellte geschaffen und kann aber nun auch für alle anderen Kollektivverträge angewendet werden. (Näheres zur Umstufung KV-Handel finden Sie [hier](../Kollektivvertraege/Umstellung_KV_Handel_Angestellte.md)).
 
 ![Image](<img/image59.png>){width="600"}
 
@@ -101,7 +101,7 @@ In diesem Bereich muss die Tätigkeitsgruppe des Dienstnehmers angewählt werden
 
 **Folgegruppen**
 
-In bestimmten Kollektivverträgen (z. B. Informationstechnik) verbleibt man eine bestimmte Zeitdauer in einer Gruppe (z. B. Einstiegsstufe) und wechselt dann automatisch in die nächsthöhere Gruppe (z. B. Regelgruppe). Diese [Folgegruppen](../Kollektivverträge/Wann%20sind%20Folgegruppen%20notwendig.md) werden im jeweiligen Kollektivvertrag verknüpft.
+In bestimmten Kollektivverträgen (z. B. Informationstechnik) verbleibt man eine bestimmte Zeitdauer in einer Gruppe (z. B. Einstiegsstufe) und wechselt dann automatisch in die nächsthöhere Gruppe (z. B. Regelgruppe). Diese [Folgegruppen](../Kollektivvertraege/Wann_sind_Folgegruppen_notwendig.md) werden im jeweiligen Kollektivvertrag verknüpft.
 
 **Letzter Gruppenwechsel / Letzte Tätigkeitsgruppe**
 

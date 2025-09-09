@@ -16,7 +16,7 @@ Soll **kein** Freibetrag gerechnet werden, dann geben Sie bei *max. beg. h* Null
 
 In diesem Feld ist festzulegen, ob mit *Überstunden-Teiler* oder mit einem bestimmten *Überstunden-Grundlohn* gerechnet werden soll.
 
-Wenn das KV-Modul verwendet wird und der Dienstnehmer im Abrechnungsbildschirm *Kollektivvertrag* einem KV zugeordnet wurde, kann hier mit der *F2-Taste* der Überstundenteiler des [Kollektivvertrags](../Kollektivverträge/Abrechnungsbildschirm%20Kollektivvertrag.md) automatisch eingetragen werden.
+Wenn das KV-Modul verwendet wird und der Dienstnehmer im Abrechnungsbildschirm *Kollektivvertrag* einem KV zugeordnet wurde, kann hier mit der *F2-Taste* der Überstundenteiler des [Kollektivvertrags](../Kollektivvertraege/Abrechnungsbildschirm_Kollektivvertrag.md) automatisch eingetragen werden.
 
 ![Image](<img/image115.png>){width="500"}
 

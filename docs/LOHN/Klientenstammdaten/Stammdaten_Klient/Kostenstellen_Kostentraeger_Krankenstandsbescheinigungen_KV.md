@@ -20,4 +20,4 @@ Der besondere Dienstgeber wird in der Abrechnung unter *Filter Beschäftigtengru
 
 ## Kollektivverträge
 
-In diesem Bereich können die abonnierten Kollektivverträge mit der *F2-Taste* aufgerufen und dem Klienten zugeordnet werden. Pro Klienten können bis zu 50 Kollektivverträge zugeordnet werden. Die Zuordnung der einzelnen Dienstnehmer erfolgt im Abrechnungsbildschirm [*Kollektivvertrag*](../../Abrechnungsbildschirme/Kollektivvertrag.md). Die [Kollektivverträge](../../Kollektivverträge/Verwaltung%20der%20Kollektivverträge.md) können im Programmteil *Klient / Kanzlei / Kollektivverträge …* abonniert werden.
+In diesem Bereich können die abonnierten Kollektivverträge mit der *F2-Taste* aufgerufen und dem Klienten zugeordnet werden. Pro Klienten können bis zu 50 Kollektivverträge zugeordnet werden. Die Zuordnung der einzelnen Dienstnehmer erfolgt im Abrechnungsbildschirm [*Kollektivvertrag*](../../Abrechnungsbildschirme/Kollektivvertrag.md). Die [Kollektivverträge](../../Kollektivvertraege/Verwaltung_der_Kollektivvertraege.md) können im Programmteil *Klient / Kanzlei / Kollektivverträge …* abonniert werden.
