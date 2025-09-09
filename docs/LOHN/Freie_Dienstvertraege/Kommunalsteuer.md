@@ -22,7 +22,7 @@ Ist der Dienstnehmer vom Dienstgeberbeitrag befreit, so ist dieses Feld zu aktiv
 
 **DZ-Bundesland**
 
-In Spezialfällen kann hier für einzelne Dienstnehmer ein abweichendes Bundesland für die DZ-Berechnung eingetragen werden. Grundsätzlich berechnet das Programm den DZ gemäß dem eingetragenen *DZ-Bundesland* in den Dienstgeberstammdaten im Register [*Finanzamt*](../Klientenstammdaten/Stammdaten%20Klient/Finanzamt.md).
+In Spezialfällen kann hier für einzelne Dienstnehmer ein abweichendes Bundesland für die DZ-Berechnung eingetragen werden. Grundsätzlich berechnet das Programm den DZ gemäß dem eingetragenen *DZ-Bundesland* in den Dienstgeberstammdaten im Register [*Finanzamt*](../Klientenstammdaten/Stammdaten_Klient/Finanzamt.md).
 
 **Befreiung vom DZ**
 

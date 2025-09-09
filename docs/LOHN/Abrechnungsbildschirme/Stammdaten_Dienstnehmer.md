@@ -81,7 +81,7 @@ Eingabe des Staatsbürgerschaftsschlüssels laut Österreichischer Gesundheitska
 
 **externe DN-Nummer**
 
-Wenn in den Stammdaten des Klienten im Registerblatt [*Neufög, BUAK, ELDA*](../Klientenstammdaten/Stammdaten Klient/Neufög, BUAK, ELDA.md) das Feld *externe DN-Nummer* aktiviert ist, kann hier diese extra Nummer eingetragen werden. Diese Nummer kann beim Ausdruck der Abrechnungen, beim Datenimport und Datenexport verwendet werden.
+Wenn in den Stammdaten des Klienten im Registerblatt [*Neufög, BUAK, ELDA*](../Klientenstammdaten/Stammdaten_Klient/Neufoeg_BUAK_ELDA.md) das Feld *externe DN-Nummer* aktiviert ist, kann hier diese extra Nummer eingetragen werden. Diese Nummer kann beim Ausdruck der Abrechnungen, beim Datenimport und Datenexport verwendet werden.
 
 ## Beruf
 
@@ -95,7 +95,7 @@ Ist der Dienstort nicht am Ort des Dienstgebers, so kann hier ein abweichender D
 
 **Arbeitsstätte**
 
-vgl. [Arbeitsstätten – Lohnzettel Finanz](../Klientenstammdaten/Arbeitsstätten - Lohnzettel Finanz.md)
+vgl. [Arbeitsstätten – Lohnzettel Finanz](../Klientenstammdaten/Arbeitsstaetten_Lohnzettel_Finanz.md)
 
 **Gesundheitsberuf**
 

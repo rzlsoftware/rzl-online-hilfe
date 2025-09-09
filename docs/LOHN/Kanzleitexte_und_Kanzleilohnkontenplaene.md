@@ -15,7 +15,7 @@ Durch Anwahl des Menüpunkts *Klient / Kanzlei / Texte* erscheint folgender Dial
 
 Im Registerblatt *Tabelle* wird der Name des *Kanzleitextes* festgelegt. Nach Eingabe der *Bezeichnung* können in den Registerfeldern *Standard-Texte,* *Dienstzettel-Texte* *und Abrechnungs-Texte* die gewünschten Texte eingegeben werden.
 
-Diese Kanzlei-Texte, die in diesem Menüpunkt festgelegt werden, können wenn gewünscht, bei jedem Klienten verwendet werden. Voraussetzung für die Verwendung beim Klienten ist die Aktivierung des Auswahlfeldes [*Kanzleitexte*](../LOHN/Klientenstammdaten/Stammdaten%20Klient/LA,%20Formeln,%20Texte,%20Kontenplan,%20Beiträge,%20Währung.md) mit Eingabe der gewünschten Nummer im Registerblatt *LA, Texte, Kontenplan usw.* des Menüpunkts *Stamm / Klient.*
+Diese Kanzlei-Texte, die in diesem Menüpunkt festgelegt werden, können wenn gewünscht, bei jedem Klienten verwendet werden. Voraussetzung für die Verwendung beim Klienten ist die Aktivierung des Auswahlfeldes [*Kanzleitexte*](../LOHN/Klientenstammdaten/Stammdaten_Klient/LA_Formeln_Texte_Kontenplan_Beitraege_Waehrung.md) mit Eingabe der gewünschten Nummer im Registerblatt *LA, Texte, Kontenplan usw.* des Menüpunkts *Stamm / Klient.*
 
 **Standardtexte**
 
@@ -37,7 +37,7 @@ Es können bis zu 99 Standardtexte für den Dienstzettel mit bis zu je 4 Zeilen 
 
 **Abrechnungstexte**
 
-In diesem Registerblatt können bis zu 20 Kanzlei-Abrechnungstexte angelegt werden. In den Stammdaten des Klienten können im Registerblatt [*Abrechnungstexte*](../LOHN/Klientenstammdaten/Stammdaten%20Klient/Abrechnungs-Texte,%20Buchungskreis-Texte.md) maximal zwei der angelegten Abrechnungstexte mit einer zeitlichen Begrenzung ausgewählt werden. Die ausgewählten Abrechnungstexte werden auf den monatlichen Lohnabrechnungen der Dienstnehmer des jeweiligen Klienten links unten im Bereich des Auszahlungsbetrages angedruckt.
+In diesem Registerblatt können bis zu 20 Kanzlei-Abrechnungstexte angelegt werden. In den Stammdaten des Klienten können im Registerblatt [*Abrechnungstexte*](../LOHN/Klientenstammdaten/Stammdaten_Klient/Abrechnungstexte_Buchungskreistexte.md) maximal zwei der angelegten Abrechnungstexte mit einer zeitlichen Begrenzung ausgewählt werden. Die ausgewählten Abrechnungstexte werden auf den monatlichen Lohnabrechnungen der Dienstnehmer des jeweiligen Klienten links unten im Bereich des Auszahlungsbetrages angedruckt.
 
 Abrechnungstexte können auch dienstnehmerbezogen im Abrechnungsbildschirm [*Stammdaten Fristen*](../LOHN/Abrechnungsbildschirme/Stammdaten_Fristen.md) eingetragen werden.
 
@@ -55,7 +55,7 @@ Die Funktion der klientenbezogenen Dienstzetteltexte ist dieselbe, wie jene der 
 
 ### Klientenbezogene Abrechnungs-Texte
 
-Insgesamt 20 Abrechnungstexte mit einer Länge von bis zu 30 Zeichen können im Programmteil *Stamm / Abrechnungs-Texte* klientenbezogen eingetragen werden. In den *Klientenstammdaten* im Registerblatt [*Abrechnungs-Texte*](../LOHN/Klientenstammdaten/Stammdaten%20Klient/Abrechnungs-Texte,%20Buchungskreis-Texte.md) können wiederum jeweils zwei Abrechnungs-Texte für den Andruck auf den Abrechnungen der Dienstnehmer des jeweiligen Klienten ausgewählt werden.
+Insgesamt 20 Abrechnungstexte mit einer Länge von bis zu 30 Zeichen können im Programmteil *Stamm / Abrechnungs-Texte* klientenbezogen eingetragen werden. In den *Klientenstammdaten* im Registerblatt [*Abrechnungs-Texte*](../LOHN/Klientenstammdaten/Stammdaten_Klient/Abrechnungstexte_Buchungskreistexte.md) können wiederum jeweils zwei Abrechnungs-Texte für den Andruck auf den Abrechnungen der Dienstnehmer des jeweiligen Klienten ausgewählt werden.
 
 ## Kanzlei-Lohnkontenpläne
 

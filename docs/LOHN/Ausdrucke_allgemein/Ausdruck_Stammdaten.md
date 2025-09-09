@@ -12,7 +12,7 @@ Der Menüpunkt *Ausdruck / Stammdaten / Unterdienstgeber* ermöglicht sowohl den
 
 **Arbeitsstätten**
 
-Dieser Programmteil ermöglicht den Ausdruck der beim Klienten angelegten [Arbeitsstätten](../Klientenstammdaten/Arbeitsstätten%20-%20Lohnzettel%20Finanz.md).
+Dieser Programmteil ermöglicht den Ausdruck der beim Klienten angelegten [Arbeitsstätten](../Klientenstammdaten/Arbeitsstaetten_Lohnzettel_Finanz.md).
 
 **Dienstnehmer**
 

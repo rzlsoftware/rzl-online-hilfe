@@ -37,7 +37,7 @@ Durch Aktivierung dieses Feldes kann durch die Jahresübernahme die Dienstnehmer
 
 **Lohnarten**
 
-Im Zuge der Jahresübernahme kann von Klienten-Lohnarten auf [Kanzleilohnarten](../Klientenstammdaten/Stammdaten%20Klient/LA,%20Formeln,%20Texte,%20Kontenplan,%20Beiträge,%20Währung.md) umgestiegen werden oder umgekehrt.
+Im Zuge der Jahresübernahme kann von Klienten-Lohnarten auf [Kanzleilohnarten](../Klientenstammdaten/Stammdaten_Klient/LA_Formeln_Texte_Kontenplan_Beitraege_Waehrung.md) umgestiegen werden oder umgekehrt.
 
 **Texte**
 

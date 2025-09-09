@@ -22,7 +22,7 @@ Damit die Krankenstandsbescheinigungen automatisch empfangen werden können, ist
 
 Damit die Krankenstandsbescheinigungen in den Lohnverrechnungsklienten übernommen werden, ist als erster Schritt die Übernahme in den Klientenstammdaten zu aktivieren.
 
-Die Aktivierung erfolgt im Programmteil *Stamm / Klient* im Registerblatt [*Kostenstellen/Kostenträger, Krankenstandsbescheinigungen / KV*](../Klientenstammdaten/Stammdaten%20Klient/Kostenstellen,%20Kostenträger,%20Krankenstandsbescheinigungen,%20KV.md).
+Die Aktivierung erfolgt im Programmteil *Stamm / Klient* im Registerblatt [*Kostenstellen/Kostenträger, Krankenstandsbescheinigungen / KV*](../Klientenstammdaten/Stammdaten_Klient/Kostenstellen_Kostentraeger_Krankenstandsbescheinigungen_KV.md).
 
 ![Image](<img/image212.png>){width="500"}
 

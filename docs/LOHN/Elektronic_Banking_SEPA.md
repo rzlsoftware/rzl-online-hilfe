@@ -10,7 +10,7 @@ Durchgeführte Überweisungen von Lohnabrechnungen werden bei den einzelnen Dien
 
 Im Eingabefeld *Monat* legen Sie fest, für welchen Monat die Überweisungen durchgeführt werden sollen. Anschließend müssen Sie festlegen, für welche Dienstnehmer überwiesen wird.
 
-Für die Überweisung legen Sie nun fest, von welchem [Bankkonto](../LOHN/Klientenstammdaten/Stammdaten%20Klient/Bank,%20Überweisung,%20Zahltag.md) (*Dienstgeber-Banken)* die Zahlung erfolgen soll.
+Für die Überweisung legen Sie nun fest, von welchem [Bankkonto](../LOHN/Klientenstammdaten/Stammdaten_Klient/Bank_Ueberweisung_Zahltag.md) (*Dienstgeber-Banken)* die Zahlung erfolgen soll.
 
 **Dienstnehmer alphabetisch sortiert**
 

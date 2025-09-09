@@ -21,8 +21,8 @@ Durch Aktivierung dieser Felder erfolgt eine Erhöhung der DB- und Kommunalsteue
 
 **Gewerkschaftsbeitrag**
 
-Eingabe des Betrages oder Prozentsatzes eines monatlich abzuziehenden Gewerkschaftsbeitrages. Wird hier eine Prozenteingabe vorgenommen, kann ein [maximaler Gewerkschaftsbeitrag](../Klientenstammdaten/Stammdaten%20Klient/LA,%20Formeln,%20Texte,%20Kontenplan,%20Beiträge,%20Währung.md) in den Dienstgeberstammdaten festgelegt werden.
+Eingabe des Betrages oder Prozentsatzes eines monatlich abzuziehenden Gewerkschaftsbeitrages. Wird hier eine Prozenteingabe vorgenommen, kann ein [maximaler Gewerkschaftsbeitrag](../Klientenstammdaten//Stammdaten_Klient/LA_Formeln_Texte_Kontenplan_Beitraege_Waehrung.md) in den Dienstgeberstammdaten festgelegt werden.
 
 **Betriebsratsumlage**
 
-Eingabe des Betrages oder Prozentsatzes einer monatlich abzuziehenden Betriebsratsumlage. Wird hier eine Prozenteingabe vorgenommen, kann eine [maximale Betriebsratsumlage](../Klientenstammdaten/Stammdaten%20Klient/LA,%20Formeln,%20Texte,%20Kontenplan,%20Beiträge,%20Währung.md) in den Dienstgeberstammdaten festgelegt werden.
+Eingabe des Betrages oder Prozentsatzes einer monatlich abzuziehenden Betriebsratsumlage. Wird hier eine Prozenteingabe vorgenommen, kann eine [maximale Betriebsratsumlage](../Klientenstammdaten/Stammdaten_Klient/LA_Formeln_Texte_Kontenplan_Beitraege_Waehrung.md) in den Dienstgeberstammdaten festgelegt werden.

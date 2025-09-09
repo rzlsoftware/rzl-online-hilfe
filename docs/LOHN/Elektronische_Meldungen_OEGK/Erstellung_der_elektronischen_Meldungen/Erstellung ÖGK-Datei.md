@@ -38,7 +38,7 @@ Aufgrund der unterschiedlichen Meldefristen können die mBGM für die fallweise 
 
 - **Meldungen Vorschreibebetriebe**
 
-    Klienten, die im Bereich der [*Dienstgeberstammdaten*](../../Klientenstammdaten/Stammdaten%20Klient/ÖGK,%20BV-Kasse.md) kein Häkchen bei Selbstabrechner gesetzt haben, werden als Vorschreibebetriebe gekennzeichnet. Durch das Programm wird der mBGM mit der nötigen eigenständigen Satzart für Vorschreibebetriebe versehen.
+    Klienten, die im Bereich der [*Dienstgeberstammdaten*](../../Klientenstammdaten/Stammdaten_Klient/OEGK_BV-Kasse.md) kein Häkchen bei Selbstabrechner gesetzt haben, werden als Vorschreibebetriebe gekennzeichnet. Durch das Programm wird der mBGM mit der nötigen eigenständigen Satzart für Vorschreibebetriebe versehen.
 
     ![Image](img/image189.png){width="500"}
 

@@ -11,7 +11,7 @@ Die Überweisungsliste kann auch für die Dienstgeberabgaben gedruckt werden.
 Durch Anwahl des Feldes *IBAN und BIC drucken* werden anstatt Bankleitzahl und Kontonummer eben IBAN und BIC angedruckt.
 
 !!! warning "Hinweis"
-    Es kann zwischen den in den [*Dienstgeberstammdaten*](../Klientenstammdaten/Stammdaten Klient/Bank, Überweisung, Zahltag.md) oder [*Unter­dienstgeberstammdaten*](../Klientenstammdaten/Unterdienstgeber.md) angelegten Banken ausgewählt werden.
+    Es kann zwischen den in den [*Dienstgeberstammdaten*](../Klientenstammdaten/Stammdaten_Klient/Bank_Ueberweisung_Zahltag.md) oder [*Unter­dienstgeberstammdaten*](../Klientenstammdaten/Unterdienstgeber.md) angelegten Banken ausgewählt werden.
 
 Beim Ausdruck der Überweisungslisten wird bei den Abrechnungen automatisch ein Sperrvermerk gesetzt. Ein neuerlicher Ausdruck der *Überweisungsliste Abrechnungen* kann nur nach einem [*Repair*](../Repair.md) (*Bearbeiten / Repair / Überweisungen / Überweisung Abrechnung zurücksetzen*) durchgeführt werden.
 
@@ -76,7 +76,7 @@ Dieser Sperrvermerk kann im Programmteil *Bearbeiten / Repair / Überweisungen /
 
 Dieser Programmteil ermöglicht den Ausdruck der Überweisung für die Sonstigen Behörden.
 
-Damit die Erstellung erfolgreich durchgeführt werden kann, muss die [Sonstige Behörde](../Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte.md) in den Stammdaten der Behörden mit der Bankverbindung angelegt sein. Die Daten müssen in den Stammdaten des Klienten im Registerblatt [*Sozialfonds, Überw. an Behörden*](../Klientenstammdaten/Stammdaten%20Klient/Sozialfonds,%20Überw.%20an%20Behörden.md) verankert werden.
+Damit die Erstellung erfolgreich durchgeführt werden kann, muss die [Sonstige Behörde](../Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte.md) in den Stammdaten der Behörden mit der Bankverbindung angelegt sein. Die Daten müssen in den Stammdaten des Klienten im Registerblatt [*Sozialfonds, Überw. an Behörden*](../Klientenstammdaten/Stammdaten_Klient/Sozialfonds_Ueberw_an_Behoerden.md) verankert werden.
 
 Die Beträge für die Behörde werden bei den einzelnen Dienstnehmern im Abrechnungsbildschirm [*Freie Lohnarten*](../Abrechnungsbildschirme/Freie_Lohnarten.md) erfasst.
 

@@ -2,7 +2,7 @@
 
 Die Anwahl des Programmteiles *Bearbeiten / Datenexport / Export Buchungsbeleg (RZL-Format)* ermöglicht die Erstellung einer Datei, die die Buchungen des Buchungsbelegs beinhaltet und die in das RZLWin-Finanzbuchhaltungsprogramm bzw. RZLWin-Einnahmen-Ausgaben-Programm importiert werden kann.
 
-Voraussetzung für eine erfolgreiche Erstellung der Datei ist die Verankerung eines [Kanzleilohnkontenplans](../LOHN/Klientenstammdaten/Stammdaten%20Klient/LA,%20Formeln,%20Texte,%20Kontenplan,%20Beiträge,%20Währung.md) in den Stammdaten des Klienten. Im Kanzleilohnkontenplan müssen die Aufwandskonten (Löhne, Gehälter, Überstunden, SV-AGA, KommST, usw.) vorkontiert werden. In den Stammdaten des Klienten sind die Verbindlichkeitskonten der einzelnen Behörden einzutragen.
+Voraussetzung für eine erfolgreiche Erstellung der Datei ist die Verankerung eines [Kanzleilohnkontenplans](../LOHN/Klientenstammdaten/Stammdaten_Klient/LA_Formeln_Texte_Kontenplan_Beitraege_Waehrung.md) in den Stammdaten des Klienten. Im Kanzleilohnkontenplan müssen die Aufwandskonten (Löhne, Gehälter, Überstunden, SV-AGA, KommST, usw.) vorkontiert werden. In den Stammdaten des Klienten sind die Verbindlichkeitskonten der einzelnen Behörden einzutragen.
 
 ![Image](<img/image298.png>){width="500"}
 

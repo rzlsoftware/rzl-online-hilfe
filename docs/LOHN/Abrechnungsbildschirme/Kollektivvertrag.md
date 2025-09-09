@@ -10,7 +10,7 @@ Mit den in diesem Bereich getroffenen Einstellungen weist das Programm auf „Be
 
 **Kollektivvertrag**
 
-Durch Anwahl der *F2-Taste* können die in den *Klientenstammdaten* hinterlegten [Kollektivverträge](../Klientenstammdaten/Stammdaten Klient/Kostenstellen, Kostenträger, Krankenstandsbescheinigungen, KV.md) aufgerufen und dem Dienstnehmer zugeordnet werden.
+Durch Anwahl der *F2-Taste* können die in den *Klientenstammdaten* hinterlegten [Kollektivverträge](../Klientenstammdaten/Stammdaten_Klient/Kostenstellen_Kostentraeger_Krankenstandsbescheinigungen_KV.md) aufgerufen und dem Dienstnehmer zugeordnet werden.
 
 **Beginn Einstufung**
 
@@ -179,7 +179,7 @@ Dieses Feld ermöglicht die Eingabe eines Zu- oder Abschlags zum Bezug laut Koll
 !!! info "Tipp"
     Durch Anwahl der Tastenkombination *Alt – F8* kann der beim Dienstnehmer ausgewählte Kollektivvertrag aufgerufen werden.
 
-Die abonnierten Kollektivverträge müssen in den *Klientenstammdaten* zugeordnet werden. Die Zuordnung erfolgt im [Registerblatt *Kostenstellen, Krankenstandsbesch., KV* im Bereich *Kollektivverträge*](..//Klientenstammdaten/Stammdaten%20Klient/Kostenstellen,%20Kostenträger,%20Krankenstandsbescheinigungen,%20KV.md).
+Die abonnierten Kollektivverträge müssen in den *Klientenstammdaten* zugeordnet werden. Die Zuordnung erfolgt im [Registerblatt *Kostenstellen, Krankenstandsbesch., KV* im Bereich *Kollektivverträge*](..//Klientenstammdaten/Stammdaten_Klient/Kostenstellen_Kostentraeger_Krankenstandsbescheinigungen_KV.md).
 
 ![Image](<img/image71.png>){width="500"}
 
