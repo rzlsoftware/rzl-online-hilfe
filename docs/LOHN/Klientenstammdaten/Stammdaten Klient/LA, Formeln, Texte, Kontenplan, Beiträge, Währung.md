@@ -7,7 +7,7 @@
 Durch Aktivierung der *Kanzlei-Lohnarten, Kanzlei-Lohnformeln* können Sie für den jeweiligen Klienten eine der im Menüpunkt *Klient / Kanzlei / Lohnarten* angelegte Kanzleilohnartentabelle auswählen. Die in der Tabelle enthaltenen Lohnarten stehen Ihnen dann für die Abrechnung sämtlicher Dienstnehmer beim betreffenden Klienten zur Verfügung. Aufgerufen werden diese Kanzlei-Lohnarten beim einzelnen Dienstnehmer im Abrechnungsbildschirm [*Freie Lohnarten*](../../Abrechnungsbildschirme/Freie_Lohnarten.md). Werden die Kanzlei-Lohnarten nicht aktiviert, so können im Menüpunkt *Stamm / Lohnarten* für jeden Klienten individuelle [Lohnarten](../../Abrechnungsbildschirme/Freie_Lohnarten.md) erstellt werden.
 
 !!! warning "Hinweis"
-    Werden die Lohnarten noch beim Klienten selbst erstellt und verwaltet, kann eine Umstellung auf Kanzleilohnarten nur zu Beginn eines Jahres im Rahmen der [Jahresübernahme](../../Jahresübernahme/Jahresübernahme%20innerhalb%20eines%20Klienten.md) vorgenommen werden.
+    Werden die Lohnarten noch beim Klienten selbst erstellt und verwaltet, kann eine Umstellung auf Kanzleilohnarten nur zu Beginn eines Jahres im Rahmen der [Jahresübernahme](../../Jahresuebernahme/Jahresuebernahme_innerhalb_eines_Klienten.md) vorgenommen werden.
 
 !!! warning "Hinweis"
     Im Programmteil *Klient / Kanzlei / Lohnarten von Klient übernehmen* können beim Klienten angelegte Lohnarten (*Stamm / Lohnarten*) als Kanzleilohnarten-Tabelle angelegt werden. Umgekehrt können im Programmteil *Stamm / Lohnarten von Kanzlei-Tabelle übernehmen...* Kanzlei-Lohnarten-Tabellen als Klienten-Lohnarten angelegt werden.
