@@ -14,7 +14,7 @@ Durch Aktivierung der *Kanzlei-Lohnarten, Kanzlei-Lohnformeln* können Sie für 
 
 ## Kanzlei-Texte
 
-Werden die [*Kanzlei-Texte*](../../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) aktiviert, so ist eine individuelle Anlage der Texte beim Klienten im Menüpunkt *Stamm / Standardtexte, Dienstzetteltexte* und *Abrechnungstexte* nicht mehr möglich. Kanzlei-Texte können Sie im Programmteil *Klient / Kanzlei / Texte* erstellen.
+Werden die [*Kanzlei-Texte*](../../Kanzleitexte_und_Kanzleilohnkontenplaene.md) aktiviert, so ist eine individuelle Anlage der Texte beim Klienten im Menüpunkt *Stamm / Standardtexte, Dienstzetteltexte* und *Abrechnungstexte* nicht mehr möglich. Kanzlei-Texte können Sie im Programmteil *Klient / Kanzlei / Texte* erstellen.
 
 ## Kanzleilohnkontenplan
 

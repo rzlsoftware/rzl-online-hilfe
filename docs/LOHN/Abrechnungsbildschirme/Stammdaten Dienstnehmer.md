@@ -48,7 +48,7 @@ Eintragungsmöglichkeit für die Telefonnummer des Dienstnehmers.
 
 Wenn *E-Mail-Adresse* und *PDF-Passwort* eingetragen sind, kann dieses Feld aktiviert werden. Der Dienstnehmer wird am Klientenportal angelegt und mit Hilfe des RZL-PDF-Druckers können die Abrechnungen der Dienstnehmer auf das Klientenportal geladen werden.
 
-Vgl. [Abrechnungen der Dienstnehmer bereitstellen](../RZL%20Klientenportal.md)
+Vgl. [Abrechnungen der Dienstnehmer bereitstellen](../RZL_Klientenportal.md)
 
 **SV-Nummer**
 
@@ -221,7 +221,7 @@ Der FABO+ kann von einer der Personen zu 100&nbsp;% in Anspruch genommen werden 
 
 Sie haben die Möglichkeit, eine bereits ausbezahlte Pauschale Reiseaufwandsentschädigung rein für das L19 Formular nach zu erfassen.
 
-Hierfür legen Sie sich unter *Abrechnungen / [Neuanlage Dienstnehmer](../Abrechnungen/Neuanlage%20Dienstnehmer.md)* den betroffenen Dienstnehmer an.
+Hierfür legen Sie sich unter *Abrechnungen / [Neuanlage Dienstnehmer](../Abrechnungen/Neuanlage_Dienstnehmer.md)* den betroffenen Dienstnehmer an.
 
 Erfassen Sie im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) folgende Pflichtfelder:
 

@@ -76,7 +76,7 @@ Dieser Sperrvermerk kann im Programmteil *Bearbeiten / Repair / Überweisungen /
 
 Dieser Programmteil ermöglicht den Ausdruck der Überweisung für die Sonstigen Behörden.
 
-Damit die Erstellung erfolgreich durchgeführt werden kann, muss die [Sonstige Behörde](../Finanzämter,%20Gemeinden,%20ÖGK,%20BV-Kassen,%20Gerichte.md) in den Stammdaten der Behörden mit der Bankverbindung angelegt sein. Die Daten müssen in den Stammdaten des Klienten im Registerblatt [*Sozialfonds, Überw. an Behörden*](../Klientenstammdaten/Stammdaten%20Klient/Sozialfonds,%20Überw.%20an%20Behörden.md) verankert werden.
+Damit die Erstellung erfolgreich durchgeführt werden kann, muss die [Sonstige Behörde](../Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte.md) in den Stammdaten der Behörden mit der Bankverbindung angelegt sein. Die Daten müssen in den Stammdaten des Klienten im Registerblatt [*Sozialfonds, Überw. an Behörden*](../Klientenstammdaten/Stammdaten%20Klient/Sozialfonds,%20Überw.%20an%20Behörden.md) verankert werden.
 
 Die Beträge für die Behörde werden bei den einzelnen Dienstnehmern im Abrechnungsbildschirm [*Freie Lohnarten*](../Abrechnungsbildschirme/Freie%20Lohnarten.md) erfasst.
 

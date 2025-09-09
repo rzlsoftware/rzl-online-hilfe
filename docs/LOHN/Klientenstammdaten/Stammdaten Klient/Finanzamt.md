@@ -10,7 +10,7 @@ Die Nummer der zuständigen Dienststelle und die Steuernummer werden automatisch
 
 **Finanzamt Bank**
 
-In den Stammdaten der [Finanzämter](../../Finanzämter,%20Gemeinden,%20ÖGK,%20BV-Kassen,%20Gerichte.md) können Sie bis zu 9 Bankverbindungen eingeben. Hier können Sie festlegen, an welche Bankverbindung des Finanzamts die Überweisungen erfolgen sollen.
+In den Stammdaten der [Finanzämter](../../Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte.md) können Sie bis zu 9 Bankverbindungen eingeben. Hier können Sie festlegen, an welche Bankverbindung des Finanzamts die Überweisungen erfolgen sollen.
 
 **Zahlungsreferenz**
 
@@ -49,7 +49,7 @@ In diese drei Eingabefelder können Sie die jeweiligen Verbindlichkeitskonten ei
 
 ## Selbstbemessungsabgaben übermitteln
 
-Die Aktivierung dieses Feldes ermöglicht die Erstellung einer xml-Datei zur [Meldung der Selbstbemessungsabgaben](../../Selbstbemessungsabgaben melden.md) in FinanzOnline.
+Die Aktivierung dieses Feldes ermöglicht die Erstellung einer xml-Datei zur [Meldung der Selbstbemessungsabgaben](../../Selbstbemessungsabgaben_melden.md) in FinanzOnline.
 
 **Steuerreform 2022 bereits ab Jan. aktiv**
 

@@ -199,7 +199,7 @@ Für Zeiten des Kinderbetreuungsgeldbezuges, der Bildungskarenz und der Hospizka
 
 ## Start-Up-Mitarbeiterbeteiligung (ab 2024)
 
-Siehe [Start-Up-Mitarbeiterbeteiligung](../Abrechnungen%20Sonderfälle/Start-Up-Mitarbeiterbeteiligung%20(ab%202024).md)
+Siehe [Start-Up-Mitarbeiterbeteiligung](../Abrechnungen_Sonderfaelle/Start-Up-Mitarbeiterbeteiligung.md)
 
 ## Sonder-Berechnung
 

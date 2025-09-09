@@ -18,7 +18,7 @@ Die erste in der Liste eingetragene Gemeinde wird für alle Dienstnehmer des Kli
 
 **Gemeinden** 
 
-Im Feld *Gemeinde* ist die Nummer der Gemeinde einzugeben. Die [Anlage der Gemeinde](../../Finanzämter,%20Gemeinden,%20ÖGK,%20BV-Kassen,%20Gerichte.md) erfolgt im Menüpunkt *Klient / Finanzämter, Gemeinden, ÖGK, BV-Kassen, Gerichte*. Pro Klienten bzw. Unterdienstgeber können Sie bis zu 125 Gemeinden anlegen.
+Im Feld *Gemeinde* ist die Nummer der Gemeinde einzugeben. Die [Anlage der Gemeinde](../../Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte.md) erfolgt im Menüpunkt *Klient / Finanzämter, Gemeinden, ÖGK, BV-Kassen, Gerichte*. Pro Klienten bzw. Unterdienstgeber können Sie bis zu 125 Gemeinden anlegen.
 
 !!! warning "Hinweis"
     Mit der F2-Taste im Feld *Gemeinde* werden alle im Menüpunkt *Klient / Finanzämter, Gemeinden, ÖGK, BV Kassen, Gerichte* angelegten Gemeinden und im Feld *Bank* alle angelegten Bankverbindungen aufgerufen.
@@ -38,7 +38,7 @@ Für die automatische Eintragung des Monats und des Jahres können Sie die Kürz
 
 **Kommunalsteuerschließungserklärung** 
 
-Wenn eine [Kommunalsteuer-Schließungserklärung](../../Elektronische%20Kommunalsteuererklärung.md) erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen.
+Wenn eine [Kommunalsteuer-Schließungserklärung](../../Elektronische_Kommunalsteuererklaerung.md) erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen.
 
 ## U-Bahn-Abgabe
 

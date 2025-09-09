@@ -27,7 +27,7 @@ Vgl. [Auswahlkriterien](../Auswahlkriterien.md)
 Grundsätzlich werden für den Andruck des monatlichen Zahltages am Jahreslohnkonto des Dienstnehmers die Eintragungen im Registerblatt *Bank, Überweisung* der Klienstenstammdaten herangezogen. Hier können abweichende Eintragungen vorgenommen werden.
 
 !!! info "Tipp"
-    Wird für die Überweisung der Abrechnungen [Elektronik Banking](../Elektronic%20Banking%20SEPA.md) durchgeführt, wird das *Durchführungsdatum* als Zahltag am Jahreslohnkonto eingetragen.
+    Wird für die Überweisung der Abrechnungen [Elektronik Banking](../Elektronic_Banking_SEPA.md) durchgeführt, wird das *Durchführungsdatum* als Zahltag am Jahreslohnkonto eingetragen.
 
 ## Lohn-Formel-Zuordnungstabelle
 
@@ -55,7 +55,7 @@ Für den Anmerkungstext stehen Ihnen 200 Zeichen zur Verfügung.
 
 ## Abrechnungstexte
 
-Im Bereich *Abrechnungstexte* ist es möglich, Abrechnungstexte zeitlich begrenzt für den Andruck auf der Abrechnung des jeweiligen Dienstnehmers anzulegen. Die maximale Länge dieser Texte beträgt 300 Zeichen. Abrechnungstexte können auch klientenbezogen eingetragen werden. Die Verwaltung erfolgt entweder klientenbezogen unter *Stamm / Abrechnungstexte* oder [kanzleibezogen](../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) unter (*Klient / Kanzlei / Texte*).
+Im Bereich *Abrechnungstexte* ist es möglich, Abrechnungstexte zeitlich begrenzt für den Andruck auf der Abrechnung des jeweiligen Dienstnehmers anzulegen. Die maximale Länge dieser Texte beträgt 300 Zeichen. Abrechnungstexte können auch klientenbezogen eingetragen werden. Die Verwaltung erfolgt entweder klientenbezogen unter *Stamm / Abrechnungstexte* oder [kanzleibezogen](../Kanzleitexte_und_Kanzleilohnkontenplaene.md) unter (*Klient / Kanzlei / Texte*).
 
 !!! info "Tipp"
     Insgesamt können 4 Abrechnungstexte auf den Abrechnungen der Dienstnehmer ange­druckt werden. Zwei dienstnehmerbezogene Abrechnungstexte im Abrechnungsbildschirm *Stammdaten* *Fristen* und zwei klientenbezogene Abrechnungstexte, die auf den gesamten Abrechnungen der Dienstnehmer des jeweiligen Klienten aufscheinen.
@@ -64,10 +64,10 @@ Im Bereich *Abrechnungstexte* ist es möglich, Abrechnungstexte zeitlich begrenz
 
 Ein Vollumstieg auf Abfertigung neu ist unbefristet möglich.
 
-Vgl. [Abfertigung Neu](../Abfertigung%20Neu/Bestehende%20Dienstverhältnisse%20-%20Umstiegsmöglichkeiten.md)
+Vgl. [Abfertigung Neu](../Abfertigung_Neu/Bestehende_Dienstverhaeltnisse_Umstiegsmoeglichkeiten.md)
 
 ## Teilumstieg Abfertigung neu
 
 Bei Abrechnung eines Teilumstiegs ist das Datum des Übertritts (Einfrierungszeitpunkt) einzutragen, damit die BV-Beiträge über das Programm abgeführt werden können. Weiters ist der Einfrierungsanspruch in Monaten (Abfertigungsanspruch zum Zeitpunkt des Übertritts ins neue System) für die Rückstellungsberechnung einzutragen.
 
-Vgl. [Abfertigung Neu](../Abfertigung%20Neu/Bestehende%20Dienstverhältnisse%20-%20Umstiegsmöglichkeiten.md)
+Vgl. [Abfertigung Neu](../Abfertigung_Neu/Bestehende_Dienstverhaeltnisse_Umstiegsmoeglichkeiten.md)

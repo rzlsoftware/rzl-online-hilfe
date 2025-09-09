@@ -6,4 +6,4 @@ Bei einer erneuten Jahresübernahme haben Sie die Möglichkeit, die Urlaubs-, Kr
 
 
 !!! warning "Hinweis"
-    Beachten Sie, dass bei einer erneuten Jahresübernahme nur diese drei Karteien geändert werden. Alle anderen Daten werden **nicht** erneut übernommen. Wenn Sie eine Abrechnung im alten Jahr noch geändert haben (z. B. eine Urlaubsersatzleistung abgerechnet haben), müssen Sie den Dienstnehmer im neuen Jahr über [*Abrechnungen / Löschung Stammdaten*](../Abrechnungen/Löschung%20Stammdaten.md) herauslöschen und erst dann dürfen Sie die Jahresübernahme für das alte Jahr nochmals durchführen.
+    Beachten Sie, dass bei einer erneuten Jahresübernahme nur diese drei Karteien geändert werden. Alle anderen Daten werden **nicht** erneut übernommen. Wenn Sie eine Abrechnung im alten Jahr noch geändert haben (z. B. eine Urlaubsersatzleistung abgerechnet haben), müssen Sie den Dienstnehmer im neuen Jahr über [*Abrechnungen / Löschung Stammdaten*](../Abrechnungen/Loeschung_Stammdaten.md) herauslöschen und erst dann dürfen Sie die Jahresübernahme für das alte Jahr nochmals durchführen.

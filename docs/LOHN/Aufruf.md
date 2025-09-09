@@ -133,11 +133,11 @@ Durch Anwahl dieses Programmteiles wird die [Dienstnehmersuche](../LOHN/Allgemei
 
 **Aufruf WEBEKU Abfrage**
 
-Durch Anwahl dieses Programmteils öffnet sich der [WEBEKU](../LOHN/WEBEKU%20Webservice.md) Dialog.
+Durch Anwahl dieses Programmteils öffnet sich der [WEBEKU](../LOHN/WEBEKU_Webservice.md) Dialog.
 
 **Aufruf SV Nr. Abfrage**
 
-Durch Anwahl dieses Programmteils öffnet sich die [WEBEKU Versicherungsnummernabfrage](../LOHN/WEBEKU%20Webservice.md).
+Durch Anwahl dieses Programmteils öffnet sich die [WEBEKU Versicherungsnummernabfrage](../LOHN/WEBEKU_Webservice.md).
 
 !!! info "Tipp"
     Durch Drücken von **STRG + A** und **STRG + C** kann der gesamte Inhalt der Aufrufe markiert und kopiert werden. Anschließend lässt er sich mit **STRG + V** z. B. in Microsoft Excel einfügen.

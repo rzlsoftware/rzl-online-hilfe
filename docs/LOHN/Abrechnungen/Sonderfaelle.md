@@ -18,7 +18,7 @@ Der Menüpunkt *Abrechnungen / Sonderfälle / Vorwegabrechnung* ermöglicht die 
 Im Menüpunkt *Abrechnungen / Sonderfälle / Storno Abrechnung* lassen sich irrtümlich durchgeführte Abrechnungen stornieren.
 
 !!! warning "Hinweis"
-    Die erste Abrechnung eines Dienstnehmers im Jahr kann **nicht** storniert werden. In diesem Fall muss der Dienstnehmer über *Abrechnungen / [Löschung Stammdaten](../Abrechnungen/Löschung%20Stammdaten.md)* vollständig entfernt werden.
+    Die erste Abrechnung eines Dienstnehmers im Jahr kann **nicht** storniert werden. In diesem Fall muss der Dienstnehmer über *Abrechnungen / [Löschung Stammdaten](../Abrechnungen/Loeschung_Stammdaten.md)* vollständig entfernt werden.
 
 ## Wiedereintritt unter neuer Nummer
 
