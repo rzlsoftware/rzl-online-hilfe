@@ -1,9 +1,9 @@
 nav:
-    - Allgemeines zum Formelsyntax.md
+    - Allgemeines_zum_Formelsyntax.md
     - Lohnarten.md
     - Monatssummen.md
     - Zeitraum.md
-    - Überstunden- und Mehrarbeitsstunden.md
-    - Besonderheiten bei den Lohnformeln.md
+    - Ueberstunden_und_Mehrarbeitsstunden.md
+    - Besonderheiten_bei_den_Lohnformeln.md
     - Zugriffsbeispiele.md
     - ...

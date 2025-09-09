@@ -47,7 +47,7 @@ Der Programmteil *Ausdruck / Stammdaten / Lohnarten* beinhaltet den Ausdruck der
 
 **Lohn-Formeln, Lohnformel-Zuordnungen**
 
-Dieser Programmteil ermöglicht den Ausdruck der innerhalb des Klienten angelegten [Lohnformeln](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Anlage%20von%20Lohnformeln.md) und der Lohnformel-Zuordnungen.
+Dieser Programmteil ermöglicht den Ausdruck der innerhalb des Klienten angelegten [Lohnformeln](../Lohnformeln//Verwaltung_der_Lohnformeln_innerhalb_eines_Klienten/Anlage_von_Lohnformeln.md) und der Lohnformel-Zuordnungen.
 
 **Sonstige Dienstverhinderungen**
 

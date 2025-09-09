@@ -29,7 +29,7 @@ Im Menüpunkt *Aufruf / Lohnarten* werden die Lohnarten, die beim Klienten selbs
 
 **Aufruf Lohnformeln, Lohnformel-Zuordnungstabelle, Lohnformelzuordnungen**
 
-Vgl. [Lohn-Formeln](../LOHN/Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Anlage%20von%20Lohnformeln.md)
+Vgl. [Lohn-Formeln](../LOHN/Lohnformeln/Verwaltung_der_Lohnformeln_innerhalb_eines_Klienten/Anlage_von_Lohnformeln.md)
 
 **Aufruf Standard-Texte**
 

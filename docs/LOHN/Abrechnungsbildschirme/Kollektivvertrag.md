@@ -123,7 +123,7 @@ Durch Eintragung der Monate, um welche die Stufe gekürzt werden soll, kann ein 
 
 Durch die Verknüpfung mit dem Kollektivvertrag werden die Normalarbeitszeit, der Stundenlohn und/oder der Bezug laut Kollektivvertrag, sowie eine Überzahlung nach Betrag bzw. prozentuell angezeigt.
 
-Auf die hier angezeigten Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Anlage%20von%20Lohnformeln.md) zugegriffen werden.
+Auf die hier angezeigten Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung_der_Lohnformeln_innerhalb_eines_Klienten/Anlage_von_Lohnformeln.md) zugegriffen werden.
 
 ## KV-Handel Reformbetrag 1
 
@@ -195,4 +195,4 @@ Eingabe des anzuwendenden Kollektivvertrages. Die Eintragung wird für die Erste
 
 **Stundensatz laut KV / Bezug laut KV**
 
-Auf die hier eingetragenen Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Anlage%20von%20Lohnformeln.md) zugegriffen werden.
+Auf die hier eingetragenen Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung_der_Lohnformeln_innerhalb_eines_Klienten/Anlage_von_Lohnformeln.md) zugegriffen werden.

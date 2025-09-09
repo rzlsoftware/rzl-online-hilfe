@@ -31,7 +31,7 @@ Grundsätzlich werden für den Andruck des monatlichen Zahltages am Jahreslohnko
 
 ## Lohn-Formel-Zuordnungstabelle
 
-Vgl. [Lohnformelzuordnung](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Lohnformel%20Zuordnung.md)
+Vgl. [Lohnformelzuordnung](../Lohnformeln/Verwaltung_der_Lohnformeln_innerhalb_eines_Klienten/Lohnformelzuordnung.md)
 
 ## Ende Arbeitsbewilligung
 

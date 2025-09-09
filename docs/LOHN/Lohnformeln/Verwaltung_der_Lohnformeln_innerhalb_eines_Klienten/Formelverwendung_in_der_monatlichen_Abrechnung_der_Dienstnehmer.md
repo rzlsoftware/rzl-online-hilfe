@@ -14,7 +14,7 @@ Innerhalb der Abrechnung des Dienstnehmers wird bei einer Lohnart mit Zuordnung 
 
 ![Image](<img/image404.png>){width="400"}
 
-Wird innerhalb der [Lohnformelzuordnungstabelle](../Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Lohnformel%20Zuordnung.md) kein Monat für die automatische Berechnung aktiviert, wird das *f* ausgegraut und mit einem schwarzen Strich durchgestrichen dargestellt. Dieselbe Darstellung liegt vor, wenn eine aktivierte Lohnformel durch Anwahl der *Strg + F2-Taste* deaktiviert wurde.
+Wird innerhalb der [Lohnformelzuordnungstabelle](../Verwaltung_der_Lohnformeln_innerhalb_eines_Klienten/Lohnformelzuordnung.md) kein Monat für die automatische Berechnung aktiviert, wird das *f* ausgegraut und mit einem schwarzen Strich durchgestrichen dargestellt. Dieselbe Darstellung liegt vor, wenn eine aktivierte Lohnformel durch Anwahl der *Strg + F2-Taste* deaktiviert wurde.
 
 Die verankerte Formel kann durch Anwahl der Tastenkombination *Strg + F2* aktiviert werden.
 
