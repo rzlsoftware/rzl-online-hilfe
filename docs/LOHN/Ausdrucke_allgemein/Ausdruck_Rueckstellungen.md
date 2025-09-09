@@ -1,3 +1,3 @@
 # Ausdruck Rückstellungen
 
-Vgl. [Rückstellungen](../Rückstellungen/Stammdaten.md)
+Vgl. [Rückstellungen](../Rueckstellungen/Stammdaten.md)

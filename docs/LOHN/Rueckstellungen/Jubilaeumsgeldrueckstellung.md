@@ -14,7 +14,7 @@ Durch Anwahl der Schaltfläche *Weiter* wird das Listenfeld mit sämtlichen Dien
 
 ![Image](<img/image265.png>){width="500"}
 
-Diese Grundeinstellungen können auch im Menüpunkt *Stamm / Klient / [Details Rückstellungen (3)](../Rückstellungen/Stammdaten.md)* aufgerufen bzw. bearbeitet werden.
+Diese Grundeinstellungen können auch im Menüpunkt *Stamm / Klient / [Details Rückstellungen (3)](../Rueckstellungen/Stammdaten.md)* aufgerufen bzw. bearbeitet werden.
 
 Sind die entsprechenden Eintragungen vorgenommen, kehrt man durch Anwahl der Schaltfläche *Speichern* wieder in den Ausgangsdialog zurück:
 

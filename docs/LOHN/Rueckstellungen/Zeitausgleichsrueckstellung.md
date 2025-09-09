@@ -13,7 +13,7 @@ Durch Anwahl der Schaltfläche *Weiter* wird das Listenfeld mit sämtlichen Dien
 
 ![Image](<img/image270.png>){width="400"}
 
-Die hier möglichen Optionen werden bei den [Stammdaten](../Rückstellungen/Stammdaten.md) erläutert.
+Die hier möglichen Optionen werden bei den [Stammdaten](../Rueckstellungen/Stammdaten.md) erläutert.
 
 ![Image](<img/image271.png>){width="500"}
 

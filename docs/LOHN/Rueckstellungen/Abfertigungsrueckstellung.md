@@ -82,6 +82,6 @@ Durch Anwahl der Schaltfläche *Weiter* wird wieder das Listenfeld mit sämtlich
 
 ![Image](<img/image258.png>){width="500"}
 
-Diese Optionen entsprechen jenen in den [Stammdaten](../Rückstellungen/Stammdaten.md) des Klienten beschriebenen Einstellungsmöglichkeiten, die Sie auch über *Stamm / Klient / Details Rückstellungen (1)* aufrufen können.
+Diese Optionen entsprechen jenen in den [Stammdaten](../Rueckstellungen/Stammdaten.md) des Klienten beschriebenen Einstellungsmöglichkeiten, die Sie auch über *Stamm / Klient / Details Rückstellungen (1)* aufrufen können.
 
 Sind die entsprechenden Eintragungen vorgenommen, dann wird durch Anwahl der Schalt­fläche *Speichern* wieder der Ausgangsdialog geöffnet.
