@@ -30,7 +30,7 @@ Dienstnehmer können – in Ausnahmefällen – durch Anwahl der *Entf-Taste* au
 
 ## BUAK – Bauarbeiter-Urlaubs- & Abfertigungskasse
 
-vgl. [Bauarbeiter- Urlaubs- und Abfertigungskasse](../../Bauarbeiter-Urlaubs-%20und%20Abfertigungskasse/Abrechnungsbildschirm%20Bauarbeiter-Urlaubs-%20und%20Abfertigungskasse.md)
+vgl. [Bauarbeiter- Urlaubs- und Abfertigungskasse](../../Bauarbeiter_Urlaubs_und_Abfertigungskasse/Abrechnungsbildschirm_Bauarbeiter_Urlaubs_und_Abfertigungskasse.md)
 
 Wenn der Betrieb BUAK-pflichtig ist und elektronische Meldungen (Monatsmeldung, Austrittsmeldung, Meldung der Urlaubstage) an die Bauarbeiter-Urlaubs- und Abfertigungskasse übermitteln möchte, muss hier das BUAK-Betriebskennzeichen eingetragen werden.
 
