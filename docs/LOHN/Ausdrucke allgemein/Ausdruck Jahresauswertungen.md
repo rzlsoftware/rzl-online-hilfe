@@ -13,11 +13,11 @@ Analog zum Ausdruck des monatlichen Buchungsbeleges besteht in diesem Programmte
 
 Wird das Auswahlfeld *Aufteilung nach Kostenstellen* aktiviert, dann wird innerhalb des Buchungsbeleges eine Aufteilung nach den bei den einzelnen Dienstnehmern angelegten Kostenstellen vorgenommen. Wird das Auswahlfeld *Aufteilung nach Kostenträger* aktiviert, dann wird innerhalb des Buchungsbeleges eine Aufteilung nach den bei den einzelnen Dienstnehmern angelegten Kostenträgern vorgenommen.
 
-Bei diesem Ausdruck wird die im Abrechnungsbildschirm *Stammdaten Fristen* getroffene Zuordnung zu einem [Buchungskreis](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) wirksam. Wenn das Feld *Buchungskreise zusammenfassen* aktiviert wird, wird trotz Aufteilung auf mehrere Buchungskreise nur ein Gesamtbuchungsbeleg ausgedruckt.
+Bei diesem Ausdruck wird die im Abrechnungsbildschirm *Stammdaten Fristen* getroffene Zuordnung zu einem [Buchungskreis](../Abrechnungsbildschirme/Stammdaten_Fristen.md) wirksam. Wenn das Feld *Buchungskreise zusammenfassen* aktiviert wird, wird trotz Aufteilung auf mehrere Buchungskreise nur ein Gesamtbuchungsbeleg ausgedruckt.
 
 Handelt es sich um einen sehr umfangreichen Buchungsbeleg, können Sie das Feld *Konten aufsummieren* aktivieren. Es werden somit pro Fibu-Konto die Beträge aufsummiert dargestellt. Wenn die Summe pro Buchungskreis angezeigt werden soll, aktivieren Sie *Summe nach Buchungskreis trennen*.
 
-Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../Abrechnungsbildschirme/Fixe%20Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
+Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../Abrechnungsbildschirme/Fixe_Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
 
 ## Jahres-Kostenstellen
 
@@ -65,7 +65,7 @@ Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug
 
 **Detail BUAK**
 
-Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../Abrechnungsbildschirme/Fixe%20Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
+Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../Abrechnungsbildschirme/Fixe_Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
 
 ## Jahres-Kostenträger
 
@@ -113,7 +113,7 @@ Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug
 
 **Detail BUAK**
 
-Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../Abrechnungsbildschirme/Fixe%20Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
+Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../Abrechnungsbildschirme/Fixe_Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
 
 ## Jahres-Dienstgeber-Gesamtkosten
 

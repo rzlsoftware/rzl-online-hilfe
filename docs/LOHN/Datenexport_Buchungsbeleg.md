@@ -12,12 +12,12 @@ Wird das Auswahlfeld *Aufteilung nach Kostenstellen* aktiviert, dann wird innerh
 
 Die Aktivierung des Feldes *Sachbezüge als DG-Kosten* bewirkt die Verbuchung von Sachbezügen in der Kostenstellenrechnung als Aufwand. Das bedeutet auf der Habenseite erfolgt bei den Sachbezügen keine Kostenstellenzuordnung. Wenn *Kostenstellen pro DN* aktiviert ist, dann wird pro Dienstnehmer die Kostenstelle zugeordnet.
 
-Sind den Dienstnehmern einzelne [Buchungskreise](../LOHN/Abrechnungsbildschirme/Stammdaten%20Fristen.md) zugeordnet und somit auf verschiedene Buchungsbelege aufgeteilt, kann durch die Anwahl des Feldes *Buchungskreise zusammenfassen* dennoch ein gemeinsamer Ausdruck erfolgen.
+Sind den Dienstnehmern einzelne [Buchungskreise](../LOHN/Abrechnungsbildschirme/Stammdaten_Fristen.md) zugeordnet und somit auf verschiedene Buchungsbelege aufgeteilt, kann durch die Anwahl des Feldes *Buchungskreise zusammenfassen* dennoch ein gemeinsamer Ausdruck erfolgen.
 
 !!! info "Hinweis"
     Bei dieser Ausdruckvariante wird jene Kontierung verwendet, die im Lohnkontenplan unter dem Buchungskreis *Null* festgelegt wurde.
 
-Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm [*Fixe Lohnarten*](../LOHN/Abrechnungsbildschirme/Fixe%20Lohnarten.md) im Bereich *BUAK* eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge verbucht werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend erforderlich.
+Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm [*Fixe Lohnarten*](../LOHN/Abrechnungsbildschirme/Fixe_Lohnarten.md) im Bereich *BUAK* eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge verbucht werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend erforderlich.
 
 Sollen Aufrolldifferenzen aus Vormonaten im laufenden Monat berücksichtigt werden, ist das Auswahlfeld *Aufrolldifferenzen im laufenden Monat* zu aktivieren. Wird das Auswahlfeld *ursprüngliche Werte verwenden* aktiviert, dann erfolgt die Ausgabe **vor** Aufrolldifferenzen (betrifft die aufgerollten Monate).
 

@@ -4,7 +4,7 @@
 
 ## Kanzleilohnarten
 
-Durch Aktivierung der *Kanzlei-Lohnarten, Kanzlei-Lohnformeln* können Sie für den jeweiligen Klienten eine der im Menüpunkt *Klient / Kanzlei / Lohnarten* angelegte Kanzleilohnartentabelle auswählen. Die in der Tabelle enthaltenen Lohnarten stehen Ihnen dann für die Abrechnung sämtlicher Dienstnehmer beim betreffenden Klienten zur Verfügung. Aufgerufen werden diese Kanzlei-Lohnarten beim einzelnen Dienstnehmer im Abrechnungsbildschirm [*Freie Lohnarten*](../../Abrechnungsbildschirme/Freie%20Lohnarten.md). Werden die Kanzlei-Lohnarten nicht aktiviert, so können im Menüpunkt *Stamm / Lohnarten* für jeden Klienten individuelle [Lohnarten](../../Abrechnungsbildschirme/Freie%20Lohnarten.md) erstellt werden.
+Durch Aktivierung der *Kanzlei-Lohnarten, Kanzlei-Lohnformeln* können Sie für den jeweiligen Klienten eine der im Menüpunkt *Klient / Kanzlei / Lohnarten* angelegte Kanzleilohnartentabelle auswählen. Die in der Tabelle enthaltenen Lohnarten stehen Ihnen dann für die Abrechnung sämtlicher Dienstnehmer beim betreffenden Klienten zur Verfügung. Aufgerufen werden diese Kanzlei-Lohnarten beim einzelnen Dienstnehmer im Abrechnungsbildschirm [*Freie Lohnarten*](../../Abrechnungsbildschirme/Freie_Lohnarten.md). Werden die Kanzlei-Lohnarten nicht aktiviert, so können im Menüpunkt *Stamm / Lohnarten* für jeden Klienten individuelle [Lohnarten](../../Abrechnungsbildschirme/Freie_Lohnarten.md) erstellt werden.
 
 !!! warning "Hinweis"
     Werden die Lohnarten noch beim Klienten selbst erstellt und verwaltet, kann eine Umstellung auf Kanzleilohnarten nur zu Beginn eines Jahres im Rahmen der [Jahresübernahme](../../Jahresübernahme/Jahresübernahme%20innerhalb%20eines%20Klienten.md) vorgenommen werden.
@@ -24,11 +24,11 @@ Kanzlei-Lohnkontenpläne werden für den Ausdruck der Aufwandskonten am Buchungs
 
 **Maximaler Gewerkschaftsbeitrag**
 
-In diesem Feld können Sie den Höchstbetrag für einen Gewerkschaftsbeitrag der Dienstnehmer des betreffenden Klienten eingeben. Eine Eingabe ist jedoch nur notwendig, wenn bei dem einzelnen Dienstnehmer im Abrechnungsbildschirm [*Abzüge*](../../Abrechnungsbildschirme/Abzüge.md) im Feld *Gewerkschaftsbeitrag* ein Prozentsatz eingegeben wird. Soll der Gewerkschaftsbeitrag gerundet werden, ist das Feld *Rundung* zu aktivieren.
+In diesem Feld können Sie den Höchstbetrag für einen Gewerkschaftsbeitrag der Dienstnehmer des betreffenden Klienten eingeben. Eine Eingabe ist jedoch nur notwendig, wenn bei dem einzelnen Dienstnehmer im Abrechnungsbildschirm [*Abzüge*](../../Abrechnungsbildschirme/Abzuege.md) im Feld *Gewerkschaftsbeitrag* ein Prozentsatz eingegeben wird. Soll der Gewerkschaftsbeitrag gerundet werden, ist das Feld *Rundung* zu aktivieren.
 
 **Maximale Betriebsratsumlage**
 
-In diesem Feld können Sie die maximale Betriebsratsumlage eingeben, die ebenfalls für alle Dienstnehmer des Dienstgebers gilt. Die Eingabe hier ist nur notwendig, wenn im Abrechnungsbildschirm [*Abzüge*](../../Abrechnungsbildschirme/Abzüge.md) im Feld *Betriebsratsumlage* ein Prozentsatz eingegeben wird. Zusätzlich besteht die Möglichkeit, den Betrag zu runden.
+In diesem Feld können Sie die maximale Betriebsratsumlage eingeben, die ebenfalls für alle Dienstnehmer des Dienstgebers gilt. Die Eingabe hier ist nur notwendig, wenn im Abrechnungsbildschirm [*Abzüge*](../../Abrechnungsbildschirme/Abzuege.md) im Feld *Betriebsratsumlage* ein Prozentsatz eingegeben wird. Zusätzlich besteht die Möglichkeit, den Betrag zu runden.
 
 ## Arbeitskräfteüberlasser
 

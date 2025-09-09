@@ -38,7 +38,7 @@ Wenn eine BUAK-Direktauszahlung von Urlaubsgeld/Urlaubszuschuss an den Dienstneh
 
 ## Externe Dienstnehmernummer verwenden
 
-Diese Option ermöglicht die Eintragung einer externen Dienstnehmer-Nummer in den [Stammdaten des Dienstnehmers](../../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md). Diese externe Nummer kann beim Ausdruck der Abrechnungen und beim Import bzw. Export von Daten verwendet werden.
+Diese Option ermöglicht die Eintragung einer externen Dienstnehmer-Nummer in den [Stammdaten des Dienstnehmers](../../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md). Diese externe Nummer kann beim Ausdruck der Abrechnungen und beim Import bzw. Export von Daten verwendet werden.
 
 ## Keine DN-Suche
 

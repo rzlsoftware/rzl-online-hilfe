@@ -4,11 +4,11 @@
 
 ## Absetzbeträge
 
-Soll der Alleinverdienerabsetzbetrag berücksichtigt werden, ist das Feld *Alleinverdiener* zu aktivieren. Wird der Alleinverdienerabsetzbetrag beansprucht, so müssen in den [*Dienstnehmer Stammdaten*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) die Daten des Ehepartners eingetragen werden.
+Soll der Alleinverdienerabsetzbetrag berücksichtigt werden, ist das Feld *Alleinverdiener* zu aktivieren. Wird der Alleinverdienerabsetzbetrag beansprucht, so müssen in den [*Dienstnehmer Stammdaten*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md) die Daten des Ehepartners eingetragen werden.
 
 Besteht Anspruch auf den Alleinerzieherabsetzbetrag ist das Feld *Alleinerzieher* zu aktivieren.
 
-Seit Juli 2004 steht pro Kind ein Kinderzuschlag zum Alleinverdiener(-erzieher)absetzbetrag zu. Im Feld *Anzahl Kinder § 106* ist die Anzahl der Kinder einzutragen, für die ein Kinderzuschlag gerechnet werden soll. Durch Anwahl der *F2-Taste* besteht die Möglichkeit, die im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) im Bereich *Kinder* erfassten Kinder automatisch zu übernehmen.
+Seit Juli 2004 steht pro Kind ein Kinderzuschlag zum Alleinverdiener(-erzieher)absetzbetrag zu. Im Feld *Anzahl Kinder § 106* ist die Anzahl der Kinder einzutragen, für die ein Kinderzuschlag gerechnet werden soll. Durch Anwahl der *F2-Taste* besteht die Möglichkeit, die im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md) im Bereich *Kinder* erfassten Kinder automatisch zu übernehmen.
 
 ## Pendlerpauschale
 

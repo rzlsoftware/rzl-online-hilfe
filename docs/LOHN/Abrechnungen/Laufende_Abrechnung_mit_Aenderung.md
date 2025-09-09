@@ -10,7 +10,7 @@ Der Menüpunkt *Abrechnung mit Änderung* ermöglicht die Abrechnung eines Teils
     Im Programmteil *Bearbeiten / Übernahme / Datenimport laufende Abrechnung* kann ein [Datenimport](../Datenimport/Allgemeines.md) für diese Abrechnungsart durchgeführt werden.
 
 !!! warning "Hinweis"
-    Ist ein Dienstnehmer in der Liste mit einem Rufzeichen markiert, so sind im Abrechnungsbildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) Anmerkungen eingetragen, bei denen die Frist abgelaufen ist. Wird der Dienstnehmer angewählt, dann erscheint die betreffende Anmerkung (z. B. Geburtstag, Lohnerhöhung) am Eingabebildschirm.
+    Ist ein Dienstnehmer in der Liste mit einem Rufzeichen markiert, so sind im Abrechnungsbildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten_Fristen.md) Anmerkungen eingetragen, bei denen die Frist abgelaufen ist. Wird der Dienstnehmer angewählt, dann erscheint die betreffende Anmerkung (z. B. Geburtstag, Lohnerhöhung) am Eingabebildschirm.
 
 Sie haben vier verschiedene Möglichkeiten auszuwählen, welche Dienstnehmer abgerechnet werden sollen:
 

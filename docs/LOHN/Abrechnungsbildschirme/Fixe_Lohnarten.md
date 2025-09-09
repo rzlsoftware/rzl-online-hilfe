@@ -6,7 +6,7 @@
 
 Hier können Sie einstellen, ob nach Stunden oder durch Eingabe des Grundlohnes bzw. Grundgehaltes abgerechnet werden soll. Wird nach Stunden abgerechnet, so können zwei verschiedene Stundensätze mit der entsprechenden Anzahl der Stunden eingegeben werden. Der eingegebene Stundensatz bleibt erhalten, die Stundenanzahl muss jeden Monat neu eingegeben werden.
 
-Wird nicht nach Stunden abgerechnet, so ist der monatliche Grundlohn bzw. Grundgehalt mit bis zu 2 Nachkommastellen einzugeben. Der hier eingegebene Betrag bleibt erhalten, kann jedoch in jedem Monat geändert werden. Die Eingabe des Betrages schließt sich mit der Verrechnung nach Stunden aus. Bei Ein- oder Austritt während des Monats wird dieser Betrag aliquotiert, falls das Eingabefeld *Aliquotierung* im Bildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) aktiviert wurde.
+Wird nicht nach Stunden abgerechnet, so ist der monatliche Grundlohn bzw. Grundgehalt mit bis zu 2 Nachkommastellen einzugeben. Der hier eingegebene Betrag bleibt erhalten, kann jedoch in jedem Monat geändert werden. Die Eingabe des Betrages schließt sich mit der Verrechnung nach Stunden aus. Bei Ein- oder Austritt während des Monats wird dieser Betrag aliquotiert, falls das Eingabefeld *Aliquotierung* im Bildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten_Fristen.md) aktiviert wurde.
 
 **Brutto / Netto**
 
@@ -16,7 +16,7 @@ Standardmäßig wird von Brutto auf Netto gerechnet. Es besteht jedoch auch die 
 
 **Trinkgeld**
 
-Das Trinkgeld erhöht nur die Sozialversicherungsgrundlage, nicht jedoch den Auszahlungsbetrag. Falls [*Aliquotierung*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) aktiviert ist, erfolgt eine automatische Aliquotierung dieses Betrags bei Ein- oder Austritt während des Monats.
+Das Trinkgeld erhöht nur die Sozialversicherungsgrundlage, nicht jedoch den Auszahlungsbetrag. Falls [*Aliquotierung*](../Abrechnungsbildschirme/Stammdaten_Fristen.md) aktiviert ist, erfolgt eine automatische Aliquotierung dieses Betrags bei Ein- oder Austritt während des Monats.
 
 **Sonderzahlung**
 

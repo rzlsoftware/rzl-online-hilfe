@@ -8,7 +8,7 @@ Neu eingetretene Dienstnehmer oder Dienstnehmer bei einem Start mit der RZL Lohn
 !!! info "Tipp"
     Im Programmteil *Bearbeiten / Datenimport / Import Neuanlage* kann ein [Datenimport](../Datenimport/Allgemeines.md) für diese Abrechnungsart durchgeführt werden.
 
-Bei der Neuanlage eines Dienstnehmers gelangt man nach Festlegung der Dienstnehmernummer und Anwahl der Schaltfläche *Anlegen* automatisch in den ersten Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md).
+Bei der Neuanlage eines Dienstnehmers gelangt man nach Festlegung der Dienstnehmernummer und Anwahl der Schaltfläche *Anlegen* automatisch in den ersten Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md).
 
 !!! info "Tipp"
     Es wird empfohlen, sämtliche Daten des Dienstnehmers direkt bei der Neuanlage einzugeben, um spätere Nachbearbeitungen aufgrund fehlender Informationen zu vermeiden.

@@ -22,7 +22,7 @@ Nach Anwahl des Menüpunktes *Ausdruck / Überweisungen/Zahlscheine / Abrechnung
 ![Image](<img/image225.png>){width="500"}
 
 !!! warning "Hinweis"
-    Der Ausdruck von Überweisungen und Zahlscheinen wird nur für Dienstnehmer durchgeführt, bei denen im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) die vollständige Bankverbindung eingegeben worden ist.
+    Der Ausdruck von Überweisungen und Zahlscheinen wird nur für Dienstnehmer durchgeführt, bei denen im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md) die vollständige Bankverbindung eingegeben worden ist.
 
 Die Formulare können für einzelne Dienstnehmer, für den gesamten Klienten inklusive Unterdienstgeber, oder auch nur für einzelne Unterdienstgeber ausgedruckt werden. Bei einem dienstgeberweisen Ausdruck wird automatisch ein Sammelüberweisungsbeleg ausgedruckt.
 
@@ -64,7 +64,7 @@ Dieser Programmteil ermöglicht den Ausdruck der Überweisung für die Übertrag
 
 Damit die Erstellung erfolgreich durchgeführt werden kann, muss die BV-Kasse in den Stammdaten der Behörden mit der Bankverbindung angelegt sein. Die BV-Kasse muss in den Stammdaten des Klienten im Registerblatt *ÖGK, BV-Kasse* verankert werden.
 
-Die Übertragungsbeträge werden bei den einzelnen Dienstnehmern im Abrechnungsbildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) im Bereich *Vollumstieg Abfertigung neu* eingetragen.
+Die Übertragungsbeträge werden bei den einzelnen Dienstnehmern im Abrechnungsbildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten_Fristen.md) im Bereich *Vollumstieg Abfertigung neu* eingetragen.
 
 ## Überweisung Exekutionsbeträge
 
@@ -78,7 +78,7 @@ Dieser Programmteil ermöglicht den Ausdruck der Überweisung für die Sonstigen
 
 Damit die Erstellung erfolgreich durchgeführt werden kann, muss die [Sonstige Behörde](../Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte.md) in den Stammdaten der Behörden mit der Bankverbindung angelegt sein. Die Daten müssen in den Stammdaten des Klienten im Registerblatt [*Sozialfonds, Überw. an Behörden*](../Klientenstammdaten/Stammdaten%20Klient/Sozialfonds,%20Überw.%20an%20Behörden.md) verankert werden.
 
-Die Beträge für die Behörde werden bei den einzelnen Dienstnehmern im Abrechnungsbildschirm [*Freie Lohnarten*](../Abrechnungsbildschirme/Freie%20Lohnarten.md) erfasst.
+Die Beträge für die Behörde werden bei den einzelnen Dienstnehmern im Abrechnungsbildschirm [*Freie Lohnarten*](../Abrechnungsbildschirme/Freie_Lohnarten.md) erfasst.
 
 ## händisch erstellen
 

@@ -1,6 +1,6 @@
 # Versenden der Abrechnungen per E-Mail
 
-Über *Ausdruck / Abrechnungen* können die Abrechnungen per E-Mail versendet werden. Wichtig hierbei ist, dass bei den einzelnen Dienstnehmern die E-Mail-Adresse unter [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) hinterlegt ist. Datenschutzrechtlich sollte auch ein Passwort hinterlegt werden.
+Über *Ausdruck / Abrechnungen* können die Abrechnungen per E-Mail versendet werden. Wichtig hierbei ist, dass bei den einzelnen Dienstnehmern die E-Mail-Adresse unter [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md) hinterlegt ist. Datenschutzrechtlich sollte auch ein Passwort hinterlegt werden.
 
 Wählen Sie im Ausdruck-Dialog die Felder *Einzeldruck* und *E-Mail-Adresse vorhanden* aus.
 

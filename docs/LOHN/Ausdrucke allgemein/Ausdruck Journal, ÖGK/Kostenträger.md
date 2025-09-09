@@ -1,6 +1,6 @@
 # Kostenträger
 
-Durch Anwahl des Menüpunktes *Ausdruck / Ausdruck Journal / ÖGK / Kostenträger* wird eine aufsteigend nach Kostenträger gegliederte Zusammenfassung der in den einzelnen Kostenträgern angefallenen Lohn und Lohnnebenkosten je Dienstnehmer gedruckt. Voraussetzung dafür ist jedoch, dass bei der Anlage des Dienstnehmers im Eingabebildschirm [*Kostenstelle/Kostenträger*](../../Abrechnungsbildschirme/Kostenstellen%20und%20Kostenträger.md) eine Zuordnung zu den Kostenträgern vorgenommen wurde.
+Durch Anwahl des Menüpunktes *Ausdruck / Ausdruck Journal / ÖGK / Kostenträger* wird eine aufsteigend nach Kostenträger gegliederte Zusammenfassung der in den einzelnen Kostenträgern angefallenen Lohn und Lohnnebenkosten je Dienstnehmer gedruckt. Voraussetzung dafür ist jedoch, dass bei der Anlage des Dienstnehmers im Eingabebildschirm [*Kostenstelle/Kostenträger*](../../Abrechnungsbildschirme/Kostenstellen_Kostentraeger.md) eine Zuordnung zu den Kostenträgern vorgenommen wurde.
 
 ![Image](<img/image228.png>){width="500"}
 

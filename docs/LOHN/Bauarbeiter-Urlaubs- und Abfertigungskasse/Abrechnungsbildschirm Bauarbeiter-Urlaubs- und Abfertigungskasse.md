@@ -17,7 +17,7 @@ Zudem bewirkt die Option, dass für weitere sonstige Bezüge (Weihnachtsremunera
 
 Im ersten Bereich des Abrechnungsbildschirmes muss zunächst der Haken im Feld *Bauarbeiter- Urlaubs- und Abfertigungskasse (BUAK)* gesetzt werden.
 
-Das in den Klientenstammdaten im *Registerblatt NeuFöG, BUAK, ELDA* eingetragen *Betriebskennzeichen* und die *Direktauszahlung* ja/nein werden angezeigt. Wenn [Direktauszahlung](../Abrechnungsbildschirme/Fixe%20Lohnarten.md) aktiviert ist, kann die Urlaubsentgelt-Verrechnung nicht durchgeführt werden. Die Erfassung ist derzeit nur manuell am Portal der BUAK möglich.
+Das in den Klientenstammdaten im *Registerblatt NeuFöG, BUAK, ELDA* eingetragen *Betriebskennzeichen* und die *Direktauszahlung* ja/nein werden angezeigt. Wenn [Direktauszahlung](../Abrechnungsbildschirme/Fixe_Lohnarten.md) aktiviert ist, kann die Urlaubsentgelt-Verrechnung nicht durchgeführt werden. Die Erfassung ist derzeit nur manuell am Portal der BUAK möglich.
 
 **Arbeitnehmerkennzeichen**
 

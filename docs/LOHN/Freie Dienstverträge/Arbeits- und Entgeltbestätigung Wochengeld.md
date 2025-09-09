@@ -1,3 +1,3 @@
 # Arbeits- und Entgeltbestätigung Wochengeld
 
-Siehe [Arbeits- und Entgeltsbestätigung Wochengeld](../Abrechnungsbildschirme/Arbeits-%20und%20Entgeltbestätigung%20Wochengeld.md)
+Siehe [Arbeits- und Entgeltsbestätigung Wochengeld](../Abrechnungsbildschirme/Arbeits_und_Entgeltbestaetigung_Wochengeld.md)

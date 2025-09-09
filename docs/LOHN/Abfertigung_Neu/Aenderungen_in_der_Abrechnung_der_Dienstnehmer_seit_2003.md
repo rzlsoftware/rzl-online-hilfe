@@ -40,7 +40,7 @@ Für Zeiten des Kinderbetreuungsgeldbezugs, der Bildungskarenz und der Hospizkar
 
 ## Sonderfall BUAK (Bauarbeiter- Urlaubs- und Abfertigungskasse)
 
-Werden Mitarbeiter, die zwangsweise der BUAK unterliegen seit 01.01.2003 im Programm neu angelegt, dann sind im Abrechnungsbildschirm [*Bauarbeiter- Urlaubs- und Abfertigungskasse (BUAK)*](../Abrechnungsbildschirme/Bauarbeiter-Urlaubs-%20und%20Abfertigungskasse.md) Eintragungen vorzunehmen.
+Werden Mitarbeiter, die zwangsweise der BUAK unterliegen seit 01.01.2003 im Programm neu angelegt, dann sind im Abrechnungsbildschirm [*Bauarbeiter- Urlaubs- und Abfertigungskasse (BUAK)*](../Abrechnungsbildschirme/Bauarbeiter_Urlaubs_und_Abfertigungskasse.md) Eintragungen vorzunehmen.
 
 ![Image](<img/image304.png>){width="500"}
 

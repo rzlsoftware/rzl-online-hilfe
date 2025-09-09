@@ -6,7 +6,7 @@ Im Registerblatt *ÖGK, BV-Kasse* wählen Sie bei der Option *Selbstabrechner* d
 
 ![Image](img/image607.png){width="500"}
 
-In der Abrechnung des Dienstnehmers müssen Sie im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) die Unterdienstgebernummer im entsprechenden Feld *Klient/UDG* eintragen.
+In der Abrechnung des Dienstnehmers müssen Sie im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md) die Unterdienstgebernummer im entsprechenden Feld *Klient/UDG* eintragen.
 
 ![Image](img/image608.png){width="500"}
 

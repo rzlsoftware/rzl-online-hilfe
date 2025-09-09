@@ -64,4 +64,4 @@ Im nächsten Schritt öffnen Sie den [*Sozialversicherungsbildschirm*](../Abrech
 
 Da während des Mutterschutzes kein Entgelt zu zahlen ist, darf in den *fixen und freien Lohnarten* nichts abgerechnet werden.
 
-Abschließend wechseln Sie in den Bereich der [*fixen Lohnarten*](../Abrechnungsbildschirme/Fixe%20Lohnarten.md) und geben im Abschnitt *BV-Bemessung für Mutterschutz* die entsprechende Bemessungsgrundlage **manuell** ein. Ein automatischer Vorschlag durch das Programm ist in diesem Fall **nicht** vorgesehen.
+Abschließend wechseln Sie in den Bereich der [*fixen Lohnarten*](../Abrechnungsbildschirme/Fixe_Lohnarten.md) und geben im Abschnitt *BV-Bemessung für Mutterschutz* die entsprechende Bemessungsgrundlage **manuell** ein. Ein automatischer Vorschlag durch das Programm ist in diesem Fall **nicht** vorgesehen.

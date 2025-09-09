@@ -1,8 +1,8 @@
 nav:
     - Grundsaetzliche_Bemerkungen_zu_den_Abrechnungsbildschirmen.md
     - Navigation_Wechsel_zwischen_Bildschirmen_und_Eingabefeldern.md
-    - Stammdaten Dienstnehmer.md
-    - Stammdaten Fristen.md
+    - Stammdaten_Dienstnehmer.md
+    - Stammdaten_Fristen.md
     - Eintritt.md
     - Kollektivvertrag.md
     - Austritt.md
@@ -11,7 +11,7 @@ nav:
     - Kurzarbeit.md
     - Fixe_Lohnarten.md
     - Freie_Lohnarten.md
-    - Über- und Mehrarbeitsstunden.md
+    - Ueber_und_Mehrarbeitsstunden.md
     - Zeitausgleich.md
     - Dienstverhinderung.md
     - Abzuege.md

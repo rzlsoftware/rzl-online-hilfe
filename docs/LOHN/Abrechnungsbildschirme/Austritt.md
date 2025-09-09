@@ -6,7 +6,7 @@
 
 **Austrittsdatum**
 
-Eingabe des arbeitsrechtlichen Endes des Dienstverhältnisses. Das Austrittsdatum muss im Abrechnungsmonat liegen. Aufgrund des Austrittsdatums werden die SV-Tage und LSt-Tage berechnet. Ist [*Aliquotierung*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) angewählt, wird der Bruttolohn entsprechend aliquotiert. In den nächsten Monaten wird die Abrechnung automatisch unterdrückt. Der Dienstnehmer kann dann nur mittels Wiedereintritt im selben Monat oder zu einem späteren Zeitraum abgerechnet werden.
+Eingabe des arbeitsrechtlichen Endes des Dienstverhältnisses. Das Austrittsdatum muss im Abrechnungsmonat liegen. Aufgrund des Austrittsdatums werden die SV-Tage und LSt-Tage berechnet. Ist [*Aliquotierung*](../Abrechnungsbildschirme/Stammdaten_Fristen.md) angewählt, wird der Bruttolohn entsprechend aliquotiert. In den nächsten Monaten wird die Abrechnung automatisch unterdrückt. Der Dienstnehmer kann dann nur mittels Wiedereintritt im selben Monat oder zu einem späteren Zeitraum abgerechnet werden.
 
 **Grund**
 

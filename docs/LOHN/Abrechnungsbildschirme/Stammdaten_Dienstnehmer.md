@@ -223,7 +223,7 @@ Sie haben die Möglichkeit, eine bereits ausbezahlte Pauschale Reiseaufwandsents
 
 Hierfür legen Sie sich unter *Abrechnungen / [Neuanlage Dienstnehmer](../Abrechnungen/Neuanlage_Dienstnehmer.md)* den betroffenen Dienstnehmer an.
 
-Erfassen Sie im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) folgende Pflichtfelder:
+Erfassen Sie im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md) folgende Pflichtfelder:
 
 - Name
 - Vorname

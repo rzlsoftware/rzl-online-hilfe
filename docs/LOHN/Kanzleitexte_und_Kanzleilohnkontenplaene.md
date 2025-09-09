@@ -39,7 +39,7 @@ Es können bis zu 99 Standardtexte für den Dienstzettel mit bis zu je 4 Zeilen 
 
 In diesem Registerblatt können bis zu 20 Kanzlei-Abrechnungstexte angelegt werden. In den Stammdaten des Klienten können im Registerblatt [*Abrechnungstexte*](../LOHN/Klientenstammdaten/Stammdaten%20Klient/Abrechnungs-Texte,%20Buchungskreis-Texte.md) maximal zwei der angelegten Abrechnungstexte mit einer zeitlichen Begrenzung ausgewählt werden. Die ausgewählten Abrechnungstexte werden auf den monatlichen Lohnabrechnungen der Dienstnehmer des jeweiligen Klienten links unten im Bereich des Auszahlungsbetrages angedruckt.
 
-Abrechnungstexte können auch dienstnehmerbezogen im Abrechnungsbildschirm [*Stammdaten Fristen*](../LOHN/Abrechnungsbildschirme/Stammdaten%20Fristen.md) eingetragen werden.
+Abrechnungstexte können auch dienstnehmerbezogen im Abrechnungsbildschirm [*Stammdaten Fristen*](../LOHN/Abrechnungsbildschirme/Stammdaten_Fristen.md) eingetragen werden.
 
 Insgesamt können somit 4 Abrechnungstexte auf den Abrechnungen der Dienstnehmer platziert werden. Zwei Abrechnungstexte klientenbezogen (kanzlei- oder klientenbezogene Abrechnungstexte) und 2 Abrechnungstexte dienstnehmerbezogen im Abrechnungsbildschirm *Stammdaten* *Fristen.*
 
@@ -67,7 +67,7 @@ Diese Kontonummern werden als Vorkontierung am [Buchungsbeleg](../LOHN/Ausdrucke
 
 ![Image](<img/image172.png>){width="500"}
 
-Das Eingabefeld *Höchste Belegkreisnummer* orientiert sich an der Anzahl der verwendeten Buchungskreise, die im Abrechnungsbildschirm [*Stammdaten Fristen*](../LOHN/Abrechnungsbildschirme/Stammdaten%20Fristen.md) eingetragen werden.
+Das Eingabefeld *Höchste Belegkreisnummer* orientiert sich an der Anzahl der verwendeten Buchungskreise, die im Abrechnungsbildschirm [*Stammdaten Fristen*](../LOHN/Abrechnungsbildschirme/Stammdaten_Fristen.md) eingetragen werden.
 
 !!! warning "Hinweis"
     Höchste Belegkreisnummer 0 (null) bedeutet, dass nur ein Buchungsbeleg ausgedruckt werden soll. Höchste Belegkreisnummer 1 bedeutet, dass Platz für zwei Buchungskreise reserviert ist (0 und 1).

@@ -18,4 +18,4 @@ Soll der Ausdruck pro Kostenstelle auf einer eigenen Seite erfolgen, ist dieses 
 
 **Detail BUAK**
 
-Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../../Abrechnungsbildschirme/Fixe%20Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
+Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](../../Abrechnungsbildschirme/Fixe_Lohnarten.md) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.

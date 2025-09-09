@@ -276,7 +276,7 @@ Es gibt drei Möglichkeiten den Stundensatz für die Berechnung der Überstunden
 
 **1. Verwendung USt.-Grunddaten**
 
-Wenn das Feld *Verwendung ÜSt.-Grunddaten* aktiviert ist, übernimmt das Programm die Einstellungen (Überstundenteiler oder abw. Überstundengrundlohn) aus dem Abrechnungsbildschirm [*Über-/Mehrarbeitsstunden*](../Abrechnungsbildschirme/Über-%20und%20Mehrarbeitsstunden.md).
+Wenn das Feld *Verwendung ÜSt.-Grunddaten* aktiviert ist, übernimmt das Programm die Einstellungen (Überstundenteiler oder abw. Überstundengrundlohn) aus dem Abrechnungsbildschirm [*Über-/Mehrarbeitsstunden*](../Abrechnungsbildschirme/Ueber_und_Mehrarbeitsstunden.md).
 
 ![Image](<img/image152.png>)
 

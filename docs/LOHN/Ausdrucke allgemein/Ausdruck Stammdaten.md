@@ -22,9 +22,9 @@ Nach Anwahl des Menüpunktes *Ausdruck / Stammdaten / Dienstnehmer* erscheint fo
 
 - **Liste**
 
-    Der Ausdruck der Liste der Dienstnehmer kann wahlweise *mit* oder *ohne Fristen* erfolgen. Bei diesen Fristen handelt es sich um die im Abrechnungsbildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten%20Fristen.md) eingetragenen *Anmerkungen* (z. B. 1.4.2022 Gehaltserhöhung). Im Feld *Stichtagsmonat* kann das für den Ausdruck der Fristen gewünschte Monat eingetragen werden.
+    Der Ausdruck der Liste der Dienstnehmer kann wahlweise *mit* oder *ohne Fristen* erfolgen. Bei diesen Fristen handelt es sich um die im Abrechnungsbildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten_Fristen.md) eingetragenen *Anmerkungen* (z. B. 1.4.2022 Gehaltserhöhung). Im Feld *Stichtagsmonat* kann das für den Ausdruck der Fristen gewünschte Monat eingetragen werden.
 
-    Sollen die im Abrechnungsbildschirm [*Dienstnehmer-Notizen*](../Abrechnungsbildschirme/Dienstnehmer-Notizen.md) geführten Eintragungen angedruckt werden, ist das Feld *mit Notizen* anzuwählen.
+    Sollen die im Abrechnungsbildschirm [*Dienstnehmer-Notizen*](../Abrechnungsbildschirme/Dienstnehmer_Notizen.md) geführten Eintragungen angedruckt werden, ist das Feld *mit Notizen* anzuwählen.
 
 - **Stammdatenblatt**
 

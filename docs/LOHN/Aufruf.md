@@ -105,11 +105,11 @@ Hier werden die bereits angelegten AMS-KUA-Projekte aufgelistet.
 
 **Aufruf Arbeits- und Entgeltbestätigung Krankengeld**
 
-In diesem Programmteil werden die im Abrechnungsbildschirm [*Arbeits- und Entgeltsbestätigung Krankengeld*](../LOHN/Abrechnungsbildschirme/Arbeits-%20und%20Entgeltbestätigung%20Krankengeld.md) abgerechneten Bestätigungen angezeigt.
+In diesem Programmteil werden die im Abrechnungsbildschirm [*Arbeits- und Entgeltsbestätigung Krankengeld*](../LOHN/Abrechnungsbildschirme/Arbeits_und_Entgeltbestaetigung_Krankengeld.md) abgerechneten Bestätigungen angezeigt.
 
 **Aufruf Arbeits- und Entgeltbestätigung Wochengeld**
 
-Durch Anwahl dieses Programmteiles werden die im Abrechnungsbildschirm [*Arbeits- und Entgeltsbestätigung Wochengeld*](../LOHN/Abrechnungsbildschirme/Arbeits-%20und%20Entgeltbestätigung%20Wochengeld.md) abgerechneten Bestätigungen angezeigt.
+Durch Anwahl dieses Programmteiles werden die im Abrechnungsbildschirm [*Arbeits- und Entgeltsbestätigung Wochengeld*](../LOHN/Abrechnungsbildschirme/Arbeits_und_Entgeltbestaetigung_Wochengeld.md) abgerechneten Bestätigungen angezeigt.
 
 **Aufruf Dienstnehmer-Notizen**
 
