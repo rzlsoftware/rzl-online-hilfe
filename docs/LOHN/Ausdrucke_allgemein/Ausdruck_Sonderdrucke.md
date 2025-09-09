@@ -45,7 +45,7 @@ Die Arbeitsbescheinigung wird auf *A4* ausgedruckt, wenn im Abrechnungsbildschir
 
 **Krankenstandsbescheinigungen**
 
-Dieser Programmteil ermöglicht den Ausdruck der über Elda importierten [Krankenstandsbescheinigungen](../Elektronische%20Meldungen%20ÖGK/Krankenstandsbescheinigungen.md).
+Dieser Programmteil ermöglicht den Ausdruck der über Elda importierten [Krankenstandsbescheinigungen](../Elektronische_Meldungen_OEGK/Krankenstandsbescheinigungen.md).
 
 **Gewerkschaftsliste**
 
