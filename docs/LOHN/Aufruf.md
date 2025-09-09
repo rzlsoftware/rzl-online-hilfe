@@ -129,7 +129,7 @@ Durch Anwahl dieses Programmteiles werden von allen Dienstnehmern das Eintrittsd
 
 **Aufruf Dienstnehmer suchen**
 
-Durch Anwahl dieses Programmteiles wird die [Dienstnehmersuche](../LOHN/Allgemeines/Dienstnehmer-Suche.md) gestartet.
+Durch Anwahl dieses Programmteiles wird die [Dienstnehmersuche](../LOHN/Allgemeines/Dienstnehmersuche.md) gestartet.
 
 **Aufruf WEBEKU Abfrage**
 

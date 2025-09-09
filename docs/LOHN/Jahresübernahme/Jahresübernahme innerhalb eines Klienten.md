@@ -29,7 +29,7 @@ Durch Aktivierung des Feldes *ausgetretene Dienstnehmer übernehmen* werden auch
 Die Übernahme der im Abrechnungsbildschirm Dienstnehmer-Notizen angelegten Eintragungen kann durch Deaktivierung des Auswahlfeldes *Dienstnehmer-Notizen übernehmen* verhindert werden.
 
 !!! info "Tipp"
-    Im Zuge der Jahresübernahme können alle Dienstnehmernummern durch Aktivierung des Auswahlfeldes *Nummern ändern* geändert werden. Es kann jeder Dienstnehmer einzeln angewählt werden und die Nummer wird von Hand korrigiert oder es wird die Schaltfläche *laufend nummerieren* angewählt und die Dienstnehmer werden beginnend mit der ersten Nummer des [Dienstnehmernummernbereiches](../Allgemeines/DN-Nummernbereich.md) fortlaufend durchnummeriert.
+    Im Zuge der Jahresübernahme können alle Dienstnehmernummern durch Aktivierung des Auswahlfeldes *Nummern ändern* geändert werden. Es kann jeder Dienstnehmer einzeln angewählt werden und die Nummer wird von Hand korrigiert oder es wird die Schaltfläche *laufend nummerieren* angewählt und die Dienstnehmer werden beginnend mit der ersten Nummer des [Dienstnehmernummernbereiches](../Allgemeines/DN_Nummernbereich.md) fortlaufend durchnummeriert.
 
 **Nummer ändern**
 
