@@ -77,11 +77,11 @@ In diesem Aufruf werden die Angehörigen, die in den Stammdaten des Dienstnehmer
 
 **Aufruf Exekutionen**
 
-In diesem Programmteil werden die für die Dienstnehmer angelegten [Drittschuldnererklärungen](../LOHN/Exekutionen/Drittschuldner-Erklärung.md) angezeigt.
+In diesem Programmteil werden die für die Dienstnehmer angelegten [Drittschuldnererklärungen](../LOHN/Exekutionen/Drittschuldnererklaerung.md) angezeigt.
 
 **Aufruf Exekutionsbeträge**
 
-Hier erfolgt eine Auflistung der bereits exekutierten Beträge zu den jeweiligen Drittschuldnererklärungen. [Exekutionsbeträge](../LOHN/Exekutionen/Nacherfassung%20Exekution.md) die manuell nacherfasst wurden, sind farblich anders dargestellt.
+Hier erfolgt eine Auflistung der bereits exekutierten Beträge zu den jeweiligen Drittschuldnererklärungen. [Exekutionsbeträge](../LOHN/Exekutionen/Nacherfassung_Exekution.md) die manuell nacherfasst wurden, sind farblich anders dargestellt.
 
 **Aufruf EFZ-Antrag**
 
