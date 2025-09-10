@@ -25,5 +25,5 @@ Das **RZL SQL Server Setup** dient ausschließlich der Installation und Konfigur
 - Die **RZL Komplettversion** ist für die vollständige Installation der RZL-Software inklusive aller benötigten Komponenten (Programme und ggf. Datenbank) vorgesehen.
 - Das **RZL SQL Server Setup** ist speziell für die Installation und Einrichtung des SQL Servers, der von den RZL-Programmen benötigt wird. Und dienst als vorbereitung  für die darauffolgende Installation von Programmen wie KIS und Board mittels RZL Komplettversion.
 
-**Hinweis:**  
-Falls Sie unsicher sind, welches Setup für Ihren Anwendungsfall geeignet ist, wenden Sie sich bitte an unseren Support. Wir beraten Sie gerne individuell.
+Falls Sie unsicher sind, welches Setup für Ihren Anwendungsfall geeignet ist, wenden Sie sich bitte an unseren Support. Wir beraten Sie gerne individuell.   
+[Support](https://rzlsoftware.at/support){:target="_blank"}

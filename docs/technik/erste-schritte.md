@@ -5,10 +5,10 @@ Willkommen im Hilfebereich für technische Fragen!
 Hier finden Sie einen übersichtlichen Leitfaden zur Vorbereitung, Installation, Wartung und Optimierung der RZL Programme. Sie erhalten Zugriff auf Kurzanleitungen und Knowledge-Base-Artikel. Außerdem beantworten wir Ihre wichtigsten Fragen rund um die Installation von RZL.
 
 Gerne steht Ihnen unser Team bei kniffligen Fragen zur Verfügung und ist stehts für Sie erreichbar!
-[Support-Hotline](https://rzlsoftware.at/support)
+[Support-Hotline](https://rzlsoftware.at/support){:target="_blank"}
 
 !!!node "Tipp"
-    Unser neues Mitglied [Frag Hainz!](https://hainz.rzlsoftware.at/Chat) steht Ihnen rund um die Uhr in Echtzeit zur Verfügung und beantwortet gerne Ihre Fragen.
+    Unser neues Mitglied [Frag Hainz!](https://hainz.rzlsoftware.at/Chat){:target="_blank"} steht Ihnen rund um die Uhr in Echtzeit zur Verfügung und beantwortet gerne Ihre Fragen.
     Mehr Informationen zu Frag Hainz! finden Sie hier: [Wie kann mich Frag Hainz! unterstützen?](nutzung-fraghainz.md)
 
 ## Vorbereitung für Anwender
