@@ -1,0 +1,5 @@
+nav:
+    - Allgemein: index.md
+    - Einrichtung.md
+    - SendenanDN.md
+    - ...

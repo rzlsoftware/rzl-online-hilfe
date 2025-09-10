@@ -1,14 +1,10 @@
 {
-	"image": "mcr.microsoft.com/devcontainers/universal:2",
-	"features": {
-		"ghcr.io/devcontainers-extra/features/mkdocs:2": {
-			"plugins": ""
-		}
-	},
+	"image": "mcr.microsoft.com/devcontainers/python:3",
 	"postCreateCommand": "bash .devcontainer/setup.sh",
 	"customizations": {
 		"vscode": {
 			"extensions": [
+        "editorconfig.editorconfig",
 				"yzhang.markdown-all-in-one"
 			],
 			"settings": {
