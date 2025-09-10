@@ -9,6 +9,7 @@ Für genauere Analysen generiert RZL im Laufe der Zeit Log-Dateien. Diese Logdat
 
 ![Verwaltung](img/logdateien_hochladen_verwaltung.png)
 ![Erfolgsmeldung](img/logdateien_hochladen_erfolgsmeldung.png)
+
 ## Mögliche Meldungen
 
 Gegebenenfalls kann es vorkommen, dass bei der Übermittlung eine Warnung oder ein Fehlerbericht ausgegeben wird. Im Reiter **Erklärung** erhalten Sie dazu genauere Details.

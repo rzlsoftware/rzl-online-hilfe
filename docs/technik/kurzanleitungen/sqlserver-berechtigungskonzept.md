@@ -2,8 +2,8 @@
 
 In dieser Dokumentation werden die Benutzer und Rollen beschrieben, die bei der Installation der RZL Programme auf dem SQL Server angelegt werden. Diese Einrichtung ist notwendig, um einen reibungslosen Zugriff der Programme auf die Datenbank zu gewährleisten.
 
-> **Hinweis:**  
-> Diese Anleitung richtet sich primär an IT-Techniker. Bei fehlerhaften Änderungen besteht das Risiko, dass die RZL Programme nicht wie erwartet funktionieren oder ausfallen können.
+> **Hinweis**
+Diese Anleitung richtet sich primär an IT-Techniker. Bei fehlerhaften Änderungen besteht das Risiko, dass die RZL Programme nicht wie erwartet funktionieren oder ausfallen können.
 
 ## Server-Rollen
 
@@ -58,8 +58,8 @@ In dieser Dokumentation werden die Benutzer und Rollen beschrieben, die bei der 
 
 Mit der Konsolenanwendung `DbInit.exe` kann die korrekte Konfiguration der Benutzer und Rollen kontrolliert und bei Bedarf korrigiert werden. Die Anwendung ist im Installationsverzeichnis (`C:\Program Files (x86)\RZL Software\RZLWin`) der RZL Programme zu finden und muss per Shell (Eingabeaufforderung, PowerShell, etc.) aufgerufen werden.
 
-> **Hinweis:**  
-> Der Benutzer muss – zumindest temporär – die Rolle `sysadmin` am SQL Server besitzen, damit die Anwendung erfolgreich ausgeführt werden kann.
+> **Hinweis**
+Der Benutzer muss – zumindest temporär – die Rolle `sysadmin` am SQL Server besitzen, damit die Anwendung erfolgreich ausgeführt werden kann.
 
 ### `/checkLoginsAndUsers`
 Mit diesem Parameter erfolgt die Kontrolle. Als Ergebnis wird eine Auflistung aller relevanten Benutzer und Rollen geliefert, mit dem jeweiligen Status (OK/NOK). Sollte eine fehlerhafte Konfiguration (NOK) existieren, reparieren Sie diese manuell oder mit Hilfe der `DbInit.exe`.

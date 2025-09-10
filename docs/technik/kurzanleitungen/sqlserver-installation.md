@@ -2,34 +2,32 @@
 
 In dieser Dokumentation wird die Installation und Konfiguration des SQL Servers beschrieben, damit dieser von den RZL Programmen verwendet werden kann.
 
-> **Hinweis:**  
-> Diese Anleitung richtet sich primär an IT-Techniker. Bei einer fehlerhaften Installation besteht das Risiko, dass die RZL Programme nicht wie erwartet funktionieren oder ausfallen können.
+> **Hinweis**
+Diese Anleitung richtet sich primär an IT-Techniker. Bei einer fehlerhaften Installation besteht das Risiko, dass die RZL Programme nicht wie erwartet funktionieren oder ausfallen können.
 
----
 
 ## Allgemeines
 
-> **Hinweis:**  
-> - **SQL Server Version** bezieht sich auf den Entwicklungsstand und das Veröffentlichungsdatum des SQL Servers (z.B.: 2019, 2022, …).  
-> - **SQL Server Edition** bezieht sich auf die Variante des SQL Servers, die für unterschiedliche Nutzungsszenarien und Leistungsanforderungen konzipiert ist (Express, Standard, …).
+> **Hinweis**   
+- **SQL Server Version** bezieht sich auf den Entwicklungsstand und das Veröffentlichungsdatum des SQL Servers (z.B.: 2019, 2022, …).  
+- **SQL Server Edition** bezieht sich auf die Variante des SQL Servers, die für unterschiedliche Nutzungsszenarien und Leistungsanforderungen konzipiert ist (Express, Standard, …).
 
 Bitte prüfen Sie zuerst die benötigten Hardware- und Softwareanforderungen der SQL Server Version, die Sie installieren möchten. Es wird empfohlen, die aktuellste – von RZL freigegebene – SQL Server Version (aktuell: SQL Server 2022) zu installieren.
 
-Standardmäßig setzt RZL die kostenfreie Express Edition des SQL Servers voraus. Aufgrund der Skalierungslimits kann es jedoch notwendig sein, dass für Ihre Installation die kostenpflichtige Standard Edition notwendig ist. Näheres dazu finden Sie auch in der Kurzanleitung **Technische Unterschiede zwischen SQL Server Express und SQL Server Standard**.
+Standardmäßig setzt RZL die kostenfreie Express Edition des SQL Servers voraus. Aufgrund der [Skalierungslimits](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16#scale-limits){:target="_blank"} kann es jedoch notwendig sein, dass für Ihre Installation die kostenpflichtige Standard Edition notwendig ist. Näheres dazu finden Sie auch in der Kurzanleitung [Technische Unterschiede zwischen SQL Server Express und SQL Server Standard](unterschied-sqlexpress-sqlstandard.md).
 
 RZL stellt aus lizenzrechtlichen Gründen – mit Ausnahme von SQL Server Express – keine Installationsdateien für die unterschiedlichen SQL Server Editionen zur Verfügung.
 
 ### Download SQL Server 2022 Express Advanced
 
-- [Deutsch (empfohlen)](#)
-- [Englisch](#)
+- [Deutsch (empfohlen)](https://download.microsoft.com/download/6/d/f/6df2ef5b-235c-4b38-89cb-d3d98797dbfc/SQLEXPRADV_x64_DEU.exe){:target="_blank"}
+- [Englisch](https://download.microsoft.com/download/3/8/d/38de7036-2433-4207-8eae-06e247e17b25/SQLEXPRADV_x64_ENU.exe){:target="_blank"}
 
----
 
 ## Installation einer neuen SQL Server Instanz
 
-> **Hinweis:**  
-> Die folgenden Schritte wurden mit dem Setup für SQL Server 2022 Standard (deutsch) auf einem Windows Server 2022 (deutsch) durchgeführt. Die Anleitung ist auch für andere Versionen und Editionen des SQL Servers gültig, es kann jedoch sein, dass einzelne Schritte abweichen.
+> **Hinweis**
+Die folgenden Schritte wurden mit dem Setup für SQL Server 2022 Standard (deutsch) auf einem Windows Server 2022 (deutsch) durchgeführt. Die Anleitung ist auch für andere Versionen und Editionen des SQL Servers gültig, es kann jedoch sein, dass einzelne Schritte abweichen.
 
 1. **Mounten des Installationsmediums (ISO-Datei)**  
     Rechtsklick auf die ISO-Datei → **Bereitstellen**  
@@ -41,8 +39,8 @@ RZL stellt aus lizenzrechtlichen Gründen – mit Ausnahme von SQL Server Expres
     - Unter **Start → Einstellungen → Zeit und Sprache → Region** ändern Sie das regionale Format auf **Deutsch (Deutschland)**.
     - Starten Sie das Setup erneut.
 
-    > **Hinweis:**  
-    > Nach der erfolgreichen Installation können Sie das regionale Format wieder auf **Deutsch (Österreich)** ändern. Die Änderung hat keinen Einfluss auf den Betrieb des SQL Servers.
+    > **Hinweis**
+    Nach der erfolgreichen Installation können Sie das regionale Format wieder auf **Deutsch (Österreich)** ändern. Die Änderung hat keinen Einfluss auf den Betrieb des SQL Servers.
 
 3. **Im Installationscenter**  
     Wählen Sie **Installation → Neue eigenständige SQL Server-Installation oder Hinzufügen von Funktionen zu einer vorhandenen Installation**.
@@ -68,8 +66,9 @@ RZL stellt aus lizenzrechtlichen Gründen – mit Ausnahme von SQL Server Expres
 9. **Instanzkonfiguration**  
     Wählen Sie **Benannte Instanz** und legen Sie einen Namen für die neue SQL Server Instanz fest. Für die Instanz-ID vergeben Sie den gleichen Namen.
 
-    > **Hinweis:**  
-    > Der Name der Instanz kann frei gewählt werden. Stellen Sie sicher, dass Name und Instanz-ID identisch sind.
+    > **Hinweis**
+    Der Name der Instanz kann frei gewählt werden. Stellen Sie sicher, dass Name und Instanz-ID identisch sind.
+    Standardmäßig "SQLEXPRESS_RZL" oder SQL_RZL.
 
 10. **Serverkonfiguration**  
      Im Reiter **Dienstkonten** stellen Sie bei den Diensten **SQL Server-Datenbankmodul** und **SQL Server-Browser** den Starttyp auf **Automatisch**. Die anderen Einstellungen können auf dem Standardwert belassen werden.
@@ -93,15 +92,12 @@ RZL stellt aus lizenzrechtlichen Gründen – mit Ausnahme von SQL Server Expres
 14. **Installation abschließen**  
      Beenden Sie die Installation und schließen Sie das Installationscenter. Fahren Sie mit der Installation des aktuellsten kumulativen Updates fort.
 
----
 
 ## Installation des aktuellsten kumulativen Updates für SQL Server
 
-Microsoft veröffentlicht regelmäßig kumulative Updates für die unterschiedlichen SQL Server Versionen mit Bugfixes, Sicherheitsupdates und Leistungsverbesserungen. Es wird empfohlen, immer das aktuellste kumulative Update zu installieren und regelmäßig auf neue Updates zu prüfen.  
-Unter [Informationen zu den neuesten SQL Server Builds](#) stellt Microsoft eine Übersicht zu den Updates bereit.
+Microsoft veröffentlicht regelmäßig kumulative Updates für die unterschiedlichen SQL Server Versionen mit Bugfixes, Sicherheitsupdates und Leistungsverbesserungen. Es wird empfohlen, immer das aktuellste kumulative Update zu installieren und regelmäßig auf neue Updates zu prüfen.   
 
-> **Hinweis:**  
-> SQL Server 2022 RTM (alle Editionen) enthält einen Bug, durch den die Installation bzw. das Update der RZL Programme scheitern kann. Dieser Bug wurde mit dem ersten kumulativen Update (CU1) für SQL Server 2022 behoben.
+Unter [Informationen zu den neuesten SQL Server Builds](https://learn.microsoft.com/de-de/troubleshoot/sql/releases/download-and-install-latest-updates){:target="_blank"} stellt Microsoft eine Übersicht zu den Updates bereit.
 
 1. Laden Sie das aktuellste kumulative Update für Ihre SQL Server Version herunter und starten Sie die Installation.
 2. Akzeptieren Sie die Lizenzbedingungen und fahren Sie fort.
@@ -109,7 +105,6 @@ Unter [Informationen zu den neuesten SQL Server Builds](#) stellt Microsoft eine
 4. Fahren Sie mit der Installation fort. Nach Abschluss erhalten Sie einen Bericht.
 5. Beenden Sie die Installation.
 
----
 
 ## Konfiguration der Netzwerkprotokolle und Firewall-Regeln
 
@@ -125,7 +120,6 @@ Um von anderen Geräten auf die SQL Server Instanz zugreifen zu können, müssen
 6. Unter **SQL Server-Dienste** den Eintrag **SQL Server (RZL_SQL)** auswählen und den Dienst neu starten.
 7. Das Netzwerkprotokoll ist jetzt erfolgreich konfiguriert.
 
----
 
 ### Firewall-Regeln einrichten
 
@@ -135,10 +129,10 @@ Es werden zwei Firewall-Regeln benötigt:
 
 **Einstellungen der beiden Firewall-Regeln:**
 
-| Dienst              | Regeltyp | Programmpfad                                                         | Aktion                | Profil   | Name                        |
-|---------------------|----------|----------------------------------------------------------------------|-----------------------|----------|-----------------------------|
-| SQL Server-Dienst   | Programm | `%ProgramFiles%\Microsoft SQL Server\MSSQL16.RZL_SQL\MSSQL\Binn\sqlservr.exe` | Verbindung zulassen   | Domäne   | MS SQL Server (RZL)         |
-| SQL Server-Browser  | Programm | `%ProgramFiles% (x86)\Microsoft SQL Server\90\Shared\sqlbrowser.exe` | Verbindung zulassen   | Domäne   | MS SQL Server Browser (RZL) |
+| Dienst             | Regeltyp | Programmpfad                                                                  | Aktion              | Profil | Name                        |
+| ------------------ | -------- | ----------------------------------------------------------------------------- | ------------------- | ------ | --------------------------- |
+| SQL Server-Dienst  | Programm | `%ProgramFiles%\Microsoft SQL Server\MSSQL16.RZL_SQL\MSSQL\Binn\sqlservr.exe` | Verbindung zulassen | Domäne | MS SQL Server (RZL)         |
+| SQL Server-Browser | Programm | `%ProgramFiles% (x86)\Microsoft SQL Server\90\Shared\sqlbrowser.exe`          | Verbindung zulassen | Domäne | MS SQL Server Browser (RZL) |
 
 **Vorgehen:**
 
@@ -149,13 +143,12 @@ Es werden zwei Firewall-Regeln benötigt:
     `%ProgramFiles%\Microsoft SQL Server\MSSQL16.RZL_SQL\MSSQL\Binn\sqlservr.exe`
 5. Wählen Sie das Profil (**Domäne** ist normalerweise ausreichend. Bei VPN-Verbindungen kann es abweichen).
 
-    > **Hinweis:**  
-    > Unter **Start → Windows-Sicherheit** können Sie einsehen, wie eine Netzwerkbindung von Windows kategorisiert wird.
+    > **Hinweis**
+    Unter **Start → Windows-Sicherheit** können Sie einsehen, wie eine Netzwerkbindung von Windows kategorisiert wird.
 
 6. Vergeben Sie für die Firewall-Regel einen Namen.
 7. Für die zweite Regel gehen Sie genauso vor (siehe Einstellungen oben).
 
----
 
 ## Installation des SQL Server Management Studios
 
@@ -163,20 +156,18 @@ Das **SQL Server Management Studio (SSMS)** bietet eine grafische Oberfläche zu
 
 ### Download SQL Server Management Studio
 
-- [Deutsch (empfohlen)](#)
-- [Englisch](#)
+- [Deutsch (empfohlen)](https://learn.microsoft.com/de-de/ssms/install/install){:target="_blank"}
+- [Englisch](https://learn.microsoft.com/en-us/ssms/install/install){:target="_blank"}
 
 1. Laden Sie die bevorzugte Sprache des SSMS herunter und installieren Sie es.
 2. Nach der Installation ist ein Neustart des Geräts notwendig.
 
----
 
 ## Verbindungsaufbau zur SQL Server Instanz
 
-1. Nach dem Neustart starten Sie das **SQL Server Management Studio 20** unter **Start → Microsoft SQL Server Tools 20**.
+1. Nach dem Neustart starten Sie das **SQL Server Management Studio** unter **Start → Microsoft SQL Server Tools**.
 2. Im Dialog geben Sie den Servernamen der SQL Server Instanz ein und wählen bei **Verschlüsselung** die Option **Optional**.
 3. Sie sollten jetzt mit der SQL Server Instanz verbunden sein.
 
-> **Hinweis:**  
-> Der Standardwert für Verschlüsselung ist seit SQL Server Management Studio 20 **Obligatorisch**. Grund ist die zunehmende Anzahl von Cloud-Installationen des SQL Servers und die Kommunikation übers Internet. Bei einer Installation im Intranet ist eine Verschlüsselung nicht notwendig und auch technisch nicht einfach umzusetzen, da es meistens keine öffentliche Domäne gibt, für die ein Zertifikat ausgestellt werden könnte.
-
+> **Hinweis**
+Der Standardwert für Verschlüsselung ist seit SQL Server Management Studio **Obligatorisch**. Grund ist die zunehmende Anzahl von Cloud-Installationen des SQL Servers und die Kommunikation übers Internet. Bei einer Installation im Intranet ist eine Verschlüsselung nicht notwendig und auch technisch nicht einfach umzusetzen, da es meistens keine öffentliche Domäne gibt, für die ein Zertifikat ausgestellt werden könnte.

@@ -1,6 +1,6 @@
 # Wichtige Hinweise zu Installationen und dem RZL-Technik-Support
 
-Der RZL-Technik-Support vergibt **keine Termine** für die Installation von RZL-Programmen. Installationen werden ausschließlich von Ihrem zuständigen Systembetreuer oder einem unserer zertifizierten Systempartner durchgeführt. Eine stets aktuelle Liste aller RZL-Systempartner finden Sie auf unserer [Website](https://rzlsoftware.at/partner/partner){:target="_blank"}.
+Der RZL-Technik-Support vergibt **keine Termine** für die Installation von RZL-Programmen. Installationen werden ausschließlich von Ihrem zuständigen Systembetreuer oder einem unserer zertifizierten Systempartner durchgeführt. Eine stets aktuelle Liste aller RZL-Systempartner finden Sie auf unserer [Webseite](https://rzlsoftware.at/partner/partner){:target="_blank"}.
 
 **Leistungen des RZL-Technik-Supports:**
 - Bereitstellung von Informationen zur Installation der RZL-Programme
