@@ -1,8 +1,8 @@
 # RZL Hilfe
 
-Die RZL Online Hilfe unter [https//hilfe.rzlsoftware.at](https://hilfe.rzlsoftware.at) erreichbar.
+Die RZL Online Hilfe ist unter [https//hilfe.rzlsoftware.at](https://hilfe.rzlsoftware.at) erreichbar.
 
-Die RZL Hilfe gebaut aus Markdown File mit Hilfe von [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+Sie wird mit Hilfe von [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). erstellt.
 
 ## Contribute
 

@@ -61,8 +61,6 @@ Aus den gesamten SV-Dienstnehmeranteilen wird über die KZ 226, der Anteil der a
 
 ![Image](<img/image553.png>){width="600"}
 
-Die Höhe der jährlich gewährten Mitarbeitergewinnbeteiligung (vor Abzug der SV-Beiträge) wird in einem neu geschaffenen Feld extra ausgewiesen. Mit der Version 2.22.4 haben wir das neue L16-Formular im *RZL-Lohnverrechnungsprogramm* eingebaut. Eine Integration in die ELDA-Schnittstellenbeschreibung ist allerdings noch nicht erfolgt und eine **Übermittlung** des neuen **L16-Formulars** daher im Moment **nicht möglich**.
-
 **Beispiel 2**
 
 Laufender Bezug EUR 5.000,00; Mitarbeitergewinnbeteiligung einmalig EUR 3.000,00

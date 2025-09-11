@@ -38,7 +38,7 @@
 | **Nummer** | **Name**                          | **Inhalt**                                               |
 | ---------- | --------------------------------- | -------------------------------------------------------- |
 | 19         | RZL-Fibu Ergebniskurzübersicht    | RZL-Muster Ergebniskurzübersicht 30012024                |
-| 30         | RZL Musterreports Fibu            | RZL Unternehmensreport 022019                            |
+| 30         | RZL Musterreports Fibu            | RZL Unternehmensreport Stand 08072025                    |
 | 31         | RZL Musterreports Fibu Covid 19   | Ausfallsbonus III nach EStG Stand 07032022               |
 |            |                                   | Ausfallsbonus III nach UVA Kennzahlen 07032022           |
 |            |                                   | Ausfüllhilfe für EPG_Berechnungstool Stand 10032022      |
@@ -81,6 +81,7 @@
 |            |                                   | VZÄ jährlich auf Stundenbasis Stand 29022024                |
 |            |                                   | VZÄ monatlich auf Std.basis mit Auswahlkrit. Stand 29022024 |
 |            |                                   | VZÄ monatlich auf Stundenbasis Stand 07062023               |
+|            |                                   | VZÄ monatlich auf Std.basis nach SVTagen Stand 04082025     |
 | 251        | RZL Lohnstatistik LSE             | Ausfüllhilfe LSE Personal Stand 10082023                    |
 
 ## Honorarverrechnung
