@@ -10,7 +10,7 @@ Mit den in diesem Bereich getroffenen Einstellungen weist das Programm auf „Be
 
 **Kollektivvertrag**
 
-Durch Anwahl der *F2-Taste* können die in den *Klientenstammdaten* hinterlegten [Kollektivverträge](../Klientenstammdaten/Stammdaten Klient/Kostenstellen, Kostenträger, Krankenstandsbescheinigungen, KV.md) aufgerufen und dem Dienstnehmer zugeordnet werden.
+Durch Anwahl der *F2-Taste* können die in den *Klientenstammdaten* hinterlegten [Kollektivverträge](../Klientenstammdaten/Stammdaten_Klient/Kostenstellen_Kostentraeger_Krankenstandsbescheinigungen_KV.md) aufgerufen und dem Dienstnehmer zugeordnet werden.
 
 **Beginn Einstufung**
 
@@ -22,7 +22,7 @@ Die Eintragung von anrechenbaren Vordienstzeiten kann hier in Monaten eingetrage
 
 **Umstufung Tätigkeitsgruppe** 
 
-Dieser Punkt wurde ursprünglich für den Kollektivvertrag Handel Angestellte geschaffen und kann aber nun auch für alle anderen Kollektivverträge angewendet werden. (Näheres zur Umstufung KV-Handel finden Sie [hier](../Kollektivverträge/Umstellung%20KV-Handel%20Angestellte.md)).
+Dieser Punkt wurde ursprünglich für den Kollektivvertrag Handel Angestellte geschaffen und kann aber nun auch für alle anderen Kollektivverträge angewendet werden. (Näheres zur Umstufung KV-Handel finden Sie [hier](../Kollektivvertraege/Umstellung_KV_Handel_Angestellte.md)).
 
 ![Image](<img/image59.png>){width="600"}
 
@@ -101,7 +101,7 @@ In diesem Bereich muss die Tätigkeitsgruppe des Dienstnehmers angewählt werden
 
 **Folgegruppen**
 
-In bestimmten Kollektivverträgen (z. B. Informationstechnik) verbleibt man eine bestimmte Zeitdauer in einer Gruppe (z. B. Einstiegsstufe) und wechselt dann automatisch in die nächsthöhere Gruppe (z. B. Regelgruppe). Diese [Folgegruppen](../Kollektivverträge/Wann%20sind%20Folgegruppen%20notwendig.md) werden im jeweiligen Kollektivvertrag verknüpft.
+In bestimmten Kollektivverträgen (z. B. Informationstechnik) verbleibt man eine bestimmte Zeitdauer in einer Gruppe (z. B. Einstiegsstufe) und wechselt dann automatisch in die nächsthöhere Gruppe (z. B. Regelgruppe). Diese [Folgegruppen](../Kollektivvertraege/Wann_sind_Folgegruppen_notwendig.md) werden im jeweiligen Kollektivvertrag verknüpft.
 
 **Letzter Gruppenwechsel / Letzte Tätigkeitsgruppe**
 
@@ -123,7 +123,7 @@ Durch Eintragung der Monate, um welche die Stufe gekürzt werden soll, kann ein 
 
 Durch die Verknüpfung mit dem Kollektivvertrag werden die Normalarbeitszeit, der Stundenlohn und/oder der Bezug laut Kollektivvertrag, sowie eine Überzahlung nach Betrag bzw. prozentuell angezeigt.
 
-Auf die hier angezeigten Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Anlage%20von%20Lohnformeln.md) zugegriffen werden.
+Auf die hier angezeigten Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung_der_Lohnformeln_innerhalb_eines_Klienten/Anlage_von_Lohnformeln.md) zugegriffen werden.
 
 ## KV-Handel Reformbetrag 1
 
@@ -179,7 +179,7 @@ Dieses Feld ermöglicht die Eingabe eines Zu- oder Abschlags zum Bezug laut Koll
 !!! info "Tipp"
     Durch Anwahl der Tastenkombination *Alt – F8* kann der beim Dienstnehmer ausgewählte Kollektivvertrag aufgerufen werden.
 
-Die abonnierten Kollektivverträge müssen in den *Klientenstammdaten* zugeordnet werden. Die Zuordnung erfolgt im [Registerblatt *Kostenstellen, Krankenstandsbesch., KV* im Bereich *Kollektivverträge*](..//Klientenstammdaten/Stammdaten%20Klient/Kostenstellen,%20Kostenträger,%20Krankenstandsbescheinigungen,%20KV.md).
+Die abonnierten Kollektivverträge müssen in den *Klientenstammdaten* zugeordnet werden. Die Zuordnung erfolgt im [Registerblatt *Kostenstellen, Krankenstandsbesch., KV* im Bereich *Kollektivverträge*](..//Klientenstammdaten/Stammdaten_Klient/Kostenstellen_Kostentraeger_Krankenstandsbescheinigungen_KV.md).
 
 ![Image](<img/image71.png>){width="500"}
 
@@ -195,4 +195,4 @@ Eingabe des anzuwendenden Kollektivvertrages. Die Eintragung wird für die Erste
 
 **Stundensatz laut KV / Bezug laut KV**
 
-Auf die hier eingetragenen Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Anlage%20von%20Lohnformeln.md) zugegriffen werden.
+Auf die hier eingetragenen Werte kann im Rahmen der automatischen Berechnung mit [Lohnformeln](../Lohnformeln/Verwaltung_der_Lohnformeln_innerhalb_eines_Klienten/Anlage_von_Lohnformeln.md) zugegriffen werden.

@@ -369,7 +369,7 @@ Es ist möglich, gewisse Kurzarbeitswerte aus RZL-externen Zeiterfassungssysteme
 
 **Datenexport**
 
-Über den Menüpunkt *Bearbeiten / Datenexport / Datenexport* wählen Sie zunächst einen bestimmten Monat und definieren, ob der gesamte Klient oder einzelne Dienstnehmer exportiert werden sollen. Die [*Listenform*](../LOHN/Datenexport/Erstellung%20und%20Aufbau%20der%20Daten-Liste%20(Export-Datei).md) für den Datenexport muss einmalig angelegt werden.
+Über den Menüpunkt *Bearbeiten / Datenexport / Datenexport* wählen Sie zunächst einen bestimmten Monat und definieren, ob der gesamte Klient oder einzelne Dienstnehmer exportiert werden sollen. Die [*Listenform*](../LOHN/Datenexport/Erstellung_und_Aufbau_der_Datenliste.md) für den Datenexport muss einmalig angelegt werden.
 
 Über die Schaltfläche *Suchen* definieren Sie den Speicherort und den Namen der Exportdatei. Wenn Sie beim Speichern den Dateityp CSV-Dateien (.csv) auswählen, können Sie die Datei mit dem Excel-Programm öffnen. Mit Klick auf die Schaltfläche *Exportieren* werden die Daten ausgegeben.
 

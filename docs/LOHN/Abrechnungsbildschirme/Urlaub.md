@@ -2,7 +2,7 @@
 
 ![Image](<img/image126.png>)
 
-In diesem Eingabebildschirm kann die *Urlaubskartei* des Dienstnehmers geführt werden. Der [Ausdruck der Urlaubskartei](../Ausdrucke%20allgemein/Ausdruck%20Stammdaten.md) ist im *Ausdruckmenü* unter *Stammdaten* möglich. Die Eintragungen in der Urlaubskartei werden auch für die Berechnung der [Urlaubsrückstellung](../Rückstellungen/Urlaubsrückstellung.md) verwendet. Es können wahlweise *Werktage*, *Arbeitstage* oder *Stunden* eingetragen werden.
+In diesem Eingabebildschirm kann die *Urlaubskartei* des Dienstnehmers geführt werden. Der [Ausdruck der Urlaubskartei](../Ausdrucke_allgemein/Ausdruck_Abrechnungen.md) ist im *Ausdruckmenü* unter *Stammdaten* möglich. Die Eintragungen in der Urlaubskartei werden auch für die Berechnung der [Urlaubsrückstellung](../Rueckstellungen/Urlaubsrueckstellung.md) verwendet. Es können wahlweise *Werktage*, *Arbeitstage* oder *Stunden* eingetragen werden.
 
 ## Allgemeine Daten
 
@@ -36,7 +36,7 @@ Eingabe eines eventuellen Resturlaubes zu Beginn des Urlaubsjahres. Wurde mehr v
 
 **Abweichender Monatsteiler**
 
-Hier kann für den Dienstnehmer ein *abweichender Monatsteiler* eingetragen werden. Der Monatsteiler wird für die Berechnung der [Urlaubsrückstellung](../Rückstellungen/Urlaubsrückstellung.md) verwendet.
+Hier kann für den Dienstnehmer ein *abweichender Monatsteiler* eingetragen werden. Der Monatsteiler wird für die Berechnung der [Urlaubsrückstellung](../Rueckstellungen/Urlaubsrueckstellung.md) verwendet.
 
 Wenn die Urlaubskartei nach Stunden geführt wird, hat die Eintragung des Monatsteilers **keine Auswirkungen** auf die Urlaubsrückstellung. Das Programm rechnet automatisch die Anzahl der Wochenstunden, welche im Abrechnungsbildschirm *Eintritt* eingetragen sind, auf einen vollen Monat hoch und verwendet diesen Wert als Teiler.
 
@@ -46,7 +46,7 @@ Soll die *Urlaubskartei* für den einzelnen Dienstnehmer geführt werden, ist di
 
 Wird das Feld *Sonderurlaub* aktiviert, erfolgt keine Verringerung des Urlaubsanspruches.
 
-Auf den [Abrechnungen der Dienstnehmer](../Ausdrucke%20allgemein/Ausdruck%20Abrechnungen.md) kann die Urlaubskartei wahlweise normal oder im *Detail* gedruckt werden.
+Auf den [Abrechnungen der Dienstnehmer](../Ausdrucke_allgemein/Ausdruck_Abrechnungen.md) kann die Urlaubskartei wahlweise normal oder im *Detail* gedruckt werden.
 
 **In Anspruch genommener Urlaub (Eintragung des verbrauchten Urlaubes)**
 
