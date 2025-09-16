@@ -1,0 +1,3 @@
+# Vom Klienten nicht freigegebene Daten
+
+Der Programmteil *Lohnverrechnung/Vom Klienten nicht freigegebene Daten* bietet eine Übersicht über bereits erfasste, aber noch nicht freigegebene Daten aus den Erfassungen der Lohnverrechnung. Die Auflistung beinhaltet die nicht freigegebenen Lohnvorerfassungen, die nicht freigegebenen Zeiterfassungen, nicht freigegebene Daten von bereits übermittelten Versicherungsmeldungen und noch nicht übermittelte Versicherungsmeldungen.
