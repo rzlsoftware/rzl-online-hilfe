@@ -14,7 +14,6 @@ Gruppierungsfeld **(2)** ziehen. Weiters besteht über das Filtersymbol
 filtern. Mit Rechtsklick auf die Spaltenüberschrift können Spalten
 ein-/ausgeblendet werden.
 
-
 ![](<img/image133.png>)
 
 

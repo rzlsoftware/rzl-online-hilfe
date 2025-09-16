@@ -21,7 +21,7 @@ ist.
 ![](<img/image240.png>) 
 
 !!! warning "Hinweis"
-    Als Rechnungssteller kann, der dem Klienten zugeordnete
+    Als Rechnungssteller kann der dem Klienten zugeordnete
     Unternehmensbereich ausgewählt werden oder ein Unternehmensbereich, der
     bei einer Tätigkeit als abweichender Rechnungssteller definiert ist.
 
@@ -31,9 +31,9 @@ keine leere Note für diesen Klienten erstellt werden.
 
 Im Anschluss öffnet sich eine leere Note.
 
-Als erster Schritt sind nun über den Button *Notenzeile Einfügen* im
+Als erster Schritt sind nun über den Button *Notenzeile einfügen* im
 Ribbon oder mittels der *Einfg-Taste* die abzurechnenden Zeilen
-einzufügen.
+hinzuzufügen.
 
 
 ![](<img/image241.png>) 
@@ -42,13 +42,13 @@ einzufügen.
     Es sind zwingend Notenzeilen einzufügen – eine leere Note kann nicht
     gespeichert werden.
 
-Nachdem die Zeile eingefügt wurde und ein Betrag eingetragen, muss der
-Zu/Abschlag manuell verteilt werden (vgl. [Zu-/Abschläge](/HONNext/Notenerstellung/Notenerstellung/#zu-abschlage)
+Nachdem die Zeile eingefügt wurde und ein Betrag eingetragen ist, muss der
+Zu-/Abschlag manuell verteilt werden (vgl. [Zu-/Abschläge](../Notenerstellung/Notenerstellung.md#zu-abschlage))
 
 
 ![](<img/image242.png>) 
 
 !!! warning "Hinweis"
     Eine automatische Verteilung ist aufgrund der fehlenden Erfassungszeilen
-    nicht möglich. Die Zu/Abschläge einer leeren Noten sind immer manuell zu
+    nicht möglich. Die Zu-/Abschläge einer leeren Note sind immer manuell zu
     verteilen.

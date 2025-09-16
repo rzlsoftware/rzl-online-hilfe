@@ -35,7 +35,7 @@ theme:
 extra:
   generator: false
     
-copyright: Copyright &copy; 2024 <a href="https://rzlsoftware.at">RZL Software GmbH</a></br><a href="/impressum">Impressum</a> | <a href="/datenschutz">Datenschutz</a>
+copyright: Copyright &copy; 2025 <a href="https://rzlsoftware.at">RZL Software GmbH</a></br><a href="/impressum">Impressum</a> | <a href="/datenschutz">Datenschutz</a>
 
 extra_css:
   - stylesheets/extra.css
