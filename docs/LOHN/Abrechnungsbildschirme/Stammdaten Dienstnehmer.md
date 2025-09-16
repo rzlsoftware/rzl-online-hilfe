@@ -143,6 +143,10 @@ Wenn die Bankleitzahl eingetragen wird, wird in diesem Feld automatisch der korr
 !!! info "Tipp"
     Durch Anwahl der *F2-Taste* wird die Liste mit BICs aufgerufen. Wenn in diesem Feld die Bankleitzahl eingetragen und anschließend die *F2-Taste* gedrückt wird, wird der BIC vorgeschlagen und kann übernommen werden. Diese Vorgehensweise ist nur bei bereits vorhandenen Bankverbindungen notwendig (nicht bei Neueintragungen).
 
+**Abweichender Kontoinhaber**
+
+Unter *abw. Kontoinhaber* haben Sie die Möglichkeit, einen abweichenden Namen des Kontoinhabers einzutragen.
+
 **Dienstgeber-Bank**
 
 Es kann hier verankert werden, ob die Lohn-/Gehaltsüberweisung an den Dienstnehmer immer nur von der ersten Bankverbindung oder von der zweiten Bankverbindung des Dienstgebers erfolgen soll. Die Eingabe von *&lt;keine&gt;* bedeutet, dass keine Festlegung erfolgt und jeweils von der, bei der Überweisung angewählten Bank, vorgenommen wird.

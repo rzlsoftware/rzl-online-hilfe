@@ -24,9 +24,9 @@ Wird dieses Feld angewählt, erfolgt die Ausgabe des Überweisungsprotokolls als
 
 Bei ausländischen Banken können sich Probleme ergeben, wenn Umlaute in die Datei mitausgegeben werden. Die Anwahl dieses Feldes ersetzt folgende Zeichen (ä = a, ü =u, ö = o, ß = s).
 
-**High Priority**
+**Echtzeitüberweisung**
 
-Durch dieses Auswahlfeld geben Sie an, dass es sich um eine Eilüberweisung handelt. Die Banken verlangen in der Regel eine Gebühr für solche Überweisungen.
+Mit diesem Auswahlfeld geben Sie an, dass Sie die Überweisung in Echtzeit durchführen möchten.
 
 **Sammelüberweisung**
 
