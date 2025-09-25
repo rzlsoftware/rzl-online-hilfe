@@ -89,7 +89,11 @@ Zunächst werden auch nur die Daten der Anmeldung erfasst und die Anmeldung übe
 ## Exkurs: Prozessüberblick innerhalb der Klientenstammdaten
 
 Im Kanzleibereich des Portals innerhalb der Klientenstammdaten finden Sie neben dem Auswahlfeld ein kleines Symbol.
+
+![](img/image9.png)
  
 Sie erhalten durch Anwahl des kleinen Symbols eine kurze Prozessbeschreibung der jeweils ausgewählten Option.
+
+![](img/image10.png)
 
 Wir empfehlen die Verwendung der Automatischen Erfassung zusätzlicher Stammdaten. Die Klientenbenutzer können die Erfassung der Anmeldedaten, das Senden der Meldung, die Erfassung weiterer Stammdaten und die Freigabe an den Wirtschaftstreuhänder ohne Unterbrechung mit einem vorgegebenen Workflow durchführen.
