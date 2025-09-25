@@ -53,7 +53,11 @@ Sie werden anschließend auf die Website von sproof weitergeleitet, wo Ihnen neb
 
 Sie können das Dokument vor Weiterleitung an den/die Empfänger selbst unterschreiben. 
 Wählen Sie hier die Art der Signatur aus. Diese kann bereits im sproof für den User vordefiniert werden.
-Als nächsten Schritt wählen Sie den Signatur-Stil aus. Ein Signatur-Stil kann hier neu erstellt werden
+Als nächsten Schritt wählen Sie den Signatur-Stil aus. Einen Signatur-Stil können Sie auch neu erstellen.
+Zusätzlich können Sie separate Formularfelder im Dokument platzieren wie z.B. IBAN, Checkboxen, separates Textfeld.
+Damit Sie schlussendlich unterschreiben können, ist das Signaturfeld auf das Dokument an die gewünschte Stelle zu platzieren. Das führen Sie mittels Drag&Drop aus.
+
+### Empfänger:innen
 
 
 
