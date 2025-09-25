@@ -29,7 +29,7 @@ Im Menüpunkt *Aufruf / Lohnarten* werden die Lohnarten, die beim Klienten selbs
 
 **Aufruf Lohnformeln, Lohnformel-Zuordnungstabelle, Lohnformelzuordnungen**
 
-Vgl. [Lohn-Formeln](../LOHN/Lohnformeln/Verwaltung%20der%20Lohnformeln%20innerhalb%20eines%20Klienten/Anlage%20von%20Lohnformeln.md)
+Vgl. [Lohn-Formeln](../LOHN/Lohnformeln/Verwaltung_der_Lohnformeln_innerhalb_eines_Klienten/Anlage_von_Lohnformeln.md)
 
 **Aufruf Standard-Texte**
 
@@ -69,7 +69,7 @@ Hier wird eine komprimierte Zusammenfassung der Krankenstandsdaten der Dienstneh
 
 **Aufruf Krankenstandsbescheinigung**
 
-Dieser Aufruf zeigt die über Elda importierten [Krankenstandsbescheinigungen](../LOHN/Elektronische%20Meldungen%20ÖGK/Krankenstandsbescheinigungen.md) an.
+Dieser Aufruf zeigt die über Elda importierten [Krankenstandsbescheinigungen](../LOHN/Elektronische_Meldungen_OEGK/Krankenstandsbescheinigungen.md) an.
 
 **Aufruf Angehörige**
 
@@ -77,11 +77,11 @@ In diesem Aufruf werden die Angehörigen, die in den Stammdaten des Dienstnehmer
 
 **Aufruf Exekutionen**
 
-In diesem Programmteil werden die für die Dienstnehmer angelegten [Drittschuldnererklärungen](../LOHN/Exekutionen/Drittschuldner-Erklärung.md) angezeigt.
+In diesem Programmteil werden die für die Dienstnehmer angelegten [Drittschuldnererklärungen](../LOHN/Exekutionen/Drittschuldnererklaerung.md) angezeigt.
 
 **Aufruf Exekutionsbeträge**
 
-Hier erfolgt eine Auflistung der bereits exekutierten Beträge zu den jeweiligen Drittschuldnererklärungen. [Exekutionsbeträge](../LOHN/Exekutionen/Nacherfassung%20Exekution.md) die manuell nacherfasst wurden, sind farblich anders dargestellt.
+Hier erfolgt eine Auflistung der bereits exekutierten Beträge zu den jeweiligen Drittschuldnererklärungen. [Exekutionsbeträge](../LOHN/Exekutionen/Nacherfassung_Exekution.md) die manuell nacherfasst wurden, sind farblich anders dargestellt.
 
 **Aufruf EFZ-Antrag**
 
@@ -105,11 +105,11 @@ Hier werden die bereits angelegten AMS-KUA-Projekte aufgelistet.
 
 **Aufruf Arbeits- und Entgeltbestätigung Krankengeld**
 
-In diesem Programmteil werden die im Abrechnungsbildschirm [*Arbeits- und Entgeltsbestätigung Krankengeld*](../LOHN/Abrechnungsbildschirme/Arbeits-%20und%20Entgeltbestätigung%20Krankengeld.md) abgerechneten Bestätigungen angezeigt.
+In diesem Programmteil werden die im Abrechnungsbildschirm [*Arbeits- und Entgeltsbestätigung Krankengeld*](../LOHN/Abrechnungsbildschirme/Arbeits_und_Entgeltbestaetigung_Krankengeld.md) abgerechneten Bestätigungen angezeigt.
 
 **Aufruf Arbeits- und Entgeltbestätigung Wochengeld**
 
-Durch Anwahl dieses Programmteiles werden die im Abrechnungsbildschirm [*Arbeits- und Entgeltsbestätigung Wochengeld*](../LOHN/Abrechnungsbildschirme/Arbeits-%20und%20Entgeltbestätigung%20Wochengeld.md) abgerechneten Bestätigungen angezeigt.
+Durch Anwahl dieses Programmteiles werden die im Abrechnungsbildschirm [*Arbeits- und Entgeltsbestätigung Wochengeld*](../LOHN/Abrechnungsbildschirme/Arbeits_und_Entgeltbestaetigung_Wochengeld.md) abgerechneten Bestätigungen angezeigt.
 
 **Aufruf Dienstnehmer-Notizen**
 
@@ -129,15 +129,15 @@ Durch Anwahl dieses Programmteiles werden von allen Dienstnehmern das Eintrittsd
 
 **Aufruf Dienstnehmer suchen**
 
-Durch Anwahl dieses Programmteiles wird die [Dienstnehmersuche](../LOHN/Allgemeines/Dienstnehmer-Suche.md) gestartet.
+Durch Anwahl dieses Programmteiles wird die [Dienstnehmersuche](../LOHN/Allgemeines/Dienstnehmersuche.md) gestartet.
 
 **Aufruf WEBEKU Abfrage**
 
-Durch Anwahl dieses Programmteils öffnet sich der [WEBEKU](../LOHN/WEBEKU%20Webservice.md) Dialog.
+Durch Anwahl dieses Programmteils öffnet sich der [WEBEKU](../LOHN/WEBEKU_Webservice.md) Dialog.
 
 **Aufruf SV Nr. Abfrage**
 
-Durch Anwahl dieses Programmteils öffnet sich die [WEBEKU Versicherungsnummernabfrage](../LOHN/WEBEKU%20Webservice.md).
+Durch Anwahl dieses Programmteils öffnet sich die [WEBEKU Versicherungsnummernabfrage](../LOHN/WEBEKU_Webservice.md).
 
 !!! info "Tipp"
     Durch Drücken von **STRG + A** und **STRG + C** kann der gesamte Inhalt der Aufrufe markiert und kopiert werden. Anschließend lässt er sich mit **STRG + V** z. B. in Microsoft Excel einfügen.

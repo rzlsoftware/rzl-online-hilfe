@@ -50,7 +50,7 @@ Sollen die laufenden Exekutionskosten abgezogen werden, ist dieses Feld zu aktiv
 
 **Abzug Drittschuldnerkosten**
 
-Neben der Option für die eigentlichen *Exekutionskosten*, gibt es die Möglichkeit die Kosten für die Drittschuldnererklärung einzubehalten. Der Abzug richtet sich nach der *Kostenvariante*, welche unter [*Stamm / Exekutionen*](../Exekutionen/Drittschuldner-Erklärung.md) hinterlegt wurde. Diese Kosten reduzieren nicht das Existenzminimum des Dienstnehmers, sondern kürzen jenen Betrag, der an die Gläubiger überwiesen wird.
+Neben der Option für die eigentlichen *Exekutionskosten*, gibt es die Möglichkeit die Kosten für die Drittschuldnererklärung einzubehalten. Der Abzug richtet sich nach der *Kostenvariante*, welche unter [*Stamm / Exekutionen*](../Exekutionen/Drittschuldnererklaerung.md) hinterlegt wurde. Diese Kosten reduzieren nicht das Existenzminimum des Dienstnehmers, sondern kürzen jenen Betrag, der an die Gläubiger überwiesen wird.
 
 !!! warning "Hinweis"
     Diese Kostenvariante ist in der Regel nur sinnvoll, wenn es sich um eine Pfändung im 1. Rang handelt.

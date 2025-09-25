@@ -16,7 +16,7 @@ Bei der Möglichkeit zwei liegt der Vorteil darin, dass zwei FIBU-Kontonummern h
 
 ## Möglichkeit 3
 
-Bei der dritten Möglichkeit wird nur eine freie Lohnart für den Bezug angelegt und in der Abrechnung im Bereich der [Abzüge](../Abrechnungsbildschirme/Abzüge.md) das Feld Sachbezug verwendet.
+Bei der dritten Möglichkeit wird nur eine freie Lohnart für den Bezug angelegt und in der Abrechnung im Bereich der [Abzüge](../Abrechnungsbildschirme/Abzuege.md) das Feld Sachbezug verwendet.
 
 ![Image](<img/image157.png>){width="500"}
 

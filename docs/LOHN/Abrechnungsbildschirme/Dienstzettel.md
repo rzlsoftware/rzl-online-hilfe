@@ -18,11 +18,11 @@ Handelt es sich um ein befristetes Arbeitsverhältnis, ist hier das Ende des Arb
 
 **Bruttogehalt/Bruttolohn/Lehrlingseinkommen pro Monat und Überstundenpauschale**
 
-Das Bruttogehalt, der Bruttolohn bzw. das Lehrlingseinkommen kommen aus der Fixen Lohnart [*Lohn/Gehalt*](../Abrechnungsbildschirme/Fixe%20Lohnarten.md). Wurde im Bereich [Über-/Mehrarbeitsstunden](../Abrechnungsbildschirme/Über-%20und%20Mehrarbeitsstunden.md) bei *Überstundenpauschale* ein Wert erfasst, wird dieser im Feld *Überstundenpauschale* dargestellt.
+Das Bruttogehalt, der Bruttolohn bzw. das Lehrlingseinkommen kommen aus der Fixen Lohnart [*Lohn/Gehalt*](../Abrechnungsbildschirme/Fixe_Lohnarten.md). Wurde im Bereich [Über-/Mehrarbeitsstunden](../Abrechnungsbildschirme/Ueber_und_Mehrarbeitsstunden.md) bei *Überstundenpauschale* ein Wert erfasst, wird dieser im Feld *Überstundenpauschale* dargestellt.
 
 **Fälligkeit des Entgeltes**
 
-Als Vorschlag wird jene Eingabe unter *Stamm / Klient / *[*Zahltag Abrechnung*](../Klientenstammdaten/Stammdaten%20Klient/Bank,%20Überweisung,%20Zahltag.md) angeführt. Sie haben die Möglichkeit, den Vorschlag durch einen Text mit bis zu 30 Zeichen zu überschreiben.
+Als Vorschlag wird jene Eingabe unter *Stamm / Klient / *[*Zahltag Abrechnung*](../Klientenstammdaten/Stammdaten_Klient/Bank_Ueberweisung_Zahltag.md) angeführt. Sie haben die Möglichkeit, den Vorschlag durch einen Text mit bis zu 30 Zeichen zu überschreiben.
 
 **Art der Auszahlung**
 
@@ -62,11 +62,11 @@ Falls mit dem Dienstnehmer eine Vorrückung vereinbart wurde, so sind in den dre
 
 ## Vorgesehene Verwendung
 
-Der *Beruf* aus [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Bauarbeiter-Urlaubs-%20und%20Abfertigungskasse.md) wird bei *Verwendung als* eingetragen. Sie können im Feld *Beschreibung der Arbeitsleistung* bis zu 250 Zeichen erfassen.
+Der *Beruf* aus [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Bauarbeiter_Urlaubs_und_Abfertigungskasse.md) wird bei *Verwendung als* eingetragen. Sie können im Feld *Beschreibung der Arbeitsleistung* bis zu 250 Zeichen erfassen.
 
 ## Gewöhnlicher Arbeitsort
 
-Beim Feld *Dienstort* wird jene Eingabe aus [*Stammdaten Dienstnehmer](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) Dienstort* vorgeschlagen. Sie können einen abweichenden Text von bis zu 50 Zeichen erfassen. Falls Ihr Dienstnehmer wechselnde Arbeitsorte hat, tragen Sie diese im Feld *Wechselnde Arbeitsorte* ein (bis zu 100 Zeichen). Beim Feld *Sitz des Unternehmens* wird die Adresse des Klienten vorgeschlagen. Eine abweichende Eingabe ist bis zu 50 Zeichen möglich.
+Beim Feld *Dienstort* wird jene Eingabe aus [*Stammdaten Dienstnehmer](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md) Dienstort* vorgeschlagen. Sie können einen abweichenden Text von bis zu 50 Zeichen erfassen. Falls Ihr Dienstnehmer wechselnde Arbeitsorte hat, tragen Sie diese im Feld *Wechselnde Arbeitsorte* ein (bis zu 100 Zeichen). Beim Feld *Sitz des Unternehmens* wird die Adresse des Klienten vorgeschlagen. Eine abweichende Eingabe ist bis zu 50 Zeichen möglich.
 
 ## Probezeit
 
@@ -95,19 +95,19 @@ Die Daten der *Normalarbeitszeit* werden aus dem [Eintrittsbildschirm](../Abrech
 
 ## Dauer der Kündigungsfrist
 
-Für die Beschreibung der Kündigungsfristen bzw. Vereinbarungen bezüglich der Kündigung können je Dienstnehmer bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
+Für die Beschreibung der Kündigungsfristen bzw. Vereinbarungen bezüglich der Kündigung können je Dienstnehmer bis zu 10, der in den [Standardtexten](../Kanzleitexte_und_Kanzleilohnkontenplaene.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
 !!! warning "Hinweis"
     Wird bei *Dauer der Kündigungsfrist* ein Textbaustein hinterlegt und ausgewählt, dann wird dieser Text verwendet und nicht mehr der Vorschlag aus dem Feld *Dauer der Kündigungsfrist (HGKV).*
 
 ## Kündigungstermin
 
-Je Dienstnehmer können bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
+Je Dienstnehmer können bis zu 10, der in den [Standardtexten](../Kanzleitexte_und_Kanzleilohnkontenplaene.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
 ## Einzuhaltende Kündigungsverfahren
 
-Je Dienstnehmer können bis zu 10, der in den [Standardtexten](../Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
+Je Dienstnehmer können bis zu 10, der in den [Standardtexten](../Kanzleitexte_und_Kanzleilohnkontenplaene.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
 ## Sonstige Vereinbarungen
 
-Für die Angabe der sonstigen für das Dienstverhältnis geschlossenen Vereinbarungen können bis zu 20 der in den [Standardtexten](..//Kanzleitexte%20und%20Kanzleilohnkontenpläne.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte für Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
+Für die Angabe der sonstigen für das Dienstverhältnis geschlossenen Vereinbarungen können bis zu 20 der in den [Standardtexten](../Kanzleitexte_und_Kanzleilohnkontenplaene.md) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte für Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
