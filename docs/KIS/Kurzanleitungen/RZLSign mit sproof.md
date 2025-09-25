@@ -41,14 +41,19 @@ Die sproof Funktionen sind im RZL Kanzlei-Informations-System in den Bereichen *
 ![Kontextmenü](<img/Kontextmenü.png>)
 
 Soll ein Dokument signiert werden, wählen Sie **mit sproof signieren**.
+Befinden sich in den Stammdaten des Klienten eine oder mehrere E-Mail-Adressen, werden diese Empfänger vor Weiterleitung des Dokuments an sproof angezeigt und Sie können jetzt bereits einen oder mehrere Empfänger wählen.
 
+![Empfänger](<img/Empfänger wählen.png>)
 
-
-
-Sie werden dann auf die Website von sproof weitergeleitet, wo Ihnen neben dem Weiterleiten an Empfänger zur Signatur verschiedenste Möglichkeiten zur Verfügung stehen.
+Sie werden anschließend auf die Website von sproof weitergeleitet, wo Ihnen neben dem Weiterleiten an Empfänger zur Signatur weitere Möglichkeiten zur Verfügung stehen.
 
 ![sproof Website](<img/sproof Website.png>)
 
+### Selbst unterschreiben
+
+Sie können das Dokument vor Weiterleitung an den/die Empfänger selbst unterschreiben. 
+Wählen Sie hier die Art der Signatur aus. Diese kann bereits im sproof für den User vordefiniert werden.
+Als nächsten Schritt wählen Sie den Signatur-Stil aus. Ein Signatur-Stil kann hier neu erstellt werden
 
 
 
