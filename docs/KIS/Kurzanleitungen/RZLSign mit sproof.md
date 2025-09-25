@@ -34,6 +34,39 @@ Der Status gibt an, ob ein sproof User bereits einem Mitarbeiter zugeordnet wurd
 
 ![Status sproof User](img/Status_User.png)
 
+## Dokumente signieren
+
+Die sproof Funktionen sind im RZL Kanzlei-Informations-System in den Bereichen *Mein Arbeitsplatz, Klient und Kanzlei* jeweils unter *Dokumente* zu finden. Sie können diese entweder über das Kontextmenü  (rechte Maustaste auf Dokument) oder im Ribbon aufrufen.
+
+![Kontextmenü](<img/Kontextmenü.png>)
+
+Soll ein Dokument signiert werden, wählen Sie **mit sproof signieren**.
+
+
+
+
+Sie werden dann auf die Website von sproof weitergeleitet, wo Ihnen neben dem Weiterleiten an Empfänger zur Signatur verschiedenste Möglichkeiten zur Verfügung stehen.
+
+![sproof Website](<img/sproof Website.png>)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **--> Berechtigungen??**
-
-
+Keine Berechtigungen, weil eh mit Klientengruppe und Hinterlegung bei sproof User
