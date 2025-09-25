@@ -52,32 +52,45 @@ Sie werden anschließend auf die Website von sproof weitergeleitet, wo Ihnen neb
 ### Selbst unterschreiben
 
 Sie können das Dokument vor Weiterleitung an den/die Empfänger selbst unterschreiben. 
+
 Wählen Sie hier die Art der Signatur aus. Diese kann bereits im sproof für den User vordefiniert werden.
+
 Als nächsten Schritt wählen Sie den Signatur-Stil aus. Einen Signatur-Stil können Sie auch neu erstellen.
+
 Zusätzlich können Sie separate Formularfelder im Dokument platzieren wie z.B. Checkboxen, Textfelder, vordefiniertes Textfeld für den IBAN.
+
 Damit Sie schlussendlich unterschreiben können, ist das Signaturfeld auf das Dokument an die gewünschte Stelle zu platzieren. Das führen Sie mittels Drag&Drop aus.
 
 ### Empfänger:innen
 
 Klicken Sie auf den Bereich *Empfänger:innen*, um die Einstellungen zum Signieren des Empfängers zu treffen.
-Im Schritt 1 fügen Sie entweder den Empfänger bzw. die Empfänger-E-Mail-Adresse ein.
+
+Bei **1 Empfänger:innen** fügen Sie entweder den Empfänger bzw. die Empfänger-E-Mail-Adresse ein.
 
 ![Empfänger sproof](<img/Empfänger bei sproof.png>)
 
 !!! info "Tipp"
-    Falls Sie bereits vorm hochladen auf sproof im RZL KIS den Empfänger gewählt haben, ist der Empfänger inkl. seiner/ihrer E-Mail-Adresse bereits angeführt.
+    Wurde bereits beim Hochladen im RZL KIS der Empfänger gewählt, ist der Empfänger inkl. seiner/ihrer E-Mail-Adresse bereits angeführt.
 
 Wenn Sie die Option **Signaturart des Dokuments festlegen** aktivieren, bestimmen Sie mit welcher Signaturart der Empfänger unterzeichnen muss.
 
 !!! warning "Exkurs"
     EES: Die einfache elektronische Signatur (EES) wird nicht näher bestimmt, da sie der niedrigsten Sicherheitsstufe entspricht, für welche keine besonderen Anforderungen gelten.
+    
     FES: Eine fortgeschrittene elektronische Signatur (FES) ist eine digitale Unterschrift, die bestimmte Sicherheitsanforderungen erfüllt. Unterschriften dieser Art sind so angelegt, dass sie (eindeutig) einem Unterzeichner bzw. einer Unterzeichnerin zuzuordnen sind und so die Identifizierung der unterzeichnenden Person ermöglichen sollen.
-    QES: Eine qualifizierte elektronische Signatur (kurz QES) hat im Wesentlichen die gleiche Wertigkeit wie die handschriftliche Unterschrift und kann damit zur Unterzeichnung im elektronischen Datenverkehr eingesetzt werden. Es handelt sich dabei um die sicherste Form einer digitalen Signatur. Darunter fällt unter anderem die ID-Austria.
+    
+    QES: Eine qualifizierte elektronische Signatur (QES) hat im Wesentlichen die gleiche Wertigkeit wie die handschriftliche Unterschrift und kann damit zur Unterzeichnung im elektronischen Datenverkehr eingesetzt werden. Es handelt sich dabei um die sicherste Form einer digitalen Signatur. Darunter fällt unter anderem die ID-Austria.
     Quelle: https://www.a-trust.at/de/
 
+Im unteren Bereich werden jeweils die Empfänger angzeigt. Sie können mit dem Pfeil-Symbol in die Detail-Bearbeitung des Empfängers einsteigen. Sie können hier die Rolle des Empfängers definieren:
 
+* Unterzeichner:in
+* Genehmiger:in
+* Betrachter:in
 
+Die Rollen Unterzeichner:in und Genehmiger:in benötigen ein Handeln des Empfängers, also ein Unterzeichnen oder Genehmigen.
 
+Da ein Dokument an mehrere Empfänger gesendet werden kann, können Sie pro Empfänger eine **individuelle Signaturart** festgelegen.
 
 
 
