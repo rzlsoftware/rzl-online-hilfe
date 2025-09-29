@@ -93,8 +93,13 @@ Die Rollen Unterzeichner:in und Genehmiger:in setzen ein Handeln des Empfängers
 # **--> das kostet auch was, betrachten aber nicht - hier Info darüber???** 
 
 Da ein Dokument an mehrere Empfänger gesendet werden kann, können Sie pro Empfänger eine **individuelle Signaturart** festgelegen.
-über 
+Mit **Via Fastlane einladen** wird der Empfänger schrittweise durch den Signaturprozess begleitet. Diese Option können Sie ebenfalls wieder pro Empfänger aktivieren.
+Soll einer der Empfänger wieder entfernt werden, können Sie das ebenso direkt im sproof durchführen und ggf. einen anderen Empfänger hinzufügen.
 
+Im Schritt **2 Signaturoptionen** platzieren Sie das Signaturfeld per Drag&Drop auf die gewünschte Stelle im Dokument. Wie auch beim **Selbst unterschreiben** können Sie hier separate Formularfelder im Dokument platzieren.
+Bei mehreren Empfängern muss in diesem Schritt allerdings pro Empfänger das Signaturfeld am Dokument platziert werden.
+
+Im Schritt **3 E-Mail Einladung** kann entweder die vordefinierte E-Mail Einladung von sproof, eine selbst vordefinierte und im sproof gespeicherte Einladung oder eine in diesem Schritt eigens definierte Einladung verwendet werden.
 
 
 
