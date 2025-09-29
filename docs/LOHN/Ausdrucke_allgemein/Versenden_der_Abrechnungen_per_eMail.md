@@ -18,6 +18,6 @@ Bei *Aufteilung in Dateien* muss *Jeder Ausdruck in eine eigene Datei* angewähl
 
 **RZL-PDF-Manager**
 
-![Image](<img/image224.png>){width="500"}
+![Image](<img/image224.png>){width="700"}
 
 Als *Empfänger* wählen Sie *Dienstnehmer* aus. Aktivieren Sie die Option *Eine E-Mail pro Dokument*. Bei *Signatur* und *Von* können Sie die gewünschte Signatur und die Ausgangs-E-Mail-Adresse definieren. Unter *Nachricht* kann ein individueller Text hinterlegt werden.
