@@ -10,7 +10,7 @@ Als erster Schritt wird die ÖGK-Datei im Menüpunkt *Bearbeiten / Elektronische
 Die elektronische Übertragung wird durch Anwahl des Menüpunktes *Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK absenden* ermöglicht. Die Übertragung selbst erfolgt durch das Elda-Programm der Österreichischen Gesundheitskasse. Dieses muss auf dem Computer, von dem aus die Daten abgesandt werden, installiert sein. Das Lohnverrechnungsprogramm muss nicht unbedingt auf demselben PC installiert sein.
 
 !!! warning "Hinweis"
-    Als [ASP- bzw. Cloud-Anwender](../Elektronische_Meldungen_OEGK/Allgemeine_Einstellungen_fuer_ASP_bzw_Cloud_Anwender.md) müssen Sie die ELDA-Software nicht installieren.
+    Als [ASP- bzw. Cloud-Anwender](../Elektronische_Meldungen_ÖGK/Allgemeine_Einstellungen_fuer_ASP_bzw_Cloud_Anwender.md) müssen Sie die ELDA-Software nicht installieren.
 
 Die Übermittlung kann auch über den Menüpunkt *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* durchgeführt werden.
 

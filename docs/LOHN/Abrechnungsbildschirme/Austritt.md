@@ -38,7 +38,7 @@ Dieses Eingabefeld wird nur dann benötigt, wenn die Arbeitsbescheinigung mit En
 
 **Kontrollsechstel**
 
-Seit 2020 gibt es das *Kontrollsechstel*. Das [Kontrollsechstel](../Abrechnungen_Sonderfaelle/Kontrollsechstel_77_Abs._4a_EStG.md) muss bei Dienstnehmern, welche das ganze Jahr über beschäftigt waren, im letzten Monat des Kalenderjahres berechnet werden. Das heißt, es darf nur 1/6 der Bezüge für die Jahressechstelberechnung herangezogen werden. Alles darüber hinaus muss als Überhang mit dem laufenden Tarif versteuert werden.
+Seit 2020 gibt es das *Kontrollsechstel*. Das [Kontrollsechstel](../Abrechnungen_Sonderfälle/Kontrollsechstel_77_Abs._4a_EStG.md) muss bei Dienstnehmern, welche das ganze Jahr über beschäftigt waren, im letzten Monat des Kalenderjahres berechnet werden. Das heißt, es darf nur 1/6 der Bezüge für die Jahressechstelberechnung herangezogen werden. Alles darüber hinaus muss als Überhang mit dem laufenden Tarif versteuert werden.
 
 Das *erhöhte Jahres-/ Kontrollsechstel* findet nur bei der Kurzarbeit Anwendung. Fällt ein Dienstnehmer durch die Kurzarbeit unter seinen normalen Verdienst, wird in diesem Monat das erhöhte Jahres-/ Kontrollsechstel automatisch aktiviert. Das erhöhte Jahressechstel wird nur in Verbindung mit dem Kurzarbeit-Bildschirm angezeigt.
 
@@ -52,7 +52,7 @@ Bei manchen Austrittsgründen (z. B. Karenzurlaub, Bildungskarenz) muss aus tech
 
 ## Mutterschutz / Karenzurlaub
 
-Vgl. [Abrechnung Mutterschutz/Karenzurlaub](../Abrechnungen_Sonderfaelle/Abrechnung_Mutterschutz_und_Karenzurlaub.md)
+Vgl. [Abrechnung Mutterschutz/Karenzurlaub](../Abrechnungen_Sonderfälle/Abrechnung_Mutterschutz_und_Karenzurlaub.md)
 
 Der *voraussichtliche Geburtstermin* kann hier – egal in welchem Austrittsmonat – eingetragen werden. Das Programm rechnet auf den vermuteten Beginn des Mutterschutzes zurück. Im Monat des *Beginns des Mutterschutzes* wird das Formular *Arbeits- und Entgeltbestätigung Mutterschutz* automatisch befüllt.
 
@@ -139,7 +139,7 @@ Im Feld *Ersatzleistung (UE) gesamt* wird der Gesamtbetrag inkl. SZ-Anteil einge
     Mit Hilfe des Kontextmenüs oder durch Anwahl der *F4-Taste* kann im Feld Ersatzleistung (UE) oder davon SZ-Anteil ein Vorschlag des Lohnverrechnungsprogrammes für die Berechnung der Ersatzleistung aufgerufen und übernommen werden.
 
 !!! warning "Hinweis"
-    Informationen zur Urlaubsersatzleistung bei Tod des Dienstnehmers finden Sie [hier](../Abrechnungen_Sonderfaelle/Urlaubsersatzleistung_Tod_Dienstnehmers.md).
+    Informationen zur Urlaubsersatzleistung bei Tod des Dienstnehmers finden Sie [hier](../Abrechnungen_Sonderfälle/Urlaubsersatzleistung_Tod_Dienstnehmers.md).
 
 ![Image](<img/image84.png>)
 
@@ -166,7 +166,7 @@ Die Meldungen können nachträglich auch im Programmteil *Bearbeiten / Elektroni
 
 ## Sonderfälle Abmeldung (Krankenstand / Richtigstellung Karenz)
 
-Wenn es zu einer [Kündigung während des Krankenstandes](../Abrechnungen_Sonderfaelle/Beendigung_von_Dienstverhaeltnissen_im_Krankenstand.md) kommt, muss das Entgelt bis zum Ende des Krankenentgeltanspruches ausbezahlt werden. Da dies oft über Monate geht, haben Sie hier die Möglichkeit, schon vorab eine Abmeldung zu erzeugen. Durch Eingabe der Austrittsdaten in diesem Bereich kann eine Abmeldung erstellt werden und weiterhin ganz normal abgerechnet werden. Erst im Monat des Ende Entgeltsanspruches tragen Sie im oberen Bereich des Austrittes die Austrittsdaten ein.
+Wenn es zu einer [Kündigung während des Krankenstandes](../Abrechnungen_Sonderfälle/Beendigung_von_Dienstverhaeltnissen_im_Krankenstand.md) kommt, muss das Entgelt bis zum Ende des Krankenentgeltanspruches ausbezahlt werden. Da dies oft über Monate geht, haben Sie hier die Möglichkeit, schon vorab eine Abmeldung zu erzeugen. Durch Eingabe der Austrittsdaten in diesem Bereich kann eine Abmeldung erstellt werden und weiterhin ganz normal abgerechnet werden. Erst im Monat des Ende Entgeltsanspruches tragen Sie im oberen Bereich des Austrittes die Austrittsdaten ein.
 
 ## Sonderfälle bei Austritt – Präsenzdienst/Truppenübung
 
