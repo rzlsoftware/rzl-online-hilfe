@@ -26,11 +26,11 @@ In diesen Feldern wird aktiviert, welche der Berechnungen ausgedruckt werden sol
 
 **Basis für Abfertigung**
 
-Vgl. [Abfertigungsrückstellung](../Rueckstellungen/Abfertigungsrueckstellung.md)
+Vgl. [Abfertigungsrückstellung](../Rückstellungen/Abfertigungsrueckstellung.md)
 
 **Basis für Sonderzahlung**
 
-Vgl. [Abfertigungsrückstellung](../Rueckstellungen/Abfertigungsrueckstellung.md)
+Vgl. [Abfertigungsrückstellung](../Rückstellungen/Abfertigungsrueckstellung.md)
 
 ## Abfertigungsvergleichsdialog
 
