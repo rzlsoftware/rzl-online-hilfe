@@ -16,7 +16,7 @@ In dieser Kurzanleitung können Sie zu Beginn den Ablauf für den Klientenbenutz
 Sie erfassen die Daten der Anmeldung und die Vorerfassung der weiteren Stammdaten der Dienstnehmer in zwei aufeinanderfolgenden Schritten.
 Nach dem Login in den Klientenbereich des RZL Klientenportals wählen Sie den Programmteil Lohnverrechnung / Anmeldung / Anmeldungen erfassen an. Sie können in diesem Programmteil die sogenannte Versichertenmeldung reduziert und die Anmeldung fallweise Beschäftigter erfassen. 
 
-![](img/image1.png)
+![](img/image1.png) 
   
 1.	Die Daten für die Versichertenmeldung können für neue Dienstnehmer erfasst oder für ausgetretene Dienstnehmer ausgewählt werden.
 2.	Erfassen bzw. korrigieren Sie in den Bereichen Anmeldung, Stammdaten und Beschäftigung die Daten. Der Bereich Wohnort ist nur notwendig für die Anforderung einer Versicherungsnummer. Die Erfassung der Ver-sicherungsnummer im Bereich Stammdaten blendet daher den Bereich Wohnort automatisch aus. 
