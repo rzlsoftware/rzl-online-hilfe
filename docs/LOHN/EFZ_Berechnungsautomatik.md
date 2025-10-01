@@ -257,7 +257,7 @@ Bei der BV-Bemessung während eines Krankenstandes und Kündigung während des K
 
 Die fiktive BV-Bemessung muss nur bis zum Ende der Beschäftigung bezahlt werden. Danach muss der Arbeitgeber keine fiktive Bemessungsgrundlage mehr bezahlen. Nach § 7 Abs. 3 BMSVG hängt die BV-Beitragspflicht für Krankengeldbezug an einer aufrechten Beschäftigung.
 
-| Beispiel 4                |                                          |
+| Beispiel 4 – April        |                                          |
 | ------------------------- | ---------------------------------------- |
 | Kündigung am              | 11.04.2025                               |
 | Krankenstand              | 18.02.2025 - 19.04.2025                  |
