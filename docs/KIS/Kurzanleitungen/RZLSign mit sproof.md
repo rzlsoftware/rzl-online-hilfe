@@ -34,7 +34,7 @@ Der Status gibt an, ob ein sproof User bereits einem Mitarbeiter zugeordnet wurd
 
 ![Status sproof User](img/Status_User.png)
 
-## Dokumente signieren
+## Signierprozess
 
 Die sproof Funktionen sind im RZL Kanzlei-Informations-System in den Bereichen *Mein Arbeitsplatz, Klient und Kanzlei* jeweils unter *Dokumente* zu finden. Sie können diese entweder über das Kontextmenü  (rechte Maustaste auf Dokument) oder im Ribbon aufrufen.
 
@@ -49,7 +49,8 @@ Sie werden anschließend auf die Website von sproof weitergeleitet, wo Ihnen neb
 
 ![sproof Website](<img/sproof Website.png>)
 
-### Selbst unterschreiben
+### Möglichkeiten in sproof
+#### Selbst unterschreiben
 
 Sie können das Dokument vor Weiterleitung an den/die Empfänger selbst unterschreiben. 
 
@@ -61,7 +62,7 @@ Zusätzlich können Sie separate Formularfelder im Dokument platzieren wie z.B. 
 
 Damit Sie schlussendlich unterschreiben können, ist das Signaturfeld auf das Dokument an die gewünschte Stelle zu platzieren. Das führen Sie mittels Drag&Drop aus.
 
-### Empfänger:innen
+#### Empfänger:innen
 
 Klicken Sie auf den Bereich *Empfänger:innen*, um die Einstellungen zum Signieren des Empfängers zu treffen.
 
@@ -106,11 +107,25 @@ Im Schritt **4 Weitere Einstellungen** können zusätzliche Optionen wie das Fes
 
 Ist das Dokument schlussendlich bereit zum Unterschreiben versendet zu werden, führen Sie das mit **Einladung senden** durch.
 
-### Als Vorlage speichern
+#### Als Vorlage speichern
 Sie können das Dokument auf sproof teilweise oder vollständig vorbereiten und dann als Vorlage speichern, um es zu einem späteren Zeitpunkt zu versenden oder auch zu löschen.
 
-### Dokument bearbeiten
+#### Dokument bearbeiten
 Über diese Option können Sie ebenso Formularfelder zum Dokument hinzufügen. 
+
+### Was  nach dem Versenden der Einladung zur Signatur passiert
+Das Dokument wurde zu sproof hochgeladen, der Empfänger und individuelle Einstellungen dazu wurden getätigt, die benötigten Formularfelder wurden auf das Dokument platziert und die Einladung wurde gesendet.
+Im RZL KIS wird als Signierstatus *Ausstehend* angezeigt.
+Der Klient erhält eine E-Mail, welche den Einladungslink enthält und den Betreff + Text welchen Sie im sproof beim Schritt **3 E-Mail Einladung** unter Empfänger:innen definiert haben.
+
+![E-Mail Einladung](<img/E-Mail Einladung.png>)
+
+Der Klient kann entweder auf **Dokument anzeigen** klicken und wird somit automatisch auf die sproof Website zum Unterzeichnen weitergeleitet oder der unten angeführte Link (URL) wird kopiert und im Internet Browser eingefügt. 
+
+![Ansicht für Klient sproof](<img/Klient Ansicht sproof.png>)
+
+
+
 
 ## Dokumentliste im KIS
 Auf der sproof Website ist je Dokument auch der Dokumentenstatus ersichtlich. Damit Sie sich einen schnellen Überblick über den akutellen Status verschaffen können, gibt es den **Signierstatus** auch in den Dokumentlisten im KIS.
@@ -122,6 +137,8 @@ Auf der sproof Website ist je Dokument auch der Dokumentenstatus ersichtlich. Da
 | Entwurf                | Entwurf / als Vorlage gespeichert                       |
 | Ausstehend             | Ausstehend / Einladung zur Signatur gesendet            |
 | Abgeschlossen          | Abgeschlossen / alle Empfänger haben signiert/genehmigt |
+| Abgelehnt              | ein Empfänger hat das Dokument nicht signiert           |
+| Abgebrochen            | der Signierprozess wurde abgebrochen                    |
 | auf sproof gelöscht    | Dokument wurde auf sproof gelöscht                      |
 
 Außerdem neu zusätzlich zum Signierstatus ist die Spalte **zu sproof hochgeladen von** in welcher der Mitarbeiter angezeigt wird, welcher das Dokument zu sproof zum Signieren geladen hat.
