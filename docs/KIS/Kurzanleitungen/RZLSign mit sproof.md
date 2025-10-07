@@ -90,7 +90,7 @@ Im unteren Bereich werden jeweils die Empfänger angzeigt. Sie können mit dem P
 * Betrachter:in
 
 Die Rollen Unterzeichner:in und Genehmiger:in setzen ein Handeln des Empfängers voraus, also ein Unterzeichnen oder Genehmigen.
-# **--> das kostet auch was, betrachten aber nicht - hier Info darüber???** 
+### **--> das kostet auch was, betrachten aber nicht - hier Info darüber???** 
 
 Da ein Dokument an mehrere Empfänger gesendet werden kann, können Sie pro Empfänger eine **individuelle Signaturart** festgelegen.
 Mit **Via Fastlane einladen** wird der Empfänger schrittweise durch den Signaturprozess begleitet. Diese Option können Sie ebenfalls wieder pro Empfänger aktivieren.
@@ -126,7 +126,9 @@ Auf der sproof Website ist je Dokument auch der Dokumentenstatus ersichtlich. Da
 
 Außerdem neu zusätzlich zum Signierstatus ist die Spalte **zu sproof hochgeladen von** in welcher der Mitarbeiter angezeigt wird, welcher das Dokument zu sproof zum Signieren geladen hat.
 
+Der Signierstatus wird automatisch im 30 Minuten Abstand mit sproof synchronisiert. Sie können allerdings eine manuelle Synchronisation über das Ribbon unter **Signatur** durchführen. 
 
+![Sync mit sproof](<img/Signatur Ribbon.png>)
 
 
 
