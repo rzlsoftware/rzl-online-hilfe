@@ -84,7 +84,7 @@ Wenn Sie die Option **Signaturart des Dokuments festlegen** aktivieren, bestimme
     
     Quelle: https://www.a-trust.at/de/
 
-Im unteren Bereich werden jeweils die Empfänger angzeigt. Sie können mit dem Pfeil-Symbol in die Detail-Bearbeitung des Empfängers einsteigen. Sie können hier die Rolle des Empfängers definieren:
+Im unteren Bereich werden jeweils die Empfänger angezeigt. Sie können mit dem Pfeil-Symbol in die Detail-Bearbeitung des Empfängers einsteigen. Sie können hier die Rolle des Empfängers definieren:
 
 * Unterzeichner:in
 * Genehmiger:in
