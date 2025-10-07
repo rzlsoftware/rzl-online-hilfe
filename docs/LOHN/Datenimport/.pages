@@ -1,6 +1,6 @@
 nav:
     - Allgemeines.md
-    - Erstellen der Listenform.md
-    - Durchführung des Datenimports.md
-    - Datenimport Bankdaten.md
+    - Erstellen_der_Listenform.md
+    - Durchfuehrung_des_Datenimports.md
+    - Datenimport_Bankdaten.md
     - ...

@@ -2,7 +2,7 @@
 
 ## Zeitausgleich (Rückstellungsberechnung)
 
-Im oberen Bereich *Zeitausgleich (Rückstellungsberechnung)* werden die Daten für die [Zeitausgleichsrückstellung](../Rückstellungen/Zeitausgleichsrückstellung.md) verwendet und auf dem Ausdruck der Abrechnungen angezeigt. Im unteren Bereich *Zeitausgleich* können die eingetragenen Daten nur auf der Abrechnung angedruckt werden. Die untere Eingabe wird nicht bei der Zeitausgleichsrückstellung berücksichtigt.
+Im oberen Bereich *Zeitausgleich (Rückstellungsberechnung)* werden die Daten für die [Zeitausgleichsrückstellung](../Rückstellungen/Zeitausgleichsrueckstellung.md) verwendet und auf dem Ausdruck der Abrechnungen angezeigt. Im unteren Bereich *Zeitausgleich* können die eingetragenen Daten nur auf der Abrechnung angedruckt werden. Die untere Eingabe wird nicht bei der Zeitausgleichsrückstellung berücksichtigt.
 
 ![Image](<img/image117.png>)
 
@@ -48,7 +48,7 @@ Im Feld *Saldo* finden Sie die Anzeige des aktuellen Saldos der Rückstellungsst
 
 ## Zeitausgleich (wird nicht bei Zeitausgleichsrückstellung berücksichtigt)
 
-In diesem Bereich können Aufzeichnungen für die Verwaltung des Zeitausgleiches geführt werden. Der Zeitausgleich kann ebenfalls bewertet werden. Beim [Ausdruck der Abrechnungen](../Ausdrucke%20allgemein/Ausdruck%20Abrechnungen.md) besteht die Möglichkeit, die Zeitausgleichsverwaltung auf der Abrechnung anzudrucken.
+In diesem Bereich können Aufzeichnungen für die Verwaltung des Zeitausgleiches geführt werden. Der Zeitausgleich kann ebenfalls bewertet werden. Beim [Ausdruck der Abrechnungen](../Ausdrucke_allgemein/Ausdruck_Abrechnungen.md) besteht die Möglichkeit, die Zeitausgleichsverwaltung auf der Abrechnung anzudrucken.
 
 Im Feld *Anfangsstand* wird der Anfangsstand des Zeitausgleichs eingetragen. Dieser Anfangsstand kann im Feld *Betrag* bewertet werden. Negative Werte werden durch ein Minus vor der Einheit eingetragen. 
 

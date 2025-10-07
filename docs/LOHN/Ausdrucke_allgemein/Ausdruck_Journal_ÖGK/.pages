@@ -1,0 +1,12 @@
+nav:
+    - Lohnjournal.md
+    - Auszahlungsjournal.md
+    - Buchungsbeleg.md
+    - Kostenstellen.md
+    - Kostentraeger.md
+    - Kostenstellen_Lohnarten.md
+    - Kostentraeger_Lohnarten.md
+    - Dienstgeber_Gesamtkosten.md
+    - Aenderungsprotokoll.md
+    - Monatsabschlussprotokoll.md
+    - ...

@@ -1,0 +1,18 @@
+nav:
+    - Allgemeines.md
+    - Stammdaten_Dienstnehmer.md
+    - Anmeldung.md
+    - Abmeldung.md
+    - Kommunalsteuer.md
+    - Sozialversicherung.md
+    - Fixe_Lohnarten.md
+    - Freie_Lohnarten.md
+    - Abzuege.md
+    - Exekutionen.md
+    - Krankenstand.md
+    - Arbeits_und_Entgeltbestaetigung_Krankengeld.md
+    - Arbeits_und_Entgeltbestaetigung_Wochengeld.md
+    - Kostenstellen_und_Kostentraeger.md
+    - Dienstzettel.md
+    - Dienstnehmer_Notizen.md
+    - ...

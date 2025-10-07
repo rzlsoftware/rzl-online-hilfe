@@ -8,14 +8,14 @@ Im Rahmen der Vorerfassung können folgende Programmteile angesprochen werden:
 
 Durch Anwahl des Programmteils *Vorerfassung / Neuanlage Stammdaten / Anmeldung Dienstnehmer* wird automatisch der Abrechnungsbildschirm *Stammdaten Dienstnehmer* aufgerufen.
 
-Dieser Programmteil kann verwendet werden, wenn der Dienstnehmer zwar angelegt, aber noch keine Abrechnung durchgeführt werden soll. Vgl. [Neuanlage Dienstnehmer](../LOHN/Abrechnungen/Neuanlage%20Dienstnehmer.md).
+Dieser Programmteil kann verwendet werden, wenn der Dienstnehmer zwar angelegt, aber noch keine Abrechnung durchgeführt werden soll. Vgl. [Neuanlage Dienstnehmer](../LOHN/Abrechnungen/Neuanlage_Dienstnehmer.md).
 
 !!! warning "Hinweis"
     Im Zuge der Vorerfassung Neuanlage/Anmeldung Dienstnehmer kann bereits die reduzierte Anmeldung oder die Anmeldung fallweise Beschäftigte erstellt werden.
 
 ## Neuanlage Stammdaten / Anmeldung Freier Dienstvertrag
 
-Wenn der Programmteil *Vorerfassung / Neuanlage Stammdaten / Anmeldung Freier Dienstvertrag* aufgerufen wird, können die Daten für freie Dienstnehmer vorerfasst werden, die zwar angelegt, aber noch nicht abgerechnet werden sollen. Vgl. [Neuanlage Dienstnehmer](../LOHN/Abrechnungen/Neuanlage%20Dienstnehmer.md).
+Wenn der Programmteil *Vorerfassung / Neuanlage Stammdaten / Anmeldung Freier Dienstvertrag* aufgerufen wird, können die Daten für freie Dienstnehmer vorerfasst werden, die zwar angelegt, aber noch nicht abgerechnet werden sollen. Vgl. [Neuanlage Dienstnehmer](../LOHN/Abrechnungen/Neuanlage_Dienstnehmer.md).
 
 ## Vorerfassung Abrechnung
 
