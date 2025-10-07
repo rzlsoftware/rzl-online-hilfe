@@ -139,13 +139,16 @@ In diesen beiden Listen können Sie ebenso die CAMT Dateien exportieren oder lö
     Die Verarbeitung von CAMT-Retourdaten in der RZL FIBU/EA Klassik bzw. der RZL FIBU Next bleibt mit Einführung der EBICS Schnittstelle ident. Die Schnittstelle dient lediglich zum Abruf bzw. zum Transport von Bankdaten.
     Die bisherige Kommunikation über Online-Services der Bank (manueller Abruf CAMT53 oder .csv-Dateien ohne bisherige MBS-Software) ist weiterhin möglich. Detailinformationen erhalten Sie bei den jeweiligen Bankinstituten.
 
-
 ## Zahlungsverkehr
 
 !!! warning "Hinweis"
     Bevor Sie innerhalb unseres EBICS Moduls mit der Verwendung des Zahlungsverkehrs beginnen, stellen Sie bitte sicher, dass die Klienten – für welche Sie eine Zahlungsdatei erzeugen und versenden – über ein EBICS-fähiges Kundenportal verfügen. Sollte dies nicht vorhanden sein, können Zahlungsdateien, welche mit einem transportberechtigten Teilnehmer versendet werden nicht von Ihrem Klienten freigege-ben werden.
 
 Bei Erstellung von Bankeinzügen und Überweisungen wird die XML-Datei in das RZL Board gestellt. Im RZL Board finden Sie diese offenen Übermittlungen unter Portale -> EBICS. Die Übermittlung kann hier direkt übermittelt werden, es können die Zahlungsdetails aufgerufen werden und die Übermittlung kann gelöscht werden.
+
+!!! info "Warning"
+    Bis zum 9. Oktober 2025 wird im europäischen Zahlungsverkehr die Empfängerüberprüfung - eine neue gesetzliche Pflicht - eingeführt, welche Betrug und Fehlüberweisungen bei SEPA-Zahlungen zu verhindern soll.
+
 
 ![Offene EBICS Übermittlungen](<img/Offene EBICS Übermittlungen.png>)
 
