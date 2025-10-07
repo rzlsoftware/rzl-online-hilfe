@@ -91,7 +91,6 @@ Im unteren Bereich werden jeweils die Empfänger angzeigt. Sie können mit dem P
 * Betrachter:in
 
 Die Rollen Unterzeichner:in und Genehmiger:in setzen ein Handeln des Empfängers voraus, also ein Unterzeichnen oder Genehmigen.
-### **--> das kostet auch was, betrachten aber nicht - hier Info darüber???** 
 
 Da ein Dokument an mehrere Empfänger gesendet werden kann, können Sie pro Empfänger eine **individuelle Signaturart** festgelegen.
 Mit **Via Fastlane einladen** wird der Empfänger schrittweise durch den Signaturprozess begleitet. Diese Option können Sie ebenfalls wieder pro Empfänger aktivieren.
@@ -130,7 +129,6 @@ Als Klient kann in dieser Ansicht unterschrieben werden oder im oberen Bereich a
 ![Danke für die Unterschrift](<img/Danke.png>)
 
 Nachdem der Klient unterschrieben hat wird im KIS der Signaturstatus *Abgeschlossen* angezeigt.
-
 Wenn gewünscht kann im KIS eine Zuweisung durchgeführt werden, wodurch Sie nach Unterzeichnung (oder Ablehnung) eine Aufgabe erhalten.
 
 ### Aufgabe
@@ -138,6 +136,13 @@ Wenn gewünscht kann im KIS eine Zuweisung durchgeführt werden, wodurch Sie nac
 Im RZL KIS unter Verwaltung / Zuweisungen können Sie unter sproof eine Aufgabenvorlage hinterlegen.
 
 ![Aufgabenvorlage](<img/Aufgabenvorlage.png>)
+
+Wird das Dokument von allen Empfängern unterzeichnet, wird automatisch eine Aufgabe generiert, welche lautet *Aufgabentitel* **(Abgeschlossen)**. Wird das Dokument von einem Empfänger abgelehnt, wird ebenfalls eine Aufgabe generiert mit *Aufgabentitel* **(Abgelehnt)**.
+
+!!! info "Hinweis"
+    Die Aufgabe erhält jener Mitarbeiter, der in der Aufgabenvorlage definiert wird.
+
+Das Dokument wird außerdem direkt zur Aufgabe zugeordnet.
 
 ## Dokumentliste im KIS
 Auf der sproof Website ist je Dokument auch der Dokumentenstatus ersichtlich. Damit Sie sich einen schnellen Überblick über den akutellen Status verschaffen können, gibt es den **Signierstatus** auch in den Dokumentlisten im KIS.
@@ -159,10 +164,16 @@ Der Signierstatus wird automatisch im 30 Minuten Abstand mit sproof synchronisie
 
 ![Sync mit sproof](<img/Signatur Ribbon.png>)
 
+Außerdem gibt es für bereits auf sproof geladene Dokumente bzw. für signierte Dokumente folgende Funktionen, die Sie über das Kontextmenü bzw. über das Ribbon aufrufen können:
 
+- **Audit Trail anzeigen** -> für signierete Dokumente
+- **Dokument auf sproof anzeigen** -> möglich bei hochgeladenen Dokumenten, welche als Entwurf gespeichert wurden oder den Status *Ausstehend* besitzen; wurden Dokumente signiert oder wird der Signaturprozess abgebrochen, werden die Dokumente auf sproof gelöscht
+- **Signaturprozess abbrechen** -> möglich bei hochgeladenen Dokumenten, welche als Entwurf gespeichert wurden oder den Status *Ausstehend* besitzen; auch hier wird das Dokument auf sproof gelöscht
+  
+!!! info "Hinweis"
+    Werden Dokumente direkt im sproof oder im Zuge von *Signaturprozess abbrechen* gelöscht, kann das Dokument über *mit sproof signieren* wieder hochgeladen werden. Signierte Dokumente können nicht mehr zum Signieren auf sproof geladen werden.
 
+## Audit Trail
+Ein Audit-Trail ist eine lückenlose, chronologische Aufzeichnung, die detailliert dokumentiert, wer wann welche Aktionen an Daten oder Dokumenten vorgenommen hat, um Transparenz, Rechenschaftspflicht und Datenintegrität sicherzustellen. Den Audit Trail können Sie separat je signiertes Dokument aufrufen.
 
-
-
-**--> Berechtigungen??**
-Keine Berechtigungen, weil eh mit Klientengruppe und Hinterlegung bei sproof User
+![Audit Trail](<img/Audit Trail.png>)
