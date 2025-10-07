@@ -117,7 +117,14 @@ Auf der sproof Website ist je Dokument auch der Dokumentenstatus ersichtlich. Da
 
 ![Signierstatus](<img/Signierstatus.png>)
 
+| Signierstatus laut KIS | Dokumentenstatus / Aktion in sproof                     |
+| ---------------------- | ------------------------------------------------------- |
+| Entwurf                | Entwurf / als Vorlage gespeichert                       |
+| Ausstehend             | Ausstehend / Einladung zur Signatur gesendet            |
+| Abgeschlossen          | Abgeschlossen / alle Empfänger haben signiert/genehmigt |
+| auf sproof gelöscht    | Dokument wurde auf sproof gelöscht                      |
 
+Außerdem neu zusätzlich zum Signierstatus ist die Spalte **zu sproof hochgeladen von** in welcher der Mitarbeiter angezeigt wird, welcher das Dokument zu sproof zum Signieren geladen hat.
 
 
 
