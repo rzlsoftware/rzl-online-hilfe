@@ -41,7 +41,18 @@ ist der Pfad, wo das Briefpapier abgespeichert ist, zu definieren.
     (Druckvorschau, Ausgabe Beleg, Ausdruck in den PDF-Manager sowie auch
     beim Ausdruck auf Papier).
 
-![](<img/image102.png>)
+Die Option *Anzahlungs-/Teilrechnungsverbuchung* ist nur zu setzten, wenn folgende Einstellungen auf Ihre Kanzleibuchhaltung zutreffen:
+
+- Sie unterliegen in der Buchhaltung der Soll-Besteuerung.
+  
+- Die Anzahlungen werden mit Code T20 (FIBU Klassik) bzw. AN20 (FIBU Next) verbucht.
+  
+- Die Schlussnote wird in voller Höhe verbucht.
+
+- Die Option gilt nur bei steuerbaren, inländischen Honorarnoten.
+
+
+![](img/image410.png)
 
 Im Feld Zahlungsreferenz **(3)** kann die Zahlungsreferenz definiert werden. Die definierte Zahlungsreferenz wird auf der Honorarnote angedruckt, im QR-Code Feld "Reference" gesetzt und im Beleg als OP-Nummer übergeben.
 
