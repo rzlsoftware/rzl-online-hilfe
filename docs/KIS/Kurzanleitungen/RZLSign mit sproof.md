@@ -124,8 +124,20 @@ Der Klient kann entweder auf **Dokument anzeigen** klicken und wird somit automa
 
 ![Ansicht für Klient sproof](<img/Klient Ansicht sproof.png>)
 
+Die Art der Signatur kann der Klient nur ändern, wenn Sie bei Schritt 1 bei Empfänger:innen *freie Wahl der Signaturart* gewählt haben. Den Signatur-Stil kann der Klient selbst wählen.
+Als Klient kann in dieser Ansicht unterschrieben werden oder im oberen Bereich abgelehnt werden. Außerdem kann der Klient das Dokument herunterladen. Nach **Jetzt unterschreiben** erscheint allerdings nochmal der Hinweis zum Herunterladen des Dokuments:
 
+![Danke für die Unterschrift](<img/Danke.png>)
 
+Nachdem der Klient unterschrieben hat wird im KIS der Signaturstatus *Abgeschlossen* angezeigt.
+
+Wenn gewünscht kann im KIS eine Zuweisung durchgeführt werden, wodurch Sie nach Unterzeichnung (oder Ablehnung) eine Aufgabe erhalten.
+
+### Aufgabe
+
+Im RZL KIS unter Verwaltung / Zuweisungen können Sie unter sproof eine Aufgabenvorlage hinterlegen.
+
+![Aufgabenvorlage](<img/Aufgabenvorlage.png>)
 
 ## Dokumentliste im KIS
 Auf der sproof Website ist je Dokument auch der Dokumentenstatus ersichtlich. Damit Sie sich einen schnellen Überblick über den akutellen Status verschaffen können, gibt es den **Signierstatus** auch in den Dokumentlisten im KIS.
