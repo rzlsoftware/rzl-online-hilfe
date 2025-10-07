@@ -1,4 +1,4 @@
-# RZL Sign mit sproof 
+# RZLSign mit sproof 
 
 ## Verknüpfung sproof mit RZL
 
@@ -100,11 +100,22 @@ Im Schritt **2 Signaturoptionen** platzieren Sie das Signaturfeld per Drag&Drop 
 Bei mehreren Empfängern muss in diesem Schritt allerdings pro Empfänger das Signaturfeld am Dokument platziert werden.
 
 Im Schritt **3 E-Mail Einladung** kann entweder die vordefinierte E-Mail Einladung von sproof, eine selbst vordefinierte und im sproof gespeicherte Einladung oder eine in diesem Schritt eigens definierte Einladung verwendet werden.
+Außerdem kann bei z.B. mehreren Empfängern eine Einzelnachricht verfasst werden.
 
+Im Schritt **4 Weitere Einstellungen** können zusätzliche Optionen wie das Festlegen eines Fälligkeitsdatums oder das Zulassen einer Weitereitung.
 
+Ist das Dokument schlussendlich bereit zum Unterschreiben versendet zu werden, führen Sie das mit **Einladung senden** durch.
 
+### Als Vorlage speichern
+Sie können das Dokument auf sproof teilweise oder vollständig vorbereiten und dann als Vorlage speichern, um es zu einem späteren Zeitpunkt zu versenden oder auch zu löschen.
 
+### Dokument bearbeiten
+Über diese Option können Sie ebenso Formularfelder zum Dokument hinzufügen. 
 
+## Dokumentliste im KIS
+Auf der sproof Website ist je Dokument auch der Dokumentenstatus ersichtlich. Damit Sie sich einen schnellen Überblick über den akutellen Status verschaffen können, gibt es den **Signierstatus** auch in den Dokumentlisten im KIS.
+
+![Signierstatus](<img/Signierstatus.png>)
 
 
 
