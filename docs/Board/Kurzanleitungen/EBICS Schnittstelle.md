@@ -106,7 +106,7 @@ Sie können den Abruf für alle freigeschaltenen Teilnehmer oder nur für einen 
 
 Als freigeschaltete Teilnehmer gelten jene mit dem Status ![Hakerl](<img/Bild13.png>)
 
-![Abschnitt CAMT](<img/Bild22.png>)
+![Abschnitt CAMT](<img/CAMT Buttons.png>)
 
 Bei einem erfolgreichen Abruf erscheint folgendes Fenster zum Bestätigen:
 
@@ -114,22 +114,26 @@ Bei einem erfolgreichen Abruf erscheint folgendes Fenster zum Bestätigen:
 
 Beim CAMT Abruf (1) werden immer die aktuellsten bzw. die noch nicht abgerufenen CAMT abgerufen. Damit dies funktioniert, wird ein Flag gesetzt, welcher definiert, welche CAMT noch nicht abgerufen wurden.
 
-Treten Fehler beim manuellen Abruf auf, können Sie im Protokoll Kommunikation (5) die Details zum fehlerhaften Abruf einsehen.
+Treten Fehler beim manuellen Abruf auf, können Sie im Protokoll Kommunikation die Details zum fehlerhaften Abruf einsehen.
 
-Bei einem fehlerhaften automatischen Abruf können Sie dies über das Benachrichtigungszentrum ![Benachrichtigungszentrum](<img/Bild24.png>)  vorab bereits erkennen und ebenso im Protokoll Kommunikation die Details einsehen.
+Bei einem fehlerhaften automatischen Abruf können Sie dies über das Benachrichtigungszentrum ![Benachrichtigungszentrum](<img/Bild24.png>) vorab bereits erkennen und ebenso im Protokoll Kommunikation die Details einsehen.
 
 ![Kommunikationsprotokoll](<img/Bild25.png>)
 
 Beim CAMT Abruf historisch (2) können Sie ein Von – Bis Datum eintragen und jene CAMT zwischen diesem Zeitraum abrufen. Grundsätzlich benötigen Sie den historischen Abruf nicht, da wie erwähnt ein Flag gesetzt wird und die benötigten CAMT Dateien nach Reihenfolge abgerufen werden.
 
+!!! info "Hinweis"
+    Bei einem historischen Abruf wird außerdem ein Abgleich von bereits gebuchten und ungebuchten CAMT-Dateien durchgeführt. Wenn also mit einem historischen Abruf bereits gebuchte CAMT Dateien abgerufen werden, werden diese nicht wieder als ungebuchte CAMT eingespielt. Es kann also nicht zu einer doppelten Verbuchung kommen.
+
 ![CAMT Abruf historisch](<img/Bild26.png>)
 
-Unter Ungebuchte CAMT Dateien (3) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten noch nicht gebucht wurden.
+Unter Ungebuchte CAMT Dateien (3) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten *noch nicht* gebucht wurden.
 
 ![Ungebuchte CAMT Dateien](<img/Bild27.png>)
 
-In dieser Übersicht können Sie ebenso die noch nicht gebuchten CAMT Dateien exportieren oder löschen.
-
+Unter Gebuchte CAMT Dateien (4) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten bereits gebucht wurden.
+Wurde seitens der Bank eine Zustellung des PDF-Auszugs bestellt und auch im EBICS Teilnehmer die Option *Abruf inkl. PDF-Auszug* aktiviert, sind in beiden Listen ebenso die PDF-Auszüge abrufbar. Sie können auch exportiert werden und ggf. in die Belegverarbeitung importiert werden.
+In diesen beiden Listen können Sie ebenso die CAMT Dateien exportieren oder löschen.
 
 !!! warning "Hinweis"
     Die Verarbeitung von CAMT-Retourdaten in der RZL FIBU/EA Klassik bzw. der RZL FIBU Next bleibt mit Einführung der EBICS Schnittstelle ident. Die Schnittstelle dient lediglich zum Abruf bzw. zum Transport von Bankdaten.
