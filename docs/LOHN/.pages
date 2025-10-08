@@ -6,10 +6,10 @@ nav:
     - Abrechnungen
     - Vorerfassung.md
     - Abrechnungsbildschirme
-    - Freie_Dienstvertraege
+    - Freie_Dienstverträge
     - Freie Lohnarten
     - Kanzleitexte_und_Kanzleilohnkontenplaene.md
-    - Elektronische_Meldungen_OEGK
+    - Elektronische_Meldungen_ÖGK
     - Elektronic_Banking_SEPA.md
     - Electronic_Banking_EBICS.md
     - Aufruf.md
@@ -17,8 +17,8 @@ nav:
     - Repair.md
     - Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte.md
     - Verwaltung.md
-    - Jahresuebernahme
-    - Rueckstellungen
+    - Jahresübernahme
+    - Rückstellungen
     - Datenexport
     - Datenimport
     - Datenexport_Buchungsbeleg.md
@@ -33,17 +33,18 @@ nav:
     - RZL_Klientenportal.md
     - Lohnformeln
     - Ausgabe_Jahreslohnkonto_fuer_GPLB.md
-    - Kollektivvertraege
+    - Kollektivverträge
     - Auswahlkriterien.md
-    - Bauarbeiter_Urlaubs_und_Abfertigungskasse
+    - Bauarbeiter_Urlaubs-und_Abfertigungskasse
     - Selbstbemessungsabgaben_melden.md
     - Reports.md
-    - Abrechnungen_Sonderfaelle
+    - Abrechnungen_Sonderfälle
     - Abrechnung_von_Vergleichszahlungen_und_Nachzahlungen.md
     - Abrechnung_einer_Insolvenz.md
     - Kurzarbeit.md
     - Digitaler_Personalakt.md
     - WEBEKU_Webservice.md
     - Freiwilligenpauschale.md
+    - EFZ_Berechnungsautomatik.md
     - Kurzanleitungen
     - ...

@@ -69,7 +69,7 @@ Hier wird eine komprimierte Zusammenfassung der Krankenstandsdaten der Dienstneh
 
 **Aufruf Krankenstandsbescheinigung**
 
-Dieser Aufruf zeigt die über Elda importierten [Krankenstandsbescheinigungen](../LOHN/Elektronische_Meldungen_OEGK/Krankenstandsbescheinigungen.md) an.
+Dieser Aufruf zeigt die über Elda importierten [Krankenstandsbescheinigungen](../LOHN/Elektronische_Meldungen_ÖGK/Krankenstandsbescheinigungen.md) an.
 
 **Aufruf Angehörige**
 

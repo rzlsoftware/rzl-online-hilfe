@@ -121,7 +121,7 @@ Die Übernahme der Daten ist maximal zurück bis 1999 möglich.
 
 **KV-Einstufungen**
 
-Im Programmteil *Ausdruck / KV-Einstufungen* kann eine Übersicht über die [KV-Einstufungen](../Kollektivvertraege/Abrechnungsbildschirm_Kollektivvertrag.md) der Dienstnehmer ausgedruckt werden.
+Im Programmteil *Ausdruck / KV-Einstufungen* kann eine Übersicht über die [KV-Einstufungen](../Kollektivverträge/Abrechnungsbildschirm_Kollektivvertrag.md) der Dienstnehmer ausgedruckt werden.
 
 **Übersicht KV-Lohn / Ist-Lohn**
 

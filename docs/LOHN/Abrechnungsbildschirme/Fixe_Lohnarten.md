@@ -180,7 +180,7 @@ Seit 1.1.2012 darf der Urlaubszuschuss für Dienstnehmer, die dem BUAG unterlieg
 
 Die Eintragung kann im Feld *UZ (BUAG)* erfolgen. Die Versteuerung erfolgt mit 6 % ohne Berücksichtigung des Freibetrages (EUR 620,00), ohne Berücksichtigung der Freigrenze (ab 2024: EUR 2.447,00 bis 2023: EUR 2.100,00) und ohne Anrechnung auf das Jahreszwölftel. Der Urlaubszuschuss kann auch mit einer freien Lohnart mit Lohnsteuerpflichtigkeit *Nr. 3 LSt. gem. §&nbsp;67 ohne Freibetrag von 620,00 ohne Sechstelbestimmung* abgerechnet werden.
 
-Damit das Feld *UZ (BUAG)* ausgefüllt werden kann und für weitere sonstige Bezüge (Weihnachtsremuneration) das Jahreszwölftel gemäß § 67 (5) EStG berücksichtigt wird, muss im Abrechnungsbildschirm *Sozialversicherung* im Bereich [*Bauarbeiter- Urlaubs- und Abfertigungskasse (BUAK)*](../Bauarbeiter_Urlaubs_und_Abfertigungskasse/Abrechnungsbildschirm_Bauarbeiter_Urlaubs_und_Abfertigungskasse.md) das Häkchen gesetzt sein.
+Damit das Feld *UZ (BUAG)* ausgefüllt werden kann und für weitere sonstige Bezüge (Weihnachtsremuneration) das Jahreszwölftel gemäß § 67 (5) EStG berücksichtigt wird, muss im Abrechnungsbildschirm *Sozialversicherung* im Bereich [*Bauarbeiter- Urlaubs- und Abfertigungskasse (BUAK)*](../Bauarbeiter_Urlaubs-und_Abfertigungskasse/Abrechnungsbildschirm_Bauarbeiter_Urlaubs_und_Abfertigungskasse.md) das Häkchen gesetzt sein.
 
 ## BV-Bemessung für Präsenz-/Zivildienst, Mutterschutz und Krankheit
 
@@ -199,7 +199,7 @@ Für Zeiten des Kinderbetreuungsgeldbezuges, der Bildungskarenz und der Hospizka
 
 ## Start-Up-Mitarbeiterbeteiligung (ab 2024)
 
-Siehe [Start-Up-Mitarbeiterbeteiligung](../Abrechnungen_Sonderfaelle/Start-Up-Mitarbeiterbeteiligung.md)
+Siehe [Start-Up-Mitarbeiterbeteiligung](../Abrechnungen_Sonderfälle/Start-Up-Mitarbeiterbeteiligung.md)
 
 ## Sonder-Berechnung
 

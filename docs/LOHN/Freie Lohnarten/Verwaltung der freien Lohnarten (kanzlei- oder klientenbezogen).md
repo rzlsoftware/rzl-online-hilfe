@@ -23,7 +23,7 @@ Durch Anwahl des Programmteils *Stamm / Lohnarten von Kanzlei-Tabelle übernehme
 Im Feld Kanzlei-Lohnartentabelle ist die Nummer der Tabelle einzutragen und wird durch Anwahl der Schaltfläche *Übernehmen* auf den Klienten überspielt.
 
 !!! warning "Hinweis"
-    Ein Wechsel von klientenbezogenen Lohnarten auf eine Kanzleilohnarten-Tabelle oder umgekehrt ist nur im Zuge einer [Jahresübernahme](../Jahresuebernahme/Jahresuebernahme_innerhalb_eines_Klienten.md) möglich.
+    Ein Wechsel von klientenbezogenen Lohnarten auf eine Kanzleilohnarten-Tabelle oder umgekehrt ist nur im Zuge einer [Jahresübernahme](../Jahresübernahme/Jahresuebernahme_innerhalb_eines_Klienten.md) möglich.
 
 ## Musterlohnartentabelle
 

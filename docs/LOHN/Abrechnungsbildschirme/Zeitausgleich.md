@@ -2,7 +2,7 @@
 
 ## Zeitausgleich (Rückstellungsberechnung)
 
-Im oberen Bereich *Zeitausgleich (Rückstellungsberechnung)* werden die Daten für die [Zeitausgleichsrückstellung](../Rueckstellungen/Zeitausgleichsrueckstellung.md) verwendet und auf dem Ausdruck der Abrechnungen angezeigt. Im unteren Bereich *Zeitausgleich* können die eingetragenen Daten nur auf der Abrechnung angedruckt werden. Die untere Eingabe wird nicht bei der Zeitausgleichsrückstellung berücksichtigt.
+Im oberen Bereich *Zeitausgleich (Rückstellungsberechnung)* werden die Daten für die [Zeitausgleichsrückstellung](../Rückstellungen/Zeitausgleichsrueckstellung.md) verwendet und auf dem Ausdruck der Abrechnungen angezeigt. Im unteren Bereich *Zeitausgleich* können die eingetragenen Daten nur auf der Abrechnung angedruckt werden. Die untere Eingabe wird nicht bei der Zeitausgleichsrückstellung berücksichtigt.
 
 ![Image](<img/image117.png>)
 
@@ -34,7 +34,7 @@ Hier kann pro Zeitausgleichskartei eingestellt werden, ob diese Kartei bei der Z
 
 **Zeitausgleichskartei**
 
-Die *Zeitausgleichskartei* wird für die Berechnung der Zeitausgleichsrückstellung verwendet. Die Daten können auch für den Ausdruck der Abrechnungen verwendet werden. Sie haben die Möglichkeit zwischen vier Karteien zu wählen. Die Bezeichnung der Karteien können Sie unter *Stamm / Klient / Registerblatt* [*Details Rückstellungen (4)*](../Rueckstellungen/Stammdaten.md) ändern.
+Die *Zeitausgleichskartei* wird für die Berechnung der Zeitausgleichsrückstellung verwendet. Die Daten können auch für den Ausdruck der Abrechnungen verwendet werden. Sie haben die Möglichkeit zwischen vier Karteien zu wählen. Die Bezeichnung der Karteien können Sie unter *Stamm / Klient / Registerblatt* [*Details Rückstellungen (4)*](../Rückstellungen/Stammdaten.md) ändern.
 
 Eintragung des Datums der Erfassung (z. B. Monatsletzter).
 

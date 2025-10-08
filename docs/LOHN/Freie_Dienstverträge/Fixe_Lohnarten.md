@@ -26,7 +26,7 @@ Seit 1.1.2008 gilt auch für die freien Dienstnehmer die Betriebliche Vorsorgeka
 
 Beim Bezug von Wochen- und Krankengeld sind vom Dienstgeber auf Basis des Kinderbetreuungsgeldes die BV-Beiträge weiter an die BV-Kasse abzuführen.
 
-Aufgrund des im Abrechnungsbildschirm [*Abmeldung*](../Freie_Dienstvertraege/Abmeldung.md) eingetragenen Austrittsgrundes (Wochengeld), wird vom Programm automatisch die Bemessungsgrundlage in das jeweilige Feld eingetragen.
+Aufgrund des im Abrechnungsbildschirm [*Abmeldung*](../Freie_Dienstverträge/Abmeldung.md) eingetragenen Austrittsgrundes (Wochengeld), wird vom Programm automatisch die Bemessungsgrundlage in das jeweilige Feld eingetragen.
 
 Beim Bezug von Krankengeld ist die Eintragung und Aliquotierung manuell vorzunehmen.
 
@@ -37,7 +37,7 @@ Beim Bezug von Krankengeld ist die Eintragung und Aliquotierung manuell vorzuneh
 
 **Abweichende Basis SV**
 
-Dieses Eingabefeld ist nur für Ausnahmefälle vorgesehen. Vom Programm wird die Basis für die Sozialversicherung automatisch ermittelt und davon die SV-ANA und SV-AGA ermittelt, wenn im Abrechnungsbildschirm [*Sozialversicherung*](../Freie_Dienstvertraege/Sozialversicherung.md) die entsprechende Beschäftigtengruppe eingegeben wurde. Nur wenn in einem besonderen Fall als Grundlage für die Sozialversicherung ein anderer Wert herangezogen werden muss, ist hier die abweichende Basis einzugeben. Es werden dann die SV-Arbeitnehmeranteile und SV-Arbeitgeberanteile von dieser Basis *ohne Berücksichtigung von etwaigen Beitragshöchstgrenzen* berechnet.
+Dieses Eingabefeld ist nur für Ausnahmefälle vorgesehen. Vom Programm wird die Basis für die Sozialversicherung automatisch ermittelt und davon die SV-ANA und SV-AGA ermittelt, wenn im Abrechnungsbildschirm [*Sozialversicherung*](../Freie_Dienstverträge/Sozialversicherung.md) die entsprechende Beschäftigtengruppe eingegeben wurde. Nur wenn in einem besonderen Fall als Grundlage für die Sozialversicherung ein anderer Wert herangezogen werden muss, ist hier die abweichende Basis einzugeben. Es werden dann die SV-Arbeitnehmeranteile und SV-Arbeitgeberanteile von dieser Basis *ohne Berücksichtigung von etwaigen Beitragshöchstgrenzen* berechnet.
 
 **Abweichende Basis SV SZ**
 
