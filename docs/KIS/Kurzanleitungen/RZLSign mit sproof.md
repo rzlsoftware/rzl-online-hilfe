@@ -177,3 +177,15 @@ Außerdem gibt es für bereits auf sproof geladene Dokumente bzw. für signierte
 Ein Audit-Trail ist eine lückenlose, chronologische Aufzeichnung, die detailliert dokumentiert, wer wann welche Aktionen an Daten oder Dokumenten vorgenommen hat, um Transparenz, Rechenschaftspflicht und Datenintegrität sicherzustellen. Den Audit Trail können Sie separat je signiertes Dokument aufrufen.
 
 ![Audit Trail](<img/Audit Trail.png>)
+
+
+## Relevante Hinweise
+
+Passwortgeschützte Dokumente können nicht zu sproof hochgeladen werden. 
+Wird ein zu signierendes Dokument in den RZL PDF Manager gedruckt, der Dokumentenschutz aktiviert bzw. nicht deaktiviert und wird in das übernommen, so kann es nicht zu sproof zum Signieren hochgeladen werden. 
+Der Dokumentenschutz muss demnach gelöscht werden.
+
+Ein bereits signiertes Dokument darf beim Drucken in den RZL PDF Manager nicht mit einem Dokumentenschutz versehen werden, da dies die Rechtsgültigkeit der digitalen Signatur aufhebt.
+
+!!! info "Tipp"
+    Soll das Dokument dennoch passwortgeschützt versendet werden, muss es zuvor in ein ZIP-Archiv gepackt und dieses verschlüsselt werden.
