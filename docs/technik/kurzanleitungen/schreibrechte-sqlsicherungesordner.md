@@ -6,8 +6,8 @@ Sollten Sie am Ende der Installation folgenden Dialog erhalten, müssen Sie die 
 
 Dies ist notwendig, da sich in einer zukünftigen Version das Sicherungssystem ändern wird. Damit es bei der Umstellung auf das neue Sicherungssystem nicht zu Problemen kommt, empfehlen wir Ihnen, die Zugriffsrechte auf den SQL-Sicherungsordner wie in dieser Anleitung beschrieben zu ändern.
 
-> **Hinweis**
-Diese Anleitung ist für EDV-Betreuer vorgesehen. Falls Sie nicht selbst EDV-Betreuer sind, lassen Sie die Änderungen durch Ihren EDV-Betreuer durchführen und weisen Sie ihn auf diese Anleitung hin.
+!!! warning "Hinweis"
+    Diese Anleitung ist für EDV-Betreuer vorgesehen. Falls Sie nicht selbst EDV-Betreuer sind, lassen Sie die Änderungen durch Ihren EDV-Betreuer durchführen und weisen Sie ihn auf diese Anleitung hin.
 
 Den Pfad zu Ihrem SQL-Sicherungsordner entnehmen Sie dem Dialog.  
 **Beispiel:**  

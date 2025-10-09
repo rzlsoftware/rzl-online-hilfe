@@ -11,8 +11,8 @@
 - **Sicherheit:**  
     Portfreigaben können die Sicherheit Ihres Netzwerks beeinträchtigen. Geben Sie daher nur die Ports frei, die für Ihre RZL-Programme wirklich notwendig sind.
 
-> **Hinweis**
-> Im Zuge der Setup-Installation werden alle notwendigen Ports, die für die Funktionalität der RZL-Programme erforderlich sind, automatisch freigegeben. Eine erneute Freigabe ist in der Regel nicht notwendig.
+!!! warning "Hinweis"
+    Im Zuge der Setup-Installation werden alle notwendigen Ports, die für die Funktionalität der RZL-Programme erforderlich sind, automatisch freigegeben. Eine erneute Freigabe ist in der Regel nicht notwendig.
 
 Beim Öffnen oder Ändern von Firewall-Regeln ist es wichtig, sowohl die Standardportkonfigurationen als auch mögliche individuelle Portanpassungen (z. B. für den RZL-Dienst oder SQL-Server) zu berücksichtigen. So wird eine reibungslose Funktionalität gewährleistet und gleichzeitig den Sicherheitsrichtlinien entsprochen. Vor solchen Änderungen empfiehlt sich eine umfassende Sicherheitsüberprüfung.
 

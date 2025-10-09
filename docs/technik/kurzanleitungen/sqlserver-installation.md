@@ -2,15 +2,15 @@
 
 In dieser Dokumentation wird die Installation und Konfiguration des SQL Servers beschrieben, damit dieser von den RZL Programmen verwendet werden kann.
 
-> **Hinweis**
-Diese Anleitung richtet sich primär an IT-Techniker. Bei einer fehlerhaften Installation besteht das Risiko, dass die RZL Programme nicht wie erwartet funktionieren oder ausfallen können.
+!!! warning "Hinweis"
+    Diese Anleitung richtet sich primär an IT-Techniker. Bei einer fehlerhaften Installation besteht das Risiko, dass die RZL Programme nicht wie erwartet funktionieren oder ausfallen können.
 
 
 ## Allgemeines
 
-> **Hinweis**   
-- **SQL Server Version** bezieht sich auf den Entwicklungsstand und das Veröffentlichungsdatum des SQL Servers (z.B.: 2019, 2022, …).  
-- **SQL Server Edition** bezieht sich auf die Variante des SQL Servers, die für unterschiedliche Nutzungsszenarien und Leistungsanforderungen konzipiert ist (Express, Standard, …).
+!!! warning "Hinweis" 
+    - **SQL Server Version** bezieht sich auf den Entwicklungsstand und das Veröffentlichungsdatum des SQL Servers (z.B.: 2019, 2022, …).  
+    - **SQL Server Edition** bezieht sich auf die Variante des SQL Servers, die für unterschiedliche Nutzungsszenarien und Leistungsanforderungen konzipiert ist (Express, Standard, …).
 
 Bitte prüfen Sie zuerst die benötigten Hardware- und Softwareanforderungen der SQL Server Version, die Sie installieren möchten. Es wird empfohlen, die aktuellste – von RZL freigegebene – SQL Server Version (aktuell: SQL Server 2022) zu installieren.
 
@@ -26,8 +26,8 @@ RZL stellt aus lizenzrechtlichen Gründen – mit Ausnahme von SQL Server Expres
 
 ## Installation einer neuen SQL Server Instanz
 
-> **Hinweis**
-Die folgenden Schritte wurden mit dem Setup für SQL Server 2022 Standard (deutsch) auf einem Windows Server 2022 (deutsch) durchgeführt. Die Anleitung ist auch für andere Versionen und Editionen des SQL Servers gültig, es kann jedoch sein, dass einzelne Schritte abweichen.
+!!! warning "Hinweis"
+    Die folgenden Schritte wurden mit dem Setup für SQL Server 2022 Standard (deutsch) auf einem Windows Server 2022 (deutsch) durchgeführt. Die Anleitung ist auch für andere Versionen und Editionen des SQL Servers gültig, es kann jedoch sein, dass einzelne Schritte abweichen.
 
 1. **Mounten des Installationsmediums (ISO-Datei)**  
     Rechtsklick auf die ISO-Datei → **Bereitstellen**  
@@ -39,8 +39,8 @@ Die folgenden Schritte wurden mit dem Setup für SQL Server 2022 Standard (deuts
     - Unter **Start → Einstellungen → Zeit und Sprache → Region** ändern Sie das regionale Format auf **Deutsch (Deutschland)**.
     - Starten Sie das Setup erneut.
 
-    > **Hinweis**
-    Nach der erfolgreichen Installation können Sie das regionale Format wieder auf **Deutsch (Österreich)** ändern. Die Änderung hat keinen Einfluss auf den Betrieb des SQL Servers.
+    !!! warning "Hinweis"
+        Nach der erfolgreichen Installation können Sie das regionale Format wieder auf **Deutsch (Österreich)** ändern. Die Änderung hat keinen Einfluss auf den Betrieb des SQL Servers.
 
 3. **Im Installationscenter**  
     Wählen Sie **Installation → Neue eigenständige SQL Server-Installation oder Hinzufügen von Funktionen zu einer vorhandenen Installation**.
@@ -66,7 +66,7 @@ Die folgenden Schritte wurden mit dem Setup für SQL Server 2022 Standard (deuts
 9. **Instanzkonfiguration**  
     Wählen Sie **Benannte Instanz** und legen Sie einen Namen für die neue SQL Server Instanz fest. Für die Instanz-ID vergeben Sie den gleichen Namen.
 
-    > **Hinweis**
+!!! warning "Hinweis"
     Der Name der Instanz kann frei gewählt werden. Stellen Sie sicher, dass Name und Instanz-ID identisch sind.
     Standardmäßig "SQLEXPRESS_RZL" oder SQL_RZL.
 
@@ -143,7 +143,7 @@ Es werden zwei Firewall-Regeln benötigt:
     `%ProgramFiles%\Microsoft SQL Server\MSSQL16.RZL_SQL\MSSQL\Binn\sqlservr.exe`
 5. Wählen Sie das Profil (**Domäne** ist normalerweise ausreichend. Bei VPN-Verbindungen kann es abweichen).
 
-    > **Hinweis**
+!!! warning "Hinweis"
     Unter **Start → Windows-Sicherheit** können Sie einsehen, wie eine Netzwerkbindung von Windows kategorisiert wird.
 
 6. Vergeben Sie für die Firewall-Regel einen Namen.
@@ -169,5 +169,5 @@ Das **SQL Server Management Studio (SSMS)** bietet eine grafische Oberfläche zu
 2. Im Dialog geben Sie den Servernamen der SQL Server Instanz ein und wählen bei **Verschlüsselung** die Option **Optional**.
 3. Sie sollten jetzt mit der SQL Server Instanz verbunden sein.
 
-> **Hinweis**
-Der Standardwert für Verschlüsselung ist seit SQL Server Management Studio **Obligatorisch**. Grund ist die zunehmende Anzahl von Cloud-Installationen des SQL Servers und die Kommunikation übers Internet. Bei einer Installation im Intranet ist eine Verschlüsselung nicht notwendig und auch technisch nicht einfach umzusetzen, da es meistens keine öffentliche Domäne gibt, für die ein Zertifikat ausgestellt werden könnte.
+!!! warning "Hinweis"
+    Der Standardwert für Verschlüsselung ist seit SQL Server Management Studio **Obligatorisch**. Grund ist die zunehmende Anzahl von Cloud-Installationen des SQL Servers und die Kommunikation übers Internet. Bei einer Installation im Intranet ist eine Verschlüsselung nicht notwendig und auch technisch nicht einfach umzusetzen, da es meistens keine öffentliche Domäne gibt, für die ein Zertifikat ausgestellt werden könnte.
