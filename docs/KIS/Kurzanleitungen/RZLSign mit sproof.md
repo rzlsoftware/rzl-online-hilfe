@@ -9,7 +9,8 @@ Um Dokumente von RZL zu sproof hochladen und signieren zu können, ist die Einri
 ### sproof Lizenz
 
 Die sproof Lizenz ist im RZL Board unter **Portale / RZLSign** und **Lizenz** zu hinterlegen.
-Mithilfe **Neue sproof Lizenz** im Ribbon oder im Detail kann die sproof Lizenz angelegt werden. Den API Token erhalten Sie direkt von sproof und dieser ist hier einzutragen und der entsprechende Lizenznehmer zuzuordnen.
+Mithilfe **Neue sproof Lizenz** im Ribbon oder im Detail kann die sproof Lizenz angelegt werden. Den API Token erhalten Sie direkt von sproof und dieser ist hier einzutragen. 
+Bei einer Multilizenz im RZL ist der entsprechende Lizenznehmer zuzuordnen.
 
 ![sproof Lizenz](<img/Lizenz.png>)
 
@@ -28,7 +29,7 @@ In dieser Übersicht werden nicht nur von RZL angelegte User angezeigt, sondern 
 Der Unterschied von Users und User+ ist im sproof relevant. Für das Signieren von Dokumenten ist die Zuordnung zum Mitarbeiter notwendig.
 
 !!! info "Hinweis"
-    Einem sproof User können mehere Mitarbeiter zugeordnet werden. So können alle zugeordneten Mitarbeiter mit einem sproof User z.B. einem allgemeinen Kanzlei-User Dokumenten zum Signieren an sproof hochladen.
+    Einem sproof User können mehere Mitarbeiter zugeordnet werden. So können alle zugeordneten Mitarbeiter mit einem sproof User z.B. einem allgemeinen Kanzlei-User Dokumente zum Signieren an sproof hochladen.
 
 Der Status gibt an, ob ein sproof User bereits einem Mitarbeiter zugeordnet wurde oder nicht. Ohne Zuordnung zum Mitarbeiter können von diesem Mitarbeiter keine Dokumente zum Signieren an sproof hochgeladen werden.
 
@@ -84,7 +85,7 @@ Wenn Sie die Option **Signaturart des Dokuments festlegen** aktivieren, bestimme
     
     Quelle: https://www.a-trust.at/de/
 
-Im unteren Bereich werden jeweils die Empfänger angezeigt. Sie können mit dem Pfeil-Symbol in die Detail-Bearbeitung des Empfängers einsteigen. Sie können hier die Rolle des Empfängers definieren:
+Im unteren Bereich werden jeweils die Empfänger angzeigt. Sie können mit dem Pfeil-Symbol in die Detail-Bearbeitung des Empfängers einsteigen. Sie können hier die Rolle des Empfängers definieren:
 
 * Unterzeichner:in
 * Genehmiger:in
@@ -93,7 +94,6 @@ Im unteren Bereich werden jeweils die Empfänger angezeigt. Sie können mit dem 
 Die Rollen Unterzeichner:in und Genehmiger:in setzen ein Handeln des Empfängers voraus, also ein Unterzeichnen oder Genehmigen.
 
 Da ein Dokument an mehrere Empfänger gesendet werden kann, können Sie pro Empfänger eine **individuelle Signaturart** festgelegen.
-Mit **Via Fastlane einladen** wird der Empfänger schrittweise durch den Signaturprozess begleitet. Diese Option können Sie ebenfalls wieder pro Empfänger aktivieren.
 Soll einer der Empfänger wieder entfernt werden, können Sie das ebenso direkt im sproof durchführen und ggf. einen anderen Empfänger hinzufügen.
 
 Im Schritt **2 Signaturoptionen** platzieren Sie das Signaturfeld per Drag&Drop auf die gewünschte Stelle im Dokument. Wie auch beim **Selbst unterschreiben** können Sie hier separate Formularfelder im Dokument platzieren.
@@ -105,9 +105,6 @@ Außerdem kann bei z.B. mehreren Empfängern eine Einzelnachricht verfasst werde
 Im Schritt **4 Weitere Einstellungen** können zusätzliche Optionen wie das Festlegen eines Fälligkeitsdatums oder das Zulassen einer Weitereitung.
 
 Ist das Dokument schlussendlich bereit zum Unterschreiben versendet zu werden, führen Sie das mit **Einladung senden** durch.
-
-#### Als Vorlage speichern
-Sie können das Dokument auf sproof teilweise oder vollständig vorbereiten und dann als Vorlage speichern, um es zu einem späteren Zeitpunkt zu versenden oder auch zu löschen.
 
 #### Dokument bearbeiten
 Über diese Option können Sie ebenso Formularfelder zum Dokument hinzufügen. 
@@ -144,7 +141,10 @@ Wird das Dokument von allen Empfängern unterzeichnet, wird automatisch eine Auf
 
 Das Dokument wird außerdem direkt zur Aufgabe zugeordnet.
 
-## Dokumentliste im KIS
+!!! info "Hinweis"
+    Diese Funktion wird mit der Programmversion 2.25.11 integriert.
+
+## Dokumentenliste im KIS
 Auf der sproof Website ist je Dokument auch der Dokumentenstatus ersichtlich. Damit Sie sich einen schnellen Überblick über den akutellen Status verschaffen können, gibt es den **Signierstatus** auch in den Dokumentlisten im KIS.
 
 ![Signierstatus](<img/Signierstatus.png>)
@@ -166,7 +166,7 @@ Der Signierstatus wird automatisch im 30 Minuten Abstand mit sproof synchronisie
 
 Außerdem gibt es für bereits auf sproof geladene Dokumente bzw. für signierte Dokumente folgende Funktionen, die Sie über das Kontextmenü bzw. über das Ribbon aufrufen können:
 
-- **Audit Trail anzeigen** -> für signierete Dokumente
+- **Audit Trail anzeigen** -> für signierte Dokumente
 - **Dokument auf sproof anzeigen** -> möglich bei hochgeladenen Dokumenten, welche als Entwurf gespeichert wurden oder den Status *Ausstehend* besitzen; wurden Dokumente signiert oder wird der Signaturprozess abgebrochen, werden die Dokumente auf sproof gelöscht
 - **Signaturprozess abbrechen** -> möglich bei hochgeladenen Dokumenten, welche als Entwurf gespeichert wurden oder den Status *Ausstehend* besitzen; auch hier wird das Dokument auf sproof gelöscht
   
