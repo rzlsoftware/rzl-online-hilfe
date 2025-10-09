@@ -136,7 +136,7 @@ Unter Gebuchte CAMT Dateien (4) finden Sie eine Übersicht, welche CAMT Dateien 
 !!! info "Hinweis"
     Der Aufbau der Ansichten **ungebuchte CAMT Dateien** und **gebuchte CAMT Dateien** ist ident. In beiden Listen finden Sie dieselben Informationen.
 
-In diesen beiden Listen können Sie ebenso die CAMT Dateien exportieren oder löschen.
+In diesen beiden Listen können Sie außerdem die CAMT Dateien exportieren oder löschen.
 
 ### PDF-Auszug
 Wurde bei der Bank die Zustellung von PDF-Auszügen bestellt und auch im EBICS Teilnehmer die Option *Abruf inkl. PDF-Auszug* aktiviert, sind in beiden Listen ebenso die PDF Auszüge abrufbar. Sie haben im RZL die Möglichkeit diese zu exportieren, um diese ggf. in die Belegverarbeitung zu importieren.
