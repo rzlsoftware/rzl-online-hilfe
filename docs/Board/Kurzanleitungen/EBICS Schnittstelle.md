@@ -145,7 +145,7 @@ Es kann vorkommen, dass ein PDF-Auszug keiner CAMT Datei zugeordnet werden kann.
 
 ![nicht zugeordnete PDF Auszüge](<img/nicht zugeordnete PDF.png>)
 
-Außerdem gibt es auch hier wieder die Möglichkeit die PDF und CAMT Datieen zu exportieren.
+Außerdem gibt es auch hier wieder die Möglichkeit die PDF und CAMT Dateien zu exportieren.
 
 !!! warning "Hinweis"
     Die Verarbeitung von CAMT-Retourdaten in der RZL FIBU/EA Klassik bzw. der RZL FIBU Next bleibt mit Einführung der EBICS Schnittstelle ident. Die Schnittstelle dient lediglich zum Abruf bzw. zum Transport von Bankdaten.
