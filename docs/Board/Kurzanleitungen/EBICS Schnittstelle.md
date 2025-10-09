@@ -211,6 +211,9 @@ Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **
 | ![rotes X](<img/storniert.png>)                          | Die Zahlungsdatei wurde storniert                                                                        |
 | Status ist leer                                          | Die Zahlungsdatei wurde mit der Option *Standard* oder *Opt-Out - ohne Empfängerüberprüfung* übermittelt |
 
+!!! info "Hinweis"
+    Wenn Sie den Mauszeiger auf das jeweilige Icon positionieren, wird ein Tooltip angezeigt, welche die Informationen laut obiger Tabelle anführen.
+
 ## EBICS in der RZL FIBU/FIBU Next/EA und im RZL Lohn
 
 Die nötigen Einstellungen und die Bedienung von CAMT Retourdaten und des Zahlungsverkehrs mit EBICS in der RZL FIBU/FIBU Next/EA entnehmen Sie bitte der Kurzanleitung [*EBICS Schnittstelle RZL Finanzbuchhaltung*](https://rzlsoftware.at/fileadmin/user_upload/PDF_Kurzanleitungen/BOARD/BOARD_EBICS_Schnittstelle.pdf).
