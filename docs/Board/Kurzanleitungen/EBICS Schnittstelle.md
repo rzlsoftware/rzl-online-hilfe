@@ -7,7 +7,7 @@ Die **RZL EBICS-Schnittstelle ist kostenpflichtig** und nur in Verbindung mit de
 Für die Nutzung der RZL EBICS Schnittstelle ist weiters der **RZL Dienst** vom Systembetreuer zu installieren, falls dieser nicht ohnehin bereits installiert wurde (z.B. für HON Next, …). Details siehe **RZL Setup-Handbuch** (aufruf-bar im RZL Programm unter HILFE – HANDBUCH). 
 
 ## Einstellung zur Nutzung
-
+--
 Unter EBICS Teilnehmer ist ein neuer Teilnehmer (1) anzulegen. Die dafür benötigten Zugangsdaten bzw. Informa-tionen erhalten Sie jeweils von den Banken. Speichern Sie den Teilnehmer mithilfe des Buttons. Der Status zeigt ![Plus](<img/Bild7.png>) , welcher symbolisieren soll, dass der Teilnehmer im RZL angelegt wurde und anschließend zur Initialisierung (2) bereits steht.
 
 ![Portale - EBICS](<img/EBICS Teilnehmer.png>)
@@ -123,31 +123,44 @@ Bei einem fehlerhaften automatischen Abruf können Sie dies über das Benachrich
 Beim CAMT Abruf historisch (2) können Sie ein Von – Bis Datum eintragen und jene CAMT zwischen diesem Zeitraum abrufen. Grundsätzlich benötigen Sie den historischen Abruf nicht, da wie erwähnt ein Flag gesetzt wird und die benötigten CAMT Dateien nach Reihenfolge abgerufen werden.
 
 !!! info "Hinweis"
-    Bei einem historischen Abruf wird außerdem ein Abgleich von bereits gebuchten und ungebuchten CAMT-Dateien durchgeführt. Wenn also mit einem historischen Abruf bereits gebuchte CAMT Dateien abgerufen werden, werden diese nicht wieder als ungebuchte CAMT eingespielt. Es kann also nicht zu einer doppelten Verbuchung kommen.
+    Bei einem historischen Abruf wird außerdem ein Abgleich von bereits gebuchten und ungebuchten CAMT-Dateien durchgeführt. Wenn mit einem historischen Abruf bereits gebuchte CAMT Dateien abgerufen werden, werden diese nicht wieder als ungebuchte CAMT eingespielt. Es kann somit also nicht zu einer doppelten Verbuchung kommen.
 
 ![CAMT Abruf historisch](<img/Bild26.png>)
 
 Unter Ungebuchte CAMT Dateien (3) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten *noch nicht* gebucht wurden.
 
-![Ungebuchte CAMT Dateien](<img/Bild27.png>)
+![Ungebuchte CAMT Dateien](<img/ungebuchte CAMT.png>)
 
-Unter Gebuchte CAMT Dateien (4) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten bereits gebucht wurden.
-Wurde seitens der Bank eine Zustellung des PDF-Auszugs bestellt und auch im EBICS Teilnehmer die Option *Abruf inkl. PDF-Auszug* aktiviert, sind in beiden Listen ebenso die PDF-Auszüge abrufbar. Sie können auch exportiert werden und ggf. in die Belegverarbeitung importiert werden.
+Unter Gebuchte CAMT Dateien (4) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten bereits gebucht wurden. 
+
+!!! info "Hinweis"
+    Der Aufbau der Ansichten **ungebuchte CAMT Dateien** und **gebuchte CAMT Dateien** ist ident. In beiden Listen finden Sie dieselben Informationen.
+
 In diesen beiden Listen können Sie ebenso die CAMT Dateien exportieren oder löschen.
+
+### PDF-Auszug
+Wurde bei der Bank die Zustellung von PDF-Auszügen bestellt und auch im EBICS Teilnehmer die Option *Abruf inkl. PDF-Auszug* aktiviert, sind in beiden Listen ebenso die PDF Auszüge abrufbar. Sie haben im RZL die Möglichkeit diese zu exportieren, um diese ggf. in die Belegverarbeitung zu importieren.
+
+Es kann vorkommen, dass ein PDF-Auszug keiner CAMT Datei zugeordnet werden kann. Ist das der Fall, können Sie unter **Nicht zugeordnete PDF Auszüge** das PDF zuordnen, um diesen in der Ansicht ungebuchte/gebuchte CAMT Dateien aufrufen zu können. In der linken Hälfte finden Sie die nicht zugeordneten Auszüge vor, welche Sie mithilfe von den Pfeiltasten auf die rechte Hälfte - also zur dazugehörigen CAMT Datei - zuordnen können.
+
+![nicht zugeordnete PDF Auszüge](<img/nicht zugeordnete PDF.png>)
+
+Außerdem gibt es auch hier wieder die Möglichkeit die PDF und CAMT Datieen zu exportieren.
 
 !!! warning "Hinweis"
     Die Verarbeitung von CAMT-Retourdaten in der RZL FIBU/EA Klassik bzw. der RZL FIBU Next bleibt mit Einführung der EBICS Schnittstelle ident. Die Schnittstelle dient lediglich zum Abruf bzw. zum Transport von Bankdaten.
     Die bisherige Kommunikation über Online-Services der Bank (manueller Abruf CAMT53 oder .csv-Dateien ohne bisherige MBS-Software) ist weiterhin möglich. Detailinformationen erhalten Sie bei den jeweiligen Bankinstituten.
 
+
 ## Zahlungsverkehr
 
 !!! warning "Hinweis"
-    Bevor Sie innerhalb unseres EBICS Moduls mit der Verwendung des Zahlungsverkehrs beginnen, stellen Sie bitte sicher, dass die Klienten – für welche Sie eine Zahlungsdatei erzeugen und versenden – über ein EBICS-fähiges Kundenportal verfügen. Sollte dies nicht vorhanden sein, können Zahlungsdateien, welche mit einem transportberechtigten Teilnehmer versendet werden nicht von Ihrem Klienten freigege-ben werden.
+    Bevor Sie innerhalb unseres EBICS Moduls mit der Verwendung des Zahlungsverkehrs beginnen, stellen Sie bitte sicher, dass die Klienten – für welche Sie eine Zahlungsdatei erzeugen und versenden – über ein EBICS-fähiges Kundenportal verfügen. Sollte dies nicht vorhanden sein, können Zahlungsdateien, welche mit einem transportberechtigten Teilnehmer versendet werden nicht von Ihrem Klienten freigegeben werden.
 
-Bei Erstellung von Bankeinzügen und Überweisungen wird die XML-Datei in das RZL Board gestellt. Im RZL Board finden Sie diese offenen Übermittlungen unter Portale -> EBICS. Die Übermittlung kann hier direkt übermittelt werden, es können die Zahlungsdetails aufgerufen werden und die Übermittlung kann gelöscht werden.
+Bei Erstellung von Bankeinzügen und Überweisungen wird die XML-Datei in das RZL Board gestellt. Im RZL Board finden Sie die zu übermittelten Zahlungsdateien unter **offene EBICS Übermittlungen** unter Portale -> EBICS.
 
-!!! info "Warning"
-    Bis zum 9. Oktober 2025 wird im europäischen Zahlungsverkehr die Empfängerüberprüfung - eine neue gesetzliche Pflicht - eingeführt, welche Betrug und Fehlüberweisungen bei SEPA-Zahlungen zu verhindern soll.
+!!! warning "Hinweis"
+    Bis zum 9. Oktober 2025 wird im europäischen Zahlungsverkehr die Empfängerüberprüfung (Verification of Payee - VoP) - eine neue gesetzliche Pflicht - eingeführt, welche Betrug und Fehlüberweisungen bei SEPA-Zahlungen zu verhindern soll.
 
 
 ![Offene EBICS Übermittlungen](<img/Offene EBICS Übermittlungen.png>)
