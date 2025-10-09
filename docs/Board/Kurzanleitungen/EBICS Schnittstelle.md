@@ -203,13 +203,13 @@ Markieren Sie die gewünschte Zahlungsdatei und öffnen Sie **Empfängerüberpr�
 
 Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **VoP Status** könnnen Sie folgendes erkennen:
 
-| VoP Status                                                | Definition                                                                                               |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| ![Papier mit Stift](<img/warte auf Aktion.png>)           | "Warte auf Aktion" - Die Zahlungsdatei muss freigegeben/storniert werden                                 |
-| ![graues Hakerl](<img/keine zeichnungsbereichtigung.png>) | Die Zahlungsdatei wurde mit einem EBICS Teilnehmer ohne Zeichnungsberechtigung übermittelt               |
-| ![grünes Hakerl](<img/ausgeführt.png>)                    | Die Zahlungsdatei wurde freigegeben                                                                      |
-| ![rotes X](<img/storniert.png>)                           | Die Zahlungsdatei wurde storniert                                                                        |
-| Status ist leer                                           | Die Zahlungsdatei wurde mit der Option *Standard* oder *Opt-Out - ohne Empfängerüberprüfung* übermittelt |
+| VoP Status                                               | Definition                                                                                               |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![Papier mit Stift](<img/warte auf Aktion.png>)          | "Warte auf Aktion" - Die Zahlungsdatei muss freigegeben/storniert werden                                 |
+| ![graues Hakerl](<img/keine zeichnungsberechtigung.png>) | Die Zahlungsdatei wurde mit einem EBICS Teilnehmer ohne Zeichnungsberechtigung übermittelt               |
+| ![grünes Hakerl](<img/ausgeführt.png>)                   | Die Zahlungsdatei wurde freigegeben                                                                      |
+| ![rotes X](<img/storniert.png>)                          | Die Zahlungsdatei wurde storniert                                                                        |
+| Status ist leer                                          | Die Zahlungsdatei wurde mit der Option *Standard* oder *Opt-Out - ohne Empfängerüberprüfung* übermittelt |
 
 ## EBICS in der RZL FIBU/FIBU Next/EA und im RZL Lohn
 
