@@ -183,17 +183,35 @@ Nach Wahl der Art **Opt-In - mit Empfängerüberprüfung** wird die Empfängerü
 Hier können Sie das VoP Ergebnis abrufen. In der Spalte *VoP* wird der Status mittels der Icons dargestellt. Die Definition der Icons befindet sich über dem VoP Ergebnis.
 
 !!! warning "Hinweis"
-    Die VoP Ergebnisse werden **von der Bank übermittelt**. Die Zurverfügungstellung der Ergebnisse kann je nach Bank variieren und mehrere Sekunden/Minuten dauern.
+    Die VoP Ergebnisse werden **von der Bank übermittelt**. Die Zurverfügungstellung der Ergebnisse kann je nach Bank variieren und mehrere Sekunden/Minuten dauern. Wenn noch keine Ergebnisse zur Verfügung stehen, könnten Sie folgende Fehlermeldung erhalten:
+    ![Fehler Abruf VoP](<img/Fehler VoP.png>)
+    **Bitte um Geduld, versuchen Sie es später erneut.**
+    Sie können anschließend aus dem Fenster aussteigen. Die Zahlungsdatei befindet sich nun nicht mehr in den offenen, sondern in den **gesendeten Übermittlungen**.
+    Sobald die VoP-Ergebnisse vorliegen, können in den gesendeten Übermittlungen die Zahlungsdateien freigegeben oder storniert werden.
 
 Nach Erhalt des Ergebnisses kann dies z.B. so aussehen:
 
-![Ergebnis VoP](<img/VoP Ergebnis.png>)
+![Ergebnis VoP](<img/VoP Ergebnis mit Übereinstimmung.png>)
 
+Hier entscheiden Sie, ob die Zahlungsdatei freigegeben wird oder Sie die Zahlung stornieren.
 
+Stehen die VoP Ergebnisse beim Übermitteln aus den offenen Übermittlungen noch nicht zur Verfügung, ist zum schlussendlichen Freigeben die Liste **gesendete Übermittlungen** aufzurufen. Hier können die VoP Ergebnisse abgerufen und angezeigt werden.
 
 ![Gesendete EBICS Übermittlungen](<img/Gesendete EBICS Übermittlungen.png>)
 
-Mithilfe des Status können Sie überprüfen, ob die Übermittlung erfolgreich gesendet werden konnte bzw. ob dies bereits überwiesen wurde.
+Markieren Sie die gewünschte Zahlungsdatei und öffnen Sie **Empfängerüberprüfung** im Ribbon.
+
+Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **VoP Status** könnnen Sie folgendes erkennen:
+
+| VoP Status                                                | Definition                                                                                               |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |  |
+| ![Papier mit Stift](<img/warte auf Aktion.png>)           | "Warte auf Aktion" - Die Zahlungsdatei muss freigegeben/storniert werden                                 |
+| ![graues Hakerl](<img/keine zeichnungsbereichtigung.png>) | Die Zahlungsdatei wurde mit einem EBICS Teilnehmer ohne Zeichnungsberechtigung übermittelt               |
+| ![grünes Hakerl](<img/ausgeführt.png>)                    | Die Zahlungsdatei wurde freigegeben                                                                      |
+| ![rotes X](<img/storniert.png>)                           | Die Zahlungsdatei wurde storniert                                                                        |
+| Status ist leer                                           | Die Zahlungsdatei wurde mit der Option *Standard* oder *Opt-Out - ohne Empfängerüberprüfung* übermittelt |
+
+
 
 ## EBICS in der RZL FIBU/FIBU Next/EA und im RZL Lohn
 
