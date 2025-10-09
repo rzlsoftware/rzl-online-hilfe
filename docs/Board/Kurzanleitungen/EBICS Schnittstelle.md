@@ -159,14 +159,37 @@ Außerdem gibt es auch hier wieder die Möglichkeit die PDF und CAMT Datieen zu 
 
 Bei Erstellung von Bankeinzügen und Überweisungen wird die XML-Datei in das RZL Board gestellt. Im RZL Board finden Sie die zu übermittelten Zahlungsdateien unter **offene EBICS Übermittlungen** unter Portale -> EBICS.
 
+![Offene EBICS Übermittlungen](<img/Offene EBICS Übermittlungen.png>)
+
+Aus dieser Ansicht der offenen Übermittlungen, senden Sie die Zahlungsdateien dann weiter an die Bank. Außerdem können die XML-Dateien exportiert + importiert werden bzw. können Sie sich die Details anzeigen lassen und die Datei löschen.
+
+### Empfängerüberprüfung VoP
+
 !!! warning "Hinweis"
     Bis zum 9. Oktober 2025 wird im europäischen Zahlungsverkehr die Empfängerüberprüfung (Verification of Payee - VoP) - eine neue gesetzliche Pflicht - eingeführt, welche Betrug und Fehlüberweisungen bei SEPA-Zahlungen zu verhindern soll.
 
+Markieren Sie die Zahlungsdatei und klicken Sie auf **Übermitteln**. Folgendes Fenster wird angezeigt:
 
-![Offene EBICS Übermittlungen](<img/Offene EBICS Übermittlungen.png>)
+![Zahlungsdatei übermitteln VoP](<img/Empfängerüberprüfung.png>)
 
-Außerdem können die XML-Dateien exportiert und auch importiert werden.
-Die Liste der gesendeten Übermittlungen können Sie auch unter Portale -> EBICS einsehen. In dieser Liste können Sie die Zahlungsdetails aufrufen und die gesendete EBICS Übermittlung exportieren. 
+Wählen Sie den EBICS Teilnehmer, von welchem die Zahlungsdatei übermittelt werden soll aus, tragen das Passwort ein und wählen im Drop-Down Menü zur Empfängerüberprüfung die gewünschte Option aus. 
+
+Bei *Standard* und *Opt-Out* handelt es sich um die gleiche Art, nämlich **ohne** Empfängerüberprüfung. Bei einer Übermittlung mit der Art *Opt-In* wird die Empfängerüberprüfung durchgeführt.
+
+Nach Wahl der Art **Opt-In - mit Empfängerüberprüfung** wird die Empfängerüberprüfung durchgeführt und folgendes Fenster im RZL angezeigt:
+
+![Empfängerüberprüfung VoP Ergebnis abrufen](<img/VoP Ergebnis.png>)
+
+Hier können Sie das VoP Ergebnis abrufen. In der Spalte *VoP* wird der Status mittels der Icons dargestellt. Die Definition der Icons befindet sich über dem VoP Ergebnis.
+
+!!! warning "Hinweis"
+    Die VoP Ergebnisse werden **von der Bank übermittelt**. Die Zurverfügungstellung der Ergebnisse kann je nach Bank variieren und mehrere Sekunden/Minuten dauern.
+
+Nach Erhalt des Ergebnisses kann dies z.B. so aussehen:
+
+![Ergebnis VoP](<img/VoP Ergebnis.png>)
+
+
 
 ![Gesendete EBICS Übermittlungen](<img/Gesendete EBICS Übermittlungen.png>)
 
