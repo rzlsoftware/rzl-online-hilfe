@@ -139,7 +139,7 @@ Wird das Dokument von allen Empfängern unterzeichnet, wird automatisch eine Auf
 !!! info "Hinweis"
     Die Aufgabe erhält jener Mitarbeiter, der in der Aufgabenvorlage definiert wird.
 
-Das Dokument wird außerdem direkt zur Aufgabe zugeordnet.
+Das Dokument wird außerdem direkt zur Aufgabe zugeordnet. änderung
 
 !!! info "Hinweis"
     Diese Funktion wird mit der Programmversion 2.25.11 integriert.
