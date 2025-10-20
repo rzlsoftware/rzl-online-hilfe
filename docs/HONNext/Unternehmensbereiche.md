@@ -15,7 +15,7 @@ die Unternehmensbereiche.
     Berechtigungssystem eine Rolle mit der Eigenschaft *Unternehmensbereiche
     verwalten* zugeordnet haben.
 
-![](<img/image100.png>)
+![](img/image100.png)
 
 Ein neuer Unternehmensbereich kann über den Button *Neuer
 Unternehmensbereich* im Ribbon **(2)** oder im rechten unteren Bereich
@@ -28,7 +28,12 @@ und Bankverbindung hinterlegt werden. Über den Button *zur
 Klientenansicht* gelangen Sie in die Stammdaten des Klienten und über
 den Button *zur Firmenansicht* gelangen Sie zur Firmenansicht.
 
-![](<img/image101.png>)
+![](<img/image413.png>)
+
+!!! warning "Hinweis"
+    Als Kontoinhaber wird initial der Personen- oder Firmenname verwendet - siehe Feld *Firma/Person*. Wird jedoch eine andere Kontobezeichnung  für die Überweisung mittels QR-Code benötigt, kann über den Shortcut *zur Personen-/ Firmenansicht* im Reiter *Bankverbindung* ein abweichender Kontoinhaber definiert werden.
+
+![](img/image412.png) 
 
 Im Bereich *HON* können Sie für den Unternehmensbereich den zugehörigen
 Nummernbereich (siehe Kapitel [Nummernbereich](../HONNext/Stammdaten%20HON%20Next/Nummernbereiche.md)), die
