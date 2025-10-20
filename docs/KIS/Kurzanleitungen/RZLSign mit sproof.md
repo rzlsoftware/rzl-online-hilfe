@@ -8,7 +8,6 @@ Für die Nutzung von RZL Sign benötigen Sie:
 - das Modul RZL Sign (bestellbar direkt bei RZL – Kontakt: Software@rzl.at – 07752 / 252 DW 65 Vertrieb)
 - ein sproof Unterschriften-Package (bestellbar direkt bei Firma sproof – Kontakt: partner@sproof.com – Tel. 05 / 0423 unter Bekanntgabe Ihrer RZL Anwender-Nummer)
 
-
 ## Verknüpfung sproof mit RZL
 
 Um Dokumente von RZL zu sproof hochladen und signieren zu können, ist die Einrichtung der sproof Lizenz und sproof User notwendig. Diese Daten können im RZL Board unter Portale und RZLSign hinterlegt werden.
