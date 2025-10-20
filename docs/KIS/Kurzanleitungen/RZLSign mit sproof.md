@@ -1,4 +1,13 @@
 # RZLSign mit sproof 
+Das Modul RZL Sign wird Ihnen von uns in Kooperation mit unserem Partner Firma sproof GmbH, 5412 Puch bei Hallein – [www.sproof.com](https://www.sproof.com/) angeboten und ist eine in das RZL KIS integrierte Lösung für effizientes und rechtsgültiges Signieren digitaler Dokumente.
+
+Für die Nutzung von RZL Sign benötigen Sie:
+
+- das RZL KIS & Board Basis-Programm
+- die RZL Dokumentenverwaltung
+- das Modul RZL Sign (bestellbar direkt bei RZL – Kontakt: Software@rzl.at – 07752 / 252 DW 65 Vertrieb)
+- ein sproof Unterschriften-Package (bestellbar direkt bei Firma sproof – Kontakt: partner@sproof.com – Tel. 05 / 0423 unter Bekanntgabe Ihrer RZL Anwender-Nummer)
+
 
 ## Verknüpfung sproof mit RZL
 
@@ -9,7 +18,7 @@ Um Dokumente von RZL zu sproof hochladen und signieren zu können, ist die Einri
 ### sproof Lizenz
 
 Die sproof Lizenz ist im RZL Board unter **Portale / RZLSign** und **Lizenz** zu hinterlegen.
-Mithilfe **Neue sproof Lizenz** im Ribbon oder im Detail kann die sproof Lizenz angelegt werden. Den API Token erhalten Sie direkt von sproof und dieser ist hier einzutragen. 
+Mithilfe **Neue sproof Lizenz** im Ribbon oder im Detail kann die sproof Lizenz angelegt werden. Den API Token erhalten Sie direkt von sproof (Kontakt: partner@sproof.com – Tel. 05 / 0423) und dieser ist hier einzutragen. 
 Bei einer Multilizenz im RZL ist der entsprechende Lizenznehmer zuzuordnen.
 
 ![sproof Lizenz](<img/Lizenz.png>)
@@ -26,7 +35,7 @@ In dieser Übersicht werden nicht nur von RZL angelegte User angezeigt, sondern 
 
 ![sproof User](<img/User.png>)
 
-Der Unterschied von Users und User+ ist im sproof relevant. Für das Signieren von Dokumenten ist die Zuordnung zum Mitarbeiter notwendig.
+Ein User+ ermöglicht ausgewählten Usern Zugriff auf erweitere Powerfunktionen in sproof sign - nähere Informationen finden Sie auf der [Homepage von sproof](https://www.sproof.com/preise/). Für das Signieren von Dokumenten ist die Zuordnung zum Mitarbeiter notwendig.
 
 !!! info "Hinweis"
     Einem sproof User können mehere Mitarbeiter zugeordnet werden. So können alle zugeordneten Mitarbeiter mit einem sproof User z.B. einem allgemeinen Kanzlei-User Dokumente zum Signieren an sproof hochladen.
@@ -63,6 +72,9 @@ Zusätzlich können Sie separate Formularfelder im Dokument platzieren wie z.B. 
 
 Damit Sie schlussendlich unterschreiben können, ist das Signaturfeld auf das Dokument an die gewünschte Stelle zu platzieren. Das führen Sie mittels Drag&Drop aus.
 
+!!! info "Tipp"
+    Ab der Version 2.25.11 sind in den Steuererklärungsformularen bereits Platzhalter für digitale Signaturen enthalten und müssen in sproof nicht mehr manuell platziert werden.
+
 #### Empfänger:innen
 
 Klicken Sie auf den Bereich *Empfänger:innen*, um die Einstellungen zum Signieren des Empfängers zu treffen.
@@ -77,15 +89,15 @@ Bei **1 Empfänger:innen** fügen Sie entweder den Empfänger bzw. die Empfänge
 Wenn Sie die Option **Signaturart des Dokuments festlegen** aktivieren, bestimmen Sie mit welcher Signaturart der Empfänger unterzeichnen muss.
 
 !!! warning "Exkurs: Signaturarten"
-    EES: Die einfache elektronische Signatur (EES) wird nicht näher bestimmt, da sie der niedrigsten Sicherheitsstufe entspricht, für welche keine besonderen Anforderungen gelten.
-    
-    FES: Eine fortgeschrittene elektronische Signatur (FES) ist eine digitale Unterschrift, die bestimmte Sicherheitsanforderungen erfüllt. Unterschriften dieser Art sind so angelegt, dass sie (eindeutig) einem Unterzeichner bzw. einer Unterzeichnerin zuzuordnen sind und so die Identifizierung der unterzeichnenden Person ermöglichen sollen.
-    
-    QES: Eine qualifizierte elektronische Signatur (QES) hat im Wesentlichen die gleiche Wertigkeit wie die handschriftliche Unterschrift und kann damit zur Unterzeichnung im elektronischen Datenverkehr eingesetzt werden. Es handelt sich dabei um die sicherste Form einer digitalen Signatur. Darunter fällt unter anderem die ID-Austria.
-    
-    Quelle: https://www.a-trust.at/de/
+      FES: Eine fortgeschrittene elektronische Signatur (FES) ist eine digitale Unterschrift, die bestimmte Sicherheitsanforderungen erfüllt. Unterschriften dieser Art sind so angelegt, dass sie (eindeutig) einem Unterzeichner bzw. einer Unterzeichnerin zuzuordnen sind und so die Identifizierung der unterzeichnenden Person ermöglichen sollen.
+      
+      QES: Eine qualifizierte elektronische Signatur (QES) hat im Wesentlichen die gleiche Wertigkeit wie die handschriftliche Unterschrift und kann damit zur Unterzeichnung im elektronischen Datenverkehr eingesetzt werden. Es handelt sich dabei um die sicherste Form einer digitalen Signatur. Darunter fällt unter anderem die ID-Austria.
+      
+      Eine weitere Signaturart, welche RZL **nicht** anbietet: EES: Die einfache elektronische Signatur (EES) wird nicht näher bestimmt, da sie der niedrigsten Sicherheitsstufe entspricht, für welche keine besonderen Anforderungen gelten.
+      
+      Quelle: https://www.a-trust.at/de/
 
-Im unteren Bereich werden jeweils die Empfänger angzeigt. Sie können mit dem Pfeil-Symbol in die Detail-Bearbeitung des Empfängers einsteigen. Sie können hier die Rolle des Empfängers definieren:
+Im unteren Bereich werden jeweils die Empfänger angezeigt. Sie können mit dem Pfeil-Symbol in die Detail-Bearbeitung des Empfängers einsteigen. Sie können hier die Rolle des Empfängers definieren:
 
 * Unterzeichner:in
 * Genehmiger:in
@@ -104,7 +116,7 @@ Außerdem kann bei z.B. mehreren Empfängern eine Einzelnachricht verfasst werde
 
 Im Schritt **4 Weitere Einstellungen** können zusätzliche Optionen wie das Festlegen eines Fälligkeitsdatums oder das Zulassen einer Weitereitung.
 
-Ist das Dokument schlussendlich bereit zum Unterschreiben versendet zu werden, führen Sie das mit **Einladung senden** durch.
+Ist das Dokument endgültig zur Unterschrift bereit, können Sie es mit **Einladung senden** verschicken.
 
 #### Dokument bearbeiten
 Über diese Option können Sie ebenso Formularfelder zum Dokument hinzufügen. 
@@ -182,8 +194,7 @@ Ein Audit-Trail ist eine lückenlose, chronologische Aufzeichnung, die detaillie
 ## Relevante Hinweise
 
 Passwortgeschützte Dokumente können nicht zu sproof hochgeladen werden. 
-Wird ein zu signierendes Dokument in den RZL PDF Manager gedruckt, der Dokumentenschutz aktiviert bzw. nicht deaktiviert und wird in das übernommen, so kann es nicht zu sproof zum Signieren hochgeladen werden. 
-Der Dokumentenschutz muss demnach gelöscht werden.
+Dokumente, welche mit einem Dokumentenschutz versehen wurden, können nicht zu sproof hochgeladen werden. Der Dokumentenschutz muss demnach gelöscht werden.
 
 Ein bereits signiertes Dokument darf beim Drucken in den RZL PDF Manager nicht mit einem Dokumentenschutz versehen werden, da dies die Rechtsgültigkeit der digitalen Signatur aufhebt.
 
