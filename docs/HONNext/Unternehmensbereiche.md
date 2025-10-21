@@ -31,14 +31,14 @@ den Button *zur Firmenansicht* gelangen Sie zur Firmenansicht.
 ![](<img/image413.png>)
 
 !!! warning "Hinweis"
-    Als Kontoinhaber wird initial der Personen- oder Firmenname verwendet - siehe Feld *Firma/Person*. Wird jedoch eine andere Kontobezeichnung  für die Überweisung mittels QR-Code benötigt, kann über den Shortcut *zur Personen-/ Firmenansicht* im Reiter *Bankverbindung* ein abweichender Kontoinhaber definiert werden.
+    Als Kontoinhaber wird initial der Personen- oder Firmenname verwendet - siehe Feld *Firma/Person*. Wird jedoch eine andere Kontobezeichnung  für die Überweisung mittels QR-Code benötigt, kann über den Shortcut *zur Personen-/ Firmenansicht* im Reiter *Bankverbindung* ein abweichender Kontoinhaber definiert werden (max. 70 Zeichen lt. xml-Struktur).
 
 ![](img/image412.png) 
 
 Im Bereich *HON* können Sie für den Unternehmensbereich den zugehörigen
 Nummernbereich (siehe Kapitel [Nummernbereich](../HONNext/Stammdaten%20HON%20Next/Nummernbereiche.md)), die
-zugehörige Notenvorlage **(1)** und die Zahlungsbedingungen **(2)** hinterlegen. Ebenso
-ist die Hinterlegung eines PDF-Briefpapiers **(3)** möglich. Bei *Briefpapier*
+zugehörige Notenvorlage und die Zahlungsbedingungen hinterlegen. Ebenso
+ist die Hinterlegung eines PDF-Briefpapiers möglich. Bei *Briefpapier*
 ist der Pfad, wo das Briefpapier abgespeichert ist, zu definieren.
 
 !!! warning "Hinweis"
@@ -59,7 +59,7 @@ Die Option *Anzahlungs-/Teilrechnungsverbuchung* ist nur zu setzten, wenn folgen
 
 ![](img/image410.png)
 
-Im Feld Zahlungsreferenz **(3)** kann die Zahlungsreferenz definiert werden. Die definierte Zahlungsreferenz wird auf der Honorarnote angedruckt, im QR-Code Feld "Reference" gesetzt und im Beleg als OP-Nummer übergeben.
+Im Feld Zahlungsreferenz kann die Zahlungsreferenz definiert werden. Die definierte Zahlungsreferenz wird auf der Honorarnote angedruckt, im QR-Code Feld "Reference" gesetzt und im Beleg als OP-Nummer übergeben.
 
 In diesem Feld können alle Ziffern (0-9) und die Buchstaben O und K und X eingetragen werden.
 
