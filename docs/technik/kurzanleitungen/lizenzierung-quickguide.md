@@ -4,7 +4,7 @@
 
 - Eine Internetverbindung vom Arbeitsplatz zum RZL Lizenzserver ist erforderlich.
 - Die Nutzung ist ausschließlich dem RZL Lizenznehmer und dessen fix angestellten Mitarbeitern gestattet. Die Nutzung durch Dritte ist nicht erlaubt.
-- Bei Fragen zur Nutzung oder Unsicherheiten wenden Sie sich an RZL Software (07752 / 252 DW 66).
+- Bei Fragen zur Nutzung oder Unsicherheiten wenden Sie sich an unseren Vertrieb *<software@rzlsoftware.at>* | +43 7752 252-66.
 
 ## Umstellung oder neue Lizenzierung durchführen
 
