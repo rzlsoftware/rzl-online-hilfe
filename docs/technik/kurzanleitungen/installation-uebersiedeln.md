@@ -1,5 +1,15 @@
 # Installation mit Datenbank und Dokumentenverwaltung Standard übersiedeln
 
+!!! warning "Hinweis"
+    Diese Anleitung ist nur anzuwenden, wenn die RZL Komplettsicherung nicht verwendet werden kann.
+    Für die empfohlene Standardvorgehensweise mit der Komplettsicherung siehe:
+    [RZL Daten sichern](https://hilfe.rzlsoftware.at/setup/daten-sichern/)
+
+    Verwenden Sie diese Anleitung nur in folgenden Fällen:   
+        - Das Datenvolumen übersteigt 200 GB   
+        - Die Komplettsicherung schlägt mit nicht behebbaren Fehlern fehl   
+        - Die bestehende Hardware ist defekt oder veraltet und eine Datenrettung ist erforderlich   
+
 Diese Anleitung beschreibt, wie Sie eine Installation mit einer bestehenden Datenbank auf einen neuen Server oder ein neues Verzeichnis übersiedeln.
 
 ## Dokumentenordner ändern
@@ -22,7 +32,7 @@ Es sind lokale Laufwerkspfade, Netzlaufwerkspfade und UNC-Pfade möglich.
 
 ## Datenbankserver übersiedeln
 
-1. Laden Sie das [RZL SQL Server Setup](https://rzl.blob.core.windows.net/setups/RZL%20SQL%20Server%20Setup.exe) herunter und installieren sowie konfigurieren Sie den Microsoft SQL Server Express auf dem neuen Server.
+1. Laden Sie das RZL SQL Server Setup herunter und installieren sowie konfigurieren Sie den Microsoft SQL Server Express auf dem neuen Server.
 2. Sichern Sie die bestehende Datenbank mit dem SQL Server Management Studio.
 3. Kopieren Sie die Backupdatei auf den neuen Server.
 4. Öffnen Sie die Zentrale Mandantenverwaltung und tragen Sie unter **Hilfsmittel > Einstellungen** im Reiter **Datenbank** unter **SQL-Server (Host)** den neuen Servernamen ein.
