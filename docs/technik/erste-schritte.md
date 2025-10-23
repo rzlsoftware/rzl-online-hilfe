@@ -4,7 +4,7 @@ Willkommen im Hilfebereich für technische Fragen!
 
 Hier finden Sie einen übersichtlichen Leitfaden zur Vorbereitung, Installation, Wartung und Optimierung der RZL Programme. Sie erhalten Zugriff auf Kurzanleitungen und Knowledge-Base-Artikel. Außerdem beantworten wir Ihre wichtigsten Fragen rund um die Installation von RZL.
 
-Gerne steht Ihnen unser Team bei kniffligen Fragen zur Verfügung und ist stehts für Sie erreichbar!
+Gerne steht Ihnen unser Team bei kniffligen Fragen zur Verfügung und ist stehts für Sie erreichbar! *<technik@rzl.at>* | 07752 / 252-39   
 [Support-Hotline](https://rzlsoftware.at/support){:target="_blank"}
 
 !!! node "Tipp"
@@ -31,5 +31,5 @@ Haben Sie alle oben genannten Unterlagen und Zugänge erhalten und gelesen? Nun 
 1. Eroieren Sie welche Programme benötigt werden. Anhand der Bestellunterlagen oder in Rückprache mit einem RZL-Mitarbeiter.   
 2. Legen Sie fest welches Setup benötigt wird.   
    [Unterschied RZL Komplettinstallation und RZL SQL-Setup](unterschied-rzlsetup.md)   
-3. Sie können mit der Installation laut [Setup-Handbuch](https://hilfe.rzlsoftware.at/setup/) beginnen.   
+3. Sie können mit der Installation laut [Setup-Handbuch](../setup/index.md) beginnen.   
 
