@@ -23,6 +23,7 @@ Konkret werden folgende Änderungen vorgenommen, wenn das Lohnprogramm einen 50 
 	- Stundenlöhnern
 	- BUAK-Mitarbeitern (Direktauszahlung sowie Treuhandkonto)
 	- freien Dienstnehmern
+	- Abrechnung von Auslandsbezügen (und Teilentgelt Ausland)
 	
 !!! warning "Hinweis"
 	Krankenstand kann nur festgestellt werden, wenn die Krankenstandskartei verwendet wird.
@@ -249,7 +250,7 @@ Aus der Differenz zwischen der anteiligen Brutto-Lehrlingsentschädigung und dem
 
 Die Ermittlung der fiktiven BV-Bemessungsgrundlage Krankheit erfolgt nach dem gleichen Prinzip wie bei regulären Dienstnehmern:
 
-EUR 980,00 : 30 SV-Tage x 22 Tage Teilentgelt : 2 = EUR 359,33.
+EUR 980,00 : 30 SV-Tage x 22 Tage Teilentgelt : 2 = EUR 359,33. 
 
 ## Kündigung während eines Krankenstandes
 
