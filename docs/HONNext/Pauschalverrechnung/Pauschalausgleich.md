@@ -133,8 +133,7 @@ werden soll. Sie können zwischen folgenden Optionen wählen:
 
     1 = ein Monat nach dem Datum der Pauschalzeile
 
-    Das Datum des automatischen Ausgleiches darf maximal drei Monate
-    nach dem Datum der Pauschale liegen.
+    Das Datum des automatischen Ausgleiches sollte maximal drei Monate nach dem Datum der Pauschale liegen. Liegt hier mehr Zeit dazwischen, wird das Feld gelb validiert - kann aber dennoch gespeichert werden.
 
 **Verteilungsart**
 
