@@ -10,8 +10,7 @@ werden ebenso in diesem Registerblatt getroffen.
 Wenn Sie auf den Button *Grundeinstellungen* kicken, öffnet sich
 nachfolgender Tab.
 
-
-![](<img/image73.png>)
+![](img/image106.png)
 
 ## Stunden
 
@@ -189,6 +188,10 @@ Verrechnungsgruppe gebildet.
     Ist die Option *Verrechnungsgruppen getrennt ausweisen* aktiv, wird
     immer pro Verrechnungsgruppe eine Summe gebildet.
 
+**Anzahlungsnoten**
+
+Setzten Sie diese Option, damit Sie mit Anzahlungsrechnungen arbeiten können (vgl. Kapitel [Anzahlungsrechnungen](../Anzahlungsrechnungen/Allgemein.md)).
+
 **Notentitel**
 
 Für die Übergabe der Honorarnoten in den RZL PDF-Manager kann im Feld
@@ -325,6 +328,7 @@ Werte die Platzhalter bzw. ihr gewählter Text liefert.
     Der Vorschlag der Debitorennummer ist in den Klientenstammdaten (siehe [Buchhaltung](../Stammdaten%20Klienten.md#buchhaltung)) ersichtlich.
 
 **Anzahlungskonten**
+
 Diese Konten werden bei der Verbuchung von Anzahlungsrechnungen benötigt (vgl. Kapitel [Anzahlungsrechnungen](../Anzahlungsrechnungen/Allgemein.md)).
 
 ## Verteilung der Zu- und Abschläge

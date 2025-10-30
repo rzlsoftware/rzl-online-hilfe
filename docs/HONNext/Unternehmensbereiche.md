@@ -15,7 +15,7 @@ die Unternehmensbereiche.
     Berechtigungssystem eine Rolle mit der Eigenschaft *Unternehmensbereiche
     verwalten* zugeordnet haben.
 
-![](<img/image100.png>)
+![](img/image100.png)
 
 Ein neuer Unternehmensbereich kann über den Button *Neuer
 Unternehmensbereich* im Ribbon **(2)** oder im rechten unteren Bereich
@@ -28,12 +28,17 @@ und Bankverbindung hinterlegt werden. Über den Button *zur
 Klientenansicht* gelangen Sie in die Stammdaten des Klienten und über
 den Button *zur Firmenansicht* gelangen Sie zur Firmenansicht.
 
-![](<img/image101.png>)
+![](<img/image413.png>)
+
+!!! warning "Hinweis"
+    Als Kontoinhaber wird initial der Personen- oder Firmenname verwendet - siehe Feld *Firma/Person*. Wird jedoch eine andere Kontobezeichnung  für die Überweisung mittels QR-Code benötigt, kann über den Shortcut *zur Personen-/ Firmenansicht* im Reiter *Bankverbindung* ein abweichender Kontoinhaber definiert werden (max. 70 Zeichen lt. xml-Struktur).
+
+![](img/image412.png) 
 
 Im Bereich *HON* können Sie für den Unternehmensbereich den zugehörigen
 Nummernbereich (siehe Kapitel [Nummernbereich](../HONNext/Stammdaten%20HON%20Next/Nummernbereiche.md)), die
-zugehörige Notenvorlage **(1)** und die Zahlungsbedingungen **(2)** hinterlegen. Ebenso
-ist die Hinterlegung eines PDF-Briefpapiers **(3)** möglich. Bei *Briefpapier*
+zugehörige Notenvorlage und die Zahlungsbedingungen hinterlegen. Ebenso
+ist die Hinterlegung eines PDF-Briefpapiers möglich. Bei *Briefpapier*
 ist der Pfad, wo das Briefpapier abgespeichert ist, zu definieren.
 
 !!! warning "Hinweis"
@@ -41,9 +46,20 @@ ist der Pfad, wo das Briefpapier abgespeichert ist, zu definieren.
     (Druckvorschau, Ausgabe Beleg, Ausdruck in den PDF-Manager sowie auch
     beim Ausdruck auf Papier).
 
-![](<img/image102.png>)
+Die Option *Anzahlungs-/Teilrechnungsverbuchung* ist nur zu setzten, wenn folgende Einstellungen auf Ihre Kanzleibuchhaltung zutreffen:
 
-Im Feld Zahlungsreferenz **(3)** kann die Zahlungsreferenz definiert werden. Die definierte Zahlungsreferenz wird auf der Honorarnote angedruckt, im QR-Code Feld "Reference" gesetzt und im Beleg als OP-Nummer übergeben.
+- Sie unterliegen in der Buchhaltung der Soll-Besteuerung.
+  
+- Die Anzahlungen werden mit Code T20 (FIBU Klassik) bzw. AN20 (FIBU Next) verbucht.
+  
+- Die Schlussnote wird in voller Höhe verbucht.
+
+- Die Option gilt nur bei steuerbaren, inländischen Honorarnoten.
+
+
+![](img/image410.png)
+
+Im Feld Zahlungsreferenz kann die Zahlungsreferenz definiert werden. Die definierte Zahlungsreferenz wird auf der Honorarnote angedruckt, im QR-Code Feld "Reference" gesetzt und im Beleg als OP-Nummer übergeben.
 
 In diesem Feld können alle Ziffern (0-9) und die Buchstaben O und K und X eingetragen werden.
 
