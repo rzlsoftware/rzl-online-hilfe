@@ -8,7 +8,7 @@ Azure wieder gelöscht.
 
 Zusätzlich wird auf Basis der bisher gebuchten Belege ein Konto-KI-Modell angelegt und täglich in der Nacht 
 aktualisiert, um das Gegenkonto des Beleges vorschlagen zu können. Die initiale Erstellung dieses Modells erfolgt 
-in der Nacht nach Aktiviereung bzw. optional mit der Funktion Konto Modell sofort trainieren. Je nach 
+in der Nacht nach Aktivierung bzw. optional mit der Funktion Konto Modell sofort trainieren. Je nach 
 Beleganzahl kann der erstmalige Vorgang der Erstellung dieses KI-Modells durch den RZL Dienst bis zu zwei 
 Stunden dauern.
 
@@ -27,7 +27,7 @@ Sie können pro Klient und pro Belegkreis steuern, ob Belege mittels KI Belegdat
 
 ![Stamm KI](<img/image-32.png>)
 
-Aktivieren Sie über den Button *KI Belegdatenerkennung aktivieren ① die Funktion für diesen Klienten und bestätigen Sie den Dialog mit den Nutzungsbedingungen.
+Aktivieren Sie über den Button *KI Belegdatenerkennung aktivieren* ① die Funktion für diesen Klienten und bestätigen Sie den Dialog mit den Nutzungsbedingungen.
 
 ### 1.2. Belegkreis aktivieren
 
@@ -60,8 +60,8 @@ führt das Programm bei Ausführung der Belegdatenerkennung die RZL Belegdatener
 Folgendes passiert bei der KI Belegdatenerkennung:
 
 1. Der Beleg wird zu MS Azure geladen
-2. Es wird eine OCR-Erkennung durchgeführt (auch handschriftliche Belege in vielen Fällen gut lesbar)
-3. Die Belegdaten werden von MS Azure ausgelesen (sichtbar pro Feld durch **nach unten zeigeneden Pfeil**)
+2. Es wird eine OCR-Erkennung durchgeführt (auch handschriftliche Belege, in vielen Fällen gut lesbar)
+3. Die Belegdaten werden von MS Azure ausgelesen (sichtbar pro Feld durch **nach unten zeigenden Pfeil**)
 4. Die Belegdaten werden abgeholt und beim Beleg pro Feld mit einer Wahrscheinlichkeit beim Symbol *Import: Quelle KI* mit Tooltip angezeigt ④  
 5. Der Beleg wird bei MS Azure wieder gelöscht
 6. Das lokale KI Gegenkonto Modell wird ausgeführt und das voraussichtliche Gegenkonto im Bereich der Steuerzeilen (Gegenbuchungen) eingetragen - auch hier wird eine Wahrscheinlichkeit beim Tooltip angezeigt ⑤
