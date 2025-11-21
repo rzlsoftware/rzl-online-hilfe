@@ -207,12 +207,14 @@ zeigt es das Datum der Überprüfung an.
 ### **Bankverbindungen**
 
 Hier können Sie die Bankverbindungen der Person eintragen. Das mit der
-Option *Bankverbindung in ZMV sichtbar* **(1)** gekennzeichnete
+Option *Bankverbindung in ZMV sichtbar* gekennzeichnete
 Bankinstitut wird für den Zahlscheindruck innerhalb der RZL
-Honorarverrechnung verwendet. Über das Papierkorbsymbol bzw. über
+Honorarverrechnung (Klassik) verwendet. Über das Papierkorbsymbol bzw. über
 *Bankverbindung löschen* können Sie ein Geldinstitut löschen.
 
 ![](<img/image38.png>)
+
+Unter Abweichender Kontoinhaber können Sie den eine abweichende Bezeichnung für die angezeigte Bankverbindung für die Honorarverrechnung (Next) definieren.
 
 ### **Kontaktpersonen**
 
