@@ -1,6 +1,6 @@
 ![FinOn Zugänge](<img/image125.png>)
 
-## WebService 
+## WebService FinanzOnline
 
 Voraussetzung für das automatisierte Auslesen der Databox ist die Anlage eines [**WebService-Benutzers**](../FinanzOnline/Anlage%20eines%20WebService-Benutzers.md) angelegt ist. Mit diesem Zugang werden die in die
 FinanzOnline Databox behördlich zugestellten Eingänge automatisch
@@ -23,6 +23,39 @@ Buchungsmitteilungen aktivieren.
 !!! warning "Hinweis"
     Für die Abfrage der Quoten wird seit der Umstellung seitens FinanzOnline ein WebService-Benutzer benötigt.
 
+
+## WebService USP
+Der WebSerive USP Benutzer wird für das automatisierte Auslesen der WiEReG-Meldungen bzw. das Abrufen von WiEReG-Auszügen benötigt. Die Anlage eines WebService Benutzer erfolgt innerhalb von USP. Damit Sie dies nutzen können, muss das Modul WiEReG lizenziert werden.
+
+![USP WebService Zugang](<img/image180.png>)
+
+Nach Anwahl des Eintrags *Neuer Zugang* sind die Zugangskennungen für den im USP angelegten WebService-Benutzer (Benutzer ID und Passwort) einzugeben.
+Im Bereich Zuordnung müssen Sie den Eintrag **Web-Service USP** anwählen. Durch das aktivieren des Benutzers (Option Aktiv anwählen) können Sie diesen für das RZL verwenden.
+
+## Exkurs: Anlage eines WebService-Benutzers
+
+In der Administratorverwaltung des USP ist der Menüpunkt zu finden mit
+dem WebServicekontos angelegt werden können. Das Anlegen funktioniert
+ähnlich wie die Anlage von Benutzern mit dem Unterschied, dass keine
+Personifizierung erforderlich ist.
+
+![Anlage WebService im USP](<img/image181.png>)
+
+Nachdem ein WebService-Konto angelegt wurde, kann man über den Menüpunkt
+„WebService-Rechte verwalten“ die entsprechende Berechtigung vergeben.
+Der WebService-Benutzer für das RZL KIS/Board benötigt folgende
+Berechtigungen:
+
+- WiEReG - WebService Datenabgleich: Zum Abruf von Auszügen und
+  XML-Dateien
+
+- WiEReG - Änderungsdienst: Zur Information über Änderungen bei den
+  gemeldeten wirtschaftlichen Eigentümern ihrer Kunden
+
+Eine ausführliche Dokumentation zur Anlage eines Webservicebenutzers
+finden Sie in der Anwendungshilfe des BMF.
+
+
 ## Steuerkonto-, Erklärungen- und Vertretungslistenabfragen
 
 Für die Steuerkontoabfrage, die Steuererklärungen und die Vertretungsliste wird kein Web-Service-Benutzer Zugang verwendet. Hier ist ein „normaler“ FinanzOnline-Zugang der Kanzlei einzutragen, d.h. ein Zugang der es ermöglicht ins FinanzOnline einzusteigen um Steuerkonten, Steuererklärungen und
@@ -38,6 +71,9 @@ automatisch durchgeführt wurden und welche vom jeweiligen Mitarbeiter.
 
 Im Bereich *Zuordnung* wählen Sie den Eintrag *Steuerkonto-, Erklärungen- und Vertretungslistenabfragen* an. Dieser Benutzer kann durch Anwahl des
 Felds *Aktiv* deaktiviert werden. Daneben wird im Feld *Aktuellster DataBox-Eingang* das Datum des letzten persönlichen Eingangs angezeigt.
+
+!!! info "Hinweis"
+    Durch den Button **Im FinanzOnline anmelden** können Sie sich mit dem Benutzer in FinanzOnline anmelden. Das ist unter anderem sehr praktisch, weil mit diesem Benutzer ausschließlich im Hintergrund abgerufen wird und eine Anmeldung grundsätzlich nicht nötig ist.
 
 Die Abfrage der Steuerkonten und der Erklärungen kann für einzelne
 Klienten in den Finanzamt-Stammdaten im RZL-Board deaktiviert werden.
@@ -103,7 +139,7 @@ Aktivierungen vorgenommen werden.
 
 ![Benutzerzugang](<img/Steuerkonto Admin Bereich FinOn.png>)
 
-## Mitarbeiter
+## Mitarbeiter FinanzOnline
 
 FinanzOnline-Zugänge können mit der Zuordnung **Mitarbeiter** oder **Mitarbeiter – Login mit Benutzername** gespeichert werden.
 
@@ -115,6 +151,8 @@ auszuwählen. Im Bereich *Mitarbeiter* wählen Sie den entsprechenden
 Mitarbeiter aus. Aktivieren Sie den Mitarbeiterzugang indem Sie das
 Hakerl bei *Aktiv* setzen, um diesen wie vorgesehen verwenden zu
 können.
+
+Sie können entweder mit Klick auf eine Steuernummer testen, ob der Zugang korrekt angelegt wurde oder Sie verwenden den Button *In FinanzOnline anmelden* im angelegten Zugang. 
 
 Wenn Sie das Hakerl im Feld *Persönliche Databox abrufen* setzen, dann
 können Einträge in der persönlichen DataBox im
@@ -149,6 +187,18 @@ muss aber die Zugangskennungen eintippen.
     Vergessen Sie nicht das Hakerl bei *Aktiv* zu setzten. Nur wenn der
     Zugang auch als Aktiv gekennzeichnet wurde, können Sie den automatischen
     Login in FinanzOnline nutzen.
+
+## Mitarbeiter USP
+
+!!! warning "Hinweis"
+    Da die Anmeldung im USP mit den FinanzOnline Zugangsdaten bald nicht mehr vom USP unterstützt wird, gibt es inzwischen die Möglichkeit die USP-Kennung im RZL einzutragen und sich damit anzumelden.
+
+Dafür wählen Sie die Zuordnung *Mitarbeiter USP* und tragen die USP Kennung ein.
+Sie können auch hier entweder mit Klick auf das USP Zeichen im RZL den Zugang testen oder wieder im Zugang mit **Im USP anmelden**. So können Sie kontrollieren, ob der Zugang korrekt eingetragen wurde.
+
+![Mitarbeiter USP](<img/Mitarbeiter USP.png>)
+
+Auch diesen Zugang müssen Sie auf **Aktiv** setzen, damit der automatische Login funktioniert.
 
 ## Grundeinstellungen für die FinanzOnline-Abfragen
 
