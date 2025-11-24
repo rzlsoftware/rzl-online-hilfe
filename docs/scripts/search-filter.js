@@ -77,16 +77,19 @@
     return program || deriveProgramFromLocation(location) || "";
   };
 
-  const updateMeta = (meta, visible, labelText) => {
+  const formatBaseMeta = (count) => (count > 0 ? `${count} Treffer` : "Keine Treffer");
+
+  const updateMeta = (meta, visible, labelText, total) => {
     if (!meta) return;
-    const current = meta.textContent || "";
-    if (!meta.dataset.originalText) {
-      meta.dataset.originalText = current;
-    }
+    const baseText =
+      typeof total === "number"
+        ? formatBaseMeta(total)
+        : meta.dataset.originalText || meta.textContent || "";
+
+    meta.dataset.originalText = baseText;
 
     if (!labelText) {
-      // Keep the live meta text unchanged when no filter is active.
-      meta.dataset.originalText = meta.textContent || meta.dataset.originalText;
+      meta.textContent = baseText;
       return;
     }
 
@@ -99,6 +102,7 @@
     loadMapping().then(({ programs }) => {
       const selected = select.value;
       const items = Array.from(list.children || []);
+      const total = items.length;
       let visible = 0;
       const selectedLabel = selected
         ? select.selectedOptions[0]?.textContent?.trim() || selected
@@ -117,7 +121,7 @@
         if (match) visible += 1;
       }
 
-      updateMeta(meta, visible, selectedLabel);
+      updateMeta(meta, visible, selectedLabel, total);
     });
 
   const setup = (container) => {
