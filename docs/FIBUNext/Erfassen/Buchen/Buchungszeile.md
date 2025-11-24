@@ -72,7 +72,7 @@ Anhand der mitlaufenden *Kontrollsumme*, die die Beträge im Stapel saldiert, ka
 ***Datum***  
 Zu Beginn der Buchungszeile muss das Datum eingegeben werden. Bei der ersten Buchung innerhalb eines neuen Stapels muss immer das gesamte Datum (Tag, Monat und Jahr) eingegeben werden, bei den folgenden Buchungen reicht der Tag oder gegebenenfalls das Monat, falls sich dieses innerhalb des Stapels ändert. Es gibt im Stapel keine Einschränkung nach Buchungsmonat.
 
-Mit rechter Maustaste und Anwahl *Splitbuchung* oder mit der *F5-Taste* können Sie zu einer Splitbuchung wechseln. (siehe Kapitel [Splitbuchung](</FIBUNext/Erfassen/Buchen/Buchungszeile/#splitbuchung>))
+Mit rechter Maustaste und Anwahl *Splitbuchung* oder mit der *F5-Taste* können Sie zu einer Splitbuchung wechseln. (siehe Kapitel [Splitbuchung](#splitbuchung))
 
 Ebenfalls mit rechter Maustaste oder *F11-Taste* kann das Feld *Eingabe abw. USt-Monat* aktiviert werden.
 
@@ -259,6 +259,5 @@ Zusätzlich gibt es auch noch die Möglichkeit, den Beleg nur für eine weitere 
 !!! info "Tipp"
     Möchten Sie den Beleg im Nachhinein einer Buchung zuordnen (über *Auswertung / Konto*) so ist es nun auch möglich, den Beleg nur als teilweise gebucht zu markieren. In diesem Fall haben Sie die Möglichkeit den Beleg auch noch weiteren Buchungen im Nachhinein zuzuordnen.  
     In diesem Stadium befindet sich der Beleg sowohl in den gebuchten als auch in den ungebuchten Belegen mit dem Belegstatus *teilweise gebucht*.
-
 
 

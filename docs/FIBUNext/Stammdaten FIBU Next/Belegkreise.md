@@ -13,7 +13,7 @@ Unter *Stammdaten / Belegkreise* können Sie die Belegkreise für den geöffnete
 
 Über die Schaltfläche *Neuer Belegkreis* **(1)** können Sie einen neuen Belegkreis anlegen. Anschließend müssen Sie ein Kürzel für den *Belegkreis* sowie die *Bezeichnung* **(2)** des Belegkreises vergeben. Belegkreise können pro Wirtschaftsjahr verwaltet werden. Sie können zwischen den angelegten Wirtschaftsjahren auswählen **(3)**.
 
-Die weiteren Einstellungsmöglichkeiten pro Belegkreis finden Sie im folgenden Kapitel [Belegkreis bearbeiten](</FIBUNext/Stammdaten%20FIBU%20Next/Belegkreise/#belegkreis-bearbeiten>).
+Die weiteren Einstellungsmöglichkeiten pro Belegkreis finden Sie im folgenden Kapitel [Belegkreis bearbeiten](#belegkreis-bearbeiten).
 
 
 ![Belegkreis anlegen](img/image3.png)
@@ -66,4 +66,3 @@ Die RZL-Standardbelegkreise (ER, AR, KA) können nicht gelöscht werden.
 Ein angelegter Belegkreis kann nur dann gelöscht werden, wenn alle Buchungen in diesem Kreis finalisiert wurden. Haben Sie bereits Buchungen erfasst, den Buchungsstapel aber noch nicht finalisiert, erhalten Sie folgende Meldung:
 
 ![Image](<img/NeuesElement120.png>)
-
