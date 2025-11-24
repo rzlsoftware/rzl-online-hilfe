@@ -34,7 +34,9 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Install MkDocs
-        run: pip3 install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-minify-plugin
+        run: |
+          pip3 install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-minify-plugin mkdocs-lunr-languages
+          pip3 install .
 
       - name: Build Docs
         run: |

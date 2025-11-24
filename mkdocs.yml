@@ -49,7 +49,7 @@ plugins:
       lang: de
       prebuild_index: true
   - awesome-pages
-  - plugins.program_filter:
+  - program-filter:
       meta_key: program
       exclude:
         - img
