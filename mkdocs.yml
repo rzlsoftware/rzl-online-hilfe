@@ -42,10 +42,20 @@ extra_css:
   - stylesheets/pdf.css
 extra_javascript:
   - scripts/redirect.js
+  - scripts/search-filter.js
           
 plugins:
-  - search
+  - search:
+      lang: de
+      prebuild_index: true
   - awesome-pages
+  - plugins.program_filter:
+      meta_key: program
+      exclude:
+        - img
+        - stylesheets
+        - scripts
+        - setup
 
 markdown_extensions:
   - admonition
