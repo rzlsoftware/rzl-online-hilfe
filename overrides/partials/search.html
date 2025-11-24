@@ -31,8 +31,7 @@
       <div class="md-search__filters" data-program-filter>
         <div class="md-search__filter-panel" data-program-filter-panel>
           <label class="md-search__filter-field">
-            <span class="md-search__filter-label">Programm</span>
-            <select data-program-filter-select>
+            <select data-program-filter-select aria-label="Programm">
               <option value="">Alle Programme</option>
               {% for program in programs %}
               <option value="{{ program.id }}">{{ program.title }}</option>
