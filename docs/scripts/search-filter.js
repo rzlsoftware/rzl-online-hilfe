@@ -72,12 +72,9 @@
 
   const resolveProgram = (mapping, location) => {
     if (!location) return "";
-    return (
-      mapping[location] ||
-      mapping[location.split("#")[0]] ||
-      deriveProgramFromLocation(location) ||
-      ""
-    );
+    const raw = mapping[location] || mapping[location.split("#")[0]];
+    const program = raw && typeof raw === "object" ? raw.id : raw;
+    return program || deriveProgramFromLocation(location) || "";
   };
 
   const updateMeta = (meta, visible, labelText) => {

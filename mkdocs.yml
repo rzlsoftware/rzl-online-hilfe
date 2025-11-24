@@ -48,7 +48,6 @@ plugins:
   - search:
       lang: de
       separator: '[\s\-]+'
-      prebuild_index: true
   - awesome-pages
 
 hooks:
