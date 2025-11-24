@@ -41,11 +41,18 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/pdf.css
 extra_javascript:
+  - scripts/search-filter.js
   - scripts/redirect.js
           
 plugins:
-  - search
+  - /search:
+      lang: de
+      separator: '[\\s\\-]+'
+      prebuild_index: true
   - awesome-pages
+
+hooks:
+  - plugins/program_filter.py
 
 markdown_extensions:
   - admonition

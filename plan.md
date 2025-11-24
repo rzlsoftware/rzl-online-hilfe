@@ -29,3 +29,9 @@ Goal: improve MkDocs Material search for a large documentation set and add an op
 ## Confirmed Decisions
 - New Python dependency `mkdocs-lunr-languages` is allowed for search language support.
 - Mobile search filter should be tucked behind a toggle to preserve space.
+
+## Acceptance Criteria
+
+Ensure that the implementation does not degrade existing navigation or search performance for users who do not use the program filter.
+
+Ensure that the project builds with the command `mkdocs build --strict --clean -d dist` without errors after implementing the changes.
