@@ -22,7 +22,7 @@ Sofern ein Klient als Einnahmen-/Ausgaben-Rechner (Ist-Versteuerer) mit Belastun
 ### Direktbuchungen auf Zahlungsmittelkonten
 
 
-Direktbuchungen von Aufwänden bzw. Erträgen auf Zahlungsmittelkonten ([Kontenplan anlegen – Bestandskonten anlegen](../Stammdaten%20Vorlagen/Kontenplane.md/#bestandskonto-anlegen)) mit eingegebenem Steuersatz werden sofort versteuert, das heißt der Steuerbetrag wird sofort gegen das Sammelkonto gebucht und in die UVA aufgenommen.
+Direktbuchungen von Aufwänden bzw. Erträgen auf Zahlungsmittelkonten ([Kontenplan anlegen – Bestandskonten anlegen](../Stammdaten/Kontenplane.md#bestandskonto-anlegen)) mit eingegebenem Steuersatz werden sofort versteuert, das heißt der Steuerbetrag wird sofort gegen das Sammelkonto gebucht und in die UVA aufgenommen.
 
 
 !!! warning "Hinweis"
@@ -107,4 +107,3 @@ Als Besonderheit werden hier zusätzlich die noch offenen Posten auf den Debitor
 
 
 Schließlich ergibt sich daraus die Umsatzsteuerschuld der jeweiligen Periode.
-

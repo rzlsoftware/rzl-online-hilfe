@@ -17,7 +17,7 @@ Sie können diese Option aber auch für einzelne Konten in der FIBU unter *Stamm
 ### EB-Buchung bei Jahresübernahme
 
 
-Wird das neue Wirtschaftsjahr durch eine ***Jahresübernahme*** (siehe Kapitel [Wirtschaftsjahr mit Jahresübernahme anlegen](../../Klientenstammdaten/Allgemein/NeuesWirtschaftsjahranlegen.md#wirtschaftsjahr-mit-jahresübernahme-anlegen)) angelegt, wird automatisch im Folgejahr ein Buchungsstapel *Eröffnungsbilanz* und die EB-Buchungen erstellt. Diese können Sie unter *Erfassen / Eröffnungsbilanz* aufrufen und sind mit einem **A** (Automatikbuchung) gekennzeichnet.
+Wird das neue Wirtschaftsjahr durch eine ***Jahresübernahme*** (siehe Kapitel [Wirtschaftsjahr mit Jahresübernahme anlegen](../../Klientenstammdaten/Allgemein/NeuesWirtschaftsjahranlegen.md#wirtschaftsjahr-mit-jahresubernahme-anlegen)) angelegt, wird automatisch im Folgejahr ein Buchungsstapel *Eröffnungsbilanz* und die EB-Buchungen erstellt. Diese können Sie unter *Erfassen / Eröffnungsbilanz* aufrufen und sind mit einem **A** (Automatikbuchung) gekennzeichnet.
 
 
 Die Option *Eröffnungsbilanz automatisch aktualisieren* bewirkt eine automatische Aktualisierung der Buchungen im EB-Stapel nach dem Buchen, Datenimport, OP bearbeiten etc. im vorigen Wirtschaftsjahr.
@@ -30,4 +30,3 @@ Die Option *Eröffnungsbilanz automatisch aktualisieren* bewirkt eine automatisc
 !!! info "Tipp"
 
     Neue Wirtschaftsjahre sollten Sie mit Jahresübernahme anlegen (nicht durch Neuanlage), damit die EB-Buchungen automatisch aktualisiert werden können!
-

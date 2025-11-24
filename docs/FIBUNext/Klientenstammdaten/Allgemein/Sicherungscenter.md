@@ -34,4 +34,4 @@ Bereits exportierte Sicherungen bzw. externe Sicherungen können über die Schal
 
 ### Automatische Sicherungen
 
-Nähere Informationen zu den automatischen Sicherungen finden Sie im Kapitel [FIBU Sicherungseinstellungen](/FIBUNext/Stammdaten Vorlagen/FIBUSicherungseinstellungen).
+Nähere Informationen zu den automatischen Sicherungen finden Sie im Kapitel [FIBU Sicherungseinstellungen](../../Stammdaten/FIBUSicherungseinstellungen.md).
