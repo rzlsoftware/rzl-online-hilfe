@@ -109,6 +109,7 @@ figcaption {
 
 .md-search__filter-field select {
   min-width: 12rem;
+  margin-left: 0.25rem;
 }
 
 .md-search-result__item--hidden {
