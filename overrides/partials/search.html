@@ -29,13 +29,9 @@
     <div class="md-search__output">
       {% if programs %}
       <div class="md-search__filters" data-program-filter>
-        <button type="button" class="md-search__filter-toggle md-icon" data-program-filter-toggle aria-expanded="false" aria-label="Programmfilter umschalten">
-          {% set icon = config.theme.icon.filter or "material/filter-variant" %}
-          {% include ".icons/" ~ icon ~ ".svg" %}
-          <span class="md-search__filter-label">Programm</span>
-        </button>
         <div class="md-search__filter-panel" data-program-filter-panel>
           <label class="md-search__filter-field">
+            <span class="md-search__filter-label">Programm</span>
             <select data-program-filter-select>
               <option value="">Alle Programme</option>
               {% for program in programs %}
