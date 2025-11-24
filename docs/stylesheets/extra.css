@@ -80,3 +80,57 @@ figcaption {
 .md-typeset [data-clipboard-text] {
   cursor: pointer;
 }
+
+.md-search__filters {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem 0 0.5rem;
+  background-color: var(--md-default-bg-color);
+}
+
+.md-search__filter-toggle {
+  display: none;
+  align-items: center;
+  gap: 0.35rem;
+  border: none;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+.md-search__filter-panel {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: var(--md-default-bg-color);
+}
+
+.md-search__filter-field select {
+  min-width: 12rem;
+  margin-left: 0.25rem;
+}
+
+.md-search-result__item--hidden {
+  display: none;
+}
+
+@media (max-width: 59.9375em) {
+  .md-search__filters {
+    flex-wrap: wrap;
+  }
+
+  .md-search__filter-toggle {
+    display: inline-flex;
+  }
+
+  .md-search__filter-panel {
+    width: 100%;
+    display: none;
+  }
+
+  .md-search__filters.is-open .md-search__filter-panel {
+    display: flex;
+  }
+}
