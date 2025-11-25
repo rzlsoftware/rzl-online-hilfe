@@ -133,6 +133,18 @@ figcaption {
   display: none;
 }
 
+/* Keep the search dropdown non-interactive when search is closed */
+.md-search__output {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+[data-md-toggle="search"]:checked ~ .md-header .md-search__output,
+.md-search[data-md-state="active"] .md-search__output {
+  visibility: visible;
+  pointer-events: auto;
+}
+
 @media (max-width: 59.9375em) {
   .md-search__filter-panel {
     width: 100%;
