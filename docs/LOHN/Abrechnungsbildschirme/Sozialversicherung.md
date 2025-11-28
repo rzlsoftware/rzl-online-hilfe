@@ -104,13 +104,15 @@ Mit der November-Abrechnung wird allen Dienstnehmern in einem aufrechten Dienstv
 
 Bei fallweise beschäftigten Dienstnehmern sind am Kalenderblatt die Tage der fallweisen Beschäftigung zu markieren (*Strg + Leertaste* oder *Strg + Mausklick*).
 
-Die Option *L16* *monatlich* ist voreingestellt und ermöglicht die monatliche Übermittlung des L16. Die *BV-Beitragspflicht* und der *Beginn der BV-Pflicht* werden automatisch ermittelt.
+Die Option *L16 monatlich* ist voreingestellt und ermöglicht die monatliche Übermittlung des L16. Die *BV-Beitragspflicht* und der *Beginn der BV-Pflicht* werden automatisch ermittelt.
 
-Wenn die einzelnen Tage unterschiedlich entlohnt werden, müssen die Bezüge pro Tag durch Anwahl der Schaltfläche *abw. Verteilung der Bezüge* im Detail erfasst werden.
+Wenn die einzelnen Tage unterschiedlich entlohnt werden, müssen die Bezüge pro Tag durch Anwahl der Schaltfläche *abw. Verteilung der Bezüge* im Detail erfasst werden. Sie haben hier ebenfalls die Möglichkeit, eine abweichende täglich vereinbarte Arbeitszeit für die Anmeldung zu erfassen.
 
-![Image](<img/image99.png>)
+![Image](img/image150.png)
 
 ## SV-Wechsel
+
+![Image](<img/image99.png>)
 
 Dieser Bereich wird aktiviert, wenn innerhalb eines Monats ein Wechsel in der Beschäftigtengruppe stattfindet (z. B. vom Lehrling zum Arbeiter). Im Feld *Beschäftigtengruppe* – im Abrechnungsbildschirm *Sozialversicherung* ganz oben – ist die neue Beschäftigtengruppe einzugeben. In diesem Eingabeblock wird die alte Beschäftigtengruppe angezeigt und es sind die Tage und die Bemessungsgrundlage für die alte Beschäftigtengruppe einzugeben.
 
