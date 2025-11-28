@@ -38,6 +38,8 @@ Ein User+ ermöglicht ausgewählten Usern Zugriff auf erweitere Powerfunktionen 
 
 !!! info "Hinweis"
     Einem sproof User können mehere Mitarbeiter zugeordnet werden. So können alle zugeordneten Mitarbeiter mit einem sproof User z.B. einem allgemeinen Kanzlei-User Dokumente zum Signieren an sproof hochladen.
+    Sie tragen die E-Mail-Adresse des sproof Users **einmal** ein und ordnen mehrere Mitarbeiter (mit Beistrich getrennt) zu. 
+    ![mehrere Mitarbeiter zu User](<img/mehrere Mitarbeiter zu User.png>)
 
 Der Status gibt an, ob ein sproof User bereits einem Mitarbeiter zugeordnet wurde oder nicht. Ohne Zuordnung zum Mitarbeiter können von diesem Mitarbeiter keine Dokumente zum Signieren an sproof hochgeladen werden.
 
