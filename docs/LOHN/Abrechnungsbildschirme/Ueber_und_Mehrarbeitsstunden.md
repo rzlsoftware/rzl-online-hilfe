@@ -4,7 +4,7 @@
 
 ## Pauschale
 
-Ist eine Überstunden-Pauschale abzurechnen, so ist das Auswahlfeld zu aktivieren und der Betrag der Überstunden-Pauschale einzugeben. Damit das Programm den steuerfreien Zuschlag ermitteln kann, muss entweder der *Überstunden-Teiler* oder der *abweichende Überstunden-Grundlohn* eingetragen werden. Wenn im Feld maximal begünstigte Stunden kein niedrigerer Eintrag erfolgt, werden die Zuschläge gemäß § 68 Abs. 2 für 18 Stunden pro Monat steuerfrei gerechnet (maximal EUR 200,00 pro Monat).
+Ist eine Überstunden-Pauschale abzurechnen, so ist das Auswahlfeld zu aktivieren und der Betrag der Überstunden-Pauschale einzugeben. Damit das Programm den steuerfreien Zuschlag ermitteln kann, muss entweder der *Überstunden-Teiler* oder der *abweichende Überstunden-Grundlohn* eingetragen werden. Wenn im Feld maximal begünstigte Stunden kein niedrigerer Eintrag erfolgt, werden die Zuschläge gemäß § 68 Abs. 2 für 10 Stunden (bis 2025: 18 Stunden) pro Monat steuerfrei gerechnet (maximal EUR 120,00 (bis 2025: EUR 200,00) pro Monat).
 
 Soll **kein** Freibetrag gerechnet werden, dann geben Sie bei *max. beg. h* Null ein und machen Sie einen rechten Mausklick und wählen Sie *Explizit 0* aus.
 
@@ -30,7 +30,7 @@ Wird dieses Feld aktiviert, bleiben die eingegebenen Überstunden erhalten und b
 
 **Begünstigte Überstunden § 68(2)**
 
-Unter *begünstigte Überstunden § 68(2)* sind die „normalen“ Überstunden einzugeben, die nicht in der Nacht geleistet werden. Vom Programm werden davon automatisch die ersten 18 Überstunden gemäß § 68 (2) EstG88 als steuerfrei (bis maximal EUR 200,00) behandelt.
+Unter *begünstigte Überstunden § 68(2)* sind die „normalen“ Überstunden einzugeben, die nicht in der Nacht geleistet werden. Vom Programm werden davon automatisch die ersten 10 Überstunden (bis 2025: 18 Überstunden) gemäß § 68 (2) EstG88 als steuerfrei (bis maximal EUR 120,00 (bis 2025: max. EUR 200,00)) behandelt.
 
 **Begünstigte Überstunden § 68(1)**
 
@@ -78,7 +78,7 @@ Wird das Feld *nicht begünstigt gemäß § 68 (2)* angewählt, erfolgt keine be
 
 Wenn eine All-inclusive-Vereinbarung getroffen wurde, können Sie hier den *Gesamtstundenteiler* eintragen.
 
-Wenn im Feld *maximal begünstigte Stunden* kein niedrigerer Eintrag erfolgt, werden die Zuschläge gemäß § 68 Abs. 2 für 18 Stunden pro Monat steuerfrei gerechnet (maximal EUR 200,00 pro Monat). Soll keine Begünstigung § 68 (2) zur Anwendung gelangen, dann geben Sie im Feld *maximal begünstigte Stunden* Null ein und machen Sie einen rechten Mausklick und wählen Sie *Explizit 0* aus.
+Wenn im Feld *maximal begünstigte Stunden* kein niedrigerer Eintrag erfolgt, werden die Zuschläge gemäß § 68 Abs. 2 für 10 Überstunden (bis 2025: 18 Stunden) pro Monat steuerfrei gerechnet (maximal EUR 120,00 (bis 2025: max. 200,00) pro Monat). Soll keine Begünstigung § 68 (2) zur Anwendung gelangen, dann geben Sie im Feld *maximal begünstigte Stunden* Null ein und machen Sie einen rechten Mausklick und wählen Sie *Explizit 0* aus.
 
 ![Image](<img/image116.png>){width="600"}
 
