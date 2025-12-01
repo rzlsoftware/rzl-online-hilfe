@@ -30,7 +30,7 @@ Wird dieses Feld aktiviert, bleiben die eingegebenen Überstunden erhalten und b
 
 **Begünstigte Überstunden § 68(2)**
 
-Unter *begünstigte Überstunden § 68(2)* sind die „normalen“ Überstunden einzugeben, die nicht in der Nacht geleistet werden. Vom Programm werden davon automatisch die ersten 10 Überstunden (bis 2025: 18 Überstunden) gemäß § 68 (2) EstG88 als steuerfrei (bis maximal EUR 120,00 (bis 2025: max. EUR 200,00)) behandelt.
+Unter *begünstigte Überstunden § 68(2)* sind die „normalen“ Überstunden einzugeben, die nicht in der Nacht geleistet werden. Vom Programm werden davon automatisch die ersten 10 Überstunden (bis 2025: 18 Überstunden) gemäß § 68 (2) EStG als steuerfrei (bis maximal EUR 120,00 (bis 2025: max. EUR 200,00)) behandelt.
 
 **Begünstigte Überstunden § 68(1)**
 
