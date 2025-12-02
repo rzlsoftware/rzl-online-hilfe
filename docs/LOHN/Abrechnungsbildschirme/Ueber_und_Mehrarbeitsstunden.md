@@ -28,6 +28,12 @@ Wird als Basis für die Berechnung des Überstunden-Zuschlages nicht der Überst
 
 Wird dieses Feld aktiviert, bleiben die eingegebenen Überstunden erhalten und brauchen nicht jeden Monat neu eingegeben zu werden. Der Überstunden-Grundlohn bzw. Überstunden-Teiler bleiben immer erhalten.
 
+**Freibetrag 2025 anwenden**
+
+Durch den Wechsel des Freibetrags gemäß § 68(2) von 2025 auf 2026 besteht in den Monaten Jänner und Februar die Möglichkeit, im Klientenjahr 2026 weiterhin den begünstigten Freibetrag gemäß § 68(2) für das Jahr 2025 anzuwenden – und zwar für Überstunden, die zwar dem Jahr 2025 zuzuordnen sind, jedoch erst im Jahr 2026 ausbezahlt werden. Ab März 2026 ist diese Checkbox deaktiviert (ausgegraut).
+
+Wenn dieses Feld aktiviert wird, wird automatisch auch das Feld bei den *Mehrarbeitsstunden* aktiviert. Beide Felder sind miteinander synchronisiert.
+
 **Begünstigte Überstunden § 68(2)**
 
 Unter *begünstigte Überstunden § 68(2)* sind die „normalen“ Überstunden einzugeben, die nicht in der Nacht geleistet werden. Vom Programm werden davon automatisch die ersten 10 Überstunden (bis 2025: 18 Überstunden) gemäß § 68 (2) EStG als steuerfrei (bis maximal EUR 120,00 (bis 2025: max. EUR 200,00)) behandelt.
@@ -67,6 +73,12 @@ Wird als Basis für die Berechnung des Mehrarbeit-Zuschlages nicht der Grundlohn
 **Mehrarbeit-Stunden wiederkehrend**
 
 Wird dieses Feld aktiviert, bleiben die eingegebenen Mehrarbeit-Stunden erhalten und brauchen nicht jeden Monat neu eingegeben zu werden. Der Mehrarbeitsgrundlohn sowie der Mehrarbeitsteiler bleiben immer gleich.
+
+**Freibetrag 2025 anwenden**
+
+Durch den Wechsel des Freibetrags gemäß § 68(2) von 2025 auf 2026 besteht in den Monaten Jänner und Februar die Möglichkeit, im Klientenjahr 2026 weiterhin den begünstigten Freibetrag gemäß § 68(2) für das Jahr 2025 anzuwenden – und zwar für Mehrarbeitsstunden, die zwar dem Jahr 2025 zuzuordnen sind, jedoch erst im Jahr 2026 ausbezahlt werden. Ab März 2026 ist diese Checkbox deaktiviert (ausgegraut).
+
+Wenn dieses Feld aktiviert wird, wird automatisch auch das Feld bei den *Überstunden* aktiviert. Beide Felder sind miteinander synchronisiert.
 
 **Mehrarbeit-Stunden zu …**
 
