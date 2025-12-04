@@ -1,4 +1,4 @@
-# Abrechnung Zukunftssicherung bis 2025
+# Abrechnung Zukunftssicherung ab 2026
 
 Die Abrechnung der Zukunftssicherung kann steuerfrei und sozialversicherungspflichtig, steuerfrei und sozialversicherungsfrei, aber auch steuerpflichtig und sozialversicherungs­pflichtig sein. Die unten angeführte Beschreibung bezieht sich auf die möglichen Abrechnungsvarianten. Die Zuordnungen zur richtigen Abrechnungsvariante müssen vom Anwender selbst vorgenommen werden.
 
@@ -9,12 +9,12 @@ Die Abrechnung der Zukunftssicherung kann steuerfrei und sozialversicherungspfli
 
 Liegt eine Bezugsumwandlung vor (Dienstnehmer verzichtet auf einen Teil seines Gehaltes), dann ist die Zukunftsvorsorge lediglich (einkommens-)steuerfrei, aber sozialversicherungs­pflichtig. Die Abrechnung dieser Variante kann mit folgenden zwei Lohnarten erfolgen:
 
-| Lohnart                             | Sozialversicherung | Lohnsteuer                                           | DB-Pflichtigkeit | KommSt-Pflichtig |
-| ----------------------------------- | :----------------: | ---------------------------------------------------- | :--------------: | :--------------: |
-| Zukunftssicherung-sv-pfl. monatlich |         1          | 14 steuerfrei gemäß § 3 EStG (sechstelerhöhend)      |        0         |        0         |
-| Zukunftssicherung-sv-pfl. jährlich  |         1          | 5 steuerfrei gemäß § 3 EStG (nicht sechstelerhöhend) |        0         |        0         |
+| Lohnart                             | Sozialversicherung | Lohnsteuer                                                                       | DB-Pflichtigkeit | KommSt-Pflichtig |
+| ----------------------------------- | :----------------: | -------------------------------------------------------------------------------- | :--------------: | :--------------: |
+| Zukunftssicherung-sv-pfl. monatlich |         1          | 42 steuerfrei gemäß § 3 Abs. 1 Z 15 a EStG - Zukunftssicherung sechstelerhöhend  |        0         |        0         |
+| Zukunftssicherung-sv-pfl. jährlich  |         1          | 41 steuerfrei gemäß § 3 1 Z 15 a EStG - Zukunftssicherung nicht sechstelerhöhend |        0         |        0         |
 
-Mit diesen Lohnarten werden die EUR 25,00 (monatlich) oder EUR 300,00 (jährlich) positiv abgerechnet. Da eine Bezugsumwandlung (Gehaltsverzicht) vorliegt, muss der **Bruttobezug** entsprechend **gekürzt** werden. Durch die Lohnsteuerpflichtigkeit Nr. 5 oder 14 wird der Betrag der Zukunftsvorsorge steuerfrei gestellt.
+Mit diesen Lohnarten werden die EUR 25,00 (monatlich) oder EUR 300,00 (jährlich) positiv abgerechnet. Da eine Bezugsumwandlung (Gehaltsverzicht) vorliegt, muss der **Bruttobezug** entsprechend **gekürzt** werden. Durch die Lohnsteuerpflichtigkeit Nr. 42 oder 41 wird der Betrag der Zukunftsvorsorge steuerfrei gestellt.
 
 | Lohnart                 | Abzug                                         |
 | ----------------------- | --------------------------------------------- |
@@ -26,10 +26,10 @@ Damit die EUR 25,00 (monatlich) oder EUR 300,00 (jährlich) auch tatsächlich 
 
 Die Zukunftsvorsorge ist steuer- und SV-frei, wenn keine Bezugsumwandlung (kein Gehaltsverzicht) vorliegt. Das heißt, die Zukunftsvorsorge wird zum Bruttolohn dazugeschlagen (der Bruttolohn in den fixen Lohnarten bleibt unverändert).
 
-| Lohnart                             | Sozialversicherung | Lohnsteuer                                           | DB-Pflichtigkeit | KommSt-pflichtig |
-| ----------------------------------- | :----------------: | ---------------------------------------------------- | :--------------: | :--------------: |
-| Zukunftssicherung sv-frei monatlich |         0          | 14 steuerfrei gemäß § 3 EStG (sechstelerhöhend)      |        0         |        0         |
-| Zukunftssicherung sv-frei jährlich  |         0          | 5 steuerfrei gemäß § 3 EStG (nicht sechstelerhöhend) |        0         |        0         |
+| Lohnart                             | Sozialversicherung | Lohnsteuer                                                                       | DB-Pflichtigkeit | KommSt-pflichtig |
+| ----------------------------------- | :----------------: | -------------------------------------------------------------------------------- | :--------------: | :--------------: |
+| Zukunftssicherung sv-frei monatlich |         0          | 42 steuerfrei gemäß § 3 Abs. 1 Z 15 a EStG - Zukunftssicherung sechstelerhöhend  |        0         |        0         |
+| Zukunftssicherung sv-frei jährlich  |         0          | 41 steuerfrei gemäß § 3 1 Z 15 a EStG - Zukunftssicherung nicht sechstelerhöhend |        0         |        0         |
 
 Mit diesen Lohnarten ist der Betrag der Zukunftsvorsorge (EUR 25,00 monatlich / EUR 300,00 jährlich) abzurechnen.
 
