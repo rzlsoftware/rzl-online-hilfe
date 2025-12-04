@@ -20,6 +20,8 @@ Im Register **LA(4)** wählen Sie die passende Sachbezugsart aus:
 - Sachbezug Wohnraum
 - sonstige Sachbezüge
 
+![Image](img/image867.png){width="500"}
+
 Nur durch diese Auswahl ist eine korrekte Zuordnung für den Jahreslohnzettel (L16) gewährleistet.
 
 ## Möglichkeit 2
