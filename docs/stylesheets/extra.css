@@ -80,3 +80,77 @@ figcaption {
 .md-typeset [data-clipboard-text] {
   cursor: pointer;
 }
+
+.md-search__filters {
+  display: flex;
+  align-items: flex-end;
+  gap: 0.5rem;
+  padding: 0.25rem 0 0.5rem;
+  background-color: var(--md-default-bg-color);
+  flex-wrap: wrap;
+}
+
+.md-search__filter-panel {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: var(--md-default-bg-color);
+  width: 100%;
+  margin: 0 0.25rem;
+}
+
+.md-search__filter-field {
+  display: inline-flex;
+  align-items: center;
+  width: 100%;
+}
+
+.md-search__filter-field select {
+  width: 100%;
+  min-width: 0;
+  margin-left: 0;
+  padding: 0.4rem 2.25rem 0.4rem 0.75rem;
+  border-radius: 0;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.06);
+  transition: border-color 150ms ease, box-shadow 150ms ease, background-color 150ms ease;
+}
+
+.md-search__filter-field select:hover {
+  border-color: var(--md-default-fg-color--light);
+}
+
+.md-search__filter-field select:focus {
+  outline: none;
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 0 0 2px var(--md-accent-fg-color--transparent);
+}
+
+.md-search-result__item--hidden {
+  display: none;
+}
+
+/* Keep the search dropdown non-interactive when search is closed */
+.md-search__output {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+[data-md-toggle="search"]:checked ~ .md-header .md-search__output,
+.md-search[data-md-state="active"] .md-search__output {
+  visibility: visible;
+  pointer-events: auto;
+}
+
+@media (max-width: 59.9375em) {
+  .md-search__filter-panel {
+    width: 100%;
+  }
+
+  .md-search__filter-field select {
+    width: 100%;
+  }
+}
