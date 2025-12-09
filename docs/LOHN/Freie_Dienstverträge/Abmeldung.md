@@ -42,6 +42,10 @@ Das Datum Ende BV-Beitragspflicht wird vom Programm automatisch ermittelt.
 
 Hier können die Daten der Geburt und des Mutterschutzes erfasst werden.
 
+### Papamonat
+
+Durch die Eingabe des Zeitraums für den Papamonat werden alle relevanten Austrittsdaten im oberen Bereich automatisch erfasst.
+
 ## Mutterschutzmeldung gemäß § 3 Abs 6 MSchG
 
 Wählen Sie das entsprechende *Arbeitsinspektorat* aus und geben Sie eine kurze Beschreibung des *Arbeitsplatzes* bzw. der *Tätigkeit* ein. Nach erfolgreicher Eingabe der Daten kann über *Ausdruck / Sonderdrucke / Mutterschutzmeldung an das Arbeitsinspektorat* die Mutterschutzmeldung ausgedruckt werden.

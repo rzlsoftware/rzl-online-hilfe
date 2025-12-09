@@ -37,9 +37,16 @@ handelt.
 
 Die Einträge in den Feldern *Austrittsdatum, Kündigungsentschädigung, Ersatzleistung (UE)* beziehen sich auf die Daten im Eingabebildschirm [*Austritt*](../Abrechnungsbildschirme/Austritt.md).
 
-**Ausspruch der Kündigung**
+**Aussprache Lösung DV**
 
-Hier müssen Sie jenen Tag des Ausspruchs der Kündigung eintragen, wenn es sich um die Kündigungsgründe *Kündigung durch den Dienstgeber* oder *einvernehmliche Lösung* handelt.
+Hier müssen Sie jenen Tag des Ausspruchs der Lösung des Dienstverhältnisses eintragen, wenn es sich um die Kündigungsgründe
+
+- Kündigung durch den Dienstgeber, 
+- einvernehmliche Lösung,
+- berechtigter vorzeitiger Austritt oder
+- fristlose Entlassung
+
+handelt.
 
 ## Entgelt
 
@@ -69,11 +76,7 @@ Der Beitragszeitraum umfasst für Pflichtversicherte den Kalendermonat. Das Entg
 
 **Bezüge enthalten**
 
-Hier ist eine Eingabe zu tätigen, wenn die Geldbezüge Trinkgelder, Provisionen oder Sonstiges enthalten.
-
-**Bezüge enthalten**
-
-Hier ist eine Eingabe zu tätigen, wenn die Geldbezüge Trinkgelder, Provisionen oder Sonstiges enthalten.
+Hier ist eine Eingabe zu tätigen, wenn die Geldbezüge eine Abschlussprovision, eine Superprovision oder Sonstiges enthalten.
 
 **Art der Entlohnung**
 

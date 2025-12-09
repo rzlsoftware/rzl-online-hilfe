@@ -1,4 +1,4 @@
-# Mitarbeiterprämie (2024)
+# Mitarbeiterprämie 2024
 
 Im Kalenderjahr 2024 ist es unter bestimmten Formalvoraussetzungen möglich, **Mitarbeiterprämie** bis zur Höhe von EUR 3.000,00 pro Arbeitnehmer abgabenfrei zu gewähren (§ 124b Z. 447 EStG). Von der politischen Intention her handelt es sich um eine Nachfolgeregelung der „Teuerungsprämie“ (2022 und 2023), allerdings unter formal sehr erschwerten Bedingungen.
 
