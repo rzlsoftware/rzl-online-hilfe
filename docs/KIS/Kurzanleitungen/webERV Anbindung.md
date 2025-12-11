@@ -9,13 +9,27 @@ Mit der webERV-Anbindung können Nachrichten aus dem elektronischen Rechtsverkeh
 
 Voraussetzung für die Nutzung der webERV-Anbindung an die RZL Programme ist das RZL Bilanz-Programm und das Modul RZL KIS Dokumentenverwaltung bzw. das Modul RZL Dokumentenverwaltung-/Belegverwaltung plus. Außerdem muss der RZL Dienst installiert werden, welcher kostenfrei zur Verfügung steht.
 
+## webERV Einstellungen im RZL Board
+
+Um die webERV-Anbindung im KIS nutzen zu können, müssen die erforderlichen Einstellungen unter *Portale* → Register *„webERV“ → Einstellungen* vorgenommen werden.
+
+![Einstellungen Board](<img/Einstellungen Board.png>)
+
+Die Nachrichten werden zwar grundsätzlich den entsprechenden Klienten zugeordnet, allerdings ist es für die Aktivierung der Übernahme von webERV Dokumente zwingend notwendig einen Fallback-Klienten zu hinterlegen. Es besteht außerdem die Möglichkeit, verschiedene Fallback-Klienten für separate Anschriftencodes zu hinterlegen.
+
+!!! info "Hinweis"
+    Der Fallback-Klient kann individuell gewählt werden. Sie können dafür beispielsweise den Kanzleiklienten oder einen speziell für betriebsinterne Angelegenheiten angelegten Klienten verwenden.
+    WARUM wird ein Fallback-Klient benötigt?
+    → Ein Dokument ohne Klientenzuordnung kann von jedem Mitarbeiter eingesehen werden, welcher in seiner Rolle die Berechtigung "Dokument anzeigen" besitzt. Die Sichtbarkeit ist mit einem hinterlegten Fallback-Klienten somit gewährleistet.
+
+Die nachträgliche Übernahme kann erst aktiviert werden, sobald ein Fallback-Klient hinterlegt wird. Tragen Sie das gewünschte Datum ein, mit welchem die Dokumente aus dem webERV übernommen werden sollen. Beim Klick auf **Aktivieren** werden die Dokumente in das Kanzlei-Informations-System übernommen.
 
 
 
 
-Einmal im Board aktiveren??? --> Die Übernahme
 
 
+Einmal im Board aktiveren??? --> Die Übernahme der Dok ist gemeint glaub ich
 
 und muss in Board aktiviert werden und Fallback-Klient! (wegen Dok. die Kanzlei selbst betreffen) - Warum? sonst Problem: Dok. kommt dann rein ohne Klientenzuordnung und somit ohne Klietnengruppe, also für jeden MA sichtbar!
 
