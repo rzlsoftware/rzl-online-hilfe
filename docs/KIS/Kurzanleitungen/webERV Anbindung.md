@@ -5,11 +5,17 @@ Unterlagen, die in einer früheren Strukturversion erstellt wurden, müssen bis 
 Im RZL Bilanzierungsprogramm können Sie die Einreichungen mithilfe des webERV-Service von MANZ weiterhin sicher, effizient und fristgerecht durchführen.
 Weitere Informationen bezüglich dieser Änderung im Zusammenhang mit dem RZL Bilanzprogramm inklusive der technischen Voraussetzungen und notwendige Einstellungen zur Verwendung der MANZ-Schnittstelle für die Übermittlung finden Sie in der [Kurzanleitung **Jahresabschlüsse Firmenbuch ERV-Jab 4.0**](https://rzlsoftware.at/fileadmin/user_upload/PDF_Kurzanleitungen/BIL/BIL_Firmenbuchabgabe_4-0.pdf)
 
-Voraussetzung Lizenzen: RZL BIlanzprogramm + Dokumentenverwaltung + RZL Dienst
+Mit der webERV-Anbindung können Nachrichten aus dem elektronischen Rechtsverkehr (ERV) in das RZL Kanzlei-Informations-System übernommen werden, das betrifft Firmenbuchbeschlüsse und sonstige ERV Zustellungen. Über Zuweisungen können Thema, Kategorie und Dokumentenbereich definiert werden, welche eine strukturierte Ablage unterstützen. Darüber hinaus können Aufgabenvorlagen für eine automatische Aufgabenerstellung definiert werden.
+
+was bekommt man? Rückverkehr, Nachrichten aus dem elektronischen rechtsverkehr (ERV) z.B. Firmenbuchbeschlüsse (JAB betreffend) oder andere Mitteilungen kann in KIS übernommen werden + Aufgaben
+
+Einmal im Board aktiveren???
+
+Voraussetzung Lizenzen: RZL Bilanzprogramm + Dokumentenverwaltung + RZL Dienst
 und muss in Board aktiviert werden und Fallback-Klient! (wegen Dok. die Kanzlei selbst betreffen) - Warum? sonst Problem: Dok. kommt dann rein ohne Klientenzuordnung und somit ohne Klietnengruppe, also für jeden MA sichtbar!
 
 Dokumente werden grundsätzlich den Klienten zugeordnet
-unter Portale / Einstellungen können Sie einen Fallback Klienten hinterlegen, welcher die Dokumente erhält, wenn keine Klientenzuordnung möglich ist. Entweder Sie legen sich dafür einen extra Klienten an oder Sie hinterlegen hier z.B. den Kanzleiklienten.
+unter Portale / Einstellungen können Sie einen Fallback Klienten hinterlegen, welcher die Dokumente erhält, wenn keine Klientenzuordnung möglich ist. Entweder Sie legen sich dafür einen extra Klienten an oder Sie hinterlegen hier z.B. den Kanzleiklienten. Wird kein Fallback Klient hinterlegt, kommen die Dokument ohne Klientenzuordnung rein und jeder, der das Rest "Dokumente anzeigen" hat, kann das Dokument sehen.
 Sie können als Fallback-Klienten auch unterschiedliche pro Anschriftencode hinterlegen. (Sublizenz?)
 
 
