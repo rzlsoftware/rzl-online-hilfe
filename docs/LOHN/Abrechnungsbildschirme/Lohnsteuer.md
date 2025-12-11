@@ -193,7 +193,7 @@ Tragen Sie hier den Betrag für den steuerfreien Teil der Ladeeinrichtung ein. F
 
 **Kostenersatz Aufladung E-Fahrzeuge**
 
-Hier haben Sie die Möglichkeit, die *Anzahl* der Kilowattstunden für die Aufladung des E-Fahrzeugs zu erfassen. Als *Basis* wird Ihnen der amtliche Kilowattstundenpreis vorgeschlagen. Sie können auch eine abweichende Basis erfassen. Falls keine genaue Überprüfung möglich ist, können Sie den aktuell gültigen Maximalbetrag von EUR 30,00 als Kostenersatz hinterlegen. Wenn Sie den Kostenersatz nicht auszahlen möchten, sondern dieser lediglich auf dem Jahreslohnkonto und dem Jahreslohnzettel (L16) ausgewiesen werden soll, aktivieren Sie das Häkchen *nur Ausweis am Lohnkonto u. L16*.
+Hier haben Sie die Möglichkeit, die *Anzahl* der Kilowattstunden für die Aufladung des E-Fahrzeugs zu erfassen. Als *Basis* wird Ihnen der amtliche Kilowattstundenpreis vorgeschlagen. Sie können auch eine abweichende Basis erfassen. Wenn Sie den Kostenersatz nicht auszahlen möchten, sondern dieser lediglich auf dem Jahreslohnkonto und dem Jahreslohnzettel (L16) ausgewiesen werden soll, aktivieren Sie das Häkchen *nur Ausweis am Lohnkonto u. L16*.
 
 !!! info "Tipp"
     Zuschüsse und Kostenersätze können über freie Lohnarten abgerechnet werden. Dafür stehen Ihnen folgende Lohnsteuerpflichtigkeiten zur Auswahl:
