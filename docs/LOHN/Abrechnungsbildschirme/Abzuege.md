@@ -8,7 +8,7 @@ Eingabe eines vom Nettolohn abzuziehenden Vorschusses.
 
 ## Sachbezug
 
-Eingabe des Betrages an Sachbezug (z. B. für freie Station, KFZ-Privatnutzung usw.), der vom Nettolohn abgezogen wird. Die hier eingegebenen Beträge werden lediglich abgezogen. Ist der Sachbezug nicht im Bruttolohn enthalten, so ist er als [eigene freie Lohnart](../Freie%20Lohnarten/Anlage%20freie%20Lohnart%20Sachbezug%20-%20drei%20Möglichkeiten.md) anzulegen, damit die Berücksichtigung bei SV und LSt erfolgen kann.
+Eingabe des Betrages an Sachbezug (z. B. für freie Station, KFZ-Privatnutzung usw.), der vom Nettolohn abgezogen wird. Die hier eingegebenen Beträge werden lediglich abgezogen. Ist der Sachbezug nicht im Bruttolohn enthalten, so ist er als [eigene freie Lohnart](../Sachbezüge/Anlage_Sachbezug.md) anzulegen, damit die Berücksichtigung bei SV und LSt erfolgen kann.
 
 !!! warning "Hinweis"
     Beachtung der Sonderregelung in der Sozialversicherung: Gemäß § 53 ASVG dürfen die dienstnehmerbezogenen SV-Beiträge maximal 20 % seiner Geldbezüge betragen, wird einem Dienstnehmer ein entsprechend hoher Sachbezug abgezogen, so kann dies Auswirkung auf die dem Dienstnehmer maximal abziehbaren SV-Beiträge haben. Diese Sonderregelung wird vom Programm automatisch berücksichtigt.

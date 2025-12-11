@@ -1,4 +1,4 @@
-# Erstellung der Berufskrankheitenmeldung
+# Erstellung der Berufskrankheitenmeldung (nur bis 2025 möglich)
 
 ## Neuanlage einer Berufskrankheitenmeldung
 
