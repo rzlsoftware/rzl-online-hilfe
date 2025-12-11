@@ -7,7 +7,7 @@ Weitere Informationen bezüglich dieser Änderung im Zusammenhang mit dem RZL Bi
 
 Mit der webERV-Anbindung können Nachrichten aus dem elektronischen Rechtsverkehr (ERV) in das RZL Kanzlei-Informations-System übernommen werden, das betrifft unter anderem Firmenbuchbeschlüsse und sonstige ERV Zustellungen. Über Zuweisungen können Thema, Kategorie und Dokumentenbereich definiert werden, welche eine strukturierte Ablage unterstützen. Darüber hinaus können Aufgabenvorlagen für eine automatische Aufgabenerstellung definiert werden.
 
-Voraussetzung für die Nutzung der webERV-Anbindung an die RZL Programme ist das RZL Bilanz-Programm und das Modul RZL KIS Dokumentenverwaltung bzw. das Modul RZL Dokumentenverwaltung-/Belegverwaltung plus. Außerdem muss der RZL Dienst installiert werden, welcher kostenfrei zur Verfügung steht.
+Voraussetzung für die Nutzung der webERV-Anbindung an die RZL Programme ist das RZL Bilanz-Programm und das Modul RZL KIS Dokumentenverwaltung bzw. das Modul RZL Dokumentenverwaltung-/Belegverwaltung plus. Außerdem muss der RZL Dienst installiert werden, welcher **kostenfrei** zur Verfügung steht.
 
 ## webERV Einstellungen im RZL Board
 
@@ -24,17 +24,9 @@ Die Nachrichten werden zwar grundsätzlich den entsprechenden Klienten zugeordne
 
 Die nachträgliche Übernahme kann erst aktiviert werden, sobald ein Fallback-Klient hinterlegt wird. Tragen Sie das gewünschte Datum ein, mit welchem die Dokumente aus dem webERV übernommen werden sollen. Beim Klick auf **Aktivieren** werden die Dokumente in das Kanzlei-Informations-System übernommen.
 
+## webERV Zuweisungen im RZL Kanzlei-Informations-System
 
+Für eine strukturierte Ablage der webERV Dokumente können Sie unter *Verwaltung → Zuweisungen → webERV* jeweils Thema, Kategorie und Dokumentbereich für ERV Firmenbuchbeschlüsse und sonstige ERV Nachrichten festlegen.
+Außerdem können Sie unter *Verwaltung → Aufgabenvorlagen* Aufgabenvorlagen anlegen, mit welcher eine Aufgabe für die ERV Firmenbuchbeschlüsse/sonstige ERV Zustellungen erstellt werden.
 
-
-
-
-Einmal im Board aktiveren??? --> Die Übernahme der Dok ist gemeint glaub ich
-
-und muss in Board aktiviert werden und Fallback-Klient! (wegen Dok. die Kanzlei selbst betreffen) - Warum? sonst Problem: Dok. kommt dann rein ohne Klientenzuordnung und somit ohne Klietnengruppe, also für jeden MA sichtbar!
-
-Dokumente werden grundsätzlich den Klienten zugeordnet
-unter Portale / Einstellungen können Sie einen Fallback Klienten hinterlegen, welcher die Dokumente erhält, wenn keine Klientenzuordnung möglich ist. Entweder Sie legen sich dafür einen extra Klienten an oder Sie hinterlegen hier z.B. den Kanzleiklienten.
-Sie können als Fallback-Klienten auch unterschiedliche pro Anschriftencode hinterlegen. (Sublizenz?)
-
-
+![Zuweisungen webERV](<img/Zuweisungen.png>)
