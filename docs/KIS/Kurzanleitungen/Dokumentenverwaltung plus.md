@@ -16,7 +16,7 @@ Die RZL Dokumentenverwaltung plus / Belegverwaltung plus ist [**zertifiziert**](
 
 Zur Einrichtung der Dokumentenverwaltung plus / Belegverwaltung plus verwenden Sie bitte das Setup Handbuch, welches Sie hier aufrufen können: [Setup Handbuch](https://hilfe.rzlsoftware.at/setup/dokvplus-einrichten/)
 
-Zur Kurzanleitung für die Belegverwaltung plus gelangen Sie über diesen Link: [Belegverwaltung plus](/docs/Belegverarbeitung/Kurzanleitungen/RZL%20Belegverarbeitung%20Versionsverwaltung.md)
+Zur Kurzanleitung für die Belegverwaltung plus gelangen Sie über diesen Link: [Belegverwaltung plus](../../Belegverarbeitung/Kurzanleitungen/RZL Belegverarbeitung Versionsverwaltung.md)
 
 Die Dokumentenverwaltung plus bietet Ihnen zusätzlich praktische Funktionen wie das Öffnen von verschiedenen Versionen eines Dokuments, das Wiederherstellen von Dokumenten, das Ein- und Auschecken und  Versiegeln von Dokumenten und das Aufrufen eines Änderungsprotokolls je Dokument. Außerdem können Sie zusätzlich das RZL Modul digitaler Personalakt nutzen.
 

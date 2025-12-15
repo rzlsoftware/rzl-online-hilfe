@@ -80,7 +80,7 @@ importiert werden.
 
 !!! warning "Hinweis"
     Auch über *Leistungserfassung / Mitarbeiterübersicht / Datenimport* ist
-    ein [Import der Arbeitszeiten und Leistungen](/HONNext/Mitarbeiterübersicht/Import%20Arbeitszeiten%20und%20Leistungen) möglich – hier muss jedoch der Import pro Mitarbeiter einzeln erfolgen.
+    ein [Import der Arbeitszeiten und Leistungen](Mitarbeiterübersicht/Import Arbeitszeiten und Leistungen.md) möglich – hier muss jedoch der Import pro Mitarbeiter einzeln erfolgen.
 
 Wählen Sie Leistungen oder Arbeitszeiten aus.
 
