@@ -15,7 +15,7 @@ Um die webERV Anbindung im KIS nutzen zu können, müssen die erforderlichen Ein
 
 ![Einstellungen Board](<img/Einstellungen Board.png>)
 
-Die Nachrichten werden zwar grundsätzlich den entsprechenden Klienten zugeordnet, allerdings ist es für die Aktivierung der Übernahme von webERV Dokumente zwingend notwendig einen Fallback-Klienten zu hinterlegen. Es besteht außerdem die Möglichkeit, verschiedene Fallback-Klienten für separate Anschriftencodes zu hinterlegen.
+Die Nachrichten werden zwar grundsätzlich den entsprechenden Klienten zugeordnet, allerdings ist es für die Aktivierung der Übernahme von webERV Dokumente zwingend notwendig einen Fallback-Klienten zu hinterlegen. Es besteht außerdem die Möglichkeit, verschiedene Fallback-Klienten für separate Anschriftencodes (=Teilnehmercode laut Bilanz-Programm) zu hinterlegen.
 
 !!! info "Hinweis"
     Der Fallback-Klient kann individuell gewählt werden. Sie können dafür beispielsweise den Kanzleiklienten oder einen speziell für betriebsinterne Angelegenheiten angelegten Klienten verwenden.
@@ -24,7 +24,10 @@ Die Nachrichten werden zwar grundsätzlich den entsprechenden Klienten zugeordne
     
     Ein Dokument ohne Klientenzuordnung kann von jedem Mitarbeiter eingesehen werden, welcher in seiner Rolle die Berechtigung "Dokument anzeigen" besitzt. Somit wird die Sichtbarkeit eingehender ERV-Dokumente mit einem hinterlegten Fallback-Klienten gewährleistet.
 
+    Für das Bilanz-Programm ist die Hinterlegung eines Fallback-Klienten nicht erforderlich!
+
 Die nachträgliche Übernahme kann erst aktiviert werden, sobald ein Fallback-Klient hinterlegt wird. Tragen Sie das gewünschte Datum ein, mit welchem die Dokumente aus dem webERV übernommen werden sollen. Beim Klick auf **Aktivieren** werden die Dokumente in das Kanzlei-Informations-System übernommen.
+
 
 ## webERV Zuweisungen im RZL Kanzlei-Informations-System
 
