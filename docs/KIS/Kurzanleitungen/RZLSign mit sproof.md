@@ -60,6 +60,9 @@ Sie werden anschließend auf die Website von sproof weitergeleitet, wo Ihnen neb
 
 ![sproof Website](<img/sproof Website.png>)
 
+!!! info "Hinweis"
+    Mehrere Dokumente können gesammelt in Form einer Dokumentenmappe zu sproof hochgeladen werden. Diese Funktion erleichtert die Bearbeitung mehrerer Dokumente. Jedes Dokument innerhalb der Dokumentenmappe muss anschließend separat unterschrieben werden.
+
 ### Möglichkeiten in sproof
 #### Selbst unterschreiben
 
