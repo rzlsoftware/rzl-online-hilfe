@@ -1,4 +1,4 @@
-# Anlage freie Lohnart Sachbezug 0% (Null Prozent)
+# Anlage Sachbezug 0% (Null Prozent)
 
 Laut Lohnkontenverordnung muss der Sachbezug auch bei Null Prozent zumindest auf dem Jahreslohnkonto angeführt werden. Auch auf dem Jahreslohnzettel L16 muss ausgewiesen werden, für wie viele Monate ein Sachbezug gewährt wurde. Hier zwei Beispiele, wie der Sachbezug mit null Prozent abgerechnet werden kann.
 

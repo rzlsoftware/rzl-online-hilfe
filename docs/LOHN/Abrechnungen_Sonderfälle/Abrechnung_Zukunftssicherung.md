@@ -1,4 +1,4 @@
-# Abrechnung Zukunftssicherung 
+# Abrechnung Zukunftssicherung bis 2025
 
 Die Abrechnung der Zukunftssicherung kann steuerfrei und sozialversicherungspflichtig, steuerfrei und sozialversicherungsfrei, aber auch steuerpflichtig und sozialversicherungs­pflichtig sein. Die unten angeführte Beschreibung bezieht sich auf die möglichen Abrechnungsvarianten. Die Zuordnungen zur richtigen Abrechnungsvariante müssen vom Anwender selbst vorgenommen werden.
 

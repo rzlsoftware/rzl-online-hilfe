@@ -7,7 +7,7 @@ Die **RZL EBICS-Schnittstelle ist kostenpflichtig** und nur in Verbindung mit de
 Für die Nutzung der RZL EBICS Schnittstelle ist weiters der **RZL Dienst** vom Systembetreuer zu installieren, falls dieser nicht ohnehin bereits installiert wurde (z.B. für HON Next, …). Details siehe **RZL Setup-Handbuch** (aufruf-bar im RZL Programm unter HILFE – HANDBUCH). 
 
 ## Einstellung zur Nutzung
-
+--
 Unter EBICS Teilnehmer ist ein neuer Teilnehmer (1) anzulegen. Die dafür benötigten Zugangsdaten bzw. Informa-tionen erhalten Sie jeweils von den Banken. Speichern Sie den Teilnehmer mithilfe des Buttons. Der Status zeigt ![Plus](<img/Bild7.png>) , welcher symbolisieren soll, dass der Teilnehmer im RZL angelegt wurde und anschließend zur Initialisierung (2) bereits steht.
 
 ![Portale - EBICS](<img/EBICS Teilnehmer.png>)
@@ -106,7 +106,7 @@ Sie können den Abruf für alle freigeschaltenen Teilnehmer oder nur für einen 
 
 Als freigeschaltete Teilnehmer gelten jene mit dem Status ![Hakerl](<img/Bild13.png>)
 
-![Abschnitt CAMT](<img/Bild22.png>)
+![Abschnitt CAMT](<img/CAMT Buttons.png>)
 
 Bei einem erfolgreichen Abruf erscheint folgendes Fenster zum Bestätigen:
 
@@ -114,22 +114,38 @@ Bei einem erfolgreichen Abruf erscheint folgendes Fenster zum Bestätigen:
 
 Beim CAMT Abruf (1) werden immer die aktuellsten bzw. die noch nicht abgerufenen CAMT abgerufen. Damit dies funktioniert, wird ein Flag gesetzt, welcher definiert, welche CAMT noch nicht abgerufen wurden.
 
-Treten Fehler beim manuellen Abruf auf, können Sie im Protokoll Kommunikation (5) die Details zum fehlerhaften Abruf einsehen.
+Treten Fehler beim manuellen Abruf auf, können Sie im Protokoll Kommunikation die Details zum fehlerhaften Abruf einsehen.
 
-Bei einem fehlerhaften automatischen Abruf können Sie dies über das Benachrichtigungszentrum ![Benachrichtigungszentrum](<img/Bild24.png>)  vorab bereits erkennen und ebenso im Protokoll Kommunikation die Details einsehen.
+Bei einem fehlerhaften automatischen Abruf können Sie dies über das Benachrichtigungszentrum ![Benachrichtigungszentrum](<img/Bild24.png>) vorab bereits erkennen und ebenso im Protokoll Kommunikation die Details einsehen.
 
 ![Kommunikationsprotokoll](<img/Bild25.png>)
 
 Beim CAMT Abruf historisch (2) können Sie ein Von – Bis Datum eintragen und jene CAMT zwischen diesem Zeitraum abrufen. Grundsätzlich benötigen Sie den historischen Abruf nicht, da wie erwähnt ein Flag gesetzt wird und die benötigten CAMT Dateien nach Reihenfolge abgerufen werden.
 
+!!! info "Hinweis"
+    Bei einem historischen Abruf wird außerdem ein Abgleich von bereits gebuchten und ungebuchten CAMT-Dateien durchgeführt. Wenn mit einem historischen Abruf bereits gebuchte CAMT Dateien abgerufen werden, werden diese nicht wieder als ungebuchte CAMT eingespielt. Es kann somit also nicht zu einer doppelten Verbuchung kommen.
+
 ![CAMT Abruf historisch](<img/Bild26.png>)
 
-Unter Ungebuchte CAMT Dateien (3) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten noch nicht gebucht wurden.
+Unter Ungebuchte CAMT Dateien (3) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten *noch nicht* gebucht wurden.
 
-![Ungebuchte CAMT Dateien](<img/Bild27.png>)
+![Ungebuchte CAMT Dateien](<img/ungebuchte CAMT.png>)
 
-In dieser Übersicht können Sie ebenso die noch nicht gebuchten CAMT Dateien exportieren oder löschen.
+Unter Gebuchte CAMT Dateien (4) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten bereits gebucht wurden. 
 
+!!! info "Hinweis"
+    Der Aufbau der Ansichten **ungebuchte CAMT Dateien** und **gebuchte CAMT Dateien** ist ident. In beiden Listen finden Sie dieselben Informationen.
+
+In diesen beiden Listen können Sie außerdem die CAMT Dateien exportieren oder löschen.
+
+### PDF-Auszug
+Wurde bei der Bank die Zustellung von PDF-Auszügen bestellt und auch im EBICS Teilnehmer die Option *Abruf inkl. PDF-Auszug* aktiviert, sind in beiden Listen ebenso die PDF Auszüge abrufbar. Sie haben im RZL die Möglichkeit diese zu exportieren, um diese ggf. in die Belegverarbeitung zu importieren.
+
+Es kann vorkommen, dass ein PDF-Auszug keiner CAMT Datei zugeordnet werden kann. Ist das der Fall, können Sie unter **Nicht zugeordnete PDF Auszüge** das PDF zuordnen, um diesen in der Ansicht ungebuchte/gebuchte CAMT Dateien aufrufen zu können. In der linken Hälfte finden Sie die nicht zugeordneten Auszüge vor, welche Sie mithilfe von den Pfeiltasten auf die rechte Hälfte - also zur dazugehörigen CAMT Datei - zuordnen können.
+
+![nicht zugeordnete PDF Auszüge](<img/nicht zugeordnete PDF.png>)
+
+Außerdem gibt es auch hier wieder die Möglichkeit die PDF und CAMT Dateien zu exportieren.
 
 !!! warning "Hinweis"
     Die Verarbeitung von CAMT-Retourdaten in der RZL FIBU/EA Klassik bzw. der RZL FIBU Next bleibt mit Einführung der EBICS Schnittstelle ident. Die Schnittstelle dient lediglich zum Abruf bzw. zum Transport von Bankdaten.
@@ -139,18 +155,64 @@ In dieser Übersicht können Sie ebenso die noch nicht gebuchten CAMT Dateien ex
 ## Zahlungsverkehr
 
 !!! warning "Hinweis"
-    Bevor Sie innerhalb unseres EBICS Moduls mit der Verwendung des Zahlungsverkehrs beginnen, stellen Sie bitte sicher, dass die Klienten – für welche Sie eine Zahlungsdatei erzeugen und versenden – über ein EBICS-fähiges Kundenportal verfügen. Sollte dies nicht vorhanden sein, können Zahlungsdateien, welche mit einem transportberechtigten Teilnehmer versendet werden nicht von Ihrem Klienten freigege-ben werden.
+    Bevor Sie innerhalb unseres EBICS Moduls mit der Verwendung des Zahlungsverkehrs beginnen, stellen Sie bitte sicher, dass die Klienten – für welche Sie eine Zahlungsdatei erzeugen und versenden – über ein EBICS-fähiges Kundenportal verfügen. Sollte dies nicht vorhanden sein, können Zahlungsdateien, welche mit einem transportberechtigten Teilnehmer versendet werden nicht von Ihrem Klienten freigegeben werden.
 
-Bei Erstellung von Bankeinzügen und Überweisungen wird die XML-Datei in das RZL Board gestellt. Im RZL Board finden Sie diese offenen Übermittlungen unter Portale -> EBICS. Die Übermittlung kann hier direkt übermittelt werden, es können die Zahlungsdetails aufgerufen werden und die Übermittlung kann gelöscht werden.
+Bei Erstellung von Bankeinzügen und Überweisungen wird die XML-Datei in das RZL Board gestellt. Im RZL Board finden Sie die zu übermittelten Zahlungsdateien unter **offene EBICS Übermittlungen** unter Portale -> EBICS.
 
 ![Offene EBICS Übermittlungen](<img/Offene EBICS Übermittlungen.png>)
 
-Außerdem können die XML-Dateien exportiert und auch importiert werden.
-Die Liste der gesendeten Übermittlungen können Sie auch unter Portale -> EBICS einsehen. In dieser Liste können Sie die Zahlungsdetails aufrufen und die gesendete EBICS Übermittlung exportieren. 
+Aus dieser Ansicht der offenen Übermittlungen, senden Sie die Zahlungsdateien dann weiter an die Bank. Außerdem können die XML-Dateien exportiert + importiert werden bzw. können Sie sich die Details anzeigen lassen und die Datei löschen.
+
+### Empfängerüberprüfung VoP
+
+!!! warning "Hinweis"
+    Bis zum 9. Oktober 2025 wird im europäischen Zahlungsverkehr eine neue gesetzliche Pflicht eingeführt: die Empfängerüberprüfung (Verification of Payee – VoP), welche Betrug und Fehlüberweisungen bei SEPA-Zahlungen verhindern soll.
+
+Markieren Sie die Zahlungsdatei und klicken Sie auf **Übermitteln**. Folgendes Fenster wird angezeigt:
+
+![Zahlungsdatei übermitteln VoP](<img/Empfängerüberprüfung.png>)
+
+Wählen Sie den EBICS Teilnehmer, von welchem die Zahlungsdatei übermittelt werden soll aus, tragen das Passwort ein und wählen im Drop-Down Menü zur Empfängerüberprüfung die gewünschte Option aus. 
+
+Bei *Standard* und *Opt-Out* handelt es sich um die gleiche Art, nämlich **ohne** Empfängerüberprüfung. Bei einer Übermittlung mit der Art *Opt-In* wird die Empfängerüberprüfung durchgeführt.
+
+Nach Wahl der Art **Opt-In - mit Empfängerüberprüfung** wird die Empfängerüberprüfung durchgeführt und folgendes Fenster im RZL angezeigt:
+
+![Empfängerüberprüfung VoP Ergebnis abrufen](<img/VoP Ergebnis.png>)
+
+Hier können Sie das VoP Ergebnis abrufen. In der Spalte *VoP* wird der Status mittels der Icons dargestellt. Die Definition der Icons befindet sich über dem VoP Ergebnis.
+
+!!! warning "Hinweis"
+    Die VoP Ergebnisse werden **von der Bank übermittelt**. Die Zurverfügungstellung der Ergebnisse kann je nach Bank variieren und mehrere Minuten dauern. Wenn noch keine Ergebnisse zur Verfügung stehen, könnten Sie folgende Fehlermeldung erhalten:
+    ![Fehler Abruf VoP](<img/Fehler VoP.png>)
+    **Bitte um Geduld, versuchen Sie es später erneut.**
+    Sie können anschließend aus dem Fenster aussteigen. Die Zahlungsdatei befindet sich nun nicht mehr in den offenen, sondern in den **gesendeten Übermittlungen**.
+    Sobald die VoP-Ergebnisse vorliegen, können in den gesendeten Übermittlungen die Zahlungen freigegeben oder storniert werden.
+
+Nach Erhalt des Ergebnisses kann dies z.B. so aussehen:
+
+![Ergebnis VoP](<img/VoP Ergebnis mit Übereinstimmung.png>)
+
+Hier entscheiden Sie, ob die Zahlung freigegeben wird oder Sie die Zahlung stornieren.
+
+Stehen die VoP Ergebnisse beim Übermitteln aus den offenen Übermittlungen noch nicht zur Verfügung, ist zum schlussendlichen Freigeben die Liste **gesendete Übermittlungen** aufzurufen. Hier können die VoP Ergebnisse abgerufen und angezeigt werden.
 
 ![Gesendete EBICS Übermittlungen](<img/Gesendete EBICS Übermittlungen.png>)
 
-Mithilfe des Status können Sie überprüfen, ob die Übermittlung erfolgreich gesendet werden konnte bzw. ob dies bereits überwiesen wurde.
+Markieren Sie die gewünschte Zahlungsdatei und öffnen Sie **Empfängerüberprüfung** im Ribbon.
+
+Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **VoP Status** könnnen Sie folgendes erkennen:
+
+| VoP Status                                               | Definition                                                                                               |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![Papier mit Stift](<img/warte auf Aktion.png>)          | "Warte auf Aktion" - Die Zahlungsdatei muss freigegeben/storniert werden                                 |
+| ![graues Hakerl](<img/keine zeichnungsberechtigung.png>) | Die Zahlungsdatei wurde mit einem EBICS Teilnehmer ohne Zeichnungsberechtigung übermittelt               |
+| ![grünes Hakerl](<img/ausgeführt.png>)                   | Die Zahlungsdatei wurde freigegeben                                                                      |
+| ![rotes X](<img/storniert.png>)                          | Die Zahlungsdatei wurde storniert                                                                        |
+| Status ist leer                                          | Die Zahlungsdatei wurde mit der Option *Standard* oder *Opt-Out - ohne Empfängerüberprüfung* übermittelt |
+
+!!! info "Hinweis"
+    Wenn Sie den Mauszeiger auf das jeweilige Icon positionieren, wird ein Tooltip angezeigt, welche die Informationen laut obiger Tabelle anführen.
 
 ## EBICS in der RZL FIBU/FIBU Next/EA und im RZL Lohn
 

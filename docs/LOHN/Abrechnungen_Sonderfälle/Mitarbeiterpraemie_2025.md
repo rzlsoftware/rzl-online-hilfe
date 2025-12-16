@@ -13,12 +13,7 @@ Durch das Budgetbegleitgesetz 2025 hat der Gesetzgeber die Möglichkeit geschaff
 
 Für das Jahr 2025 sieht der Gesetzgeber **keine Befreiung** im Bereich der **Sozialversicherung** sowie der Nebenabgaben **DB/DZ** und **Kommunalsteuer** vor. Die fehlende Befreiung in der Sozialversicherung wird politisch mit der Vermeidung negativer Auswirkungen auf die Pensionshöhe begründet.
 
-Derzeit liegt noch **keine gesetzliche oder behördliche Stellungnahme** zur konkreten lohnsteuerlichen Behandlung der Mitarbeiterprämie 2025 vor. Nach aktueller Einschätzung unsererseits – die auch von einigen Fachexperten geteilt wird – wird es voraussichtlich nicht möglich sein, die auf die Prämie entfallenden Dienstnehmeranteile zur Sozialversicherung bei der Ermittlung der Lohnsteuer-Bemessungsgrundlage abzuziehen (laut [§ 20 Abs. 2 EStG](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Artikel=&Paragraf=20&Anlage=&Uebergangsrecht=)). Das bedeutet, dass sich der Auszahlungsbetrag an die Dienstnehmer nicht um den vollen steuerfreien Maximalbetrag von EUR 1.000,00 erhöht, sondern nur um einen entsprechend geringeren Nettobetrag.
-
-**Bitte beachten Sie:** Aufgrund der derzeit bestehenden Unsicherheit kann es – sollte sich unsere Annahme im Nachhinein als nicht korrekt herausstellen – noch zu einer Anpassung der Abrechnung kommen.
-
-!!! warning "Hinweis"
-    <span style="color: red;">Bislang gibt es seitens des Finanzamts keine eindeutige Stellungnahme dazu, ob die Mitarbeiterprämie ebenfalls unter [§ 20 Abs. 2 EStG](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Artikel=&Paragraf=20&Anlage=&Uebergangsrecht=) fällt.</span>
+Es ist nicht möglich, die auf die Prämie entfallenden Dienstnehmeranteile zur Sozialversicherung bei der Ermittlung der Lohnsteuer-Bemessungsgrundlage abzuziehen (laut [§ 20 Abs. 2 EStG](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Artikel=&Paragraf=20&Anlage=&Uebergangsrecht=)). Das bedeutet, dass sich der Auszahlungsbetrag an die Dienstnehmer nicht um den vollen steuerfreien Maximalbetrag von EUR 1.000,00 erhöht, sondern nur um einen entsprechend geringeren Nettobetrag.
 
 Wie in [§ 124b Z 478 lit. a EStG](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Artikel=&Paragraf=124b&Anlage=&Uebergangsrecht=) festgelegt, erhöht die Mitarbeiterprämie 2025 das Jahressechstel **nicht**.
 
@@ -28,7 +23,7 @@ Die Abrechnung der Mitarbeiterprämie 2025 in der RZL Lohnverrechnung muss über
 
 Die Entscheidung ob im Bereich der Sozialversicherung ein **laufender Bezug** oder eine **Sonderzahlung** vorliegt, muss in jedem Einzelfall sorgfältig abgewogen werden. Dabei kommt es nicht nur auf den Zeithorizont der Auszahlung an, sondern auch auf die Frage, ob mit dem Dienstnehmer eine wiederholte Gewährung der Prämie vereinbart wurde oder nicht.
 
-Zudem ist zu klären, ob aus der bisherigen Auszahlung von Corona-Prämien, Teuerungsprämien oder der „Mitarbeiterprämie alt“ eine wiederkehrende Zahlung abgeleitet werden kann – oder eben nicht.
+Zudem ist zu klären, ob aus der bisherigen Auszahlung von Corona-Prämien, Teuerungsprämien oder Mitarbeiterprämie 2024 eine wiederkehrende Zahlung abgeleitet werden kann – oder eben nicht.
 
 Letztlich spielt es auch eine Rolle, ob der Arbeitgeber beabsichtigt, die Prämie in den kommenden Jahren regelmäßig auszuzahlen – und sich damit auf eine derzeit unklare Gesetzeslage für 2026 einlässt.
 
@@ -84,9 +79,6 @@ Im L16 (Jahreslohnzettel) wird über die Kennzahl 226 jener Teil der SV-Dienstne
 ![Image](img/image625.png){width="600"}
 
 ![Image](img/image626.png){width="600"}
-
-!!! warning "Hinweis"
-    Zum Zeitpunkt der Implementierung der Mitarbeiterprämie lag noch kein neues L16 Formular vor. Aus diesem Grund wird der Betrag vorläufig unter „Sonstige steuerfreie Bezüge“ im L16 ausgewiesen. Sowohl der Ausdruck des L16 als auch die elektronische Übermittlung wurden unsererseits mit entsprechenden Warnhinweisen abgesichert. Die Weitergabe des L16-Formulars bei Auszahlung einer solchen Prämie ist zum aktuellen Zeitpunkt nicht zu empfehlen, da eine eindeutige gesetzliche oder technische Umsetzung noch aussteht.
 
 **Beispiel 2**
 
