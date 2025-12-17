@@ -106,7 +106,7 @@ Bei fallweise beschäftigten Dienstnehmern sind am Kalenderblatt die Tage der fa
 
 Die Option *L16 monatlich* ist voreingestellt und ermöglicht die monatliche Übermittlung des L16. Die *BV-Beitragspflicht* und der *Beginn der BV-Pflicht* werden automatisch ermittelt.
 
-Wenn die einzelnen Tage unterschiedlich entlohnt werden, müssen die Bezüge pro Tag durch Anwahl der Schaltfläche *abw. Verteilung der Bezüge* im Detail erfasst werden. Sie haben hier ebenfalls die Möglichkeit, eine täglich vereinbarte Arbeitszeit für die Anmeldung zu erfassen.
+Wenn die einzelnen Tage unterschiedlich entlohnt werden, müssen die Bezüge pro Tag durch Anwahl der Schaltfläche *abw. Verteilung Bezüge / Stunden* im Detail erfasst werden. Sie haben hier ebenfalls die Möglichkeit, eine täglich vereinbarte Arbeitszeit für die Anmeldung zu erfassen.
 
 ![Image](img/image150.png)
 
