@@ -300,7 +300,38 @@ Die weiteren Schritte in der FIBU Next sind ident mit der bisherigen Vorgangswei
 
 Sobald ein Stapel im FIBU Next geöffnet wird, werden die Auszüge in den ungebuchten CAMT Dateien ausgeblendet (noch nicht gelöscht). Beim Verwerfen oder Löschen eines Stapels werden die Auszüge wieder zurück in die ungebuchten CAMT Dateien gestellt. Erst wenn der Stapel finalisiert wird, werden die Daten aus den ungebuchten CAMT Dateien gelöscht.
 
-Über
+### Überweisungen
+
+Verwenden Sie das EBICS Modul und hat Ihr Kunde ein EBICS fähiges Kundenportal, können Sie direkt aus der FIBU Next die Überweisungsdateien erstellen und aus dem EBICS Modul überweisen bzw. die Überweisung Ihrem Kunden zum Freigeben in sein Bankprogramm stellen.
+
+!!! warning "Hinweis"
+    Bevor Sie innerhalb unseres EBICS Moduls mit der Verwendung des Zahlungsverkehrs beginnen, stellen Sie bitte sicher, dass die Klienten – für welche Sie eine Zahlungsdatei erzeugen und versenden – über ein **EBICS-fähiges Kundenportal** verfügen. Sollte dies nicht vorhanden sein, können Zahlungsdateien, welche mit einem transportberechtigten Teilnehmer versendet werden, **nicht** von Ihrem Klienten freigegeben werden.
+
+!!! info "Hinweis"
+    Die Erstellung von Überweisungen in FIBU Next bleibt mit Einführung der EBICS Schnittstelle ident. Die Schnittstelle dient lediglich zum Transport von Bankdaten.
+
+Zuerst müssen Sie über *ZV/Retourdaten → FIBU Bankverbindungen* beim jeweiligen Bankkonto definieren, dass Überweisungen über das EBICS-Portal durchgeführt werden sollen. Die Option finden Sie im Reiter *Überweisungen*.
+
+![Ziel EBICS](<img/Bankverbindung Next.png>)
+
+Sie können daraufhin einen *neuen Überweisungslauf* starten. Das Ziel ist bereits auf **RZL EBICS Portal** vordefiniert. Etwaige Einstellungen für den Überweisungslauf können getroffen werden und dann können Sie diesen starten.
+
+Im Überweisungslauf wählen Sie die entsprechenden Kreditoren bzw. die zu überweisenden offenen Posten und klicken auf *Erstellen*.
+
+![Überweisungslauf Erstellen](<img/Überweisung erstellen Next.png>)
+
+Mit *Erstellen* wird die Zahlungsdatei in die offenen EBICS Übermittlungen gestellt und folgende Meldung erscheint:
+
+![erfolgreich Next](img/erfolgreich%20next.png)
+
+Von dort aus wechseln Sie zu den offenen EBICS Übermittlungen.
+
+
+
+
+
+
+
 
 ## EBICS im RZL Lohn
 
