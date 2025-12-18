@@ -212,11 +212,12 @@ Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **
 !!! info "Hinweis"
     Wenn Sie den Mauszeiger auf das jeweilige Icon positionieren, wird ein Tooltip angezeigt, welche die Informationen laut obiger Tabelle anführen.
 
-## EBICS in der RZL FIBU/EA und FIBU Next
+## EBICS in der RZL FIBU/EA Klassik
 
-Die abgerufenen CAMT53-Dateien werden durch den Abruf in der RZL Datenbank gespeichert und können automatisch in der RZL FIBU bzw. der RZL FIBU Next eingespielt werden. Somit fällt der manuelle Abruf, die Speicherung der Dateien bzw. das händische Einspielen der Retourdaten weg.
+Die abgerufenen CAMT53-Dateien werden durch den Abruf in der RZL Datenbank gespeichert und können automatisch in der RZL FIBU/EA Klassik eingespielt werden. Somit fällt der manuelle Abruf, die Speicherung der Dateien bzw. das händische Einspielen der Retourdaten weg.
 
-### Verarbeitung CAMT FIBU/EA Klassik
+### Verarbeitung CAMT
+
 Bei den jeweiligen Klienten wird die Schnittstelle aktiviert. Unter *Stamm → Weitere Stammdaten → Bankkonten* ist in den Stammdaten des jeweiligen Bankkontos die Option **EBICS-Portal für CAMT** zu setzen.
 
 !!! info "Hinweis"
@@ -229,19 +230,7 @@ Die weiteren Schritte sind ident mit der bisherigen Vorgangsweise bei der Verarb
 
 ![Import Ordner festlegen](<img/Ordner Import CAMT.png>)
 
-### Verarbeitung CAMT FIBU Next
-
-Unter *Stammdaten → Zahlungsverkehr → FIBU Bankverbindungen* ist in den Stammdaten des jeweiligen Bankkontos beim Klienten die Quelle EBICS zu setzen.
-
-![FIBU Next Bankverbindung Quelle](<img/Next Bankverbindung.png>)
-
-Die weiteren Schritte in der FIBU Next sind ident mit der bisherigen Vorgangsweise bei der Verarbeitung von Retourdaten.
-
-![Kontoauszüge hereinspielen Next](<img/Next EBICS Camt einspielen.png>)
-
-Sobald ein Stapel im FIBU Next geöffnet wird, werden die Auszüge in den ungebuchten CAMT Dateien ausgeblendet (noch nicht gelöscht). Beim Verwerfen oder Löschen eines Stapels werden die Auszüge wieder zurück in die ungebuchten CAMT Dateien gestellt. Erst wenn der Stapel finalisiert wird, werden die Daten aus den ungebuchten CAMT Dateien gelöscht.
-
-### Überweisungen und Bankeinzüge mit EBICS
+### Überweisungen und Bankeinzüge
 
 Verwenden Sie das EBICS Modul und hat Ihr Kunde ein EBICS fähiges Kundenportal, können Sie direkt aus der FIBU/EA Rechnung Klassik die Überweisungs- und Bankeinzugsdateien erstellen und aus dem EBICS Modul im RZL Board überweisen bzw. die Überweisung Ihrem Kunden zum Freigeben in sein Bankprogramm stellen.
 
@@ -294,6 +283,24 @@ Nachdem alle Debitoren zum Einziehen gewählt wurden, erhalten Sie folgende Meld
 ![Daten erfolgreich übergeben](<img/erfolgreich übergeben.png>)
 
 Die nächsten Handlungsschritte sind im Kapitel Zahlungsverkehr beschrieben.
+
+## EBICS in der RZL FIBU Next
+
+Die abgerufenen CAMT53-Dateien werden durch den Abruf in der RZL Datenbank gespeichert und können automatisch in der RZL FIBU Next eingespielt werden. Somit fällt der manuelle Abruf, die Speicherung der Dateien bzw. das händische Einspielen der Retourdaten weg.
+
+### Verarbeitung CAMT
+
+Unter *Stammdaten → Zahlungsverkehr → FIBU Bankverbindungen* ist in den Stammdaten des jeweiligen Bankkontos beim Klienten die Quelle EBICS zu setzen.
+
+![FIBU Next Bankverbindung Quelle](<img/Next Bankverbindung.png>)
+
+Die weiteren Schritte in der FIBU Next sind ident mit der bisherigen Vorgangsweise bei der Verarbeitung von Retourdaten.
+
+![Kontoauszüge hereinspielen Next](<img/Next EBICS Camt einspielen.png>)
+
+Sobald ein Stapel im FIBU Next geöffnet wird, werden die Auszüge in den ungebuchten CAMT Dateien ausgeblendet (noch nicht gelöscht). Beim Verwerfen oder Löschen eines Stapels werden die Auszüge wieder zurück in die ungebuchten CAMT Dateien gestellt. Erst wenn der Stapel finalisiert wird, werden die Daten aus den ungebuchten CAMT Dateien gelöscht.
+
+Über
 
 ## EBICS im RZL Lohn
 
