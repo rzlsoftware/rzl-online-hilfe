@@ -45,10 +45,9 @@ Wurde der EBICS Teilnehmer seitens der Bank bestätigt, wird dieser mithilfe von
 
 ![Warndreieck](<img/Bild38.png>)        Teilnehmer wurde deaktiviert
 
+Das *Deaktivieren* von EBICS Teilnehmern führt zu einer sofortigen Sperre bei der Bank. Der Teilnehmer kann also **nicht** mehr verwendet werden. Wird der Teilnehmer deaktiviert, ist die betroffene Bank zu kontaktieren.
 
-Das Deaktivieren (4) von EBICS Teilnehmern führt zu einer sofortigen Sperre bei der Bank. Der Teilnehmer kann also **nicht** mehr verwendet werden. Wird der Teilnehmer deaktiviert, ist die betroffene Bank zu kontaktieren.
-
-![Teilnehmer deaktivieren](<img/Bild17.png>)
+![Teilnehmer deaktivieren](<img/Teilnehmer deaktivieren.png>)
 
 **EBICS-Teilnehmer deaktivieren vs. löschen**
 
@@ -64,17 +63,17 @@ Mit dieser Berechtigung können CAMT-Auszüge über die EBICS Schnittstelle abge
 
 **Zeichnungsberechtigung**
 
-Mit dieser Berechtigung kann zusätzlich über die EBICS Schnittstelle die Freigabe der in der Zah-lungsverkehrsdatei enthaltenen Überweisungen vorgenommen werden. Dafür ist grundsätzlich aus Sicherheitsgründen die Eingabe des Passwortes für den jeweiligen Teilnehmer erforderlich. In der EBICS Schnittstelle besteht die Möglichkeit dieses Passwort lokal zu speichern, was aber aus den oben genannten Sicherheitsgründen nicht empfohlen wird.
+Mit dieser Berechtigung kann zusätzlich über die EBICS Schnittstelle die Freigabe der in der Zah-lungsverkehrsdatei enthaltenen Überweisungen vorgenommen werden. Dafür ist grundsätzlich aus Sicherheitsgründen die Eingabe des Passwortes für den jeweiligen Teilnehmer erforderlich. In der EBICS Schnittstelle besteht die Möglichkeit dieses Passwort lokal zu speichern, was aber aus den oben genannten Sicherheitsgründen nicht empfohlen wird.<>
 
 !!! info "Tipp"
-    Mithilfe Export Teilnehmerberechtigungen können Sie sich ein TXT File exportieren, welches Informationen über Berechtigungen je ausgewähltem EBICS Teilnehmer beinhaltet.
-    ![Export Teilnehmerberechtigungen](<img/Export Teilnehmerberechtigungen.png>)
+    Über *Berechtigungen anzeigen* erhalten Sie eine Liste, die die Berechtigungen je Bankverbindung des ausgewählten EBICS Teilnehmer anzeigt. Mithilfe von vordefinierten Filtern können Sie nach konkreten Berechtigungen suchen.
+    ![Export Teilnehmerberechtigungen](<img/Berechtigungen anzeigen.png>)
 
 ## Passwort Speicherung
 
-Für den *automatischen* CAMT Abruf kann das Passwort über den RZL Dienst gespeichert werden (5). Dies ist jedoch nur bei Teilnehmern möglich, welche eine Transport- oder Leseberechtigung haben und somit keine Zeichnungsberechtigung.
+Für den *automatischen* CAMT Abruf kann das Passwort über den RZL Dienst gespeichert werden. Dies ist jedoch nur bei Teilnehmern möglich, welche eine Transport- oder Leseberechtigung haben und somit keine Zeichnungsberechtigung.
 
-![PW speichern RZL Dienst](<img/Bild18.png>)
+![PW speichern RZL Dienst](<img/Passwort speichern Dienst.png>)
 
 ![Hinweis Speicherung](<img/Bild19.png>)
 
@@ -86,7 +85,6 @@ Zusätzlich zum Speichern des Passwortes für den automatischen CAMT Abruf, kön
 
 !!! warning "Hinweis"
     Wird das Passwort lokal gespeichert und liegt für den Teilnehmer eine *Zeichnungsberechtigung* vor, werden *Zahlungen in der Zahlungsverkehrsdatei automatisch elektronisch unterschrieben* und durchgeführt! Ob eine Zeichnungsberechtigung vorliegt sehen Sie in der Teilnehmerverwaltung in der Spalte *Zeichnungsberechtigt*.
-
 
 ## CAMT-Abruf
 
@@ -100,19 +98,19 @@ Wurde die Bankverbindung in den Stammdaten (Personen- oder Firmendaten) eingetra
 
 Den automatische CAMT Abruf können Sie aktivieren bzw. falls dieser nicht erwünscht ist deaktivieren. Außerdem sehen Sie hier, für wie viele Teilnehmer der automatische Abruf aktiviert wurde, für wie viele die Aktivierung möglich wäre und für wie viele die Aktivierung nicht möglich ist.
 
-![EBICS Einstellungen](<img/Bild21.png>)
+![EBICS Einstellungen](<img/Einstellungen autom camt.png>)
 
 Sie können den Abruf für alle freigeschaltenen Teilnehmer oder nur für einen (dieser muss markiert werden) durchführen. 
 
 Als freigeschaltete Teilnehmer gelten jene mit dem Status ![Hakerl](<img/Bild13.png>)
 
-![Abschnitt CAMT](<img/CAMT Buttons.png>)
+![Abschnitt CAMT](<img/Bereich CAMT.png>)
 
 Bei einem erfolgreichen Abruf erscheint folgendes Fenster zum Bestätigen:
 
 ![CAMT Abruf Status](<img/Bild23.png>)
 
-Beim CAMT Abruf (1) werden immer die aktuellsten bzw. die noch nicht abgerufenen CAMT abgerufen. Damit dies funktioniert, wird ein Flag gesetzt, welcher definiert, welche CAMT noch nicht abgerufen wurden.
+Beim CAMT **Abruf** (1) werden immer die aktuellsten bzw. die noch nicht abgerufenen CAMT abgerufen. Damit dies funktioniert, wird ein Flag gesetzt, welcher definiert, welche CAMT noch nicht abgerufen wurden.
 
 Treten Fehler beim manuellen Abruf auf, können Sie im Protokoll Kommunikation die Details zum fehlerhaften Abruf einsehen.
 
@@ -120,23 +118,24 @@ Bei einem fehlerhaften automatischen Abruf können Sie dies über das Benachrich
 
 ![Kommunikationsprotokoll](<img/Bild25.png>)
 
-Beim CAMT Abruf historisch (2) können Sie ein Von – Bis Datum eintragen und jene CAMT zwischen diesem Zeitraum abrufen. Grundsätzlich benötigen Sie den historischen Abruf nicht, da wie erwähnt ein Flag gesetzt wird und die benötigten CAMT Dateien nach Reihenfolge abgerufen werden.
+Beim CAMT **Abruf historisch** (2) können Sie ein Von – Bis Datum eintragen und jene CAMT zwischen diesem Zeitraum abrufen. Grundsätzlich benötigen Sie den historischen Abruf nicht, da wie erwähnt ein Flag gesetzt wird und die benötigten CAMT Dateien nach Reihenfolge abgerufen werden.
 
 !!! info "Hinweis"
     Bei einem historischen Abruf wird außerdem ein Abgleich von bereits gebuchten und ungebuchten CAMT-Dateien durchgeführt. Wenn mit einem historischen Abruf bereits gebuchte CAMT Dateien abgerufen werden, werden diese nicht wieder als ungebuchte CAMT eingespielt. Es kann somit also nicht zu einer doppelten Verbuchung kommen.
 
 ![CAMT Abruf historisch](<img/Bild26.png>)
 
-Unter Ungebuchte CAMT Dateien (3) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten *noch nicht* gebucht wurden.
+Unter **Ungebuchte CAMT Dateien** (3) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten *noch nicht* gebucht wurden.
 
 ![Ungebuchte CAMT Dateien](<img/ungebuchte CAMT.png>)
 
-Unter Gebuchte CAMT Dateien (4) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten bereits gebucht wurden. 
+Unter **Verarbeitete CAMT Dateien** (4) finden Sie eine Übersicht, welche CAMT Dateien je Bankverbindung und zugeordneten Klienten bereits gebucht wurden. 
 
-!!! info "Hinweis"
-    Der Aufbau der Ansichten **ungebuchte CAMT Dateien** und **gebuchte CAMT Dateien** ist ident. In beiden Listen finden Sie dieselben Informationen.
+!!! warning "Hinweis"
+    Die unter *verarbeitete CAMT Dateien* befindlichen CAMT Dateien sind jene, welche bereits in die FIBU/FIBU Next hereingespielt wurden. Ob diese tatsächlich gebucht wurden, kann nicht geprüft werden.
+    Falls sich CAMT Daten in den verarbeiteten CAMT Dateien befinden, diese allerdings noch nicht gebucht wurden, können Sie diese aus dieser Ansicht löschen und einen CAMT Abruf (historisch) durchführen. Die abgerufenen CAMT landen somit in die ungebuchten CAMT Dateien und können in die FIBU/FIBU Next hereingespielt werden.
 
-In diesen beiden Listen können Sie außerdem die CAMT Dateien exportieren oder löschen.
+In diesen beiden Listen können Sie außerdem die CAMT Dateien exportieren oder löschen, sowie die PDF-Auszüge einzeln oder gesammelt exportieren.
 
 ### PDF-Auszug
 Wurde bei der Bank die Zustellung von PDF-Auszügen bestellt und auch im EBICS Teilnehmer die Option *Abruf inkl. PDF-Auszug* aktiviert, sind in beiden Listen ebenso die PDF Auszüge abrufbar. Sie haben im RZL die Möglichkeit diese zu exportieren, um diese ggf. in die Belegverarbeitung zu importieren.
@@ -150,7 +149,6 @@ Außerdem gibt es auch hier wieder die Möglichkeit die PDF und CAMT Dateien zu 
 !!! warning "Hinweis"
     Die Verarbeitung von CAMT-Retourdaten in der RZL FIBU/EA Klassik bzw. der RZL FIBU Next bleibt mit Einführung der EBICS Schnittstelle ident. Die Schnittstelle dient lediglich zum Abruf bzw. zum Transport von Bankdaten.
     Die bisherige Kommunikation über Online-Services der Bank (manueller Abruf CAMT53 oder .csv-Dateien ohne bisherige MBS-Software) ist weiterhin möglich. Detailinformationen erhalten Sie bei den jeweiligen Bankinstituten.
-
 
 ## Zahlungsverkehr
 
@@ -214,11 +212,90 @@ Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **
 !!! info "Hinweis"
     Wenn Sie den Mauszeiger auf das jeweilige Icon positionieren, wird ein Tooltip angezeigt, welche die Informationen laut obiger Tabelle anführen.
 
-## EBICS in der RZL FIBU/FIBU Next/EA und im RZL Lohn
+## EBICS in der RZL FIBU/EA und FIBU Next
 
-Die nötigen Einstellungen und die Bedienung von CAMT Retourdaten und des Zahlungsverkehrs mit EBICS in der RZL FIBU/FIBU Next/EA entnehmen Sie bitte der Kurzanleitung [*EBICS Schnittstelle RZL Finanzbuchhaltung*](https://rzlsoftware.at/fileadmin/user_upload/PDF_Kurzanleitungen/BOARD/BOARD_EBICS_Schnittstelle.pdf).
+Die abgerufenen CAMT53-Dateien werden durch den Abruf in der RZL Datenbank gespeichert und können automatisch in der RZL FIBU bzw. der RZL FIBU Next eingespielt werden. Somit fällt der manuelle Abruf, die Speicherung der Dateien bzw. das händische Einspielen der Retourdaten weg.
 
-Die nötigen Einstellungen und die Bedienung des Zahlungsverkehres mit EBICS im RZL Lohn entnehmen Sie bitte der Kurzanleitung *EBICS Schnittstelle im RZL Lohnverrechnungsprogramm*.
+### Verarbeitung CAMT FIBU/EA Klassik
+Bei den jeweiligen Klienten wird die Schnittstelle aktiviert. Unter *Stamm → Weitere Stammdaten → Bankkonten* ist in den Stammdaten des jeweiligen Bankkontos die Option **EBICS-Portal für CAMT** zu setzen.
+
+!!! info "Hinweis"
+    Die Verarbeitung von CAMT-Retourdaten in der RZL FIBU/EA Klassik bzw. der RZL FIBU Next bleibt mit Einführung der EBICS Schnittstelle ident. Die Schnittstelle dient lediglich zum Abruf bzw. zum Transport von Bankdaten.
+    Die bisherige Kommunikation über Online-Services der Bank (manueller Abruf CAMT53 oder .csv-Dateien ohne bisherige MBS-Software) ist weiterhin möglich. Detailinformationen erhalten Sie bei den jeweiligen Bankinstituten.
+
+![Bankverbindung FIBU/EA](<img/Bankverbindung FIBU.png>)
+
+Die weiteren Schritte sind ident mit der bisherigen Vorgangsweise bei der Verarbeitung von Retourdaten. Über *Bearbeiten → Zahlungsverkehr SEPA bzw. EBICS → Verarbeitung CAMT Retourdaten* werden die CAMT-Daten abgeholt und in einen Zwischenordner (bisher bereits hinterlegter Datenordner) zwischengesichert.
+
+![Import Ordner festlegen](<img/Ordner Import CAMT.png>)
+
+### Verarbeitung CAMT FIBU Next
+
+Unter *Stammdaten → Zahlungsverkehr → FIBU Bankverbindungen* ist in den Stammdaten des jeweiligen Bankkontos beim Klienten die Quelle EBICS zu setzen.
+
+![FIBU Next Bankverbindung Quelle](<img/Next Bankverbindung.png>)
+
+Die weiteren Schritte in der FIBU Next sind ident mit der bisherigen Vorgangsweise bei der Verarbeitung von Retourdaten.
+
+![Kontoauszüge hereinspielen Next](<img/Next EBICS Camt einspielen.png>)
+
+Sobald ein Stapel im FIBU Next geöffnet wird, werden die Auszüge in den ungebuchten CAMT Dateien ausgeblendet (noch nicht gelöscht). Beim Verwerfen oder Löschen eines Stapels werden die Auszüge wieder zurück in die ungebuchten CAMT Dateien gestellt. Erst wenn der Stapel finalisiert wird, werden die Daten aus den ungebuchten CAMT Dateien gelöscht.
+
+### Überweisungen und Bankeinzüge mit EBICS
+
+Verwenden Sie das EBICS Modul und hat Ihr Kunde ein EBICS fähiges Kundenportal, können Sie direkt aus der FIBU/EA Rechnung Klassik die Überweisungs- und Bankeinzugsdateien erstellen und aus dem EBICS Modul im RZL Board überweisen bzw. die Überweisung Ihrem Kunden zum Freigeben in sein Bankprogramm stellen.
+
+!!! warning "Hinweis"
+    Bevor Sie innerhalb unseres EBICS Moduls mit der Verwendung des Zahlungsverkehrs beginnen, stellen Sie bitte sicher, dass die Klienten – für welche Sie eine Zahlungsdatei erzeugen und versenden – über ein **EBICS-fähiges Kundenportal** verfügen. Sollte dies nicht vorhanden sein, können Zahlungsdateien, welche mit einem transportberechtigten Teilnehmer versendet werden, **nicht** von Ihrem Klienten freigegeben werden.
+
+!!! info "Hinweis"
+    Die Erstellung der Überweisungen/Bankeinzüge in RZL FIBU/EA Klassik bleibt mit Einführung der EBICS Schnittstelle ident. Die Schnittstelle dient lediglich zum Transport von Bankdaten.
+
+Zuerst müssen Sie über *Stamm → Weitere Stammdaten → Bankkonten* bei dem jeweiligen Bankkonto definieren, dass die Überweisungen/Bankeinzüge über das EBICS-Portal durchgeführt werden können.
+
+![Bankverbindung FIBU Klassik](<img/Bankverbindung ÜW Klassik.png>)
+
+#### Überweisungen
+
+Steigen Sie über *Bearbeiten → Zahlungsverkehr EBICS → Überweisungen → SEPA Raum* ein.
+Im Reiter Grundeinstellungen können Sie definieren, ob das Protokoll sofort nach der Erstellung gedruckt wird.
+
+![Protokoll drucken ÜW](<img/Protokoll ÜW.png>)
+
+Im Reiter **Daten erstellen** definieren Sie die Einstellungen für die Überweisungen.
+
+![Daten übergeben](<img/Daten übergeben EBICS.png>)
+
+Mit Klick auf die Schaltfläche Daten Übergeben öffnen sich nach der Reihe die Kreditoren, wo offene Posten vorhanden sind.
+
+![OP Fenster nach Übergeben](<img/OP nach ÜW.png>)
+
+Nachdem alle Kreditoren zum Überweisen gewählt wurden, erhalten Sie folgende Meldung:
+
+![erfolgreich Meldung](<img/ÜW erfolgreich übergeben.png>)
+
+#### Bankeinzüge
+
+Steigen Sie über *Bearbeiten → Zahlungsverkehr EBICS → Bankeinzüge → SEPA Raum* ein.
+Im Reiter Grundeinstellungen können Sie definieren, ob das Protokoll sofort nach der Erstellung gedruckt wird.
+
+![Protokoll Bankeinzüge](<img/Protokoll Bankeinz.png>)
+
+Im Reiter **Daten erstellen** definieren Sie die Einstellungen für die Bankeinzüge.
+
+![Daten erstellen Bankeinz](<img/Daten erstellen Bankeinz.png>)
+
+Mit Klick auf die Schaltfläche *Daten übergeben* öffnen sich nach der Reihe die Debitoren, wo offene Posten vorhanden sind.
+
+![Bankeinzug OP Fenster](<img/Bankeinzug OP wählen.png>)
+
+Nachdem alle Debitoren zum Einziehen gewählt wurden, erhalten Sie folgende Meldung:
+
+![Daten erfolgreich übergeben](<img/erfolgreich übergeben.png>)
+
+Die nächsten Handlungsschritte sind im Kapitel Zahlungsverkehr beschrieben.
+
+## EBICS im RZL Lohn
 
 
 ## Protokolle
@@ -238,3 +315,4 @@ Die EBICS-Schnittstelle ist an das RZL BOARD geknüpft. Um die Verwaltungs- bzw.
 ![EBICS Rollen](<img/EBICS Rollen.png>)
 
 Zudem befinden sich üblicherweise alle Berechtigungen betreffend EBICS in der Rolle *Alle Berechtigungen*. Die Rolle *RZL-Administrator* verfügt allerdings nur über bestimmte ausgewählte Berechtigungen betreffend EBICS.
+
