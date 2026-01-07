@@ -282,8 +282,6 @@ Nachdem alle Debitoren zum Einziehen gewählt wurden, erhalten Sie folgende Meld
 
 ![Daten erfolgreich übergeben](<img/erfolgreich übergeben.png>)
 
-Die nächsten Handlungsschritte sind im Kapitel Zahlungsverkehr beschrieben.
-
 ## EBICS in der RZL FIBU Next
 
 Die abgerufenen CAMT53-Dateien werden durch den Abruf in der RZL Datenbank gespeichert und können automatisch in der RZL FIBU Next eingespielt werden. Somit fällt der manuelle Abruf, die Speicherung der Dateien bzw. das händische Einspielen der Retourdaten weg.
@@ -326,15 +324,28 @@ Mit *Erstellen* wird die Zahlungsdatei in die offenen EBICS Übermittlungen gest
 
 Von dort aus wechseln Sie zu den offenen EBICS Übermittlungen.
 
-
-
-
-
-
-
-
 ## EBICS im RZL Lohn
 
+Mit dieser Version wurde unter *Bearbeiten / Electronic Banking (EBICS)* ein neuer Menüpunkt für den Zahlungsverkehr integriert.
+
+![Menüpunkt EBICS Lohn](<img/Menüpunkt Lohn.png>)
+
+Wie im bisherigen Menüpunkt, erfolgt eine Unterteilung in die Bereiche Abrechnungen, Abgaben, Exekutionsbeträ-ge, Überweisungen an sonstige Behörden und händisch erstellte Überweisungen.
+
+Der Dialog zur Erstellung der Überweisungen an die Dienstnehmer, hat sich im Vergleich zur bisherigen Vorgehensweise praktisch gar nicht verändert. Es müssen wie bisher das Überweisungsmonat, die betroffenen Dienstnehmer, die gewünschte Bankverbindung und ein Durchführungsdatum gewählt werden.
+Die Abkehr vom echten Dateiversand im EBICS-System, erfordert es nun nicht mehr einen Speicherort und einen Dateinamen für die Überweisungsdatei zu vergeben. Das entsprechende Feld für den Dateipfad fehlt daher im neuen EBICS Überweisungsdialog.
+Die von den Banken geforderten xml-Standards (Rulebooks), werden im Zuge der laufenden RZL–Updates auf die neue Standardversion umgestellt. Es wird daher weiterhin nur im Ausnahmefall nötig sein, eine benutzerdefinierte Auswahl zu treffen.
+
+![Daten übergeben](<img/Dialogfeld Lohn_Daten übergeben.png>)
+
+Mit Hilfe der Schaltfläche Daten übergeben werden die Daten an das RZL Board übertragen. Wie bisher können Sie ein Protokoll zur Überweisungsdatei ausdrucken oder über den RZL PDF Manager / Drucker abspeichern.
+
+![Protokoll Lohn](<img/Protokoll Lohn.png>)
+
+Unverändert bleibt, dass nach dem erstmaligen Erstellen der Überweisungsdaten ein Sperrvermerk erzeugt wird, um eine Doppelüberweisung zu verhindern. Falls Sie eine Datei nochmals erstellen müssen, so kann dieser Sperrvermerk wie bisher über *Bearbeiten / Repair / Überweisungen / Überweisung Abrechnung zurücksetzen* aufgehoben werden.
+
+!!! info "Hinweis"
+    Bei der Überweisung über den neuen Menüpunkt Electronic Banking (EBICS) muss zusätzlich die bereits ins RZL Board übergebene Datei, **manuell** aus den offenen EBICS Übermittlungen gelöscht werden. Nur so können Sie eine Doppelüberweisung ausschließen.
 
 ## Protokolle
 
