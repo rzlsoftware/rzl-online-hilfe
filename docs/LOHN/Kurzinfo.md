@@ -20,3 +20,14 @@ Der Entwurf des Antrags sieht weiters vor, dass Feiertagsarbeitsentgelte ab 01.0
 
 !!! warning "Hinweis"
     Der Beschluss des Antrags steht derzeit noch aus.
+
+## Erhöhung des WF in Wien
+
+Ab 01.01.2026 kommt es bei Beschäftigten im Bundesland Wien zu einer Anhebung des Wohnbauförderungsbeitrages (WF) auf **1,50 %**.
+
+Für die Abrechnung des erhöhten WF wird im Tarifsystem der ELDA ein Zuschlag sowie ein Abschlag geschaffen:
+
+- **Z14** Zuschlag zum WF in Wien
+- **A24** WF-Entfall NeuFög Ergänzung Wien
+
+Bis ELDA die Schnittstelle angepasst hat, ist leider eine Abrechnung des erhöhten WFs noch **nicht möglich**.
