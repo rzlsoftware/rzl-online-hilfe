@@ -1,14 +1,14 @@
 # EBICS Schnittstelle
 
-Bei EBICS (Electronic Banking Internet Communication Standard) handelt es sich um einen internetbasierten Kom-munikationsstandard zwischen Unternehmen und Banken/Sparkassen, der neben dem gesicherten Datenaus-tausch auch die Autorisierung bzw. die Freigabe von (Zahlungs-)Aufträgen an die Bank standardisiert.
+Bei EBICS (Electronic Banking Internet Communication Standard) handelt es sich um einen internetbasierten Kommunikationsstandard zwischen Unternehmen und Banken/Sparkassen, der neben dem gesicherten Datenaustausch auch die Autorisierung bzw. die Freigabe von (Zahlungs-)Aufträgen an die Bank standardisiert.
 Um den Zahlungsverkehr noch effizienter zu gestalten, wurde dieses Tool in RZL integriert. Die Einstellungen und sonstigen Funktionen finden Sie im RZL Board unter Portale.
 
 Die **RZL EBICS-Schnittstelle ist kostenpflichtig** und nur in Verbindung mit dem **RZL Board Basis-Programm**, der **RZL FIBU Klassik**, der **RZL EA Klassik**, der **RZL FIBU Next** bzw. **RZL LOHN** nutzbar. Des Weiteren möchten wir darauf hinweisen, dass für die Nutzung der verschiedenen Funktionen auch das **RZL FIBU Modul Verarbeitung Retourdaten** (für den Abruf von CAMT-Daten) und das **RZL FIBU Modul Zahlungsverkehr** (Überweisungen) notwendig ist, welche in der RZL FIBU/EA Lizenz von Steuerkanzleien umfasst sind. In den Firmenversionen sind die beiden FIBU/EA Module optional zu erwerben.
 Für die Nutzung der RZL EBICS Schnittstelle ist weiters der **RZL Dienst** vom Systembetreuer zu installieren, falls dieser nicht ohnehin bereits installiert wurde (z.B. für HON Next, …). Details siehe **RZL Setup-Handbuch** (aufruf-bar im RZL Programm unter HILFE – HANDBUCH). 
 
 ## Einstellung zur Nutzung
---
-Unter EBICS Teilnehmer ist ein neuer Teilnehmer (1) anzulegen. Die dafür benötigten Zugangsdaten bzw. Informa-tionen erhalten Sie jeweils von den Banken. Speichern Sie den Teilnehmer mithilfe des Buttons. Der Status zeigt ![Plus](<img/Bild7.png>) , welcher symbolisieren soll, dass der Teilnehmer im RZL angelegt wurde und anschließend zur Initialisierung (2) bereits steht.
+
+Unter EBICS Teilnehmer ist ein neuer Teilnehmer (1) anzulegen. Die dafür benötigten Zugangsdaten bzw. Informationen erhalten Sie jeweils von den Banken. Speichern Sie den Teilnehmer mithilfe des Buttons. Der Status zeigt ![Plus](<img/Bild7.png>), welcher symbolisieren soll, dass der Teilnehmer im RZL angelegt wurde und anschließend zur Initialisierung (2) bereits steht.
 
 ![Portale - EBICS](<img/EBICS Teilnehmer.png>)
 
@@ -59,11 +59,11 @@ Für den Abruf der CAMT-Dateien sowie dem EBICS-Zahlungsverkehr im RZL werden se
 
 **Transportberechtigung**
 
-Mit dieser Berechtigung können CAMT-Auszüge über die EBICS Schnittstelle abgerufen sowie Zah-lungsverkehrsdateien ohne automatische Freigabe gesendet werden. Das bedeutet, die Freiga-be der in der Zahlungsverkehrsdatei enthaltenen Überweisungen erfolgt im Banking Programm.
+Mit dieser Berechtigung können CAMT-Auszüge über die EBICS Schnittstelle abgerufen sowie Zahlungsverkehrsdateien ohne automatische Freigabe gesendet werden. Das bedeutet, die Freigabe der in der Zahlungsverkehrsdatei enthaltenen Überweisungen erfolgt im Banking Programm.
 
 **Zeichnungsberechtigung**
 
-Mit dieser Berechtigung kann zusätzlich über die EBICS Schnittstelle die Freigabe der in der Zah-lungsverkehrsdatei enthaltenen Überweisungen vorgenommen werden. Dafür ist grundsätzlich aus Sicherheitsgründen die Eingabe des Passwortes für den jeweiligen Teilnehmer erforderlich. In der EBICS Schnittstelle besteht die Möglichkeit dieses Passwort lokal zu speichern, was aber aus den oben genannten Sicherheitsgründen nicht empfohlen wird.<>
+Mit dieser Berechtigung kann zusätzlich über die EBICS Schnittstelle die Freigabe der in der Zahlungsverkehrsdatei enthaltenen Überweisungen vorgenommen werden. Dafür ist grundsätzlich aus Sicherheitsgründen die Eingabe des Passwortes für den jeweiligen Teilnehmer erforderlich. In der EBICS Schnittstelle besteht die Möglichkeit dieses Passwort lokal zu speichern, was aber aus den oben genannten Sicherheitsgründen nicht empfohlen wird.
 
 !!! info "Tipp"
     Über *Berechtigungen anzeigen* erhalten Sie eine Liste, die die Berechtigungen je Bankverbindung des ausgewählten EBICS Teilnehmer anzeigt. Mithilfe von vordefinierten Filtern können Sie nach konkreten Berechtigungen suchen.
@@ -330,7 +330,7 @@ Mit dieser Version wurde unter *Bearbeiten / Electronic Banking (EBICS)* ein neu
 
 ![Menüpunkt EBICS Lohn](<img/Menüpunkt Lohn.png>)
 
-Wie im bisherigen Menüpunkt, erfolgt eine Unterteilung in die Bereiche Abrechnungen, Abgaben, Exekutionsbeträ-ge, Überweisungen an sonstige Behörden und händisch erstellte Überweisungen.
+Wie im bisherigen Menüpunkt, erfolgt eine Unterteilung in die Bereiche Abrechnungen, Abgaben, Exekutionsbeträge, Überweisungen an sonstige Behörden und händisch erstellte Überweisungen.
 
 Der Dialog zur Erstellung der Überweisungen an die Dienstnehmer, hat sich im Vergleich zur bisherigen Vorgehensweise praktisch gar nicht verändert. Es müssen wie bisher das Überweisungsmonat, die betroffenen Dienstnehmer, die gewünschte Bankverbindung und ein Durchführungsdatum gewählt werden.
 Die Abkehr vom echten Dateiversand im EBICS-System, erfordert es nun nicht mehr einen Speicherort und einen Dateinamen für die Überweisungsdatei zu vergeben. Das entsprechende Feld für den Dateipfad fehlt daher im neuen EBICS Überweisungsdialog.
