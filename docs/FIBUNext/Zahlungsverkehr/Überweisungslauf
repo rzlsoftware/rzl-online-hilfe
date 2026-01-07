@@ -1,0 +1,42 @@
+# Überweisungslauf im Zahlungsverkehr
+
+Der Überweisungslauf dient dazu, auf Basis bereits eingebuchter Eingangsrechnungen von Lieferanten SEPA-Überweisungen zu erstellen. Abhängig von den Einstellungen können die Zahlungen entweder als Überweisungsdatei ausgegeben oder über EBICS an die Bank übertragen werden.
+
+Der Überweisungslauf wird über das Menü **Zahlungsverkehr** aufgerufen.
+
+![alt text](image-5.png)
+
+## Einstellungen Überweisungslauf
+
+### Bankverbindung
+Zu Beginn des Überweisungslaufs wird die **FIBU-Bankverbindung** ausgewählt, von der aus die Überweisungen durchgeführt werden sollen.
+
+Berücksichtigt werden ausschließlich
+* Kreditoren ohne hinterlegte Bankverbindungen
+* Kreditoren, bei denen genau diese Bankverbindung zugeordnet ist.
+
+!!! warning "Hinweis"
+
+    Kreditoren mit einer anderen Bankverbindung werden automatisch vom Zahlungslauf ausgeschlossen und nicht angezeigt.
+
+### Festelegung des Ziels
+
+**Datei erstellen**: Es wird eine SEPA-Überweisungsdatei erzeugt.
+**EBICS**: Die Überweisung wird direkt über EBICS an die Bank übermittelt. Diese Option steht nur zur Verfügung, wenn die gewählte Bankverbindung EBICS-fähig ist.
+
+### Durchführungsdatum
+Das Datum darf nicht in der Vergangenheit liegen. Als Vorschlag wird entweder das Tagesdatum oder ein in der Bankverbindung hinterlegtes Datum verwendet.
+
+### Stichtag für offene Posten
+Der Stichtag steuert, welche offenen Posten in den Zahlungslauf einbezogen werden. Er wird standardmäßig aus der Bankverbindung übernommen, kann aber bei Bedarf übersteuert werden, um den Zahlungsumfang gezielt anzupassen.
+
+### Automatische Verbuchung
+Optional kann festgelegt werden, ob die Überweisungen automatisch in verbucht werden sollen. Die Voreinstellung wird aus der Bankverbindung übernommen, kann jedoch im Zahlungslauf individuell geändert werden.
+
+Ist die automatische Verbuchung aktiviert, müssen zusätzlich folgende Angaben gemacht werden:
+* Buchungsdatum (muss im aktuellen Wirtschaftsjahr liegen)
+* Belegnummer
+* OP-Nummer
+
+### Auswahl Kreditoren
+Das ist ein zusätzlicher Filter, der die von der FIBU Bankverbindung ausgewählten Kreditoren genauer filtern lässt.
