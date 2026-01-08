@@ -75,7 +75,7 @@ Skonto, Teilzahlungen, Zahlungsreferenz oder Verwendungszweck können direkt ang
 Dabei wird das Häkchen **Überweisungen als Sammellastschrift vom Konto abbuchen** (*Stamm / Bankverbindungen*) berücksichtigt. Die Erstellung löst außerdem eine **EB-Aktualisierung** aus. sodass OPs im Folgejahr, sofern im Stamm aktiviert, ebenfalls nicht mehr im Überweisungslauf erscheinen.
 
 ## Automatisches Verbuchen
-Beim **automatischen Verbuchen** wird pro Zahlungslauf eub Stapel mit einer Splitbuchung erstellt. Die Gesamtsumme der Übwerweisungen wird als **Splitsammelbuchung** auf das ZV-Zwischenkonto gebucht, während die Gegenbuchungen pro OP auf den jeweiligen Kreditoren erfolgen - inklusive OP-Ausgleich.
+Beim **automatischen Verbuchen** wird pro Zahlungslauf ein Stapel mit einer Splitbuchung erstellt. Die Gesamtsumme der Übwerweisungen wird als **Splitsammelbuchung** auf das ZV-Zwischenkonto gebucht, während die Gegenbuchungen pro OP auf den jeweiligen Kreditoren erfolgen - inklusive OP-Ausgleich.
 
 ![alt text](image-7.png)
 
