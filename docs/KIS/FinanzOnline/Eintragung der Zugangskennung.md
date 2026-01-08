@@ -194,7 +194,7 @@ muss aber die Zugangskennungen eintippen.
     Da die Anmeldung im USP mit den FinanzOnline Zugangsdaten bald nicht mehr vom USP unterstützt wird, gibt es inzwischen die Möglichkeit die USP-Kennung im RZL einzutragen und sich damit anzumelden.
 
 Dafür wählen Sie die Zuordnung *Mitarbeiter USP* und tragen die USP Kennung ein.
-Sie können auch hier entweder mit Klick auf das USP Zeichen im RZL den Zugang testen oder wieder im Zugang mit **Im USP anmelden**. So können Sie kontrollieren, ob der Zugang korrekt eingetragen wurde.
+Nach Eintragung der USP Kennung können Sie mithilfe der Schaltfläche  **Im USP anmelden** kontrollieren, ob der Zugang korrekt eingetragen wurde.
 
 ![Mitarbeiter USP](<img/Mitarbeiter USP.png>)
 
