@@ -55,7 +55,7 @@ Das ist ein zusätzlicher Filter, der die von der FIBU Bankverbindung ausgewähl
 ## Überweisungslauf
 
 ### Überweisungslauf - Auswahl der Kreditoren
-Die Überischt links zeigt alle Kreditoren, die eine SEPA-Überweisung hinterlegt haben und zur gewählten FIBU-Bankverbindung passen, sowie Kreditoren ohne hinterlegte Bankverbindung. Jeder Kreditor erscheint in einer eigenen Zeile.
+Die Übersicht links zeigt alle Kreditoren, die eine SEPA-Überweisung hinterlegt haben und zur gewählten FIBU-Bankverbindung passen, sowie Kreditoren ohne hinterlegte Bankverbindung. Jeder Kreditor erscheint in einer eigenen Zeile.
 
 Am Ende wird die Gesamtsumme aller ausgewählten Kreditoren angezeigt.
 
@@ -72,10 +72,10 @@ Skonto, Teilzahlungen, Zahlungsreferenz oder Verwendungszweck können direkt ang
 ## Überweisungsdatei erstellen
 Über die Schaltfläche **Erstellen** wird die Überweisungsdatei erzeugt - entweder als Datei oder direkt im EBICS-Modul. Für jeden OP, der vollständig übermittelt wurde, wird das Feld **Überweisung erstellt am** gesetzt.
 
-Dabei wird das Häkchen **Überweisungen als Sammellastschrift vom Konto abbuchen** (*Stamm / Bankverbindungen*) berücksichtigt. Die Erstellung löst außerdem eine **EB-Aktualisierung** aus. sodass OPs im Folgejahr, sofern im Stamm aktiviert, ebenfalls nicht mehr im Überweisungslauf erscheinen.
+Dabei wird das Häkchen **Überweisungen als Sammellastschrift vom Konto abbuchen** (*Stamm / Bankverbindungen*) berücksichtigt. Die Erstellung löst außerdem eine **EB-Aktualisierung** aus, sodass OPs im Folgejahr - *sofern im Stamm aktiviert* - ebenfalls nicht mehr im Überweisungslauf erscheinen.
 
 ## Automatisches Verbuchen
-Beim **automatischen Verbuchen** wird pro Zahlungslauf ein Stapel mit einer Splitbuchung erstellt. Die Gesamtsumme der Übwerweisungen wird als **Splitsammelbuchung** auf das ZV-Zwischenkonto gebucht, während die Gegenbuchungen pro OP auf den jeweiligen Kreditoren erfolgen - inklusive OP-Ausgleich.
+Beim **automatischen Verbuchen** wird pro Zahlungslauf ein Stapel mit einer Splitbuchung erstellt. Die Gesamtsumme der Überweisungen wird als **Splitsammelbuchung** auf das ZV-Zwischenkonto gebucht, während die Gegenbuchungen pro OP auf den jeweiligen Kreditoren erfolgen - inklusive OP-Ausgleich.
 
 ![alt text](image-7.png)
 
@@ -87,7 +87,7 @@ Wird bei einem OP Skonto gewährt und enthält der OP eine Rechnung mit abweiche
 
 ## Überweisungslauf zurücksetzen
 
-Über den Menüpunkt **Überweisungslauf zurücksetzen** kann ein bereits erstellter Überweisungslauf ruckgängig gemacht werden. Nach Auswahl des Menüpunktes öffnet sich ein Dialog, indem die letzten Überweisungsläufe pro Wirtschaftsjahr angezeigt werden.
+Über den Menüpunkt **Überweisungslauf zurücksetzen** kann ein bereits erstellter Überweisungslauf rückgängig gemacht werden. Nach Auswahl des Menüpunktes öffnet sich ein Dialog, indem die letzten Überweisungsläufe pro Wirtschaftsjahr angezeigt werden.
 
 Der gewünschte Überweisungslauf kann ausgewählt und über **Zurücksetzen** aufgehoben werden.
 
