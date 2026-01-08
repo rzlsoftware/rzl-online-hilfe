@@ -20,7 +20,7 @@ Berücksichtigt werden ausschließlich:
 !!! warning "Hinweis"
     Kreditoren mit einer anderen Bankverbindung werden automatisch vom Zahlungslauf ausgeschlossen und nicht angezeigt.
 
-#### Festelegung des Ziels
+#### Festlegung des Ziels
 **Datei erstellen**: Es wird eine SEPA-Überweisungsdatei erzeugt.
 
 **EBICS**: Die Überweisung wird direkt über EBICS an die Bank übermittelt. Diese Option steht nur zur Verfügung, wenn die gewählte Bankverbindung EBICS-fähig ist.
