@@ -1,10 +1,10 @@
 # Schreibrechte auf den SQL-Sicherungsordner ändern
 
-Sollten Sie am Ende der Installation folgenden Dialog erhalten, müssen Sie die Zugriffsberechtigung auf Ihren SQL-Sicherungsordner ändern.   
+Sollten Sie am Ende der Installation den folgenden Dialog erhalten, müssen Sie die Zugriffsrechte auf Ihren SQL-Sicherungsordner ändern.
 
 ![SQL Backuppfad](img/schreibrechte_sqlsicherungesordner_meldung.png)
 
-Dies ist notwendig, da sich in einer zukünftigen Version das Sicherungssystem ändern wird. Damit es bei der Umstellung auf das neue Sicherungssystem nicht zu Problemen kommt, empfehlen wir Ihnen, die Zugriffsrechte auf den SQL-Sicherungsordner wie in dieser Anleitung beschrieben zu ändern.
+Dies ist notwendig, da sich das Sicherungssystem in einer zukünftigen Version ändern wird. Damit es bei der Umstellung auf das neue Sicherungssystem nicht zu Problemen kommt, empfehlen wir Ihnen, die Zugriffsrechte auf den SQL-Sicherungsordner wie in dieser Anleitung beschrieben zu ändern.
 
 !!! warning "Hinweis"
     Diese Anleitung ist für EDV-Betreuer vorgesehen. Falls Sie nicht selbst EDV-Betreuer sind, lassen Sie die Änderungen durch Ihren EDV-Betreuer durchführen und weisen Sie ihn auf diese Anleitung hin.
@@ -15,10 +15,10 @@ Den Pfad zu Ihrem SQL-Sicherungsordner entnehmen Sie dem Dialog.
 
 ![SQL Backuppfad](img/schreibrechte_sqlsicherungesordner_sqlbackup_pfad.png)
 
-## Benutzer mit Lese-/Schreibberechtigung ermitteln
+## Benutzer mit Lese-/Schreibrechten ermitteln
 
-Den Benutzer, dem Sie Lese-/Schreibberechtigung auf den SQL-Sicherungsordner gewähren müssen, entnehmen Sie ebenfalls dem Dialog.  
-**Beispiel:**  
+Ermitteln Sie den Benutzer, dem Sie Lese-/Schreibrechte gewähren müssen, ebenfalls im Dialog.
+**Beispiel:**
 `NT Service\MSSQL$SQLEXPRESS_RZL`
 
 ![Serviceaccount](img/schreibrechte_sqlsicherungesordner_serviceaccount.png)

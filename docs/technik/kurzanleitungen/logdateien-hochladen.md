@@ -1,6 +1,6 @@
 # Log-Dateien hochladen
 
-Für genauere Analysen generiert RZL im Laufe der Zeit Log-Dateien. Diese Logdateien sind für unseren Support essenziell, um zielführende Lösungsansätze für auftretende Probleme bereitstellen zu können.
+Für genauere Analysen generiert RZL im Laufe der Zeit Log-Dateien. Diese Log-Dateien sind für unseren Support unverzichtbar, damit wir zielführende Lösungsansätze für auftretende Probleme bereitstellen können.
 
 1. Öffnen Sie das Programm **RZL-Admin**.
 2. Wählen Sie den Reiter **Verwaltung** aus.
@@ -12,7 +12,7 @@ Für genauere Analysen generiert RZL im Laufe der Zeit Log-Dateien. Diese Logdat
 
 ## Mögliche Meldungen
 
-Gegebenenfalls kann es vorkommen, dass bei der Übermittlung eine Warnung oder ein Fehlerbericht ausgegeben wird. Im Reiter **Erklärung** erhalten Sie dazu genauere Details.
+Bei der Übermittlung kann gegebenenfalls eine Warnung oder ein Fehler auftreten. Im Reiter **Erklärung** finden Sie dazu genauere Details.
 
 ![Meldungen](img/logdateien_hochladen_meldungen.png)
 
