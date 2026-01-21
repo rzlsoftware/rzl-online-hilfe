@@ -1,9 +1,9 @@
-# Installation mit Datenbank und Dokumentenverwaltung Standard übersiedeln
+# Installation mit Datenbank und Dokumentenverwaltung Standard migieren
 
 !!! warning "Hinweis"
     Diese Anleitung ist nur anzuwenden, wenn die RZL Komplettsicherung nicht verwendet werden kann.
     Für die empfohlene Standardvorgehensweise mit der Komplettsicherung siehe:
-    [RZL Daten sichern](https://hilfe.rzlsoftware.at/setup/daten-sichern/)
+    [RZL Daten sichern](../../setup/daten-sichern.md)
 
     Verwenden Sie diese Anleitung nur in folgenden Fällen:   
         - Das Datenvolumen übersteigt 200 GB   
@@ -12,9 +12,26 @@
 
 Diese Anleitung beschreibt, wie Sie eine Installation mit einer bestehenden Datenbank auf einen neuen Server oder ein neues Verzeichnis übersiedeln.
 
-## Dokumentenordner ändern
+## Daten ermitteln / wiederherstellen
+Folgende Verzeichnise und Dateien müssen für die rekonstuktion der RZL Installation organisiert werden.
+- "RZL_Datarepository" unter älterne Instalationen "RZLWin"
+- Dokumentenverwaltung
+- SQL-Datenbank (sammt Filestream bei Dokumentenverwaltung Plus)
 
-Standardmäßig befinden sich die Dokumente/Belege in einem Unterordner des Daten-Repositories (z. B. `R:\RZL_DataRepository\RZL_DOKUMENTE`). Sie können den Speicherort anpassen, indem Sie die Datei RZLDb.ini im INI-Ordner des Daten-Repositories bearbeiten.
+## RZL_Datarepository ermitteln
+Standardmäßig liegt das Repository in folgendne Verzeichnisenen 
+
+Einzelplatzinstallation:   `C:\Programmdata\RZL Software\RZL_Datarepository`
+Netzwerkinstallationen:    `R:\RZL_Datarepository`
+
+Der Pfad zum Datarepository kann auch im RZL-Admin unter Information zur Installation abgelesen werden.
+Zudem kann der Pfad der config.ini entnommen werden.
+
+Pfad: `C:\Program Files (x86)\RZL Software\RZLWin\config.ini`
+
+## Dokumente ermitteln und verschieben
+Standardmäßig befinden sich die Dokumente/Belege in einem Unterordner des Datarepository (z. B. `R:\RZL_DataRepository\RZL_DOKUMENTE`). Und muss nicht zwingend seperat migriert werden.
+ Sie können jedoch den Speicherort für die rekonstruierte Installation anpassen, indem Sie die Datei RZLDb.ini im INI-Ordner des Datarepository bearbeiten.
 
 **Beispiel für die Anpassung:**
 ```ini
@@ -24,27 +41,19 @@ DocumentRoot = D:\RZL\Docs
 Es sind lokale Laufwerkspfade, Netzlaufwerkspfade und UNC-Pfade möglich.   
 
 **Vorgehen:**   
-1. Beenden Sie alle RZL-Programme.   
-2. Fügen Sie den Eintrag in der RZLDb.ini hinzu.   
-3. Legen Sie den neuen Dokumenten-Ordner an.    
-4. Verschieben Sie den Inhalt von ...\RZL_DOKUMENTE in den neuen Ordner.   
-5. Testen Sie, ob die Dokumente aus den RZL-Programmen geöffnet werden können.   
+1. Beenden Sie alle RZL-Programme
+2. Fügen Sie den Eintrag in der RZLDb.ini hinzu
+3. Verschieben Sie ...\RZL_DOKUMENTE auf das neue System
+4. Prüfen Sie ob NTFS Rechte bearbeitet werden müssen
+5. Testen Sie, ob die Dokumente aus den RZL-Programmen geöffnet werden können
 
-## Datenbankserver übersiedeln
+## SQL-Datenbank ermitteln und migrieren
+1. Sichern Sie die bestehende Datenbank über den RZL- Admin oder mittels SQL Server Management Studio.
+   1. Sichen Sie die Datenbnak laut Dokumentation [Daten Sichern](../../setup/daten-sichern.md)
+   2. Alternativ, laden Sie das aktuelle [SQL-Server Managment Studio](https://learn.microsoft.com/de-de/ssms/install/install){:target="_blank"} herunter.
+   3. Sichern Sie die Datenbank laut [Microsoft-Dokumenation](https://learn.microsoft.com/de-de/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver17&tabs=ssms){:target="_blank"}.
+2. Kopieren Sie die Backupdatei auf den neuen Server.
+3. Stellen Sie die Datenbank laut Dokumenation [Daten Wiederherstellen](../../setup/daten-wiederherstellen.md) bzw. lauft der offizellen [Microsoft Dokumenation](https://learn.microsoft.com/de-de/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver17&tabs=ssms){:target="_blank"} wieder her.
 
-1. Laden Sie das RZL SQL Server Setup herunter und installieren sowie konfigurieren Sie den Microsoft SQL Server Express auf dem neuen Server.
-2. Sichern Sie die bestehende Datenbank mit dem SQL Server Management Studio.
-3. Kopieren Sie die Backupdatei auf den neuen Server.
-4. Öffnen Sie die Zentrale Mandantenverwaltung und tragen Sie unter **Hilfsmittel > Einstellungen** im Reiter **Datenbank** unter **SQL-Server (Host)** den neuen Servernamen ein.
-5. Stellen Sie die Datenbank auf dem neuen Server mit dem SQL Server Management Studio aus der Sicherung wieder her.
-6. Prüfen Sie, ob sich die RZL-Programme (z. B. Finanzbuchhaltung) starten lassen und ob Sie Klienten öffnen können.
-
-## Umstellung auf neue Domäne
-
-1. Legen Sie den lokalen Administrator am SQL Server als Benutzer an und weisen Sie ihm die Serverrolle `sysadmin` zu.
-2. Passen Sie vor der Umstellung im KIS/BOARD die Windows-Benutzernamen der KIS-Benutzer an die neue Domäne an.
-3. Löschen Sie am SQL Server die Benutzergruppen **Domänen-Benutzer** und **Domänen-Admins** (vor der Umstellung).
-4. Legen Sie nach der Umstellung am SQL Server die Anmeldungen **Domänen-Benutzer** und **Domänen-Admins** neu an:
-    - **Domänen-Benutzer:** Serverrolle `rzl_server_user`, Datenbankrolle `rzl_user` in der RZL-Datenbank.
-    - **Domänen-Admins:** Serverrolle `rzl_server_admin`, Datenbankrolle `rzl_admin`.
-    - **Dienstbenutzer (falls vorhanden):** Serverrolle `rzl_server_admin`, Datenbankrolle `rzl_service`.
+## Änderung bei neuer Domäne
+1. Hierzu können Sie die Dokumenation [SQL-Server Berechtigungskonzept](sqlserver-berechtigungskonzept.md) anwenden um enprechende Änderungen in der Datenbank vorzunehmen.

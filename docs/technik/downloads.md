@@ -1,10 +1,4 @@
+# Download
+Um zugriff auf die aktuelle Version des RZL Setup , optionale Treiber und Programme zu erhalten melden Sie sich bitte im Anwenderbereich an.
 
-### Setup Assistenten
-[RZL Komplettversion herunterladen]()    
-[RZL SQL Server Setup]()  
-
-### Toolkit
-[SQL Server Management Studio]()   
-[RZL Server Configurator]()   
-[RZL PDF-Drucker Treiber - RZL Print 5.5.0]()   
-[RZL Lizenzstecker - HASPUserSetup 9.16]()   
+[Hier gehts zum Anwenderbereich](https://rzlsoftware.at/anwenderbereich){:target="_blank"}
