@@ -170,3 +170,25 @@ Andernfalls müssen die Freigabe-Standards manuell zugeordnet werden. Markieren 
 
 Nach dem Zuordnen der **Freigabe-Standards ②** werden die Freigabestufen und zugeordneten Mitarbeiter im Detail im Bereich **Freigabe ①** bzw. in der Listenansicht in der Spalte **Freigeber ③** angezeigt. In der Listenansicht werden Stufen mit einem vertikalen Strich, Und-Freigeber mit einem Beistrich sowie Oder-Freigeber mit einem Schrägstrich getrennt, angezeigt.
 
+### Freigabestufen und Freigeber bei neuen Belegen manuell zuordnen
+
+Falls Sie **Freigabe-Standards** verwendet haben, können Sie nun jederzeit bei einzelnen Belegen Änderungen zu den bereits zugeordneten Stufen/Freigebern vornehmen (Stufen hinzufügen/löschen, Freigeber löschen, andere Freigeber hinzufügen usw.).
+
+Bei neuen Belegen können Stufen und Freigeber manuell einzelnen Belegen zugeordnet werden. Eine manuelle Zuordnung bei mehreren Belegen gleichzeitig ist nicht möglich – verwenden Sie dafür einen vorher definierten **Freigabe-Standard**.
+
+## Ansicht Belegfreigabe
+### Neue Spalten bzw. neues Registerblatt im Detail
+Zum Freigeben von Belegen öffnen Sie nun die Ansicht **Belegfreigabe**.
+
+![Ansicht](<img/image14.png>)
+
+Hier werden nun in vier Spalten die aktuellen Freigabeinformationen angezeigt:
+
+**Freigabestatus ①**
+
+
+
+2.	Freigeber ②: die zugeordneten Freigeber werden angezeigt. Oder-Freigeber mit Schrägstrich, Und-Freigeber mit Beistrich getrennt. Freigabestufen werden mit einem vertikalen Strich unterteilt.
+3.	Freigabe-Fortschritt ③: In dieser Spalte wird grafisch dargestellt, wie viele Freigabestufen schon erledigt sind – diese werden grün dargestellt. In grauer Farbe werden die noch nicht erledigten Freigabestufen angezeigt. Somit kann in dieser Spalte der Gesamtfortschritt der Belegfreigabe abgelesen werden.
+4.	Aktuelle Freigabestufe ④: Die Stufe, in der sich der Beleg gerade befindet, wird textuell angezeigt.
+
