@@ -21,7 +21,7 @@ Folgende Verzeichnisse und Dateien müssen für die Rekonstruktion der RZL Insta
 ## RZL_Datarepository ermitteln
 Standardmäßig liegt das Repository in folgenden Verzeichnissen
 
-Einzelplatzinstallation:   `C:\Programmdata\RZL Software\RZL_Datarepository`
+Einzelplatzinstallation:   `C:\ProgrammData\RZL Software\RZL_Datarepository`
 Netzwerkinstallationen:    `R:\RZL_Datarepository`
 
 Der Pfad zum Datarepository kann auch im RZL-Admin unter Information zur Installation abgelesen werden.
@@ -44,7 +44,7 @@ Es sind lokale Laufwerkspfade, Netzlaufwerkspfade und UNC-Pfade möglich.
 1. Beenden Sie alle RZL Programme
 2. Fügen Sie den Eintrag in der RZLDb.ini hinzu
 3. Verschieben Sie ...\RZL_DOKUMENTE auf das neue System
-4. Prüfen Sie ob NTFS Rechte bearbeitet werden müssen
+4. Prüfen Sie, ob NTFS Rechte bearbeitet werden müssen
 5. Testen Sie, ob die Dokumente aus den RZL Programmen geöffnet werden können
 
 ## SQL-Datenbank ermitteln und migrieren

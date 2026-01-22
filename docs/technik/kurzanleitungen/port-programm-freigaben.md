@@ -18,18 +18,57 @@ Beim Öffnen oder Ändern von Firewall-Regeln ist es wichtig, sowohl die Standar
 
 ## Verwendete Ports
 
-| Anwendung/Protokoll     | Protokoll | Port(e)    |
-| ----------------------- | --------- | ---------- |
-| HTTP                    | TCP       | 80         |
-| HTTPS                   | TCP       | 443        |
-| RZL Dienste             | TCP       | 5756, 5757 |
-| SMB                     | TCP       | 139, 445   |
-| SQL-Server, SQL-Browser | TCP/UDP   | 1433, 1434 |
+| Protokoll               |         | Port       |
+| ----------------------- | ------- | ---------- |
+| HTTP                    | TCP     | 80         |
+| HTTPS                   | TCP     | 443        |
+| RZL Dienste             | TCP     | 5756, 5757 |
+| SMB                     | TCP     | 139, 445   |
+| SQL-Server, SQL-Browser | TCP/UDP | 1433, 1434 |
 
 ## Programmfreigaben
 
 - **SQL-Server:**  
-    `C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Binn\sqlservr.exe`
+    `C:\Program Files\Microsoft SQL Server\MSSQLXX.MSSQLSERVER\MSSQL\Binn\sqlservr.exe`
 
  - **SQL-Browser:**  
     `C:\Program Files\Microsoft SQL Server\90\Shared\sqlbrowser.exe`
+
+### Programmfreigabe für SQL Server Instanz
+
+!!! warning "Hinweis"
+    Anstelle von `MSSQLXX.MSSQLSERVER` setzen sie die korrekte SQL Version z.B. `MSSQL15.MSSQLSERVER.`.
+
+New-NetFirewallRule -DisplayName "SQL Server (MSSQLSERVER)" `
+-Direction Inbound `
+-Program "C:\Program Files\Microsoft SQL Server\MSSQLXX.MSSQLSERVER\MSSQL\Binn\sqlservr.exe" `
+-Action Allow `
+-Profile Any `
+-Description "Erlaubt eingehenden Traffic für SQL Server Instanz"
+
+### Programmfreigabe für SQL Browser Service
+
+New-NetFirewallRule -DisplayName "SQL Browser Service" `
+-Direction Inbound `
+-Program "C:\Program Files (x86)\Microsoft SQL Server\90\Shared\sqlbrowser.exe" `
+-Action Allow `
+-Profile Any `
+-Description "Erlaubt eingehenden Traffic für SQL Browser"
+
+### Portfreigabe für SQL Server (TCP 1433)
+
+New-NetFirewallRule -DisplayName "SQL Server (TCP-In 1433)" `
+-Direction Inbound `
+-LocalPort 1433 `
+-Protocol TCP `
+-Action Allow `
+-Description "Eingehende SQL-Verbindungen über Port 1433"
+
+### Portfreigabe für SQL Browser (UDP 1434)
+
+New-NetFirewallRule -DisplayName "SQL Browser (UDP-In 1434)" `
+-Direction Inbound `
+-LocalPort 1434 `
+-Protocol UDP `
+-Action Allow `
+-Description "Eingehende SQL-Browser-Anfragen über Port 1434"
