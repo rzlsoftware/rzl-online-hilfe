@@ -41,6 +41,13 @@ Falls für ausländische Dienstnehmer eine Arbeitsbewilligung notwendig ist, kan
 
 Wird dieses Auswahlfeld aktiviert, dann wird der Dienstnehmer für den jeweils abgerechneten Monat am Betriebsjahreslohnkonto als *begünstigter Behinderter* geführt.
 
+## EFZ-Berechnungsautomatik anwenden
+
+Wenn das Häkchen *EFZ-Berechnungsautomatik anwenden* aktiviert ist, wird die EFZ-Berechnungsautomatik angewendet. Wenn Sie das Kästchen deaktivieren, wird die EFZ-Berechnungsautomatik für diesen Dienstnehmer **nicht** angewendet und es erfolgt keine Abfrage dazu.
+
+!!! info "Tipp"
+    Soll die EFZ-Berechnungsautomatik bei keinem Dienstnehmern angewendet werden, können Sie eine dienstnehmerübergreifende Einstellung in den [Klientenstammdaten](../Klientenstammdaten/Stammdaten_Klient/ZVR_Zahl.md) vornehmen.
+
 ## Anmerkungen
 
 Es können bis zu 10 Anmerkungen mit Datum und Text eingegeben werden. Eine Anmerkung wird nicht auf der Lohnabrechnung angedruckt, sondern nur auf bestimmten internen Auswertungen, wie dem Stammdatenblatt und der Dienstnehmerliste mit Fristen. Typische Fälle von Anmerkungen sind ein vorhersehbarer Wechsel in der Beschäftigungsgruppe, Lohnerhöhungen zu einem bestimmten Zeitpunkt usw. Ist eine Frist abgelaufen, wird der Anmerkungstext rechts oben am Bildschirm *blinkend* angezeigt bzw. wird der Dienstnehmer in der Abrechnungsliste (*Abrechnung mit* oder *ohne Änderung*, *Korrektur letzter Abrechnung*) mit einem roten Rufzeichen markiert.
