@@ -9,4 +9,4 @@ Die ZVR-Zahl ist für das Formular L19 ein Pflichtfeld. Die ZVR-Zahl können Sie
 Wenn das Häkchen *EFZ-Berechnungsautomatik anwenden* aktiviert ist, wird die EFZ-Berechnungsautomatik für den gesamten Klienten angewendet. Wenn Sie das Kästchen deaktivieren, wird die EFZ-Berechnungsautomatik für den gesamten Klienten **nicht** angewendet und es erfolgt keine Abfrage dazu.
 
 !!! info "Tipp"
-    Soll die EFZ-Berechnungsautomatik nur bei einzelnen Dienstnehmern nicht angewendet werden, können Sie diese Einstellung in der Abrechnung unter *Stammdaten Fristen* deaktivieren.
+    Soll die EFZ-Berechnungsautomatik nur bei einzelnen Dienstnehmern nicht angewendet werden, können Sie diese Einstellung in der Abrechnung unter [*Stammdaten Fristen*](../../Abrechnungsbildschirme/Stammdaten_Fristen.md) deaktivieren.
