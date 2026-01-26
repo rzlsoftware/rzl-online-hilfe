@@ -86,20 +86,7 @@ Zustand.
 
 Im rechten oberen Bereich finden Sie den Menüpunkt Einstellungen.
 
-![](<img/image6.png>)
-
-### Aufzeichnungsprotokoll
-
-Im Aufzeichnungsprotokoll werden alle Aufzeichnungen dargestellt, die
-beim Schließen des RZL Boards an RZL übermittelt werden. Die
-Aufzeichnung ist davon abhängig, ob bei der Programminstallation die
-dementsprechende Option aktiviert wurde. Es werden hier keine
-Klientenbezogenen Daten übermittelt, sondern nur Daten über die
-Programmnutzung und Fehlzustände gesammelt und verarbeitet. Sie können
-hier auch jederzeit die Zustimmung zur Übermittlung von Daten
-deaktivieren bzw. auch wieder aktivieren.
-
-![](<img/image7.png>)
+![](<img/Einstellungen Notification Center.png>)
 
 ### Auf Standardlayout zurücksetzen
 
