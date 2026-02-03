@@ -275,6 +275,10 @@ Platzhalter *Verrechnungsgruppe mit Projektzeitraum*.
 
 Folgende Platzhalter stehen Ihnen zur Verfügung:
 
+-   *NoteNummer* Honorarnotennummer
+
+-   *NoteDatum* Datum der Honorarnote - verschiedene Formate verfügbar
+
 -   *Verrechnungsgruppe* Name der Verrechnungsgruppe
 
 -   *VerrechnungsgruppeMitProjektzeitraum* Name der Verrechnungsg.+ der
