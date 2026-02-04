@@ -6,7 +6,7 @@ Willkommen im Hilfebereich für technische Fragen!
 Hier finden Sie einen übersichtlichen Leitfaden zur Vorbereitung, Installation, Wartung und Optimierung der RZL Programme. Sie erhalten Zugriff auf Kurzanleitungen und Knowledge-Base-Artikel. Außerdem beantworten wir Ihre wichtigsten Fragen rund um die Installation von RZL.
 
 Gerne steht Ihnen unser Team bei kniffligen Fragen zur Verfügung und ist stets für Sie erreichbar!   
-[Support-Hotline](https://rzlsoftware.at/support){:target="_blank"} | [technik@rzl.at](mailto:technik@rzl.at) | [07752 252-39](tel:+43775225239) <button class="copy-phone" data-number="+43775225239" aria-label="Nummer kopieren"></button>
+[Support-Hotline](https://rzlsoftware.at/support){:target="_blank"} | [technik@rzl.at](mailto:technik@rzl.at) | [07752 252-39](tel:+43775225239)
 
 !!! note "Tipp"
       Unser neues Mitglied [Frag Hainz!](https://hainz.rzlsoftware.at/Chat){:target="_blank"} steht Ihnen rund um die Uhr in Echtzeit zur Verfügung und beantwortet gerne Ihre Fragen.   

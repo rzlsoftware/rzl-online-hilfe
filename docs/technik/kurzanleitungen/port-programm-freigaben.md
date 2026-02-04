@@ -39,6 +39,8 @@ Beim Öffnen oder Ändern von Firewall-Regeln ist es wichtig, sowohl die Standar
 !!! warning "Hinweis"
     Anstelle von `MSSQLXX.MSSQLSERVER` setzen sie die korrekte SQL Version z.B. `MSSQL15.MSSQLSERVER.`.
 
+### Programmfreigabefür SQL Server (MSSQLSERVER)
+
 New-NetFirewallRule -DisplayName "SQL Server (MSSQLSERVER)" `
 -Direction Inbound `
 -Program "C:\Program Files\Microsoft SQL Server\MSSQLXX.MSSQLSERVER\MSSQL\Binn\sqlservr.exe" `
