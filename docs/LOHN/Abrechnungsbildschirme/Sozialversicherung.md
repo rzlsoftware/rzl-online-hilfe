@@ -79,6 +79,10 @@ Das Feld *Reduktion DN-Anteil PV* kann nur aktiviert werden, wenn der Dienstnehm
 
     ![Image](<img/image98.png>)
 
+**Zuschlag WF Wien**
+
+Ist der Dienstnehmer sozialversicherungsrechtlich Wien zugehörig, wird automatisch der Zuschlag *Zuschlag WF Wien* aktiviert. Dadurch werden 0,50 % mehr WF an die ÖGK abgeführt.
+
 ## Sozialfonds
 
 Durch Aktivierung des Häkchens wird der Sozialfonds automatisch abgerechnet.
