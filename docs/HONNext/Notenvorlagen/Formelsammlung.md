@@ -44,6 +44,7 @@ Beispiel der Bezeichnung: Honorarnote 0001/2021
 | Note.Unternehmensbereich.Telefonnummer   | Telefonnummer des Unternehmensbereichs  |
 | Note.Unternehmensbereich.Homepage        | Homepage des Unternehmensbereichs       |
 | Note.Unternehmensbereich.UID             | UID-Nummer des Unternehmensbereichs     |
+| Note.Zahlung.Bankverbindung.Kontoinhaber | Kontoinhaber des Unternehmensbereichs   |
 
 
 
@@ -85,18 +86,18 @@ Beispiel der Bezeichnung: Honorarnote 0001/2021
 
 **Zahlung**
 
-| Formel                                   | Beschreibung                         |
-| ---------------------------------------- | ------------------------------------ |
-| Note.Zahlung.Bankverbindung.Geldinstitut | Name der Bank                        |
-| Note.Zahlung.Bankverbindung.IBAN         | International Bank Account Number    |
-| Note.Zahlung.Bankverbindung.BIC          | Bank Identifier Code                 |
-| Note.Zahlung.Frist                       | Zahlungsfrist in Tagen               |
-| Note.Datum+Tage(Note.Zahlung.Frist)      | Zahlbar bis spätestens (Datum)       |
-| Note.Zahlung.QRCode                      | Überweisungsdaten als QR-Code (Bild) |
-| Note.Zahlung.Zahlungsreferenz            | Zahlungsreferenz (= Notennummer)     |
-| Note.Zahlung.Skonto.Betrag               | Skonto-Betrag                        |
-| Note.Zahlung.Skonto.Frist                | Skonto-Frist in Tagen                |
-| Note.Zahlung.Skonto.Prozent              | Skonto-Prozentsatz                   |
-| Note.Zahlung.IstLastschrift              | Bedingungsformel für den Bankeinzug  |
-| Note.Zahlung.IstKeineZahlung             | Bedingungsformel für keine Zahlung   |
-
+| Formel                                   | Beschreibung                          |
+| ---------------------------------------- | ------------------------------------- |
+| Note.Zahlung.Bankverbindung.Geldinstitut | Name der Bank                         |
+| Note.Zahlung.Bankverbindung.IBAN         | International Bank Account Number     |
+| Note.Zahlung.Bankverbindung.BIC          | Bank Identifier Code                  |
+| Note.Zahlung.Frist                       | Zahlungsfrist in Tagen                |
+| Note.Datum+Tage(Note.Zahlung.Frist)      | Zahlbar bis spätestens (Datum)        |
+| Note.Zahlung.QRCode                      | Überweisungsdaten als QR-Code (Bild)  |
+| Note.Zahlung.Zahlungsreferenz            | Zahlungsreferenz (= Notennummer)      |
+| Note.Zahlung.Skonto.Betrag               | Skonto-Betrag                         |
+| Note.Zahlung.Skonto.Frist                | Skonto-Frist in Tagen                 |
+| Note.Zahlung.Skonto.Prozent              | Skonto-Prozentsatz                    |
+| Note.Zahlung.IstLastschrift              | Bedingungsformel für den Bankeinzug   |
+| Note.Zahlung.IstKeineZahlung             | Bedingungsformel für keine Zahlung    |
+| Note.Zahlung.Bankverbindung.Kontoinhaber | Kontoinhaber des Unternehmensbereichs |

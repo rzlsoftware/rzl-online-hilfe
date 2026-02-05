@@ -4,11 +4,11 @@
 
 ## Absetzbeträge
 
-Soll der Alleinverdienerabsetzbetrag berücksichtigt werden, ist das Feld *Alleinverdiener* zu aktivieren. Wird der Alleinverdienerabsetzbetrag beansprucht, so müssen in den [*Dienstnehmer Stammdaten*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) die Daten des Ehepartners eingetragen werden.
+Soll der Alleinverdienerabsetzbetrag berücksichtigt werden, ist das Feld *Alleinverdiener* zu aktivieren. Wird der Alleinverdienerabsetzbetrag beansprucht, so müssen in den [*Dienstnehmer Stammdaten*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md) die Daten des Ehepartners eingetragen werden.
 
 Besteht Anspruch auf den Alleinerzieherabsetzbetrag ist das Feld *Alleinerzieher* zu aktivieren.
 
-Seit Juli 2004 steht pro Kind ein Kinderzuschlag zum Alleinverdiener(-erzieher)absetzbetrag zu. Im Feld *Anzahl Kinder § 106* ist die Anzahl der Kinder einzutragen, für die ein Kinderzuschlag gerechnet werden soll. Durch Anwahl der *F2-Taste* besteht die Möglichkeit, die im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten%20Dienstnehmer.md) im Bereich *Kinder* erfassten Kinder automatisch zu übernehmen.
+Seit Juli 2004 steht pro Kind ein Kinderzuschlag zum Alleinverdiener(-erzieher)absetzbetrag zu. Im Feld *Anzahl Kinder § 106* ist die Anzahl der Kinder einzutragen, für die ein Kinderzuschlag gerechnet werden soll. Durch Anwahl der *F2-Taste* besteht die Möglichkeit, die im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md) im Bereich *Kinder* erfassten Kinder automatisch zu übernehmen.
 
 ## Pendlerpauschale
 
@@ -193,7 +193,7 @@ Tragen Sie hier den Betrag für den steuerfreien Teil der Ladeeinrichtung ein. F
 
 **Kostenersatz Aufladung E-Fahrzeuge**
 
-Hier haben Sie die Möglichkeit, die *Anzahl* der Kilowattstunden für die Aufladung des E-Fahrzeugs zu erfassen. Als *Basis* wird Ihnen der amtliche Kilowattstundenpreis vorgeschlagen. Sie können auch eine abweichende Basis erfassen. Falls keine genaue Überprüfung möglich ist, können Sie den aktuell gültigen Maximalbetrag von EUR 30,00 als Kostenersatz hinterlegen. Wenn Sie den Kostenersatz nicht auszahlen möchten, sondern dieser lediglich auf dem Jahreslohnkonto und dem Jahreslohnzettel (L16) ausgewiesen werden soll, aktivieren Sie das Häkchen *nur Ausweis am Lohnkonto u. L16*.
+Hier haben Sie die Möglichkeit, die *Anzahl* der Kilowattstunden für die Aufladung des E-Fahrzeugs zu erfassen. Als *Basis* wird Ihnen der amtliche Kilowattstundenpreis vorgeschlagen. Sie können auch eine abweichende Basis erfassen. Wenn Sie den Kostenersatz nicht auszahlen möchten, sondern dieser lediglich auf dem Jahreslohnkonto und dem Jahreslohnzettel (L16) ausgewiesen werden soll, aktivieren Sie das Häkchen *nur Ausweis am Lohnkonto u. L16*.
 
 !!! info "Tipp"
     Zuschüsse und Kostenersätze können über freie Lohnarten abgerechnet werden. Dafür stehen Ihnen folgende Lohnsteuerpflichtigkeiten zur Auswahl:
@@ -210,17 +210,17 @@ Hier kann die Kommunalsteuer auf insgesamt 10 Gemeinden verteilt werden. Tragen 
 
 Ist der Dienstnehmer von der Kommunalsteuer befreit (z. B. Invalide), so ist das Feld *Befreiung von Kommunalsteuer* zu aktivieren. Unterliegt der Dienstgeber grundsätzlich nicht der Kommunalsteuerpflicht, so ist dies in den Dienstgeberstammdaten einzustellen. 
 
-Die Eingabe eines Prozentsatzes im Feld *Kürzung Bem. Kommst.* verringert die Bemessungsgrundlage zur Berechnung der Kommunalsteuer für den jeweiligen Dienstnehmer. Eine nachträgliche Änderung während des Jahres ändert nichts an der Berechnung bereits gespeicherter Abrechnungen. In den Stammdaten des Klienten im Registerblatt [*Kommst., U-Bahn*](../Klientenstammdaten/Stammdaten%20Klient/KommSt,%20U-Bahn.md) kann die Bemessungsgrundlage für den gesamten Klienten gekürzt werden.
+Die Eingabe eines Prozentsatzes im Feld *Kürzung Bem. Kommst.* verringert die Bemessungsgrundlage zur Berechnung der Kommunalsteuer für den jeweiligen Dienstnehmer. Eine nachträgliche Änderung während des Jahres ändert nichts an der Berechnung bereits gespeicherter Abrechnungen. In den Stammdaten des Klienten im Registerblatt [*Kommst., U-Bahn*](../Klientenstammdaten/Stammdaten_Klient/KommSt_UBahn.md) kann die Bemessungsgrundlage für den gesamten Klienten gekürzt werden.
 
 ## DB, DZ
 
 Wenn der Dienstnehmer von der Entrichtung des DB befreit ist, ist das Feld *Befreiung von DB* zu aktivieren.
 
-In Spezialfällen kann hier für einzelne Dienstnehmer ein abweichendes Bundesland für die DZ-Berechnung eingetragen werden. Grundsätzlich berechnet das Programm den DZ gemäß der Eingabe des [*DZ-Bundeslandes*](../Klientenstammdaten/Stammdaten%20Klient/Finanzamt.md) in den Stammdaten des Klienten.
+In Spezialfällen kann hier für einzelne Dienstnehmer ein abweichendes Bundesland für die DZ-Berechnung eingetragen werden. Grundsätzlich berechnet das Programm den DZ gemäß der Eingabe des [*DZ-Bundeslandes*](../Klientenstammdaten/Stammdaten_Klient/Finanzamt.md) in den Stammdaten des Klienten.
 
 Ist der Dienstnehmer vom Dienstgeberzuschlag befreit, so ist das Feld *Befreiung von DZ* zu aktivieren. Unterliegt der Dienstgeber nicht der DZ-Pflicht, so ist dies in den Dienstgeberstammdaten einzugeben. Es braucht dann hier beim Dienstnehmer nicht nochmals Befreiung vom DZ eingegeben zu werden.
 
-Die Eingabe eines Prozentsatzes im Feld *Kürzung Bem. DZ.* verringert die Bemessungsgrundlage der Berechnung des DZ für den jeweiligen Dienstnehmer. Eine nachträgliche Änderung während des Jahres ändert nichts an der Berechnung bereits gespeicherter Abrechnungen. In den Stammdaten des Klienten im Registerblatt [*Finanzamt*](../Klientenstammdaten/Stammdaten%20Klient/Finanzamt.md) kann die Bemessungsgrundlage für den gesamten Klienten gekürzt werden.
+Die Eingabe eines Prozentsatzes im Feld *Kürzung Bem. DZ.* verringert die Bemessungsgrundlage der Berechnung des DZ für den jeweiligen Dienstnehmer. Eine nachträgliche Änderung während des Jahres ändert nichts an der Berechnung bereits gespeicherter Abrechnungen. In den Stammdaten des Klienten im Registerblatt [*Finanzamt*](../Klientenstammdaten/Stammdaten_Klient/Finanzamt.md) kann die Bemessungsgrundlage für den gesamten Klienten gekürzt werden.
 
 !!! warning "Hinweis"
     Wird ein Dienstnehmer 60 Jahre, somit entfällt die DB- und DZ-Pflicht. Das Lohnprogramm setzt bei diesen Personen automatisch das Häkchen bei DB- und DZ-Befreiung in jenem Monat, wo der Dienstnehmer genau am ersten des Monats 60 wird oder bei einem späteren Geburtstag im Folgemonat.

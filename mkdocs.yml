@@ -15,7 +15,7 @@ theme:
     - navigation.tabs
     - navigation.footer
   icon:
-    repo: fontawesome/brands/github      
+    repo: fontawesome/brands/github
   custom_dir: overrides
   palette: 
     - scheme: default
@@ -31,21 +31,27 @@ theme:
   hainz:
     url: https://hainz.rzlsoftware.at
     icon: /img/herz_neuronen.svg
-          
+
 extra:
   generator: false
-    
+
 copyright: Copyright &copy; 2025 <a href="https://rzlsoftware.at">RZL Software GmbH</a></br><a href="/impressum">Impressum</a> | <a href="/datenschutz">Datenschutz</a>
 
 extra_css:
   - stylesheets/extra.css
   - stylesheets/pdf.css
 extra_javascript:
+  - scripts/search-filter.js
   - scripts/redirect.js
-          
+
 plugins:
-  - search
+  - search:
+      lang: de
+      separator: '[\s\-]+'
   - awesome-pages
+
+hooks:
+  - plugins/program_filter.py
 
 markdown_extensions:
   - admonition

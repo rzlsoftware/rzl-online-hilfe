@@ -58,7 +58,7 @@ Damit die Beschäftigtengruppe für die geringfügigen Beschäftigungen, welche 
 
 Die Aktivierung dieses Feldes ermöglicht die Erstellung eines L16 mit der Lohnzettelart 18. Die Lohnzettelart 18 wird laut Hilfetext innerhalb von FinanzOnline als „Lohnzettel § 84(1) EStG - mehrere LZ vom selben Arbeitgeber mit überschneidenden Zeiträumen“ beschrieben.
 
-Beispiel: Ein Dienstnehmer ist während der Karenz/Bildungskarenz beim gleichen Dienstgeber geringfügig beschäftigt. Für die geringfügige Beschäftigung muss der Dienstnehmer im Lohnprogramm unter einer neuen Nummer (Sonderfall: [Wiedereintritt unter neuer Nummer](../Abrechnungen/Sonderfälle.md)) abgerechnet werden. Bei der Übermittlung der L16 akzeptiert die Finanzverwaltung keine zwei Lohnzettel vom gleichen Dienstgeber für einen überschneidenden Zeitraum. Die Lösung ist, den L16 für die geringfügige Beschäftigung mit der Lohnzettelart 18 zu übermitteln.
+Beispiel: Ein Dienstnehmer ist während der Karenz/Bildungskarenz beim gleichen Dienstgeber geringfügig beschäftigt. Für die geringfügige Beschäftigung muss der Dienstnehmer im Lohnprogramm unter einer neuen Nummer (Sonderfall: [Wiedereintritt unter neuer Nummer](../Abrechnungen/Sonderfaelle.md)) abgerechnet werden. Bei der Übermittlung der L16 akzeptiert die Finanzverwaltung keine zwei Lohnzettel vom gleichen Dienstgeber für einen überschneidenden Zeitraum. Die Lösung ist, den L16 für die geringfügige Beschäftigung mit der Lohnzettelart 18 zu übermitteln.
 
 **mBGM Hauptdienstnehmer**
 
@@ -110,7 +110,7 @@ Wird dieses Auswahlfeld aktiviert, dann kann hier ein abweichender Betrag einget
 
 ## Beschäftigungsbonus
 
-Die hier verwalteten Daten werden für den Ausdruck der Liste der Arbeitsverhältnisse ab dem 01.07.2017 für den Beschäftigungsbonus verwendet. Der Ausdruck kann innerhalb der [Sonderdrucke](../Ausdrucke%20allgemein/Ausdruck%20Sonderdrucke.md) angewählt werden.
+Die hier verwalteten Daten werden für den Ausdruck der Liste der Arbeitsverhältnisse ab dem 01.07.2017 für den Beschäftigungsbonus verwendet. Der Ausdruck kann innerhalb der [Sonderdrucke](../Ausdrucke_allgemein/Ausdruck_Sonderdrucke.md) angewählt werden.
 
 Im Programmteil *Ausdruck / Sonderdrucke …* können Sie auch die Liste mit den Referenzwerten für den Beschäftigungsbonus und die voraussichtliche Zuschusshöhe ausdrucken.
 

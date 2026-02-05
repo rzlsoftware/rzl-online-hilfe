@@ -20,6 +20,8 @@ Stellen Sie hier ein, wo der Text der Zeile dargestellt wird: *Oben*, *Zentriert
 
 Wählen Sie eine Hintergrundfarbe aus.
 
+Sie haben auch die Möglichkeit, den Zeilen über eine Formel eine alternierende Farbe zu zuordnen.
+
 ## Nächste Zeile
 
 Hier können Sie auswählen, ob das *Standardverhalten* einer Tabellenzeile angewendet, die *Zeile zusammengehalten* oder auf einer *neuen Seite* dargestellt werden soll.

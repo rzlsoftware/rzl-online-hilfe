@@ -1,8 +1,8 @@
 nav:
-    - Anlegen des Klienten (Dienstgebers) im RZL Lohn.md
-    - Passwort des Klienten.md
-    - DN-Nummernbereich.md
-    - Klient per E-Mail anonymisiert versenden.md
-    - Beschreibung der Symbolleiste.md
-    - Dienstnehmer-Suche.md
+    - Anlegen_des_Klienten.md
+    - Passwort_des_Klienten.md
+    - DN_Nummernbereich.md
+    - Klient_per_eMail_anonymisiert_versenden.md
+    - Beschreibung_der_Symbolleiste.md
+    - Dienstnehmersuche.md
     - ...

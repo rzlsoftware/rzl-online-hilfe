@@ -73,18 +73,18 @@ Handelt es sich bei der Lohnart um eine Aufwandsentschädigung, so ist dieses Fe
 
 Festlegung der Sozialversicherungspflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
 
-| SV-Pflichtigkeit |                                                                                                                                                 |
-| :--------------: | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-|        0         | SV-frei                                                                                                                                         |
-|        1         | SV-pflichtig laufender Bezug                                                                                                                    |
-|        2         | SV-pflichtig, Sonderzahlung                                                                                                                     |
-|        3         | Erhöhung der SV-Bemessungsgrundlage laufender Bezug (z. B. Trinkgeld)                                                                           |
-|        4         | Erhöhung der SV-Bemessungsgrundlage Sonderzahlung                                                                                               |
-|        5         | Erhöhung der SV-Bemessungsgrundlage laufender Bezug ([Altersteilzeit](../Abrechnungen%20Sonderfälle/Abrechnung%20Altersteilzeit.md)) (kein ANA) |
-|        6         | Erhöhung der SV-Bemessungsgrundlage Sonderzahlung ([Altersteilzeit](../Abrechnungen%20Sonderfälle/Abrechnung%20Altersteilzeit.md)) (kein ANA)   |
-|        7         | nur BV-pflichtig                                                                                                                                |
-|        8         | Erhöhung der SV-Bemessungsgrundlage laufender Bezug (kein AnA bei SV und Nebenbeiträgen)                                                        |
-|        9         | Erhöhung der SV-Bemessungsgrundlage Sonderzahlung (kein AnA bei SV und Nebenbeiträgen)                                                          |
+| SV-Pflichtigkeit |                                                                                                                                             |
+| :--------------: | ------------------------------------------------------------------------------------------------------------------------------------------- |
+|        0         | SV-frei                                                                                                                                     |
+|        1         | SV-pflichtig laufender Bezug                                                                                                                |
+|        2         | SV-pflichtig, Sonderzahlung                                                                                                                 |
+|        3         | Erhöhung der SV-Bemessungsgrundlage laufender Bezug (z. B. Trinkgeld)                                                                       |
+|        4         | Erhöhung der SV-Bemessungsgrundlage Sonderzahlung                                                                                           |
+|        5         | Erhöhung der SV-Bemessungsgrundlage laufender Bezug ([Altersteilzeit](../Abrechnungen_Sonderfälle/Abrechnung_Altersteilzeit.md)) (kein ANA) |
+|        6         | Erhöhung der SV-Bemessungsgrundlage Sonderzahlung ([Altersteilzeit](../Abrechnungen_Sonderfälle/Abrechnung_Altersteilzeit.md)) (kein ANA)   |
+|        7         | nur BV-pflichtig                                                                                                                            |
+|        8         | Erhöhung der SV-Bemessungsgrundlage laufender Bezug (kein AnA bei SV und Nebenbeiträgen)                                                    |
+|        9         | Erhöhung der SV-Bemessungsgrundlage Sonderzahlung (kein AnA bei SV und Nebenbeiträgen)                                                      |
 
 
 **Befreiung von Nebenbeiträgen**
@@ -134,6 +134,13 @@ Festlegung der Lohnsteuerpflichtigkeit der Lohnart durch Auswahl aus der vorgege
 |        37         | Zuschuss zur Kinderbetreuung § 3 Abs. 1 Z 13 lit. b                                                                                                                                                                                                                                     |
 |        38         | Kostenersatz Aufladen E-Fahrzeug                                                                                                                                                                                                                                                        |
 |        39         | Kostenersatz Anschaffung einer Ladeeinrichtung                                                                                                                                                                                                                                          |
+|        40         | steuerfrei gem. § 124b Z 478 EStG - Mitarbeiterprämie 2025                                                                                                                                                                                                                              |
+|        41         | steuerfrei gem. § 3 Abs. 1 Z 15 a EStG - Zukunftssicherung nicht sechstelerhöhend                                                                                                                                                                                                       |
+|        42         | steuerfrei gem. § 3 Abs. 1 Z 15 a EStG - Zukunftssicherung sechstelerhöhend                                                                                                                                                                                                             |
+|        43         | steuerfrei gem. § 3 Abs. 1 Z 15 b EStG - Mitarbeiterkapitalbeteiligung                                                                                                                                                                                                                  |
+|        44         | steuerfrei gem. § 3 Abs. 1 Z 15 c und d - Mitarbeiterbeteiligungsstiftung                                                                                                                                                                                                               |
+|        45         | steuerfrei gem. § 3 Abs. 1 Z 16d EStG - Zuschüsse zu Carsharing                                                                                                                                                                                                                         |
+|        46         | steuerfrei gem. § 3 Abs. 1 Z 17 b EStG - Essensgutscheine                                                                                                                                                                                                                               |
 
 **DB-Pflichtigkeit**
 
@@ -276,7 +283,7 @@ Es gibt drei Möglichkeiten den Stundensatz für die Berechnung der Überstunden
 
 **1. Verwendung USt.-Grunddaten**
 
-Wenn das Feld *Verwendung ÜSt.-Grunddaten* aktiviert ist, übernimmt das Programm die Einstellungen (Überstundenteiler oder abw. Überstundengrundlohn) aus dem Abrechnungsbildschirm [*Über-/Mehrarbeitsstunden*](../Abrechnungsbildschirme/Über-%20und%20Mehrarbeitsstunden.md).
+Wenn das Feld *Verwendung ÜSt.-Grunddaten* aktiviert ist, übernimmt das Programm die Einstellungen (Überstundenteiler oder abw. Überstundengrundlohn) aus dem Abrechnungsbildschirm [*Über-/Mehrarbeitsstunden*](../Abrechnungsbildschirme/Ueber_und_Mehrarbeitsstunden.md).
 
 ![Image](<img/image152.png>)
 
