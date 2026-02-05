@@ -1,0 +1,11 @@
+nav:
+
+- installation-uebersiedeln.md     
+- schreibrechte-sqlsicherungesordner.md   
+- trennung-datenbestand.md   
+- lizenzierung-quickguide.md   
+- sqlserver-installation.md   
+- sqlserver-berechtigungskonzept.md   
+- unterschied-sqlexpress-sqlstandard.md   
+- port-programm-freigaben.md   
+- logdateien-hochladen.md
