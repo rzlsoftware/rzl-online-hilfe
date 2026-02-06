@@ -33,12 +33,6 @@ Wenn auf eine E-Mail Benachrichtigung geantwortet wird, so wird -- sofern keine 
 
 Durch diese Auswahl können Sie die E-Mail Benachrichtigungen aktivieren. Nur wenn diese Option (*E-Mail Benachrichtigungen aktivieren* (**1**)) aktiviert ist, werden E-Mails an die in der Verwaltung eingetragenen E-Mail Adressen versendet.
 
-## Passwort Einstellungen
-
-Am RZL Klientenportal können Sie selbst die Sicherheitsstufe für die zu vergebenden Passwörter am RZL Klientenportal definieren. Die Einstellungen dazu finden Sie unter *Stammdaten / Portal / Passwort Einstellungen.* Wählen Sie hier Stufe 3, können Sie selbst festlegen, wie viele Zeichen Ihr Passwort haben soll und welche Eigenschaften die
-Passwörter aufweisen sollen. Im Gegensatz dazu, wird Ihnen dies bei Stufe 2 vorgegeben.
-
-
 ![](img/image33.png)
 
 ## Farben
