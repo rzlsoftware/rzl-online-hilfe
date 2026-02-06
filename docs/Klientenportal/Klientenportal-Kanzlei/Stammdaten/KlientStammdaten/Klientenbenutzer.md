@@ -10,6 +10,8 @@ Nachfolgend können optional der Name und der Vorname des Benutzers eingetragen 
 Anschließend vergeben Sie das Passwort für den Einstieg des Benutzers ins RZL Klientenportal. Ist das
 Feld *Benutzer muss Passwort ändern* aktiviert, muss der Benutzer beim erstmaligen Einstieg in das RZL Klientenportal das Passwort zwingend abändern. Wird das Feld nicht aktiviert, bleibt das hier eingetragene Passwort bestehen.
 
+Passwörter für das Klientenportal müssen mindestens 10 Zeichen lang sein. Erforderlich sind mindestens ein Großbuchstabe, ein Kleinbuchstabe, eine Ziffer und ein Sonderzeichen.
+
 Die E-Mail- Adresse kann benutzerbezogen eingetragen werden. Auf diese E-Mail- Adresse werden Nachrichten gesendet, wenn im Kanzleibereich Dokumente für den Klienten hochgeladen werden. Der Benutzer erhält nur dann ein E-Mail, wenn die Berechtigung *E-Mail Benachrichtigung aktivieren* in den Stammdaten unter *Stammdaten / Portal / E-Mail
 Einstellungen* aktiviert ist. [siehe E-Mail Einstellungen](../StammdatenPortal.md#e-mail-einstellungen)
 

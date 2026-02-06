@@ -10,6 +10,8 @@ Im Programmteil *Stammdaten / Kanzlei / Benutzer* werden Kanzleibenutzer angeleg
 
 Für die Anlage eines Kanzleibenutzers im RZL Klientenportal sind zwingend Benutzername und Passwort zu vergeben. Optional können Sie den Nachnamen und den Vornamen des Benutzers eintragen.
 
+Passwörter für das Klientenportal müssen mindestens 10 Zeichen lang sein. Erforderlich sind mindestens ein Großbuchstabe, ein Kleinbuchstabe, eine Ziffer und ein Sonderzeichen.
+
 Im Feld *E-Mail* sollte die E-Mail Adresse des Kanzleimitarbeiters eingetragen werden. Eine Benachrichtigung an diese E-Mail Adresse erfolgt beim Absenden von Daten bzw. Bereitstellen von Dokumenten aus dem\ Klientenbereich des Portals. Der Kanzleimitarbeiter erhält nur E-Mails bezüglich Klienten - die mit den entsprechenden Berechtigungen -
 zugeordnet sind.
 
