@@ -17,7 +17,7 @@ Im Programmteil *Stammdaten / Portal / E-Mail Einstellungen* können Sie allgeme
 
 ![](img/image-1.png)
 
-### Allgemeine Absenderadresse 
+### Allgemeine Absenderadresse  
 
 Die hier eingetragene Absenderadresse wird bei einer E-Mail Benachrichtigung als Absenderadresse herangezogen.
 
@@ -33,7 +33,6 @@ Wenn auf eine E-Mail Benachrichtigung geantwortet wird, so wird -- sofern keine 
 
 Durch diese Auswahl können Sie die E-Mail Benachrichtigungen aktivieren. Nur wenn diese Option (*E-Mail Benachrichtigungen aktivieren* (**1**)) aktiviert ist, werden E-Mails an die in der Verwaltung eingetragenen E-Mail Adressen versendet.
 
-![](img/image33.png)
 
 ## Farben
 
