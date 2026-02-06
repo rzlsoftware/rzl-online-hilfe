@@ -8,7 +8,7 @@ Im Bereich *Klient wählen* klicken Sie auf die kleine Pfeiltaste und wählen de
 
 Nach der Auswahl der Klienten können Sie in den unten angeführten Feldern die Kassa/Bankbücher anlegen.
 
-![](img/image.png)
+![](img/image3.png)
 
 Durch Anwahl der Schaltfläche NEU können Sie ein neues Kassa/Bankbuch anlegen.
 
