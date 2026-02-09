@@ -2,7 +2,7 @@
 
 ## Ausgangslage Version 2.26.1.0
 
-Bei Austritten im Jahr 2025, bei denen eine Urlaubsersatzleistung (UEL) noch ins Folgejahr (Jänner 2026) wirkt, wurde der WF-Zuschlag Wien noch **nicht** berücksichtig.
+Bei Austritten im Jahr 2025, bei denen eine Urlaubsersatzleistung (UEL) noch ins Folgejahr (Jänner 2026) wirkt, wurde der WF-Zuschlag Wien noch **nicht** berücksichtigt.
 
 **Beispiel**
 
@@ -49,7 +49,7 @@ Im 13. Monat entstehen dadurch höhere Abgaben und ein negativer Auszahlungsbetr
 
 ### Korrektur im Klientenjahr 2026
 
-Die Werte für Jänner 2026 müssen nach der Korrektur korrekt neu aufgebaut werden.
+Die Werte für Jänner 2026 müssen nach der Korrektur neu und korrekt aufgebaut werden. 
 
 Wichtig vorab: Eine Aufrollung funktioniert hier **nicht**.
 
