@@ -1,4 +1,4 @@
-# Verbuchungsregeln zur Verarbeitung von elektronsichen Kontoauszügen
+# Verbuchungsregeln zur Verarbeitung von elektronischen Kontoauszügen
 
 ## Verbuchungsregeln zur Verarbeitung von elektronischen Kontoauszügen
 
