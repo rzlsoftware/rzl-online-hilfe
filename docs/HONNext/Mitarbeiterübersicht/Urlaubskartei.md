@@ -46,7 +46,7 @@ können.
 
 Im Feld *Datum* tragen Sie das Datum ein, bei *Art* können Sie zwischen
 Anfangsbestand und Anspruch auswählen, im Feld *Stunden* tragen Sie die
-Anzahl der Stunden ein und zu Letzt können Sie einen *Text* eintragen.
+Anzahl der Stunden ein und zuletzt können Sie einen *Text* eintragen.
 Wird auf *Speichern* geklickt, werden Ihre Eingaben gespeichert.
 
 ### Urlaubseintrag löschen
@@ -90,7 +90,7 @@ Bei der Umstellung von Urlaubsverwaltung in Stunden zur Verwaltung in
 Tagen erhalten Sie in der Urlaubskartei die zusätzlichen Spalten Tage
 und Saldo Tage. In diesen Spalten wird der Urlaub der bis jetzt in
 Stunden war in Tage umgerechnet. Die Urlaubskartei kann jeder
-Mitarbeiter in seiner Leistungserfassen aufrufen weiters kann sie im HON
+Mitarbeiter in seiner Leistungserfassung aufrufen. Weiters kann sie im HON
 Next über die Mitarbeiterübersicht pro Mitarbeiter geöffnet werden.
 
 **Beispiel Urlaubskartei Teilzeitkraft 20h/Woche mit vier Arbeitstagen
@@ -137,7 +137,7 @@ Urlaubsanspruch in Tagen: 5 AT/Woche \* 5 Wochen Urlaubsanspruch = 25
 Arbeitstage Anspruch
 
 Da die Mitarbeiterin nicht täglich die gleiche Soll Arbeitszeit hat,
-wird der Durschnitt der Wochenstunden pro Tag ermittelt. In diesem Fall
+wird der Durchschnitt der Wochenstunden pro Tag ermittelt. In diesem Fall
 38,5 h / 5 AT = 7,7 h je Tag
 
 Am 24.07.23 war die Mitarbeiterin 8,5 h also in Summe 1,10 Tage auf

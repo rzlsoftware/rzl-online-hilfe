@@ -1,4 +1,4 @@
-# Grundeinstellungen
+*# Grundeinstellungen
 
 ![](<img/image72.png>)
 
@@ -7,7 +7,7 @@ definieren. Die Einstellungen für die Leistungserfassung der Mitarbeiter
 werden ebenso in diesem Registerblatt getroffen.
 
 
-Wenn Sie auf den Button *Grundeinstellungen* kicken, öffnet sich
+Wenn Sie auf den Button *Grundeinstellungen* klicken, öffnet sich
 nachfolgender Tab.
 
 ![](img/image107.png)
@@ -37,7 +37,7 @@ Ansicht bei Eingabe in Industriestunden:
 
 **Kleinste verrechenbare Zeiteinheit**
 
-Hier kann die Zeiteinheit, welche mindesten an den Klienten verrechnet
+Hier kann die Zeiteinheit, welche mindestens an den Klienten verrechnet
 wird, hinterlegt werden. Es wird jeweils auf ein Vielfaches der
 hinterlegten Eingabe gerundet. Um die Rundung darzustellen, wird
 zwischen *Dauer Erfassung* und *Dauer Verrechnung* unterschieden.
@@ -190,7 +190,7 @@ Verrechnungsgruppe gebildet.
 
 **Anzahlungsnoten**
 
-Setzten Sie diese Option, damit Sie mit Anzahlungsrechnungen arbeiten können (vgl. Kapitel [Anzahlungsrechnungen](../Anzahlungsrechnungen/Allgemein.md)).
+Setzen Sie diese Option, damit Sie mit Anzahlungsrechnungen arbeiten können (vgl. Kapitel [Anzahlungsrechnungen](../Anzahlungsrechnungen/Allgemein.md)).
 
 **Rundung "Betrag in Note"**
 
@@ -243,7 +243,7 @@ Folgende Platzhalter stehen Ihnen zur Verfügung:
 
 -   *Note.Nummer* Notennummer
 
--   *Note.Datum* Notendatum – Hier könne Sie zwischen verschiedenen  
+-   *Note.Datum* Notendatum – Hier können Sie zwischen verschiedenen  
     Datumsformaten wählen.
 
 -   *Klient. Nummer* Klientennummer
@@ -269,7 +269,7 @@ die Platzhalter bzw. ihr gewählter Titel liefert.
 ![](<img/image86.png>)
 
 !!! info "Tipp"
-    Wird im Feld *Notentitel* nichts hinterlegt, lautete der Titel der Note
+    Wird im Feld *Notentitel* nichts hinterlegt, lautet der Titel der Note
     „Note\_Note.Datum\_Note.Nummer“
 
 ## PDF-Erstellung
@@ -278,7 +278,7 @@ Mithilfe der Option *Schriftarten einbetten*, können Sie definieren, ob
 die Schriftart in das PDF eingebettet wird oder nicht. Dies hat vor
 allem Auswirkungen auf die Dateigröße der Noten im PDF Format.
 
-Grundsätzlich wird empfohlen die Schriftarten in das PDF-Dokument
+Grundsätzlich wird empfohlen, die Schriftarten in das PDF-Dokument
 einzubetten, um sicherzustellen, dass das Dokument auch auf allen
 Geräten, wo es geöffnet wird ident aussieht.
 
@@ -395,4 +395,4 @@ können mittels Optionsfeldern einstellen, ob die Rabatte/Aufschläge
 automatisch auf den Mitarbeiter oder ohne Mitarbeiterbezug verteilt
 werden.
 
-Ihre Einstellungen können Sie mittels *Speichern* bestätigen.
+Ihre Einstellungen können Sie mittels *Speichern* bestätigen.*

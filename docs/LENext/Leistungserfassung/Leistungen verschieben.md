@@ -17,7 +17,7 @@ Nachdem Sie die Leistungen, welche verschoben/kopiert werden sollten markiert ha
 ![](img/image86.png)
 
 !!! warning "Hinweis"
-    Bei einem erfolgreichen Verschieben der Leistungen öffnet sich autoamtisch das Zieldatum.
+    Bei einem erfolgreichen Verschieben der Leistungen öffnet sich automatisch das Zieldatum.
 
 Die Leistung kann nicht verschoben werden wenn:
 

@@ -20,7 +20,7 @@ Häufige Fälle für ungültige Leistungen sind z. B. ein Wechsel der Verrechnun
 
 ![](<img/image3.png>)
 
-Vorallem das Umbuchen der Leistungen auf ein anderes Leistungsdatum sollte bewusst und verantwortungsvoll eingesetzt werden.
+Vor allem das Umbuchen der Leistungen auf ein anderes Leistungsdatum sollte bewusst und verantwortungsvoll eingesetzt werden.
 
 !!! warning "Hinweis"
     Bei der Eingabe wird geprüft, ob das Zieldatum weiter als Tagesdatum in der Zukunft liegt! Eine Verschiebung in die Zukunft ist nicht möglich.
