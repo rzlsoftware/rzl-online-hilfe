@@ -34,7 +34,7 @@ Abrechnungen, die noch nach der alten Regelung erstellt wurden, sind mit der Opt
 
 ![Image](img/image12.png)
 
-Im Zuge der Aufrollung wird die Option *Altfall § 68(2) – 10 Std./€ 120* automatisch entfernt und der Maximalbetrag von EUR 170,00 ausgeschöpft. Dadurch reduziert sich die Lohnsteuer, was zu einer höheren Aufrolldifferenz zugunsten des Dienstnehmers führt.
+Im Zuge der Aufrollung wird die Option *Altfall § 68(2) – 10 Std./€ 120* automatisch entfernt und der Maximalbetrag von EUR 170,00 ausgeschöpft. Dadurch reduziert sich die Lohnsteuer, was zu einer Aufrolldifferenz zugunsten des Dienstnehmers führt.
 
 ![Image](img/image13.png)
 
