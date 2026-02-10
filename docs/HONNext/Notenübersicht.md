@@ -38,8 +38,12 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
 
 -   Netto
 
--   UST
+-   Zu-/Abschlag
 
+-   Rabatte 
+
+-   UST
+  
 -   Brutto
 
 -   Akonto/Anzahlung
@@ -215,12 +219,12 @@ drucken* auch ausgedruckt werden.
 
 Beim *Note finalisieren* und *Note finalisieren und Drucken* erhalten
 Sie jeweils ein Fenster mit der Möglichkeit das Notendatum im Zuge des
-Finalisierens abzuändern. Mit der Option *Neues Notendatum für die
+Finalisierens abzuändern und die ursprüngliche Nummer beizubehalten. Mit der Option *Neues Notendatum für die
 ausgewählten Noten setzen* definieren Sie das neue Notendatum. Setzten
-Sie diese Option nicht, bleibt das bisherige Notendatum erhalten.
+Sie diese Option nicht, bleibt das bisherige Notendatum erhalten. Mit der Option *Ursprüngliche Nummer beibehalten* erhält die Note die ursprüngliche Nummerierung, sollte diese zurüchgesetzt worden sein.
+Bei neu erstellten Noten, welche noch nicht zurückgesetzt wurden, hat diese Option keine Auswirkung. Die Note wird laufend Nummeriert.
 
-
-![](<img/image324.png>)
+![](img/image414.png)
 
 Mit der Funktion *erweitertes Finalisieren* öffnet sich ein weiterer
 Dialog, wo die Notennummer und das Notendatum eingegeben werden können,
@@ -237,7 +241,7 @@ vermieden werden.
 !!! info "Tipp"
     Wurde eine Note zurückgesetzt und man wählt *erweitertes Finalisieren*,
     schlägt das Programm die alte Notennummer vor – sofern diese nicht
-    bereits vergeben wurde.
+    bereits vergeben wurde. Wird über *Note finalisieren* die zurückgesetze Note finalisiert, ist es wichtig, die Option *Ursprüngliche Nummer beibehalten* zu setzten.
 
 Sollten Sie in den [Grundeinstellungen](../HONNext/Einstellungen/Grundeinstellungen.md) bereits die Einstellung „*Note beim Speichern
 & schließen finalisieren*“ ausgewählt haben, so ist für Sie dieser
