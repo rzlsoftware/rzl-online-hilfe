@@ -10,7 +10,7 @@ werden ebenso in diesem Registerblatt getroffen.
 Wenn Sie auf den Button *Grundeinstellungen* kicken, öffnet sich
 nachfolgender Tab.
 
-![](img/image106.png)
+![](img/image107.png)
 
 ## Stunden
 
@@ -191,6 +191,47 @@ Verrechnungsgruppe gebildet.
 **Anzahlungsnoten**
 
 Setzten Sie diese Option, damit Sie mit Anzahlungsrechnungen arbeiten können (vgl. Kapitel [Anzahlungsrechnungen](../Anzahlungsrechnungen/Allgemein.md)).
+
+**Rundung "Betrag in Note"**
+
+Mit dieser Option können Sie eine automatische Rundung innerhalb der Notenerstellung definieren.
+Es stehen folgende Möglichkeiten zur Verfügung:
+
+- Keine Rundung = der berechnete Wert (Stundenanzahl*Stundensatz) wird bei der Notenerstellung vorgeschlagen
+
+- Kaufmännisch auf Ganze Euro oder auf Zehner = der berechnete Wert wird bei der Notenerstellung kaufmännisch gerundet. 
+
+Bsp.: *Kaufmännisch runden auf ganze Euro*
+
+Berechneter Wert: 102,25 €  
+Wert in der Honorarnote: 102,00 €  
+Die 0,25 € werden automatisch als Abschlag ausgewiesen.
+
+
+*Kaufmännisch runden auf Zehner*
+
+Berechneter Wert: 102,25 €  
+Wert in der Honorarnote: 100,00 €  
+Die 2,25 € werden automatisch als Abschlag ausgewiesen.
+
+
+- Immer Aufrunden auf Ganze Euro oder auf Zehner = der berechnete Wert wird bei der Notenerstellung immer aufgerundet. 
+
+Bsp.: *Immer aufrunden auf ganze Euro*
+
+Berechneter Wert: 102,25 €  
+Wert in der Honorarnote: 103,00 €  
+Die 0,75 € werden automatisch als Zuschlag ausgewiesen.
+
+
+*Immer aufrunden auf Zehner*
+
+Berechneter Wert: 102,25 €  
+Wert in der Honorarnote: 110,00 €  
+Die 7,75 € werden automatisch als Zuschlag ausgewiesen.
+
+!!! warning "Hinweis"
+    Bei den Notenvorschlägen (*Honorarnoten / Notenerstellung*) wird immer der berechnete Wert angezeigt.
 
 **Notentitel**
 
