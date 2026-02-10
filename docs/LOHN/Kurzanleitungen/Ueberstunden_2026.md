@@ -1,6 +1,6 @@
 # Änderung der Steuerfreigrenze für Überstunden (§ 68 Abs. 2 EStG) ab 2026
 
-Für das Kalenderjahr 2026 wurde die Steuerbegünstigung für Überstunden gemäß § 68 Abs. 2 EStG angepasst. Die neuen gesetzlichen Regelungen werden ab Programmversion 2.26.2 berücksichtigt.
+Für das Kalenderjahr 2026 wurde die Steuerbegünstigung für Überstunden gemäß § 68 Abs. 2 EStG angepasst. Die neuen gesetzlichen Regelungen werden ab Programmversion **2.26.2.0** berücksichtigt.
 
 ## Neue gesetzliche Regelung
 
@@ -12,7 +12,7 @@ Für das Kalenderjahr 2026 wurde die Steuerbegünstigung für Überstunden gemä
 
 Bis einschließlich Version 2.26.1.1 erfolgte die Berechnung noch nach der alten Regelung (max. 10 Überstunden / EUR 120,00).
 
-Nach dem Update auf Version **2.26.2.0** erfolgt keine automatische Neuberechnung bereits bestehender Abrechnungen.
+Nach dem Update auf Version **2.26.2.0** erfolgt **keine** automatische Neuberechnung bereits bestehender Abrechnungen.
 
 Abrechnungen, die noch nach der alten Regelung erstellt wurden, sind mit der Option *Altfall § 68(2) – 10 Std./€ 120* gekennzeichnet.
 
@@ -27,15 +27,16 @@ Abrechnungen, die noch nach der alten Regelung erstellt wurden, sind mit der Opt
 
 **Beispiel**
 
-- Grundlohn: € 5.000,00
+- Grundlohn: EUR 5.000,00
 - Überstundenteiler: 160
 - 20 Überstunden mit 50 % Zuschlag
 - Vor Update: Steuerfreier Betrag auf EUR 120,00 begrenzt
 
-
+![Image](img/image12.png)
 
 Im Zuge der Aufrollung wird die Option *Altfall § 68(2) – 10 Std./€ 120* automatisch entfernt und der Maximalbetrag von EUR 170,00 ausgeschöpft. Dadurch reduziert sich die Lohnsteuer, was zu einer höheren Aufrolldifferenz zugunsten des Dienstnehmers führt.
 
-Alle neu angelegten Abrechnungen ab Version 2.26.2 werden automatisch korrekt nach der neuen Regelung erstellt.
+![Image](img/image13.png)
 
-Die Altfall-Option wird nicht mehr gesetzt, unabhängig davon, ob es sich um eine Neuanlage oder eine laufende Abrechnung handelt.
+!!! warning "Hinweis"
+    Alle neu angelegten Abrechnungen ab Version 2.26.2 werden automatisch korrekt nach der neuen Regelung erstellt. Die Altfall-Option wird nicht mehr gesetzt, unabhängig davon, ob es sich um eine Neuanlage oder eine laufende Abrechnung handelt.
