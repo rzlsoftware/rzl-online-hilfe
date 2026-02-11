@@ -12,4 +12,4 @@ Die Voraussetzungen für die Übernahme von EA-Klienten sind folgende:
 -	Es darf keine Buchungen ohne Gegenbuchung in der EA-Rechnung geben.
 -	Bei diesem Klienten muss die Nettomethode aktiviert sein. Das heißt, es können keine Klienten übernommen werden, die nach der Bruttomethode gebucht werden.
 
-Sind diese Voraussetzungen alle erfüllt, können die Klienten in die FIBU Next übernommen werden. Die Übernahme an sich funktioniert gleich wie die Übernahme aus der FIBU Klassik. (siehe [Datenübernahme aus der FIBU Klassik](/FIBUNext/Datenübernahme/aus%20FIBU%20Klassik))
+Sind diese Voraussetzungen alle erfüllt, können die Klienten in die FIBU Next übernommen werden. Die Übernahme an sich funktioniert gleich wie die Übernahme aus der FIBU Klassik. (siehe [Datenübernahme aus der FIBU Klassik](../aus FIBU Klassik/index.md))

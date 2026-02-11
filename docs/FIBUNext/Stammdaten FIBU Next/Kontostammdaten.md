@@ -13,7 +13,7 @@ Anschließend können Sie über das Eingabefeld *Kontonummer* ***(1)*** eines de
 
 ![Image](<img/NeuesElement108.png>)
 
-Für die Beschreibung der verfügbaren Eingabefelder siehe Kapitel [Kontenplan anlegen](../Stammdaten%20Vorlagen/Kontenplane.md/#kontenplan-anlegen). Die Funktionen *Neues Konto* ***(2)*** sowie *Konto löschen* ***(3)*** und *Kontonummer ändern* ***(4)*** werden ebenso in diesem Kapitel beschrieben.
+Für die Beschreibung der verfügbaren Eingabefelder siehe Kapitel [Kontenplan anlegen](../Stammdaten/Kontenplane.md#kontenplan-anlegen). Die Funktionen *Neues Konto* ***(2)*** sowie *Konto löschen* ***(3)*** und *Kontonummer ändern* ***(4)*** werden ebenso in diesem Kapitel beschrieben.
 
 Mit einem Klick auf die Schaltfläche *Kontosperre* ***(5)*** im Menü öffnet sich der Dialog zum Setzen der Kontosperre für das unten ausgewählte Konto. Setzen Sie die Sperre für ein Konto wird dieses in der Kontenliste ausgeblendet und kann nicht mehr bebucht werden.
 
@@ -28,7 +28,7 @@ Mit einem Klick auf die Schaltfläche *Kontosperre* ***(5)*** im Menü öffnet s
 
 ### Personenkonto anlegen
 
-Wählen Sie die Schaltfläche *Neues Konto* ***(1)*** an und vergeben Sie eine Nummer die im Nummernbereich der Personenkonten liegt (siehe Kapitel [Kontenplan anlegen](../Stammdaten%20Vorlagen/Kontenplane.md/#kontenplan-anlegen)), erkennt die FIBU Next automatisch, dass es sich hierbei um ein Personenkonto handelt. Anschließend können Sie die FIBU Person zu diesem Personenkonto anlegen.
+Wählen Sie die Schaltfläche *Neues Konto* ***(1)*** an und vergeben Sie eine Nummer die im Nummernbereich der Personenkonten liegt (siehe Kapitel [Kontenplan anlegen](../Stammdaten/Kontenplane.md#kontenplan-anlegen)), erkennt die FIBU Next automatisch, dass es sich hierbei um ein Personenkonto handelt. Anschließend können Sie die FIBU Person zu diesem Personenkonto anlegen.
 
 
 ![Image](<img/NeuesElement105.png>)
@@ -57,4 +57,3 @@ Ist am Personenkonto bereits ein IBAN hinterlegt, so wird dieser als weiterer Ei
 * **Kundennummer:** Wird aus einem Beleg eine Kundennummer ausgelesen, so wird diese auch am entsprechenden Personenkonto hinterlegt.
 Gibt es am Konto bereits eine bestehende Kundennummer, so wird diese überschrieben.
 * **UID-Nummer:** Auch die UID-Nummer, welche aus einem Beleg ausgelesen werden konnte, wird am bebuchten Personenkonto hinterlegt. Auch hier wird eine bestehende UID-Nummer überschrieben, mit der Ausnahme, dass es sich um ein anderes USt-Land handelt. Ist beispielsweise beim Debitor bereits eine österreichische UID-Nummer hinterlegt und anschließend wird eine deutsche UID-Nummer ausgelesen, so wird diese zusätzlich gespeichert.
-

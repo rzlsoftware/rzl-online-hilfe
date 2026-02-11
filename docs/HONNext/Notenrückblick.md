@@ -8,7 +8,7 @@ zu den bereits verrechneten Noten.
 Der Notenrückblick wird in Kombination mit der Notenerstellung
 verwendet.
 
-Eine Variante, den Notenrückblick zu öffnen, finden Sie unter [Notenrückblick](../HONNext/Notenerstellung/Notenerstellung.md#notenrueckblick) beschrieben.
+Eine Variante, den Notenrückblick zu öffnen, finden Sie unter [Notenrückblick](Notenerstellung/Notenerstellung.md#notenruckblick) beschrieben.
 
 Des Weiteren besteht auch die Möglichkeit, den Notenrückblick über den
 Punkt *Honorarnoten – Notenrückblick* zu öffnen. Sie erhalten, wenn Sie
