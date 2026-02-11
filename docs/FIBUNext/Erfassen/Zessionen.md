@@ -9,7 +9,7 @@ Im Menüpunkt *Stammdaten / Zessionsvermerke* können neue Zessionsvermerke ange
 
 ![alt text](image-2.png)
 
-Als erster Schritt ist im Feld *Nummer* ***(1)*** eine laufende Nummer zu vergeben; mit der Tabulator-Taste wird das Feld *Zessionstext* ***(2)*** erreicht, in dem der gewünschte Text eingegeben werden kann. Das Feld *Gültig bis* ***(3)*** kann leer gelassen werden, falls das Feld befüllt wird, wird der Zessionsvermerk nur bis zu diesem Tagesdatum angezeigt/ausgedruckt. Über die Checkbox *Zessionsvermerk auf Ausdruck* ***(4)*** können Sie festlegen, auf welchen Ausdruck der Zessionsvermerk angezeigt werden soll.
+Als erster Schritt ist im Feld *Nummer* ***(1)*** eine laufende Nummer zu vergeben; mit der Tabulator-Taste wird das Feld *Zessionstext* ***(2)*** erreicht, in dem der gewünschte Text eingegeben werden kann. Das Feld *Gültig bis* ***(3)*** kann leer gelassen werden, falls das Feld befüllt wird, wird der Zessionsvermerk nur bis zu diesem Tagesdatum angezeigt/ausgedruckt. Über die Checkbox *Zessionsvermerk auf Ausdruck* ***(4)*** können Sie festlegen, auf welchem Ausdruck der Zessionsvermerk angezeigt werden soll.
 
 ## Zuordnung der Zessionsvermerke
 
@@ -24,6 +24,6 @@ Im rechten Bereich sehen Sie anschließend eine Liste der noch nicht zugeordnete
 
     Mit **Strg + A** können alle Konten aufeinmal markiert werden.
 
-In den Stammdaten eines Debitors oder Bestandkontos kann unter *Sonstiges* ein Zessionsvermerk zugeordnet werden. Beim Löschen erscheint ein Hinweis, falls diesem noch Konten zugeordnet sind, damt keine versehentlichen Löschungen erfolgen. 
+In den Stammdaten eines Debitors oder Bestandkontos kann unter *Sonstiges* ein Zessionsvermerk zugeordnet werden. Beim Löschen erscheint ein Hinweis, falls diesem noch Konten zugeordnet sind, damit keine versehentlichen Löschungen erfolgen. 
 
 ![alt text](image-6.png)
