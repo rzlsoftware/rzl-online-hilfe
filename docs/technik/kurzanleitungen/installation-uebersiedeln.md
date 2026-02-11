@@ -21,7 +21,7 @@ Folgende Verzeichnisse und Dateien müssen für die Rekonstruktion der RZL Insta
 ## RZL_Datarepository ermitteln
 Standardmäßig liegt das Repository in folgenden Verzeichnissen
 
-Einzelplatzinstallation:   `C:\ProgrammData\RZL Software\RZL_Datarepository`
+Einzelplatzinstallation:   `C:\ProgramData\RZL Software\RZL_Datarepository`
 Netzwerkinstallationen:    `R:\RZL_Datarepository`
 
 Der Pfad zum Datarepository kann auch im RZL-Admin unter Information zur Installation abgelesen werden.
@@ -56,4 +56,4 @@ Es sind lokale Laufwerkspfade, Netzlaufwerkspfade und UNC-Pfade möglich.
 3. Stellen Sie die Datenbank laut Dokumentation [Daten Wiederherstellen](../../setup/daten-wiederherstellen.md) bzw. laut der offiziellen [Microsoft Dokumentation](https://learn.microsoft.com/de-de/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver17&tabs=ssms){:target="_blank"} wieder her.
 
 ## Änderung bei neuer Domäne
-1. Hierzu können Sie die Dokumentation [SQL-Server Berechtigungskonzept](sqlserver-berechtigungskonzept.md) anwenden um entsprechende Änderungen in der Datenbank vorzunehmen.
+1. Hierzu können Sie die Dokumentation [SQL-Server Berechtigungskonzept](sqlserver-berechtigungskonzept.md) anwenden, um entsprechende Änderungen in der Datenbank vorzunehmen.

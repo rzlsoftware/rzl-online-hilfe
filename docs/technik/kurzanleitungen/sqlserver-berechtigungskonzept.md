@@ -3,7 +3,7 @@
 In dieser Dokumentation werden die Benutzer und Rollen beschrieben, die bei der Installation der RZL Programme auf dem SQL Server angelegt werden. Diese Einrichtung ist notwendig, um einen reibungslosen Zugriff der Programme auf die Datenbank zu gewährleisten.
 
 !!! warning "Hinweis"
-    Diese Anleitung richtet sich primär an IT-Techniker. Bei fehlerhaften Änderungen besteht das Risiko, dass die RZL Programme nur beeinträchtigt oder ausfallen können.
+    Diese Anleitung richtet sich primär an IT-Techniker. Bei fehlerhaften Änderungen besteht das Risiko, dass die RZL Programme nur eingeschränkt funktionieren oder ausfallen können..
 
 ## Server-Rollen
 
@@ -61,18 +61,18 @@ In dieser Dokumentation werden die Benutzer und Rollen beschrieben, die bei der 
                     !!! warning "Hinweis"
                         Der Benutzer muss – zumindest temporär – die Rolle `sysadmin` am SQL Server besitzen, damit die Anwendung erfolgreich ausgeführt werden kann.
 
-                        ### `/checkLoginsAndUsers`
-                        Mit diesem Parameter erfolgt die Kontrolle. Als Ergebnis wird eine Auflistung aller relevanten Benutzer und Rollen geliefert, mit dem jeweiligen Status (OK/NOK). Sollte eine fehlerhafte Konfiguration (NOK) existieren, reparieren Sie diese manuell oder mit Hilfe der `DbInit.exe`.
+                    ### /checkLoginsAndUsers
+                    Mit diesem Parameter erfolgt die Kontrolle. Als Ergebnis wird eine Auflistung aller relevanten Benutzer und Rollen geliefert, mit dem jeweiligen Status (OK/NOK). Sollte eine fehlerhafte Konfiguration (NOK) existieren, reparieren Sie diese manuell oder mit Hilfe der `DbInit.exe`.
 
                         **Beispiel:**
                         
-                        .\DbInit.exe /server:localhost\SQLEXPRESS_RZL /db:RZLZMV_XXX /checkLoginsAndUsers
+                     `.\DbInit.exe /server:localhost\SQLEXPRESS_RZL /db:RZLZMV_XXX /checkLoginsAndUsers`
                         
 
-                        ### `/fixLoginsAndUsers`
-                        Mit diesem Parameter erfolgen die Reparatur und die Kontrolle aller relevanten Benutzer und Rollen. Sollte hier etwas nicht funktionieren, wenden Sie sich bitte an den technischen Support von RZL.
+                    ### /fixLoginsAndUsers
+                    Mit diesem Parameter erfolgen die Reparatur und die Kontrolle aller relevanten Benutzer und Rollen. Sollte hier etwas nicht funktionieren, wenden Sie sich bitte an den technischen Support von RZL.
 
                         **Beispiel:**
                         
-                        .\DbInit.exe /server:localhost\SQLEXPRESS_RZL /db:RZLZMV_XXX /fixLoginsAndUsers
+                     `.\DbInit.exe /server:localhost\SQLEXPRESS_RZL /db:RZLZMV_XXX /fixLoginsAndUsers`
                     

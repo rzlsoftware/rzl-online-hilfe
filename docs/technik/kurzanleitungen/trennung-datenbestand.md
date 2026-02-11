@@ -1,13 +1,13 @@
 # Trennung eines RZL Datenbestandes
 
-Die Trennung eines RZL Datenbestandes auf zwei oder mehrere Datenbestände erfolgt in zwei Schritten:
+Die Trennung eines RZL Datenbestandes in zwei oder mehrere Datenbestände erfolgt in zwei Schritten:
 
 1. **Lokales Duplizieren des gesamten RZL Datenbestandes**
 2. **Je Datenbestand die Klienten/Daten löschen, die nicht zu diesem Datenbestand gehören**
 
 ### 1. Lokales Duplizieren des gesamten RZL Datenbestandes
 
-Verwenden Sie hierzu am besten die **RZL Komplettsicherung**. Gehen Sie dabei wie im [Setup-Handbuch Daten sichern](https://hilfe.rzlsoftware.at/setup/daten-sichern/) beschrieben vor, um eine komplette Sicherung des aktuellen Datenbestandes durchzuführen.
+Verwenden Sie hierzu am besten die **RZL Komplettsicherung**. Gehen Sie dabei wie im [Setup-Handbuch Daten sichern](https://hilfe.rzlsoftware.at/setup/daten-sichern/) beschrieben vor, um eine Komplett Sicherung des aktuellen Datenbestandes durchzuführen.
 
 !!! warning "Hinweis"
     Während dieses Vorgangs ist es nicht möglich, mit den RZL Programmen zu arbeiten.  
@@ -16,13 +16,13 @@ Verwenden Sie hierzu am besten die **RZL Komplettsicherung**. Gehen Sie dabei wi
 Die Komplettsicherung kann danach in einer getrennten RZL Installation wiederhergestellt werden. Dabei kann es sich gleich um die Installation handeln, bei der dann letztendlich mit dem Teildatenbestand weitergearbeitet wird.
 
 !!! warning "Hinweis"
-    Es müssen zunächst sämtliche Daten auf diesem System wiederhergestellt werden, um danach erst die nicht gewünschten Klienten/Daten zu löschen.  
+    Es müssen zunächst sämtliche Daten auf diesem System wiederhergestellt werden, um erst danach die nicht gewünschten Klienten/Daten zu löschen.  
     Gibt es bestimmte Klienten/Daten, die auf keinen Fall (auch nicht temporär) zum neuen System übertragen werden dürfen, ist es notwendig, eine temporäre zweite RZL Installation im eigenen System zu erstellen. Diese wird dazu verwendet, um die betroffenen Klienten/Daten zu löschen.  
     Wenden Sie sich hierzu an unseren RZL Vertrieb, damit Ihnen eine temporäre Lizenz für die zweite Installation zur Verfügung gestellt werden kann.
 
 Für die Wiederherstellung der Komplettsicherung in einer zweiten Installation gehen Sie wie im [Setup-Handbuch Daten wiederherstellen](https://hilfe.rzlsoftware.at/setup/daten-wiederherstellen/) beschrieben vor.
 
-### 2. Klienten/Daten löschen
+### 2. Klienten > Daten löschen
 
 #### 2.1. Klienten löschen
 
@@ -36,15 +36,15 @@ b) **Klienten in der ZMV löschen**
 
 ##### a) Klientendaten im KIS bereinigen
 
-- Öffnen Sie im KIS den Menüpunkt `KIS` → `Klient bereinigen`.
+- Öffnen Sie im KIS den Menüpunkt **KIS**, dann **Klient bereinigen**.
 - In der nachfolgenden Maske wählen Sie den Bereich der Klienten aus, den Sie löschen möchten.
 - Markieren Sie alle Optionen und klicken Sie auf **Bereinigen**.
 
 ##### b) Klienten in ZMV löschen
 
-- Öffnen Sie die ZMV und wählen Sie im Menü `Klient/Löschen …`.
+- Öffnen Sie die ZMV und wählen Sie im Menü **Klient**, dann **Löschen** …`.
 - Klicken Sie auf die Schaltfläche **Erweitert**.
-- Im Feld **Nummer** können Sie Nummernbereiche eingeben (z. B. `1-599`).
+- Im Feld **Nummer** können Sie Nummernbereiche eingeben (z. B. 1-599).
 - Nach Drücken der Tabulatortaste wird die Liste nach diesen Klienten gefiltert.
 - Klicken Sie auf **Alle markieren** und anschließend auf **Löschen**.
 - Im nachfolgenden Dialog klicken Sie auf **Ja, alle**.
@@ -55,9 +55,9 @@ b) **Klienten in der ZMV löschen**
 #### 2.2. Mitarbeiter löschen
 
 - Öffnen Sie das RZL Board-Modul **STAMM**.
-- In der Mitarbeiterliste wählen Sie den jeweiligen Mitarbeiter aus (öffnen).
+- In der Mitarbeiterliste wählen Sie den jeweiligen Mitarbeiter aus.
 - Links oben befindet sich die Schaltfläche **Mitarbeiter löschen**.
 
-##### Dahinterliegende Person löschen
+##### Zugehörige Person löschen
 
 - Unter **Personen und Firmen** können Sie die jeweilige Person öffnen und löschen.
