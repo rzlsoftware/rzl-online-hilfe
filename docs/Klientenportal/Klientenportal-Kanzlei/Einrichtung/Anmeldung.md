@@ -31,6 +31,8 @@ Daten zum **erstmaligen Einstieg** in das RZL Klientenportal:
 
 Im nächsten Fenster vergeben Sie Ihr *individuelles* Passwort. Tragen Sie zunächst bei *Altes Passwort* das vorgegebene RZL Passwort *admin* ein. Anschließend vergeben Sie Ihr individuelles Passwort. Um eventuelle Schreibfehler auszuschließen, geben Sie Ihr Passwort im untersten Feld erneut ein.
 
+Passwörter für das Klientenportal müssen mindestens 10 Zeichen lang sein. Erforderlich sind mindestens ein Großbuchstabe, ein Kleinbuchstabe, eine Ziffer und ein Sonderzeichen.
+
 
 ![](img/image5.png)
 
