@@ -18,6 +18,6 @@ Die angeführten Limits beziehen sich nur auf die Datenbank-Engine. Limits für 
 | Maximale relationale Datenbankgröße                                | 10 GB                                | 524 PB                                 |
 
 Eine vollständige Auflistung aller Funktionen ist unter  
-[Editionen und unterstützte Features von SQL-Server 2022](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16&preserve-view=true){:target="_blank"} zu finden.
+[Editionen und unterstützte Features von SQL-Server 2022 &#8599;](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16&preserve-view=true){:target="_blank"} zu finden.
 
 Die Datenbankgröße bezieht sich nur auf die Daten selbst. Die Größe des Transaktionslogs ist für die Berechnung nicht relevant. Ebenso werden Dokumente, welche durch Verwendung der RZL Dokumentenverwaltung Plus ebenfalls in der Datenbank gespeichert werden, nicht in dieses Limit mit einberechnet.

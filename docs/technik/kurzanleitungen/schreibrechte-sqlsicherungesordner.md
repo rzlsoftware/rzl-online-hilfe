@@ -22,7 +22,7 @@ Ermitteln Sie den Benutzer, dem Sie Lese-/Schreibrechte gewähren müssen, ebenf
 `NT Service\MSSQL$SQLEXPRESS_RZL`
 
 !!! warning "Hinweis"
-    Befindet sich der Pfad zu dem Sicherungsorder nicht auf dem gleichen Gerät wird ein [alternativer SQL-Benutzer benötigt der in der Domäne](https://learn.microsoft.com/de-de/sql/database-engine/configure-windows/configure-windows-service-accounts-and-permissions?view=sql-server-ver17#accounts-available-with-any-operating-system){:target="_blank"} sichtbar ist.
+    Befindet sich der Pfad zu dem Sicherungsorder nicht auf dem gleichen Gerät wird ein [alternativer SQL-Benutzer benötigt der in der Domäne &#8599;](https://learn.microsoft.com/de-de/sql/database-engine/configure-windows/configure-windows-service-accounts-and-permissions?view=sql-server-ver17#accounts-available-with-any-operating-system){:target="_blank"} sichtbar ist.
 
 ![Serviceaccount](img/schreibrechte_sqlsicherungsordner_serviceaccount.png)
 

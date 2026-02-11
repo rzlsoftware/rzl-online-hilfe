@@ -48,12 +48,12 @@ Es sind lokale Laufwerkspfade, Netzlaufwerkspfade und UNC-Pfade möglich.
 5. Testen Sie, ob die Dokumente aus den RZL Programmen geöffnet werden können
 
 ## SQL-Datenbank ermitteln und migrieren
-1. Sichern Sie die bestehende Datenbank über den RZL-Admin oder mittels SQL Server Management Studio.
+1. Sichern Sie die bestehende Datenbank über den RZL-Admin oder mittels SQL Server Management Studio
    1. Sichern Sie die Datenbank laut Dokumentation [Daten Sichern](../../setup/daten-sichern.md)
-   2. Alternativ, laden Sie das aktuelle [SQL-Server Management Studio](https://learn.microsoft.com/de-de/ssms/install/install){:target="_blank"} herunter.
-   3. Sichern Sie die Datenbank laut [Microsoft-Dokumentation](https://learn.microsoft.com/de-de/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver17&tabs=ssms){:target="_blank"}.
+   2. Alternativ, laden Sie das aktuelle [SQL-Server Management Studio &#8599;](https://learn.microsoft.com/de-de/ssms/install/install){:target="_blank"} herunter.
+   3. Sichern Sie die Datenbank laut [Microsoft-Dokumentation &#8599;](https://learn.microsoft.com/de-de/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver17&tabs=ssms){:target="_blank"}
 2. Kopieren Sie die Backupdatei auf den neuen Server.
-3. Stellen Sie die Datenbank laut Dokumentation [Daten Wiederherstellen](../../setup/daten-wiederherstellen.md) bzw. laut der offiziellen [Microsoft Dokumentation](https://learn.microsoft.com/de-de/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver17&tabs=ssms){:target="_blank"} wieder her.
+3. Stellen Sie die Datenbank laut Dokumentation [Daten Wiederherstellen](../../setup/daten-wiederherstellen.md) bzw. laut der offiziellen [Microsoft Dokumentation &#8599;](https://learn.microsoft.com/de-de/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver17&tabs=ssms){:target="_blank"} wieder her
 
 ## Änderung bei neuer Domäne
 1. Hierzu können Sie die Dokumentation [SQL-Server Berechtigungskonzept](sqlserver-berechtigungskonzept.md) anwenden, um entsprechende Änderungen in der Datenbank vorzunehmen.

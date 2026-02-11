@@ -14,14 +14,14 @@ In dieser Dokumentation wird die Installation und Konfiguration des SQL-Servers 
 
 Bitte prüfen Sie zuerst die benötigten Hardware- und Softwareanforderungen der SQL-Server Version, die Sie installieren möchten. Es wird empfohlen, die aktuellste – von RZL freigegebene – SQL-Server Version (aktuell: SQL-Server 2022) zu installieren.
 
-Standardmäßig setzt RZL die kostenfreie Express Edition des SQL-Servers voraus. Aufgrund der [Skalierungslimits](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16#scale-limits){:target="_blank"} kann es jedoch notwendig sein, dass für Ihre Installation die kostenpflichtige Standard Edition notwendig ist. Näheres dazu finden Sie auch in der Kurzanleitung [Technische Unterschiede zwischen SQL-Server Express und SQL-Server Standard](unterschied-sqlexpress-sqlstandard.md).
+Standardmäßig setzt RZL die kostenfreie Express Edition des SQL-Servers voraus. Aufgrund der [Skalierungslimits &#8599;](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16#scale-limits){:target="_blank"} kann es jedoch notwendig sein, dass für Ihre Installation die kostenpflichtige Standard Edition notwendig ist. Näheres dazu finden Sie auch in der Kurzanleitung [Technische Unterschiede zwischen SQL-Server Express und SQL-Server Standard](unterschied-sqlexpress-sqlstandard.md).
 
 RZL stellt aus lizenzrechtlichen Gründen – mit Ausnahme von SQL-Server Express – keine Installationsdateien für die unterschiedlichen SQL-Server Editionen zur Verfügung.
 
 ### Download SQL-Server 2022 Express Advanced
 
-- [Deutsch (empfohlen)](https://download.microsoft.com/download/6/d/f/6df2ef5b-235c-4b38-89cb-d3d98797dbfc/SQLEXPRADV_x64_DEU.exe){:target="_blank"}
-- [Englisch](https://download.microsoft.com/download/3/8/d/38de7036-2433-4207-8eae-06e247e17b25/SQLEXPRADV_x64_ENU.exe){:target="_blank"}
+- [Deutsch (empfohlen) &#8599;](https://download.microsoft.com/download/6/d/f/6df2ef5b-235c-4b38-89cb-d3d98797dbfc/SQLEXPRADV_x64_DEU.exe){:target="_blank"}
+- [Englisch &#8599;](https://download.microsoft.com/download/3/8/d/38de7036-2433-4207-8eae-06e247e17b25/SQLEXPRADV_x64_ENU.exe){:target="_blank"}
 
 
 ## Installation einer neuen SQL-Server Instanz
@@ -97,7 +97,7 @@ RZL stellt aus lizenzrechtlichen Gründen – mit Ausnahme von SQL-Server Expres
 
 Microsoft veröffentlicht regelmäßig kumulative Updates für die unterschiedlichen SQL-Server Versionen mit Bugfixes, Sicherheitsupdates und Leistungsverbesserungen. Es wird empfohlen, immer das aktuellste kumulative Update zu installieren und regelmäßig auf neue Updates zu prüfen.   
 
-Unter [Informationen zu den neuesten SQL-Server Builds](https://learn.microsoft.com/de-de/troubleshoot/sql/releases/download-and-install-latest-updates){:target="_blank"} stellt Microsoft eine Übersicht zu den Updates bereit.
+Unter [Informationen zu den neuesten SQL-Server Builds &#8599;](https://learn.microsoft.com/de-de/troubleshoot/sql/releases/download-and-install-latest-updates){:target="_blank"} stellt Microsoft eine Übersicht zu den Updates bereit.
 
 1. Laden Sie das aktuellste kumulative Update für Ihre SQL-Server Version herunter und starten Sie die Installation.
 2. Akzeptieren Sie die Lizenzbedingungen und fahren Sie fort.
@@ -156,8 +156,8 @@ Das **SQL-Server Management Studio (SSMS)** bietet eine grafische Oberfläche zu
 
 ### Download SQL-Server Management Studio
 
-- [Deutsch (empfohlen)](https://learn.microsoft.com/de-de/ssms/install/install){:target="_blank"}
-- [Englisch](https://learn.microsoft.com/en-us/ssms/install/install){:target="_blank"}
+- [Deutsch (empfohlen) &#8599;](https://learn.microsoft.com/de-de/ssms/install/install){:target="_blank"}
+- [Englisch &#8599;](https://learn.microsoft.com/en-us/ssms/install/install){:target="_blank"}
 
 1. Laden Sie die bevorzugte Sprache des SSMS herunter und installieren Sie es.
 2. Nach der Installation ist ein Neustart des Geräts notwendig.

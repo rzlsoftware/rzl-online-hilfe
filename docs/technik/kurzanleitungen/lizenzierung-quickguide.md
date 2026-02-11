@@ -5,7 +5,7 @@
 - Eine Internetverbindung vom Arbeitsplatz zum RZL Lizenzserver ist erforderlich.
 - Die Nutzung ist ausschließlich dem RZL Lizenznehmer und dessen Mitarbeitern gestattet. Die Nutzung durch Dritte ist nicht erlaubt.
 - Bei Fragen zur Nutzung oder Unsicherheiten wenden Sie sich an unseren Vertrieb.   
-[Support](https://rzlsoftware.at/support){:target="_blank"} | [software@rzlsoftware.at](mailto:software@rzlsoftware.at) | [07752 252-66](tel:+43775225266) <button class="copy-phone" data-number="+43775225266" aria-label="Nummer kopieren"></button>
+[Support-Hotline &#8599;](https://rzlsoftware.at/support){:target="_blank"} | [software@rzlsoftware.at](mailto:software@rzlsoftware.at) | [07752 252-66](tel:+43775225266)
 
 ## Umstellung oder neue Lizenzierung durchführen
 
