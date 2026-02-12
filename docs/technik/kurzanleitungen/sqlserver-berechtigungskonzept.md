@@ -3,7 +3,10 @@
 In dieser Dokumentation werden die Benutzer und Rollen beschrieben, die bei der Installation der RZL Programme auf dem SQL Server angelegt werden. Diese Einrichtung ist notwendig, um einen reibungslosen Zugriff der Programme auf die Datenbank zu gewährleisten.
 
 !!! warning "Hinweis"
-    Diese Anleitung richtet sich primär an IT-Techniker. Bei fehlerhaften Änderungen besteht das Risiko, dass die RZL Programme nur eingeschränkt funktionieren oder ausfallen können..
+    Diese Anleitung richtet sich primär an Systembetreuer. Bei fehlerhaften Änderungen besteht das Risiko, dass die RZL Programme nur eingeschränkt funktionieren oder ausfallen.
+!!! note "Tipp"
+    Für das Automatische setzen der Rechte kann das Tool DbInit verwendet werden. Fahren Sie dazu direkt mit dem Kapitel Kontrolle & Reparatur fort.
+
 
 ## Server-Rollen
 

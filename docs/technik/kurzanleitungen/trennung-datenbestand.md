@@ -7,7 +7,7 @@ Die Trennung eines RZL Datenbestandes in zwei oder mehrere Datenbestände erfolg
 
 ### 1. Lokales Duplizieren des gesamten RZL Datenbestandes
 
-Verwenden Sie hierzu am besten die **RZL Komplettsicherung**. Gehen Sie dabei wie im [Setup-Handbuch Daten sichern](https://hilfe.rzlsoftware.at/setup/daten-sichern/) beschrieben vor, um eine Komplett Sicherung des aktuellen Datenbestandes durchzuführen.
+Verwenden Sie hierzu am besten die **RZL Komplettsicherung**. Gehen Sie dabei wie im [Setup-Handbuch Daten sichern](../../setup/daten-sichern.md) beschrieben vor, um eine Komplett Sicherung des aktuellen Datenbestandes durchzuführen.
 
 !!! warning "Hinweis"
     Während dieses Vorgangs ist es nicht möglich, mit den RZL Programmen zu arbeiten.  
@@ -20,7 +20,7 @@ Die Komplettsicherung kann danach in einer getrennten RZL Installation wiederher
     Gibt es bestimmte Klienten/Daten, die auf keinen Fall (auch nicht temporär) zum neuen System übertragen werden dürfen, ist es notwendig, eine temporäre zweite RZL Installation im eigenen System zu erstellen. Diese wird dazu verwendet, um die betroffenen Klienten/Daten zu löschen.  
     Wenden Sie sich hierzu an unseren RZL Vertrieb, damit Ihnen eine temporäre Lizenz für die zweite Installation zur Verfügung gestellt werden kann.
 
-Für die Wiederherstellung der Komplettsicherung in einer zweiten Installation gehen Sie wie im [Setup-Handbuch Daten wiederherstellen](https://hilfe.rzlsoftware.at/setup/daten-wiederherstellen/) beschrieben vor.
+Für die Wiederherstellung der Komplettsicherung in einer zweiten Installation gehen Sie wie im [Setup-Handbuch Daten wiederherstellen](../../setup/daten-wiederherstellen.md) beschrieben vor.
 
 ### 2. Klienten > Daten löschen
 

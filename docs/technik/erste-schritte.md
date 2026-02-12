@@ -9,7 +9,10 @@ Gerne steht Ihnen unser Team bei kniffligen Fragen zur Verfügung und ist stets 
 [Support-Hotline &#8599;](https://rzlsoftware.at/support){:target="_blank"} | [technik@rzl.at](mailto:technik@rzl.at) | [07752 252-39](tel:+43775225239)
 
 !!! note "Tipp"
-      Unser neues Mitglied [Frag Hainz! &#8599;](https://hainz.rzlsoftware.at/Chat){:target="_blank"} steht Ihnen rund um die Uhr in Echtzeit zur Verfügung und beantwortet gerne Ihre Fragen.   
+      Unser neues Mitglied 
+      ![herz_neuronen](img/herz_neuronen_invertiert.svg#only-light){:width="25px"}
+      ![herz_neuronen](../img/herz_neuronen.svg#only-dark){:width="25px"}
+      [Frag Hainz! &#8599;](https://hainz.rzlsoftware.at/Chat){:target="_blank"} steht Ihnen rund um die Uhr in Echtzeit zur Verfügung und beantwortet gerne Ihre Fragen.   
          
       Mehr Informationen zu Frag Hainz! finden Sie hier:   
       [Wie kann mich Frag Hainz! unterstützen?](nutzung-fraghainz.md)
@@ -24,13 +27,13 @@ Für einen reibungslosen Bestell- und Installationsablauf sollten folgende Punkt
 5. Sie haben das Dokument [Technik Checkliste &#8599;](./doc/technik_checkliste.pdf){:target="_blank"} erhalten und Ihrem Systembetreuer übermittelt und ausgefüllt an den RZL Vertrieb retourniert.
 6. Sie haben einen Zugang [zum Anwenderbereich &#8599;](https://rzlsoftware.at/anwenderbereich){:target="_blank"} erhalten und wurden aufgefordert ein neues Passwort zu vergeben. [Anwenderbereich Anmeldung nicht möglich](anwenderbereich-anmeldung.md) 
 7. Sie haben Ihrem Systembetreuer die neuen Zugangsdaten zum Anwenderbereich übermittelt.
-8. Sie haben Ihren Systembetreuer informiert, dass er das [Setup Handbuch](https://hilfe.rzlsoftware.at/setup/) in der RZL Onlinehilfe findet. 
+8. Sie haben Ihren Systembetreuer informiert, dass er das [Setup-Handbuch](../setup/index.md) in der RZL Online Hilfe findet. 
 
 ## Vorbereitung für Systembetreuer
 Haben Sie alle oben genannten Unterlagen und Zugänge erhalten und gelesen? Nun können Sie wie folgt vorgehen:
 
 1. Ermitteln Sie welche Programme benötigt werden. Anhand der Bestellunterlagen oder in Rückprache mit einem RZL Mitarbeiter.   
 2. Legen Sie fest welches Setup benötigt wird.   
-   [Unterschied RZL Komplettinstallation und RZL SQL Server Setup](unterschied-rzlsetup.md)   
-3. Sie können mit der Installation laut [Setup Handbuch](../setup/index.md) beginnen.   
+   [Unterschied RZL Komplettinstallation und RZL SQL-Server Setup](unterschied-rzlsetup.md)   
+3. Sie können mit der Installation laut [Setup-Handbuch](../setup/index.md) beginnen.   
 
