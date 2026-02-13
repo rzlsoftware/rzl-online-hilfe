@@ -109,17 +109,38 @@ Unter *Falls vorhanden* stehen folgende Optionen zur Verfügung:
 - *Vorhandenen Report überschreiben*: Existiert bereits ein Report mit derselben Bezeichnung, wird dieser durch den neuen Report ersetzt.
 - *Report mit automatischer Bezeichnung anlegen*: Existiert bereits ein Report mit derselben Bezeichnung, wird der neue Report mit einer erweiterten Bezeichnung (z. B. „(1)“) angelegt. Ein bestehender Report wird dabei nicht überschrieben.
 
+!!! info "Tipp"
+    Reports die nach der Jahresübernahme neu erstellt oder bearbeitet wurden, müssen ebenfalls über diese Funktion in das gewünschte Klientenjahr übernommen werden.
+
 ### Import - Export
 
 #### Report importieren
 
-Um einen gespeicherten Report zu importieren, wählen Sie die Funktion *Import* und anschließend den entsprechenden Ordner sowie die gewünschte Datei aus.
+Um einen gespeicherten Report zu importieren, wählen Sie die Funktion *Report importieren* und anschließend den entsprechenden Ordner sowie die gewünschte Datei aus.
 
 ![Image](img/image125.png)
 
 #### Report exportieren
 
-Markieren Sie den zu exportierenden Report und wählen Sie Report exportieren. Anschließend öffnet sich ein Speicherdialog, in dem der gewünschte Speicherort ausgewählt werden kann. Der Report wird dort als Datei abgelegt.
+Markieren Sie den zu exportierenden Report und wählen Sie *Report exportieren*. Anschließend öffnet sich ein Speicherdialog, in dem der gewünschte Speicherort ausgewählt werden kann. Der Report wird dort als Datei abgelegt.
 
-## Übergabe Reports aus FIBU Klassik in FIBU Next
+## Reports ausdrucken
 
+Über die Funktion *Report ausdrucken* werden alle verfügbaren Reports angezeigt. Wählen Sie den gewünschten Report aus und starten Sie den Ausdruck entweder per Doppelklick oder über die Schaltfläche *Report ausdrucken*.
+
+Anschließend wird die Druckvorschau des Reports geöffnet.
+
+![Image](img/image126.png)
+
+Der Report kann wahlweise über folgende Ausgabemöglichkeiten erstellt werden: Standarddrucker, Sofortdruck oder RZL-PDF-Drucker.
+
+## Übergabe von Reports aus FIBU Klassik in FIBU Next
+
+Wird ein neuer Klient aus der FIBU Klassik in die FIBU Next übergeben (*Klient / Übergabe an FIBU Next / Klienten*), werden die im Klienten gespeicherten Reports automatisch mitübernommen.
+
+Sollen Reports nachträglich aus der FIBU Klassik übernommen werden, erfolgt dies über: *Klient / Übergabe an FIBU Next / Reports*. 
+
+Dabei können alle unter *Klient / Kanzlei / Reports* gespeicherten Reports in die FIBU Next übernommen werden.
+
+!!! warning "Hinweis"
+    Wenn speziell für einzelne Klienten erstellte Reports übernommen werden sollen, müssen diese zuerst in Kanzleireports umgewandelt werden. Erst danach können sie über *Klient / Übergabe an FIBU Next / Reports* in die FIBU Next übernommen werden.
