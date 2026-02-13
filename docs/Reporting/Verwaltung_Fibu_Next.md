@@ -1,16 +1,17 @@
 # Verwaltung in der FIBU Next
 
-Wenn kein Klient ausgewählt wurde, können Sie in der FIBU Next unter *Reports* die allgemeinen Einstellungen vornehmen.
+Wenn kein Klient ausgewählt ist, können in der FIBU Next unter dem Menüpunkt *Reports* die allgemeinen Report-Einstellungen vorgenommen werden.
 
 ![Image](img/image120.png)
 
-## Allgemeine Verwaltung Reports
+## AAllgemeine Report-Verwaltung
 
 ![Image](img/image121.png)
 
-In der Übersicht befinden sich zwei Musterreports.
+!!! info "Tipp"
+    In der Übersicht stehen zwei Musterreports zur Verfügung.
 
-Es gibt hier folgende Möglichkeiten die Reports zu verwalten:
+Folgende Funktionen stehen für die Verwaltung der Reports zur Verfügung:
 
 - Neuer Report
 - Report bearbeiten
@@ -21,25 +22,29 @@ Es gibt hier folgende Möglichkeiten die Reports zu verwalten:
 - Import - Export
 - mit Beispieldaten anzeigen
 
-### mit Beispieldaten anzeigen
+Die einzelnen Funktionen werden nachfolgend beschrieben.
 
-Wenn das Häkchen bei *mit Beispieldaten anzeigen* aktiviert wurde und ein Report angewählt wird und auf *Report anzeigen* geklickt wird, dann öffnet sich ein Fenster für die Auwahl des Klienten, des Wirtschaftsjahres, der KER Gliederung sowie Bilanz Gliederung:
+### Mit Beispieldaten anzeigen
+
+Wenn die Option *mit Beispieldaten anzeigen* aktiviert ist, kann ein ausgewählter Report über *Report anzeigen* in einer Vorschau mit Beispieldaten geöffnet werden.
+
+Nach dem Klick auf Report anzeigen öffnet sich ein Auswahlfenster für Klient, Wirtschaftsjahr, KER-Gliederung und Bilanz-Gliederung
 
 ![Image](img/image122.png)
 
-Nach den getroffenen Auswahlen öffnet sich die Vorschau mit den Beispieldaten:
+Nach Bestätigung der Auswahl wird der Report mit Beispieldaten in der Vorschau angezeigt.
 
 ![Image](img/image123.png)
 
-Somit haben Sie nun die Möglichkeit, sich einen Report vorab anzusehen und erst dann auf den entsprechenden Klienten zu überspielen.
+Diese Funktion ermöglicht es, einen Report vorab zu prüfen, bevor er einem Klienten zugewiesen oder auf diesen überspielt wird.
 
-## Verwaltung Reports im Klienten
+## Report-Verwaltung im Klienten
 
-Die Reports können in der FIBU Next über den Reiter *Reporting* verwaltet und bearbeitet werden.
+Innerhalb eines Klienten können Reports über den Reiter *Reporting* verwaltet und bearbeitet werden.
 
 ![Image](img/image116.png)
 
-Es gibt hier folgende Möglichkeiten die Reports zu verwalten:
+Folgende Funktionen stehen zur Verfügung:
 
 - Neuer Report
 - Report bearbeiten
@@ -51,66 +56,70 @@ Es gibt hier folgende Möglichkeiten die Reports zu verwalten:
 
 ### Neuen Report erstellen
 
-Durch Anwahl des Buttons *Neuer Report* kann ein neuer Report erstellt werden. Es erscheint daraufhin folgendes Fenster
+Über die Schaltfläche *Neuer Report* kann ein neuer Report angelegt werden. Es öffnet sich folgendes Dialogfenster:
 
 ![Image](img/image117.png)
 
-Sie haben hier die Möglichkeit die *Bezeichnung* des Reports zu vergeben und ebenso die *KER Gliederung* und die *BIL Gliederung* zu definieren.
+Hier sind folgende Angaben vorzunehmen *Bezeichnung* des Reports, *KER Gliederung* und *BIL Gliederung*.
 
-Über *Report erstellen* öffnet sich der Reporting-Designer.
+Mit *Report erstellen* wird der Reporting-Designer geöffnet.
 
-Der neu erstelle Report erscheint in der Rubrik *Reports verwalten* mit der vergebenen Bezeichnung.
+Der neu erstellte Report erscheint anschließend im Bereich *Reports verwalten* mit der vergebenen Bezeichnung.
 
 ![Image](img/image118.png)
 
-Der Report wurde noch keiner Gruppe zugeordnet, daher erscheint dieser Report unter *Ohne Gruppe* auf.
+Da der Report zunächst keiner Gruppe zugeordnet ist, wird er unter *Ohne Gruppe* angezeigt.
 
-Durch Anwahl der Überschrift *Ohne Gruppe* kann nun oben in der Symbolleiste *Gruppe umbenennen* angewählt werden. Es erscheint ein Fenster, wo die Bezeichnung der Gruppe vorgenommen werden kann.
+Um die Gruppe umzubenennen, wählen Sie die Überschrift *Ohne Gruppe* aus und klicken in der Symbolleiste auf *Gruppe umbenennen*. Anschließend kann eine neue Gruppenbezeichnung vergeben werden.
 
 ![Image](img/image119.png)
 
 ### Report bearbeiten
 
-Durch Anwahl dieser Funktion gelangt man in den Reporting-Designer.
+Über *Report bearbeiten* wird der ausgewählte Report im Reporting-Designer geöffnet und kann dort angepasst werden.
 
 ### Report umbenennen
 
-Möchten Sie die Bezeichnung des Report ändern, wählen Sie die Option *Report umbenennen* aus. Die Bezeichnung des Reports wird geöffnet und kann geändert werden.
+Mit der Funktion *Report umbenennen* kann die Bezeichnung eines bestehenden Reports geändert werden. Nach Auswahl der Funktion wird der Name zur Bearbeitung geöffnet.
 
 ### Report löschen
 
-Möchten Sie einen Report löschen, wählen Sie die Funktion *Report löschen* an.
+Um einen Report zu entfernen, wählen Sie *Report löschen*. Der Report wird anschließend aus der Liste entfernt.
 
 ### Report duplizieren
 
-Reports können ganz einfach dupliziert werden, in dem auf die Funktion *Report duplizieren* angewählt wird. Es öffent sich ein Fenster, wo eine neue Bezeichnung des Reports vorgenommen werden kann. Danach erscheint der duplizierte Report in der Auflistung der Reports auf. Durch *Report bearbeiten* können Änderungen vorgenommen werden.
+Mit *Report duplizieren* kann ein bestehender Report kopiert werden. Nach Auswahl der Funktion öffnet sich ein Dialogfenster zur Vergabe einer neuen Bezeichnung. Der duplizierte Report wird anschließend in der Reportliste angezeigt und kann über Report bearbeiten weiter angepasst werden.
 
 ### Report überspielen
 
-Es gibt hier zwei Möglichkeiten:
+Für das Überspielen eines Reports stehen zwei Möglichkeiten zur Verfügung:
 
-- Ein Report kann auf einen oder mehrere Kliente und Wirtschaftsjahre überspielt werden oder
-- in die allgemeine Verwaltung der Reports überspielt werden.
+- Überspielen auf einen oder mehrere Klienten und Wirtschaftsjahre
+- Überspielen in die allgemeine Report-Verwaltung
 
 #### Report auf Klient überspielen
 
-Durch Anwahl *Report auf Klient überspielen* erscheint ein Fenster mit allen Klienten und Wirtschaftsjahren. Sie können hier nur einen oder auch mehrere Klienten auswählen.
+Nach Auswahl von *Report auf Klient überspielen* erscheint ein Dialogfenster mit einer Übersicht aller Klienten und Wirtschaftsjahre. Es können ein oder mehrere Klienten ausgewählt werden.
 
 ![Image](img/image124.png)
 
-Unter *Falls vorhanden* gibt es drei Auswahlmöglichkeiten:
+Unter *Falls vorhanden* stehen folgende Optionen zur Verfügung:
 
-- *Vorhandenen Report beibehalten*: Wenn ein Report mit der gleichen Bezeichnung existiert, dann wird der neue Report nicht hinzugefügt.
-- *Vorhandenen Report überschreiben*: Wenn ein Report mit der gleichen Bezeichnung existiert, dann wird dieser überschrieben.
-- *Report mit automatischer Bezeichnung anlegen*: Wenn es einen Report mit der selben Bezeichnung gibt, wird der neue Report mit (1) in der Bezeichnung erstellt. Es wird nichts überschrieben.
+- *Vorhandenen Report beibehalten*: Existiert bereits ein Report mit derselben Bezeichnung, wird der neue Report nicht übernommen.
+- *Vorhandenen Report überschreiben*: Existiert bereits ein Report mit derselben Bezeichnung, wird dieser durch den neuen Report ersetzt.
+- *Report mit automatischer Bezeichnung anlegen*: Existiert bereits ein Report mit derselben Bezeichnung, wird der neue Report mit einer erweiterten Bezeichnung (z. B. „(1)“) angelegt. Ein bestehender Report wird dabei nicht überschrieben.
 
 ### Import - Export
 
-Sie haben die Möglichkeit, gespeicherte Reports zu importieren. Wählen Sie hierfür den gewünschten Ordner aus und den Report.
+#### Report importieren
+
+Um einen gespeicherten Report zu importieren, wählen Sie die Funktion *Import* und anschließend den entsprechenden Ordner sowie die gewünschte Datei aus.
 
 ![Image](img/image125.png)
 
-Wählen Sie den zu exportierenden Report aus und wählen Sie den Punkt *Report exportieren* aus. Es öffnet sich ein Speicher-Fenster. Hier wählen Sie den gewünschten Speicherort aus und speichern den Report ab.
+#### Report exportieren
+
+Markieren Sie den zu exportierenden Report und wählen Sie Report exportieren. Anschließend öffnet sich ein Speicherdialog, in dem der gewünschte Speicherort ausgewählt werden kann. Der Report wird dort als Datei abgelegt.
 
 ## Übergabe Reports aus FIBU Klassik in FIBU Next
 
