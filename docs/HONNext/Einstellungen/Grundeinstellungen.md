@@ -1,4 +1,4 @@
-*# Grundeinstellungen
+# Grundeinstellungen
 
 ![](<img/image72.png>)
 

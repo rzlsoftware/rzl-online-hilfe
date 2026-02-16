@@ -14,9 +14,9 @@
 | Strg + G                  | im Notenerstellungsdialog                     | Gruppierung                                                                       |
 | Strg + D                  | im Notenerstellungsdialog                     | Zeile drucken                                                                     |
 | Strg + M                  | im Notenerstellungsdialog                     | Automatische Verteilung auf Mitarbeiter                                           |
-| Strg + Shift + M          | im Notenerstellungsdialog                     | Automatische Verteilung auf Mitarbeiter                                           |
+| Strg + Shift + M          | im Notenerstellungsdialog                     | Automatische Verteilung ohne  Mitarbeiter                                         |
 | Strg + T                  | im Notenerstellungsdialog                     | Manuelle Verteilung                                                               |
-| Strg + W                  | im Notenerstellungsdialog                     | Manuelle Verteilung                                                               |
+| Strg + W                  | im Notenerstellungsdialog                     | Zu-/Abschlag  verwerfen                                                           |
 | Einfg                     | im Notenerstellungsdialog                     | Neue Tätigkeit einfügen                                                           |
 | STRG + F6                 | im Notenerstellungsdialog                     | Leistungszeile einfügen                                                           |
 | F6                        | im Notenerstellungsdialog                     | Leistungszeile bearbeiten                                                         |
