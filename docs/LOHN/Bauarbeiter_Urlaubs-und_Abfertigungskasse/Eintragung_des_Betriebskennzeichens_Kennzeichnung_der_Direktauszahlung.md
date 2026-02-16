@@ -2,7 +2,7 @@
 
 Seit 1.1.2014 können die Meldungen der Unternehmen an die Bauarbeiter- Urlaubs- und Abfertigungskasse nicht mehr in Papierform eingereicht werden. Die Meldungen müssen entweder in den Portalanwendungen der BUAK manuell erfasst werden oder können mittels xml-Datei im BUAK Portal importiert werden.
 
-Das Lohnprogramm bietet die Möglichkeit, die Monatsmeldungen, die Urlaubsentgelt-Verrechnung (nur bei Unternehmen mit Treuhandkonto, nicht bei Direktauszahlung von Urlaubsentgelt und Zuschuss) und die Austrittsmeldung elektronisch an die BUAK zu übermitteln. Eine Übermittlung der Meldung der Schlechtwetterentschädigung ist derzeit nicht möglich.
+Das Lohnprogramm bietet die Möglichkeit, die Monatsmeldungen, die Urlaubsentgelt-Verrechnung (nur bei Unternehmen mit Treuhandkonto, nicht bei Direktauszahlung von Urlaubsentgelt und Zuschuss), die Austrittsmeldung sowie die Meldung der Schlechtwetterentschädigung elektronisch an die BUAK zu übermitteln.
 
 Die von der BUAK zur Verfügung gestellte Monatsrückmeldung kann in die Lohnverrechnung importiert werden. Innerhalb der Abrechnungsbildschirme kann die Zuschlagsverrechnungsliste aufgerufen werden.
 
