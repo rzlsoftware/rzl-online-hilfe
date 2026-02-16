@@ -1,8 +1,8 @@
-# Abrechnung einer Wiedereingliederungsteilzeit bzw. einer Bildungsteilzeit 
+# Abrechnung einer Wiedereingliederungsteilzeit
 
-Der Dienstnehmer erhält während der Wiedereingliederungs- bzw. Bildungsteilzeit das Teilzeitgehalt / den Teilzeitlohn auf Basis seiner Wochenarbeitszeit während der Wiedereingliederungs- bzw. Bildungsteilzeit. Das bedeutet, dass ein Dienstnehmer, der eine Normalarbeitszeit von 40 Wochenstunden hatte und jetzt während der Wiedereingliederungs- bzw. Bildungsteilzeit nur 50 % arbeitet, sein Gehalt bzw. seinen Lohn reduziert um 50 % erhält. Diesen neuen Bruttobezug geben Sie in den *Fixen Lohnarten* ein.
+Der Dienstnehmer erhält während der Wiedereingliederungsteilzeit das Teilzeitgehalt / den Teilzeitlohn auf Basis seiner Wochenarbeitszeit während der Wiedereingliederungsteilzeit. Das bedeutet, dass ein Dienstnehmer, der eine Normalarbeitszeit von 40 Wochenstunden hatte und jetzt während der Wiedereingliederungsteilzeit nur 50 % arbeitet, sein Gehalt bzw. seinen Lohn reduziert um 50 % erhält. Diesen neuen Bruttobezug geben Sie in den *Fixen Lohnarten* ein.
 
-Für die Dauer der Wiedereingliederungsteilzeit nach § 13a Arbeitsvertragsrechts-Anpassungsgesetz (AVRAG) bzw. der Bildungsteilzeit gem. § 11a AVRAG sind von der Dienstgeberin bzw. vom Dienstgeber BV-Beiträge auf Basis des monatlichen Entgeltes sowie der Sonderzahlungen vor Herabsetzung der Normalarbeitszeit zu entrichten. Damit Sie die BV-Bemessungsgrundlage entsprechend erhöhen können, legen Sie sich eine freie Lohnart an.
+Für die Dauer der Wiedereingliederungsteilzeit nach § 13a Arbeitsvertragsrechts-Anpassungsgesetz (AVRAG) sind von der Dienstgeberin bzw. vom Dienstgeber BV-Beiträge auf Basis des monatlichen Entgeltes sowie der Sonderzahlungen vor Herabsetzung der Normalarbeitszeit zu entrichten. Damit Sie die BV-Bemessungsgrundlage entsprechend erhöhen können, legen Sie sich eine freie Lohnart an.
 
 ![Image](<img/image523.png>){width="500"}
 
