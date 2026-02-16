@@ -4,7 +4,7 @@ Für das Kalenderjahr 2026 wurde die Steuerbegünstigung für Überstunden gemä
 
 ## Neue gesetzliche Regelung
 
-- Steuerfrei sind bis zu **15 Überstunde**n pro Monat
+- Steuerfrei sind bis zu **15 Überstunden** pro Monat
 - Zuschlag maximal 50 % des Grundlohns
 - Höchstbetrag: **EUR 170,00** pro Monat
 
