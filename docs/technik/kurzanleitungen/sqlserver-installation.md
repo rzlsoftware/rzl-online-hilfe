@@ -124,6 +124,7 @@ Um von anderen Geräten auf die SQL-Server Instanz zugreifen zu können, müssen
 ### Firewall-Regeln einrichten
 
 Es werden zwei Firewall-Regeln benötigt:  
+
 - Eine für den SQL-Server-Dienst  
 - Eine für den SQL-Server-Browser
 

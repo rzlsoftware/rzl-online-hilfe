@@ -17,6 +17,8 @@ Gerne steht Ihnen unser Team bei kniffligen Fragen zur Verfügung und ist stets 
       Mehr Informationen zu Frag Hainz! finden Sie hier:   
       [Wie kann mich Frag Hainz! unterstützen?](nutzung-fraghainz.md)
 
+---
+
 ## Vorbereitung für Anwender
 Für einen reibungslosen Bestell- und Installationsablauf sollten folgende Punkte zutreffen:   
 
