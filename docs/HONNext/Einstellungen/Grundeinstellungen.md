@@ -7,10 +7,10 @@ definieren. Die Einstellungen für die Leistungserfassung der Mitarbeiter
 werden ebenso in diesem Registerblatt getroffen.
 
 
-Wenn Sie auf den Button *Grundeinstellungen* kicken, öffnet sich
+Wenn Sie auf den Button *Grundeinstellungen* klicken, öffnet sich
 nachfolgender Tab.
 
-![](img/image106.png)
+![](img/image107.png)
 
 ## Stunden
 
@@ -37,7 +37,7 @@ Ansicht bei Eingabe in Industriestunden:
 
 **Kleinste verrechenbare Zeiteinheit**
 
-Hier kann die Zeiteinheit, welche mindesten an den Klienten verrechnet
+Hier kann die Zeiteinheit, welche mindestens an den Klienten verrechnet
 wird, hinterlegt werden. Es wird jeweils auf ein Vielfaches der
 hinterlegten Eingabe gerundet. Um die Rundung darzustellen, wird
 zwischen *Dauer Erfassung* und *Dauer Verrechnung* unterschieden.
@@ -190,7 +190,48 @@ Verrechnungsgruppe gebildet.
 
 **Anzahlungsnoten**
 
-Setzten Sie diese Option, damit Sie mit Anzahlungsrechnungen arbeiten können (vgl. Kapitel [Anzahlungsrechnungen](../Anzahlungsrechnungen/Allgemein.md)).
+Setzen Sie diese Option, damit Sie mit Anzahlungsrechnungen arbeiten können (vgl. Kapitel [Anzahlungsrechnungen](../Anzahlungsrechnungen/Allgemein.md)).
+
+**Rundung "Betrag in Note"**
+
+Mit dieser Option können Sie eine automatische Rundung innerhalb der Notenerstellung definieren.
+Es stehen folgende Möglichkeiten zur Verfügung:
+
+- Keine Rundung = der berechnete Wert (Stundenanzahl*Stundensatz) wird bei der Notenerstellung vorgeschlagen
+
+- Kaufmännisch auf Ganze Euro oder auf Zehner = der berechnete Wert wird bei der Notenerstellung kaufmännisch gerundet. 
+
+Bsp.: *Kaufmännisch runden auf ganze Euro*
+
+Berechneter Wert: 102,25 €  
+Wert in der Honorarnote: 102,00 €  
+Die 0,25 € werden automatisch als Abschlag ausgewiesen.
+
+
+*Kaufmännisch runden auf Zehner*
+
+Berechneter Wert: 102,25 €  
+Wert in der Honorarnote: 100,00 €  
+Die 2,25 € werden automatisch als Abschlag ausgewiesen.
+
+
+- Immer Aufrunden auf Ganze Euro oder auf Zehner = der berechnete Wert wird bei der Notenerstellung immer aufgerundet. 
+
+Bsp.: *Immer aufrunden auf ganze Euro*
+
+Berechneter Wert: 102,25 €  
+Wert in der Honorarnote: 103,00 €  
+Die 0,75 € werden automatisch als Zuschlag ausgewiesen.
+
+
+*Immer aufrunden auf Zehner*
+
+Berechneter Wert: 102,25 €  
+Wert in der Honorarnote: 110,00 €  
+Die 7,75 € werden automatisch als Zuschlag ausgewiesen.
+
+!!! warning "Hinweis"
+    Bei den Notenvorschlägen (*Honorarnoten / Notenerstellung*) wird immer der berechnete Wert angezeigt.
 
 **Notentitel**
 
@@ -202,7 +243,7 @@ Folgende Platzhalter stehen Ihnen zur Verfügung:
 
 -   *Note.Nummer* Notennummer
 
--   *Note.Datum* Notendatum – Hier könne Sie zwischen verschiedenen  
+-   *Note.Datum* Notendatum – Hier können Sie zwischen verschiedenen  
     Datumsformaten wählen.
 
 -   *Klient. Nummer* Klientennummer
@@ -228,7 +269,7 @@ die Platzhalter bzw. ihr gewählter Titel liefert.
 ![](<img/image86.png>)
 
 !!! info "Tipp"
-    Wird im Feld *Notentitel* nichts hinterlegt, lautete der Titel der Note
+    Wird im Feld *Notentitel* nichts hinterlegt, lautet der Titel der Note
     „Note\_Note.Datum\_Note.Nummer“
 
 ## PDF-Erstellung
@@ -237,7 +278,7 @@ Mithilfe der Option *Schriftarten einbetten*, können Sie definieren, ob
 die Schriftart in das PDF eingebettet wird oder nicht. Dies hat vor
 allem Auswirkungen auf die Dateigröße der Noten im PDF Format.
 
-Grundsätzlich wird empfohlen die Schriftarten in das PDF-Dokument
+Grundsätzlich wird empfohlen, die Schriftarten in das PDF-Dokument
 einzubetten, um sicherzustellen, dass das Dokument auch auf allen
 Geräten, wo es geöffnet wird ident aussieht.
 
@@ -274,6 +315,10 @@ die Möglichkeit mit Platzhaltern zu arbeiten. Der Standardwert ist der
 Platzhalter *Verrechnungsgruppe mit Projektzeitraum*.
 
 Folgende Platzhalter stehen Ihnen zur Verfügung:
+
+-   *NoteNummer* Honorarnotennummer
+
+-   *NoteDatum* Datum der Honorarnote - verschiedene Formate verfügbar
 
 -   *Verrechnungsgruppe* Name der Verrechnungsgruppe
 
@@ -350,4 +395,4 @@ können mittels Optionsfeldern einstellen, ob die Rabatte/Aufschläge
 automatisch auf den Mitarbeiter oder ohne Mitarbeiterbezug verteilt
 werden.
 
-Ihre Einstellungen können Sie mittels *Speichern* bestätigen.
+Ihre Einstellungen können Sie mittels *Speichern* bestätigen.*
