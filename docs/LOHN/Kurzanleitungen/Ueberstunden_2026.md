@@ -21,7 +21,7 @@ Abrechnungen, die noch nach der alten Regelung erstellt wurden, sind mit der Opt
 ## Vorgehensweise nach dem Update 2.26.2.0
 
 1. Aufrollung durchführen (in der Regel aus der Februar-Abrechnung).
-2. Im Zuge der Aufrollung wird die Option *Altfall § 68(2) – 10 Std./€ 120* automatisch entfernt.
+2. Im Zuge der Aufrollung muss die Option *Altfall § 68(2) – 10 Std./€ 120* entfernt werden.
 3. Das Programm berücksichtigt anschließend die neue Höchstgrenze von EUR 170,00.
 4. Ergibt sich dadurch eine geringere Lohnsteuer, wird die Differenz automatisch dem Dienstnehmer gutgeschrieben.
 
