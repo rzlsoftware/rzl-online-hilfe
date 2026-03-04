@@ -5,18 +5,19 @@
     Für die empfohlene Standardvorgehensweise mit der Komplettsicherung siehe:
     [RZL Daten sichern](../../setup/daten-sichern.md)
 
-    Verwenden Sie diese Anleitung nur in folgenden Fällen:  
-    
-        - Das Datenvolumen übersteigt 200 GB  
-        - Die Komplettsicherung schlägt mit nicht behebbaren Fehlern fehl  
-        - Die bestehende Hardware ist defekt oder veraltet und eine Datenrettung ist erforderlich  
+!!! warning "Hinweis"
+    Verwenden Sie diese Anleitung ausschließlich in den folgenden Fällen:
+
+    - Das Datenmenge übersteigt **200 GB**
+    - Die Komplettsicherung schlägt mit nicht korrigierbaren Meldungen fehl
+    - Die bestehende Hardware ist defekt oder veraltet und eine Datenrettung ist erforderlich
 
 Diese Anleitung beschreibt, wie Sie eine Installation mit einer bestehenden Datenbank auf einen neuen Server oder ein neues Verzeichnis übersiedeln.
 
 ## Daten ermitteln / wiederherstellen
 Folgende Verzeichnisse und Dateien müssen für die Rekonstruktion der RZL Installation organisiert werden:  
 
-- "RZL_Datarepository" unter älteren Installationen "RZLWin"  
+- **RZL_Datarepository** unter älteren Installationen **RZLWin**  
 - Dokumentenverwaltung  
 - SQL-Datenbank (samt Filestream bei Dokumentenverwaltung Plus)  
 

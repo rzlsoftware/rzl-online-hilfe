@@ -3,7 +3,12 @@
 Im Folgenden werden die technischen Unterschiede zwischen den SQL-Server Editionen **Express** und **Standard** im Zusammenhang mit RZL Programmen aufgelistet. Die Unterschiede treffen auf alle SQL-Server-Versionen ab SQL-Server 2016 zu.
 
 !!! warning "Hinweis"
-    Allgemein ist zu erwähnen, dass sich die Performance durch ein Upgrade von Express auf Standard – vor allem bei vielen gleichzeitigen Benutzern - verbessert.
+    Allgemein ist festzuhalten, dass sich die Performance durch ein Upgrade von Express auf Standard verbessert – insbesondere bei einer hohen Anzahl gleichzeitiger Benutzer.
+
+    Beachten Sie jedoch, dass nur **Kanzlei Next** Produkte eine SQL-Datenbank benötigen. Dazu zählen:
+    
+    - **Kanzleiinformationssystem & Board** (DokV+, FibuNext, HonNext, Digitaler Personalakt, Scanner-Anbindung, EBICS)
+    - **Firmenboard** (Belege, Fibu Next) 
 
 ## Skalierungslimits
 
