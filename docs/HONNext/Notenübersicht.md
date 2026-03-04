@@ -1,7 +1,7 @@
 # Notenübersicht
 
 Die Notenübersicht soll Ihnen einen Überblick über Ihre erstellten Noten
-geben. Darin ist ersichtlich, welche Note finalisiert wurden, welche
+geben. Darin ist ersichtlich, welche Noten finalisiert wurden, welche
 Noten bereits in der Belegverarbeitung gebucht wurden und welche Noten
 noch nicht finalisiert wurden und noch bearbeitet werden können.
 
@@ -20,7 +20,7 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
     finden Sie im Kapitel [Nummernbereiche](../HONNext/Stammdaten%20HON%20Next/Nummernbereiche.md) beschrieben.
 
 -   **Zustellung:** Die Art der Zustellung, die Sie bei der
-    Notenerstellung ausgewählt haben wird angezeigt. Siehe [Stammdaten Klienten](../HONNext/Stammdaten%20Klienten.md).
+    Notenerstellung ausgewählt haben, wird angezeigt. Siehe [Stammdaten Klienten](../HONNext/Stammdaten%20Klienten.md).
 
 -   Klienten-Nummer
 
@@ -38,8 +38,12 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
 
 -   Netto
 
--   UST
+-   Zu-/Abschlag
 
+-   Rabatte 
+
+-   UST
+  
 -   Brutto
 
 -   Akonto/Anzahlung
@@ -55,9 +59,9 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
     ![](<img/image308.png>) Finalisierte und
     gedruckte Note
 
-    ![](<img/image309.png>) vorläufige Note
+    ![](<img/image309.png>) Vorläufige Note
 
-    ![](<img/image310.png>) Note die gerade in
+    ![](<img/image310.png>) Note, die gerade in
     Bearbeitung ist
 
     ![](<img/image311.png>) Interne Note
@@ -68,7 +72,7 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
     noch nicht verbuchter Beleg bzw. in der Belegverarbeitung noch nicht
     freigegebener/abgelehnter Beleg wird mit diesem Symbol
     ![](<img/image312.png>) gekennzeichnet. Wurde
-    ein Beleg in der Belegverarbeitung verbucht so wird dieser mit
+    ein Beleg in der Belegverarbeitung verbucht, wird dieser mit
     diesem Symbol ![](<img/image313.png>) dargestellt.
 
 -   **Duplikat:** Hat eine Note den Status *Finalisiert und gedruckt*
@@ -119,7 +123,7 @@ Die Notenübersicht ist in nachfolgende Spalten unterteilt:
     Die Notenübersicht ist initial auf das aktuelle Jahr (Notendatum)
     eingeschränkt. Der Datumsfilter kann jederzeit angepasst werden. Weiters
     besteht die Möglichkeit, einen Vorschlag für die Ansicht zu setzen. Mit
-    Rechtsklick in das *von Feld* können Sie definieren, dass Sie z. B. immer
+    Rechtsklick in das *von*-Feld können Sie definieren, dass Sie z. B. immer
     nur die Noten des letzten Monats sehen oder auch immer alle Noten der
     letzten zwei Jahre. Diese Einstellung wird pro Mitarbeiter gespeichert.
 
@@ -148,18 +152,18 @@ Duplikat gedruckt.
 !!! warning "Hinweis"
     Gab es im Zeitraum zwischen erstmaligem Ausdruck der Note und dem
     Ausgeben als Duplikat eine Änderung in den Stammdaten (Bsp.
-    Adressänderung) wird das Duplikat mit den neuen Stammdaten ausgegeben.
+    Adressänderung), wird das Duplikat mit den neuen Stammdaten ausgegeben.
 
 ## Sortierung der Notenübersicht
 
 Die Noten werden bei der Notenübersicht nach dem Erstellungsdatum
-aufsteigend sortiert d.h. die neuesten Noten werden an unterster Stelle
+aufsteigend sortiert d. h., die neuesten Noten werden an unterster Stelle
 der Tabelle gereiht. Beim Aufruf der Notenübersicht, liegt der Fokus
-standartmäßig auf der zuletzt erstellten Note.
+standardmäßig auf der zuletzt erstellten Note.
 
 ## Note(n) bearbeiten
 
-Sie können hier eine oder mehrere vorläufige Noten markieren, um diese erneut zu bearbeiten. Werden meh-rere Noten markiert, öffnet sich eine Bearbeitungsserie. Das heißt, es öffnen sich die gewählten Noten der Reihe nach – vergleichbar mit der Notenserie bei der Notenerstellung.
+Sie können hier eine oder mehrere vorläufige Noten markieren, um diese erneut zu bearbeiten. Werden mehrere Noten markiert, öffnet sich eine Bearbeitungsserie. Das heißt, es öffnen sich die gewählten Noten der Reihe nach – vergleichbar mit der Notenserie bei der Notenerstellung.
 
 ## Notendatum ändern 
 
@@ -184,7 +188,7 @@ Die bei der Honorarnote definierte Anmerkung (Kapitel [Notenerstellung/Einstellu
 jederzeit editiert werden, ohne die Note öffnen zu müssen.
 
 Es öffnet sich ein Fenster mit der bisherigen Anmerkung, diese können
-Sie nun abändern bzw. falls es noch keine Anmerkung gibt, eine Neue
+Sie nun abändern bzw. falls es noch keine Anmerkung gibt, eine neue
 eintragen.
 
 
@@ -204,7 +208,7 @@ verrechnet werden.
 ## Note finalisieren
 
 Vorläufige Noten müssen noch endgültig finalisiert werden. Dazu gibt es
-drei Möglichkeiten die nachfolgend erläutert werden.
+drei Möglichkeiten, die nachfolgend erläutert werden.
 
 Noch nicht finalisierte Noten können mittels Button *Note finalisieren*,
 entweder finalisiert werden oder mittels Button *Note finalisieren und
@@ -215,12 +219,12 @@ drucken* auch ausgedruckt werden.
 
 Beim *Note finalisieren* und *Note finalisieren und Drucken* erhalten
 Sie jeweils ein Fenster mit der Möglichkeit das Notendatum im Zuge des
-Finalisierens abzuändern. Mit der Option *Neues Notendatum für die
-ausgewählten Noten setzen* definieren Sie das neue Notendatum. Setzten
-Sie diese Option nicht, bleibt das bisherige Notendatum erhalten.
+Finalisierens abzuändern und die ursprüngliche Nummer beizubehalten. Mit der Option *Neues Notendatum für die
+ausgewählten Noten setzen* definieren Sie das neue Notendatum. Setzen
+Sie diese Option nicht, bleibt das bisherige Notendatum erhalten. Mit der Option *Ursprüngliche Nummer beibehalten* erhält die Note die ursprüngliche Nummerierung, sollte diese zurückgesetzt worden sein.
+Bei neu erstellten Noten, welche noch nicht zurückgesetzt wurden, hat diese Option keine Auswirkung. Die Note wird laufend nummeriert.
 
-
-![](<img/image324.png>)
+![](img/image414.png)
 
 Mit der Funktion *erweitertes Finalisieren* öffnet sich ein weiterer
 Dialog, wo die Notennummer und das Notendatum eingegeben werden können,
@@ -237,7 +241,7 @@ vermieden werden.
 !!! info "Tipp"
     Wurde eine Note zurückgesetzt und man wählt *erweitertes Finalisieren*,
     schlägt das Programm die alte Notennummer vor – sofern diese nicht
-    bereits vergeben wurde.
+    bereits vergeben wurde. Wird über *Note finalisieren* die zurückgesetzte Note finalisiert, ist es wichtig, die Option *Ursprüngliche Nummer beibehalten* zu setzen.
 
 Sollten Sie in den [Grundeinstellungen](../HONNext/Einstellungen/Grundeinstellungen.md) bereits die Einstellung „*Note beim Speichern
 & schließen finalisieren*“ ausgewählt haben, so ist für Sie dieser
@@ -271,14 +275,14 @@ Belegverarbeitung in der Finanzbuchhaltung verbucht wurde.
 
 ![](<img/image326.png>)
 
-*Note auf „Finalisiert und gedruckt“ zurücksetzten*
+*Note auf „Finalisiert und gedruckt" zurücksetzen*
 
 Mit dieser Funktion wird der Vermerk, dass ein Duplikat erstellt wurde
 rückgesetzt.
 
 *Note auf „Finalisiert“ zurücksetzten*
 
-Wurde eine Note bereits ausgedruckt wird dies im Stauts vermerkt. Mit
+Wurde eine Note bereits ausgedruckt wird dies im Status vermerkt. Mit
 dieser Funktion wird der Status auf Finalisiert rückgesetzt.
 
 *Note auf „Vorläufig“ zurücksetzten*
@@ -292,15 +296,15 @@ Hinweismeldung.
 
 ![](<img/image327.png>)
 
-Wenn Sie diese Meldung mit *Zurücksetzten* bestätigen, so wird der
+Wenn Sie diese Meldung mit *Zurücksetzen* bestätigen, so wird der
 verknüpfte Beleg aus der Belegverarbeitung gelöscht und die Note wieder
 als vorläufige Note gespeichert.
 
 !!! warning "Hinweis"
-    Die Funktion „Note auf Vorläufig zurücksetzten“ sollte nur in
+    Die Funktion „Note auf Vorläufig zurücksetzen" sollte nur in
     Ausnahmefällen verwendet werden.
 
-Nach dem Zurücksetzten der Note auf den Status *Vorläufig* und dem
+Nach dem Zurücksetzen der Note auf den Status *Vorläufig* und dem
 erneuten Finalisieren bekommt die Note eine neue Notennummer, da weiter
 fortlaufend Nummeriert wird. Daher empfiehlt sich hier die Funktion
 *erweitertes Finalisieren* ([Note finalisieren](../HONNext/Notenübersicht.md#note-finalisieren)).
@@ -333,7 +337,7 @@ gewünschte Note/Noten geöffnet werden.
 
 Ein Notenjournal ist eine Auflistung der in der Note abgerechneten
 Leistungszeilen und der Zu-/Abschläge. Mehrfachselektionen von
-vorläufigen oder/und finalisierten Noten sind möglich. Es öffnet sich im
+vorläufigen und/oder finalisierten Noten sind möglich. Es öffnet sich im
 Anschluss ein eigener Tab für das Notenjournal. Die Gruppierung des
 Notenjournals ist nach der Note (Nr, Datum, Klientennummer,
 Klientenname) und der Tätigkeit (Nummer, Bezeichnung). Die Gruppierung
@@ -348,18 +352,18 @@ innerhalb einer Note dar.
 
 !!! warning "Hinweis"
     Mit der Schaltfläche *Journal Drucken* können Sie das Notenjournal
-    ausdrucken. Der Ausdruck ist dem Tätigkeitsnachweis nachempfunden
-    zusätzlich den abgerechneten Werten und Zu-/Abschlägen.
+    ausdrucken. Der Ausdruck ist dem Tätigkeitsnachweis nachempfunden und
+    enthält zusätzlich die abgerechneten Werte und Zu-/Abschläge.
 
 !!! warning "Hinweis"
-    Im Aufruf des Notenjournal besteht die Möglichkeit sich Layouts
+    Im Aufruf des Notenjournals besteht die Möglichkeit, sich Layouts
     anzulegen (vgl. [Speicherbare Layouts](../HONNext/Auswertungen/Speicherbare%20Layouts.md)).
 
 ## Tätigkeitsnachweis drucken
 
 In der Notenübersicht können Sie eine/mehrere Noten markieren und über
 die Schaltfläche *Tätigkeitsnachweis drucken* einen Tätigkeitsnachweis
-der gewählten Noten ausgeben. Der Tätigkeitsnachweis weißt, im Gegensatz
+der gewählten Noten ausgeben. Der Tätigkeitsnachweis weist im Gegensatz
 zum Notenjournal, nur die Dauer und Einheiten der abgerechneten Zeilen
 aus – keine Werte und Zu-/Abschläge.
 
@@ -376,7 +380,7 @@ ausgedruckt werden.
 ![](<img/image329.png>)
 
 !!! info "Tipp"
-    Wenn Sie den Tätigkeitsnachweis in den PDF Drucker geben, wird
+    Wenn Sie den Tätigkeitsnachweis in den PDF-Drucker geben, wird
     automatisch die E-Mail-Adresse des Klienten mitgeliefert und der
     Nachweis kann einfach mit der Note mitgesandt werden.
 

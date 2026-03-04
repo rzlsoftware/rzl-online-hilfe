@@ -3,7 +3,7 @@
 Über den Menüpunkt *Leistungserfassung / Leistungsübersicht* stehen
 Ihnen alle erfassten Leistungen für Auswertungen zur Verfügung.
 
-Standartmäßig ist der Zeitraum ab dem 01.01. des aktuellen Jahres bis
+Standardmäßig ist der Zeitraum ab dem 01.01. des aktuellen Jahres bis
 zum heutigen Datum vorgegeben. Der Zeitraum kann jedoch individuell
 eingeschränkt werden.
 
