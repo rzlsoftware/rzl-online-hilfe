@@ -10,7 +10,7 @@
 ## Umstellung oder neue Lizenzierung durchführen
 
 1. Nach der Installation der RZL Programme starten Sie die Anwendung. Es öffnet sich der Lizenzmanager.
-2. Alternativ finden Sie den Lizenzmanager im über das Registerblatt **Verwaltung** im RZL Admin oder im Menüpunkt **Hilfsmittel > Lizenzierung** in den RZL Programmen.
+2. Alternativ finden Sie den Lizenzmanager über das Registerblatt **Verwaltung** im RZL Admin oder im Menüpunkt **Hilfsmittel >     Lizenzierung** in den RZL Programmen.
 3. Zudem können Sie den Lizenzmanager als Anwendung starten. Zu finden unter:`C:\Program Files (x86)\RZL Software\RZLWin`).
 4. Folgen Sie dem Dialog und wählen Sie die gewünschte Lizenz im Auswahlfeld aus.
 5. Bestätigen Sie mit **Lizenzieren**.

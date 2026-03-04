@@ -12,23 +12,23 @@ in den RZL Programmen oder im Web. Der Assistent beantwortet rund um die Uhr Ihr
 - **Präzise Fragen stellen**  
     Formulieren Sie Ihre Fragen möglichst klar und konkret. Je genauer Ihre Anfrage, desto passender die Antwort. Nutzen Sie Beispiele, um den Kontext zu verdeutlichen.
 
-- **Iterativer Dialog**  
+- **Interativer Dialog**  
     Beginnen Sie mit einer allgemeinen Frage und stellen Sie bei Bedarf gezielte Folgefragen. Bitten Sie um Erklärungen oder Anpassungen, falls Unklarheiten bestehen.
 
 - **Rollenzuweisung**  
-    Weisen Sie Frag Hainz eine Rolle zu, z. B. „Agiere als Systemadministrator oder als Lohn- und Gehalsverrechner“. So erhalten Sie kontextbezogene und fachspezifische Antworten.
+    Weisen Sie Frag Hainz eine Rolle zu, z. B. „Agiere als Systemadministrator oder als Lohn- und Gehaltsverrechner“. So erhalten Sie kontextbezogene und fachspezifische Antworten.
 
 - **Strukturierte Prompts**  
     Gliedern Sie komplexe Fragen in Absätze oder Listen. Oder Fragen Sie Frag Hainz! wie er Ihre Anfrage am besten verarbeiten kann.
 
 - **Self-Prompting**  
-    Lassen Sie sich von Frag Hainz Vorschläge für bessere Formulierungen Ihrer Fragen und Bereittellung von Informationen machen.
+    Lassen Sie sich von Frag Hainz Vorschläge für bessere Formulierungen Ihrer Fragen und Bereitstellung von Informationen machen.
 
 - **Faktencheck**  
     Überprüfen Sie wichtige Informationen immer anhand zuverlässiger Quellen. Beachten Sie, dass KI auch Fehler machen oder Informationen erfinden kann („halluzinieren“).
 
 - **Datenschutz beachten**  
-    Geben Sie keine sensiblen personenbezogenen Daten oder Firmeninterna ein. Da diese als Bruch der Datenschutzverordung gewertet werden.
+    Geben Sie keine sensiblen personenbezogenen Daten oder Firmeninterna ein. Da diese als Bruch der Datenschutzverordnung gewertet werden.
 
 - **Personalisierte Einstellungen**  
     Definieren Sie bei Bedarf Ihre Branche, Rolle oder häufige Anwendungsfälle, damit Frag Hainz! die Antworten besser auf Ihre Bedürfnisse abstimmen kann.
@@ -36,11 +36,11 @@ in den RZL Programmen oder im Web. Der Assistent beantwortet rund um die Uhr Ihr
 - **Ausgabeformat festlegen**  
     Geben Sie an, wie Sie die Antwort erhalten möchten (z. B. als Stichpunkte, Tabelle, nummerierte Liste). Das ist besonders hilfreich bei Schritt für Schritt Anleitungen.
 
-- **Antworten iteraktiv verbessern**  
+- **Antworten interaktiv verbessern**  
     Bitten Sie Frag Hainz!, die Antwort zu prüfen und zu optimieren, falls Sie mit der Ausgabe noch nicht zufrieden sind.
 
 ---
 
 ### Zusammenfassung
 
-Frag Hainz unterstützt Sie als KI-gestützter Assistent mit schnellen, praxisnahen Antworten zu allen RZL Themen. Die beste Performance erzielen Sie durch klare, strukturierte Fragen, iterative Nachfragen, Rollenzuweisung und formatierte Ausgabe. Überprüfen Sie wichtige Ergebnisse immer kritisch und beachten Sie datenschutzrechtliche Vorgaben.
+Frag Hainz unterstützt Sie als KI-gestützter Assistent mit schnellen, praxisnahen Antworten zu allen RZL Themen. Die beste Performance erzielen Sie durch klare, strukturierte Fragen, aktiv Nachfragen, Rollenzuweisung und formatierte Ausgabe. Überprüfen Sie wichtige Ergebnisse immer kritisch und beachten Sie datenschutzrechtliche Vorgaben.

@@ -8,7 +8,7 @@
 !!! warning "Hinweis"
     Verwenden Sie diese Anleitung ausschließlich in den folgenden Fällen:
 
-    - Das Datenmenge übersteigt **200 GB**
+    - Die Datenmenge übersteigt **200 GB**
     - Die Komplettsicherung schlägt mit nicht korrigierbaren Meldungen fehl
     - Die bestehende Hardware ist defekt oder veraltet und eine Datenrettung ist erforderlich
 
@@ -34,7 +34,7 @@ Pfad: `C:\Program Files (x86)\RZL Software\RZLWin\config.ini`
 
 ## Dokumente ermitteln und verschieben
 Standardmäßig befinden sich die Dokumente/Belege in einem Unterordner des Datarepository (z. B. `R:\RZL_DataRepository\RZL_DOKUMENTE`). Diese müssen nicht zwingend separat migriert werden.
- Sie können jedoch den Speicherort für die rekonstruierte Installation anpassen, indem Sie die Datei RZLDb.ini im INI-Ordner des Datarepository bearbeiten.
+ Sie können jedoch den Speicherort für die rekonstruierte Installation anpassen indem Sie die Datei RZLDb.ini im INI-Ordner des Datarepository bearbeiten.
 
 **Beispiel für die Anpassung:**
 ```ini
@@ -47,7 +47,7 @@ Es sind lokale Laufwerkspfade, Netzlaufwerkspfade und UNC-Pfade möglich.
 1. Beenden Sie alle RZL Programme  
 2. Fügen Sie den Eintrag in der RZLDb.ini hinzu  
 3. Verschieben Sie ...\RZL_DOKUMENTE auf das neue System  
-4. Prüfen Sie, ob NTFS Rechte bearbeitet werden müssen  
+4. Prüfen Sie, ob NTFS-Rechte bearbeitet werden müssen  
 5. Testen Sie, ob die Dokumente aus den RZL Programmen geöffnet werden können  
 
 ## SQL-Datenbank ermitteln und migrieren

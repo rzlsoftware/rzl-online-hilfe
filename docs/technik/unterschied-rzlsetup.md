@@ -2,7 +2,7 @@
 
 ## RZL Komplettversion
 
-Die **RZL Komplettversion** stellt das vollständige Installationspaket für die RZL Programme dar. ES eignet sich für die Installation auf Einzelarbeitsplätzen oder Servern und beinhaltet alle verfügbaren Programme und Komponenten, um die RZL Programme auszuführen.
+Die **RZL Komplettversion** stellt das vollständige Installationspaket für die RZL Programme dar. Es eignet sich für die Installation auf Einzelarbeitsplätzen oder Servern und beinhaltet alle verfügbaren Programme und Komponenten, um die RZL Programme auszuführen.
 
 - Sie verwenden dieses Paket für Neuinstallationen.
 - Sie finden die Komplettversion im Anwenderbereich der RZL Homepage unter „RZL Komplettversion“.
@@ -15,7 +15,7 @@ Die **RZL Komplettversion** stellt das vollständige Installationspaket für die
 Das **RZL SQL-Server Setup** dient ausschließlich der Installation und Konfiguration einer Microsoft SQL-Server Instanz (in der Regel die kostenfreie Express Edition) für datenbankbasierte RZL Programme im Netzwerk.
 
 - Dieses Setup richtet sich hauptsächlich an Administratoren.
-- Sie benötigen dieses Setup, wenn Sie eine neue SQL-Instanz sammt Datenbank für RZL Programme erstellen möchten (z. B. bei Server- oder Netzwerkinstallationen).
+- Sie benötigen dieses Setup, wenn Sie eine neue SQL-Instanz samt Datenbank für RZL Programme erstellen möchten (z. B. bei Server- oder Netzwerkinstallationen).
 - Das Setup nimmt automatisch wichtige SQL-spezifische Einstellungen vor, wie die Aktivierung von TCP/IP, das Erstellen von Firewallregeln und die Konfiguration des SQL-Server Browsers.
 - Sie können das Setup eigenständig aus dem Anwenderbereich herunterladen.
 - Es enthält keine RZL Programme, sondern ist ausschließlich auf die Installation und Konfiguration des SQL-Servers spezialisiert.

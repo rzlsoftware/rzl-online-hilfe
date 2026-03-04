@@ -7,7 +7,7 @@ Die Trennung eines RZL Datenbestandes in zwei oder mehrere Datenbestände erfolg
 
 ### 1. Lokales Duplizieren des gesamten RZL Datenbestandes
 
-Verwenden Sie hierzu am besten die **RZL Komplettsicherung**. Gehen Sie dabei wie im [Setup-Handbuch Daten sichern](../../setup/daten-sichern.md) beschrieben vor, um eine Komplett Sicherung des aktuellen Datenbestandes durchzuführen.
+Verwenden Sie hierzu am besten die **RZL Komplettsicherung**. Gehen Sie dabei wie im [Setup-Handbuch Daten sichern](../../setup/daten-sichern.md) beschrieben vor, um eine Komplettsicherung des aktuellen Datenbestandes durchzuführen.
 
 !!! warning "Hinweis"
     Während dieses Vorgangs ist es nicht möglich, mit den RZL Programmen zu arbeiten.  

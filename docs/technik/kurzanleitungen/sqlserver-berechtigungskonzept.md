@@ -5,7 +5,7 @@ In dieser Dokumentation werden die Benutzer und Rollen beschrieben, die bei der 
 !!! warning "Hinweis"
     Diese Anleitung richtet sich primär an Systembetreuer. Bei fehlerhaften Änderungen besteht das Risiko, dass die RZL Programme nur eingeschränkt funktionieren oder ausfallen.
 !!! note "Tipp"
-    Für das Automatische setzen der Rechte kann das Tool DbInit verwendet werden. Fahren Sie dazu direkt mit dem Kapitel Kontrolle & Reparatur fort.
+    Für das automatische setzen der Rechte kann das Tool DbInit verwendet werden. Fahren Sie dazu direkt mit dem Kapitel Kontrolle & Reparatur fort.
 
 
 ## Server-Rollen

@@ -26,7 +26,7 @@ Für einen reibungslosen Bestell- und Installationsablauf sollten folgende Punkt
 2. Sie haben Kontakt mit Ihrem Systembetreuer oder einem unserer Systempartner aufgenommen. [Führt RZL terminierte Installationen durch?](terminierte-installationen.md)
 3. Sie haben die [Technischen Datenblätter &#8599;](https://rzlsoftware.at/rzl-lizenzbestimmungen){:target="_blank"} betreffend Systemvoraussetzungen erhalten und Ihrem Systembetreuer zur Verfügung gestellt.
 4. Sie haben das Lizenzkennwort für die RZL Programme erhalten und Ihrem Systembetreuer zur Verfügung gestellt.
-5. Sie haben das Dokument [Technik Checkliste &#8599;](./doc/technik_checkliste.pdf){:target="_blank"} erhalten und Ihrem Systembetreuer übermittelt und ausgefüllt an den RZL Vertrieb retourniert.
+5. Sie haben das Dokument [Technik-Checkliste &#8599;](./doc/technik_checkliste.pdf){:target="_blank"} erhalten und Ihrem Systembetreuer übermittelt und ausgefüllt an den RZL Vertrieb retourniert.
 6. Sie haben einen Zugang [zum Anwenderbereich &#8599;](https://rzlsoftware.at/anwenderbereich){:target="_blank"} erhalten und wurden aufgefordert ein neues Passwort zu vergeben. [Anwenderbereich Anmeldung nicht möglich](anwenderbereich-anmeldung.md) 
 7. Sie haben Ihrem Systembetreuer die neuen Zugangsdaten zum Anwenderbereich übermittelt.
 8. Sie haben Ihren Systembetreuer informiert, dass er das [Setup-Handbuch](../setup/index.md) in der RZL Online Hilfe findet. 
@@ -34,7 +34,7 @@ Für einen reibungslosen Bestell- und Installationsablauf sollten folgende Punkt
 ## Vorbereitung für Systembetreuer
 Haben Sie alle oben genannten Unterlagen und Zugänge erhalten und gelesen? Nun können Sie wie folgt vorgehen:
 
-1. Ermitteln Sie welche Programme benötigt werden. Anhand der Bestellunterlagen oder in Rückprache mit einem RZL Mitarbeiter.   
+1. Ermitteln Sie welche Programme benötigt werden. Anhand der Bestellunterlagen oder in Rücksprache mit einem RZL Mitarbeiter.   
 2. Legen Sie fest welches Setup benötigt wird.   
    [Unterschied RZL Komplettinstallation und RZL SQL-Server Setup](unterschied-rzlsetup.md)   
 3. Sie können mit der Installation laut [Setup-Handbuch](../setup/index.md) beginnen.   

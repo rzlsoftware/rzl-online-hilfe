@@ -34,12 +34,12 @@ Beim Öffnen oder Ändern von Firewall-Regeln ist es wichtig, sowohl die Standar
  - **SQL-Browser:**  
     `C:\Program Files (x86)\Microsoft SQL Server\90\Shared\sqlbrowser.exe`
 
-### Programmfreigabe für SQL Server Instanz
+### Programmfreigabe für SQL-Server Instanz
 
 !!! warning "Hinweis"
-    Anstelle von `MSSQLXX.MSSQLSERVER` setzen Sie die korrekte SQL Version z.B. `MSSQL15.MSSQLSERVER.`.
+    Anstelle von `MSSQLXX.MSSQLSERVER` setzen Sie die korrekte SQL-Version z.B. `MSSQL15.MSSQLSERVER.`.
 
-### Programmfreigabe für SQL Server (MSSQLSERVER)
+### Programmfreigabe für SQL-Server (MSSQLSERVER)
 
 New-NetFirewallRule -DisplayName "SQL Server (MSSQLSERVER)" `
 -Direction Inbound `
