@@ -1,6 +1,6 @@
 # Abrechnung Essensgutscheine
 
-Seit 2026 müssen Essensgutscheine gemäß § 3 Abs. 1 Z 17 lit. b EStG sowohl im Jahreslohnkonto als auch im Jahreslohnzettel erfasst werden. Damit die Werte dort korrekt ausgewiesen werden, sind Essensgutscheine über die Lohnsteuerpflichtigkeit Nr. *46 steuerfreie Bezüge gem. § 3 Abs. 1 Z 17 lit. b EStG* abzurechnen.
+Seit 2026 müssen Essensgutscheine gemäß § 3 Abs. 1 Z 17 lit. b EStG sowohl im Jahreslohnkonto als auch im Jahreslohnzettel erfasst werden. Damit die Werte dort korrekt ausgewiesen werden, sind Essensgutscheine über die Lohnsteuerpflichtigkeit Nr. **46 steuerfreie Bezüge gem. § 3 Abs. 1 Z 17 lit. b EStG** abzurechnen.
 
 ## Musterlohnart für Essensgutscheine
 
