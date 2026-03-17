@@ -83,6 +83,7 @@ Unter *Ausdruck / Sonderdrucke / Aufstellung Firmenfahrzeuge* steht ab sofort di
     Die Ausgabe kann sowohl im *PDF-Format* als auch im *ASCII-Format* erfolgen.
 
 *Verfügbare Filteroptionen:*
+
 - Nur zugeordnete Fahrzeuge
 - Nicht zugeordnete Fahrzeuge
 
