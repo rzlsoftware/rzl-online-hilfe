@@ -66,4 +66,18 @@ Hier kann der Verwandtschaftsgrad zum Dienstgeber angeführt werden.
 
 ## Art der erbrachten Leistung
 
-Hier kann die Art der Leistung angeführt werden. Zum Beispiel Freier Dienstvertrag, Mitglied des Aufsichtsrates etc.
+Hier kann die Art der erbrachten Leistung angegeben werden.
+
+Mögliche Leistungen sind:
+
+- Mitglied des Aufsichtsrates, Verwaltungsrat
+- Bausparkassen-/ Versicherungsvertreter
+- Stiftungsvorstand
+- Vortragender, Lehrender, Unterrichtender
+- Kolporteur, Zeitungszusteller
+- Privatgeschäftsvermittlung
+- Funktionär öffentlich-rechtlicher Körperschaften
+- Freier Dienstvertrag
+- Lizenzgebühren
+
+Für die Leistung *Mitglied des Aufsichtsrats, Verwaltungsrat* muss zusätzlich die *Steuernummer des Ansässigkeitsstaates* erfasst werden.
