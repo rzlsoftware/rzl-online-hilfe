@@ -1,1 +1,0 @@
-## Verknüpfung zum Klientenportal
