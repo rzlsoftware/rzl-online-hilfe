@@ -5,11 +5,12 @@ Bei den Steuerzeilen muss ein Steuermerkmal hinterlegt werden. Nach Auswahl eine
 
 ![Steuerzeilen](<img/image9.png>)
 
-Falls ein Wert nicht ausgelesen werden kann, kann hier wieder mit mittels der **Shift-Taste** + **Klick** auf das Schablonenzeichen geklickt werden und dann kann dieses Feld auch ohne vorher eingetragenen Wert bearbeitet werden.
+Falls ein Wert nicht ausgelesen werden kann, kann hier wieder mit mittels der **Shift-Taste** + **Klick** auf das Schablonenzeichen gedrückt werden und mittels dieser Funktion kann dieses Feld auch ohne vorher eingetragenen Wert bearbeitet werden.
 
 Es können in der Belegverarbeitung mehrere Steuerzeilen angelegt werden, das führt dann zu einer Aufsplittung des Beleges. 
 
-!!! warning "Hinweis"
-    Es kann pro Belege nur einmal dieselbe Steuer verwendet werden. Beim Versuch mehrmals denselben Steuersatz zu verwenden, wird die vorherige Bearbeitung überschrieben.
 
+!!! info "Tipp"
+    In Kombination mit den Steuerzeilen, werden in den meisten Fällen, die Kontonummern direkt eingetragen, damit die automatische Aufteilung direkt korrekt befüllt ist.
+    Seitens der Belegverarbeitung ist es jedoch nicht möglich, das man dieselben Steuersätze öfters in den Steuerzeilen vergibt, da nicht genau bestimmt werden kann, welcher Betrag zu welchem Konto gehört.
 
