@@ -53,7 +53,7 @@ Wir beantworten Ihre häufig gestellten Fragen rund um technische Themen und Pro
 
 
 !!! question "Wo kann ich nachlesen, welche Programme und Module ich gekauft habe?"
-	Eine Übersicht Ihrer lizenzierten Programme und Module finden Sie in den RZL Programmen unter Hilfe > Lizenzierung oder auf Ihren Rechnungsunterlagen.
+	Eine Übersicht Ihrer lizenzierten Programme und Module finden Sie in den RZL Programmen unter Hilfsmittel > Lizenzierung oder auf Ihren Rechnungsunterlagen.
 
 
 !!! question "Wie gehe ich vor um die aktuelle Programm-Version einzuspielen?"
