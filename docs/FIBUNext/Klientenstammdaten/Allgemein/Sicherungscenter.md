@@ -5,7 +5,7 @@
 Im Board unter *STAMM* finden Sie beim jeweiligen Klienten das *Sicherungscenter*. Über diesen Menüpunkt können Sie vom jeweiligen FIBU Next Klienten Sicherungen erstellen und verwalten.
 
 
-![Image](<img/NeuesElement200.png>)
+![alt text](image.png)
 
 ### Sicherung erstellen
 
@@ -32,6 +32,14 @@ Sie können bereits erstellte Sicherungen auch als Datei exportieren. Über die 
 
 Bereits exportierte Sicherungen bzw. externe Sicherungen können über die Schaltfläche *Sicherung aus Datei importieren* in das Sicherungscenter übernommen werden. Anschließend können Sie die *Sicherung wiederherstellen*.
 
+### Sicherung als E-Mail versenden
+
+Sie können bereits erstellte Sicherungen als E-Mail versenden. 
+
 ### Automatische Sicherungen
 
 Nähere Informationen zu den automatischen Sicherungen finden Sie im Kapitel [FIBU Sicherungseinstellungen](/FIBUNext/Stammdaten Vorlagen/FIBUSicherungseinstellungen).
+
+### Wirtschaftsjahr per Drag&Drop importieren
+
+Sie können die Sicherung auch per Drag&Drop importieren.
