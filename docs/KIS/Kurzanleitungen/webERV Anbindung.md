@@ -35,7 +35,7 @@ Für eine strukturierte Ablage der webERV Dokumente können Sie unter *Verwaltun
 Außerdem können Sie unter *Verwaltung → Aufgabenvorlagen* Aufgabenvorlagen anlegen, mit welchen Aufgaben für die ERV Firmenbuchbeschlüsse/sonstige ERV Zustellungen erstellt werden. 
 
 Es besteht die Möglichkeit, analog zu den Funktionen in FinanzOnline, mit Aufgabenvorlagen zu arbeiten.
-Im Falle einer fehlerhaften Übermittlung kann durch die Hinterlegung einer Vorlage unter *Aufgabenvorlage für zu erstellende Aufgabe*vautomatisch eine entsprechende Aufgabe generiert werden.
+Im Falle einer fehlerhaften Übermittlung kann durch die Hinterlegung einer Vorlage unter *Aufgabenvorlage für zu erstellende Aufgabe* automatisch eine entsprechende Aufgabe generiert werden.
 Wird der Jahresabschluss hingegen erfolgreich übermittelt, erfolgt die automatische Erledigung durch den Zuständigen webERV. Voraussetzung dafür ist die Hinterlegung einer Vorlage unter *Aufgabenvorlage für zu erledigende Aufgabe*.
 
 ![Zuweisungen webERV](<img/Zuweisungen.png>)
