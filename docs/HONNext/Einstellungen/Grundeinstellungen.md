@@ -10,7 +10,7 @@ werden ebenso in diesem Registerblatt getroffen.
 Wenn Sie auf den Button *Grundeinstellungen* klicken, öffnet sich
 nachfolgender Tab.
 
-![](img/image107.png)
+![](img/image108.png)
 
 ## Stunden
 
@@ -289,8 +289,13 @@ angezeigt werden, welche die Schrift installiert haben. Fehlt die
 Schrift auf dem Endgerät, erhält der Benutzer folgende Meldung und das
 PDF kann nicht korrekt dargestellt werden.
 
-
 ![](<img/image87.png>)
+
+## Texteingabe
+
+Mithilfe der Option *Rechtschreibprüfung in den Leistungstexteingaben aktivieren*, können Sie definieren, ob
+die Rechtschreibprüfung in der Leistungserfassung der Mitarbeiter oder auch in der Leistungserfassung in der Honorarverrechnung durchgeführt werden soll.
+
 
 ## Buchhaltung
 
