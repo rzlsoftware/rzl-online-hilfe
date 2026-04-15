@@ -1,6 +1,8 @@
 # Technische Unterschiede zwischen SQL-Server Express und SQL-Server Standard
 
-Im Folgenden werden die technischen Unterschiede zwischen den SQL-Server Editionen **Express** und **Standard** im Zusammenhang mit RZL Programmen aufgelistet. Die Unterschiede treffen auf alle SQL-Server-Versionen ab SQL-Server 2016 zu.
+Im Folgenden werden die technischen Unterschiede zwischen den SQL-Server Editionen **Express** und **Standard** im Zusammenhang mit RZL Programmen aufgelistet. Die Unterschiede treffen auf SQL-Server Version 2025 zu. 
+
+Für ältere Versionen prüfen Sie bitte die ensprechenden Dokumenationen. [Editionen und unterstützte Features von SQL-Server 2022 und älter &#8599;](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16&preserve-view=true){:target="_blank"}
 
 !!! warning "Hinweis"
     Allgemein ist festzuhalten, dass sich die Performance durch ein Upgrade von Express auf Standard verbessert – insbesondere bei einer hohen Anzahl gleichzeitiger Benutzer.
@@ -20,9 +22,9 @@ Die angeführten Limits beziehen sich nur auf die Datenbank-Engine. Limits für 
 | Maximaler Arbeitsspeicher für den Pufferpool pro Instanz           | 1410 MB                              | 128 GB                                 |
 | Maximaler Arbeitsspeicher für Columnstore-Segmentcache pro Instanz | 352 MB                               | 32 GB                                  |
 | Maximale speicheroptimierte Datengröße pro Datenbank               | 352 MB                               | 32 GB                                  |
-| Maximale relationale Datenbankgröße                                | 10 GB                                | 524 PB                                 |
+| Maximale relationale Datenbankgröße                                | 50 GB                                | 524 PB                                 |
 
 Eine vollständige Auflistung aller Funktionen ist unter  
-[Editionen und unterstützte Features von SQL-Server 2022 &#8599;](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16&preserve-view=true){:target="_blank"} zu finden.
+[Editionen und unterstützte Features von SQL-Server 2025 &#8599;](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2025?view=sql-server-ver17&preserve-view=true){:target="_blank"} zu finden.
 
 Die Datenbankgröße bezieht sich nur auf die Daten selbst. Die Größe des Transaktionslogs ist für die Berechnung nicht relevant. Ebenso werden Dokumente, welche durch Verwendung der RZL Dokumentenverwaltung Plus ebenfalls in der Datenbank gespeichert werden, nicht in dieses Limit mit einberechnet.

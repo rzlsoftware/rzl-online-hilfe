@@ -9,25 +9,25 @@ In dieser Dokumentation wird die Installation und Konfiguration des SQL-Servers 
 ## Allgemeines
 
 !!! warning "Hinweis" 
-    - **SQL-Server Version** bezieht sich auf den Entwicklungsstand und das Veröffentlichungsdatum des SQL-Servers (z.B.: 2019, 2022, …).  
+    - **SQL-Server Version** bezieht sich auf den Entwicklungsstand und das Veröffentlichungsdatum des SQL-Servers (z.B.: 2019, 2022, 2025, …).  
     - **SQL-Server Edition** bezieht sich auf die Variante des SQL-Servers, die für unterschiedliche Nutzungsszenarien und Leistungsanforderungen konzipiert ist (Express, Standard, …).
 
-Bitte prüfen Sie zuerst die benötigten Hardware- und Softwareanforderungen der SQL-Server Version, die Sie installieren möchten. Es wird empfohlen, die aktuellste – von RZL freigegebene – SQL-Server Version (aktuell: SQL-Server 2022) zu installieren.
+Bitte prüfen Sie zuerst die benötigten Hardware- und Softwareanforderungen der SQL-Server Version, die Sie installieren möchten. Es wird empfohlen, die aktuellste – von RZL freigegebene – SQL-Server Version (aktuell: SQL-Server 2025) zu installieren.
 
-Standardmäßig setzt RZL die kostenfreie Express Edition des SQL-Servers voraus. Aufgrund der [Skalierungslimits &#8599;](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16#scale-limits){:target="_blank"} kann es jedoch notwendig sein, dass für Ihre Installation die kostenpflichtige Standard Edition notwendig ist. Näheres dazu finden Sie auch in der Kurzanleitung [Technische Unterschiede zwischen SQL-Server Express und SQL-Server Standard](unterschied-sqlexpress-sqlstandard.md).
+Standardmäßig setzt RZL die kostenfreie Express Edition des SQL-Servers voraus. Aufgrund der [Skalierungslimits &#8599;](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2025?view=sql-server-ver17&preserve-view=true){:target="_blank"} kann es jedoch notwendig sein, dass für Ihre Installation die kostenpflichtige Standard Edition notwendig ist. Näheres dazu finden Sie auch in der Kurzanleitung [Technische Unterschiede zwischen SQL-Server Express und SQL-Server Standard](unterschied-sqlexpress-sqlstandard.md).
 
 RZL stellt aus lizenzrechtlichen Gründen – mit Ausnahme von SQL-Server Express – keine Installationsdateien für die unterschiedlichen SQL-Server Editionen zur Verfügung.
 
-### Download SQL-Server 2022 Express Advanced
+### Download SQL-Server Express Advanced
 
-- [Deutsch (empfohlen) &#8599;](https://download.microsoft.com/download/6/d/f/6df2ef5b-235c-4b38-89cb-d3d98797dbfc/SQLEXPRADV_x64_DEU.exe){:target="_blank"}
-- [Englisch &#8599;](https://download.microsoft.com/download/3/8/d/38de7036-2433-4207-8eae-06e247e17b25/SQLEXPRADV_x64_ENU.exe){:target="_blank"}
+- [SQL-Server 2025 &#8599;](https://www.microsoft.com/de-de/sql-server/sql-server-downloads){:target="_blank"}
+Empfohlen wird für die Installation das deutsche Sprachpaket.
 
 
 ## Installation einer neuen SQL-Server Instanz
 
 !!! warning "Hinweis"
-    Die folgenden Schritte wurden mit dem Setup für SQL-Server 2022 Standard (deutsch) auf einem Windows Server 2022 (deutsch) durchgeführt. Die Anleitung ist auch für andere Versionen und Editionen des SQL-Servers gültig, es kann jedoch sein, dass einzelne Schritte abweichen.
+    Die folgenden Schritte wurden mit dem Setup für SQL-Server 2025 Standard (deutsch) auf einem Windows Server 2025 (deutsch) durchgeführt. Die Anleitung ist auch für andere Versionen und Editionen des SQL-Servers gültig, es kann jedoch sein, dass einzelne Schritte abweichen.
 
 1. **Mounten des Installationsmediums (ISO-Datei)**  
     Rechtsklick auf die ISO-Datei → **Bereitstellen**  
@@ -112,7 +112,7 @@ Um von anderen Geräten auf die SQL-Server Instanz zugreifen zu können, müssen
 
 ### Netzwerkprotokolle einrichten
 
-1. Öffnen Sie den **SQL-Server 2022-Konfigurations-Manager** unter **Start → Microsoft SQL-Server 2022**.
+1. Öffnen Sie den **SQL-Server 2025-Konfigurations-Manager** unter **Start → Microsoft SQL-Server 2025**.
 2. Wählen Sie unter **SQL-Server-Netzwerkkonfiguration** den Eintrag **Protokolle für 'RZL_SQL'** und öffnen Sie die Eigenschaften für das Protokoll **TCP/IP**.
 3. Im Reiter **Protokoll** die Option **Aktiviert** auf **Ja** setzen.
 4. Im Reiter **IP-Adressen** ans Ende scrollen. In der Gruppierung **IPAll** muss ein dynamischer Port hinterlegt sein und bei **TCP-Port** darf kein Wert eingetragen sein. Falls nicht, Wert bei **TCP-Port** löschen und bei **Dynamische TCP-Ports** den Wert `0` eintragen.
