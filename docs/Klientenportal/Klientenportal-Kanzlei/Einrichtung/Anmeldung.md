@@ -1,41 +1,44 @@
-# Anmeldung am RZL Klientenportal
+# Erstmalige Anmeldung am RZL Klientenportal
 
-## Internet Start-Adresse
+## Zugang zum RZL Klientenportal
 
-Geben Sie im Internet Browser Ihre Internet Start-Adresse 
-(anfangend mit **https://klientenportal.at/**) ein. 
+Sie erhalten von RZL Software eine E-Mail mit einem Link für die Anlage des Administrator-Zugangs für Ihre Kanzlei.
 
-!!! warning "Hinweis"
-    Diese Adresse finden Sie in einem separaten RZL Schreiben mit Ihren individuellen Zugangsdaten.
+![](img/image8.png)
 
-Falls Ihnen dieses Schreiben nicht vorliegt, kontaktieren Sie RZL:
+Der Link ist 14 Tage gültig. Über die Funktion *Passwort vergessen* kann jederzeit ein neuer Link angefordert werden. 
 
-[**vertrieb@rzl.at**](mailto:vertrieb@rzl.at) oder Tel. 07752/252-65
+Nach Anwahl des Links erhalten Sie den nachfolgenden Bildschirm angezeigt.
 
-## Anmeldung als Administrator
+![](img/image9.png)
 
-Zum erstmaligen Einstieg in das RZL Klientenportal geben Sie bitte folgende von RZL vorgegebenen Daten (Benutzername und Passwort) ein.
+Wählen Sie den Eintrag *Klicken Sie hier um fortzufahren* an.
 
-Klicken Sie auf *Anmelden*.
+![](img/image10.png)
 
-Daten zum **erstmaligen Einstieg** in das RZL Klientenportal:
+Vergeben Sie das Administratoren-Passwort und Bestätigen Sie dieses. Nach Anwahl der Schaltfläche *Absenden* wird das Passwort gespeichert und Ihr Benutzerkonto aktualisiert.
 
-- Benutzername: admin
+![](img/image11.png)
 
-- Passwort: admin
+Nach Anwahl der Schaltfläche *Weiter ins Klientenportal* können Sie sich erstmals ins Klientenportal einloggen.
 
+![](img/image12.png)
 
-![](<img/image4.png>){width="400"}
+Der Benutzername lautet: **admin**
 
-## Änderung des Passworts
+## Passwort vergessen oder der Link ist abgelaufen
 
-Im nächsten Fenster vergeben Sie Ihr *individuelles* Passwort. Tragen Sie zunächst bei *Altes Passwort* das vorgegebene RZL Passwort *admin* ein. Anschließend vergeben Sie Ihr individuelles Passwort. Um eventuelle Schreibfehler auszuschließen, geben Sie Ihr Passwort im untersten Feld erneut ein.
+Tragen Sie *klientenportal.at* in die Adressleiste Ihres Browsers ein.
 
+![](img/image13.png)
 
-![](img/image5.png)
+Nach Eingabe der Anwendernummer der Kanzlei bei RZL Software ist die Schaltfläche *Zum Klientenportal* anzuwählen.
 
-Klicken Sie anschließend auf *Speichern*.
+![](img/image.png14)
 
+Der Benutzername ist **admin** und nach Anwahl des Eintrags *Passwort oder Benutzername vergessen?* werden Sie aufgefordert den Benutzer bzw. die zum Benutzer gespeicherte E-Mail Adresse einzutragen.
 
-!!! info "Tipp"
-    Verwahren Sie Ihr Passwort bitte sorgfältig. Sollte Ihnen Ihr Passwort nicht mehr bekannt sein, senden Sie bitte ein E-Mail an <klientenportal@rzl.at>. Wir setzten Ihr Passwort nach telefonischer Rücksprache wieder auf admin zurück. Anschließend ist erneut ein individuelles Passwort zu vergeben.
+![](img/image15.png)
+
+Nach Anwahl der Schaltfläche *Absenden* erhalten Sie eine E-Mail mit weiteren Instruktionen und einem Link das Passwort zurückzusetzen.
+
