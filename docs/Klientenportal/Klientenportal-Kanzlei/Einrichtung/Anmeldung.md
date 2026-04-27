@@ -2,7 +2,7 @@
 
 ## Zugang zum RZL Klientenportal
 
-Sie erhalten von RZL Software eine E-Mail mit einem Link für die Anlage des Administrator-Zugangs für Ihre Kanzlei.
+Sie erhalten nach den Bestellung des RZL-Klientenportals von RZL Software eine E-Mail mit einem Link für die Anlage des Administrator-Zugangs für Ihre Kanzlei.
 
 ![](img/image8.png)
 
