@@ -16,4 +16,7 @@ Folgende Optionen stehen zur Auswahl und werden pro Benutzer für alle Klienten 
 * *Mit Fremdbelegnummer*: Neben der Belegnummer finden Sie mit dieser Option auch die jeweilige Fremdbelegnummer der Buchung.
 * *Mit Adresse*: Die Anzeige der Adresse des Debitors bzw. Kreditors kann mit dieser Funktion aktiviert oder deaktiviert werden.
 * *Mit Zusatztext*: Damit können Sie festlegen, ob der Zusatztext der Personenkonten angedruckt werden soll.
-
+* *Zahlungsverkehr*: Die Anzeige des Zahlungsverkehrs kann mit dieser Funktion aktiviert werden.
+* *Zessionsvermerke*: Damit können Sie festlegen ob die Zessionsvermerke gedruckt werden sollen.
+* *Tagesdatum auf den Ausdrucken*: Es wird in der Fußzeile rechts das Tagesdatum angedruckt.
+* *Tagesdatum auf den Ausdrucken mit der Option mit Uhrzeit*: Es wird in der Fußzeile rechts das Tagesdatum inkl. Uhrzeit angedruckt.

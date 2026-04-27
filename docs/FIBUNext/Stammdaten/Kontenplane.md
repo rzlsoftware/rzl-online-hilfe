@@ -42,7 +42,7 @@ Wird hier der Button *Fortsetzen* angewählt, werden alle hinterlegten Pflichtko
 
 #### Register Gliederungen
 
-Im Register *Gliederungen* haben Sie die Möglichkeit eine oder mehrere der angelegten KER-Gliederungen dem Kontenplan zuzuordnen. Die ausgewählte Gliederung kann anschließend bei der Anlage von Konten für deren Zuordnung zur Gliederung der kurzfristigen Erfolgsrechnung verwendet werden. Das Anlegen und Bearbeiten von KER-Gliederungen wird im Kapitel [KER-Gliederungen](../Stammdaten FIBU Next/KER Gliederungen/index.md) beschrieben.
+Im Register *Gliederungen* haben Sie die Möglichkeit eine oder mehrere der angelegten KER-Gliederungen dem Kontenplan zuzuordnen. Die ausgewählte Gliederung kann anschließend bei der Anlage von Konten für deren Zuordnung zur Gliederung der kurzfristigen Erfolgsrechnung verwendet werden. Das Anlegen und Bearbeiten von KER-Gliederungen wird im Kapitel [KER-Gliederungen](../Stammdaten FIBU Next/KER/index.md) beschrieben.
 
 
 ![Image](<img/NeuesElement92.png>){width="600"}

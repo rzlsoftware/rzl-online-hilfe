@@ -27,6 +27,9 @@ Das im Feld *Belegdatum* eingetragene Datum wird in der Finanzbuchhaltung als Bu
 
 In das Eingabefeld *Belegnummer* kann eine Nummer eingetragen werden, die in der Finanz­buchhaltung entsprechend verbucht wird.
 
+!!! info "Tipp"
+    Verwenden Sie im Feld *Belegnummer* die Platzhalter MM, JJ oder JJJJ. Dadurch werden das beim Datenexport gewählte Monat und Jahr automatisch in die Belegnummer übernommen.
+
 Im Feld *Offene Posten-Nummer* können Eintragungen für die Verbuchung der OP-Nummer (Sachkonten) gemacht werden. Es besteht die Möglichkeit, mit sogenannten Platzhaltern zu arbeiten. *0* bedeutet keinen Eintrag. Wenn einzelne Buchungskreise vorhanden sind, werden diese durch das Kürzel *BB* angegeben. *MM* steht für das Buchungsmonat und *JJ* steht für das Buchungsjahr.
 
 In das Feld *Auswahl Export-Datei* sind der Pfad zur Export-Datei und die Bezeichnung der Export-Datei einzutragen oder über die Schaltfläche *Suchen* festzulegen.

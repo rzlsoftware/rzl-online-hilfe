@@ -31,6 +31,8 @@ Der Benutzername lautet: **admin**
 Tragen Sie *klientenportal.at* in die Adressleiste Ihres Browsers ein.
 
 ![](img/image13.png)
+Passwörter für das Klientenportal müssen mindestens 10 Zeichen lang sein. Erforderlich sind mindestens ein Großbuchstabe, ein Kleinbuchstabe, eine Ziffer und ein Sonderzeichen.
+
 
 Nach Eingabe der Anwendernummer der Kanzlei bei RZL Software ist die Schaltfläche *Zum Klientenportal* anzuwählen.
 

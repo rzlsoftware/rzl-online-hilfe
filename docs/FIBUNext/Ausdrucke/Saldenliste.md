@@ -15,6 +15,8 @@ Beim Ausdruck der Saldenliste können zusätzlich noch folgende Auswahlfelder ak
 
 * Saldenliste mit Monatsumsätzen: Es werden die jeweiligen Periodensummen unterhalb der Kontensummen angedruckt.
 * Saldenliste mit Nullsalden: Es werden auch jene Konten angedruckt, die einen Nullsaldo aufweisen.
+* Personenkonten alphabetisch sortieren: Die Personenkonten werden alphabetisch gedruckt.
+* Ohne Zession-Gültigkeitsvermerk: Zession-Gültigkeitsvermerk wird nicht angedruckt.
 * Tagesdatum auf den Ausdrucken: Es wird in der Fußzeile rechts das Tagesdatum angedruckt.
 * Tagesdatum auf den Ausdrucken mit der Option mit Uhrzeit: Es wird in der Fußzeile rechts das Tagesdatum inkl. Uhrzeit angedruckt.
 
@@ -30,6 +32,9 @@ Der Ausdruck der Saldenliste für Debitoren und Kreditoren erfolgt ebenfalls auf
 Beim Ausdruck der Saldenliste können zusätzlich noch folgende Auswahlfelder aktiviert werden:
 
 * Saldenliste mit Nullsalden: Es werden auch jene Konten angedruckt, die einen Nullsaldo aufweisen.
+* Personenkonten alphabetisch sortieren: Die Personenkonten werden alphabetisch gedruckt.
 * Mit Nachkommastellen oder ohne Nachkommastellen 
+* Ohne Zession-Gültigkeitsvermerk: Zession-Gültigkeitsvermerk wird nicht angedruckt.
 * Tagesdatum auf den Ausdrucken: Es wird in der Fußzeile rechts das Tagesdatum angedruckt.
 * Tagesdatum auf den Ausdrucken mit der Option mit Uhrzeit: Es wird in der Fußzeile rechts das Tagesdatum inkl. Uhrzeit angedruckt.
+  
