@@ -34,7 +34,7 @@ Tragen Sie *klientenportal.at* in die Adressleiste Ihres Browsers ein.
 
 Nach Eingabe der Anwendernummer der Kanzlei bei RZL Software ist die Schaltfläche *Zum Klientenportal* anzuwählen.
 
-![](img/image.png14)
+![](img/image14.png)
 
 Der Benutzername ist **admin** und nach Anwahl des Eintrags *Passwort oder Benutzername vergessen?* werden Sie aufgefordert den Benutzer bzw. die zum Benutzer gespeicherte E-Mail Adresse einzutragen.
 
