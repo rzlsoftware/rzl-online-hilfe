@@ -1,6 +1,6 @@
 # Technische Unterschiede zwischen SQL-Server Express und SQL-Server Standard
 
-Im Folgenden werden die technischen Unterschiede zwischen den SQL-Server Editionen **Express** und **Standard** im Zusammenhang mit RZL Programmen aufgelistet. Die Unterschiede treffen auf SQL-Server Version 2025 zu. 
+Im Folgenden werden die technischen Unterschiede zwischen den SQL-Server Editionen **Express** und **Standard** im Zusammenhang mit RZL Programmen aufgelistet. Die Unterschiede treffen auf SQL-Server 2025 zu. 
 
 Für ältere Versionen prüfen Sie bitte die ensprechenden Dokumenationen. [Editionen und unterstützte Features von SQL-Server 2022 und älter &#8599;](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16&preserve-view=true){:target="_blank"}
 

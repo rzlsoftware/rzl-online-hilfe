@@ -53,7 +53,7 @@ Wir beantworten Ihre häufig gestellten Fragen rund um technische Themen und Pro
 
 
 !!! question "Wo kann ich nachlesen, welche Programme und Module ich gekauft habe?"
-	Eine Übersicht Ihrer lizenzierten Programme und Module finden Sie in den RZL Programmen unter Hilfsmittel > Lizenzierung oder auf Ihren Rechnungsunterlagen.
+	Eine Übersicht Ihrer lizenzierten Programme und Module finden Sie im RZL-Admin unter > Verwaltung > RZL Lizenzmanager öffnen oder auf Ihren Rechnungsunterlagen.
 
 
 !!! question "Wie gehe ich vor um die aktuelle Programm-Version einzuspielen?"
@@ -71,7 +71,7 @@ Wir beantworten Ihre häufig gestellten Fragen rund um technische Themen und Pro
 
 
 !!! question "Was ist der RZL Dienst und bei welchen Programmen und Modulen brauche ich ihn?"
-	Der RZL Dienst übernimmt Aufgaben im Hintergrund, und ist für die Programme und Module wie (z.B. Belegverarbeitung, HON Next, FIBU Next Scanner-Anbindung, Dokumentenverwaltung Plus, Digitaler Personalakt, EBICS usw.) eine Vorausetzung für die funktionaliät.   
+	Der RZL Dienst übernimmt Aufgaben im Hintergrund, und ist für die Programme und Module wie (z.B. Belegverarbeitung, HON Next, FIBU Next, Scanner-Anbindung, Dokumentenverwaltung Plus, Digitaler Personalakt, EBICS usw.) eine Voraussetzung für die Funktionaliät.   
 	Mehr Details zum RZL Dienst finden Sie im [Setup Handbuch RZL Dienst installieren](../setup/dienst-installieren.md)
 
 
