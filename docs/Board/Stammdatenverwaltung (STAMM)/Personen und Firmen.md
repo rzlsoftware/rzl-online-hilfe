@@ -204,6 +204,8 @@ Kontextmenü durchgeführt werden. Mit einem Symbol neben der UID Nummer
 wird der Status der Überprüfung angezeigt. Im Tooltip auf dieses Symbol
 zeigt es das Datum der Überprüfung an.
 
+Die Optionen *Akteneinsicht, Steuer, Geld, Zustellung*, sowie die Option *Abfrage durchführen* werden automatisch mit dem Abruf der Vertretungsliste gesetzt.
+
 ### **Bankverbindungen**
 
 Hier können Sie die Bankverbindungen der Person eintragen. Das mit der
