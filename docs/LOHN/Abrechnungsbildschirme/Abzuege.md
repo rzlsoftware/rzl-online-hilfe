@@ -13,6 +13,9 @@ Eingabe des Betrages an Sachbezug (z. B. für freie Station, KFZ-Privatnutzung u
 !!! warning "Hinweis"
     Beachtung der Sonderregelung in der Sozialversicherung: Gemäß § 53 ASVG dürfen die dienstnehmerbezogenen SV-Beiträge maximal 20 % seiner Geldbezüge betragen, wird einem Dienstnehmer ein entsprechend hoher Sachbezug abgezogen, so kann dies Auswirkung auf die dem Dienstnehmer maximal abziehbaren SV-Beiträge haben. Diese Sonderregelung wird vom Programm automatisch berücksichtigt.
 
+!!! info "Tipp"
+    Durch einen Rechtsklick in das Feld *Sachbezug* kann der Wert *Explizit 0* ausgewählt werden. Dadurch wird der Sachbezug mit 0,00 auf der Abrechnung ausgewiesen – auch wenn kein Betrag verrechnet wird. Bei einem *Sachbezug KFZ* bewirkt diese Einstellung zusätzlich, dass die relevanten Felder für *Sachbezugsprozentsatz* und *Anschaffungskosten* sowohl auf dem Jahreslohnzettel (L16) als auch auf dem Jahreslohnkonto korrekt befüllt werden.
+
 **SV – 20 % Regelung bewirkt Erhöhung …**
 
 Durch Aktivierung dieser Felder erfolgt eine Erhöhung der DB- und Kommunalsteuerbemessung um den vom Dienstgeber übernommenen SV-Anteil des Dienstnehmers (20-%-Regelung).
