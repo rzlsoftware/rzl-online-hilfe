@@ -7,13 +7,17 @@
 - Bei Fragen zur Nutzung oder Unsicherheiten wenden Sie sich an unseren Vertrieb.   
 [Support-Hotline &#8599;](https://rzlsoftware.at/support){:target="_blank"} | [software@rzlsoftware.at](mailto:software@rzlsoftware.at) | [07752 252-66](tel:+43775225266)
 
-## Umstellung oder neue Lizenzierung durchführen
+## Optionen zur Durchführung der Onlinelizenzierung   
 
-1. Nach der Installation der RZL Programme starten Sie die Anwendung. Es öffnet sich der Lizenzmanager.
-2. Alternativ finden Sie den Lizenzmanager über das Registerblatt **Verwaltung** im RZL Admin oder im Menüpunkt **Hilfsmittel >     Lizenzierung** in den RZL Programmen.
-3. Zudem können Sie den Lizenzmanager als Anwendung starten. Zu finden unter:`C:\Program Files (x86)\RZL Software\RZLWin`).
-4. Folgen Sie dem Dialog und wählen Sie die gewünschte Lizenz im Auswahlfeld aus.
-5. Bestätigen Sie mit **Lizenzieren**.
+- **Lizenzierung via Programmeinstieg**   
+  Nach der Installation der RZL Programme starten Sie eine Anwendung. Es öffnet sich der Lizenzmanager.   
+- **Lizenzierung via RZL-Admin**   
+  Alternativ finden Sie den Lizenzmanager über das Registerblatt **Verwaltung** im RZL Admin oder im Menüpunkt **Hilfsmittel >     Lizenzierung** in den RZL Programmen.   
+- **Lizenzierung via Anwendung**   
+  Sie können den Lizenzmanager auch als Anwendung starten. Zu finden unter:`C:\Program Files (x86)\RZL Software\RZLWin\Lizenzierung.exe`).
+
+Folgen Sie dem Dialog, geben Ihre Anwendernummer und Lizenzkennwort an und wählen die gewünschte Lizenz im Feld aus.
+Bestätigen Sie mit **Lizenzieren**.
 
 ## Nach erfolgreicher Lizenzierung
 

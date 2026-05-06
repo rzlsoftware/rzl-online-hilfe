@@ -18,9 +18,9 @@ Standardmäßig setzt RZL die kostenfreie Express Edition des SQL-Servers voraus
 
 RZL stellt aus lizenzrechtlichen Gründen – mit Ausnahme von SQL-Server Express – keine Installationsdateien für die unterschiedlichen SQL-Server Editionen zur Verfügung.
 
-### Download SQL-Server Express Advanced
+### Download SQL-Server Express
 
-- [SQL-Server 2025 &#8599;](https://www.microsoft.com/de-de/sql-server/sql-server-downloads){:target="_blank"}
+- [SQL-Server 2025 &#8599;](https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x409&culture=en-us&country=us){:target="_blank"}
 Empfohlen wird für die Installation das deutsche Sprachpaket.
 
 
@@ -29,10 +29,12 @@ Empfohlen wird für die Installation das deutsche Sprachpaket.
 !!! warning "Hinweis"
     Die folgenden Schritte wurden mit dem Setup für SQL-Server 2025 Standard (deutsch) auf einem Windows Server 2025 (deutsch) durchgeführt. Die Anleitung ist auch für andere Versionen und Editionen des SQL-Servers gültig, es kann jedoch sein, dass einzelne Schritte abweichen.
 
-1. **Mounten des Installationsmediums (ISO-Datei)**  
-    Rechtsklick auf die ISO-Datei → **Bereitstellen**  
-    Anschließend öffnet sich der Windows Explorer mit dem gemounteten Laufwerk.  
-    Starten Sie die Datei `setup.exe`.
+1. **Ausführen des Installationsmediums (Aplikation)**  
+    1. Führen Sie den MediaAssistenen `SQL2025-SSEI-Expr.exe` aus und folgenen Sie den Anweisungen.   
+    2. Wählen Sie die Option **Custom**
+    3. Wählen Sie das Sprachpacket **Deutsch**
+    4. Wählen Sie den Zielpfad für die SQL Medien und wählen **Install**
+    Anschließend öffnet sich das SQL Server-Installationscenter.   
 
 2. **Fehlermeldung zum regionalen Format**  
     Das deutsche Installationspaket setzt das regionale Format **Deutsch (Deutschland)** voraus und ist mit **Deutsch (Österreich)** nicht kompatibel.  
@@ -45,8 +47,8 @@ Empfohlen wird für die Installation das deutsche Sprachpaket.
 3. **Im Installationscenter**  
     Wählen Sie **Installation → Neue eigenständige SQL-Server-Installation oder Hinzufügen von Funktionen zu einer vorhandenen Installation**.
 
-4. **Product Key eingeben**  
-    Geben Sie einen gültigen Product Key für die Standard Edition ein und wählen Sie die entsprechende Option.
+4. **Product Key eingeben (nur SQL-Server Standard**  
+    Geben Sie einen gültigen Product Key für die Standard Edition ein und wählen Sie die entsprechende Option.  
 
 5. **Lizenzbedingungen akzeptieren**  
     Akzeptieren Sie die Lizenzbedingungen und fahren Sie fort.
