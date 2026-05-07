@@ -15,7 +15,7 @@ Wir beantworten Ihre häufig gestellten Fragen rund um technische Themen und Pro
 !!! question "Wo finde ich meine Anwendernummer und weitere für den Support relevante Informationen?"
 	Ihre Anwendernummer finden Sie im RZL Programm unter Hilfe > Info oder auf Ihren Rechnungsunterlagen.
 
-	Bevor Sie den RZL Technik Support kontaktieren, bitten wir vorab zu prüfen, ob Ihr Systembetreuer auf Abruf erreichbar ist.
+	Bevor Sie den RZL Technik Support kontaktieren, bitten wir Sie vorab zu prüfen, ob Ihr Systembetreuer auf Abruf erreichbar ist.
 	Stellen Sie zudem sicher, dass das Gerät Zugang zum Internet hat. Starten Sie bereits vorab eine TeamViewer-Instanz.
 	Sie finden einen TeamViewer Quick Support in den RZL Programmen unter Hilfe > Fernwartung.   
 
@@ -38,9 +38,9 @@ Wir beantworten Ihre häufig gestellten Fragen rund um technische Themen und Pro
 
 
 !!! question "Welche Aufgaben übernimmt der RZL Technik und welche werden von fachlichen Supportstellen übernommen?"
-	Die RZL Technik unterstützt bei technischen Fragen, Auskümpfte zu Installationen und Systemvoraussetzungen zu den RZL Programmen. [Mehr dazu hier](./terminierte-installationen.md)
+	Die RZL Technik unterstützt bei technischen Fragen, Auskünpfte zu Installationen und Systemvoraussetzungen zu den RZL Programmen. [Mehr dazu hier](./terminierte-installationen.md)
 	
-	Eine Auflsitung aller [Support-Hotlines &#8599;](https://rzlsoftware.at/support){:target="_blank"} finden Sie auf unserer Homepage.
+	Eine Auflistung aller [Support-Hotlines &#8599;](https://rzlsoftware.at/support){:target="_blank"} finden Sie auf unserer Homepage.
 
 
 !!! question "Wo finde ich die aktuelle Version des RZL Setups als Anwendung für das Update oder die Installation?"
@@ -56,12 +56,12 @@ Wir beantworten Ihre häufig gestellten Fragen rund um technische Themen und Pro
 	Eine Übersicht Ihrer lizenzierten Programme und Module finden Sie im RZL-Admin unter > Verwaltung > RZL Lizenzmanager öffnen oder auf Ihren Rechnungsunterlagen.
 
 
-!!! question "Wie gehe ich vor um die aktuelle Programm-Version einzuspielen?"
+!!! question "Wie gehe ich vor, um die aktuelle Programm-Version einzuspielen?"
 	Eine detaillierte Anleitung, wie Sie das Update einspielen können, finden Sie im   
 	[Setup-Handbuch Programmaktualisierung](../setup/programmaktualisierung.md)
 
 
-!!! question "Wo kann ich nachlesen wie ich RZL auf einen neuen Rechner migrieren kann?"
+!!! question "Wo kann ich nachlesen, wie ich RZL auf einen neuen Rechner migrieren kann?"
 	Sie finden unsere Dokumentation zur Migration über die Komplettsicherung im   
 	[Setup-Handbuch Installation übertragen/verschieben](../setup/installation-uebertragen.md)
 
@@ -71,7 +71,7 @@ Wir beantworten Ihre häufig gestellten Fragen rund um technische Themen und Pro
 
 
 !!! question "Was ist der RZL Dienst und bei welchen Programmen und Modulen brauche ich ihn?"
-	Der RZL Dienst übernimmt Aufgaben im Hintergrund, und ist für die Programme und Module wie (z.B. Belegverarbeitung, HON Next, FIBU Next, Scanner-Anbindung, Dokumentenverwaltung Plus, Digitaler Personalakt, EBICS usw.) eine Voraussetzung für die Funktionaliät.   
+	Der RZL Dienst übernimmt Aufgaben im Hintergrund und ist für die Programme und Module wie (z.B. Belegverarbeitung, HON Next, FIBU Next, Scanner-Anbindung, Dokumentenverwaltung Plus, Digitaler Personalakt, EBICS usw.) eine Voraussetzung für die Funktionalität.   
 	Mehr Details zum RZL Dienst finden Sie im [Setup Handbuch RZL Dienst installieren](../setup/dienst-installieren.md)
 
 

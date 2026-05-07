@@ -12,7 +12,7 @@ in den RZL Programmen oder im Web. Der Assistent beantwortet rund um die Uhr Ihr
 - **Präzise Fragen stellen**  
     Formulieren Sie Ihre Fragen möglichst klar und konkret. Je genauer Ihre Anfrage, desto passender die Antwort. Nutzen Sie Beispiele, um den Kontext zu verdeutlichen.
 
-- **Interativer Dialog**  
+- **Interaktiver Dialog**  
     Beginnen Sie mit einer allgemeinen Frage und stellen Sie bei Bedarf gezielte Folgefragen. Bitten Sie um Erklärungen oder Anpassungen, falls Unklarheiten bestehen.
 
 - **Rollenzuweisung**  
@@ -34,7 +34,7 @@ in den RZL Programmen oder im Web. Der Assistent beantwortet rund um die Uhr Ihr
     Definieren Sie bei Bedarf Ihre Branche, Rolle oder häufige Anwendungsfälle, damit Frag Hainz! die Antworten besser auf Ihre Bedürfnisse abstimmen kann.
 
 - **Ausgabeformat festlegen**  
-    Geben Sie an, wie Sie die Antwort erhalten möchten (z. B. als Stichpunkte, Tabelle, nummerierte Liste). Das ist besonders hilfreich bei Schritt für Schritt Anleitungen.
+    Geben Sie an, wie Sie die Antwort erhalten möchten (z. B. als Stichpunkte, Tabelle, nummerierte Liste). Das ist besonders hilfreich bei Schritt-für-Schritt Anleitungen.
 
 - **Antworten interaktiv verbessern**  
     Bitten Sie Frag Hainz!, die Antwort zu prüfen und zu optimieren, falls Sie mit der Ausgabe noch nicht zufrieden sind.
@@ -43,4 +43,4 @@ in den RZL Programmen oder im Web. Der Assistent beantwortet rund um die Uhr Ihr
 
 ### Zusammenfassung
 
-Frag Hainz unterstützt Sie als KI-gestützter Assistent mit schnellen, praxisnahen Antworten zu allen RZL Themen. Die beste Performance erzielen Sie durch klare, strukturierte Fragen, aktiv Nachfragen, Rollenzuweisung und formatierte Ausgabe. Überprüfen Sie wichtige Ergebnisse immer kritisch und beachten Sie datenschutzrechtliche Vorgaben.
+Frag Hainz unterstützt Sie als KI-gestützter Assistent mit schnellen, praxisnahen Antworten zu allen RZL Themen. Die beste Performance erzielen Sie durch klare strukturierte Fragen, aktives Nachfragen, Rollenzuweisung und formatierte Ausgabe. Überprüfen Sie wichtige Ergebnisse immer kritisch und beachten Sie datenschutzrechtliche Vorgaben.

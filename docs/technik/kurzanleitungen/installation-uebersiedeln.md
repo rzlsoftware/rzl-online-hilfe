@@ -14,12 +14,12 @@
 
 Diese Anleitung beschreibt, wie Sie eine Installation mit einer bestehenden Datenbank auf einen neuen Server oder ein neues Verzeichnis übersiedeln.
 
-## Technische Vorraussetzungen
-Bevor Sie mit der Migration beginnen prüfen Sie umbedingt ein die geplante Umgebung den Vorrausetztungen der RZL Programme enspricht.
-[Die technischen Vorrausetzungen finden Sie auf unserer Homepage &#8599;](https://rzlsoftware.at/rzl-lizenzbestimmungen){:target="_blank"}
+## Technische Voraussetzungen
+Bevor Sie mit der Migration beginnen, prüfen Sie unbedingt, ob die geplante Umgebung den Voraussetzungen der RZL Programme entspricht.
+[Die technischen Voraussetzungen finden Sie auf unserer Homepage &#8599;](https://rzlsoftware.at/rzl-lizenzbestimmungen){:target="_blank"}
 
 ## Grundinstallation
-Wir setzen auf der neuen Umgebung eine Grundinstallation vorraus in die Daten wiederhergestellt werden. Hier können Sie genau wie bei einer Neuinstallation vorgehen. [Hierzu pürfen Sie bitte die Ersten Schritte zur Installation](../erste-schritte.md)
+Wir setzen auf der neuen Umgebung eine Grundinstallation voraus, in die Daten wiederhergestellt werden. Hier können Sie genau wie bei einer Neuinstallation vorgehen. [Hierzu prüfen Sie bitte die Ersten Schritte zur Installation](../erste-schritte.md)
 
 ## Daten ermitteln / wiederherstellen
 Folgende Verzeichnisse und Dateien müssen für die Rekonstruktion der RZL Installation organisiert werden:  
@@ -40,7 +40,7 @@ Zudem kann der Pfad der Datei config.ini entnommen werden.
 Pfad: `C:\Program Files (x86)\RZL Software\RZLWin\config.ini`
 
 ## Dokumente der klassichen Dokumentenverwaltung ermitteln und verschieben
-Standardmäßig befinden sich die Dokumente/Belege in einem Unterordner des Datenrepository (z. B. `R:\RZL_DataRepository\RZL_DOKUMENTE`). Diese müssen nicht zwingend separat migriert werden, befinden sich diese dirket im Datenrepository. Befindet sich der Ordner an anderer Stelle können Sie den Pfad der RZLDb.ini mittels Eintrag "DocumentRoot" ermitteln.   
+Standardmäßig befinden sich die Dokumente/Belege in einem Unterordner des Datenrepository (z. B. `R:\RZL_DataRepository\RZL_DOKUMENTE`). Diese müssen nicht zwingend separat migriert werden, befinden sich diese direkt im Datenrepository. Befindet sich der Ordner an anderer Stelle, können Sie den Pfad der RZLDb.ini mittels Eintrag "DocumentRoot" ermitteln.   
 Genauso können Sie bei der rekonstruktion der Belege einen neuen Speicherpfad für die Dokumente genau an dieser Stelle festlegen.  
 
 Beispiel für die Anpassung:
@@ -58,31 +58,31 @@ Vorgehen:
 5. Testen Sie, ob die Dokumente aus den RZL Programmen geöffnet werden können  
 
 ## SQL-Datenbank ermitteln und migrieren
-1. laden Sie das aktuelle [SQL-Server Management Studio &#8599;](https://learn.microsoft.com/de-de/ssms/install/install){:target="_blank"} herunter   
-2. Verbinden Sie sich mittels SQL-Server Management Studio mit der für die RZL angelegeten Instsanz (z.B. SQLEPRESS_RZL, SQL_RZL)   
-3. Mit Rechtsklick auf die Datenbank > Datenbankeigenschaften > Dateien > Pfad haben Sie einen Einblick wo die Datenbankdateien und der File Stream der Dokumentenverwaltung Plus liegt   
+1. Laden Sie das aktuelle [SQL-Server Management Studio &#8599;](https://learn.microsoft.com/de-de/ssms/install/install){:target="_blank"} herunter   
+2. Verbinden Sie sich mittels SQL-Server Management Studio mit der für die RZL angelegten Instanz (z.B. SQLEPRESS_RZL, SQL_RZL)   
+3. Mit Rechtsklick auf die Datenbank > Datenbankeigenschaften > Dateien > Pfad haben Sie einen Einblick, wo die Datenbankdateien und der File Stream der Dokumentenverwaltung Plus liegen   
 
-Im Anschluss finden Sie alle Option die Ihnen je nach Systemzustand zur Verfügung stehen:   
+Im Anschluss finden Sie alle Optionen, die Ihnen je nach Systemzustand zur Verfügung stehen:   
 
-## Sichern der Datenbank mittel RZL-Admin    
+## Sichern der Datenbank mittels RZL-Admin    
 1. Sichern Sie die Datenbank laut Dokumentation [Sicherung](../../rzladmin/sicherung.md)   
-2. Stellen Sie die Datenbank laut Dokumentaiton [Wiederherstellen](../../rzladmin/wiederherstellen.md) her   
+2. Stellen Sie die Datenbank laut Dokumentation [Wiederherstellen](../../rzladmin/wiederherstellen.md) her   
 
 ## Sichern der Datenbank mittels SQL Management Studio
-1. Laden Sie wie unter SQL-Datenbank ermitteln und migieren erwähnt das SQL Management herunter und verbinden Sie sich mit der Instanz
+1. Laden Sie wie unter SQL-Datenbank ermitteln und migrieren erwähnt das SQL Management herunter und verbinden Sie sich mit der Instanz
 2. Sichern Sie die Datenbank laut [Microsoft-Dokumentation &#8599;](https://learn.microsoft.com/de-de/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver17&tabs=ssms){:target="_blank"}
 3. Stellen Sie die Datenbank laut [Microsoft Dokumentation &#8599;](https://learn.microsoft.com/de-de/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver17&tabs=ssms){:target="_blank"} am neuen Gerät wieder her   
 
 !!!warning "Achtung"
-    Das Kaptel Bereinigen von Ressourcen können Sie auslassen. Dies dienst nur dazu die SQL-Instanz in den Ursprünglichen zustand zu versetzen.
+    Das Kapitel Bereinigen von Ressourcen können Sie auslassen. Dies dient nur dazu, die SQL-Instanz in den ursprünglichen Zustand zu versetzen.
 
-## Rekonstrukiton mittels Datenbankdateien
-Für die Rekonstuktion rein über die Datenbank Dateien werden folgende Datenein und Verzeichnise benötigt:   
+## Rekonstruktion mittels Datenbankdateien
+Für die Rekonstruktion rein über die Datenbank Dateien werden folgende Dateien und Verzeichnisse benötigt:   
 - RZLZMV_XXX.mdf        (Datenbank)   
 - RZLZMV_XXX_log.ldf    (Log Datei)   
 - RZLZMV_XXX_fs         (Filestream)   
 
-Eine Dokumenation wie Sie die Datenbank auf einer neuen Instanz rekonstruieren finden Sie hier:   
+Eine Dokumentation, wie Sie die Datenbank auf einer neuen Instanz rekonstruieren, finden Sie hier:   
 [Verschieben einer FILESTREAM-aktivierten Datenbank &#8599;](https://learn.microsoft.com/de-de/sql/relational-databases/blob/move-a-filestream-enabled-database?view=sql-server-ver17)   
 
 ## Änderung bei neuer Domäne
