@@ -2,7 +2,7 @@
 
 Im Folgenden werden die technischen Unterschiede zwischen den SQL-Server Editionen **Express** und **Standard** im Zusammenhang mit RZL Programmen aufgelistet. Die Unterschiede treffen auf SQL-Server 2025 zu. 
 
-Für ältere Versionen prüfen Sie bitte die ensprechenden Dokumenationen. [Editionen und unterstützte Features von SQL-Server 2022 und älter &#8599;](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16&preserve-view=true){:target="_blank"}
+Für ältere Versionen prüfen Sie bitte die entsprechenden Dokumentationen. [Editionen und unterstützte Features von SQL-Server 2022 und älter &#8599;](https://learn.microsoft.com/de-de/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16&preserve-view=true){:target="_blank"}
 
 !!! warning "Hinweis"
     Allgemein ist festzuhalten, dass sich die Performance durch ein Upgrade von Express auf Standard verbessert – insbesondere bei einer hohen Anzahl gleichzeitiger Benutzer.

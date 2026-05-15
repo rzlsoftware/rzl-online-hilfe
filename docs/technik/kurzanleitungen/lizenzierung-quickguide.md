@@ -7,12 +7,12 @@
 - Bei Fragen zur Nutzung oder Unsicherheiten wenden Sie sich an unseren Vertrieb.   
 [Support-Hotline &#8599;](https://rzlsoftware.at/support){:target="_blank"} | [software@rzlsoftware.at](mailto:software@rzlsoftware.at) | [07752 252-66](tel:+43775225266)
 
-## Optionen zur Durchführung der Onlinelizenzierung   
+## Optionen zur Durchführung der Online-Lizenzierung   
 
 - **Lizenzierung via Programmeinstieg**   
   Nach der Installation der RZL Programme starten Sie eine Anwendung. Es öffnet sich der Lizenzmanager.   
 - **Lizenzierung via RZL-Admin**   
-  Alternativ finden Sie den Lizenzmanager über das Registerblatt **Verwaltung** im RZL Admin oder im Menüpunkt **Hilfsmittel >     Lizenzierung** in den RZL Programmen.   
+  Alternativ finden Sie den Lizenzmanager über das Registerblatt **Verwaltung** im RZL-Admin oder im Menüpunkt **Hilfsmittel >     Lizenzierung** in den RZL Programmen.   
 - **Lizenzierung via Anwendung**   
   Sie können den Lizenzmanager auch als Anwendung starten. Zu finden unter:`C:\Program Files (x86)\RZL Software\RZLWin\Lizenzierung.exe`).
 

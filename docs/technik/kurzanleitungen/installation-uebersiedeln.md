@@ -39,9 +39,9 @@ Zudem kann der Pfad der Datei config.ini entnommen werden.
 
 Pfad: `C:\Program Files (x86)\RZL Software\RZLWin\config.ini`
 
-## Dokumente der klassichen Dokumentenverwaltung ermitteln und verschieben
+## Dokumente der klassischen Dokumentenverwaltung ermitteln und verschieben
 Standardmäßig befinden sich die Dokumente/Belege in einem Unterordner des Datenrepository (z. B. `R:\RZL_DataRepository\RZL_DOKUMENTE`). Diese müssen nicht zwingend separat migriert werden, befinden sich diese direkt im Datenrepository. Befindet sich der Ordner an anderer Stelle, können Sie den Pfad der RZLDb.ini mittels Eintrag "DocumentRoot" ermitteln.   
-Genauso können Sie bei der rekonstruktion der Belege einen neuen Speicherpfad für die Dokumente genau an dieser Stelle festlegen.  
+Genauso können Sie bei der Rekonstruktion der Belege einen neuen Speicherpfad für die Dokumente genau an dieser Stelle festlegen.  
 
 Beispiel für die Anpassung:
 ```ini
@@ -77,9 +77,9 @@ Im Anschluss finden Sie alle Optionen, die Ihnen je nach Systemzustand zur Verf�
     Das Kapitel Bereinigen von Ressourcen können Sie auslassen. Dies dient nur dazu, die SQL-Instanz in den ursprünglichen Zustand zu versetzen.
 
 ## Rekonstruktion mittels Datenbankdateien
-Für die Rekonstruktion rein über die Datenbank Dateien werden folgende Dateien und Verzeichnisse benötigt:   
+Für die Rekonstruktion rein über die Datenbankdateien werden folgende Dateien und Verzeichnisse benötigt:   
 - RZLZMV_XXX.mdf        (Datenbank)   
-- RZLZMV_XXX_log.ldf    (Log Datei)   
+- RZLZMV_XXX_log.ldf    (Logdatei)   
 - RZLZMV_XXX_fs         (Filestream)   
 
 Eine Dokumentation, wie Sie die Datenbank auf einer neuen Instanz rekonstruieren, finden Sie hier:   

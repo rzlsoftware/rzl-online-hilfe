@@ -1,11 +1,11 @@
 # SQL-Server Berechtigungskonzept
 
-In dieser Dokumentation werden die Benutzer und Rollen beschrieben, die bei der Installation der RZL Programme auf dem SQL Server angelegt werden. Diese Einrichtung ist notwendig, um einen reibungslosen Zugriff der Programme auf die Datenbank zu gewährleisten.
+In dieser Dokumentation werden die Benutzer und Rollen beschrieben, die bei der Installation der RZL Programme auf dem SQL-Server angelegt werden. Diese Einrichtung ist notwendig, um einen reibungslosen Zugriff der Programme auf die Datenbank zu gewährleisten.
 
 !!! warning "Hinweis"
     Diese Anleitung richtet sich primär an Systembetreuer. Bei fehlerhaften Änderungen besteht das Risiko, dass die RZL Programme nur eingeschränkt funktionieren oder ausfallen.
 !!! note "Tipp"
-    Für das automatische setzen der Rechte kann das Tool DbInit verwendet werden. Fahren Sie dazu direkt mit dem Kapitel Kontrolle & Reparatur fort.
+    Für das automatische Setzen der Rechte kann das Tool DbInit verwendet werden. Fahren Sie dazu direkt mit dem Kapitel Kontrolle & Reparatur fort.
 
 
 ## Server-Rollen
@@ -62,7 +62,7 @@ In dieser Dokumentation werden die Benutzer und Rollen beschrieben, die bei der 
                     Mit der Konsolenanwendung `DbInit.exe` kann die korrekte Konfiguration der Benutzer und Rollen kontrolliert und bei Bedarf korrigiert werden. Die Anwendung ist im Installationsverzeichnis (`C:\Program Files (x86)\RZL Software\RZLWin`) der RZL Programme zu finden und muss per Shell (Eingabeaufforderung, PowerShell, etc.) aufgerufen werden.
 
                     !!! warning "Hinweis"
-                        Der Benutzer muss – zumindest temporär – die Rolle `sysadmin` am SQL Server besitzen, damit die Anwendung erfolgreich ausgeführt werden kann.
+                        Der Benutzer muss – zumindest temporär – die Rolle `sysadmin` am SQL-Server besitzen, damit die Anwendung erfolgreich ausgeführt werden kann.
 
                     ### /checkLoginsAndUsers
                     Mit diesem Parameter erfolgt die Kontrolle. Als Ergebnis wird eine Auflistung aller relevanten Benutzer und Rollen geliefert, mit dem jeweiligen Status (OK/NOK). Sollte eine fehlerhafte Konfiguration (NOK) existieren, reparieren Sie diese manuell oder mit Hilfe der `DbInit.exe`.

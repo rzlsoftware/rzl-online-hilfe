@@ -24,15 +24,15 @@ RZL stellt aus lizenzrechtlichen Gründen – mit Ausnahme von SQL-Server Expres
 Empfohlen wird für die Installation das deutsche Sprachpaket.
 
 
-## Installation einer neuen SQL-Server Instanz
+## Installation einer neuen SQL-Server-Instanz
 
 !!! warning "Hinweis"
     Die folgenden Schritte wurden mit dem Setup für SQL-Server 2025 Standard (deutsch) auf einem Windows Server 2025 (deutsch) durchgeführt. Die Anleitung ist auch für andere Versionen und Editionen des SQL-Servers gültig, es kann jedoch sein, dass einzelne Schritte abweichen.
 
-1. **Ausführen des Installationsmediums (Aplikation)**  
-    1. Führen Sie den MediaAssistenen `SQL2025-SSEI-Expr.exe` aus und folgenen Sie den Anweisungen.   
+1. **Ausführen des Installationsmediums (Applikation)**  
+    1. Führen Sie den Media-Assistenten `SQL2025-SSEI-Expr.exe` aus und folgen Sie den Anweisungen.   
     2. Wählen Sie die Option **Custom**
-    3. Wählen Sie das Sprachpacket **Deutsch**
+    3. Wählen Sie das Sprachpaket **Deutsch**
     4. Wählen Sie den Zielpfad für die SQL Medien und wählen **Install**
     Anschließend öffnet sich das SQL Server-Installationscenter.   
 
@@ -47,7 +47,7 @@ Empfohlen wird für die Installation das deutsche Sprachpaket.
 3. **Im Installationscenter**  
     Wählen Sie **Installation → Neue eigenständige SQL-Server-Installation oder Hinzufügen von Funktionen zu einer vorhandenen Installation**.
 
-4. **Product Key eingeben (nur SQL-Server Standard**  
+4. **Product Key eingeben (nur SQL-Server Standard)**  
     Geben Sie einen gültigen Product Key für die Standard Edition ein und wählen Sie die entsprechende Option.  
 
 5. **Lizenzbedingungen akzeptieren**  
@@ -66,7 +66,7 @@ Empfohlen wird für die Installation das deutsche Sprachpaket.
     Weitere Funktionen können bei Bedarf installiert werden. Die Verzeichnisse können beliebig angepasst werden.
 
 9. **Instanzkonfiguration**  
-    Wählen Sie **Benannte Instanz** und legen Sie einen Namen für die neue SQL-Server Instanz fest. Für die Instanz-ID vergeben Sie den gleichen Namen.
+    Wählen Sie **Benannte Instanz** und legen Sie einen Namen für die neue SQL-Server-Instanz fest. Für die Instanz-ID vergeben Sie den gleichen Namen.
 
 !!! warning "Hinweis"
     Der Name der Instanz kann frei gewählt werden. Stellen Sie sicher, dass Name und Instanz-ID identisch sind.
@@ -101,16 +101,16 @@ Microsoft veröffentlicht regelmäßig kumulative Updates für die unterschiedli
 
 Unter [Informationen zu den neuesten SQL-Server Builds &#8599;](https://learn.microsoft.com/de-de/troubleshoot/sql/releases/download-and-install-latest-updates){:target="_blank"} stellt Microsoft eine Übersicht zu den Updates bereit.
 
-1. Laden Sie das aktuellste kumulative Update für Ihre SQL-Server Version herunter und starten Sie die Installation.
+1. Laden Sie das aktuellste kumulative Update für Ihre SQL-Server-Version herunter und starten Sie die Installation.
 2. Akzeptieren Sie die Lizenzbedingungen und fahren Sie fort.
-3. Wählen Sie die SQL-Server Instanz aus, für die das Update installiert werden soll.
+3. Wählen Sie die SQL-Server-Instanz aus, für die das Update installiert werden soll.
 4. Fahren Sie mit der Installation fort. Nach Abschluss erhalten Sie einen Bericht.
 5. Beenden Sie die Installation.
 
 
 ## Konfiguration der Netzwerkprotokolle und Firewall-Regeln
 
-Um von anderen Geräten auf die SQL-Server Instanz zugreifen zu können, müssen die Netzwerkprotokolle der Instanz und Firewall-Regeln am Server konfiguriert werden.
+Um von anderen Geräten auf die SQL-Server-Instanz zugreifen zu können, müssen die Netzwerkprotokolle der Instanz und Firewall-Regeln am Server konfiguriert werden.
 
 ### Netzwerkprotokolle einrichten
 
@@ -142,7 +142,7 @@ Es werden zwei Firewall-Regeln benötigt:
 1. Öffnen Sie **Windows Defender Firewall mit erweiterter Sicherheit** unter **Start → Windows-Verwaltungsprogramme**.
 2. Wählen Sie **Eingehende Regeln** und legen Sie unter **Aktionen** eine neue Regel an.
 3. Wählen Sie bei **Regeltyp** den Wert **Programm**.
-4. Hinterlegen Sie bei **Programmpfad** die Datei `sqlservr.exe` der zuvor installierten SQL-Server Instanz, z.B.:  
+4. Hinterlegen Sie bei **Programmpfad** die Datei `sqlservr.exe` der zuvor installierten SQL-Server-Instanz, z.B.:  
     `%ProgramFiles%\Microsoft SQL Server\MSSQL16.RZL_SQL\MSSQL\Binn\sqlservr.exe`
 5. Wählen Sie das Profil (**Domäne** ist normalerweise ausreichend. Bei VPN-Verbindungen kann es abweichen).
 
@@ -166,11 +166,11 @@ Das **SQL-Server Management Studio (SSMS)** bietet eine grafische Oberfläche zu
 2. Nach der Installation ist ein Neustart des Geräts notwendig.
 
 
-## Verbindungsaufbau zur SQL-Server Instanz
+## Verbindungsaufbau zur SQL-Server-Instanz
 
-1. Nach dem Neustart starten Sie das **SQL-Server Management Studio** unter **Start → Microsoft-SQL Server Tools**.
-2. Im Dialog geben Sie den Servernamen der SQL-Server Instanz ein und wählen bei **Verschlüsselung** die Option **Optional**.
-3. Sie sollten jetzt mit der SQL-Server Instanz verbunden sein.
+1. Nach dem Neustart starten Sie das **SQL-Server Management Studio** unter **Start → Microsoft SQL Server Tools**.
+2. Im Dialog geben Sie den Servernamen der SQL-Server-Instanz ein und wählen bei **Verschlüsselung** die Option **Optional**.
+3. Sie sollten jetzt mit der SQL-Server-Instanz verbunden sein.
 
 !!! warning "Hinweis"
     Der Standardwert für Verschlüsselung ist seit SQL-Server Management Studio **Obligatorisch**. Grund ist die zunehmende Anzahl von Cloud-Installationen des SQL-Servers und die Kommunikation übers Internet. Bei einer Installation im Intranet ist eine Verschlüsselung nicht notwendig und auch technisch nicht einfach umzusetzen, da es meistens keine öffentliche Domäne gibt, für die ein Zertifikat ausgestellt werden könnte.

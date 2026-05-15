@@ -42,7 +42,7 @@ b) **Klienten in der ZMV löschen**
 
 ##### b) Klienten in ZMV löschen
 
-- Öffnen Sie die ZMV und wählen Sie im Menü **Klient**, dann **Löschen** …`.
+- Öffnen Sie die ZMV und wählen Sie im Menü **Klient**, dann **Löschen**.
 - Klicken Sie auf die Schaltfläche **Erweitert**.
 - Im Feld **Nummer** können Sie Nummernbereiche eingeben (z. B. 1-599).
 - Nach Drücken der Tabulatortaste wird die Liste nach diesen Klienten gefiltert.
