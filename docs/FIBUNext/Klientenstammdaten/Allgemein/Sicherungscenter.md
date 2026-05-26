@@ -38,7 +38,7 @@ Sie können bereits erstellte Sicherungen als E-Mail versenden.
 
 ### Automatische Sicherungen
 
-Nähere Informationen zu den automatischen Sicherungen finden Sie im Kapitel [FIBU Sicherungseinstellungen](/FIBUNext/Stammdaten Vorlagen/FIBUSicherungseinstellungen).
+Nähere Informationen zu den automatischen Sicherungen finden Sie im Kapitel [FIBU Sicherungseinstellungen](../../Stammdaten/FIBUSicherungseinstellungen.md)
 
 ### Wirtschaftsjahr per Drag&Drop importieren
 
