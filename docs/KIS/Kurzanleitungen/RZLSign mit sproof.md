@@ -189,6 +189,12 @@ Außerdem gibt es für bereits auf sproof geladene Dokumente bzw. für signierte
 !!! info "Hinweis"
     Werden Dokumente direkt im sproof oder im Zuge von *Signaturprozess abbrechen* gelöscht, kann das Dokument über *mit sproof signieren* wieder hochgeladen werden. Signierte Dokumente können nicht mehr zum Signieren auf sproof geladen werden.
 
+## selbst definierte Signaturfelder
+
+Für selbst erstellte PDF-Dokumente kann bereits bei der Dokumentenerstellung ein spezielles Signaturfeld vorgesehen werden. Hierzu wird an der gewünschten Position im PDF der Platzhaltertext {RZLSign} eingefügt.
+Beim Signaturvorgang erkennt das System diesen Platzhalter automatisch und ersetzt ihn durch die entsprechende digitale Signatur. Dadurch lässt sich die Signatur gezielt an der vorgesehenen Stelle im Dokument platzieren.
+Um eine möglichst ansprechende Darstellung des Dokuments zu gewährleisten, empfiehlt es sich, den Platzhalter {RZLSign} mit weißer Schriftfarbe zu hinterlegen. Dadurch bleibt der Platzhalter im fertigen Dokument für den Benutzer unsichtbar, steht dem System jedoch weiterhin für die automatische Signaturerkennung zur Verfügung
+
 ## Audit Trail
 Ein Audit-Trail ist eine lückenlose, chronologische Aufzeichnung, die detailliert dokumentiert, wer wann welche Aktionen an Daten oder Dokumenten vorgenommen hat, um Transparenz, Rechenschaftspflicht und Datenintegrität sicherzustellen. Den Audit Trail können Sie separat je signiertes Dokument aufrufen.
 
