@@ -18,7 +18,7 @@
 
 8)  Bezug von Altersteilzeitgeld gemäß § 27 AlVG
 
-9)  Teilpension gemäß § 27a AlVG oder
+9)  Teilpension gemäß § 4a Allgemeines Pensionsgesetz (APG) oder
 
 10) Beendigung des Dienstverhältnisses, wenn im Kalenderjahr kein neues Dienstverhältnis bei demselben Arbeitgeber oder einem mit diesem verbundenen Konzernunternehmen eingegangen wird.
 

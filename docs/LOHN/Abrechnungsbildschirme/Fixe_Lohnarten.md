@@ -94,7 +94,7 @@ Eingabe des *Sonderzahlungsanspruches*, der für die Berechnung der Abfertigung 
 
 Aufgrund der für die Abfertigung maßgeblichen Daten wird vom Programm automatisch der *Abfertigungsanspruch* berechnet und vorgeschlagen. Dieser kann auch abgeändert werden. Eine solche Änderung ist durch ein Sternchen (*) vor dem Betragsfeld ersichtlich.
 
-## Schlechtwetterentschädigung, unbezahlter Urlaub und Teilentgelt
+## Schlechtwetterentschädigung, unbezahlter Urlaub, Teilentgelt und Teilpension
 
 **Lohnbasis SW-Entschädigung**
 
@@ -135,9 +135,17 @@ LKU (außer in der Steiermark und Kärnten) entfallen für solche Zeiträume. De
 
 Hier sind die Anzahl der Tage und der Betrag des Teilentgeltes einzugeben. Es ist zu beachten, dass hier nur das beitragspflichtige Teilentgelt eingegeben werden darf. Ein nicht beitragspflichtiges Teilentgelt (z. B. beim Lehrling) muss als freie Lohnart definiert werden.
 
+**Teilentgelt Lehrling**
+
+Bei der Beschäftigtengruppe *Lehrling* ist dieses Feld freigeschaltet. Hier kann das Teilentgelt des Lehrlings abgerechnet werden, das SV- und BV-frei ist.
+
 **Teilentgelt Ausland**
 
-Wenn der Bezug von Teilentgelt in eine Periode mit Auslandstätigkeit fällt, können hier die Eintragungen vorgenommen werden. Die Abrechnung in diesen Feldern wird lohnsteuerfrei gerechnet.
+Wenn der Bezug von Teilentgelt in eine Periode mit Auslandstätigkeit fällt, können hier die Eintragungen vorgenommen werden. Die Abrechnung in diesen Feldern wird lohnsteuerfrei gerechnet. Lohnart nur bis 2011 gültig.
+
+**Zeitraum Teilpension**
+
+Damit die Teilpension bei der Kontrollsechstelberechnung als Ausschlussgrund berücksichtigt wird, ist in diesem Feld der Zeitraum der Teilpension einzutragen.
 
 ## BUAK-Direktauzahlung
 

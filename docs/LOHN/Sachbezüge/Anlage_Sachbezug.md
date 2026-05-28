@@ -43,3 +43,6 @@ Bei der dritten Möglichkeit wird nur eine freie Lohnart für den Bezug angelegt
 ![Image](img/image862.png){width="400"}
 
 Auch in diesem Fall muss für die verwendete Abzugslohnart die Art des Sachbezugs hinterlegt werden.
+
+!!! info "Tipp"
+    Durch einen Rechtsklick in das Feld *Sachbezug* kann der Wert *Explizit 0* ausgewählt werden. Dadurch wird der Sachbezug mit 0,00 auf der Abrechnung ausgewiesen – auch wenn kein Betrag verrechnet wird. Bei einem *Sachbezug KFZ* bewirkt diese Einstellung zusätzlich, dass die relevanten Felder für *Sachbezugsprozentsatz* und *Anschaffungskosten* sowohl auf dem Jahreslohnzettel (L16) als auch auf dem Jahreslohnkonto korrekt befüllt werden.
