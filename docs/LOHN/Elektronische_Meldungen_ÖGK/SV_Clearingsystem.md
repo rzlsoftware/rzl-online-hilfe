@@ -48,9 +48,13 @@ Der Menüpunkt *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung
 
 ![Image](<img/image208.png>)
 
-Über einen Doppelklick auf den Clearingfall können Sie zudem einen genaueren Detailüberblick zum jeweiligen Clearingfall gewinnen. Auf Basis des jeweiligen Rückmeldetextes müssen dann durch den Benutzer entsprechende Maßnahmen gesetzt werden z. B. die fehlende Anmeldung nachreichen.
+Über einen Doppelklick auf den Clearingfall erhalten Sie einen detaillierten Überblick zum jeweiligen Clearingfall. Auf Basis des Rückmeldetextes müssen anschließend die erforderlichen Maßnahmen durch den Benutzer gesetzt werden, zum Beispiel das Nachreichen einer fehlenden Anmeldung. Durch Anwahl des Fehlercodes gelangen Sie zum jeweiligen Clearing-Fehlercode mit der entsprechenden ELDA-Lösung.
 
-Falls Sie aus dem Rückmeldetext keine Rückschlüsse auf den Fehler bzw. das Problem ziehen können, empfehlen wir vorab die Kontaktaufnahme mit der ÖGK. Allerdings sind manche Clearingfälle auch nur als Hinweis zu verstehen, die nicht unbedingt eine entsprechende Korrektur erfordern.
+Falls aus dem Rückmeldetext keine eindeutigen Rückschlüsse auf den Fehler oder das zugrunde liegende Problem möglich sind, empfehlen wir einen Doppelklick auf den Fehlercode. Dadurch gelangen Sie zum jeweiligen [Clearing-Fehlercode](../Clearingfaelle.md) mit der entsprechenden ELDA-Lösung.
+
+Manche Clearingfälle sind lediglich als Hinweis zu verstehen und erfordern nicht zwingend eine Korrektur. In solchen Fällen kann es sinnvoll sein, vorab Kontakt mit der ÖGK aufzunehmen und den Sachverhalt zu klären.
+
+Über den Menüpunkt Fehlercodes gelangen Sie zur im Handbuch verlinkten Übersicht der [Clearing-Fehlercodes](../Clearingfaelle.md).
 
 ![Image](<img/image209.png>){width="350"}
 
