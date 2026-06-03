@@ -55,11 +55,13 @@ Klick auf diesen Tab können weitere Personen/Firmen geöffnet werden.
 Über das Symbol **(4)** können Sie die Personendaten aus dem RZL Board
 mit den Kontakt-Personen im MS Outlook abgleichen.
 
+!!!info "Hinweis"
+    Handelt es sich bei der Person um ein Einzelunternehmen, ist - abweichend zu den Privatpersonen - die Eintragung von NACE Codes möglich.
+
 ### **Personendaten Erweitert**
 
 Aufgrund der datenschutzrechtlichen Vorschriften der DSGVO finden Sie
-die Personendaten in zwei verschiedene Register vor – *Personendaten
-Allgemein* und *Personendaten Erweitert*. Die erweiterten Personendaten
+die Personendaten in zwei verschiedene Register vor – *Personendaten Allgemein* und *Personendaten Erweitert*. Die erweiterten Personendaten
 werden nicht in jeder Verwendung benötigt und daher bei einigen
 Verwendungen nicht angezeigt.
 
@@ -349,6 +351,9 @@ Im Bereich Betriebe können Sie die Betriebe bei einem Einzelunternehmer
 anlegen. Bei einem Einzelunternehmer können beliebig viele Betriebe
 angelegt werden. Jeder Betrieb kann in der Folge in den Stammdaten eines
 Klienten hinterlegt werden.
+
+!!!warning "Hinweis"
+    Füllen Sie im Bereich Betrieb alle verfügbaren Informationen, welche teils aus den Stammdaten der Person vorgeschlagen werden, aus, damit diese Informationen schlussendlich in den Programmen korrekt zur Verfügung stehen. Der Betrieb muss außerdem in den Klientendaten als *zugeordneter Betrieb* hinterlegt werden.
 
 ![](<img/image47.png>)
 
