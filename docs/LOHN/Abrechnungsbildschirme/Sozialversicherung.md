@@ -83,7 +83,14 @@ Das Feld *Reduktion DN-Anteil PV* kann nur aktiviert werden, wenn der Dienstnehm
 
 Ist der Dienstnehmer sozialversicherungsrechtlich Wien zugehörig, wird automatisch der Zuschlag *Zuschlag WF Wien* aktiviert. Dadurch werden 0,50 % mehr WF an die ÖGK abgeführt.
 
-## Sozialfonds
+**Sozialfonds Bewachungsgewerbe und Sozialfonds Gebäudereinigung**
+
+Unterliegt der Dienstnehmer dem Kollektivvertrag Bewachungsgewerbe oder Denkmal-, Fassaden oder Gebäudereinigung, dann muss der Zuschlag Z14 bzw. Z15 aktiviert werden.
+
+!!! warning "Hinweis"
+    Die Zuschläge Z14 und Z15 sind erst seit 01.07.2026. Bis dorthin musste der Sozialfonds direkt an den Sozialfonds übermittelt werden und dafür musste der Sozialfonds bis 30.06.2026 aktiviert werden.
+
+## Sozialfonds bis 30.06.2026
 
 Durch Aktivierung des Häkchens wird der Sozialfonds automatisch abgerechnet.
 
