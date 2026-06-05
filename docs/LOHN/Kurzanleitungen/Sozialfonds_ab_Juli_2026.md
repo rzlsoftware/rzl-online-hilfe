@@ -1,31 +1,34 @@
 # Sozialfonds ab 01.07.2026
 
-Seit 01.07.2026 muss der Sozialfonds für die Kollektivverträge
+Ab 01.07.2026 muss der Sozialfonds für folgende Kollektivverträge über die mBGM (monatliche Beitragsgrundlagenmeldung) an die ÖGK übermittelt und bezahlt werden:
 
 - Bewachungsgewerbe und
 - Denkmal-, Fassaden- und Gebäudereinigung
 
-über den mBGM (monatliche Beitragsgrundlagenmeldung) an die ÖGK übermittelt und bezahlt werden.
-
-Hierfür wurde seitens ELDA zwei neue Zuschläge geschaffen:
+Dafür wurden seitens ELDA zwei neue Zuschläge geschaffen:
 
 - Z15 Beitrag Sozialfonds Bewachungsgewerbe
 - Z16 Beitrag Sozialfonds Gebäudereinigungsgewerbe
 
-Das bedeutet, ab der Juli 2026 Abrechnung müssen Sie für diese Dienstnehmer im Sozialversicherungsbildschirm den jeweiligen Zuschlag auswählen:
+Das bedeutet, ab der Abrechnung für Juli 2026 muss für die betroffenen Dienstnehmer im [*Sozialversicherungsbildschirm*](../Abrechnungsbildschirme/Sozialversicherung.md) der jeweilige Zuschlag ausgewählt werden.
 
-## Bemessungsgrundlage Sozialfonds ab 01.07.2026
+![Image](img/image14.png)
 
-Die Bemessungsgrundlage für den Sozialfonds ab 01.07.2026 ist die allgemeine Beitragsgrundlage, welche bis zur sozialversicherung Höchstbeitragsgrundlage gedeckelt ist.
+## Bemessungsgrundlage für den Sozialfonds ab 01.07.2026
+
+Die Bemessungsgrundlage für den Sozialfonds ab 01.07.2026 ist die **allgemeine Beitragsgrundlage**. Diese ist bis zur **sozialversicherungsrechtlichen Höchstbeitragsgrundlage** gedeckelt.
 
 !!! warning "Hinweis"
-    Es gibt seit xx.xx.xxxx einen Initiativantrag, dass auch die Bemessungsgrundlage der Sonderzahlung für den Sozialfonds ab 01.07.2026 herangezogen werden soll. Der Beschluss ist noch abzuwarten. Falls es zu einem Beschluss kommt, muss auch noch die ELDA, diese Änderung in deren Schnittstelle umsetzen. Bis dahin wird nur die allgemeine Beitragsgrundlage ohne Sonderzahlung für die Berechnung des Sozialfonds herangezogen.
+    Seit 13.05.2026 gibt es einen Ministerialentwurf (106/ME), wonach ab 01.07.2026 auch die Bemessungsgrundlage der Sonderzahlung für den Sozialfonds herangezogen werden soll. Der Beschluss ist noch abzuwarten. Falls es zu einem Beschluss kommt, muss ELDA diese Änderung zusätzlich in der Schnittstelle umsetzen. Bis dahin wird für die Berechnung des Sozialfonds nur die allgemeine Beitragsgrundlage ohne Sonderzahlungen herangezogen.
 
-Der Sozialfonds muss nur für die Arbeiter bzw. Arbeiterinnen abgeführt werden. Die Angestellten unterliegen nicht den obigen Kollektivverträgen und sind somit ausgeschlossen. Ebenso sind freie Dienstnehmer ausgeschlossen, da diese nicht unter einen Kollektivvertrag fallen.
+Der Sozialfonds ist nur für **Arbeiterinnen und Arbeiter** abzuführen. Angestellte unterliegen nicht den oben genannten Kollektivverträgen und sind daher ausgeschlossen. Ebenfalls ausgeschlossen sind freie Dienstnehmer, da diese keinem Kollektivvertrag unterliegen.
 
 ## Vorgang in der RZL Lohnverrechnung
 
-Ab Juli 2026 müssen Sie bei jenen Dienstnehmern, für die Sie einen Sozialfonds abführen müssen, im Sozialversicherungsbildschirm den korrekten Zuschlag für den Sozialfonds anwählen. 
+Ab Juli 2026 muss bei jenen Dienstnehmern, für die ein Sozialfonds abzuführen ist, im [*Sozialversicherungsbildschirm*](../Abrechnungsbildschirme/Sozialversicherung.md) der korrekte Zuschlag für den Sozialfonds ausgewählt werden.
 
+![Image](img/image14.png)
 
+Wenn im Vormonat bereits ein *Sozialfonds bis 30.06.2026* abgerechnet wurde und kein neuer Zuschlag ausgewählt ist, erscheint folgender Hinweis:
 
+![Image](img/image15.png)
