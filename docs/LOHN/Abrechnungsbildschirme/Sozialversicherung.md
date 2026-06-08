@@ -83,7 +83,24 @@ Das Feld *Reduktion DN-Anteil PV* kann nur aktiviert werden, wenn der Dienstnehm
 
 Ist der Dienstnehmer sozialversicherungsrechtlich Wien zugehörig, wird automatisch der Zuschlag *Zuschlag WF Wien* aktiviert. Dadurch werden 0,50 % mehr WF an die ÖGK abgeführt.
 
-## Sozialfonds
+**Sozialfonds Bewachungsgewerbe und Sozialfonds Gebäudereinigung**
+
+Unterliegt ein Dienstnehmer dem Kollektivvertrag für das Bewachungsgewerbe oder dem Kollektivvertrag für die Denkmal-, Fassaden- oder Gebäudereinigung, ist der entsprechende Zuschlag zu aktivieren:
+
+- **Z14** für das Bewachungsgewerbe
+- **Z15** für die Denkmal-, Fassaden- oder Gebäudereinigung
+
+!!! warning "Hinweis"
+    Die Zuschläge Z14 und Z15 gelten erst ab 01.07.2026. Bis dahin musste der Sozialfonds direkt an den jeweiligen Sozialfonds übermittelt werden. Dafür war der Sozialfonds bis 30.06.2026 zu aktivieren.
+
+Die Bemessungsgrundlage für den Sozialfonds ab 01.07.2026 ist die **allgemeine Beitragsgrundlage**. Diese ist bis zur **sozialversicherungsrechtlichen Höchstbeitragsgrundlage** gedeckelt.
+
+!!! warning "Hinweis"
+    Seit 13.05.2026 gibt es einen Ministerialentwurf (106/ME), wonach ab 01.07.2026 auch die Bemessungsgrundlage der Sonderzahlung für den Sozialfonds herangezogen werden soll. Der Beschluss ist noch abzuwarten. Falls es zu einem Beschluss kommt, muss ELDA diese Änderung zusätzlich in der Schnittstelle umsetzen. Bis dahin wird für die Berechnung des Sozialfonds nur die allgemeine Beitragsgrundlage ohne Sonderzahlungen herangezogen.
+
+Der Sozialfonds ist nur für **Arbeiterinnen und Arbeiter** abzuführen. Angestellte unterliegen nicht den oben genannten Kollektivverträgen und sind daher ausgeschlossen. Ebenfalls ausgeschlossen sind freie Dienstnehmer, da diese keinem Kollektivvertrag unterliegen.
+
+## Sozialfonds bis 30.06.2026
 
 Durch Aktivierung des Häkchens wird der Sozialfonds automatisch abgerechnet.
 
