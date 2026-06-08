@@ -85,10 +85,20 @@ Ist der Dienstnehmer sozialversicherungsrechtlich Wien zugehörig, wird automati
 
 **Sozialfonds Bewachungsgewerbe und Sozialfonds Gebäudereinigung**
 
-Unterliegt der Dienstnehmer dem Kollektivvertrag Bewachungsgewerbe oder Denkmal-, Fassaden oder Gebäudereinigung, dann muss der Zuschlag Z14 bzw. Z15 aktiviert werden.
+Unterliegt ein Dienstnehmer dem Kollektivvertrag für das Bewachungsgewerbe oder dem Kollektivvertrag für die Denkmal-, Fassaden- oder Gebäudereinigung, ist der entsprechende Zuschlag zu aktivieren:
+
+- **Z14** für das Bewachungsgewerbe
+- **Z15** für die Denkmal-, Fassaden- oder Gebäudereinigung
 
 !!! warning "Hinweis"
-    Die Zuschläge Z14 und Z15 sind erst seit 01.07.2026. Bis dorthin musste der Sozialfonds direkt an den Sozialfonds übermittelt werden und dafür musste der Sozialfonds bis 30.06.2026 aktiviert werden.
+    Die Zuschläge Z14 und Z15 gelten erst ab 01.07.2026. Bis dahin musste der Sozialfonds direkt an den jeweiligen Sozialfonds übermittelt werden. Dafür war der Sozialfonds bis 30.06.2026 zu aktivieren.
+
+Die Bemessungsgrundlage für den Sozialfonds ab 01.07.2026 ist die **allgemeine Beitragsgrundlage**. Diese ist bis zur **sozialversicherungsrechtlichen Höchstbeitragsgrundlage** gedeckelt.
+
+!!! warning "Hinweis"
+    Seit 13.05.2026 gibt es einen Ministerialentwurf (106/ME), wonach ab 01.07.2026 auch die Bemessungsgrundlage der Sonderzahlung für den Sozialfonds herangezogen werden soll. Der Beschluss ist noch abzuwarten. Falls es zu einem Beschluss kommt, muss ELDA diese Änderung zusätzlich in der Schnittstelle umsetzen. Bis dahin wird für die Berechnung des Sozialfonds nur die allgemeine Beitragsgrundlage ohne Sonderzahlungen herangezogen.
+
+Der Sozialfonds ist nur für **Arbeiterinnen und Arbeiter** abzuführen. Angestellte unterliegen nicht den oben genannten Kollektivverträgen und sind daher ausgeschlossen. Ebenfalls ausgeschlossen sind freie Dienstnehmer, da diese keinem Kollektivvertrag unterliegen.
 
 ## Sozialfonds bis 30.06.2026
 
