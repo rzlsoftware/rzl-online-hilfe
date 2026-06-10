@@ -149,3 +149,5 @@ Falls ein Freigeber nach diesen eingestellten Tagen noch nicht freigegeben hat, 
 
 Wird ein Beleg im Freigabeprozess abgelehnt, kann ein Kommentar mit dem Ablehnungsgrund erfasst werden. Mit Aktivieren der Option *Kommentar* bei *Ablehnung verpflichten*d in den *Freigabe-Einstellungen* **muss** bei jeder Ablehnung ein Kommentar erfasst werden.
 
+![Freigabe-Einstellungen](<img/image-47.png>)
+
