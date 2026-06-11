@@ -39,3 +39,6 @@ Sie können diese zur Nachschau benutzen.
 
 Wenn Sie eine andere Note im Notenrückblick auswählen, so ändern sich
 auch dementsprechend die Notendetails.
+
+!!! info "Tipp"
+    In der Notenübersicht haben Sie die Möglichkeit den Notenrückblick auszudrucken [Notenübersicht](../HONNext/Notenübersicht.md#notenrückblick-drucken).
