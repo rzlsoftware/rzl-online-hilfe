@@ -35,7 +35,7 @@ Nach Aktivierung beim Klienten erscheinen im Bereich *BELEGE* nun die benötigte
 
 ![Belege / Einstellungen](<img/image-39.png>)
 
-Im Menüpunkt *Einstellungen / Belegfreigabe* ① können Grundeinstellungen für das Modul *Belegfreigabe* vorgenommen werden.
+Im Menüpunkt *Einstellungen / Belegfreigabe* können Grundeinstellungen für das Modul *Belegfreigabe* vorgenommen werden.
 
 ## 3. Einstellungen Belegfreigabe
 
@@ -150,4 +150,38 @@ Falls ein Freigeber nach diesen eingestellten Tagen noch nicht freigegeben hat, 
 Wird ein Beleg im Freigabeprozess abgelehnt, kann ein Kommentar mit dem Ablehnungsgrund erfasst werden. Mit Aktivieren der Option *Kommentar* bei *Ablehnung verpflichten*d in den *Freigabe-Einstellungen* **muss** bei jeder Ablehnung ein Kommentar erfasst werden.
 
 ![Freigabe-Einstellungen](<img/image-47.png>)
+
+## 4. Belege hinzufügen und Freigabestufen/Freigeber zuordnen
+
+### 4.1. Freigabe-Standards bei neuen Belegen verwenden
+
+Beim Hinzufügen von Belegen, z.B. über einen Scanordner oder das RZL Klientenportal, können Sie nun die angelegten Freigabe-Standards anwenden. 
+
+Wenn Kriterien für eine *automatische Zuordnung* in den Stammdaten eines Freigabe-Standards hinterlegt sind, werden diese im Zuge einer Belegdatenerkennung automatisch den entsprechenden Belegen zugeordnet.
+
+Andernfalls müssen die Freigabe-Standards manuell zugeordnet werden. Markieren Sie dazu die gewünschten Belege und ordnen Sie den gewünschten Freigabe-Standard zu. Dazu haben Sie zwei Möglichkeiten:
+
+- **Menüleiste:** Mit einem Klick auf die Funktion Freigabe-Standards können Sie den gewünschten Freigabe-Standard den *markierten Belegen zuordnen*.
+- **Detailansicht Freigabe:** Welchseln Sie im Bereich *Detailansicht* in das Registerblatt *Freigabe* ①. Hier können Sie für die aktuell markierten Belege die Freigabestufen und Freigeber lt. definiertem Freigabe-Standard ② hinterlegen.
+
+![Freigabe-Standards bei neuen Belegen](<img/image-48.png>)
+
+!!! warning "Hinweis"
+    Ein Freigabe-Standard dient "nur" der einfachen Zuordnung von Freigabestufen und Mitarbeitern. Es wird nicht gespeichert, welcher Freigabe-Standard bei einem Beleg angewendet wurde.
+
+Nach dem Zuordnen der *Freigabe-Standards* ② werden die Freigabestufen und zugeordneten Mitarbeiter im Detail im Bereich *Freigabe* ① bzw. in der Listenansicht in der Spalte *Freigeber* ③ angezeigt. In der Listenansicht werden Stufen mit einem vertikalen Strich, Und-Freigeber mit einem Beistrich sowie Oder-Freigeber mit einem Schrägstrich getrennt, angezeigt.
+
+### 4.2. Freigabestufen und Freigeber bei neuen Belegen manuell zuordnen
+
+Falls Sie *Freigabe-Standards* verwendet haben, können Sie nun jederzeit bei einzelnen Belegen Änderungen zu den bereits zugeordneten Stufen/Freigebern vornehmen (Stufen hinzufügen/löschen, Freigeber löschen, andere Freigeber hinzufügen usw.).
+
+Bei neuen Belegen können Stufen und Freigeber manuell einzelnen Belegen zugeordnet werden. Eine manuelle Zuordnung bei mehreren Belegen gleichzeitig ist nicht möglich – verwenden Sie dafür einen vorher definierten *Freigabe-Standard*.
+
+### 4.3. Verpflichtende Belegfreigabe
+
+In den Klientenstammdaten unter *STAMM / Belegverarbeitung / Allgemeines* können Sie Belegkreise definieren, bei denen verpflichtend eine Belegfreigabe durchgeführt werden muss.
+
+![Verpflichtende Belegfreigabe](<img/image-49.png>)
+
+
 
