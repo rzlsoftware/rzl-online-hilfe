@@ -40,6 +40,8 @@ Die Rechnungsaussteller müssen im Klienten über *VSt-Erstattung EU / Rechnungs
 
 Über die Kontonummer kann ein Personenkonto ausgewählt werden. Ist die Option *Personenkonto verwenden* aktiviert, werden die Personendaten automatisch aus dem Personenkonto übernommen. 
 
+![alt text](image-4.png)
+
 !!! warning "Hinweis"
 
     Die zugeordnete Person kann dann nicht mehr geändert werden. Adresse und UID können bei Bedarf dennoch angepasst werden.
@@ -63,3 +65,4 @@ Voraussetzung für die elektronische Einreichung einer Vorsteuererstattungsantra
 Es muss daher über VSt-Erstattung *EU / EU-Länder* für die Länder, die bei einem Rechnungsausteller hinterlegt sind, bei Zutreffen eine der beiden Optionen aktiviert sein, damit eine elektronische Übermittlung möglich ist.
 
 Unter bestimmten Bedingungen muss im Antrag der Vorsteuererstattung die Art der vom Rechnungsausteller erbrachten Leistung textlich erläutert werden. Daher kann bei den Stammdaten des EU-Landes des Rechnungsaustellers die Sprache der Erläuterung hinterlegt werden. Standardmäßig ist die jeweilige Landessprache hinterlegt.
+
