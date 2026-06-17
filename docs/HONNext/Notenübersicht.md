@@ -412,3 +412,10 @@ Echtzeit.
 Über den Button *Notenrückblick anzeigen* können Sie den [Notenrückblick](../HONNext/Notenrückblick.md)
 öffnen und von Note zu
 Note wechseln. Die Ansicht aktualisiert sich in Echtzeit.
+
+## Notenrückblick drucken
+
+Mit *Notenrückblick drucken* können Sie den Notenrückblick der Note ausdrucken - eine Mehrfachselektion ist möglich.
+Der Notenrückblick zeigt den abgerechneten Wert inkl. Zu-/Abschläge je Verrechnungsgruppe der aktuellen sowie der letzten fünf Honorarnoten.
+
+![](img/image415.png)
