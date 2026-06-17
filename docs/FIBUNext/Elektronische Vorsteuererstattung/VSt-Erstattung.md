@@ -24,7 +24,7 @@ Auch die darunter befindlichen Optionen müssen bei Zutreffen angehakt werden, d
 Die Auswahl der Option *nur für Vorsteuererstattung* bewirkt, dass dieses USt-Land nur für Zwecke der Vorsteuererstattung angelegt wird. Bei Auswahl dieser Option muss unter *Stammdaten / Pflichtkonten / USt* für das ausgewählte USt-Land das **Vorsteuersammelkonto** hinterlegt sein. In der Folge können für dieses USt-Land in den Stammdaten der Konten nur mehr die Codes: **ohne Steuer, VSt-Hinterlegungen, nicht abzugsf. VSt,** hinterlegt werden, damit nicht irrtümlicherweise Buchungen mit MWSt für dieses Land durchgeführt werden.
 
 ### Anlegen der Rechnungsausteller
-Bei der elektronischen Übermittlung des VSt-Erstattungsantrages sind auch die Daten der Rechnungsausteller elektronisch zu übermitteln und müssen daher im Programm angelegt werden.
+Bei der elektronischen Übermittlung des VSt-Erstattungsantrages sind auch die Daten der Rechnungsaussteller elektronisch zu übermitteln und müssen daher im Programm angelegt werden.
 
 Die Rechnungsaussteller müssen im Klienten über *VSt-Erstattung EU / Rechnungsausteller* angelegt werden.
 
@@ -39,24 +39,24 @@ Die Rechnungsaussteller müssen im Klienten über *VSt-Erstattung EU / Rechnungs
     Die zugeordnete Person kann dann nicht mehr geändert werden. Adresse und UID können bei Bedarf dennoch angepasst werden.
 
 Ist die Option nicht aktiviert, kann die Person unabhängig vom Personenkonto manuell ausgewählt oder geändert werden.
-Beim Löschen eines Rechnungsaustellers bleibt die zugeordnete Person erhalten. Das Löschen ist nur möglich, wenn noch keine Erfassungszeilen vorhanden sind.
+Beim Löschen eines Rechnungsausstellers bleibt die zugeordnete Person erhalten. Das Löschen ist nur möglich, wenn noch keine Erfassungszeilen vorhanden sind.
 
 !!! warning "Hinweis"
 
-    Im Regelfall sind der Staat und das EU-Land der Rückerstattung identisch. In Ausnahmefällen, wie z. B. beim Import, kann das EU-Land der Rückerstattung vom Staat des Rechnungsaustellers abweichen. In diesem Fall ist die Option *Importeur* anzuwählen.
+    Im Regelfall sind der Staat und das EU-Land der Rückerstattung identisch. In Ausnahmefällen, wie z. B. beim Import, kann das EU-Land der Rückerstattung vom Staat des Rechnungsausstellers abweichen. In diesem Fall ist die Option *Importeur* anzuwählen.
 
-Wird der Vermerk *nur Kleinbetragsrechnungen* gesetzt, ist die UID-Nummer nicht zwingend notwendig. Die Art der Leistung kann beim Rechnungsausteller verankert werden und wird beim Erfassen der Vorsteuererstattung vorgeschlagen, kann dort aber auch überschrieben werden.
+Wird der Vermerk *nur Kleinbetragsrechnungen* gesetzt, ist die UID-Nummer nicht zwingend notwendig. Die Art der Leistung kann beim Rechnungsaussteller verankert werden und wird beim Erfassen der Vorsteuererstattung vorgeschlagen, kann dort aber auch überschrieben werden.
 
 ### Anlegen des EU-Landes des Rechnungsaustellers
 Voraussetzung für die elektronische Einreichung eines Vorsteuererstattungsantrags ist, dass
 
--	keine Lieferungen oder sonstige Leistungen sowie keine innergemeinschaftlichen Erwerbe getätigt wurden, oder
+-	keine Lieferungen oder sonstige Leistungen sowie keine innergemeinschaftlichen Erwerbe getätigt wurden oder
 
 -	nur Leistungen bewirkt wurden, bei denen die Steuerschuld auf den Leistungsempfänger übergangen ist (Reverse Charge) und/oder nur steuerfreie Beförderungsleistungen und damit verbundene Nebentätigkeiten mit Recht auf Vorsteuerabzug bewirkt wurden.
 
-Es muss daher über *VSt-Erstattung EU / EU-Länder* für die Länder, die bei einem Rechnungsausteller hinterlegt sind, bei Zutreffen eine der beiden Optionen aktiviert sein, damit eine elektronische Übermittlung möglich ist.
+Es muss daher über *VSt-Erstattung EU / EU-Länder* für die Länder, die bei einem Rechnungsaussteller hinterlegt sind, bei Zutreffen eine der beiden Optionen aktiviert sein, damit eine elektronische Übermittlung möglich ist.
 
-Unter bestimmten Bedingungen muss im Antrag der Vorsteuererstattung die Art der vom Rechnungsausteller erbrachten Leistung textlich erläutert werden. Daher kann bei den Stammdaten des EU-Landes des Rechnungsaustellers die Sprache der Erläuterung hinterlegt werden. Standardmäßig ist die jeweilige Landessprache hinterlegt.
+Unter bestimmten Bedingungen muss im Antrag der Vorsteuererstattung die Art der vom Rechnungsaussteller erbrachten Leistung textlich erläutert werden. Daher kann bei den Stammdaten des EU-Landes des Rechnungsausstellers die Sprache der Erläuterung hinterlegt werden. Standardmäßig ist die jeweilige Landessprache hinterlegt.
 
 ## Erfassung der Erstattungsrechnungen
 
@@ -71,16 +71,16 @@ Sie gelangen in folgenden Dialog:
 
 !!! warning "Hinweis"
 
-    Im Kontextmenü kann die Option *Als Importeur übermitteln* explizit ausgewählt werden. Die Verwendung ist nur zulässig, wenn der Rechnungsausteller als Importeur geführt wird.
+    Im Kontextmenü kann die Option *Als Importeur übermitteln* explizit ausgewählt werden. Die Verwendung ist nur zulässig, wenn der Rechnungsaussteller als Importeur geführt wird.
 
--	**Rg.-Austeller:** Eingabe der Nummer des Rechnungsaustellers. Der Rechnungsausteller kann entweder durch Eingabe der entsprechenden Nummer oder über das Dropdown-Menü ausgewählt werden.
--	**Leistungsarten:** In diesem Feld ist die Art der vom Rechnungsausteller erbrachten Leistung anhand von vorgegebenen Kategorien anzugeben. Über das Dropdown-Menü können die Codes/Subcodes aufgerufen werden. Es können **maximal 5 Arten gemeldet** werden.
+-	**Rg.-Austeller:** Eingabe der Nummer des Rechnungsausstellers. Der Rechnungsaussteller kann entweder durch Eingabe der entsprechenden Nummer oder über das Dropdown-Menü ausgewählt werden.
+-	**Leistungsarten:** In diesem Feld ist die Art der vom Rechnungsaussteller erbrachten Leistung anhand von vorgegebenen Kategorien anzugeben. Über das Dropdown-Menü können die Codes/Subcodes aufgerufen werden. Es können **maximal 5 Arten gemeldet** werden.
 
 ![alt text](image-8.png)
 
 !!! warning "Hinweis"
 
-    Sollte durch keine der vorgegebenen Leistungsarten die betreffende Leistung abgedeckt sein, ist die *Art (10) Sonstiges* auszuwählen und dann im Feld *Text* in der beim EU-Land des Rechnungsaustellers hinterlegten Sprache zu erläutern. 
+    Sollte durch keine der vorgegebenen Leistungsarten die betreffende Leistung abgedeckt sein, ist die *Art (10) Sonstiges* auszuwählen und dann im Feld *Text* in der beim EU-Land des Rechnungsausstellers hinterlegten Sprache zu erläutern. 
 
 -	**Bemessung Netto:** Eingabe der Bemessungsgrundlage (Nettobetrag) in der Währung des Erstattungslandes (erfolgt am Bildschirm kein besonderer Hinweis, so sind die Beträge in Euro einzugeben)
 -	**Steuer %:** Mit der Eingabe des Steuersatzes wird vom Programm die Vorsteuer ausgerechnet. Die Steuersätze können auch im Dropdown-Menü ausgewählt werden.
