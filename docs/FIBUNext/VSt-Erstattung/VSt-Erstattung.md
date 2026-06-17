@@ -66,3 +66,46 @@ Es muss daher über VSt-Erstattung *EU / EU-Länder* für die Länder, die bei e
 
 Unter bestimmten Bedingungen muss im Antrag der Vorsteuererstattung die Art der vom Rechnungsausteller erbrachten Leistung textlich erläutert werden. Daher kann bei den Stammdaten des EU-Landes des Rechnungsaustellers die Sprache der Erläuterung hinterlegt werden. Standardmäßig ist die jeweilige Landessprache hinterlegt.
 
+## Erfassung der Erstattungsrechnungen
+
+Über *VSt-Erfassung EU / Erfassen* können Sie Erstattungsrechnungen erfassen. Diese Erfassung ist unabhängig vom Buchen und kann nachträglich durchgeführt werden.
+
+Sie gelangen in folgenden Dialog
+
+![ErfassungDialog](image-5.png)
+
+-	**Datum:** Rechnungsnummer in dem Format TTMMJJJJ
+-	**Beleg:** Rechnungsnummer
+
+!!! warning "Hinweis"
+
+    Im Kontextmenü kann die Option *Als Importeur übermitteln* explizit ausgewählt werden. Die Verwendung ist nur zulässig, wenn der Rechnungsausteller als Importeur geführt wird.
+
+-	**Rg.-Austeller:** Eingabe der Nummer des Rechnungaustellers. Der Rechnungsausteller kann entweder durch Eingabe der entsprechenden Nummer oder über das Dropdown-Menü ausgewählt werden.
+-	**Leistungsarten:** In diesem Feld ist die Art der vom Rechnungsausteller erbrachten Leistung anhand von vorgegebenen Kategorien anzugeben. Über das Dropdown-Menü können die Codes/Subcodes aufgerufen werden. Es können **maximal 5 Arten gemeldet** werden.
+
+!!! warning "Hinweis"
+
+    Sollte durch keine der vorgegebenen Leistungsarten die betreffende Leistung abgedeckt sein, ist die *Art (10) Sonstiges* auszuwählen und dann im Feld *Text* in der beim EU-Land des Rechnungsaustellers hinterlegten Sprache zu erläutern. 
+
+-	**Bemessung Netto:** Eingabe der Bemessungsgrundlage (Nettobetrag) in der Währung des Erstattungslandes (erfolgt am Bildschirm kein besonderer Hinweis, so sind die Beträge in Euro einzugeben)
+-	**Steuer %:** Mit der Eingabe des Steuersatzes wird vom Programm die Vorsteuer ausgerechnet. Die Steuersätze können auch im Dropdown-Menü ausgewählt werden.
+-	**Vorsteuer:** Vorsteuerbetrag lt. Rechnung
+-	**Abziehbare VSt.:** abziehbare Vorsteuer
+-	**Text:** Dieses Feld ist nur aktiv, wenn die *Art (10) Sonstiges* ausgewählt wurde.
+
+### Erfassen außerhalb des Buchens
+
+Wurde bei der Buchung keine Vorsteuererstattung erfasst, kann dies nachträglich über die Funktion *In VSt-Erstattung aufnehmen* unter *Auswertung / Konto oder Journal* erfolgen. Die Funktion steht im Kontextmenü zur Verfügung und wird nur angezeigt, wenn die Vorsteuererstattung im Stamm aktiviert ist.
+
+Beim Aufruf öffnet sich der Erfassungsdialog der Vorsteuererstattung, wobei vorhandene Buchungsdaten automatisch übernommen werden. Für Zeiträume, für die bereits eine Meldung erstellt wurde, ist keine nachträgliche Übernahme mehr möglich. Übernommene Buchungen werden in der Spalte *VSt-Erstattung* mit einem Häkchen gekennzeichnet. Wird die Funktion erneut ausgeführt, öffnet sich die bereits vorhandene Erfassungszeile zur weiteren Bearbeitung.   
+
+### Erfassen während des Buchens
+
+-	Ein Aufwandskonto mit einem USt-Land, bei dem die Option *nur für VSt-Erstattung* aktiviert ist
+-	Ein Personenkonto, das bei einem Rechnungsausteller hinterlegt ist
+-	Im Textfeld über das Kontextmenü oder über *Umschalt + F9* die Funktion In VSt-Erstattung aufnehmen ausgewählt wurde
+
+![alt text](image-7.png)
+
+Der Erfassungsdialog unterscheidet sich in der Folge nicht vom manuellen Erfassen.
