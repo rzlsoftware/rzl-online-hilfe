@@ -184,4 +184,62 @@ In den Klientenstammdaten unter *STAMM / Belegverarbeitung / Allgemeines* könne
 ![Verpflichtende Belegfreigabe](<img/image-49.png>)
 
 
+Wird nun ein Beleg mit einem für die verpflichtende Belegfreigabe aktivierten Belegkreis hinzugefügt, muss vor der Übernahme zumindest ein Belegfreigeber zugeordnet werden. Fehlt die Zuordnung des Belegfreigebers, werden die betroffenen Belege in einer Hinweismeldung angeführt.
 
+![Übernahme nicht möglich](<img/image-50.png>)
+
+## 5. Ansicht Belegfreigabe
+
+### 5.1. Neue Spalten bzw. neues Registerbaltt im Detail
+
+Zum Freigeben von Belegen öffnen Sie nun die Ansicht *Belegfreigabe*.
+
+![Ansicht Belegfreigabe](<img/image-51.png>)
+
+Hier werden nun in fünf Spalten die aktuellen Freigabeinformationen angezeigt:
+
+1. *Buchungsfreigabe* ① und *Zahlungsfreigabe* ②
+
+    a. Nicht freigeben (kein Symbol)
+
+    b. Teilweise Freigeben (gelbes Häkchen)
+
+    c. Freigegeben (grünes Häkchen)
+
+    d. Abgelehnt (diese Belege werden in einer eigenen Liste angezeigt)
+
+2. *Freigeber* ③: die zugeordneten Freigeber werden angezeigt. Oder-Freigeber mit Schrägstrich, Und-Freigeber mit Beistrich getrennt. Freigabestufen werden mit einem vertikalen Strich unterteilt.
+3. *Freigabe-Fortschritt *④: In dieser Spalte wird grafisch dargestellt, wie viele Freigabestufen schon erledigt sind – diese werden grün dargestellt. In grauer Farbe werden die noch nicht erledigten Freigabestufen angezeigt. Die Buchungsfreigabe wird mit einem Punkt, die Zahlungsfreigabe mit einem Quadrat dargestellt. Somit kann in dieser Spalte der Gesamtfortschritt der Belegfreigabe abgelesen werden.
+4. Aktuelle *Freigabestufe* ⑤: Die Bezeichnung der Stufe, in der sich der Beleg gerade befindet, wird angezeigt.
+
+Ganz unten in der *Detailansicht* eines Beleges im Registerblatt *Freigabe* werden die zugeordneten Freigeber und weitere Informationen, wie z.B. das Datum und die Uhrzeit einer erfolgten Freigabe, angezeigt.
+
+### 5.2. Mögliche Aktionen
+
+Folgende Aktionen können bei einem Beleg getätigt werden, wenn Sie als Freigeber zugeordnet sind:
+
+- *Freigeben* (optional mit Anmerkung)
+- *Ablehnen*
+- *Weiterleiten*
+- *Zurücksetzen*
+
+Grundsätzlich gibt es drei verschiedene Möglichkeiten, eine Freigabe-Aktionen zu setzen:
+
+**Menüleiste**
+![Menüleiste](<img/image-52.png>)
+
+**Detailansicht**
+![Detailansicht](<img/image-53.png>)
+
+**Belegansicht**
+![Belegansicht](<img/image-54.png>)
+
+#### 5.2.1. Beleg freigeben
+
+Beim Freigeben eines Beleges wird gespeichert, welcher Mitarbeiter zu welchem Datum und zu welcher Uhrzeit den Beleg freigegeben hat. Zusätzlich kann jeder Freigeber eine Anmerkung erfassen.
+
+Wenn alle notwendigen Freigabestufen und Freigeber der Buchungsfreigabe freigegeben haben, erhält der Beleg automatisch den Status *freigegeben*. Jetzt kann dieser Beleg in der *FIBU / EA* gebucht werden.
+
+#### 5.2.2. Beleg ablehnen
+
+Falls ein Beleg nicht akzeptiert wird, kann ein zugeordneter Freigeber bei der Buchungsfreigabe einen Beleg *ablehnen*. Zusätzlich kann ein Ablehnungsgrund erfasst werden (dieser wird auch im E-Mail angeführt).
