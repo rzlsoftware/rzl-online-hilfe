@@ -6,13 +6,13 @@ Als Erweiterung zum RZL FIBU/EA Modul Belegverarbeitung bietet RZL die Möglichk
 
 Grundsätzlich ändert sich mit Lizenzierung dieses Moduls in den verschiedenen Ansichten der Belegverarbeitung nichts. Erst wenn Sie die Belegfreigabe bei einem Klienten aktivieren, werden die entsprechenden Ansichten aktiv.
 
-Zum Aktivieren öffnen Sie den Klienten links oben im Feld Klient wählen. Wechseln Sie dann im Klienten in den Bereich *STAMM*. Dort können Sie unter *Belegverarbeitung / Allgemeines nun die Belegfreigabe aktivieren* ①.
+Zum Aktivieren öffnen Sie den Klienten links oben im Feld *Klient wählen*. Wechseln Sie dann im Klienten in den Bereich *STAMM*. Dort können Sie unter *Belegverarbeitung / Allgemeines nun die Belegfreigabe aktivieren* ①.
 
 *Voraussetzung dafür ist die Berechtigung BELEGE / STAMM / Belegvearbeitung / Verwalten.*
 
 ![Aktivierung Belegfreigabe](<img/image-36.png>)
 
-## 2. Geänderte Anscihten für Belegfreigabe
+## 2. Geänderte Ansichten für Belegfreigabe
 
 Nach Aktivierung beim Klienten erscheinen im Bereich *BELEGE* nun die benötigten Ansichten. Je nachdem ob der Klient bereits geöffnet ist oder nicht, stehen folgende Ansichten zur Verfügung:
 
@@ -20,7 +20,7 @@ Nach Aktivierung beim Klienten erscheinen im Bereich *BELEGE* nun die benötigte
 
 ![Beleg ohne geöffnetem Klienten](<img/image-37.png>)
 
-- Die Ansicht der Ungebuchten Belege ① zeigt die ungebuchten Belege alle Klienten ohne aktivierter Belegfreigabe
+- Die Ansicht der Ungebuchten Belege ① zeigt die ungebuchten Belege aller Klienten ohne aktivierter Belegfreigabe
 - Die Ansicht Belegfreigabe ② zeigt alle freizugebenden bzw. freigegebenen Belege und somit die ungebuchten Belege aller Klienten mit aktivierter Belegfreigabe.
 - Zusätzlich gibt es eine Ansicht für Abgelehnte Belege ③.
 
@@ -29,7 +29,7 @@ Nach Aktivierung beim Klienten erscheinen im Bereich *BELEGE* nun die benötigte
 ![Beleg mit geöffnetem Klienten](<img/image-38.png>)
 
 - Bei Klienten mit aktivierter Belegfreigabe wird die Ansicht der Ungebuchten Belege ersetzt durch die Ansicht *Belegfreigabe* ①.
-- Zusätzlich gibt es eine Anischt für *Abgelehnte Belege* ②.
+- Zusätzlich gibt es eine Ansicht für *Abgelehnte Belege* ②.
 
 ### 2.3. Menüpunkt *Belege / Einstellungen*
 
@@ -56,19 +56,20 @@ Mit der Schaltfläche *Freigabe-Standard löschen* ② kann ein gespeicherter Fr
 ![Freigabe-Standards 2](<img/image-42.png>)
 
 Sie können nun einen *Namen* ① vergeben und im Feld *Anmerkung* ② eine Notiz zu diesem Freigabe-Standard hinterlegen.
-Um unteren Bereich können Sie *Freigabestufen hinzufügen* ③, um die Freigabe in einem **Workflow** in einer gewissen Reihenfolge festzulegen. Die Freigabestufen können mit Doppelklick oder mit dem Bleistiftsymbol im jeweiligen Registerblatt benannt werden ④.
+Im unteren Bereich können Sie *Freigabestufen hinzufügen* ③, um die Freigabe in einem **Workflow** in einer gewissen Reihenfolge festzulegen. Die Freigabestufen können mit Doppelklick oder mit dem Bleistiftsymbol im jeweiligen Registerblatt benannt werden ④.
 
 Mit Klick auf diese Schaltfläche ⑤, können Sie zwischen den Freigabearten *Buchungsfreigabe* und der *Zahlungsfreigabe* wechseln:
 
 - **Buchungsfreigabe:** Der Beleg wird erst zur Verbuchung vorgeschlagen, wenn alle Freigabestufen der Buchungsfreigabe positiv abgeschlossen wurden. Wurde einem Belege keine Buchungsfreigabe-Stufe zugeordnet, gilt er als freigegeben und wird ebenfalls zur Buchung vorgeschlagen.
 
-- **Zahlungsfreigabe::** Der Beleg kann auch ohne erfolgter Zahlungsfreigabe verbucht werden. Er wird allerdings erst nach erfolgter Zahlungsfreigabe bei der Erstellung einer Überweisungsdatei berücksichtigt. Die Zahlungsfreigabe kann ausschließlich als letzte Stufe im Freigabeprozess angelegt werden. So wird sichergestellt, dass der Beleg erst nach erfolgter formeller und inhaltlicher Prüfung (Buchungsfreigabe) zur Zahlung freigegeben werden kann. Das Ablehnen der Zahlungsfreigabe ist nicht möglich. Wurde einem Beleg keine Zahlungsfreigabe-Stufe zugeordnet, wird dieser beim Überweisungslauf ebenfalls vorgeschlagen.
+- **Zahlungsfreigabe:** Der Beleg kann auch ohne erfolgter Zahlungsfreigabe verbucht werden. Er wird allerdings erst nach erfolgter Zahlungsfreigabe bei der Erstellung einer Überweisungsdatei berücksichtigt. Die Zahlungsfreigabe kann ausschließlich als letzte Stufe im Freigabeprozess angelegt werden. So wird sichergestellt, dass der Beleg erst nach erfolgter formeller und inhaltlicher Prüfung (Buchungsfreigabe) zur Zahlung freigegeben werden kann. Das Ablehnen der Zahlungsfreigabe ist nicht möglich. Wurde einem Beleg keine Zahlungsfreigabe-Stufe zugeordnet, wird dieser beim Überweisungslauf ebenfalls vorgeschlagen.
 
 Im Bereich *Buchungs- bzw. Zahlungsfreigabe* durch ⑥ können Sie den bzw. die gewünschten Mitarbeiter pro Freigabestufe hinterlegen.
 
 Grundsätzlich können Sie beim Zuordnen von Freigebern mit ODER bzw. UND Verknüpfungen arbeiten. Das heißt, Sie können zum Beispiel entscheiden ob Mitarbeiter 1 **oder** Mitarbeiter 2 bzw. Mitarbeiter 1 **und** Mitarbeiter 2 freigeben müssen. Oder-Freigaben werden in derselben Zeile festgelegt, Und-Freigaben in einer neuen Zeile.
 
-Zum Hinzufügen von Oder-Freigebern in derselben Zeile steht immer schon ein freies Feld zur Verfügung. Zum Hinzufügen eines Und-Freigebers klicken Sie auf die Schaltfläche *Freigeber* hinzufügen, um eine neue Zeile einzufügen. 
+Zum Hinzufügen von Oder-Freigebern in derselben Zeile steht immer schon ein freies Feld zur Verfügung. Zum Hinzufügen eines Und-Freigebers klicken Sie auf die Schaltfläche *Freigeber hinzufügen*, um eine neue Zeile einzufügen.
+
 **Beispiel:** Belege, denen obiger Freigabe-Standard zugeordnet wird, müssen zuerst in der Stufe „Formelle Prüfung“, dann in der Stufe „Inhaltliche Prüfung“ und zuletzt in der Stufe „Zahlungsfreigabe“ (in dieser Stufe von Stein Stefan **oder** Weber Martin **und** von Huberlehner Maria) freigegeben werden.
 
 Mit dem *Papierkorb-Symbol* können Freigabestufen sowie einzelne Freigeber wieder gelöscht werden. Um alle Freigeber zu löschen, verwenden Sie ganz rechts die Schaltfläche *Alle Freigeber löschen* *(7)*.
@@ -78,7 +79,7 @@ Mit dem *Papierkorb-Symbol* können Freigabestufen sowie einzelne Freigeber wied
 
 ### 3.2. Automatische Zuordnung von Freigabe-Standards
 
-In den Stammdaten eines Freigabe-Standards können Sie im Registerblatt *Automatische* Zuordnung festlegen, aufgrund welcher Kriterien ein Freigabe-Standard bei einer Belegdatenerkennung automatisch bei bestimmten Belegen angewandt werden soll.
+In den Stammdaten eines Freigabe-Standards können Sie im Registerblatt *Automatische Zuordnung* festlegen, aufgrund welcher Kriterien ein Freigabe-Standard bei einer Belegdatenerkennung automatisch bei bestimmten Belegen angewandt werden soll.
 
 In folgendem Beispiel wird der Freigabe-Standard *Rechnungen über 1.000* bei allen Belegen über EUR 1.000,00 mit dem Belegkreis ER bei den Klienten 3 und 4 automatisch angewandt.
 
@@ -86,20 +87,20 @@ In folgendem Beispiel wird der Freigabe-Standard *Rechnungen über 1.000* bei al
 
 **Feldbeschreibung:**
 
-1. *Und/Oder* ①: Mit diesem Feld können Sie festlegen, ob die folgenden Kriterien in dieser Gruppe alle zutreffen müssen (und) oder nur eines der Kriterien zutreffen muss (oder).
-2. *Bedingung hinzufügen* ②: Fügen Sie innerhalb der jeweiligen Gruppe eine neue Bedingung hinzu.
-3. *Gruppe hinzufügen* ③: Fügen Sie eine Ebene tiefer eine Gruppe mit Bedingungen hinzu.
-4. *Kriterien* ④: Mit folgenden Kriterien kann eine automatische Zuordnung angestoßen werden:
+1. **Und/Oder** ①: Mit diesem Feld können Sie festlegen, ob die folgenden Kriterien in dieser Gruppe alle zutreffen müssen (und) oder nur eines der Kriterien zutreffen muss (oder).
+2. **Bedingung hinzufügen** ②: Fügen Sie innerhalb der jeweiligen Gruppe eine neue Bedingung hinzu.
+3. **Gruppe hinzufügen** ③: Fügen Sie eine Ebene tiefer eine Gruppe mit Bedingungen hinzu.
+4. **Kriterien** ④: Mit folgenden Kriterien kann eine automatische Zuordnung angestoßen werden:
 
 ![Kriterien](<img/image-44.png>)
 
-5. *Zeile löschen* ⑤: Mit dem *Papierkorb-Symbol* kann eine Zeile oder eine Gruppe gelöscht werden.
-6. In der Liste ⑥ wird gruppiert angezeigt, ob Kriterien für eine automatische Zuordnung hinterlegt sind.
-7. Zusätzlich gibt es die Möglichkeit, die Freigabe-Standards mit dem Feld *Reihenfolge* *(7)* zu reihen. Falls bei einem Beleg mehrere passen würden, wird zuerst der vorgereihte Freigabe-Standard verwendet.
+5. **Zeile löschen** ⑤: Mit dem *Papierkorb-Symbol* kann eine Zeile oder eine Gruppe gelöscht werden.
+6. In der **Liste** ⑥ wird gruppiert angezeigt, ob Kriterien für eine automatische Zuordnung hinterlegt sind.
+7. Zusätzlich gibt es die Möglichkeit, die Freigabe-Standards mit dem Feld **Reihenfolge** *(7)* zu reihen. Falls bei einem Beleg mehrere passen würden, wird zuerst der vorgereihte Freigabe-Standard verwendet.
 
 ### 3.3. Freigabe-Vertretung anlegen
 
-Im Bereich *Freigabe-Vertretung* können Sie mit Administratorrechten Vertretungen für abwesende Freigeber fest-legen.
+Im Bereich *Freigabe-Vertretung* können Sie mit Administratorrechten Vertretungen für abwesende Freigeber festlegen.
 
 ![Freigabe-Vertretung](<img/image-45.png>)
 
@@ -111,7 +112,7 @@ Mit der Schaltfläche *Freigabe-Vertretung löschen* kann eine gespeicherte Frei
 
 ### 3.4 Freigabe-Benachrichtigung aktivieren
 
-Im Bereich *Freigabe-Benachrichtigung* können Sie pro Mitarbeiter festlegen, in welchen Fällen bestimmte Mitar-beiter benachrichtigt werden sollen. Folgende Möglichkeiten zur Benachrichtigung gibt es:
+Im Bereich *Freigabe-Benachrichtigung* können Sie pro Mitarbeiter festlegen, in welchen Fällen bestimmte Mitarbeiter benachrichtigt werden sollen. Folgende Möglichkeiten zur Benachrichtigung gibt es:
 
 ![Freigabe-Benachrichtigung](<img/image-46.png>)
 
@@ -141,9 +142,9 @@ Falls ein Freigeber nach diesen eingestellten Tagen noch nicht freigegeben hat, 
 
 **Microsoft Azure:** Diese Einstellung ist als Standardeinstellung hinterlegt, wenn der RZL Dienst eingerichtet ist. Es wird ein automatisch generiertes Mail von RZL mittels Azure Maildienst versendet.
 
-**Standard E-Mail Programm**: Die E-Mails, dass neue Belege zur Freigabe zur Verfügung stehen, werden vom persönlichen E-Mail-Postfach jenes Benutzers versendet, der die Belege in die Belegverarbeitung übernommen hat. Das Erin-nerungsmail, dass Belege seit einigen Tagen auf die Freigabe warten, wird von einem zufällig ausgewähl-ten, aktiven Outlook-Postfach versandt.
+**Standard E-Mail Programm**: Die E-Mails, dass neue Belege zur Freigabe zur Verfügung stehen, werden vom persönlichen E-Mail-Postfach jenes Benutzers versendet, der die Belege in die Belegverarbeitung übernommen hat. Das Erinnerungsmail, dass Belege seit einigen Tagen auf die Freigabe warten, wird von einem zufällig ausgewählten, aktiven Outlook-Postfach versandt.
 
-**Klientenportal**: Die Freigabe-Mails werden vom RZL Klientenportal versendet (kein lokales Mailprogramm notwendig). Da-zu muss entweder ein Klientenportal Service-User, ein fremder Klientenportal-Zugang oder ein Klienten-portal Plugin eingerichtet sein.
+**Klientenportal**: Die Freigabe-Mails werden vom RZL Klientenportal versendet (kein lokales Mailprogramm notwendig). Dazu muss entweder ein Klientenportal Service-User, ein fremder Klientenportal-Zugang oder ein Klientenportal Plugin eingerichtet sein.
 
 ### 3.5. Freigabe-Einstellungen
 
@@ -190,7 +191,7 @@ Wird nun ein Beleg mit einem für die verpflichtende Belegfreigabe aktivierten B
 
 ## 5. Ansicht Belegfreigabe
 
-### 5.1. Neue Spalten bzw. neues Registerbaltt im Detail
+### 5.1. Neue Spalten bzw. neues Registerblatt im Detail
 
 Zum Freigeben von Belegen öffnen Sie nun die Ansicht *Belegfreigabe*.
 
@@ -198,7 +199,7 @@ Zum Freigeben von Belegen öffnen Sie nun die Ansicht *Belegfreigabe*.
 
 Hier werden nun in fünf Spalten die aktuellen Freigabeinformationen angezeigt:
 
-1. *Buchungsfreigabe* ① und *Zahlungsfreigabe* ②
+1. **Buchungsfreigabe** ① und **Zahlungsfreigabe** ②
 
     a. Nicht freigeben (kein Symbol)
 
@@ -208,9 +209,9 @@ Hier werden nun in fünf Spalten die aktuellen Freigabeinformationen angezeigt:
 
     d. Abgelehnt (diese Belege werden in einer eigenen Liste angezeigt)
 
-2. *Freigeber* ③: die zugeordneten Freigeber werden angezeigt. Oder-Freigeber mit Schrägstrich, Und-Freigeber mit Beistrich getrennt. Freigabestufen werden mit einem vertikalen Strich unterteilt.
-3. *Freigabe-Fortschritt *④: In dieser Spalte wird grafisch dargestellt, wie viele Freigabestufen schon erledigt sind – diese werden grün dargestellt. In grauer Farbe werden die noch nicht erledigten Freigabestufen angezeigt. Die Buchungsfreigabe wird mit einem Punkt, die Zahlungsfreigabe mit einem Quadrat dargestellt. Somit kann in dieser Spalte der Gesamtfortschritt der Belegfreigabe abgelesen werden.
-4. Aktuelle *Freigabestufe* ⑤: Die Bezeichnung der Stufe, in der sich der Beleg gerade befindet, wird angezeigt.
+2. **Freigeber** ③: Die zugeordneten Freigeber werden angezeigt. Oder-Freigeber mit Schrägstrich, Und-Freigeber mit Beistrich getrennt. Freigabestufen werden mit einem vertikalen Strich unterteilt.
+3. **Freigabe-Fortschritt** ④: In dieser Spalte wird grafisch dargestellt, wie viele Freigabestufen schon erledigt sind – diese werden grün dargestellt. In grauer Farbe werden die noch nicht erledigten Freigabestufen angezeigt. Die Buchungsfreigabe wird mit einem Punkt, die Zahlungsfreigabe mit einem Quadrat dargestellt. Somit kann in dieser Spalte der Gesamtfortschritt der Belegfreigabe abgelesen werden.
+4. **Aktuelle Freigabestufe** ⑤: Die Bezeichnung der Stufe, in der sich der Beleg gerade befindet, wird angezeigt.
 
 Ganz unten in der *Detailansicht* eines Beleges im Registerblatt *Freigabe* werden die zugeordneten Freigeber und weitere Informationen, wie z.B. das Datum und die Uhrzeit einer erfolgten Freigabe, angezeigt.
 
@@ -257,7 +258,7 @@ Optional kann nun eine Infomail an bestimmte Mitarbeiter versendet werden (siehe
 
 #### 5.2.3. Beleg weiterleiten
 
-Falls Sie als zugeordneter Freigeber diesen Beleg einem anderen Mitarbeiter zum Freigeben übergeben möch-ten, verwenden Sie die Aktion *Weiterleiten*.
+Falls Sie als zugeordneter Freigeber diesen Beleg einem anderen Mitarbeiter zum Freigeben übergeben möchten, verwenden Sie die Aktion *Weiterleiten*.
 
 Beim Weiterleiten wählen Sie den gewünschten Mitarbeiter und erfassen optional einen Weiterleitungsgrund bzw. eine Nachricht für den neuen Freigeber.
 
@@ -321,7 +322,7 @@ Um in der Liste aller Belege nur die Belege zu sehen, bei denen Sie als Freigebe
 
 ### 7.2. Freigeber bearbeiten
 
-Mit der Funktion *Freigeber bearbeiten* ② können Sie in der Detailansicht im Registerblatt Freigabe die zugeord-neten Mitarbeiter verändern (nur solange dieser noch keine Freigabe durchgeführt hat). Diese Funktion kann nur von dem Mitarbeiter ausgeführt werden, der die Belege ursprünglich hinzugefügt hat oder von einem RZL Administrator. Durch erneuten Klick auf die Schaltfläche, wird das Bearbeiten der Freigeber beendet.
+Mit der Funktion *Freigeber bearbeiten* ② können Sie in der Detailansicht im Registerblatt Freigabe die zugeordneten Mitarbeiter verändern (nur solange dieser noch keine Freigabe durchgeführt hat). Diese Funktion kann nur von dem Mitarbeiter ausgeführt werden, der die Belege ursprünglich hinzugefügt hat oder von einem RZL Administrator. Durch erneuten Klick auf die Schaltfläche, wird das Bearbeiten der Freigeber beendet.
 
 ### 7.3. Erinnerung senden
 
