@@ -69,7 +69,7 @@ Hier können Sie eine Auflistung aller Dienstnehmer erstellen, für die Sie den 
 
 **Aufstellung Sozialfonds**
 
-Hier können Sie eine Auflistung aller Dienstnehmer erstellen, für die der Sozialfonds abgeführt werden soll.
+In diesem Bereich erstellen Sie eine Aufstellung aller Dienstnehmer, für die der Sozialfonds abgeführt werden soll. Optional können Sie die Auswertung nach den Kollektivverträgen Bewachungsgewerbe (Z15) sowie Denkmal-, Fassaden- und Gebäudereinigung (Z16) aufteilen. Aktivieren Sie dazu die Option *Aufteilung nach Zuschlag Z15 oder Z16*. So erhalten Sie eine branchenspezifisch gegliederte Übersicht
 
 **Aufstellung Überweisung an Sonstige Behörden**
 
