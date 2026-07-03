@@ -38,8 +38,6 @@ Wenn dieses Feld aktiviert wird, wird automatisch auch das Feld bei den *Mehrarb
 
 Aufgrund der kurzfristigen gesetzlichen Änderung des § 68 Abs. 2 werden bis einschließlich Version 2.26.1.1 weiterhin die bisher für 2026 gültigen Werte (max. 10 Überstunden / EUR 120,00) herangezogen. Ab Version 2.26.2.0 erfolgt die Berechnung auf Basis der neuen Werte (max. 15 Überstunden / EUR 170,00).
 
-Eine ausführliche Erläuterung finden Sie in der [Kurzanleitung](../Kurzanleitungen/Ueberstunden_2026.md).
-
 **Begünstigte Überstunden § 68(2)**
 
 Unter *begünstigte Überstunden § 68(2)* sind jene „normalen“ Überstunden zu erfassen, die nicht in der Nacht geleistet werden. Das Programm berücksichtigt davon automatisch die gemäß § 68 Abs. 2 EStG jeweils gesetzlich begünstigte Anzahl an Überstunden und behandelt diese bis zum gesetzlich festgelegten Höchstbetrag als steuerfrei.
@@ -89,8 +87,6 @@ Wenn dieses Feld aktiviert wird, wird automatisch auch das Feld bei den *Überst
 **Altfall §68(2) - 10Std./€120**
 
 Aufgrund der kurzfristigen gesetzlichen Änderung des § 68 Abs. 2 werden bis einschließlich Version 2.26.1.1 weiterhin die bisher für 2026 gültigen Werte (max. 10 Überstunden / EUR 120,00) herangezogen. Ab Version 2.26.2.0 erfolgt die Berechnung auf Basis der neuen Werte (max. 15 Überstunden / EUR 170,00).
-
-Eine ausführliche Erläuterung finden Sie in der [Kurzanleitung](../Kurzanleitungen/Ueberstunden_2026.md).
 
 **Mehrarbeit-Stunden zu …**
 
