@@ -1,6 +1,6 @@
 # Mitarbeiterprämie 2026
 
-Im Kalenderjahr 2026 ist es unter bestimmten Formalvoraussetzungen möglich, die **Mitarbeiterprämie** bis zur Höhe von EUR 500,00 pro Arbeitnehmer steuerfrei zu gewähren (§&nbsp;124b Z. 478 lit. f EStG).
+Im Kalenderjahr 2026 ist es unter bestimmten Formalvoraussetzungen möglich, die **Mitarbeiterprämie** bis zur Höhe von EUR 500,00 pro Arbeitnehmer steuerfrei zu gewähren (§&nbsp;124b Z 478 lit. f EStG).
 
 ## Anspruchsgrundlage
 
@@ -14,7 +14,7 @@ Das bedeutet: **In Branchen, in denen es einen Arbeitgeberverband gibt** (somit 
 
 ## Auszahlungszeitpunkt
 
-Begünstigt sind nur Zulagen und Bonuszahlungen, die der Arbeitgeber in den Kalendermonaten **Juli bis Dezember 2026** gewährt. Das bedeutet:
+Begünstigt sind nur zusätzliche Zulagen und Bonuszahlungen, die der Arbeitgeber in den Kalendermonaten **Juli bis Dezember 2026** gewährt. Das bedeutet:
 
 - Arbeitgeber, die in der Hoffnung auf einen positiven Ausgang der Evaluierung der Mitarbeiterprämie für 2026 bereits im ersten Halbjahr Auszahlungen vorgenommen haben, können die Lohnsteuerbegünstigung für die Mitarbeiterprämie 2026 nicht auf diese Zahlungen anwenden.
 - Die zweite Kaufkraftsicherungsprämie in der Metallindustrie erfüllt diese Vorgabe, da der Kollektivvertrag die Auszahlung im Juli 2026 vorsieht.
