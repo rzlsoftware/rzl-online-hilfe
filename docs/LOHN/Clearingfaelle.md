@@ -4929,7 +4929,7 @@ Die nachfolgende Übersicht basiert auf dem von der Österreichischen Gesundheit
 
     <p>
       <u>Lösungsmöglichkeit:</u><br>
-      Es handelt sich bei diesem Clearingfall lediglich um einen Hinweis. Es ist von Ihrer Seite nichts zu unternehmen. Der Clearingfall kann ignoriert werden.
+      Dieser Clearingfall dient lediglich als Hinweis darauf, dass eine Versicherungsnummer vergeben wurde. Es sind keine weiteren Schritte Ihrerseits erforderlich.
     </p>
 
   </div>
