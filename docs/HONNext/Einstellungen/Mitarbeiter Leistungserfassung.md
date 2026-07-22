@@ -83,6 +83,9 @@ Honorarverrechnung über die Mitarbeiterübersicht durchgeführt werden
 
 Ansicht in der Leistungserfassung des Mitarbeiters:![](<img/image93.png>)
 
+!!! info "Tipp"
+    Bei Verwendung der digitalen Stempeluhr gibt es im Board Überblick direkt die Möglichkeit die Arbeitszeit zu erfassen, ohne extra in das LE Next Modul einzusteigen. 
+
 **Rundung**  
 Bei der Variante *Digitale Stempeluhr* besteht die Möglichkeit, die
 erfasste Zeit auf einen hinterlegten Wert zu runden.

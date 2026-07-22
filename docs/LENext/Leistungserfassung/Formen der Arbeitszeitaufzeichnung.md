@@ -63,3 +63,7 @@
     Bei der digitalen Stempeluhr ist der Import von Arbeitszeiten nicht
     möglich.
 
+
+!!! info "Tipp"
+    Bei Verwendung der digitalen Stempeluhr gibt es im Board Überblick direkt die Möglichkeit die Arbeitszeit zu erfassen, ohne extra in das LE Next Modul einzusteigen. 
+

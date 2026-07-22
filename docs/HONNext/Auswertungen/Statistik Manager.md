@@ -1,4 +1,6 @@
-# Statistik Manager Umsatz
+# Statistik Manager
+
+## Statistik Manager Umsatz
 
 Über den Menüpunkt *Auswertungen / Umsatzstatistik / Statistik Manager*
 steht Ihnen ein Manager zum selbstständigen Erzeugen und Gestalten von
@@ -47,7 +49,7 @@ Der Statistik Manager unterteilt sich in folgende Bereiche:
     Kriterien nach Zeilen aufgeteilt werden. Es sind mehrere Zeilen
     möglich.
 
-# Bedeutung der Felder
+### Bedeutung der Felder
 
 **Notendatum**  
 Datum der Note. Wird dies im Zeilen-/Spaltenbereich
@@ -336,7 +338,7 @@ Folgende Prozent Spalten stehen zur Verfügung:
 
     ![](<img/image386.png>)
 
-# Statistik Manager Leistungen
+## Statistik Manager Leistungen
 
 Über den Menüpunkt *Auswertungen / Leistungen / Statistik Manager* steht
 Ihnen ein Manager zum selbstständigen Erzeugen und Gestalten von
@@ -345,7 +347,7 @@ Leistungsstatistiken zur Verfügung.
 Der Statistik Manger Leistungen ist in der Bedienung ident wie der [Statistik Manager Umsatz](../Auswertungen/Statistik%20Manager.md/#statistik-manager-umsatz). Nur können hier alle erfassten
 Leistungen ausgewertet werden, offen sowie verrechnet.
 
-## Bedeutung der Felder
+### Bedeutung der Felder
 
 **Mitarbeiter Nr.** Hier können Sie nach der Mitarbeiternummer gliedern.
 Es wird Nummer und Name ausgegeben.
