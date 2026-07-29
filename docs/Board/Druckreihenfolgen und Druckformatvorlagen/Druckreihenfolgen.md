@@ -61,6 +61,6 @@ Nicht jeder Ausdruck kann für jeden Klienten erzeugt werden. In zwei Fällen wi
 * **Keine Berechtigung**: Sie besitzen für einen Ausdruck oder einen Klienten nicht die erforderliche Berechtigung. Eine Druckreihenfolge kann bestehende Rechte nur kombinieren, niemals erweitern.
 * **Keine Daten**: Der Ausdruck liefert für diesen Klienten fachlich keine Daten (z. B. keine offenen Posten).
 
-!!! "warning" Hinweis
+!!! warning "Hinweis"
     Übersprungene Ausdrucke sind im Massenlauf der Normalfall und kein Grund zur Sorge. Sie erkennen den Grund jeweils am ![I-Symbol](<img/I-Symbol.png>).
 
