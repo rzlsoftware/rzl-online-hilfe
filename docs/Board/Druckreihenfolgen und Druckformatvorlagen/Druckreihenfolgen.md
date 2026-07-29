@@ -50,5 +50,14 @@ Im Bereich Schritt-Parameter legen Sie zu jedem Druckschritt die Einstellungen f
 !!! info "Tipp"
     Der Zeitraum muss im Bereich *Zeitraum* voreingestellt werden. Der Zeitraum kann aber in diesem Bereich abgeändert werden.
 
+Mit **Ausführen** erfolt der Ausdruck laut Definition in der Druckreihenfolge.
 
+# Status der Ausführung
+
+Ein Fortschrittsbalken zeigt den aktuellen Gesamtfortschritt an. Außerdem wird angezeigt welche Läufe gerade aktiv, wartend, abgeschlossen, abgeschlossen mit Fehlern oder fehlgeschlagen sind.
+
+Nicht jeder Ausdruck kann für jeden Klienten erzeugt werden. In zwei Fällen wird ein Ausdruck bewusst übersprungen. Der Ausdruck wird dann nicht als Fehler, sondern mit einem blauen Info-Symbol ![I-Symbol](<img/I-Symbol.png>) ausgewiesen und es wird **kein** leeres PDF erzeugt.
+
+* **Keine Berechtigung**: Sie besitzen für einen Ausdruck oder einen einzelnen Klienten nicht die erforderliche Berechtigung. Eine Druckreihenfolge kann bestehende Rechte nur kombinieren, niemals erweitern.
+* **Keine Daten**: Der Ausdruck liefert für diesen Klienten fachlich keine Daten (z. B. keine offenen Posten).
 
