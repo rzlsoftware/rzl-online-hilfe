@@ -58,6 +58,9 @@ Ein Fortschrittsbalken zeigt den aktuellen Gesamtfortschritt an. Außerdem wird 
 
 Nicht jeder Ausdruck kann für jeden Klienten erzeugt werden. In zwei Fällen wird ein Ausdruck bewusst übersprungen. Der Ausdruck wird dann nicht als Fehler, sondern mit einem blauen Info-Symbol ![I-Symbol](<img/I-Symbol.png>) ausgewiesen und es wird **kein** leeres PDF erzeugt.
 
-* **Keine Berechtigung**: Sie besitzen für einen Ausdruck oder einen einzelnen Klienten nicht die erforderliche Berechtigung. Eine Druckreihenfolge kann bestehende Rechte nur kombinieren, niemals erweitern.
+* **Keine Berechtigung**: Sie besitzen für einen Ausdruck oder einen Klienten nicht die erforderliche Berechtigung. Eine Druckreihenfolge kann bestehende Rechte nur kombinieren, niemals erweitern.
 * **Keine Daten**: Der Ausdruck liefert für diesen Klienten fachlich keine Daten (z. B. keine offenen Posten).
+
+!!! "warning" Hinweis
+    Übersprungene Ausdrucke sind im Massenlauf der Normalfall und kein Grund zur Sorge. Sie erkennen den Grund jeweils am ![I-Symbol](<img/I-Symbol.png>).
 
