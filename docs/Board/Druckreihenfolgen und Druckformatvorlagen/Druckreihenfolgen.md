@@ -28,3 +28,27 @@ Diese Optionen werden fix in der Druckreihenfolge gespeichert und bei jeder Ausf
 Sie können einer Druckreihenfolge bereits eine Vorauswahl an Klienten hinterlegen. Wählen Sie dazu im Ribbon *Klienten zuordnen* und markieren Sie die gewünschten Klienten. Diese werden gemeinsam mit der Druckreihenfolge gespeichert und beim Ausführen automatisch vorausgewählt.
 
 ![Klient zuordnen](<img/Klient Zuordnen.png>)
+
+!!! warning "Hinweis"
+    Sie können nur jene Klienten zuordnen, für welche Sie entsprechende Berechtigungen besitzen. Klienten, für welche Sie keine Berechtigung besitzen werden nicht angezeigt.
+
+Speichern Sie Ihre Eingaben abschließend über **Speichern**. Die Druckreihenfolge steht somit in der Übersicht zur Verfügung.
+
+# Eine Druckreihenfolge ausführen
+
+Markieren Sie in der Liste die gewünschte Druckreihenfolge und wählen Sie im Ribbon *Ausführen*.
+
+Im Bereich *Zeitraum* legen Sie zentral fest, für welchen Zeitraum gedruckt werden soll. Diese Angabe ist eine Voreinstellung für alle Druckschritte: Die hier gewählten Werte werden bei den einzelnen Druckschritten automatisch übernommen und lassen sich je Schritt anpassen.
+Welche Eingabefelder für den Zeitraum bei den einzelnen Ausdrucken erscheinen hängt vom gewählten Ausdruck ab. Sie legen den Zeitbezug einmal gemeinsam fest und können diesen wenn nötig in jedem Druckschritt einzeln abändern.
+
+![Ausführen](<img/Ausführen_Eingabe Zeitraum.png>)
+
+Im Bereich *Klientenauswahl* wählen Sie über die Kontrollkästchen, für welche Klienten die Druckreihenfolge ausgeführt werden soll. Wurden der Druckreihenfolge bereits vorab Klienten zugeordnet, kann das in diesem Schritt angepasst bzw. kontrolliert werden. Über das Suchfeld haben Sie außerdem die Möglichkeit einen Klienten per Namen/Nummer zu suchen.
+
+Im Bereich Schritt-Parameter legen Sie zu jedem Druckschritt die Einstellungen fest, die erst unmittelbar vor der Ausführung gewählt werden. Das betrifft in erster Linie die Eingabe des Zeitraumes, je nach Ausdruck aber auch weitere Optionen. Welche Felder ein Druckschritt anzeigt, hängt also vom jeweiligen Ausdruck ab.
+
+!!! info "Tipp"
+    Der Zeitraum muss im Bereich *Zeitraum* voreingestellt werden. Der Zeitraum kann aber in diesem Bereich abgeändert werden.
+
+
+
