@@ -2,7 +2,8 @@ Mit der Weiterentwicklung der Bereinigungsfunktion wurde eine leistungsstarke M�
 
 Die **Klient bereinigen** Funktion ist aufrufbar im Kanzlei-Informations-System unter *KIS / Klient bereinigen / Bereinigen* sowie im RZL Board unter *KIS / Bereinigen*. Die Funktion ist ident, unabhängig davon in welchem Programm Sie diese aufrufen.
 
-# Vorgangsweise Klient bereinigen
+
+## Vorgangsweise Klient bereinigen
 
 Auf der linken Seite des Bereinigungs-Dialogs finden Sie eine Übersicht aller Klienten. Wählen Sie hier zunächst den oder die gewünschten Klienten aus, für die die Bereinigung durchgeführt werden soll. Die zu bereinigenden Klienten können Sie mittels der typischen [RZL Listen- und Filterfunktionen](https://hilfe.rzlsoftware.at/Board/Stammdatenverwaltung%20%28STAMM%29/%C3%96ffnen%20der%20Stammdatenverwaltung/#listenfunktionen) einschränken.
 Die Klienten müssen von der Liste im Bereich *Nicht ausgewählte Klienten* zu der Liste ausgewählte Klienten übergeben werden. Die Einträge müssen markiert werden und können mit Drag & Drop oder mit  ![verschieben Symbol](<img/verschieben Symbol.png>) zur Bereinigung gewählt werden.
@@ -49,7 +50,7 @@ Die Bereinigung wird erst ausgeführt, nachdem Sie sie ausdrücklich bestätigt 
 
 ![Bestätigung](<img/Bestätigung Löschung.png>)
 
-# Protokoll der Bereinigung
+## Protokoll der Bereinigung
 
 Im Zuge der Weiterentwicklung der Bereinigungsfunktion wurde der Funktionsumfang durch die Implementierung eines zusätzlichen Features erweitert. Sie können Protokolle von vergangenen Bereinigungen aufrufen und drucken. 
 
@@ -61,13 +62,13 @@ In den Protokollen wird festgehalten wann, welcher Mitarbeiter eine Bereinigung 
 
 ![Protokoll](<img/Protokoll.png>)
 
-# Mit welcher Rolle Sie "Klient bereinigen" ausführen können
+## Mit welcher Rolle Sie "Klient bereinigen" ausführen können
 
 In folgenden Rollen besitzen Sie die Berechtigung zum Ausführen der Klient-bereinigen-Funktion:
 
 ![Rollen](<img/Rollen.png>)
 
-# Klient bereinigen ohne Kanzlei-Informations-System
+## Klient bereinigen ohne Kanzlei-Informations-System
 
 Wie bereits zu Beginn erwähnt, können Sie die Funktion ebenso im RZL Board unter KIS bzw. BASIS aufrufen. Außerdem kann die Funktion unter *Belege / Extras* durchgeführt werden.
 
