@@ -1,0 +1,4 @@
+Mit der Weiterentwicklung der Bereinigungsfunktion wurde eine leistungsstarke Möglichkeit geschaffen, Datenbestände gezielt und effizient zu verwalten. Die Funktion unterstützt Sie dabei, Dokumente, Aufgaben, Ereignisse und Belege anhand individuell definierbarer Filterkriterien auszuwählen und zu bereinigen. Dadurch lassen sich nicht mehr benötigte Einträge schnell identifizieren und entfernen, wodurch die Datenbestände übersichtlich und aktuell gehalten werden können. Nachfolgend lernen Sie die Funktionsweise der Bereinigung kennen und erfahren, wie Sie die verfügbaren Filter optimal einsetzen.
+
+Die **Klient bereinigen** Funktion ist aufrufbar im Kanzlei-Informations-System unter *KIS / Klient bereinigen / Bereinigen* sowie im RZL Board unter *KIS / Bereinigen*. Die Funktion ist ident, egal in welchem Programm Sie diese aufrufen.
+
