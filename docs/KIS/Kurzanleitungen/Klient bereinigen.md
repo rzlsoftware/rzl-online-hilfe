@@ -1,6 +1,8 @@
 Mit der Weiterentwicklung der Bereinigungsfunktion wurde eine leistungsstarke Möglichkeit geschaffen, Datenbestände gezielt und effizient zu verwalten. Die Funktion unterstützt Sie dabei, Dokumente, Aufgaben, Ereignisse und Belege anhand individuell definierbarer Filterkriterien auszuwählen und zu bereinigen. Dadurch lassen sich nicht mehr benötigte Einträge schnell identifizieren und entfernen, wodurch die Datenbestände übersichtlich und aktuell gehalten werden können. Nachfolgend lernen Sie die Funktionsweise der Bereinigung kennen und erfahren, wie Sie die verfügbaren Filter optimal einsetzen.
 
-Die **Klient bereinigen** Funktion ist aufrufbar im Kanzlei-Informations-System unter *KIS / Klient bereinigen / Bereinigen* sowie im RZL Board unter *KIS / Bereinigen*. Die Funktion ist ident, egal in welchem Programm Sie diese aufrufen.
+Die **Klient bereinigen** Funktion ist aufrufbar im Kanzlei-Informations-System unter *KIS / Klient bereinigen / Bereinigen* sowie im RZL Board unter *KIS / Bereinigen*. Die Funktion ist ident, unabhängig davon in welchem Programm Sie diese aufrufen.
+
+# Vorgangsweise Klient bereinigen
 
 Auf der linken Seite des Bereinigungs-Dialogs finden Sie eine Übersicht aller Klienten. Wählen Sie hier zunächst den oder die gewünschten Klienten aus, für die die Bereinigung durchgeführt werden soll. Die zu bereinigenden Klienten können Sie mittels der typischen [RZL Listen- und Filterfunktionen](https://hilfe.rzlsoftware.at/Board/Stammdatenverwaltung%20%28STAMM%29/%C3%96ffnen%20der%20Stammdatenverwaltung/#listenfunktionen) einschränken.
 Die Klienten müssen von der Liste im Bereich *Nicht ausgewählte Klienten* zu der Liste ausgewählte Klienten übergeben werden. Die Einträge müssen markiert werden und können mit Drag & Drop oder mit  ![verschieben Symbol](<img/verschieben Symbol.png>) zur Bereinigung gewählt werden.
@@ -31,4 +33,18 @@ Sie können damit erkennen für welche Datentypen die Filterung angewendet wird.
     **Bitte prüfen Sie daher stets die Information zu den einzelnen Filtermöglichkeiten!**
 
 Sie erhalten mittels *Weiter* eine Zusammenfassung der zu löschenden Daten.
+
+![Zusammenfassung](<img/Zusammenfassung.png>)
+
+Es wird angezeigt wie viele Klienten bereinigt werden. Außerdem bei welchen Datentypen der zuvor gesetzte Filter angewendet wird und wo dieser nicht angewendet wird. Außerdem erhalten Sie einen Überblick darüber wie viele Daten pro Datentyp wirklich gelöscht werden.
+
+Der Hinweis *"Können in einem oder mehreren Bereichen ein oder mehrere Filterkriterien nicht angewendet werden, werden alle angeführten Daten bereinigt!"* ist wie folgt zu Verstehen:
+
+Nach der Auswahl der Klienten muss definiert werden, welche Datentypen gelöscht werden sollen. Sie haben für alle Datentypen die Aktion *Löschen* gewählt. Sie nutzen dann den Filter *Datum*, um die Bereinigung einzuschränken. Da allerdings nicht jedes Filterkriterium auf jeden Datentyp Anwendung findet werden jene Datentypen vollständig gelöscht auf denen das Filterkriterium *Datum* **nicht** angewendet werden kann. Somit werden laut obiger Abbindung der Zusammenfassung die wiederkehrenden Aufgaben und die Belege vollständig gelöscht.
+
+Sie können jederzeit einen Schritt zurückkehren und Anpassungen vornehmen.
+
+Die Bereinigung wird erst ausgeführt, nachdem Sie sie ausdrücklich bestätigt haben. Erst wenn Sie die Checkbox bestätigt haben, können Sie die Bereinigung durchführen.
+
+![Bestätigung](<img/Bestätigung Löschung.png>)
 
