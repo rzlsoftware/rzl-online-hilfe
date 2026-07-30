@@ -17,6 +17,7 @@ Haben Sie die gewünschten Klienten für die Bereinigung ausgewählt ist im näc
 ![Bereinigungsfunktion wählen](<img/Funktionen wählen.png>)
 
 Sie können mittels der Optionsfelder je Datentyp definieren, welche Bereinigungsfunktion Sie durchführen wollen.
+In dieser Auswahl werden ausschließlich Datentypen angezeigt, für die beim Klienten Daten vorhanden sind.
 
 !!! info "Info"
     Möchten Sie beispielsweise nur die Belege löschen ist bei Belege die Aktion *Löschen* zu wählen und für die restlichen Datentypen bleibt die Option auf *Keine Aktion*.
@@ -47,4 +48,27 @@ Sie können jederzeit einen Schritt zurückkehren und Anpassungen vornehmen.
 Die Bereinigung wird erst ausgeführt, nachdem Sie sie ausdrücklich bestätigt haben. Erst wenn Sie die Checkbox bestätigt haben, können Sie die Bereinigung durchführen.
 
 ![Bestätigung](<img/Bestätigung Löschung.png>)
+
+# Protokoll der Bereinigung
+
+Im Zuge der Weiterentwicklung der Bereinigungsfunktion wurde der Funktionsumfang durch die Implementierung eines zusätzlichen Features erweitert. Sie können Protokolle von vergangenen Bereinigungen aufrufen und drucken. 
+
+Das Protokoll ist aufrufbar im Kanzlei-Informations-System unter *KIS / Klient bereinigen / Protokoll* sowie im RZL Board unter *KIS / Protokoll*.
+
+![Protokoll Übersicht](<img/Protokoll Übersicht.png>)
+
+In den Protokollen wird festgehalten wann, welcher Mitarbeiter eine Bereinigung durchgeführt hat. Außerdem wird je Datentyp angeführt für welche Klienten wie viele Daten bereinigt wurden und ob die Bereinigung erfolgreich war.
+
+![Protokoll](<img/Protokoll.png>)
+
+# Mit welcher Rolle Sie "Klient bereinigen" ausführen können
+
+In folgenden Rollen besitzen Sie die Berechtigung zum Ausführen der Klient-bereinigen-Funktion:
+
+![Rollen](<img/Rollen.png>)
+
+# 
+
+
+
 
