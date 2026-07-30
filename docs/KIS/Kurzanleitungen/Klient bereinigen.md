@@ -3,3 +3,32 @@ Mit der Weiterentwicklung der Bereinigungsfunktion wurde eine leistungsstarke M�
 Die **Klient bereinigen** Funktion ist aufrufbar im Kanzlei-Informations-System unter *KIS / Klient bereinigen / Bereinigen* sowie im RZL Board unter *KIS / Bereinigen*. Die Funktion ist ident, egal in welchem Programm Sie diese aufrufen.
 
 Auf der linken Seite des Bereinigungs-Dialogs finden Sie eine Übersicht aller Klienten. Wählen Sie hier zunächst den oder die gewünschten Klienten aus, für die die Bereinigung durchgeführt werden soll. Die zu bereinigenden Klienten können Sie mittels der typischen [RZL Listen- und Filterfunktionen](https://hilfe.rzlsoftware.at/Board/Stammdatenverwaltung%20%28STAMM%29/%C3%96ffnen%20der%20Stammdatenverwaltung/#listenfunktionen) einschränken.
+Die Klienten müssen von der Liste im Bereich *Nicht ausgewählte Klienten* zu der Liste ausgewählte Klienten übergeben werden. Die Einträge müssen markiert werden und können mit Drag & Drop oder mit  ![verschieben Symbol](<img/verschieben Symbol.png>) zur Bereinigung gewählt werden.
+
+!!! info "Tipp"
+    Die Klienten können mit Maustastenklick, aber auch Umschalt + Pfeiltasten oder mit Strg + A markiert werden. Wird ein Filter angewendet und Sie verwenden Strg + A werden auch nur die gerade durch den Filter angezeigten Klienten markiert und zu den ausgewählten Klienten übergeben.
+
+![Klienten Auswahl](<img/Übersicht.png>)
+
+Haben Sie die gewünschten Klienten für die Bereinigung ausgewählt ist im nächsten Schritt zu definieren, was mit den verschiedensten Datentypen passieren soll.
+
+![Bereinigungsfunktion wählen](<img/Funktionen wählen.png>)
+
+Sie können mittels der Optionsfelder je Datentyp definieren, welche Bereinigungsfunktion Sie durchführen wollen.
+
+!!! info "Info"
+    Möchten Sie beispielsweise nur die Belege löschen ist bei Belege die Aktion *Löschen* zu wählen und für die restlichen Datentypen bleibt die Option auf *Keine Aktion*.
+
+Mit *Weiter* können Sie außerdem Filterkriterien festlegen, welche die Bereinigung einschränken kann.
+Nutzen Sie dafür das ![Info Symbol](<img/I-Symbol.png>) um Einzelheiten zu den jeweiligen Einschränkungen durch Filter zu erhalten.
+
+![Tooltip Filter](<img/Tooltip Filter.png>)
+
+Sie können damit erkennen für welche Datentypen die Filterung angewendet wird. Dazu stellen Sie einfach Ihren Cursor auf das ![Info Symbol](<img/I-Symbol.png>)
+
+!!! info "Info"
+    Eine Filterung des Dokumentbereichs kann nicht auf Aufgaben oder Ereignisse angewendet werden. Der Filter wird für Dokumente, Klientenportal Nachrichten (da im Klientenportal keine Nachricht ohne Auswahl des Dokumentbereichs gesendet werden kann), FinanzOnline Übermittlungen und Belege angewendet.
+    **Bitte prüfen Sie daher stets die Information zu den einzelnen Filtermöglichkeiten!**
+
+Sie erhalten mittels *Weiter* eine Zusammenfassung der zu löschenden Daten.
+
