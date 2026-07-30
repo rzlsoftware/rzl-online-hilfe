@@ -67,7 +67,14 @@ In folgenden Rollen besitzen Sie die Berechtigung zum Ausführen der Klient-bere
 
 ![Rollen](<img/Rollen.png>)
 
-# 
+# Klient bereinigen ohne Kanzlei-Informations-System
+
+Wie bereits zu Beginn erwähnt, können Sie die Funktion ebenso im RZL Board unter KIS bzw. BASIS aufrufen. Außerdem kann die Funktion unter *Belege / Extras* durchgeführt werden.
+
+!!! info "Tipp"
+    Befindet sich im RZL Board ein Klient in Bearbeitung und Sie starten "Klient bereinigen", dann wird der gerade geöffnete Klient sich bereits in der Vorauswahl bei der Bereinigung. Sie können aber trotzdessen weitere Klienten hinzufügen oder den vorausgewählten Klient entfernen.
+
+
 
 
 
