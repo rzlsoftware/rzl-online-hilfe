@@ -56,10 +56,14 @@ Mit **Ausführen** erfolt der Ausdruck laut Definition in der Druckreihenfolge.
 
 Ein Fortschrittsbalken zeigt den aktuellen Gesamtfortschritt an. Außerdem wird angezeigt welche Läufe gerade aktiv, wartend, abgeschlossen, abgeschlossen mit Fehlern oder fehlgeschlagen sind.
 
-Nicht jeder Ausdruck kann für jeden Klienten erzeugt werden. In zwei Fällen wird ein Ausdruck bewusst übersprungen. Der Ausdruck wird dann nicht als Fehler, sondern mit einem blauen Info-Symbol ![I-Symbol](<img/I-Symbol.png>) ausgewiesen und es wird **kein** leeres PDF erzeugt.
+Im Bereich *Läufe* sehen Sie jeden Klienten mit Klientennummer, Name und seinem Status. Klappen Sie einen Klienten auf, um seine Druckschritte in der festgelegten Reihenfolge einzusehen – jeder Schritt mit eigenem Status und, falls vorhanden, einem Hinweistext.
 
-* **Keine Berechtigung**: Sie besitzen für einen Ausdruck oder einen Klienten nicht die erforderliche Berechtigung. Eine Druckreihenfolge kann bestehende Rechte nur kombinieren, niemals erweitern.
-* **Keine Daten**: Der Ausdruck liefert für diesen Klienten fachlich keine Daten (z. B. keine offenen Posten).
+Den Status erkennen Sie auf einen Blick an dem Symbol – sowohl beim Klienten als auch bei den einzelnen Druckschritten:
+•	Grün – erfolgreich erstellt.
+•	Rot – fehlgeschlagen bzw. mit Fehlern abgeschlossen.
+•	Blaues „i“ – ein Hinweis, kein Fehler. Den Grund nennt der Hinweistext, zum Beispiel einen übersprungenen Ausdruck.
+
+Die fertigen Ausdrucke werden laufend an den PDF-Manager übergeben. Mit *Erneut ausgeben* können Sie die Ausdrucke noch einmal ausgeben lassen, mit **Schließen** beenden Sie das Fenster.
 
 !!! warning "Hinweis"
     Übersprungene Ausdrucke sind im Massenlauf der Normalfall und kein Grund zur Sorge. Sie erkennen den Grund jeweils am ![I-Symbol](<img/I-Symbol.png>).
