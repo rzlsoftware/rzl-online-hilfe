@@ -20,7 +20,7 @@ nav:
     - Verwaltung.md
     - Jahresübernahme
     - Rückstellungen
-    - Datenexport
+    - Datenexport.md
     - Datenimport.md
     - Datenexport_Buchungsbeleg.md
     - Abfertigung_Neu
