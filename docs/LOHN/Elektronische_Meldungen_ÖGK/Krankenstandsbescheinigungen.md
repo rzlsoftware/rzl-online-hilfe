@@ -36,3 +36,19 @@ Wird zusätzlich das Feld *in Krankenstandskartei übernehmen* aktiviert, werden
 
 !!! info "Tipp"
     Nur durch Aktivierung des Auswahlfeldes *in Krankenstandskartei übernehmen* werden die Krankenstände automatisch in die Abrechnung des Dienstnehmers übernommen. Wenn das Auswahlfeld einmal aktiviert wurde, bleibt die Auswahl beim nächsten Import der Krankenstandsbescheinigungen erhalten.
+
+## Krankenstandsbescheinigungen speichern und ausdrucken
+
+Öffnen Sie dazu den Menüpunkt *Klient / Elektronische Übermittlung / Krankenstandsbescheinigungen*. Mit einem Doppelklick auf eine Krankenstandsbescheinigung wird diese im ÖGK-Viewer geöffnet. Anschließend kann sie gespeichert oder ausgedruckt werden.
+
+![Image](img/image213.png)
+
+!!! info "Tipp"
+    Mit einem Doppelklick auf die fett hervorgehobene Zeile können alle darunter angeführten Krankenstandsbescheinigungen gleichzeitig ausgedruckt werden.
+
+Über die Schaltfläche *Filter* lassen sich bereits importierte Krankenstandsbescheinigungen erneut auflisten. Diese können anschließend gespeichert oder ausgedruckt werden.
+
+![Image](img/image214.png)
+
+!!! warning "Hinweis"
+    Der *Filter* ist nur verfügbar, wenn der **ELDA-Webservice** in den ELDA-Einstellungen **aktiviert** ist.
