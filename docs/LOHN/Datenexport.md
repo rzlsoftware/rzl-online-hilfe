@@ -1,4 +1,25 @@
-# Erstellung / Aufbau der Daten-Liste (Export-Datei)
+# Datenexport
+
+## Allgemeines
+
+Im Programmteil *Bearbeiten / Datenexport / Datenexport* können Dienstnehmer-Daten aus der Lohnverrechnung exportiert werden. Je nach Format der Export-Datei kann diese in verschiedenen Anwendungen verwendet werden (z. B. Word, Excel). Es können mehrere Listen mit unterschiedlichen Export-Daten erstellt werden. Diese Listen können nach Erstellung *klientenübergreifend* angewendet werden.
+
+Nach Anwahl des Menüpunktes *Bearbeiten / Datenexport / Datenexport* wird folgender Dialog aufgerufen:
+
+![Image](<img/image282.png>){width="500"}
+
+Als erster Schritt ist im Eingabefeld *Monate einzeln von,* der Zeitraum anzuwählen, für den der Datenexport erfolgen soll.
+
+Der Export der Daten kann für einzelne Dienstnehmer, für den gesamten Klienten oder für einzelne Unterdienstgeber, falls vorhanden, erfolgen. Ist das Auswahlfeld *Aufrolldifferenzen in laufendem Monat* aktiviert, werden etwaige Differenzen aus Aufrollungen im laufenden Monat berücksichtigt.
+
+Der Dialogbereich *Auswahl Listenform* dient der Erstellung und Auswahl der Listenform. In diese Listen werden die zu exportierenden Daten eingetragen.
+
+Die Anwahl des Feldes *Summierung ab Monat* hat nur eine Auswirkung, wenn in der Listenform (siehe unten) im Ordner *Summen*, das entsprechende Feld zusätzlich angewählt wurde.
+
+!!! info "Tipp"
+    Im Feld *Listenform* kann durch Anwahl der *F3-Taste* die Liste beim Klienten als Standard fixiert werden. Mit der *F2-Taste* kann die Liste im Detail aufgerufen werden.
+
+## Erstellung / Aufbau der Daten-Liste (Export-Datei)
 
 Die Auswahl der zu exportierenden Daten erfolgt im Dialogbereich *Auswahl Listenform*. Die Zuordnung der bereits angelegten Listenformen kann *Allgemein, Arbeitsplatz* oder *Persönlich* sein.
 
@@ -64,3 +85,36 @@ Im Registerblatt *Optionen* werden die Eigenschaften der Exportdatei festgelegt:
     Wird das Auswahlfeld *Spaltenüberschriften* aktiviert, dann werden die jeweiligen Überschriften mit exportiert und im jeweiligen Import-Programm angezeigt.
 
 Nach der Festlegung der einzelnen Felder und des Formates der Export-Datei in den jeweiligen Registerblättern, wird durch Anwahl der Schaltfläche *Neu* die erstellte Liste im Ausgangsdialog (siehe oben) in den Bereich *Auswahl Listenform* eingetragen.
+
+## Datenexport
+
+Der Datenexport erfolgt im unteren Bereich des Export-Dialoges. Zuerst ist im Bereich *Auswahl Listenform* eine der erstellten Listenformen auszuwählen. Dann sind der Pfad und der Name der Export-Datei einzutragen oder mittels der Schaltfläche *Suchen* festzulegen.
+
+![Image](<img/image287.png>){width="500"}
+
+Nach Auswahl der Export-Datei ist die Schaltfläche *Exportieren* anzuwählen. Der erfolgreiche Export wird mit folgender Meldung durch das Programm bestätigt.
+
+![Image](<img/image288.png>){width="350"}
+
+## Datenexport Bankdaten
+
+Im Programmteil *Bearbeiten / Datenexport / Bankdaten* können die Bankverbindungen, die innerhalb des Klienten gespeichert sind, 
+exportiert werden. Die erstellte Datei kann an das Bankinstitut (siehe Bildschirm unten) übermittelt werden. In Zusammenarbeit mit dem Bankinstitut mit der Stuzza (Studiengesellschaft für Zusammenarbeit im Zahlungsverkehr) werden die Daten geprüft und werden die BLZ und die Kontonummer in BIC und IBAN umgewandelt. Die Datei wird anschließend vom Kreditinstitut retourniert und kann in der Lohnverrechnung im Programmteil *Bearbeiten / Datenimport / Bankdaten* hereingespielt werden.
+
+![Image](<img/image289.png>){width="500"}
+
+**Dateiname**
+
+In diesem Feld muss, am besten mit Hilfe der Schaltfläche *Durchsuchen*, festgelegt werden, wohin die Datei gespeichert wird und wie diese Datei heißen soll.
+
+**Eigene Kontoverbindung (Kontoverbindung des Fragenden)**
+
+Im Bereich *Eigene Kontoverbindung* müssen die Bankleitzahl und die Kontonummer des Absenders der erstellten Datei eingetragen werden.
+
+**Bestehende IBAN/BIC nicht exportieren**
+
+Wenn dieses Feld aktiviert wird, werden bereits existierende IBAN/BIC nicht in die Datei übernommen.
+
+**Auswahl der Bankverbindungen**
+
+In diesem Bereich können bestimmte Bereiche deaktiviert werden. Wenn ein Feld kein Häkchen aufweist, werden die Bankdaten dieses Bereiches nicht exportiert.
