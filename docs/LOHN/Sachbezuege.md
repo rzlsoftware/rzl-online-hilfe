@@ -54,13 +54,6 @@ Vergeben Sie zunächst eine frei wählbare Fahrzeugnummer. Erfassen Sie anschlie
 
 Auch bei einem halben Sachbezug ist beim Firmenfahrzeug der *volle Sachbezugsprozentsatz* auszuwählen.
 
-Zur Verfügung stehen:
-
-- 0 %
-- 1,5 %
-- 2,0 %
-- Durchschnittswert
-
 Die Halbierung erfolgt somit nicht über den Sachbezugsprozentsatz im Firmenfahrzeug, sondern über den tatsächlich abgerechneten Sachbezugsbetrag in der Abrechnung.
 
 **Beispiel:**
