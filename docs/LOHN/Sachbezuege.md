@@ -106,7 +106,7 @@ Wählen Sie anschließend im Register **LA (4)** die passende *Art des Sachbezug
 
 Die korrekte *Sachbezugsart* ist erforderlich, damit die Zuordnung auf dem **Jahreslohnzettel L16** richtig erfolgt.
 
-Bei der Sachbezugsart *Sachbezug KFZ* wird bei der Abrechnung automatisch im Bereich [*Lohnsteuer*](../LOHN/Abrechnungsbildschirme/Lohnsteuer.md/#pendlerpauschale) bei *Firmenfahrzeug* die Checkbox aktiviert. Dadurch werden am Jahreslohnzettel die betroffenen Monate bei „Überlassung eines arbeitgebereigenen KFZ für Fahrten Wohnung–Arbeitsstätte, Anzahl Kalendermonate (§ 16 Abs. 1 Z 6 lit. b)“ berücksichtigt.
+Bei der Sachbezugsart *Sachbezug KFZ* wird bei der Abrechnung automatisch im Bereich [*Lohnsteuer*](../LOHN/Abrechnungsbildschirme/Lohnsteuer.md/#pendlerpauschale) bei *Firmenfahrzeug* die Checkbox aktiviert. Dadurch werden am Jahreslohnzettel (sowie am Jahreslohnkonto) die betroffenen Monate bei „Überlassung eines arbeitgebereigenen KFZ für Fahrten Wohnung–Arbeitsstätte, Anzahl Kalendermonate (§ 16 Abs. 1 Z 6 lit. b)“ berücksichtigt.
 
 ### Variante 2 – Eigene Lohnart für Bezug und Abzug
 
@@ -144,7 +144,7 @@ Den *Abzug* erfassen Sie anschließend direkt beim Dienstnehmer über das Feld *
 Auch für den verwendeten Abzug muss die passende *Art des Sachbezugs* hinterlegt sein.
 
 !!! info "Tipp"
-    Durch einen Rechtsklick in das Feld *Sachbezug* kann der Wert *Explizit 0* ausgewählt werden. Dadurch wird der Sachbezug mit 0,00 auf der Abrechnung ausgewiesen – auch wenn kein Betrag verrechnet wird. Bei einem *Sachbezug KFZ* bewirkt diese Einstellung zusätzlich, dass die relevanten Felder für *Sachbezugsprozentsatz* und *Anschaffungskosten* sowohl auf dem Jahreslohnzettel (L16) als auch auf dem Jahreslohnkonto korrekt befüllt werden.
+    Durch einen Rechtsklick in das Betragsfeld *Sachbezug* kann der Wert *Explizit 0* ausgewählt werden. Dadurch wird der Sachbezug mit 0,00 auf der Abrechnung ausgewiesen – auch wenn kein Betrag verrechnet wird. Bei einem *Sachbezug KFZ* bewirkt diese Einstellung zusätzlich, dass die relevanten Felder für *Sachbezugsprozentsatz* und *Anschaffungskosten* sowohl auf dem Jahreslohnzettel (L16) als auch auf dem Jahreslohnkonto korrekt befüllt werden.
 
 !!! warning "Hinweis"
     Bei dieser Variante darf das Feld *Sachbezug* **nur** bei der *Abzugslohnart* aktiviert sein. Wird es bereits bei der *Bezugslohnart* aktiviert, erzeugt das Programm automatisch einen Abzug. Zusammen mit der eigenen Abzugslohnart würde der Sachbezug dadurch doppelt abgezogen.
