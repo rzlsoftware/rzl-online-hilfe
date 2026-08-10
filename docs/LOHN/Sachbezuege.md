@@ -133,7 +133,7 @@ Wählen Sie anschließend im Register **LA (4)** die entsprechende *Art des Sach
 
 ### Variante 3 – Abzug direkt beim Dienstnehmer
 
-Bei dieser Variante legen Sie nur eine freie Lohnart für den *Bezug* an.
+Legen Sie eine freie Lohnart mit der Art *Bezug* an. Das Feld *Sachbezug* bleibt **deaktiviert**.
 
 ![Image](<img/image157.png>){width="500"}
 
@@ -146,9 +146,12 @@ Auch für den verwendeten Abzug muss die passende *Art des Sachbezugs* hinterleg
 !!! info "Tipp"
     Durch einen Rechtsklick in das Feld *Sachbezug* kann der Wert *Explizit 0* ausgewählt werden. Dadurch wird der Sachbezug mit 0,00 auf der Abrechnung ausgewiesen – auch wenn kein Betrag verrechnet wird. Bei einem *Sachbezug KFZ* bewirkt diese Einstellung zusätzlich, dass die relevanten Felder für *Sachbezugsprozentsatz* und *Anschaffungskosten* sowohl auf dem Jahreslohnzettel (L16) als auch auf dem Jahreslohnkonto korrekt befüllt werden.
 
+!!! warning "Hinweis"
+    Bei dieser Variante darf das Feld *Sachbezug* **nur** bei der *Abzugslohnart* aktiviert sein. Wird es bereits bei der *Bezugslohnart* aktiviert, erzeugt das Programm automatisch einen Abzug. Zusammen mit der eigenen Abzugslohnart würde der Sachbezug dadurch doppelt abgezogen.
+
 ## 4. Sachbezug beim Dienstnehmer abrechnen
 
-Hinterlegen Sie die Sachbezugslohnart beim Dienstnehmer und erfassen Sie den abzurechnenden Betrag.
+Erfassen Sie den Sachbezug beim Dienstnehmer entsprechend der zuvor gewählten Variante. Je nach gewählter Variante erfassen Sie nur die Bezugslohnart, die Bezugs- und Abzugslohnart oder den Abzug direkt im Bereich [*Abzüge*](../LOHN/Abrechnungsbildschirme/Abzuege.md/#sachbezug).
 
 ### Zusätzlich bei einem KFZ-Sachbezug
 
@@ -179,7 +182,7 @@ Gehen Sie dazu wie folgt vor:
 
 1. Hinterlegen Sie die entsprechende Lohnart beim Dienstnehmer.
 2. Klicken Sie mit der rechten Maustaste in das Betragsfeld.
-3. Wählen Sie **Explizit 0**.
+3. Wählen Sie ***Explizit 0***.
 
 ![Image](img/image165.png){width="500"}
 
