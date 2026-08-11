@@ -68,6 +68,9 @@ In folgenden Rollen besitzen Sie die Berechtigung zum Ausführen der Klient-bere
 
 ![Rollen](<img/Rollen.png>)
 
+!!! info "Hinweis"
+    Die Rolle *Kanzleiverwaltung* ist eine Premium-Rolle und steht nur mit dem Modul Berechtigungssystem Premium zur Verfügung!
+
 ## Klient bereinigen ohne Kanzlei-Informations-System
 
 Wie bereits zu Beginn erwähnt, können Sie die Funktion ebenso im RZL Board unter KIS bzw. BASIS aufrufen. Außerdem kann die Funktion unter *Belege / Extras* durchgeführt werden.
