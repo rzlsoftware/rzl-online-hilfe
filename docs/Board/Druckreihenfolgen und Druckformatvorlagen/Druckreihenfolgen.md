@@ -7,23 +7,23 @@ Die Liste der angelegten Druckreihenfolgen können Sie mit den Filtern *Alle, Al
 
 Die verfügbaren Aktionen finden Sie im Ribbon: Im Bereich Druckreihenfolgen können Sie über *Anlegen* eine neue Druckreihenfolge erstellen sowie bestehende Druckreihenfolgen *bearbeiten, löschen oder duplizieren*. Mit *Klienten zuordnen* öffnet sich eine Liste in der alle Ihre Klienten aufgelistet werden. Sie können mit dieser Liste die gewünschten Klienten zuordnen. 
 
-# Eine Druckreihenfolge anlegen
+## Eine Druckreihenfolge anlegen
 Nutzen Sie die Funktion *Anlegen* im Bereich Druckformatvorlagen. Geben Sie einen aussagekräftigen Namen ein. Mit den Optionen *Allgemein* und *Persönlich* legen Sie die Verfügbarkeit fest. Über die Auswahl **Druckformatvorlage** bestimmen Sie das Layout der Ausdrucke. Mit *Standard Druckformatvorlage* verwenden gilt die in Ihrer Kanzlei hinterlegte Standardvorlage.
 
 
-## Ausdrucke hinzufügen und ordnen
+### Ausdrucke hinzufügen und ordnen
 
 In der Spalte *Verfügbare Ausdrucke* finden Sie alle druckbaren Funktionen, nach Programm gruppiert (FIBU Next, HON Next) und darunter nach Kategorien wie Konten, Saldenlisten, OP-Liste oder KER. Über das Suchfeld *Verfügbare Ausdrucke durchsuchen* können Sie einen Ausdruck per Namen suchen.
 Markieren Sie den gewünschten Ausdruck und übernehmen Sie ihn mit dem Zuordnen-Pfeil ![Pfeil zum Zuordnen](<img/zuordnen Pfeil.png>) oder Drag & Drop in die Spalte Druckschritte. Jeder übernommene Ausdruck erscheint dort als eigener, nummerierter Druckschritt. Die Reihenfolge der Druckschritte ändern Sie per Drag & Drop mittels ![Verschieben-Symbol](<img/verschieben Symbol.png>).
 
-## Druckoptionen je Druckschritt festlegen
+### Druckoptionen je Druckschritt festlegen
 
 Klappen Sie einen Druckschritt auf, um seine Druckoptionen festzulegen. Die verfügbaren Optionen entsprechen dem jeweiligen Ausdruck aus dem Fachprogramm – beim HON-Next-Ausdruck *Offene Leistungen* etwa die Verrechnungsgruppe (z. B. Buchhaltung) und die Option Erfassungsklienten getrennt ausweisen.
 Diese Optionen werden fix in der Druckreihenfolge gespeichert und bei jeder Ausführung verwendet. Alternativ lassen sich einzelne Optionen bei jeder Ausführung neu abfragen – zum Beispiel über Verrechnungsgruppenfilter beim Ausführen abfragen.
 
 ![Druckoptionen](<img/Druckoptionen.png>)
 
-## Klienten zuordnen
+### Klienten zuordnen
 
 Sie können einer Druckreihenfolge bereits eine Vorauswahl an Klienten hinterlegen. Wählen Sie dazu im Ribbon *Klienten zuordnen* und markieren Sie die gewünschten Klienten. Diese werden gemeinsam mit der Druckreihenfolge gespeichert und beim Ausführen automatisch vorausgewählt.
 
@@ -34,7 +34,7 @@ Sie können einer Druckreihenfolge bereits eine Vorauswahl an Klienten hinterleg
 
 Speichern Sie Ihre Eingaben abschließend über **Speichern**. Die Druckreihenfolge steht somit in der Übersicht zur Verfügung.
 
-# Eine Druckreihenfolge ausführen
+## Eine Druckreihenfolge ausführen
 
 Markieren Sie in der Liste die gewünschte Druckreihenfolge und wählen Sie im Ribbon *Ausführen*.
 
@@ -52,7 +52,7 @@ Im Bereich Schritt-Parameter legen Sie zu jedem Druckschritt die Einstellungen f
 
 Mit **Ausführen** erfolt der Ausdruck laut Definition in der Druckreihenfolge.
 
-# Status der Ausführung
+## Status der Ausführung
 
 Ein Fortschrittsbalken zeigt den aktuellen Gesamtfortschritt an. Je Klient wird separat angezeigt, ob die Ausdrucke für diesen gerade aktiv, wartend, abgeschlossen, abgeschlossen mit Fehlern oder fehlgeschlagen sind. Das wird außerdem  mit folgenden Symbolen gekennzeichnet:
 
