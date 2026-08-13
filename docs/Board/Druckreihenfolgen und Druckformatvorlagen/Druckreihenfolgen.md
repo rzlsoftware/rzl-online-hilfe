@@ -61,7 +61,7 @@ Ein Fortschrittsbalken zeigt den aktuellen Gesamtfortschritt an. Je Klient wird 
 ![abgeschlossen mit I](<img/I-Symbol.png>) - Abgeschlossen, aber mit übersprungenen Ausdrucken
 ![Fehler](<img/fehlerhaft.png>) - Abgeschlossen mit Fehlern
 
-
+Wird ![abgeschlossen mit I](<img/I-Symbol.png>) oder ![Fehler](<img/fehlerhaft.png>) angezeigt, heißt das nicht, dass der Status für den gesamten Druck gilt. Sie können mittels ![aufklappen](<img/aufklappen.png>) die Druckreihenfolge für den betroffenen Klienten öffnen und so prüfen, welcher Ausdruck 
 
 Nicht jeder Ausdruck kann für jeden Klienten erzeugt werden. In zwei Fällen wird ein Ausdruck bewusst übersprungen. Der Ausdruck wird dann nicht als Fehler, sondern mit einem blauen Info-Symbol ![I-Symbol](<img/I-Symbol.png>) ausgewiesen und es wird **kein** leeres PDF erzeugt.
 
