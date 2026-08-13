@@ -58,19 +58,18 @@ Ein Fortschrittsbalken zeigt den aktuellen Gesamtfortschritt an. Je Klient wird 
 
 ![läuft](<img/läuft.png>) - Läuft, der Vorgang wird gerade ausgeführt
 ![erfolgreich](<img/erfolgreich.png>) - Erfolgreich abgeschlossen
-![abgeschlossen mit I](<img/I-Symbol.png>) - Abgeschlossen, aber mit übersprungenen Ausdrucken
+![abgeschlossen mit I](<img/I-Symbol.png>) - Abgeschlossen, aber mit [übersprungenen Ausdrucken]()
 ![Fehler](<img/fehlerhaft.png>) - Abgeschlossen mit Fehlern
 
-Wird ![abgeschlossen mit I](<img/I-Symbol.png>) oder ![Fehler](<img/fehlerhaft.png>) angezeigt, heißt das nicht, dass der Status für den gesamten Druck gilt. Sie können mittels ![aufklappen](<img/aufklappen.png>) die Druckreihenfolge für den betroffenen Klienten öffnen und so prüfen, welcher Ausdruck 
+Wird ![abgeschlossen mit I](<img/I-Symbol.png>) oder ![Fehler](<img/fehlerhaft.png>) angezeigt, heißt das nicht, dass der Status für den gesamten Druck gilt. Sie können mittels ![aufklappen](<img/aufklappen.png>) die Druckreihenfolge für den betroffenen Klienten öffnen und so prüfen, welcher Ausdruck zu einem Fehler geführt hat. Zusätzlich wird der genaue Fehlertext angezeigt.
 
-Nicht jeder Ausdruck kann für jeden Klienten erzeugt werden. In zwei Fällen wird ein Ausdruck bewusst übersprungen. Der Ausdruck wird dann nicht als Fehler, sondern mit einem blauen Info-Symbol ![I-Symbol](<img/I-Symbol.png>) ausgewiesen und es wird **kein** leeres PDF erzeugt.
+## übersprungene Ausdrucke
+Übersprungene Ausdrucke sind im Massenlauf der Normalfall und kein Grund zur Sorge. Ein Ausdruck wird übersprungen, wenn z.B. keine Daten vorliegen.
 
-* **Keine Berechtigung**: Sie besitzen für einen Ausdruck oder einen Klienten nicht die erforderliche Berechtigung. Eine Druckreihenfolge kann bestehende Rechte nur kombinieren, niemals erweitern.
-* **Keine Daten**: Der Ausdruck liefert für diesen Klienten fachlich keine Daten (z. B. keine offenen Posten).
+!!! info "Beispiel
+    In der Druckreihenfolge befinden sich die Druckschritte Saldenliste, USt-Aufstellung und OP-Liste Debitoren. Sie wählen die Klienten in der Liste aus und geben den entsprechenden Zeitraum ein. Unter den Klienten befindet sich auch ein EA-Rechner, in welchem ohne Personenkonten gebucht wird. Die Saldenliste und USt-Aufstellung enthält  für den EA-Rechner Werte, weshalb diese Ausdrucke erfolgreich abgeschlossen werden. Da dieser Kliente allerdings ohne Personenkonten bucht und somit keine Werte in der OP-Liste Debitoren hat wird der Ausdruck übersprungen. Es wird in so einem Fall weder mit einem Fehler abgebrochen, noch ein leeres PDF erzeugt.
+    Trotzdessen werden die nachfolgenden Druckschritte und die gesamte Druckreihenfolge für die restlichen Klienten durchgeführt.
 
-!!! warning "Hinweis"
-    Übersprungene Ausdrucke sind im Massenlauf der Normalfall und kein Grund zur Sorge. Sie erkennen den Grund jeweils am ![I-Symbol](<img/I-Symbol.png>) bzw. am Hinweistext unter dem Druckschritt.
-    ![Hinweis übersprungener Ausdruck](<img/Hinweis übersprungener Ausdruck.png>)
 
 
 
