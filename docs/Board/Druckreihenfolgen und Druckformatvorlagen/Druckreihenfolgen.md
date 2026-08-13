@@ -5,7 +5,7 @@ Die Liste der angelegten Druckreihenfolgen können Sie mit den Filtern *Alle, Al
 
 ![Übersicht Druckreihenfolge](<img/Übersicht Druckreihenfolge.png>)
 
-Die verfügbaren Aktionen finden Sie im Ribbon: Im Bereich Druckreihenfolgen können Sie über *Anlegen* eine neue Druckreihenfolge erstellen sowie bestehende Druckreihenfolgen *bearbeiten, löschen oder duplizieren*. Mit *Klienten zuordnen* öffnet sich eine Liste in denen alle Ihre Klienten aufgelistet werden. Sie können mit dieser Liste die gewünschten Klienten zuordnen. 
+Die verfügbaren Aktionen finden Sie im Ribbon: Im Bereich Druckreihenfolgen können Sie über *Anlegen* eine neue Druckreihenfolge erstellen sowie bestehende Druckreihenfolgen *bearbeiten, löschen oder duplizieren*. Mit *Klienten zuordnen* öffnet sich eine Liste in der alle Ihre Klienten aufgelistet werden. Sie können mit dieser Liste die gewünschten Klienten zuordnen. 
 
 # Eine Druckreihenfolge anlegen
 Nutzen Sie die Funktion *Anlegen* im Bereich Druckformatvorlagen. Geben Sie einen aussagekräftigen Namen ein. Mit den Optionen *Allgemein* und *Persönlich* legen Sie die Verfügbarkeit fest. Über die Auswahl **Druckformatvorlage** bestimmen Sie das Layout der Ausdrucke. Mit *Standard Druckformatvorlage* verwenden gilt die in Ihrer Kanzlei hinterlegte Standardvorlage.
@@ -13,7 +13,7 @@ Nutzen Sie die Funktion *Anlegen* im Bereich Druckformatvorlagen. Geben Sie eine
 
 ## Ausdrucke hinzufügen und ordnen
 
-In der Spalte *Verfügbare Ausdrucke* finden Sie alle druckbaren Funktionen, nach Programm gruppiert (FIBU Next, BIL Next, HON Next) und darunter nach Kategorien wie Konten, Saldenlisten, OP-Liste oder KER. Über das Suchfeld *Verfügbare Ausdrucke durchsuchen* können Sie einen Ausdruck per Namen suchen.
+In der Spalte *Verfügbare Ausdrucke* finden Sie alle druckbaren Funktionen, nach Programm gruppiert (FIBU Next, HON Next) und darunter nach Kategorien wie Konten, Saldenlisten, OP-Liste oder KER. Über das Suchfeld *Verfügbare Ausdrucke durchsuchen* können Sie einen Ausdruck per Namen suchen.
 Markieren Sie den gewünschten Ausdruck und übernehmen Sie ihn mit dem Zuordnen-Pfeil ![Pfeil zum Zuordnen](<img/zuordnen Pfeil.png>) oder Drag & Drop in die Spalte Druckschritte. Jeder übernommene Ausdruck erscheint dort als eigener, nummerierter Druckschritt. Die Reihenfolge der Druckschritte ändern Sie per Drag & Drop mittels ![Verschieben-Symbol](<img/verschieben Symbol.png>).
 
 ## Druckoptionen je Druckschritt festlegen
@@ -56,17 +56,17 @@ Mit **Ausführen** erfolt der Ausdruck laut Definition in der Druckreihenfolge.
 
 Ein Fortschrittsbalken zeigt den aktuellen Gesamtfortschritt an. Je Klient wird separat angezeigt, ob die Ausdrucke für diesen gerade aktiv, wartend, abgeschlossen, abgeschlossen mit Fehlern oder fehlgeschlagen sind. Das wird außerdem  mit folgenden Symbolen gekennzeichnet:
 
-![läuft](<img/läuft.png>) - Läuft, der Vorgang wird gerade ausgeführt
-![erfolgreich](<img/erfolgreich.png>) - Erfolgreich abgeschlossen
-![abgeschlossen mit I](<img/I-Symbol.png>) - Abgeschlossen, aber mit [übersprungenen Ausdrucken]()
-![Fehler](<img/fehlerhaft.png>) - Abgeschlossen mit Fehlern
+- ![läuft](<img/läuft.png>) Läuft, der Vorgang wird gerade ausgeführt
+- ![erfolgreich](<img/erfolgreich.png>) Erfolgreich abgeschlossen
+- ![abgeschlossen mit I](<img/I-Symbol.png>) Abgeschlossen, aber mit [übersprungenen Ausdrucken]()
+- ![Fehler](<img/fehlerhaft.png>) Abgeschlossen mit Fehlern
 
-Wird ![abgeschlossen mit I](<img/I-Symbol.png>) oder ![Fehler](<img/fehlerhaft.png>) angezeigt, heißt das nicht, dass der Status für den gesamten Druck gilt. Sie können mittels ![aufklappen](<img/aufklappen.png>) die Druckreihenfolge für den betroffenen Klienten öffnen und so prüfen, welcher Ausdruck zu einem Fehler geführt hat. Zusätzlich wird der genaue Fehlertext angezeigt.
+Wird ![abgeschlossen mit I](<img/I-Symbol.png>) oder ![Fehler](<img/fehlerhaft.png>) angezeigt, heißt das nicht, dass der Status für den gesamten Druck gilt. Sie können mittels Aufklapp-Symbol ![aufklappen](<img/aufklappen.png>) neben dem Status je Klient die Druckreihenfolge für den betroffenen Klienten öffnen und so prüfen, welcher Ausdruck zu einem Fehler geführt hat. Zusätzlich wird der genaue Fehlertext angezeigt.
 
 ## übersprungene Ausdrucke
 Übersprungene Ausdrucke sind im Massenlauf der Normalfall und kein Grund zur Sorge. Ein Ausdruck wird übersprungen, wenn z.B. keine Daten vorliegen.
 
-!!! info "Beispiel
+!!! info "Beispiel"
     In der Druckreihenfolge befinden sich die Druckschritte Saldenliste, USt-Aufstellung und OP-Liste Debitoren. Sie wählen die Klienten in der Liste aus und geben den entsprechenden Zeitraum ein. Unter den Klienten befindet sich auch ein EA-Rechner, in welchem ohne Personenkonten gebucht wird. Die Saldenliste und USt-Aufstellung enthält  für den EA-Rechner Werte, weshalb diese Ausdrucke erfolgreich abgeschlossen werden. Da dieser Kliente allerdings ohne Personenkonten bucht und somit keine Werte in der OP-Liste Debitoren hat wird der Ausdruck übersprungen. Es wird in so einem Fall weder mit einem Fehler abgebrochen, noch ein leeres PDF erzeugt.
     Trotzdessen werden die nachfolgenden Druckschritte und die gesamte Druckreihenfolge für die restlichen Klienten durchgeführt.
     ![Hinweis übersprungener Ausdruck](<img/Hinweis übersprungener Ausdruck.png>)
