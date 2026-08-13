@@ -56,7 +56,10 @@ Mit **Ausführen** erfolt der Ausdruck laut Definition in der Druckreihenfolge.
 
 Ein Fortschrittsbalken zeigt den aktuellen Gesamtfortschritt an. Je Klient wird separat angezeigt, ob die Ausdrucke für diesen gerade aktiv, wartend, abgeschlossen, abgeschlossen mit Fehlern oder fehlgeschlagen sind. Das wird außerdem  mit folgenden Symbolen gekennzeichnet:
 
-
+![läuft](<img/läuft.png>) - Läuft, der Vorgang wird gerade ausgeführt
+![erfolgreich](<img/erfolgreich.png>) - Erfolgreich abgeschlossen
+![abgeschlossen mit I](<img/I-Symbol.png>) - Abgeschlossen, aber mit übersprungenen Ausdrucken
+![Fehler](<img/fehlerhaft.png>) - Abgeschlossen mit Fehlern
 
 
 
