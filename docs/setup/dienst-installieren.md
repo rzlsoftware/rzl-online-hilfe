@@ -10,6 +10,7 @@ kosten- und lizenzierungspflichtige Programme und Module vorausgesetzt wird:
 - Modul RZL Dokumentenverwaltung Plus
 - Modul Digitaler Personalakt
 - Modul EBICS
+- Modul RZL KI Belegdatenerkennung
 
 !!! warning "Hinweis"
     Ab Programmversion 2.23.9.0 wird zwischen dem RZL Dienst und dem RZL Diagnose Dienst unterschieden.
