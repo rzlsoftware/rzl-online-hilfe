@@ -72,6 +72,7 @@
 |            |                                   | Lohn- und Gehaltsbestätigung                                |
 | 202        | RZL Muster Dienstzettel           | Muster Dienstzettel Stand 25042024                          |
 | 203        | RZL Muster Dienstvertrag          | Muster Dienstvertrag Stand 25042024                         |
+|            |                                   | Muster Arbeitsvertrag Arbeiter Gastronomie Stand 02072026   |
 | 205        | RZL Muster Formulare LOHN         | Aktenvermerk DB 2023 und 2024_Stand 28112022                |
 |            |                                   | AMS Beschäftigungsmeldung                                   |
 |            |                                   | Grenzüberschreitende Telearbeit Stand 13112023              |
@@ -90,6 +91,7 @@
 |            |                                   | VZÄ monatlich auf Std.basis mit Auswahlkrit. Stand 04022025 |
 |            |                                   | VZÄ monatlich auf Std.basis nach SVTagen Stand 04082025     |
 |            |                                   | VZÄ monatlich auf Stundenbasis Stand 04022025               |
+|            |                                   | VZÄ monatlich auf Std.basis pro Kostenstelle Stand 02072026 |
 | 251        | RZL Lohnstatistik LSE             | Ausfüllhilfe LSE Personal Stand 10082023                    |
 
 ## Honorarverrechnung

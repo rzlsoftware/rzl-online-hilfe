@@ -80,4 +80,4 @@ Mögliche Leistungen sind:
 - Freier Dienstvertrag
 - Lizenzgebühren
 
-Für die Leistung *Mitglied des Aufsichtsrats, Verwaltungsrat* muss zusätzlich die *Steuernummer des Ansässigkeitsstaates* erfasst werden.
+Für die Leistungen *Mitglied des Aufsichtsrats, Verwaltungsrat* und *Lizenzgebühren* muss zusätzlich die *Steuernummer des Ansässigkeitsstaates* erfasst werden.

@@ -94,3 +94,7 @@ Die Rückmeldungen stehen im Lohnprogramm weiterhin zur Verfügung:
 
 !!! warning "Hinweis"
     Bitte beachten Sie, dass mit der Umstellung auf das Webservice die Rückmeldungen, Krankenstandsbescheinigungen oder Clearingfälle nicht mehr direkt in der ELDA-Software angezeigt werden. Diese werden künftig in ein eigenes Empfangsverzeichnis für das neue Webservice übernommen und von dort wie bisher in den bekannten Programmpunkten angezeigt, insbesondere für Krankenstandsbescheinigungen, Clearingfälle, Rückmeldungen zu den VSNR-Anforderungen und Entsendungsanträgen.
+
+## Krankenstandsbescheinigungen speichern und ausdrucken
+
+[Krankenstandsbescheinigungen speichern und ausdrucken](../LOHN/Elektronische_Meldungen_ÖGK/Krankenstandsbescheinigungen.md/#krankenstandsbescheinigungen-speichern-und-ausdrucken)
