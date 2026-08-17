@@ -14,6 +14,10 @@ Für den Abzug legen Sie sich eine Abzugslohnart an:
 
 ![Image](<img/image561.png>){width="500"}
 
+Im Registerblatt *LA(4)* erfassen Sie die Art des Sachbezugs (Sachbezug KFZ, Sachbezug Wohraum, Sonstige Sachbezüge)
+
+![Image](img/image631.png){width="500"}
+
 Rechnen Sie nur die Sachbezugslohnarten für die Karenz ab.
 
 !!! warning "Hinweis"

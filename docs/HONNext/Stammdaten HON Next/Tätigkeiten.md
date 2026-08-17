@@ -15,7 +15,7 @@ Neue Tätigkeiten können Sie entweder über die Schaltfläche im Ribbon
 **(1)** *Neue Tätigkeit* oder über die Schaltfläche **(2)** *Neue
 Tätigkeit* im rechten unteren Bereich anlegen.
 
-![](<img/image24.png>)
+![](img/image73.png)
 
 Nun öffnet sich im unteren Bereich die Eingabe für eine neue Tätigkeit.
 Als Erstes müssen Sie eine *Nummer* für die Tätigkeit vergeben. Danach
@@ -43,7 +43,7 @@ eingetragen werden.
     während der Notenerstellung ergänzt werden.
 
 
-![](<img/image28.png>)
+![](img/image74.png)
 
 Nachfolgend werden Ihnen die einzelnen Optionen im Reiter *Allgemein*
 **(2)** erläutert.
@@ -148,6 +148,10 @@ Leistungserfasser verpflichtend die Uhrzeit (von/bis) eintragen.
 
 Wird die Tätigkeit bei der Leistungserfassung ausgewählt, so muss der
 Leistungserfasser verpflichtend einen Text eintragen.
+
+**Leistungstext in Note übernehmen**
+
+Ist diese Option gesetzt, wird der Text aus der Leistungserfassung der Mitarbeiter automatisch in die Note übernommen. Der Text wird dann statt dem Feld *Bezeichnung in der Note* gedruckt. Sollte kein Text eingegeben werden, wird die Bezeichnung in Note verwendet. Texte aus mehreren verschiedenen Leistungen werden mit einem Zeilenumbruch getrennt.
 
 **Verrechnungsgruppe**
 

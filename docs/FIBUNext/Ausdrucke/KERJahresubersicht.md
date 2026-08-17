@@ -24,3 +24,5 @@ Folgende weitere Optionen stehen zur Auswahl:
 * *Kumulierte Werte ausblenden:*
 
     Aktivieren Sie diese Option, falls Sie keine kumulierten Werten von Beginn des aktuellen Wirtschaftsjahres am Ausdruck wünschen.
+
+Unter der KER-Gliederung befindet sich ein Dropdown-Menü zur Auswahl des zu druckenden KER-Kreises. Alternativ können alle Kreise ausgegeben werden.   

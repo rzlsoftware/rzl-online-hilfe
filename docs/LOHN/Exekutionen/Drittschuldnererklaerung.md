@@ -48,6 +48,8 @@ Im Fall von Unterhaltsforderungen können mehrere Parteien mit den Daten des Ver
 
 Im Feld *Anmerkung* können Einträge gemacht werden die, wenn zusätzlich das Feld *Anmerkung auf Überweisung* aktiviert ist, als Information (Verwendungszweck) bei den Überweisungen verwendet werden.
 
+Über das Eingabefeld *abw. Kontoinhaber* kann ein vom Empfängerkonto abweichender Name des Kontoinhabers erfasst werden. Dieser wird für die Empfängerprüfung der Banken (VOP) herangezogen und stellt sicher, dass die Überweisung korrekt zugeordnet werden kann.
+
 ## Registerblatt Drittschuldner-Erklärung (1)
 
 **Forderung des Verpflichteten**

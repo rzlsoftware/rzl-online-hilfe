@@ -36,6 +36,15 @@ Für die automatische Eintragung des Monats und des Jahres können Sie die Kürz
 !!! warning "Hinweis"
     In Ausnahmefällen kann durch Anwahl der Schaltfläche *Details* das Zahlungsreferenzfeld für jeden Monat einzeln eingetragen werden. Diese Möglichkeit kann genutzt werden, wenn die von der Behörde vergebenen Kundendatenfelder nicht systematisch aufgebaut sind.
 
+!!! info "Tipp"
+    Wird in der Zahlungsreferenz beispielsweise `KommSt 12345` eingetragen, erscheint für den Monat Juli die Zahlungsreferenz `Ko07St 12345`.
+    
+    Ursache dafür ist, dass `mm` als Platzhalter für den Monat interpretiert und im Juli durch `07` ersetzt wird.
+
+    Um diese Ersetzung zu vermeiden, setzen Sie `KommSt` unter Anführungszeichen: `"KommSt" 12345`
+
+    Dadurch wird in der Zahlungsreferenz unverändert `KommSt 12345` ausgegeben.
+
 **Kommunalsteuerschließungserklärung** 
 
 Wenn eine [Kommunalsteuer-Schließungserklärung](../../Elektronische_Kommunalsteuererklaerung.md) erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen.

@@ -3,7 +3,7 @@
 Über den Menüpunkt *Leistungserfassung / Leistungsübersicht* stehen
 Ihnen alle erfassten Leistungen für Auswertungen zur Verfügung.
 
-Standartmäßig ist der Zeitraum ab dem 01.01. des aktuellen Jahres bis
+Standardmäßig ist der Zeitraum ab dem 01.01. des aktuellen Jahres bis
 zum heutigen Datum vorgegeben. Der Zeitraum kann jedoch individuell
 eingeschränkt werden.
 
@@ -36,4 +36,4 @@ aufklappen/zuklappen* können Sie nur einzelne Ebenen einblenden.
 
 !!! info "Tipp"
     Die Leistungsübersicht steht Ihnen auch über den Punkt *Auswertungen*
-    zur Verfügung. Siehe auch [Speicherbare Layouts](/HONNext/Auswertungen/Speicherbare%20Layouts).
+    zur Verfügung. Siehe auch [Speicherbare Layouts](../Auswertungen/Speicherbare%20Layouts.md).

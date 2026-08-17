@@ -56,7 +56,7 @@ Anzeige von Ende der Tagesarbeitszeit.
 
 Anzeige der gehaltenen Pausen. Wird das
 ![](<img/image140.png>)(Pfeil) Symbol angezeigt, so
-wurden mehrere Pausen und Unterberechnungen eingetragen. Sie können die
+wurden mehrere Pausen und Unterbrechungen eingetragen. Sie können die
 weiteren Pausen über dieses Symbol einblenden lassen.
 
 **AZ**

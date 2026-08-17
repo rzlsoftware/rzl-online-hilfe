@@ -57,7 +57,7 @@ Das Feld *Lohnarten-Nr drucken* zeigt, bei der Verwendung von freien Lohnarten, 
 Die im Abrechnungsbildschirm [*Eintritt*](../Abrechnungsbildschirme/Eintritt.md) hinterlegte Wochenarbeitszeit des Dienstnehmers wird durch Anwahl des Feldes *Wochenarbeitszeit drucken* auf der Abrechnung angezeigt.
 
 Wenn das Modul [*Kollektivverträge*](../Kollektivverträge/Abrechnungsbildschirm_Kollektivvertrag.md) lizensiert ist, werden durch Anwahl des Feldes
-*KV-Einstufung drucken* der zugeordnete Kollektivvertrag, die Tätigkeitsgruppe und der Beginn der Einstufung auf die Abrechnung gedruckt.
+*KV-Einstufung drucken* der zugeordnete Kollektivvertrag, die Tätigkeitsgruppe sowie der Beginn der Einstufung auf die Abrechnung gedruckt. Mit den Auswahlmöglichkeiten *nächsten Vorrückungsstichtag drucken* und *Dienstjahr drucken* können zusätzlich auch das Vorrückungsdatum und das Dienstjahr auf der Abrechnung angedruckt werden.
 
 Wenn abweichende externe Dienstnehmer-Nummern verwendet werden, können diese Nummern durch Aktivierung der Option *externe DN-Nr. drucken* auf der Abrechnung angedruckt werden.
 

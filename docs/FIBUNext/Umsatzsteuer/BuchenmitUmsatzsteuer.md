@@ -18,7 +18,6 @@ Zur Buchung der einzelnen Umsatzerlöse ist ein separates Erlöskonto mit der je
 | Steuerbarer Umsatz 20%                             | 000, 022               | Umsatzsteuer                            | 20               | \-                                           | 20                                                | M20                           |
 | Steuerbarer Umsatz 13%                             | 000, 006               | Umsatzsteuer                            | 13               | \-                                           | 13                                                | M13                           |
 | Steuerbarer Umsatz 19% für Jungholz und Mittelberg | 000, 037               | Umsatzsteuer                            | 19               | \-                                           | 19                                                | M19                           |
-| Zusatzsteuer für pauschalierte LuF 10%             | 000, 052               | Umsatzsteuer                            | 10               | Zusatzsteuer pauschalierte Land-/ Forstwirte | Z10                                               | Z10                           |
 | Zusatzsteuer für pauschalierte LuF 7%              | 000, 007               | Umsatzsteuer                            | 7                | Zusatzsteuer pauschalierte Land-/ Forstwirte | Z07                                               | Z07                           |
 
 

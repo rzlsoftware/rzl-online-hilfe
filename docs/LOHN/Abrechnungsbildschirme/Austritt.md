@@ -180,6 +180,4 @@ Das auf den Antritt des Präsenz- oder Zivildienstes folgende Monat wird *mit lf
 
 Kehrt der Dienstnehmer nach dem Präsenz- bzw. Zivildienst wieder zurück, so ist dieser mit Wiedereintritt abzurechnen. Bei diesem Wiedereintritt sind die abzurechnenden Löhne bzw. Lohnarten neu einzutragen (nicht neu anlegen). Die Neueintragung ist notwendig, weil die laufenden Bezüge für die Abrechnung der BV-Beiträge während des Präsenz- bzw. Zivildienstes auf null gestellt wurden.
 
-Kehrt der Dienstnehmer nach dem Präsenz- bzw. Zivildienst nicht mehr zurück, ist ebenfalls mit Wiedereintritt abzurechnen. Es darf kein Eintrittsdatum eingetragen werden; stattdessen sind das neue Austrittsdatum und der entsprechende Austrittsgrund anzugeben. Es können bei dieser Abrechnung noch Bezüge abgerechnet werden.
-
-Vom Programm erfolgt die Abfrage, ob die Abmeldung in die ÖGK-Datei übernommen werden soll. Die Arbeitsbescheinigung mit Entgeltangabe wird mit allen Bezügen vor Beginn des Präsenz- bzw. Zivildienstes erstellt.
+Kehrt der Dienstnehmer nach dem Präsenz- bzw. Zivildienst **nicht** mehr zurück, ist wie [hier](../Abrechnungen_Sonderfälle/Endgueltige_Beendigung_arbeitsrechtlich_aufrechten_Dienstverhaeltnissen.md) beschrieben vorzugehen.

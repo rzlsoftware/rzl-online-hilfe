@@ -37,7 +37,9 @@ die Leistungen automatisch freigeben zu lassen.
     12:30–16:00 erfasst werden.
 
     Ansicht in der Leistungserfassung des
-    Mitarbeiters:![](<img/image91.png>)
+    Mitarbeiters:
+
+    ![](<img/image91.png>)
 
 !!! info "Tipp"
     Bei der Einstellung *Arbeitszeit aus den Leistungen entnehmen* ist es
@@ -79,8 +81,10 @@ Honorarverrechnung über die Mitarbeiterübersicht durchgeführt werden
 !!! warning "Hinweis"
     Bei der digitalen Stempeluhr ist der Import von Arbeitszeiten [Import von Arbeitszeiten](../Datenübernahme.md#datenimport-leistungen-und-arbeitszeiten) nicht möglich.
 
-Ansicht in der Leistungserfassung des Mitarbeiters:
-![](<img/image93.png>)
+Ansicht in der Leistungserfassung des Mitarbeiters:![](<img/image93.png>)
+
+!!! info "Tipp"
+    Bei Verwendung der digitalen Stempeluhr gibt es im Board Überblick direkt die Möglichkeit die Arbeitszeit zu erfassen, ohne extra in das LE Next Modul einzusteigen. 
 
 **Rundung**  
 Bei der Variante *Digitale Stempeluhr* besteht die Möglichkeit, die

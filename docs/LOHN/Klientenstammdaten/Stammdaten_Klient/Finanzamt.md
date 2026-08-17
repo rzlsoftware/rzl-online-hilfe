@@ -51,10 +51,15 @@ In diese drei Eingabefelder können Sie die jeweiligen Verbindlichkeitskonten ei
 
 Die Aktivierung dieses Feldes ermöglicht die Erstellung einer xml-Datei zur [Meldung der Selbstbemessungsabgaben](../../Selbstbemessungsabgaben_melden.md) in FinanzOnline.
 
-**Steuerreform 2022 bereits ab Jan. aktiv**
+!!! warning "Hinweis"
+    Wird das Kontrollkästchen *Selbstbemessungsabgaben übermitteln* aktiviert, dürfen die Finanzamtsabgaben laut Vorgabe des Finanzamts bei der Überweisung **nicht** nach Lohnsteuer (LST), Dienstgeberbeitrag (DB) und Zuschlag zum Dienstgeberbeitrag (DZ) aufgegliedert werden. Die Zahlung muss in diesem Fall **in einer Gesamtsumme** erfolgen. 
+    
+    Für diese Überweisung darf daher **nicht** die Zahlungsart **„Finanzamtszahlung“** verwendet werden. Stattdessen ist eine **normale Überweisung** durchzuführen. 
+    
+    Aus diesem Grund werden bei aktivierter Option folgende Ausgaben **ohne Aufgliederung der Finanzamtsabgaben** erstellt: 
+    
+    - Überweisungsliste Abgaben
+    - Zahlschein Abgaben
+    - SEPA-Überweisung Abgaben
 
-Anfang 2022 kam es zu einer neuen Steuerreform und zur Senkung des Eingangssteuersatzes auf 32,50%. Der Menüpunkt ist generell ausgegraut und kann in Ausnahmefällen aktiviert werden.
-
-**alten FABO+ von Jan bis Juni 2022 verw.**
-
-Im Juli 2022 wurde rückwirkend beschlossen, dass der Familienbonus Plus für alle auf EUR&nbsp;166,68 bzw. 54,18 angehoben werden muss. Mit Setzen dieses Häkchens kann mit den alten Werten abgerechnet werden.
+    Würde die Zahlung trotz aktivierter Übermittlung der Selbstbemessungsabgaben als Finanzamtszahlung mit Aufgliederung dargestellt, könnte dies zu einer **doppelten Verbuchung** der Abgaben am Steuerkonto führen. Dies wird durch die Ausgabe der Zahlung als Gesamtsumme vermieden.

@@ -6,7 +6,7 @@
             "request": "launch",
             "name": "MkDocs Serve",
             "runtimeExecutable": "mkdocs",
-            "args": "--color serve --dirtyreload",
+            "args": "--color serve --strict",
             "console": "integratedTerminal"
         }
     ]

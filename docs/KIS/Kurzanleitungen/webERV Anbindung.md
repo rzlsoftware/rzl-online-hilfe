@@ -3,7 +3,7 @@ Ab 01.01.2026 ist FinanzOnline nicht mehr als Kommunikationsweg für die Einreic
 Unterlagen, die in einer früheren Strukturversion erstellt wurden, müssen bis zum 31.12.2025 über Finanzonline übermittelt werden.
 
 Im RZL Bilanzierungsprogramm können Sie die Einreichungen mithilfe des webERV-Service von MANZ weiterhin sicher, effizient und fristgerecht durchführen.
-Weitere Informationen bezüglich dieser Änderung im Zusammenhang mit dem RZL Bilanzprogramm inklusive der technischen Voraussetzungen und notwendige Einstellungen zur Verwendung der MANZ-Schnittstelle für die Übermittlung finden Sie in der [Kurzanleitung **Jahresabschlüsse Firmenbuch ERV-Jab 4.0**](https://rzlsoftware.at/fileadmin/user_upload/PDF_Kurzanleitungen/BIL/BIL_Firmenbuchabgabe_4-0.pdf)
+Weitere Informationen bezüglich dieser Änderung im Zusammenhang mit dem RZL Bilanzprogramm inklusive der technischen Voraussetzungen und notwendige Einstellungen zur Verwendung der MANZ-Schnittstelle für die Übermittlung finden Sie in der [Kurzanleitung **Jahresabschlüsse Firmenbuch ERV-Jab 4.0**](https://rzlsoftware.at/fileadmin/user_upload/PDF_Handbuecher/BIL.pdf)
 
 Mit der webERV-Anbindung können Nachrichten aus dem elektronischen Rechtsverkehr (ERV) in das RZL Kanzlei-Informations-System übernommen werden, das betrifft unter anderem Firmenbuchbeschlüsse und sonstige ERV Zustellungen. Über Zuweisungen können Thema, Kategorie und Dokumentenbereich definiert werden, welche eine strukturierte Ablage unterstützen. Darüber hinaus können Aufgabenvorlagen für eine automatische Aufgabenerstellung definiert und hinterlegt werden.
 
@@ -32,6 +32,11 @@ Die nachträgliche Übernahme kann erst aktiviert werden, sobald ein Fallback-Kl
 ## webERV Zuweisungen im RZL Kanzlei-Informations-System
 
 Für eine strukturierte Ablage der webERV Dokumente können Sie unter *Verwaltung → Zuweisungen → webERV* jeweils Thema, Kategorie und Dokumentbereich für ERV Firmenbuchbeschlüsse und sonstige ERV Nachrichten festlegen.
-Außerdem können Sie unter *Verwaltung → Aufgabenvorlagen* Aufgabenvorlagen anlegen, mit welchen Aufgaben für die ERV Firmenbuchbeschlüsse/sonstige ERV Zustellungen erstellt werden.
+Außerdem können Sie unter *Verwaltung → Aufgabenvorlagen* Aufgabenvorlagen anlegen, mit welchen Aufgaben für die ERV Firmenbuchbeschlüsse/sonstige ERV Zustellungen erstellt werden. 
+
+Es besteht die Möglichkeit, analog zu den Funktionen in FinanzOnline, mit Aufgabenvorlagen zu arbeiten.
+Im Falle einer fehlerhaften Übermittlung kann durch die Hinterlegung einer Vorlage unter *Aufgabenvorlage für zu erstellende Aufgabe* automatisch eine entsprechende Aufgabe generiert werden.
+Wird der Jahresabschluss hingegen erfolgreich übermittelt, erfolgt die automatische Erledigung durch den Zuständigen webERV. Voraussetzung dafür ist die Hinterlegung einer Vorlage unter *Aufgabenvorlage für zu erledigende Aufgabe*.
 
 ![Zuweisungen webERV](<img/Zuweisungen.png>)
+

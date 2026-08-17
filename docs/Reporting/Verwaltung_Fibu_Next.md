@@ -4,7 +4,7 @@ Wenn kein Klient ausgewählt ist, können in der FIBU Next unter dem Menüpunkt 
 
 ![Image](img/image120.png)
 
-## AAllgemeine Report-Verwaltung
+## Allgemeine Report-Verwaltung
 
 ![Image](img/image121.png)
 

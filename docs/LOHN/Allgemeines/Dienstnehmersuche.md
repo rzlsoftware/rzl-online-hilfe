@@ -25,6 +25,9 @@ Es kann hier zum Beispiel nach der *Beitragskontonummer*, dem *ÖGK-Bundesland* 
 
 ![Image](<img/imageA21.png>)
 
+!!! warning "Hinweis"
+    Die Dienstnehmersuche ist erst ab dem Klientenjahr **2016** verfügbar. Klientenjahre vor 2016 werden bei der Dienstnehmersuche nicht berücksichtigt.
+
 ## Funktion DN-Suche schützen/sperren
 
 Mit der Schaltfläche *Passwort* kann die Benutzung der Funktion kanzleiweit mit einem Passwort versehen werden.

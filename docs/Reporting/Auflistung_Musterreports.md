@@ -29,12 +29,17 @@
 | 26         | RZL Musterreports RÄG 2014              | RZL Geldflussrechnung RÄG 2014 Stand 26072023                                                               |
 |            |                                         | RZL-Jahresabschluss-Report Präsentation RÄG 2014 Version 2                                                  |
 |            |                                         | RZL-Quick Kennzahlen KMU RÄG 2014 Version 2                                                                 |
-| 28         | RZL Musteranhänge KKP 26                | RZL Musteranhang lang KKP 26 Stand 11022026                                                                 |
-| 29         | RZL Musterreports KKP 26                | RZL Geldflussrechnung KKP 26 Stand 12022026                                                                 |
+| 28         | RZL Musteranhänge KKP 26                | RZL Musteranhang kurz KKP 26 Stand 22042026                                                                 |
+|            |                                         | RZl Musteranhang kurz ohne VJ KKP 26 Stand 22042026                                                         |
+|            |                                         | RZL Musteranhang lang KKP 26 Stand 22042026                                                                 |
+| 29         | RZL Musterreports KKP 26                | RZL Geldflussrechnung KKP 26 Stand 23042026                                                                 |
+|            |                                         | RZL Jahresabschlussrep. Präsentation KKP 26 Stand 23042026                                                  |
+|            |                                         | RZL Quick Kennzahlen KMU KKP 26 Stand 30042026                                                              |
 | 32         | RZL Musterreports Anlagen               | RZL Muster BWR-Spiegel Subvention 072019 Bilanzbasis                                                        |
 |            |                                         | RZL Muster BWR-Spiegel Subvention 072019 Kontenbasis                                                        |
 | 41         | RZL Muster Lagebericht                  | RZL Musterlagebericht KKP 26 Stand 05022026                                                                 |
-| 400        | RZL Jahresabschlussrep. Premium         | RZL Jahresabschlussreport Premium Stand 10102024 **kostenpflichtig**                                        |
+| 400        | RZL Jahresabschlussrep. Premium         | RZL Jahresabschlussreport Prem. KKP 25 Stand 29042026 **kostenpflichtig**                                   |
+|            |                                         | RZL Jahresabschlussreport Prem. KKP 26 Stand 29042026 **kostenpflichtig**                                   |
 
 ## Finanzbuchhaltung
 
@@ -67,6 +72,7 @@
 |            |                                   | Lohn- und Gehaltsbestätigung                                |
 | 202        | RZL Muster Dienstzettel           | Muster Dienstzettel Stand 25042024                          |
 | 203        | RZL Muster Dienstvertrag          | Muster Dienstvertrag Stand 25042024                         |
+|            |                                   | Muster Arbeitsvertrag Arbeiter Gastronomie Stand 02072026   |
 | 205        | RZL Muster Formulare LOHN         | Aktenvermerk DB 2023 und 2024_Stand 28112022                |
 |            |                                   | AMS Beschäftigungsmeldung                                   |
 |            |                                   | Grenzüberschreitende Telearbeit Stand 13112023              |
@@ -85,6 +91,7 @@
 |            |                                   | VZÄ monatlich auf Std.basis mit Auswahlkrit. Stand 04022025 |
 |            |                                   | VZÄ monatlich auf Std.basis nach SVTagen Stand 04082025     |
 |            |                                   | VZÄ monatlich auf Stundenbasis Stand 04022025               |
+|            |                                   | VZÄ monatlich auf Std.basis pro Kostenstelle Stand 02072026 |
 | 251        | RZL Lohnstatistik LSE             | Ausfüllhilfe LSE Personal Stand 10082023                    |
 
 ## Honorarverrechnung
