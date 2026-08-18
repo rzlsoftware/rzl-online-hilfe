@@ -99,12 +99,14 @@ aufrufen.
 Mit folgenden Rollen können Mitarbeiter/innen im RZL die Funktionen der Geldwäscheprävention nutzen:
 
 RZL Standard Rolle:
+
 * Geldwäscheprävention / Klientenübersicht
 * Klientbearbeiter (und darüber wie RZL-Administrator und Alle Berechtigungen)
 
-RZL Premium Rolle:
-* Geldwäscheprävention
 
+RZL Premium Rolle:
+
+* Geldwäscheprävention
 
 Wählen Sie in den Board Stammdaten den Pfeil bei der Schaltfläche
 *Klienten* an können Sie auswählen welche der Geldwäsche-Listen
