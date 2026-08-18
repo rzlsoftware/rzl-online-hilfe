@@ -42,7 +42,7 @@ b) Die Sicherungsdatei wird zu einer Idf-Datei komprimiert
 
 ![RZL-Admin Lizenz zurücklegen](img/RZLAdmin_LizenzZuruecklegen.png)
 
-(Siehe dazu auch [RZL Lizenzierung](http://127.0.0.1:8000/setup/lizenzierung/))
+(Siehe dazu auch [RZL Lizenzierung](lizenzierung.md))
 
 Die Sicherungsdatei wird im Dateiformat `.rzlbak` und `.rzlbak_hash` im ausgewählten Komplettsicherungspfad abgelegt 
 und kann dann in der neuen Umgebung (Server /Rechner) wiederhergestellt werden.
