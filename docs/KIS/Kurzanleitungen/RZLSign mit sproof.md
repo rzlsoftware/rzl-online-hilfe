@@ -45,6 +45,9 @@ Der Status gibt an, ob ein sproof User bereits einem Mitarbeiter zugeordnet wurd
 
 ![Status sproof User](img/Status_User.png)
 
+!!! info "Tipp"
+    Wird ein gelbes Warndreieck als Status bei einem sproof User angezeigt heißt das entweder es wurde in dieser Ansicht kein Mitarbeiter zum sproof User zugeordnet oder der sproof User wurde im sproof gelöscht.
+
 ## Signierprozess
 
 Die sproof Funktionen sind im RZL Kanzlei-Informations-System in den Bereichen *Mein Arbeitsplatz, Klient und Kanzlei* jeweils unter *Dokumente* zu finden. Sie können diese entweder über das Kontextmenü  (rechte Maustaste auf Dokument) oder im Ribbon aufrufen.
