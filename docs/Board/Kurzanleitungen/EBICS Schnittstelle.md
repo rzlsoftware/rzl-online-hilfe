@@ -179,7 +179,7 @@ Markieren Sie die Zahlungsdatei und klicken Sie auf **Übermitteln**. Folgendes 
 Wählen Sie den EBICS Teilnehmer, von welchem die Zahlungsdatei übermittelt werden soll aus, tragen das Passwort ein und wählen im Drop-Down Menü zur Empfängerüberprüfung die gewünschte Option aus. 
 
 !!! warning "Achtung"
-    Bei Einzelüberweisungen wird die Empfängerüberprüfung vorausgesetzt!
+    Bei Einzelüberweisungen wird die Empfängerüberprüfung vorausgesetzt! Wird die Zahlzngsdatei ohne Empfängerüberprüfung übermittelt wird diese seitens EBICS abgelehnt!
 
 Bei *Standard* und *Opt-Out* handelt es sich um die gleiche Art, nämlich **ohne** Empfängerüberprüfung. Bei einer Übermittlung mit der Art *Opt-In* wird die Empfängerüberprüfung durchgeführt.
 
@@ -190,7 +190,7 @@ Nach Wahl der Art **Opt-In - mit Empfängerüberprüfung** wird die Empfängerü
 Hier können Sie das VoP Ergebnis abrufen.
 
 !!! info "Hinweis"
-    Das VoP Ergebnis können Sie mit einer Transportberechtigung zwar abrufen, aber Sie können die Zahlung nicht final freigeben/stornieren
+    Das VoP Ergebnis können Sie mit einer Transportberechtigung zwar abrufen, aber Sie können die Zahlung nicht final freigeben/stornieren.
 
 In der Spalte *VoP* wird der Status mittels der Icons dargestellt. Die Definition der Icons befindet sich über dem VoP Ergebnis.
 
@@ -225,6 +225,11 @@ Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **
 
 !!! info "Hinweis"
     Wenn Sie den Mauszeiger auf das jeweilige Icon positionieren, wird ein Tooltip angezeigt, welche die Informationen laut obiger Tabelle anführen.
+
+### HAC Status
+
+Die Bank stellt über HAC eine Statusdatei bereit, in der Details und Rückmeldungen zu hochgeladenen oder signierten Zahlungsdateien bereitgestellt werden. 
+
 
 ## EBICS in der RZL FIBU/EA Klassik
 
