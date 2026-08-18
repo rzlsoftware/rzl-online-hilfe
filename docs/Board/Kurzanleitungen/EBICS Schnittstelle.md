@@ -213,7 +213,7 @@ Stehen die VoP Ergebnisse beim Übermitteln aus den offenen Übermittlungen noch
 
 Markieren Sie die gewünschte Zahlungsdatei und öffnen Sie **Empfängerüberprüfung** im Ribbon.
 
-Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **VoP Status** könnnen Sie folgendes erkennen:
+Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **VoP Status** können Sie folgendes erkennen:
 
 | VoP Status                                               | Definition                                                                                               |
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -228,8 +228,9 @@ Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **
 
 ### HAC Status
 
-Die Bank stellt über HAC eine Statusdatei bereit, in der Details und Rückmeldungen zu hochgeladenen oder signierten Zahlungsdateien bereitgestellt werden. 
+Die Bank stellt über HAC eine Statusdatei bereit, in der Details und Rückmeldungen zu hochgeladenen oder signierten Zahlungsdateien bereitgestellt werden. Als Status wird entweder ein rotes X für fehlgeschlagen oder ein grüner Haken für erfolgreich angezeigt. Den HAC Status können Sie über den entsprechenden Menüpunkt bei den gesendeten EBICS Übermittlungen abrufen.
 
+Mittels Auftrags-ID, welche in der Liste der gesendeten EBICS Übermittlungen zu finden ist, können Sie im Bankprotokoll den dazugehörigen Eintrag finden. Dieser gibt Aufschluss über den durchgeführten Vorgang (z.B. Datei von Bank abgeholt oder Datei zur Bank übertragen) + dazugehörigem Ergebnis (z.B. Übertragung in Ordnung) sowie eine Detail-Beschreibung.
 
 ## EBICS in der RZL FIBU/EA Klassik
 
