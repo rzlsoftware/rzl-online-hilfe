@@ -159,7 +159,13 @@ Bei Erstellung von Bankeinzügen und Überweisungen wird die XML-Datei in das RZ
 
 ![Offene EBICS Übermittlungen](<img/Offene EBICS Übermittlungen.png>)
 
-Aus dieser Ansicht der offenen Übermittlungen, senden Sie die Zahlungsdateien dann weiter an die Bank. Außerdem können die XML-Dateien exportiert + importiert werden bzw. können Sie sich die Details anzeigen lassen und die Datei löschen.
+Aus dieser Ansicht der offenen Übermittlungen senden Sie die Zahlungsdateien entweder weiter an den EBICS Server oder direkt an die Bank. 
+
+!!! info "Hinweis"
+    **Zahlungsdatei mit Transportberechtigung übermitteln:** Die offene Übermittlung wird an den EBICS Server gesendet. Der Kunde muss die Zahlungsdatei in seinem Online Banking freigeben oder ablehnen. Bei einer Transportberechtigung besteht somit Handlungsbedarf vom Kunden.
+    **Zahlungsdatei mit Zeichnungsberechtigung übermitteln:** Die offene Übermittlung wird direkt an die Bank des Kunden übermittelt. Sie setzen die Freigabe, weil Sie eine Zeichnungsberechtigung besitzen.
+
+Außerdem können Sie in dieser Ansicht die XML-Dateien exportiert + importiert werden bzw. können Sie sich die Details anzeigen lassen und die Datei löschen.
 
 ### Empfängerüberprüfung VoP
 
@@ -191,7 +197,7 @@ Nach Erhalt des Ergebnisses kann dies z.B. so aussehen:
 
 ![Ergebnis VoP](<img/VoP Ergebnis mit Übereinstimmung.png>)
 
-Hier entscheiden Sie, ob die Zahlung freigegeben wird oder Sie die Zahlung stornieren.
+Wenn Sie eine Zeichnungsberechtigung besitzen: Hier entscheiden Sie, ob die Zahlung freigegeben wird oder Sie die Zahlung stornieren.
 
 Stehen die VoP Ergebnisse beim Übermitteln aus den offenen Übermittlungen noch nicht zur Verfügung, ist zum schlussendlichen Freigeben die Liste **gesendete Übermittlungen** aufzurufen. Hier können die VoP Ergebnisse abgerufen und angezeigt werden.
 
