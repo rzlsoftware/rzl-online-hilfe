@@ -178,13 +178,21 @@ Markieren Sie die Zahlungsdatei und klicken Sie auf **Übermitteln**. Folgendes 
 
 Wählen Sie den EBICS Teilnehmer, von welchem die Zahlungsdatei übermittelt werden soll aus, tragen das Passwort ein und wählen im Drop-Down Menü zur Empfängerüberprüfung die gewünschte Option aus. 
 
+!!! warning "Achtung"
+    Bei Einzelüberweisungen wird die Empfängerüberprüfung vorausgesetzt!
+
 Bei *Standard* und *Opt-Out* handelt es sich um die gleiche Art, nämlich **ohne** Empfängerüberprüfung. Bei einer Übermittlung mit der Art *Opt-In* wird die Empfängerüberprüfung durchgeführt.
 
 Nach Wahl der Art **Opt-In - mit Empfängerüberprüfung** wird die Empfängerüberprüfung durchgeführt und folgendes Fenster im RZL angezeigt:
 
 ![Empfängerüberprüfung VoP Ergebnis abrufen](<img/VoP Ergebnis.png>)
 
-Hier können Sie das VoP Ergebnis abrufen. In der Spalte *VoP* wird der Status mittels der Icons dargestellt. Die Definition der Icons befindet sich über dem VoP Ergebnis.
+Hier können Sie das VoP Ergebnis abrufen.
+
+!!! info "Hinweis"
+    Das VoP Ergebnis können Sie mit einer Transportberechtigung zwar abrufen, aber Sie können die Zahlung nicht final freigeben/stornieren
+
+In der Spalte *VoP* wird der Status mittels der Icons dargestellt. Die Definition der Icons befindet sich über dem VoP Ergebnis.
 
 !!! warning "Hinweis"
     Die VoP Ergebnisse werden **von der Bank übermittelt**. Die Zurverfügungstellung der Ergebnisse kann je nach Bank variieren und mehrere Minuten dauern. Wenn noch keine Ergebnisse zur Verfügung stehen, könnten Sie folgende Fehlermeldung erhalten:
