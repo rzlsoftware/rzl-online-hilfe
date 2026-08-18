@@ -176,10 +176,10 @@ Markieren Sie die Zahlungsdatei und klicken Sie auf **Übermitteln**. Folgendes 
 
 ![Zahlungsdatei übermitteln VoP](<img/Empfängerüberprüfung.png>)
 
-Wählen Sie den EBICS Teilnehmer, von welchem die Zahlungsdatei übermittelt werden soll aus, tragen das Passwort ein und wählen im Drop-Down Menü zur Empfängerüberprüfung die gewünschte Option aus. 
+Wählen Sie den EBICS Teilnehmer, von welchem die Zahlungsdatei übermittelt werden soll aus, tragen das Passwort ein und wählen im Drop-Down Menü zur Empfängerüberprüfung die gewünschte Option aus.
 
 !!! warning "Achtung"
-    Bei Einzelüberweisungen wird die Empfängerüberprüfung vorausgesetzt! Wird die Zahlzngsdatei ohne Empfängerüberprüfung übermittelt wird diese seitens EBICS abgelehnt!
+    Bei Einzelüberweisungen wird die Empfängerüberprüfung vorausgesetzt! Wird die Zahlungsdatei ohne Empfängerüberprüfung übermittelt wird diese seitens EBICS abgelehnt!
 
 Bei *Standard* und *Opt-Out* handelt es sich um die gleiche Art, nämlich **ohne** Empfängerüberprüfung. Bei einer Übermittlung mit der Art *Opt-In* wird die Empfängerüberprüfung durchgeführt.
 
