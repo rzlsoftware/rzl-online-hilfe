@@ -4905,6 +4905,36 @@ Die nachfolgende Übersicht basiert auf dem von der Österreichischen Gesundheit
   </div>
 </details>
 
+## VW1924
+
+<details style="margin-bottom: 1rem;">
+  <summary style="cursor: pointer; font-weight: 600;">
+    VW1924 - Für @1 @2, Geburtsdatum @3, wurde die Versicherungsnummer @4 vergeben.
+  </summary>
+
+  <div style="padding: 0.75rem 0 0 1rem;">
+
+    <p>
+      <u>Variabler Text:</u><br>
+      @1: Vorname Versicherter<br>
+      @2: Nachname Versicherter<br>
+      @3: Geburtsdatum Versicherter<br>
+      @4: Versicherungsnummer
+    </p>
+
+    <p>
+      <u>Erklärung bzw. Beispiel:</u><br>
+      Für Jean-Luc Picard, Geburtsdatum 29.08.1988, wurde die Versicherungsnummer 5266290888 vergeben.
+    </p>
+
+    <p>
+      <u>Lösungsmöglichkeit:</u><br>
+      Dieser Clearingfall dient lediglich als Hinweis darauf, dass eine Versicherungsnummer vergeben wurde. Es sind keine weiteren Schritte Ihrerseits erforderlich.
+    </p>
+
+  </div>
+</details>
+
 ## VW1925
 
 <details style="margin-bottom: 1rem;">
