@@ -67,7 +67,7 @@ Wird ![abgeschlossen mit I](<img/I-Symbol.png>) oder ![Fehler](<img/fehlerhaft.p
 Übersprungene Ausdrucke sind im Massenlauf der Normalfall und kein Grund zur Sorge. Ein Ausdruck wird übersprungen, wenn z.B. keine Daten vorliegen.
 
 !!! info "Beispiel"
-    In der Druckreihenfolge befinden sich die Druckschritte Saldenliste, USt-Aufstellung und OP-Liste Debitoren. Sie wählen die Klienten in der Liste aus und geben den entsprechenden Zeitraum ein. Unter den Klienten befindet sich auch ein EA-Rechner, in welchem ohne Personenkonten gebucht wird. Die Saldenliste und USt-Aufstellung enthält  für den EA-Rechner Werte, weshalb diese Ausdrucke erfolgreich abgeschlossen werden. Da dieser Kliente allerdings ohne Personenkonten bucht und somit keine Werte in der OP-Liste Debitoren hat wird der Ausdruck übersprungen. Es wird in so einem Fall weder mit einem Fehler abgebrochen, noch ein leeres PDF erzeugt.
+    In der Druckreihenfolge befinden sich die Druckschritte Saldenliste, USt-Aufstellung und OP-Liste Debitoren. Sie wählen die Klienten in der Liste aus und geben den entsprechenden Zeitraum ein. Unter den Klienten befindet sich auch ein EA-Rechner, in welchem ohne Personenkonten gebucht wird. Die Saldenliste und USt-Aufstellung enthält für den EA-Rechner Werte, weshalb diese Ausdrucke erfolgreich abgeschlossen werden. Da dieser Klient allerdings ohne Personenkonten bucht und somit keine Werte in der OP-Liste Debitoren hat wird der Ausdruck übersprungen. Es wird in so einem Fall weder mit einem Fehler abgebrochen, noch ein leeres PDF erzeugt.
     Trotzdessen werden die nachfolgenden Druckschritte und die gesamte Druckreihenfolge für die restlichen Klienten durchgeführt.
     ![Hinweis übersprungener Ausdruck](<img/Hinweis übersprungener Ausdruck.png>)
 
