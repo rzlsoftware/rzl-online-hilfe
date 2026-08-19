@@ -165,7 +165,7 @@ Aus dieser Ansicht der offenen Übermittlungen senden Sie die Zahlungsdateien en
     **Zahlungsdatei mit Transportberechtigung übermitteln:** Die offene Übermittlung wird an den EBICS Server gesendet. Der Kunde muss die Zahlungsdatei in seinem Online Banking freigeben oder ablehnen. Bei einer Transportberechtigung besteht somit Handlungsbedarf vom Kunden.
     **Zahlungsdatei mit Zeichnungsberechtigung übermitteln:** Die offene Übermittlung wird direkt an die Bank des Kunden übermittelt. Sie setzen die Freigabe, weil Sie eine Zeichnungsberechtigung besitzen.
 
-Außerdem können Sie in dieser Ansicht die XML-Dateien exportiert + importiert werden bzw. können Sie sich die Details anzeigen lassen und die Datei löschen.
+Außerdem können Sie in dieser Ansicht die XML-Dateien exportieren + importieren bzw. können Sie sich die Details anzeigen lassen und die Datei löschen.
 
 ### Empfängerüberprüfung VoP
 
