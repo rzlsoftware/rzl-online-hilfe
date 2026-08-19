@@ -96,19 +96,23 @@ aufrufen.
 
 ## Klientenlisten Geldwäscheprävention/Risikobeurteilung
 
-Aktivieren Sie in den Mitarbeiterstammdaten im Board im Register
-Mitarbeiterdaten die Option *Geldwäscheprävention,* erteilen Sie die
-Berechtigung, für diesen Mitarbeiter die Klientenliste für die
-Kanzleirisikobeurteilung sowie die Klientenliste für die Identifizierung
-Auftraggeber einzusehen.
+Mit folgenden Rollen können Mitarbeiter/innen im RZL die Funktionen der Geldwäscheprävention nutzen:
 
-![Berechtigung MA](<img/image211.png>)
+RZL Standard Rolle:
+
+* Geldwäscheprävention / Klientenübersicht
+* Klientbearbeiter (und darüber wie RZL-Administrator und Alle Berechtigungen)
+
+
+RZL Premium Rolle:
+
+* Geldwäscheprävention
 
 Wählen Sie in den Board Stammdaten den Pfeil bei der Schaltfläche
 *Klienten* an können Sie auswählen welche der Geldwäsche-Listen
 angezeigt werden soll. Diese Listen sind nur für Mitarbeiter sichtbar,
-welche die Berechtigung für Geldwäscheprävention in den
-Mitarbeiterstammdaten im RZL Board (Siehe Oben) erhalten haben.
+welche oben genannte Rollen besitzen.
+
 
 ![Geldwäsche Klientenlisten](<img/image212.png>)
 
