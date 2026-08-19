@@ -45,12 +45,12 @@ Welche Eingabefelder für den Zeitraum bei den einzelnen Ausdrucken erscheinen h
 
 Im Bereich *Klientenauswahl* wählen Sie über die Kontrollkästchen, für welche Klienten die Druckreihenfolge ausgeführt werden soll. Wurden der Druckreihenfolge bereits vorab Klienten zugeordnet, kann das in diesem Schritt angepasst bzw. kontrolliert werden. Über das Suchfeld haben Sie außerdem die Möglichkeit einen Klienten per Namen/Nummer zu suchen.
 
-Im Bereich Schritt-Parameter legen Sie zu jedem Druckschritt die Einstellungen fest, die erst unmittelbar vor der Ausführung gewählt werden. Das betrifft in erster Linie die Eingabe des Zeitraumes, je nach Ausdruck aber auch weitere Optionen. Welche Felder ein Druckschritt anzeigt, hängt also vom jeweiligen Ausdruck ab.
+Im Bereich Schritt-Parameter legen Sie zu jedem Druckschritt die Einstellungen fest, die erst unmittelbar vor der Ausführung gewählt werden. Das betrifft in erster Linie die Eingabe des Zeitraums, je nach Ausdruck aber auch weitere Optionen. Welche Felder ein Druckschritt anzeigt, hängt also vom jeweiligen Ausdruck ab.
 
 !!! info "Tipp"
     Der Zeitraum muss im Bereich *Zeitraum* voreingestellt werden. Der Zeitraum kann aber in diesem Bereich abgeändert werden.
 
-Mit **Ausführen** erfolt der Ausdruck laut Definition in der Druckreihenfolge.
+Mit **Ausführen** erfolgt der Ausdruck laut Definition in der Druckreihenfolge.
 
 ## Status der Ausführung
 
