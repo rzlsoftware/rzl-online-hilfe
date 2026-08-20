@@ -159,7 +159,13 @@ Bei Erstellung von Bankeinzügen und Überweisungen wird die XML-Datei in das RZ
 
 ![Offene EBICS Übermittlungen](<img/Offene EBICS Übermittlungen.png>)
 
-Aus dieser Ansicht der offenen Übermittlungen, senden Sie die Zahlungsdateien dann weiter an die Bank. Außerdem können die XML-Dateien exportiert + importiert werden bzw. können Sie sich die Details anzeigen lassen und die Datei löschen.
+Aus dieser Ansicht der offenen Übermittlungen senden Sie die Zahlungsdateien entweder weiter an den EBICS Server oder direkt an die Bank. 
+
+!!! info "Hinweis"
+    **Zahlungsdatei mit Transportberechtigung übermitteln:** Die offene Übermittlung wird an den EBICS Server gesendet. Der Kunde muss die Zahlungsdatei in seinem Online Banking freigeben oder ablehnen. Bei einer Transportberechtigung besteht somit Handlungsbedarf vom Kunden.
+    **Zahlungsdatei mit Zeichnungsberechtigung übermitteln:** Die offene Übermittlung wird direkt an die Bank des Kunden übermittelt. Sie setzen die Freigabe, weil Sie eine Zeichnungsberechtigung besitzen.
+
+Außerdem können Sie in dieser Ansicht die XML-Dateien exportieren + importieren bzw. können Sie sich die Details anzeigen lassen und die Datei löschen.
 
 ### Empfängerüberprüfung VoP
 
@@ -170,7 +176,10 @@ Markieren Sie die Zahlungsdatei und klicken Sie auf **Übermitteln**. Folgendes 
 
 ![Zahlungsdatei übermitteln VoP](<img/Empfängerüberprüfung.png>)
 
-Wählen Sie den EBICS Teilnehmer, von welchem die Zahlungsdatei übermittelt werden soll aus, tragen das Passwort ein und wählen im Drop-Down Menü zur Empfängerüberprüfung die gewünschte Option aus. 
+Wählen Sie den EBICS Teilnehmer, von welchem die Zahlungsdatei übermittelt werden soll aus, tragen das Passwort ein und wählen im Drop-Down Menü zur Empfängerüberprüfung die gewünschte Option aus.
+
+!!! warning "Achtung"
+    Bei Einzelüberweisungen wird die Empfängerüberprüfung vorausgesetzt! Wird die Zahlungsdatei ohne Empfängerüberprüfung übermittelt wird diese seitens EBICS abgelehnt!
 
 Bei *Standard* und *Opt-Out* handelt es sich um die gleiche Art, nämlich **ohne** Empfängerüberprüfung. Bei einer Übermittlung mit der Art *Opt-In* wird die Empfängerüberprüfung durchgeführt.
 
@@ -178,7 +187,12 @@ Nach Wahl der Art **Opt-In - mit Empfängerüberprüfung** wird die Empfängerü
 
 ![Empfängerüberprüfung VoP Ergebnis abrufen](<img/VoP Ergebnis.png>)
 
-Hier können Sie das VoP Ergebnis abrufen. In der Spalte *VoP* wird der Status mittels der Icons dargestellt. Die Definition der Icons befindet sich über dem VoP Ergebnis.
+Hier können Sie das VoP Ergebnis abrufen.
+
+!!! info "Hinweis"
+    Das VoP Ergebnis können Sie mit einer Transportberechtigung zwar abrufen, aber Sie können die Zahlung nicht final freigeben/stornieren.
+
+In der Spalte *VoP* wird der Status mittels der Icons dargestellt. Die Definition der Icons befindet sich über dem VoP Ergebnis.
 
 !!! warning "Hinweis"
     Die VoP Ergebnisse werden **von der Bank übermittelt**. Die Zurverfügungstellung der Ergebnisse kann je nach Bank variieren und mehrere Minuten dauern. Wenn noch keine Ergebnisse zur Verfügung stehen, könnten Sie folgende Fehlermeldung erhalten:
@@ -191,7 +205,7 @@ Nach Erhalt des Ergebnisses kann dies z.B. so aussehen:
 
 ![Ergebnis VoP](<img/VoP Ergebnis mit Übereinstimmung.png>)
 
-Hier entscheiden Sie, ob die Zahlung freigegeben wird oder Sie die Zahlung stornieren.
+Wenn Sie eine Zeichnungsberechtigung besitzen: Hier entscheiden Sie, ob die Zahlung freigegeben wird oder Sie die Zahlung stornieren.
 
 Stehen die VoP Ergebnisse beim Übermitteln aus den offenen Übermittlungen noch nicht zur Verfügung, ist zum schlussendlichen Freigeben die Liste **gesendete Übermittlungen** aufzurufen. Hier können die VoP Ergebnisse abgerufen und angezeigt werden.
 
@@ -199,7 +213,7 @@ Stehen die VoP Ergebnisse beim Übermitteln aus den offenen Übermittlungen noch
 
 Markieren Sie die gewünschte Zahlungsdatei und öffnen Sie **Empfängerüberprüfung** im Ribbon.
 
-Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **VoP Status** könnnen Sie folgendes erkennen:
+Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **VoP Status** können Sie folgendes erkennen:
 
 | VoP Status                                               | Definition                                                                                               |
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -211,6 +225,12 @@ Am *Status* können Sie erkennen, ob die Zahlungsdatei übermittelt wurde. Am **
 
 !!! info "Hinweis"
     Wenn Sie den Mauszeiger auf das jeweilige Icon positionieren, wird ein Tooltip angezeigt, welche die Informationen laut obiger Tabelle anführen.
+
+### HAC Status
+
+Die Bank stellt über HAC eine Statusdatei bereit, in der Details und Rückmeldungen zu hochgeladenen oder signierten Zahlungsdateien bereitgestellt werden. Als Status wird entweder ein rotes X für fehlgeschlagen oder ein grüner Haken für erfolgreich angezeigt. Den HAC Status können Sie über den entsprechenden Menüpunkt bei den gesendeten EBICS Übermittlungen abrufen.
+
+Mittels Auftrags-ID, welche in der Liste der gesendeten EBICS Übermittlungen zu finden ist, können Sie im Bankprotokoll den dazugehörigen Eintrag finden. Dieser gibt Aufschluss über den durchgeführten Vorgang (z.B. Datei von Bank abgeholt oder Datei zur Bank übertragen) + dazugehörigem Ergebnis (z.B. Übertragung in Ordnung) sowie eine Detail-Beschreibung.
 
 ## EBICS in der RZL FIBU/EA Klassik
 
