@@ -9,13 +9,25 @@ updates:
     directory: "/"
     schedule:
       interval: weekly
+    groups:
+      github-actions:
+        patterns:
+          - "*"
 
   - package-ecosystem: "devcontainers"
     directory: "/"
     schedule:
       interval: weekly
+    groups:
+      devcontainers:
+        patterns:
+          - "*"
 
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: weekly
+    groups:
+      pip:
+        patterns:
+          - "*"
