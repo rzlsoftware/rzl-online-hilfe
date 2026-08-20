@@ -1,8 +1,706 @@
 {
-    "responseOverrides": {
-        "404": {
-            "rewrite": "/404.html",
-            "statusCode": 404
-        }
+  "trailingSlash": "always",
+  "routes": [
+    {
+      "route": "/Belegverarbeitung/",
+      "redirect": "/belegverarbeitung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Belege nachträglich zuordnen oder entfernen/",
+      "redirect": "/belegverarbeitung/belege-nachtraeglich-zuordnen-oder-entfernen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Belege%20nachtr%C3%A4glich%20zuordnen%20oder%20entfernen/",
+      "redirect": "/belegverarbeitung/belege-nachtraeglich-zuordnen-oder-entfernen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Belegfreigabe/",
+      "redirect": "/belegverarbeitung/belegfreigabe/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Belegverarbeitung im RZL Board/",
+      "redirect": "/belegverarbeitung/belegverarbeitung-im-rzl-board/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Belegverarbeitung%20im%20RZL%20Board/",
+      "redirect": "/belegverarbeitung/belegverarbeitung-im-rzl-board/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Buchen eines EA Rechners mit Belegverarbeitung/",
+      "redirect": "/belegverarbeitung/buchen-eines-ea-rechners-mit-belegverarbeitung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Buchen mit digitalen Belegen in RZL FIBU/",
+      "redirect": "/belegverarbeitung/buchen-mit-digitalen-belegen-in-rzl-fibu/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Buchen%20eines%20EA%20Rechners%20mit%20Belegverarbeitung/",
+      "redirect": "/belegverarbeitung/buchen-eines-ea-rechners-mit-belegverarbeitung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Buchen%20mit%20digitalen%20Belegen%20in%20RZL%20FIBU/",
+      "redirect": "/belegverarbeitung/buchen-mit-digitalen-belegen-in-rzl-fibu/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Gebuchte Belege aufrufen/",
+      "redirect": "/belegverarbeitung/gebuchte-belege-aufrufen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Gebuchte%20Belege%20aufrufen/",
+      "redirect": "/belegverarbeitung/gebuchte-belege-aufrufen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/index.html",
+      "redirect": "/belegverarbeitung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Vorwort/",
+      "redirect": "/belegverarbeitung/vorwort/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Board/",
+      "redirect": "/board/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Board/Allgemein/",
+      "redirect": "/board/allgemein/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Board/index.html",
+      "redirect": "/board/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/",
+      "redirect": "/fibu-next/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Allgemeine Bedienung/",
+      "redirect": "/fibu-next/allgemeine-bedienung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Allgemeine%20Bedienung/",
+      "redirect": "/fibu-next/allgemeine-bedienung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Ausdrucke/",
+      "redirect": "/fibu-next/ausdrucke/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Auswertungen/",
+      "redirect": "/fibu-next/auswertungen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Datenimport/",
+      "redirect": "/fibu-next/datenimport/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Elektronische Übermittlung an das Finanzamt/",
+      "redirect": "/fibu-next/elektronische-uebermittlung-an-das-finanzamt/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Elektronische%20%C3%9Cbermittlung%20an%20das%20Finanzamt/",
+      "redirect": "/fibu-next/elektronische-uebermittlung-an-das-finanzamt/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/FIBU Klienten/",
+      "redirect": "/fibu-next/fibu-klienten/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/FIBU%20Klienten/",
+      "redirect": "/fibu-next/fibu-klienten/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/index.html",
+      "redirect": "/fibu-next/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Kammerumlage KU1/",
+      "redirect": "/fibu-next/kammerumlage-ku1/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Kammerumlage%20KU1/",
+      "redirect": "/fibu-next/kammerumlage-ku1/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/OP Verwaltung/",
+      "redirect": "/fibu-next/op-verwaltung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/OP%20Verwaltung/",
+      "redirect": "/fibu-next/op-verwaltung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/RZL-Taschenrechner/",
+      "redirect": "/fibu-next/rzl-taschenrechner/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Stammdaten FIBU Next/",
+      "redirect": "/fibu-next/stammdaten-fibu-next/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Stammdaten/",
+      "redirect": "/fibu-next/stammdaten/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Stammdaten%20FIBU%20Next/",
+      "redirect": "/fibu-next/stammdaten-fibu-next/",
+      "statusCode": 301
+    },
+    {
+      "route": "/FIBUNext/Umsatzsteuer/",
+      "redirect": "/fibu-next/umsatzsteuer/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/",
+      "redirect": "/hon-next/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/%C3%9Cberstundenauszahlungen%20erfassen/",
+      "redirect": "/hon-next/ueberstundenauszahlungen-erfassen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Akontozahlung/",
+      "redirect": "/hon-next/akontozahlung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Auswertungen/",
+      "redirect": "/hon-next/auswertungen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Daten%C3%BCbernahme/",
+      "redirect": "/hon-next/datenuebernahme/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Datenübernahme/",
+      "redirect": "/hon-next/datenuebernahme/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Gutschriftenerstellung/",
+      "redirect": "/hon-next/gutschriftenerstellung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/index.html",
+      "redirect": "/hon-next/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Mitarbeiter%C3%BCbersicht/",
+      "redirect": "/hon-next/mitarbeiteruebersicht/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Mitarbeiterübersicht/",
+      "redirect": "/hon-next/mitarbeiteruebersicht/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Noten%C3%BCbersicht/",
+      "redirect": "/hon-next/notenuebersicht/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Notendruckvorschau/",
+      "redirect": "/hon-next/notendruckvorschau/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Notenerstellung/",
+      "redirect": "/hon-next/notenerstellung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Notenr%C3%BCckblick/",
+      "redirect": "/hon-next/notenrueckblick/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Notenrückblick/",
+      "redirect": "/hon-next/notenrueckblick/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Notenübersicht/",
+      "redirect": "/hon-next/notenuebersicht/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Notenvorlagen/",
+      "redirect": "/hon-next/notenvorlagen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Pauschalverrechnung/",
+      "redirect": "/hon-next/pauschalverrechnung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Stammdaten HON Next/",
+      "redirect": "/hon-next/stammdaten-hon-next/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Stammdaten Klienten/",
+      "redirect": "/hon-next/stammdaten-klienten/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Stammdaten Mitarbeiter/",
+      "redirect": "/hon-next/stammdaten-mitarbeiter/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Stammdaten%20HON%20Next/",
+      "redirect": "/hon-next/stammdaten-hon-next/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Stammdaten%20Klienten/",
+      "redirect": "/hon-next/stammdaten-klienten/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Stammdaten%20Mitarbeiter/",
+      "redirect": "/hon-next/stammdaten-mitarbeiter/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Überstundenauszahlungen erfassen/",
+      "redirect": "/hon-next/ueberstundenauszahlungen-erfassen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/HONNext/Unternehmensbereiche/",
+      "redirect": "/hon-next/unternehmensbereiche/",
+      "statusCode": 301
+    },
+    {
+      "route": "/KIS/",
+      "redirect": "/kis/",
+      "statusCode": 301
+    },
+    {
+      "route": "/KIS/index.html",
+      "redirect": "/kis/",
+      "statusCode": 301
+    },
+    {
+      "route": "/KIS/RZL BASIS für Firmen/",
+      "redirect": "/kis/rzl-basis-fuer-firmen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/KIS/RZL%20BASIS%20f%C3%BCr%20Firmen/",
+      "redirect": "/kis/rzl-basis-fuer-firmen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Klientenportal/",
+      "redirect": "/klientenportal/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Klientenportal/Klientenportal-Klient/",
+      "redirect": "/klientenportal/klientenportal-klient/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LENext/",
+      "redirect": "/le-next/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LENext/Allgemeine Bedienung/",
+      "redirect": "/le-next/allgemeine-bedienung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LENext/Allgemeine%20Bedienung/",
+      "redirect": "/le-next/allgemeine-bedienung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LENext/Arbeitszeitkalender/",
+      "redirect": "/le-next/arbeitszeitkalender/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LENext/Hilfreiche Shortcuts/",
+      "redirect": "/le-next/hilfreiche-shortcuts/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LENext/Hilfreiche%20Shortcuts/",
+      "redirect": "/le-next/hilfreiche-shortcuts/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LENext/index.html",
+      "redirect": "/le-next/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LENext/Sonstige Funktionen/",
+      "redirect": "/le-next/sonstige-funktionen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LENext/Sonstige%20Funktionen/",
+      "redirect": "/le-next/sonstige-funktionen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LENext/Unterschiede bei Erfassung zu LE Klassik/",
+      "redirect": "/le-next/unterschiede-bei-erfassung-zu-le-klassik/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LENext/Unterschiede%20bei%20Erfassung%20zu%20LE%20Klassik/",
+      "redirect": "/le-next/unterschiede-bei-erfassung-zu-le-klassik/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LENext/Urlaubskartei/",
+      "redirect": "/le-next/urlaubskartei/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/",
+      "redirect": "/lohn/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Abrechnung_einer_Insolvenz/",
+      "redirect": "/lohn/abrechnung-einer-insolvenz/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Abrechnung_von_Vergleichszahlungen_und_Nachzahlungen/",
+      "redirect": "/lohn/abrechnung-von-vergleichszahlungen-und-nachzahlungen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Aufruf/",
+      "redirect": "/lohn/aufruf/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Ausgabe_Jahreslohnkonto_fuer_GPLB/",
+      "redirect": "/lohn/ausgabe-jahreslohnkonto-fuer-gplb/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Auswahlkriterien/",
+      "redirect": "/lohn/auswahlkriterien/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Clearingfaelle/",
+      "redirect": "/lohn/clearingfaelle/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Datenexport_Buchungsbeleg/",
+      "redirect": "/lohn/datenexport-buchungsbeleg/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Datenexport/",
+      "redirect": "/lohn/datenexport/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Datenimport/",
+      "redirect": "/lohn/datenimport/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Digitaler_Personalakt/",
+      "redirect": "/lohn/digitaler-personalakt/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/EFZ_Berechnungsautomatik/",
+      "redirect": "/lohn/efz-berechnungsautomatik/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/ELDA_Webservice/",
+      "redirect": "/lohn/elda-webservice/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Electronic_Banking_EBICS/",
+      "redirect": "/lohn/electronic-banking-ebics/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Elektronic_Banking_SEPA/",
+      "redirect": "/lohn/elektronic-banking-sepa/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Elektronische_Dienstgebererklaerung/",
+      "redirect": "/lohn/elektronische-dienstgebererklaerung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Elektronische_Kommunalsteuererklaerung/",
+      "redirect": "/lohn/elektronische-kommunalsteuererklaerung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Erstellung_der_Berufskrankheitenmeldung/",
+      "redirect": "/lohn/erstellung-der-berufskrankheitenmeldung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Erstellung_einer_AUVA_Unfallmeldung/",
+      "redirect": "/lohn/erstellung-einer-auva-unfallmeldung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Erstellung_eines_Entsendungsantrages/",
+      "redirect": "/lohn/erstellung-eines-entsendungsantrages/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Erstellung_und_Ausdruck_eines_EFZ-Antrages/",
+      "redirect": "/lohn/erstellung-und-ausdruck-eines-efz-antrages/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte/",
+      "redirect": "/lohn/finanzaemter-gemeinden-oegk-bv-kassen-gerichte/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Fragen/",
+      "redirect": "/lohn/fragen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Freiwilligenpauschale/",
+      "redirect": "/lohn/freiwilligenpauschale/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Kanzleitexte_und_Kanzleilohnkontenplaene/",
+      "redirect": "/lohn/kanzleitexte-und-kanzleilohnkontenplaene/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Kurzarbeit/",
+      "redirect": "/lohn/kurzarbeit/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/PRAE_L19/",
+      "redirect": "/lohn/prae-l19/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Repair/",
+      "redirect": "/lohn/repair/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Reports/",
+      "redirect": "/lohn/reports/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/RZL_Klientenportal/",
+      "redirect": "/lohn/rzl-klientenportal/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Sachbezuege/",
+      "redirect": "/lohn/sachbezuege/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Schnittstellenbeschreibung/",
+      "redirect": "/lohn/schnittstellenbeschreibung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Selbstbemessungsabgaben_melden/",
+      "redirect": "/lohn/selbstbemessungsabgaben-melden/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Verwaltung/",
+      "redirect": "/lohn/verwaltung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/Vorerfassung/",
+      "redirect": "/lohn/vorerfassung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/LOHN/WEBEKU_Webservice/",
+      "redirect": "/lohn/webeku-webservice/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/",
+      "redirect": "/pdf-manager/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/Arbeitsoberfl%C3%A4che/",
+      "redirect": "/pdf-manager/arbeitsoberflaeche/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/Arbeitsoberfläche/",
+      "redirect": "/pdf-manager/arbeitsoberflaeche/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/Registerblatt Bearbeiten/",
+      "redirect": "/pdf-manager/registerblatt-bearbeiten/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/Registerblatt Dokument/",
+      "redirect": "/pdf-manager/registerblatt-dokument/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/Registerblatt Einstellungen/",
+      "redirect": "/pdf-manager/registerblatt-einstellungen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/Registerblatt Seitenbearbeitung/",
+      "redirect": "/pdf-manager/registerblatt-seitenbearbeitung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/Registerblatt Workflow/",
+      "redirect": "/pdf-manager/registerblatt-workflow/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/Registerblatt%20Bearbeiten/",
+      "redirect": "/pdf-manager/registerblatt-bearbeiten/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/Registerblatt%20Dokument/",
+      "redirect": "/pdf-manager/registerblatt-dokument/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/Registerblatt%20Einstellungen/",
+      "redirect": "/pdf-manager/registerblatt-einstellungen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/Registerblatt%20Seitenbearbeitung/",
+      "redirect": "/pdf-manager/registerblatt-seitenbearbeitung/",
+      "statusCode": 301
+    },
+    {
+      "route": "/PDFManager/Registerblatt%20Workflow/",
+      "redirect": "/pdf-manager/registerblatt-workflow/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Reporting/",
+      "redirect": "/reporting/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Reporting/Ansichten/",
+      "redirect": "/reporting/ansichten/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Reporting/Auflistung_Musterreports/",
+      "redirect": "/reporting/auflistung-musterreports/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Reporting/Einfuegen/",
+      "redirect": "/reporting/einfuegen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Reporting/Kanzleireports/",
+      "redirect": "/reporting/kanzleireports/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Reporting/Kontextmenue/",
+      "redirect": "/reporting/kontextmenue/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Reporting/Tabelle/",
+      "redirect": "/reporting/tabelle/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Reporting/Verwaltung_Fibu_Next/",
+      "redirect": "/reporting/verwaltung-fibu-next/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Reporting/Verwaltung/",
+      "redirect": "/reporting/verwaltung/",
+      "statusCode": 301
     }
+  ],
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/404.html",
+      "statusCode": 404
+    }
+  }
 }

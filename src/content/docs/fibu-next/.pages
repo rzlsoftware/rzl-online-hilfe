@@ -1,0 +1,21 @@
+nav:
+  - FIBU Next Handbuch: index.md
+  - allgemeine-bedienung.md
+  - Datenübernahme: datenuebernahme
+  - Klientenstammdaten: klientenstammdaten
+  - Stammdaten: stammdaten
+  - fibu-klienten.md
+  - Stammdaten FIBU Next: stammdaten-fibu-next
+  - op-verwaltung.md
+  - Erfassen: erfassen
+  - Elektronische Vorsteuererstattung: elektronische-vorsteuererstattung
+  - Zahlungsverkehr: zahlungsverkehr
+  - Scheinunternehmen: scheinunternehmen
+  - Umsatzsteuer: umsatzsteuer
+  - Elektronische Übermittlung an das Finanzamt: elektronische-uebermittlung-an-das-finanzamt
+  - kammerumlage-ku1.md
+  - Auswertungen: auswertungen
+  - Ausdrucke: ausdrucke
+  - Datenimport: datenimport
+  - Kurzanleitungen: kurzanleitungen
+  - ...

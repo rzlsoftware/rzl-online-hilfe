@@ -1,0 +1,75 @@
+---
+title: Finanzamt
+program: LOHN
+---
+
+<span id="finanzamt" class="legacy-anchor" aria-hidden="true"></span>
+
+![Image](<img/image24.png>){width="500"}
+
+<span id="finanzamt_1" class="legacy-anchor" aria-hidden="true"></span>
+## Finanzamt
+
+**Finanzamt Steuernummer**
+
+Die Nummer der zuständigen Dienststelle und die Steuernummer werden automatisch aus der *ZMV* übernommen. Bei der Anlage von [Unterdienstgebern](/lohn/klientenstammdaten/unterdienstgeber/) können Sie abweichende Eingaben vornehmen.
+
+**Finanzamt Bank**
+
+In den Stammdaten der [Finanzämter](/lohn/finanzaemter-gemeinden-oegk-bv-kassen-gerichte/) können Sie bis zu 9 Bankverbindungen eingeben. Hier können Sie festlegen, an welche Bankverbindung des Finanzamts die Überweisungen erfolgen sollen.
+
+**Zahlungsreferenz**
+
+Im Feld *Zahlungsreferenz* können die Eintragungen für die Überweisungen vorgenommen werden. Die hier eingetragenen Daten werden sowohl beim Zahlscheindruck, als auch beim Elektronik Banking verwendet. 
+Für die automatische Eintragung des Monats und des Jahres können Sie die Kürzel **mm, jj, jjjj** oder **j** eintragen.
+
+:::caution[Hinweis]
+In Ausnahmefällen kann durch Anwahl der Schaltfläche *Details* das Zahlungsreferenzfeld für jeden Monat einzeln eingetragen werden. Diese Möglichkeit können Sie dann verwenden, wenn die von der Behörde vergebenen Kundendatenfelder unsystematisch sind.
+
+:::
+## Dienstgeberbeitrag und Zuschlag zum Dienstgeberbeitrag
+
+**DB - Freibetrag berücksichtigen**
+
+Mithilfe dieses Auswahlfeldes können Sie den DB-Freibetrag ausschalten. Diese Möglichkeit besteht für Fälle, in denen mit dem Lohnprogramm nur ein Teil der Dienstnehmer eines Unternehmens abgerechnet wird und dieser Teil die vorgesehenen Befreiungen in Anspruch nehmen könnte, aber
+das Unternehmen, dem diese Dienstnehmer angehören, insgesamt über den Befreiungsgrenzen liegt.
+
+Gleichzeitig mit der Deaktivierung dieses Feldes wird auch der DZ-Freibetrag nicht mehr berechnet.
+
+**DZ - Pflicht und Bundesland**
+
+Das Auswahlfeld *DZ-Pflicht und Bundesland* muss aktiviert werden, wenn der betreffende Klient Kammermitglied und somit verpflichtet ist, die Kammerumlage 2 zu entrichten. Ebenso müssen Sie ein *DZ-Bundesland* auswählen, damit der richtige Prozentsatz herangezogen werden kann.
+
+**Kürzung Bemessung DZ**
+
+Hier kann die Kürzung der Bemessungsgrundlage für die Berechnung des DZ eingetragen werden. Wenn z.B.: 80 % eingetragen werden, wird die Bemessungsgrundlage um 80 % gekürzt. Eine nachträgliche Eintragung während des Jahres ändert nichts an der Berechnung bereits gespeicherter Abrechnungen.
+
+Im Abrechnungsbildschirm [*Lohnsteuer*](/lohn/abrechnungsbildschirme/lohnsteuer/) kann im Bereich *DB/DZ* die Bemessungsgrundlage DZ je Dienstnehmer gekürzt werden.
+
+**Selbstträger Familienbeihilfe**
+
+Bis 2008 gab es die Möglichkeit, als Selbstträger der Familienbeihilfe den DB zu senken.
+
+## Fibu-Konten Lohnsteuer, DB, DZ
+
+In diese drei Eingabefelder können Sie die jeweiligen Verbindlichkeitskonten eingeben. Die Eingabe ist für die Kontierung am Buchungsbeleg nötig.
+
+<span id="selbstbemessungsabgaben-ubermitteln" class="legacy-anchor" aria-hidden="true"></span>
+## Selbstbemessungsabgaben übermitteln
+
+Die Aktivierung dieses Feldes ermöglicht die Erstellung einer xml-Datei zur [Meldung der Selbstbemessungsabgaben](/lohn/selbstbemessungsabgaben-melden/) in FinanzOnline.
+
+:::caution[Hinweis]
+Wird das Kontrollkästchen *Selbstbemessungsabgaben übermitteln* aktiviert, dürfen die Finanzamtsabgaben laut Vorgabe des Finanzamts bei der Überweisung **nicht** nach Lohnsteuer (LST), Dienstgeberbeitrag (DB) und Zuschlag zum Dienstgeberbeitrag (DZ) aufgegliedert werden. Die Zahlung muss in diesem Fall **in einer Gesamtsumme** erfolgen. 
+
+Für diese Überweisung darf daher **nicht** die Zahlungsart **„Finanzamtszahlung“** verwendet werden. Stattdessen ist eine **normale Überweisung** durchzuführen. 
+
+Aus diesem Grund werden bei aktivierter Option folgende Ausgaben **ohne Aufgliederung der Finanzamtsabgaben** erstellt: 
+
+- Überweisungsliste Abgaben
+- Zahlschein Abgaben
+- SEPA-Überweisung Abgaben
+
+Würde die Zahlung trotz aktivierter Übermittlung der Selbstbemessungsabgaben als Finanzamtszahlung mit Aufgliederung dargestellt, könnte dies zu einer **doppelten Verbuchung** der Abgaben am Steuerkonto führen. Dies wird durch die Ausgabe der Zahlung als Gesamtsumme vermieden.
+
+:::

@@ -1,0 +1,12 @@
+nav:
+  - index.md
+  - kontostammdaten.md
+  - pflichtkonten.md
+  - Kontenbereiche: kontenbereiche
+  - FIBU Personen: fibu-personen
+  - KER: ker
+  - fibu-bankverbindungen.md
+  - verbuchungsregeln.md
+  - kreditkarten-verbuchungsregeln.md
+  - iban-ausschlussliste.md
+  - ...

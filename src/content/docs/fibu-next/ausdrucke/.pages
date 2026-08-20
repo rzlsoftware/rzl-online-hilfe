@@ -1,0 +1,12 @@
+nav:
+  - index.md
+  - konten.md
+  - kassajournal.md
+  - saldenliste.md
+  - journal.md
+  - op-liste.md
+  - ust-aufstellung.md
+  - ust-journal.md
+  - ker-monatsubersicht.md
+  - ker-jahresubersicht.md
+  - ...
