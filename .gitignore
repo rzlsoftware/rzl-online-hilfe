@@ -4,6 +4,8 @@ src/diagrams/codespaces.svg
 
 dist/
 node_modules/
+.astro/
+.pnpm-store/
 .env
 .DS_Store
 __pycache__/
