@@ -26,6 +26,23 @@ Migrate **RZL Online Hilfe** from MkDocs Material (MkDocs 1.x) to **Astro + Star
 
 ---
 
+## 1.1 Locked decisions (refined)
+
+| Topic | Decision |
+|-------|----------|
+| Public URLs | **Normalize** to URL-safe slugs (kebab-case, no spaces); ship a **full 301 redirect map** from old MkDocs/`dist` URLs for a transition period |
+| Page titles | **Frontmatter `title` only**; migration strips the duplicate body H1 |
+| Navigation authoring | Authors keep editing **`.pages` next to content** as the source of truth; build/dev **generates** the Starlight sidebar from those files (see §5) |
+| Print / `pdf.css` | **Drop** — screen-only Hilfe; do not port `pdf.css` |
+| 404 copy | **Formal German** (neutral; home + search hints) |
+| Cutover content workflow | **Feature-branch only** — no freeze on `main` MkDocs; migration branch rebases/replays content until swap |
+| Program filter labels | **Top-level nav titles** (e.g. “FIBU Next”, not `FIBUNext`) |
+| Toolchain pins | **`package.json#packageManager`** (pnpm) **+ `.nvmrc`** (Node LTS) + matching DevContainer/CI |
+| UAT sign-off | **Per-program contacts** (named list maintained during Phase 4) |
+| v1 extras | **None** — no analytics, offline/PWA, or scope beyond existing non-goals |
+
+---
+
 ## 2. Current state (inventory)
 
 | Item | Value |
@@ -64,15 +81,17 @@ Migrate **RZL Online Hilfe** from MkDocs Material (MkDocs 1.x) to **Astro + Star
 
 | Concern | Choice |
 |---------|--------|
-| Package manager | **pnpm only** (no npm/yarn lockfiles in repo) |
+| Package manager | **pnpm only** (no npm/yarn lockfiles in repo); pin via `packageManager` field |
+| Node | **LTS** pinned in `.nvmrc` + DevContainer + CI (same version) |
 | Framework | Astro (current stable at implementation time) |
 | Docs theme | `@astrojs/starlight` |
 | Language | **TypeScript** for all project code (config, integrations, scripts, components, client islands) |
 | Validation | **`astro check`** (+ `tsc` as pulled in by Astro); CI must fail on check errors |
 | Lint/format (recommended) | ESLint flat config + Prettier; optional `pnpm lint` in CI |
 | Markdown | Starlight content collection; prefer `.md` for authors; `.mdx` only where components are required |
-| Search | Starlight default (Pagefind) + **custom TypeScript** program facet |
+| Search | Starlight default (Pagefind) + **custom TypeScript** program facet; labels from top-level nav titles |
 | Deploy | Static output to Azure Static Web Apps (same secret/flow as today) |
+| Print CSS | **Not required** — do not ship `pdf.css` |
 
 ### 3.2 Proposed repository layout (after migration)
 
@@ -117,8 +136,10 @@ Migrate **RZL Online Hilfe** from MkDocs Material (MkDocs 1.x) to **Astro + Star
 **Content path policy**
 
 - Canonical authoring root: `src/content/docs/`
-- Prefer **kebab-case or existing folder names** for stability; do **not** mass-rename program folders in v1 if that breaks URLs—prefer URL mapping layer
-- Images stay next to content or under `public/` per Starlight/Astro asset rules decided in Phase 1 spike (document the chosen rule and stick to it)
+- **Normalize** file/folder segments used in URLs to **kebab-case** (no spaces); keep a machine-generated **old → new** redirect map from production/`dist` inventory
+- Program **ids** for search faceting remain stable directory keys where useful (e.g. `FIBUNext`); display labels stay human titles from `.pages`
+- Colocate `.pages` with content under `src/content/docs/**` (authors continue to edit them)
+- Images stay next to content or under `public/` per Phase 1 spike (document the chosen rule and stick to it)
 
 ### 3.3 Tooling scripts (package.json)
 
@@ -148,23 +169,26 @@ Production today: `https://hilfe.rzlsoftware.at/` with directory URLs (MkDocs `i
 
 ### 4.1 Goals
 
-1. **Preserve bookmarks and external links** where possible.
-2. Where Astro/Starlight slug rules differ, emit **301 redirects** in `staticwebapp.config.json` (and/or `_redirects` if ever needed).
-3. Trailing-slash policy: pick **one** (recommend: always trailing slash, matching current MkDocs + `redirect.js` behavior) and enforce in Astro config + SWA.
+1. **New canonical URLs** are normalized (kebab-case, no spaces, predictable encoding).
+2. **Preserve bookmarks and external links** via **301 redirects** from every known old MkDocs/`dist` path.
+3. Trailing-slash policy: **always trailing slash** (match current MkDocs + `redirect.js`); enforce in Astro config + SWA.
+4. Formal German **404** when no redirect matches.
 
 ### 4.2 Work items
 
 1. Crawl current production or committed `dist/` → list of all HTML paths.
-2. Generate expected Starlight slugs from migrated file tree.
-3. Diff → `redirects` entries for every mismatch.
-4. Encode spaces as `%20` consistently; test Azure SWA behavior.
-5. Root legal pages: `/impressum/`, `/datenschutz/` parity.
-6. Custom 404 page (Starlight/Astro) wired via `staticwebapp.config.json` `responseOverrides` (keep pattern).
+2. Generate normalized Starlight slugs from the migrated file tree.
+3. Diff old vs new → `redirects` entries for every mismatch (including `%20` space variants).
+4. Test Azure SWA redirect + encoding behavior on a preview environment.
+5. Root legal pages: `/impressum/`, `/datenschutz/` parity (normalized if needed + redirects).
+6. Custom 404 page (formal German) wired via `staticwebapp.config.json` `responseOverrides`.
 
-### 4.3 Open decision (must confirm before bulk migrate)
+### 4.3 Locked slug policy
 
-- **Slug style:** keep filesystem names (including spaces) vs normalize to kebab-case + redirects.  
-  - *Recommendation:* normalize **new** paths to URL-safe slugs; ship comprehensive redirects from old MkDocs URLs for one major release cycle.
+- **Normalize** path segments for the new site (kebab-case; strip/replace spaces and awkward characters).
+- **Do not** rely on serving paths with raw spaces long-term.
+- Ship and maintain a generated redirect map for at least one major release cycle after cutover; prune only after 404 metrics are acceptable.
+- Migration scripts must record `legacyPath → newPath` in `migration-report.json` / redirect artifacts for audit.
 
 ---
 
@@ -174,31 +198,41 @@ Production today: `https://hilfe.rzlsoftware.at/` with directory URLs (MkDocs `i
 
 - `docs/.pages` — top-level program order and labels (e.g. `FIBU Next: FIBUNext`)
 - Nested `docs/**/.pages` — section order, `index.md`, `...` globs
+- **Authors already maintain these files** and will continue to define sidebar structure after cutover
 
-### 5.2 Target
+### 5.2 Chosen approach: keep `.pages` for authors, generate Starlight sidebar
 
-Starlight `sidebar` in `astro.config.ts` (or generated module `src/nav/sidebar.ts` imported by config).
+**Why this is better for RZL than hand-edited Starlight sidebar config**
 
-**Do not** hand-maintain 102 files forever without a generator.
+| Approach | Pros | Cons |
+|----------|------|------|
+| **A. Authors keep `.pages`; tooling generates sidebar (chosen)** | Zero IA workflow change; works with 102 nested files; matches awesome-pages mental model; same files drive program-filter labels | Need a maintained parser; authors must run dev/build (or CI) to see nav; generator bugs affect nav |
+| B. Starlight-native sidebar only | One official format | Authors must learn new config; huge central file or many fragments; painful for deep LOHN/KIS trees |
+| C. Folder order only | Simple | **Loses** explicit ordering authors rely on today — reject |
 
-### 5.3 Approach
+**Decision:** **A** — `.pages` remain the **author-facing source of truth** colocated with content. Engineers own a TypeScript generator that turns the tree into Starlight `sidebar` data. Authors do **not** edit `astro.config.ts` or generated TS for routine nav changes.
 
-1. **Parser** (`scripts/migrate-nav-from-pages.ts`):
+### 5.3 Target mechanics
+
+1. **Authoring:** edit `src/content/docs/**/.pages` (same YAML shape as today, documented in readme/AGENTS).
+2. **Generator** (`scripts/migrate-nav-from-pages.ts` and/or build-time module):
    - Read all `.pages` YAML
    - Resolve relative entries, `...`, and directory defaults
-   - Emit `StarlightUserConfig['sidebar']` structure as TypeScript
-2. **Labels:** preserve display titles from `.pages` keys
-3. **Top-level programs:** map to Starlight sidebar groups; optional custom header tabs later if product requires Material-like tabs
-4. **Authoring after cutover (choose one and document in readme):**
-   - **A (recommended v1):** generated sidebar committed; re-run `pnpm migrate:nav` when structure changes
-   - **B:** replace `.pages` with Starlight-native sidebar fragments per section
-   - **C:** folder-order only (loses explicit ordering—only if product accepts)
+   - Map entries to **normalized content slugs**
+   - Emit sidebar structure consumed by Starlight (`src/nav/sidebar.generated.ts` **or** virtual module loaded in `astro.config.ts`)
+3. **When generation runs:**
+   - **dev/build:** prefer generate-on-the-fly or a thin prebuild step so authors only use `pnpm dev` / `pnpm build`
+   - Optional committed `sidebar.generated.ts` only if it helps review—must not become a second manual source of truth
+4. **Labels:** display titles from `.pages` keys (e.g. `FIBU Next`)
+5. **Program filter:** options = top-level `.pages` titles + directory ids
+6. **Top-level programs:** Starlight sidebar groups; Material-like tabs optional later (not v1 required)
 
 ### 5.4 Validation
 
 - Every content file appears exactly once in nav (or intentionally hidden via frontmatter)
 - No empty groups
 - Order matches production for top-level programs and spot-checked deep trees (LOHN, KIS)
+- Changing a `.pages` entry changes sidebar after refresh/`pnpm dev` without hand-editing TS config
 
 ---
 
@@ -248,11 +282,12 @@ title: Title
 ---
 ```
 
-Rules:
+Rules (locked):
 
-1. If body starts with a single H1, lift to `title` (Starlight convention) **or** keep H1 and set `title` identically—pick one rule site-wide (recommend: frontmatter `title` + no duplicate H1, or keep H1 if authors rely on it—Starlight docs prefer `title` in frontmatter).
-2. Optional `program` frontmatter: set from first path segment for search faceting (override allowed).
-3. Drop unknown MkDocs-only keys after mapping.
+1. **Frontmatter `title` only:** if the body starts with a single H1, lift its text into `title` and **remove** that H1 from the body (no duplicate title heading).
+2. Authors set/change titles via frontmatter after cutover (document in readme).
+3. `program` frontmatter: set from first path segment / program id for search faceting (manual override allowed).
+4. Drop unknown MkDocs-only keys after mapping (`hide: [footer]` → Starlight/custom flag, not left as-is).
 
 ### 6.4 Admonitions
 
@@ -281,11 +316,11 @@ Type mapping (initial):
 
 | MkDocs | Starlight |
 |--------|-----------|
-| `warning` | `caution` (or `danger` if severity requires) |
-| `info` / `Info` | `note` or `tip` (pick one; document) |
+| `warning` | `caution` |
+| `info` / `Info` | `note` |
 | `note` | `note` |
-| `question` | `note` or `tip` |
-| `node` | treat as typo/variant of `note` unless content shows otherwise |
+| `question` | `tip` |
+| `node` | `note` (treat as variant/typo unless content audit says otherwise) |
 
 Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via plugin.
 
@@ -329,26 +364,28 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 6. Inject `program` metadata  
 7. Write report: `migration-report.json` (files touched, warnings, skipped)
 
-`scripts/migrate-nav-from-pages.ts`:
+`scripts/migrate-nav-from-pages.ts` (and/or build-time equivalent):
 
-1. Parse `.pages`  
-2. Emit `src/nav/sidebar.generated.ts`  
+1. Parse `.pages` under content root  
+2. Emit or serve Starlight sidebar data (generated; not hand-edited by authors)  
 3. Human review diff against production nav screenshots  
+4. Export top-level program id → label map for the search filter  
 
 ### 6.9 Content QA checklist (editorial + eng)
 
 - [ ] Home, impressum, datenschutz  
 - [ ] Each top-level program index  
-- [ ] One deep LOHN path with spaces  
+- [ ] One deep LOHN path that **had** spaces (old URL redirects + new slug works)  
 - [ ] One KIS deep path  
 - [ ] Random 20 pages with admonitions  
 - [ ] Image-heavy page  
 - [ ] Search sample queries (German terms, product names)  
-- [ ] Program filter: each program + “Alle”  
+- [ ] Program filter: each program + “Alle” (labels = nav titles)  
 - [ ] Mobile nav + search  
-- [ ] 404 page German copy  
+- [ ] 404 page — formal German  
 - [ ] Hainz opens correct URL  
-- [ ] Print/PDF CSS: either port `pdf.css` essentials or drop with product sign-off  
+- [ ] Print/PDF: confirm **no** `pdf.css` dependency remains  
+- [ ] Per-program UAT contact sign-off recorded
 
 ---
 
@@ -363,10 +400,10 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 1. Enable Starlight/Pagefind search  
 2. At build time, ensure each page has stable `program` id (path segment or frontmatter)  
 3. **TypeScript** client module filters Pagefind (or DOM results) by program—port logic from `search-filter.js`, improve types, keep `localStorage` key behavior or migrate key once  
-4. Override Starlight Search UI component to add `<select>` (“Alle Programme” + labels from top-level nav)  
+4. Override Starlight Search UI component to add `<select>` (“Alle Programme” + **labels from top-level `.pages` / nav titles**)  
 5. German strings for search UI  
 
-**Acceptance:** filtering narrows results; “Alle” shows full set; preference persists; no console errors.
+**Acceptance:** filtering narrows results; “Alle” shows full set; labels match sidebar program titles; preference persists; no console errors.
 
 ### 7.2 Hainz header
 
@@ -383,8 +420,8 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 
 ### 7.4 404
 
-- German 404 (“404 - Ups :D” or updated copy—product decision)
-- SWA rewrite unchanged in spirit
+- **Formal German** copy (e.g. page not found, link home, hint to use search) — not the playful “Ups :D” tone unless brand revisits later
+- SWA `responseOverrides` rewrite unchanged in spirit
 
 ### 7.5 Trailing slash helper
 
@@ -393,7 +430,7 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 
 ### 7.6 PDF styles
 
-- Confirm whether print stylesheet is required; if yes, port minimal rules; if no, document removal
+- **Out of scope:** do not port `pdf.css`; remove from config and docs references during MkDocs teardown
 
 ---
 
@@ -437,8 +474,8 @@ Replace pip/mkdocs steps with:
 
 ### 9.2 DevContainer
 
-- Base: Node LTS image (or keep Python image only if still needed—prefer Node)
-- `postCreateCommand`: enable corepack, `pnpm install`
+- Base: Node image matching `.nvmrc` LTS
+- `packageManager` field honored (Corepack enable + `pnpm install --frozen-lockfile` when lockfile exists)
 - VS Code launch: `pnpm dev` instead of `mkdocs serve`
 - Extensions: Astro + ESLint optional
 
@@ -452,11 +489,11 @@ Replace pip/mkdocs steps with:
 
 ### Phase 0 — Foundations (0.5–1 day)
 
-- [ ] Create branch `chore/astro-starlight-migration`
+- [x] Create branch `chore/astro-starlight-migration` (plan committed)
 - [ ] Scaffold Astro Starlight with **pnpm**
 - [ ] Enable strict TypeScript + `astro check` in CI skeleton
-- [ ] Document Node version in `readme` / `.nvmrc` / DevContainer
-- [ ] Decision log: slug policy, content path, image strategy (§4.3, §6)
+- [ ] Pin toolchain: `packageManager` + `.nvmrc` + DevContainer/CI same Node
+- [ ] Apply locked decisions (§1.1); only remaining spike choice: image asset layout
 
 **Exit:** empty Starlight site builds and checks clean.
 
@@ -480,11 +517,12 @@ Replace pip/mkdocs steps with:
 
 ### Phase 3 — Full content migration (3–6 days)
 
-- [ ] Run full migrate into `src/content/docs`
-- [ ] Generate sidebar
+- [ ] Rebase/replay latest `main` content onto migration branch (feature-branch workflow)
+- [ ] Run full migrate into `src/content/docs` (normalized slugs + frontmatter titles)
+- [ ] Ensure `.pages` tree moved/updated with content; sidebar generates cleanly
 - [ ] Generate redirect map from old `dist/` or production crawl
 - [ ] Fix link/check failures iteratively
-- [ ] Port CSS branding
+- [ ] Port CSS branding (no `pdf.css`)
 - [ ] Full `pnpm check && pnpm build`
 
 **Exit:** zero check errors; build green; known defect list only minor.
@@ -492,19 +530,21 @@ Replace pip/mkdocs steps with:
 ### Phase 4 — QA and editorial UAT (3–5 days)
 
 - [ ] Checklist §6.9
-- [ ] Stakeholder click-through per program
+- [ ] **Per-program contacts** click-through and written sign-off
 - [ ] Accessibility smoke (keyboard search filter, contrast)
 - [ ] Performance smoke (LCP on home, search open)
+- [ ] Redirect spot-check: old spaced URLs → new slugs
 
-**Exit:** sign-off checklist completed.
+**Exit:** all program contacts signed off (or waivers recorded).
 
 ### Phase 5 — Cutover (1–2 days)
 
-- [ ] Merge to `main` during agreed window
+- [ ] Final content replay from `main` onto migration branch; rebuild; smoke
+- [ ] Merge to `main` during agreed window (MkDocs on `main` remains editable until this merge)
 - [ ] Deploy production SWA
 - [ ] Monitor 404s; hot-fix redirects
-- [ ] Keep MkDocs tag/commit as rollback reference
-- [ ] Remove MkDocs-only paths from active docs after stability period (or sooner if clean break)
+- [ ] Tag `pre-starlight-cutover` on last MkDocs-capable commit for rollback
+- [ ] Remove MkDocs-only toolchain after stability period
 
 **Exit:** production on Starlight; rollback plan unused or documented.
 
@@ -535,9 +575,11 @@ Replace pip/mkdocs steps with:
 | Pagefind DE quality vs Lunr | Worse search | Tune language; UAT queries list |
 | Program filter incomplete API | Missing feature | Early spike; DOM fallback filter |
 | Build time / memory on 3.5k images | CI fails | Asset strategy; cache pnpm; SWA size limits |
-| Author confusion (new paths/tooling) | Slow adoption | Update readme; short internal note; DevContainer |
-| Starlight breaking changes | Maintenance | Pin versions; `pnpm check` on upgrades |
-| Scope creep (redesign) | Delay | Content-faithful port first |
+| Author confusion (new paths/tooling) | Slow adoption | Keep `.pages` workflow; update readme; DevContainer |
+| `.pages` generator drift/bugs | Wrong nav order | Fixtures from real trees; CI nav snapshot test |
+| Feature-branch content drift | Missing pages at cutover | Documented replay steps; final sync checklist before merge |
+| Starlight breaking changes | Maintenance | Pin versions via pnpm; `pnpm check` on upgrades |
+| Scope creep (redesign) | Delay | Content-faithful port first; no v1 extras |
 
 ---
 
@@ -549,6 +591,9 @@ Replace pip/mkdocs steps with:
 - Versioned docs (mike-style)
 - CMS integration
 - Replacing Hainz or changing product IA
+- Print/PDF stylesheet (`pdf.css`)
+- Analytics, offline/PWA, auth
+- Replacing author `.pages` workflow with hand-maintained Starlight sidebar config
 
 ---
 
@@ -603,7 +648,8 @@ Calendar time depends on editorial UAT availability and redirect edge cases.
 5. **PR5:** Remove MkDocs toolchain; finalize DevContainer/readme/AGENTS  
 6. **PR6:** Cutover fixes (hotfixes allowed)
 
-Prefer trunk-in-branch until PR4 is ready; avoid half-migrated `main`.
+Prefer trunk-in-branch until PR4 is ready; avoid half-migrated `main`.  
+**Content workflow:** authors keep shipping on `main` (MkDocs) until cutover; migration branch **rebases/replays** content—no full freeze, no dual-write of two permanent trees.
 
 ---
 
@@ -624,20 +670,15 @@ pnpm validate:urls
 
 ---
 
-## 19. Open points to refine
+## 19. Remaining open points (minor)
 
-Confirm or correct before Phase 1 locks decisions:
+Most product decisions are locked in §1.1. Still to fill during implementation:
 
-1. **Slug policy:** normalize to kebab-case + redirects vs keep legacy path shapes?  
-2. **H1 vs `title` frontmatter:** which authoring convention?  
-3. **Nav authoring after cutover:** generated sidebar (A) vs new manual format (B)?  
-4. **Print/PDF CSS:** still required?  
-5. **404 copy:** keep playful text or formalize?  
-6. **Program filter labels:** always from current top-level `.pages` titles?  
-7. **Minimum Node version** and whether Corepack-enforced pnpm version should be pinned in `package.json#packageManager`?  
-8. **Preview hosting:** Azure SWA PR previews only, or additional channel?  
-9. **Content freeze:** short freeze during PR4/PR5, or dual-write process?  
-10. **Ownership:** who signs off UAT per product area (LOHN, KIS, …)?
+1. **Exact Node LTS version** and **pnpm version** strings (set when scaffolding; encode in `.nvmrc` + `packageManager`).
+2. **Image asset layout:** colocated in content collection vs `public/` (Phase 1 spike).
+3. **Named per-program UAT contacts** (list in Phase 4; e.g. Board, LOHN, KIS, …).
+4. **How long to keep the full redirect map** after cutover (metrics-driven; default ≥ one release cycle).
+5. **Preview hosting:** continue Azure SWA PR previews only unless ops requests otherwise.
 
 ---
 
