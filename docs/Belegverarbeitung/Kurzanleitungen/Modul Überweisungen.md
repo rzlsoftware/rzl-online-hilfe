@@ -37,7 +37,7 @@ Nach Klick auf *Weiter* erscheint eine Liste aller freigegebenen, noch nicht bez
 
 ![alt text](image-2.png)
 
-Alle fälligen Belege werden in der ersten Spalte automatisiert angehakt. Diese Vorauswahl kann manuell bearbeitet werden. In der Spalte *Gültig* wird angezeigt, ob alle erforderlichen Informationen für die Übwerweisung vorhanden sind. Die Überweisung kann erst abgeschlossen werden, wenn alle ausgewählten Überweisungen gültig sind.
+Alle fälligen Belege werden in der ersten Spalte automatisiert angehakt. Diese Vorauswahl kann manuell bearbeitet werden. In der Spalte *Gültig* wird angezeigt, ob alle erforderlichen Informationen für die Überweisung vorhanden sind. Die Überweisung kann erst abgeschlossen werden, wenn alle ausgewählten Überweisungen gültig sind.
 
 Über das PDF-Symbol kann der jeweilige Beleg geöffnet werden - bei Klick in eine andere Zeile aktualisiert sich die Belegansicht automatisch.
 
@@ -52,7 +52,7 @@ Folgende Felder können im Detailbereich pro Beleg manuell bearbeitet werden:
 - **Empfänger IBAN:** Über das Drop-Down können Sie aus den bei diesem Empfänger hinterlegten IBANs wählen, oder den IBAN händisch erfassen.
 - **Skontobetrag**
 - **Skonto %**
-- **Überweisungsbetrag:** Standardmäßig wird hier der Bruttobetrag des Belegs abzüglich etwaiger Skonti angeführt. Um eine Teilzahlung zu tätigen, können Sie den Überweisungsbetrag auch manuell festelgen.
+- **Überweisungsbetrag:** Standardmäßig wird hier der Bruttobetrag des Belegs abzüglich etwaiger Skonti angeführt. Um eine Teilzahlung zu tätigen, können Sie den Überweisungsbetrag auch manuell festlegen.
 - **Zahlungsreferenz**
 - **Verwendungszweck:** Ist das Feld Zahlungsreferenz befüllt, kann kein Verwendungszweck mehr erfasst werden bzw. wird dieser bei der Überweisung nicht mitübermittelt.
 
@@ -66,7 +66,7 @@ Folgende Felder können im Detailbereich pro Beleg manuell bearbeitet werden:
 - das Feld *Bezahlt am* Durchführungsdatum befüllt,
 - die eingebene *Zahlungsreferenz* bzw. der Verwendungszweck übernommen.
 
-Die Belege gelten damit als bezahlt und werden in einem künfitgen Überweisungslauf nicht mehr vorgeschlagen.
+Die Belege gelten damit als bezahlt und werden in einem künftigen Überweisungslauf nicht mehr vorgeschlagen.
 
 ## Überweisungslauf zurücksetzen
 Wurde ein Überweisungslauf versehentlich oder fehlerhaft erstellt, kann er über die Schaltfläche *Überweisungslauf zurücksetzen* wieder rückgängig gemacht werden:
