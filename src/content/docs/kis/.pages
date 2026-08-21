@@ -1,0 +1,16 @@
+nav:
+  - Kanzlei-Informations-System Handbuch: index.md
+  - Allgemeine Programmbedienung: allgemeine-programmbedienung
+  - Aufgabenverwaltung: aufgabenverwaltung
+  - Ereignisse: ereignisse
+  - FinanzOnline: finanz-online
+  - WiEReG-Anbindung: wiereg-anbindung
+  - Dokumentenverwaltung: dokumentenverwaltung
+  - Stammdaten: stammdaten
+  - Office Integration: office-integration
+  - Arbeitsabläufe: arbeitsablaeufe
+  - Programmeinstellungen: programmeinstellungen
+  - Erste Schritte: erste-schritte
+  - rzl-basis-fuer-firmen.md
+  - Kurzanleitungen: kurzanleitungen
+  - ...

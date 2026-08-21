@@ -1,0 +1,63 @@
+---
+title: Leere Note
+program: HONNext
+---
+
+<span id="leere-note" class="legacy-anchor" aria-hidden="true"></span>
+
+Über *Honorarnoten / Notenerstellen* haben Sie die Möglichkeit eine
+leere Note zu öffnen. Dies kann z.B. zum Erstellen einer Teilgutschrift
+nötig sein.
+
+Im Ribbon findet sich die Schaltfläche *Leere Note erstellen*.
+
+
+![](<img/image239.png>) 
+
+:::caution[Hinweis]
+Die Schaltfläche *Leere Note erstellen* ist nur aktiv, wenn keine Note
+ausgewählt ist.
+
+:::
+Nach Auswahl dieser Option ist zu definieren, für welchen Klienten die
+leere Note erstellt werden soll und wer der Rechnungssteller dieser Note
+ist.
+
+
+![](<img/image240.png>) 
+
+:::caution[Hinweis]
+Als Rechnungssteller kann der dem Klienten zugeordnete
+Unternehmensbereich ausgewählt werden oder ein Unternehmensbereich, der
+bei einer Tätigkeit als abweichender Rechnungssteller definiert ist.
+
+:::
+Ist bei einem Klienten kein Unternehmensbereich zugeordnet bzw. bei
+keiner Tätigkeit ein abweichender Rechnungssteller hinterlegt, kann
+keine leere Note für diesen Klienten erstellt werden.
+
+Im Anschluss öffnet sich eine leere Note.
+
+Als erster Schritt sind nun über den Button *Notenzeile einfügen* im
+Ribbon oder mittels der *Einfg-Taste* die abzurechnenden Zeilen
+hinzuzufügen.
+
+
+![](<img/image241.png>) 
+
+:::caution[Hinweis]
+Es sind zwingend Notenzeilen einzufügen – eine leere Note kann nicht
+gespeichert werden.
+
+:::
+Nachdem die Zeile eingefügt wurde und ein Betrag eingetragen ist, muss der
+Zu-/Abschlag manuell verteilt werden (vgl. [Zu-/Abschläge](/hon-next/notenerstellung/notenerstellung/#zu-abschl%C3%A4ge))
+
+
+![](<img/image242.png>) 
+
+:::caution[Hinweis]
+Eine automatische Verteilung ist aufgrund der fehlenden Erfassungszeilen
+nicht möglich. Die Zu-/Abschläge einer leeren Note sind immer manuell zu
+verteilen.
+:::

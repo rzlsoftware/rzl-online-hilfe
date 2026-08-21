@@ -4,6 +4,6 @@ set -e # Exit immediately if a command exits with a non-zero status.
 
 git config --local pull.rebase true
 
-pip install --upgrade pip
+corepack enable
 
-pip install -r requirements.txt
+pnpm install --frozen-lockfile

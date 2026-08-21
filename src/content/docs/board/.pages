@@ -1,0 +1,9 @@
+nav:
+  - index.md
+  - allgemein.md
+  - Stammdatenverwaltung (STAMM): stammdatenverwaltung-stamm
+  - Druckreihenfolgen und Druckformatvorlagen: druckreihenfolgen-und-druckformatvorlagen
+  - Portale: portale
+  - Kanzleiinformationssystem (KIS): kanzleiinformationssystem-kis
+  - Kurzanleitungen: kurzanleitungen
+  - ...

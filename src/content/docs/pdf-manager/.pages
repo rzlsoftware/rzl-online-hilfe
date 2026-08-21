@@ -1,0 +1,10 @@
+nav:
+  - PDF Manager Handbuch: index.md
+  - Allgemein: allgemein
+  - Arbeitsoberfläche: arbeitsoberflaeche
+  - registerblatt-dokument.md
+  - registerblatt-bearbeiten.md
+  - registerblatt-workflow.md
+  - registerblatt-einstellungen.md
+  - registerblatt-seitenbearbeitung.md
+  - ...

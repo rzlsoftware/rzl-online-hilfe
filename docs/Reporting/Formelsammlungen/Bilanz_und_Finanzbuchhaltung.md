@@ -133,7 +133,7 @@ Die folgenden Formeln sind sowohl in der *RZL Finanzbuchhaltung* als auch im *RZ
 | `GuvAlt().ÜS`{data-clipboard-text="GuvAlt().ÜS"}                                                                 | Überschrift der Bilanzposition, z.B. G (große Überschrift) der alten Gliederung     |
 | `GuVKonto().Jahr().NettoUmsätze().Beleg`{data-clipboard-text="GuVKonto().Jahr().NettoUmsätze().Beleg"}           | Belegnummer des GuV-Konto Nettoumsatzes pro Zeile                                   |
 | `GuVKonto().Jahr().NettoUmsätze().Datum`{data-clipboard-text="GuVKonto().Jahr().NettoUmsätze().Datum"}           | Datum des GuV-Konto Nettoumsatzes pro Zeile                                         |
-| `GuVKonto().Jahr().NettoUmsätze().Gegenkonto`{data-clipboard-text="GuVKonto().Jahr().NettoUmsätze().Gegenkonto`} | Gegenkonto des GuV-Konto Nettoumsatzes pro Zeile                                    |
+| `GuVKonto().Jahr().NettoUmsätze().Gegenkonto`{data-clipboard-text="GuVKonto().Jahr().NettoUmsätze().Gegenkonto"} | Gegenkonto des GuV-Konto Nettoumsatzes pro Zeile                                    |
 | `GuVKonto().Jahr().NettoUmsätze().Haben`{data-clipboard-text="GuVKonto().Jahr().NettoUmsätze().Haben"}           | Habenbetrag des GuV-Konto Nettoumsatzes pro Zeile                                   |
 | `GuVKonto().Jahr().NettoUmsätze().Konto`{data-clipboard-text="GuVKonto().Jahr().NettoUmsätze().Konto"}           | Kontonummer des GuV-Konto Nettoumsatzes pro Zeile                                   |
 | `GuVKonto().Jahr().NettoUmsätze().Soll`{data-clipboard-text="GuVKonto().Jahr().NettoUmsätze().Soll"}             | Sollbetrag des GuV-Konto Nettoumsatzes pro Zeile                                    |

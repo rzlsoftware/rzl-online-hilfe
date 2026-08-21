@@ -1,0 +1,9 @@
+nav:
+  - Einrichtung: einrichtung
+  - Stammdaten: stammdaten
+  - Informationsaustausch: informationsaustausch
+  - Lohnverrechnung: lohnverrechnung
+  - Finanzbuchhaltung: finanzbuchhaltung
+  - Dienstnehmerbereich: dienstnehmerbereich
+  - Belegbox: belegbox
+  - ...

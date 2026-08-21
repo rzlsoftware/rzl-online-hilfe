@@ -1,0 +1,84 @@
+---
+title: Bewegungsdaten bearbeiten
+program: HONNext
+---
+
+<span id="bewegungsdaten-bearbeiten" class="legacy-anchor" aria-hidden="true"></span>
+
+Über den Menüpunkt *Bewegungsdaten löschen/zurücksetzen* haben Sie die
+Möglichkeit die gesamten Bewegungsdaten oder nur einzelne Teile daraus
+zu löschen.
+
+<span id="bewegungsdaten-loschen" class="legacy-anchor" aria-hidden="true"></span>
+### Bewegungsdaten löschen
+
+Der Menüpunkt *Bewegungsdaten löschen* **löscht** die jeweiligen
+ausgewählten Bewegungsdaten bis zu einem bestimmten Stichtag. Beim
+Löschen der Bewegungsdaten ist die Angabe einer Begründung
+verpflichtend.
+
+Folgende Bewegungsdaten können gelöscht werden:
+
+-   Arbeitszeiten
+
+-   Nicht verrechenbare Leistungen – Stichtag bezieht sich auf das
+    Erfassungsdatum.
+
+-   Honorarnoten (Optional inkl. noch offener Erfassungszeilen,
+    Pauschalzeilen und Akonto/Anzahlungen) – der Stichtag bezieht sich
+    auf das Notendatum und es umfasst vorläufige und finalisierte Noten.
+
+:::caution[Hinweis]
+Beim Löschen der Honoranten werden alle Noten bis zum definierten
+Stichtag inkl. die damit verbundenen Zeilen gelöscht. Ebenso wird der
+ZA-Stichtag sowie der ZA-Anfangsstand der Mitarbeiter angepasst sowie
+die Urlaubskartei komprimiert.
+
+:::
+:::caution[Hinweis]
+Sollte es noch **ungebuchte** Belege geben aus Zeiträumen die Sie
+löschen, sind diese zusätzlich in der Belegverwaltung zu löschen.
+
+
+:::
+![](<img/image98.png>)
+
+<span id="bewegungsdaten-zurucksetzten" class="legacy-anchor" aria-hidden="true"></span>
+### Bewegungsdaten zurücksetzten
+
+Der Menüpunkt *Bewegungsdaten zurücksetzen* **löscht** **ALLE**
+bisherig erfassten Bewegungsdaten (Erfassungszeilen, Arbeitszeiten,
+Honorarnoten, Überstundenauszahlungen, Urlaubskartei und
+Pauschalzeilen).  
+Die Stammdaten (Verrechnungsgruppen, Tätigkeiten, Tarifschemata,
+Arbeitszeitmodelle, Nummernbereiche, Feiertagsverwaltung und
+Notenvorlagen) bleiben erhalten.
+
+:::caution[Hinweis]
+Wurden im Zuge der Notenerstellung auch Belege erzeugt, sind diese in
+extra der Belegverwaltung zu löschen.
+
+:::
+:::caution[Hinweis]
+**Dieser Programmteil sollte nur verwendet werden, um Daten zu löschen
+die probeweise erstellt worden sind und nicht mehr benötigt werden.**  
+Bsp. nach der Einarbeitungsphase bevor mit dem Echtbetrieb gestartet
+wird.
+
+:::
+### Protokolle
+
+Nach dem *Bewegungsdaten löschen/Bewegungsdaten zurücksetzen* erhalten
+Sie ein Protokoll. In diesem Protokoll ist ersichtlich, welche Daten bis
+zu welchem Stichtag gelöscht wurden. Weiters erhalten Sie hier auch
+Informationen darüber, falls ein Löschen bestimmter Daten nicht möglich
+war. Bsp. Solange es verrechnete aber nicht ausgeglichene Pauschalzeilen
+gibt, kann diese Note nicht gelöscht werden.
+
+
+![](<img/image99.png>)
+
+:::caution[Hinweis]
+Das Bewegungsdaten löschen und/oder zurücksetzen kann nicht rückgängig
+gemacht werden.
+:::
