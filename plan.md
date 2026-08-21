@@ -532,7 +532,7 @@ Replace pip/mkdocs steps with:
 - [x] Import home + one program (Board) + legal pages through migration scripts (even if partial)
 - [x] Prove admonitions, images, sidebar generation, search filter MVP
 - [x] Measure build time and output size (full 732-route build ~10-12s, see Phase 3 note)
-- [ ] Validate Azure SWA deploy from spike artifact (preview env) — pending real deploy/PR preview
+- [x] Validate Azure SWA deploy from spike artifact (preview env) — confirmed via PR #211, preview build/deploy succeeded (`pnpm check && pnpm build` clean, SWA stage site live)
 
 **Exit:** spike folded directly into full migration (`b635ad6`); no blocking issues found.
 
