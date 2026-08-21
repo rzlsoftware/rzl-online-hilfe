@@ -353,6 +353,26 @@
       "statusCode": 301
     },
     {
+      "route": "/Belegverarbeitung/Kurzanleitungen/Modul Überweisungen/",
+      "redirect": "/belegverarbeitung/kurzanleitungen/modul-ueberweisungen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Kurzanleitungen/Modul Überweisungen/index.html",
+      "redirect": "/belegverarbeitung/kurzanleitungen/modul-ueberweisungen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Kurzanleitungen/Modul%20%C3%9Cberweisungen/",
+      "redirect": "/belegverarbeitung/kurzanleitungen/modul-ueberweisungen/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Belegverarbeitung/Kurzanleitungen/Modul%20%C3%9Cberweisungen/index.html",
+      "redirect": "/belegverarbeitung/kurzanleitungen/modul-ueberweisungen/",
+      "statusCode": 301
+    },
+    {
       "route": "/Belegverarbeitung/Kurzanleitungen/Modul%20Belegfreigabe/",
       "redirect": "/belegverarbeitung/kurzanleitungen/modul-belegfreigabe/",
       "statusCode": 301
@@ -9837,6 +9857,6 @@
     "provider": "Azure Static Web Apps",
     "configurationLimitBytes": 20480,
     "exactRulesInStaticWebAppConfig": 139,
-    "fallbackRulesRequiringEdgeImport": 1827
+    "fallbackRulesRequiringEdgeImport": 1831
   }
 }

@@ -393,8 +393,9 @@ export const sidebar = [
           "belegverarbeitung/kurzanleitungen/rzl-belegverarbeitung-export-und-import-mit-belegdaten",
           "belegverarbeitung/kurzanleitungen/rzl-belegverarbeitung-versionsverwaltung",
           "belegverarbeitung/kurzanleitungen/synchronisation-der-belege-mit-dem-rzl-klientenportal",
-          "belegverarbeitung/kurzanleitungen/ki-belegdatenerkennung",
-          "belegverarbeitung/kurzanleitungen/modul-belegfreigabe"
+          "belegverarbeitung/kurzanleitungen/modul-ueberweisungen",
+          "belegverarbeitung/kurzanleitungen/modul-belegfreigabe",
+          "belegverarbeitung/kurzanleitungen/ki-belegdatenerkennung"
         ],
         "collapsed": true
       }

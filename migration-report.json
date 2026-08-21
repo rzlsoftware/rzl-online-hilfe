@@ -2,16 +2,16 @@
   "sourceRoot": "docs",
   "targetRoot": "src/content/docs",
   "files": {
-    "markdown": 732,
+    "markdown": 733,
     "pages": 102,
-    "assets": 3557,
-    "total": 4391
+    "assets": 3562,
+    "total": 4397
   },
   "transformations": {
-    "admonitions": 1062,
+    "admonitions": 1064,
     "remainingAdmonitions": 0,
-    "headings": 3354,
-    "legacyAnchorAliases": 1580,
+    "headings": 3362,
+    "legacyAnchorAliases": 1586,
     "themeImages": 51,
     "mkdocsAttributes": 2208,
     "rewrittenLinks": 816
@@ -274,6 +274,15 @@
       "encodedLegacyPath": "/Belegverarbeitung/Kurzanleitungen/Modul%20Belegfreigabe/",
       "newPath": "/belegverarbeitung/kurzanleitungen/modul-belegfreigabe/",
       "title": "Modul Belegfreigabe",
+      "program": "Belegverarbeitung"
+    },
+    {
+      "source": "Belegverarbeitung/Kurzanleitungen/Modul Überweisungen.md",
+      "target": "belegverarbeitung/kurzanleitungen/modul-ueberweisungen.md",
+      "legacyPath": "/Belegverarbeitung/Kurzanleitungen/Modul Überweisungen/",
+      "encodedLegacyPath": "/Belegverarbeitung/Kurzanleitungen/Modul%20%C3%9Cberweisungen/",
+      "newPath": "/belegverarbeitung/kurzanleitungen/modul-ueberweisungen/",
+      "title": "Modul Überweisungen (ab 2.26.9)",
       "program": "Belegverarbeitung"
     },
     {
