@@ -24,6 +24,11 @@ export default defineConfig({
         },
       },
       sidebar,
+      customCss: ['./src/styles/rzl.css'],
+      components: {
+        SocialIcons: './src/components/HainzLink.astro',
+        Search: './src/components/ProgramSearch.astro',
+      },
     }),
   ],
 });

@@ -1,0 +1,25 @@
+/**
+ * Program filter above Starlight's Pagefind search results.
+ * Kept separate from `src/styles/rzl.css` to avoid clashing with concurrent edits there.
+ */
+@layer starlight.core {
+	.program-filter {
+		margin-block-end: 0.75rem;
+	}
+
+	.program-filter select {
+		width: 100%;
+		padding: 0.4rem 0.6rem;
+		border-radius: 0.4rem;
+		border: 1px solid var(--sl-color-gray-5);
+		background-color: var(--sl-color-black);
+		color: var(--sl-color-white);
+		font-family: var(--__sl-font);
+		font-size: var(--sl-text-sm);
+	}
+
+	.program-filter select:focus {
+		outline: 1px solid var(--sl-color-accent);
+		border-color: var(--sl-color-accent);
+	}
+}

@@ -1,0 +1,67 @@
+/*
+ * RZL branding overrides for Starlight.
+ * Ported from the legacy MkDocs Material theme (docs/stylesheets/extra.css),
+ * using Starlight's `--sl-*` custom properties instead of `--md-*`.
+ *
+ * Note: pdf.css / print styles are intentionally NOT ported (out of scope,
+ * see plan.md §7.6).
+ */
+
+:root {
+	/* RZL brand colors */
+	--rzl-green: rgb(69, 121, 121);
+	--rzl-red: #e6382c;
+	--rzl-yellow: rgb(252, 193, 51);
+}
+
+/* Accent color: RZL red, light mode */
+:root[data-theme='light'] {
+	--sl-color-accent-low: #f8dad8;
+	--sl-color-accent: var(--rzl-red);
+	--sl-color-accent-high: #7a140d;
+
+	--sl-color-text-accent: var(--sl-color-accent);
+}
+
+/* Accent color: RZL red, dark mode */
+:root[data-theme='dark'] {
+	--sl-color-accent-low: #4a1512;
+	--sl-color-accent: var(--rzl-red);
+	--sl-color-accent-high: #f3aca6;
+
+	--sl-color-text-accent: var(--sl-color-accent-high);
+}
+
+/*
+ * Aside tinting.
+ * Starlight maps `caution` to orange and `note` to blue by default; we
+ * retint those two variants with RZL yellow/green while leaving `tip` and
+ * `danger` at their Starlight defaults.
+ */
+.starlight-aside--caution {
+	--sl-color-asides-border: var(--rzl-yellow);
+}
+
+:root[data-theme='light'] .starlight-aside--caution {
+	--sl-color-asides-text-accent: color-mix(in srgb, var(--rzl-yellow) 60%, black);
+	background-color: color-mix(in srgb, var(--rzl-yellow) 12%, var(--sl-color-bg));
+}
+
+:root[data-theme='dark'] .starlight-aside--caution {
+	--sl-color-asides-text-accent: color-mix(in srgb, var(--rzl-yellow) 75%, white);
+	background-color: color-mix(in srgb, var(--rzl-yellow) 18%, var(--sl-color-bg));
+}
+
+.starlight-aside--note {
+	--sl-color-asides-border: var(--rzl-green);
+}
+
+:root[data-theme='light'] .starlight-aside--note {
+	--sl-color-asides-text-accent: color-mix(in srgb, var(--rzl-green) 70%, black);
+	background-color: color-mix(in srgb, var(--rzl-green) 10%, var(--sl-color-bg));
+}
+
+:root[data-theme='dark'] .starlight-aside--note {
+	--sl-color-asides-text-accent: color-mix(in srgb, var(--rzl-green) 65%, white);
+	background-color: color-mix(in srgb, var(--rzl-green) 18%, var(--sl-color-bg));
+}
