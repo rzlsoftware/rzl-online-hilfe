@@ -33,6 +33,10 @@ export default defineConfig({
       },
       sidebar,
       favicon: '/favicon.svg',
+      logo: {
+        src: './src/assets/rzl-herz-rot.svg',
+        alt: 'RZL',
+      },
       customCss: ['./src/styles/rzl.css'],
       components: {
         SocialIcons: './src/components/HainzLink.astro',
