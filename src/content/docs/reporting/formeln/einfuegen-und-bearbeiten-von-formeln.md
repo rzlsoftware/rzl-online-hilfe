@@ -192,7 +192,7 @@ Funktionen sind mit der *F3-Taste* im Formeldialog jederzeit aufrufbar und werde
 
 Ein Dienstnehmer ist von 1. Juni bis 15. November 2019 bei Ihnen angestellt. Sie möchten die Dauer in Tagen ausgeben:
 
-1.  Geben Sie die Formel `Dauer(Datum(15;11;2019);Datum(1;6:2019))`{data-clipboard-text="Dauer(Datum(15;11;2019);DATUM(1;6:2019))"} im Formeldialog ein. Achten Sie darauf, dass der höhere Wert immer an erster Stelle steht.
+1.  Geben Sie die Formel `Dauer(Datum(15;11;2019);Datum(1;6;2019))`{data-clipboard-text="Dauer(Datum(15;11;2019);DATUM(1;6;2019))"} im Formeldialog ein. Achten Sie darauf, dass der höhere Wert immer an erster Stelle steht.
 
 2.  Ändern Sie anschließend im *Formel-Eigenschaftsfenster* das Dauerformat auf Tage um. Das Tagesformat ist mit der Option Immer anzeigen, alle anderen Formate mit der Option Nicht anzeigen zu definieren.
 

@@ -11,6 +11,14 @@ export default defineConfig({
   markdown: {
     processor: unified({
       remarkPlugins: [remarkMkDocsAttributes],
+      // Disabled: remark-smartypants runs before our custom remarkPlugins and
+      // converts straight quotes to curly quotes, which breaks the
+      // `{:width="..."}` attr_list matching in remark-mkdocs-attributes.ts
+      // (it expects straight quotes). English-style smart quotes are also
+      // not appropriate for German content, and the legacy MkDocs/pymdown
+      // site never applied this transform, so disabling it is closer to
+      // legacy parity too.
+      smartypants: false,
     }),
   },
   integrations: [
