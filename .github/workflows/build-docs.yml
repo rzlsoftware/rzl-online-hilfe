@@ -7,10 +7,13 @@ on:
       - main
     paths:
       - .github/workflows/build-docs.yml
-      - docs/**
-      - overrides/**
-      - mkdocs.yml
-      - requirements.txt
+      - src/**
+      - public/**
+      - astro.config.ts
+      - package.json
+      - pnpm-lock.yaml
+      - scripts/**
+      - tsconfig.json
     
   pull_request:
     types: [opened, synchronize, reopened, closed]
@@ -18,10 +21,13 @@ on:
       - main
     paths:
       - .github/workflows/build-docs.yml
-      - docs/**
-      - overrides/**
-      - mkdocs.yml
-      - requirements.txt
+      - src/**
+      - public/**
+      - astro.config.ts
+      - package.json
+      - pnpm-lock.yaml
+      - scripts/**
+      - tsconfig.json
 
 permissions:
   contents: read
@@ -35,12 +41,22 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - name: Install MkDocs
-        run: pip3 install -r requirements.txt
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Enable Corepack
+        run: corepack enable
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Check
+        run: pnpm check
 
       - name: Build Docs
-        run: |
-          mkdocs --color build --strict --clean -d dist
+        run: pnpm build
 
       - name: Deploy
         id: builddeploy

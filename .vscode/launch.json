@@ -4,9 +4,9 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "MkDocs Serve",
-            "runtimeExecutable": "mkdocs",
-            "args": "--color serve --strict",
+            "name": "Astro Dev",
+            "runtimeExecutable": "pnpm",
+            "args": "dev",
             "console": "integratedTerminal"
         }
     ]
