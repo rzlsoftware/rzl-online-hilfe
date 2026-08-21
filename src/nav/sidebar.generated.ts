@@ -19,14 +19,16 @@ export const sidebar = [
           "board/stammdatenverwaltung-stamm/berechtigungen",
           "board/stammdatenverwaltung-stamm/einstellungen",
           "board/stammdatenverwaltung-stamm/unternehmensverwaltung"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Druckreihenfolgen und Druckformatvorlagen",
         "items": [
           "board/druckreihenfolgen-und-druckformatvorlagen/druckformatvorlagen",
           "board/druckreihenfolgen-und-druckformatvorlagen/druckreihenfolgen"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Portale",
@@ -34,13 +36,15 @@ export const sidebar = [
           "board/portale/finanz-online",
           "board/portale/usp",
           "board/portale/ksv"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Kanzleiinformationssystem (KIS)",
         "items": [
           "board/kanzleiinformationssystem-kis/serienversand"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Kurzanleitungen",
@@ -54,9 +58,11 @@ export const sidebar = [
           "board/kurzanleitungen/quotenmeldung-erstellen",
           "board/kurzanleitungen/wiereg-anbindung",
           "board/kurzanleitungen/wiereg-workflow"
-        ]
+        ],
+        "collapsed": true
       }
-    ]
+    ],
+    "collapsed": true
   },
   {
     "label": "FIBU Next",
@@ -73,15 +79,18 @@ export const sidebar = [
             "label": "aus FIBU Klassik",
             "items": [
               "fibu-next/datenuebernahme/aus-fibu-klassik"
-            ]
+            ],
+            "collapsed": true
           },
           {
             "label": "aus EA-Rechnung Klassik",
             "items": [
               "fibu-next/datenuebernahme/aus-ea-rechnung-klassik"
-            ]
+            ],
+            "collapsed": true
           }
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Klientenstammdaten",
@@ -95,9 +104,11 @@ export const sidebar = [
               "fibu-next/klientenstammdaten/allgemein/umsatzsteuer",
               "fibu-next/klientenstammdaten/allgemein/klassik-ubernahmeprotokoll",
               "fibu-next/klientenstammdaten/allgemein/sicherungscenter"
-            ]
+            ],
+            "collapsed": true
           }
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Stammdaten",
@@ -106,7 +117,8 @@ export const sidebar = [
           "fibu-next/stammdaten/kontenplane",
           "fibu-next/stammdaten/listenformen-netbanking",
           "fibu-next/stammdaten/fibu-sicherungseinstellungen"
-        ]
+        ],
+        "collapsed": true
       },
       "fibu-next/fibu-klienten",
       {
@@ -119,7 +131,8 @@ export const sidebar = [
             "label": "Kontenbereiche",
             "items": [
               "fibu-next/stammdaten-fibu-next/kontenbereiche/kontonummernbereichebearbeiten"
-            ]
+            ],
+            "collapsed": true
           },
           {
             "label": "FIBU Personen",
@@ -128,14 +141,16 @@ export const sidebar = [
               "fibu-next/stammdaten-fibu-next/fibu-personen/bankverbindungen",
               "fibu-next/stammdaten-fibu-next/fibu-personen/kontaktdaten",
               "fibu-next/stammdaten-fibu-next/fibu-personen/verwendungen"
-            ]
+            ],
+            "collapsed": true
           },
           {
             "label": "KER",
             "items": [
               "fibu-next/stammdaten-fibu-next/ker",
               "fibu-next/stammdaten-fibu-next/ker/ker-kreise"
-            ]
+            ],
+            "collapsed": true
           },
           "fibu-next/stammdaten-fibu-next/fibu-bankverbindungen",
           "fibu-next/stammdaten-fibu-next/verbuchungsregeln",
@@ -143,7 +158,8 @@ export const sidebar = [
           "fibu-next/stammdaten-fibu-next/iban-ausschlussliste",
           "fibu-next/stammdaten-fibu-next/belegkreise",
           "fibu-next/stammdaten-fibu-next/buchungstextgruppen"
-        ]
+        ],
+        "collapsed": true
       },
       "fibu-next/op-verwaltung",
       {
@@ -161,16 +177,19 @@ export const sidebar = [
                   "fibu-next/erfassen/buchen/offene-posten-zuteilung",
                   "fibu-next/erfassen/buchen/offene-posten-zuteilung/zahlungsausgleich-mitop-verwaltung",
                   "fibu-next/erfassen/buchen/offene-posten-zuteilung/betrag"
-                ]
+                ],
+                "collapsed": true
               },
               "fibu-next/erfassen/buchen/uid-ueberpruefung-beimbuchen"
-            ]
+            ],
+            "collapsed": true
           },
           {
             "label": "Anzahlungen",
             "items": [
               "fibu-next/erfassen/anzahlungen/erhaltene-anzahlungenvondebitoren"
-            ]
+            ],
+            "collapsed": true
           },
           "fibu-next/erfassen/retourdatenverarbeitung-mittelscamt-dateien",
           "fibu-next/erfassen/kontoauszugsverbuchung-netbanking",
@@ -179,7 +198,8 @@ export const sidebar = [
             "items": [
               "fibu-next/erfassen/eroeffnungsbilanz",
               "fibu-next/erfassen/eroeffnungsbilanz/eroeffnungsbilanz-haendischaktualisieren"
-            ]
+            ],
+            "collapsed": true
           },
           "fibu-next/erfassen/op-bearbeiten",
           "fibu-next/erfassen/uebernahme-salden",
@@ -188,16 +208,19 @@ export const sidebar = [
             "label": "Teilrechnungen",
             "items": [
               "fibu-next/erfassen/teilrechnungen/teilrechnungen"
-            ]
+            ],
+            "collapsed": true
           },
           "fibu-next/erfassen/zessionen"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Elektronische Vorsteuererstattung",
         "items": [
           "fibu-next/elektronische-vorsteuererstattung/vst-erstattung"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Zahlungsverkehr",
@@ -206,13 +229,15 @@ export const sidebar = [
           "fibu-next/zahlungsverkehr/bankverbindung",
           "fibu-next/zahlungsverkehr/ueberweisungslauf",
           "fibu-next/zahlungsverkehr/zahlungsbedingungen"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Scheinunternehmen",
         "items": [
           "fibu-next/scheinunternehmen/scheinunternehmen"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Umsatzsteuer",
@@ -234,7 +259,8 @@ export const sidebar = [
           "fibu-next/umsatzsteuer/umsatzsteuerrechtliche-sonderfall",
           "fibu-next/umsatzsteuer/buchenmitustnach-vereinnahmungvst",
           "fibu-next/umsatzsteuer/umsatzsteuerland"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Elektronische Übermittlung an das Finanzamt",
@@ -242,7 +268,8 @@ export const sidebar = [
           "fibu-next/elektronische-uebermittlung-an-das-finanzamt",
           "fibu-next/elektronische-uebermittlung-an-das-finanzamt/elektronische-ubermittlungderzm",
           "fibu-next/elektronische-uebermittlung-an-das-finanzamt/elektronische-ubermittlunguva"
-        ]
+        ],
+        "collapsed": true
       },
       "fibu-next/kammerumlage-ku1",
       {
@@ -261,7 +288,8 @@ export const sidebar = [
           "fibu-next/auswertungen/zusammenfassende-meldung",
           "fibu-next/auswertungen/arbeitsprotokoll",
           "fibu-next/auswertungen/anzahl-zeilen"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Ausdrucke",
@@ -277,7 +305,8 @@ export const sidebar = [
           "fibu-next/ausdrucke/ker-monatsubersicht",
           "fibu-next/ausdrucke/ker-jahresubersicht",
           "fibu-next/ausdrucke/fa-ueberweisungsliste"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Datenimport",
@@ -291,15 +320,18 @@ export const sidebar = [
               "fibu-next/datenimport/rzl-format/salden",
               "fibu-next/datenimport/rzl-format/buchungen",
               "fibu-next/datenimport/rzl-format/op"
-            ]
+            ],
+            "collapsed": true
           },
           {
             "label": "Export BAO",
             "items": [
               "fibu-next/datenimport/export-bao"
-            ]
+            ],
+            "collapsed": true
           }
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Kurzanleitungen",
@@ -307,10 +339,12 @@ export const sidebar = [
           "fibu-next/kurzanleitungen/bilanzieren-eines-fibu-next-klienten-in-bilanz-klassik-ohne-fibu-next",
           "fibu-next/kurzanleitungen/bilanzieren-eines-fibu-next-klienten-in-bilanz-klassik",
           "fibu-next/kurzanleitungen/umstieg-von-fibu-klassik"
-        ]
+        ],
+        "collapsed": true
       },
       "fibu-next/rzl-taschenrechner"
-    ]
+    ],
+    "collapsed": true
   },
   {
     "label": "Belegverarbeitung",
@@ -332,7 +366,8 @@ export const sidebar = [
           "belegverarbeitung/belegverarbeitung-im-rzl-board",
           "belegverarbeitung/belegverarbeitung-im-rzl-board/belegbearbeitung-und-aufbereitung",
           "belegverarbeitung/belegverarbeitung-im-rzl-board/die-digitalisierung-der-belege"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Modul Belege am RZL Klientenportal",
@@ -342,7 +377,8 @@ export const sidebar = [
           "belegverarbeitung/modul-belege-am-rzl-klientenportal/automatische-belegsynchronisation",
           "belegverarbeitung/modul-belege-am-rzl-klientenportal/gebuchte-belege-manuell-in-die-belegbox-hochladen",
           "belegverarbeitung/modul-belege-am-rzl-klientenportal/uebersicht-belege-zum-abholen"
-        ]
+        ],
+        "collapsed": true
       },
       "belegverarbeitung/buchen-mit-digitalen-belegen-in-rzl-fibu",
       "belegverarbeitung/buchen-eines-ea-rechners-mit-belegverarbeitung",
@@ -359,9 +395,11 @@ export const sidebar = [
           "belegverarbeitung/kurzanleitungen/synchronisation-der-belege-mit-dem-rzl-klientenportal",
           "belegverarbeitung/kurzanleitungen/ki-belegdatenerkennung",
           "belegverarbeitung/kurzanleitungen/modul-belegfreigabe"
-        ]
+        ],
+        "collapsed": true
       }
-    ]
+    ],
+    "collapsed": true
   },
   {
     "label": "LOHN",
@@ -379,7 +417,8 @@ export const sidebar = [
           "lohn/allgemeines/klient-per-e-mail-anonymisiert-versenden",
           "lohn/allgemeines/beschreibung-der-symbolleiste",
           "lohn/allgemeines/dienstnehmersuche"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Klientenstammdaten",
@@ -398,11 +437,13 @@ export const sidebar = [
               "lohn/klientenstammdaten/stammdaten-klient/details-rueckstellungen",
               "lohn/klientenstammdaten/stammdaten-klient/kostenstellen-kostentraeger-krankenstandsbescheinigungen-kv",
               "lohn/klientenstammdaten/stammdaten-klient/zvr-zahl"
-            ]
+            ],
+            "collapsed": true
           },
           "lohn/klientenstammdaten/unterdienstgeber",
           "lohn/klientenstammdaten/arbeitsstaetten-lohnzettel-finanz"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Abrechnungen",
@@ -416,7 +457,8 @@ export const sidebar = [
           "lohn/abrechnungen/sonderfaelle",
           "lohn/abrechnungen/aufrollung",
           "lohn/abrechnungen/aufrollung-13-lohnverrechnungsmonat"
-        ]
+        ],
+        "collapsed": true
       },
       "lohn/vorerfassung",
       {
@@ -447,7 +489,8 @@ export const sidebar = [
           "lohn/abrechnungsbildschirme/kostenstellen-kostentraeger",
           "lohn/abrechnungsbildschirme/dienstzettel",
           "lohn/abrechnungsbildschirme/dienstnehmer-notizen"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Freie_Dienstverträge",
@@ -468,14 +511,16 @@ export const sidebar = [
           "lohn/freie-dienstvertraege/kostenstellen-und-kostentraeger",
           "lohn/freie-dienstvertraege/dienstzettel",
           "lohn/freie-dienstvertraege/dienstnehmer-notizen"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Freie Lohnarten",
         "items": [
           "lohn/freie-lohnarten/lohnarten-anlegen-bzw-aendern",
           "lohn/freie-lohnarten/verwaltung-der-freien-lohnarten-kanzlei-oder-klientenbezogen"
-        ]
+        ],
+        "collapsed": true
       },
       "lohn/sachbezuege",
       "lohn/kanzleitexte-und-kanzleilohnkontenplaene",
@@ -493,14 +538,16 @@ export const sidebar = [
               "lohn/elektronische-meldungen-oegk/erstellung-der-elektronischen-meldungen/ueberpruefung-oegk-daten",
               "lohn/elektronische-meldungen-oegk/erstellung-der-elektronischen-meldungen/protokoll",
               "lohn/elektronische-meldungen-oegk/erstellung-der-elektronischen-meldungen/klientenuebergreifende-erstellung-der-elektronischen-meldungen"
-            ]
+            ],
+            "collapsed": true
           },
           "lohn/elektronische-meldungen-oegk/versenden-der-oegk-datei",
           "lohn/elektronische-meldungen-oegk/elektronische-meldung-reiseaufwandsentschaedigung-sportler-l19-erstellen",
           "lohn/elektronische-meldungen-oegk/klientenuebergreifende-uebermittlung-der-jahreslohnzettel",
           "lohn/elektronische-meldungen-oegk/krankenstandsbescheinigungen",
           "lohn/elektronische-meldungen-oegk/sv-clearingsystem"
-        ]
+        ],
+        "collapsed": true
       },
       "lohn/elektronic-banking-sepa",
       "lohn/electronic-banking-ebics",
@@ -529,7 +576,8 @@ export const sidebar = [
               "lohn/ausdrucke-allgemein/ausdruck-journal-oegk/dienstgeber-gesamtkosten",
               "lohn/ausdrucke-allgemein/ausdruck-journal-oegk/aenderungsprotokoll",
               "lohn/ausdrucke-allgemein/ausdruck-journal-oegk/monatsabschlussprotokoll"
-            ]
+            ],
+            "collapsed": true
           },
           "lohn/ausdrucke-allgemein/ausdruck-sonderdrucke",
           "lohn/ausdrucke-allgemein/ausdruck-jahresauswertungen",
@@ -538,7 +586,8 @@ export const sidebar = [
           "lohn/ausdrucke-allgemein/klientenuebergreifende-ausdrucke",
           "lohn/ausdrucke-allgemein/klientenuebergreifende-druckreihenfolgen",
           "lohn/ausdrucke-allgemein/ausdruck-dienstgeberliste"
-        ]
+        ],
+        "collapsed": true
       },
       "lohn/repair",
       "lohn/finanzaemter-gemeinden-oegk-bv-kassen-gerichte",
@@ -550,7 +599,8 @@ export const sidebar = [
           "lohn/jahresuebernahme/erneute-jahresuebernahme",
           "lohn/jahresuebernahme/klientenuebergreifende-jahresuebernahme",
           "lohn/jahresuebernahme/sonderfall-jahresuebernahme-fuer-anmeldungen-im-neuen-jahr"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Rückstellungen",
@@ -562,7 +612,8 @@ export const sidebar = [
           "lohn/rueckstellungen/zeitausgleichsrueckstellung",
           "lohn/rueckstellungen/sonderzahlungsrueckstellung",
           "lohn/rueckstellungen/exkurs-brutto-oder-nettomethode"
-        ]
+        ],
+        "collapsed": true
       },
       "lohn/datenexport",
       "lohn/datenimport",
@@ -576,7 +627,8 @@ export const sidebar = [
           "lohn/abfertigung-neu/aenderungen-in-der-abrechnung-der-dienstnehmer-seit-2003",
           "lohn/abfertigung-neu/bestehende-dienstverhaeltnisse-umstiegsmoeglichkeiten",
           "lohn/abfertigung-neu/abfertigungsrechner-vergleich"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Exekutionen",
@@ -586,7 +638,8 @@ export const sidebar = [
           "lohn/exekutionen/nacherfassung-exekution",
           "lohn/exekutionen/ausdrucke-exekutionen",
           "lohn/exekutionen/anlage-eines-zessionsvermerks-oder-einer-rangvormerkung"
-        ]
+        ],
+        "collapsed": true
       },
       "lohn/elektronische-kommunalsteuererklaerung",
       "lohn/elektronische-dienstgebererklaerung",
@@ -607,7 +660,8 @@ export const sidebar = [
               "lohn/lohnformeln/verwaltung-der-lohnformeln-innerhalb-eines-klienten/verankerung-der-tabelle-in-den-stammdaten-des-klienten",
               "lohn/lohnformeln/verwaltung-der-lohnformeln-innerhalb-eines-klienten/formelverwendung-in-der-monatlichen-abrechnung-der-dienstnehmer",
               "lohn/lohnformeln/verwaltung-der-lohnformeln-innerhalb-eines-klienten/zuordnungsmoeglichkeiten-innerhalb-der-abrechnungsbildschirme"
-            ]
+            ],
+            "collapsed": true
           },
           "lohn/lohnformeln/verwaltung-der-lohnformeln-innerhalb-einer-kanzleilohnartentabelle",
           {
@@ -620,9 +674,11 @@ export const sidebar = [
               "lohn/lohnformeln/formelsyntax/ueberstunden-und-mehrarbeitsstunden",
               "lohn/lohnformeln/formelsyntax/besonderheiten-bei-den-lohnformeln",
               "lohn/lohnformeln/formelsyntax/zugriffsbeispiele"
-            ]
+            ],
+            "collapsed": true
           }
-        ]
+        ],
+        "collapsed": true
       },
       "lohn/ausgabe-jahreslohnkonto-fuer-gplb",
       {
@@ -637,7 +693,8 @@ export const sidebar = [
           "lohn/kollektivvertraege/umstellung-kv-handel-angestellte",
           "lohn/kollektivvertraege/kollektivvertragserhoehung",
           "lohn/kollektivvertraege/umstufung-kv-hotel-und-gastgewerbe"
-        ]
+        ],
+        "collapsed": true
       },
       "lohn/auswahlkriterien",
       {
@@ -647,7 +704,8 @@ export const sidebar = [
           "lohn/bauarbeiter-urlaubs-und-abfertigungskasse/abrechnungsbildschirm-bauarbeiter-urlaubs-und-abfertigungskasse",
           "lohn/bauarbeiter-urlaubs-und-abfertigungskasse/elektronische-uebermittlung-der-meldungen",
           "lohn/bauarbeiter-urlaubs-und-abfertigungskasse/buak-schlechtwettermeldung"
-        ]
+        ],
+        "collapsed": true
       },
       "lohn/selbstbemessungsabgaben-melden",
       "lohn/reports",
@@ -682,7 +740,8 @@ export const sidebar = [
           "lohn/abrechnungen-sonderfaelle/rueckverrechnung-minusstunden",
           "lohn/abrechnungen-sonderfaelle/rueckverrechnung-urlaubsentgelt",
           "lohn/abrechnungen-sonderfaelle/weiterbildungsbeihilfe"
-        ]
+        ],
+        "collapsed": true
       },
       "lohn/abrechnung-von-vergleichszahlungen-und-nachzahlungen",
       "lohn/abrechnung-einer-insolvenz",
@@ -697,12 +756,14 @@ export const sidebar = [
         "label": "Kurzanleitungen",
         "items": [
           "lohn/kurzanleitungen/sozialfonds-ab-juli-2026"
-        ]
+        ],
+        "collapsed": true
       },
       "lohn/schnittstellenbeschreibung",
       "lohn/fragen",
       "lohn/clearingfaelle"
-    ]
+    ],
+    "collapsed": true
   },
   {
     "label": "KIS",
@@ -716,7 +777,8 @@ export const sidebar = [
         "items": [
           "kis/allgemeine-programmbedienung/was-ist-das-kanzlei-informationssystem",
           "kis/allgemeine-programmbedienung/programmstart-und-moegliche-funktionen"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Aufgabenverwaltung",
@@ -725,7 +787,8 @@ export const sidebar = [
           "kis/aufgabenverwaltung/arbeiten-mit-aufgabenvorlagen",
           "kis/aufgabenverwaltung/klientenspiegel",
           "kis/aufgabenverwaltung/wiederkehrende-aufgaben"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Ereignisse",
@@ -735,7 +798,8 @@ export const sidebar = [
           "kis/ereignisse/telefonprotokoll-und-sonstige-memos",
           "kis/ereignisse/zuordnung-und-archivierung-von-ereignissen",
           "kis/ereignisse/klientenportal"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "FinanzOnline",
@@ -750,7 +814,8 @@ export const sidebar = [
           "kis/finanz-online/anlage-eines-web-service-benutzers",
           "kis/finanz-online/quotenplanung",
           "kis/finanz-online/finanz-online-admin-protokoll"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "WiEReG-Anbindung",
@@ -761,7 +826,8 @@ export const sidebar = [
           "kis/wiereg-anbindung/meldung-durchfuehren",
           "kis/wiereg-anbindung/auszuege-anfordern",
           "kis/wiereg-anbindung/geldwaesche-bedienung-im-rzl-board"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Dokumentenverwaltung",
@@ -775,7 +841,8 @@ export const sidebar = [
           "kis/dokumentenverwaltung/archiv-import",
           "kis/dokumentenverwaltung/nicht-verwaltete-dokumente",
           "kis/dokumentenverwaltung/papierkorb-fuer-dokumente"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Stammdaten",
@@ -783,7 +850,8 @@ export const sidebar = [
           "kis/stammdaten/klientenstammdaten",
           "kis/stammdaten/mitarbeiterstammdaten",
           "kis/stammdaten/sonstige-stammdaten"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Office Integration",
@@ -791,7 +859,8 @@ export const sidebar = [
           "kis/office-integration/add-ins",
           "kis/office-integration/word-vorlagen",
           "kis/office-integration/excel-und-powerpoint-vorlagen"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Arbeitsabläufe",
@@ -799,7 +868,8 @@ export const sidebar = [
           "kis/arbeitsablaeufe/brief-bzw-dokument",
           "kis/arbeitsablaeufe/e-mail",
           "kis/arbeitsablaeufe/serienversand"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Programmeinstellungen",
@@ -810,7 +880,8 @@ export const sidebar = [
           "kis/programmeinstellungen/ansicht",
           "kis/programmeinstellungen/rzl-klassik-programme",
           "kis/programmeinstellungen/hilfe"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Erste Schritte",
@@ -819,7 +890,8 @@ export const sidebar = [
           "kis/erste-schritte/anlage-der-mitarbeiter",
           "kis/erste-schritte/anlage-von-themen-und-kategorien",
           "kis/erste-schritte/notwendige-vorarbeiten"
-        ]
+        ],
+        "collapsed": true
       },
       "kis/rzl-basis-fuer-firmen",
       {
@@ -834,9 +906,11 @@ export const sidebar = [
           "kis/kurzanleitungen/weberv-anbindung",
           "kis/kurzanleitungen/wiereg-anbindung",
           "kis/kurzanleitungen/wiereg-workflow"
-        ]
+        ],
+        "collapsed": true
       }
-    ]
+    ],
+    "collapsed": true
   },
   {
     "label": "Klientenportal",
@@ -854,7 +928,8 @@ export const sidebar = [
               "klientenportal/klientenportal-kanzlei/einrichtung/anmeldung",
               "klientenportal/klientenportal-kanzlei/einrichtung/web-service",
               "klientenportal/klientenportal-kanzlei/einrichtung/login-formular"
-            ]
+            ],
+            "collapsed": true
           },
           {
             "label": "Stammdaten",
@@ -866,18 +941,21 @@ export const sidebar = [
                   "klientenportal/klientenportal-kanzlei/stammdaten/klient-stammdaten/stammdaten-klient",
                   "klientenportal/klientenportal-kanzlei/stammdaten/klient-stammdaten/klientenbenutzer",
                   "klientenportal/klientenportal-kanzlei/stammdaten/klient-stammdaten/klient-loeschen"
-                ]
+                ],
+                "collapsed": true
               },
               {
                 "label": "Kanzlei",
                 "items": [
                   "klientenportal/klientenportal-kanzlei/stammdaten/kanzlei-stammdaten/stammdaten-kanzlei",
                   "klientenportal/klientenportal-kanzlei/stammdaten/kanzlei-stammdaten/stammdaten-kanzleibenutzer"
-                ]
+                ],
+                "collapsed": true
               },
               "klientenportal/klientenportal-kanzlei/stammdaten/stammdaten-portal",
               "klientenportal/klientenportal-kanzlei/stammdaten/stammdaten-profil"
-            ]
+            ],
+            "collapsed": true
           },
           {
             "label": "Informationsaustausch",
@@ -895,7 +973,8 @@ export const sidebar = [
                   "klientenportal/klientenportal-kanzlei/informationsaustausch/dokumente/dokauspdf-manager",
                   "klientenportal/klientenportal-kanzlei/informationsaustausch/dokumente/dokauspdf-drucker",
                   "klientenportal/klientenportal-kanzlei/informationsaustausch/dokumente/dokumentenliste"
-                ]
+                ],
+                "collapsed": true
               },
               {
                 "label": "Nachrichten",
@@ -905,11 +984,13 @@ export const sidebar = [
                   "klientenportal/klientenportal-kanzlei/informationsaustausch/nachrichten/nachrichtauskis",
                   "klientenportal/klientenportal-kanzlei/informationsaustausch/nachrichten/nachrichtauspdf-manager",
                   "klientenportal/klientenportal-kanzlei/informationsaustausch/nachrichten/nachrichtenliste"
-                ]
+                ],
+                "collapsed": true
               },
               "klientenportal/klientenportal-kanzlei/informationsaustausch/datenverbrauch",
               "klientenportal/klientenportal-kanzlei/informationsaustausch/dokumentenbereiche"
-            ]
+            ],
+            "collapsed": true
           },
           {
             "label": "Lohnverrechnung",
@@ -925,11 +1006,13 @@ export const sidebar = [
                   "klientenportal/klientenportal-kanzlei/lohnverrechnung/lohnvorerfassung/eingabemaske",
                   "klientenportal/klientenportal-kanzlei/lohnverrechnung/lohnvorerfassung/klientfreigegebene-daten",
                   "klientenportal/klientenportal-kanzlei/lohnverrechnung/lohnvorerfassung/klientnichtfreigegebene-daten"
-                ]
+                ],
+                "collapsed": true
               },
               "klientenportal/klientenportal-kanzlei/lohnverrechnung/anmeldungen",
               "klientenportal/klientenportal-kanzlei/lohnverrechnung/anbindung-rota"
-            ]
+            ],
+            "collapsed": true
           },
           {
             "label": "Finanzbuchhaltung",
@@ -948,10 +1031,12 @@ export const sidebar = [
                   "klientenportal/klientenportal-kanzlei/finanzbuchhaltung/fibu-vorerfassung/buchungsregeln",
                   "klientenportal/klientenportal-kanzlei/finanzbuchhaltung/fibu-vorerfassung/klientfreigegeben",
                   "klientenportal/klientenportal-kanzlei/finanzbuchhaltung/fibu-vorerfassung/klientnichtfreigegeben"
-                ]
+                ],
+                "collapsed": true
               },
               "klientenportal/klientenportal-kanzlei/finanzbuchhaltung/fibu-auswertung"
-            ]
+            ],
+            "collapsed": true
           },
           {
             "label": "Dienstnehmerbereich",
@@ -962,7 +1047,8 @@ export const sidebar = [
               },
               "klientenportal/klientenportal-kanzlei/dienstnehmerbereich/einrichtung",
               "klientenportal/klientenportal-kanzlei/dienstnehmerbereich/sendenandn"
-            ]
+            ],
+            "collapsed": true
           },
           {
             "label": "Belegbox",
@@ -972,9 +1058,11 @@ export const sidebar = [
               "klientenportal/klientenportal-kanzlei/belegbox/belegsynchronisation",
               "klientenportal/klientenportal-kanzlei/belegbox/belegkreise",
               "klientenportal/klientenportal-kanzlei/belegbox/klientenansicht"
-            ]
+            ],
+            "collapsed": true
           }
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Klientenportal-Klient",
@@ -983,15 +1071,18 @@ export const sidebar = [
             "slug": "klientenportal/klientenportal-klient",
             "label": "Hilfestellung für Klienten"
           }
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Kurzanleitungen",
         "items": [
           "klientenportal/kurzanleitungen/anmeldung-stammdatenerfassung"
-        ]
+        ],
+        "collapsed": true
       }
-    ]
+    ],
+    "collapsed": true
   },
   {
     "label": "HON Next",
@@ -1007,7 +1098,8 @@ export const sidebar = [
           "hon-next/allgemeine-bedienung/hilfreiche-shortcuts",
           "hon-next/allgemeine-bedienung/sonstige-funktionen",
           "hon-next/allgemeine-bedienung/hilfsmittel"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Stammdaten HON Next",
@@ -1020,7 +1112,8 @@ export const sidebar = [
           "hon-next/stammdaten-hon-next/nummernbereiche",
           "hon-next/stammdaten-hon-next/feiertagsverwaltung",
           "hon-next/stammdaten-hon-next/allgemeine-textbausteine"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Einstellungen",
@@ -1029,7 +1122,8 @@ export const sidebar = [
           "hon-next/einstellungen/mitarbeiter-leistungserfassung",
           "hon-next/einstellungen/einstellungen-urlaubsverwaltung",
           "hon-next/einstellungen/bewegungsdaten-bearbeiten"
-        ]
+        ],
+        "collapsed": true
       },
       "hon-next/unternehmensbereiche",
       "hon-next/stammdaten-mitarbeiter",
@@ -1041,7 +1135,8 @@ export const sidebar = [
           "hon-next/verrechnungs-erfassungsklient/hinterlegung-in-den-stammdaten",
           "hon-next/verrechnungs-erfassungsklient/notenerstellung-verrechnungsklient",
           "hon-next/verrechnungs-erfassungsklient/auswertungen"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Leistungserfassung",
@@ -1049,7 +1144,8 @@ export const sidebar = [
           "hon-next/leistungserfassung/leistungen-erfassen",
           "hon-next/leistungserfassung/leistungsuebersicht",
           "hon-next/leistungserfassung/leistungen-umbuchen"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Mitarbeiterübersicht",
@@ -1059,7 +1155,8 @@ export const sidebar = [
           "hon-next/mitarbeiteruebersicht/tageserfassung-im-hon",
           "hon-next/mitarbeiteruebersicht/import-arbeitszeiten-und-leistungen",
           "hon-next/mitarbeiteruebersicht/urlaubskartei"
-        ]
+        ],
+        "collapsed": true
       },
       "hon-next/ueberstundenauszahlungen-erfassen",
       {
@@ -1073,7 +1170,8 @@ export const sidebar = [
           "hon-next/notenerstellung/automatische-rabatte-und-aufschlaege",
           "hon-next/notenerstellung/interne-note",
           "hon-next/notenerstellung/leere-note"
-        ]
+        ],
+        "collapsed": true
       },
       "hon-next/gutschriftenerstellung",
       {
@@ -1083,7 +1181,8 @@ export const sidebar = [
           "hon-next/akontozahlung/anlage-einer-akontozahlung",
           "hon-next/akontozahlung/wiederkehrende-akonten",
           "hon-next/akontozahlung/notenerstellung-und-belegverarbeitung-mit-akontozahlung"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Anzahlungsrechnungen",
@@ -1094,7 +1193,8 @@ export const sidebar = [
           "hon-next/anzahlungsrechnungen/beispiel-soll-versteuerer",
           "hon-next/anzahlungsrechnungen/beispiel-ist-versteuerer",
           "hon-next/anzahlungsrechnungen/anzahlungen-auslaend-klienten"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Pauschalverrechnung",
@@ -1110,7 +1210,8 @@ export const sidebar = [
           "hon-next/pauschalverrechnung/automatische-gutschrift-einer-pauschale",
           "hon-next/pauschalverrechnung/pauschalstatistik",
           "hon-next/pauschalverrechnung/pauschalen-in-den-umsatzstatistiken"
-        ]
+        ],
+        "collapsed": true
       },
       "hon-next/notenuebersicht",
       "hon-next/notenrueckblick",
@@ -1123,7 +1224,8 @@ export const sidebar = [
           "hon-next/notenvorlagen/zuordnung-der-vorlage",
           "hon-next/notenvorlagen/vorlage-exportieren-und-importieren",
           "hon-next/notenvorlagen/formelsammlung"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Auswertungen",
@@ -1139,10 +1241,12 @@ export const sidebar = [
           "hon-next/auswertungen/mitarbeiter-und-klientenliste",
           "hon-next/auswertungen/statistiken",
           "hon-next/auswertungen/speicherbare-layouts"
-        ]
+        ],
+        "collapsed": true
       },
       "hon-next/datenuebernahme"
-    ]
+    ],
+    "collapsed": true
   },
   {
     "label": "LE Next",
@@ -1169,7 +1273,8 @@ export const sidebar = [
           "le-next/leistungserfassung/unvollstaendige-tage",
           "le-next/leistungserfassung/datenimport",
           "le-next/leistungserfassung/leistungen-verschieben"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Einstellungen",
@@ -1179,14 +1284,16 @@ export const sidebar = [
           "le-next/einstellungen/arbeitszeit-vorschlagen",
           "le-next/einstellungen/zeiterfassung",
           "le-next/einstellungen/persoenliche-textbausteine"
-        ]
+        ],
+        "collapsed": true
       },
       "le-next/arbeitszeitkalender",
       "le-next/urlaubskartei",
       "le-next/sonstige-funktionen",
       "le-next/unterschiede-bei-erfassung-zu-le-klassik",
       "le-next/hilfreiche-shortcuts"
-    ]
+    ],
+    "collapsed": true
   },
   {
     "label": "PDF Manager",
@@ -1201,7 +1308,8 @@ export const sidebar = [
           "pdf-manager/allgemein/allgemeine-informationen",
           "pdf-manager/allgemein/technische-voraussetzungen",
           "pdf-manager/allgemein/erste-schritte"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Arbeitsoberfläche",
@@ -1212,14 +1320,16 @@ export const sidebar = [
           "pdf-manager/arbeitsoberflaeche/dokumentenvorschau",
           "pdf-manager/arbeitsoberflaeche/detailansicht",
           "pdf-manager/arbeitsoberflaeche/externe-dokumente-und-bilder-drucken"
-        ]
+        ],
+        "collapsed": true
       },
       "pdf-manager/registerblatt-dokument",
       "pdf-manager/registerblatt-bearbeiten",
       "pdf-manager/registerblatt-workflow",
       "pdf-manager/registerblatt-einstellungen",
       "pdf-manager/registerblatt-seitenbearbeitung"
-    ]
+    ],
+    "collapsed": true
   },
   {
     "label": "Reporting",
@@ -1234,7 +1344,8 @@ export const sidebar = [
           "reporting/report-bearbeiten/suchen-und-ersetzen",
           "reporting/report-bearbeiten/formatvorlagen",
           "reporting/report-bearbeiten/kopf-und-fusszeile"
-        ]
+        ],
+        "collapsed": true
       },
       "reporting/ansichten",
       {
@@ -1251,7 +1362,8 @@ export const sidebar = [
           "reporting/eigenschaftsfenster/tabellenzelle",
           "reporting/eigenschaftsfenster/diagramm",
           "reporting/eigenschaftsfenster/aufruf-eigenschaftsfenster"
-        ]
+        ],
+        "collapsed": true
       },
       "reporting/einfuegen",
       {
@@ -1260,7 +1372,8 @@ export const sidebar = [
           "reporting/formeln/einfuegen-und-bearbeiten-von-formeln",
           "reporting/formeln/formelliste",
           "reporting/formeln/formel-suchen"
-        ]
+        ],
+        "collapsed": true
       },
       "reporting/tabelle",
       "reporting/kontextmenue",
@@ -1274,9 +1387,11 @@ export const sidebar = [
           "reporting/formelsammlungen/lohn",
           "reporting/formelsammlungen/bilanz-und-finanzbuchhaltung",
           "reporting/formelsammlungen/honorarverrechnung"
-        ]
+        ],
+        "collapsed": true
       }
-    ]
+    ],
+    "collapsed": true
   },
   {
     "label": "Setup",
@@ -1311,7 +1426,8 @@ export const sidebar = [
       "setup/personalakt-aktivieren",
       "setup/dokvplus-einrichten",
       "setup/passiver-modus"
-    ]
+    ],
+    "collapsed": true
   },
   {
     "label": "RZL Admin",
@@ -1327,7 +1443,8 @@ export const sidebar = [
       "rzladmin/verwaltung",
       "rzladmin/aktivitaetsmonitor",
       "rzladmin/knowledge-base"
-    ]
+    ],
+    "collapsed": true
   },
   {
     "label": "Technik",
@@ -1356,7 +1473,8 @@ export const sidebar = [
           "technik/kurzanleitungen/unterschied-sqlexpress-sqlstandard",
           "technik/kurzanleitungen/port-programm-freigaben",
           "technik/kurzanleitungen/logdateien-hochladen"
-        ]
+        ],
+        "collapsed": true
       },
       {
         "label": "Knowledge Base",
@@ -1381,9 +1499,11 @@ export const sidebar = [
           "technik/kbartikel/kb0033",
           "technik/kbartikel/kb0034",
           "technik/kbartikel/kb0035"
-        ]
+        ],
+        "collapsed": true
       }
-    ]
+    ],
+    "collapsed": true
   }
 ] satisfies NonNullable<StarlightUserConfig['sidebar']>;
 

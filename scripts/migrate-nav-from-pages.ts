@@ -15,6 +15,7 @@ interface SidebarLink {
 interface SidebarGroup {
   label: string;
   items: SidebarItem[];
+  collapsed: boolean;
 }
 
 type SidebarItem = string | SidebarLink | SidebarGroup;
@@ -169,7 +170,14 @@ async function buildDirectoryItems(
     if (info.isDirectory()) {
       const nestedItems = await buildDirectoryItems(contentRoot, relative, usedPages);
       if (nestedItems.length === 0) throw new Error(`Navigation group is empty: ${relative}`);
-      items.push({ label: item.label ?? await directoryLabel(contentRoot, relative), items: nestedItems });
+      items.push({
+        label: item.label ?? await directoryLabel(contentRoot, relative),
+        items: nestedItems,
+        // Collapsed by default; Starlight still auto-opens whichever group
+        // contains the currently active page (see SidebarSublist.astro:
+        // `open={flattenSidebar(entry.entries).some(i => i.isCurrent) || !entry.collapsed}`).
+        collapsed: true,
+      });
       continue;
     }
 
