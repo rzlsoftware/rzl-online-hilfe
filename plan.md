@@ -45,12 +45,12 @@ Migrate **RZL Online Hilfe** from MkDocs Material (MkDocs 1.x) to **Astro + Star
 
 ## 1.2 Known issues to fix (found during review)
 
-These were found during manual review of the built Starlight site and must be fixed before Phase 4 UAT sign-off. Cross-referenced from their relevant sections below.
+These were found during manual review of the built Starlight site. **All four fixed** (`7dcf982`, `e0aeb0b`, `9bea5b5`, `03e5aa5`); cross-referenced from their relevant sections below.
 
-- [ ] **Light/dark image variants both render.** On most program title/index pages, the title image is present twice — once as the `#only-light` variant and once as the `#only-dark` variant — and **both are shown at once** instead of exactly one depending on the active theme. The remark/rehype handling for `#only-light` / `#only-dark` (§6.5) is not actually switching visibility; needs a proper `<picture>`/CSS-based light-dark toggle (e.g. hide one via `[data-theme]`-scoped CSS, or Starlight's own light/dark image convention) instead of rendering both unconditionally.
-- [ ] **`{:width="..."}` attribute lists are not converted.** Some images have MkDocs `attr_list` width annotations like `{:width="1000px"}` directly after the image markdown. These are not stripped/converted during migration and are rendered as **literal visible text** on the page instead of being applied as an image width style. Need a migration/remark step (§6.7 `attr_list`) that either applies the width as inline style/attribute on the rendered `<img>` or, if not feasible generally, strips the annotation text so it isn't shown to users while filing it as a known content gap.
-- [ ] **Search program filter has no effect.** The `<select>` dropdown in search (§7.1, `src/components/ProgramSearch.astro` / `programFilter.ts`) lets the user pick a program, but selecting one currently does not filter/narrow the visible search results at all — the selection is inert. Needs debugging: likely the `MutationObserver` / result-item matching logic isn't correctly hooking into Pagefind's actual result DOM (class names, timing of mount) — verify with `pnpm preview` and fix so results are actually hidden/shown per selection, matching legacy `search-filter.js` behavior.
-- [ ] **Sidebar navigation is expanded by default.** The left navigation tree currently renders fully expanded; it must be **collapsed by default** (matching prior MkDocs/awesome-pages behavior where only the active section's path is expanded). Check Starlight sidebar group `collapsed`/`expanded` config (`sidebar` entries generated in `src/nav/sidebar.generated.ts` / `scripts/migrate-nav-from-pages.ts`) and set groups to collapsed by default, auto-expanding only the active page's ancestor path.
+- [x] **Light/dark image variants both render.** Fixed (`7dcf982`): added CSS rules (`[data-theme='light'] .img-dark { display: none }` and the inverse) to `src/styles/rzl.css`. The remark plugin already tagged images correctly (§6.5); only the hiding CSS was missing.
+- [x] **`{:width="..."}` attribute lists are not converted.** Fixed (`e0aeb0b`), root cause was two-fold: (1) `remark-smartypants` ran before our custom remark plugin and converted straight quotes to curly quotes, breaking the regex match — disabled smartypants site-wide in `astro.config.ts` (also more correct for German content); (2) Starlight's `remark-directive` (used for `:::note`/`:::caution` asides) is a syntax extension that intercepts `{:name=...}` during parsing and splits the sibling text node into `Text("{") + textDirective(name) + Text(rest)` — `src/plugins/remark-mkdocs-attributes.ts` now reconstructs the value across both the split and plain shapes, covered by a new regression test. Also fixed two pre-existing content typos this surfaced (stray colon instead of semicolon; a missing closing quote) in two Reporting pages.
+- [x] **Search program filter has no effect.** Fixed (`9bea5b5`): root cause was CSS specificity/cascade, not JS logic — Pagefind's bundled `ui.css` sets `display: flex` on `.pagefind-ui__result` as an author-origin rule, which always overrides the User-Agent default `[hidden] { display: none }` regardless of specificity. `programFilter.ts` now sets `item.style.display` directly (inline styles reliably win over external stylesheets).
+- [x] **Sidebar navigation is expanded by default.** Fixed (`03e5aa5`): `scripts/migrate-nav-from-pages.ts` now emits `collapsed: true` on every generated sidebar group; Starlight's `SidebarSublist.astro` already auto-opens whichever group contains the active page regardless of `collapsed`, so no extra expand-logic was needed.
 
 ---
 
@@ -240,7 +240,7 @@ Production today: `https://hilfe.rzlsoftware.at/` with directory URLs (MkDocs `i
 
 ### 5.4 Validation
 
-**Status:** ⚠️ Bug — see §1.2. Sidebar groups currently render fully expanded by default; must default to collapsed (auto-expanding only the active page's ancestor path), matching prior MkDocs/awesome-pages UX.
+**Status:** ✅ Fixed (`03e5aa5`) — generated groups now set `collapsed: true`; Starlight auto-expands the active page's ancestor path natively.
 
 - Every content file appears exactly once in nav (or intentionally hidden via frontmatter)
 - No empty groups
@@ -342,7 +342,7 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 
 ### 6.5 Images and light/dark
 
-**Status:** ⚠️ Bug — see §1.2. Both `#only-light` and `#only-dark` variants currently render simultaneously instead of one being hidden by theme; needs fix before UAT.
+**Status:** ✅ Fixed (`7dcf982`) — added `[data-theme='light'] .img-dark { display: none }` (and inverse) to `src/styles/rzl.css`.
 
 - Rewrite `#only-light` / `#only-dark` to a supported pattern:
   - **Preferred:** custom remark → wrap in `<div class="img-light">` / `img-dark` + CSS in `rzl.css`, or Starlight-compatible picture switching
@@ -359,7 +359,7 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 
 ### 6.7 Markdown extensions parity
 
-**Status:** ⚠️ Bug — see §1.2. `attr_list` width annotations (e.g. `{:width="1000px"}` after an image) are currently left as literal visible text on the page instead of being converted/applied or stripped.
+**Status:** ✅ Fixed (`e0aeb0b`) — root cause was `remark-smartypants` breaking quote matching (now disabled) plus Starlight's `remark-directive` splitting `{:name=...}` into a `textDirective` node; `remark-mkdocs-attributes.ts` now reconstructs both shapes.
 
 | Feature | Action |
 |---------|--------|
@@ -411,7 +411,7 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 
 ### 7.1 Search + program filter
 
-**Status:** ⚠️ Bug — see §1.2. UI scaffolding implemented (`012036f`, `src/components/ProgramSearch.astro` + `src/components/search/programFilter.ts`), but **selecting a program in the dropdown currently has no effect on the displayed results** — filtering is broken/inert and must be fixed before UAT. **Known follow-ups:** program id is derived client-side from the URL path segment (mapped via `src/nav/programs.generated.ts`), not from native Pagefind facets — `migrate-content.ts` already injects a `program` frontmatter field per page, but it is not yet emitted as a `data-pagefind-filter` attribute in rendered HTML; wiring that up would allow switching to Pagefind's native filter API instead of DOM `MutationObserver` hiding, which is likely more robust than the current (currently non-functional) DOM-matching approach. Filter DOM coupling depends on `@pagefind/default-ui` class names (`.pagefind-ui__result` etc.) — needs a manual `pnpm preview` smoke test (not exercised by `astro check`/`build`).
+**Status:** ✅ Fixed (`9bea5b5`) — root cause was CSS cascade, not JS logic: Pagefind's bundled `ui.css` sets `display: flex` on `.pagefind-ui__result` (author-origin), which always beats the UA-default `[hidden]{display:none}` regardless of specificity. `programFilter.ts` now toggles `item.style.display` directly. **Still open (non-blocking):** program id is derived client-side from the URL path segment rather than native Pagefind facets (`data-pagefind-filter` isn't emitted yet); a manual `pnpm preview` click-through is still recommended for final UAT confidence.
 
 **Today:** Lunr via Material + `program_filter.py` enriches `search_index.json` + `search-filter.js` UI.
 
