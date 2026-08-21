@@ -444,8 +444,7 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 
 ### 7.4 404
 
-**Status:** ✅ Implemented (`012036f`) — `src/content/docs/404.md`, formal German copy, `template: splash`.
-
+**Status:** ✅ Implemented (`012036f`); redirect coverage gap fixed during Phase 4 QA — `src/content/docs/404.md`, formal German copy, `template: splash`. **Found during Phase 4 QA:** `scripts/build-redirect-map.ts` only inlines the ~139 shortest legacy redirects into `staticwebapp.config.json` (Azure's 20 KB route-config limit); the remaining ~1,831 of 1,970 legacy paths were written to `public/legacy-redirects.json` as a "client fallback map" but nothing actually read that file — those URLs silently 404'd. Fixed by adding an inline `<script>` (frontmatter `head`) to `404.md` that looks up the current path (raw, decoded, and trailing-slash variants) in `/legacy-redirects.json` and does `location.replace()` on a match. Also fixed a pre-existing `scripts/validate-urls.ts` false-positive (404.md isn't in `migration-report.json` and builds to `dist/404.html`, not a directory route) so `pnpm validate:urls` passes cleanly and now genuinely proves all 1,970 redirect rules are reachable, not just the inlined subset.
 - **Formal German** copy (e.g. page not found, link home, hint to use search) — not the playful “Ups :D” tone unless brand revisits later
 - SWA `responseOverrides` rewrite unchanged in spirit
 
@@ -559,11 +558,13 @@ Replace pip/mkdocs steps with:
 
 ### Phase 4 — QA and editorial UAT (3–5 days)
 
-- [ ] Checklist §6.9
-- [ ] **Per-program contacts** click-through and written sign-off
-- [ ] Accessibility smoke (keyboard search filter, contrast)
+- [ ] Checklist §6.9 (engineering smoke pass done, see below; editorial pass still open)
+- [ ] **Per-program contacts** click-through and written sign-off — contacts not yet named
+- [ ] Accessibility smoke (keyboard search filter, contrast) — search filter uses a native `<select>` with `aria-label`; full manual pass still open
 - [ ] Performance smoke (LCP on home, search open)
-- [ ] Redirect spot-check: old spaced URLs → new slugs
+- [x] Redirect spot-check: old spaced URLs → new slugs — found and fixed a real gap: only ~139/1970 legacy redirects were inlined into `staticwebapp.config.json` (Azure size limit); the rest relied on an unused `public/legacy-redirects.json` fallback map. Added a client-side lookup script to `404.md` (see §7.4) so all 1,970 legacy paths now resolve; `pnpm validate:urls` passes and confirms full coverage.
+
+**Phase 4 engineering smoke pass (this session):** `pnpm check`, `pnpm build` (734 pages), `pnpm test` (12/12), and `pnpm validate:urls` all clean. Spot-checked: home/impressum/datenschutz titles, all 13 top-level program indexes (technik intentionally has no index page, matching legacy `docs/technik/.pages`), admonition conversion counts (284 caution / 204 note / 1 tip asides, zero unconverted `!!!`), `{:width=...}` attr_list rendering (`style="width:1000px;"` confirmed in built HTML), light/dark image CSS rules present, Hainz header link (`https://hainz.rzlsoftware.at`), no `pdf.css` remnants anywhere in source or `dist/`, and the program filter `<select>` (native element, `aria-label="Programm"`, "Alle Programme" default option, all 13 programs, `localStorage` persistence). Still open: named per-program UAT contacts, full manual click-through (search results, mobile nav, keyboard-only pass), and performance/LCP measurement — these need human/editorial involvement rather than being purely engineering-verifiable.
 
 **Exit:** all program contacts signed off (or waivers recorded).
 
