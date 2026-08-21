@@ -24,6 +24,7 @@ export default defineConfig({
         },
       },
       sidebar,
+      favicon: '/favicon.svg',
       customCss: ['./src/styles/rzl.css'],
       components: {
         SocialIcons: './src/components/HainzLink.astro',
