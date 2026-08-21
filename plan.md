@@ -43,6 +43,17 @@ Migrate **RZL Online Hilfe** from MkDocs Material (MkDocs 1.x) to **Astro + Star
 
 ---
 
+## 1.2 Known issues to fix (found during review)
+
+These were found during manual review of the built Starlight site and must be fixed before Phase 4 UAT sign-off. Cross-referenced from their relevant sections below.
+
+- [ ] **Light/dark image variants both render.** On most program title/index pages, the title image is present twice — once as the `#only-light` variant and once as the `#only-dark` variant — and **both are shown at once** instead of exactly one depending on the active theme. The remark/rehype handling for `#only-light` / `#only-dark` (§6.5) is not actually switching visibility; needs a proper `<picture>`/CSS-based light-dark toggle (e.g. hide one via `[data-theme]`-scoped CSS, or Starlight's own light/dark image convention) instead of rendering both unconditionally.
+- [ ] **`{:width="..."}` attribute lists are not converted.** Some images have MkDocs `attr_list` width annotations like `{:width="1000px"}` directly after the image markdown. These are not stripped/converted during migration and are rendered as **literal visible text** on the page instead of being applied as an image width style. Need a migration/remark step (§6.7 `attr_list`) that either applies the width as inline style/attribute on the rendered `<img>` or, if not feasible generally, strips the annotation text so it isn't shown to users while filing it as a known content gap.
+- [ ] **Search program filter has no effect.** The `<select>` dropdown in search (§7.1, `src/components/ProgramSearch.astro` / `programFilter.ts`) lets the user pick a program, but selecting one currently does not filter/narrow the visible search results at all — the selection is inert. Needs debugging: likely the `MutationObserver` / result-item matching logic isn't correctly hooking into Pagefind's actual result DOM (class names, timing of mount) — verify with `pnpm preview` and fix so results are actually hidden/shown per selection, matching legacy `search-filter.js` behavior.
+- [ ] **Sidebar navigation is expanded by default.** The left navigation tree currently renders fully expanded; it must be **collapsed by default** (matching prior MkDocs/awesome-pages behavior where only the active section's path is expanded). Check Starlight sidebar group `collapsed`/`expanded` config (`sidebar` entries generated in `src/nav/sidebar.generated.ts` / `scripts/migrate-nav-from-pages.ts`) and set groups to collapsed by default, auto-expanding only the active page's ancestor path.
+
+---
+
 ## 2. Current state (inventory)
 
 | Item | Value |
@@ -229,10 +240,13 @@ Production today: `https://hilfe.rzlsoftware.at/` with directory URLs (MkDocs `i
 
 ### 5.4 Validation
 
+**Status:** ⚠️ Bug — see §1.2. Sidebar groups currently render fully expanded by default; must default to collapsed (auto-expanding only the active page's ancestor path), matching prior MkDocs/awesome-pages UX.
+
 - Every content file appears exactly once in nav (or intentionally hidden via frontmatter)
 - No empty groups
 - Order matches production for top-level programs and spot-checked deep trees (LOHN, KIS)
 - Changing a `.pages` entry changes sidebar after refresh/`pnpm dev` without hand-editing TS config
+- Sidebar groups collapsed by default; active page's path auto-expanded
 
 ---
 
@@ -328,6 +342,8 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 
 ### 6.5 Images and light/dark
 
+**Status:** ⚠️ Bug — see §1.2. Both `#only-light` and `#only-dark` variants currently render simultaneously instead of one being hidden by theme; needs fix before UAT.
+
 - Rewrite `#only-light` / `#only-dark` to a supported pattern:
   - **Preferred:** custom remark → wrap in `<div class="img-light">` / `img-dark` + CSS in `rzl.css`, or Starlight-compatible picture switching
 - Ensure relative image paths resolve after move
@@ -343,11 +359,13 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 
 ### 6.7 Markdown extensions parity
 
+**Status:** ⚠️ Bug — see §1.2. `attr_list` width annotations (e.g. `{:width="1000px"}` after an image) are currently left as literal visible text on the page instead of being converted/applied or stripped.
+
 | Feature | Action |
 |---------|--------|
 | `admonition` / `details` | §6.4 |
 | `superfences` | Starlight/Shiki fences; test nested fences |
-| `attr_list` | limited; convert critical cases or remark attributes |
+| `attr_list` | limited; convert critical cases or remark attributes — **image `{:width=...}` currently unhandled, renders as literal text (§1.2)** |
 | `md_in_html` | audit raw HTML; keep if Astro allows |
 | `toc` | Starlight right-rail TOC |
 | Tables, lists, bold | standard CommonMark/GFM |
@@ -393,7 +411,7 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 
 ### 7.1 Search + program filter
 
-**Status:** ✅ Implemented (`012036f`) — `src/components/ProgramSearch.astro` + `src/components/search/programFilter.ts`. **Known follow-ups:** program id is derived client-side from the URL path segment (mapped via `src/nav/programs.generated.ts`), not from native Pagefind facets — `migrate-content.ts` already injects a `program` frontmatter field per page, but it is not yet emitted as a `data-pagefind-filter` attribute in rendered HTML; wiring that up would allow switching to Pagefind's native filter API instead of DOM `MutationObserver` hiding. Filter DOM coupling depends on `@pagefind/default-ui` class names (`.pagefind-ui__result` etc.) — needs a manual `pnpm preview` smoke test (not exercised by `astro check`/`build`).
+**Status:** ⚠️ Bug — see §1.2. UI scaffolding implemented (`012036f`, `src/components/ProgramSearch.astro` + `src/components/search/programFilter.ts`), but **selecting a program in the dropdown currently has no effect on the displayed results** — filtering is broken/inert and must be fixed before UAT. **Known follow-ups:** program id is derived client-side from the URL path segment (mapped via `src/nav/programs.generated.ts`), not from native Pagefind facets — `migrate-content.ts` already injects a `program` frontmatter field per page, but it is not yet emitted as a `data-pagefind-filter` attribute in rendered HTML; wiring that up would allow switching to Pagefind's native filter API instead of DOM `MutationObserver` hiding, which is likely more robust than the current (currently non-functional) DOM-matching approach. Filter DOM coupling depends on `@pagefind/default-ui` class names (`.pagefind-ui__result` etc.) — needs a manual `pnpm preview` smoke test (not exercised by `astro check`/`build`).
 
 **Today:** Lunr via Material + `program_filter.py` enriches `search_index.json` + `search-filter.js` UI.
 
