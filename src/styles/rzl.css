@@ -65,3 +65,17 @@
 	--sl-color-asides-text-accent: color-mix(in srgb, var(--rzl-green) 65%, white);
 	background-color: color-mix(in srgb, var(--rzl-green) 18%, var(--sl-color-bg));
 }
+
+/*
+ * Light/dark image variants (legacy `#only-light` / `#only-dark` MkDocs
+ * convention, ported by `src/plugins/remark-mkdocs-attributes.ts` into
+ * `.img-light` / `.img-dark` classes). Only the variant matching the
+ * active theme should be shown.
+ */
+[data-theme='light'] .img-dark {
+	display: none;
+}
+
+[data-theme='dark'] .img-light {
+	display: none;
+}
