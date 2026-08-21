@@ -393,6 +393,8 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 
 ### 7.1 Search + program filter
 
+**Status:** ✅ Implemented (`012036f`) — `src/components/ProgramSearch.astro` + `src/components/search/programFilter.ts`. **Known follow-ups:** program id is derived client-side from the URL path segment (mapped via `src/nav/programs.generated.ts`), not from native Pagefind facets — `migrate-content.ts` already injects a `program` frontmatter field per page, but it is not yet emitted as a `data-pagefind-filter` attribute in rendered HTML; wiring that up would allow switching to Pagefind's native filter API instead of DOM `MutationObserver` hiding. Filter DOM coupling depends on `@pagefind/default-ui` class names (`.pagefind-ui__result` etc.) — needs a manual `pnpm preview` smoke test (not exercised by `astro check`/`build`).
+
 **Today:** Lunr via Material + `program_filter.py` enriches `search_index.json` + `search-filter.js` UI.
 
 **Target:**
@@ -403,15 +405,19 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 4. Override Starlight Search UI component to add `<select>` (“Alle Programme” + **labels from top-level `.pages` / nav titles**)  
 5. German strings for search UI  
 
-**Acceptance:** filtering narrows results; “Alle” shows full set; labels match sidebar program titles; preference persists; no console errors.
+**Acceptance:** filtering narrows results; “Alle” shows full set; labels match sidebar program titles; preference persists; no console errors. — Automated build/check verified; manual UAT click-through still pending (Phase 4).
 
 ### 7.2 Hainz header
+
+**Status:** ✅ Implemented (`012036f`) — `src/components/HainzLink.astro`, wired via Starlight's `SocialIcons` component override (no more specific "extra header action" slot exists in Starlight 0.41.7).
 
 - Starlight component override for `SiteTitle` / `Header` / social slot (evaluate current Starlight override API at implement time)
 - Port from `overrides/main.html`: link `https://hainz.rzlsoftware.at`, icon asset
 - Type-checkable `.astro` component
 
 ### 7.3 Branding CSS
+
+**Status:** ✅ Mostly implemented (`012036f`) — `src/styles/rzl.css` ports RZL colors to `--sl-*` variables with light/dark accent overrides and caution/note admonition tinting. **Open:** Footer copyright + impressum/datenschutz link parity not yet ported (Starlight default footer in use).
 
 - Port RZL CSS variables from `extra.css` away from `--md-*` toward Starlight CSS variables / custom properties
 - Light + dark palettes
@@ -420,10 +426,14 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 
 ### 7.4 404
 
+**Status:** ✅ Implemented (`012036f`) — `src/content/docs/404.md`, formal German copy, `template: splash`.
+
 - **Formal German** copy (e.g. page not found, link home, hint to use search) — not the playful “Ups :D” tone unless brand revisits later
 - SWA `responseOverrides` rewrite unchanged in spirit
 
 ### 7.5 Trailing slash helper
+
+**Status:** ⏳ Not yet started — `trailingSlash: 'always'` is set in `astro.config.ts`; `docs/scripts/redirect.js` client-side helper has not been evaluated/ported or explicitly dropped yet.
 
 - Prefer config over client redirect; drop `redirect.js` if platform handles it
 - If still needed: small TypeScript module, not loose JS
@@ -459,6 +469,8 @@ Collapsed `???` admonitions → Starlight UI equivalent or HTML `<details>` via 
 ---
 
 ## 9. CI / CD and DevContainer
+
+**Status:** ✅ Implemented (`c3d5b0a`) — `.github/workflows/build-docs.yml` now runs Node/pnpm setup + `pnpm check && pnpm build`; `.devcontainer/*` and `.vscode/launch.json` updated to Node/pnpm/`pnpm dev`. §9.3 Dependabot alignment still open (not yet touched).
 
 ### 9.1 GitHub Actions
 
@@ -511,9 +523,9 @@ Replace pip/mkdocs steps with:
 - [x] Finish `migrate-content.ts`, `migrate-nav-from-pages.ts`, `build-redirect-map.ts`, `validate-urls.ts`
 - [x] Remark/rehype plugins stable (`remark-mkdocs-attributes.ts`)
 - [x] Migration report + CI grep gates (`!!!` free, etc.) — `migration-report.json` written, only minor title-derivation warnings remain
-- [ ] Component overrides: Header/Hainz, Search+filter, 404, Footer — in progress
+- [x] Component overrides: Header/Hainz (`src/components/HainzLink.astro`), Search+filter (`src/components/ProgramSearch.astro`), 404 (`src/content/docs/404.md`) — Footer not yet customized (using Starlight default; revisit if legal-links/copyright parity needed)
 
-**Exit:** scripts run clean on full `docs/` copy in branch. ✅ Achieved for content/nav/redirects; component overrides still open.
+**Exit:** scripts run clean on full `docs/` copy in branch. ✅ Achieved.
 
 ### Phase 3 — Full content migration (3–6 days)
 
@@ -522,10 +534,10 @@ Replace pip/mkdocs steps with:
 - [x] Ensure `.pages` tree moved/updated with content; sidebar generates cleanly
 - [x] Generate redirect map from old `dist/` or production crawl (`redirects.generated.json`, `public/legacy-redirects.json`, inline `staticwebapp.config.json` routes for the top SWA-size-limited subset)
 - [x] Fix link/check failures iteratively — `pnpm check` and `pnpm build` both clean (733 pages built)
-- [ ] Port CSS branding (no `pdf.css`) — in progress
-- [x] Full `pnpm check && pnpm build` — 0 errors/warnings/hints; build completes in ~10-12s
+- [x] Port CSS branding (no `pdf.css`) — `src/styles/rzl.css` ported to Starlight `--sl-*` variables, admonition tinting for caution/note
+- [x] Full `pnpm check && pnpm build` — 0 errors/warnings/hints; build completes in ~10-14s
 
-**Exit:** zero check errors; build green; known defect list only minor (title-derivation warnings, branding/overrides still open).
+**Exit:** zero check errors; build green; known defect list only minor (title-derivation warnings; Footer override and native Pagefind faceting are follow-ups, see §7.1 notes below).
 
 ### Phase 4 — QA and editorial UAT (3–5 days)
 
