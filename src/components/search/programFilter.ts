@@ -108,7 +108,12 @@ function applyFilter(
   for (const item of items) {
     const programId = deriveProgramId(item, routeSegmentToId);
     const match = !selected || programId === selected;
-    item.toggleAttribute('hidden', !match);
+    // Pagefind's bundled CSS (`@pagefind/default-ui/css/ui.css`) sets
+    // `display: flex` on `.pagefind-ui__result` as an author-origin style,
+    // which always overrides the User-Agent default `[hidden] { display: none }`
+    // regardless of specificity. Setting an inline style instead reliably wins
+    // over the external stylesheet.
+    item.style.display = match ? '' : 'none';
     if (match) visible += 1;
   }
 
