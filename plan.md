@@ -490,42 +490,42 @@ Replace pip/mkdocs steps with:
 ### Phase 0 — Foundations (0.5–1 day)
 
 - [x] Create branch `chore/astro-starlight-migration` (plan committed)
-- [ ] Scaffold Astro Starlight with **pnpm**
-- [ ] Enable strict TypeScript + `astro check` in CI skeleton
-- [ ] Pin toolchain: `packageManager` + `.nvmrc` + DevContainer/CI same Node
-- [ ] Apply locked decisions (§1.1); only remaining spike choice: image asset layout
+- [x] Scaffold Astro Starlight with **pnpm**
+- [x] Enable strict TypeScript + `astro check` in CI skeleton
+- [x] Pin toolchain: `packageManager` + `.nvmrc` + DevContainer/CI same Node
+- [x] Apply locked decisions (§1.1); only remaining spike choice: image asset layout
 
-**Exit:** empty Starlight site builds and checks clean.
+**Exit:** empty Starlight site builds and checks clean. ✅ Done (`32551e1`).
 
 ### Phase 1 — Spike on real slice (2–4 days)
 
-- [ ] Import home + one program (Board) + legal pages through migration scripts (even if partial)
-- [ ] Prove admonitions, images, sidebar generation, search filter MVP
-- [ ] Measure build time and output size
-- [ ] Validate Azure SWA deploy from spike artifact (preview env)
+- [x] Import home + one program (Board) + legal pages through migration scripts (even if partial)
+- [x] Prove admonitions, images, sidebar generation, search filter MVP
+- [x] Measure build time and output size (full 732-route build ~10-12s, see Phase 3 note)
+- [ ] Validate Azure SWA deploy from spike artifact (preview env) — pending real deploy/PR preview
 
-**Exit:** written spike notes; go/no-go on remaining assumptions; adjust plan if blocked.
+**Exit:** spike folded directly into full migration (`b635ad6`); no blocking issues found.
 
 ### Phase 2 — Tooling complete (3–5 days)
 
-- [ ] Finish `migrate-content.ts`, `migrate-nav-from-pages.ts`, `build-redirect-map.ts`, `validate-urls.ts`
-- [ ] Remark/rehype plugins stable
-- [ ] Migration report + CI grep gates (`!!!` free, etc.)
-- [ ] Component overrides: Header/Hainz, Search+filter, 404, Footer
+- [x] Finish `migrate-content.ts`, `migrate-nav-from-pages.ts`, `build-redirect-map.ts`, `validate-urls.ts`
+- [x] Remark/rehype plugins stable (`remark-mkdocs-attributes.ts`)
+- [x] Migration report + CI grep gates (`!!!` free, etc.) — `migration-report.json` written, only minor title-derivation warnings remain
+- [ ] Component overrides: Header/Hainz, Search+filter, 404, Footer — in progress
 
-**Exit:** scripts run clean on full `docs/` copy in branch.
+**Exit:** scripts run clean on full `docs/` copy in branch. ✅ Achieved for content/nav/redirects; component overrides still open.
 
 ### Phase 3 — Full content migration (3–6 days)
 
-- [ ] Rebase/replay latest `main` content onto migration branch (feature-branch workflow)
-- [ ] Run full migrate into `src/content/docs` (normalized slugs + frontmatter titles)
-- [ ] Ensure `.pages` tree moved/updated with content; sidebar generates cleanly
-- [ ] Generate redirect map from old `dist/` or production crawl
-- [ ] Fix link/check failures iteratively
-- [ ] Port CSS branding (no `pdf.css`)
-- [ ] Full `pnpm check && pnpm build`
+- [x] Rebase/replay latest `main` content onto migration branch (feature-branch workflow)
+- [x] Run full migrate into `src/content/docs` (normalized slugs + frontmatter titles) — 732 routes migrated
+- [x] Ensure `.pages` tree moved/updated with content; sidebar generates cleanly
+- [x] Generate redirect map from old `dist/` or production crawl (`redirects.generated.json`, `public/legacy-redirects.json`, inline `staticwebapp.config.json` routes for the top SWA-size-limited subset)
+- [x] Fix link/check failures iteratively — `pnpm check` and `pnpm build` both clean (733 pages built)
+- [ ] Port CSS branding (no `pdf.css`) — in progress
+- [x] Full `pnpm check && pnpm build` — 0 errors/warnings/hints; build completes in ~10-12s
 
-**Exit:** zero check errors; build green; known defect list only minor.
+**Exit:** zero check errors; build green; known defect list only minor (title-derivation warnings, branding/overrides still open).
 
 ### Phase 4 — QA and editorial UAT (3–5 days)
 
