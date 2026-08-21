@@ -51,7 +51,13 @@ async function main(): Promise<void> {
   const report = JSON.parse(await readFile(path.join(ROOT, 'migration-report.json'), 'utf8')) as MigrationReport;
   const redirects = JSON.parse(await readFile(path.join(ROOT, 'redirects.generated.json'), 'utf8')) as RedirectArtifact;
   const redirectLookup = new Map(redirects.redirects.map((rule) => [rule.route, rule]));
-  const markdownFiles = (await walkMarkdown(CONTENT_ROOT)).sort();
+  const allMarkdownFiles = (await walkMarkdown(CONTENT_ROOT)).sort();
+  // 404.md is Starlight's custom not-found page (see
+  // https://starlight.astro.build/guides/customization/#custom-404-page),
+  // authored directly rather than migrated from legacy MkDocs content, so it
+  // is intentionally absent from migration-report.json and does not build to
+  // a directory route.
+  const markdownFiles = allMarkdownFiles.filter((file) => file !== '404.md');
   const routes = new Map<string, string>();
 
   if (markdownFiles.length !== report.files.markdown) {
@@ -102,6 +108,9 @@ async function main(): Promise<void> {
       if (!await stat(path.join(ROOT, 'dist', output)).catch(() => undefined)) {
         errors.push(`Built route is missing: ${route}`);
       }
+    }
+    if (!await stat(path.join(ROOT, 'dist', '404.html')).catch(() => undefined)) {
+      errors.push('Built route is missing: /404 (404.html)');
     }
   }
 
