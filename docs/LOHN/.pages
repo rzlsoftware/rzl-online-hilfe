@@ -1,6 +1,8 @@
 
 nav:  
     - LOHN Handbuch: index.md
+    - Erste_Schritte.md
+    - Symbolleiste.md
     - Allgemeines
     - Klientenstammdaten
     - Abrechnungen
@@ -39,6 +41,7 @@ nav:
     - Bauarbeiter_Urlaubs-und_Abfertigungskasse
     - Selbstbemessungsabgaben_melden.md
     - Reports.md
+    - Dienstnehmersuche.md
     - Abrechnungen_Sonderfälle
     - Abrechnung_von_Vergleichszahlungen_und_Nachzahlungen.md
     - Abrechnung_einer_Insolvenz.md
