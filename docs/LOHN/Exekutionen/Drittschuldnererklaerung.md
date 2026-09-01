@@ -1,8 +1,9 @@
 # Drittschuldnererklärung
 
-Im Bereich *Stamm / Exekutionen* werden die Angaben für die Drittschuldnererklärung erfasst. Zuerst muss die Dienstnehmernummer eingegeben werden.
+Im Bereich *Stamm / Exekutionen* werden die Angaben für die Drittschuldnererklärung erfasst. Geben Sie dazu zunächst die Dienstnehmernummer ein, für die die Eintragungen vorgenommen werden sollen.
 
-Als erster Schritt ist die Dienstnehmernummer, für die die Eintragungen vorgenommen werden sollen, einzutragen.
+!!! info "Voraussetzung"
+    Der Dienstnehmer muss bereits im Programm angelegt sein.
 
 ## Registerblatt Exekutionssache
 
@@ -20,7 +21,7 @@ Hier ist die Aktenzahl der Exekutionssache einzutragen.
 
 Wird das Feld behördliche Pfändung angewählt, dann werden vom Programm Exekutionsbeträge berechnet.
 
-In der Behörden-Datei im Programmteil *Klient / Finanzämter/Gemeinden/ÖGK/BV-Kasse/Gerichte / Bearbeiten* werden die benötigten Gerichte verwaltet und können in diesem Feld mit der *F2-Taste* angewählt werden.
+In der Behörden-Datei im Programmteil [*Klient / Finanzämter/Gemeinden/ÖGK/BV-Kasse/Gerichte / Bearbeiten*](../Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte.md) werden die benötigten Gerichte verwaltet und können in diesem Feld mit der *F2-Taste* angewählt werden.
 
 ### Private Pfändung – Verpfändungsgläubiger
 
@@ -61,7 +62,7 @@ durchschnittlichen Nettobetrag als Gesamtbetrag einzutragen. Die hier vorgenomme
 
 ### Unterhaltspflicht
 
-Unterhaltspflichten, die der Verpflichtete (Dienstnehmer) erfüllen muss, werden hier dokumentiert. Die Eintragungen, die im Abrechnungsbildschirm *Stammdaten Dienstnehmer* in den Bereichen *Ehepartner* und *Kinder* eingetragen wurden, werden automatisch übernommen. Voraussetzung für die Übernahme ist die Aktivierung des Feldes *Unterhalt* in den Stammdaten der *Ehepartner* und der *Kinder*.
+Unterhaltspflichten, die der Verpflichtete (Dienstnehmer) erfüllen muss, werden hier dokumentiert. Die Eintragungen, die im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md) in den Bereichen [*Ehepartner*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md/#ehepartner) und [*Kinder*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md/#kinder) eingetragen wurden, werden automatisch übernommen. Voraussetzung für die Übernahme ist die Aktivierung des Feldes *Unterhalt* in den Stammdaten der *Ehepartner* und der *Kinder*.
 
 ### Vorschuss
 
@@ -89,6 +90,6 @@ Wird seitens des Gerichts ein Verwalter bestimmt, dass er die unpfändbaren Frei
 
 ### Kostenvariante
 
-Hier können Sie die gewünschte Kostenvariante für den Ersatz der Aufwendung des Dienstgebers betreffend Drittschuldnererklärung auswählen. Die hier definierte Kostenvariante kann als automatischer Abzug in der Abrechnung hinterlegt werden ([Automatische Ermittlung der Exekution](../Exekutionen/Exekutionsberechnung.md)).
+Hier können Sie die gewünschte Kostenvariante für den Ersatz der Aufwendung des Dienstgebers betreffend Drittschuldnererklärung auswählen. Die hier definierte Kostenvariante kann als automatischer Abzug in der Abrechnung hinterlegt werden ([Automatische Ermittlung der Exekution](../Exekutionen/Exekutionsberechnung.md/#abzug-drittschuldnerkosten)).
 
 ![Image](<img/image313.png>){width="350"}

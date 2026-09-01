@@ -1,15 +1,13 @@
 # Anlage eines Zessionsvermerks oder einer Rangvormerkung
 
-Geben Sie unter *Stamm / Exekutionen* eine ganz normale Exekution ein. Sie werden nicht alle Felder wie gewohnt befüllen können, da Sie nicht alle Informationen haben. Geben Sie alles ein, was Ihnen zur Verfügung steht.
+Auch ohne vollständige Angaben können Sie eine Rangvormerkung oder einen Zessionsvermerk im Programmteil *Stamm / Exekutionen* hinterlegen.
 
-Bei *Forderung* kann ein beliebiger Betrag eingegeben werden, z.B. 100.000,00
+Geben Sie eine reguläre Exekution ein und befüllen Sie alle Felder, zu denen Ihnen Informationen vorliegen. Im Feld *Forderung* kann dabei ein beliebiger Platzhalterbetrag eingetragen werden, z. B. EUR 100.000,00.
 
 ![Image](<img/image322.png>){width="500"}
 
-Nach der Eingabe aller Informationen, die zur Verfügung stehen, wird die Exekution *gespeichert*.
-
-Markieren Sie jetzt die Rangvormerkung bzw. den Zessionsvermerk und klicken Sie auf der rechten Seite auf *Sperren*.
+Speichern Sie die Exekution anschließend. Markieren Sie danach die Rangvormerkung bzw. den Zessionsvermerk in der Liste und wählen Sie rechts die Schaltfläche **Sperren**.
 
 ![Image](<img/image323.png>){width="500"}
 
-Somit wird die Rangvormerkung bzw. der Zessionsvermerk auf der Drittschuldner-Erklärung angeführt, jedoch wird kein Betrag bei der Abrechnung des Dienstnehmers abgezogen. Dieser Eintrag dient rein der Vormerkung.
+Dadurch scheint die Rangvormerkung bzw. der Zessionsvermerk zwar auf der [Drittschuldner-Erklärung](../Exekutionen/Drittschuldnererklaerung.md) auf, es wird aber kein Betrag bei der Abrechnung des Dienstnehmers abgezogen. Der Eintrag dient ausschließlich der Vormerkung.
