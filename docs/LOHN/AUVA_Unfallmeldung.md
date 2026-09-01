@@ -1,8 +1,10 @@
-# Erstellung einer AUVA-Unfallmeldung
+# AUVA-Unfallmeldung
+
+Erleidet ein Dienstnehmer einen Arbeitsunfall, der zu einer Dienstverhinderung von mindestens 3 Tagen führt, muss dieser gemäß § 363 ASVG innerhalb von 5 Tagen bei der AUVA gemeldet werden. Im RZL Lohnprogramm kann diese Unfallmeldung direkt erfasst, elektronisch an die ÖGK übermittelt sowie ausgedruckt werden.
 
 ## Neuanlage einer Unfallmeldung
 
-Über den Menüpunkt *Stamm / Unfallmeldung* kann die Unfallmeldung gemäß § 363 des Allgemeinen Sozialversicherungsgesetzes (ASVG) erstellt werden. Jeder Arbeitsunfall, der zu einer Dienstverhinderung von mindestens 3 Tagen führt, ist innerhalb von 5 Tagen bei der AUVA zu melden. Zunächst ist im Feld *Dienstnehmer* der betreffende Dienstnehmer anzuwählen (Aufruf mit der *F2-Taste*). Dann wird im Feld *Arbeitsverhinderung Beginn* der Anfang der Arbeitsverhinderung eingetragen.
+Über den Menüpunkt *Stamm / Unfallmeldung* kann die Unfallmeldung erstellt werden. Zunächst ist im Feld *Dienstnehmer* der betreffende Dienstnehmer anzuwählen (Aufruf mit der *F2-Taste*). Dann wird im Feld *Arbeitsverhinderung Beginn* der Anfang der Arbeitsverhinderung eingetragen.
 
 ![Image](<img/image352.png>){width="500"}
 
@@ -13,7 +15,7 @@ Nach Anwahl der Schaltfläche *Anlegen* wird nachfolgender Programmteil aufgeruf
 
 ![Image](<img/image353.png>){width="600"}
 
-Im ersten Teil der Meldung sind die Stammdaten des Dienstgebers und des Dienstnehmers bereits vorausgefüllt. Der *Ansprechpartner* und der *Ersteller der Meldung* müssen im Moment manuell bestimmt werden. Ein Teil der Daten ist dabei fix, während einige andere Felder abänderbar sind (gekennzeichnet durch ein Sternchen *).
+Im ersten Teil der Meldung sind die Stammdaten des Dienstgebers und des Dienstnehmers bereits vorausgefüllt. Der *Ansprechpartner* und der *Ersteller der Meldung* müssen im Moment manuell bestimmt werden. Die mit einem Sternchen (*) gekennzeichneten Felder sind abänderbar, alle anderen Daten sind fix vorgegeben.
 
 Der zweite Teil der Unfallmeldung befasst sich mit dem *Unfallzeitpunkt*, dem *Unfallort*, dem *Unfallhergang* und den *erlittenen Verletzungen*.
 
@@ -40,7 +42,7 @@ Der zweite Teil der Unfallmeldung befasst sich mit dem *Unfallzeitpunkt*, dem *U
 
 ## Übermittlung der Unfallmeldung an die ÖGK
 
-Wurden alle Pflichtfelder befüllt und wird anschließend der Dialog über *Speichern* verlassen, wird folgender Hinweis angezeigt.
+Sobald alle Pflichtfelder befüllt sind und der Dialog über *Speichern* verlassen wird, erscheint folgender Hinweis:
 
 ![Image](<img/image355.png>){width="350"}
 
@@ -50,13 +52,16 @@ Eine bereits gespeicherte Unfallmeldung kann über *Stamm / Unfallmeldung* (nach
 
 ![Image](<img/image356.png>){width="500"}
 
-**Manuelle Übermittlung zu einem späteren Zeitpunkt**
+### Manuelle Übermittlung zu einem späteren Zeitpunkt
 
 Über die Schaltfläche *ELDA…* ist es möglich, die bereits erfasste Unfallmeldung auch noch zu einem späteren Zeitpunkt in die ÖGK-Datei zu stellen.
 
-**Löschen einer Unfallmeldung**
+### Löschen einer Unfallmeldung
 
 Wird eine Unfallmeldung in der Liste markiert und die Schaltfläche *Löschen* angewählt, wird die markierte Meldung gelöscht.
+
+!!! warning "Hinweis"
+    Seitens der ÖGK bzw. ELDA ist keine Stornomeldung für die Unfallmeldung vorgesehen und daher über das RZL-Lohnprogramm auch nicht möglich.
 
 ## Ausdruck Unfallmeldung und Liste
 

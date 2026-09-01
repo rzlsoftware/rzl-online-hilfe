@@ -97,4 +97,4 @@ Die Rückmeldungen stehen im Lohnprogramm weiterhin zur Verfügung:
 
 ## Krankenstandsbescheinigungen speichern und ausdrucken
 
-[Krankenstandsbescheinigungen speichern und ausdrucken](../LOHN/Elektronische_Meldungen_ÖGK/Krankenstandsbescheinigungen.md/#krankenstandsbescheinigungen-speichern-und-ausdrucken)
+[Krankenstandsbescheinigungen speichern und ausdrucken](../LOHN/Elektronische_Meldungen_ÖGK/Krankenstandsbescheinigungen.md/#krankenstandsbescheinigungen-speichern-und-ausdrucken-ab-programmversion-22680)

@@ -1,4 +1,8 @@
-# Anlegen des Klienten (Dienstgebers) im RZL Lohn
+# Erste Schritte
+
+Dieses Kapitel beschreibt die ersten Schritte beim Einstieg in einen neuen Klienten im RZL Lohn – von der Neuanlage bis zu den grundlegenden Optionen wie Passwort und DN-Nummernbereich.
+
+## Anlegen des Klienten (Dienstgebers) im RZL Lohn
 
 Wenn Sie mit dem RZL LOHN **erstmals** zu arbeiten beginnen, müssen Sie als ersten Schritt die Stammdaten des Klienten (Dienstgebers) in der **Zentralen Mandantenverwaltung** bzw. im **RZL BOARD** anlegen. Ist dieser Schritt erledigt, so kann der Klient auch im Lohnprogramm angelegt werden. Die Anlage in der *ZMV* bzw. im *RZL BOARD* ist nicht mehr durchzuführen, wenn z. B. für den zukünftigen Lohn-Klienten bereits eine FIBU existiert.
 
@@ -6,18 +10,18 @@ Wenn Sie mit dem RZL LOHN **erstmals** zu arbeiten beginnen, müssen Sie als ers
     Die Neuanlage ist nicht erforderlich, wenn eine Datensicherung, beispielsweise vom Steuerberater, zur Verfügung gestellt wird. Die Datensicherung kann im Programmteil *Klient / Verwaltung / Hereinspielen* hereingespielt werden.
 
 !!! warning "Hinweis"
-    Soll für einen bereits existierenden Lohnverrechnungsklienten ein neues Kalenderjahr eröffnet werden, ist eine [Jahresübernahme](../Jahresübernahme/Jahresuebernahme_innerhalb_eines_Klienten.md) und keinesfalls eine Neuanlage durchzuführen.
+    Soll für einen bereits existierenden Lohnverrechnungsklienten ein neues Kalenderjahr eröffnet werden, ist eine [Jahresübernahme](../LOHN/Jahresuebernahme.md/#jahresübernahme-innerhalb-eines-klienten) und keinesfalls eine Neuanlage durchzuführen.
 
 Durch Anwahl des Menüpunkts *Klient / Neu anlegen* wird folgender Eingabebildschirm aufgerufen:
 
 ![Image](<img/image3.png>){width="500"}
 
-Wenn Sie die Klientennummer eingeben, wird vom Programm automatisch das Mengengerüst für den betreffenden Klienten vorgeschlagen. Neben dem Standardvorschlag durch das Programm, wird daneben in Klammern der mögliche Bereich angezeigt. Dieser Standardvorschlag ist je nach gekaufter Version unterschiedlich.
+Wenn Sie die Klientennummer eingeben, wird vom Programm automatisch das Mengengerüst für den betreffenden Klienten vorgeschlagen. Zusätzlich zum Standardvorschlag des Programms wird in Klammern der mögliche Bereich angezeigt. Dieser Standardvorschlag ist je nach gekaufter Version unterschiedlich.
 
 !!! warning "Hinweis"
-    Die Anlage des Mengengerüsts sollte den tatsächlichen Anforderungen des Klienten entsprechen, um nicht unnötig Speicherplatz auf der Festplatte zu reservieren. Entspricht das Mengengerüst, das Sie bei der Neuanlage des Klienten gewählt haben nicht mehr den Anforderungen, so können Sie das [Mengengerüst](../Verwaltung.md) durch Anwahl des Menüpunkts *Klient / Vergrößern/Verkleinern* an die neuen Anforderungen anpassen.
+    Die Anlage des Mengengerüsts sollte den tatsächlichen Anforderungen des Klienten entsprechen, um nicht unnötig Speicherplatz auf der Festplatte zu reservieren. Entspricht das Mengengerüst, das Sie bei der Neuanlage des Klienten gewählt haben, nicht mehr den Anforderungen, so können Sie das [Mengengerüst](../LOHN/Verwaltung.md) durch Anwahl des Menüpunkts *Klient / Vergrößern/Verkleinern* an die neuen Anforderungen anpassen.
 
-## Mengengerüst 1
+### Mengengerüst 1
 
 **Passwort**
 
@@ -25,7 +29,7 @@ Bei der Anlage des Klienten können Sie ein alphanumerisches Passwort mit bis zu
 
 **Jahr**
 
-Eintragung des Kalenderjahres für das die Lohnverrechnung durchgeführt werden soll.
+Eintragung des Kalenderjahres, für das die Lohnverrechnung durchgeführt werden soll.
 
 **Dienstnehmer**
 
@@ -49,14 +53,14 @@ Speicherplatz für Angehörige wird benötigt, um Daten bezüglich Unterhalt, Fa
 
 **EFZ-Anträge** 
 
-Hier können Sie festlegen, wie viele Vergütungsanträge gemäß § 53b des Allgemeinen Sozialversicherungsgesetzes (EFZ) gestellt werden können.
+Hier können Sie festlegen, wie viele EFZ-Anträge (Vergütungsanträge gemäß § 53b des Allgemeinen Sozialversicherungsgesetzes) gestellt werden können.
 
 **Lohnarten** 
 
 Mengengerüst für die freien Lohnarten (zwischen 200 und 1.000).
 
 
-## Mengengerüst 2
+### Mengengerüst 2
 
 ![Image](<img/image4.png>){width="500"}
 
@@ -64,9 +68,9 @@ Mengengerüst für die freien Lohnarten (zwischen 200 und 1.000).
 
 Hier können Sie das Mengengerüst für die Arbeits- und Entgeltbestätigungen für Kranken- und Wochengeld festlegen.
 
-**Dienstnehmer – Notizen** 
+**Dienstnehmer-Notizen** 
 
-Innerhalb der einzelnen Dienstnehmer besteht im *Abrechnungsbildschirm Dienstnehmer-Notizen* die Möglichkeit, Notizen zu vermerken.
+Für jeden einzelnen Dienstnehmer besteht im Abrechnungsbildschirm *Dienstnehmer-Notizen* die Möglichkeit, Notizen zu vermerken.
 
 **Exekutionssachen**
 
@@ -76,7 +80,7 @@ Mengengerüst für die Anlage von Drittschuldnererklärungen.
 
 Anzahl der Exekutionsabrechnungen innerhalb der Dienstnehmerabrechnungen.
 
-**Kundendaten Elektronic Banking**
+**Kundendaten Electronic Banking**
 
 Betrifft das Kundendatenfeld für die Überweisung an die Behörden.
 
@@ -89,7 +93,7 @@ Innerhalb der Lohnabrechnung können Sie mit selbsterstellten Berechnungen, soge
 Hier können Sie das Mengengerüst für die Zeilen der Urlaubs- und Krankenstandsdatei festlegen.
 
 
-## Mengengerüst 3
+### Mengengerüst 3
 
 ![Image](<img/image5.png>){width="500"}
 
@@ -117,3 +121,20 @@ Festlegung der Anzahl der DN-Historieneinträge.
 Durch Anwahl der Schaltfläche *Anlegen* wird der Klient mit den vorgenommenen Einstellungen angelegt. Als nächster Schritt ist der Klient mittels *Klient / Öffnen* und Eingabe der entsprechenden Klientennummer zu öffnen.
 
 Anschließend sind im Menüpunkt *Stamm / Klient* die lohnspezifischen Stammdaten des Klienten anzulegen.
+
+## Passwort des Klienten
+
+Im Menüpunkt *Klient / Optionen / Passwort des Klienten* können Sie für die einzelnen Klienten ein maximal 16-stelliges alphanumerisches Passwort vergeben oder ein bestehendes Passwort ändern.
+
+## DN-Nummernbereich
+
+Im Menüpunkt *Klient / Optionen / DN-Nummernbereich* haben Sie die Möglichkeit, den Bereich der DN-Nummern zu verändern. Dieser Vorgang verändert nicht die Anzahl der Dienstnehmer.
+
+![Image](<img/image6.png>){width="500"}
+
+!!! info "Tipp"
+    Die Dienstnehmernummern können im Bereich von 1 bis 999.999 vergeben werden.
+
+## Klient per E-Mail anonymisiert versenden
+
+Im Menüpunkt *Klient / Optionen / Mit E-Mail anonymisiert versenden* können Sie den Klienten per E-Mail versenden. Durch Anwahl dieses Punktes werden die Daten im Hintergrund vor dem Versenden vanonymisiert, d. h. es werden keine echten Namen, Adressen etc. versendet, sondern fiktive Daten eingefügt.
