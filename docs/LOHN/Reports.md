@@ -1,17 +1,28 @@
 # Reports
 
-**RZL-Musterreport manuell in die RZL-Lohnverrechnung importieren**
+## RZL-Musterreport manuell in die RZL-Lohnverrechnung importieren
 
-RZL stellt Ihnen separate Musterreports zur Verfügung. Um diese vor dem nächsten RZL Programmupdate bereits nutzen zu können, können Sie die einzelnen Reports über den Downloadlink des RZL Newsletters bzw. von der Homepage im Anwenderbereich herunterladen und manuell in die gewünschten Klienten importieren.
+RZL stellt Ihnen separate Musterreports zur Verfügung. Um diese bereits vor dem nächsten RZL Programmupdate nutzen zu können, laden Sie die einzelnen Reports über den Downloadlink des RZL Newsletters bzw. von der Homepage im Anwenderbereich herunter und importieren sie manuell in die gewünschten Klienten.
 
-Laden Sie sich die im RZL Newsletter verlinkte Datei herunter. Entpacken Sie die ZIP-Datei und speichern Sie die einzelnen Musterreports (XML-Dateien) in einen eigenen Ordner auf Ihrem Laufwerk ab. Sie können die Reports anschließend einzeln in das RZL Lohnprogramm im jeweiligen Klienten über den Menüpunkt *Report / Report öffnen* importieren.
+!!! info "Voraussetzung"
+    Die ZIP-Datei mit den Musterreports wurde bereits heruntergeladen und entpackt; die einzelnen Musterreports (XML-Dateien) liegen in einem eigenen Ordner auf Ihrem Laufwerk.
 
-Geben Sie dazu ein *Monat*, einen *Dienstnehmer* und einen etwaigen *Unterdienstgeber* ein. Mit der Schaltfläche *Übernehmen* gelangen Sie in folgenden Dialog:
+So importieren Sie einen Musterreport:
+
+1. Öffnen Sie im gewünschten Klienten den Menüpunkt *Report / Report öffnen*.
+
+2. Geben Sie einen *Monat*, einen *Dienstnehmer* und – falls vorhanden – einen *Unterdienstgeber* ein und wählen Sie ***Übernehmen***.
+
+3. Wählen Sie im folgenden Dialog die Schaltfläche *Importieren* ① , suchen Sie die gewünschte XML-Datei und bestätigen Sie mit *Öffnen*.
+
+4. Vergeben Sie einen Namen für den Report ② fund wählen Sie *Speichern* ③.
 
 ![Image](<img/image511.png>){width="500"}
 
-Mit der Schaltfläche *Importieren* ① können Sie den gewünschten Report (XML-Datei) auswählen und *Öffnen*.
-
 ![Image](<img/image512.png>){width="500"}
 
-Vergeben Sie anschließend einen gewünschten Namen ② für den Report. Mit der Schaltfläche *Speichern* ③ ist der Report erfolgreich importiert und kann anschließend mit *Öffnen* geöffnet und bearbeitet werden.
+Der Report ist damit importiert und kann anschließend über *Öffnen* aufgerufen und bearbeitet werden.
+
+## Lohn-Musterreports in der ZMV
+
+In der *Zentralen Mandantenverwaltung* (*ZMV*) stehen bereits einige Musterreports zur Verfügung. Die Auflistung dieser Reports finden Sie [hier](../Reporting/Auflistung_Musterreports.md/#lohnverrechnung).
