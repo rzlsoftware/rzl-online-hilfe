@@ -24,7 +24,7 @@ Die Symbolleiste im *RZL Lohn* bietet schnellen Zugriff auf die wichtigsten Funk
 | Symbol                                  | Bezeichnung                                                                                                           | Funktion                                       |
 | :-------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------- |
 | ![Image](<img/image11.png>){width="30"} | ELDA-Rückmeldungen aufrufen                                                                                           | Ruft die Rückmeldungen der ELDA auf.           |
-| ![Image](<img/image13.png>){width="30"} | [Clearingfälle aufrufen](../LOHN/Elektronische_Meldungen_ÖGK/SV_Clearingsystem.md/#clearingfälle-im-rzl-lohnprogramm) | Öffnet die Übersicht offener SV-Clearingfälle. |
+| ![Image](<img/image13.png>){width="30"} | [Clearingfälle aufrufen](../LOHN/Elektronische_Meldungen_ÖGK/SV_Clearingsystem.md/#clearingfalle-im-rzl-lohnprogramm) | Öffnet die Übersicht offener SV-Clearingfälle. |
 | ![Image](<img/image26.png>){width="30"} | [WEBEKU Webservice](../LOHN/WEBEKU_Webservice.md)                                                                     | Öffnet den Zugang zum WEBEKU-Webservice.       |
 
 ## Suche & Dokumente

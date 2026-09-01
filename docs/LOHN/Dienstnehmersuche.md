@@ -1,4 +1,4 @@
-# Dienstnehmer-Suche
+# Dienstnehmersuche
 
 In der Dienstnehmer-Suche können Sie Ihren Datenbestand anhand folgender Kriterien durchsuchen:
 
