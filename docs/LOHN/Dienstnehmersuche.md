@@ -1,15 +1,21 @@
 # Dienstnehmer-Suche
 
-Sie können in der *Grundeinstellung die Dienstnehmer* hinsichtlich der unten abgebildeten Kriterien
+In der Dienstnehmer-Suche können Sie Ihren Datenbestand anhand folgender Kriterien durchsuchen:
 
-Dienstgeber, Klientenjahr, Vorname, Nachname, SV-Nummer, PLZ, Ort und Adresse
+- Dienstgeber
+- Klientenjahr
+- Vorname
+- Nachname
+- SV-Nummer
+- PLZ
+- Ort
+- Adresse
 
-Ihren Datenbestand durchsuchen. Eine neue Abfrage wird dabei jeweils über die *Suchen-Schaltfläche* ausgelöst. Vorab kann über den Filter *Klientenjahr* die Suche auf ein oder mehrere Jahre begrenzt werden.
+Eine neue Abfrage wird dabei jeweils über die *Suchen-Schaltfläche* ausgelöst. Vorab kann über den Filter *Klientenjahr* die Suche auf ein oder mehrere Jahre begrenzt werden.
 
 ![Image](<img/imageA18.png>)
 
-Wenn Sie die *Strg-Taste* gedrückt halten und mit einem Mausklick die einzelne Zeile anwählen, können Sie mehrere Zeilen gleichzeitig
-markieren. Mithilfe des Kontextmenüs (*rechte Maustaste*) lassen sich diese Einträge in die Zwischenablage kopieren.
+Halten Sie die *Strg-Taste* gedrückt, um durch Mausklick mehrere Zeilen gleichzeitig zu markieren. Mithilfe des Kontextmenüs (*rechte Maustaste*) lassen sich diese Einträge in die Zwischenablage kopieren.
 
 ![Image](<img/imageA19.png>)
 
@@ -19,7 +25,7 @@ In der Zeile mit den Spaltenüberschriften ist es möglich, die *Datenzeilen* zu
 
 ![Image](<img/imageA20.png>)
 
-Neben der Suche nach dienstnehmerbezogenen Daten gibt es über die Option *Beitragskonto-Suche* auch die Möglichkeit nach Daten zu suchen, welche direkt den Dienstgeber betreffen.
+Neben der Suche nach dienstnehmerbezogenen Daten gibt es über die Option *Beitragskonto-Suche* auch die Möglichkeit, nach Daten zu suchen, die direkt den Dienstgeber betreffen.
 
 Es kann hier zum Beispiel nach der *Beitragskontonummer*, dem *ÖGK-Bundesland* oder dem *Namen* und der *Adresse der Firma* gesucht werden. Auch hier gibt es die Möglichkeit, die Daten über die Zwischenablage in ein MS-Excel-File zu kopieren.
 
