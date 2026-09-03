@@ -1,4 +1,4 @@
-# Elektronische Dienstgeberabgabeerklärung
+# Dienstgeberabgabeerklärung
 
 ## Erstellung der Übermittlungsdatei
 

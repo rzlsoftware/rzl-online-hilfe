@@ -1,4 +1,4 @@
-# Erstellung eines Entsendungsantrages
+# Entsendungsantrag
 
 ## Neuanlage eines Entsendungsantrages
 

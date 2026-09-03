@@ -70,7 +70,7 @@ Sobald auf beiden Seiten dieselbe Gemeindenummer hinterlegt ist, wird auch die e
 
 ### Kommunalsteuerschließungserklärung
 
-Wenn eine [Kommunalsteuer-Schließungserklärung](../../Elektronische_Kommunalsteuererklaerung.md/#erstellung-einer-kommunalsteuer-schlieungserklarung) erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen.
+Wenn eine [Kommunalsteuer-Schließungserklärung](../../Kommunalsteuererklaerung.md/#erstellung-einer-kommunalsteuer-schlieungserklarung) erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen.
 
 ## U-Bahn-Abgabe
 

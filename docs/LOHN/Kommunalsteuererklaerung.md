@@ -1,4 +1,4 @@
-# Elektronische Kommunalsteuererklärung
+# Kommunalsteuererklärung
 
 ## Erstellung der elektronischen Kommunalsteuer-Jahreserklärung
 

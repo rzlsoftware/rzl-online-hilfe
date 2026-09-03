@@ -26,12 +26,11 @@ nav:
     - Datenexport_Buchungsbeleg.md
     - Abfertigung_Neu
     - Exekutionen
-    - Elektronische_Kommunalsteuererklaerung.md
-    - Elektronische_Dienstgebererklaerung.md
-    - Erstellung_und_Ausdruck_eines_EFZ-Antrages.md
-    - Erstellung_eines_Entsendungsantrages.md
+    - Kommunalsteuererklaerung.md
+    - Dienstgebererklaerung.md
+    - EFZ-Antrag.md
+    - Entsendungsantrag.md
     - AUVA_Unfallmeldung.md
-    - Erstellung_der_Berufskrankheitenmeldung.md
     - RZL_Klientenportal.md
     - Lohnformeln
     - Ausgabe_Jahreslohnkonto_fuer_GPLB.md

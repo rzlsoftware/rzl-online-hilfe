@@ -1,4 +1,4 @@
-# Erstellung und Ausdruck eines EFZ-Antrages (AUVA-Zuschuss)
+# EFZ-Antrag (AUVA-Zuschuss)
 
 ## Neuanlage eines EFZ-Antrages
 
