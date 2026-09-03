@@ -35,3 +35,9 @@ In diesem Menüpunkt erfassen Sie die Stunden für die Kurzarbeitsbeihilfe - auc
 Damit die Telearbeitstage für die vorangegangen Monate erfasst werden können, haben Sie hier die Möglichkeit, die Tage zu erfassen. Dabei verändert sich an der Abrechnung des Dienstnehmers nichts. Wenn Sie eine Pauschale abrechnen möchten, müssen Sie dies über eine Aufrollung durchführen.
 
 ![Image](<img/image42.png>)
+
+## Erfassung - E29 Freiwilligenpauschale
+
+Hier können jene Dienstnehmer erfasst werden, für die ein Formular E29 für die Freiwilligenpauschale abgegeben werden muss.
+
+Die Beschreibung zur Erfassung finden Sie [hier](../Freiwilligenpauschale.md/#erfassung-der-ehrenamtlichen-personen-in-der-rzl-lohnverrechnung).
