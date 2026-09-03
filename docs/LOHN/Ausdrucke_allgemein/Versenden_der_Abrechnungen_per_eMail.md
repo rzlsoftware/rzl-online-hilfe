@@ -10,13 +10,13 @@ Danach wählen Sie *RZL PDF-Drucker* an. Die Abrechnungen gelangen in den *RZL P
 
 Markieren Sie nun alle Abrechnungen und wählen Sie in der Symbolleiste *Senden* aus. Es öffnet sich folgendes Fenster:
 
-**RZL-PDF-Drucker**
+## RZL-PDF-Drucker
 
 ![Image](<img/image223.png>){width="500"}
 
 Bei *Aufteilung in Dateien* muss *Jeder Ausdruck in eine eigene Datei* angewählt werden. Bei *Senden An* sollte *Dienstnehmer* aktiviert werden. Wenn Sie bei *Einstellungen nur für MS Outlook* *Keine Einzelbestätigung* anhaken, öffnet sich das MS Outlook nicht mehr bei jedem Dienstnehmer. Wir empfehlen, bei der ersten Übermittlung der Abrechnungen das Häkchen nicht zu setzen. Bei *Nachricht* können Sie individuelle Einstellungen vornehmen und mit Platzhaltern (\>) arbeiten. Mit Anwahl der Schaltfläche *Senden* werden die Abrechnungen versandt.
 
-**RZL-PDF-Manager**
+## RZL-PDF-Manager
 
 ![Image](<img/image224.png>){width="700"}
 
