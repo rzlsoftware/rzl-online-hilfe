@@ -64,7 +64,7 @@ export function targetPathForSource(sourcePath: string): string {
 
 export function routeFromMarkdownPath(markdownPath: string): string {
   const normalized = toPosixPath(markdownPath).replace(/^\/+/, '');
-  const withoutExtension = normalized.replace(/\.md$/i, '');
+  const withoutExtension = normalized.replace(/\.mdx?$/i, '');
   const routePath = withoutExtension.replace(/(^|\/)index$/i, '$1').replace(/\/+$/, '');
   return routePath ? `/${routePath}/` : '/';
 }

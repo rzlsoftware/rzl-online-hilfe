@@ -1512,7 +1512,6 @@ export const hiddenPages = [
   "404.md",
   "datenschutz.md",
   "impressum.md",
-  "index.md",
   "technik/anwenderbereich-anmeldung.md",
   "technik/kbartikel/index.md",
   "technik/kurzanleitungen/index.md",

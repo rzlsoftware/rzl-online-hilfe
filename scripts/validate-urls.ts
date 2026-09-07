@@ -32,7 +32,7 @@ async function walkMarkdown(root: string, relativeDirectory = ''): Promise<strin
   for (const entry of entries) {
     const relativePath = toPosixPath(path.join(relativeDirectory, entry.name));
     if (entry.isDirectory()) files.push(...await walkMarkdown(root, relativePath));
-    else if (entry.isFile() && /\.md$/i.test(entry.name)) files.push(relativePath);
+    else if (entry.isFile() && /\.mdx?$/i.test(entry.name)) files.push(relativePath);
   }
   return files;
 }

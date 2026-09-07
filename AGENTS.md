@@ -6,7 +6,7 @@ RZL Online Hilfe — a German documentation site, currently mid-migration from M
 
 - `main` is the live site and still builds with MkDocs (`pip3 install -r requirements.txt` + `mkdocs build --strict`); branch `chore/astro-starlight-migration` replaces that with Astro.
 - **`docs/` is the source of truth and is live production content — never delete it.**
-- `src/content/docs/` is *generated* from `docs/` by `pnpm migrate:content`, and is a byte-exact reproduction of that script's output for every file except `404.md`.
+- `src/content/docs/` is *generated* from `docs/` by `pnpm migrate:content`, and is a byte-exact reproduction of that script's output for every file except `404.md` and `index.mdx`.
 - Legacy content changes land on `main` in `docs/` and are replayed into `src/content/docs/` by re-running the migration.
 - Outstanding replay: PR #212 (`34f82ed`, "LOHN: Verbesserungen I") restructured `docs/LOHN/` but `src/content/docs/lohn/` still has the pre-#212 shape.
 
@@ -29,8 +29,9 @@ Recreate the Python env with `python3 -m venv .venv && .venv/bin/pip install -r 
 
 ## `pnpm migrate:content` hazard
 
-- It starts by `rm -rf src/content/docs` (`scripts/migrate-content.ts:232`), so everything under it must be regenerable — it currently is, with one exception.
+- It starts by `rm -rf src/content/docs` (`scripts/migrate-content.ts:232`), so everything under it must be regenerable — it currently is, with two exceptions.
 - **`src/content/docs/404.md` is hand-authored and is NOT produced by the migration**; it holds the inlined client-side legacy-redirect fallback, so restore it with `git checkout -- src/content/docs/404.md` after every run.
+- **`src/content/docs/index.mdx` is hand-authored and is NOT produced by the migration**; it's the homepage's section `CardGrid`/`LinkCard` (needs MDX; every other page stays plain `.md`). After every run: `git checkout -- src/content/docs/index.mdx` and delete the plain `index.md` the migration regenerates from `docs/index.md` in its place (both can't coexist — same route).
 - Verify a run against a throwaway target first: `pnpm exec tsx scripts/migrate-content.ts --target=/tmp/migtest --report=/tmp/migreport.json`.
 - The script skips `docs/scripts/` and `docs/stylesheets/` (`SKIPPED_ROOT_DIRECTORIES`).
 

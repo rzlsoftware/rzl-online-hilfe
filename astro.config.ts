@@ -1,4 +1,5 @@
 import { unified } from '@astrojs/markdown-remark';
+import mdx from '@astrojs/mdx';
 import starlight from '@astrojs/starlight';
 import { defineConfig } from 'astro/config';
 
@@ -68,5 +69,9 @@ export default defineConfig({
         MarkdownContent: './src/components/MarkdownContent.astro',
       },
     }),
+    // MDX is only used for the hand-authored homepage
+    // (src/content/docs/index.mdx), which needs Starlight's <LinkCard>/
+    // <CardGrid> components; every other page stays plain Markdown.
+    mdx(),
   ],
 });

@@ -182,3 +182,25 @@
 		display: none;
 	}
 }
+
+/*
+ * Homepage (src/content/docs/index.mdx).
+ * The intro line above the section CardGrid and the small brand mark below
+ * it are plain HTML (not Starlight components), so they need their own
+ * spacing/sizing rules here.
+ */
+.rzl-home-intro {
+	max-width: 60ch;
+	margin-block-end: 2rem;
+	color: var(--sl-color-gray-2);
+	font-size: var(--sl-text-lg);
+}
+
+.rzl-home-logo {
+	margin-block-start: 3rem;
+}
+
+.rzl-home-logo img {
+	width: 10rem;
+	height: auto;
+}

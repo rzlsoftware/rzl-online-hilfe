@@ -1,0 +1,37 @@
+---
+title: Herzlich willkommen auf der RZL Hilfe!
+description: Die RZL Online Hilfe – Anleitungen und Referenzen zu allen RZL-Programmen.
+hideFooter: true
+---
+
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
+import logoLight from './img/RZL_Logo_mit_Software_schwarz_herz_rot.svg?url';
+import logoDark from './img/RZL_Logo_mit_Software_weiss_herz_rot.svg?url';
+
+<span id="herzlich-willkommen-auf-der-rzl-hilfe" class="legacy-anchor" aria-hidden="true"></span>
+
+<p class="rzl-home-intro">
+	Anleitungen, Kurzanleitungen und Referenzen zu allen RZL-Programmen. Wählen Sie unten Ihr
+	Programm, oder nutzen Sie die Suche oben.
+</p>
+
+<CardGrid>
+	<LinkCard title="Board" href="/board/" description="Kennzahlen und Auswertungen für die Kanzleisteuerung." />
+	<LinkCard title="FIBU Next" href="/fibu-next/" description="Die Finanzbuchhaltung von RZL." />
+	<LinkCard title="Belegverarbeitung" href="/belegverarbeitung/" description="Belege erfassen, kontieren und weiterverarbeiten." />
+	<LinkCard title="LOHN" href="/lohn/" description="Die Personalverrechnung von RZL." />
+	<LinkCard title="KIS" href="/kis/" description="Das Kanzlei-Informations-System von RZL." />
+	<LinkCard title="Klientenportal" href="/klientenportal/" description="Der Online-Austausch mit Ihren Klienten." />
+	<LinkCard title="HON Next" href="/hon-next/" description="Die Honorarabrechnung von RZL." />
+	<LinkCard title="LE Next" href="/le-next/" description="Die Zeit- und Leistungserfassung von RZL." />
+	<LinkCard title="PDF Manager" href="/pdf-manager/" description="PDFs erzeugen, verwalten und archivieren." />
+	<LinkCard title="Reporting" href="/reporting/" description="Auswertungen und Berichte erstellen." />
+	<LinkCard title="Setup" href="/setup/" description="Installation und Einrichtung der RZL-Programme." />
+	<LinkCard title="RZL Admin" href="/rzladmin/" description="Sicherung, Wiederherstellung und Verwaltung Ihrer RZL-Programme." />
+	<LinkCard title="Technik" href="/technik/erste-schritte/" description="Installation und Wartung der RZL-Programme auf Ihren Arbeitsplätzen." />
+</CardGrid>
+
+<p class="rzl-home-logo">
+	<img src={logoLight} alt="RZL Software" class="img-light" />
+	<img src={logoDark} alt="RZL Software" class="img-dark" />
+</p>

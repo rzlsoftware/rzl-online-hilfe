@@ -25,5 +25,6 @@ test('targetPathForSource normalizes content paths but retains asset names', () 
 test('route helpers preserve directory URLs', () => {
   assert.equal(routeFromMarkdownPath('board/index.md'), '/board/');
   assert.equal(routeFromMarkdownPath('index.md'), '/');
+  assert.equal(routeFromMarkdownPath('index.mdx'), '/');
   assert.equal(encodedRoute('/Freie Lohnarten/Änderung/'), '/Freie%20Lohnarten/%C3%84nderung/');
 });
