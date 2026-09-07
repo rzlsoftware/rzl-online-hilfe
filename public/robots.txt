@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hilfe.rzlsoftware.at/sitemap-index.xml

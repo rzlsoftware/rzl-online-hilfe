@@ -38,6 +38,28 @@ export default defineConfig({
         alt: 'RZL',
       },
       customCss: ['./src/styles/rzl.css'],
+      // Shared social-share preview image (generated from the RZL wordmark,
+      // see public/og-image.png). Starlight has no per-site `og:image`
+      // option, so this is added directly via `head`; a page-level
+      // `head:` in frontmatter can still override it per page.
+      head: [
+        {
+          tag: 'meta',
+          attrs: { property: 'og:image', content: 'https://hilfe.rzlsoftware.at/og-image.png' },
+        },
+        {
+          tag: 'meta',
+          attrs: { property: 'og:image:width', content: '1200' },
+        },
+        {
+          tag: 'meta',
+          attrs: { property: 'og:image:height', content: '630' },
+        },
+        {
+          tag: 'meta',
+          attrs: { name: 'twitter:image', content: 'https://hilfe.rzlsoftware.at/og-image.png' },
+        },
+      ],
       components: {
         SocialIcons: './src/components/HainzLink.astro',
         Search: './src/components/ProgramSearch.astro',
