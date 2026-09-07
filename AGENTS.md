@@ -95,7 +95,7 @@ Recreate the Python env with `python3 -m venv .venv && .venv/bin/pip install -r 
 
 ## Commits & PRs
 
-- Concise summary plus issue/PR number in parentheses, e.g. `Add LENext import guide (#127)`; keep unrelated doc updates in separate commits.
+- Use Karma-style commit messages: `type(scope): imperative, lowercase summary`, e.g. `feat(search): highlight the matching text on the page a result opens`. Common types: `feat`, `fix`, `docs`, `chore`. Add a body paragraph when the reasoning isn't obvious from the diff; keep unrelated doc updates in separate commits.
 
 ## Maintaining this file
 
