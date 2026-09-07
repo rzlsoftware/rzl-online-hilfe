@@ -22,4 +22,24 @@
 		outline: 1px solid var(--sl-color-accent);
 		border-color: var(--sl-color-accent);
 	}
+
+	.program-filter__hint {
+		margin: 0.5rem 0 0;
+		color: var(--sl-color-gray-2);
+		font-size: var(--sl-text-xs);
+		line-height: 1.4;
+	}
+
+	.program-filter__hint[hidden] {
+		display: none;
+	}
+
+	/*
+	 * Pagefind renders its own checkbox panel for the `program` filter. The
+	 * dropdown above drives those checkboxes, so hide the panel to avoid
+	 * showing two controls for the same filter.
+	 */
+	#starlight__search .pagefind-ui__filter-panel {
+		display: none;
+	}
 }

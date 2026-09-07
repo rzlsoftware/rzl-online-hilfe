@@ -1,15 +1,24 @@
 /**
  * Program filter for Starlight's Pagefind-based search.
  *
- * Ports the behavior of the legacy `docs/scripts/search-filter.js` (MkDocs
- * Material) to the Pagefind default UI mounted by
- * `@astrojs/starlight/components/Search.astro`.
+ * The filter drives Pagefind's *native* index-level filtering rather than
+ * hiding already-rendered results in the DOM. The page's program is indexed as
+ * a `program` Pagefind filter (see `src/components/MarkdownContent.astro`), and
+ * Pagefind's default UI renders a checkbox per filter value. We keep the
+ * familiar dropdown, hide that native checkbox panel via CSS, and mirror the
+ * dropdown selection onto the checkboxes — which is the component's own
+ * supported way of changing `selected_filters` and re-running the search.
  *
- * Pagefind does not currently facet on our `program` frontmatter field (no
- * `data-pagefind-filter` attributes are emitted during the content build),
- * so the program id for each result is derived client-side from the first
- * path segment of the result URL, same as the legacy `deriveProgramFromLocation`
- * fallback. The route -> id mapping comes from `src/nav/programs.generated.ts`.
+ * Doing it natively (instead of the previous approach of hiding rendered
+ * result nodes) fixes three things at once:
+ *   - the result count in the message reflects the filter,
+ *   - "load more" only appears when more *matching* results exist,
+ *   - matches beyond the first page are no longer lost. Pagefind only renders
+ *     5 results at a time, so hiding nodes could hide every loaded result while
+ *     real matches sat further down the unfiltered result list.
+ *
+ * Additionally the option labels are annotated with per-program hit counts for
+ * the current query, so it is obvious where the results actually are.
  */
 
 export interface ProgramOption {
@@ -18,11 +27,31 @@ export interface ProgramOption {
   route: string;
 }
 
-const STORAGE_KEY = 'program-filter';
+interface QueryCounts {
+  perProgram: Record<string, number>;
+  total: number;
+}
 
-const RESULTS_SELECTOR = '.pagefind-ui__results';
-const RESULT_ITEM_SELECTOR = ':scope > .pagefind-ui__result';
-const MESSAGE_SELECTOR = '.pagefind-ui__message';
+const STORAGE_KEY = 'program-filter';
+const FILTER_KEY = 'program';
+const SEARCH_ROOT_ID = 'starlight__search';
+const INPUT_SELECTOR = '.pagefind-ui__search-input';
+const CHECKBOX_SELECTOR = `input.pagefind-ui__filter-checkbox[name="${FILTER_KEY}"]`;
+/** Slightly longer than Pagefind's own 300 ms debounce so we settle after it. */
+const COUNT_DEBOUNCE_MS = 350;
+
+const pagefindBundleBase = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/pagefind/`;
+
+let pagefindPromise: Promise<any> | undefined;
+/**
+ * Resolves the same module instance the Pagefind UI itself imports (identical
+ * specifier => ES module cache hit), so this reuses the already-loaded index
+ * rather than initialising a second copy.
+ */
+function loadPagefind(): Promise<any> {
+  pagefindPromise ??= import(/* @vite-ignore */ `${pagefindBundleBase}pagefind.js`);
+  return pagefindPromise;
+}
 
 function readOptions(): ProgramOption[] {
   const node = document.getElementById('program-filter-options');
@@ -34,19 +63,6 @@ function readOptions(): ProgramOption[] {
     console.warn('Programmfilter: Optionen konnten nicht gelesen werden.', error);
     return [];
   }
-}
-
-function firstSegment(path: string): string {
-  return path.split('/').filter(Boolean)[0] ?? '';
-}
-
-function buildRouteSegmentToId(programs: ProgramOption[]): Map<string, string> {
-  const map = new Map<string, string>();
-  for (const program of programs) {
-    const segment = firstSegment(program.route);
-    if (segment) map.set(segment, program.id);
-  }
-  return map;
 }
 
 function getStored(): string {
@@ -64,76 +80,6 @@ function setStored(value: string): void {
   } catch (error) {
     console.warn('Programmfilter: Speichern in localStorage fehlgeschlagen.', error);
   }
-}
-
-function deriveProgramId(resultEl: Element, routeSegmentToId: Map<string, string>): string {
-  const anchor = resultEl.querySelector('a[href]');
-  const href = anchor?.getAttribute('href');
-  if (!href) return '';
-  try {
-    const url = new URL(href, window.location.href);
-    const segment = firstSegment(url.pathname);
-    return routeSegmentToId.get(segment) ?? segment;
-  } catch (error) {
-    console.warn('Programmfilter: Konnte Programm nicht aus URL ableiten.', error);
-    return '';
-  }
-}
-
-function updateMessage(container: HTMLElement, visible: number, total: number, label: string): void {
-  const message = container.querySelector<HTMLElement>(MESSAGE_SELECTOR);
-  if (!message) return;
-  if (!message.dataset.originalText) {
-    message.dataset.originalText = message.textContent ?? '';
-  }
-  if (!label) {
-    message.textContent = message.dataset.originalText;
-    return;
-  }
-  message.textContent =
-    visible > 0 ? `${visible} Treffer (${label})` : `Keine Treffer (${label})`;
-  void total;
-}
-
-function applyFilter(
-  resultsContainer: HTMLElement,
-  select: HTMLSelectElement,
-  routeSegmentToId: Map<string, string>,
-): void {
-  const selected = select.value;
-  const selectedLabel = selected ? select.selectedOptions[0]?.textContent?.trim() ?? '' : '';
-  const items = Array.from(resultsContainer.querySelectorAll<HTMLElement>(RESULT_ITEM_SELECTOR));
-
-  let visible = 0;
-  for (const item of items) {
-    const programId = deriveProgramId(item, routeSegmentToId);
-    const match = !selected || programId === selected;
-    // Pagefind's bundled CSS (`@pagefind/default-ui/css/ui.css`) sets
-    // `display: flex` on `.pagefind-ui__result` as an author-origin style,
-    // which always overrides the User-Agent default `[hidden] { display: none }`
-    // regardless of specificity. Setting an inline style instead reliably wins
-    // over the external stylesheet.
-    item.style.display = match ? '' : 'none';
-    if (match) visible += 1;
-  }
-
-  updateMessage(resultsContainer, visible, items.length, selectedLabel);
-}
-
-function watchForResultsContainer(host: HTMLElement, onFound: (container: HTMLElement) => void): void {
-  const existing = host.querySelector<HTMLElement>(RESULTS_SELECTOR);
-  if (existing) {
-    onFound(existing);
-    return;
-  }
-  const observer = new MutationObserver(() => {
-    const found = host.querySelector<HTMLElement>(RESULTS_SELECTOR);
-    if (found) {
-      observer.disconnect();
-      onFound(found);
-    }
-  });
-  observer.observe(host, { childList: true, subtree: true });
 }
 
 function buildSelect(programs: ProgramOption[]): HTMLSelectElement {
@@ -157,14 +103,15 @@ function buildSelect(programs: ProgramOption[]): HTMLSelectElement {
 }
 
 function setup(): void {
-  const target = document.getElementById('starlight__search');
-  const container = target?.parentElement;
-  if (!target || !container) return;
-  if (container.querySelector('[data-program-filter]')) return; // already initialized
+  const searchRoot = document.getElementById(SEARCH_ROOT_ID);
+  const container = searchRoot?.parentElement;
+  if (!searchRoot || !container) return;
+  if (container.querySelector('[data-program-filter]')) return; // already initialised
 
   const programs = readOptions();
   if (programs.length === 0) return;
-  const routeSegmentToId = buildRouteSegmentToId(programs);
+
+  const labels = new Map(programs.map((program) => [program.id, program.label]));
 
   const wrapper = document.createElement('div');
   wrapper.setAttribute('data-program-filter', '');
@@ -176,24 +123,111 @@ function setup(): void {
     select.value = stored;
   }
 
-  wrapper.append(select);
-  container.insertBefore(wrapper, target);
+  const hint = document.createElement('p');
+  hint.className = 'program-filter__hint';
+  hint.setAttribute('role', 'status');
+  hint.hidden = true;
 
-  const apply = () => {
-    const resultsContainer = target.querySelector<HTMLElement>(RESULTS_SELECTOR);
-    if (resultsContainer) applyFilter(resultsContainer, select, routeSegmentToId);
+  wrapper.append(select, hint);
+  container.insertBefore(wrapper, searchRoot);
+
+  let counts: QueryCounts | null = null;
+
+  /** Mirror the dropdown onto Pagefind's own (visually hidden) checkboxes. */
+  const syncNativeFilter = (): void => {
+    const boxes = searchRoot.querySelectorAll<HTMLInputElement>(CHECKBOX_SELECTOR);
+    for (const box of boxes) {
+      const shouldBeChecked = box.value === select.value;
+      // Only touch (and notify about) checkboxes that actually change, so the
+      // MutationObserver below can't drive an endless update loop.
+      if (box.checked !== shouldBeChecked) {
+        box.checked = shouldBeChecked;
+        box.dispatchEvent(new Event('change', { bubbles: true }));
+      }
+    }
+  };
+
+  const currentTerm = (): string =>
+    searchRoot.querySelector<HTMLInputElement>(INPUT_SELECTOR)?.value.trim() ?? '';
+
+  const render = (): void => {
+    const selected = select.value;
+
+    for (const option of Array.from(select.options)) {
+      const baseLabel = option.value === '' ? 'Alle Programme' : labels.get(option.value) ?? option.value;
+      if (!counts) {
+        option.textContent = baseLabel;
+        continue;
+      }
+      const count = option.value === '' ? counts.total : counts.perProgram[option.value] ?? 0;
+      option.textContent = `${baseLabel} (${count})`;
+    }
+
+    // Only explain the situation the filter can't otherwise make obvious:
+    // the selected program has no hits while other programs do.
+    const matching = selected && counts ? counts.perProgram[selected] ?? 0 : 0;
+    if (selected && counts && matching === 0 && counts.total > 0) {
+      const label = labels.get(selected) ?? selected;
+      hint.textContent = `Keine Treffer im Programm „${label}“ – ${counts.total} Treffer in allen Programmen.`;
+      hint.hidden = false;
+    } else {
+      hint.hidden = true;
+      hint.textContent = '';
+    }
+  };
+
+  let countsToken = 0;
+  const refreshCounts = async (): Promise<void> => {
+    const token = ++countsToken;
+    const term = currentTerm();
+    if (!term) {
+      counts = null;
+      render();
+      return;
+    }
+    try {
+      const pagefind = await loadPagefind();
+      // An unfiltered search yields both the overall hit count and the
+      // per-program breakdown in one go.
+      const result = await pagefind.search(term);
+      if (token !== countsToken) return;
+      counts = {
+        perProgram: (result?.filters?.[FILTER_KEY] as Record<string, number>) ?? {},
+        total: result?.results?.length ?? 0,
+      };
+    } catch (error) {
+      console.warn('Programmfilter: Trefferanzahl konnte nicht ermittelt werden.', error);
+      counts = null;
+    }
+    if (token === countsToken) render();
+  };
+
+  let countsTimer: ReturnType<typeof setTimeout> | undefined;
+  const scheduleCountRefresh = (): void => {
+    if (countsTimer) clearTimeout(countsTimer);
+    countsTimer = setTimeout(() => void refreshCounts(), COUNT_DEBOUNCE_MS);
   };
 
   select.addEventListener('change', () => {
     setStored(select.value);
-    apply();
+    syncNativeFilter();
+    render();
   });
 
-  watchForResultsContainer(target, (resultsContainer) => {
-    apply();
-    const resultsObserver = new MutationObserver(() => apply());
-    resultsObserver.observe(resultsContainer, { childList: true });
+  // Pagefind renders its filter panel and results asynchronously, so re-apply
+  // the selection whenever the search UI re-renders.
+  const observer = new MutationObserver(() => {
+    syncNativeFilter();
+    scheduleCountRefresh();
   });
+  observer.observe(searchRoot, { childList: true, subtree: true });
+
+  searchRoot.addEventListener('input', (event) => {
+    if ((event.target as HTMLElement | null)?.matches?.(INPUT_SELECTOR)) scheduleCountRefresh();
+  });
+
+  syncNativeFilter();
+  scheduleCountRefresh();
 }
 
 export function initProgramFilter(): void {

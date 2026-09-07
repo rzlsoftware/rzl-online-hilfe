@@ -1,0 +1,12 @@
+{
+  "pagefind.clear_search": "Löschen",
+  "pagefind.load_more": "Weitere Treffer laden",
+  "pagefind.search_label": "Diese Seite durchsuchen",
+  "pagefind.filters_label": "Filter",
+  "pagefind.zero_results": "Keine Treffer für „[SEARCH_TERM]“",
+  "pagefind.one_result": "[COUNT] Treffer für „[SEARCH_TERM]“",
+  "pagefind.many_results": "[COUNT] Treffer für „[SEARCH_TERM]“",
+  "pagefind.alt_search": "Keine Treffer für „[SEARCH_TERM]“. Es werden stattdessen Treffer für „[DIFFERENT_TERM]“ angezeigt",
+  "pagefind.search_suggestion": "Keine Treffer für „[SEARCH_TERM]“. Versuchen Sie eine der folgenden Suchen:",
+  "pagefind.searching": "Suche nach „[SEARCH_TERM]“ …"
+}

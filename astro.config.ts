@@ -41,6 +41,9 @@ export default defineConfig({
       components: {
         SocialIcons: './src/components/HainzLink.astro',
         Search: './src/components/ProgramSearch.astro',
+        // Emits `data-pagefind-filter="program:<id>"` into the indexed body so
+        // the search program filter can use native Pagefind filtering.
+        MarkdownContent: './src/components/MarkdownContent.astro',
       },
     }),
   ],
