@@ -8,15 +8,14 @@ Ist der Dienstgeber grundsätzlich kommunalsteuerpflichtig, so ist dieses Feld z
 
 Im Feld *Kürzung Bem. Kommst.* kann die Kürzung der Bemessungsgrundlage für die Berechnung der Kommunalsteuer eingetragen werden. Wenn z. B. 80 % eingetragen werden, wird die Bemessungsgrundlage um 80 % gekürzt. Eine nachträgliche Eintragung während des Jahres hat keine Auswirkung auf bereits gespeicherte Abrechnungen.
 
-In den Dienstnehmer-Stammdaten im Abrechnungsbildschirm [*Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.md) kann eine Befreiung eines einzelnen Dienstnehmers von der Kommunalsteuer und eine Kürzung der Bemessungsgrundlage eingegeben werden.
+In den Dienstnehmer-Stammdaten im Abrechnungsbildschirm [*Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.md/#kommunalsteuer) kann eine Befreiung eines einzelnen Dienstnehmers von der Kommunalsteuer und eine Kürzung der Bemessungsgrundlage eingegeben werden.
 
-Die erste in der Liste eingetragene Gemeinde wird für alle Dienstnehmer des Klienten verwendet. Im Abrechnungsbildschirm [*Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.md) kann direkt beim Dienstnehmer eine andere Gemeinde zugeordnet werden.
+Die erste in der Liste eingetragene Gemeinde wird für alle Dienstnehmer des Klienten verwendet. Im Abrechnungsbildschirm [*Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.md/#kommunalsteuer) kann direkt beim Dienstnehmer eine andere Gemeinde zugeordnet werden.
 
 !!! warning "Hinweis"
     Durch Anwahl des Feldes *Kommunalsteuer – Freibetrag berücksichtigen* kann die Berechnung des Freibetrages ausgeschaltet werden.
 
-
-**Gemeinden** 
+### Gemeinden
 
 Im Feld *Gemeinde* ist die Nummer der Gemeinde einzugeben. Die [Anlage der Gemeinde](../../Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte.md) erfolgt im Menüpunkt *Klient / Finanzämter, Gemeinden, ÖGK, BV-Kassen, Gerichte*. Pro Klienten bzw. Unterdienstgeber können Sie bis zu 125 Gemeinden anlegen.
 
@@ -45,9 +44,33 @@ Für die automatische Eintragung des Monats und des Jahres können Sie die Kürz
 
     Dadurch wird in der Zahlungsreferenz unverändert `KommSt 12345` ausgegeben.
 
-**Kommunalsteuerschließungserklärung** 
+### Zahlungsreferenz erscheint nicht auf der Überweisungsliste
 
-Wenn eine [Kommunalsteuer-Schließungserklärung](../../Elektronische_Kommunalsteuererklaerung.md) erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen.
+Wenn bei einer Gemeinde die Zahlungsreferenz nicht auf der Überweisungsliste erscheint, liegt das meistens daran, dass unterschiedliche Gemeindenummern hinterlegt sind.
+
+Bitte prüfen Sie dazu die Gemeindenummer unter:
+
+- *Stamm / Klient / KommSt, U-Bahn*
+- bzw. *Stamm / Unterdienstgeber / KommSt, U-Bahn*
+
+und vergleichen Sie diese mit der Gemeindenummer beim jeweiligen Dienstnehmer.
+
+**Beispiel:**
+In den Klientenstammdaten ist die Gemeinde 31609 hinterlegt. Beim Dienstnehmer ist jedoch eine andere Gemeindenummer (2133) eingetragen.
+
+Auf der Überweisungsliste werden zwar der richtige Betrag und die richtige Gemeinde angezeigt, die Zahlungsreferenz wird jedoch nicht übernommen. Der Grund dafür ist, dass die beiden unterschiedlichen Gemeindenummern nicht miteinander verknüpft werden können.
+
+**Lösung:**
+Die Gemeindenummer muss entweder in den Klientenstammdaten bzw. beim Unterdienstgeber oder beim Dienstnehmer entsprechend angepasst werden.
+
+Sobald auf beiden Seiten dieselbe Gemeindenummer hinterlegt ist, wird auch die eingetragene Zahlungsreferenz auf der Überweisungsliste verwendet.
+
+!!! warning "Hinweis"
+    Bei einer SEPA-Überweisung wird anstelle der Zahlungsreferenz der Text `NOTPROVIDED` angezeigt, wenn die beiden Gemeindenummern nicht übereinstimmen. Auch in diesem Fall ist die in diesem Abschnitt beschriebene Lösung anzuwenden.
+
+### Kommunalsteuerschließungserklärung
+
+Wenn eine [Kommunalsteuer-Schließungserklärung](../../Elektronische_Kommunalsteuererklaerung.md/#erstellung-einer-kommunalsteuer-schlieungserklarung) erstellt werden muss, ist im Feld *Schließung der Betriebsstätte* das Datum der Schließung des Betriebes einzutragen.
 
 ## U-Bahn-Abgabe
 
@@ -57,4 +80,4 @@ Sollte die U-Bahn-Gemeinde von der Kommunalsteuergemeinde abweichen, ist in dies
 
 Im Feld *Steuernummer* können Sie die Steuernummer für die U-Bahn-Abgabe erfassen. Weiters kann ein eigenes Verbindlichkeitenkonto für diese Abgabe eingetragen werden.
 
-Zusätzlich muss in den Stammdaten des Dienstnehmers im Abrechnungsbildschirm [*Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.md) die U-Bahn-Abgabenpflicht des Dienstnehmers festgelegt werden.
+Zusätzlich muss in den Stammdaten des Dienstnehmers im Abrechnungsbildschirm [*Lohnsteuer*](../../Abrechnungsbildschirme/Lohnsteuer.md/#u-bahn-abgabe) die U-Bahn-Abgabenpflicht des Dienstnehmers festgelegt werden.
