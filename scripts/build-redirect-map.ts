@@ -37,7 +37,18 @@ function depth(value: string): number {
 
 function staticWebAppConfiguration(routes: RedirectRule[]): Record<string, unknown> {
   return {
-    trailingSlash: 'always',
+    // "auto" (not "always"): Azure Static Web Apps applies trailingSlash
+    // normalization to every request, including static assets like
+    // `/_astro/*.js` and `/pagefind/*`. With "always", those file requests
+    // get 301-redirected to a URL with a trailing slash appended (e.g.
+    // `/_astro/foo.js` -> `/_astro/foo.js/`). Browsers follow the redirect,
+    // but the resulting URL then becomes the *base* for any relative
+    // `import()` inside that module, breaking Pagefind's search UI (and the
+    // mobile table-of-contents script) with a 404 on the re-resolved import.
+    // "auto" only adds a trailing slash for folder-style routes (matching
+    // Astro's own `trailingSlash: 'always'` page URLs) and leaves file
+    // requests (paths with an extension) untouched.
+    trailingSlash: 'auto',
     routes,
     responseOverrides: {
       404: {
