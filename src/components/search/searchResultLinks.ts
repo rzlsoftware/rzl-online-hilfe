@@ -1,0 +1,82 @@
+/**
+ * Carries the current search terms over to the page a search result links to,
+ * so the matching text can be highlighted there.
+ *
+ * Pagefind can do this itself via its `highlightParam` option, but that option
+ * has to be handed to the Pagefind backend, and the only way in is Starlight's
+ * `pagefind` config — whose Zod schema doesn't include `highlightParam` and so
+ * strips it. Setting it later at runtime is racy: `pagefind.js` only *stores*
+ * the options until the first search creates the instance (`initial_options =
+ * new_options`, a whole-object replacement), so calling it too early is
+ * overwritten by the search UI and calling it too late would clobber the
+ * `excerptLength`/`ranking` the UI configured.
+ *
+ * Rewriting the rendered result links instead is deterministic and has the
+ * added benefit of working for every way of following a result — normal click,
+ * middle click, "open in new tab" and "copy link address" — because the term
+ * is part of the `href` rather than applied during a click handler.
+ */
+
+const HIGHLIGHT_PARAM = 'highlight';
+const SEARCH_ROOT_ID = 'starlight__search';
+const INPUT_SELECTOR = '.pagefind-ui__search-input';
+const RESULT_LINK_SELECTOR = '.pagefind-ui__result a[href]';
+/** Remembers the untouched href so repeated passes stay idempotent. */
+const BASE_HREF_ATTR = 'data-rzl-base-href';
+/** Guards against absurdly long queries bloating the URL. */
+const MAX_TERMS = 8;
+
+function searchTerms(query: string): string[] {
+  return query
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, MAX_TERMS);
+}
+
+function decorateResultLinks(root: HTMLElement): void {
+  const query = root.querySelector<HTMLInputElement>(INPUT_SELECTOR)?.value ?? '';
+  const terms = searchTerms(query);
+
+  for (const link of root.querySelectorAll<HTMLAnchorElement>(RESULT_LINK_SELECTOR)) {
+    const base = link.getAttribute(BASE_HREF_ATTR) ?? link.getAttribute('href');
+    if (base === null) continue;
+    link.setAttribute(BASE_HREF_ATTR, base);
+
+    if (terms.length === 0) {
+      link.setAttribute('href', base);
+      continue;
+    }
+
+    try {
+      const url = new URL(base, window.location.href);
+      url.searchParams.delete(HIGHLIGHT_PARAM);
+      for (const term of terms) url.searchParams.append(HIGHLIGHT_PARAM, term);
+      link.setAttribute('href', `${url.pathname}${url.search}${url.hash}`);
+    } catch {
+      link.setAttribute('href', base);
+    }
+  }
+}
+
+export function initSearchResultLinks(): void {
+  const start = (): void => {
+    const root = document.getElementById(SEARCH_ROOT_ID);
+    if (!root) return;
+
+    const update = () => decorateResultLinks(root);
+
+    // Results are rendered asynchronously and re-rendered on every query or
+    // filter change. Only `childList` is observed, so rewriting the `href`
+    // attributes below can't re-trigger this observer.
+    new MutationObserver(update).observe(root, { childList: true, subtree: true });
+    root.addEventListener('input', update);
+    update();
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', start, { once: true });
+  } else {
+    start();
+  }
+}

@@ -18,6 +18,9 @@
  * filtering instead of hiding already-rendered results client-side, which
  * previously produced wrong result counts and a "load more" button that
  * paged through results the filter had removed.
+ *
+ * The script below highlights the search terms when the page was opened from
+ * a search result (see `./search/highlightMatches.ts`).
  */
 import Default from '@astrojs/starlight/components/MarkdownContent.astro';
 
@@ -26,3 +29,8 @@ const program = Astro.locals.starlightRoute.entry.data.program;
 
 {program && <span data-pagefind-filter={`program:${program}`} />}
 <Default {...Astro.props}><slot /></Default>
+<script>
+	import { initSearchHighlight } from './search/highlightMatches.ts';
+
+	initSearchHighlight();
+</script>
