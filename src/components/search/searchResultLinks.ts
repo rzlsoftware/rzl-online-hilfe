@@ -17,26 +17,18 @@
  * is part of the `href` rather than applied during a click handler.
  */
 
+import { termsFromQuery } from './searchTerms.ts';
+
 const HIGHLIGHT_PARAM = 'highlight';
 const SEARCH_ROOT_ID = 'starlight__search';
 const INPUT_SELECTOR = '.pagefind-ui__search-input';
 const RESULT_LINK_SELECTOR = '.pagefind-ui__result a[href]';
 /** Remembers the untouched href so repeated passes stay idempotent. */
 const BASE_HREF_ATTR = 'data-rzl-base-href';
-/** Guards against absurdly long queries bloating the URL. */
-const MAX_TERMS = 8;
-
-function searchTerms(query: string): string[] {
-  return query
-    .trim()
-    .split(/\s+/)
-    .filter(Boolean)
-    .slice(0, MAX_TERMS);
-}
 
 function decorateResultLinks(root: HTMLElement): void {
   const query = root.querySelector<HTMLInputElement>(INPUT_SELECTOR)?.value ?? '';
-  const terms = searchTerms(query);
+  const terms = termsFromQuery(query);
 
   for (const link of root.querySelectorAll<HTMLAnchorElement>(RESULT_LINK_SELECTOR)) {
     const base = link.getAttribute(BASE_HREF_ATTR) ?? link.getAttribute('href');
