@@ -172,7 +172,7 @@ Auf dieser Aufstellung sehen Sie alle Dienstnehmer pro Monat mit dem abgerechnet
 
 Die Aufstellung der Firmenfahrzeuge ist zusätzlich als Jahresauswertung verfügbar unter: *Ausdruck / Jahresauswertungen / Aufstellung Firmenfahrzeuge*.
 
-In der Jahresauswertung stehen dieselben Filtermöglichkeiten wie unter [Sonderdrucke](../Ausdrucke_allgemein/Ausdruck_Sonderdrucke.md) zur Verfügung.
+In der Jahresauswertung stehen dieselben Filtermöglichkeiten wie unter [Sonderdrucke](../Ausdrucke/Ausdruck_Sonderdrucke.md) zur Verfügung.
 
 ## Jahres-Abschlussprotokoll
 

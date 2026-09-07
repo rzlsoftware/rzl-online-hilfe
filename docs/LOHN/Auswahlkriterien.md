@@ -2,7 +2,7 @@
 
 Der Programmteil *Stamm / Auswahlkriterien* bietet die Möglichkeit, Auswahlkriterien anzulegen und bestimmten Dienstnehmern zuzuordnen.
 
-Diese Zuordnungen können beim [Ausdruck der Abrechnungen](../LOHN/Ausdrucke_allgemein/Ausdruck_Abrechnungen.md) und beim [Datenexport](../LOHN/Datenexport.md) verwendet werden.
+Diese Zuordnungen können beim [Ausdruck der Abrechnungen](../LOHN/Ausdrucke/Ausdruck_Abrechnungen.md) und beim [Datenexport](../LOHN/Datenexport.md) verwendet werden.
 
 ## Anlage und Zuordnung der Auswahlkriterien
 
