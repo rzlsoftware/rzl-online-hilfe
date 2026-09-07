@@ -25,6 +25,21 @@ Im Feld Kanzlei-Lohnartentabelle ist die Nummer der Tabelle einzutragen und wird
 !!! warning "Hinweis"
     Ein Wechsel von klientenbezogenen Lohnarten auf eine Kanzleilohnarten-Tabelle oder umgekehrt ist nur im Zuge einer [Jahresübernahme](../Jahresuebernahme.md) möglich.
 
+## Kanzleilohnartentabelle duplizieren
+
+Kanzleilohnartentabellen können über den Menüpunkt *Klient / Kanzlei / Lohnarten duplizieren* kopiert werden.
+
+Gehen Sie dabei wie folgt vor:
+
+1. Geben Sie die Nummer der Kanzleilohnartentabelle ein, die dupliziert werden soll.
+2. Wählen Sie im Bereich *Neue Kanzlei-Lohnarten* eine noch freie Nummer für die neue Kanzleilohnartentabelle aus.
+3. Tragen Sie unter *Neue Bezeichnung* eine passende Bezeichnung für die neue Kanzleilohnartentabelle ein.
+
+![Image](img/image171.png)
+
+!!! warning "Hinweis"
+    Eine Auswahl einzelner Lohnarten ist beim Duplizieren **nicht** möglich. Es werden immer alle freien Lohnarten in die neue Kanzleilohnartentabelle übernommen.
+
 ## Musterlohnartentabelle
 
 Die in der Musterlohnartentabelle sowie die im Handbuch beschriebenen Musterlohnarten verstehen sich als unverbindliche Vorschläge zur Lohnartenerfassung. Sie basieren auf einschlägigen Fachartikeln.
