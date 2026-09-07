@@ -22,39 +22,47 @@
 |            |                                         | Erstellungsbericht ohne Mitwirkung an Buchführung                                                           |
 |            |                                         | Vollständigkeitserklärung                                                                                   |
 | 22         | Gaststättenpauschalierung neu           | Gaststättenpauschalierung neu ab 2020 Stand 30032023                                                        |
-| 23         | RZL-Muster Umlaufbeschluss              | RZL-Muster Umlaufbeschluss 092019                                                                           |
+| 23         | RZL-Muster Umlaufbeschluss              | RZL-Muster Umlaufbeschluss Stand 26082025                                                                   |
 | 25         | RZL Musteranhänge RÄG 2014              | RZL Musteranhang kurz RÄG 2014 ohne VJ Version 2                                                            |
 |            |                                         | RZL Musteranhang kurz RÄG 2014 Version 4                                                                    |
 |            |                                         | RZL Musteranhang lang RÄG 2014 Version 4                                                                    |
 | 26         | RZL Musterreports RÄG 2014              | RZL Geldflussrechnung RÄG 2014 Stand 26072023                                                               |
 |            |                                         | RZL-Jahresabschluss-Report Präsentation RÄG 2014 Version 2                                                  |
 |            |                                         | RZL-Quick Kennzahlen KMU RÄG 2014 Version 2                                                                 |
+| 28         | RZL Musteranhänge KKP 26                | RZL Musteranhang kurz KKP 26 Stand 22042026                                                                 |
+|            |                                         | RZl Musteranhang kurz ohne VJ KKP 26 Stand 22042026                                                         |
+|            |                                         | RZL Musteranhang lang KKP 26 Stand 22042026                                                                 |
+| 29         | RZL Musterreports KKP 26                | RZL Geldflussrechnung KKP 26 Stand 23042026                                                                 |
+|            |                                         | RZL Jahresabschlussrep. Präsentation KKP 26 Stand 23042026                                                  |
+|            |                                         | RZL Quick Kennzahlen KMU KKP 26 Stand 30042026                                                              |
 | 32         | RZL Musterreports Anlagen               | RZL Muster BWR-Spiegel Subvention 072019 Bilanzbasis                                                        |
 |            |                                         | RZL Muster BWR-Spiegel Subvention 072019 Kontenbasis                                                        |
-| 400        | RZL Jahresabschlussrep. Premium         | RZL Jahresabschlussreport Premium Stand 10102024 **kostenpflichtig**                                        |
+| 41         | RZL Muster Lagebericht                  | RZL Musterlagebericht KKP 26 Stand 05022026                                                                 |
+| 400        | RZL Jahresabschlussrep. Premium         | RZL Jahresabschlussreport Prem. KKP 25 Stand 29042026 **kostenpflichtig**                                   |
+|            |                                         | RZL Jahresabschlussreport Prem. KKP 26 Stand 29042026 **kostenpflichtig**                                   |
 
 ## Finanzbuchhaltung
 
-| **Nummer** | **Name**                          | **Inhalt**                                               |
-| ---------- | --------------------------------- | -------------------------------------------------------- |
-| 19         | RZL-Fibu Ergebniskurzübersicht    | RZL-Muster Ergebniskurzübersicht 30012024                |
-| 30         | RZL Musterreports Fibu            | RZL Unternehmensreport Stand 08072025                    |
-| 31         | RZL Musterreports Fibu Covid 19   | Ausfallsbonus III nach EStG Stand 07032022               |
-|            |                                   | Ausfallsbonus III nach UVA Kennzahlen 07032022           |
-|            |                                   | Ausfüllhilfe für EPG_Berechnungstool Stand 10032022      |
-|            |                                   | Fixkostenzuschuss 800.000 Tranche 2 Stand 09032022       |
-|            |                                   | Härtefallfonds Stand 09.11.2020                          |
-|            |                                   | Sozialpartnervereinbarung 10.0 - Beilage 1 FIBU 14072021 |
-|            |                                   | Verlustersatz II Endabrechnung Stand 30032022            |
-|            |                                   | Verlustersatz III Endabrechnung Stand 25042022           |
-|            |                                   | Verlustersatz Tranche 2 Stand 06102021                   |
-| 35         | RZL allgemeine Musterreports FIBU | Buchhaltungsinfo mit Abgaben Stand 06052025              |
-| *Nur mit*  | *Mahnwesen Modul*                 |                                                          |
-| 91         | RZL Mahnreports                   | 1\. Mahnung                                              |
-|            |                                   | 2\. Mahnung                                              |
-|            |                                   | 3\. Mahnung                                              |
-|            |                                   | Gesamtmahnung                                            |
-|            |                                   | Übergabe Inkasso                                         |
+| **Nummer** | **Name**                           | **Inhalt**                                               |
+| ---------- | ---------------------------------- | -------------------------------------------------------- |
+| 19         | RZL-Fibu Ergebniskurzübersicht     | RZL-Muster Ergebniskurzübersicht 30012024                |
+| 30         | RZL Muster Unternehmensreport FIBU | RZL Unternehmensreport Stand 07012026                    |
+| 31         | RZL Musterreports Fibu Covid 19    | Ausfallsbonus III nach EStG Stand 07032022               |
+|            |                                    | Ausfallsbonus III nach UVA Kennzahlen 07032022           |
+|            |                                    | Ausfüllhilfe für EPG_Berechnungstool Stand 10032022      |
+|            |                                    | Fixkostenzuschuss 800.000 Tranche 2 Stand 09032022       |
+|            |                                    | Härtefallfonds Stand 09.11.2020                          |
+|            |                                    | Sozialpartnervereinbarung 10.0 - Beilage 1 FIBU 14072021 |
+|            |                                    | Verlustersatz II Endabrechnung Stand 30032022            |
+|            |                                    | Verlustersatz III Endabrechnung Stand 25042022           |
+|            |                                    | Verlustersatz Tranche 2 Stand 06102021                   |
+| 35         | RZL allgemeine Musterreports FIBU  | Buchhaltungsinfo mit Abgaben Stand 06052025              |
+| *Nur mit*  | *Mahnwesen Modul*                  |                                                          |
+| 91         | RZL Mahnreports                    | 1\. Mahnung                                              |
+|            |                                    | 2\. Mahnung                                              |
+|            |                                    | 3\. Mahnung                                              |
+|            |                                    | Gesamtmahnung                                            |
+|            |                                    | Übergabe Inkasso                                         |
 
 ## Lohnverrechnung
 
@@ -64,6 +72,7 @@
 |            |                                   | Lohn- und Gehaltsbestätigung                                |
 | 202        | RZL Muster Dienstzettel           | Muster Dienstzettel Stand 25042024                          |
 | 203        | RZL Muster Dienstvertrag          | Muster Dienstvertrag Stand 25042024                         |
+|            |                                   | Muster Arbeitsvertrag Arbeiter Gastronomie Stand 02072026   |
 | 205        | RZL Muster Formulare LOHN         | Aktenvermerk DB 2023 und 2024_Stand 28112022                |
 |            |                                   | AMS Beschäftigungsmeldung                                   |
 |            |                                   | Grenzüberschreitende Telearbeit Stand 13112023              |
@@ -78,10 +87,11 @@
 |            |                                   | Konjunkturerhebung Ausfüllhilfe Stand 05032024              |
 |            |                                   | Statistik Personal 112016                                   |
 |            |                                   | Vollzeiteinheiten 112016                                    |
-|            |                                   | VZÄ jährlich auf Stundenbasis Stand 29022024                |
-|            |                                   | VZÄ monatlich auf Std.basis mit Auswahlkrit. Stand 29022024 |
-|            |                                   | VZÄ monatlich auf Stundenbasis Stand 07062023               |
+|            |                                   | VZÄ jährlich auf Stundenbasis Stand 04022025                |
+|            |                                   | VZÄ monatlich auf Std.basis mit Auswahlkrit. Stand 04022025 |
 |            |                                   | VZÄ monatlich auf Std.basis nach SVTagen Stand 04082025     |
+|            |                                   | VZÄ monatlich auf Stundenbasis Stand 04022025               |
+|            |                                   | VZÄ monatlich auf Std.basis pro Kostenstelle Stand 02072026 |
 | 251        | RZL Lohnstatistik LSE             | Ausfüllhilfe LSE Personal Stand 10082023                    |
 
 ## Honorarverrechnung

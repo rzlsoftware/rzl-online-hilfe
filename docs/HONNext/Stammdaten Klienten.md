@@ -141,6 +141,9 @@ automatisch der PDF-Drucker bzw. der PDF-Manager als Drucker ausgewählt.
 Während der Notenerstellung kann die Art der Zustellung abgeändert
 werden, siehe [Notenerstellung/Einstellungen](../HONNext/Notenerstellung/Notenerstellung.md#einstellungen).
 
+!!! warning "Hinweis"
+    Bei den Zustellarten *E-Mail und Klientenportal* wird die Honorarnote in den PDF-Manager ausgegeben. Der Versand per E-Mail bzw. der Upload in das Klientenportal erfolgt dann direkt über den PDF-Manager.
+
 **Zahlungsart**   
 Bei der Zahlungsart stehen Ihnen die Optionen *Überweisung, SEPA
 Lastschrift* und *keine Zahlung* zur Verfügung. Bei der Option

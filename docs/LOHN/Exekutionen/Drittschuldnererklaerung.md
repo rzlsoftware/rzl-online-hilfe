@@ -1,42 +1,43 @@
 # Drittschuldnererklärung
 
-Im Bereich *Stamm / Exekutionen* werden die Angaben für die Drittschuldnererklärung erfasst. Zuerst muss die Dienstnehmernummer eingegeben werden.
+Im Bereich *Stamm / Exekutionen* werden die Angaben für die Drittschuldnererklärung erfasst. Geben Sie dazu zunächst die Dienstnehmernummer ein, für die die Eintragungen vorgenommen werden sollen.
 
-Als erster Schritt ist die Dienstnehmernummer, für die die Eintragungen vorgenommen werden sollen, einzutragen.
+!!! info "Voraussetzung"
+    Der Dienstnehmer muss bereits im Programm angelegt sein.
 
 ## Registerblatt Exekutionssache
 
 ![Image](<img/image312.png>){width="500"}
 
-**Einlangungszeitpunkt**
+### Einlangungszeitpunkt
 
 In dieses Feld ist das Datum einzutragen, an dem der Exekutionstitel eingelangt ist. Vom Programm wird das aktuelle Tagesdatum vorgeschlagen. Das hier eingetragene Datum kann nach dem Speichern nicht mehr geändert werden, da die Reihung der Forderungen nach dem Einlangungszeitpunkt vorgenommen wird.
 
-**Aktenzahl**
+### Aktenzahl
 
 Hier ist die Aktenzahl der Exekutionssache einzutragen.
 
-**Behördliche Pfändung – Exekutionsgericht**
+### Behördliche Pfändung – Exekutionsgericht
 
 Wird das Feld behördliche Pfändung angewählt, dann werden vom Programm Exekutionsbeträge berechnet.
 
-In der Behörden-Datei im Programmteil *Klient / Finanzämter/Gemeinden/ÖGK/BV-Kasse/Gerichte / Bearbeiten* werden die benötigten Gerichte verwaltet und können in diesem Feld mit der *F2-Taste* angewählt werden.
+In der Behörden-Datei im Programmteil [*Klient / Finanzämter/Gemeinden/ÖGK/BV-Kasse/Gerichte / Bearbeiten*](../Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte.md) werden die benötigten Gerichte verwaltet und können in diesem Feld mit der *F2-Taste* angewählt werden.
 
-**Private Pfändung – Verpfändungsgläubiger**
+### Private Pfändung – Verpfändungsgläubiger
 
 Eintragungen in das Feld *Verpfändungsgläubiger* sind notwendig, wenn die Forderung wegen der Reihung angemeldet wird, aber noch keine Exekutionsberechnung erfolgen soll (zur Absicherung eines Bankkredits). Diese Eintragung muss, wenn tatsächlich noch kein Abzug eines Exekutionsbetrages erfolgen soll, durch Anwahl der Schaltfläche *Sperren* gesperrt werden.
 
-**Unterhaltsexekution**
+### Unterhaltsexekution
 
 Liegt eine Unterhaltsexekution vor, ist dieses Feld zu aktivieren. Vom Programm wird automatisch berücksichtigt, dass dem Verpflichteten (Dienstnehmer) in diesem Fall nur 75 % der unpfändbaren Freibeträge (absolutes Existenzminimum) verbleiben dürfen.
 
-**Forderung – davon Kapitalforderung**
+### Forderung – davon Kapitalforderung
 
 In das Feld *Forderung* ist die Gesamthöhe der Forderung (inkl. Zinsen und Spesen) des Betreibers (Gläubigers) einzutragen. Diese Eintragung ist notwendig, damit im Zuge der Abrechnung der Exekutionsbetrag automatisch errechnet werden kann.
 
 Im Feld *davon Kapitalforderung* können Sie die Höhe der (Kapital-)Forderung, die auf der Drittschuldner-Erklärung eingetragen werden muss, eingeben.
 
-**Nachforderungen … ab**
+### Nachforderungen … ab
 
 Hier werden Forderungen, die nach dem Einlangungszeitpunkt geltend gemacht werden (z. B. Zinsen), mit Betrag und Datum eingetragen. Die Eingabe des Datums ist nicht für die Rangreihenfolge notwendig, hier zählt der Einlangungszeitpunkt für die erstmalige Berücksichtigung im Rahmen der Exekution.
 
@@ -48,45 +49,47 @@ Im Fall von Unterhaltsforderungen können mehrere Parteien mit den Daten des Ver
 
 Im Feld *Anmerkung* können Einträge gemacht werden die, wenn zusätzlich das Feld *Anmerkung auf Überweisung* aktiviert ist, als Information (Verwendungszweck) bei den Überweisungen verwendet werden.
 
+Über das Eingabefeld *abw. Kontoinhaber* kann ein vom Empfängerkonto abweichender Name des Kontoinhabers erfasst werden. Dieser wird für die Empfängerprüfung der Banken (VOP) herangezogen und stellt sicher, dass die Überweisung korrekt zugeordnet werden kann.
+
 ## Registerblatt Drittschuldner-Erklärung (1)
 
-**Forderung des Verpflichteten**
+### Forderung des Verpflichteten
 
 Hier wird festgelegt, ob der Drittschuldner (Dienstgeber) dem Verpflichteten (Schuldner = Dienstnehmer) Entgelt schuldet oder nicht.
 
 Die Forderung ist **nicht mehr gegeben**, wenn beispielsweise das Dienstverhältnis mit dem Dienstnehmer nicht mehr besteht. Ist das Dienstverhältnis aufrecht, ist die Höhe der Forderung, der durchschnittliche Nettobezug, einzutragen. Durch Anwahl der *F2-Taste* wird der Nettobezug des zuletzt abgerechneten Monats automatisch eingetragen. Wenn Sie jedoch einen rechten Mausklick in das Feld *Höhe der Forderung* machen, können Sie zwischen einem Vorschlag mit *3-monatigem* bzw. *12-monatigem Schnitt* auswählen. Weitere Forderungen, wie Sonderzahlungen und Prämien sind ebenfalls mit dem
 durchschnittlichen Nettobetrag als Gesamtbetrag einzutragen. Die hier vorgenommenen Eintragungen beeinflussen die Exekutionsberechnung nicht, sondern sind Bestandteil der Drittschuldnererklärung.
 
-**Unterhaltspflicht**
+### Unterhaltspflicht
 
-Unterhaltspflichten, die der Verpflichtete (Dienstnehmer) erfüllen muss, werden hier dokumentiert. Die Eintragungen, die im Abrechnungsbildschirm *Stammdaten Dienstnehmer* in den Bereichen *Ehepartner* und *Kinder* eingetragen wurden, werden automatisch übernommen. Voraussetzung für die Übernahme ist die Aktivierung des Feldes *Unterhalt* in den Stammdaten der *Ehepartner* und der *Kinder*.
+Unterhaltspflichten, die der Verpflichtete (Dienstnehmer) erfüllen muss, werden hier dokumentiert. Die Eintragungen, die im Abrechnungsbildschirm [*Stammdaten Dienstnehmer*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md) in den Bereichen [*Ehepartner*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md/#ehepartner) und [*Kinder*](../Abrechnungsbildschirme/Stammdaten_Dienstnehmer.md/#kinder) eingetragen wurden, werden automatisch übernommen. Voraussetzung für die Übernahme ist die Aktivierung des Feldes *Unterhalt* in den Stammdaten der *Ehepartner* und der *Kinder*.
 
-**Vorschuss**
+### Vorschuss
 
 Wurde dem Verpflichteten (Dienstnehmer) ein Vorschuss gewährt, ist dieses Feld zu aktivieren und die Höhe des gewährten Vorschusses einzutragen.
 
 ## Registerblatt Drittschuldner-Erklärung (2)
 
-**Reihung der letzten Forderung im Verhältnis zu dieser Forderung**
+### Reihung der letzten Forderung im Verhältnis zu dieser Forderung
 
 Hier kann eingetragen werden, ob die Forderung vorrangig oder gleichrangig ist. In den meisten Fällen liegt Vorrangigkeit gegenüber den anderen Forderungen vor. Gleichrangigkeit liegt vor, wenn am gleichen Tag mehrere Exekutionen beim Arbeitgeber einlangen (Poststempel) = Einlangungszeitpunkt.
 
-**Zahlungsklage des Dienstnehmers**
+### Zahlungsklage des Dienstnehmers
 
 Klagt der Dienstnehmer auf Zahlung der Bezüge, ist hier eine Eintragung vorzunehmen. Diese Eintragung ist relevant für den Ausdruck der Drittschuldnererklärung.
 
-**Keine Zahlungsbereitschaft**
+### Keine Zahlungsbereitschaft
 
 Liegt keine Zahlungsbereitschaft des Dienstgebers (Drittschuldners) vor, dann ist dieses Feld zu aktivieren und der Grund einzutragen (z. B. es existiert eine Gegenforderung oder eine Schadenersatzforderung).
 
-**Berechnung des unpfändbaren Freibetrags durch Verwalter**
+### Berechnung des unpfändbaren Freibetrags durch Verwalter
 
 Wird seitens des Gerichts ein Verwalter bestimmt, dass er die unpfändbaren Freibeträge berechnet, muss hier ein Häkchen bei *ja* für die Drittschuldnererklärung gesetzt werden.
 
 ## Registerblatt Drittschuldner-Erklärung (3)
 
-**Kostenvariante**
+### Kostenvariante
 
-Hier können Sie die gewünschte Kostenvariante für den Ersatz der Aufwendung des Dienstgebers betreffend Drittschuldnererklärung auswählen. Die hier definierte Kostenvariante kann als automatischer Abzug in der Abrechnung hinterlegt werden ([Automatische Ermittlung der Exekution](../Exekutionen/Exekutionsberechnung.md)).
+Hier können Sie die gewünschte Kostenvariante für den Ersatz der Aufwendung des Dienstgebers betreffend Drittschuldnererklärung auswählen. Die hier definierte Kostenvariante kann als automatischer Abzug in der Abrechnung hinterlegt werden ([Automatische Ermittlung der Exekution](../Exekutionen/Exekutionsberechnung.md/#abzug-drittschuldnerkosten)).
 
 ![Image](<img/image313.png>){width="350"}

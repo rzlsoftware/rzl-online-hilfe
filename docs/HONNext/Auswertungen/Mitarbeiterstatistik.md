@@ -51,3 +51,8 @@ werden nur die zugehörigen Leistungszeilen geöffnet.
 
 
 ![](<img/image352.png>)
+
+!!! info "Tipp"
+    Mit einem Rechtsklick in die Gruppierte Überschrift können Sie über die Schaltfläche *Sortieren nach Zusammenfassung* eine abweichende Auf-/Absteigende Sortierung definieren.
+
+    ![](img/image406.png)

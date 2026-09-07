@@ -2,9 +2,10 @@ nav:
     - Dienstnehmeruebernahme.md
     - Abrechnung_Zukunftssicherung.md
     - Zukunftssicherung_ab_2026.md
+    - Essensgutscheine.md
     - Abrechnung_Altersteilzeit.md
     - Abrechnung_Mutterschutz_und_Karenzurlaub.md
-    - Abrechnung_Wiedereingliederungsteilzeit_bzw_Bildungsteilzeit.md
+    - Abrechnung_Wiedereingliederungsteilzeit.md
     - Beendigung_von_Dienstverhaeltnissen_im_Krankenstand.md
     - Endgueltige_Beendigung_arbeitsrechtlich_aufrechten_Dienstverhaeltnissen.md
     - Bildungskarenz_waehrend_Karenzurlaub.md
@@ -15,6 +16,7 @@ nav:
     - Teuerungspraemie_2022_und_2023.md
     - Mitarbeiterpraemie_2022_und_2023.md
     - Mitarbeiterpraemie_2025.md
+    - Mitarbeiterpraemie_2026.md
     - Weitergewaehrung_Sachbezug_waehrend_Karenz.md
     - Abmeldung_Ummeldung.md
     - Bezugsumwandlung_E-Bike_Leasing_Firmenradl.md
@@ -24,4 +26,5 @@ nav:
     - Start-Up-Mitarbeiterbeteiligung.md
     - Rueckverrechnung_Minusstunden.md
     - Rueckverrechnung_Urlaubsentgelt.md
+    - Weiterbildungsbeihilfe.md
     - ...

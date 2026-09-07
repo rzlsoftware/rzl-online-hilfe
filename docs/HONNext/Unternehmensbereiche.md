@@ -30,6 +30,9 @@ den Button *zur Firmenansicht* gelangen Sie zur Firmenansicht.
 
 ![](<img/image413.png>)
 
+!!! info "Tipp"
+    Die Bankverbindung muss vollständig ausgefüllt sein, damit in späterer Folge ein QR-Code zur Überweisung für die Honorarnote generiert werden kann.
+
 !!! warning "Hinweis"
     Als Kontoinhaber wird initial der Personen- oder Firmenname verwendet - siehe Feld *Firma/Person*. Wird jedoch eine andere Kontobezeichnung  für die Überweisung mittels QR-Code benötigt, kann über den Shortcut *zur Personen-/ Firmenansicht* im Reiter *Bankverbindung* ein abweichender Kontoinhaber definiert werden (max. 70 Zeichen lt. xml-Struktur).
 

@@ -2,28 +2,41 @@
 
 ## Zahlscheindruck / E-Banking
 
-Der Zahlscheindruck für die Exekutionsbeträge erfolgt im Programmteil *Ausdruck / Überweisungen / Zahlscheine / Exekutionsbeträge*. Soll anstatt des Zahlscheindruck E-Banking durchgeführt werden, ist der Programmteil *Bearbeiten / Electronic Banking (Sepa) / Exekutionsbeträge* anzuwählen.
+Der Zahlscheindruck für die Exekutionsbeträge erfolgt im Programmteil *Ausdruck / Überweisungen / Zahlscheine / Exekutionsbeträge*. Soll anstatt des Zahlscheindruck E-Banking durchgeführt werden, ist der Programmteil *Bearbeiten / Electronic Banking (Sepa) / Exekutionsbeträge* zu wählen.
 
-## Listen und Formulare
+## Weitere Ausdrucke
 
-Weitere Ausdrucke betreffend Exekution finden sich im Programm *Ausdruck / Exekutionen*.
+Die folgenden Ausdrucke finden Sie im Programmteil *Ausdruck / Exekutionen*.
 
-**Exekutionsliste**
+### Exekutionsliste
 
-Durch den Ausdruck der Exekutionsliste besteht die Möglichkeit, sämtliche Exekutionen mit den Stammdaten, den exekutierten Beträgen und dem aktuellen Stand der Forderung auszudrucken.
+**Pfad:** *Ausdruck / Exekutionen / Exekutionsliste*
 
-**Drittschuldner-Erklärung**
+Druckt sämtliche Exekutionen mit Stammdaten, exekutierten Beträgen und dem aktuellen Stand der Forderung.
 
-Wenn die Daten der Drittschuldner-Erklärung im Programmteil *Stamm / Exekutionen* erfasst wurden, können die Drittschuldner-Erklärungen ausgedruckt werden.
+### Drittschuldner-Erklärung
 
-Wurde innerhalb der Drittschuldner-Erklärung die Kostenerstattung beantragt, dann ist festzulegen, ob der Kostenersatz auf die (Dienstgeber-)Bank 1 oder 2 überwiesen werden soll.
+**Pfad:** *Ausdruck / Exekutionen / Drittschuldner-Erklärung*
 
-Soll eine individuelle Bankverbindung eingetragen werden, ist das Auswahlfeld *individuell* zu aktivieren und es kann in den Feldern *BZL*, *Name*, *Kontonummer, IBAN und BIC* eine von den Dienstgeberbanken abweichende Bankverbindung eingetragen werden.
+!!! info "Voraussetzung"
+    Die Daten der Drittschuldner-Erklärung wurden im Programmteil *Stamm / Exekutionen* erfasst.
 
-**Verständigung vom Bezugsende**
+Wurde innerhalb der Drittschuldner-Erklärung die Kostenerstattung beantragt, legen Sie fest, ob der Kostenersatz auf die (Dienstgeber-) Bank 1 oder Bank 2 überwiesen werden soll.
 
-Hier wird der Ausdruck der Verständigung vom Bezugsende gemäß § 301 Abs. 4 Exekutionsordnung ermöglicht. Voraussetzung für den Ausdruck ist die Abrechnung eines Austrittes (Bezugsende) beim jeweiligen Dienstnehmer.
+Für eine abweichende Bankverbindung aktivieren Sie das Auswahlfeld *individuell* und tragen die Felder *BLZ*, *Name*, *Kontonummer*, *IBAN* und *BIC* ein.
 
-**Nichtberücksichtigung des Zahlungsverbotes**
+### Verständigung vom Bezugsende
 
-Hier kann der Ausdruck gemäß § 229l Exekutionsordnung Nichtberücksichtigung des Zahlungsverbotes durchgeführt werden. Ein Ausdruck ist nur möglich, wenn die Forderung bereits zur Gänze gepfändet wurde.
+**Pfad:** *Ausdruck / Exekutionen / Verständigung vom Bezugsende*
+
+**Rechtsgrundlage:** § 301 Abs. 4 Exekutionsordnung
+
+**Voraussetzung:** Ein Austritt (Bezugsende) wurde beim jeweiligen Dienstnehmer abgerechnet.
+
+### Nichtberücksichtigung des Zahlungsverbotes
+
+**Pfad:** *Ausdruck / Exekutionen / Nichtberücksichtigung des Zahlungsverbotes*
+
+**Rechtsgrundlage:** § 229l Exekutionsordnung
+
+**Voraussetzung:** Die Forderung wurde bereits zur Gänze gepfändet.

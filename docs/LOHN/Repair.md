@@ -49,3 +49,7 @@ In diesen Programmteilen besteht die Möglichkeit, entweder für einzelne Dienst
 
 !!! info "Tipp"
     Das Repair der Überweisungen kann auch für mehrere Klienten gleichzeitig (klientenübergreifend) im Programmteil *Klient / Repair / Überweisungen / Überweisungen / Überweisung Abrechnungen zurücksetzen* durchgeführt werden.
+
+## Repair Überprüfung WF-Zuschlag Wien 2026
+
+Das Repair dient zur Unterstützung bei der Korrektur des WF-Zuschlag Wien. Dieses Repair zeigt an, bei welchen Dienstnehmer und in welchen Monaten der WF-Zuschlag Wien aufgrund eines Fehlers in Version 2.26.5.0 nicht abgerechnet wurde. Dadurch ist rasch ersichtlich, welche Fälle aufgerollt oder korrigiert werden müssen. Das Repair ist unter *Bearbeiten / Repair / Überprüfung WF-Zuschlag Wien 2026* verfügbar.

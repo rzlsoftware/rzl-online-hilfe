@@ -69,11 +69,32 @@ Hier können Sie eine Auflistung aller Dienstnehmer erstellen, für die Sie den 
 
 **Aufstellung Sozialfonds**
 
-Hier können Sie eine Auflistung aller Dienstnehmer erstellen, für die der Sozialfonds abgeführt werden soll.
+In diesem Bereich erstellen Sie eine Aufstellung aller Dienstnehmer, für die der Sozialfonds abgeführt werden soll. Optional können Sie die Auswertung nach den Kollektivverträgen Bewachungsgewerbe (Z15) sowie Denkmal-, Fassaden- und Gebäudereinigung (Z16) aufteilen. Aktivieren Sie dazu die Option *Aufteilung nach Zuschlag Z15 oder Z16*. So erhalten Sie eine branchenspezifisch gegliederte Übersicht.
 
 **Aufstellung Überweisung an Sonstige Behörden**
 
 Hier können Sie eine Auflistung aller Dienstnehmer pro Behörde ausgeben.
+
+**Aufstellung Firmenfahrzeuge**
+
+Unter *Ausdruck / Sonderdrucke / Aufstellung Firmenfahrzeuge* steht ab sofort die Möglichkeit zur Verfügung, eine monatliche Auswertung der erfassten Firmenfahrzeuge zu erstellen. 
+
+!!! info "Tipp"
+    Die Ausgabe kann sowohl im *PDF-Format* als auch im *ASCII-Format* erfolgen.
+
+*Verfügbare Filteroptionen:*
+
+- Nur zugeordnete Fahrzeuge
+- Nicht zugeordnete Fahrzeuge
+
+*Nur zugeordnete Fahrzeuge:*
+Bei Auswahl dieser Option werden ausschließlich Fahrzeuge in der Aufstellung berücksichtigt, die einem Dienstnehmer zugeordnet sind.
+
+*Nicht zugeordnete Fahrzeuge:*
+Bei Auswahl dieser Option werden ausschließlich Fahrzeuge berücksichtigt, die keinem Dienstnehmer zugeordnet sind.
+
+!!! warning "Hinweis"
+    Wird ein Dienstnehmer ausgewählt, steht ausschließlich die Option nur *zugeordnete Fahrzeuge* zur Verfügung.
 
 **Aufstellung Aushilfen**
 

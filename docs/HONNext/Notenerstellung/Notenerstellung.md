@@ -92,6 +92,15 @@ der Bezeichnung oder am Betrag bleiben erhalten.
 
 ![](<img/image184.png>)
 
+**Ansicht**
+
+Im Reiter *Ansicht* können Sie definieren, welche Spalten der Erfassungszeilen auf der Note eingeblendet werden. Dies ist vorallem bei der Verwendung von kleineren Bildschirmen sinnvoll. Die Einstellungen werden pro Benutzer gespeichert. 
+
+![](img/image243.png)
+
+!!! warning "Hinweis"
+    Diese Einstellungen betreffen nur die aktive Notenerstellung und haben keine Auswirkung auf die Notendetails.
+
 ## Darstellung der Leistungen
 
 Verrechnungsgruppen werden bei der Notenerstellung in fetter Schrift
@@ -436,6 +445,13 @@ einem Mitarbeiter direkt zugewiesen werden oder, wenn man das Feld
     eingefügte Zeile anschließend aus der Verrechnung aus, muss diese
     Notenzeile nachdem Speichern der Note und beim neuerlichen Bearbeiten
     erneut eingefügt werden.
+
+## Akonto/Anzahlungen
+
+Während der Notenerstellung haben Sie die Möglichkeit eine Akonto- bzw. eine Anzahlungszeile einzufügen und/oder zu bearbeiten. Siehe Kapitel [Akontozahlungen](../Akontozahlung/Anlage%20einer%20Akontozahlung.md) und [Anzahlungsrechnungen](../Anzahlungsrechnungen/Anzahlungsrechnungen%20im%20HON%20Next.md).
+
+!!! warning "Hinweis"
+    Im Zuge der Notenerstellung können nur Anzahlungen eingefügt werden, welche wie Akonten behandelt werden (Abzug). Möchten Sie eine Anzahlungsrechnung erstellen, muss dies über den eigenen Menüpunkt *Akonto/Anzahlungen / Anzahlungen* erfolgen.
 
 ## Zu-/Abschläge 
 

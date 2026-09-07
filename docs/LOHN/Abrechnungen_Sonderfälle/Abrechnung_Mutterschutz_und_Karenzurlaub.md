@@ -52,7 +52,7 @@ Wird die letzte Abrechnung dann abgespeichert, erhalten Sie vom Programm wie gew
 
 Tritt bei einer Dienstnehmerin während des laufenden Karenzurlaubs erneut ein Mutterschutz ein, ist sie für die Betriebliche Vorsorge wieder bei der ÖGK anzumelden.
 
-In diesem Fall führen Sie im Monat des Beginns des neuerlichen Mutterschutzes einen Wiedereintritt durch. Öffnen Sie dazu den [*Eintrittsbildschrim*](../Abrechnungsbildschirme/Eintritt.md) und erfassen Sie im Feld *Eintrittsdatum* den ersten Tag des Mutterschutzes.
+In diesem Fall führen Sie im Monat des Beginns des neuerlichen Mutterschutzes einen Wiedereintritt durch. Öffnen Sie dazu den [*Eintrittsbildschirm*](../Abrechnungsbildschirme/Eintritt.md) und erfassen Sie im Feld *Eintrittsdatum* den ersten Tag des Mutterschutzes.
 
 Anschließend wechseln Sie in den [*Austrittsbildschirm*](../Abrechnungsbildschirme/Austritt.md), wo Sie im Bereich *Mutterschutz / Karenzurlaub* den *voraussichtlichen Geburtstermin* eintragen. Das Programm schlägt Ihnen daraufhin automatisch den *Beginn Mutterschutz* vor und trägt im oberen Bereich den Austritt mit dem Grund Wochengeld ein.
 

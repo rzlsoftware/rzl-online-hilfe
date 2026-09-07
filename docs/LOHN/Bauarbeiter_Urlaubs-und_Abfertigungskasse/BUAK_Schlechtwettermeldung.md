@@ -58,6 +58,128 @@ Durch Anwahl des Buttons Hitzetag öffnet sich die GeoSphere Austria Seite, wo S
 
 Nachdem ein Antrag gespeichert wurde, kann dieser durch Markierung des Antrages und Auswahl *Kopieren* kopiert werden.
 
+### Hitzetage
+
+**BUAK Schlechtwetter – Prognosemodell Hitze**
+
+Das **BUAK-Prognosemodell für Hitze** ergänzt die bestehende Schlechtwetterregelung für besonders heiße Arbeitstage.
+
+Ziel des Modells ist es, Betrieben eine **frühzeitige Planung von Arbeitszeiten und hitzebedingten Arbeitsausfällen** zu ermöglichen.
+
+Neben der bisherigen Regelung auf Basis der **tatsächlich gemessenen Temperatur von mehr als 32,5 °C** gibt es dafür eine **3-Tages-Temperaturprognose**.
+
+**Grundprinzip**
+
+Zeigt die BUAK-Prognose für eine Baustelle eine Temperatur von **mehr als 34 °C** an, kann der Betrieb bereits im Voraus mit einem hitzebedingten Arbeitsausfall planen.
+
+Die Prognosedaten stammen von **GeoSphere Austria** und werden regelmäßig für die kommenden Tage aktualisiert.
+
+Der Grenzwert von **34 °C** liegt bewusst über dem Grenzwert der normalen Hitzeregelung von 32,5 °C. Damit werden mögliche Abweichungen einer Wetterprognose berücksichtigt.
+
+**Voraussetzungen für das Prognosemodell**
+
+Das Prognosemodell kann angewendet werden, wenn:
+
+- für den betreffenden Tag eine Temperatur von **mehr als 34 °C prognostiziert** wird,
+- nach der betrieblichen Arbeitszeiteinteilung Arbeitsstunden **ab 13:00 Uhr** ausfallen,
+- für dieselbe Person und denselben Arbeitstag nicht gleichzeitig die normale Hitzeregelung aufgrund einer tatsächlich gemessenen Temperatur von mehr als 32,5 °C verwendet wird.
+
+<span style="color: red;">Über das Prognosemodell können **maximal drei Schlechtwetterstunden ab 13:00 Uhr** geltend gemacht werden.</span>
+
+**Maßgeblich ist die Prognose**
+
+Für die Anwendung des Prognosemodells ist die zuvor veröffentlichte Temperaturprognose entscheidend.
+
+Wurde für einen bestimmten Tag eine Temperatur von **mehr als 34 °C prognostiziert**, können die entsprechenden Schlechtwetterstunden grundsätzlich auch dann eingereicht werden, wenn die tatsächliche Temperatur später unter 34 °C bleibt.
+
+Dadurch erhält der Betrieb Planungssicherheit und kann den Arbeitseinsatz bereits im Voraus organisieren.
+
+**Maximale Stundenanzahl**
+
+Im Prognosemodell können pro Arbeitnehmer bzw. Arbeitnehmerin und Arbeitstag:
+
+- maximal **3 Stunden**
+- frühestens **ab 13:00 Uhr**
+
+als hitzebedingte Schlechtwetterstunden geltend gemacht werden.
+
+Die tatsächlich möglichen Stunden hängen von der jeweiligen betrieblichen Arbeitszeiteinteilung ab.
+
+<span style="color: red;">**Keine Kombination mit der normalen Hitzeregelung**</span>
+
+Die normale Hitzeregelung und das Prognosemodell dürfen für dieselbe Person am selben Arbeitstag **nicht miteinander kombiniert werden**.
+
+Wird für einen Arbeitstag das Prognosemodell verwendet, können für diesen Tag maximal drei Stunden ab 13:00 Uhr eingereicht werden.
+
+Zusätzliche Stunden aufgrund einer tatsächlichen Temperaturüberschreitung von 32,5 °C können für diese Person an diesem Tag nicht zusätzlich geltend gemacht werden.
+
+Dies gilt auch dann, wenn aus dem Prognosemodell weniger als drei Stunden eingereicht werden.
+
+**Beispiel**
+
+Ein Arbeitnehmer arbeitet laut Arbeitszeiteinteilung von 07:00 bis 16:00 Uhr.
+
+Für diesen Tag wurden mehr als 34 °C prognostiziert.
+
+Der Betrieb beendet die Arbeit um 14:00 Uhr.
+
+Über das Prognosemodell werden somit zwei Stunden eingereicht:
+
+- 14:00 bis 15:00 Uhr
+- 15:00 bis 16:00 Uhr
+
+Steigt die tatsächliche Temperatur später über 32,5 °C, kann für diesen Arbeitnehmer an diesem Tag nicht zusätzlich auf die normale Hitzeregelung gewechselt werden.
+
+**Unterschied der beiden Hitzeregelungen**
+
+| Regelung              |           Temperatur | Grundlage                        | Stunden                                          |
+| --------------------- | -------------------: | -------------------------------- | ------------------------------------------------ |
+| Normale Hitzeregelung | mehr als **32,5 °C** | tatsächlich gemessene Temperatur | gemäß den allgemeinen Schlechtwetterbestimmungen |
+| Prognosemodell Hitze  |   mehr als **34 °C** | Temperaturprognose               | maximal **3 Stunden ab 13:00 Uhr**               |
+
+- **Normale Hitzeregelung**
+
+    Bei einer tatsächlich gemessenen Temperatur von **mehr als 32,5 °C im Schatten** kann Hitze als Schlechtwetter berücksichtigt werden.
+
+    Die Entscheidung über die Einstellung der Arbeit liegt grundsätzlich beim Arbeitgeber.
+
+- **Prognosemodell**
+
+    Bei einer prognostizierten Temperatur von **mehr als 34 °C** kann der Betrieb bereits im Voraus planen, die Arbeit früher einzustellen.
+
+    Dabei können maximal drei Stunden ab 13:00 Uhr geltend gemacht werden.
+
+**Beispiel einer Temperaturprognose**
+
+Angenommen, für eine Baustelle wird folgende Prognose angezeigt:
+
+| Tag      | Prognose | Prognosemodell möglich |
+| -------- | -------: | ---------------------- |
+| Montag   |  33,0 °C | Nein                   |
+| Dienstag |  34,1 °C | Ja                     |
+| Mittwoch |  34,7 °C | Ja                     |
+
+Für Dienstag und Mittwoch kann das Prognosemodell verwendet werden.
+
+Für Montag ist der Grenzwert von mehr als 34 °C nicht erreicht.
+
+**Zweck des Prognosemodells**
+
+Das Prognosemodell ermöglicht eine bessere und frühzeitigere Baustellenplanung.
+
+Insbesondere können Betriebe bereits vor Beginn eines extrem heißen Arbeitstages entscheiden:
+
+- ob die Arbeit früher begonnen wird,
+- ob Arbeitszeiten verschoben werden,
+- ob die Arbeit am Nachmittag beendet wird,
+- welche Arbeitnehmer betroffen sind,
+- wie die Baustelle organisatorisch vorbereitet wird.
+
+Da sehr hohe Temperaturen häufig erst am Nachmittag auftreten, schafft die Prognose eine bessere Planbarkeit als eine ausschließlich auf tatsächlich gemessenen Temperaturen basierende Regelung.
+
+!!! warning "Hinweis"
+    Eine Kombination aus Schlechtwettertag und Hitzetag ist laut BUAK **nicht** möglich. Wenn beides beantragt wird, zählt der Hitzetag für die BUAK.
+
 ## Dienstnehmer beim Antrag hinterlegen
 
 Durch Anklicken des Feldes *DN Liste…* kommen Sie in den folgenden Bildschirm:

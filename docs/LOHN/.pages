@@ -1,14 +1,15 @@
 
 nav:  
     - LOHN Handbuch: index.md
-    - Allgemeines
+    - Erste_Schritte.md
+    - Symbolleiste.md
     - Klientenstammdaten
     - Abrechnungen
     - Vorerfassung.md
     - Abrechnungsbildschirme
     - Freie_Dienstverträge
     - Freie Lohnarten
-    - Sachbezüge
+    - Sachbezuege.md
     - Kanzleitexte_und_Kanzleilohnkontenplaene.md
     - Elektronische_Meldungen_ÖGK
     - Elektronic_Banking_SEPA.md
@@ -18,10 +19,10 @@ nav:
     - Repair.md
     - Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte.md
     - Verwaltung.md
-    - Jahresübernahme
+    - Jahresuebernahme.md
     - Rückstellungen
-    - Datenexport
-    - Datenimport
+    - Datenexport.md
+    - Datenimport.md
     - Datenexport_Buchungsbeleg.md
     - Abfertigung_Neu
     - Exekutionen
@@ -29,7 +30,7 @@ nav:
     - Elektronische_Dienstgebererklaerung.md
     - Erstellung_und_Ausdruck_eines_EFZ-Antrages.md
     - Erstellung_eines_Entsendungsantrages.md
-    - Erstellung_einer_AUVA_Unfallmeldung.md
+    - AUVA_Unfallmeldung.md
     - Erstellung_der_Berufskrankheitenmeldung.md
     - RZL_Klientenportal.md
     - Lohnformeln
@@ -39,6 +40,7 @@ nav:
     - Bauarbeiter_Urlaubs-und_Abfertigungskasse
     - Selbstbemessungsabgaben_melden.md
     - Reports.md
+    - Dienstnehmersuche.md
     - Abrechnungen_Sonderfälle
     - Abrechnung_von_Vergleichszahlungen_und_Nachzahlungen.md
     - Abrechnung_einer_Insolvenz.md
@@ -46,7 +48,11 @@ nav:
     - Digitaler_Personalakt.md
     - WEBEKU_Webservice.md
     - Freiwilligenpauschale.md
+    - PRAE_L19.md
     - EFZ_Berechnungsautomatik.md
+    - ELDA_Webservice.md
     - Kurzanleitungen
-    - Kurzinfo.md
+    - Schnittstellenbeschreibung.md
+    - Fragen.md
+    - Clearingfaelle.md
     - ...

@@ -62,6 +62,9 @@ wird das Arbeitszeitmodell gespeichert. Es ist auch möglich, anstatt
     wird. Ebenso bei einer Arbeitszeit über sechs Stunden ohne Pause, dass
     die erforderlichen Ruhepausen nicht eingehalten werden.
 
+!!! info "Tipp"
+    Für Mutterschutz- und/oder Karenzzeiten wird empfohlen ein Arbeitszeitmodell mit Null Stunden anzulegen. Dies ist anschließend über eine neue Generation im benötigen Zeitraum dem Mitarbeiter zuzuordnen.
+
 ### Arbeitszeitmodell löschen
 
 Sie können Arbeitszeitmodelle nur löschen, wenn diese nicht mehr bei

@@ -7,7 +7,7 @@ Nach Aufruf des Menüpunkts *Abrechnungen / Lfd. Abrechnung mit Änderung* wird 
 Der Menüpunkt *Abrechnung mit Änderung* ermöglicht die Abrechnung eines Teils der Dienstnehmer oder der gesamten Dienstnehmer eines Klienten. Nach Anwahl der Schaltfläche *Abrechnen* wird automatisch in den Abrechnungsbildschirm gewechselt und die gewünschten Änderungen können vorgenommen werden.
 
 !!! info "Tipp"
-    Im Programmteil *Bearbeiten / Übernahme / Datenimport laufende Abrechnung* kann ein [Datenimport](../Datenimport/Allgemeines.md) für diese Abrechnungsart durchgeführt werden.
+    Im Programmteil *Bearbeiten / Übernahme / Datenimport laufende Abrechnung* kann ein [Datenimport](../Datenimport.md) für diese Abrechnungsart durchgeführt werden.
 
 !!! warning "Hinweis"
     Ist ein Dienstnehmer in der Liste mit einem Rufzeichen markiert, so sind im Abrechnungsbildschirm [*Stammdaten Fristen*](../Abrechnungsbildschirme/Stammdaten_Fristen.md) Anmerkungen eingetragen, bei denen die Frist abgelaufen ist. Wird der Dienstnehmer angewählt, dann erscheint die betreffende Anmerkung (z. B. Geburtstag, Lohnerhöhung) am Eingabebildschirm.

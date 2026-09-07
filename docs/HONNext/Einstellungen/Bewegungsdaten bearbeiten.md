@@ -1,6 +1,6 @@
 # Bewegungsdaten bearbeiten
 
-Über den Menüpunkt *Bewegungsdaten löschen/zurücksetzten* haben Sie die
+Über den Menüpunkt *Bewegungsdaten löschen/zurücksetzen* haben Sie die
 Möglichkeit die gesamten Bewegungsdaten oder nur einzelne Teile daraus
 zu löschen.
 
@@ -37,7 +37,7 @@ Folgende Bewegungsdaten können gelöscht werden:
 
 ### Bewegungsdaten zurücksetzten
 
-Der Menüpunkt *Bewegungsdaten zurücksetzten* **löscht** **ALLE**
+Der Menüpunkt *Bewegungsdaten zurücksetzen* **löscht** **ALLE**
 bisherig erfassten Bewegungsdaten (Erfassungszeilen, Arbeitszeiten,
 Honorarnoten, Überstundenauszahlungen, Urlaubskartei und
 Pauschalzeilen).  
@@ -57,7 +57,7 @@ Notenvorlagen) bleiben erhalten.
 
 ### Protokolle
 
-Nach dem *Bewegungsdaten löschen/Bewegungsdaten zurücksetzten* erhalten
+Nach dem *Bewegungsdaten löschen/Bewegungsdaten zurücksetzen* erhalten
 Sie ein Protokoll. In diesem Protokoll ist ersichtlich, welche Daten bis
 zu welchem Stichtag gelöscht wurden. Weiters erhalten Sie hier auch
 Informationen darüber, falls ein Löschen bestimmter Daten nicht möglich
@@ -68,5 +68,5 @@ gibt, kann diese Note nicht gelöscht werden.
 ![](<img/image99.png>)
 
 !!! warning "Hinweis"
-    Das Bewegungsdaten löschen und/oder zurücksetzten kann nicht rückgängig
+    Das Bewegungsdaten löschen und/oder zurücksetzen kann nicht rückgängig
     gemacht werden.

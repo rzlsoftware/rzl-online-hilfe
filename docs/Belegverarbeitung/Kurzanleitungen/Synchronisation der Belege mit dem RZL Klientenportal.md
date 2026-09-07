@@ -57,7 +57,7 @@ Haben Sie alle notwendigen Einstellungen getroffen, werden die Belege ab dem gew
 
 !!! info "Tipp"
 
-    Alternativ dazu kann auch manuell jederzeit für einen bestimmten Klienten in der Liste der ungebuchten oder gebuchten Belege mit der Schaltfläche *Belege synchronisieren* (4) die Synchronisation angestoßen werden.\
+    Alternativ dazu kann auch manuell jederzeit für einen bestimmten Klienten in der Liste der ungebuchten oder gebuchten Belege mit der Schaltfläche *Belege synchronisieren* (4) die Synchronisation angestoßen werden.
 
 
 ![Image](<img/image-18.png>)
