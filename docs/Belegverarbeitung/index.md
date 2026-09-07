@@ -1,5 +1,6 @@
 ---
 title: Belegverarbeitung Handbuch
+description: Anleitungen und Referenzen für die Belegverarbeitung – Belege erfassen, kontieren und weiterverarbeiten.
 ---
 
 

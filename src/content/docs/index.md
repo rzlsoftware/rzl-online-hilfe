@@ -1,5 +1,6 @@
 ---
 title: Herzlich willkommen auf der RZL Hilfe!
+description: Die RZL Online Hilfe – Anleitungen und Referenzen zu allen RZL-Programmen.
 hideFooter: true
 ---
 

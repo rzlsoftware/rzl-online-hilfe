@@ -1,5 +1,6 @@
 ---
 title: Kanzlei-Informations-System Handbuch
+description: Anleitungen und Referenzen für das Kanzlei-Informations-System (KIS) von RZL.
 program: KIS
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: LOHN Handbuch
+description: Anleitungen und Referenzen für RZL LOHN, die Personalverrechnung.
 program: LOHN
 ---
 

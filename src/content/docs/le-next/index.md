@@ -1,5 +1,6 @@
 ---
 title: Leistungserfassung Next Handbuch
+description: Anleitungen und Referenzen für Leistungserfassung Next, die Zeit- und Leistungserfassung von RZL.
 program: LENext
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Setup Handbuch
+description: Anleitungen zur Installation und Einrichtung der RZL-Programme.
 program: setup
 ---
 
