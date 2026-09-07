@@ -31,3 +31,12 @@ updates:
       pip:
         patterns:
           - "*"
+
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: weekly
+    groups:
+      npm:
+        patterns:
+          - "*"
