@@ -3,5 +3,5 @@ title: Leistungserfassung Next Handbuch
 ---
 
 
- ![alt text](img/Leistungserfassung Next.svg#only-light)
- ![alt text](img/Leistungserfassung Next DM.svg#only-dark)    
+ ![Leistungserfassung Next Handbuch Deckblatt](img/Leistungserfassung Next.svg#only-light)
+ ![Leistungserfassung Next Handbuch Deckblatt](img/Leistungserfassung Next DM.svg#only-dark)    

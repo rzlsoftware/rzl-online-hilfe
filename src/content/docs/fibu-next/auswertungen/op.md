@@ -20,7 +20,7 @@ Im unteren Bereich wird Ihnen die Summe der Offenen Posten, der Kontosaldo und d
 Über die entsprechenden Schaltflächen im Menü können Sie zur *Auswertung Konto* ***(4)*** wechseln, das entsprechende Konto ***(5)*** oder die Buchung zur ausgewählten Buchungszeile ***(6)*** aufrufen. Weiters können Sie in die Ansicht der ausgeglichenen OPs wechseln ***(7)***, das *Journal* ***(8)*** aufrufen, zum *Gegenkonto* ***(9)***  oder direkt zum *OP bearbeiten* ***(10)*** wechseln.
 
 
-![alt text](img/image2.png)
+![Auswertung OP](img/image2.png)
 
 Sie können hier außerdem die Belegliste oder bereits zugeordnete Belege aufrufen und die Belegzuordnung verändern.
 

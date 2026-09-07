@@ -3,5 +3,5 @@ title: HON Next Handbuch
 ---
 
 
- ![alt text](img/HON Next.svg#only-light)
- ![alt text](img/HON Next DM.svg#only-dark)     
+ ![HON Next Handbuch Deckblatt](img/HON Next.svg#only-light)
+ ![HON Next Handbuch Deckblatt](img/HON Next DM.svg#only-dark)     

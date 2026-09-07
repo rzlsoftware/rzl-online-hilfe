@@ -3,4 +3,4 @@ title: Belegverarbeitung Handbuch
 program: Belegverarbeitung
 ---
 
- ![alt text](img/Belegverarbeitung.svg#only-light)
+ ![Belegverarbeitung Handbuch Deckblatt](img/Belegverarbeitung.svg#only-light)

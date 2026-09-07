@@ -48,10 +48,10 @@ eine Sicherung erstellt wurde.
 
 Im Benachrichtigunszentrum ist neben anderen Benachrichtigungen ersichtlich, ob die Automatischen Sicherungen der FIBU Next problemlos durchgeführt werden konnten (grüne Glocke) ***(1)*** oder ob Probleme aufgetreten sind (rote Glocke) ***(2)***. Das Benachrichtigungszentrum finden Sie rechts oben im Board, unabhängig davon in welchem Dialog Sie sich gerade befinden, kann das Benachrichtigungszentrum geöffnet werden.
 
-![alt text](img/image14.png){width="250"}
+![Automatische Sicherungen](img/image14.png){width="250"}
 
-![alt text](img/image15.png){width="250"}
+![Automatische Sicherungen (Teil 2)](img/image15.png){width="250"}
 
 Sollten Fehler aufgetreten sein, können diese in den FIBU Sicherungseinstellungen bestätigt werden. Nach Bestätigung dieser Fehler ***(1)*** wird die Glocke wieder grün (sofern keine anderen fehlerhaften Meldungen (z.B. bei der Belegsynchronisation) im Benachrichtungszentrum vorliegen). Das Bestätigen der fehlerhaften Einträge ist eine eigene Berechtigung ("Protokoll verwalten"), die automatisch in der Rolle Finanzbuchhaltung enthalten ist.
 
-![alt text](img/image16.png)
+![Automatische Sicherungen (Teil 3)](img/image16.png)

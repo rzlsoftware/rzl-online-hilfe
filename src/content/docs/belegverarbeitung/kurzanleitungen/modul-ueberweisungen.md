@@ -10,7 +10,7 @@ Mit dem Modul *Überweisungen* erledigen Sie die Zahlung Ihrer offenen Eingangsb
 ## Überweisungslauf starten
 Öffnen Sie zunächst den gewünschten Klienten. Der Überweisungslauf kann in folgenden Menüpunkten durch Klick auf die neue Schaltfläche *Neuer Überweisungslauf* gestartet werden: 
 
-![alt text](image.png)
+![Überweisungslauf starten](image.png)
 
 - *BELEGE / Ungebuchte Belege* - wenn die Belegfreigabe nicht lizensiert ist.
 - *BELEGE / Belegfreigabe* - wenn die Belegfreigabe lizensiert ist (ersetzt in diesem Fall den Menüpunkt *Ungebuchte Belege*)
@@ -27,7 +27,7 @@ In der darauffolgenden Belegliste stehen Ihnen dabei stets sowohl gebuchte als a
 ## Einstellungen für den Überweisungslauf
 Bevor die Belegliste angezeigt wird, treffen Sie die grundlegenden Einstellungen für den Überweisungslauf:
 
-![alt text](image-1.png)
+![Einstellungen für den Überweisungslauf](image-1.png)
 
 - **Bankverbindung:** Hier kann aus allen im Personen-/Firmenstamm angelegten Bankverbindungen gewählt werden, von welcher die Überweisung getätigt werden soll.
 - **Ziel:** Wahlweise wird eine Überweisungsdatei erstellt oder die Überweisung im RZL EBICS Portal für die Übermittlung an die Bank bereitgestellt (falls für die ausgewählte Bankverbindung eingerichtet).
@@ -43,7 +43,7 @@ Bevor die Belegliste angezeigt wird, treffen Sie die grundlegenden Einstellungen
 ### Belegliste
 Nach Klick auf *Weiter* erscheint eine Liste aller freigegebenen, noch nicht bezahlten Eingangsbelege - gebucht oder ungebucht. Belege die als Gutschrift markiert sind oder bei denen noch keine Buchungs- oder Zahlungsfreigabe vorliegt, werden nicht angezeigt.
 
-![alt text](image-2.png)
+![Belegliste](image-2.png)
 
 Alle fälligen Belege werden in der ersten Spalte automatisiert angehakt. Diese Vorauswahl kann manuell bearbeitet werden. In der Spalte *Gültig* wird angezeigt, ob alle erforderlichen Informationen für die Überweisung vorhanden sind. Die Überweisung kann erst abgeschlossen werden, wenn alle ausgewählten Überweisungen gültig sind.
 
@@ -83,12 +83,12 @@ Die Belege gelten damit als bezahlt und werden in einem künftigen Überweisungs
 ## Überweisungslauf zurücksetzen
 Wurde ein Überweisungslauf versehentlich oder fehlerhaft erstellt, kann er über die Schaltfläche *Überweisungslauf zurücksetzen* wieder rückgängig gemacht werden:
 
-![alt text](image-3.png)
+![Überweisungslauf zurücksetzen](image-3.png)
 
 Die Schaltfläche finden Sie stets neben dem Button *Neuer Überweisungslauf*.
 
 Es öffnet sich eine Liste der bisher durchgeführten Überweisungsläufe:
 
-![alt text](image-4.png)
+![Überweisungslauf zurücksetzen (Teil 2)](image-4.png)
 
 Wählen Sie den Überweisungslauf aus, den Sie zurücksetzen möchten und bestätigen Sie mit *Zurücksetzen*. Das eingetragene Zahlungsdatum im Feld *Bezahlt am* wird bei den betroffenen Belegen entfernt, sodass diese im nächsten Überweisungslauf erneut vorgeschlagen werden.

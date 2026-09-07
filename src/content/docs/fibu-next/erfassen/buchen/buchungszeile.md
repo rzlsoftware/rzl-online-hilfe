@@ -254,7 +254,7 @@ Die Belege können auch mit einem Klick auf das Belegsymbol, mit rechter Maustas
 Möchten Sie einen Beleg nachträglich einer Buchung zurordnen, muss die Belegliste über *Auswertung / Konto* oder über *Auswertung / Journal* geöffnet werden. Hier werden Ihnen alle ungebuchten Belege angezeigt. Mit Klick auf den Button *Beleg zuordnen* wird der Beleg der jeweiligen Buchungszeile zugeordnet. 
 
 Werden Belege nachträglich einer Buchungszeile aus der FIBU Klassik zugeordnet, erscheint folgender Hinweis:
-![alt text](<img/image3.png>)
+![Belegverarbeitung](<img/image3.png>)
 Unter *Aufruf Beleg* werden dann nur die Buchungsdetails des jeweiligen Kontos angezeigt.
 
 Möchten Sie den Beleg auch beim Gegenkonto anhängen, dann müssen Sie den Beleg erneut zuordnen. Unter *Aufruf Beleg* werden dann nur die Buchungsdetails dieses Kontos angezeigt. Das heißt es gibt dann für diesen Beleg zwei Buchungsdetails (für jedes Konto ein Buchungsdetail).

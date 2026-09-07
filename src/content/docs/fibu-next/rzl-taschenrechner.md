@@ -6,7 +6,7 @@ program: FIBUNext
 <span id="rzl-taschenrechner" class="legacy-anchor" aria-hidden="true"></span>
 
 Der RZL-Taschenrecher kann in der FIBU Next in jedem Menüpunkt mit der Tastenkombination **strg** + **R** aufgerufen werden. Der Rechner ist wie ein kaufmännischer Rechner aufgebaut.
-![alt text](img/image1.png)
+![RZL-Taschenrechner](img/image1.png)
 
 | **Eingabe** | **Abschlusstaste** | **Wirkung**                               |
 | ----------- | ------------------ | ----------------------------------------- |

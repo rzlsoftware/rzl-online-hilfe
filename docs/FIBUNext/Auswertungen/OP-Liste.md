@@ -9,5 +9,5 @@ Zusätzlich können Sie über die Menüleiste das entsprechende Konto oder die B
 Im Bereich *Gruppieren und Sortieren* finden Sie verschiedenste Möglichkeiten um Ihre OP-Liste anzuordnen.
 
 
-![alt text](img/image3.png)
+![Auswertung OP-Liste](img/image3.png)
 

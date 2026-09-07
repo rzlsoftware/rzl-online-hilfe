@@ -11,7 +11,7 @@ program: FIBUNext
 Im Board unter *STAMM* finden Sie beim jeweiligen Klienten das *Sicherungscenter*. Über diesen Menüpunkt können Sie vom jeweiligen FIBU Next Klienten Sicherungen erstellen und verwalten.
 
 
-![alt text](image.png)
+![Sicherungscenter](image.png)
 
 ### Sicherung erstellen
 

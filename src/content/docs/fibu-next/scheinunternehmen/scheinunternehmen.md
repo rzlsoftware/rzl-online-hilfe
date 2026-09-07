@@ -22,12 +22,12 @@ Im RZL-Board steht Ihnen über die Schaltfläche *Portale* im Reiter *Scheinunte
 Mit einem Klick auf die Schaltfläche *Scheinunternehmen (1)* öffnet sich die Liste der Scheinunternehmen. Diese Liste kann gefiltert sowie auch gruppiert werden.
 Ist der RZL-Dienst installiert und aktiv, wird die Liste täglich über Nacht **abgefragt**. Das Abfrage Datum wird oberhalb der Liste angezeigt. Über *Scheinunternehmen abfragen (3)* kann die Abfrage auch manuell angestoßen werden.
 
-![alt text](image-1.png)
+![Scheinunternehmen](image-1.png)
 
 ### Protokoll Abfrage
 Mit der Schaltfläche *Protokoll Abfragen (2)* erhalten Sie eine Liste mit allen durchgeführten Scheinunternehmerabfragen.
 
-![alt text](image-2.png)
+![Protokoll Abfrage](image-2.png)
 
 Das erste Symbol zeigt, dass die Abfrage automatisch über den RZL Dienst durchgeführt wurde und das zweite Symbol zeigt, dass die Abfrage manuell angestoßen wurde.
 

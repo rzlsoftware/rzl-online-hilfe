@@ -3,5 +3,5 @@ title: Belegverarbeitung Handbuch
 ---
 
 
- ![alt text](img/Belegverarbeitung.svg#only-light)
+ ![Belegverarbeitung Handbuch Deckblatt](img/Belegverarbeitung.svg#only-light)
    

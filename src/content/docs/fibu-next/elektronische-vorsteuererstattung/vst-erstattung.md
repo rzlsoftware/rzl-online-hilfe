@@ -38,7 +38,7 @@ Die Rechnungsaussteller müssen im Klienten über *VSt-Erstattung EU / Rechnungs
 
 Über die Kontonummer kann ein Personenkonto ausgewählt werden. Ist die Option *Person aus Konto verwenden* aktiviert, werden die Personendaten automatisch aus dem Personenkonto übernommen. 
 
-![alt text](image-4.png)
+![Anlegen der Rechnungsausteller](image-4.png)
 
 :::caution[Hinweis]
 
@@ -85,7 +85,7 @@ Im Kontextmenü kann die Option *Als Importeur übermitteln* explizit ausgewähl
 -	**Rg.-Austeller:** Eingabe der Nummer des Rechnungsausstellers. Der Rechnungsaussteller kann entweder durch Eingabe der entsprechenden Nummer oder über das Dropdown-Menü ausgewählt werden.
 -	**Leistungsarten:** In diesem Feld ist die Art der vom Rechnungsaussteller erbrachten Leistung anhand von vorgegebenen Kategorien anzugeben. Über das Dropdown-Menü können die Codes/Subcodes aufgerufen werden. Es können **maximal 5 Arten gemeldet** werden.
 
-![alt text](image-8.png)
+![Erfassung der Erstattungsrechnungen](image-8.png)
 
 :::caution[Hinweis]
 
@@ -114,6 +114,6 @@ Mit der Eingabe der Buchungszeile können auch schon Daten für die Vorsteuerers
 -	Ein Personenkonto, das bei einem Rechnungsausteller hinterlegt ist
 -	Im Textfeld über das Kontextmenü oder über *Umschalt + F9* die Funktion In VSt-Erstattung aufnehmen ausgewählt wurde
 
-![alt text](image-7.png)
+![Erfassen während des Buchens](image-7.png)
 
 Der Erfassungsdialog unterscheidet sich in der Folge nicht vom manuellen Erfassen.

@@ -3,7 +3,7 @@
 ### Einstellungen in der Bankverbindung
 In der Bankverbindung steht der zusätzliche Tab **Überweisungen** zur Verfügung. Hier werden die grundlegenden Einstellungen für den Zahlungsverkehr festgelegt.
 
-![alt text](image-17.png)
+![Einstellungen in der Bankverbindung](image-17.png)
 
 **Grundoptionen**
 

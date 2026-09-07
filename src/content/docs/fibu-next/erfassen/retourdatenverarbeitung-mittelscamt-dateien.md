@@ -103,7 +103,7 @@ Beispielsweise können Sie mit der Tastenkombination **Umschalt+F11** automatisc
 
 
 
-![alt text](img/image18.png)
+![Kontoauszüge verbuchen](img/image18.png)
 
 
 ### Ausschlussliste IBAN

@@ -18,11 +18,11 @@ Durch die Anwahl des Menüpunktes *Auswertung / Journal* können Sie das Journal
 
 Wenn eine Buchung markiert ist, die mit einem Offenen Posten gebucht wurde, kann über das Kontextmenü die Funktion ***Aufruf zugehörige OP*** gestartet werden. 
 
-![alt text](image-2.png)
+![Aufruf zugehörige OP](image-2.png)
 
 Es öffnet sich ein Fenster ähnlich der Buchungsansicht, das alle zugehörigen OPs anzeigt - inklusive Teil-OPs, egal ob diese bereits ausgeglichen wurden oder nicht.
 
-![alt text](image-3.png)
+![Aufruf zugehörige OP (Teil 2)](image-3.png)
 
 !!! warning "Hinweis"
 

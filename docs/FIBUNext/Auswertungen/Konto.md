@@ -15,7 +15,7 @@ Stehen Sie mit dem Mauszeiger auf einer Zeile, so sehen Sie per Tooltip ***(3)**
 
 Zusätzlich können Sie mit dem Häkchen *mit BIL* ***(10)*** wählen, ob auch die Umbuchungen aus der Bilanz, welche bereits in die FIBU Next übergeben wurden, mit angezeigt werden sollen.
 
-![alt text](img/image1.png)
+![Auswertung Konto](img/image1.png)
 
 !!! info "Tipp"
 
