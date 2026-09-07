@@ -14,3 +14,94 @@ Weiters können fast alle Ausdrucke, bevor diese an den Drucker weitergeleitet w
 
 !!! info "Tipp"
     Die überwiegende Anzahl der Ausdrucke im Lohnverrechnungsprogramm lassen sich auch klientenübergreifend im Programmteil *Klient / Drucken* erstellen. Zusätzlich besteht die Möglichkeit, sowohl innerhalb des Klienten als auch klientenübergreifend mit Druckreihenfolgen zu arbeiten.
+
+## ASCII-Ausgabe im Lohnprogramm
+
+Die folgende Übersicht zeigt, welche Ausdrucke im Lohnprogramm im ASCII-Format ausgegeben werden können. Die Auflistung ist nach den jeweiligen Bereichen der Auswahlmaske gegliedert.
+
+### Stammdaten
+
+| Ausdruck                                            |
+| --------------------------------------------------- |
+| Dienstnehmer-Notizen                                |
+| Urlaubskartei                                       |
+| Krankenstände                                       |
+| Zeitausgleichskartei                                |
+| Dienstverhinderungskartei                           |
+| Zeitausgleich                                       |
+| Monats-Salden (Urlaub, Krankenstand, Zeitausgleich) |
+| Aufstellung der Ein-/Austritte                      |
+| KV-Einstufungen                                     |
+| Übersicht KV-Lohn / Ist-Lohn                        |
+| KV-Vorrückungen                                     |
+
+### Jahreslohnkonto
+
+| Ausdruck        |
+| --------------- |
+| Jahreslohnkonto |
+
+### Journal / ÖGK
+
+| Ausdruck                 |
+| ------------------------ |
+| Buchungsbeleg            |
+| Kostenstellen            |
+| Kostenstellen-Lohnarten  |
+| Kostenträger             |
+| Kostenträger-Lohnarten   |
+| Dienstgeber-Gesamtkosten |
+
+### Sonderdrucke
+
+| Ausdruck                                        |
+| ----------------------------------------------- |
+| Aufstellung Pendlerpauschale                    |
+| Aufstellung Weiterbildungsbeiträge – AÜG        |
+| Aufstellung Sozialfonds                         |
+| Aufstellung Firmenfahrzeuge                     |
+| Beschäftigungsbonus - Liste Arbeitsverhältnisse |
+| Beschäftigungsbonus - Abrechnungen              |
+| Kurzarbeit - Aufstellung Kurzarbeitsbeihilfe    |
+| SV-Gruppe – Beschäftigtengruppe – Liste         |
+
+### Jahresauswertungen
+
+| Ausdruck                         |
+| -------------------------------- |
+| Jahres-Buchungsbeleg             |
+| Jahres-Kostenstellen             |
+| Jahres-Kostenstellen-Lohnarten   |
+| Jahres-Kostenträger              |
+| Jahres-Kostenträger-Lohnarten    |
+| Jahres-Dienstgeber-Gesamtkosten  |
+| Betriebsjahreslohnkonto          |
+| Aufstellung SV-Bemessungen       |
+| Aufstellung BV-Beiträge          |
+| Aufstellung Telearbeitspauschale |
+| Aufstellung Sozialfonds          |
+| Aufstellung Firmenfahrzeuge      |
+
+
+### Rückstellungen
+
+| Ausdruck                     |
+| ---------------------------- |
+| Rückstellung Abfertigung alt |
+| Urlaubsrückstellung          |
+| Jubiläumsgeldrückstellung    |
+| Zeitausgleichsrückstellung   |
+| Sonderzahlungsrückstellung   |
+
+### Klientenübergreifende Ausdrucke
+
+| Ausdruck            |
+| ------------------- |
+| Dienstgeberliste    |
+| Anzahl Abrechnungen |
+
+
+!!! info "Erklärung"
+    Bei RZL bedeutet *ASCII-Ausgabe*, dass die Daten nicht nur als Ausdruck angezeigt oder gedruckt werden, sondern auch als Datei gespeichert werden können. Je nach Auswertung erfolgt die Ausgabe zum Beispiel im *CSV- oder TXT-Format*.
+
+    Solche Dateien können anschließend in anderen Programmen weiterverarbeitet werden, etwa in Excel oder in einer anderen Software. Vereinfacht gesagt: Die Daten werden in einer einfachen, gut weiterverwendbaren Dateiform ausgegeben.
