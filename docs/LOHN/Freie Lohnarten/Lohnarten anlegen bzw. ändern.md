@@ -73,7 +73,7 @@ Wird dieses Feld aktiviert, kann eine Lohnart angelegt werden, die ausschließli
 
 **Überstunden**
 
-Wenn das Feld *Überstunden* ausgewählt wird, stehen nur mehr bestimmte Pflichtigkeiten zur Auswahl. Im Registerblatt *LA (3)* stehen mehrere Optionen für die Überstundenabrechnung zur Verfügung (siehe Beschreibung unten [*LA (3)*](#registerkarte-la-3--überstunden-und-sonstige-behörden)).
+Wenn das Feld *Überstunden* ausgewählt wird, stehen nur mehr bestimmte Pflichtigkeiten zur Auswahl. Im Registerblatt *LA (3)* stehen mehrere Optionen für die Überstundenabrechnung zur Verfügung (siehe Beschreibung unten [*LA (3)*](#registerkarte-la-3-uberstunden-und-sonstige-behorden)).
 
 ### Abrechnungsverhalten
 

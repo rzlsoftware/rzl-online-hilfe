@@ -20,7 +20,7 @@ Diese Eingabe ist maßgeblich für den Buchungsbeleg. Eingaben von Kreis 0 bis *
 
 ## Auswahlkriterium
 
-Vgl. [Auswahlkriterien](../Auswahlkriterien.md)
+Vgl. [Auswahlkriterien](../Klientenstammdaten/Auswahlkriterien.md)
 
 ## Keine Auszahlung – Zahltag Abrechnung
 

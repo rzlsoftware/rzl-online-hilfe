@@ -10,7 +10,7 @@ Der erste Eingabebereich betrifft das Monat bzw. die Monate, für die die Abrech
 
 Unterhalb kann ausgewählt werden, ob die Abrechnungen für einzelne Dienstnehmer durch Eingabe der Dienstnehmernummer; für alle Dienstnehmer des Klienten inklusive eventueller Dienstnehmer der Unterdienstgeber oder nur für Dienstnehmer eines oder mehrerer Unterdienstgeber ausgedruckt werden sollen.
 
-Der Ausdruck der Abrechnungen kann auch nach angelegten [Auswahlkriterien](../Auswahlkriterien.md) erfolgen.
+Der Ausdruck der Abrechnungen kann auch nach angelegten [Auswahlkriterien](../Klientenstammdaten/Auswahlkriterien.md) erfolgen.
 
 Weiters besteht die Möglichkeit, durch Anwahl des Feldes *alphabetisch sortiert* die Dienstnehmer in alphabetischer Reihenfolge oder entsprechend den festgelegten Auswahlkriterien sortiert auszugeben.
 
