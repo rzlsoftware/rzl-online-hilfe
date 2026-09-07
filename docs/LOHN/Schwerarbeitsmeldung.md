@@ -65,3 +65,21 @@ Bei der Auswahl des Dienstnehmers werden jene Personen in schwarzer Schrift ange
 Anschließend ist für jeden betroffenen Monat die entsprechende *Tätigkeitsart* auszuwählen und die jeweilige *Dauer der Schwerarbeit* einzutragen.
 
 ![Image](img/image890.png)
+
+## Übermittlung der Schwerarbeitsmeldung
+
+Die Schwerarbeitsmeldung ist über die ELDA-Schnittstelle an die Österreichische Gesundheitskasse (ÖGK) zu übermitteln.
+
+Die Meldung kann in der RZL Lohnverrechnung unter *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* erstellt werden.
+
+Wählen Sie den Monat **12** aus und wechseln Sie in das Register *Erstellung ÖGK-Datei (2)*. Dort kann die Meldungsart *Schwerarbeitsmeldung* ausgewählt werden.
+
+Die Schwerarbeitsmeldung kann anschließend wahlweise erstellt werden für:
+
+- einen oder mehrere Dienstnehmer,
+- den gesamten Klienten oder
+- einen Unterdienstgeber.
+
+![Image](img/image891.png)
+
+Nach der Erstellung kann die Schwerarbeitsmeldung direkt über die ELDA-Schnittstelle versendet werden.
