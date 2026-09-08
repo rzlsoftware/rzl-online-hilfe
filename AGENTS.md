@@ -76,7 +76,7 @@ Recreate the Python env with `python3 -m venv .venv && .venv/bin/pip install -r 
 ## Markdown plugin — `src/plugins/remark-mkdocs-attributes.ts`
 
 - Starlight's `remark-directive` tokenises `{:width="…"}` into three sibling nodes, so every attribute handler must cope with both the split and the plain single-text shape — tests only cover the plain one, so a refactor can pass tests and break in production.
-- `#only-light`/`#only-dark` image suffixes are stripped here and hidden by `.img-light`/`.img-dark` rules in `src/styles/rzl.css`; remove either half and both variants render stacked.
+- `#only-light`/`#only-dark` image suffixes are stripped here and hidden by `.img-light`/`.img-dark` rules in `src/styles/rzl.css`; these hiding rules must outrank `.icon-inline` so the inactive variant stays hidden.
 - Tests live in `scripts/plugins/remark-mkdocs-attributes.test.ts`, away from the source, so `pnpm test`'s glob finds them.
 
 ## Redirects

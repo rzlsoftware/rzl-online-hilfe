@@ -70,13 +70,13 @@
  * Light/dark image variants (legacy `#only-light` / `#only-dark` MkDocs
  * convention, ported by `src/plugins/remark-mkdocs-attributes.ts` into
  * `.img-light` / `.img-dark` classes). Only the variant matching the
- * active theme should be shown.
+ * active theme should be shown, including images with `.icon-inline`.
  */
-[data-theme='light'] .img-dark {
+[data-theme='light'] .sl-markdown-content .img-dark {
 	display: none;
 }
 
-[data-theme='dark'] .img-light {
+[data-theme='dark'] .sl-markdown-content .img-light {
 	display: none;
 }
 
