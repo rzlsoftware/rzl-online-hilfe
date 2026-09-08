@@ -39,7 +39,7 @@ Im Beispiel beträgt das monatliche Gehalt EUR 3.400,00. Für August erhält die
 
 EUR 3.400,00 : 31 × 16 = EUR 1.754,84
 
-Alternativ kann auch mit 30 SV-Tagen gerechnet werden. Es gibt hierfür keine gesetzliche Vorgabe.
+Je nach anzuwendender Aliquotierungsregel kann alternativ auch mit 30 Tagen gerechnet werden.
 
 Tragen Sie den aliquoten Betrag anschließend bei den *Fixen Lohnarten* unter [*Lohn/Gehalt*](../Abrechnungsbildschirme/Fixe_Lohnarten.md/#lohn-gehalt) ein. Im Beispiel sind dies EUR 1.754,84.
 
@@ -55,7 +55,7 @@ Bestätigen Sie diese Abfrage mit **Ja**. Dadurch wird die Anmeldung erstellt un
 ![Image](img/image640.png)
 
 !!! warning "Hinweis"
-    Für die Hospizkarenz ist **keine** Betriebliche Vorsorge abzuführen.
+    Während einer Pflegekarenz gegen vollständigen Entfall des Entgelts sind vom Dienstgeber **keine** Beiträge zur Betrieblichen Vorsorge abzuführen.
 
 #### Abrechnung September und Oktober
 
@@ -118,7 +118,7 @@ Bestätigen Sie sowohl die Abfrage zur *Familienhospiz-Anmeldung* als auch jene 
 
 #### Zweiten Pflegekarenzzeitraum erfassen
 
-Sobald feststeht, dass im selben Monat ein zweiter Zeitraum der Hospizkarenz vorliegt, muss in der ersten Abrechnung zusätzlich ein regulärer Austritt erfasst werden.
+Sobald feststeht, dass im selben Monat ein zweiter Zeitraum der Hospizkarenz vorliegt, muss aus programmtechnischen Gründen zusätzlich ein Austrittsdatum sowie ein Ende-Entgelt-Datum erfasst werden. Dabei handelt es sich nicht um eine an die ÖGK zu meldende reguläre Abmeldung.
 
 Als Austrittsdatum empfiehlt sich der letzte Arbeitstag vor Beginn der ersten Pflegekarenz. Im Beispiel ist dies der **06.09.2026**.
 
@@ -170,7 +170,7 @@ EUR 3.000,00 : 31 × 8 = EUR 774,19
 
 Diesen Betrag müssen Sie wieder manuell eintragen.
 
-Alternativ kann auch mit 30 SV-Tagen gerechnet werden. Laut vorliegendem Beispiel gibt es hierfür keine gesetzliche Vorgabe.
+Je nach anzuwendender Aliquotierungsregel kann alternativ auch mit 30 Tagen gerechnet werden.
 
 ![Image](img/image648.png)
 
@@ -202,14 +202,6 @@ Beispiel für eine entsprechende freie Lohnart:
 
 ![Image](img/image650.png)
 
-In der Abrechnung werden im Beispiel EUR 350,00 ausbezahlt. Gleichzeitig ist ersichtlich, dass die Bemessungsgrundlage für die Betriebliche Vorsorge auf EUR 700,00 erhöht wurde.
-
-![Image](img/image651.png)
-
-Beim Speichern der Abrechnung erscheint die Abfrage, ob *die Familienhospiz-Anmeldung in die ÖGK-Datei gestellt werden soll*.
-
-Bestätigen Sie diese mit **Ja**. Die Anmeldung wird erstellt und muss anschließend nur noch versendet werden.
-
 ### Fallbeispiel
 
 Die Dienstnehmerin befindet sich von **01.10.2026 bis 31.12.2026** in Pflegeteilzeit mit Herabsetzung des Entgelts unter die Geringfügigkeitsgrenze.
@@ -233,8 +225,18 @@ Zusätzlich muss die [*Beschäftigtengruppe*](../Abrechnungsbildschirme/Sozialve
 - Angestellter B002 → Geringfügige Angestellte B030
 - Arbeiter B001 → Geringfügiger Arbeiter B010
 
+Erfassen Sie anschließend die Differenz zwischen dem Bezug vor der Pflegeteilzeit und dem reduzierten Teilzeitbezug. Verwenden Sie dafür entweder die entsprechende fixe Lohnart oder die dafür angelegte freie Lohnart.
+
+In der Abrechnung werden im Beispiel EUR 350,00 ausbezahlt. Gleichzeitig ist ersichtlich, dass die Bemessungsgrundlage für die Betriebliche Vorsorge auf EUR 700,00 erhöht wurde.
+
+![Image](img/image651.png)
+
+Beim Speichern der Abrechnung erscheint die Abfrage, ob *die Familienhospiz-Anmeldung in die ÖGK-Datei gestellt werden soll*.
+
+Bestätigen Sie diese mit **Ja**. Die Anmeldung wird erstellt und muss anschließend nur noch versendet werden.
+
 !!! warning "Hinweis"
-    Beginnt die Pflegeteilzeit untermonatlich kann es im ersten Monat dennoch vorkommen, dass noch **keine** Änderung der **Beschäftigtengruppe** erforderlich ist. Entscheidend ist der gesamte Bezug dieses Monats. Liegt der **Mischbezug aus dem Entgelt vor Beginn der Pflegeteilzeit und dem reduzierten Entgelt während der Pflegeteilzeit** insgesamt noch **über** der Geringfügigkeitsgrenze, bleibt die bisherige Beschäftigtengruppe für diesen Monat bestehen. Erst ab einem Monat, in dem der maßgebliche Bezug tatsächlich unter der Geringfügigkeitsgrenze liegt, ist die Beschäftigtengruppe entsprechend auf **geringfügig beschäftigt** umzustellen.
+    Beginnt die Pflegeteilzeit während eines Monats, kann die bisherige Beschäftigtengruppe in diesem Monat noch bestehen bleiben. Maßgeblich ist der gesamte beitragspflichtige Bezug des Monats. Liegt dieser insgesamt über der Geringfügigkeitsgrenze, erfolgt die Umstellung auf eine geringfügige Beschäftigtengruppe erst in einem Monat, in dem der maßgebliche Bezug die Geringfügigkeitsgrenze nicht überschreitet.
 
 #### Folgemonate und Ende der Pflegeteilzeit
 

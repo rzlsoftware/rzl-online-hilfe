@@ -164,6 +164,8 @@ Nach dem Abspeichern der Daten erfolgt die Abfrage vom Programm, ob die jeweilig
 
 Die Meldungen können nachträglich auch im Programmteil *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* erstellt werden.
 
+Weitere Informationen zur Handhabung der Hospizkarenz finden Sie [hier](../Abrechnungen_Sonderfälle/Hospizkarenz.md).
+
 ## Sonderfälle Abmeldung (Krankenstand / Richtigstellung Karenz)
 
 Wenn es zu einer [Kündigung während des Krankenstandes](../Abrechnungen_Sonderfälle/Beendigung_von_Dienstverhaeltnissen_im_Krankenstand.md) kommt, muss das Entgelt bis zum Ende des Krankenentgeltanspruches ausbezahlt werden. Da dies oft über Monate geht, haben Sie hier die Möglichkeit, schon vorab eine Abmeldung zu erzeugen. Durch Eingabe der Austrittsdaten in diesem Bereich kann eine Abmeldung erstellt werden und weiterhin ganz normal abgerechnet werden. Erst im Monat des Ende Entgeltsanspruches tragen Sie im oberen Bereich des Austrittes die Austrittsdaten ein.
