@@ -31,9 +31,9 @@ Tragen Sie im *Austrittsbildschirm* im Bereich [*Hospizkarenz*](../Abrechnungsbi
 ![Image](img/image638.png)
 
 !!! warning "Hinweis"
-    Die Felder *Entgelt vor der Hospizkarenz* und *Entgelt während der Hospizkarenz* müssen nur bei einer **Teilzeit** befüllt werden. Bei einer Karenz sind diese Felder ausgegraut und müssen nicht befüllt werden.
+    Die Felder *Entgelt vor der Hospizkarenz* und *Entgelt während der Hospizkarenz* müssen nur bei einer **Teilzeit** befüllt werden. Bei einer Karenz sind diese Felder ausgegraut und können nicht befüllt werden.
 
-Da kein regulärer Austritt erfasst wird, erfolgt **keine** automatische Kürzung des Lohns bzw. Gehalts. Der Bezug muss daher manuell angepasst werden.
+Da kein Austritt erfasst wird, erfolgt **keine** automatische Kürzung des Lohns bzw. Gehalts. Der Bezug muss für die Dauer der Hospizkarenz manuell angepasst werden.
 
 Im Beispiel beträgt das monatliche Gehalt EUR 3.400,00. Für August erhält die Dienstnehmerin daher:
 
@@ -46,7 +46,7 @@ Tragen Sie den aliquoten Betrag anschließend bei den *Fixen Lohnarten* unter [*
 ![Image](img/image639.png)
 
 !!! warning "Hinweis"
-    Wenn Sie das HGKV-Modul verwenden, kann in diesem Fall der Hinweis erscheinen, dass der KV-Mindestbezug unterschritten wurde. Dieser Hinweis kann in diesem Fall ignoriert werden.
+    Wenn Sie das HGKV-Modul verwenden, kann unter diesen Umständen der Hinweis erscheinen, dass der KV-Mindestbezug unterschritten wurde. Dieser Hinweis kann in diesem Fall ignoriert werden.
 
 Beim Speichern der Abrechnung erscheint die Abfrage, ob die *Familienhospiz-Anmeldung in die ÖGK-Datei gestellt werden soll*.
 
@@ -110,7 +110,7 @@ Zusätzlich müssen Sie im Bereich *Stammdaten Fristen* das Häkchen bei [*Aliqu
 ![Image](img/image647.png)
 
 !!! warning "Hinweis"
-    Wenn Sie das HGKV-Modul verwenden, kann der Hinweis erscheinen, dass der KV-Mindestbezug unterschritten wurde. Dieser Hinweis kann in diesem Fall ignoriert werden.
+    Wenn Sie das HGKV-Modul verwenden, kann unter diesen Umständen der Hinweis erscheinen, dass der KV-Mindestbezug unterschritten wurde. Dieser Hinweis kann in diesem Fall ignoriert werden.
 
 Speichern Sie die Abrechnung.
 
@@ -125,6 +125,8 @@ Als Austrittsdatum empfiehlt sich der letzte Arbeitstag vor Beginn der ersten Pf
 Erfassen Sie dabei *keinen Austrittsgrund*, sondern ausschließlich das *Ende-Entgelt-Datum*.
 
 ![Image](img/image644.png)
+
+Sie erhalten keine Abfrage zur Erstellung der Abmeldung, da kein Austrittsgrund hinterlegt ist. In diesem Fall soll auch keine Abmeldung erstellt werden.
 
 Führen Sie anschließend im **September** einen [*Wiedereintritt*](../Abrechnungen/Wiedereintritt.md) durch.
 
@@ -225,9 +227,11 @@ Zusätzlich muss die [*Beschäftigtengruppe*](../Abrechnungsbildschirme/Sozialve
 - Angestellter B002 → Geringfügige Angestellte B030
 - Arbeiter B001 → Geringfügiger Arbeiter B010
 
-Erfassen Sie anschließend die Differenz zwischen dem Bezug vor der Pflegeteilzeit und dem reduzierten Teilzeitbezug. Verwenden Sie dafür entweder die entsprechende fixe Lohnart oder die dafür angelegte freie Lohnart.
+Erfassen Sie anschließend den Betrag, um den die BV-Bemessungsgrundlage auf das Entgelt vor der Pflegeteilzeit erhöht werden muss. Tragen Sie dazu die Differenz zwischen dem Entgelt vor der Herabsetzung und dem reduzierten Teilzeitbezug bei der entsprechenden fixen Lohnart bzw. der dafür angelegten freien Lohnart zur Erhöhung der BV-Bemessungsgrundlage ein.
 
-In der Abrechnung werden im Beispiel EUR 350,00 ausbezahlt. Gleichzeitig ist ersichtlich, dass die Bemessungsgrundlage für die Betriebliche Vorsorge auf EUR 700,00 erhöht wurde.
+Die beiden Möglichkeiten zur Erhöhung der BV-Bemessungsgrundlage sind im Abschnitt [Betriebliche Vorsorge](#betriebliche-vorsorge) beschrieben.
+
+Im Beispiel beträgt die Differenz EUR 350,00. Dadurch wird die BV-Bemessungsgrundlage von EUR 350,00 auf das ursprüngliche Entgelt von EUR 700,00 erhöht.
 
 ![Image](img/image651.png)
 
