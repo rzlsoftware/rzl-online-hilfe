@@ -3,7 +3,6 @@ title: Lohnverrechnung
 program: Reporting
 ---
 
-<span id="lohnverrechnung" class="legacy-anchor" aria-hidden="true"></span>
 
 Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das Reporting im *RZL Lohnprogramm*. Seitens der RZL Software werden Ihnen mit dem *Reporting-Modul* auch diverse Musterreports zur Verfügung gestellt.
 
@@ -36,7 +35,6 @@ Sofern bei einem Dienstnehmer mehrere Abrechnungen vorhanden sind, kann mit der 
 | `ZR().Jahr().Monat().Anfang`{data-clipboard-text="ZR().Jahr().Monat().Anfang"} | Zeigt den ersten Tag des ausgewählten Monats an  |
 | `ZR().Jahr().Monat().Ende`{data-clipboard-text="ZR().Jahr().Monat().Ende"}     | Zeigt den letzten Tag des ausgewählten Monats an |
 
-<span id="arbeitsstatte" class="legacy-anchor" aria-hidden="true"></span>
 ### Arbeitsstätte
 
 | **Formel**                                                                                       | **Beschreibung**                                      |
@@ -138,7 +136,6 @@ Sofern bei einem Dienstnehmer mehrere Abrechnungen vorhanden sind, kann mit der 
 | `DG().MonatssummeAktDV().Monat()`{data-clipboard-text="DG().MonatssummeAktDV().Monat()"}           | Zeigt den ausgewählten Monat an |
 | `DG().MonatssummeAktDV().Monat().Wert`{data-clipboard-text="DG().MonatssummeAktDV().Monat().Wert"} | Wert der ausgewählten Lohnart   |
 
-<span id="zeitraum_1" class="legacy-anchor" aria-hidden="true"></span>
 #### Zeitraum
 
 | **Formel**                                                                                                 | **Beschreibung**                                                                        |
@@ -158,7 +155,6 @@ Sofern bei einem Dienstnehmer mehrere Abrechnungen vorhanden sind, kann mit der 
 | `DG().ZRAktDV().Monat().SVTageKÜ`{data-clipboard-text="DG().ZRAktDV().Monat().SVTageKÜ"}                   | Anzahl abgerechneter SV-Tage der Kündigungsentschädigung                                |
 | `DG().ZRAktDV().Monat().SVTageUE`{data-clipboard-text="DG().ZRAktDV().Monat().SVTageUE"}                   | Anzahl der abgerechneten SV-Tage der Urlaubsersatzleistung                              |
 
-<span id="uberstunden" class="legacy-anchor" aria-hidden="true"></span>
 #### Überstunden
 
 | **Formel**                                                                                     | **Beschreibung**                                                |
@@ -182,7 +178,6 @@ Sofern bei einem Dienstnehmer mehrere Abrechnungen vorhanden sind, kann mit der 
 
 ### Dienstnehmer
 
-<span id="allgemein_1" class="legacy-anchor" aria-hidden="true"></span>
 #### Allgemein
 
 | **Formel**                                                                                                   | **Beschreibung**                                                      |
@@ -214,7 +209,6 @@ Sofern bei einem Dienstnehmer mehrere Abrechnungen vorhanden sind, kann mit der 
 | `DN().ZR().Monat().AnzahlAbrechnungen`{data-clipboard-text="DN().ZR().Monat().AnzahlAbrechnungen"}           | Anzahl der Abrechnungen im Monat                                      |
 | `DN().ZRAktDV().Monat().AnzahlAbrechnungen`{data-clipboard-text="DN().ZRAktDV().Monat().AnzahlAbrechnungen"} | Anzahl der Abrechnungen im Monat (aktives Dienstverhältnis)           |
 
-<span id="stammdaten_1" class="legacy-anchor" aria-hidden="true"></span>
 #### Stammdaten
 
 | **Formel**                                                                         | **Beschreibung**                                                      |
@@ -572,7 +566,6 @@ Sofern bei einem Dienstnehmer mehrere Abrechnungen vorhanden sind, kann mit der 
 | `DN().Monat().Wiederkehrend`{data-clipboard-text="DN().Monat().Wiederkehrend"}                                     | Abweichende mBGM Einstellungen wiederkehrend aktiviert (Wahr/Falsch) |
 | `DN().Monat().WVEntfallNeufoeg`{data-clipboard-text="DN().Monat().WVEntfallNeufoeg"}                               | WF-Entfall Neufög aktiviert (Wahr/Falsch)                            |
 
-<span id="lohnarten_1" class="legacy-anchor" aria-hidden="true"></span>
 #### Lohnarten
 
 | **Formel**                                                                                         | **Beschreibung**                                                               |
@@ -617,7 +610,6 @@ Sofern bei einem Dienstnehmer mehrere Abrechnungen vorhanden sind, kann mit der 
 | `DN().ZR().Monat().WochenStd`{data-clipboard-text="DN().ZR().Monat().WochenStd"}                   | Anzahl der Wochenstunden                                                       |
 | `DN().ZRAktDV().Monat().WochenStd`{data-clipboard-text="DN().ZRAktDV().Monat().WochenStd"}         | Anzahl der Wochenstunden (aktives Dienstverhältnis)                            |
 
-<span id="uber-und-mehrstunden" class="legacy-anchor" aria-hidden="true"></span>
 #### Über- und Mehrstunden
 
 | **Formel**                                                                           | **Beschreibung**                                                                   |
@@ -788,7 +780,6 @@ Sofern bei einem Dienstnehmer mehrere Abrechnungen vorhanden sind, kann mit der 
 | `DN().ZR().ZAEndsaldoStundenRueckstellung`{data-clipboard-text="DN().ZR().ZAEndsaldoStundenRueckstellung"}                     | ZA Endsaldo Stunden Rückstellung                                     |
 | `DN().ZRAktDV().ZAEndsaldoStundenRueckstellung`{data-clipboard-text="DN().ZRAktDV().ZAEndsaldoStundenRueckstellung"}           | ZA Endsaldo Stunden Rückstellung (aktives Dienstverhältnis)          |
 
-<span id="abzuge" class="legacy-anchor" aria-hidden="true"></span>
 #### Abzüge
 
 | **Formel**                                                                                                           | **Beschreibung**                                                                          |

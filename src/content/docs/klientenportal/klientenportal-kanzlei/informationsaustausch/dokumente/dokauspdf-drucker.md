@@ -3,7 +3,6 @@ title: Dokumentenübermittlung aus dem RZL PDF Drucker
 program: Klientenportal
 ---
 
-<span id="dokumentenubermittlung-aus-dem-rzl-pdf-drucker" class="legacy-anchor" aria-hidden="true"></span>
 
 Im RZL PDF-Drucker erstellte Dokumente können über die Schaltfläche *Export* ins RZL Klientenportal hochgeladen werden.
 

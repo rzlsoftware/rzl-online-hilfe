@@ -31,7 +31,6 @@ der Maus auf den Eintrag oder Sie markieren in der Liste die
 entsprechende Zeile und klicken im unteren Bereich des Bildschirms auf
 den Eintrag *Detail Ansicht*.
 
-<span id="dokumentenverwaltung-beschreibung-der-eingabefelder" class="legacy-anchor" aria-hidden="true"></span>
 ## Dokumentenverwaltung - Beschreibung der Eingabefelder
 
 ![Dokumentenverwaltung](<img/image216.png>)
@@ -103,7 +102,6 @@ eingetragen und kann, wenn notwendig geändert werden.
 Anzeige des Erstellers des Dokuments (wenn die Information vorhanden
 ist) und Datum und Uhrzeit der Erstellung.
 
-<span id="geandert" class="legacy-anchor" aria-hidden="true"></span>
 ### Geändert
 
 Wird das Dokument geändert, wird hier angezeigt, wer die Änderung

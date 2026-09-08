@@ -3,7 +3,6 @@ title: Über-/Mehrarbeitsstunden
 program: LOHN
 ---
 
-<span id="uber-mehrarbeitsstunden" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image113.png>)
 
@@ -15,7 +14,6 @@ Soll **kein** Freibetrag gerechnet werden, dann geben Sie bei *max. beg. h* Null
 
 ![Image](<img/image114.png>){width="500"}
 
-<span id="uberstunden" class="legacy-anchor" aria-hidden="true"></span>
 ## Überstunden
 
 **Überstunden-Teiler / Abweichender Überstunden-Grundlohn**

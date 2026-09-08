@@ -3,7 +3,6 @@ title: Mitarbeiter
 program: Board
 ---
 
-<span id="mitarbeiter" class="legacy-anchor" aria-hidden="true"></span>
 
 Neben den Klientenstammdaten sind auch die Stammdaten zu den
 Mitarbeitern Ihrer Kanzlei im RZL Board zu finden. Die Verwaltung der
@@ -36,7 +35,6 @@ grünen Plus nach Eingabe des Namens neu angelegt werden.
 
 Alternativ kann hier eine Kurzbezeichnung angegeben werden.
 
-<span id="eintritts-und-austrittsdatum" class="legacy-anchor" aria-hidden="true"></span>
 ### Eintritts- und Austrittsdatum
 
 Hier kann das Eintritts- bzw. das Austrittsdatum des Mitarbeiters

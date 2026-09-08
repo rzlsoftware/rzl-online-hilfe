@@ -3,7 +3,6 @@ title: Abrechnung einer Insolvenz
 program: LOHN
 ---
 
-<span id="abrechnung-einer-insolvenz" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit dieser Kurzanleitung möchten wir Ihnen anhand eines Beispiels die Abrechnung einer Insolvenz im RZL Lohnprogramm erläutern.
 
@@ -24,7 +23,6 @@ Geben Sie im Monat 02/2023 im *Austrittsbildschirm* das *Austrittsdatum* und *En
 Es wird **KEINE** Abmeldung an die ÖGK gesendet.
 
 :::
-<span id="marz-und-april-abrechnung" class="legacy-anchor" aria-hidden="true"></span>
 ## März- und April-Abrechnung
 
 Da ab 01.03.2023 keine Zahlung mehr erfolgt ist, muss für den Zeitraum 01.03.-16.04.2023 ein eigener Klient erstellt werden (**<span style="color: brown;">Klient 2</span>**). Für diesen Zeitraum wird das Geld vom Insolvenzentgeltsicherungsfonds ausbezahlt. Es muss somit für diesen Zeitraum kein Jahreslohnzettel erstellt und versendet werden.
@@ -59,7 +57,6 @@ Bei *RZL-Lohnklient* wählen Sie die Klientennummer des **<span style="color: br
 
 Wechseln Sie in den **<span style="color: brown;">Klienten 2</span>**.
 
-<span id="marz-abrechnung" class="legacy-anchor" aria-hidden="true"></span>
 ### März-Abrechnung
 
 Im **<span style="color: brown;">Klienten 2</span>** führen Sie im März einen *Wiedereintritt* bei allen Dienstnehmern durch: *Abrechnungen / Wiedereintritt*.
@@ -96,7 +93,6 @@ In den meisten Fällen wird es zu einer falschen Ermittlung der gesamten Sozialv
 :::
 ![Image](<img/image658.png>){width="400"}
 
-<span id="april-abrechnung-nur-fur-den-mbgm" class="legacy-anchor" aria-hidden="true"></span>
 ## April-Abrechnung nur für den mBGM
 
 Da die ÖGK nur einen mBGM für den Monat April akzeptiert, benötigen Sie einen weiteren Klienten (**<span style="color: darkblue;">Klient 3</span>**) nur für die Übermittlung des mBGMs.
@@ -111,7 +107,6 @@ In der *ZMV* können Sie unter *Klient / Stammdaten* einen neuen Namen für den 
 
 ![Image](<img/image660.png>){width="500"}
 
-<span id="april-abrechnung_1" class="legacy-anchor" aria-hidden="true"></span>
 ### April-Abrechnung
 
 Im **<span style="color: darkblue;">Klient 3</span>** gehen Sie nun wie folgt vor:
@@ -159,7 +154,6 @@ Bei *RZL-Lohnklient* wählen Sie die Klientennummer des **<span style="color: da
 
 Wechseln Sie in den **<span style="color: darkgreen;">Klienten 4</span>**.
 
-<span id="april-abrechnung_2" class="legacy-anchor" aria-hidden="true"></span>
 ### April-Abrechnung
 
 Im **<span style="color: darkgreen;">Klient 4</span>** führen Sie im April einen *Wiedereintritt* bei allen Dienstnehmern durch: *Abrechnungen / Wiedereintritt*.

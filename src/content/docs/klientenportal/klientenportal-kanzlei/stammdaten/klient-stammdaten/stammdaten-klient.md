@@ -3,7 +3,6 @@ title: Klientenstammdaten am RZL Klientenportal
 program: Klientenportal
 ---
 
-<span id="klientenstammdaten-am-rzl-klientenportal" class="legacy-anchor" aria-hidden="true"></span>
 
 
 Im RZL Klientenportal können Sie im Programmteil *Stammdaten / Klienten / Klientenstammdaten* die im RZL Board bzw. in der ZMV angelegten und freigegebenen Klienten übernehmen und im Klientenportal anlegen
@@ -35,18 +34,15 @@ Der Name des Klienten wird aus dem RZL Board bzw. der ZMV übernommen und kann i
 
 ![](img/image16.png)
 
-<span id="vorlage-fur-buchungsregeln" class="legacy-anchor" aria-hidden="true"></span>
 #### Vorlage für Buchungsregeln
 
 Für die Buchungsvorerfassung können Buchungsregeln angelegt werden. Sie können Buchungsregeln auch in einer allgemeinen Vorlage speichern, die bei mehreren Klienten verankert werden kann. Die Zuordnung erfolgt in den Klientenstammdaten durch Anwahl der benötigten Vorlage. [siehe Buchungsregeln](/klientenportal/klientenportal-kanzlei/finanzbuchhaltung/fibu-vorerfassung/buchungsregeln/)
 
 
-<span id="kontierung-fur-buchungsvorerfassung-erlauben" class="legacy-anchor" aria-hidden="true"></span>
 #### Kontierung für Buchungsvorerfassung erlauben
 
 Wenn Sie dieses Feld aktivieren, kann Ihr Klient im Rahmen der Vorerfassung Kontonummern eintragen. Wird dieses Feld nicht aktiviert, kann der Klient nur Ausgaben und Einnahmen erfassen und die Vorkontierung kann nur mehr über Buchungstexte erfolgen. [siehe Buchungsregeln](/klientenportal/klientenportal-kanzlei/finanzbuchhaltung/fibu-vorerfassung/buchungsregeln/)
 
-<span id="kostenstellekostentrager-bei-buchungsvorerfassung-erfassen" class="legacy-anchor" aria-hidden="true"></span>
 #### Kostenstelle/Kostenträger bei Buchungsvorerfassung erfassen
 
 Wenn Sie diese Option aktivieren, kann der Klient bei der Vorerfassung der Buchungszeilen auch Kostenstellen und Kostenträger miterfassen. [siehe Stammdaten Kostenrechnung](/klientenportal/klientenportal-kanzlei/finanzbuchhaltung/fibu-vorerfassung/vorerfassungkst/)
@@ -82,7 +78,6 @@ Bei der Erfassung von Lohnarten nach Einheiten wird die bereits einmal erfasste 
 
 ![](img/image18.png)
 
-<span id="daten-fur-lohnvorerfassung-ubertragen" class="legacy-anchor" aria-hidden="true"></span>
 #### Daten für Lohnvorerfassung übertragen
 
 Wenn Sie dieses Feld deaktivieren, werden keine Daten aus der Lohnverrechnung des Klienten auf das Klienten-Portal hochgeladen.
@@ -93,14 +88,12 @@ Dieses Feld sollte nur dann deaktiviert werden, wenn Sie lediglich die Abrechnun
 
 Hier legen Sie fest, ob für einzelne Dienstnehmer pro Monat mehr als einmal Daten an die Lohnverrechnung freigegeben werden können.
 
-<span id="behandlung-mehrerer-mindestangaben-anmeldungen-pro-monat-fur-fallweise-beschaftigte" class="legacy-anchor" aria-hidden="true"></span>
 #### Behandlung mehrerer Mindestangaben-Anmeldungen pro Monat für fallweise Beschäftigte
 
 Die Mindestangaben-Anmeldungen eines Monats für fallweise Beschäftigten können innerhalb einer Abrechnung eines Monat gespeichert werden. Wenn innerhalb eines Monats beispielsweise drei Tage gemeldet werden, sind in diesem Monat die drei Tage innerhalb nur einer Abrechnung gespeichert. Diese Variante wird von RZL empfohlen.
 
 Wahlweise könnten Sie auch pro Mindestangaben-Anmeldung eine Abrechnung speichern. Für drei Mindestangaben-Anmeldungen sind das drei Abrechnungen in einem Monat.
 
-<span id="daten-der-ogk-meldungen-an-die-wt-kanzlei-als-eintritte-weiterleiten" class="legacy-anchor" aria-hidden="true"></span>
 #### Daten der ÖGK-Meldungen an die WT-Kanzlei als Eintritte weiterleiten
 
 Für die Weiterleitung der Daten der Versichertenmeldung/Meldung fallweise Beschäftigte an die ÖGK an den Wirtschaftstreuhänder stehen folgende Optionen zur Verfügung:
@@ -126,7 +119,6 @@ Beim Menüpunkt steht Ihnen die Kurzanleitung mit weiteren Informationen zu den 
 
 Wenn Sie diese Einstellung treffen, so können die Benutzer des ausgewählten Klienten im Bereich *Lohnverrechnung / Übersicht* die Dienstnehmerliste nicht öffnen.
 
-<span id="eigene-ubertragungseinstellungen-fur-mindestangaben-anmeldungen-versichertenmeldung-reduziert" class="legacy-anchor" aria-hidden="true"></span>
 #### Eigene Übertragungseinstellungen für Mindestangaben-Anmeldungen / Versichertenmeldung reduziert
 
 Aktivieren Sie dieses Feld, damit der Klient die Übertragung der Meldungen an ELDA mit seiner eigenen ELDA-Lizensierung durchführen kann. Die Absender-Stammdaten werden vom Programm ausgefüllt. Sie müssen anschließend die Verarbeitungsnummer der GKK (DVR-Nummer), die ELDA Seriennummer und das ELDA Passwort (Kundenpasswort) für die ELDA-Übertragung eintragen.

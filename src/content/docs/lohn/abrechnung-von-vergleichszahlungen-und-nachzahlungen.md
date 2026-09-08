@@ -3,7 +3,6 @@ title: Abrechnung von Vergleichszahlungen und Nachzahlungen
 program: LOHN
 ---
 
-<span id="abrechnung-von-vergleichszahlungen-und-nachzahlungen" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Allgemeine Informationen
 
@@ -15,7 +14,6 @@ Wird beispielsweise das Dienstverhältnis im Jahr 2021 beendet und kommt es im J
 
 Vergleichssummen (§ 67 Abs 8 lit a EStG) und Nachzahlungen für abgelaufene Kalenderjahre (§ 67 Abs 8 lit c), die im Folgejahr des Austritts ausbezahlt werden, sind daher in der RZL-Lohnverrechnung, wie folgt abzurechnen:
 
-<span id="sozialversicherung-im-jahr-des-austritts" class="legacy-anchor" aria-hidden="true"></span>
 ### Sozialversicherung – im Jahr des Austritts
 
 In diesem Jahr sind folgende Lohnarten von Ihnen anzulegen (es gibt keine Musterlohnarten):
@@ -33,7 +31,6 @@ Die auf den jeweiligen Monat bzw. die jeweiligen Monate entfallende Urlaubsersat
 
 Beinhaltet der Vergleich eine Auszahlung, welche den Zeitraum nach dem Austritt betrifft, muss vor der Aufrollung ein *Wiedereintritt* durchgeführt und die betroffenen Monate mit Null abgerechnet werden. Als Austrittsdatum geben Sie im letzten betroffenen Monat das alte Austrittsdatum ein. Danach kann die Aufrollung der Vergleichsmonate erfolgen.
 
-<span id="lohnsteuer-im-jahr-der-vergleichszahlung" class="legacy-anchor" aria-hidden="true"></span>
 ### Lohnsteuer – im Jahr der Vergleichszahlung
 
 Es ist eine Abrechnung mit Wiedereintritt im Monat der Zahlung der Vergleichssumme vorzunehmen und analog zum Standardfall abzurechnen.
@@ -271,7 +268,6 @@ Vorab muss geklärt werden, wie sich der Vergleich zusammensetzt und in welche M
 
 Die Auszahlung des Vergleiches erfolgt im **September 2022**.
 
-<span id="klient-2021_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Klient 2021
 
 Beginnen Sie mit der Aufrollung der Monate **Mai** **bis** **Juli** im Klienten **2021**.
@@ -338,7 +334,6 @@ Es erfolgt eine automatische Erstellung der Storno mBGMs für die Monate Mai bis
 
 Drucken Sie das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
 
-<span id="berechnung-sv-abzug-des-dienstnehmers_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Berechnung SV Abzug des Dienstnehmers
 
 Diese Berechnung muss von Ihnen manuell durchgeführt werden. Eine Automatik ist hier nicht vorgesehen.
@@ -354,7 +349,6 @@ Diese Berechnung muss von Ihnen manuell durchgeführt werden. Eine Automatik ist
 
 Es gelangen EUR 1.091,49 im **September 2022** als SV-DN-Anteil zum Abzug.
 
-<span id="klient-2022_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Klient 2022
 
 Öffnen Sie den Klienten 2022. Führen Sie hier einen **Wiedereintritt** mit Monat 09 für den Dienstnehmer durch: *Abrechnungen / Wiedereintritt*.
@@ -395,7 +389,6 @@ Die Beträge finden Sie in den zwei oben erwähnten Berechnungstabellen und in d
 
 Rechnen Sie den Monat **September** ab. *Speichern*.
 
-<span id="berechnung-des-vergleiches_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Berechnung des Vergleiches
 
 | Berechnung                 |              |
@@ -448,7 +441,6 @@ Vorab muss geklärt werden, wie sich die Nachzahlung zusammensetzt und in welche
 
 Die Auszahlung der Nachzahlung erfolgt im **Oktober 2022**.
 
-<span id="klient-2021_2" class="legacy-anchor" aria-hidden="true"></span>
 ### Klient 2021
 
 Beginnen Sie mit der Aufrollung der Monate **April**, **August** und **Oktober** im Klienten **2021**.
@@ -525,7 +517,6 @@ Diese Berechnung muss von Ihnen manuell durchgeführt werden. Eine Automatik ist
 
 Es gelangen EUR 176,18 im **Oktober 2022** als SV-DN-Anteil zum Abzug.
 
-<span id="klient-2022_2" class="legacy-anchor" aria-hidden="true"></span>
 ### Klient 2022
 
 Öffnen Sie den Klienten 2022. Führen Sie hier einen **Wiedereintritt** mit Monat 10 für den Dienstnehmer durch: *Abrechnungen / Wiedereintritt*.
@@ -601,7 +592,6 @@ Berechnung des Betrags „Steuerfreie bzw. mit festen Sätzen versteuerte Bezüg
 | Gesamtbetrag der Nachzahlung | 775,00 |
 | : 5 (1/5 steuerfrei)         | 155,00 |
 
-<span id="beispiel-vergleich-abfertigung-neu-uber-eur-750000-lohnsteuerpflichtigkeit-nr-3-und-nr-18" class="legacy-anchor" aria-hidden="true"></span>
 ## Beispiel Vergleich Abfertigung NEU <span style="color: red;">über EUR 7.500,00</span> Lohnsteuerpflichtigkeit Nr. <span style="color: red;">3</span> und Nr. <span style="color: red;">18</span>
 
 Vergleich betrifft das Jahr 2021: Insgesamt EUR 8.800,00 – Austrittsdatum: 30.04.2021
@@ -618,7 +608,6 @@ Zunächst muss geklärt werden, wie sich der Vergleich zusammensetzt und in welc
 
 Die Auszahlung des Vergleiches erfolgt im **Juni 2022**.
 
-<span id="klient-2021_3" class="legacy-anchor" aria-hidden="true"></span>
 ### Klient 2021
 
 Beginnen Sie mit der Aufrollung der Monate **Jänner bis April** im Klienten **2021**.
@@ -711,7 +700,6 @@ Es erfolgt nun eine automatische Erstellung der Storno mBGMs für die Monate Jä
 
 Drucken Sie das Auszahlungsjournal und die Überweisungsliste mit Monat 13 aus, damit Sie die noch ausständigen Sozialversicherungsbeiträge abführen können.
 
-<span id="berechnung-sv-abzug-des-dienstnehmers_2" class="legacy-anchor" aria-hidden="true"></span>
 ### Berechnung SV Abzug des Dienstnehmers
 
 Diese Berechnung muss von Ihnen manuell durchgeführt werden. Eine Automatik ist hier nicht vorgesehen.
@@ -727,7 +715,6 @@ Diese Berechnung muss von Ihnen manuell durchgeführt werden. Eine Automatik ist
 
 Es gelangen EUR 912,24 im **Juni** **2022** als SV-DN-Anteil zum Abzug.
 
-<span id="klient-2022_3" class="legacy-anchor" aria-hidden="true"></span>
 ### Klient 2022
 
 Öffnen Sie den Klienten 2022. Führen Sie hier einen **Wiedereintritt** mit Monat 06 für den Dienstnehmer durch: *Abrechnungen / Wiedereintritt*.
@@ -769,7 +756,6 @@ Die Beträge entnehmen Sie in den beiden oben genannten Berechnungstabellen und 
 
 Rechnen Sie den Monat **Juni** ab. *Speichern*.
 
-<span id="berechnung-des-vergleiches_2" class="legacy-anchor" aria-hidden="true"></span>
 ### Berechnung des Vergleiches
 
 | Berechnung                 |              |                                |

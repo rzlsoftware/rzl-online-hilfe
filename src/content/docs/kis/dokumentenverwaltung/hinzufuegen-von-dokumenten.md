@@ -38,7 +38,6 @@ Wenn Sie die Schaltfläche *Ausgewählte Dokumente* bzw. *Alle Dokumente*
 anwählen, wird das markierte Dokument in das Kanzlei-Informations-System
 übernommen und aus dem Bereich Hinzugefügte Dokumente entfernt.
 
-<span id="entfernen-von-hinzugefugten-dokumenten" class="legacy-anchor" aria-hidden="true"></span>
 ### Entfernen von hinzugefügten Dokumenten
 
 Wenn das Dokument nicht ins KIS übernommen werden soll, können Sie die
@@ -52,7 +51,6 @@ folgende Abfrage.
 Wenn Sie diese Abfrage mit *Ja* bestätigen wird die Änderung des
 Dateinamens (ins KIS übernommen) wieder rückgängig gemacht.
 
-<span id="mehrere-dokumente-gleichzeitig-auswahlen-bzw-ubernehmen" class="legacy-anchor" aria-hidden="true"></span>
 ### Mehrere Dokumente gleichzeitig auswählen bzw. übernehmen
 
 Wenn Sie im Bereich Hinzugefügte Dokumente mehrere Dokumente markieren,
@@ -64,7 +62,6 @@ auch nur einzelne Felder freigeschaltet werden.
 Es werden nur jene Felder gesperrt und müssen freigeschaltet werden, die
 abweichende Einträge aufweisen.
 
-<span id="ubernahme-der-dokumente-aus-einem-scanordner" class="legacy-anchor" aria-hidden="true"></span>
 ### Übernahme der Dokumente aus einem Scanordner
 
 Innerhalb der Dokumentenübernahme finden Sie im oberen Bereich den
@@ -89,7 +86,6 @@ Klienten im Zuge des Hochladens eine Nachricht mit übermitteln.
 
 ![Dokumente auf Kliport hochladen](<img/image226.png>)
 
-<span id="hinzufugen-von-dokumenten-als-posteingangpostausgang" class="legacy-anchor" aria-hidden="true"></span>
 ## Hinzufügen von Dokumenten als Posteingang/Postausgang
 
 Sollen Dokumente mit den Ereignissen Posteingang/Postausgang verknüpft
@@ -111,7 +107,6 @@ innerhalb der Dokumentendetails eine Aufgabe erstellen.
 
 ![Aufgabe in Dokukmentendetails erstellen](<img/image228.png>)
 
-<span id="hinzufugen-von-dokumenten-uber-den-rzl-pdf-manager-premium" class="legacy-anchor" aria-hidden="true"></span>
 ## Hinzufügen von Dokumenten über den RZL PDF-Manager Premium 
 
 Haben Sie den RZL PDF-Manager Premium lizensiert können Sie diesen

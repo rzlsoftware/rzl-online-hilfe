@@ -3,9 +3,7 @@ title: Kontrollsechstel § 77 Abs. 4a EStG
 program: LOHN
 ---
 
-<span id="kontrollsechstel-77-abs-4a-estg" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="ausschlussgrunde-seit-01012021" class="legacy-anchor" aria-hidden="true"></span>
 ## Ausschlussgründe seit 01.01.2021
 
 1)  Elternkarenz (sowie Papamonat)
@@ -30,7 +28,6 @@ program: LOHN
 
 Es gibt nun erstmals die Möglichkeit, zu einem positiven Kontrollsechsteleffekt für den Dienstnehmer. Ein Überhang aus der normalen Jahressechstelberechnung wird im Falle von steigenden Bezügen teilweise oder zur Gänze abgebaut. Dies führt am Jahresende oder beim Austritt des Dienstnehmers zu einer Steuergutschrift.
 
-<span id="automatische-aufrollfunktion-bei-mehr-als-einem-dienstverhaltnis-beim-selben-dienstgeber" class="legacy-anchor" aria-hidden="true"></span>
 ## Automatische Aufrollfunktion bei mehr als einem Dienstverhältnis beim selben Dienstgeber
 
 Wenn es zu einem Austritt beim zweiten Dienstverhältnis beim selben Arbeitgeber kommt bzw. wenn der Monat Dezember abgerechnet wird, erfolgt vom Programm eine automatische Aufrollung aller Dienstverhältnisse, welche bis dorthin bestanden haben, vorausgesetzt es liegt kein Ausschlussgrund vor.
@@ -88,17 +85,14 @@ Durch Anwahl *Vorschlag-Info* erscheint ein Hinweis-Bildschirm, warum das Kontro
 
 **Achtung**: Auch bei positiven Aufrollungen des Kontrollsechstels und vorliegen eines Ausschlussgrundes wird das Häkchen bei *Kontrollsechstel* gesetzt.
 
-<span id="dienstverhaltnis-endet-am-31122021" class="legacy-anchor" aria-hidden="true"></span>
 ## Dienstverhältnis endet am 31.12.2021
 
 Endet das Dienstverhältnis arbeitsrechtlich am 31.12.2021, muss lt. Finanz das Kontrollsechstel ausgelöst werden, sowohl negativ als auch positiv. Dies wird vom Programm automatisch ausgeführt.
 
-<span id="karenz-und-paralleles-dienstverhaltnis" class="legacy-anchor" aria-hidden="true"></span>
 ## Karenz und paralleles Dienstverhältnis
 
 Wird ein paralleles Dienstverhältnis während einer Karenz geführt, dürfen die Vorbezüge nicht in dieses parallele Dienstverhältnis übernommen werden. Damit dies reibungslos funktioniert, muss unbedingt als Austrittsgrund „Karenzurlaub“ ausgewählt werden. Danach muss ein **Wiedereintritt unter neuer Nummer** (*Abrechnungen / Sonderfälle / Wiedereintritt unter neuer Nummer*) erfolgen.
 
-<span id="fallweise-beschaftigte" class="legacy-anchor" aria-hidden="true"></span>
 ## Fallweise Beschäftigte
 
 Bei Fallweisen Beschäftigten, welche im *Sozialversicherungsbildschirm* auch so erfasst wurden, wird bei jedem Dienstverhältnis das Kontrollsechstel gesetzt. Wir haben diese Variante gewählt, da es sehr umständlich ist, wenn jeden Monat eine Aufrollung des Vormonats durchgeführt werden müsste.
@@ -113,7 +107,6 @@ Wie bislang muss im Monat Dezember grundsätzlich eine Kontrollsechstelberechnun
 
 ![Image](<img/image543.png>){width="400"}
 
-<span id="beispiel-1-fallende-bezuge-gegen-jahresende" class="legacy-anchor" aria-hidden="true"></span>
 ### Beispiel 1: Fallende Bezüge gegen Jahresende
 
 Nur bei stark schwankenden Bezügen wird im Zusammenhang mit dem Kontrollsechstel auch eine Aufrollung nötig sein. Wie bisher wird beim Verlassen der Dezemberabrechnung die Kontrollsechstelaufrollung automatisch ausgelöst und die sich ergebende Steuerdifferenz dargestellt.
@@ -128,7 +121,6 @@ In diesem Beispiel kam es durch das **Absinken der Bezüge** am Jahresende zu ei
 
 ![Image](<img/image546.png>){width="500"}
 
-<span id="beispiel-2-im-jahresverlauf-ansteigende-bezuge" class="legacy-anchor" aria-hidden="true"></span>
 ### Beispiel 2 – Im Jahresverlauf ansteigende Bezüge
 
 Im Gegensatz zum Jahr 2020 darf bei steigenden Bezügen ein etwaiger Überhang aus den Vormonaten am Jahresende an den Dienstnehmer rückvergütet werden.

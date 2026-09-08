@@ -3,7 +3,6 @@ title: ZMV Klienten-Übernahme
 program: Board
 ---
 
-<span id="zmv-klienten-ubernahme" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Übernahme der Stammdaten der Klienten findet im RZL Board statt.
 

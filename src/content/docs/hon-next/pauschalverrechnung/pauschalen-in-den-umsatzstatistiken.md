@@ -3,7 +3,6 @@ title: Pauschalen in den Umsatzstatistiken
 program: HONNext
 ---
 
-<span id="pauschalen-in-den-umsatzstatistiken" class="legacy-anchor" aria-hidden="true"></span>
 
 **Umsatzstatistik Mitarbeiter**
 

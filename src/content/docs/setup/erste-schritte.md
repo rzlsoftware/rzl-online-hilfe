@@ -3,7 +3,6 @@ title: Erste Schritte
 program: setup
 ---
 
-<span id="erste-schritte" class="legacy-anchor" aria-hidden="true"></span>
 
 Nach der Installation und Lizenzierung der RZL-Programme ist es notwendig,  
 die ersten Daten zu erfassen.

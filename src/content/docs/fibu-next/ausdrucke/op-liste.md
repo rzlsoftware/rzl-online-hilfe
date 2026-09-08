@@ -3,7 +3,6 @@ title: OP-Liste
 program: FIBUNext
 ---
 
-<span id="op-liste" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Ausdruck OP-Liste
 

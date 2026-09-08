@@ -3,7 +3,6 @@ title: Dienstnehmer-Suche
 program: LOHN
 ---
 
-<span id="dienstnehmer-suche" class="legacy-anchor" aria-hidden="true"></span>
 
 Sie können in der *Grundeinstellung die Dienstnehmer* hinsichtlich der unten abgebildeten Kriterien
 
@@ -34,7 +33,6 @@ Es kann hier zum Beispiel nach der *Beitragskontonummer*, dem *ÖGK-Bundesland* 
 Die Dienstnehmersuche ist erst ab dem Klientenjahr **2016** verfügbar. Klientenjahre vor 2016 werden bei der Dienstnehmersuche nicht berücksichtigt.
 
 :::
-<span id="funktion-dn-suche-schutzensperren" class="legacy-anchor" aria-hidden="true"></span>
 ## Funktion DN-Suche schützen/sperren
 
 Mit der Schaltfläche *Passwort* kann die Benutzung der Funktion kanzleiweit mit einem Passwort versehen werden.

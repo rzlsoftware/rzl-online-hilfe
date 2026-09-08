@@ -46,7 +46,6 @@ Mit einem Klick auf den Button *Alle Buchungen erneut abgleichen* werden
 alle bisherigen Buchungen (zurück bis zum definierten Abrufzeitraum)
 nochmals abgerufen.
 
-<span id="steuerkonto-aus-kis-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Steuerkonto aus KIS löschen
 
 Wählen Sie die Schaltfläche *Steuerkonto aus KIS löschen* an und
@@ -120,7 +119,6 @@ Buchungstag) für das jeweilige Jahr darstellen.
 
 ![Jahreszusammenstellung Klient](<img/image153.png>)
 
-<span id="vierteljahresbetrage" class="legacy-anchor" aria-hidden="true"></span>
 ### Vierteljahresbeträge
 
 Wird der Menüpunkt *Vierteljahresbeträge* angewählt werden die
@@ -137,7 +135,6 @@ zu welchem Zeitpunkt eine Abgabenart fällig ist.
 
 ![Zahlunsgplan Klient](<img/image155.png>)
 
-<span id="abruf-zeitraum-auswahlen" class="legacy-anchor" aria-hidden="true"></span>
 ### Abruf-Zeitraum auswählen
 
 Mit einem Klick auf den Button *Abruf konfigurieren* kann festgelegt

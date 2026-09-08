@@ -3,7 +3,6 @@ title: Pauschalstatistik
 program: HONNext
 ---
 
-<span id="pauschalstatistik" class="legacy-anchor" aria-hidden="true"></span>
 
 Über den Menüpunkt *Auswertungen / Pauschalstatistik Allgemein* stehen
 Ihnen alle Zeilen in Bezug zur Pauschalverrechnung für Auswertungen zur

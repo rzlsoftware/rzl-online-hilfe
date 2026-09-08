@@ -3,7 +3,6 @@ title: Leistungen umbuchen
 program: HONNext
 ---
 
-<span id="leistungen-umbuchen" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit der Funktion *Leistungen umbuchen* haben Sie die Möglichkeit, mehrere Erfassungszeilen gesammelt zu ändern. Der Dialog unterteilt sich in zwei Hälften. Auf der linken Seite müssen Sie vorab eingrenzen, welche Leistungen Sie ändern möchten **(1)**. Hier haben Sie die Möglichkeit, auf das Erfassungsdatum, den Mitarbeiter, die Tätigkeit und den Klienten einzuschränken.
 

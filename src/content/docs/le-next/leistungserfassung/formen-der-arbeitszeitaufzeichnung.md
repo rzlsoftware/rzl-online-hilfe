@@ -3,7 +3,6 @@ title: Formen der Arbeitszeitaufzeichnung
 program: LENext
 ---
 
-<span id="formen-der-arbeitszeitaufzeichnung" class="legacy-anchor" aria-hidden="true"></span>
 
 -   *Beginn, Ende und Pausen pro Tag erfassen*
 

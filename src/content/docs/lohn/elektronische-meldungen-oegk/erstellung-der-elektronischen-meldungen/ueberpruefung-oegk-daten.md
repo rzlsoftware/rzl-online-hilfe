@@ -3,7 +3,6 @@ title: Überprüfung ÖGK-Daten
 program: LOHN
 ---
 
-<span id="uberprufung-ogk-daten" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](img/image190.png)
 

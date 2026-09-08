@@ -3,9 +3,7 @@ title: Wirtschaftsjahr bearbeiten
 program: FIBUNext
 ---
 
-<span id="wirtschaftsjahr-bearbeiten" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="wirtschaftsjahr-bearbeiten_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Wirtschaftsjahr bearbeiten
 
 In den Stammdaten des Klienten können Sie über den Menüpunkt *Wirtschaftsjahre* den Zeitraum des jeweils letzten Wirtschaftsjahres bearbeiten.

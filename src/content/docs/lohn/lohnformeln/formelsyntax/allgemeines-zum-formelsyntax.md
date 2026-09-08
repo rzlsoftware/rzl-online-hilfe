@@ -3,7 +3,6 @@ title: Allgemeines zum Formelsyntax
 program: LOHN
 ---
 
-<span id="allgemeines-zum-formelsyntax" class="legacy-anchor" aria-hidden="true"></span>
 
 Für die Anlage von Lohnformeln wird der folgende Bildschirm aufgerufen
 

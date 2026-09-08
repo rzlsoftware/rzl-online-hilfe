@@ -3,7 +3,6 @@ title: Allgemeines
 program: HONNext
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
 Standardmäßig wird die RZL-Standard-Notenvorlage bei der Auslieferung
 des Programms mitgeliefert. Diese Standardvorlage muss zuerst
@@ -29,7 +28,6 @@ Notenvorlagen* eingespielt werden. Diese finden Sie dann im Bereich
 
 ![](<img/image334.png>)
 
-<span id="allgemeines_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Allgemeines
 
 Die RZL-Standardvorlage und alle weiteren von Ihnen angelegten bzw.

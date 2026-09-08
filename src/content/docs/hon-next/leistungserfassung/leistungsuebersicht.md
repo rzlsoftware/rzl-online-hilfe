@@ -3,7 +3,6 @@ title: Leistungsübersicht
 program: HONNext
 ---
 
-<span id="leistungsubersicht" class="legacy-anchor" aria-hidden="true"></span>
 
 Über den Menüpunkt *Leistungserfassung / Leistungsübersicht* stehen
 Ihnen alle erfassten Leistungen für Auswertungen zur Verfügung.

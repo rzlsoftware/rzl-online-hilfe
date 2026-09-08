@@ -3,7 +3,6 @@ title: Sonstige Funktionen
 program: LENext
 ---
 
-<span id="sonstige-funktionen" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Liste exportieren
 

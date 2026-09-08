@@ -3,7 +3,6 @@ title: Beendigung von Dienstverhältnissen im Krankenstand
 program: LOHN
 ---
 
-<span id="beendigung-von-dienstverhaltnissen-im-krankenstand" class="legacy-anchor" aria-hidden="true"></span>
 
 Die hier bestehende Problematik, dass nach dem arbeitsrechtlichen Ende inklusive der Abmeldung der Dienstnehmer, weiterhin Bezüge aus der Entgeltfortzahlung erhalten muss, wird durch diese Änderung deutlich leichter umsetzbar.
 

@@ -3,7 +3,6 @@ title: Buchen mit abweichendem Umsatzsteuer-Monat
 program: FIBUNext
 ---
 
-<span id="buchen-mit-abweichendem-umsatzsteuer-monat" class="legacy-anchor" aria-hidden="true"></span>
 Geschäftsfälle, die mit abweichendem Umsatzsteuer-Monat berücksichtigt werden sollen (z.B. verspäteter Erhalt einer Rechnung für die bereits die UVA des betroffenen Monats abgegeben wurde), können durch Eingabe eines abweichenden USt-Monats im Programm erfasst werden.
 
 Beim Buchen kann im Feld **Datum** über die Taste **F11** das abweichende USt-Monat aktiviert werden. Unterhalb des Datums erscheint anschließend ein Eingabefeld, in dem jener Monat festgelegt wird, in dem die jeweilige Buchung in der UVA berücksichtigt werden soll.

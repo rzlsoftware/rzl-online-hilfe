@@ -3,7 +3,6 @@ title: WiEReG Workflow
 program: Board
 ---
 
-<span id="variante-1-wiereg-meldungen-mithilfe-von-wiederkehrenden-aufgaben" class="legacy-anchor" aria-hidden="true"></span>
 ## Variante 1 - WiEReG-Meldungen mithilfe von wiederkehrenden Aufgaben
 
 Bei dieser Variante legen Sie sich im Kanzlei-Informations-System eine wiederkehrende Aufgabe an. In dieser Aufgabenvorlage definieren Sie den Zeitpunkt der durchzuführenden WiEReg-Meldung, für die Klienten, wo eine Meldung erforderlich ist. Damit legen Sie also fest zu welchem Zeitpunkt eine Aufgabe an den zuständigen Mitarbeiter bei diesem Klienten generiert werden soll.
@@ -28,7 +27,6 @@ Definieren Sie innerhalb einer der beiden Aufgabenvorlagen eine Aktivität, kön
 Bei *Meldung Neu, Meldung mit Änderung im WiEReG und Meldung/Ergänzung mit Neuanlage / Änderung des Compliance Packages* kann die gleiche Aufgabenvorlage hinterlegt werden, da alle drei signalisieren, dass eine neue Meldung im USP durchgeführt wurde. Es wird daher in der Kurzanleitung für alle drei Eingabefelder von einer Aufgabe bzw. einer Aufgabenvorlage gesprochen.
 
 :::
-<span id="variante-2-wiereg-meldungen-mithilfe-eines-fixen-datums-zum-abruf-der-auszuge" class="legacy-anchor" aria-hidden="true"></span>
 ## Variante 2 - WiEReG-Meldungen mithilfe eines fixen Datums zum Abruf der Auszüge
 
 Bei dieser Variante definieren Sie in den Klientenstammdaten im RZL Board im Register *WiEReG/Einstellungen* bzw. klientenübergreifend über den Menüpunkt *Portale* ein Datum zu dem ein WiEReG-Auszug automatisiert abgerufen werden soll.
@@ -46,7 +44,6 @@ Anschließend führt der Mitarbeiter die WiEReG-Meldung bei dem Klienten im RZL 
 Nach erfolgter Meldung wird eine Aufgabe auf Basis der Aufgabenvorlage unter dem Eintrag Meldung Neu an den zuständigen Mitarbeiter generiert. Setzt diese/r die Aufgabe auf erledigt und ist diese Aufgabe bzw. die Aufgabenvorlage mit einer Aktivität verknüpft, können Sie mithilfe eines Klientenspiegels den Status der WiEReG-Meldungen überprüfen.
 Der Vorteil dieser Variante liegt darin, dass Sie keine eigene wiederkehrende Aufgabe pro Klienten erstellen müssen. Jedoch ist bei dieser Variante zu beachten, dass der entsprechende WiEReG-Auszug automatisiert bereits vor der erfolgten Meldung abgerufen wird.
 
-<span id="variante-3-wiereg-meldungen-mithilfe-der-aufgabenvorlage-meldepflicht-tritt-ein" class="legacy-anchor" aria-hidden="true"></span>
 ## Variante 3 - WiEReG-Meldungen mithilfe der Aufgabenvorlage Meldepflicht tritt ein
 
 Haben Sie im KIS unter Verwaltung/USP-Zuweisungen im Feld *Meldepflicht tritt ein* eine Aufgabenvorlage hinterlegt, wird automatisch vom KIS eine Aufgabe an den jeweilig zuständigen Mitarbeiter erstellt.

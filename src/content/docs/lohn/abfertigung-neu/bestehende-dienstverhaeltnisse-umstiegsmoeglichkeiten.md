@@ -3,7 +3,6 @@ title: Bestehende Dienstverhältnisse – Umstiegsmöglichkeiten
 program: LOHN
 ---
 
-<span id="bestehende-dienstverhaltnisse-umstiegsmoglichkeiten" class="legacy-anchor" aria-hidden="true"></span>
 
 Für bestehende Dienstverhältnisse besteht die Möglichkeit, auf das neue Abfertigungssystem umzusteigen. Es besteht kein Zwang zum Umstieg. Wenn die Dienstnehmer oder der Dienstgeber keinen Umstieg wünschen, bleibt das Dienstverhältnis weiterhin im alten System. Es müssen nicht alle Dienstnehmer auf das neue System wechseln, sondern es können auch nur einzelne Dienstnehmer umsteigen.
 

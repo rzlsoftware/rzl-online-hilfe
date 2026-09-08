@@ -3,9 +3,7 @@ title: FA-Überweisungsliste
 program: FIBUNext
 ---
 
-<span id="fa-uberweisungsliste" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="ausdruck-fa-uberweisungsliste" class="legacy-anchor" aria-hidden="true"></span>
 ### Ausdruck FA-Überweisungsliste
 
 Unter *Ausdruck / FA-Überweisungsliste* kann eine Finanzamt-Überweisungliste (für das USt. Land Österreich) gedruckt werden.

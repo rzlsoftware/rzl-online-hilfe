@@ -3,9 +3,7 @@ title: Krankenstandsbescheinigungen
 program: LOHN
 ---
 
-<span id="krankenstandsbescheinigungen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="krankenstandsbescheinigungen-herunterladen-und-ubernehmen" class="legacy-anchor" aria-hidden="true"></span>
 ## Krankenstandsbescheinigungen herunterladen und übernehmen
 
 Der Programmteil *Klient / Elektronische Übermittlung / Krankenstandsbescheinigungen* zeigt die Dienstnehmer an, für die elektronische Krankenstandsbescheinigungen vorhanden sind.

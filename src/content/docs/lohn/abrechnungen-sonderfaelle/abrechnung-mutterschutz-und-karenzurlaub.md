@@ -3,7 +3,6 @@ title: Abrechnung Mutterschutz/Karenzurlaub
 program: LOHN
 ---
 
-<span id="abrechnung-mutterschutzkarenzurlaub" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Abrechnung für Dienstnehmerinnen mit Wochengeldbezug bzw. beim Antritt Karenzurlaub wurde vereinfacht und auch die Abwicklung der Meldungen erleichtert. Hierfür wurden im Abrechnungsbildschirm *Austritt* neue Eingabefelder für den Bereich *Mutterschutz/Karenz* geschaffen.
 
@@ -55,7 +54,6 @@ Mit Hilfe der Option *Dienstnehmerin geht in Karenz* die automatisch durch das P
 
 Wird die letzte Abrechnung dann abgespeichert, erhalten Sie vom Programm wie gewohnt die Abfrage, ob die Abmeldung in die ÖGK-Datei gestellt werden soll. Der L16 für diese Dienstnehmerin ist unverändert erst am Ende des Jahres fällig und wird mit den restlichen Dienstnehmern per Monat 12 ausgegeben.
 
-<span id="erneuter-mutterschutz-wahrend-karenzurlaub" class="legacy-anchor" aria-hidden="true"></span>
 ## Erneuter Mutterschutz während Karenzurlaub
 
 Tritt bei einer Dienstnehmerin während des laufenden Karenzurlaubs erneut ein Mutterschutz ein, ist sie für die Betriebliche Vorsorge wieder bei der ÖGK anzumelden.

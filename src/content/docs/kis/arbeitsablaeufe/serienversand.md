@@ -15,7 +15,6 @@ die Bereiche *Empfängerlisten verwalten*, *Serienbrief erstellen* und
 
 ![Serienversand](<img/image347.png>)
 
-<span id="empfangerlisten-verwalten" class="legacy-anchor" aria-hidden="true"></span>
 ## Empfängerlisten verwalten 
 
 Um einen Serienbrief zu erstellen, muss im ersten Schritt eine
@@ -44,7 +43,6 @@ in dem Sie die gewünschte Empfängerliste markieren und die Schaltfläche
 *Ausgewählte Empfängerliste duplizieren* betätigen. Die Empfängerliste
 können Sie jedoch auch über das Kontextmenü duplizieren.
 
-<span id="anlegen-einer-neuen-empfangerliste" class="legacy-anchor" aria-hidden="true"></span>
 ### Anlegen einer neuen Empfängerliste
 
 Wird eine Empfängerliste neu angelegt, so ist im ersten Schritt zu
@@ -93,7 +91,6 @@ zum gewünschten Ergebnis führen, können Sie alle Einträge mit STRG + A
 auswählen und mit dem Pfeil zur Empfängerliste hinzufügen. Das Hinzufügen zur Empfängerliste ist auch über Drag &
 Drop möglich.
 
-<span id="hinzufugen-eines-klientenperson-zu-einer-empfangerliste-in-den-stammdaten" class="legacy-anchor" aria-hidden="true"></span>
 #### Hinzufügen eines Klienten/Person zu einer Empfängerliste in den Stammdaten
 
 Sie können neben der Erstellung/Bearbeitung einer Empfängerliste im
@@ -254,7 +251,6 @@ der Empfängerliste befüllt. Wenn Sie sich eine neue Wordvorlage anlegen,
 würden wir Ihnen jedoch empfehlen, mit den neuen Platzhaltern (beginnend
 mit RZL) zu arbeiten.
 
-<span id="hinweise-fur-die-erstellung-von-wordvorlagen" class="legacy-anchor" aria-hidden="true"></span>
 #### Hinweise für die Erstellung von Wordvorlagen
 
 Möchten Sie eine Seitennummerierung je Serienbrief, müssen Sie in der
@@ -273,7 +269,6 @@ Wordvorlage (.dotx) abspeichern.
 Wenn Sie beim Abspeichern den Dateityp Wordvorlage (.dotx) gewählt haben, wird Ihnen automatisch der Speicherort „Benutzerdefinierte Office-Vorlagen“ ausgewählt, auch wenn Sie zuvor bereits einen anderen Speicherort ausgewählt hatten. Wählen Sie daher am besten zuerst den Dateityp aus und dann den gewünschten Speicherort.
 
 :::
-<span id="wordvorlagen-fur-serien-e-mails" class="legacy-anchor" aria-hidden="true"></span>
 ### Wordvorlagen für Serien-E-Mails
 
 Wenn Sie ein Serien-E-Mail im RZL Board erstellen, können Sie ebenfalls

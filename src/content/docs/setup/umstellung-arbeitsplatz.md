@@ -3,7 +3,6 @@ title: Umstellung Einzelplatz auf Netzwerkinstallation (ab 2 Arbeitsplätze)
 program: setup
 ---
 
-<span id="umstellung-einzelplatz-auf-netzwerkinstallation-ab-2-arbeitsplatze" class="legacy-anchor" aria-hidden="true"></span>
 
 Siehe Kapitel [Installation übertragen](/setup/installation-uebertragen/)
 

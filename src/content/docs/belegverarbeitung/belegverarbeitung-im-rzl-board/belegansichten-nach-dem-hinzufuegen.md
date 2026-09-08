@@ -3,7 +3,6 @@ title: Belegansichten nach dem Hinzufügen der Belege
 program: Belegverarbeitung
 ---
 
-<span id="belegansichten-nach-dem-hinzufugen-der-belege" class="legacy-anchor" aria-hidden="true"></span>
 
 Über den Menüeintrag Belege finden Sie die Beleglisten *Ungebuchte*
 Belege / *Gebuchte Belege.*

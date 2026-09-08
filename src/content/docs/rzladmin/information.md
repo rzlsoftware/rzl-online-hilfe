@@ -3,7 +3,6 @@ title: Informationen zur Installation und dem Update der Programme
 program: rzladmin
 ---
 
-<span id="informationen-zur-installation-und-dem-update-der-programme" class="legacy-anchor" aria-hidden="true"></span>
 
 In diesem Bereich finden Sie die wichtigsten Informationen zu den RZL-Programmen
 und den dazugehörigen Verbindungen.
@@ -42,7 +41,6 @@ Bei Problemen wird ein **rotes Kreuz** angezeigt.
 
 ![RZL Dienst](img/Informationen_RZLDienst.png)
 
-<span id="rzl-dienst-verwaltung" class="legacy-anchor" aria-hidden="true"></span>
 ## RZL Dienst - Verwaltung
 
 Die Verwaltung des RZL-Dienstes bietet Ihnen folgende Funktionen:
@@ -65,7 +63,6 @@ eingeblendet werden.
 
 ![Update der Programme](img/Informationen_Update.png)
 
-<span id="zusatzliche-konfigurationen-sql-datenbank" class="legacy-anchor" aria-hidden="true"></span>
 ### Zusätzliche Konfigurationen (SQL-Datenbank)
 
 Dieser Abschnitt richtet sich an den EDV-Verantwortlichen oder Netzwerktechniker

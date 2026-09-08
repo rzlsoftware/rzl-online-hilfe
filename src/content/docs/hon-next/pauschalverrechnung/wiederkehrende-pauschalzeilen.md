@@ -3,7 +3,6 @@ title: Wiederkehrende Pauschalzeilen
 program: HONNext
 ---
 
-<span id="wiederkehrende-pauschalzeilen" class="legacy-anchor" aria-hidden="true"></span>
 
 Wiederkehrende Pauschalzeilen werden benötigt, wenn ein Klient z.B.
 monatlich pauschal abgerechnet wird. Es werden hier die benötigen
@@ -131,7 +130,6 @@ Mit 31.10.2023 generiert der RZL-Dienst automatisch eine neue
 Pauschalzeile mit Datum 31.10.2023 für den Projektzeitraum September
 2023 usw.
 
-<span id="wiederkehrende-pauschalzeile-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ## Wiederkehrende Pauschalzeile löschen
 
 Sollte eine Wiederkehrende Pauschalzeile gelöscht werden, können Sie
@@ -159,7 +157,6 @@ werden.
 
 ![](<img/image272.png>)
 
-<span id="wiederkehrende-pauschalzeile-betrage-andern" class="legacy-anchor" aria-hidden="true"></span>
 ## Wiederkehrende Pauschalzeile Beträge ändern
 
 Bei den wiederkehrenden Pauschalzeilen steht Ihnen die Option *Beträge

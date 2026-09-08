@@ -3,7 +3,6 @@ title: Erstellung und Ausdruck eines EFZ-Antrages (AUVA-Zuschuss)
 program: LOHN
 ---
 
-<span id="erstellung-und-ausdruck-eines-efz-antrages-auva-zuschuss" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Neuanlage eines EFZ-Antrages
 

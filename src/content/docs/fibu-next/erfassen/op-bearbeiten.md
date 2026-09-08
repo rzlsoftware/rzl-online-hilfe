@@ -3,9 +3,7 @@ title: OP Bearbeiten
 program: FIBUNext
 ---
 
-<span id="op-bearbeiten" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="op-bearbeiten_1" class="legacy-anchor" aria-hidden="true"></span>
 ### OP Bearbeiten
 
 Dieser Programmteil ermöglicht Ihnen die händische Bearbeitung von Offenen Posten. Dies kann nützlich sein, wenn Sie bspw. während des Jahres mit der Offenen Postenverwaltung (siehe Kapitel [Offene Postenverwaltung](/fibu-next/op-verwaltung/)) beginnen.
@@ -39,7 +37,6 @@ Sie können händisch angelegte Offene Posten dadurch erkennen, da bei diesen ei
 Im Register *OP bearbeiten* können Sie auch direkt verschiedene Aufrufe öffnen ***(1)***, zum vorherigen oder nächsten Konto wechseln ***(2)*** oder die zugehörigen Belege aufrufen bzw zuordnen ***(3)***.
 
 
-<span id="op-bearbeiten-funktionen" class="legacy-anchor" aria-hidden="true"></span>
 ### OP bearbeiten – Funktionen
 
 
@@ -62,7 +59,6 @@ Damit beim OP-Ausgleich der Skonto richtig zugeordnet werden kann, sind bei der 
 
 
 :::
-<span id="op-nummer-andern" class="legacy-anchor" aria-hidden="true"></span>
 #### OP Nummer ändern
 
 Markieren Sie den betreffenden offenen Posten und wählen Sie anschließend die Schaltfläche *OP Nummer ändern.* Sie gelangen automatisch in das Feld OP-Nr. und können diese neu eingeben bzw. ändern.
@@ -71,7 +67,6 @@ Markieren Sie den betreffenden offenen Posten und wählen Sie anschließend die 
 
 Wurde bei einer Zahlung der offenen Posten nicht ausgeglichen, können Sie unter *OP bearbeiten* den offenen Posten und die zugehörige Zahlung auswählen, mit *OP ausgleichen* den offenen Posten ausgleichen und einen eventuell anfallenden Skonto verbuchen.
 
-<span id="op-loschen" class="legacy-anchor" aria-hidden="true"></span>
 #### OP löschen
 
 Es besteht auch die Möglichkeit einen offenen Posten zu löschen. Markieren Sie dazu die betreffenden offenen Posten und löschen diese mit der Schaltfläche *OP löschen*.

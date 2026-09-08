@@ -15,7 +15,6 @@ Die Anforderung von WiEReG-Auszügen können Sie über den Menüpunkt
 
 ![USP](<img/image191.png>)
 
-<span id="auszuge-manuell-anfordern" class="legacy-anchor" aria-hidden="true"></span>
 ## Auszüge manuell anfordern
 
 Mit einem Klick auf den Button Auszug anfordern haben Sie die
@@ -72,7 +71,6 @@ Kanzleiinformationssystems aufrufen.
 
 ![Auszug in Dokumente](<img/image195.png>)
 
-<span id="auszuge-automatisch-anfordern" class="legacy-anchor" aria-hidden="true"></span>
 ## Auszüge automatisch anfordern
 
 Mithilfe der Schaltfläche Klienten erhalten Sie eine Liste aller Ihrer

@@ -3,10 +3,8 @@ title: Modul Überweisungen (ab 2.26.9)
 program: Belegverarbeitung
 ---
 
-<span id="modul-uberweisungen-ab-2269" class="legacy-anchor" aria-hidden="true"></span>
 Mit dem Modul *Überweisungen* erledigen Sie die Zahlung Ihrer offenen Eingangsbelege bequem direkt in der RZL Belegverarbeitung. Sobald ein Beleg zur Zahlung freigegeben ist, können Sie ihn per Überweisungslauf begleichen, unabhängig davon, ob er bereits gebucht ist oder nicht. Die Überweisungen können dabei, sofern für Ihre Bankverbindung eingerichtet, direkt über die EBICS-Schnittstelle bereitgestellt werden - alternativ können Sie eine Überweisungsdatei für den manuellen Upload ins Onlinebanking erzeugen.
 
-<span id="uberweisungslauf-starten" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisungslauf starten
 Öffnen Sie zunächst den gewünschten Klienten. Der Überweisungslauf kann in folgenden Menüpunkten durch Klick auf die neue Schaltfläche *Neuer Überweisungslauf* gestartet werden: 
 
@@ -23,7 +21,6 @@ Unabhängig davon, über welche Ansicht Sie einsteigen, öffnet sich anschließe
 In der darauffolgenden Belegliste stehen Ihnen dabei stets sowohl gebuchte als auch ungebuchte Belege zur Auswahl, unabhängig davon, über welche Ansicht Sie eingestiegen sind.
 
 :::
-<span id="einstellungen-fur-den-uberweisungslauf" class="legacy-anchor" aria-hidden="true"></span>
 ## Einstellungen für den Überweisungslauf
 Bevor die Belegliste angezeigt wird, treffen Sie die grundlegenden Einstellungen für den Überweisungslauf:
 
@@ -53,7 +50,6 @@ Hinterlegte Zahlungs- und Skontofristen werden ebenfalls angezeigt und ein gült
 
 Die gewohnten Filter- und Sortierfunktionen stehen Ihnen auch hier zur Verfügung.
 
-<span id="uberweisungsdetails-bearbeiten" class="legacy-anchor" aria-hidden="true"></span>
 ### Überweisungsdetails bearbeiten
 Folgende Felder können im Detailbereich pro Beleg manuell bearbeitet werden:
 
@@ -70,7 +66,6 @@ Folgende Felder können im Detailbereich pro Beleg manuell bearbeitet werden:
 Die Schaltfläche *Erstellen* ist so lange deaktiviert, bis alle angehakten Zeilen vollständig und gültig sind.
 
 :::
-<span id="uberweisungsdatei-erstellen" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisungsdatei erstellen
 Über die Schaltfläche *Erstellen* wird die Überweisungsdatei erzeugt - je nach Einstellung als Datei am gewählten Speicherort oder direkt über EBICS. Bei allen enthaltenen Belegen wird anschließend automatisch:
 
@@ -79,7 +74,6 @@ Die Schaltfläche *Erstellen* ist so lange deaktiviert, bis alle angehakten Zeil
 
 Die Belege gelten damit als bezahlt und werden in einem künftigen Überweisungslauf nicht mehr vorgeschlagen.
 
-<span id="uberweisungslauf-zurucksetzen" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisungslauf zurücksetzen
 Wurde ein Überweisungslauf versehentlich oder fehlerhaft erstellt, kann er über die Schaltfläche *Überweisungslauf zurücksetzen* wieder rückgängig gemacht werden:
 

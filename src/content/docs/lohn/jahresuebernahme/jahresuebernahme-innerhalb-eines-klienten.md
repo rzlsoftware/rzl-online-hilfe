@@ -3,7 +3,6 @@ title: Jahresübernahme innerhalb eines Klienten
 program: LOHN
 ---
 
-<span id="jahresubernahme-innerhalb-eines-klienten" class="legacy-anchor" aria-hidden="true"></span>
 
 Zur Durchführung der Jahresübernahme muss der Klient geöffnet sein.
 

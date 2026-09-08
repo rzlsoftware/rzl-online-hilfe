@@ -3,7 +3,6 @@ title: Dokumentenbereiche
 program: Klientenportal
 ---
 
-<span id="dokumentenbereiche" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Benutzerdefinierte Dokumentenbereiche mit RZL KIS/Board
 

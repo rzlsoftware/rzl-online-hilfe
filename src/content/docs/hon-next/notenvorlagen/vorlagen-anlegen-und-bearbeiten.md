@@ -57,7 +57,6 @@ Hinweis mit den Verwendungen der Notenvorlage.
 
 ![](<img/image340.png>)
 
-<span id="vorlage-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ## Vorlage löschen
 
 Notenvorlagen können auch gelöscht werden. Eine Löschung ist nur

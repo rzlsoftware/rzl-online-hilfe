@@ -3,7 +3,6 @@ title: Start-Up-Mitarbeiterbeteiligung (ab 2024)
 program: LOHN
 ---
 
-<span id="start-up-mitarbeiterbeteiligung-ab-2024" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Allgemeines
 
@@ -76,7 +75,6 @@ Für Entgelte, die mit dem festen Satz von 27,50 % zu versteuern sind, besteht
 
 - keine DZ-Pflicht 
 
-<span id="abrechnungsbildschirm-fixe-lohnarten-start-up-mitarbeiterbeteiligung-ab-2024" class="legacy-anchor" aria-hidden="true"></span>
 ## Abrechnungsbildschirm Fixe Lohnarten – Start-Up-Mitarbeiterbeteiligung (ab 2024)
 
 ![Image](<img/image590.png>){width="500"}
@@ -117,7 +115,6 @@ Soll die Start-Up-Mitarbeitergewinnbeteiligung begünstigt ausgezahlt werden, da
 
 Soll die Start-Up-Mitarbeiterbeteiligung nicht begünstigt ausgezahlt werden, dann aktivieren Sie dieses Feld. Es wird somit der gesamte Auszahlungsbetrag nach dem laufenden Tarif § 67 (10) versteuert.
 
-<span id="begunstigte-auszahlung-einer-start-up-mitarbeiterbeteiligung" class="legacy-anchor" aria-hidden="true"></span>
 ## Begünstigte Auszahlung einer Start-Up-Mitarbeiterbeteiligung
 
 Tragen Sie im Bildschirmteil *Start-Up-Mitarbeiterbeteiligung (ab 2024)* beim *Auszahlungsbetrag*, den Verkaufserlös bzw. gemeinen Wert ein. Darunter definieren Sie, dass es sich um eine *begünstigte Auszahlung* handelt. Somit erscheint auf der Abrechnung eine Aufteilung der Beteiligung. Begünstigt sind 75 % vom Auszahlungsbetrag. 25 % der Beteiligung sind nicht begünstigt und müssen mit dem laufenden Tarif versteuert werden.
@@ -153,7 +150,6 @@ Die gesamte Sozialversicherung darf nur beim laufenden Tarif in Abzug gebracht w
 Die Start-Up-Mitarbeiterbeteiligung darf nicht auf das Jahressechstel bzw. Kontrollsechstel angerechnet werden.
 
 :::
-<span id="nicht-begunstigte-auszahlung-einer-start-up-mitarbeiterbeteiligung" class="legacy-anchor" aria-hidden="true"></span>
 ## Nicht begünstigte Auszahlung einer Start-Up-Mitarbeiterbeteiligung
 
 Tragen Sie im Bildschirmteil *Start-Up-Mitarbeiterbeteiligung (ab 2024)* beim *Auszahlungsbetrag*, den Verkaufserlös bzw. gemeinen Wert ein. Darunter definieren Sie, dass es sich um eine *Nicht begünstigte Auszahlung* handelt. Bei einer Nicht begünstigten Auszahlung wird der gesamte Auszahlungsbetrag nach dem laufenden Tarif versteuert.
@@ -204,7 +200,6 @@ Für die **nicht begünstigte Auszahlung** benötigen Sie nur eine freie Lohnart
 
 ![Image](<img/image595.png>){width="500"}
 
-<span id="beendigung-des-dienstverhaltnisses-ohne-zufluss-67a-abs-3" class="legacy-anchor" aria-hidden="true"></span>
 ## Beendigung des Dienstverhältnisses ohne Zufluss § 67a Abs. 3
 
 Kommt es zu keiner Veräußerung der Anteile bis zum Ende des Dienstverhältnisses müssen Sie bei den *Fixen* *Lohnarten* im Bereich *Start-Up-Mitarbeiterbeteiligung (ab 2024)* das Häkchen bei ***Beendigung DV ohne Zufluss § 67a Abs. 3*** setzen. Dieses Häkchen aktiviert die Berechnung der Sozialversicherung für die Start-Up-Mitarbeiterbeteiligung. Die ÖGK will auch bei einem Austritt ohne Veräußerung eine fiktive Sozialversicherung einbehalten. Diese fiktive Sozialversicherung ist die 30-fache tägliche Höchstbeitragsgrundlage zur Sozialversicherung. (Im Jahr 2024 beträgt die tägliche HBGL EUR 202,00.)

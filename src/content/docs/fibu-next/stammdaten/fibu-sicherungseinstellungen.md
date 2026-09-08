@@ -3,7 +3,6 @@ title: FIBU Sicherungseinstellungen
 program: FIBUNext
 ---
 
-<span id="fibu-sicherungseinstellungen" class="legacy-anchor" aria-hidden="true"></span>
 
 ### Automatische Sicherungen
 

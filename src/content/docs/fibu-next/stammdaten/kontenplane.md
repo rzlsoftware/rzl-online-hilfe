@@ -3,9 +3,7 @@ title: Kontenpläne
 program: FIBUNext
 ---
 
-<span id="kontenplane" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="kontenplane_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Kontenpläne
 
 
@@ -177,7 +175,6 @@ Wurde in der Liste der Kontenpläne ein Kontenplan, können Sie diesen über die
 
 Haben Sie in der Liste der Kontenpläne einen Kontenplan ausgewählt und klicken auf die Schaltfläche *Kontenplan umbenennen* ***(2)***, können Sie den Titel des ausgewählten Kontenplanes verändern. Ein Kontenplan kann auch durch Klick auf den Titel des Kontenplans umbenannt werden.
 
-<span id="kontenplan-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Kontenplan löschen
 
 Haben Sie in der Liste der Kontenpläne einen Kontenplan ausgewählt und klicken auf die Schaltfläche *Kontenplan löschen* ***(3)***, wird der Kontenplan gelöscht. Der Kontenplan kann ebenso mithilfe der ENTF-Taste gelöscht werden.
@@ -191,7 +188,6 @@ Hier können Sie die Bezeichnung für den zu duplizierenden Kontenplan vergeben.
 
 ![Image](<img/NeuesElement76.png>){width="500"}
 
-<span id="kontenplan-von-klient-ubernehmen" class="legacy-anchor" aria-hidden="true"></span>
 ### Kontenplan von Klient übernehmen
 
 Klicken Sie auf die Schaltfläche *Kontenplan von Klient übernehmen* ***(5)*** haben Sie die Möglichkeit, den bei einem Klienten hinterlegten Kontenplan in die Liste der Kanzleikontenpläne zu übernehmen.

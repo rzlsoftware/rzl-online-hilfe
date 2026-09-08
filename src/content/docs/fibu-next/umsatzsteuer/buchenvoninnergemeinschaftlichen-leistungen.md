@@ -3,9 +3,7 @@ title: Buchen von innergemeinschaftlichen Leistungen
 program: FIBUNext
 ---
 
-<span id="buchen-von-innergemeinschaftlichen-leistungen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="buchen-von-innergemeinschaftlichen-leistungen_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Buchen von innergemeinschaftlichen Leistungen
 
 

@@ -3,7 +3,6 @@ title: Zuordnungsmöglichkeiten innerhalb der Abrechnungsbildschirme
 program: LOHN
 ---
 
-<span id="zuordnungsmoglichkeiten-innerhalb-der-abrechnungsbildschirme" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Fixe Lohnarten
 
@@ -63,7 +62,6 @@ program: LOHN
 
 - Betrag
 
-<span id="uberstunden" class="legacy-anchor" aria-hidden="true"></span>
 ## Überstunden
 
 - Überstunden-Grundlohn

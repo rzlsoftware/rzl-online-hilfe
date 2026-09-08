@@ -3,7 +3,6 @@ title: Sonderzahlungsrückstellung
 program: LOHN
 ---
 
-<span id="sonderzahlungsruckstellung" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Sonderzahlungsrückstellung wird im Programmteil *Ausdruck / Rückstellungen / Sonderzahlungsrückstellung* ausgedruckt und verwaltet. Der Ausgangsdialog entspricht jenem der anderen Rückstellungen.
 
@@ -19,7 +18,6 @@ Durch Anwahl der Schaltfläche *Weiter* wird das Listenfeld mit sämtlichen Dien
 
 Die Felder der Sonderzahlungsrückstellung funktionieren sinngemäß, wie bereits beispielsweise bei der Zeitausgleichsrückstellung beschrieben.
 
-<span id="aufruf-berechnungsblatt-sonderzahlungsruckstellung" class="legacy-anchor" aria-hidden="true"></span>
 ## Aufruf Berechnungsblatt Sonderzahlungsrückstellung
 
 Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung dieses 

@@ -3,7 +3,6 @@ title: Verwaltung in der FIBU Next
 program: Reporting
 ---
 
-<span id="verwaltung-in-der-fibu-next" class="legacy-anchor" aria-hidden="true"></span>
 
 Wenn kein Klient ausgewählt ist, können in der FIBU Next unter dem Menüpunkt *Reports* die allgemeinen Report-Einstellungen vorgenommen werden.
 
@@ -88,7 +87,6 @@ Um die Gruppe umzubenennen, wählen Sie die Überschrift *Ohne Gruppe* aus und k
 
 Mit der Funktion *Report umbenennen* kann die Bezeichnung eines bestehenden Reports geändert werden. Nach Auswahl der Funktion wird der Name zur Bearbeitung geöffnet.
 
-<span id="report-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Report löschen
 
 Um einen Report zu entfernen, wählen Sie *Report löschen*. Der Report wird anschließend aus der Liste entfernt.
@@ -97,7 +95,6 @@ Um einen Report zu entfernen, wählen Sie *Report löschen*. Der Report wird ans
 
 Mit *Report duplizieren* kann ein bestehender Report kopiert werden. Nach Auswahl der Funktion öffnet sich ein Dialogfenster zur Vergabe einer neuen Bezeichnung. Der duplizierte Report wird anschließend in der Reportliste angezeigt und kann über Report bearbeiten weiter angepasst werden.
 
-<span id="report-uberspielen" class="legacy-anchor" aria-hidden="true"></span>
 ### Report überspielen
 
 Für das Überspielen eines Reports stehen zwei Möglichkeiten zur Verfügung:
@@ -105,7 +102,6 @@ Für das Überspielen eines Reports stehen zwei Möglichkeiten zur Verfügung:
 - Überspielen auf einen oder mehrere Klienten und Wirtschaftsjahre
 - Überspielen in die allgemeine Report-Verwaltung
 
-<span id="report-auf-klient-uberspielen" class="legacy-anchor" aria-hidden="true"></span>
 #### Report auf Klient überspielen
 
 Nach Auswahl von *Report auf Klient überspielen* erscheint ein Dialogfenster mit einer Übersicht aller Klienten und Wirtschaftsjahre. Es können ein oder mehrere Klienten ausgewählt werden.
@@ -122,7 +118,6 @@ Unter *Falls vorhanden* stehen folgende Optionen zur Verfügung:
 Reports die nach der Jahresübernahme neu erstellt oder bearbeitet wurden, müssen ebenfalls über diese Funktion in das gewünschte Klientenjahr übernommen werden.
 
 :::
-<span id="import-export" class="legacy-anchor" aria-hidden="true"></span>
 ### Import - Export
 
 #### Report importieren
@@ -145,7 +140,6 @@ Anschließend wird die Druckvorschau des Reports geöffnet.
 
 Der Report kann wahlweise über folgende Ausgabemöglichkeiten erstellt werden: Standarddrucker, Sofortdruck oder RZL-PDF-Drucker.
 
-<span id="ubergabe-von-reports-aus-fibu-klassik-in-fibu-next" class="legacy-anchor" aria-hidden="true"></span>
 ## Übergabe von Reports aus FIBU Klassik in FIBU Next
 
 Wird ein neuer Klient aus der FIBU Klassik in die FIBU Next übergeben (*Klient / Übergabe an FIBU Next / Klienten*), werden die im Klienten gespeicherten Reports automatisch mitübernommen.

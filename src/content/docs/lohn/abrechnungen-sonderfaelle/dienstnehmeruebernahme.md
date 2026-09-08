@@ -3,7 +3,6 @@ title: Dienstnehmerübernahme
 program: LOHN
 ---
 
-<span id="dienstnehmerubernahme" class="legacy-anchor" aria-hidden="true"></span>
 
 In bestimmten Fällen, wie Insolvenzabrechnungen, AVRAG-Übernahmen usw. ist es notwendig, Dienstnehmer von einem Klienten auf einen anderen zu überspielen. Nachdem die Vorgehensweise im Detail sehr stark vom Einzelfall abhängt, fertigen Sie ggf. einen Sicherungsstand an und kontaktieren Sie den RZL-Support.
 
@@ -15,7 +14,6 @@ Nachdem in sehr vielen Fällen ein Naheverhältnis zwischen den Firmen bestehen 
 
 Jene Details, die sich verändert haben, wie z. B. der Wortlaut der Firma, die Steuernummer, die Beitragskontonummer sind über die *ZMV* oder das *RZL-Board* anzupassen.
 
-<span id="ubernahme-der-dienstnehmer" class="legacy-anchor" aria-hidden="true"></span>
 ## Übernahme der Dienstnehmer
 
 Die Übernahme der Dienstnehmer in einen anderen Klienten erfolgt im Programmteil *Bearbeiten / Übernahme / Dienstnehmer-Übernahme in anderen Klienten*. Die Übernahme der Dienstnehmer in den anderen Klienten kann mit *Wiedereintritt* oder *vollständige Übernahme* erfolgen.

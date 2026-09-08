@@ -3,7 +3,6 @@ title: Leistungen erfassen
 program: HONNext
 ---
 
-<span id="leistungen-erfassen" class="legacy-anchor" aria-hidden="true"></span>
 
 Grundsätzlich sind die Leistungen vom jeweiligen Mitarbeiter im Modul
 „LeMi“ (Leistungserfassung Mitarbeiter) zu erfassen. Dieser
@@ -83,7 +82,6 @@ der Wert verändert sowie eine Gegenüberstellung des alten und neuen
 Wertes.
 
 :::
-<span id="eingabedialog-neue-leistung-erfassen" class="legacy-anchor" aria-hidden="true"></span>
 ### Eingabedialog – Neue Leistung erfassen
 
 Mittels Mausklick auf die Schaltfläche „*Neue Leistung*“ im Ribbon oder
@@ -151,7 +149,6 @@ Aus obigem Beispiel können Sie einfach herausfinden, welchem
 Tarifschema, welcher Generation und mit welchem Tarif der Betrag
 berechnet wird.
 
-<span id="leistung-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Leistung löschen
 
 Mittels der Schaltfläche *Leistung löschen* oder mit Hilfe des

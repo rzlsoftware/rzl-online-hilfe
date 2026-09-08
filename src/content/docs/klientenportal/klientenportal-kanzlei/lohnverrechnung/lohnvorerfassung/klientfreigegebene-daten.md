@@ -3,7 +3,6 @@ title: Vom Klienten freigegebene Daten der Vorerfassung
 program: Klientenportal
 ---
 
-<span id="vom-klienten-freigegebene-daten-der-vorerfassung" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Klientenbereich werden vom Klientenbenutzer Daten für die Lohnverrechnung vorerfasst. Je nach Einstellung in den Klientenstammdaten des Klientenportals können
 Mindestangaben-Anmeldungen/Versichertenmeldungen reduziert als Eintritte an den Wirtschaftstreuhänder übermittelt werden. Ebenfalls ist die Erfassung von Austritten, laufenden Änderungen, Urlauben, Krankenständen und Zeitausgleich durch den Klienten im Portal möglich.

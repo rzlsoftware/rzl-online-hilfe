@@ -3,7 +3,6 @@ title: Zusammenfassende Meldung
 program: FIBUNext
 ---
 
-<span id="zusammenfassende-meldung" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Auswertung Zusammenfassende Meldung
 

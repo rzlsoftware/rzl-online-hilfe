@@ -3,7 +3,6 @@ title: Überweisungslauf
 program: FIBUNext
 ---
 
-<span id="uberweisungslauf-im-zahlungsverkehr" class="legacy-anchor" aria-hidden="true"></span>
 ### Überweisungslauf im Zahlungsverkehr
 
 Der Überweisungslauf dient dazu, auf Basis bereits eingebuchter Eingangsrechnungen von Lieferanten SEPA-Überweisungen zu erstellen. Abhängig von den Einstellungen können die Zahlungen entweder als Überweisungsdatei ausgegeben oder über EBICS an die Bank übertragen werden.
@@ -12,7 +11,6 @@ Der Überweisungslauf wird über das Menü **Zahlungsverkehr** aufgerufen.
 
 ![Überweisungslauf](image-5.png)
 
-<span id="einstellungen-uberweisungslauf" class="legacy-anchor" aria-hidden="true"></span>
 ## Einstellungen Überweisungslauf
 
 #### Bankverbindung
@@ -35,13 +33,11 @@ Kreditoren mit einer anderen Bankverbindung werden automatisch vom Zahlungslauf 
 
 ![Ziel](image-9.png)
 
-<span id="durchfuhrungsdatum" class="legacy-anchor" aria-hidden="true"></span>
 #### Durchführungsdatum
 Das Datum darf nicht in der Vergangenheit liegen. Als Vorschlag wird entweder das Tagesdatum oder ein in der Bankverbindung hinterlegtes Datum verwendet.
 
 ![Durchführungsdatum](image-10.png)
 
-<span id="stichtag-fur-offene-posten" class="legacy-anchor" aria-hidden="true"></span>
 #### Stichtag für offene Posten
 Der Stichtag steuert, welche offenen Posten in den Zahlungslauf einbezogen werden. Er wird standardmäßig aus der Bankverbindung übernommen, kann aber bei Bedarf übersteuert werden, um den Zahlungsumfang gezielt anzupassen.
 
@@ -62,16 +58,13 @@ Das ist ein zusätzlicher Filter, der die von der FIBU Bankverbindung ausgewähl
 
 ![Auswahl Kreditoren](image-14.png)
 
-<span id="uberweisungslauf" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisungslauf
 
-<span id="uberweisungslauf-auswahl-der-kreditoren" class="legacy-anchor" aria-hidden="true"></span>
 ### Überweisungslauf - Auswahl der Kreditoren
 Die Übersicht links zeigt alle Kreditoren, die eine SEPA-Überweisung hinterlegt haben und zur gewählten FIBU-Bankverbindung passen, sowie Kreditoren ohne hinterlegte Bankverbindung. Jeder Kreditor erscheint in einer eigenen Zeile.
 
 Am Ende wird die Gesamtsumme aller ausgewählten Kreditoren angezeigt.
 
-<span id="uberweisungslauf-offene-posten" class="legacy-anchor" aria-hidden="true"></span>
 ### Überweisungslauf - Offene Posten
 Die Übersicht rechts zeigt alle offenen Posten in einer Liste, jeweils eine Zeile pro OP.
 
@@ -82,7 +75,6 @@ Skonto, Teilzahlungen, Zahlungsreferenz oder Verwendungszweck können direkt ang
 
 ![Bearbeitung pro OP](image-6.png)
 
-<span id="uberweisungsdatei-erstellen" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisungsdatei erstellen
 Über die Schaltfläche **Erstellen** wird die Überweisungsdatei erzeugt - entweder als Datei oder direkt im EBICS-Modul. Für jeden OP, der vollständig übermittelt wurde, wird das Feld **Überweisung erstellt am** gesetzt.
 
@@ -100,7 +92,6 @@ Wird bei einem OP Skonto gewährt und enthält der OP eine Rechnung mit abweiche
 Ein Stapel kann nicht geöffnet oder bearbeitet werden.
 
 :::
-<span id="uberweisungslauf-zurucksetzen" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisungslauf zurücksetzen
 
 Über den Menüpunkt **Überweisungslauf zurücksetzen** kann ein bereits erstellter Überweisungslauf rückgängig gemacht werden. Nach Auswahl des Menüpunktes öffnet sich ein Dialog, indem die letzten Überweisungsläufe pro Wirtschaftsjahr angezeigt werden.

@@ -3,7 +3,6 @@ title: Installation Firmen-Board mit Basis Modul (Belege, FIBU Next)
 program: setup
 ---
 
-<span id="installation-firmen-board-mit-basis-modul-belege-fibu-next" class="legacy-anchor" aria-hidden="true"></span>
 
 Diese Beschreibung enthält Anleitungen zur Installation der
 Datenbank und der RZL Belegverarbeitung sowie Schritte zur
@@ -37,14 +36,12 @@ Lizenzieren Sie das Programm gemäß der Anleitung:
 Nach der Lizenzierung startet automatisch der *ZMV Assistent*.
 Lassen Sie die ZMV-Datenbank automatisch anlegen.
 
-<span id="rzl-datenubernahme" class="legacy-anchor" aria-hidden="true"></span>
 ## RZL Datenübernahme
 
 Falls eine Datensicherung vorhanden ist, übernehmen Sie diese
 jetzt ([siehe *RZL Daten wiederherstellen*](/setup/daten-wiederherstellen/)).
 Bei einer Neuinstallation können Sie diesen Punkt überspringen.
 
-<span id="zmv-daten-in-die-datenbank-ubernehmen" class="legacy-anchor" aria-hidden="true"></span>
 ## ZMV Daten in die Datenbank übernehmen
 
 Falls keine RZL Daten vorhanden sind, kann dieser Punkt
@@ -99,7 +96,6 @@ soll als *RZL Administrator* im *KIS* hinterlegt werden.
 8.  Hinterlegen Sie im *KIS* die *Mitarbeiterrechte* und
     *Benutzerrechte* über das Icon *Zu den KIS Mitarbeiterstammdaten*.
 
-<span id="installation-abschlieen" class="legacy-anchor" aria-hidden="true"></span>
 ## Installation abschließen
 
 1.  Starten Sie ein klassisches *RZL Programm*

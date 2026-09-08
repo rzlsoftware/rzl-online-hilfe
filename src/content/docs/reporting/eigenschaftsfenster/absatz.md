@@ -3,7 +3,6 @@ title: Absatz
 program: Reporting
 ---
 
-<span id="absatz" class="legacy-anchor" aria-hidden="true"></span>
 
 Durch das Markieren eines Textbereichs mittels Doppelklick auf einen Textbereich im linken Seitenbereich öffnet sich im rechten Bildschirmbereich das Eigenschaftsfenster zur Absatzformatierung. Dieses Fenster kann auch mit dem Kontextmenü *Absatzeigenschaften* oder im Menüpunkt *Ansicht Eigenschaftsfenster Absatz* geöffnet werden.
 

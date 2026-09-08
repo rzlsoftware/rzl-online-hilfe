@@ -3,7 +3,6 @@ title: Datenübernahme
 program: FIBUNext
 ---
 
-<span id="datenubernahme" class="legacy-anchor" aria-hidden="true"></span>
 
 ### aus der EA-Rechnung Klassik
 

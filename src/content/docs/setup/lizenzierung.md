@@ -3,7 +3,6 @@ title: RZL Lizenzierung
 program: setup
 ---
 
-<span id="rzl-lizenzierung" class="legacy-anchor" aria-hidden="true"></span>
 
 Beim ersten Start eines beliebigen RZL Programms werden Sie aufgefordert, die
 Installation zu lizenzieren. Geben Sie hierzu in der folgenden Eingabemaske

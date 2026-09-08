@@ -3,7 +3,6 @@ title: Stammdaten der Kanzleibenutzer
 program: Klientenportal
 ---
 
-<span id="stammdaten-der-kanzleibenutzer" class="legacy-anchor" aria-hidden="true"></span>
 
 
 Im Programmteil *Stammdaten / Kanzlei / Benutzer* werden Kanzleibenutzer angelegt und verwaltet.
@@ -91,7 +90,6 @@ Die Berechtigung ermöglicht die Datenaustausch der FIBU bzw. EA-Daten über das
 In der Übersicht können im linken Feld die gewünschten Klienten und im Feld *Berechtigungen wählen* die benötigte Dokumentbereiche und Berechtigungen zugeordnet werden. Mit den Schaltflächen *Hinzufügen* und *Entfernen* werden die ausgewählten Klienten und Berechtigungen in den darunter angeführten Dokumentbereichen und Berechtigungen angefügt bzw.
 gelöscht.
 
-<span id="vertretungen-verwalteninaktiv-setzen-und-loschen-von-kanzleibenutzern" class="legacy-anchor" aria-hidden="true"></span>
 ## Vertretungen verwalten/Inaktiv-Setzen und Löschen von Kanzleibenutzern
 
 

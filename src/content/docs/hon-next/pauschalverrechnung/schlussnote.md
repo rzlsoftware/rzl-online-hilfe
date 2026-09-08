@@ -3,7 +3,6 @@ title: Schlussnote
 program: HONNext
 ---
 
-<span id="schlussnote" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit dem Button *Schlussnote erstellen*, haben Sie die Möglichkeit über
 die abgerechneten und ausgeglichenen Pauschalen eine Schlussnote zu

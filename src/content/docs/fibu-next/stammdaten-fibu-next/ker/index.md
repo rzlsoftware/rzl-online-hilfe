@@ -3,9 +3,7 @@ title: KER Gliederungen
 program: FIBUNext
 ---
 
-<span id="ker-gliederungen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="ker-gliederungen_1" class="legacy-anchor" aria-hidden="true"></span>
 ## KER Gliederungen
 
 
@@ -96,7 +94,6 @@ Anschließend öffnet sich die ausgewählte KER-Gliederung im Detail und Sie hab
 
 Haben Sie in der Liste der KER-Gliederung eine Gliederung ausgewählt und klicken auf die Schaltfläche *Gliederung umbenennen* ***(2)***, können Sie den Titel der ausgewählten Gliederung verändern. Eine KER-Gliederung kann auch durch einen Mausklick auf den Titel der Gliederung umbenannt werden.
 
-<span id="gliederung-loschen" class="legacy-anchor" aria-hidden="true"></span>
 #### Gliederung löschen
 
 

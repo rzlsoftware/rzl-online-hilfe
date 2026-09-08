@@ -3,7 +3,6 @@ title: Freiwilligenpauschale § 3 Abs. 1 Zi. 42 lit a und b
 program: LOHN
 ---
 
-<span id="freiwilligenpauschale-3-abs-1-zi-42-lit-a-und-b" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Gesetzliche Grundlagen
 
@@ -94,7 +93,6 @@ Dieser Punkt ist zu aktivieren, wenn es sowohl Tätigkeiten gibt, wofür das kle
 
 Herr E ist in einem gemeinnützigen Verein für therapeutisches Reiten tätig. Für 55 Tage als Übungsleiter (lit. b) erhält er jeweils EUR 50,00, in Summe also EUR 2.750,00. Für die Erbringung von Unterstützungsleistungen an 14 Tagen (lit. a) erhält er ein Pauschale von EUR 30,00 pro Tag, insgesamt also EUR 420,00. Die gesamte Jahressumme beträgt EUR 3.170,00. Davon sind EUR&nbsp;170,00 nicht steuerfrei. Bei *Anzahl der Kalendertage* geben Sie 69 ein, bei *gesamter Auszahlungsbetrag* werden EUR 3.170,00 und bei *davon nicht steuerfrei* EUR 170,00 eingetragen.
 
-<span id="erstellung-und-ubermittlung-der-meldung-e-29-an-die-ogk" class="legacy-anchor" aria-hidden="true"></span>
 ## Erstellung und Übermittlung der Meldung E 29 an die ÖGK
 
 Wählen Sie hierfür den Menüpunkt *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung Freiwilligenpauschale E 29 erstellen*.

@@ -3,7 +3,6 @@ title: Versenden der Abrechnungen per E-Mail
 program: LOHN
 ---
 
-<span id="versenden-der-abrechnungen-per-e-mail" class="legacy-anchor" aria-hidden="true"></span>
 
 Über *Ausdruck / Abrechnungen* können die Abrechnungen per E-Mail versendet werden. Wichtig hierbei ist, dass bei den einzelnen Dienstnehmern die E-Mail-Adresse unter [*Stammdaten Dienstnehmer*](/lohn/abrechnungsbildschirme/stammdaten-dienstnehmer/) hinterlegt ist. Datenschutzrechtlich sollte auch ein Passwort hinterlegt werden.
 

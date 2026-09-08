@@ -3,7 +3,6 @@ title: Allgemeines
 program: HONNext
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Mitarbeiterübersicht soll Ihnen einen Überblick über die
 Leistungserfassung Ihrer Mitarbeiter geben. Anhand dieser Übersicht

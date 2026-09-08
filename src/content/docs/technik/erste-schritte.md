@@ -3,10 +3,8 @@ title: Technik
 program: technik
 ---
 
-<span id="technik" class="legacy-anchor" aria-hidden="true"></span>
 ![Icon Technik](img/Icon_TECHNIK.svg#only-light){:width="1000px"}
 ![Icon Technik Darkmode](img/Icon_TECHNIK_negativ.svg#only-dark){:width="1000px"}
-<span id="herzlich-hilfreich-installation-und-wartung-der-rzl-programme" class="legacy-anchor" aria-hidden="true"></span>
 ### Herzlich hilfreich - Installation und Wartung der RZL Programme
 
 Hier finden Sie einen übersichtlichen Leitfaden zur Vorbereitung, Installation, Wartung und Optimierung der RZL Programme. Sie erhalten Zugriff auf Kurzanleitungen und Knowledge-Base-Artikel. Außerdem beantworten wir Ihre wichtigsten Fragen rund um die Installation von RZL.
@@ -26,7 +24,6 @@ Mehr Informationen zu Frag Hainz! finden Sie hier:
 :::
 ---
 
-<span id="vorbereitung-fur-anwender" class="legacy-anchor" aria-hidden="true"></span>
 ## Vorbereitung für Anwender
 Für einen reibungslosen Bestell- und Installationsablauf sollten folgende Punkte zutreffen:   
 
@@ -39,7 +36,6 @@ Für einen reibungslosen Bestell- und Installationsablauf sollten folgende Punkt
 7. Sie haben Ihrem Systembetreuer die neuen Zugangsdaten zum Anwenderbereich übermittelt.
 8. Sie haben Ihren Systembetreuer informiert, dass er das [Setup-Handbuch](/setup/) in der RZL Online Hilfe findet. 
 
-<span id="vorbereitung-fur-systembetreuer" class="legacy-anchor" aria-hidden="true"></span>
 ## Vorbereitung für Systembetreuer
 Haben Sie alle oben genannten Unterlagen und Zugänge erhalten und gelesen? Nun können Sie wie folgt vorgehen:
 

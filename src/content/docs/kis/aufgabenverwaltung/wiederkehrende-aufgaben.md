@@ -35,7 +35,6 @@ Wiederkehrende Aufgaben können auf andere Klienten übertragen
 Die Erstellung von wiederkehrenden Aufgaben (zB.: laufende Buchhaltung) sollte bei einem Klienten begonnen werden, dessen eingestellte Parameter auf die meisten anderen Klienten zutreffen. Anschließend kann diese wiederkehrende Aufgabe auf die anderen Klienten dupliziert werden. Bei Klienten, für die diese Parameter nicht zutreffen können diese manuell abgeändert werden.
 
 :::
-<span id="aktivitat-fur-klientenspiegel" class="legacy-anchor" aria-hidden="true"></span>
 ## Aktivität für Klientenspiegel
 
 Innerhalb der Klienten-Stammdaten können [Aktivitäten](/kis/stammdaten/sonstige-stammdaten/#aktivit%C3%A4t) zugeordnet werden. Die Aktivitäten werden mit Zeiträumen
@@ -90,7 +89,6 @@ Das Feld zum Ende des geplanten Quotenzeitraums wird für die
 Festlegung der Uhrzeit des Endtermins. Die Uhrzeit wird aus der
 Aufgabenvorlage übernommen, kann jedoch abgeändert werden.
 
-<span id="zustandige" class="legacy-anchor" aria-hidden="true"></span>
 ## Zuständige
 
 In diesem Bereich wählen Sie die zuständigen Mitarbeiter oder
@@ -112,7 +110,6 @@ Klienten - als Hauptverantwortlicher - zugeordnete Mitarbeiter
 vorgeschlagen. Sie können hier auch mehr als eine Zuständigkeit
 zuordnen.
 
-<span id="endtermin-der-nachsten-zu-generierenden-aufgabe" class="legacy-anchor" aria-hidden="true"></span>
 ## Endtermin der nächsten zu generierenden Aufgabe
 
 Damit die wiederkehrende Einstellung der Aufgabe gestartet werden kann,
@@ -126,7 +123,6 @@ Die Daten des Bereichs *Endtermin der nächsten zu generierenden Aufgabe* werden
 Aufgabe wird erstellt. Das Ergebnis der Eintragung wird rechts neben dem
 Feld angezeigt.
 
-<span id="zeitraum-monate-nachvor-endtermin" class="legacy-anchor" aria-hidden="true"></span>
 ## Zeitraum (+/- Monate nach/vor Endtermin)
 
 In diesem Feld tragen Sie den Monat ein, für das die Arbeit erledigt
@@ -185,7 +181,6 @@ Ausgaben nicht unübersichtlich wird. Wenn der Klient die Unterlagen
 bereitstellt bzw. wenn der Sachbearbeiter mit der Erstellung beginnt,
 wird die Aufgabe in der Generierungsvorschau angelegt.
 
-<span id="zustandigkeiten-auffang-zustandigkeitsbereich-auffang-mitarbeiter" class="legacy-anchor" aria-hidden="true"></span>
 ## Zuständigkeiten: Auffang-Zuständigkeitsbereich – Auffang-Mitarbeiter
 
 Sie können im Programmteil *Extras / Einstellungen* im Registerblatt

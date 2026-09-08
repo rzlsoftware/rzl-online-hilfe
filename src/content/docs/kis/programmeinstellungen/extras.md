@@ -3,7 +3,6 @@ title: Extras
 program: KIS
 ---
 
-<span id="strukturiertes-dokumenten-archiv-ubernehmen" class="legacy-anchor" aria-hidden="true"></span>
 ## Strukturiertes Dokumenten-Archiv übernehmen
 
 Zum entsprechenden Kapitel klicken Sie [hier](/kis/dokumentenverwaltung/archiv-import/).
@@ -27,7 +26,6 @@ Word-Dokumente zu verwenden. Sollten Sie nicht zwingend Dokumente im
 veralteten Dateiformat (\*.doc) benötigen, empfehlen wir Ihnen diese
 Einstellung zu treffen.
 
-<span id="telefonnummer-andern" class="legacy-anchor" aria-hidden="true"></span>
 ## Telefonnummer ändern
 
 Im Falle einer neuen Telefonnummer, ist diese hier zu hinterlegen und

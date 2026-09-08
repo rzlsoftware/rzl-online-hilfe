@@ -3,7 +3,6 @@ title: Ausdruck Stammdaten
 program: LOHN
 ---
 
-<span id="ausdruck-stammdaten" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Menüpunkt *Ausdruck / Stammdaten* stehen Ihnen folgende Ausdruckoptionen zur Verfügung:
 

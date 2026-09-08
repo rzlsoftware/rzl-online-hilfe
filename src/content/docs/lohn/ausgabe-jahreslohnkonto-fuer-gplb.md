@@ -3,7 +3,6 @@ title: Ausgabe Jahreslohnkonto für GPLB
 program: LOHN
 ---
 
-<span id="ausgabe-jahreslohnkonto-fur-gplb" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Datenausgabe des Jahreslohnkontos für die Gemeinsame Prüfung Lohnabgaben und Beiträge (GPLB) erfolgt im Programmteil *Bearbeiten / Datenexport / Ausgabe Jahreslohnkonto für GPLB...* .
 

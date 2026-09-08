@@ -3,7 +3,6 @@ title: Formelsammlung
 program: HONNext
 ---
 
-<span id="formelsammlung" class="legacy-anchor" aria-hidden="true"></span>
 
 **Honorarnote Allgemein**
 

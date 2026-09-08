@@ -3,7 +3,6 @@ title: Allgemeines
 program: HONNext
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
 Um Noten erstellen zu können, müssen zuerst die Leistungen, die von
 Ihren Mitarbeitern erfasst wurden, freigegeben worden sein.

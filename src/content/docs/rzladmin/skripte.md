@@ -3,7 +3,6 @@ title: Skripte
 program: rzladmin
 ---
 
-<span id="skripte" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Bereich *Skripte* können Sie ein von RZL bereitgestelltes Skript
 ausführen. Ebenso besteht die Möglichkeit, mit den Schaltflächen oben

@@ -3,7 +3,6 @@ title: Zessionen
 program: FIBUNext
 ---
 
-<span id="zessionen" class="legacy-anchor" aria-hidden="true"></span>
 In Österreich bezeichnet eine **Zession** die **Abtretung einer Forderung** von einem Gläubiger (Zedent) an einen neuen Gläubiger (Zessionar). Das bedeutet, dass eine Person oder ein Unternehmen eine bestehende Forderung an eine andere Person oder Instituion überträgt. Der Schuldner muss dabei grundsätzlich nicht zustimmen, aber er muss informiert werden.
 
 Soll auf Konten und/oder der OP-Liste ein Zessionsvermerk aufscheinen, so ist als erster Schritt der gewünschte Zessionstext zu definieren.

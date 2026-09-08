@@ -3,7 +3,6 @@ title: Abrechnung einer Wiedereingliederungsteilzeit
 program: LOHN
 ---
 
-<span id="abrechnung-einer-wiedereingliederungsteilzeit" class="legacy-anchor" aria-hidden="true"></span>
 
 Der Dienstnehmer erhält während der Wiedereingliederungsteilzeit das Teilzeitgehalt / den Teilzeitlohn auf Basis seiner Wochenarbeitszeit während der Wiedereingliederungsteilzeit. Das bedeutet, dass ein Dienstnehmer, der eine Normalarbeitszeit von 40 Wochenstunden hatte und jetzt während der Wiedereingliederungsteilzeit nur 50 % arbeitet, sein Gehalt bzw. seinen Lohn reduziert um 50 % erhält. Diesen neuen Bruttobezug geben Sie in den *Fixen Lohnarten* ein.
 

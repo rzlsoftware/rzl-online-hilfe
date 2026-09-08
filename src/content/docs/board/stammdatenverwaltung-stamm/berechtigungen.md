@@ -3,7 +3,6 @@ title: Berechtigungen
 program: Board
 ---
 
-<span id="berechtigungen" class="legacy-anchor" aria-hidden="true"></span>
 
 Das neue Berechtigungssystem wurde aus folgenden Gründen entwickelt:
 

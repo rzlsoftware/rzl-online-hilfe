@@ -3,13 +3,11 @@ title: Verwaltung der freien Lohnarten (kanzlei- oder klientenbezogen)
 program: LOHN
 ---
 
-<span id="verwaltung-der-freien-lohnarten-kanzlei-oder-klientenbezogen" class="legacy-anchor" aria-hidden="true"></span>
 
 Die freien Lohnarten werden entweder klientenbezogen im Programmteil *Stamm / Lohnarten* oder als Kanzleilohnarten-Tabelle im Programmteil *Klient / Kanzlei / Lohnarten* verwaltet.
 
 Eine Kanzleilohnartentabelle muss in den Stammdaten des Klienten verankert werden, damit auf die in der Tabelle angelegten Lohnarten zugegriffen werden kann. Kanzleilohnarten-Tabellen können für mehrere Klienten gleichzeitig verwendet werden.
 
-<span id="ubernahme-einer-klienten-lohnarten-tabelle-als-kanzleilohnarten-tabelle" class="legacy-anchor" aria-hidden="true"></span>
 ## Übernahme einer Klienten-Lohnarten-Tabelle als Kanzleilohnarten-Tabelle
 
 Der Programmteil *Klient / Kanzlei / Lohnarten von Klient übernehmen* bietet die Möglichkeit, beim Klienten verwaltete Lohnarten als Kanzleilohnarten-Tabelle anzulegen.
@@ -20,7 +18,6 @@ Zunächst ist die Klientennummer jenes Klienten einzutragen, dessen Lohnarten al
 
 Im unteren Bereich des Bildschirmes ist für die Tabelle eine *Nummer* und eine *Bezeichnung* zu vergeben. Durch Anwahl der Schaltfläche *Übernehmen* werden die Lohnarten des Klienten als Kanzlei-Lohnarten-Tabelle angelegt.
 
-<span id="ubernahme-von-kanzleilohnarten-auf-einen-klienten" class="legacy-anchor" aria-hidden="true"></span>
 ## Übernahme von Kanzleilohnarten auf einen Klienten
 
 Durch Anwahl des Programmteils *Stamm / Lohnarten von Kanzlei-Tabelle übernehmen* besteht die Möglichkeit, Kanzleilohnarten-Tabellen auf einen Klienten zu überspielen.

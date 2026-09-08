@@ -3,7 +3,6 @@ title: Rückverrechnung von Urlaubsentgelt
 program: LOHN
 ---
 
-<span id="ruckverrechnung-von-urlaubsentgelt" class="legacy-anchor" aria-hidden="true"></span>
 
 Verlässt ein Dienstnehmer das Unternehmen und hat dabei mehr Urlaub konsumiert, als ihm anteilig zusteht, so ist das zu viel erhaltene Urlaubsentgelt im Fall eines **unberechtigten vorzeitigen Austritts** oder einer **verschuldeten Entlassung vom Dienstnehmer** an den Dienstgeber zurückzuerstatten.
 

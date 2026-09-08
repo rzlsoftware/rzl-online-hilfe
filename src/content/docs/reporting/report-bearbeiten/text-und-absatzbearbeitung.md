@@ -3,7 +3,6 @@ title: Text- und Absatzbearbeitung
 program: Reporting
 ---
 
-<span id="text-und-absatzbearbeitung" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Textverarbeitung bietet Ihnen neben standardisierten Gestaltungsmöglichkeiten wie Formatierungen, Tabellen oder Grafiken auch den Zugriff auf unterschiedlichste Programm-Klientendaten in Form von [Formeln](/reporting/formeln/einfuegen-und-bearbeiten-von-formeln/). Der große Nutzen in der Formelanwendung liegt in der sofortigen Aktualisierung der Daten.
 
@@ -13,7 +12,6 @@ Blenden Sie sich zur Bearbeitung des Reports die Absatzmarken und den verborgene
 :::
 Zur Formatierung stehen unterschiedliche Tools zur Verfügung. Neben der Werkzeugleiste können Sie das Eigenschaftsfenster oder das Kontextmenü (Aufruf mit der rechten Maustaste) des jeweils markierten Textbereichs verwenden. Zusätzlich können individuelle Formatvorlagen zur Formatierung gestaltet werden.
 
-<span id="die-werkzeugleiste-fur-text-absatzformatierungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Die Werkzeugleiste für Text-/Absatzformatierungen
 
 In der Werkzeugleiste stehen folgende Möglichkeiten zur Text- und Absatzformatierung zur Verfügung:
@@ -45,7 +43,6 @@ In der Werkzeugleiste stehen folgende Möglichkeiten zur Text- und Absatzformati
 | ![Image](img/image41.png) | Formelliste öffnen                                         |
 | ![Image](img/image42.png) | Formelsuche öffnen                                         |
 
-<span id="texte-und-absatze-ausblenden" class="legacy-anchor" aria-hidden="true"></span>
 ## Texte und Absätze ausblenden
 
 **Ausblendung mit Bedingungsformel**

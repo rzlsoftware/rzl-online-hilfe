@@ -3,9 +3,7 @@ title: Offene Posten Zuteilung
 program: FIBUNext
 ---
 
-<span id="offene-posten-zuteilung" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="offene-posten-zuteilung_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Offene Posten Zuteilung
 
 Nach der Eingabe von Datum, Belegnummer, Soll- und Habenkonto, Steuersatz und Betrag, erscheint im nächsten Feld die OP-Nummer. Grundsätzlich wird die Belegnummer als OP Nr. übernommen. Sie können die OP-Nummer mit der *ENTER-Taste* bestätigen oder durch eine andere – höchstens 16-stellige Nummer – ersetzen.

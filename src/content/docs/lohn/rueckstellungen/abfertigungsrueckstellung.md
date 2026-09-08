@@ -3,7 +3,6 @@ title: Abfertigungsrückstellung
 program: LOHN
 ---
 
-<span id="abfertigungsruckstellung" class="legacy-anchor" aria-hidden="true"></span>
 
 Der Ausdruck der Liste der Abfertigungswerte erfolgt im Menüpunkt *Ausdruck / Rückstellungen / Rückstellung Abfertigung alt.* In diesem Programmteil sind zunächst die Grundeinstellungen für die Berechnung der Abfertigungsrückstellung vorzunehmen.
 
@@ -23,7 +22,6 @@ Wird die Option *Abfertigungsliste nach RLG* aktiviert, erfolgt eine finanzmathe
 
 Wurden die entsprechenden Einstellungen durchgeführt, kann durch die Anwahl der Schaltfläche *Weiter* der Dienstnehmerdialog mit den Rückstellungsparametern aufgerufen werden.
 
-<span id="abfertigungsruckstellung_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Abfertigungsrückstellung
 
 ![Image](<img/image255.png>){width="500"}
@@ -70,7 +68,6 @@ In diesem Feld wird der aufgrund der eingegebenen Daten errechnete fiktive Abfer
 Wurden in den Eingabefeldern *Bezug, Sonderzahlung* oder *Abfertigung* abweichende Eingaben vorgenommen, dann werden durch Anwahl der *F2-Taste* wieder die ursprünglichen Daten eingetragen.
 
 :::
-<span id="aufruf-berechnungsblatt-abfertigungsruckstellung" class="legacy-anchor" aria-hidden="true"></span>
 ## Aufruf Berechnungsblatt Abfertigungsrückstellung
 
 Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung für diesen ausgewählten Dienstnehmer.
@@ -84,7 +81,6 @@ Durch Anwahl *++* öffnen sich alle Bereiche. Mit *- -* schließen sich wieder a
 ![Image](<img/image257.png>)
 
 
-<span id="finanzmathematische-berechnung-der-abfertigungsruckstellung-unternehmensrechtlicher-ansatz" class="legacy-anchor" aria-hidden="true"></span>
 ## Finanzmathematische Berechnung der Abfertigungsrückstellung (unternehmensrechtlicher Ansatz).
 
 Soll eine finanzmathematische Berechnung der Abfertigungsrückstellung erstellt und ausgedruckt werden, dann ist in den Ausdruckeinstellungen das Auswahlfeld *Abfertigungsliste nach RLG* zu aktivieren.

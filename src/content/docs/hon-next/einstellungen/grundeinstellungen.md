@@ -3,7 +3,6 @@ title: Grundeinstellungen
 program: HONNext
 ---
 
-<span id="grundeinstellungen" class="legacy-anchor" aria-hidden="true"></span>
 
 ![](<img/image72.png>)
 
@@ -397,7 +396,6 @@ Der Vorschlag der Debitorennummer ist in den Klientenstammdaten (siehe [Buchhalt
 
 Diese Konten werden bei der Verbuchung von Anzahlungsrechnungen benötigt (vgl. Kapitel [Anzahlungsrechnungen](/hon-next/anzahlungsrechnungen/allgemein/)).
 
-<span id="verteilung-der-zu-und-abschlage" class="legacy-anchor" aria-hidden="true"></span>
 ## Verteilung der Zu- und Abschläge
 
 Hier kann die übliche bzw. am häufigsten verwendete Verteilungsmethode
@@ -408,7 +406,6 @@ Mitarbeiter, ohne Mitarbeiterbezug oder manuell verteilt werden.
 
 Ihre Einstellungen können Sie mittels *Speichern* bestätigen.
 
-<span id="verteilung-der-rabatteaufschlage" class="legacy-anchor" aria-hidden="true"></span>
 ## Verteilung der Rabatte/Aufschläge
 
 Hier kann die standardmäßige Verteilungsmethode für Rabatte und

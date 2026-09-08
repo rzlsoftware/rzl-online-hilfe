@@ -3,7 +3,6 @@ title: Überstunden-/Mehrarbeitsstunden
 program: LOHN
 ---
 
-<span id="uberstunden-mehrarbeitsstunden" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image421.png>){width="500"}
 

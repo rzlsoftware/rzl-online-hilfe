@@ -3,7 +3,6 @@ title: Kostenträger
 program: LOHN
 ---
 
-<span id="kostentrager" class="legacy-anchor" aria-hidden="true"></span>
 
 Durch Anwahl des Menüpunktes *Ausdruck / Ausdruck Journal / ÖGK / Kostenträger* wird eine aufsteigend nach Kostenträger gegliederte Zusammenfassung der in den einzelnen Kostenträgern angefallenen Lohn und Lohnnebenkosten je Dienstnehmer gedruckt. Voraussetzung dafür ist jedoch, dass bei der Anlage des Dienstnehmers im Eingabebildschirm [*Kostenstelle/Kostenträger*](/lohn/abrechnungsbildschirme/kostenstellen-kostentraeger/) eine Zuordnung zu den Kostenträgern vorgenommen wurde.
 

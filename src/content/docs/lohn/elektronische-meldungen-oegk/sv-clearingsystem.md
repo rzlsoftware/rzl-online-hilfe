@@ -3,11 +3,9 @@ title: SV-Clearingsystem
 program: LOHN
 ---
 
-<span id="sv-clearingsystem" class="legacy-anchor" aria-hidden="true"></span>
 
 Seit 01.01.2019 werden Rückmeldungen und Fehlerhinweise durch die Österreichischen Gesundheitskasse nur mehr in elektronischer Form bekannt gegeben. Statt eines Schreibens per Post oder eines Telefonanrufes erhält man einen sogenannten Clearingfall zugestellt. Diese Zustellung erfolgt einerseits über das Portal WEBEKU der Österreichischen Gesundheitskasse und andererseits mit Hilfe der ELDA-Software.
 
-<span id="clearingsystem-e-mail-verstandigung" class="legacy-anchor" aria-hidden="true"></span>
 ## Clearingsystem-E-Mail-Verständigung
 
 Speziell dann, wenn das Lohnprogramm nur sporadisch geöffnet wird, sollten Sie sicherstellen, dass Sie keine in den Clearingfällen definierte Frist versäumen. Im Portal WEBEKU können hierfür je Beitragskontonummer E-Mail-Adressen hinterlegt und bearbeitet werden.
@@ -36,7 +34,6 @@ Es muss hier einmalig eine Zuordnung sämtlicher Beitragskontonummern der Kanzle
 Nur mit Hilfe der Zuordnungsanwendung können Sie sicherstellen, dass auch Clearingfälle, die keinen direkten Bezug zu einer erfolgten Meldung haben (z. B. Mahnungen wegen fehlender Abmeldung), in der ELDA-Software zugestellt werden.
 
 :::
-<span id="clearingfalle-im-rzl-lohnprogramm" class="legacy-anchor" aria-hidden="true"></span>
 ## Clearingfälle im RZL-Lohnprogramm
 
 Die RZL-Lohnverrechnung prüft beim Programmstart, ob neue Clearingfälle in der ELDA-Software vorhanden sind, diese werden gegebenenfalls durch einen Hinweis angezeigt.

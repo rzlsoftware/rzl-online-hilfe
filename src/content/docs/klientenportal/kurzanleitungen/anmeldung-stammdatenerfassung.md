@@ -3,7 +3,6 @@ title: Automatische Erfassung zusätzlicher Stammdaten nach Anmeldungen
 program: Klientenportal
 ---
 
-<span id="automatische-erfassung-zusatzlicher-stammdaten-nach-anmeldungen" class="legacy-anchor" aria-hidden="true"></span>
 
 Unterhalb werden die verschiedenen Möglichkeiten der Stammdatenvorerfassung nach einer Anmeldung durch einen Klientenbenutzer beschrieben.
 Die Option „Automatische Erfassung zusätzlicher Stammdaten“ bietet die Möglichkeit
@@ -16,7 +15,6 @@ Die Option „Automatische Erfassung zusätzlicher Stammdaten“ bietet die Mög
 für einen Dienstnehmer Schritt für Schritt ohne Unterbrechung durchzuführen. 
 In dieser Kurzanleitung können Sie zu Beginn den Ablauf für den Klientenbenutzer und nachfolgend die dazu notwendigen Einstellungen im Kanzleibereich des Portals nachlesen. Im Kapitel "Weitere Einstellungsmöglichkeiten" dieser Anleitung finden Sie eine kurze Beschreibung der weiteren Möglichkeiten.
 
-<span id="anmeldung-und-stammdatenvorerfassung-klientenbereich-des-portals" class="legacy-anchor" aria-hidden="true"></span>
 ## Anmeldung und Stammdatenvorerfassung – Klientenbereich des Portals
 
 Sie erfassen die Daten der Anmeldung und die Vorerfassung der weiteren Stammdaten der Dienstnehmer in zwei aufeinanderfolgenden Schritten.
@@ -50,7 +48,6 @@ Die Anzahl der Felder und deren Eigenschaften werden von Ihrer Wirtschaftstreuha
 4.	Die Schaltfläche OK öffnet automatisch den Programmteil Lohnverrechnung / Anmeldung / Anmeldung erfassen und Sie können einen weiteren Dienstnehmer anmelden und Eintrittsdaten vorerfassen.
 5.	Die Schaltfläche Abbrechen ermöglicht Ihnen den Aufruf der Protokolle der Meldungen. Sie können diese Protokolle immer auch durch Anwahl des Programmteils Lohnverrechnung / Übersicht / Protokolle der Anmeldungen aufrufen und bei Bedarf ausdrucken.
  
-<span id="grundeinstellungen-kanzleibereich-des-portals" class="legacy-anchor" aria-hidden="true"></span>
 ## Grundeinstellungen – Kanzleibereich des Portals
 
 Damit Ihr Klientenbenutzer die oben beschriebene Erfassungsmöglichkeit verwenden kann, wählen Sie im Programmteil Stammdaten / Klienten / Klientenstammdaten die Option Automatische Erfassung zusätzlicher Stammdaten aus.
@@ -84,7 +81,6 @@ Der zuständige Mitarbeiter in der Wirtschaftstreuhand-Kanzlei erhält eine E-Ma
 4.	Durch Anwahl der Schaltfläche Importieren werden die Daten der Dienstnehmer mit einem Häkchen in der ersten Spalte in das Lohnverrechnungsprogramm importiert.
 5.	Wenn Sie die Daten durch Anwahl der Schaltfläche Ablehnen nicht übernehmen, müssen Sie nachfolgend zwingend den Grund für die Ablehnung eintragen.
 
-<span id="weitere-einstellungsmoglichkeiten" class="legacy-anchor" aria-hidden="true"></span>
 ## Weitere Einstellungsmöglichkeiten
 
 ![](img/image8.png)
@@ -94,7 +90,6 @@ Diese Option ermöglicht nur die Erfassung der Daten der Anmeldung durch den Kli
 Erfassung zusätzlicher Stammdaten händisch anwählen
 Zunächst werden auch nur die Daten der Anmeldung erfasst und die Anmeldung übermittelt. Nachfolgend kann der Klientenbenutzer im Programmteil Lohnverrechnung / Vorerfassung / Eintritte weitere Stammdaten erfassen und an den Wirtschaftstreuhänder freigeben. Die Freigabe der Daten an den Wirtschaftstreuhänder erfolgt nicht automatisch.
  
-<span id="exkurs-prozessuberblick-innerhalb-der-klientenstammdaten" class="legacy-anchor" aria-hidden="true"></span>
 ## Exkurs: Prozessüberblick innerhalb der Klientenstammdaten
 
 Im Kanzleibereich des Portals innerhalb der Klientenstammdaten finden Sie neben dem Auswahlfeld ein kleines Symbol.

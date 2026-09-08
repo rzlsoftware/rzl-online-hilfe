@@ -3,7 +3,6 @@ title: Beispiel IST-Versteuerer - Wiederkehrende Anzahlung M20
 program: HONNext
 ---
 
-<span id="beispiel-ist-versteuerer-wiederkehrende-anzahlung-m20" class="legacy-anchor" aria-hidden="true"></span>
 
 Ausgangssituation:   
 Die Kanzleibuchhaltung wird nach der IST-Versteuerung gebucht. In den Stammdaten in der FIBU kann die *Teilrechnungsverbuchung* daher nicht aktiviert werden.

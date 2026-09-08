@@ -3,9 +3,7 @@ title: Umsatzsteuer
 program: FIBUNext
 ---
 
-<span id="umsatzsteuer" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="umsatzsteuer_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Umsatzsteuer
 
 

@@ -3,12 +3,10 @@ title: Übernahme ZMV/Board
 program: Klientenportal
 ---
 
-<span id="ubernahme-zmvboard" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Klientenstammdaten müssen am Portal nicht neu angelegt werden. Sie
 werden aus den Programmen RZL-Board oder ZMV hochgeladen.
 
-<span id="ubernahme-der-klienten-aus-dem-board" class="legacy-anchor" aria-hidden="true"></span>
 ## Übernahme der Klienten aus dem Board
 
 Prüfen Sie vor der Übernahme der Klienten die Stammdateneinstellungen im RZL Board. Für Klienten am RZL Klientenportal aktivieren Sie im Bereich *Klientenportal* die Option *Klient am eigenen Klientenportal ..... anlegen.*
@@ -28,7 +26,6 @@ Eine genaue Beschreibung der Belegsynchronisation finden Sie im Board im Program
 
 
 :::
-<span id="ubernahme-der-klienten-aus-der-zmv" class="legacy-anchor" aria-hidden="true"></span>
 ## Übernahme der Klienten aus der ZMV
 
 Prüfen Sie zunächst die Stammdaten der Klienten bezüglich der Freischaltung für das RZL Klientenportal. Sie finden die Markierung *Ausgabe für RZL Klientenportal* im Programmteil *Klient / Stammdaten* im Register\ blatt *Klient.*

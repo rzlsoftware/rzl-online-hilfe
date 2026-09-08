@@ -3,7 +3,6 @@ title: Programmaktualisierung
 program: setup
 ---
 
-<span id="programmaktualisierung" class="legacy-anchor" aria-hidden="true"></span>
 
 Die regelmäßige Aktualisierung der RZL-Programme ist für den
 ordnungsgemäßen Betrieb zwingend notwendig und vom Lizenznehmer
@@ -52,7 +51,6 @@ und anschließend auf *Programmaktualisierung...*
 
 ![Aktualisierung manuell über die Hilfsmittel anstoßen](img/Programmaktualisierung_ManuellAnstossen.jpg)
 
-<span id="3-uber-rzl-admin-aktualisieren" class="legacy-anchor" aria-hidden="true"></span>
 ### 3. Über RZL-Admin aktualisieren
 
 Im RZL-Admin unter *Informationen zur Installation und Update der
@@ -61,7 +59,6 @@ durchführen* auswählen.
 
 ![Aktualisierung mit Hilfe des RZL-Admin durchführen](img/Programmaktualisierung_RZLAdmin.png)
 
-<span id="aktualisierung-durchfuhren" class="legacy-anchor" aria-hidden="true"></span>
 ## Aktualisierung durchführen
 
 Nach dem Start der Aktualisierung wird das Update automatisch
@@ -87,7 +84,6 @@ Klick auf *Fertigstellen* beenden.
 
 ![Aktualisierung fertigstellen](img/Programmaktualisierung_Fertigstellen.jpg)
 
-<span id="aktualisierung-der-weiteren-arbeitsplatze-bei-netzwerkinstallation" class="legacy-anchor" aria-hidden="true"></span>
 ### Aktualisierung der weiteren Arbeitsplätze (bei Netzwerkinstallation)
 
 Bei einer Netzwerk-Installation müssen alle Arbeitsplätze die gleiche
@@ -99,7 +95,6 @@ durch.
 Falls der Update-Dienst nicht installiert ist, muss die Aktualisierung
 als lokaler Administrator manuell durchgeführt werden.
 
-<span id="bestimmte-benutzer-fur-das-rzl-update-berechtigen" class="legacy-anchor" aria-hidden="true"></span>
 ## Bestimmte Benutzer für das RZL-Update berechtigen
 
 Standardmäßig sind alle Benutzer berechtigt, ein Update durchzuführen.
@@ -145,7 +140,6 @@ folgt vor:
     Update zu berechtigen, indem Sie auf die Schaltfläche *Speichern*
     klicken.
 
-<span id="updatebalken-fur-nicht-update-berechtigte-benutzer-ausblenden" class="legacy-anchor" aria-hidden="true"></span>
 ## Updatebalken für nicht update-berechtigte Benutzer ausblenden
 
 Um den Updatebalken für nicht update-berechtigte Benutzer auszublenden,

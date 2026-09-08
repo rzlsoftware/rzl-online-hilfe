@@ -11,7 +11,6 @@ Bei Mitarbeitern mit dem Recht zur Durchführung von WiEReG-Meldungen ist
 die entsprechende Berechtigung seitens USP/FinanzOnline für die
 Mitarbeiter notwendig.
 
-<span id="neue-meldung-uber-usp" class="legacy-anchor" aria-hidden="true"></span>
 ### Neue Meldung über USP
 
 In den Klientenstammdaten der Stammdatenverwaltung am RZL Board im

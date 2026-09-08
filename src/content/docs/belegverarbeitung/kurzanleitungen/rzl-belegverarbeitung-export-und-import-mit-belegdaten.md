@@ -3,7 +3,6 @@ title: Belege mit XML-Belegdaten exportieren und in andere Installationen import
 program: Belegverarbeitung
 ---
 
-<span id="belege-mit-xml-belegdaten-exportieren-und-in-andere-installationen-importieren" class="legacy-anchor" aria-hidden="true"></span>
 
 ## RZL Belegverarbeitung Export und Import von Belegen mit Belegdaten
 

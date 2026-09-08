@@ -3,7 +3,6 @@ title: Diagramm
 program: Reporting
 ---
 
-<span id="diagramm" class="legacy-anchor" aria-hidden="true"></span>
 
 Zur Formatierung der Diagramme stehen Ihnen die Diagrammeigenschaften zur Verfügung. Markieren Sie dazu im linken Randbereich das komplette Diagramm mit der *linken Maustaste*. Anschließend öffnen sich im Eigenschaftsfenster die *Diagrammeigenschaften*:
 
@@ -13,12 +12,10 @@ Zur Formatierung der Diagramme stehen Ihnen die Diagrammeigenschaften zur Verfü
 
 Neben dem Diagrammtyp und der Farbvorlage können Sie hier die Ausrichtung (Datenbezug nach Spalten oder Zeilen) auswählen. Die verwendeten Farben hängen von der gewählten Farbformatvorlage ab. Diese kann unter *Bearbeiten / [Farbformatvorlage](/reporting/report-bearbeiten/formatvorlagen/)* neu angelegt bzw. abgeändert werden. Mit dem Häkchen *Datenquelle ausblenden* können Sie die verwendete Tabelle für den Ausdruck aus- bzw. einblenden.
 
-<span id="saulendiagramm-kreisdiagramm-und-liniendiagramm" class="legacy-anchor" aria-hidden="true"></span>
 ## Säulendiagramm, Kreisdiagramm und Liniendiagramm
 
 Je nach Diagrammtyp haben Sie hier noch weitere Optionsmöglichkeiten zur Darstellung zur Verfügung.
 
-<span id="uberschrift" class="legacy-anchor" aria-hidden="true"></span>
 ## Überschrift
 
 In diesem Bereich können Sie den Diagrammtitel und die Positionierung definieren. Mit Hilfe der Werkzeugleiste kann die Überschrift formatiert werden.

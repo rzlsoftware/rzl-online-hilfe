@@ -3,7 +3,6 @@ title: Login Formular auf Ihrer Kanzlei-Homepage
 program: Klientenportal
 ---
 
-<span id="login-formular-auf-ihrer-kanzlei-homepage" class="legacy-anchor" aria-hidden="true"></span>
 
 Sie können auf der Kanzlei-Homepage ein Login Formular für das Klientenportal platzieren.
 

@@ -3,10 +3,8 @@ title: Belegbearbeitung und -aufbereitung
 program: Belegverarbeitung
 ---
 
-<span id="belegbearbeitung-und-aufbereitung" class="legacy-anchor" aria-hidden="true"></span>
 
 
-<span id="belege-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ## Belege hinzufügen
 
 -   ![](img/image7.png) Klient öffnen links oben im Feld Klient wählen (Nr. oder Name
@@ -57,7 +55,6 @@ Belegverarbeitung hinzuzufügen:
     Seitenansicht der Belegverarbeitung. (z.B. aus E-Mail Anhängen oder
     aus dem Windows-Explorer)
 
-<span id="tipps-zur-bedienung-der-oberflache" class="legacy-anchor" aria-hidden="true"></span>
 ## Tipps zur Bedienung der Oberfläche
 
 ![](img/image10.png)
@@ -228,7 +225,6 @@ Alle Änderungen, die bisher durchgeführt wurden, werden rückgängig
 gemacht und der Original-Zustand der Dateien im Scanordner wird
 wiederhergestellt.
 
-<span id="belege-zusammenfuhren" class="legacy-anchor" aria-hidden="true"></span>
 ## Belege zusammenführen
 
 -   Zusammenführen mit Hilfe der rechten Maustaste und Kontextmenü:
@@ -284,7 +280,6 @@ setzt RZL (je nach gewählter Einstellung) folgende Fremdsoftware ein:
 
 -   Tesseract-OCR von Google (alle Betriebssysteme)
 
-<span id="belegansicht-offnen" class="legacy-anchor" aria-hidden="true"></span>
 ## Belegansicht öffnen
 
 Bei zwei zur Verfügung stehenden Bildschirmen kann zusätzlich zum RZL
@@ -467,7 +462,6 @@ werden.
 
 ![](img/image22.png)
 
-<span id="nameanschrift-uber-uid-nummer-auslesen" class="legacy-anchor" aria-hidden="true"></span>
 ## Name/Anschrift über UID-Nummer auslesen
 
 Mit dieser Funktion werden bei Eingangsbelegen die Daten des Lieferanten
@@ -490,7 +484,6 @@ Benutzer hinterlegt sein.
 Diese Funktion kann optional auch deaktiviert werden (*BELEGE /
 Einstellungen / Grundeinstellungen*).
 
-<span id="belege-ins-rzl-board-ubernehmen" class="legacy-anchor" aria-hidden="true"></span>
 ## Belege ins RZL Board übernehmen
 
 Der letzte Schritt nach der Belegdatenerkennung ist das endgültige
@@ -515,7 +508,6 @@ bspw. aus dem Scanordner gelöscht werden.
 
 ![](img/image24.png)
 
-<span id="detailbeschreibung-aller-funktionen-in-der-leiste-belege-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ## Detailbeschreibung aller Funktionen in der Leiste „Belege hinzufügen“
 
 ![](img/image25.png)

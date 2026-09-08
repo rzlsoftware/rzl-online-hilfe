@@ -3,7 +3,6 @@ title: EBICS Schnittstelle
 program: Board
 ---
 
-<span id="ebics-schnittstelle" class="legacy-anchor" aria-hidden="true"></span>
 
 Bei EBICS (Electronic Banking Internet Communication Standard) handelt es sich um einen internetbasierten Kommunikationsstandard zwischen Unternehmen und Banken/Sparkassen, der neben dem gesicherten Datenaustausch auch die Autorisierung bzw. die Freigabe von (Zahlungs-)Aufträgen an die Bank standardisiert.
 Um den Zahlungsverkehr noch effizienter zu gestalten, wurde dieses Tool in RZL integriert. Die Einstellungen und sonstigen Funktionen finden Sie im RZL Board unter Portale.
@@ -59,7 +58,6 @@ Das *Deaktivieren* von EBICS Teilnehmern führt zu einer sofortigen Sperre bei d
 
 Mit dem Button Deaktivieren kann der Teilnehmer bei dem jeweiligen Kreditinstitut deaktiviert werden. Wird der Teilnehmer bloß gelöscht, vorher aber nicht deaktiviert bleibt der Teilnehmer beim Kreditinstitut bestehen. Aber der Eintrag dieses Teilnehmers wird im RZL gelöscht.
 
-<span id="transport-und-zeichnungsberechtigungen-der-kreditinstitute" class="legacy-anchor" aria-hidden="true"></span>
 ### Transport- und Zeichnungsberechtigungen der Kreditinstitute
 
 Für den Abruf der CAMT-Dateien sowie dem EBICS-Zahlungsverkehr im RZL werden separate EBICS-Teilnehmer Ihres Kreditinstituts benötigt. Diese müssen beim Kreditinstitut vorab angefordert werden.
@@ -181,7 +179,6 @@ Aus dieser Ansicht der offenen Übermittlungen senden Sie die Zahlungsdateien en
 :::
 Außerdem können Sie in dieser Ansicht die XML-Dateien exportieren + importieren bzw. können Sie sich die Details anzeigen lassen und die Datei löschen.
 
-<span id="empfangeruberprufung-vop" class="legacy-anchor" aria-hidden="true"></span>
 ### Empfängerüberprüfung VoP
 
 :::caution[Hinweis]
@@ -271,7 +268,6 @@ Die weiteren Schritte sind ident mit der bisherigen Vorgangsweise bei der Verarb
 
 ![Import Ordner festlegen](<img/Ordner%20Import%20CAMT.png>)
 
-<span id="uberweisungen-und-bankeinzuge" class="legacy-anchor" aria-hidden="true"></span>
 ### Überweisungen und Bankeinzüge
 
 Verwenden Sie das EBICS Modul und hat Ihr Kunde ein EBICS fähiges Kundenportal, können Sie direkt aus der FIBU/EA Rechnung Klassik die Überweisungs- und Bankeinzugsdateien erstellen und aus dem EBICS Modul im RZL Board überweisen bzw. die Überweisung Ihrem Kunden zum Freigeben in sein Bankprogramm stellen.
@@ -288,7 +284,6 @@ Zuerst müssen Sie über *Stamm → Weitere Stammdaten → Bankkonten* bei dem j
 
 ![Bankverbindung FIBU Klassik](<img/Bankverbindung%20%C3%9CW%20Klassik.png>)
 
-<span id="uberweisungen" class="legacy-anchor" aria-hidden="true"></span>
 #### Überweisungen
 
 Steigen Sie über *Bearbeiten → Zahlungsverkehr EBICS → Überweisungen → SEPA Raum* ein.
@@ -308,7 +303,6 @@ Nachdem alle Kreditoren zum Überweisen gewählt wurden, erhalten Sie folgende M
 
 ![erfolgreich Meldung](<img/%C3%9CW%20erfolgreich%20%C3%BCbergeben.png>)
 
-<span id="bankeinzuge" class="legacy-anchor" aria-hidden="true"></span>
 #### Bankeinzüge
 
 Steigen Sie über *Bearbeiten → Zahlungsverkehr EBICS → Bankeinzüge → SEPA Raum* ein.
@@ -332,7 +326,6 @@ Nachdem alle Debitoren zum Einziehen gewählt wurden, erhalten Sie folgende Meld
 
 Die abgerufenen CAMT53-Dateien werden durch den Abruf in der RZL Datenbank gespeichert und können automatisch in der RZL FIBU Next eingespielt werden. Somit fällt der manuelle Abruf, die Speicherung der Dateien bzw. das händische Einspielen der Retourdaten weg.
 
-<span id="verarbeitung-camt_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Verarbeitung CAMT
 
 Unter *Stammdaten → Zahlungsverkehr → FIBU Bankverbindungen* ist in den Stammdaten des jeweiligen Bankkontos beim Klienten die Quelle EBICS zu setzen.
@@ -345,7 +338,6 @@ Die weiteren Schritte in der FIBU Next sind ident mit der bisherigen Vorgangswei
 
 Sobald ein Stapel im FIBU Next geöffnet wird, werden die Auszüge in den ungebuchten CAMT Dateien ausgeblendet (noch nicht gelöscht). Beim Verwerfen oder Löschen eines Stapels werden die Auszüge wieder zurück in die ungebuchten CAMT Dateien gestellt. Erst wenn der Stapel finalisiert wird, werden die Daten aus den ungebuchten CAMT Dateien gelöscht.
 
-<span id="uberweisungen_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Überweisungen
 
 Verwenden Sie das EBICS Modul und hat Ihr Kunde ein EBICS fähiges Kundenportal, können Sie direkt aus der FIBU Next die Überweisungsdateien erstellen und aus dem EBICS Modul überweisen bzw. die Überweisung Ihrem Kunden zum Freigeben in sein Bankprogramm stellen.

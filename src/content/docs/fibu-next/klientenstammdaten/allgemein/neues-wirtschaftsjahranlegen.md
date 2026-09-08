@@ -3,9 +3,7 @@ title: Neues Wirtschaftsjahr anlegen
 program: FIBUNext
 ---
 
-<span id="neues-wirtschaftsjahr-anlegen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="neues-wirtschaftsjahr-anlegen_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Neues Wirtschaftsjahr anlegen
 
 
@@ -56,7 +54,6 @@ In den Klientenstammdaten im Register *FIBU/Allgemein* finden Sie neben den Info
 
 
 
-<span id="wirtschaftsjahr-mit-jahresubernahme-anlegen" class="legacy-anchor" aria-hidden="true"></span>
 ## Wirtschaftsjahr mit Jahresübernahme anlegen
 
 

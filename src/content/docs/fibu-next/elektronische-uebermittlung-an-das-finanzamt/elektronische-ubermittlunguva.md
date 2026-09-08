@@ -3,9 +3,7 @@ title: Elektronische Übermittlung UVA
 program: FIBUNext
 ---
 
-<span id="elektronische-ubermittlung-uva" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="elektronische-ubermittlung-uva_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Elektronische Übermittlung UVA
 
 Bevor die erste UVA übermittelt werden kann, ist einmalig pro Kanzlei der Klient des Absenders im *Kanzlei-Informations-System (KIS)* zu hinterlegen. Erfassen Sie dazu unter *Verwaltung / FinanzOnline Teilnehmer* die entsprechenden Daten. Die Daten des hinterlegten Klienten werden als Absenderdaten für die Übermittlung verwendet.
@@ -64,7 +62,6 @@ Sollte die zu erstellende Übermittlung in diesem Dialog ausgegraut sein, beacht
 
 
 :::
-<span id="ubermittlung-der-uva-datei" class="legacy-anchor" aria-hidden="true"></span>
 ### Übermittlung der UVA-Datei
 
 

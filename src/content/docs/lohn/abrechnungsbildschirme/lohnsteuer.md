@@ -3,11 +3,9 @@ title: Lohnsteuer
 program: LOHN
 ---
 
-<span id="lohnsteuer" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image85.png>)
 
-<span id="absetzbetrage" class="legacy-anchor" aria-hidden="true"></span>
 ## Absetzbeträge
 
 Soll der Alleinverdienerabsetzbetrag berücksichtigt werden, ist das Feld *Alleinverdiener* zu aktivieren. Wird der Alleinverdienerabsetzbetrag beansprucht, so müssen in den [*Dienstnehmer Stammdaten*](/lohn/abrechnungsbildschirme/stammdaten-dienstnehmer/) die Daten des Ehepartners eingetragen werden.
@@ -30,7 +28,6 @@ Wenn die Fahrttage pro Woche nicht regelmäßig anfallen (z. B. 1 Woche mit 2 Fa
 
 Eine Besonderheit gibt es bei der Erfassung der *Telearbeitstage*. Durch Eingabe der *Telearbeitstage* müssen seit 01.07.2021 die *Pendlerpauschaltage* gekürzt werden. Dies wird automatisch vom Programm vorgenommen, wenn die Telearbeitstage erfasst sind. Das bedeutet, dass Sie bei den Fahrttagen, jene Tage eintragen, die der Dienstnehmer inkl. Telearbeitstage fährt. Zum Beispiel: Dienstnehmer hat eine 5-Tage-Woche. Er arbeitet von Montag bis Freitag. Sie aktivieren diese 5 Arbeitstage, egal ob der Dienstnehmer an diesen Tagen Telearbeit hat oder im Büro anwesend ist. Durch die Eingabe der Telearbeitstage werden die Fahrttage automatisch gekürzt. 
 
-<span id="werkverkehr-jobticket" class="legacy-anchor" aria-hidden="true"></span>
 ## Werkverkehr / Jobticket
 
 Wird der Dienstnehmer im *Werkverkehr* gemäß § 26 Z 5 EStG befördert, muss die Anzahl der Monate am L16 (Jahreslohnzettel) vermerkt werden. Auf dem Jahreslohnkonto des Dienstnehmers erfolgt monatsweise ebenfalls ein Vermerk.
@@ -79,7 +76,6 @@ Falls die Kinder im *Stammdaten Dienstnehmer Bildschirm* noch nicht erfasst wurd
 
 Durch Eingabe der *Telearbeitstage* werden die Tage auf dem Jahreslohnkonto und dem Jahreslohnzettel angeführt. Ebenso werden die Tage auf der Abrechnung angedruckt. Wenn Sie die *steuerfreie Pauschale* aktiviert haben, wird vom Programm automatisch der *Satz* EUR 3,00 vorgeschlagen. Dieser Satz kann von Ihnen abgeändert werden. Sie haben auch die Möglichkeit, einen unabhängigen Pauschalbetrag einzugeben (z. B. EUR 25,00), somit wird dieser Betrag ausbezahlt. Durch Anhaken von *wiederkehrend*, speichert sich das Programm den Pauschalbetrag ab.
 
-<span id="freibetrage" class="legacy-anchor" aria-hidden="true"></span>
 ## Freibeträge
 
 Eingabe des monatlichen Freibetrages auf Grund des Freibetragsbescheides im Feld *monatl. Freibetrag*.
@@ -192,7 +188,6 @@ Entwicklungshelfer sind von der Neuregelung der Auslandsbezüge ab dem Jahr 2011
 
 ![Image](<img/image91.png>)
 
-<span id="zuschusse-und-kostenersatze" class="legacy-anchor" aria-hidden="true"></span>
 ## Zuschüsse und Kostenersätze
 
 **Kinderbetreuungszuschuss**

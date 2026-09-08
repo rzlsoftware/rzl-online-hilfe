@@ -3,7 +3,6 @@ title: Abrechnung Altersteilzeit
 program: LOHN
 ---
 
-<span id="abrechnung-altersteilzeit" class="legacy-anchor" aria-hidden="true"></span>
 
 Die durch das AMS geförderte Altersteilzeit ermöglicht es, ältere Dienstnehmer mit einer verringerten Arbeitszeit bis zum Pensionsantritt zu beschäftigen. Für diesen gleitenden Übergang in die Pension ist die Zustimmung des Arbeitgebers erforderlich. Der Arbeitnehmer verliert weder Pensionsbezüge, Anspruch auf Krankengeld, Abfertigung oder Ansprüche der Arbeitslosenversicherung.
 

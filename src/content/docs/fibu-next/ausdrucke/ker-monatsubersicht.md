@@ -3,9 +3,7 @@ title: KER Monatsübersicht
 program: FIBUNext
 ---
 
-<span id="ker-monatsubersicht" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="ausdruck-ker-monatsubersicht" class="legacy-anchor" aria-hidden="true"></span>
 ## Ausdruck KER Monatsübersicht
 
 

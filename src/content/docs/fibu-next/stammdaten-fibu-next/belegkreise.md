@@ -3,9 +3,7 @@ title: Belegkreise
 program: FIBUNext
 ---
 
-<span id="belegkreise" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="belegkreise_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Belegkreise
 
 
@@ -51,7 +49,6 @@ Wählen Sie einen der angelegten Belegkreise in der Liste aus, können Sie diese
 | **Nur** **Hinweis** **anzeigen**                                           | Sind nur bestimmte Kontenbereiche für die Verbuchung innerhalb dieses Bereiches aktiviert, können Sie mit der Option Nur Hinweis anzeigen festlegen ob: Feld aktiv: Nicht ausgewählte Kontenbereiche können bebucht werden. Sie werden bei der Verbuchung darauf hingewiesen Feld nicht aktiv: Nicht ausgewählte Kontenbereiche können nicht bebucht werden. |
 
 
-<span id="belegkreis-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Belegkreis löschen
 
 

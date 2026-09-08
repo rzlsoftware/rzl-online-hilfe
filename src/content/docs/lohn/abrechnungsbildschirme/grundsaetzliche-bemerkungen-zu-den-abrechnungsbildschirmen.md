@@ -3,7 +3,6 @@ title: Grundsätzliche Bemerkungen zu den Abrechnungsbildschirmen
 program: LOHN
 ---
 
-<span id="grundsatzliche-bemerkungen-zu-den-abrechnungsbildschirmen" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Eingabe sämtlicher Stammdaten des Dienstnehmers (Stammdaten und Daten für die laufende Abrechnung) ist auf 22 Bildschirme verteilt.
 

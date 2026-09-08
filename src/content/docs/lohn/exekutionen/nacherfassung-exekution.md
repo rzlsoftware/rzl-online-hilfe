@@ -3,7 +3,6 @@ title: Nacherfassung Exekution
 program: LOHN
 ---
 
-<span id="nacherfassung-exekution" class="legacy-anchor" aria-hidden="true"></span>
 
 Wenn außerhalb der Lohnverrechnung bereits Exekutionsbeträge beim Dienstnehmer abge­zogen wurden oder wenn die Exekutionsbeträge bisher manuell als Abzug eingetragen wurden, können die Daten für die korrekte Verwaltung der Exekution im Programmteil *Stamm / Exekutionsbeträge* nacherfasst werden.
 

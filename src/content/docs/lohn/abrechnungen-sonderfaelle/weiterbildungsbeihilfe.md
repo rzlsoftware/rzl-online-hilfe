@@ -3,7 +3,6 @@ title: Weiterbildungsbeihilfe gemäß § 37e AMSG
 program: LOHN
 ---
 
-<span id="weiterbildungsbeihilfe-gema-37e-amsg" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Wichtigste Eckpunkte
 
@@ -47,7 +46,6 @@ program: LOHN
 
 - Die Höhe der Weiterbildungsteilzeitbeihilfe für Bildungsteilzeit ist in Abhängigkeit vom Einkommen und vom Ausmaß der Arbeitszeitreduktion analog zu berechnen.
 
-<span id="ams-pauschalsatztabelle-fur-2026" class="legacy-anchor" aria-hidden="true"></span>
 ## AMS-Pauschalsatztabelle für 2026
 
 Stufenmodell zur Höhe der Weiterbildungsbeihilfe gemäß § 37e AMSG.
@@ -68,7 +66,6 @@ Für die Weiterbildungsteilzeitbeihilfe kommt ebenfalls das Stufenmodell zur Anw
 
 Die Höhe der Beihilfe richtet sich nach dem Ausmaß der Arbeitszeitreduktion. Die Reduktion muss mindestens **25 %** und darf höchstens **50 %** betragen.
 
-<span id="musterlohnart-fur-die-weiterbildungsbeihilfe" class="legacy-anchor" aria-hidden="true"></span>
 ## Musterlohnart für die Weiterbildungsbeihilfe
 
 | Abgabenart         | frei / pflichtig | Rechtsgrundlage            |

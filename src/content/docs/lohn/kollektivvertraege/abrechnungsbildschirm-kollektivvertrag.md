@@ -3,13 +3,11 @@ title: Abrechnungsbildschirm Kollektivvertrag
 program: LOHN
 ---
 
-<span id="abrechnungsbildschirm-kollektivvertrag" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Zuordnung des Kollektivvertrages zum Dienstnehmer erfolgt im Abrechnungsbildschirm [*Kollektivvertrag*](/lohn/abrechnungsbildschirme/kollektivvertrag/).
 
 ![Image](<img/image437.png>){width="500"}
 
-<span id="uberwachung-der-kv-bezuge-in-der-abrechnung" class="legacy-anchor" aria-hidden="true"></span>
 ## Überwachung der KV-Bezüge in der Abrechnung
 
 Bei einer *Neuanlage, laufenden Abrechnung mit Änderung, Wiedereintritt* oder *Korrektur letzter Abrechnung* weist das Programm im rechten oberen Bereich *Fristen/Termine* auf Unterzahlungen hin.
@@ -18,7 +16,6 @@ Bei einer *Neuanlage, laufenden Abrechnung mit Änderung, Wiedereintritt* oder *
 
 Für die Ermittlung der Unterschreitung der Grenzen (KV-Mindestlohn, Überzahlungen) werden die Eintragungen in den *Fixen Lohnarten* (Bruttobezug, Höhe des Stundenlohnes) und in den *freien Lohnarten*, bei denen das Feld *KV-Bezug* aktiviert ist, berücksichtigt.
 
-<span id="ubernahme-der-kv-bezuge" class="legacy-anchor" aria-hidden="true"></span>
 ## Übernahme der KV-Bezüge
 
 Die automatische Übernahme der Kollektivvertragsbezüge mit oder ohne Überzahlungen kann im Abrechnungsbildschirm *Fixe Lohnarten* erfolgen.

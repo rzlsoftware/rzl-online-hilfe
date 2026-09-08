@@ -3,7 +3,6 @@ title: Allgemeine Einstellungen für ASP- bzw. Cloud-Anwender
 program: LOHN
 ---
 
-<span id="allgemeine-einstellungen-fur-asp-bzw-cloud-anwender" class="legacy-anchor" aria-hidden="true"></span>
 
 Über *Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK absenden* gelangen Sie in den Absendedialog. Dort wählen Sie den Button *Pfad ELDA-Win* an.
 

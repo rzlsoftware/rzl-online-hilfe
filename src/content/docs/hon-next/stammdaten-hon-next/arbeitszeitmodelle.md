@@ -3,7 +3,6 @@ title: Arbeitszeitmodelle
 program: HONNext
 ---
 
-<span id="arbeitszeitmodelle" class="legacy-anchor" aria-hidden="true"></span>
 
 Ein Arbeitszeitmodell wird benötigt, um das Ausmaß und die Lage der
 (fiktiven) Normalarbeitszeit der Mitarbeiter abbilden zu können. Ein
@@ -74,7 +73,6 @@ die erforderlichen Ruhepausen nicht eingehalten werden.
 Für Mutterschutz- und/oder Karenzzeiten wird empfohlen ein Arbeitszeitmodell mit Null Stunden anzulegen. Dies ist anschließend über eine neue Generation im benötigen Zeitraum dem Mitarbeiter zuzuordnen.
 
 :::
-<span id="arbeitszeitmodell-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Arbeitszeitmodell löschen
 
 Sie können Arbeitszeitmodelle nur löschen, wenn diese nicht mehr bei

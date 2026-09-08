@@ -3,7 +3,6 @@ title: Besonderheiten bei den Lohnformeln
 program: LOHN
 ---
 
-<span id="besonderheiten-bei-den-lohnformeln" class="legacy-anchor" aria-hidden="true"></span>
 
 ## WENN-DANN Bedingungen
 

@@ -3,7 +3,6 @@ title: Interne Note
 program: HONNext
 ---
 
-<span id="interne-note" class="legacy-anchor" aria-hidden="true"></span>
 
 Für Situationen, in denen die offenen Leistungen nicht mehr an den
 Klienten weiterverrechnet werden sollen/können, bietet das RZL HON die

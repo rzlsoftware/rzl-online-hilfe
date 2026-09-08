@@ -3,7 +3,6 @@ title: Sozialversicherung
 program: LOHN
 ---
 
-<span id="sozialversicherung" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image144.png>)
 
@@ -39,7 +38,6 @@ Seit November 2005 werden allen Dienstnehmern mit einem aufrechten Dienstverhäl
 
 Liegt ausnahmsweise eine Befreiung vor, ist dieses Feld zu aktivieren.
 
-<span id="alv-ruckverrechnung" class="legacy-anchor" aria-hidden="true"></span>
 ## AlV-Rückverrechnung
 
 In Ausnahmefällen kann die Rückverrechnung der Arbeitslosenversicherung manuell durch die einzelnen Felder der *AlV-Rückverrechnung* gesteuert werden.

@@ -3,7 +3,6 @@ title: Kopf- und Fußzeile
 program: Reporting
 ---
 
-<span id="kopf-und-fuzeile" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Bereiche oberhalb und unterhalb des Schriftspiegels können mit Hilfe der Kopf- und Fußzeile gestaltet werden. Hier können Sie Informationen zur Orientierung und Navigation, wie zum Beispiel die Seitenzahl oder das Datum, aufnehmen. Dieser Text wird anschließend auf jeder Seite wiederholt ausgedruckt.
 

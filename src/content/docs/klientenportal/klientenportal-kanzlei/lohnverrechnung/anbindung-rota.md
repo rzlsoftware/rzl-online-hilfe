@@ -3,7 +3,6 @@ title: Anbindung an rota-Schnittselle
 program: Klientenportal
 ---
 
-<span id="anbindung-an-rota-schnittselle" class="legacy-anchor" aria-hidden="true"></span>
 
 
 Mit dem Klientenportal **Modul rota Schnittstelle** können Sie die von Ihrem Klienten erfassten Daten in der rota-Software direkt in das RZL Lohn-Programm importieren.

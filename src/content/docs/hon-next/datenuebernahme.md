@@ -3,7 +3,6 @@ title: Datenübernahme
 program: HONNext
 ---
 
-<span id="datenubernahme" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Honorarverrechnung ermöglicht durch Anwahl des Programmteils
 *Datenübernahme / Datenimport* den Import von Tätigkeiten aus einer CSV-
@@ -11,7 +10,6 @@ Datei. Um den erfolgreichen Import zu gewährleisten, muss die
 Importdatei genau dem Format laut Schnittstellenbeschreibung
 entsprechen.
 
-<span id="datenimport-tatigkeiten" class="legacy-anchor" aria-hidden="true"></span>
 ## Datenimport Tätigkeiten
 
 Im Feld *Dateiname* können Sie mit den drei Punkten **(1)** die zu
@@ -41,7 +39,6 @@ angelegt. Bestehende Tätigkeiten können mit dem Import nicht
 überschrieben werden.
 
 :::
-<span id="schnittstellenbeschreibung-import-tatigkeiten" class="legacy-anchor" aria-hidden="true"></span>
 ### Schnittstellenbeschreibung Import Tätigkeiten
 
 Es werden nur Dateien im Format „CSV (Trennzeichen-getrennt)“
@@ -395,7 +392,6 @@ CR\LF getrennt.
 </tbody>
 </table>
 
-<span id="protokolle-datenubernahme" class="legacy-anchor" aria-hidden="true"></span>
 ### Protokolle Datenübernahme
 
 Über den Menüpunkt *Datenübernahme / Protokolle* können Sie sich die

@@ -3,7 +3,6 @@ title: WEBEKU Webservice
 program: LOHN
 ---
 
-<span id="webeku-webservice" class="legacy-anchor" aria-hidden="true"></span>
 
 Diese Anbindung – über einen neu anzulegenden USP-Webservice-Benutzer – ermöglicht einen einfachen und direkten Zugriff auf die Kontosalden und/oder Buchungen auf den abgerechneten ÖGK-Beitragskontonummern.
 

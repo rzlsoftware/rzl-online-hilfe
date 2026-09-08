@@ -83,7 +83,6 @@ Wurde bei Risikobeurteilungen bevor Sie das WiEReG/Geldwäsche Modul erworben ha
 Haben Sie vor den Neuerungen zur Geldwäscheprävention bereits Risikobeurteilungen angelegt, wird auf Basis der hinterlegten Aufgabenvorlage trotzdem eine Aufgabe erstellt, sofern drei Jahre seit der letzten Beurteilung noch nicht verstrichen sind. Das könnte bedeuten, dass in der Anfangsphase manche Aufgaben doppelt vorhanden sind: Automatisch erzeugte Aufgaben sowie jene, die bereits zuvor manuell erstellt wurden.
 
 :::
-<span id="verwaltung-der-dokumente-im-zusammenhang-mit-der-geldwaschepravention" class="legacy-anchor" aria-hidden="true"></span>
 ## Verwaltung der Dokumente im Zusammenhang mit der Geldwäscheprävention
 
 Dokumente, die im Rahmen der Identifizierung Auftraggeber bzw. der
@@ -102,7 +101,6 @@ aufrufen.
 
 ![Dokumente aus Dokumentbereich](<img/image210.png>)
 
-<span id="klientenlisten-geldwaschepraventionrisikobeurteilung" class="legacy-anchor" aria-hidden="true"></span>
 ## Klientenlisten Geldwäscheprävention/Risikobeurteilung
 
 Mit folgenden Rollen können Mitarbeiter/innen im RZL die Funktionen der Geldwäscheprävention nutzen:

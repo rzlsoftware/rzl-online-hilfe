@@ -3,7 +3,6 @@ title: Klientendaten aus der RZL Lohnverrechnung exportieren
 program: Klientenportal
 ---
 
-<span id="klientendaten-aus-der-rzl-lohnverrechnung-exportieren" class="legacy-anchor" aria-hidden="true"></span>
 
 
 :::caution[Hinweis]

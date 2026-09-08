@@ -3,7 +3,6 @@ title: Sachbezug anlegen und abrechnen
 program: LOHN
 ---
 
-<span id="sachbezug-anlegen-und-abrechnen" class="legacy-anchor" aria-hidden="true"></span>
 
 In dieser Anleitung erfahren Sie, wie Sie einen Sachbezug anlegen und beim Dienstnehmer abrechnen.
 
@@ -82,7 +81,6 @@ Je nach gewünschter Verbuchung stehen drei Varianten zur Verfügung:
 | **3. Abzug direkt beim Dienstnehmer**       | der Bezug über eine freie Lohnart und der Abzug direkt in der Abrechnung erfasst werden soll |
 
 
-<span id="variante-1-eine-lohnart-fur-bezug-und-abzug" class="legacy-anchor" aria-hidden="true"></span>
 ### Variante 1 – Eine Lohnart für Bezug und Abzug
 
 Legen Sie eine freie Lohnart mit der Art *Bezug* an und aktivieren Sie das Feld *Sachbezug*. Dadurch wird in der Abrechnung automatisch ein Abzug in gleicher Höhe erzeugt.
@@ -109,7 +107,6 @@ Die korrekte *Sachbezugsart* ist erforderlich, damit die Zuordnung auf dem **Jah
 
 Bei der Sachbezugsart *Sachbezug KFZ* wird bei der Abrechnung automatisch im Bereich [*Lohnsteuer*](/lohn/abrechnungsbildschirme/lohnsteuer/#pendlerpauschale) bei *Firmenfahrzeug* die Checkbox aktiviert. Dadurch werden am Jahreslohnzettel (sowie am Jahreslohnkonto) die betroffenen Monate bei „Überlassung eines arbeitgebereigenen KFZ für Fahrten Wohnung–Arbeitsstätte, Anzahl Kalendermonate (§ 16 Abs. 1 Z 6 lit. b)“ berücksichtigt.
 
-<span id="variante-2-eigene-lohnart-fur-bezug-und-abzug" class="legacy-anchor" aria-hidden="true"></span>
 ### Variante 2 – Eigene Lohnart für Bezug und Abzug
 
 Verwenden Sie diese Variante, wenn für Bezug und Abzug **unterschiedliche FIBU-Kontonummern** benötigt werden.
@@ -134,7 +131,6 @@ Wählen Sie anschließend im Register **LA (4)** die entsprechende *Art des Sach
 Bei dieser Variante darf das Feld *Sachbezug* **nur** bei der *Abzugslohnart* aktiviert sein. Wird es bereits bei der *Bezugslohnart* aktiviert, erzeugt das Programm automatisch einen Abzug. Zusammen mit der eigenen Abzugslohnart würde der Sachbezug dadurch doppelt abgezogen.
 
 :::
-<span id="variante-3-abzug-direkt-beim-dienstnehmer" class="legacy-anchor" aria-hidden="true"></span>
 ### Variante 3 – Abzug direkt beim Dienstnehmer
 
 Legen Sie eine freie Lohnart mit der Art *Bezug* an. Das Feld *Sachbezug* bleibt **deaktiviert**.
@@ -159,7 +155,6 @@ Bei dieser Variante darf das Feld *Sachbezug* **nur** bei der *Abzugslohnart* ak
 
 Erfassen Sie den Sachbezug beim Dienstnehmer entsprechend der zuvor gewählten Variante. Je nach gewählter Variante erfassen Sie nur die Bezugslohnart, die Bezugs- und Abzugslohnart oder den Abzug direkt im Bereich [*Abzüge*](/lohn/abrechnungsbildschirme/abzuege/#sachbezug).
 
-<span id="zusatzlich-bei-einem-kfz-sachbezug" class="legacy-anchor" aria-hidden="true"></span>
 ### Zusätzlich bei einem KFZ-Sachbezug
 
 Bei einem KFZ-Sachbezug muss zusätzlich die **KFZ-Nummer** hinterlegt werden.
@@ -179,10 +174,8 @@ Dies erfolgt entweder:
 
 ![Image](img/image883.png){width="500"}
 
-<span id="sonderfalle" class="legacy-anchor" aria-hidden="true"></span>
 ## Sonderfälle
 
-<span id="sonderfall-sachbezug-0" class="legacy-anchor" aria-hidden="true"></span>
 ### Sonderfall: Sachbezug 0 %
 
 Auch ein Sachbezug mit **0 %** muss entsprechend berücksichtigt werden.
@@ -209,7 +202,6 @@ Bei einem KFZ-Sachbezug sorgt *Explizit 0* zusätzlich dafür, dass die relevant
 Wenn Sie unter *Abzüge* den Sachbezugsabzug erfassen, können Sie auch dort *Explizit 0* auswählen.
 
 :::
-<span id="sonderfall-auslandstatigkeit" class="legacy-anchor" aria-hidden="true"></span>
 ### Sonderfall: Auslandstätigkeit
 
 Ist ein Dienstnehmer im Ausland tätig, sind beim Sachbezug zusätzliche Einstellungen erforderlich.

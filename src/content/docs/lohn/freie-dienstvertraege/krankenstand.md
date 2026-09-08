@@ -3,7 +3,6 @@ title: Krankenstand
 program: LOHN
 ---
 
-<span id="krankenstand" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](img/image148.png){width="500"}
 

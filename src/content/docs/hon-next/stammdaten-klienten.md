@@ -3,7 +3,6 @@ title: Stammdaten Klienten
 program: HONNext
 ---
 
-<span id="stammdaten-klienten" class="legacy-anchor" aria-hidden="true"></span>
 
 In den Klienten-Stammdaten werden grundlegende Einstellungen für die
 Notenerstellung und spätere Verbuchung in der Finanzbuchhaltung

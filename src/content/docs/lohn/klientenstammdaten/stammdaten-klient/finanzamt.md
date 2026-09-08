@@ -3,11 +3,9 @@ title: Finanzamt
 program: LOHN
 ---
 
-<span id="finanzamt" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image24.png>){width="500"}
 
-<span id="finanzamt_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Finanzamt
 
 **Finanzamt Steuernummer**
@@ -54,7 +52,6 @@ Bis 2008 gab es die Möglichkeit, als Selbstträger der Familienbeihilfe den DB 
 
 In diese drei Eingabefelder können Sie die jeweiligen Verbindlichkeitskonten eingeben. Die Eingabe ist für die Kontierung am Buchungsbeleg nötig.
 
-<span id="selbstbemessungsabgaben-ubermitteln" class="legacy-anchor" aria-hidden="true"></span>
 ## Selbstbemessungsabgaben übermitteln
 
 Die Aktivierung dieses Feldes ermöglicht die Erstellung einer xml-Datei zur [Meldung der Selbstbemessungsabgaben](/lohn/selbstbemessungsabgaben-melden/) in FinanzOnline.

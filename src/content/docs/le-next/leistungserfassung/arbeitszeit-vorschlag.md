@@ -3,7 +3,6 @@ title: Arbeitszeit Vorschlag
 program: LENext
 ---
 
-<span id="arbeitszeit-vorschlag" class="legacy-anchor" aria-hidden="true"></span>
 
 Wenn Sie in die Leistungserfassung einsteigen, öffnet sich standardmäßig
 der heutige Tag **(1)**.

@@ -3,9 +3,7 @@ title: Allgemeines
 program: HONNext
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="offnen-der-honorarverrechnung" class="legacy-anchor" aria-hidden="true"></span>
 ## Öffnen der Honorarverrechnung
 
 Durch die Anwahl des Menüpunktes HON (1) gelangen Sie in die

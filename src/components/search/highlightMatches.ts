@@ -31,8 +31,9 @@ function prefersReducedMotion(): boolean {
  * The heading the reader navigated to: the anchored heading when the result
  * linked to one, otherwise the page title.
  *
- * Legacy anchors (`<span id="…" class="legacy-anchor">`) carry no text, so an
- * empty element falls back to the `<h1>`, which is what those anchors mirror.
+ * A hash that no longer resolves to any element (e.g. an old MkDocs anchor
+ * id that doesn't match Starlight's slug for that heading) falls back to the
+ * `<h1>` the same way a missing hash does.
  */
 function navigationTarget(): HTMLElement | null {
   const rawHash = window.location.hash.slice(1);

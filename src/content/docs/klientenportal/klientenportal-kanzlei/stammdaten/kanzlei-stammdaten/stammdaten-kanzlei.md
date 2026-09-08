@@ -3,7 +3,6 @@ title: Stammdaten der Kanzlei
 program: Klientenportal
 ---
 
-<span id="stammdaten-der-kanzlei" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Menü *Stammdaten / Kanzlei / Kanzleistammdaten* können Sie die Stammdaten der Kanzlei hinterlegen.
 

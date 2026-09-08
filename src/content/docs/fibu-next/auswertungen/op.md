@@ -3,7 +3,6 @@ title: OP
 program: FIBUNext
 ---
 
-<span id="op" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Auswertung OP
 

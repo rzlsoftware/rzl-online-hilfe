@@ -3,13 +3,11 @@ title: Vorerfassung
 program: LOHN
 ---
 
-<span id="vorerfassung" class="legacy-anchor" aria-hidden="true"></span>
 
 Der Programmteil *Vorerfassung* bietet die Möglichkeit, Daten zu erfassen, **ohne** eine Abrechnung zu speichern. Die Bildschirme für die Datenvorerfassung unterscheiden sich nicht von den „normalen“ Abrechnungsbildschirmen.
 
 Im Rahmen der Vorerfassung können folgende Programmteile angesprochen werden:
 
-<span id="neuanlage-stammdaten-anmeldung-dienstnehmer" class="legacy-anchor" aria-hidden="true"></span>
 ## Neuanlage Stammdaten / Anmeldung Dienstnehmer
 
 Durch Anwahl des Programmteils *Vorerfassung / Neuanlage Stammdaten / Anmeldung Dienstnehmer* wird automatisch der Abrechnungsbildschirm *Stammdaten Dienstnehmer* aufgerufen.
@@ -20,7 +18,6 @@ Dieser Programmteil kann verwendet werden, wenn der Dienstnehmer zwar angelegt, 
 Im Zuge der Vorerfassung Neuanlage/Anmeldung Dienstnehmer kann bereits die reduzierte Anmeldung oder die Anmeldung fallweise Beschäftigte erstellt werden.
 
 :::
-<span id="neuanlage-stammdaten-anmeldung-freier-dienstvertrag" class="legacy-anchor" aria-hidden="true"></span>
 ## Neuanlage Stammdaten / Anmeldung Freier Dienstvertrag
 
 Wenn der Programmteil *Vorerfassung / Neuanlage Stammdaten / Anmeldung Freier Dienstvertrag* aufgerufen wird, können die Daten für freie Dienstnehmer vorerfasst werden, die zwar angelegt, aber noch nicht abgerechnet werden sollen. Vgl. [Neuanlage Dienstnehmer](/lohn/abrechnungen/neuanlage-dienstnehmer/).
@@ -33,7 +30,6 @@ Der Programmteil *Vorerfassung / Vorerfassung Abrechnung* kann verwendet werden,
 Im Zuge der *Vorerfassung Abrechnung* können neben den Bezügen auch Stammdaten geändert werden und *Änderungsmeldungen* erstellt werden.
 
 :::
-<span id="korrektur-vorerfassung-stammdaten" class="legacy-anchor" aria-hidden="true"></span>
 ## Korrektur Vorerfassung / Stammdaten
 
 Bereits gespeicherte Vorerfassungen können über den Programmteil *Vorerfassung / Korrektur Vorerfassung / Stammdaten* nochmals angesehen bzw. bearbeitet werden.
@@ -50,7 +46,6 @@ Auch Wiedereintritte können vorerfasst werden. Voraussetzung dafür ist, dass i
 
 Vorerfassungen, die noch nicht in einer Abrechnung gespeichert wurden, können durch Anwahl des Programmteils *Vorerfassung / Storno Vorerfassung* wieder storniert werden. Falls bereits ELDA Meldungen erfolgt sind, müssen diese vorher storniert werden.
 
-<span id="ubernahme-der-vorerfassungen-in-die-monatsabrechnung" class="legacy-anchor" aria-hidden="true"></span>
 ## Übernahme der Vorerfassungen in die Monatsabrechnung
 
 Die Übernahme der vorerfassten Daten erfolgt in den Programmteilen *Abrechnungen / Lfd. Abrechnung mit Änderung* *oder Abrechnungen / Lfd. Abrechnung ohne Änderung*.

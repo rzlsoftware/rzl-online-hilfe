@@ -3,7 +3,6 @@ title: Anlegen des Klienten (Dienstgebers) im RZL Lohn
 program: LOHN
 ---
 
-<span id="anlegen-des-klienten-dienstgebers-im-rzl-lohn" class="legacy-anchor" aria-hidden="true"></span>
 
 Wenn Sie mit dem RZL LOHN **erstmals** zu arbeiten beginnen, müssen Sie als ersten Schritt die Stammdaten des Klienten (Dienstgebers) in der **Zentralen Mandantenverwaltung** bzw. im **RZL BOARD** anlegen. Ist dieser Schritt erledigt, so kann der Klient auch im Lohnprogramm angelegt werden. Die Anlage in der *ZMV* bzw. im *RZL BOARD* ist nicht mehr durchzuführen, wenn z. B. für den zukünftigen Lohn-Klienten bereits eine FIBU existiert.
 
@@ -25,7 +24,6 @@ Wenn Sie die Klientennummer eingeben, wird vom Programm automatisch das Mengenge
 Die Anlage des Mengengerüsts sollte den tatsächlichen Anforderungen des Klienten entsprechen, um nicht unnötig Speicherplatz auf der Festplatte zu reservieren. Entspricht das Mengengerüst, das Sie bei der Neuanlage des Klienten gewählt haben nicht mehr den Anforderungen, so können Sie das [Mengengerüst](/lohn/verwaltung/) durch Anwahl des Menüpunkts *Klient / Vergrößern/Verkleinern* an die neuen Anforderungen anpassen.
 
 :::
-<span id="mengengerust-1" class="legacy-anchor" aria-hidden="true"></span>
 ## Mengengerüst 1
 
 **Passwort**
@@ -65,7 +63,6 @@ Hier können Sie festlegen, wie viele Vergütungsanträge gemäß § 53b des All
 Mengengerüst für die freien Lohnarten (zwischen 200 und 1.000).
 
 
-<span id="mengengerust-2" class="legacy-anchor" aria-hidden="true"></span>
 ## Mengengerüst 2
 
 ![Image](<img/image4.png>){width="500"}
@@ -99,7 +96,6 @@ Innerhalb der Lohnabrechnung können Sie mit selbsterstellten Berechnungen, soge
 Hier können Sie das Mengengerüst für die Zeilen der Urlaubs- und Krankenstandsdatei festlegen.
 
 
-<span id="mengengerust-3" class="legacy-anchor" aria-hidden="true"></span>
 ## Mengengerüst 3
 
 ![Image](<img/image5.png>){width="500"}

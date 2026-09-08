@@ -3,7 +3,6 @@ title: Für Klienten bereitgestellte Belege (Belegearchiv)
 program: Klientenportal
 ---
 
-<span id="fur-klienten-bereitgestellte-belege-belegearchiv" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Im RZL Board
 Im RZL Board besteht die Möglichkeit Belege aus dem Board -- händisch oder automatisiert ergänzt um die Buchungsdaten -- in der Belegbox des Klienten am RZL Klientenportal bereitzustellen. Die Übersicht finden Sie im Kanzleibereich des Klientenportals im Programmteil *Belegbox / Für Klienten bereitgestellte Belege*.

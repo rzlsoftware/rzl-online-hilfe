@@ -3,7 +3,6 @@ title: Buchungszeile
 program: FIBUNext
 ---
 
-<span id="buchungszeile" class="legacy-anchor" aria-hidden="true"></span>
 
 ###Buchungszeile
 
@@ -63,7 +62,6 @@ Genauere Informationen zur Belegverarbeitung finden Sie im Handbuch *Belegverarb
 
 
 :::
-<span id="buchen-von-geschaftsfallen" class="legacy-anchor" aria-hidden="true"></span>
 ### Buchen von Geschäftsfällen
 
 
@@ -185,7 +183,6 @@ Die Buchungen auf den jeweiligen Sachkonten können geändert werden, auch nach 
 
 
 :::
-<span id="verbuchung-von-nettobetragen" class="legacy-anchor" aria-hidden="true"></span>
 #### Verbuchung von Nettobeträgen
 
 Bei Splitbuchungen gibt es die Möglichkeit Nettowerte einzugeben. Hierzu muss vor dem jeweiligen Steuersatz ein N eingegeben werden (z.B. N20). Dabei erfolgt die Anzeige der gebuchten Beträge in den beiden oberen Anzeigefeldern jedoch immer brutto. Durch diese Art der Verbuchung erspart man sich das Umrechnen von Netto-Teilbeträgen auf Bruttobeträge.
@@ -214,7 +211,6 @@ Für Nullrechnungen wird kein OP angelegt. Das Feld *OP* wird inaktiv.
 
 
 :::
-<span id="buchungsfunktionen-andern-loschen-einer-buchung" class="legacy-anchor" aria-hidden="true"></span>
 ### Buchungsfunktionen (Ändern & Löschen einer Buchung)
 
 

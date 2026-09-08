@@ -15,7 +15,6 @@ In diesem Register können Sie einerseits Platzhalter für die
 Briefvorlage einfügen und Eigenschaften für KIS Dokumentenimport
 vorauswählen. Beide Schritte werden nachfolgend beschrieben.
 
-<span id="platzhalter-fur-briefvorlage-einfugen" class="legacy-anchor" aria-hidden="true"></span>
 ## Platzhalter für Briefvorlage einfügen
 
 Damit das geöffnete Word-Dokument bereits die Empfängerdaten und weitere
@@ -67,7 +66,6 @@ werden.
 
 ![Platzhalter Klientendaten](<img/image312.png>)
 
-<span id="naturliche-person" class="legacy-anchor" aria-hidden="true"></span>
 #### Natürliche Person
 
 ![Platzhalter natürliche Person](<img/image313.png>)
@@ -76,7 +74,6 @@ werden.
 
 ![Platzhalter Firmendaten](<img/image314.png>)
 
-<span id="firmendaten-oder-naturliche-person" class="legacy-anchor" aria-hidden="true"></span>
 #### Firmendaten oder natürliche Person
 
 ![Firmendaten od. natürliche Person](<img/image315.png>)
@@ -89,7 +86,6 @@ natürlichen Person.
 
 ![Platzhalter FA-Daten](<img/image316.png>)
 
-<span id="finanzamtdaten-dienstelle" class="legacy-anchor" aria-hidden="true"></span>
 ####  Finanzamtdaten - Dienstelle
 
 ![Dienstelle einfügen](<img/image317.png>)
@@ -120,7 +116,6 @@ Dienstelle Braunau Ried Schärding
 
 ![sonstige Daten - Zustelladresse](<img/image321.png>)
 
-<span id="zustandige-mitarbeiter" class="legacy-anchor" aria-hidden="true"></span>
 #### Zuständige Mitarbeiter
 
 ![Zuständige Mitarbeiter](<img/image322.png>)
@@ -129,7 +124,6 @@ Mit diesem Platzhalter können die Mitarbeiternamen oder die
 Kurzbezeichnung der Mitarbeiter für die einzelnen Zuständigkeiten
 automatisch übernommen werden.
 
-<span id="eigenschaften-fur-kis-dokumentenimport-vorauswahlen" class="legacy-anchor" aria-hidden="true"></span>
 ## Eigenschaften für KIS Dokumentenimport vorauswählen
 
 Wenn Sie eine Word-Vorlage für regelmäßige Schreiben erstellen, für die

@@ -3,9 +3,7 @@ title: Belege an den Steuerberater bzw. in die Zentrale übermitteln
 program: Belegverarbeitung
 ---
 
-<span id="belege-an-den-steuerberater-bzw-in-die-zentrale-ubermitteln" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="belegkreise-fur-das-klientenportal-aktivieren" class="legacy-anchor" aria-hidden="true"></span>
 ## Belegkreise für das Klientenportal aktivieren
 
 In den Stammdaten des jeweiligen Klienten im Bereich *Belegverarbeitung
@@ -15,7 +13,6 @@ bzw. die Außenstelle am Klientenportal auswählen kann.
 
 ![](img/image65.png)
 
-<span id="belege-wie-vorhanden-ubermitteln" class="legacy-anchor" aria-hidden="true"></span>
 ## Belege wie vorhanden übermitteln
 
 Mit der Funktion *Belegbox / Belege übermitteln* können Sie Belege auf
@@ -57,7 +54,6 @@ Die Übermittlung über das RZL Klientenportal bietet folgende Vorteile:
     aufbereiten (Seiten zusammenfassen, Leerseiten löschen, Belegkreis
     zuord­nen, usw.).
 
-<span id="belege-mit-dem-rzl-scan-manager-ubermitteln" class="legacy-anchor" aria-hidden="true"></span>
 ## Belege mit dem RZL Scan-Manager übermitteln
 
 Falls Ihr Klient die Belege vor dem Hochladen noch aufbereiten möchte
@@ -153,7 +149,6 @@ anwählen.
 Nach dem Hochladen kommt eine Bestätigungsmeldung, dass die Belege auf
 das Klientenportal hochgeladen wurden.
 
-<span id="bereits-vorhandene-belege-in-den-rzl-scan-manager-einfugen" class="legacy-anchor" aria-hidden="true"></span>
 ### Bereits vorhandene Belege in den RZL Scan-Manager einfügen
 
 Wenn die Belege bereits als Dateien auf der Festplatte oder im Netzwerk
@@ -163,7 +158,6 @@ Sie den Ordner, in dem die Belege abgespeichert sind.
 Ziehen Sie nun mit Hilfe der Maus die gewünschten Belege per Drag & Drop
 in den RZL Scan-Manager auf den gewünschten Belegkreis.
 
-<span id="belege-vom-klientenportal-ins-modul-belege-im-rzl-board-ubernehmen" class="legacy-anchor" aria-hidden="true"></span>
 ## Belege vom Klientenportal ins Modul Belege im RZL Board übernehmen
 
 In der RZL Belegverarbeitung können Sie nach dem Öffnen des jeweiligen

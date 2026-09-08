@@ -3,11 +3,9 @@ title: Ausdruck Abrechnungen
 program: LOHN
 ---
 
-<span id="ausdruck-abrechnungen" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Abrechnungen der Dienstnehmer werden im Programmteil *Ausdruck / Abrechnungen* ausgedruckt.
 
-<span id="ausdruck-abrechnungen-optionen-1" class="legacy-anchor" aria-hidden="true"></span>
 ## Ausdruck Abrechnungen - Optionen (1)
 
 ![Image](<img/image220.png>){width="500"}
@@ -44,7 +42,6 @@ Wird nur das Auswahlfeld *Adressvorblatt* aktiviert, dann wird im ersten Drittel
 
 Durch Anwahl *mit Lohnnebenkosten* wird ein extra Blatt mit der Aufstellung der Lohnnebenkosten zusätzlich ausgedruckt.
 
-<span id="ausdruck-abrechnungen-optionen-2" class="legacy-anchor" aria-hidden="true"></span>
 ## Ausdruck Abrechnungen - Optionen (2)
 
 ![Image](<img/image221.png>){width="500"}

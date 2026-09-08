@@ -3,7 +3,6 @@ title: Tabellenspalte
 program: Reporting
 ---
 
-<span id="tabellenspalte" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit diesem Eigenschaftsfenster kann jede Spalte einer Tabelle bearbeitet werden.
 
@@ -29,7 +28,6 @@ Wählen Sie eine Hintergrundfarbe aus.
 
 Hier haben Sie die Möglichkeit, eine Sortierung der Spalte vorzunehmen: *Aufsteigend* oder *Absteigend*.
 
-<span id="sortierprioritat" class="legacy-anchor" aria-hidden="true"></span>
 ## Sortierpriorität
 
 Nach der Sortierreihenfolge können Sie hier wählen, welche Spalte, in welcher Sortierreihenfolge Vorrang hat. Wenn die Spalte „Nachname" aufsteigend sein soll und vorrangig zur Spalte „Vorname" sein soll, geben Sie bei „Nachname" die Sortierpriorität 1 ein und bei der Spalte „Vorname" die  Sortierpriorität 2.

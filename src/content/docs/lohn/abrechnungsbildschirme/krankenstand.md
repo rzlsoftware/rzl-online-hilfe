@@ -3,7 +3,6 @@ title: Krankenstand
 program: LOHN
 ---
 
-<span id="krankenstand" class="legacy-anchor" aria-hidden="true"></span>
 
 Dieser Abrechnungsbildschirm ermöglicht die automatische Berechnung der Entgeltfortzahlungsansprüche für Arbeiter, Angestellte und Lehrlinge im Krankenstand.
 
@@ -55,7 +54,6 @@ Die bloße Änderung der Beschäftigtengruppe im Abrechnungsbildschirm [*Sozialv
 
 Mit der Angleichung der EFZ-Ansprüche bei Arbeitern und Angestellten kam es zu der Änderung, dass bei einem Wechsel von Arbeiter auf Angestellten bzw. umgekehrt kein getrennter Anspruch mehr besteht. Falls jedoch in Ausnahmefällen die EFZ-Ansprüche bei einem Wechsel getrennt werden müssen, können Sie seit 01.10.2021 *Arbeiter und Angestellte getrennt (Arbeitsjahr)* anwählen. Somit werden die Ansprüche von Arbeiter und Angestellte in diesem Arbeitsjahr getrennt betrachtet.
 
-<span id="anzeige-der-anspruche-vornahme-von-kurzungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Anzeige der Ansprüche – Vornahme von Kürzungen
 
 Im unteren Bereich des Abrechnungsbildschirms *Krankenstand* werden die Ansprüche, der Verbrauch und die noch zur Verfügung stehenden Tage angezeigt. Die Darstellung erfolgt unterschiedlich, je nachdem, ob ein Arbeiter, Angestellter oder Lehrling abgerechnet wird.

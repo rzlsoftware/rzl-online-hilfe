@@ -3,7 +3,6 @@ title: Bezugsumwandlung (E-)Bike Leasing (Firmenradl)
 program: LOHN
 ---
 
-<span id="bezugsumwandlung-e-bike-leasing-firmenradl" class="legacy-anchor" aria-hidden="true"></span>
 
 Eine Gehaltsumwandlung ist nur durch eine vorgenommene Dienstvertragsänderung für die Zukunft (Barlohnreduktion und Überlassung \[Elektro-\] Fahrrad) steuerlich anzuerkennen.
 
@@ -13,7 +12,6 @@ Es ist somit bei einer Gehaltsumwandlung des (E-) Bikes die *Fixe Lohnart Lohn/G
 
 Ein Ausweis am Lohnkonto bzw. am Lohnzettel ist zum derzeitigen Stand nicht notwendig.
 
-<span id="moglichkeit-1-des-ausweises-auf-der-abrechnung-nicht-notwendig" class="legacy-anchor" aria-hidden="true"></span>
 ## Möglichkeit 1 des Ausweises auf der Abrechnung (nicht notwendig)
 
 Wenn Sie jedoch trotzdem das (E-) Bike auf der Abrechnung bzw. am Jahreslohnkonto angeführt haben möchten, können Sie eine Lohnart mit Betrag 0,00 anlegen. (Lohnartendefinition ist in diesem Fall egal.)
@@ -28,7 +26,6 @@ Im Betrag selbst machen Sie einen rechten Mausklick und wählen *Explizit 0* aus
 
 ![Image](<img/image578.png>){width="600"}
 
-<span id="moglichkeit-2-des-ausweises-auf-der-abrechnung-nicht-notwendig" class="legacy-anchor" aria-hidden="true"></span>
 ## Möglichkeit 2 des Ausweises auf der Abrechnung (nicht notwendig)
 
 Wenn Sie jedoch trotzdem das (E-) Bike auf der Abrechnung bzw. am Jahreslohnkonto mit einem Betrag ohne Erhöhung des Bruttos haben möchten, können Sie eine Lohnart mit Anzahl (Wert des Leasings) und dem Satz 0,00 anlegen. (Lohnartendefinition ist in diesem Fall egal.)
@@ -49,7 +46,6 @@ Eine Reduktion des Bruttobezuges hat Auswirkungen auf
 
 Arbeitgebern und Arbeitnehmern steht es aber frei, dass in der Vereinbarung zur Bezugsumwandlung eine Regelung getroffen wird, dass die Gehaltsreduktion auf arbeitsrechtliche Folgeentgelte keine Auswirkung hat.
 
-<span id="mogliche-auswirkungen-einer-freiwilligen-aufstockung-der-bezuge" class="legacy-anchor" aria-hidden="true"></span>
 ## Mögliche Auswirkungen einer freiwilligen „Aufstockung“ der Bezüge
 
 - Sechstelüberschreitungen im Bereich der Sonderzahlungen

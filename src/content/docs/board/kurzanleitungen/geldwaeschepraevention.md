@@ -88,7 +88,6 @@ sind: Automatisch erzeugte Aufgaben sowie jene, die bereits zuvor
 manuell erstellt wurden.
 
 :::
-<span id="verwaltung-der-dokumente-im-zusammenhang-mit-der-geldwaschepravention" class="legacy-anchor" aria-hidden="true"></span>
 ## Verwaltung der Dokumente im Zusammenhang mit der Geldwäscheprävention
 
 Dokumente, die im Rahmen der Identifizierung Auftraggeber bzw. der
@@ -107,7 +106,6 @@ aufrufen.
 
 ![](<img/image102.png>)
 
-<span id="klientenlisten-geldwaschepraventionrisikobeurteilung" class="legacy-anchor" aria-hidden="true"></span>
 ## Klientenlisten Geldwäscheprävention/Risikobeurteilung
 
 Mit Vergabe der Rolle **Geldwäscheprävention/Klientenübersicht** bzw. mit **Alle Berechtigungen** ist ein Mitarbeiter berechtigt, die Klientenliste einzusehen. Eine Klientenliste gibt es jeweils für die Kanzleirisikobeurteilung sowie für die Identifizierung Auftraggeber.

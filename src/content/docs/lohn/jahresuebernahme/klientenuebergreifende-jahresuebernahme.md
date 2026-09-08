@@ -3,7 +3,6 @@ title: Klientenübergreifende Jahresübernahme
 program: LOHN
 ---
 
-<span id="klientenubergreifende-jahresubernahme" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Programmteil *Klient / Übernahme / Jahresübernahme* kann die Jahresübernahme für mehrere Klienten gleichzeitig durchgeführt werden.
 

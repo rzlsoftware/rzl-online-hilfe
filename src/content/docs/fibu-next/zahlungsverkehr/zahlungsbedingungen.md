@@ -3,7 +3,6 @@ title: Zahlungsbedingungen
 program: FIBUNext
 ---
 
-<span id="zahlungsbedingungen" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Zahlungsbedingungen im Zahlungsverkehr
 Im Bereich **ZV / Retourdaten** steht ein neuer Menüpunkt **Zahlungsbedingungen** zu Verfügung. Hier können standardisierte Zahlungsbedingungen für Lieferanten zentral definiert und gepflegt werden - auch ohne aktive Zahlungsverkehrs-Lizenz. Die Bedingungen umfassen Zahlungsfristen sowie optionale Skontoregelungen und es können Stammdaten zugeordnet werden.

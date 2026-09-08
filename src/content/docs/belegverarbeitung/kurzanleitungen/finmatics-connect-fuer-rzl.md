@@ -3,7 +3,6 @@ title: Finmatics Connect für RZL
 program: Belegverarbeitung
 ---
 
-<span id="finmatics-connect-fur-rzl" class="legacy-anchor" aria-hidden="true"></span>
 Alternativ zur Belegdaten-Erkennung über die RZL Programme besteht die Möglichkeit, die Belegdaten-Erkennung durch die **Firma Finmatics GmbH, 1070 Wien** (www.finmatics.com) mit dem Modul **Finmatics Connect für RZL** vornehmen zu lassen.
 
 Mit Hilfe von **selbstlernender künstlicher Intelligenz (KI)** und auf Basis der angelegten Konten und bisheriger Buchungen werden von Finmatics die bereitgestellten Belege analysiert, Belegdaten ausgelesen und daraus Buchungssätze generiert und vorgeschlagen. Diese Finmatics-Buchungsvorschläge (und die verknüpften Belege) können in den RZL Programmen automatisiert weiterverarbeitet werden.

@@ -55,7 +55,6 @@ KIS-Navigator unter *Verwaltung / USP – Zuweisungen* vorgenommen werden.
 
 ![Zuweisungen](<img/image182.png>)
 
-<span id="ablage-der-auszuge" class="legacy-anchor" aria-hidden="true"></span>
 ### Ablage der Auszüge
 
 Innerhalb der USP-Zuweisungen können Sie festlegen mit welcher Kategorie
@@ -76,7 +75,6 @@ Voraussetzung hierfür ist die Anlage und Hinterlegung einer entsprechenden Aufg
 
 ![Zuweisung Aufgabenvorlage](<img/USP%20Zuweisungen%20Aufgabenvorlagen.png>)
 
-<span id="uberprufung-durchfuhren" class="legacy-anchor" aria-hidden="true"></span>
 ## Überprüfung durchführen
 
 In den Klientenstammdaten der Stammdatenverwaltung am RZL Board im
@@ -91,7 +89,6 @@ kann, kann auch der Klient als Überprüfer vermerkt werden.
 
 ![neue Überprüfung](<img/image185%20copy.png>)
 
-<span id="meldung-durchfuhren" class="legacy-anchor" aria-hidden="true"></span>
 ## Meldung durchführen
 
 In den Klientenstammdaten des RZL Boards unter dem Register Meldung
@@ -102,7 +99,6 @@ Bei Mitarbeitern mit dem Recht zur Durchführung von WiEReG-Meldungen ist
 die entsprechende Berechtigung seitens USP/FinanzOnline für die
 Mitarbeiter notwendig.
 
-<span id="neue-meldung-uber-usp" class="legacy-anchor" aria-hidden="true"></span>
 ### Neue Meldung über USP
 
 In den Klientenstammdaten der Stammdatenverwaltung am RZL Board im
@@ -144,7 +140,6 @@ hinzuzufügen
 Mit einem Klick auf das ![Dokumentensymbol](<img/image190%20copy.png>) können Sie noch etwaige
 Dokumente (z.B. Auszüge) zu dieser Meldung hinterlegen.
 
-<span id="auszuge-anfordern" class="legacy-anchor" aria-hidden="true"></span>
 ## Auszüge anfordern
 
 Auszüge aus dem Melderegister können entweder manuell oder automatisch
@@ -159,7 +154,6 @@ Die Anforderung von WiEReG-Auszügen können Sie über den Menüpunkt
 
 ![USP](<img/image191%20copy.png>)
 
-<span id="auszuge-manuell-anfordern" class="legacy-anchor" aria-hidden="true"></span>
 ## Auszüge manuell anfordern
 
 Mit einem Klick auf den Button Auszug anfordern haben Sie die
@@ -216,7 +210,6 @@ Kanzleiinformationssystems aufrufen.
 
 ![Auszug in Dokumente](<img/image195%20copy.png>)
 
-<span id="auszuge-automatisch-anfordern" class="legacy-anchor" aria-hidden="true"></span>
 ## Auszüge automatisch anfordern
 
 Mithilfe der Schaltfläche Klienten erhalten Sie eine Liste aller Ihrer

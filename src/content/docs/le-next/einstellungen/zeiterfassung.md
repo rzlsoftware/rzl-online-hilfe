@@ -3,7 +3,6 @@ title: Zeiterfassung
 program: LENext
 ---
 
-<span id="zeiterfassung" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit diesen Optionen können Sie für das Telefonprotokoll, für die KIS-
 Postausgänge sowie für die Aktivitäten in den RZL-Klassik-Programmen
@@ -38,7 +37,6 @@ Option *Leistungen erfassen*
 
 ![](<img/image75.png>)
 
-<span id="aktivitaten-rzl-klassik-programme" class="legacy-anchor" aria-hidden="true"></span>
 ## Aktivitäten RZL-Klassik-Programme
 
 Bei den RZL-Klassik-Programmen kann in der Leistungserfassung
@@ -58,7 +56,6 @@ Für die Dauer die Fokuszeit, also die Zeit, in der das Programm auch
 tatsächlich im Vordergrund war.
 
 :::
-<span id="programmaktivitaten-zuordnen" class="legacy-anchor" aria-hidden="true"></span>
 ## Programmaktivitäten zuordnen
 
 Ist in den Einstellungen die Zeiterfassung aktiv, so erscheinen die

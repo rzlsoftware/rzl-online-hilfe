@@ -3,11 +3,9 @@ title: Mitarbeiterprämie 2025
 program: LOHN
 ---
 
-<span id="mitarbeiterpramie-2025" class="legacy-anchor" aria-hidden="true"></span>
 
 Durch das Budgetbegleitgesetz 2025 hat der Gesetzgeber die Möglichkeit geschaffen, ab dem 01.01.2025 Zulagen und Bonuszahlungen bis zu **EUR 1.000,00 jährlich** steuerfrei auszubezahlen. Die gesetzliche Grundlage hierfür findet sich in [**§ 124b Z 478 lit a bis e EStG**](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Artikel=&Paragraf=124b&Anlage=&Uebergangsrecht=).
 
-<span id="voraussetzungen-und-einschrankungen-fur-die-steuerfreiheit" class="legacy-anchor" aria-hidden="true"></span>
 ## Voraussetzungen und Einschränkungen für die Steuerfreiheit
 
 - Die Mitarbeiterprämie kann einem oder mehreren Arbeitnehmern aus sachlichen, betriebsbezogenen Gründen gewährt werden.
@@ -33,7 +31,6 @@ Zudem ist zu klären, ob aus der bisherigen Auszahlung von Corona-Prämien, Teue
 
 Letztlich spielt es auch eine Rolle, ob der Arbeitgeber beabsichtigt, die Prämie in den kommenden Jahren regelmäßig auszuzahlen – und sich damit auf eine derzeit unklare Gesetzeslage für 2026 einlässt.
 
-<span id="erstmalige-absolut-einmalige-gewahrung-ohne-vereinbarung-einer-wiederkehr" class="legacy-anchor" aria-hidden="true"></span>
 ### Erstmalige, absolut einmalige Gewährung ohne Vereinbarung einer Wiederkehr
 
 Wird keine Wiederkehr vereinbart und handelt es sich um den erstmaligen Bezug der Mitarbeiterprämie, liegt in der Sozialversicherung ein laufender Bezug vor (**SV-Pflichtigkeit = 1**).

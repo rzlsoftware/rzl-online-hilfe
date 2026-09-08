@@ -3,7 +3,6 @@ title: Anzahlungen Ausländischer Klienten
 program: HONNext
 ---
 
-<span id="anzahlungen-auslandischer-klienten" class="legacy-anchor" aria-hidden="true"></span>
 
 Das Verbuchen von Anzahlungsnoten ist auch bei ausländischen Klienten möglich. Jedoch wird hier die Anzahlungsnote auf das in den Grundeinstellungen hinterlegte *Konto für Anzahlungen (ig. Leistung / Reverse Charge)* mit dem Code **M03** oder **M02** verbucht. 
 

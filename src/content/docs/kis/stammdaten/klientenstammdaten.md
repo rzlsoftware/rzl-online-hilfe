@@ -61,7 +61,6 @@ oder der +-Taste am Ziffernblock ein Feld nach oben.
 Bestehende Einträge werden einfach markiert und mit Hilfe der rechten
 Maustaste oder der ENTF-Taste gelöscht.
 
-<span id="zustandigkeiten" class="legacy-anchor" aria-hidden="true"></span>
 ### Zuständigkeiten
 
 Im Bereich der *Zuständigkeiten* werden dem Klienten die für die
@@ -79,7 +78,6 @@ in der Verwaltung.
 
 Die Zuständigkeiten können bei der Anlage von Aufgabenvorlagen und wiederkehrenden Aufgaben zugeordnet werden.
 
-<span id="aktivitatenfachbereiche" class="legacy-anchor" aria-hidden="true"></span>
 ### Aktivitäten/Fachbereiche
 
 Wenn Sie eine Tätigkeit (Buchhaltung, Personalverrechnun, Firmenbuch,

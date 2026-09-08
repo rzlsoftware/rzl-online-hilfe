@@ -15,11 +15,11 @@ test('frontmatter parsing only consumes the opening YAML block', () => {
   assert.match(serializeFrontmatter({ title: 'Titel' }, parsed.body), /^---\ntitle: Titel\n---/);
 });
 
-test('prepareMarkdown lifts a structural H1 and preserves its legacy anchor', () => {
+test('prepareMarkdown lifts a structural H1 and maps its legacy slug for link rewriting', () => {
   const prepared = prepareMarkdown('# Über uns\n\n## Für Klienten', undefined, undefined, 'fallback');
   assert.equal(prepared.title, 'Über uns');
   assert.doesNotMatch(prepared.body, /^# Über uns/m);
-  assert.match(prepared.body, /id="uber-uns"/);
+  assert.doesNotMatch(prepared.body, /legacy-anchor/);
   assert.equal(prepared.anchorMap.get('fur-klienten'), 'für-klienten');
 });
 

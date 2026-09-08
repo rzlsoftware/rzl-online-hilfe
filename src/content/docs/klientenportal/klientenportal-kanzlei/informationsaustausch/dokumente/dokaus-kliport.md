@@ -3,9 +3,7 @@ title: Dokumentenübermittlung im Klientenportal
 program: Klientenportal
 ---
 
-<span id="dokumentenubermittlung-im-klientenportal" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="dokumente-fur-einzelne-klienten-bereitstellen" class="legacy-anchor" aria-hidden="true"></span>
 ## Dokumente für einzelne Klienten bereitstellen
 
 Der Programmteil *Informationsaustausch / Dokumente an einen Klienten übermitteln* ermöglicht Ihnen das Hochladen von Dokumenten für einzelne im RZL Klientenportal angelegte Klienten.
@@ -30,7 +28,6 @@ Sie können auch mehrere Dokumente gleichzeitig übermitteln. Halten Sie hierfü
 Im unteren Bereich des Programmteils sehen Sie die Dokumente, die bereits hochgeladen wurden. Angezeigt werden der jeweilige Dokumentbereich und wann das Dokument bereitgestellt und gelesen wurde.
 
 
-<span id="informationen-an-alle-klienten-ubermitteln" class="legacy-anchor" aria-hidden="true"></span>
 ## Informationen an alle Klienten übermitteln
 
 Unter *Informationsaustausch / Informationen an alle Klienten übermitteln* können Sie Informationen (Dokumente) allen im Klientenportal angelegten Klienten zur Verfügung stellen.
@@ -39,7 +36,6 @@ Unter *Informationsaustausch / Informationen an alle Klienten übermitteln* kön
 
 Die Vorgehensweise entspricht der Versendung von Dokumenten an einen Klienten. 
 
-<span id="dokumente-an-einen-dienstnehmer-ubermitteln" class="legacy-anchor" aria-hidden="true"></span>
 ## Dokumente an einen Dienstnehmer übermitteln
 
 Die notwendigen Schritte zur Anlage der Dienstnehmer für das Bereitstellen der Daten werden [hier](/klientenportal/klientenportal-kanzlei/dienstnehmerbereich/einrichtung/) beschrieben.

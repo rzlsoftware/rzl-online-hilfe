@@ -3,7 +3,6 @@ title: Installation reparieren
 program: setup
 ---
 
-<span id="installation-reparieren" class="legacy-anchor" aria-hidden="true"></span>
 
 Bei diesem Vorgang wird die RZL-Installation am aktuellen Arbeitsplatz
 erneut durchgeführt. Ein fehlerhafter Installationsstand kann dadurch

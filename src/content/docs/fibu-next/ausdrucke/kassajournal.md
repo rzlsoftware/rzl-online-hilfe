@@ -3,7 +3,6 @@ title: Kassajournal
 program: FIBUNext
 ---
 
-<span id="kassajournal" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Ausdruck Kassajournal
 

@@ -3,7 +3,6 @@ title: Stammdaten Dienstnehmer
 program: LOHN
 ---
 
-<span id="stammdaten-dienstnehmer" class="legacy-anchor" aria-hidden="true"></span>
 
 In diesem Bildschirm sind die persönlichen Daten des Dienstnehmers (Name, Adresse usw.), der Beruf, die Bankverbindung, die Angaben zum Ehegatten und zu den Kindern einzugeben.
 
@@ -161,7 +160,6 @@ Unter *abw. Kontoinhaber* haben Sie die Möglichkeit, einen abweichenden Namen d
 
 Es kann hier verankert werden, ob die Lohn-/Gehaltsüberweisung an den Dienstnehmer immer nur von der ersten Bankverbindung oder von der zweiten Bankverbindung des Dienstgebers erfolgen soll. Die Eingabe von *&lt;keine&gt;* bedeutet, dass keine Festlegung erfolgt und jeweils von der, bei der Überweisung angewählten Bank, vorgenommen wird.
 
-<span id="einsatzdienststelle-adresse-der-arbeitsstatte-freiwilligenmeldung" class="legacy-anchor" aria-hidden="true"></span>
 ## Einsatzdienststelle – Adresse der Arbeitsstätte - Freiwilligenmeldung
 
 Für Dienstnehmer, die ein freiwilliges soziales Jahr absolvieren, muss am L16 die Einsatzdienststelle gemeldet werden. Diese Meldung erfolgt nicht automatisch, sondern muss im Rahmen der Lohnzettelerstellung in der Sonderübermittlung aktiviert werden.
@@ -229,7 +227,6 @@ Es können nur folgende Personen den Familienbonus Plus in Anspruch nehmen:
 
 Der FABO+ kann von einer der Personen zu 100&nbsp;% in Anspruch genommen werden oder zwischen zwei beteiligten Personen jeweils zu 50&nbsp;% aufgeteilt werden.
 
-<span id="pauschale-reiseaufwandsentschadigung-nur-ausweis-auf-l19" class="legacy-anchor" aria-hidden="true"></span>
 ## Pauschale Reiseaufwandsentschädigung – nur Ausweis auf L19
 
 Sie haben die Möglichkeit, eine bereits ausbezahlte Pauschale Reiseaufwandsentschädigung rein für das L19 Formular nach zu erfassen.

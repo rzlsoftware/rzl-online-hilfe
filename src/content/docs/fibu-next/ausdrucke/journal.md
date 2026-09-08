@@ -3,7 +3,6 @@ title: Journal
 program: FIBUNext
 ---
 
-<span id="journal" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Ausdruck Journal
 

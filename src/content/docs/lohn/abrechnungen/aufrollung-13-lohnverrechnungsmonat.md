@@ -3,7 +3,6 @@ title: Aufrollung – 13. Lohnverrechnungsmonat
 program: LOHN
 ---
 
-<span id="aufrollung-13-lohnverrechnungsmonat" class="legacy-anchor" aria-hidden="true"></span>
 
 Wenn das Kalenderjahr bereits abgeschlossen ist, können Sie durch Eingabe der Ziffer 13 im Feld *Monat* dennoch eine Aufrollung durchführen.
 

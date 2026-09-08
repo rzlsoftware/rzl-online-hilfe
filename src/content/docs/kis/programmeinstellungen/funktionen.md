@@ -9,7 +9,6 @@ Alle bereits ins Board/KIS übernommenen Klienten werden auf das
 Klientenportal exportiert. Die Klienten können nun im Klientenportal
 angelegt werden.
 
-<span id="zustandigkeiten-zuordnungen-aus-csv-datei-importieren" class="legacy-anchor" aria-hidden="true"></span>
 ## Zuständigkeiten-Zuordnungen aus CSV-Datei importieren
 
 Sie können mithilfe dieser Funktion die Zuständigkeiten je Mitarbeiter

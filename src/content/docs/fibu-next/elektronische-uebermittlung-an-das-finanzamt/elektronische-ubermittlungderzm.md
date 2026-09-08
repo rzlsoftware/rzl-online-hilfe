@@ -3,9 +3,7 @@ title: Elektronische Übermittlung der ZM
 program: FIBUNext
 ---
 
-<span id="elektronische-ubermittlung-der-zm" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="elektronische-ubermittlung-der-zm_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Elektronische Übermittlung der ZM
 
 
@@ -36,7 +34,6 @@ Nach Anwahl einer der beiden oben genannten Möglichkeiten gelangen Sie in das R
 Wählen Sie hier das Register mit dem zu übermittelnden Zeitraum und den Klienten. Anschließend können Sie über die Schaltfläche *Meldung erstellen* die Zusammenfassende Meldung erstellen.
 
 
-<span id="ubermittlung-der-zm-datei" class="legacy-anchor" aria-hidden="true"></span>
 ### Übermittlung der ZM-Datei
 
 
@@ -48,13 +45,11 @@ Möchten Sie die ZM erst zu einem späteren Zeitpunkt senden, können Sie auch u
 
 Alle bereits gesendeten Übermittlungen finden Sie in der Liste *Gesendete Übermittlungen.*
 
-<span id="gesamtruckziehung" class="legacy-anchor" aria-hidden="true"></span>
 ### Gesamtrückziehung
 
 
 Ist eine nachträgliche Berichtigung einer unvollständigen oder falsch abgegebenen ZM (z.B. falsche UID-Nr., fehlende Buchungen) notwendig, muss zunächst eine *Gesamtrückziehung* der ZM erstellt und abgegeben werden.
 
-<span id="gesamtruckziehung-erstellen" class="legacy-anchor" aria-hidden="true"></span>
 #### Gesamtrückziehung erstellen
 
 Die Gesamtrückziehung können Sie über *Auswertungen / Zusammenfassende Meldung* erstellen. Wählen Sie zuerst den zu berichtigenden Zeitraum aus und anschließend über die Schaltfläche *zur ZM Übermittlung* die Option *zur ZM Gesamtrückziehung*.
@@ -66,7 +61,6 @@ Sie gelangen automatisch in das Modul PORTALE und können über die Schaltfläch
 
 Anschließend finden Sie die Meldung unter den offenen FinanzOnline Übermittlungen und könne diese an FinanzOnline senden.
 
-<span id="zusammenfassende-meldung-zurucksetzen" class="legacy-anchor" aria-hidden="true"></span>
 #### Zusammenfassende Meldung zurücksetzen
 
 Damit Sie die ZM nach den Korrekturen erneut übermitteln können, muss die ursprüngliche Übermittlung zurückgesetzt werden.

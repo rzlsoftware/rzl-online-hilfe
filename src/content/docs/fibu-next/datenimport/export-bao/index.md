@@ -3,7 +3,6 @@ title: Export BAO
 program: FIBUNext
 ---
 
-<span id="export-bao" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Datenexport
 

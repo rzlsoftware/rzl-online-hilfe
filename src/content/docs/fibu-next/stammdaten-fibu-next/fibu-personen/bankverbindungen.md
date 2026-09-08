@@ -3,9 +3,7 @@ title: Bankverbindungen
 program: FIBUNext
 ---
 
-<span id="bankverbindungen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="bankverbindungen_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Bankverbindungen
 
 

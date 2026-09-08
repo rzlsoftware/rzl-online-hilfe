@@ -3,7 +3,6 @@ title: Abzüge
 program: LOHN
 ---
 
-<span id="abzuge" class="legacy-anchor" aria-hidden="true"></span>
 
 ![image](img/image141.png)
 

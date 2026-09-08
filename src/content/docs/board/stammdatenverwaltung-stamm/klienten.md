@@ -3,7 +3,6 @@ title: Klienten
 program: Board
 ---
 
-<span id="klienten" class="legacy-anchor" aria-hidden="true"></span>
 
 Über *Klienten* rufen Sie die Klientenübersicht auf. In dieser Liste
 scheinen nur jene Personen und Firmen auf, die auch als Klienten
@@ -276,7 +275,6 @@ Connect für RZL](https://rzlsoftware.at/fileadmin/user_upload/PDF_Kurzanleitung
 
 ## WiEReG
 
-<span id="uberprufung" class="legacy-anchor" aria-hidden="true"></span>
 ### Überprüfung
 
 In den Klientenstammdaten der Stammdatenverwaltung am RZL Board im
@@ -366,7 +364,6 @@ soll.
 
 Weitere Einstellungen zur WiEReG-Anbindung finden Sie im Kapitel [USP](/board/portale/usp/)
 
-<span id="geldwaschepravention" class="legacy-anchor" aria-hidden="true"></span>
 ##  Geldwäscheprävention
 
 ### Identifizierung Auftraggeber im RZL Board
@@ -454,7 +451,6 @@ sind: Automatisch erzeugte Aufgaben sowie jene, die bereits zuvor
 manuell erstellt wurden.
 
 :::
-<span id="verwaltung-der-dokumente-im-zusammenhang-mit-der-geldwaschepravention" class="legacy-anchor" aria-hidden="true"></span>
 ### Verwaltung der Dokumente im Zusammenhang mit der Geldwäscheprävention
 
 Dokumente, die im Rahmen der Identifizierung Auftraggeber bzw. der
@@ -473,7 +469,6 @@ aufrufen.
 
 ![](<img/image102.png>)
 
-<span id="klientenlisten-geldwaschepraventionrisikobeurteilung" class="legacy-anchor" aria-hidden="true"></span>
 ### Klientenlisten Geldwäscheprävention/Risikobeurteilung
 
 Mit Vergabe der Rolle **Geldwäscheprävention/Klientenübersicht** bzw. mit **Alle Berechtigungen** ist ein Mitarbeiter berechtigt, die Klientenliste einzusehen. Eine Klientenliste gibt es jeweils für die Kanzleirisikobeurteilung sowie für die Identifizierung Auftraggeber.

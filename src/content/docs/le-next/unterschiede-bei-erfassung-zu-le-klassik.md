@@ -3,9 +3,7 @@ title: Unterschiede bei Erfassung zu LE Klassik
 program: LENext
 ---
 
-<span id="unterschiede-bei-erfassung-zu-le-klassik" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="ganztagiger-zeitausgleich" class="legacy-anchor" aria-hidden="true"></span>
 ## Ganztägiger Zeitausgleich
 
 Der [ganztägige Zeitausgleich](/le-next/leistungserfassung/ganztaegiger-zeitausgleich/) wird in der LE Klassik nicht eingetragen.
@@ -18,7 +16,6 @@ kennzeichnen.
 
 ![](<img/image108.png>)
 
-<span id="leistungen-auerhalb-der-arbeitszeit" class="legacy-anchor" aria-hidden="true"></span>
 ## Leistungen außerhalb der Arbeitszeit
 
 Bei Leistungen, die nicht zur Arbeitszeit zählen, aber trotzdem vergütet

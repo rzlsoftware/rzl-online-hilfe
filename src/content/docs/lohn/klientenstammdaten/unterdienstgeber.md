@@ -3,7 +3,6 @@ title: Unterdienstgeber
 program: LOHN
 ---
 
-<span id="unterdienstgeber" class="legacy-anchor" aria-hidden="true"></span>
 
 Das RZLWin-Lohnprogramm bietet die Möglichkeit innerhalb eines Klienten bis zu 100 Unterdienstgeber anzulegen. Die Anlage von Unterdienstgebern ist z. B. zweckmäßig, wenn ein Unternehmer mehrere Filialen betreibt, die Lohnverrechnung aber zentral durchgeführt wird. Weiters können die Anforderungen der betriebswirtschaftlichen Analyse (z. B. RZLWin-FIBU, KER oder Kostenrechnung) oder des Unternehmensrechts (getrennter Ausweis der Aufwendungen in der Bilanz) eine Anlage von Unterdienstgebern notwendig machen.
 

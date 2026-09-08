@@ -3,7 +3,6 @@ title: Eingabe einer Leistungszeile außerhalb der Leistungserfassung
 program: LENext
 ---
 
-<span id="eingabe-einer-leistungszeile-auerhalb-der-leistungserfassung" class="legacy-anchor" aria-hidden="true"></span>
 
 Leistungszeilen können auch außerhalb des RZL-Boards bzw. der
 Leistungserfassung erfasst werden.

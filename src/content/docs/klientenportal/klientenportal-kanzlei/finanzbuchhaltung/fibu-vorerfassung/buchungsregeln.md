@@ -3,10 +3,8 @@ title: Stammdaten Buchungsregeln
 program: Klientenportal
 ---
 
-<span id="stammdaten-buchungsregeln" class="legacy-anchor" aria-hidden="true"></span>
 
 
-<span id="buchungsregeln-individuell-beim-klienten" class="legacy-anchor" aria-hidden="true"></span>
 ## Buchungsregeln - Individuell beim Klienten
 
 Im Programmteil *Finanzbuchhaltung / Stammdaten Buchungsregeln* können Buchungsregel für bestimmte Klienten erfasst werden. Ganz oben im Programmteil wird der Klient ausgewählt.

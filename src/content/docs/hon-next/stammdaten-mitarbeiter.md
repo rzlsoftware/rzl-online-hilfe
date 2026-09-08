@@ -3,7 +3,6 @@ title: Stammdaten Mitarbeiter
 program: HONNext
 ---
 
-<span id="stammdaten-mitarbeiter" class="legacy-anchor" aria-hidden="true"></span>
 
 In den Mitarbeiterstammdaten werden grundlegende Einstellungen für die
 Honorarverrechnung bzw. Leistungserfassung der Mitarbeiter verwaltet.
@@ -69,7 +68,6 @@ folgenden Hinweis:
 
 ![](<img/image105.png>)
 
-<span id="transferstundensatze" class="legacy-anchor" aria-hidden="true"></span>
 ## Transferstundensätze
 
 Dieser Eingabebereich ist nur aktiv, wenn mehrere [Unternehmensbereiche](/hon-next/unternehmensbereiche/)

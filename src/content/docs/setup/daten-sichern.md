@@ -3,7 +3,6 @@ title: RZL Daten sichern
 program: setup
 ---
 
-<span id="rzl-daten-sichern" class="legacy-anchor" aria-hidden="true"></span>
 
 Zunächst müssen **alle RZL - Programme auf dem Arbeitsplatz geschlossen werden**, damit die Sicherung gestartet werden kann!
 Der RZL Dienst (wenn optional installiert) wird bei diesem Vorgang, vom RZL-Admin

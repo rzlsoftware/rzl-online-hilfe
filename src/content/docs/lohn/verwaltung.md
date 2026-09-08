@@ -3,9 +3,7 @@ title: Verwaltung
 program: LOHN
 ---
 
-<span id="verwaltung" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="das-mengengerust" class="legacy-anchor" aria-hidden="true"></span>
 ## Das Mengengerüst
 
 Das *Mengengerüst* sollte immer den tatsächlichen Anforderungen des jeweiligen Klienten entsprechen, damit nicht unnötig Speicherplatz auf der Festplatte belegt wird. Änderungen am Mengengerüst während der Arbeit in der Lohnverrechnung werden über den Menüpunkt *Klient / Vergrößern/Verkleinern* vorgenommen.
@@ -52,7 +50,6 @@ In einem Netzwerk besteht durch den Menüpunkt *Klient / Verwaltung / Verschiebe
 
 Durch Anwahl der Schaltfläche *Erweitert* besteht in diesem Dialog die Möglichkeit, mehrere Klienten gleichzeitig zu verschieben.
 
-<span id="klient-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ## Klient löschen
 
 Um einen Klienten zu löschen, wird der Menüpunkt *Klient / Verwaltung / Löschen* angewählt und die entsprechende Klientennummer eingegeben. Wurde der Klient vorher nicht gesichert, erfolgt ein Warnhinweis durch das Programm.
@@ -71,7 +68,6 @@ Bezüglich der Vorgehensweise beim Erhalt von Daten per E-Mail siehe unter *Hilf
 
 Siehe Handbuch *ZMV* im Programmteil *Hilfe / Handbuch / Zentrale Mandantenverwaltung*.
 
-<span id="hereinspielen-der-kanzleilohnarten-kanzleitexte-und-kanzleilohnkontenplane" class="legacy-anchor" aria-hidden="true"></span>
 ## Hereinspielen der Kanzleilohnarten, Kanzleitexte und Kanzleilohnkontenpläne
 
 Die Kanzleilohnarten, Kanzleitexte und Kanzleilohnkontenpläne werden über die **ZMV** (Zentrale Mandantenverwaltung) in das System eingespielt.

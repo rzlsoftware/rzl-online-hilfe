@@ -3,7 +3,6 @@ title: Feiertagsverwaltung
 program: HONNext
 ---
 
-<span id="feiertagsverwaltung" class="legacy-anchor" aria-hidden="true"></span>
 
 Unter diesem Menüpunkt werden Ihnen die gesetzlichen Feiertage
 aufgezeigt und Sie können, falls im KV abweichende Bestimmungen zu den

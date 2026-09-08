@@ -3,7 +3,6 @@ title: Einfügen und Bearbeiten von Formeln
 program: Reporting
 ---
 
-<span id="einfugen-und-bearbeiten-von-formeln" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit der Verwendung von Formeln können Sie im *Report Designer* nicht nur Berechnungen durchführen oder Bedingungen verwenden, sondern auch direkt und schnell auf klientenbezogene Daten zugreifen sowie Auswertungen erstellen.
 
@@ -106,7 +105,6 @@ Wenn eine bestimmte Bedingung bzw. ein Prüfwert erfüllt wird, soll das Wort �
 
 Wählen Sie dazu die Funktion `Wenn()`{data-clipboard-text="Wenn()"} aus. Im Parameter wird zunächst die Bedingung eingetragen und mit einem Strichpunkt getrennt. Anschließend geben Sie den gewünschten Text ein, der bei Erfüllung der Bedingung angedruckt werden soll "Herr". Im darauffolgenden Sonst-Wert den gewünschten Text, der bei Nichterfüllung der Bedingung angedruckt werden soll "Frau". Achten Sie darauf, dass die Parameter mit einem Strichpunkt getrennt werden und der  gewünschte Text im Anführungszeichen steht.
 
-<span id="boolsche-formeln-wahrheitswerte" class="legacy-anchor" aria-hidden="true"></span>
 ### Boolsche Formeln / Wahrheitswerte
 
 Eine sogenannte *Boolsche Formel* kann als Ergebnis nur WAHR oder FALSCH ausweisen. Die von Ihnen eingegebenen Parameter treffen entweder zu, oder nicht. Sie werden im Zusammenhang mit [Bedingungsformeln](/reporting/formeln/einfuegen-und-bearbeiten-von-formeln/)  verwendet.
@@ -210,7 +208,6 @@ Nach Eingabe der Formel `Max()`{data-clipboard-text="Max()"} werden die Werte im
 
 ## Datenzugriff auf Klientendaten
 
-<span id="formel-auswahlen" class="legacy-anchor" aria-hidden="true"></span>
 ### Formel auswählen
 
 Die Eingabe einer Formel ist im Formeldialogfenster im Modus *Formel im Text* möglich. Sobald Sie mit der Eingabe der ersten Buchstaben im Formel-Eingabefeld starten, öffnet sich das Suchfenster und Sie erhalten vom Programm einen Formelvorschlag. Die benötigte Formel kann sofort angewählt und mit der *Enter-Taste* übernommen werden.
@@ -234,7 +231,6 @@ Sofern in der verwendeten Formel auch ein Zeitraum (Jahr oder Monat) erfasst wir
 | `Jahr(-1)`{data-clipboard-text="Jahr(-1)"}   | Andruck des Vorjahres                  |
 | `Monat(-1)`{data-clipboard-text="Monat(-1)"} | Andruck des Vormonats                  |
  
-<span id="formel-einfugen" class="legacy-anchor" aria-hidden="true"></span>
 ### Formel einfügen
 
 Nach Abschluss der korrekten Formeleingabe können Sie diese über *Formel in Text einfügen* oder mit Hilfe der *Enter-Taste* in den Report übernehmen. Die [Formel](/reporting/formeln/einfuegen-und-bearbeiten-von-formeln/) kann anschließend nach Ihren Wünschen formatiert werden.
@@ -389,7 +385,6 @@ Folgende Formeleingabe bietet Ihnen Zugriff auf Tabellenwerte:
 
 Geben Sie zunächst den Tabellennamen im Formelfenster mit Modus *Formel im Text* ein. Anschließend wird mit `Zeile().Spalte().Wert`{data-clipboard-text="Zeile().Spalte().Wert"} der Bezug zur Tabelle hergestellt. Füllen Sie dazu die benötige Zeilen- bzw. Spaltennummer in den Klammernbereich ein.
 
-<span id="hilfsmittel-automatische-summen-einfugen" class="legacy-anchor" aria-hidden="true"></span>
 ### Hilfsmittel automatische Summen einfügen
 
 Zur automatischen Aufsummierung von Zahlen müssen diese als Formelwert eingegeben werden. Mit der rechten Maustaste können Sie mit *Spaltensumme einfügen* die aktuelle Spalte aufsummieren. Mit der Option *Gesamtsummenzeile hinzufügen* wird eine Abschlusszeile mit den Gesamtsummen eingefügt.

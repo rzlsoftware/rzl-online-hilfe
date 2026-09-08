@@ -3,7 +3,6 @@ title: Anlage einer Akonto-/Anzahlung
 program: HONNext
 ---
 
-<span id="anlage-einer-akonto-anzahlung" class="legacy-anchor" aria-hidden="true"></span>
 
 Über *Akonto/Anzahlungen / Akontozahlungen/Anzahlungen* können Sie eine
 neue Akonto-/Anzahlung anlegen.

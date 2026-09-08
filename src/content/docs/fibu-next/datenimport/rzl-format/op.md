@@ -3,9 +3,7 @@ title: OP
 program: FIBUNext
 ---
 
-<span id="op" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="datenimport-op" class="legacy-anchor" aria-hidden="true"></span>
 ### Datenimport – OP
 
 

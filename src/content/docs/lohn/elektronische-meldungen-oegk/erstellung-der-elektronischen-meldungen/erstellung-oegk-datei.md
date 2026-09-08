@@ -3,7 +3,6 @@ title: Erstellung ÖGK-Datei
 program: LOHN
 ---
 
-<span id="erstellung-ogk-datei" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Erstellung der ÖGK-Datei erfolgt im Menüpunkt *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen.*
 

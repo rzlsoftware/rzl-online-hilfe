@@ -3,7 +3,6 @@ title: Abfertigungsrechner (-vergleich)
 program: LOHN
 ---
 
-<span id="abfertigungsrechner-vergleich" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Programmteil *Ausdruck / Rückstellungen / Abfertigungsvergleich* besteht die Möglichkeit, aufgrund der Stammdaten der angelegten Dienstnehmer einen Vorteilsvergleich zwischen Abfertigung alt und Abfertigung neu bei Vollumstieg und Teilumstieg durchzuführen. Es werden dazu für jede der drei Varianten die Endwerte der Dienstnehmer sowie die Barwerte des Dienstgebers vom Programm errechnet.
 

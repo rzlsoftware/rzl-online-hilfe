@@ -3,7 +3,6 @@ title: FIBU Klienten
 program: FIBUNext
 ---
 
-<span id="fibu-klienten" class="legacy-anchor" aria-hidden="true"></span>
 
 Über den Aufruf *FIBU Next / FIBU Klienten* finden Sie eine Auflistung aller Klienten, welche in der FIBU Next gebucht werden.
 

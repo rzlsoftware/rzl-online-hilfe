@@ -3,20 +3,17 @@ title: Endgültige Beendigung von nur arbeitsrechtlich aufrechten Dienstverhält
 program: LOHN
 ---
 
-<span id="endgultige-beendigung-von-nur-arbeitsrechtlich-aufrechten-dienstverhaltnissen" class="legacy-anchor" aria-hidden="true"></span>
 
 Seit der Einführung des neuen Meldewesens achtet die ÖGK darauf, dass der jeweils gewünschte Meldeverlauf auch zu 100 % eingehalten wird. Bei den Dienstverhältnissen, die nur arbeitsrechtlich unterbrochen waren, geht es sehr häufig um die Frage, ob eine Richtigstellung der ersten Abmeldung erforderlich ist oder eine zweite Abmeldung, eventuell in Verbindung mit einer zwischenzeitlichen Anmeldung, den Meldeverlauf korrigiert.
 
 Anhand einiger Beispiele wollen wir die Vorgehensweise hierzu näher erläutern.
 
-<span id="datum-ende-entgelt-verandert-sich-von-2018-auf-2019" class="legacy-anchor" aria-hidden="true"></span>
 ## Datum Ende Entgelt verändert sich von 2018 auf 2019
 
 Nachdem es zum Jahreswechsel 2018/2019 zu einer kompletten Systemumstellung beim Meldewesen gekommen ist, fällt dieser Fall etwas aus der Norm. Je nachdem, ob das Datum *Ende Entgelt* im Zeitraum bis inkl. 31.12.2018 lag oder danach, muss eine *normale* Abmeldung oder eine *reduzierte* Abmeldung erstellt werden.
 
 Der Grundsatz lautet hier, dass ein Wechsel zwischen altem und neuem Meldewesen über eine Richtigstellung nicht möglich ist. In diesem Fall muss die alte Abmeldung storniert und eine neue Abmeldung erstellt werden.
 
-<span id="dienstverhaltnis-welches-durch-karenz-bildungskarenz-prasenz-zivildienst-unterbrochen-ist-wird-endgultig-auch-sv-rechtlich-gelost" class="legacy-anchor" aria-hidden="true"></span>
 ## Dienstverhältnis, welches durch Karenz, Bildungskarenz, Präsenz-/Zivildienst unterbrochen ist, wird endgültig auch SV-rechtlich gelöst
 
 ### Austritt ohne Bezüge im Austrittsmonat bzw. ohne Urlaubsersatzleistung

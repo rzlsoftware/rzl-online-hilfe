@@ -3,9 +3,7 @@ title: Übergang der Steuerschuld gem §19 UStG
 program: FIBUNext
 ---
 
-<span id="ubergang-der-steuerschuld-gem-19-ustg" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="ubergang-der-steuerschuld-gem-19-ustg_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Übergang der Steuerschuld gem. §19 UStG
 
 

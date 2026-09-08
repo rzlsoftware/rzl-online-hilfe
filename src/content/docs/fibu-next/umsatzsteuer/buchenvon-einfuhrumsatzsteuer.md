@@ -3,9 +3,7 @@ title: Buchen von Einfuhrumsatzsteuer
 program: FIBUNext
 ---
 
-<span id="buchen-von-einfuhrumsatzsteuer" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="buchen-von-einfuhrumsatzsteuer_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Buchen von Einfuhrumsatzsteuer
 
 

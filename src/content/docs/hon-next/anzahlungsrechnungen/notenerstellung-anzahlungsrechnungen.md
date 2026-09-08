@@ -3,7 +3,6 @@ title: Notenerstellung Anzahlungsrechnungen
 program: HONNext
 ---
 
-<span id="notenerstellung-anzahlungsrechnungen" class="legacy-anchor" aria-hidden="true"></span>
 
 ## 	Anzahlungsnote
 Aus den generierten Anzahlungszeilen können über *Honorarnoten / Notenerstellung* Anzahlungsnoten erstellt werden. In der Ansicht der Notenvorschläge ist über die Spalte Art der Honorarnote (1) erkennbar, ob es sich um eine Anzahlungsnote handelt. In der Spalte *Akonto/Anzahlung* (2) sieht man die Höhe der Anzahlung.
@@ -29,7 +28,6 @@ Auch in der Notenübersicht ist über die Spalte Art der Honorarnote erkennbar, 
 Die Art der Honorarnote Schlussnote gibt es nur in Verbindung mit der Pauschalverrechnung.
 
 :::
-<span id="schluss-rechnung" class="legacy-anchor" aria-hidden="true"></span>
 ##	(Schluss-) Rechnung
 Haben Sie die Anzahlungsnoten erstellt und finalisiert, können diese bei der Notenerstellung an den Klienten abgezogen werden. Alle Anzahlungszeilen mit dem Status *Verrechnet in Anzahlungsnote* sind bei der nächsten Notenerstellung in der Note ersichtlich und werden als Negativwerte (1) von der Bruttosumme abgezogen.
 

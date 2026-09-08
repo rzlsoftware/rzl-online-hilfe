@@ -3,9 +3,7 @@ title: Buchungstextgruppen
 program: FIBUNext
 ---
 
-<span id="buchungstextgruppen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="buchungstextgruppen_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Buchungstextgruppen
 
 
@@ -61,7 +59,6 @@ Anschließend öffnet sich die ausgewählte Buchungstextgruppe im Detail und Sie
 
 Haben Sie in der Liste eine Buchungstextgruppe ausgewählt und klicken auf die Schaltfläche *Buchungstextgruppe umbenennen* **(2)**, können Sie den Titel der ausgewählten Buchungstextgruppe verändern. Eine Buchungstextgruppe kann auch durch einen Mausklick auf den Titel der Buchungstextgruppe umbenannt werden.
 
-<span id="buchungstextgruppe-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Buchungstextgruppe löschen
 
 
@@ -76,7 +73,6 @@ Hier können Sie die Bezeichnung für die zu duplizierende Buchungstextgruppe ve
 
 ![Image](<img/NeuesElement191.png>){width="400"}
 
-<span id="buchungstextgruppe-auf-klient-uberspielen" class="legacy-anchor" aria-hidden="true"></span>
 ### Buchungstextgruppe auf Klient überspielen
 
 
@@ -87,7 +83,6 @@ Im Anschluss öffnet sich die Klientenliste und Sie können die gewählte Buchun
 ![Image](<img/NeuesElement190.png>)
 
 
-<span id="klientenbezogene-stammdaten-buchungstexte" class="legacy-anchor" aria-hidden="true"></span>
 ## Klientenbezogene Stammdaten - Buchungstexte
 
 

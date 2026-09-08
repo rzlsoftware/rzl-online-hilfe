@@ -3,7 +3,6 @@ title: Dokumentenliste
 program: Klientenportal
 ---
 
-<span id="dokumentenliste" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Empfangene Dokumente 
 
@@ -14,7 +13,6 @@ Der Programmteil *Informationsaustausch / Dokumentenlisten /Empfangene Dokumente
 
 Sie können die Ansicht auf einzelne Klienten einschränken oder die Dokumente aller Klienten auflisten.
 
-<span id="an-klienten-ubermittelte-dokumente" class="legacy-anchor" aria-hidden="true"></span>
 ## An Klienten übermittelte Dokumente
 
 Im Programmteil *Informationsaustausch / Dokumentenlisten / An Klienten übermittelte Dokumente finden Sie* die an die Klienten übermittelten Dokumente. Durch einen Doppelklick auf den Dateinamen wird das Dokument aufgerufen.
@@ -22,12 +20,10 @@ Im Programmteil *Informationsaustausch / Dokumentenlisten / An Klienten übermit
 
 ![](img/image40.png)
 
-<span id="an-dienstnehmer-ubermittelte-dokumente" class="legacy-anchor" aria-hidden="true"></span>
 ## An Dienstnehmer übermittelte Dokumente 
 
 Im Programmteil *Informationsaustausch /* *Dokumentenlisten / An Dienstnehmer übermittelte Dokumente* werden an Dienstnehmer übermittelte Informationen angezeigt.
 
-<span id="geloschte-dokumente" class="legacy-anchor" aria-hidden="true"></span>
 ## Gelöschte Dokumente 
 
 Im Programmteil *Informationsaustausch* / *Dokumentenlisten / Gelöschte Dokumente* sehen Sie eine Liste mit den bereits gelöschten Dokumenten.

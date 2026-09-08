@@ -3,7 +3,6 @@ title: Feiertagsverwaltung
 program: LENext
 ---
 
-<span id="feiertagsverwaltung" class="legacy-anchor" aria-hidden="true"></span>
 
 Gesetzliche Feiertage werden in der Leistungserfassung in roter Schrift
 dargestellt. Abweichend zu den gesetzlichen Feiertagen können in der

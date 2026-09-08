@@ -3,7 +3,6 @@ title: USt-Journal
 program: FIBUNext
 ---
 
-<span id="ust-journal" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Ausdruck USt-Journal
 

@@ -3,7 +3,6 @@ title: IBAN Ausschlussliste
 program: FIBUNext
 ---
 
-<span id="iban-ausschlussliste" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Ausschlussliste IBAN
 

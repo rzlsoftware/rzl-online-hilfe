@@ -55,7 +55,6 @@ TeamViewer starten.
 Über diesen Menüpunkt können Sie – nach vorheriger Absprache – an einem
 vom RZL Support initiierten TeamViewer-Meeting teilnehmen.
 
-<span id="rzl-software-youtube-channel" class="legacy-anchor" aria-hidden="true"></span>
 ## RZL Software – YouTube Channel
 
 Sie werden auf unseren YouTube Channel weitergeleitet.
@@ -71,7 +70,6 @@ ersichtlich.
 
 ![Info](<img/image372.png>)
 
-<span id="aktuelle-anderungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Aktuelle Änderungen
 
 Die aktuellen Neuerungen informieren Sie über die Neuerungen und

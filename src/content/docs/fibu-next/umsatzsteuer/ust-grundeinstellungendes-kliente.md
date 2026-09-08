@@ -3,9 +3,7 @@ title: USt-Grundeinstellungen des Klienten
 program: FIBUNext
 ---
 
-<span id="ust-grundeinstellungen-des-klienten" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="ust-grundeinstellungen-des-klienten_1" class="legacy-anchor" aria-hidden="true"></span>
 ## USt-Grundeinstellungen des Klienten
 
 

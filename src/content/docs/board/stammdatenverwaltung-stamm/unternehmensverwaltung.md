@@ -3,7 +3,6 @@ title: Unternehmensverwaltung
 program: Board
 ---
 
-<span id="unternehmensverwaltung" class="legacy-anchor" aria-hidden="true"></span>
 
 Sie können hier Unternehmensbereiche anlegen. Dies wird hauptsächlich
 für das RZL HON Next verwendet. Ein Unternehmensbereich ist sozusagen

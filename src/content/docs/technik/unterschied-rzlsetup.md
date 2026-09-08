@@ -3,7 +3,6 @@ title: Unterschiede zwischen der RZL Komplettversion und dem RZL SQL-Server Setu
 program: technik
 ---
 
-<span id="unterschiede-zwischen-der-rzl-komplettversion-und-dem-rzl-sql-server-setup" class="legacy-anchor" aria-hidden="true"></span>
 
 ## RZL Komplettversion
 

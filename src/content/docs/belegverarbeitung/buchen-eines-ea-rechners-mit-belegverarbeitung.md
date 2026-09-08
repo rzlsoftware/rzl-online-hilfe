@@ -3,7 +3,6 @@ title: Buchen eines EA-Rechners mit Belegverarbeitung
 program: Belegverarbeitung
 ---
 
-<span id="buchen-eines-ea-rechners-mit-belegverarbeitung" class="legacy-anchor" aria-hidden="true"></span>
 
 Auch ein EA-Rechner kann mit der RZL Belegverarbeitung kombiniert
 werden, sodass die Belege z.B. bei den Bankbuchungen angehängt sind.

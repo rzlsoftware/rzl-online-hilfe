@@ -3,7 +3,6 @@ title: FAQ - Technische Anfragen zu den RZL Programmen
 program: technik
 ---
 
-<span id="faq-technische-anfragen-zu-den-rzl-programmen" class="legacy-anchor" aria-hidden="true"></span>
 
 Wir beantworten Ihre häufig gestellten Fragen rund um technische Themen und Probleme im Zusammenhang mit der RZL Software. Die FAQ soll Ihnen helfen, eigenständig Probleme zu lösen und bei Bedarf schnellstmöglich eine Antwort auf Ihre Supportanfrage zu erhalten. Für weiterführende Informationen oder detaillierte Anleitungen verweisen wir auf die jeweiligen Unterseiten oder den jeweiligen Support.
 

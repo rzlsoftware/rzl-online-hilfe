@@ -3,7 +3,6 @@ title: Zeitausgleichsrückstellung
 program: LOHN
 ---
 
-<span id="zeitausgleichsruckstellung" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Zeitausgleichsrückstellung wird im Programmteil *Ausdruck / Rückstellungen / Zeitausgleich* ausgedruckt bzw. bearbeitet.
 
@@ -62,7 +61,6 @@ Hier werden die im Abrechnungsbildschirm *Zeitausgleich* erfassten Rückstellung
 
 Hier wird der vom Programm errechnete Rückstellungsbetrag eingetragen. Wird der errechnete Rückstellungsbetrag korrigiert, erfolgt eine Kennzeichnung mit einem Sternchen (\*) vor dem Betrag. Mit der *F2-Taste* kann eine Eintragung des ursprünglichen Wertes, wenn vorher eine abweichende Eintragung erfolgte, erfasst werden.
 
-<span id="aufruf-berechnungsblatt-zeitausgleichsruckstellung" class="legacy-anchor" aria-hidden="true"></span>
 ## Aufruf Berechnungsblatt Zeitausgleichsrückstellung
 
 Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung dieses ausgewählten Dienstnehmers.

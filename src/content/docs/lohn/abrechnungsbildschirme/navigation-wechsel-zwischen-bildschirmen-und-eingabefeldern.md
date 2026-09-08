@@ -3,7 +3,6 @@ title: Navigation – Wechseln zwischen Bildschirmen und Eingabefeldern
 program: LOHN
 ---
 
-<span id="navigation-wechseln-zwischen-bildschirmen-und-eingabefeldern" class="legacy-anchor" aria-hidden="true"></span>
 
 Die einzelnen Eingabebildschirme können über die seitliche Navigationsleiste angewählt werden oder auch mit *Strg+Bild↑* bzw. *Strg+Bild↓* zwischen den Bildschirmen gewechselt werden. Die Größe des Abrechnungsbildschirms und die Breite der Navigationsleiste können durch Verschieben mit der Maus verändert werden.
 

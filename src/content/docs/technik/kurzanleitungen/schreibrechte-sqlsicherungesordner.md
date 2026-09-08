@@ -3,7 +3,6 @@ title: Schreibrechte auf den SQL-Sicherungsordner ändern
 program: technik
 ---
 
-<span id="schreibrechte-auf-den-sql-sicherungsordner-andern" class="legacy-anchor" aria-hidden="true"></span>
 
 Sollten Sie am Ende der Installation den folgenden Dialog erhalten, müssen Sie die Zugriffsrechte auf Ihren SQL-Sicherungsordner ändern.
 
@@ -33,7 +32,6 @@ Befindet sich der Pfad zu dem Sicherungsordner nicht auf dem gleichen Gerät wir
 :::
 ![Serviceaccount](img/schreibrechte_sqlsicherungsordner_serviceaccount.png)
 
-<span id="sicherungsordner-im-windows-explorer-offnen" class="legacy-anchor" aria-hidden="true"></span>
 ## Sicherungsordner im Windows Explorer öffnen
 
 Öffnen Sie im Windows Explorer den Pfad zu Ihrem Sicherungsordner:  
@@ -42,14 +40,12 @@ Befindet sich der Pfad zu dem Sicherungsordner nicht auf dem gleichen Gerät wir
 
 ![Explorer](img/schreibrechte_sqlsicherungsordner_explorer.png)
 
-<span id="eigenschaften-des-ordners-offnen" class="legacy-anchor" aria-hidden="true"></span>
 ## Eigenschaften des Ordners öffnen
 
 1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **Eigenschaften**.
 2. Wechseln Sie zum Reiter **Sicherheit**.
 3. Klicken Sie auf die Schaltfläche **Bearbeiten**.
 
-<span id="benutzer-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ## Benutzer hinzufügen
 
 1. Klicken Sie auf **Hinzufügen**.

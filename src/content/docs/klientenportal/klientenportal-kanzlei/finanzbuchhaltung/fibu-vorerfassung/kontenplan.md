@@ -3,7 +3,6 @@ title: Bereitstellen des Kontenplans
 program: Klientenportal
 ---
 
-<span id="bereitstellen-des-kontenplans" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Bereitstellen des Kontenplans in der Fibu/EA-Rechnng Klassik
 

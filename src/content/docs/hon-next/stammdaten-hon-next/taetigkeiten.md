@@ -3,7 +3,6 @@ title: Tätigkeiten
 program: HONNext
 ---
 
-<span id="tatigkeiten" class="legacy-anchor" aria-hidden="true"></span>
 
 Auf Tätigkeiten werden Leistungen erfasst, die entweder verrechenbar
 sind oder nicht verrechnet werden. Diese Tätigkeiten werden später in
@@ -14,7 +13,6 @@ Wählen Sie den Menüpunkt *Stammdaten – Tätigkeiten* aus, um Tätigkeiten
 anzulegen bzw. zu verwalten. Es öffnet sich ein eigener Tab für die
 Tätigkeiten.
 
-<span id="tatigkeiten-anlegen" class="legacy-anchor" aria-hidden="true"></span>
 ### Tätigkeiten anlegen
 
 Neue Tätigkeiten können Sie entweder über die Schaltfläche im Ribbon
@@ -261,7 +259,6 @@ Verrechnungsgruppen eine Kostenstelle hinterlegt ist.
 Wenn Sie alle Einstellungen getroffen haben, können Sie Ihre Tätigkeit
 über den Button *Speichern* abspeichern.
 
-<span id="tatigkeiten-bearbeiten" class="legacy-anchor" aria-hidden="true"></span>
 ### Tätigkeiten bearbeiten
 
 Tätigkeitsnummern können über das Bleistiftsymbol
@@ -329,7 +326,6 @@ Optionen, die mit einem türkisen G gekennzeichnet sind, sind
 generationsübergreifende Optionen.
 
 :::
-<span id="tatigkeiten-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Tätigkeiten löschen
 
 Tätigkeiten können über den Button *Tätigkeit löschen* nur gelöscht
@@ -339,7 +335,6 @@ Ebenso ist es möglich, eine Tätigkeit über das Kontextmenü zu löschen.
 
 ![](<img/image33.png>)
 
-<span id="tatigkeit-deaktivieren" class="legacy-anchor" aria-hidden="true"></span>
 ### Tätigkeit deaktivieren
 
 Falls eine bestimmte Tätigkeit für die Leistungserfassung gesperrt

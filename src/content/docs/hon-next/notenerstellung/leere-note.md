@@ -3,7 +3,6 @@ title: Leere Note
 program: HONNext
 ---
 
-<span id="leere-note" class="legacy-anchor" aria-hidden="true"></span>
 
 Über *Honorarnoten / Notenerstellen* haben Sie die Möglichkeit eine
 leere Note zu öffnen. Dies kann z.B. zum Erstellen einer Teilgutschrift

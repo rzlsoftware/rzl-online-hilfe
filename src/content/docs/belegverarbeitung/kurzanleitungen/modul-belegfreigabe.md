@@ -3,7 +3,6 @@ title: Modul Belegfreigabe
 program: Belegverarbeitung
 ---
 
-<span id="modul-belegfreigabe" class="legacy-anchor" aria-hidden="true"></span>
 
 Als Erweiterung zum RZL FIBU/EA Modul Belegverarbeitung bietet RZL die Möglichkeit, mit dem Zusatzmodul „RZL Belegfreigabe“ die Rechnungsprüfung, Buchungsfreigabe und Zahlungsfreigabe von Belegen digital in einem Workflow abzuwickeln. Sie können beim Hinzufügen von Belegen definieren, welche Stufen es für die Freigabe gibt und welche Mitarbeitenden die Belege pro Stufe prüfen und freigeben müssen, damit die Belege in der RZL FIBU / EA gebucht werden können bzw. für die Überweisung vorgeschlagen werden.
 
@@ -17,12 +16,10 @@ Zum Aktivieren öffnen Sie den Klienten links oben im Feld *Klient wählen*. Wec
 
 ![Aktivierung Belegfreigabe](<img/image-36.png>)
 
-<span id="2-geanderte-ansichten-fur-belegfreigabe" class="legacy-anchor" aria-hidden="true"></span>
 ## 2. Geänderte Ansichten für Belegfreigabe
 
 Nach Aktivierung beim Klienten erscheinen im Bereich *BELEGE* nun die benötigten Ansichten. Je nachdem ob der Klient bereits geöffnet ist oder nicht, stehen folgende Ansichten zur Verfügung:
 
-<span id="21-menupunkt-belege-belege-ohne-geoffnetem-klienten" class="legacy-anchor" aria-hidden="true"></span>
 ### 2.1. Menüpunkt *BELEGE / Belege* ohne geöffnetem Klienten
 
 ![Beleg ohne geöffnetem Klienten](<img/image-37.png>)
@@ -31,7 +28,6 @@ Nach Aktivierung beim Klienten erscheinen im Bereich *BELEGE* nun die benötigte
 - Die Ansicht Belegfreigabe ② zeigt alle freizugebenden bzw. freigegebenen Belege und somit die ungebuchten Belege aller Klienten mit aktivierter Belegfreigabe.
 - Zusätzlich gibt es eine Ansicht für Abgelehnte Belege ③.
 
-<span id="22-menupunkt-belege-belege-mit-geoffnetem-klienten" class="legacy-anchor" aria-hidden="true"></span>
 ### 2.2. Menüpunkt *Belege / Belege* mit geöffnetem Klienten
 
 ![Beleg mit geöffnetem Klienten](<img/image-38.png>)
@@ -39,7 +35,6 @@ Nach Aktivierung beim Klienten erscheinen im Bereich *BELEGE* nun die benötigte
 - Bei Klienten mit aktivierter Belegfreigabe wird die Ansicht der Ungebuchten Belege ersetzt durch die Ansicht *Belegfreigabe* ①.
 - Zusätzlich gibt es eine Ansicht für *Abgelehnte Belege* ②.
 
-<span id="23-menupunkt-belege-einstellungen" class="legacy-anchor" aria-hidden="true"></span>
 ### 2.3. Menüpunkt *Belege / Einstellungen*
 
 ![Belege / Einstellungen](<img/image-39.png>)
@@ -126,7 +121,6 @@ Im Bereich *Freigabe-Benachrichtigung* können Sie pro Mitarbeiter festlegen, in
 
 ![Freigabe-Benachrichtigung](<img/image-46.png>)
 
-<span id="341-benachrichtigungsmoglichkeiten" class="legacy-anchor" aria-hidden="true"></span>
 #### 3.4.1. Benachrichtigungsmöglichkeiten
 
 - **Neue Belege:**
@@ -139,7 +133,6 @@ Bei Nutzung einer mehrstufigen Belegfreigabe bekommen Freigeber der 2. Stufe die
 - **Erinnerung senden:** Mitarbeiter mit dieser Option werden nach einer gewissen Zeit informiert, wenn Belege nicht freigegeben wurden. Im Feld *Zeitlicher Abstand der Erinnerung in Tage*n kann eingestellt werden, nach wie vielen Tagen die Erinnerungsmail versendet werden soll.
 - **Abgelehnte Belege:** Mitarbeiter mit dieser Option werden informiert, wenn Belege von beliebigen Freigebern abgelehnt wurden.
 
-<span id="342-allgemeine-einstellungen-fur-die-freigabe-benachrichtung" class="legacy-anchor" aria-hidden="true"></span>
 #### 3.4.2. Allgemeine Einstellungen für die Freigabe-Benachrichtung
 
 - **Mail nicht versenden, wenn Oder-Freigeber bereits freigegeben hat:**
@@ -165,7 +158,6 @@ Wird ein Beleg im Freigabeprozess abgelehnt, kann ein Kommentar mit dem Ablehnun
 
 ![Freigabe-Einstellungen](<img/image-47.png>)
 
-<span id="4-belege-hinzufugen-und-freigabestufenfreigeber-zuordnen" class="legacy-anchor" aria-hidden="true"></span>
 ## 4. Belege hinzufügen und Freigabestufen/Freigeber zuordnen
 
 ### 4.1. Freigabe-Standards bei neuen Belegen verwenden
@@ -230,7 +222,6 @@ Hier werden nun in fünf Spalten die aktuellen Freigabeinformationen angezeigt:
 
 Ganz unten in der *Detailansicht* eines Beleges im Registerblatt *Freigabe* werden die zugeordneten Freigeber und weitere Informationen, wie z.B. das Datum und die Uhrzeit einer erfolgten Freigabe, angezeigt.
 
-<span id="52-mogliche-aktionen" class="legacy-anchor" aria-hidden="true"></span>
 ### 5.2. Mögliche Aktionen
 
 Folgende Aktionen können bei einem Beleg getätigt werden, wenn Sie als Freigeber zugeordnet sind:
@@ -286,7 +277,6 @@ Beim ursprünglichen Freigeber wird vermerkt, an wen, zu welchem Datum und zu we
 In der Detailansicht zum Beleg finden Sie die entsprechenden Informationen:
 ![Detailansicht Infos](<img/image-57.png>)
 
-<span id="524-zurucksetzen" class="legacy-anchor" aria-hidden="true"></span>
 #### 5.2.4. Zurücksetzen
 
 Mit der Funktion *Zurücksetzen* können Sie bereits getätigte Aktionen wieder zurücknehmen. Es wird dies ebenfalls mit Datum und Uhrzeit vermerkt. Der Beleg gilt von Ihnen nun wieder als *nicht freigegeben*.
@@ -309,14 +299,12 @@ Sie haben zwei Möglichkeiten, die Online Belegfreigabe aufzurufen:
 - über das *RZL Board*
 - über das *Benachrichtigungsmail*, dass neue Belege für Sie zur Freigabe zur Verfügung stehen
 
-<span id="611-aufruf-uber-das-rzl-board" class="legacy-anchor" aria-hidden="true"></span>
 #### 6.1.1. Aufruf über das RZL Board
 
 Im **RZL Board** im Menüpunkt *BELEGE / Belegfreigabe* können Sie die Online Belegfreigabe über den Menüpunkt *Freigabe mit RZL Dienst* ① aufrufen.
 
 ![Aufruf über Board](<img/image-59.png>)
 
-<span id="612-aufruf-uber-das-benachrichtigungsmail" class="legacy-anchor" aria-hidden="true"></span>
 #### 6.1.2. Aufruf über das Benachrichtigungsmail
 
 Bereits im Benachrichtigungsmail können Sie mit Klick auf die Dateibezeichnung des Belegs ② eine Vorschau des Belegs öffnen.
@@ -325,7 +313,6 @@ Mit Klick auf die Schaltfläche *Meine freizugebenden Belege* ③ öffnet sich d
 
 ![Online Freigabe](<img/image-60.png>)
 
-<span id="62-durchfuhren-der-online-belegfreigabe" class="legacy-anchor" aria-hidden="true"></span>
 ### 6.2. Durchführen der Online Belegfreigabe
 
 Nach Einstieg in die Online Belegfreigabe über einen der im vorigen Kapitel beschriebenen Wege, öffnet sich ein Fenster in Ihrem Standardbrowser, in dem alle Belege angezeigt werden, wo Ihre Freigabe erforderlich ist. In diesem Fenster können Sie die Belege noch einmal als PDF-Vorschau aufrufen ① oder alle aufgelisteten Belege mit einem Klick auf die Schaltfläche *Alle meine Belege freigeben* ② freigeben.
@@ -354,7 +341,6 @@ Mit der Funktion *Freigeber bearbeiten* ② können Sie in der Detailansicht im 
 
 Jeder Freigeber kann über die Funktion *Seiten bearbeiten* ④ Seiten zum bestehenden Beleg dazu hängen. Ziehen Sie die neue Seite oder die neuen Seiten z.B. aus dem Windows-Explorer oder aus einem Scanordner in diese Ansicht Seiten bearbeiten.
 
-<span id="8-sichtbarkeitsrechte-einschranken-nur-belegfreigeber" class="legacy-anchor" aria-hidden="true"></span>
 ## 8. Sichtbarkeitsrechte einschränken (Nur Belegfreigeber)
 
 Im Berechtigungssystem gibt es die Möglichkeit, einem Mitarbeiter nur die Rolle *Belegfreigeber* zuzuordnen. Somit können diese Mitarbeiter in der *RZL Belegverarbeitung* (Ansichten *Belegfreigabe* und *Gebuchte Belege*) nur Belege sehen, bei denen sie selbst als Belegfreigeber zugeordnet sind.

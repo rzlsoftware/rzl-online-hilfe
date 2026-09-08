@@ -3,7 +3,6 @@ title: ZVR Zahl, EFZ
 program: LOHN
 ---
 
-<span id="zvr-zahl-efz" class="legacy-anchor" aria-hidden="true"></span>
 
 Die ZVR-Zahl ist für das Formular L19 ein Pflichtfeld. Die ZVR-Zahl können Sie unter *Stamm / Klient* im *Registerblatt ZVR Zahl* im RZL-Lohnprogramm hinterlegen.
 

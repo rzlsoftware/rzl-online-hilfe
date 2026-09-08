@@ -3,9 +3,7 @@ title: Verwaltung der Kollektivverträge
 program: LOHN
 ---
 
-<span id="verwaltung-der-kollektivvertrage" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="abonnieren-von-neuen-kollektivvertragen" class="legacy-anchor" aria-hidden="true"></span>
 ## Abonnieren von neuen Kollektivverträgen
 
 Die Kollektivverträge werden im Programmteil *Klient / Kanzlei / Kollektivverträge* verwaltet.
@@ -24,7 +22,6 @@ Hier können die benötigten KVs mit Hilfe eines Filters gesucht und ausgewählt
 Das Abonnieren von Kollektivverträgen ist kostenpflichtig und muss daher durch die Eingabe des bei der Auslieferung angeführten HGKV-Passwortes bestätigt werden.
 
 :::
-<span id="automatische-aktualisierung-der-kollektivvertrage" class="legacy-anchor" aria-hidden="true"></span>
 ## Automatische Aktualisierung der Kollektivverträge
 
 Die Kollektivverträge werden beim erstmaligen Start des Lohnverrechnungsprogrammes automatisch aktualisiert. D. h., die Aktualisierung erfolgt einmal pro Tag, egal ob im Netzwerk oder auf einem Einzelplatz gearbeitet wird und kann manuell über das Symbol ![Image](<img/image429.png>)

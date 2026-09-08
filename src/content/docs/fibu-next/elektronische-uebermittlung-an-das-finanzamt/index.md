@@ -3,7 +3,6 @@ title: Elektronische Übermittlungen an das Finanzamt
 program: FIBUNext
 ---
 
-<span id="elektronische-ubermittlungen-an-das-finanzamt" class="legacy-anchor" aria-hidden="true"></span>
 
 
 

@@ -3,7 +3,6 @@ title: Wiedereintritt
 program: LOHN
 ---
 
-<span id="wiedereintritt" class="legacy-anchor" aria-hidden="true"></span>
 
 Tritt ein zuvor ausgetretener Dienstnehmer erneut ins Unternehmen ein, so ist die neuerliche Abrechnung über den Menüpunkt *Abrechnungen / Wiedereintritt* vorzunehmen. Ein Wiedereintritt kann mehrmals im Jahr und auch mehrmals innerhalb eines Monats erfolgen.
 

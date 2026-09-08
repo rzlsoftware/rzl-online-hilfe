@@ -3,7 +3,6 @@ title: Grundeinstellungen zur Belegverarbeitung
 program: Belegverarbeitung
 ---
 
-<span id="grundeinstellungen-zur-belegverarbeitung" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Bereich *Einstellungen* finden Sie folgende Möglichkeiten:
 

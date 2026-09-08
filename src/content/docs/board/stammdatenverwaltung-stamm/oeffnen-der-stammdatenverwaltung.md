@@ -3,7 +3,6 @@ title: Öffnen der Stammdatenverwaltung
 program: Board
 ---
 
-<span id="offnen-der-stammdatenverwaltung" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Stammdatenverwaltung im RZL Board bietet Ihnen eine einheitliche und
 gemeinsame Datenbasis für die RZL Programme.
@@ -62,7 +61,6 @@ Sortierreihenfolge (z.B. 1. Sortieren nach Rechtsform, 2. Sortieren nach
 Klientennummer innerhalb der bereits getroffenen Sortierung nach
 Rechtsform) festlegen.
 
-<span id="bearbeiten-der-listen-spalten-auswahlenspalten-verschieben" class="legacy-anchor" aria-hidden="true"></span>
 ### Bearbeiten der Listen – Spalten auswählen/Spalten verschieben
 
 Durch Klick mit der rechten Maustaste auf die Spaltenüberschrift

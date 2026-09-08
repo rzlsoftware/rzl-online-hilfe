@@ -3,7 +3,6 @@ title: Electronic Banking EBICS
 program: LOHN
 ---
 
-<span id="electronic-banking-ebics" class="legacy-anchor" aria-hidden="true"></span>
 
 EBICS (Electronic Banking Internet Communication Standard) ist ein internetbasierter Kommunikationsstandard für den gesicherten Datenaustausch zwischen Unternehmen und Banken bzw. Sparkassen. Er ermöglicht nicht nur die sichere Übermittlung von Zahlungsdaten, sondern standardisiert auch die Autorisierung und Freigabe von (Zahlungs-)Aufträgen.
 
@@ -81,7 +80,6 @@ Bei Teilnehmern mit **Zeichnungsberechtigung** wird aus **Sicherheitsgründen** 
 
 Beide Varianten der Passwortspeicherung sind durch entsprechende Warnhinweise in der Benutzeroberfläche abgesichert.
 
-<span id="ebics-uberweisungen-in-der-rzl-lohnverrechnung" class="legacy-anchor" aria-hidden="true"></span>
 ## EBICS Überweisungen in der RZL Lohnverrechnung
 
 Die Umstellung vom bisherigen Verfahren – dem Versand von SEPA-XML-Dateien an die Kunden – hin zur direkten Übertragung von Zahlungsdaten an die Bankrechner über EBICS soll die Arbeitsschritte für unsere Anwender und deren Kunden vereinfachen und so Zeit und Kosten einsparen. Gleichzeitig soll der Umstellungsaufwand möglichst gering und der Schulungsbedarf minimal gehalten werden.
@@ -163,7 +161,6 @@ Die oben beschriebenen Funktionen gelten einheitlich für folgende Überweisungs
 
 Alle Übertragungen folgen denselben Grundsätzen in der Bedienung und Darstellung.
 
-<span id="berechtigungen-fur-ebics-im-rzl-board-einrichten" class="legacy-anchor" aria-hidden="true"></span>
 ## Berechtigungen für EBICS im RZL-Board einrichten
 
 Wie bei allen Funktionen im *RZL Board* können auch für die Nutzung der EBICS-Lohnüberweisungen spezifische Berechtigungen vergeben und eingeschränkt werden. Das Berechtigungssystem ist über den Menüpunkt *Stamm / Berechtigungen* aufrufbar.

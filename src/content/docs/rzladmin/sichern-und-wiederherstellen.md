@@ -3,7 +3,6 @@ title: RZL Daten Sichern/Wiederherstellen
 program: rzladmin
 ---
 
-<span id="rzl-daten-sichernwiederherstellen" class="legacy-anchor" aria-hidden="true"></span>
 
 ![RZL Daten Sichern/Wiederherstellen](img/DatenSichernWiederherstellen_Menue.png)
 

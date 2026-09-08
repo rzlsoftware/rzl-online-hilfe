@@ -3,7 +3,6 @@ title: Protokoll
 program: LOHN
 ---
 
-<span id="protokoll" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](img/image191.png)
 
@@ -25,7 +24,6 @@ Durch einen Doppelklick auf die gewünschte Meldung (z. B. eine Anmeldung) wer
 
 So haben Sie die Möglichkeit, die zu übermittelnden Daten vor dem Versand der Meldung an die ÖGK zu überprüfen.
 
-<span id="einzelne-meldungen-im-ogk-dialog-auswahlen-und-ubermitteln" class="legacy-anchor" aria-hidden="true"></span>
 ## Einzelne Meldungen im ÖGK-Dialog auswählen und übermitteln
 
 Im ÖGK-Dialog besteht die Möglichkeit, gezielt einzelne Meldungen zur Übermittlung auszuwählen. Es ist also nicht notwendig, alle Meldungen aus der ÖGK-Datei auf einmal zu versenden.

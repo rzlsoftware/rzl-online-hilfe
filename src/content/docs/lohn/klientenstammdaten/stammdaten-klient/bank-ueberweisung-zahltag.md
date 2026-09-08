@@ -3,7 +3,6 @@ title: Bank, Überweisung, Zahltag
 program: LOHN
 ---
 
-<span id="bank-uberweisung-zahltag" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image23.png>){width="500"}
 
@@ -17,7 +16,6 @@ Im Feld *Land* ist für österreichische Banken kein Eintrag notwendig. Wenn das
 
 Im Anschluss an das Auszahlungsjournal können Sie eine Münzliste für eine eventuelle Barauszahlung von Löhnen und Gehältern ausdrucken.
 
-<span id="uberweisungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisungen
 
 Sollen die Lohnabgaben an das Finanzamt, die Gemeinde, die Österreichische Gesundheitskasse oder den Sozialfonds durch Ausdruck eines Zahlscheins oder mittels Electronic-Banking überwiesen werden, dann sind diese Auswahlfelder zu aktivieren.
@@ -30,7 +28,6 @@ Die Eintragungen, die hier getroffen werden, sind auf den Jahreslohnkonten der D
 Wird für die Überweisung der Abrechnungen [Elektronic Banking](/lohn/elektronic-banking-sepa/) verwendet, wird das Durchführungsdatum als Zahltag am Jahreslohnkonto eingetragen.
 
 :::
-<span id="abweichender-uberweisungstext-abrechnungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Abweichender Überweisungstext Abrechnungen
 
 Beim Ausdruck oder beim Erstellen der Überweisungen an die Dienstnehmer steht als Text entweder LOHN/GEHALT oder HONORAR (bei freien Dienstnehmern). Diesen Standard-Text können Sie durch eine Eintragung im Feld *Abw. Überweisungstext* überschreiben.

@@ -3,7 +3,6 @@ title: Tarifschemata
 program: HONNext
 ---
 
-<span id="tarifschemata" class="legacy-anchor" aria-hidden="true"></span>
 
 Ein Tarifschema dient dazu, unterschiedliche Stundensätze oder
 Einheitssätze für Mitarbeiter oder Klienten, abweichend vom
@@ -28,7 +27,6 @@ alle dem Tarifschema zugeordneten Mitarbeiter/Klienten anzeigen lassen.
 
 ![](<img/image38.png>)
 
-<span id="darstellungsmoglichkeiten-tarifschemata" class="legacy-anchor" aria-hidden="true"></span>
 ### Darstellungsmöglichkeiten Tarifschemata
 
 Mithilfe diverser Gruppierungs- und Filtermöglichkeiten können Sie sich
@@ -146,7 +144,6 @@ Erhöhung abbilden wollen, müssen Sie für den Zeitpunkt der Erhöhung eine
 neue Generation anlegen.
 
 :::
-<span id="prozentuelle-erhohung-von-tarifen" class="legacy-anchor" aria-hidden="true"></span>
 ### Prozentuelle Erhöhung von Tarifen
 
 Mit der Schaltfläche *Tarifsätze anpassen* können Sie übergreifend die
@@ -216,7 +213,6 @@ nicht noch einmal alles neu von vorne anlegen.
 
 ![](<img/image54.png>)
 
-<span id="tarifschema-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Tarifschema löschen
 
 Ein Tarifschema kann nur gelöscht werden, wenn es bei keinem Mitarbeiter
@@ -226,7 +222,6 @@ Tarifschema löschen.
 
 ![](<img/image54.png>)
 
-<span id="zuordnung-eines-mitarbeiter-oder-klienten-tarifschemas" class="legacy-anchor" aria-hidden="true"></span>
 ### Zuordnung eines Mitarbeiter- oder Klienten-Tarifschemas
 
 Die Zuordnung eines von Ihnen angelegten Mitarbeiter-Tarifschemas
@@ -265,7 +260,6 @@ Ansicht der HON-Stammdaten geöffnet. Sie können bestehende Stammdaten
 bearbeiten oder neue definieren.
 
 :::
-<span id="tatigkeiten-zuordnen" class="legacy-anchor" aria-hidden="true"></span>
 ### Tätigkeiten zuordnen
 
 Die Schaltfläche *Tätigkeiten zuordnen* hilft Ihnen dabei, neu angelegte

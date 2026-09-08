@@ -3,7 +3,6 @@ title: Leistungen erfassen
 program: LENext
 ---
 
-<span id="leistungen-erfassen" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Eingabedialog
 

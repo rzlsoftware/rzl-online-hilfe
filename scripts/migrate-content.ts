@@ -202,7 +202,6 @@ async function main(): Promise<void> {
   const warnings: string[] = [];
   let admonitionCount = 0;
   let headingCount = 0;
-  let aliasCount = 0;
   let themeImageCount = 0;
   let attributeCount = 0;
 
@@ -222,7 +221,6 @@ async function main(): Promise<void> {
     anchors.set(sourcePath, prepared.anchorMap);
     admonitionCount += admonitions.converted;
     headingCount += prepared.headingCount;
-    aliasCount += prepared.aliasCount;
     const counts = sourceCounts(original);
     themeImageCount += counts.themeImages;
     attributeCount += counts.attributes;
@@ -313,7 +311,6 @@ async function main(): Promise<void> {
       admonitions: admonitionCount,
       remainingAdmonitions,
       headings: headingCount,
-      legacyAnchorAliases: aliasCount,
       themeImages: themeImageCount,
       mkdocsAttributes: attributeCount,
       rewrittenLinks,

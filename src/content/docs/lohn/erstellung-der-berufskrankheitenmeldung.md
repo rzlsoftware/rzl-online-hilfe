@@ -3,7 +3,6 @@ title: Erstellung der Berufskrankheitenmeldung (nur bis 2025 möglich)
 program: LOHN
 ---
 
-<span id="erstellung-der-berufskrankheitenmeldung-nur-bis-2025-moglich" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Neuanlage einer Berufskrankheitenmeldung
 
@@ -25,7 +24,6 @@ Wie gewohnt kann über das Kontextmenü (*rechte Maustaste* im grauen Bereich) o
 
 ![Image](<img/image359.png>){width="600"}
 
-<span id="ubermittlung-der-berufskrankheitenmeldung-an-die-ogk" class="legacy-anchor" aria-hidden="true"></span>
 ## Übermittlung der Berufskrankheitenmeldung an die ÖGK
 
 Wurden alle Pflichtfelder befüllt und wird anschließend der Dialog über *Speichern* verlassen, erscheint folgender Hinweis.

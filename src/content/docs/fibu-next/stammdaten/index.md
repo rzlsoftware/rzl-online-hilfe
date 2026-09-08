@@ -3,7 +3,6 @@ title: Stammdaten
 program: FIBUNext
 ---
 
-<span id="stammdaten" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Allgemeine Stammdaten
 

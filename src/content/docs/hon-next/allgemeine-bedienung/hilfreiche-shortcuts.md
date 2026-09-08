@@ -3,7 +3,6 @@ title: Hilfreiche Shortcuts
 program: HONNext
 ---
 
-<span id="hilfreiche-shortcuts" class="legacy-anchor" aria-hidden="true"></span>
 
 | *Shortcut*                | *Feld / Fenster*                              | *Beschreibung*                                                                    |
 | ------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------- |

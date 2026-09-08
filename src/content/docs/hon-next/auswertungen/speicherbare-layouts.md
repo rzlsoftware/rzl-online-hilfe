@@ -3,7 +3,6 @@ title: Speicherbare Layouts
 program: HONNext
 ---
 
-<span id="speicherbare-layouts" class="legacy-anchor" aria-hidden="true"></span>
 
 Beim Großteil der Auswertungen und Listenansichten besteht die
 Möglichkeit sich die selbst definierten Statistiken als Layout zu

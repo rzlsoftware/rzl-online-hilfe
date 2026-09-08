@@ -3,7 +3,6 @@ title: Registerblatt „Workflow“
 program: PDFManager
 ---
 
-<span id="registerblatt-workflow" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Menü *Workflow* haben Sie die Möglichkeit, wiederkehrende
 Einstellungen (wie zum Beispiel bestimmte Seitennummerierungen,
@@ -16,7 +15,6 @@ werden.
 
 ![](<img/image58.png>)
 
-<span id="workflow-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ## Workflow hinzufügen
 
 Um einen Workflow zu erstellen, klicken Sie auf *Workflow hinzufügen*.
@@ -185,7 +183,6 @@ In dieser Aktion können Einstellungen zum Zusammenführen von
 PDF-Dokumenten vorgenommen werden.
 
 
-<span id="workflow-ausfuhren" class="legacy-anchor" aria-hidden="true"></span>
 ## Workflow ausführen
 
 Ein fertiger Workflow *(Beispiel unten: Name „E-Mail Versand“.
@@ -203,7 +200,6 @@ Registerblatt *Workflow* auf dem jeweiligen Workflow und wählen
 Dadurch werden die definierten Aktionen für alle markierten Dokumente
 automatisch der Reihe nach ausgeführt.
 
-<span id="workflow-bearbeitenduplizierenloschenexportieren" class="legacy-anchor" aria-hidden="true"></span>
 ## Workflow bearbeiten/duplizieren/löschen/exportieren
 
 Sie haben neben der Ausführung auch die Möglichkeit einen bestehenden
@@ -226,7 +222,6 @@ Maustaste dann auf *Von Favoriten entfernen* klicken.
 
 ![](<img/image68.png>)
 
-<span id="individuelle-ausfuhrung-eines-workflows" class="legacy-anchor" aria-hidden="true"></span>
 ## Individuelle Ausführung eines Workflows 
 
 Neu im RZL PDF-Manager ist auch, dass Sie einen ausgewählten Workflow
@@ -262,7 +257,6 @@ XML-Datei an.
 Die Bereiche-Checkboxen sind erweiterte Einstellungen, um spezielle
 Bereiche aus dem PDF-Profil zu importieren oder zu ignorieren.
 
-<span id="workflow-ubersicht" class="legacy-anchor" aria-hidden="true"></span>
 ## Workflow-Übersicht
 
 In dieser Ansicht sind alle persönlichen und Kanzleiweiten Workflows

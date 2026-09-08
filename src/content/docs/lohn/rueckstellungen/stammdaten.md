@@ -3,11 +3,9 @@ title: Stammdaten
 program: LOHN
 ---
 
-<span id="stammdaten" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Menüpunkt *Stamm / Klient / Details Rückstellungen (1), Details Rückstellungen (2)*, *Details Rückstellungen* *(3) und Details Rückstellungen (4)* können die Grundeinstellungen für die einzelnen Rückstellungen aufgerufen bzw. bearbeitet werden. Alle Rückstellungen können auch in ASCII (.csv-Datei) ausgegeben werden.
 
-<span id="details-ruckstellungen-1" class="legacy-anchor" aria-hidden="true"></span>
 ## Details Rückstellungen (1)
 
 ![Image](<img/image250.png>){width="500"}
@@ -52,7 +50,6 @@ In der finanzmathematischen Berechnung werden im Gegensatz zur steuerlichen Bere
 
 Durch Aktivierung dieses Feldes berücksichtigt das Programm die Berechnung lt. Fachgutachten für die eingefrorenen Abfertigungsansprüche für Dienstnehmer bei einem Teilumstieg ins neue Abfertigungssystem.
 
-<span id="details-ruckstellungen-2" class="legacy-anchor" aria-hidden="true"></span>
 ## Details Rückstellungen (2)
 
 ![Image](<img/image251.png>){width="500"}
@@ -83,7 +80,6 @@ Falls Sie keine Urlaubskartei im Programm führen und vom Klienten eine Liste mi
 
 Wird das Auswahlfeld *Berechnung Einheitswert* aktiviert, dann erfolgt die separate Berechnung und der Ausdruck einer Urlaubsrückstellung für die Berechnung des Einheitswertes des Betriebsvermögens.
 
-<span id="details-ruckstellungen-3" class="legacy-anchor" aria-hidden="true"></span>
 ## Details Rückstellungen (3)
 
 ![Image](<img/image252.png>){width="500"}
@@ -118,7 +114,6 @@ Nachdem Jubiläumsgelder im Bereich der Sozialversicherung als Sonderzahlung zu 
 
 Als aufzuschlagende Nebenkosten bleiben dann nur noch jene Beiträge, die nicht durch die Höchstbemessungsgrundlage gedeckt sind (DB, DZ und Kommst, sowie BV-Beitrag).
 
-<span id="details-ruckstellungen-4" class="legacy-anchor" aria-hidden="true"></span>
 ## Details Rückstellungen (4)
 
 ![Image](<img/image253.png>){width="500"}

@@ -3,7 +3,6 @@ title: Einfügen
 program: Reporting
 ---
 
-<span id="einfugen" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Grafik
 
@@ -27,7 +26,6 @@ Seitenübergreifende Absätze werden grundsätzlich automatisch getrennt. Um meh
 
 Wird der Menüpunkt *Einfügen / Abschnittswechsel* verwendet, beginnt eine neue Seite und zugleich ein neuer Abschnitt. Dieser Abschnitt kann über *Ansicht / Eigenschaftsfenster / [Abschnitt (Dokument)](/reporting/eigenschaftsfenster/abschnitt-dokument/)* bearbeitet werden.
 
-<span id="geschutztes-leerzeichen" class="legacy-anchor" aria-hidden="true"></span>
 ## Geschütztes Leerzeichen
 
 Soll ein Text durch Eingabe eines Leerzeichens nicht getrennt werden, dann geben Sie über *Einfügen / Geschütztes Leerzeichen* dieses Leerzeichen hinein. Zum Beispiel bei *EUR 200,00*.

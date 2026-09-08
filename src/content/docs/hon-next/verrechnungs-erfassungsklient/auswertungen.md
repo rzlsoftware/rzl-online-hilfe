@@ -3,7 +3,6 @@ title: Auswertungen
 program: HONNext
 ---
 
-<span id="auswertungen" class="legacy-anchor" aria-hidden="true"></span>
 
 In der Klienten-Umsatzstatistik findet sich ausschließlich der
 Verrechnungsklient. Mit dem Button *Details anzeigen* können Sie

@@ -3,7 +3,6 @@ title: RZL Belegverarbeitung Versionsverwaltung
 program: Belegverarbeitung
 ---
 
-<span id="rzl-belegverarbeitung-versionsverwaltung" class="legacy-anchor" aria-hidden="true"></span>
 
 ## RZL Versionsverwaltung 
 
@@ -49,7 +48,6 @@ Beim standardmäßigen Öffnen eines Belegs wird immer die aktuelle Version geö
 
 
 
-<span id="2-anderungsprotokoll" class="legacy-anchor" aria-hidden="true"></span>
 ### 2. Änderungsprotokoll
 
 

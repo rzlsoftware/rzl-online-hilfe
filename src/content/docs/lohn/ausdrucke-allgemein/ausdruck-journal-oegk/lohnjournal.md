@@ -3,7 +3,6 @@ title: Lohnjournal
 program: LOHN
 ---
 
-<span id="lohnjournal" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](img/image234.png){width="500"}
 

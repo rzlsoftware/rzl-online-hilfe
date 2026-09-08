@@ -3,7 +3,6 @@ title: Allgemeines
 program: Belegverarbeitung
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
 Falls in der Steuerberatungs-Kanzlei bzw. bei Firmen für Außenstellen
 das web-basierte RZL Klientenportal eingesetzt wird, können die

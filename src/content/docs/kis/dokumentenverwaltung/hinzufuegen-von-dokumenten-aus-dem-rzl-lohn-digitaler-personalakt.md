@@ -25,7 +25,6 @@ Lohn relevanten Dokumente für diesen Dienstnehmer anzuzeigen.
 
 ![DN Dokumente](<img/image233.png>)
 
-<span id="elda-dokumente-aus-rzl-lohn-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ### ELDA-Dokumente aus RZL Lohn hinzufügen
 
 Im RZL-Lohn können Sie unter *Klient / Elektronische Übermittlung / ELDA-Einstellungen* im folgenden Dialog unter *Personalakt – ELDA Export ins KIS* festlegen welche ELDA-Dokumente Sie automatisiert ins KIS abspeichern möchten.
@@ -39,7 +38,6 @@ ELDA-Dokumente abgelegt werden sollen.
 
 ![Elda Zuweisungen](<img/image236.png>)
 
-<span id="andere-dokumente-aus-rzl-lohn-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ### Andere Dokumente aus RZL Lohn hinzufügen
 
 Alle anderen Dokumente aus dem RZL Lohn können über den RZL
@@ -50,7 +48,6 @@ unter die Lohn-Dokumente wird hier bereits automatisch vorgeschlagen.
 
 ![Dokumente aus PDF Manager hinzufügen](<img/image237.png>)
 
-<span id="lohn-dokumente-aus-dem-explorerms-office-programmen-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ### Lohn Dokumente aus dem Explorer/MS-Office Programmen hinzufügen
 
 Möchten Sie Lohn-Dokumente aus dem Explorer bzw. den MS-Office
@@ -60,7 +57,6 @@ Dokumentbereich *Lohn- u. Gehaltsverrechnung* auswählen.
 
 ![Dokumente aus dem Explorer/MS Office hinzufügen](<img/image238.png>)
 
-<span id="lohn-dokumente-aus-klientenportal-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ### Lohn Dokumente aus Klientenportal hinzufügen
 
 Dokumente können eingeschränkt auf einen Dokumentbereich aus dem
@@ -69,7 +65,6 @@ und Gehaltsverrechnung wird auch automatisch der Dienstnehmer
 übernommen, insofern dieser im Klientenportal vom Klienten hinterlegt
 wurde.
 
-<span id="sichtbarkeit-der-lohn-bzw-dienstnehmer-dokumente" class="legacy-anchor" aria-hidden="true"></span>
 ### Sichtbarkeit der Lohn- bzw. Dienstnehmer-Dokumente
 
 In den Mitarbeiterstammdaten im Board können Sie die Sichtbarkeit der

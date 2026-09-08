@@ -3,7 +3,6 @@ title: KER Kreise
 program: FIBUNext
 ---
 
-<span id="ker-kreise" class="legacy-anchor" aria-hidden="true"></span>
 
 KER Kreise dienen dazu, innerhalb einer KER getrennte Bereiche auswerten zu können (z.B. bei mehreren Filialen). 
 

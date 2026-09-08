@@ -3,7 +3,6 @@ title: Exkurs Brutto- oder Nettomethode für die Berechnung von Personalrückste
 program: LOHN
 ---
 
-<span id="exkurs-brutto-oder-nettomethode-fur-die-berechnung-von-personalruckstellungen" class="legacy-anchor" aria-hidden="true"></span>
 
 UGB § 211 Abs. 1 idF RÄG 2014 bzw. AFRAC Stellungnahme 27 sehen die **Nominalmethode** (Bruttomethode) vor. Abfertigungen und Jubiläumsgelder sind mit dem Erfüllungsbetrag anzusetzen. Dieser **Erfüllungsbetrag** ist mit einem **Nominalzinssatz** über die Dienstzeit zu verteilen. Dagegen wird im aktuellen Fachgutachten KFS/RL 2 die Anwendung der **Realwertmethode** (Nettomethode) gefordert. Dabei wird der **aktuelle Bezug,** also ohne zukünftige Gehaltssteigerungen, mit einem **Realzinssatz** verzinst.
 

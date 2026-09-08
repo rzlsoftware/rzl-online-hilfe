@@ -3,16 +3,13 @@ title: Wann sind Folgegruppen notwendig?
 program: LOHN
 ---
 
-<span id="wann-sind-folgegruppen-notwendig" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="keine-folgegruppen-notwendig-z-b-kv-handel-angestellte" class="legacy-anchor" aria-hidden="true"></span>
 ## Keine Folgegruppen notwendig – z. B.: KV Handel Angestellte
 
 ![Image](<img/image441.png>){width="600"}
 
 Wenn, wie oben am Beispiel KV Handel Angestellte ersichtlich, die Erhöhungen aufgrund der Betriebszugehörigkeit innerhalb einer Tabelle abgebildet sind, ist die Anlage von Folgegruppen nicht notwendig, da es schlicht und einfach keine Folgegruppen gibt.
 
-<span id="folgegruppen-notwendig-z-b-kv-informationstechnik-it" class="legacy-anchor" aria-hidden="true"></span>
 ## Folgegruppen notwendig – z. B. KV Informationstechnik (IT)
 
 Innerhalb von bestimmten Kollektivverträgen (z. B. IT-KV) erfolgt nach Ablauf einer bestimmten Zeitdauer automatisch der Wechsel in eine andere Stufe.

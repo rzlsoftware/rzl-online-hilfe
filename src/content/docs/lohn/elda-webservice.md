@@ -3,7 +3,6 @@ title: ELDA Webservice
 program: LOHN
 ---
 
-<span id="elda-webservice" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit 31.12.2026 endet die Verfügbarkeit der ELDA-Software für die Übertragung von Meldungen aus der Lohnverrechnung an die Österreichische Gesundheitskasse (ÖGK). Ab diesem Zeitpunkt können dort auch keine neuen Meldungen mehr erfasst werden. Zudem wird die Schnittstelle zur Datenübermittlung nicht mehr an gesetzliche Änderungen angepasst.
 
@@ -21,7 +20,6 @@ Im Menüpunkt *Allg. Dateien / Stammdaten Absender* wurde für die Hinterlegung 
 
 Grundsätzlich basiert der Zugang weiterhin auf der **ELDA-Seriennummer** und dem dazugehörigen **Kundenpasswort**. In diesem Dialog können Sie ab sofort mit bis zu drei verschiedenen Seriennummern/Kundenpasswörtern arbeiten und diese jeweils mit einer frei wählbaren Bezeichnung versehen.
 
-<span id="neuanforderung-des-passwortes-uber-die-elda-software-oder-id-austria" class="legacy-anchor" aria-hidden="true"></span>
 ### Neuanforderung des Passwortes über die ELDA-Software oder ID Austria
 
 Falls insbesondere das Kundenpasswort in der Kanzlei nicht mehr verfügbar ist, kann über die ELDA-Software unter *Extras / Konfiguration / Lizenzinformationen ändern* der folgende Dialog bzw. Link geöffnet werden.
@@ -40,7 +38,6 @@ Wenn Sie über einen Firmenzugang mittels ID Austria und die entsprechenden Bere
 Wird in den ELDA-Einstellungen die Verwendung des ELDA-Webservice aktiviert, so gilt diese Einstellung für die **gesamte Kanzlei bzw. Firma**. Eine Beschränkung auf einen einzelnen Arbeitsplatz ist **nicht** möglich.
 
 :::
-<span id="ubermittlung" class="legacy-anchor" aria-hidden="true"></span>
 ### Übermittlung
 
 Im Bereich *Übermittlung* stehen Ihnen zusätzlich folgende Auswahlmöglichkeiten zur Verfügung:
@@ -63,7 +60,6 @@ Falls die Zugangsdaten bereits zuvor in der *ZMV* angelegt wurden, können diese
 
 ![Image](img/image873.png){width="500"}
 
-<span id="durchfuhren-eines-verbindungstests" class="legacy-anchor" aria-hidden="true"></span>
 ### Durchführen eines Verbindungstests
 
 Über die Schaltfläche *Test* können Sie einen Verbindungstest durchführen, der bislang direkt in der ELDA-Software möglich war.
@@ -76,7 +72,6 @@ Mithilfe des Listenfelds können Sie auch an dieser Stelle weitere Zugangsdaten 
 
 Für den Fall, dass die Kanzlei bzw. Firma über sogenannte RZL-Sublizenzen verfügt, können pro Sublizenz jeweils drei weitere Zugänge hinterlegt werden.
 
-<span id="ubermittlung-der-meldungen-an-die-ogk" class="legacy-anchor" aria-hidden="true"></span>
 ## Übermittlung der Meldungen an die ÖGK
 
 Grundsätzlich ändert sich an der bisherigen Vorgehensweise bei der Erstellung und Übermittlung nichts. Im Übermittlungsdialog wird nun zusätzlich der verwendete Zugang bzw. die vergebene Bezeichnung angezeigt.
@@ -89,7 +84,6 @@ Wenn Sie mehrere Seriennummern einsetzen möchten, können Sie hier jenen Zugang
 
 ![Image](img/image876.png){width="600"}
 
-<span id="darstellung-des-ubermittlungsvorgangs-nach-der-umstellung" class="legacy-anchor" aria-hidden="true"></span>
 ### Darstellung des Übermittlungsvorgangs nach der Umstellung
 
 Im Zuge des Übermittlungsvorgangs ergeben sich lediglich geringfügige optische Änderungen. Nach der Umstellung wird die ELDA-Software nicht mehr geöffnet. Stattdessen erscheint nur noch kurz ein Fortschrittsbalken, der die Übertragung anzeigt.

@@ -3,9 +3,7 @@ title: Zahlungsausgleich mit OP-Verwaltung
 program: FIBUNext
 ---
 
-<span id="zahlungsausgleich-mit-op-verwaltung" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="zahlungsausgleich-mit-op-verwaltung_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Zahlungsausgleich mit OP-Verwaltung
 
 

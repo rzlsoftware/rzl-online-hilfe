@@ -3,7 +3,6 @@ title: Korrektur letzte Abrechnung
 program: LOHN
 ---
 
-<span id="korrektur-letzte-abrechnung" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Menüpunkt *Abrechnungen / Korrektur letzte Abrechnung* kann ein bereits abgerechneter Dienstnehmer **vor** der Abrechnung des nächsten Monats korrigiert werden.
 

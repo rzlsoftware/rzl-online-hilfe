@@ -3,7 +3,6 @@ title: Aufrollung
 program: LOHN
 ---
 
-<span id="aufrollung" class="legacy-anchor" aria-hidden="true"></span>
 
 ## LSt (Lohnsteuer)-Aufrollung Freibetrag, AVAB
 
@@ -19,7 +18,6 @@ Der Programmteil *Abrechnungen / Aufrollung / LSt-Aufrollung Pendlerpauschale–
 
 Einen Ausdruck einer Dienstnehmerliste inklusive Pendlerpauschale bekommt man über *Ausdruck / Sonderdrucke / Pendlerpauschale*.
 
-<span id="lohn-und-gehaltsaufrollung" class="legacy-anchor" aria-hidden="true"></span>
 ## Lohn- und Gehaltsaufrollung
 
 Muss im Nachhinein eine Abrechnung verändert werden, geschieht dies über *Abrechnungen / Aufrollung / Lohn-/Gehaltsaufrollung*. Dieser Menüpunkt erlaubt eine Gesamtaufrollung der Abrechnungen eines Dienstnehmers ohne zeitliche Beschränkung während eines Kalenderjahres.
@@ -28,7 +26,6 @@ Nach Wahl des gewünschten Dienstnehmers sind die Monate einzugeben, die aufgero
 
 Beim Ausdruck der Lohnabrechnung des laufenden Monats werden automatisch die berichtigten Lohnabrechnungen der aufgerollten Monate ausgedruckt und die Netto-Aufrolldifferenz in der laufenden Lohnabrechnung berücksichtigt.
 
-<span id="lohnsteueraufrollung-gema-77-3-estg-1988" class="legacy-anchor" aria-hidden="true"></span>
 ## Lohnsteueraufrollung gemäß § 77 (3) EStG 1988
 
 Der Menüpunkt *Abrechnungen / Aufrollung* */ Lohnsteueraufrollung* *gemäß § 77 (3) EStG 1988* ermöglicht die Aufrollung der laufenden Bezüge bei schwankenden Lohnsteuerbemessungsgrundlagen. Im Monat Dezember können unter den Voraussetzungen des § 77 (3) bei den einzelnen Dienstnehmern bereits der Kirchenbeitrag und der Gewerkschaftsbeitrag als Werbungskosten berücksichtigt werden. Das Eingabefeld für diese Werbungskosten befindet sich bereits im Aufrollungsbildschirm.
@@ -43,7 +40,6 @@ Ein Storno der Lohnsteueraufrollung gemäß § 77 (3) EStG ist nicht möglich.
 Diese Aufrollung betrifft NICHT das Kontrollsechstel. Dieses wird vom Programm automatisch gerollt.
 
 :::
-<span id="loschung-aufrolldifferenzen" class="legacy-anchor" aria-hidden="true"></span>
 ## Löschung Aufrolldifferenzen
 
 Wurde eine Aufrollung durchgeführt und sollen die sich ergebenden Differenzen des Nettobetrages nicht in der Abrechnung des laufenden Monats berücksichtigt werden, so kann der Aufrollungsbetrag in diesem Programmteil gelöscht werden.

@@ -3,7 +3,6 @@ title: Datenexport Buchungsbeleg
 program: LOHN
 ---
 
-<span id="datenexport-buchungsbeleg" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Anwahl des Programmteiles *Bearbeiten / Datenexport / Export Buchungsbeleg (RZL-Format)* ermöglicht die Erstellung einer Datei, die die Buchungen des Buchungsbelegs beinhaltet und die in das RZLWin-Finanzbuchhaltungsprogramm bzw. RZLWin-Einnahmen-Ausgaben-Programm importiert werden kann.
 

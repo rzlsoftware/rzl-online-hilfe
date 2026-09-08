@@ -3,9 +3,7 @@ title: Buchungen
 program: FIBUNext
 ---
 
-<span id="buchungen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="datenimport-buchungen" class="legacy-anchor" aria-hidden="true"></span>
 ### Datenimport – Buchungen
 
 

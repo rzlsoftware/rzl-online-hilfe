@@ -3,7 +3,6 @@ title: SQL-Server Installation
 program: technik
 ---
 
-<span id="sql-server-installation" class="legacy-anchor" aria-hidden="true"></span>
 
 In dieser Dokumentation wird die Installation und Konfiguration des SQL-Servers beschrieben, damit dieser von den RZL Programmen verwendet werden kann.
 
@@ -105,7 +104,6 @@ Standardmäßig "SQLEXPRESS_RZL" oder SQL_RZL.
      Beenden Sie die Installation und schließen Sie das Installationscenter. Fahren Sie mit der Installation des aktuellsten kumulativen Updates fort.
 
 
-<span id="installation-des-aktuellsten-kumulativen-updates-fur-sql-server" class="legacy-anchor" aria-hidden="true"></span>
 ## Installation des aktuellsten kumulativen Updates für SQL-Server
 
 Microsoft veröffentlicht regelmäßig kumulative Updates für die unterschiedlichen SQL-Server Versionen mit Bugfixes, Sicherheitsupdates und Leistungsverbesserungen. Es wird empfohlen, immer das aktuellste kumulative Update zu installieren und regelmäßig auf neue Updates zu prüfen.   

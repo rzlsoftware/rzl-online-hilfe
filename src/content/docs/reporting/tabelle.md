@@ -3,7 +3,6 @@ title: Tabelle
 program: Reporting
 ---
 
-<span id="tabelle" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Arbeiten mit Tabellen
 
@@ -36,7 +35,6 @@ Setzen Sie den Mauszeiger an den Spaltenanfang bis er die Form eines Pfeils nach
 
 Ziehen Sie dazu den gedrückten Mauszeiger über das Feld bis die gesamte Zeile blau markiert ist. Sie können nun die Zelle in den [Tabellenzelleneigenschaften](/reporting/eigenschaftsfenster/tabellenzelle/) bearbeiten.
 
-<span id="zeilenspalten-hinzufugen-oder-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Zeilen/Spalten hinzufügen oder löschen
 
 Rufen Sie sich im Tabellenbereich mit der rechten Maustaste das Kontextmenü auf und wählen Sie die gewünschte Option (*Zeile oberhalb/unterhalb einfügen* oder *Spalte links/rechts einfügen*) aus. Möchten Sie zusätzliche Zeilen einfügen, ist dies auch durch Drücken der Tabulator-Taste möglich.
@@ -65,7 +63,6 @@ Durch Aufruf des Kontextmenüs im Tabellenbereich und der Anwahl des Punktes *Ta
 
 Mit Anwahl der jeweiligen Schaltfläche werden die vorgenommenen Einstellungen in der Vorschau angezeigt. Diese gelten immer für den aktuell markierten Bereich. Wenn Sie beispielsweise nur die Rahmenlinien einer Zeile formatieren möchten, ist diese vor Anwahl des Kontextmenüs zu markieren.
 
-<span id="tabelle_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Tabelle
 
 Durch Anwahl des jeweiligen Menüpunktes im Kontextmenü können Sie gewünschte Formatierungen durchführen:
@@ -86,14 +83,12 @@ Durch Markieren einer gesamten Zelle und Aufruf der [*Zelleneigenschaften*](/rep
 Sollte Ihnen vor der Tabelle eine Leerzeile fehlen, können Sie diese durch Markieren der gesamten Tabelle und mit der rechten Maustaste *Leerzeile vor Tabelle einfügen* ergänzen.
 
 :::
-<span id="tabellenhintergrundbild-einfugen" class="legacy-anchor" aria-hidden="true"></span>
 #### Tabellenhintergrundbild einfügen
 
 Über das Kontextmenü mit der rechten Maustaste kann ein Tabellenhintergrundbild eingefügt werden.
 
 ![Image](img/image108.png)
 
-<span id="automatische-summen-einfugen" class="legacy-anchor" aria-hidden="true"></span>
 ### Automatische Summen einfügen
 
 Zur automatischen Aufsummierung von Zahlen müssen diese als [Formelwert](/reporting/formeln/einfuegen-und-bearbeiten-von-formeln/) eingegeben werden.

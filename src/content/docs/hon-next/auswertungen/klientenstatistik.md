@@ -3,7 +3,6 @@ title: Klientenstatistik
 program: HONNext
 ---
 
-<span id="klientenstatistik" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Klientenstatistik soll Ihnen einen Überblick über die verrechneten
 Leistungen von finalisierten Noten pro Klienten aufzeigen.

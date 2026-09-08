@@ -3,7 +3,6 @@ title: Aufruf
 program: LOHN
 ---
 
-<span id="aufruf" class="legacy-anchor" aria-hidden="true"></span>
 
 **Aufruf Dienstgeberliste**
 

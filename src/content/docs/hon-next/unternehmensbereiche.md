@@ -3,7 +3,6 @@ title: Unternehmensbereiche
 program: HONNext
 ---
 
-<span id="unternehmensbereiche" class="legacy-anchor" aria-hidden="true"></span>
 
 Ein Unternehmensbereich ist zum Beispiel Ihre Kanzlei. Wenn Sie die
 Honorarnoten auf unterschiedliche Kanzleien/Bereiche aufteilen, können

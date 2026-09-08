@@ -3,7 +3,6 @@ title: Verrechnungsgruppen
 program: HONNext
 ---
 
-<span id="verrechnungsgruppen" class="legacy-anchor" aria-hidden="true"></span>
 
 Verrechnungsgruppen werden für die Leistungserfassung, Notenerstellung
 und Kontierung für die Finanzbuchhaltung benötigt.
@@ -84,7 +83,6 @@ von Ihnen gewählten Reihung auch bei der Notenerstellung in dieser
 Reihenfolge vorgeschlagen.
 
 :::
-<span id="verrechnungsgruppe-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Verrechnungsgruppe löschen
 
 Verrechnungsgruppen können über den Button *Verrechnungsgruppe löschen*,

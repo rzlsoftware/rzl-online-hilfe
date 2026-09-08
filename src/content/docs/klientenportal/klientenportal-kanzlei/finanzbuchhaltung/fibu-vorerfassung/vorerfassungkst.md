@@ -3,7 +3,6 @@ title: Stammdaten Kostenrechnung
 program: Klientenportal
 ---
 
-<span id="stammdaten-kostenrechnung" class="legacy-anchor" aria-hidden="true"></span>
 
 Wenn im Buchhaltungsklienten eine Kostenstellen und/oder eine Kostenträgerrechnung gebucht wird, kann im RZL Klientenportal im Programmteil *Finanzbuchhaltung / Stammdaten KORE* den Benutzern eine Kostenstelle und ein Kostenträger zugeordnet werden.
 

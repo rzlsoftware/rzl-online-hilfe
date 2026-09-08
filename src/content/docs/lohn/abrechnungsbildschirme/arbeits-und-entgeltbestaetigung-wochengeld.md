@@ -3,11 +3,9 @@ title: Arbeits- und Entgeltbestätigung Wochengeld
 program: LOHN
 ---
 
-<span id="arbeits-und-entgeltbestatigung-wochengeld" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image136.png>)
 
-<span id="beschaftigungsdaten" class="legacy-anchor" aria-hidden="true"></span>
 ## Beschäftigungsdaten
 
 **Beschäftigt ab / Beschäftigungstage pro Woche**
@@ -86,7 +84,6 @@ Sonderzahlungen sind Bezüge, die in größeren Zeiträumen als den Beitragszeit
 
 Tragen Sie hier den **Nettowert** der im Verdienst enthaltenen Provision bzw. Prämie ein. Wurde die Prämie bzw. Provision in der Sonderzahlung berücksichtigt, aktivieren Sie das Häkchen bei *Berücksicht. bei Sonderzahlung*.
 
-<span id="sachbezuge" class="legacy-anchor" aria-hidden="true"></span>
 ## Sachbezüge
 
 Sachbezüge sind art- und mengenmäßig anzuführen. Als solche gelten u. a. freie Station, volle Verpflegung (1. Frühstück, 2. Frühstück, Mittag- und Abendessen, Jause), Wohnung, Bekleidung und Grunddeputat, wenn sie dem Arbeitnehmer unentgeltlich gewährt werden. Es ist auch anzugeben, an wie viel Tagen pro Woche Sachbezüge gewährt werden. Beitragspflichtige Sachbezüge, die während der Wochenhilfe nicht weiter gewährt werden, sind in den Netto-Arbeitsverdienst zu inkludieren.

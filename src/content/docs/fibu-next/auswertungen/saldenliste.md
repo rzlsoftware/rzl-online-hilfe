@@ -3,7 +3,6 @@ title: Saldenliste
 program: FIBUNext
 ---
 
-<span id="saldenliste" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Auswertung Saldenliste
 

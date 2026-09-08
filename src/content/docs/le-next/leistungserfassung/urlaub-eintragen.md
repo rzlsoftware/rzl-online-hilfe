@@ -3,7 +3,6 @@ title: Urlaub eintragen
 program: LENext
 ---
 
-<span id="urlaub-eintragen" class="legacy-anchor" aria-hidden="true"></span>
 
 Wenn Sie in der Leistungserfassung auf den Button *Urlaub eintragen*
 klicken, wird für den geöffneten Tag eine Urlaubszeile automatisch

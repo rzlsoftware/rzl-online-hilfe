@@ -3,7 +3,6 @@ title: Buchungsbeleg
 program: LOHN
 ---
 
-<span id="buchungsbeleg" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image226.png>){width="500"}
 

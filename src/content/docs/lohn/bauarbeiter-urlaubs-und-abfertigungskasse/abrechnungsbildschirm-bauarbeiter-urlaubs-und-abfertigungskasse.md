@@ -3,7 +3,6 @@ title: Abrechnungsbildschirm Bauarbeiter- Urlaubs- und Abfertigungskasse
 program: LOHN
 ---
 
-<span id="abrechnungsbildschirm-bauarbeiter-urlaubs-und-abfertigungskasse" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Allgemeines
 
@@ -45,7 +44,6 @@ Wenn im [Abrechnungsbildschirm *Kollektivvertrag*](/lohn/abrechnungsbildschirme/
 
 Eintragung der Wochenstunden laut Kollektivvertrag, diese können ebenfalls mit der *F2-Taste* übernommen werden.
 
-<span id="buak-monatsmeldung-meldung-der-beschaftigungszustande" class="legacy-anchor" aria-hidden="true"></span>
 ## BUAK-Monatsmeldung – Meldung der Beschäftigungszustände
 
 ![Image](<img/image473.png>){width="500"}

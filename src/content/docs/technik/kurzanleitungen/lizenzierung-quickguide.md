@@ -3,7 +3,6 @@ title: Quickguide RZL Online-Lizenzierung
 program: technik
 ---
 
-<span id="quickguide-rzl-online-lizenzierung" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Voraussetzungen
 
@@ -12,7 +11,6 @@ program: technik
 - Bei Fragen zur Nutzung oder Unsicherheiten wenden Sie sich an unseren Vertrieb.   
 [Support-Hotline &#8599;](https://rzlsoftware.at/support){:target="_blank"} | [software@rzlsoftware.at](mailto:software@rzlsoftware.at) | [07752 252-66](tel:+43775225266)
 
-<span id="optionen-zur-durchfuhrung-der-online-lizenzierung" class="legacy-anchor" aria-hidden="true"></span>
 ## Optionen zur Durchführung der Online-Lizenzierung   
 
 - **Lizenzierung via Programmeinstieg**   

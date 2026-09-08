@@ -3,7 +3,6 @@ title: Weitergewährung des Sachbezuges während Karenz
 program: LOHN
 ---
 
-<span id="weitergewahrung-des-sachbezuges-wahrend-karenz" class="legacy-anchor" aria-hidden="true"></span>
 
 In der Praxis kommt es immer wieder vor, dass Dienstnehmer auch während einer Karenz (z. B. nach dem Mutterschutzgesetz/MSchG oder dem Väter-Karenzgesetz/VKG) weiterhin Sachbezüge erhalten (z. B. Dienstwohnung, Privatnutzung des Firmen-PKW). Werden während einer derartigen Karenz ausschließlich Sachbezüge gewährt, sind diese in der Sozialversicherung beitragsfrei.
 

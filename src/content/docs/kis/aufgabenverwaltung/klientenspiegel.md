@@ -21,7 +21,6 @@ angezeigt. Im jährlichen Klientenspiegel erfolgt die Darstellung pro
 Jahr. Die Aktivitäten werden in der Verwaltung angelegt und können in
 den Stammdaten des Klienten und bei den Aufgaben zugeordnet werden.
 
-<span id="anlage-der-aktivitaten" class="legacy-anchor" aria-hidden="true"></span>
 ## Anlage der Aktivitäten
 
 Die Anlage der Aktivitäten erfolgt in der Verwaltung durch Anwahl des
@@ -42,7 +41,6 @@ der Schaltfläche *Übernehmen* zugeordnet.
 Sie können sich die Auswahl innerhalb der Klientenliste erleichtern, indem Sie einen temporären Filter auf die Zuständigkeit (hier: Buchhaltung) setzen.
 
 :::
-<span id="zuordnung-der-aktivitaten-in-den-klientenstammdaten" class="legacy-anchor" aria-hidden="true"></span>
 ### Zuordnung der Aktivitäten in den Klientenstammdaten
 
 Die Zuordnung der angelegten *Aktivitäten/Fachbereiche* kann auch
@@ -65,7 +63,6 @@ und *halbjährlich* werden im monatlichen Klientenspiegel ausgewiesen
 Zeitraum *jährlich* zugeordnet wird (z.B.: Jahresabschluss) werden im
 jährlichen Klientenspiegel ausgewiesen.
 
-<span id="zuordnung-der-aktivitaten-innerhalb-der-aufgaben" class="legacy-anchor" aria-hidden="true"></span>
 ### Zuordnung der Aktivitäten innerhalb der Aufgaben
 
 Damit im Klientenspiegel die Aufgaben und deren Status angezeigt werden, ist es notwendig innerhalb der Erstellung der Aufgaben die **Aktivität** und den **Zeitraum** zuzuordnen.
@@ -136,7 +133,6 @@ Grundsätzlich sehen Sie die Aufgaben aller Mitarbeiter. Im oberen
 Bereich des Bildschirms können Sie die Aufgaben auf einzelne Mitarbeiter
 einschränken.
 
-<span id="jahrlicher-klientenspiegel" class="legacy-anchor" aria-hidden="true"></span>
 ## Jährlicher Klientenspiegel
 
 Im jährlichen Klientenspiegel werden jene Aktivitäten angezeigt, welche innerhalb der Klientenstammdaten im Bereich [Zuordnungen](/kis/stammdaten/klientenstammdaten/#zuordnungen) mit dem Zeitraum *jährlich* eingetragen wurden.

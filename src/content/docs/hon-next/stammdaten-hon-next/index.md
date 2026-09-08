@@ -3,7 +3,6 @@ title: Allgemeines
 program: HONNext
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
 ![](<img/image13.png>)
 

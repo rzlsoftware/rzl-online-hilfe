@@ -3,7 +3,6 @@ title: Belegsynchronisation
 program: Klientenportal
 ---
 
-<span id="belegsynchronisation" class="legacy-anchor" aria-hidden="true"></span>
 
 In den Stammdaten des Klienten im Board können Sie die automatische Belegsynchronisation aktivieren und festlegen.
 

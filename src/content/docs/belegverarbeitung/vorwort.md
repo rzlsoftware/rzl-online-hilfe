@@ -3,7 +3,6 @@ title: Vorwort
 program: Belegverarbeitung
 ---
 
-<span id="vorwort" class="legacy-anchor" aria-hidden="true"></span>
 
 Nachfolgend erhalten Sie eine Beschreibung der RZL
 FIBU/EA-Belegverarbeitung.

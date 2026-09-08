@@ -19,7 +19,6 @@ Da gespeicherte Ereignisse nicht mehr gelöscht werden können, kann die
 Archivierung auch für einzelne Fehleinträge in den Listen verwendet
 werden.
 
-<span id="ruckgangigmachung-der-archivierung" class="legacy-anchor" aria-hidden="true"></span>
 ## Rückgängigmachung der Archivierung
 
 Die im Eintrag *Archiv* gespeicherten Einträge können einzeln markiert
@@ -29,7 +28,6 @@ werden.
 
 ![Aus dem Archiv wiederherstellen](<img/image110.png>)
 
-<span id="zuordnung-von-ereignissen-zu-klienten-klientenmehrfachzuordnung" class="legacy-anchor" aria-hidden="true"></span>
 ## Zuordnung von Ereignissen zu Klienten – Klientenmehrfachzuordnung
 
 Ereignisse können einem oder mehreren Klienten zugeordnet werden.
@@ -48,12 +46,10 @@ untereinander dargestellt.
 
 ![Klientenzuordnung - Listenansicht](<img/image112.png>)
 
-<span id="auswahl-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Auswahl löschen
 
 Soll die Klientenzuordnung rückgängig gemacht werden bzw. soll keiner der Klienten zugeordnet sein, müssen Sie nicht alle Kästchen einzeln anklicken, sondern klicken einfach auf den leeren Eintrag über dem ersten Klienten.
 
-<span id="auswahl-erweiternbeschranken" class="legacy-anchor" aria-hidden="true"></span>
 ### Auswahl erweitern/beschränken
 
 Wenn Sie die Auswahl der Klienten erweitern oder beschränken wollen,

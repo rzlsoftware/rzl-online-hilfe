@@ -3,7 +3,6 @@ title: Drittschuldnererklärung
 program: LOHN
 ---
 
-<span id="drittschuldnererklarung" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Bereich *Stamm / Exekutionen* werden die Angaben für die Drittschuldnererklärung erfasst. Zuerst muss die Dienstnehmernummer eingegeben werden.
 
@@ -55,7 +54,6 @@ Im Feld *Anmerkung* können Einträge gemacht werden die, wenn zusätzlich das F
 
 Über das Eingabefeld *abw. Kontoinhaber* kann ein vom Empfängerkonto abweichender Name des Kontoinhabers erfasst werden. Dieser wird für die Empfängerprüfung der Banken (VOP) herangezogen und stellt sicher, dass die Überweisung korrekt zugeordnet werden kann.
 
-<span id="registerblatt-drittschuldner-erklarung-1" class="legacy-anchor" aria-hidden="true"></span>
 ## Registerblatt Drittschuldner-Erklärung (1)
 
 **Forderung des Verpflichteten**
@@ -73,7 +71,6 @@ Unterhaltspflichten, die der Verpflichtete (Dienstnehmer) erfüllen muss, werden
 
 Wurde dem Verpflichteten (Dienstnehmer) ein Vorschuss gewährt, ist dieses Feld zu aktivieren und die Höhe des gewährten Vorschusses einzutragen.
 
-<span id="registerblatt-drittschuldner-erklarung-2" class="legacy-anchor" aria-hidden="true"></span>
 ## Registerblatt Drittschuldner-Erklärung (2)
 
 **Reihung der letzten Forderung im Verhältnis zu dieser Forderung**
@@ -92,7 +89,6 @@ Liegt keine Zahlungsbereitschaft des Dienstgebers (Drittschuldners) vor, dann is
 
 Wird seitens des Gerichts ein Verwalter bestimmt, dass er die unpfändbaren Freibeträge berechnet, muss hier ein Häkchen bei *ja* für die Drittschuldnererklärung gesetzt werden.
 
-<span id="registerblatt-drittschuldner-erklarung-3" class="legacy-anchor" aria-hidden="true"></span>
 ## Registerblatt Drittschuldner-Erklärung (3)
 
 **Kostenvariante**

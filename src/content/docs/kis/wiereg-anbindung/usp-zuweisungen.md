@@ -9,7 +9,6 @@ KIS-Navigator unter *Verwaltung / USP – Zuweisungen* vorgenommen werden.
 
 ![Zuweisungen](<img/image182.png>)
 
-<span id="ablage-der-auszuge" class="legacy-anchor" aria-hidden="true"></span>
 ### Ablage der Auszüge
 
 Innerhalb der USP-Zuweisungen können Sie festlegen mit welcher Kategorie

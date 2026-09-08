@@ -3,7 +3,6 @@ title: Unvollständige Tage
 program: LENext
 ---
 
-<span id="unvollstandige-tage" class="legacy-anchor" aria-hidden="true"></span>
 
 Damit unvollständig erfasste Tage bei der Leistungserfassung nicht
 vergessen werden, öffnet sich beim Starten des Moduls Leistungserfassung

@@ -3,7 +3,6 @@ title: Persönliche Textbausteine
 program: LENext
 ---
 
-<span id="personliche-textbausteine" class="legacy-anchor" aria-hidden="true"></span>
 
 Über die persönlichen Textbausteine haben Sie in der Leistungserfassung
 die Möglichkeit, vorgefertigte Texte anzulegen und diese im Zuge der

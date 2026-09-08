@@ -3,7 +3,6 @@ title: Datenexport
 program: LOHN
 ---
 
-<span id="datenexport" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Allgemeines
 
@@ -25,7 +24,6 @@ Die Anwahl des Feldes *Summierung ab Monat* hat nur eine Auswirkung, wenn in der
 Im Feld *Listenform* kann durch Anwahl der *F3-Taste* die Liste beim Klienten als Standard fixiert werden. Mit der *F2-Taste* kann die Liste im Detail aufgerufen werden.
 
 :::
-<span id="erstellung-aufbau-der-daten-liste-export-datei" class="legacy-anchor" aria-hidden="true"></span>
 ## Erstellung / Aufbau der Daten-Liste (Export-Datei)
 
 Die Auswahl der zu exportierenden Daten erfolgt im Dialogbereich *Auswahl Listenform*. Die Zuordnung der bereits angelegten Listenformen kann *Allgemein, Arbeitsplatz* oder *Persönlich* sein.
@@ -94,7 +92,6 @@ Im Registerblatt *Optionen* werden die Eigenschaften der Exportdatei festgelegt:
 
 Nach der Festlegung der einzelnen Felder und des Formates der Export-Datei in den jeweiligen Registerblättern, wird durch Anwahl der Schaltfläche *Neu* die erstellte Liste im Ausgangsdialog (siehe oben) in den Bereich *Auswahl Listenform* eingetragen.
 
-<span id="datenexport_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Datenexport
 
 Der Datenexport erfolgt im unteren Bereich des Export-Dialoges. Zuerst ist im Bereich *Auswahl Listenform* eine der erstellten Listenformen auszuwählen. Dann sind der Pfad und der Name der Export-Datei einzutragen oder mittels der Schaltfläche *Suchen* festzulegen.

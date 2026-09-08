@@ -3,7 +3,6 @@ title: Nutzung der HGKV-Datenbank
 program: LOHN
 ---
 
-<span id="nutzung-der-hgkv-datenbank" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit dem Modul *RZL LOHN Kollektivverträge* können die Werte verschiedener Kollektivverträge aus der von der Firma HG-Datenbanken GesmbH in Seefeld gepflegten Kollektivvertrags-Datenbank in das Lohnverrechnungsprogramm übernommen werden. Die bestellten Kollektivverträge sind damit immer aktuell und online im RZL-Lohnprogramm abrufbar. Für den Inhalt und die Richtigkeit der abonnierten Kollektivverträge ist die Firma HG-Datenbanken GmbH, 6100 Seefeld, Hermannstalstraße 910 verantwortlich. Details siehe AGB auf [www.hgkv.at](http://www.hgkv.at). RZL Software übernimmt diesbezüglich keine Haftung.
 

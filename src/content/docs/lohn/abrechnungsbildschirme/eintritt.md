@@ -3,13 +3,11 @@ title: Eintritt
 program: LOHN
 ---
 
-<span id="eintritt" class="legacy-anchor" aria-hidden="true"></span>
 
 In diesem Bildschirm sind Daten, die unmittelbar mit dem Eintritt des Dienstnehmers und dessen Anmeldung bei der ÖGK zusammenhängen, einzugeben.
 
 ![Image](<img/image55.png>)
 
-<span id="eintritt_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Eintritt
 
 **Eintritt**
@@ -114,14 +112,12 @@ Bis 2018 (vor mBGM) musste auf der Anmeldung der monatliche Geldbezug angegeben 
 
 Wird dieses Auswahlfeld aktiviert, dann kann hier ein abweichender Betrag eingetragen werden (gilt nur für die Anmeldung – hat keinerlei Einfluss auf die Abrechnung selbst).
 
-<span id="beschaftigungsbonus" class="legacy-anchor" aria-hidden="true"></span>
 ## Beschäftigungsbonus
 
 Die hier verwalteten Daten werden für den Ausdruck der Liste der Arbeitsverhältnisse ab dem 01.07.2017 für den Beschäftigungsbonus verwendet. Der Ausdruck kann innerhalb der [Sonderdrucke](/lohn/ausdrucke-allgemein/ausdruck-sonderdrucke/) angewählt werden.
 
 Im Programmteil *Ausdruck / Sonderdrucke …* können Sie auch die Liste mit den Referenzwerten für den Beschäftigungsbonus und die voraussichtliche Zuschusshöhe ausdrucken.
 
-<span id="vorbezuge" class="legacy-anchor" aria-hidden="true"></span>
 ## Vorbezüge
 
 Vorbezüge sind nur bei Eintritt eines Dienstnehmers während des Jahres einzugeben und nur dann, wenn vom Dienstnehmer ein Lohnzettel über diese Bezüge vorgelegt wird.

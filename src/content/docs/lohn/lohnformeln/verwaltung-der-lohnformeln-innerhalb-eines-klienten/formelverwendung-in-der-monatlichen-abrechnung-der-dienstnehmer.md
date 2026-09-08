@@ -3,7 +3,6 @@ title: Formelverwendung in der monatlichen Abrechnung der Dienstnehmer
 program: LOHN
 ---
 
-<span id="formelverwendung-in-der-monatlichen-abrechnung-der-dienstnehmer" class="legacy-anchor" aria-hidden="true"></span>
 
 Die angelegten Formeln können in unterschiedlicher Weise in den Dienstnehmerabrechnungen verwendet werden.
 

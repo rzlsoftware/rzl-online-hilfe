@@ -3,7 +3,6 @@ title: Laufende Abrechnung mit Änderung
 program: LOHN
 ---
 
-<span id="laufende-abrechnung-mit-anderung" class="legacy-anchor" aria-hidden="true"></span>
 
 Nach Aufruf des Menüpunkts *Abrechnungen / Lfd. Abrechnung mit Änderung* wird folgender Dialog aufgerufen:
 

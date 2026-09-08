@@ -3,7 +3,6 @@ title: Port- und Programmfreigaben der RZL Programme
 program: technik
 ---
 
-<span id="port-und-programmfreigaben-der-rzl-programme" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Warum sind Portfreigaben notwendig?
 
@@ -40,14 +39,12 @@ Beim Öffnen oder Ändern von Firewall-Regeln ist es wichtig, sowohl die Standar
  - **SQL-Browser:**  
     `C:\Program Files (x86)\Microsoft SQL Server\90\Shared\sqlbrowser.exe`
 
-<span id="programmfreigabe-fur-sql-server-instanz" class="legacy-anchor" aria-hidden="true"></span>
 ### Programmfreigabe für SQL-Server-Instanz
 
 :::caution[Hinweis]
 Anstelle von `MSSQLXX.MSSQLSERVER` setzen Sie die korrekte SQL-Version z.B. `MSSQL16.MSSQLSERVER`.
 
 :::
-<span id="programmfreigabe-fur-sql-server-mssqlserver" class="legacy-anchor" aria-hidden="true"></span>
 ### Programmfreigabe für SQL-Server (MSSQLSERVER)
 
 New-NetFirewallRule -DisplayName "SQL Server (MSSQLSERVER)" `
@@ -57,7 +54,6 @@ New-NetFirewallRule -DisplayName "SQL Server (MSSQLSERVER)" `
 -Profile Any `
 -Description "Erlaubt eingehenden Traffic für SQL Server Instanz"
 
-<span id="programmfreigabe-fur-sql-browser-service" class="legacy-anchor" aria-hidden="true"></span>
 ### Programmfreigabe für SQL Browser Service
 
 New-NetFirewallRule -DisplayName "SQL Browser Service" `
@@ -67,7 +63,6 @@ New-NetFirewallRule -DisplayName "SQL Browser Service" `
 -Profile Any `
 -Description "Erlaubt eingehenden Traffic für SQL Browser"
 
-<span id="portfreigabe-fur-sql-server-tcp-1433" class="legacy-anchor" aria-hidden="true"></span>
 ### Portfreigabe für SQL Server (TCP 1433)
 
 New-NetFirewallRule -DisplayName "SQL Server (TCP-In 1433)" `
@@ -77,7 +72,6 @@ New-NetFirewallRule -DisplayName "SQL Server (TCP-In 1433)" `
 -Action Allow `
 -Description "Eingehende SQL-Verbindungen über Port 1433"
 
-<span id="portfreigabe-fur-sql-browser-udp-1434" class="legacy-anchor" aria-hidden="true"></span>
 ### Portfreigabe für SQL Browser (UDP 1434)
 
 New-NetFirewallRule -DisplayName "SQL Browser (UDP-In 1434)" `

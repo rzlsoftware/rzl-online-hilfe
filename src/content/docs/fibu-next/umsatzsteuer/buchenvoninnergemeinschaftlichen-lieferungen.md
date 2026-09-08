@@ -3,9 +3,7 @@ title: Buchen von innergemeinschaftlichen Lieferungen
 program: FIBUNext
 ---
 
-<span id="buchen-von-innergemeinschaftlichen-lieferungen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="buchen-von-innergemeinschaftlichen-lieferungen_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Buchen von innergemeinschaftlichen Lieferungen
 
 

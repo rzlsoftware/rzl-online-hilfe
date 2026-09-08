@@ -3,7 +3,6 @@ title: Stammdaten Dienstnehmer
 program: LOHN
 ---
 
-<span id="stammdaten-dienstnehmer" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](img/image146.png)
 

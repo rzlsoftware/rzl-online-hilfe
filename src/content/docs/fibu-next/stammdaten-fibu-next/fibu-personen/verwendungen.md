@@ -3,9 +3,7 @@ title: Verwendungen
 program: FIBUNext
 ---
 
-<span id="verwendungen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="verwendungen_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Verwendungen
 
 

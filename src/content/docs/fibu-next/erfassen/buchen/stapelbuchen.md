@@ -3,9 +3,7 @@ title: Stapelbuchen
 program: FIBUNext
 ---
 
-<span id="stapelbuchen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="stapelbuchen_1" class="legacy-anchor" aria-hidden="true"></span>
 ### STAPELBUCHEN
 
 

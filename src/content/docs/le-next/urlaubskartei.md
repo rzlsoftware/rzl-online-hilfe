@@ -3,7 +3,6 @@ title: Urlaubskartei
 program: LENext
 ---
 
-<span id="urlaubskartei" class="legacy-anchor" aria-hidden="true"></span>
 
 Über den Button *Urlaubskartei* kann die Urlaubskartei aufgerufen
 werden, um den Urlaubssaldo nachvollziehen zu können.

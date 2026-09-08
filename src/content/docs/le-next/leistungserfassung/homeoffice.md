@@ -3,7 +3,6 @@ title: Telearbeit
 program: LENext
 ---
 
-<span id="telearbeit" class="legacy-anchor" aria-hidden="true"></span>
 
 Befinden Sie sich an einem Tag in Telearbeit, so können Sie dies durch
 Setzen des Hakens *Telearbeit* hinterlegen.

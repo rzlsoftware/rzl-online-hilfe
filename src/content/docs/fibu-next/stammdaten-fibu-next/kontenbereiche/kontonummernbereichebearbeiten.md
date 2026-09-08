@@ -3,7 +3,6 @@ title: Kontonummernbereiche bearbeiten
 program: FIBUNext
 ---
 
-<span id="kontonummernbereiche-bearbeiten" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Kontenbereiche
 

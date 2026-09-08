@@ -3,7 +3,6 @@ title: Auswertungen
 program: FIBUNext
 ---
 
-<span id="auswertungen" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit Anwahl des Menüpunktes *Auswertungen* besteht die Möglichkeit die jeweiligen Daten direkt am Bildschirm aufzurufen und zu überprüfen, ohne dafür einen Ausdruck erstellen zu müssen.
 

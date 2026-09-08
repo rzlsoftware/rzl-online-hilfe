@@ -3,7 +3,6 @@ title: Elektronische Meldung Reiseaufwandsentsch. Sportler (L19) erstellen
 program: LOHN
 ---
 
-<span id="elektronische-meldung-reiseaufwandsentsch-sportler-l19-erstellen" class="legacy-anchor" aria-hidden="true"></span>
 
 Über den Menüpunkt *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung Reiseaufwandsentsch. Sportler (L19) erstellen*, können Sie den Lohnzettel L19 an die ÖGK übermitteln.
 

@@ -3,7 +3,6 @@ title: Reports
 program: LOHN
 ---
 
-<span id="reports" class="legacy-anchor" aria-hidden="true"></span>
 
 **RZL-Musterreport manuell in die RZL-Lohnverrechnung importieren**
 

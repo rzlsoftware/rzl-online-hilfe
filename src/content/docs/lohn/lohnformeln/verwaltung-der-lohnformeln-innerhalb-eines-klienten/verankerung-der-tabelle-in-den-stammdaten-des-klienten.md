@@ -3,7 +3,6 @@ title: Verankerung der Tabelle in den Stammdaten des Klienten
 program: LOHN
 ---
 
-<span id="verankerung-der-tabelle-in-den-stammdaten-des-klienten" class="legacy-anchor" aria-hidden="true"></span>
 
 In den Stammdaten des Klienten (*Stamm / Klient*) kann im Registerblatt [*LA, Formeln, Texte, Kontenplan, Beiträge, Währung, NeuFöG*](/lohn/klientenstammdaten/stammdaten-klient/la-formeln-texte-kontenplan-beitraege-waehrung/) im Feld *Lohn-Formel-Zuordnungstabelle* eine der angelegten Tabellen fix verankert werden. Diese Tabelle wird dann für alle Dienstnehmer dieses Klienten verwendet.
 

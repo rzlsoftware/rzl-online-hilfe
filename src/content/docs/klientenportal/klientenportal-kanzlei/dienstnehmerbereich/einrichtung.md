@@ -3,9 +3,7 @@ title: Einrichtung
 program: Klientenportal
 ---
 
-<span id="einrichtung" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="anlage-der-dienstnehmer-fur-das-rzl-klientenportal-im-lohnverrechnungsprogramm" class="legacy-anchor" aria-hidden="true"></span>
 ## Anlage der Dienstnehmer für das RZL Klientenportal im Lohnverrechnungsprogramm
 
 Die Freischaltung der Dienstnehmer erfolgt im RZL Lohnverrechnungsprogramm im Abrechnungsbildschirm *Stammdaten Dienstnehmer*.

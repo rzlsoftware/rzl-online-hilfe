@@ -3,9 +3,7 @@ title: Umsatzsteuerland
 program: FIBUNext
 ---
 
-<span id="umsatzsteuerland" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="umsatzsteuerland_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Umsatzsteuerland
 
 
@@ -26,7 +24,6 @@ In diesem Menü können Sie über die Schaltfläche *Neues USt-Land* weitere Lä
 Beachten Sie, dass auf allen Konten, auf denen mit ausländischer Umsatzsteuer gebucht werden soll, auch das entsprechende USt-Land in den Kontostammdaten verankert werden muss. Weiters ist die Anlage entsprechender *Pflichtkonten* für jedes einzelne USt-Land erfor­derlich.
 
 :::
-<span id="ust-land-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### USt-Land löschen
 
 Unter *STAMM / FIBU / Umsatzsteuer* können Sie ein USt-Land über die Schaltfläche *USt-Land löschen* wieder löschen.

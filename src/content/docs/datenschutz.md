@@ -3,7 +3,6 @@ title: Datenschutzerklärung
 hideFooter: true
 ---
 
-<span id="datenschutzerklarung" class="legacy-anchor" aria-hidden="true"></span>
 
 
 Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Diese Datenschutzerklärung gilt für alle Verarbeitungen im Zusammenhang mit dem der Website "hilfe.rzlsoftware.at". Verarbeitungen durch die RZL Software GmbH, welche nicht mit dieser Website in Verbindung stehen, werden unter rzlsoftware.at/datenschutz dargestellt.
@@ -12,7 +11,6 @@ Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
 
 Stand: 11.04.2024
 
-<span id="inhaltsubersicht" class="legacy-anchor" aria-hidden="true"></span>
 ## Inhaltsübersicht
 
 - Einleitung
@@ -42,7 +40,6 @@ E-Mail-Adresse: Software@rzl.at
 Telefon: +43 (0)7752 252  
 
 
-<span id="ubersicht-der-verarbeitungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Übersicht der Verarbeitungen
 
 Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
@@ -61,7 +58,6 @@ Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwec
 - Erbringung vertraglicher Leistungen und Kundenservice
 - Kontaktanfragen und Kommunikation
 
-<span id="magebliche-rechtsgrundlage" class="legacy-anchor" aria-hidden="true"></span>
 ## Maßgebliche Rechtsgrundlage
 
 Im Folgenden erhalten Sie eine Übersicht der Rechtsgrundlagen der DSGVO, auf deren Basis wir personenbezogene Daten verarbeiten. Bitte nehmen Sie zur Kenntnis, dass neben den Regelungen der DSGVO nationale Datenschutzvorgaben in Ihrem bzw. unserem Wohn- oder Sitzland gelten können. Sollten ferner im Einzelfall speziellere Rechtsgrundlagen maßgeblich sein, teilen wir Ihnen diese in der Datenschutzerklärung mit.
@@ -73,7 +69,6 @@ Im Folgenden erhalten Sie eine Übersicht der Rechtsgrundlagen der DSGVO, auf de
 
 Zusätzlich zu den Datenschutzregelungen der Datenschutz-Grundverordnung gelten nationale Regelungen zum Datenschutz in Österreich. Hierzu gehört insbesondere das Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (Datenschutzgesetz – DSG). Das Datenschutzgesetz enthält insbesondere Spezialregelungen zum Recht auf Auskunft, zum Recht auf Richtigstellung oder Löschung, zur Verarbeitung besonderer Kategorien personenbezogener Daten, zur Verarbeitung für andere Zwecke und zur Übermittlung sowie zur automatisierten Entscheidungsfindung im Einzelfall.
 
-<span id="sicherheitsmanahmen" class="legacy-anchor" aria-hidden="true"></span>
 ## Sicherheitsmaßnahmen
 
 Wir treffen nach Maßgabe der gesetzlichen Vorgaben unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeiten und des Ausmaßes der Bedrohung der Rechte und Freiheiten natürlicher Personen geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.
@@ -84,21 +79,18 @@ Kürzung der IP-Adresse: Sofern IP-Adressen von uns oder von den eingesetzten Di
 
 TLS-Verschlüsselung (https): Um Ihre via unserem Online-Angebot übermittelten Daten zu schützen, nutzen wir eine TLS-Verschlüsselung. Sie erkennen derart verschlüsselte Verbindungen an dem Präfix https:// in der Adresszeile Ihres Browsers.
 
-<span id="ubermittlung-von-personenbezogenen-daten" class="legacy-anchor" aria-hidden="true"></span>
 ## Übermittlung von personenbezogenen Daten
 
 Im Rahmen unserer Verarbeitung von personenbezogenen Daten kommt es vor, dass die Daten an andere Stellen, Unternehmen, rechtlich selbstständige Organisationseinheiten oder Personen übermittelt oder sie ihnen gegenüber offengelegt werden. Zu den Empfängern dieser Daten können z.B. mit IT-Aufgaben beauftragte Dienstleister oder Anbieter von Diensten und Inhalten, gehören. In solchen Fällen beachten wir die gesetzlichen Vorgaben und schließen insbesondere entsprechende Verträge bzw. Vereinbarungen, die dem Schutz Ihrer Daten dienen, mit den Empfängern Ihrer Daten ab.
 
 Datenübermittlung innerhalb der Unternehmensgruppe: Wir können personenbezogene Daten an andere Unternehmen innerhalb unserer Unternehmensgruppe übermitteln oder ihnen den Zugriff auf diese Daten gewähren. Sofern diese Weitergabe zu administrativen Zwecken erfolgt, beruht die Weitergabe der Daten auf unseren berechtigten unternehmerischen und betriebswirtschaftlichen Interessen oder erfolgt, sofern sie zur Erfüllung unserer vertragsbezogenen Verpflichtungen erforderlich ist oder wenn eine Einwilligung der Betroffenen oder eine gesetzliche Erlaubnis vorliegt.
 
-<span id="datenverarbeitung-in-drittlandern" class="legacy-anchor" aria-hidden="true"></span>
 ## Datenverarbeitung in Drittländern
 
 Sofern wir Daten in einem Drittland (d.h., außerhalb der Europäischen Union (EU), des Europäischen Wirtschaftsraums (EWR)) verarbeiten oder die Verarbeitung im Rahmen der Inanspruchnahme von Diensten Dritter oder der Offenlegung bzw. Übermittlung von Daten an andere Personen, Stellen oder Unternehmen stattfindet, erfolgt dies nur im Einklang mit den gesetzlichen Vorgaben.
 
 Vorbehaltlich ausdrücklicher Einwilligung oder vertraglich oder gesetzlich erforderlicher Übermittlung verarbeiten oder lassen wir die Daten nur in Drittländern mit einem anerkannten Datenschutzniveau, vertraglichen Verpflichtung durch sogenannte Standardschutzklauseln der EU-Kommission, beim Vorliegen von Zertifizierungen oder verbindlicher internen Datenschutzvorschriften verarbeiten (Art. 44 bis 49 DSGVO, Informationsseite der EU-Kommission: ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection_de).
 
-<span id="loschung-von-daten" class="legacy-anchor" aria-hidden="true"></span>
 ## Löschung von Daten
 
 Die von uns verarbeiteten Daten werden nach Maßgabe der gesetzlichen Vorgaben gelöscht, sobald deren zur Verarbeitung erlaubten Einwilligungen widerrufen werden oder sonstige Erlaubnisse entfallen (z.B. wenn der Zweck der Verarbeitung dieser Daten entfallen ist oder sie für den Zweck nicht erforderlich sind). Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich zulässige Zwecke erforderlich sind, wird deren Verarbeitung auf diese Zwecke beschränkt. D.h., die Daten werden gesperrt und nicht für andere Zwecke verarbeitet. Das gilt z.B. für Daten, die aus unternehmens- oder steuerrechtlichen Gründen aufbewahrt werden müssen oder deren Speicherung zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person erforderlich ist.
@@ -135,7 +127,6 @@ Wir verarbeiten die Daten der Nutzer, um ihnen unsere Online-Dienste zur Verfüg
 - **Bereitstellung Onlineangebot auf eigener/ dedizierter Serverhardware:** Für die Bereitstellung unseres Onlineangebotes nutzen wir von uns betriebene Serverhardware sowie den damit verbundenen Speicherplatz, die Rechenkapazität und die Software; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 - **Erhebung von Zugriffsdaten und Logfiles:** Der Zugriff auf unser Onlineangebot wird in Form von so genannten "Server-Logfiles" protokolliert. Zu den Serverlogfiles können die Adresse und Name der abgerufenen Webseiten und Dateien, Datum und Uhrzeit des Abrufs, übertragene Datenmengen, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite) und im Regelfall IP-Adressen und der anfragende Provider gehören. Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden, z.B., um eine Überlastung der Server zu vermeiden (insbesondere im Fall von missbräuchlichen Angriffen, sogenannten DDoS-Attacken) und zum anderen, um die Auslastung der Server und ihre Stabilität sicherzustellen; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Löschung von Daten: Logfile-Informationen werden für die Dauer von maximal 30 Tagen gespeichert und danach gelöscht oder anonymisiert. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
 
-<span id="anderungen-und-aktualisierung-der-datenschutzerklarung" class="legacy-anchor" aria-hidden="true"></span>
 ## Änderungen und Aktualisierung der Datenschutzerklärung
 
 Wir bitten Sie, sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z.B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.

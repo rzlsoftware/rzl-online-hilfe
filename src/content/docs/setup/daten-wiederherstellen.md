@@ -3,7 +3,6 @@ title: RZL Daten wiederherstellen
 program: setup
 ---
 
-<span id="rzl-daten-wiederherstellen" class="legacy-anchor" aria-hidden="true"></span>
 
 Übernehmen Sie die zuvor gesicherten Dateien (*.rzlbak* und
 *.rzlbak_hash*) und speichern Sie diese auf den Rechner
@@ -32,7 +31,6 @@ Wählen Sie diese nun aus.
 Wählen Sie aus, warum die Sicherung wiederhergestellt wird, und klicken
 Sie anschließend auf *Wiederherstellung starten*.
 
-<span id="unterschiede-bei-wiederherstellungsgrunden" class="legacy-anchor" aria-hidden="true"></span>
 ### Unterschiede bei Wiederherstellungsgründen:
 **Disaster Recovery oder Servertausch:**
 Der häufigst genutzte Methode für die Wiederherstellung eines Echtdatensystems, Zugänge für KSV sowie Sync-Passwöter bleiben mit dieser Wiederherstellungsmethode *aktiv*. Die Finanzonline Anbindung bleibt *erhalten*.

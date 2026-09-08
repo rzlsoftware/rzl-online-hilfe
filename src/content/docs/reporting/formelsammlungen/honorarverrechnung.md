@@ -3,7 +3,6 @@ title: Honorarverrechnung
 program: Reporting
 ---
 
-<span id="honorarverrechnung" class="legacy-anchor" aria-hidden="true"></span>
 
 Im folgenden Kapitel finden Sie eine Auflistung der verfügbaren Formeln für das Reporting im *Honorarverrechnungsprogramm*.
 
@@ -58,7 +57,6 @@ Die Daten des Kanzleibereichs können vor allem für die Erstellung des Briefkop
 | `Note.Kanzleibereich.Homepage`{data-clipboard-text="Note.Kanzleibereich.Homepage"} | Homepage                            |
 | `Note.Kanzleibereich.EMail`{data-clipboard-text="Note.Kanzleibereich.EMail"}       | E-Mail-Adresse                      |
 
-<span id="klient-rechnungsempfanger" class="legacy-anchor" aria-hidden="true"></span>
 ### Klient (Rechnungsempfänger)
 
 | **Formel**                                                                           | **Beschreibung**                                                                   |
@@ -275,7 +273,6 @@ Das Journal ist eine Auflistung der in der Note abgerechneten Erfassungszeilen. 
 | `Note.Journal.Bereich().Klient().Verrechnungskreis().Tätigkeit().Erfassungszeile.Einheiten`{data-clipboard-text="Note.Journal.Bereich().Klient().Verrechnungskreis().Tätigkeit().Erfassungszeile.Einheiten"}                                     | Anzahl der Einheiten          |
 | `Note.Journal.Bereich().Klient().Verrechnungskreis().Tätigkeit().Erfassungszeile.Betrag`{data-clipboard-text="Note.Journal.Bereich().Klient().Verrechnungskreis().Tätigkeit().Erfassungszeile.Betrag"}                                           | Betrag                        |
 
-<span id="verrechnungskreis-ruckblick" class="legacy-anchor" aria-hidden="true"></span>
 ## Verrechnungskreis-Rückblick
 
 Je Verrechnungskreis können die Werte der aktuellen und der letzten 5 Honorarnoten dargestellt werden. Ein Beispiel ist in der „RZL

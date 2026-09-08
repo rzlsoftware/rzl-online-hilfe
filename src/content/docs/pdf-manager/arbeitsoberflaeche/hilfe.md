@@ -3,7 +3,6 @@ title: Hilfe
 program: PDFManager
 ---
 
-<span id="hilfe" class="legacy-anchor" aria-hidden="true"></span>
 
 In diesem Abschnitt werden die einzelnen Punkte des Hilfemenüs erklärt.
 

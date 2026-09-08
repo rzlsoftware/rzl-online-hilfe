@@ -3,7 +3,6 @@ title: Konto
 program: FIBUNext
 ---
 
-<span id="konto" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Auswertung Konto
 
@@ -27,7 +26,6 @@ Zusätzlich können Sie mit dem Häkchen *mit BIL* ***(10)*** wählen, ob auch d
 Ein schnelles Blättern zwischen den Konten ist mit den Schaltflächen *Vorheriges / Nächstes Konto* oder *Vorheriges / Nächstes bebuchtes Konto* möglich.
 
 :::
-<span id="aufruf-zugehorige-op" class="legacy-anchor" aria-hidden="true"></span>
 ## Aufruf zugehörige OP
 
 Wenn eine Buchung markiert ist, die mit einem Offenen Posten gebucht wurde, kann über das Kontextmenü die Funktion ***Aufruf zugehörige OP*** gestartet werden. 

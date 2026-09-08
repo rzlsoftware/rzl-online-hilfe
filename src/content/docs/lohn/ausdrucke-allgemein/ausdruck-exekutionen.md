@@ -3,7 +3,6 @@ title: Ausdruck Exekutionen
 program: LOHN
 ---
 
-<span id="ausdruck-exekutionen" class="legacy-anchor" aria-hidden="true"></span>
 
 **Exekutionsliste**
 

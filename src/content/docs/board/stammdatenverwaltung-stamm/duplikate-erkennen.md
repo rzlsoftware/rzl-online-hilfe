@@ -3,14 +3,12 @@ title: Duplikate erkennen und zusammenführen
 program: Board
 ---
 
-<span id="duplikate-erkennen-und-zusammenfuhren" class="legacy-anchor" aria-hidden="true"></span>
 
 Im RZL KIS wurde in vielen Fällen eine Person an mehreren Stellen in den
 Stammdaten eingetragen. Durch die Migration der Daten werden nun im RZL
 Board diese Duplikate offensichtlich. Wir empfehlen Ihnen Duplikate zu
 bereinigen.
 
-<span id="manuelles-zusammenfuhren-von-duplikaten" class="legacy-anchor" aria-hidden="true"></span>
 ## Manuelles Zusammenführen von Duplikaten
 
 Wenn aus der Ansicht *Personen und Firmen* ersichtlich ist, dass

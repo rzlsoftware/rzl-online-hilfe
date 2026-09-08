@@ -3,7 +3,6 @@ title: KER Jahresübersicht
 program: FIBUNext
 ---
 
-<span id="ker-jahresubersicht" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Auswertung KER
 

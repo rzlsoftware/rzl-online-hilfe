@@ -3,14 +3,11 @@ title: Übernahme eines Klienten aus der FIBU Klassik
 program: FIBUNext
 ---
 
-<span id="ubernahme-eines-klienten-aus-der-fibu-klassik" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="ubernahme-eines-klienten-aus-der-fibu-klassik_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Übernahme eines Klienten aus der FIBU Klassik
 
 Um mit der Umstellung von FIBU Next auf FIBU Klassik beginnen zu können, müssen Sie die Daten einmalig von der FIBU Klassik in FIBU Next übernehmen. In der FIBU Klassik vorhandene Kontenpläne, KER-Gliederungen sowie Buchungstexte werden bei der Übernahme ebenfalls in die FIBU Next mitübernommen. Um die Übernahme zu initiieren gibt es zwei Möglichkeiten.
 
-<span id="mehrere-klienten-gleichzeitig-ubernehmen" class="legacy-anchor" aria-hidden="true"></span>
 #### Mehrere Klienten gleichzeitig übernehmen
 
 Um mehrere Klienten gleichzeitig zu übernehmen, wählen Sie in der FIBU Klassik den Menüpunkt *Klient / Übergabe an FIBU Next…* an.
@@ -23,7 +20,6 @@ Im Anschluss erhalten Sie eine Liste aller noch nicht übernommenen FIBU Klassik
 
 ![Image](<img/NeuesElement9.png>)
 
-<span id="nur-einen-klienten-ubernehmen" class="legacy-anchor" aria-hidden="true"></span>
 #### Nur einen Klienten übernehmen
 
 Möchten Sie hingegen nur den gerade in Bearbeitung befindlichen Klienten übernehmen, so öffnen Sie den Menüpunkt *Bearbeiten / Übergabe an FIBU Next*.

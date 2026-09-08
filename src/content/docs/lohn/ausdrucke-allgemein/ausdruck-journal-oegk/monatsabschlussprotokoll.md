@@ -3,7 +3,6 @@ title: Monats–Abschlussprotokoll
 program: LOHN
 ---
 
-<span id="monatsabschlussprotokoll" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](img/image233.png){width="500"}
 

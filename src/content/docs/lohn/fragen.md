@@ -3,9 +3,7 @@ title: Häufige Fragen im Support
 program: LOHN
 ---
 
-<span id="haufige-fragen-im-support" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="sepa-uberweisungen" class="legacy-anchor" aria-hidden="true"></span>
 ## SEPA Überweisungen
 
 ### Beim Import der SEPA-Datei in das Banktool erscheint eine Meldung zur Datenformat-Version.

@@ -3,7 +3,6 @@ title: Krankenstand eintragen
 program: LENext
 ---
 
-<span id="krankenstand-eintragen" class="legacy-anchor" aria-hidden="true"></span>
 
 Wenn Sie in der Leistungserfassung auf den Button *Krankenstand
 eintragen* klicken, wird für den geöffneten Tag ein Krankenstand

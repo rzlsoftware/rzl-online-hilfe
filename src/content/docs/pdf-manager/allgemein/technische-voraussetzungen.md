@@ -3,7 +3,6 @@ title: Technische Voraussetzungen
 program: PDFManager
 ---
 
-<span id="technische-voraussetzungen" class="legacy-anchor" aria-hidden="true"></span>
 
 Um den RZL PDF-Manager nutzen zu können, ist es erforderlich, dass Sie
 das RZL Board/KIS bereits in Verwendung haben. Zudem müssen Sie einmalig

@@ -59,7 +59,6 @@ immer die aktuelle Version geöffnet.
 
 ![akutelle Version öffnen](<img/image244.png>)
 
-<span id="anderungsprotokoll" class="legacy-anchor" aria-hidden="true"></span>
 ## Änderungsprotokoll
 
 Im Änderungsprotokoll wird aufgezeichnet wann ein Mitarbeiter welche
@@ -89,7 +88,6 @@ automatisch gelöscht.
 Ein nicht als Version abgespeichertes Dokument wird bearbeitet und gespeichert – ob es als Version gespeichert wird ist nicht wesentlich. Die vorige Version scheint somit nicht unter Versionen anzeigen auf, da das Dokument nicht als Version gespeichert wurde. Das Dokument ist jedoch in den automatischen Sicherungen wiederherstellbar.
 
 :::
-<span id="dokumente-ein-und-auschecken" class="legacy-anchor" aria-hidden="true"></span>
 ## Dokumente ein- und auschecken
 
 Um sicherzustellen, dass ein Dokument von keinem anderen Benutzer

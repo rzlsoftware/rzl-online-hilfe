@@ -3,7 +3,6 @@ title: Allgemeines
 program: HONNext
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Honorarverrechnung bietet Ihnen die Möglichkeit Akonto- sowie
 Anzahlungen abzurechnen. Hierfür gibt es den eigenen Reiter

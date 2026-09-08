@@ -3,7 +3,6 @@ title: Gutschriftenerstellung
 program: HONNext
 ---
 
-<span id="gutschriftenerstellung" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Honorarverrechnung bietet Ihnen die Möglichkeit, aus bereits
 finalisierten Noten automatisch eine Gesamtgutschrift der Note zu

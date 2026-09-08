@@ -3,7 +3,6 @@ title: DN-Nummernbereich
 program: LOHN
 ---
 
-<span id="dn-nummernbereich" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Menüpunkt *Klient / Optionen / DN-Nummernbereich* haben Sie die Möglichkeit, den Bereich der DN-Nummern zu verändern. Dieser Vorgang verändert nicht die Anzahl der Dienstnehmer.
 

@@ -3,7 +3,6 @@ title: Sozialfonds ab 01.07.2026
 program: LOHN
 ---
 
-<span id="sozialfonds-ab-01072026" class="legacy-anchor" aria-hidden="true"></span>
 
 Ab 01.07.2026 muss der Sozialfonds für folgende Kollektivverträge über die mBGM (monatliche Beitragsgrundlagenmeldung) an die ÖGK übermittelt und bezahlt werden:
 
@@ -19,7 +18,6 @@ Das bedeutet, ab der Abrechnung für Juli 2026 muss für die betroffenen Dienstn
 
 ![Image](img/image14.png)
 
-<span id="bemessungsgrundlage-fur-den-sozialfonds-ab-01072026" class="legacy-anchor" aria-hidden="true"></span>
 ## Bemessungsgrundlage für den Sozialfonds ab 01.07.2026
 
 Die Bemessungsgrundlage für den Sozialfonds ab 01.07.2026 ist die **allgemeine Beitragsgrundlage**. Diese ist bis zur **sozialversicherungsrechtlichen Höchstbeitragsgrundlage** gedeckelt.

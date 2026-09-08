@@ -3,7 +3,6 @@ title: Notendruckvorschau
 program: HONNext
 ---
 
-<span id="notendruckvorschau" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Notendruckvorschau wird parallel zur Notenerstellung verwendet. Sie
 sehen in der Notendruckvorschau live, wie die Note aussieht, wenn sie

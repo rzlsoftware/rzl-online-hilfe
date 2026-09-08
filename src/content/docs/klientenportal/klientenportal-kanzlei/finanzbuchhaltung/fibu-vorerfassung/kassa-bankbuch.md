@@ -3,7 +3,6 @@ title: Stammdaten Kassa/Bankbuch
 program: Klientenportal
 ---
 
-<span id="stammdaten-kassabankbuch" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Anlage von Kassa/Bankbuch
 
@@ -27,7 +26,6 @@ Damit der Benutzer im Klientenbereich beim Vorerfassen die richtigen Anfangs- un
 
 Beim Kassabuch müssen Sie darüber hinaus noch den Merker setzten (**1**), dass es sich um ein Kassabuch handelt. Ein Kassabuch mit einem negativen Kassasaldo (Kassaminus) kann nicht freigegeben werden.
 
-<span id="einschranken-auf-bestimmte-benutzer" class="legacy-anchor" aria-hidden="true"></span>
 ## Einschränken auf bestimmte Benutzer 
 
 Im rechten Bereich des Dialogs unterhalb der Bezeichnung *Erlaubt für Benutzer* steht zunächst der Eintrag *alle*. Somit können alle beim Klienten angelegten Benutzer das Kassa- oder Bankbuch bearbeiten.
@@ -44,7 +42,6 @@ Im oben angezeigten Dialog werden die berechtigen Benutzer durch ein Hackerl ins
 
 Im abgebildeten Beispiel darf das Kassabuch von den Benutzern 65.schuster, 65.schuster1 und 65.schuster7 bearbeitet werden.
 
-<span id="loschen-von-kassabankbuchern" class="legacy-anchor" aria-hidden="true"></span>
 ## Löschen von Kassa/Bankbüchern 
 
 Angelegte Kassa/Bankbücher können durch Anwahl des Papierkorbes ganz rechts im Dialog gelöscht werden.

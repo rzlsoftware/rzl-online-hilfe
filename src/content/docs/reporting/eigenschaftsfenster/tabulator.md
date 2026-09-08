@@ -3,7 +3,6 @@ title: Tabulator
 program: Reporting
 ---
 
-<span id="tabulator" class="legacy-anchor" aria-hidden="true"></span>
 
 Soll der Tabulator mit einem Füllzeichen ... ausgefüllt werden, so besteht die Möglichkeit, über den Menüpunkt *Ansicht / Eigenschaftsfenster / Tabulator* das Füllzeichen auszuwählen. Ein praktisches Beispiel hierfür wäre die Erstellung eines Inhaltsverzeichnisses über den *Report Designer*.
 

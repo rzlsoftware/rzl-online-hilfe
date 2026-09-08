@@ -62,7 +62,6 @@ Eine ausführliche Dokumentation zur Anlage eines Webservicebenutzers
 finden Sie in der Anwendungshilfe des BMF.
 
 
-<span id="steuerkonto-erklarungen-und-vertretungslistenabfragen" class="legacy-anchor" aria-hidden="true"></span>
 ## Steuerkonto-, Erklärungen- und Vertretungslistenabfragen
 
 Für die Steuerkontoabfrage, die Steuererklärungen und die Vertretungsliste wird kein Web-Service-Benutzer Zugang verwendet. Hier ist ein „normaler“ FinanzOnline-Zugang der Kanzlei einzutragen, d.h. ein Zugang der es ermöglicht ins FinanzOnline einzusteigen um Steuerkonten, Steuererklärungen und
@@ -99,7 +98,6 @@ der Zustellung können unverändert beibehalten werden.
 ![FinOn Zustellung](<img/image128.png>)
 
 
-<span id="verstandigung-bei-der-erstellung-von-veranlagungsbescheiden" class="legacy-anchor" aria-hidden="true"></span>
 ## Verständigung bei der Erstellung von Veranlagungsbescheiden
 
 Wenn Sie dieses Feld aktivieren, erhalten Sie eine Verständigung wenn
@@ -212,7 +210,6 @@ Nach Eintragung der USP Kennung können Sie mithilfe der Schaltfläche  **Im USP
 
 Auch diesen Zugang müssen Sie auf **Aktiv** setzen, damit der automatische Login funktioniert.
 
-<span id="grundeinstellungen-fur-die-finanzonline-abfragen" class="legacy-anchor" aria-hidden="true"></span>
 ## Grundeinstellungen für die FinanzOnline-Abfragen
 
 Die Grundeinstellungen für die Abfragen über FinanzOnline finden Sie
@@ -221,13 +218,11 @@ im Programmteil *Extras / Einstellungen* im Registerblatt
 
 ![Allgemeine FinOn Einstellungen](<img/image136.png>)
 
-<span id="behordliche-databox" class="legacy-anchor" aria-hidden="true"></span>
 ### Behördliche DataBox
 
 In diesem Feld tragen Sie ein in welchen Intervallen die behördliche
 DataBox abgefragt werden soll.
 
-<span id="personliche-databox" class="legacy-anchor" aria-hidden="true"></span>
 ### Persönliche Databox
 
 Hier tragen Sie das Intervall ein, indem die persönliche DataBox
@@ -256,7 +251,6 @@ Aufgaben erstellt.
 
 Die Vertretungsliste kann täglich oder wöchentlich angefordert werden.
 
-<span id="quotenerfullung-und-erklarungen" class="legacy-anchor" aria-hidden="true"></span>
 ### Quotenerfüllung und Erklärungen
 
 Die Quotenerfüllungen und Erklärungen werden täglich einmal zu der von

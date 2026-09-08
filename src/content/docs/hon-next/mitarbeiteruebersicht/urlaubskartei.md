@@ -3,7 +3,6 @@ title: Urlaubskartei
 program: HONNext
 ---
 
-<span id="urlaubskartei" class="legacy-anchor" aria-hidden="true"></span>
 
 Über den Button *Urlaubskartei* kann die Urlaubskartei aufgerufen
 werden, um den Urlaubssaldo nachvollziehen zu können.
@@ -54,7 +53,6 @@ Anfangsbestand und Anspruch auswählen, im Feld *Stunden* tragen Sie die
 Anzahl der Stunden ein und zuletzt können Sie einen *Text* eintragen.
 Wird auf *Speichern* geklickt, werden Ihre Eingaben gespeichert.
 
-<span id="urlaubseintrag-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Urlaubseintrag löschen
 
 Mit dem Button *Urlaubseintrag löschen* können Sie Anspruchszeilen, wenn

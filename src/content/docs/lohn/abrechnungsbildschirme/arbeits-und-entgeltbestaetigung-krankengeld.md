@@ -3,11 +3,9 @@ title: Arbeits- und Entgeltbestätigung Krankengeld
 program: LOHN
 ---
 
-<span id="arbeits-und-entgeltbestatigung-krankengeld" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image135.png>)
 
-<span id="beschaftigungsdaten" class="legacy-anchor" aria-hidden="true"></span>
 ## Beschäftigungsdaten
 
 **Beschäftigt ab / Beschäftigungstage pro Woche**
@@ -100,7 +98,6 @@ Die Sonderzahlung wird durch den Krankengeldbezug von der ÖGK nicht geschmäler
 
 Die Sonderzahlung wird nur aliquot ausbezahlt während des Krankengeldbezuges, die Sonderzahlung wird um die Krankengeldbezugstage geschmälert.
 
-<span id="sachbezuge" class="legacy-anchor" aria-hidden="true"></span>
 ## Sachbezüge
 
 Werden Sachbezüge bezogen, ist dieses Feld zu aktivieren. Ebenso muss angegeben werden, ob der Sachbezug zu 100 % während des Krankengeldbezuges weitergewährt wird oder ob der Sachbezug nur bis Ende Entgeltfortzahlung, also aliquot, weitergewährt wird.

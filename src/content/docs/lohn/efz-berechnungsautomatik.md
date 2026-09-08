@@ -3,7 +3,6 @@ title: EFZ-Berechnungsautomatik (fixe Lohnarten)
 program: LOHN
 ---
 
-<span id="efz-berechnungsautomatik-fixe-lohnarten" class="legacy-anchor" aria-hidden="true"></span>
 
 Zur Ermittlung der Bezüge während einer Entgeltfortzahlung von 50 % bzw. 0 % stellt das Lohnprogramm als Hilfestellung einen entsprechenden Vorschlag zur Verfügung.
 
@@ -49,7 +48,6 @@ Beide Felder können bei Bedarf manuell überschrieben werden. Zudem ist es mög
 Bei Änderungen muss der Vorschlag für die BV-Bemessung Krankheit manuell erneut aufgerufen werden. Eine automatische Neuberechnung erfolgt **nicht**.
 
 :::
-<span id="kurzung-der-bruttobezuge-und-vorschlag-teilentgelt" class="legacy-anchor" aria-hidden="true"></span>
 ## Kürzung der Bruttobezüge und Vorschlag Teilentgelt
 
 | Beispiel 1                                   |                             |
@@ -124,7 +122,6 @@ Neben dem gekürzten Lohn / Gehalt sind in der Abrechnungsvorschau sowohl das Te
 Die fiktive BV-Bemessung wird auf Basis von 30 SV-Tagen gerechnet – **nicht** auf Kalendertage.
 
 :::
-<span id="anderung-des-krankenstandzeitraums" class="legacy-anchor" aria-hidden="true"></span>
 ## Änderung des Krankenstandzeitraums
 
 **Fortsetzung Beispiel 1**
@@ -267,7 +264,6 @@ Die Ermittlung der fiktiven BV-Bemessungsgrundlage Krankheit erfolgt nach dem gl
 
 EUR 980,00 : 30 SV-Tage x 22 Tage Teilentgelt : 2 = EUR 359,33. 
 
-<span id="kundigung-wahrend-eines-krankenstandes" class="legacy-anchor" aria-hidden="true"></span>
 ## Kündigung während eines Krankenstandes
 
 Bei der BV-Bemessung während eines Krankenstandes und Kündigung während des Krankenstandes gibt es eine Besonderheit.

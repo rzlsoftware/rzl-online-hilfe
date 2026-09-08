@@ -3,7 +3,6 @@ title: USP
 program: Board
 ---
 
-<span id="usp" class="legacy-anchor" aria-hidden="true"></span>
 
 Neben den FinanzOnline Übermittlungen gibt es im Menüpunkt Portale auch
 noch das Register USP. Mithilfe der Schaltfläche *WiEReG Klienten*

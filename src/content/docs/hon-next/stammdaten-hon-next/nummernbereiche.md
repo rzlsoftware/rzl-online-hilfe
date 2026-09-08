@@ -3,7 +3,6 @@ title: Nummernbereiche
 program: HONNext
 ---
 
-<span id="nummernbereiche" class="legacy-anchor" aria-hidden="true"></span>
 
 Nummernbereiche werden für die fortlaufende Nummerierung der
 verrechneten Honorarnoten benötigt. Sie können abweichend vom

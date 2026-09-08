@@ -3,13 +3,11 @@ title: Dienstzettel
 program: LOHN
 ---
 
-<span id="dienstzettel" class="legacy-anchor" aria-hidden="true"></span>
 
 Dieser Bildschirm ist nur auszufüllen, falls für den Dienstnehmer ein Dienstzettel erstellt werden soll. Gemäß § 2 Abs. 1 Arbeitsvertragsrechts-Anpassungsgesetz (AVRAG) hat der Arbeitgeber dem Arbeitnehmer unverzüglich nach Beginn des Arbeitsverhältnisses einen Dienstzettel auszuhändigen. Der Dienstzettel für die einzelnen Dienstnehmer kann im Programmteil *Ausdruck / Stammdaten / Dienstzettel* wahlweise mit der Bezeichnung Dienstzettel oder Dienstvertrag ausgedruckt werden.
 
 ![Image](<img/image138.png>)
 
-<span id="dauer-des-arbeitsverhaltnisses" class="legacy-anchor" aria-hidden="true"></span>
 ## Dauer des Arbeitsverhältnisses
 
 **Beginn Arbeitsverhältnis**
@@ -70,7 +68,6 @@ Falls mit dem Dienstnehmer eine Vorrückung vereinbart wurde, so sind in den dre
 
 Der *Beruf* aus [*Stammdaten Dienstnehmer*](/lohn/abrechnungsbildschirme/bauarbeiter-urlaubs-und-abfertigungskasse/) wird bei *Verwendung als* eingetragen. Sie können im Feld *Beschreibung der Arbeitsleistung* bis zu 250 Zeichen erfassen.
 
-<span id="gewohnlicher-arbeitsort" class="legacy-anchor" aria-hidden="true"></span>
 ## Gewöhnlicher Arbeitsort
 
 Beim Feld *Dienstort* wird jene Eingabe aus [*Stammdaten Dienstnehmer](/lohn/abrechnungsbildschirme/stammdaten-dienstnehmer/) Dienstort* vorgeschlagen. Sie können einen abweichenden Text von bis zu 50 Zeichen erfassen. Falls Ihr Dienstnehmer wechselnde Arbeitsorte hat, tragen Sie diese im Feld *Wechselnde Arbeitsorte* ein (bis zu 100 Zeichen). Beim Feld *Sitz des Unternehmens* wird die Adresse des Klienten vorgeschlagen. Eine abweichende Eingabe ist bis zu 50 Zeichen möglich.
@@ -97,12 +94,10 @@ Der Text in diesem Feld kann nicht bearbeitet werden. Wenn ein individueller Tex
 
 Hier können Sie einen individuellen Text für die Fortbildung erfassen (bis zu 100 Zeichen).
 
-<span id="wochentliche-normalarbeitszeit" class="legacy-anchor" aria-hidden="true"></span>
 ## Wöchentliche Normalarbeitszeit
 
 Die Daten der *Normalarbeitszeit* werden aus dem [Eintrittsbildschirm](/lohn/abrechnungsbildschirme/eintritt/) übernommen. Bei der Position *Bedingungen für die Änderung von Schichtplänen* können Sie einen individuellen Text von bis zu 250 Zeichen eingeben.
 
-<span id="dauer-der-kundigungsfrist" class="legacy-anchor" aria-hidden="true"></span>
 ## Dauer der Kündigungsfrist
 
 Für die Beschreibung der Kündigungsfristen bzw. Vereinbarungen bezüglich der Kündigung können je Dienstnehmer bis zu 10, der in den [Standardtexten](/lohn/kanzleitexte-und-kanzleilohnkontenplaene/) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
@@ -111,12 +106,10 @@ Für die Beschreibung der Kündigungsfristen bzw. Vereinbarungen bezüglich der 
 Wird bei *Dauer der Kündigungsfrist* ein Textbaustein hinterlegt und ausgewählt, dann wird dieser Text verwendet und nicht mehr der Vorschlag aus dem Feld *Dauer der Kündigungsfrist (HGKV).*
 
 :::
-<span id="kundigungstermin" class="legacy-anchor" aria-hidden="true"></span>
 ## Kündigungstermin
 
 Je Dienstnehmer können bis zu 10, der in den [Standardtexten](/lohn/kanzleitexte-und-kanzleilohnkontenplaene/) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).
 
-<span id="einzuhaltende-kundigungsverfahren" class="legacy-anchor" aria-hidden="true"></span>
 ## Einzuhaltende Kündigungsverfahren
 
 Je Dienstnehmer können bis zu 10, der in den [Standardtexten](/lohn/kanzleitexte-und-kanzleilohnkontenplaene/) angelegten Textblöcke verwendet werden. Es sind dazu die Nummern der in Frage kommenden Standardtexte einzugeben. Die verwendeten Texte müssen bereits als Standardtexte Dienstzettel angelegt worden sein (entweder beim Dienstnehmer oder als Kanzleitext).

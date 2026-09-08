@@ -3,7 +3,6 @@ title: Anzahlungsrechnungen
 program: FIBUNext
 ---
 
-<span id="anzahlungsrechnungen" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Verbuchung von Anazhlungsrechnungen an Debitoren mit automatischer Steuerkorrektur beim Einbuchen der Zahlung bzw. Schlussrechnung.
 

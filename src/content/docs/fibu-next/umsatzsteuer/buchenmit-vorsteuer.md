@@ -3,9 +3,7 @@ title: Buchen mit Vorsteuer
 program: FIBUNext
 ---
 
-<span id="buchen-mit-vorsteuer" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="buchen-mit-vorsteuer_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Buchen mit Vorsteuer
 
 

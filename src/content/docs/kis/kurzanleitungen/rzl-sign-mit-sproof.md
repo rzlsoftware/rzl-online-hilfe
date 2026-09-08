@@ -3,7 +3,6 @@ title: RZLSign mit sproof
 program: KIS
 ---
 
-<span id="rzlsign-mit-sproof" class="legacy-anchor" aria-hidden="true"></span>
 Das Modul RZL Sign wird Ihnen von uns in Kooperation mit unserem Partner Firma sproof GmbH, 5412 Puch bei Hallein – [www.sproof.com](https://www.sproof.com/) angeboten und ist eine in das RZL KIS integrierte Lösung für effizientes und rechtsgültiges Signieren digitaler Dokumente.
 
 Für die Nutzung von RZL Sign benötigen Sie:
@@ -13,7 +12,6 @@ Für die Nutzung von RZL Sign benötigen Sie:
 - das Modul RZL Sign (bestellbar direkt bei RZL – Kontakt: Software@rzl.at – 07752 / 252 DW 65 Vertrieb)
 - ein sproof Unterschriften-Package (bestellbar direkt bei Firma sproof – Kontakt: partner@sproof.com – Tel. 05 / 0423 unter Bekanntgabe Ihrer RZL Anwender-Nummer)
 
-<span id="verknupfung-sproof-mit-rzl" class="legacy-anchor" aria-hidden="true"></span>
 ## Verknüpfung sproof mit RZL
 
 Um Dokumente von RZL zu sproof hochladen und signieren zu können, ist die Einrichtung der sproof Lizenz und sproof User notwendig. Diese Daten können im RZL Board unter Portale und RZLSign hinterlegt werden.
@@ -76,7 +74,6 @@ Sie werden anschließend auf die Website von sproof weitergeleitet, wo Ihnen neb
 Mehrere Dokumente können gesammelt in Form einer Dokumentenmappe zu sproof hochgeladen werden. Diese Funktion erleichtert die Bearbeitung mehrerer Dokumente. Jedes Dokument innerhalb der Dokumentenmappe muss anschließend separat unterschrieben werden.
 
 :::
-<span id="moglichkeiten-in-sproof" class="legacy-anchor" aria-hidden="true"></span>
 ### Möglichkeiten in sproof
 #### Selbst unterschreiben
 
@@ -94,7 +91,6 @@ Damit Sie schlussendlich unterschreiben können, ist das Signaturfeld auf das Do
 Ab der Version 2.25.11 sind in den Steuererklärungsformularen bereits Platzhalter für digitale Signaturen enthalten und müssen in sproof nicht mehr manuell platziert werden.
 
 :::
-<span id="empfangerinnen" class="legacy-anchor" aria-hidden="true"></span>
 #### Empfänger:innen
 
 Klicken Sie auf den Bereich *Empfänger:innen*, um die Einstellungen zum Signieren des Empfängers zu treffen.

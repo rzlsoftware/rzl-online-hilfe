@@ -3,7 +3,6 @@ title: Bilanzieren eines FIBU Next Klienten
 program: FIBUNext
 ---
 
-<span id="bilanzieren-eines-fibu-next-klienten" class="legacy-anchor" aria-hidden="true"></span>
 
 
 
@@ -57,7 +56,6 @@ die Kontenbezeichnungen und andere Stammdaten angepasst werden sollen.
 
 ### Vorgehensweise in der FIBU Next
 
-<span id="ubergabe-der-umbuchungen" class="legacy-anchor" aria-hidden="true"></span>
 #### Übergabe der Umbuchungen
 
 In der FIBU Next sind die übergebenen Bilanz-Umbuchungen nun in Form
@@ -86,7 +84,6 @@ Bilanzumbuchungen oder ohne diesen dargestellt werden soll.
 
 ![image](img/image15.png)
 
-<span id="eroffnungsbilanzwerte-im-folgejahr" class="legacy-anchor" aria-hidden="true"></span>
 #### Eröffnungsbilanzwerte im Folgejahr
 
 Die Eröffnungsbilanzwerte werden im Zuge des automatischen Abgleichs
@@ -133,10 +130,8 @@ einer notwendigen Änderung der Bilanz die Sicherung hereinspielen und
 die Umbuchungen nochmals in die FIBU Next übergeben.
 
 :::
-<span id="spezialfalle-bei-umstellung-von-fibu-klassik-auf-fibu-next" class="legacy-anchor" aria-hidden="true"></span>
 ### Spezialfälle bei Umstellung von FIBU Klassik auf FIBU Next
 
-<span id="das-bilanzjahr-wurde-vollstandig-in-der-fibu-klassik-gebucht-und-in-die-fibu-next-ubergeben-das-folgejahr-wurde-bereits-in-der-fibu-next-angelegt-und-dort-bebucht" class="legacy-anchor" aria-hidden="true"></span>
 #### Das Bilanzjahr wurde vollständig in der FIBU Klassik gebucht und in die FIBU Next übergeben. Das Folgejahr wurde bereits in der FIBU Next angelegt und dort bebucht.
 
 In diesem Fall ist im Folgejahr das unter *Stamm / FIBU / Allgemein* das
@@ -146,7 +141,6 @@ Bestandskonten) die EB-Werte automatisch gebucht und aktualisiert.
 
 ![image](img/image17.png)
 
-<span id="sowohl-das-bilanzjahr-als-auch-das-folgejahr-wurden-aus-der-fibu-klassik-ubernommen" class="legacy-anchor" aria-hidden="true"></span>
 #### Sowohl das Bilanzjahr als auch das Folgejahr wurden aus der FIBU Klassik übernommen. 
 
 Wurde auch das Folgejahr aus der FIBU Klassik übernommen (dabei spielt
@@ -172,7 +166,6 @@ Konten ist in diesem Fall nicht mehr möglich, da es ansonsten zu
 Differenzen kommen könnte.
 
 :::
-<span id="das-bilanzjahr-befindet-sich-noch-in-der-fibu-klassik-das-folgejahr-wurde-in-die-fibu-next-ubernommen" class="legacy-anchor" aria-hidden="true"></span>
 #### Das Bilanzjahr befindet sich noch in der FIBU Klassik, das Folgejahr wurde in die FIBU Next übernommen.
 
 In diesem Fall empfehlen wir, vor Übergabe der Bilanz-Umbuchungen in die

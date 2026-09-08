@@ -3,7 +3,6 @@ title: Hilfsmittel
 program: HONNext
 ---
 
-<span id="hilfsmittel" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Notizzettel
 

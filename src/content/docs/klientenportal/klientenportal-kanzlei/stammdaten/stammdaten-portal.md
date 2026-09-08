@@ -3,7 +3,6 @@ title: Stammdaten des Portals
 program: Klientenportal
 ---
 
-<span id="stammdaten-des-portals" class="legacy-anchor" aria-hidden="true"></span>
 
 ## E-Mail Texte
 

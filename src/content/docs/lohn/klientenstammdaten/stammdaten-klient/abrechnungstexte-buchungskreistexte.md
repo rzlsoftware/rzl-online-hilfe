@@ -3,7 +3,6 @@ title: Abrechnungstexte, Buchungskreistexte
 program: LOHN
 ---
 
-<span id="abrechnungstexte-buchungskreistexte" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image33.png>){width="500"}
 

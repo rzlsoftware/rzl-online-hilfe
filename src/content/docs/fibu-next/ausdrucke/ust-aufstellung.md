@@ -3,7 +3,6 @@ title: USt-Aufstellung
 program: FIBUNext
 ---
 
-<span id="ust-aufstellung" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Ausdruck USt-Aufstellung
 

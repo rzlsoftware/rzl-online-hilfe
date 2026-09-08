@@ -3,7 +3,6 @@ title: Allgemein
 program: FIBUNext
 ---
 
-<span id="allgemein" class="legacy-anchor" aria-hidden="true"></span>
 
 ## FIBU Personen
 

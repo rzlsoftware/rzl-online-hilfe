@@ -3,7 +3,6 @@ title: Automatische Belegsynchronisation zur Belegbox am RZL Klientenportal
 program: Belegverarbeitung
 ---
 
-<span id="automatische-belegsynchronisation-zur-belegbox-am-rzl-klientenportal" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Belegsynchronisation einrichten
 

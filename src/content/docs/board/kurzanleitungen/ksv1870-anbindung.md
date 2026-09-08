@@ -96,7 +96,6 @@ Generation anzulegen.
 
 Mit *Ausgewählte Daten übernehmen* werden die Änderungen gespeichert.
 
-<span id="ksv1870-suche-stammdatenreport" class="legacy-anchor" aria-hidden="true"></span>
 ##  KSV1870 Suche - StammdatenReport
 
 Neben der Möglichkeit die Stammdaten bei Neuanlage eines Firmen-Klienten

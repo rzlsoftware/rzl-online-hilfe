@@ -3,11 +3,9 @@ title: Fixe Lohnarten
 program: LOHN
 ---
 
-<span id="fixe-lohnarten" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image100.png>)
 
-<span id="lohn-gehalt" class="legacy-anchor" aria-hidden="true"></span>
 ## Lohn / Gehalt
 
 Hier können Sie einstellen, ob nach Stunden oder durch Eingabe des Grundlohnes bzw. Grundgehaltes abgerechnet werden soll. Wird nach Stunden abgerechnet, so können zwei verschiedene Stundensätze mit der entsprechenden Anzahl der Stunden eingegeben werden. Der eingegebene Stundensatz bleibt erhalten, die Stundenanzahl muss jeden Monat neu eingegeben werden.
@@ -18,7 +16,6 @@ Wird nicht nach Stunden abgerechnet, so ist der monatliche Grundlohn bzw. Grundg
 
 Standardmäßig wird von Brutto auf Netto gerechnet. Es besteht jedoch auch die Möglichkeit, von Netto auf Brutto zu rechnen. Für diesen Fall ist der Nettobetrag unter *Lohn/Gehalt* einzugeben und das Programm ermittelt dann automatisch den richtigen Bruttobetrag.
 
-<span id="zulagen-sonderzahlungen-und-diaten" class="legacy-anchor" aria-hidden="true"></span>
 ## Zulagen, Sonderzahlungen und Diäten
 
 **Trinkgeld**
@@ -49,7 +46,6 @@ In diesem Feld erfolgt die Eingabe von Aufwandsentschädigungen, die gemäß § 
 
 Hier können Aufwandsentschädigungen eingegeben werden, die die Grenzen des §&nbsp;26&nbsp;Abs.&nbsp;4 überschreiten und somit lohnsteuerpflichtig und sozialversicherungspflichtig sind. Solche pflichtigen Aufwandsentschädigungen können auch als freie Lohnarten angelegt werden.
 
-<span id="begunstigte-auslandstatigkeit-3-abs-1-z-10-u-11-estg-montagetatigkeit" class="legacy-anchor" aria-hidden="true"></span>
 ## Begünstigte Auslandstätigkeit § 3 Abs. 1 Z 10 u. 11 EStG (Montagetätigkeit)
 
 Dieser Bereich ermöglicht die Abrechnung der Montagetätigkeit gemäß § 3 Abs. 1 Z 10 und 11 EStG.
@@ -60,7 +56,6 @@ Nach Abzug der Sozialversicherungsbeiträge können seit 2012 60 % der laufenden
 
 Je nachdem, ob zur Vermeidung von Doppelbesteuerungen die Anrechnungsmethode oder die Befreiungsmethode (kein Häkchen im Feld *DBA-Anrechnungsmethode*) mit oder ohne Lohnsteuerabzug zur Anwendung kommt, werden unterschiedliche Lohnzettelarten erstellt (siehe Tabelle unterhalb).
 
-<span id="auslandstatigkeit-keine-montage-besteuerungsrecht-im-ausland" class="legacy-anchor" aria-hidden="true"></span>
 ## Auslandstätigkeit (keine Montage) – Besteuerungsrecht im Ausland
 
 In diesem Bereich werden Einkünfte abgerechnet, die keine Montagetätigkeit (§ 3 Abs. 1 Z 10 u. 11 EStG) betreffen, sondern Einkünfte, wo das Besteuerungsrecht im Ausland liegt.
@@ -76,7 +71,6 @@ Je nachdem, ob zur Vermeidung von Doppelbesteuerungen die Anrechnungsmethode ode
 | Anrechnung/mit LSt        | LZ-Art 23 und 24 je Land           | LZ-Art 24 je Land                         |
 | Anrechnung/ohne LSt       | LZ-Art 23 und 24 je Land           | LZ-Art 24 je Land                         |
 
-<span id="urlaubsablose-und-abfertigung-alt" class="legacy-anchor" aria-hidden="true"></span>
 ## Urlaubsablöse und Abfertigung alt
 
 **Urlaubsablöse**
@@ -105,7 +99,6 @@ Eingabe des *Sonderzahlungsanspruches*, der für die Berechnung der Abfertigung 
 
 Aufgrund der für die Abfertigung maßgeblichen Daten wird vom Programm automatisch der *Abfertigungsanspruch* berechnet und vorgeschlagen. Dieser kann auch abgeändert werden. Eine solche Änderung ist durch ein Sternchen (*) vor dem Betragsfeld ersichtlich.
 
-<span id="schlechtwetterentschadigung-unbezahlter-urlaub-teilentgelt-und-teilpension" class="legacy-anchor" aria-hidden="true"></span>
 ## Schlechtwetterentschädigung, unbezahlter Urlaub, Teilentgelt und Teilpension
 
 **Lohnbasis SW-Entschädigung**
@@ -203,7 +196,6 @@ Die Eintragung kann im Feld *UZ (BUAG)* erfolgen. Die Versteuerung erfolgt mit 6
 
 Damit das Feld *UZ (BUAG)* ausgefüllt werden kann und für weitere sonstige Bezüge (Weihnachtsremuneration) das Jahreszwölftel gemäß § 67 (5) EStG berücksichtigt wird, muss im Abrechnungsbildschirm *Sozialversicherung* im Bereich [*Bauarbeiter- Urlaubs- und Abfertigungskasse (BUAK)*](/lohn/bauarbeiter-urlaubs-und-abfertigungskasse/abrechnungsbildschirm-bauarbeiter-urlaubs-und-abfertigungskasse/) das Häkchen gesetzt sein.
 
-<span id="bv-bemessung-fur-prasenz-zivildienst-mutterschutz-und-krankheit" class="legacy-anchor" aria-hidden="true"></span>
 ## BV-Bemessung für Präsenz-/Zivildienst, Mutterschutz und Krankheit
 
 ![Image](<img/image109.png>){width="500"}
@@ -238,7 +230,6 @@ Das Programm berechnet bei Ein- und Austritten während eines Monats die SV und 
 
 Im Feld *abw. BV-Bemessung* kann die automatische Berechnung der BV-Bemessung durch eine abweichende Eintragung geändert werden.
 
-<span id="bvaeisenbahnbergbau-bem-krankenversicherung-wahrend-der-karenz" class="legacy-anchor" aria-hidden="true"></span>
 ## BVA/Eisenbahn/Bergbau – Bem. Krankenversicherung während der Karenz
 
 Wenn in den Stammdaten des Klienten im [Registerblatt *ÖGK, BV-Kasse*](/lohn/klientenstammdaten/stammdaten-klient/oegk-bv-kasse/) die Versicherungsanstalt für öffentlich Bedienstete, Eisenbahnen oder Bergbau ausgewählt ist, kann hier die Bemessungsgrundlage für die Krankenversicherung während der Karenz eingetragen werden. Dies betrifft beispielsweise die Tarifgruppen V603, V604, V605, V606, V607.

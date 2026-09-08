@@ -3,13 +3,11 @@ title: Bewegungsdaten bearbeiten
 program: HONNext
 ---
 
-<span id="bewegungsdaten-bearbeiten" class="legacy-anchor" aria-hidden="true"></span>
 
 Über den Menüpunkt *Bewegungsdaten löschen/zurücksetzen* haben Sie die
 Möglichkeit die gesamten Bewegungsdaten oder nur einzelne Teile daraus
 zu löschen.
 
-<span id="bewegungsdaten-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Bewegungsdaten löschen
 
 Der Menüpunkt *Bewegungsdaten löschen* **löscht** die jeweiligen
@@ -43,7 +41,6 @@ löschen, sind diese zusätzlich in der Belegverwaltung zu löschen.
 :::
 ![](<img/image98.png>)
 
-<span id="bewegungsdaten-zurucksetzten" class="legacy-anchor" aria-hidden="true"></span>
 ### Bewegungsdaten zurücksetzten
 
 Der Menüpunkt *Bewegungsdaten zurücksetzen* **löscht** **ALLE**

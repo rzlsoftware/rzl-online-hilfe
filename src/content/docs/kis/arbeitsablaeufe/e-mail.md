@@ -34,7 +34,6 @@ Anhang gespeichert. Erst wenn das E-Mail tatsächlich gesendet wurde,
 erfolgt die Zuordnung zum Postausgang im KIS. Damit wird sichergestellt,
 dass das E-Mail nicht noch verändert werden kann.
 
-<span id="speichern-von-anhangen" class="legacy-anchor" aria-hidden="true"></span>
 ## Speichern von Anhängen
 
 Wenn Sie E-Mails in das Kanzlei-Informations-System übernehmen, haben
@@ -63,14 +62,12 @@ E-Mail mit einem Doppelklick öffnen,
 Sie sehen oberhalb den Eintrag beim Ereignis. Das E-Mail wird inklusive
 des Dokuments nur einmal angezeigt.
 
-<span id="e-mail-und-anhange-separat-speichern" class="legacy-anchor" aria-hidden="true"></span>
 ### E-Mail und Anhänge separat speichern
 
 Wenn Sie diese Option anwählen, werden die E-Mail und die darin
 enthaltenen Anhänge beim Ereignis und in der Dokumentenverwaltung
 getrennt gespeichert.
 
-<span id="verknupfung-zur-aufgabenverwaltung" class="legacy-anchor" aria-hidden="true"></span>
 ## Verknüpfung zur Aufgabenverwaltung
 
 Im rechten unteren Bereich des Detaildialogs finden Sie die Verknüpfung
@@ -81,7 +78,6 @@ zur Aufgabenverwaltung.
 Sie können bestehende Aufgaben zuordnen, die Zuordnung von Aufgaben
 wieder löschen und neue Aufgaben anlegen.
 
-<span id="ubernahme-eines-gesendeten-e-mails-im-nachhinein" class="legacy-anchor" aria-hidden="true"></span>
 ## Übernahme eines gesendeten E-Mails im Nachhinein
 
 Wenn Sie eine E-Mail außerhalb des Kanzlei-Informations-Systems erstellt
@@ -118,7 +114,6 @@ Wenn Sie das E-Mail nicht öffnen, können Sie – für die Übernahme ins KIS
 Wenn Sie ein erhaltenes E-Mail als Posteingang ins Kanzlei-Informations-Systems übernommen haben, wird beim Senden der Antworten auf das E-Mail automatisch der Eingabedialog für die Übernahme dieser E-Mail ins KIS geöffnet.
 
 :::
-<span id="ubernommene-e-mails-nachtragen-und-markieren" class="legacy-anchor" aria-hidden="true"></span>
 ## Übernommene E-Mails nachtragen und markieren
 
 Wurden E-Mails mit oder ohne Anhängen nicht vollständig in das

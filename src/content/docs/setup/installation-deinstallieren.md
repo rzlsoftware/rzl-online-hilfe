@@ -3,7 +3,6 @@ title: Installation deinstallieren
 program: setup
 ---
 
-<span id="installation-deinstallieren" class="legacy-anchor" aria-hidden="true"></span>
 
 Bei diesem Vorgang werden die lokal installierten Programme
 deinstalliert. Die Daten aus dem Daten-Repository werden **nicht** gelöscht.

@@ -3,7 +3,6 @@ title: KER Monatsübersicht
 program: FIBUNext
 ---
 
-<span id="ker-monatsubersicht" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Auswertung KER
 

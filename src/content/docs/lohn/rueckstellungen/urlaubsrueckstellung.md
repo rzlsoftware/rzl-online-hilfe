@@ -3,7 +3,6 @@ title: Urlaubsrückstellung
 program: LOHN
 ---
 
-<span id="urlaubsruckstellung" class="legacy-anchor" aria-hidden="true"></span>
 
 Nach Anwahl des Menüpunktes *Ausdruck / Rückstellungen / Urlaubsrückstellung* wird folgender Dialog geöffnet:
 
@@ -85,7 +84,6 @@ Das Programm ermittelt automatisch aufgrund der eingegebenen Daten den Rückstel
 Es erfolgt stets eine automatische Abgrenzung der Urlaubsansprüche aufgrund der zeitlichen Überschneidung zwischen Urlaubsjahr und Bilanzstichtag. In der Urlaubskartei sollten daher die vollen Ansprüche erfasst werden oder die Funktion *dauerhafte Anspruchsaliquotierung* zum Einsatz kommen. Nur so wird eine doppelte Aliquotierung und damit falsche, meist negative Rückstellungswerte verhindert.
 
 :::
-<span id="aufruf-berechnungsblatt-urlaubsruckstellung" class="legacy-anchor" aria-hidden="true"></span>
 ## Aufruf Berechnungsblatt Urlaubsrückstellung
 
 Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung für diesen ausgewählten Dienstnehmer.

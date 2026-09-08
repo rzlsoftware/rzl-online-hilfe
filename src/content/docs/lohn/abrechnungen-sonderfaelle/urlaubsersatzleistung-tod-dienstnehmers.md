@@ -3,7 +3,6 @@ title: Urlaubsersatzleistung bei Tod des Dienstnehmers
 program: LOHN
 ---
 
-<span id="urlaubsersatzleistung-bei-tod-des-dienstnehmers" class="legacy-anchor" aria-hidden="true"></span>
 
 Laut ÖGK
 ([LINK](https://www.gesundheitskasse.at/cdscontent/?contentid=10007.896795&portal=oegkdgportal) zur ÖGK Seite) verlängert sich bei Tod eines Dienstnehmers die Pflichtversicherung nicht, da sie mit dem Tod des Dienstnehmers endet.

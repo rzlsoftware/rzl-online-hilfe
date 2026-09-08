@@ -3,7 +3,6 @@ title: Eintragung des Betriebskennzeichens, Kennzeichnung der Direktauszahlung
 program: LOHN
 ---
 
-<span id="eintragung-des-betriebskennzeichens-kennzeichnung-der-direktauszahlung" class="legacy-anchor" aria-hidden="true"></span>
 
 Seit 1.1.2014 können die Meldungen der Unternehmen an die Bauarbeiter- Urlaubs- und Abfertigungskasse nicht mehr in Papierform eingereicht werden. Die Meldungen müssen entweder in den Portalanwendungen der BUAK manuell erfasst werden oder können mittels xml-Datei im BUAK Portal importiert werden.
 

@@ -3,7 +3,6 @@ title: Notenerstellung und Belegverarbeitung mit Akontozahlung
 program: HONNext
 ---
 
-<span id="notenerstellung-und-belegverarbeitung-mit-akontozahlung" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Notenerstellung und Belegverarbeitung mit Akonto
 

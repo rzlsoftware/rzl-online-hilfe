@@ -3,7 +3,6 @@ title: Belegkreise
 program: Klientenportal
 ---
 
-<span id="belegkreise" class="legacy-anchor" aria-hidden="true"></span>
 
 In den Stammdaten des Klienten im Board können Sie festlegen, welche Belegkreise ihrem Klienten beim Hochladen der Belege zur Verfügung stehen.
 

@@ -3,7 +3,6 @@ title: Funktionen der Dokumentenverwaltung
 program: KIS
 ---
 
-<span id="verknupfung-von-dokumenten-mit-ereignissen" class="legacy-anchor" aria-hidden="true"></span>
 ## Verknüpfung von Dokumenten mit Ereignissen
 
 Die vorhandenen Dokumente können Sie sehr einfach mit Ereignissen
@@ -84,7 +83,6 @@ Möchten Sie ein im KIS abgespeichertes Dokument in die RZL
 Belegverarbeitung importieren, können Sie dies mithilfe des Eintrags *In
 Beleg umwandeln* erreichen.
 
-<span id="temporaren-dateipfad-kopieren" class="legacy-anchor" aria-hidden="true"></span>
 ## Temporären Dateipfad kopieren
 
 Der (interne und temporäre) Ablageort eines Dokuments kann im

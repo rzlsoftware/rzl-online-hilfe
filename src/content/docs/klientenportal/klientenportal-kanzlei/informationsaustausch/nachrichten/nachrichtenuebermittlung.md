@@ -3,7 +3,6 @@ title: Nachrichtenübermittlung
 program: Klientenportal
 ---
 
-<span id="nachrichtenubermittlung" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Nachrichtenübermittlung im RZL Klientenportal bietet Ihnen die Möglichkeit, Nachrichten an Ihre Klienten verschlüsselt über die https-gesicherte Verbindung zu senden bzw. von Ihrem Klienten zu empfangen. 
 

@@ -3,11 +3,9 @@ title: Mitarbeitergewinnbeteiligung § 3 Abs. 1 Z 35 EStG
 program: LOHN
 ---
 
-<span id="mitarbeitergewinnbeteiligung-3-abs-1-z-35-estg" class="legacy-anchor" aria-hidden="true"></span>
 
 Für Zeiträume ab dem 01.01.2022 hat der Gesetzgeber die Möglichkeit geschaffen, Gewinnbeteiligungen bis zu **EUR 3.000,00** jährlich **steuerfrei** auszubezahlen. Die gesetzliche Grundlage hierfür findet sich im **§ 3 Abs. 1 Z 35 EStG**.
 
-<span id="voraussetzungen-fur-die-steuerfreiheit-sind" class="legacy-anchor" aria-hidden="true"></span>
 ## Voraussetzungen für die Steuerfreiheit sind
 
 - Die Gewinnbeteiligung muss **allen Mitarbeitern** oder **bestimmten   Gruppen** von Mitarbeitern bezahlt werden.

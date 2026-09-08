@@ -3,7 +3,6 @@ title: Impressum
 hideFooter: true
 ---
 
-<span id="impressum" class="legacy-anchor" aria-hidden="true"></span>
 
 **hilfe.rzlsoftware.at** ist ein Produkt der  
 
@@ -26,7 +25,6 @@ Anwendbare gewerberechtliche Vorschriften: Gewerbeordnung 1994 – GewO 1994 (ht
 
 Unternehmensgegenstand: Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik; Handels- und Handelsagentengewerbe (für Computer und Computersysteme)
 
-<span id="copyright-urheberrechtshinweis" class="legacy-anchor" aria-hidden="true"></span>
 ## © Copyright – Urheberrechtshinweis
 
 Alle Inhalte der Handbücher, insbesondere Texte, Fotografien und Grafiken, sind urheberrechtlich geschützt. Das Urheberrecht liegt, soweit nicht ausdrücklich anders gekennzeichnet, bei der RZL Software GmbH, Hannesgrub Nord 35, 4911 Tumeltsham.

@@ -3,9 +3,7 @@ title: Ausdrucke Exekutionen
 program: LOHN
 ---
 
-<span id="ausdrucke-exekutionen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="zahlscheindruck-e-banking" class="legacy-anchor" aria-hidden="true"></span>
 ## Zahlscheindruck / E-Banking
 
 Der Zahlscheindruck für die Exekutionsbeträge erfolgt im Programmteil *Ausdruck / Überweisungen / Zahlscheine / Exekutionsbeträge*. Soll anstatt des Zahlscheindruck E-Banking durchgeführt werden, ist der Programmteil *Bearbeiten / Electronic Banking (Sepa) / Exekutionsbeträge* anzuwählen.

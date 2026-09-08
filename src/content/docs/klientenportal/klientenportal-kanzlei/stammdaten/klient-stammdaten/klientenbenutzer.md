@@ -3,7 +3,6 @@ title: Klientenbenutzerdaten und Berechtigungen
 program: Klientenportal
 ---
 
-<span id="klientenbenutzerdaten-und-berechtigungen" class="legacy-anchor" aria-hidden="true"></span>
 
 ![](img/image19.png)
 
@@ -96,7 +95,6 @@ Durch diese Einstellung hat der Benutzer die Berechtigung, auf die verbuchten Be
 
 Die Option *Klientensicherungen austauschen* ist für den Datenaustausch von FIBU/EA-Dateien zwischen Klienten und Kanzlei notwendig.
 
-<span id="ein-benutzer-fur-mehrere-klienten" class="legacy-anchor" aria-hidden="true"></span>
 ## Ein Benutzer für mehrere Klienten 
 
 Sie haben die Möglichkeit einen Benutzer anzulegen, der mit dem gleichen Login mehrere Klienten bearbeiten kann. Zunächst muss der Benutzer -- wie oberhalb beschrieben -- mit Name, Passwort und Berechtigungen bei einem Klienten angelegt werden.
@@ -112,7 +110,6 @@ Im Beispiel oben wird beim Klienten mit der Nummer 86, der bereits beim Klienten
 
 ![](img/image24.png)
 
-<span id="klientenbenutzer-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ## Klientenbenutzer löschen
 
 ![](img/image-1.png)

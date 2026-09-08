@@ -3,7 +3,6 @@ title: notwendige Vorarbeiten
 program: KIS
 ---
 
-<span id="zentrale-mandantenverwaltung-zmv-vorgangsweise-fur-die-klientenubergreifende-korrektur-der-rechtsformen" class="legacy-anchor" aria-hidden="true"></span>
 ## Zentrale Mandantenverwaltung (ZMV) - Vorgangsweise für die klientenübergreifende Korrektur der Rechtsformen 
 
 Gehen Sie bitte wie folgt vor:
@@ -29,7 +28,6 @@ können Sie die Korrektur Rechtsformen jederzeit Beenden.
 Nach der Korrektur der Rechtsformen wird ein Korrekturprotokoll
 ausgedruckt.
 
-<span id="zentrale-mandantenverwaltung-zmv-vorgangsweise-fur-das-klientenubergreifende-aufteilen-der-rechtsformen" class="legacy-anchor" aria-hidden="true"></span>
 ## Zentrale Mandantenverwaltung (ZMV) - Vorgangsweise für das klientenübergreifende Aufteilen der Rechtsformen 
 
 Rufen Sie in der ZMV den Menüpunkt *ZMV / Spezialfunktionen / Rechtsformen aufteilen* auf und wählen Sie die Klienten aus. Über die

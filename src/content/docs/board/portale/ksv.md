@@ -3,7 +3,6 @@ title: KSV1870 Anbindung an das RZL Board
 program: Board
 ---
 
-<span id="ksv1870-anbindung-an-das-rzl-board" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit der Anbindung des KSV1870 an das RZL Board (Basis-Modul) wurde unter
 anderem die Möglichkeit geschaffen, die Stammdaten Ihrer bestehenden
@@ -96,7 +95,6 @@ Generation anzulegen.
 
 Mit *Ausgewählte Daten übernehmen* werden die Änderungen gespeichert.
 
-<span id="ksv1870-suche-stammdatenreport" class="legacy-anchor" aria-hidden="true"></span>
 ##  KSV1870 Suche - StammdatenReport
 
 Neben der Möglichkeit die Stammdaten bei Neuanlage eines Firmen-Klienten

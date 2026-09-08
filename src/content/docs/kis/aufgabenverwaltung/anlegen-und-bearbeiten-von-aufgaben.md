@@ -102,7 +102,6 @@ Buchstaben nach dem Namen suchen.
 Wenn Sie die Eingabe der neuen Aufgabe im Klientenbereich durchführen,
 ist die Klienten­nummer fix eingetragen.
 
-<span id="zustandige-mitarbeiter-status-der-aufgabe" class="legacy-anchor" aria-hidden="true"></span>
 #### Zuständige Mitarbeiter – Status der Aufgabe
 
 In diesem Bereich wählen Sie die zuständigen Mitarbeiter aus. Die
@@ -141,7 +140,6 @@ Zuordnung als Ganzes.
 Soll eine Aufgabe einem anderen Mitarbeiter nachvollziehbar zugeordnet werden, markieren Sie bitte den Mitarbeiter durch einen Mausklick. Anschließend wählen Sie bitte das Pfeil-Symbol ![MA-Pfeil-Symbol](<img/image57.png>) an und Sie haben die Möglichkeit die Aufgabe einem anderen Mitarbeiter weiterzuleiten.
 
 :::
-<span id="zustandigkeit-finanzonline" class="legacy-anchor" aria-hidden="true"></span>
 #### Zuständigkeit \[FinanzOnline\]
 
 Wenn Sie in den [FinanzOnline-Zuweisungen](/kis/finanz-online/finanz-online-databox-zuweisungen/) innerhalb der Protokolle in der Spalte
@@ -165,7 +163,6 @@ wichtiger Eintrag für die strukturierte Ablage und für die [Suche innerhalb de
 In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Themen](/kis/erste-schritte/anlage-von-themen-und-kategorien/) aus. Das Thema ist ebenfalls ein
 wichtiger Eintrag für die strukturierte Ablage und für die [Suche innerhalb der Aufgaben](/kis/allgemeine-programmbedienung/programmstart-und-moegliche-funktionen/#m%C3%B6glichkeiten-der-listengestaltung).
 
-<span id="aktivitatzeitraum" class="legacy-anchor" aria-hidden="true"></span>
 #### Aktivität/Zeitraum
 
 Wenn Sie die Felder *Aktivität* und *Zeitraum* bei einer Aufgabe
@@ -252,7 +249,6 @@ werden und beispielsweise im Excel eingefügt werden.
 
 ![Verwaltung Aufgabe](<img/image67.png>)
 
-<span id="aufgabe-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Aufgabe löschen
 
 Grundsätzlich können Sie nur die eigenen Aufgaben löschen. Aufgaben die

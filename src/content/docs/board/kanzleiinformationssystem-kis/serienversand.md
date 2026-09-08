@@ -3,7 +3,6 @@ title: Serienversand
 program: Board
 ---
 
-<span id="serienversand" class="legacy-anchor" aria-hidden="true"></span>
 
 Der Serienversand befindet sich im RZL BOARD im Menüpunkt KIS. Durch Anwahl des Menüpunktes KIS gelangen
 Sie in den Bereich des Kanzlei-Informations-Systems.
@@ -14,7 +13,6 @@ verwalten, Serienbrief erstellen und Serien-E-Mail erstellen unterteilt ist.
 
 ![](<img/image197.png>) 
 
-<span id="empfangerlisten-verwalten" class="legacy-anchor" aria-hidden="true"></span>
 ## Empfängerlisten verwalten
 
 Um einen Serienbrief zu erstellen, muss im ersten Schritt eine Empfängerliste angelegt werden.

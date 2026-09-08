@@ -3,7 +3,6 @@ title: Umsatzstatistik Allgemein
 program: HONNext
 ---
 
-<span id="umsatzstatistik-allgemein" class="legacy-anchor" aria-hidden="true"></span>
 
 In der allgemeinen Umsatzstatistik stehen Ihnen alle abgerechneten
 Leistungen zur Verfügung. Die Umsatzstatistik ist individuell

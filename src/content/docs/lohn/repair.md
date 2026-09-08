@@ -3,13 +3,11 @@ title: Repair
 program: LOHN
 ---
 
-<span id="repair" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Repair Abrechnungen
 
 Sollte bei einem Dienstnehmer die monatliche Abrechnung nicht mehr aufgerufen werden können (Fehlermeldung *Letzte Abrechnung nicht gefunden*), so kann der Datenbestand mit diesem Repair wieder in Ordnung gebracht werden.
 
-<span id="repair-beschaftigungsverhaltnis-vollteilzeit" class="legacy-anchor" aria-hidden="true"></span>
 ## Repair Beschäftigungsverhältnis (Voll/teilzeit)
 
 Auf dem Lohnzettel, der an das Finanzamt übersendet wird, wird als Beschäftigungsverhältnis entweder Vollzeit- oder Teilzeitbeschäftigt angedruckt. Am Lohnzettel wird vom Programm die „überwiegende“ Einstellung angedruckt. Wenn ein Dienstnehmer 5 Monate Teilzeit und 7 Monate Vollzeit abgerechnet wurde, wird am Lohnzettel *Vollbeschäftigung* angedruckt.
@@ -22,7 +20,6 @@ Dieses Repair geht in den letzten abgerechneten Monat der jeweiligen Dienstnehme
 
 Mit dieser Funktion kann der Zahltag der Abrechnungen korrigiert werden.
 
-<span id="repair-uberprufung-sz-freigrenze-2024" class="legacy-anchor" aria-hidden="true"></span>
 ## Repair Überprüfung SZ Freigrenze 2024
 
 Über *Bearbeiten / Repair / Überprüfung SZ Freigrenze 2024* gibt es die Möglichkeit, jene Dienstnehmer zu finden, bei welchen noch nicht die neue Freigrenze von EUR 2.447,00 angewendet wurde.
@@ -43,12 +40,10 @@ In diesem Repair erfolgt eine neuerliche Aufsummierung der monatlichen Bemessung
 
 Mit diesem Repair können die Gemeindenummern angepasst werden.
 
-<span id="repair-reports-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ## Repair Reports löschen
 
 Durch Anwahl dieses Menüpunktes können fehlerhafte Reports, welche sich nicht mehr öffnen lassen, gelöscht werden. Hierzu gehen Sie wie folgt vor. Zuerst übernehmen Sie alle fehlerfreien Reports in die Kanzlei-Reports. Mit der Repairfunktion werden dann alle Reports innerhalb des Klienten gelöscht. Danach können alle funktionieren Reports wieder auf den Klienten überspielt werden.
 
-<span id="repair-uberweisungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Repair Überweisungen
 
 Vom Programm werden beim Ausdruck von Überweisungen oder beim Durchführen von Elektronic Banking für die Abrechnungen der Dienstnehmer und für die Exekutionsbeträge Sperrvermerke gesetzt. Der Sperrvermerk soll verhindern, dass doppelt überwiesen wird.
@@ -61,7 +56,6 @@ In diesen Programmteilen besteht die Möglichkeit, entweder für einzelne Dienst
 Das Repair der Überweisungen kann auch für mehrere Klienten gleichzeitig (klientenübergreifend) im Programmteil *Klient / Repair / Überweisungen / Überweisungen / Überweisung Abrechnungen zurücksetzen* durchgeführt werden.
 
 :::
-<span id="repair-uberprufung-wf-zuschlag-wien-2026" class="legacy-anchor" aria-hidden="true"></span>
 ## Repair Überprüfung WF-Zuschlag Wien 2026
 
 Das Repair dient zur Unterstützung bei der Korrektur des WF-Zuschlag Wien. Dieses Repair zeigt an, bei welchen Dienstnehmer und in welchen Monaten der WF-Zuschlag Wien aufgrund eines Fehlers in Version 2.26.5.0 nicht abgerechnet wurde. Dadurch ist rasch ersichtlich, welche Fälle aufgerollt oder korrigiert werden müssen. Das Repair ist unter *Bearbeiten / Repair / Überprüfung WF-Zuschlag Wien 2026* verfügbar.

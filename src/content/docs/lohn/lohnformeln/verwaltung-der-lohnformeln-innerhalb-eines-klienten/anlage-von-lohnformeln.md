@@ -3,7 +3,6 @@ title: Anlage von Lohnformeln
 program: LOHN
 ---
 
-<span id="anlage-von-lohnformeln" class="legacy-anchor" aria-hidden="true"></span>
 
 Anschließend kann im Programmteil *Stamm / Lohn-Formeln* mit der Anlage der Lohnformeln begonnen werden.
 
@@ -23,7 +22,6 @@ Bei allen bereits vorhandenen Lohnformeln wurde als Gültig-ab-Zeitraum der 01.2
 
 ![Image](<img/image375.png>)
 
-<span id="veranderung-einer-lohnformel-ab-einem-gewissen-zeitpunkt" class="legacy-anchor" aria-hidden="true"></span>
 ## Veränderung einer Lohnformel ab einem gewissen Zeitpunkt
 
 Kommt es zu einer Veränderung einer Lohnformel ab einem bestimmten Monat und Jahr, muss nicht wie ursprünglich eine neue Lohnformel und Lohnformel-Nummer vergeben werden. Es gibt die Möglichkeit, durch das Anklicken von *Neue Version*, die Lohnformel ab einem bestimmten Zeitpunkt zu ändern:
@@ -70,7 +68,6 @@ Zunächst ist der gewünschte Parameter mittels Doppelklick zu aktivieren (hier:
 
 Im nächsten Schritt wird festgelegt, mit welchen Werten (fixe oder freie Lohnarten sowie Bemessungen) gerechnet werden soll.
 
-<span id="aufruf-lohnartenbemessungen-fixe-lohnarten" class="legacy-anchor" aria-hidden="true"></span>
 ## Aufruf Lohnarten/Bemessungen – Fixe Lohnarten
 
 ![Image](<img/image383.png>){width="400"}

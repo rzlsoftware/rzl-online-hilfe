@@ -3,7 +3,6 @@ title: Möglichkeiten zur Notenerstellung
 program: HONNext
 ---
 
-<span id="moglichkeiten-zur-notenerstellung" class="legacy-anchor" aria-hidden="true"></span>
 
 Wenn Sie nun die Klienten ausgewählt haben, für die Sie die Noten
 erstellen möchten (siehe [Notenvorschläge](/hon-next/notenerstellung/notenvorschlaege/)), dann können Sie

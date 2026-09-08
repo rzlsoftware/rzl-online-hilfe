@@ -3,7 +3,6 @@ title: Notenerstellung mit Pauschalzeilen
 program: HONNext
 ---
 
-<span id="notenerstellung-mit-pauschalzeilen" class="legacy-anchor" aria-hidden="true"></span>
 
 Über den Punkt *Honorarnoten / Notenerstellung* sollte zuerst ein Filter
 auf die zu verrechnende Verrechnungsgruppe und den Projektzeitraum

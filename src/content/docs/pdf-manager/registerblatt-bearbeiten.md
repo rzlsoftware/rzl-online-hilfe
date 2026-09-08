@@ -3,7 +3,6 @@ title: Registerblatt „Bearbeiten“
 program: PDFManager
 ---
 
-<span id="registerblatt-bearbeiten" class="legacy-anchor" aria-hidden="true"></span>
 
 Im folgenden Abschnitt werden die Symbole und Einstellungen des
 Registerblattes *Bearbeiten* erläutert.
@@ -13,7 +12,6 @@ Registerblattes *Bearbeiten* erläutert.
 
 ## Lesezeichen
 
-<span id="lesezeichen-einfugen-und-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Lesezeichen einfügen und löschen
 
 Zum schnelleren Auffinden von bestimmten Seiten können Sie mit der
@@ -36,7 +34,6 @@ Durch Doppelklick auf ein Lesezeichen können Sie für das Lesezeichen
 einen eigenen Namen vergeben.
 
 :::
-<span id="eine-ebene-hoher-oder-tiefer" class="legacy-anchor" aria-hidden="true"></span>
 ### Eine Ebene höher oder tiefer
 
 Hier können Sie für ein angeklicktes Lesezeichen mit den Schaltflächen
@@ -66,7 +63,6 @@ Lesezeichennummerierung wieder entfernen.
 Um ihr Dokument zu Unterteilen können Sie über die Schaltfläche
 *Abschnitt definieren* Abschnitte einfügen und bestimmen.
 
-<span id="einfugen" class="legacy-anchor" aria-hidden="true"></span>
 ## Einfügen
 
 ### Hintergrund 
@@ -182,7 +178,6 @@ Bezeichnungsschema, in dem Sie das Schema noch einmal ändern oder wieder
 entfernen können. Falls Sie es entfernen, werden die ursprünglichen
 Titel der Dokumente wiederhergestellt, falls möglich.
 
-<span id="seitennummerierung-einfugen" class="legacy-anchor" aria-hidden="true"></span>
 ### Seitennummerierung einfügen
 
 Über die Schaltfläche *Seitennummerierung* (Abb.4-1) können Sie die
@@ -203,7 +198,6 @@ neben dem Wort *Seitennummerierung*.
 
 ![](<img/image50.png>)
 
-<span id="wasserzeichen-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ### Wasserzeichen hinzufügen
 
 Um Ihr Dokument zu schützen, können Sie dieses mit einem *Wasserzeichen*
@@ -220,7 +214,6 @@ Wenn Sie das Wasserzeichen entfernen möchten, klicken Sie dazu einfach
 auf das *Papierkorb-Symbol* neben dem Wort *Wasserzeichen* (siehe
 Markierung im Bild oben).
 
-<span id="dokumentenschutz-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ### Dokumentenschutz hinzufügen
 
 Um Ihre Dokumente vor unberechtigten Zugriffen zu schützen, können Sie

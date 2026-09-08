@@ -3,7 +3,6 @@ title: Umstufung Kollektivvertrag Hotel- und Gastgewerbe ab 01.05.2025
 program: LOHN
 ---
 
-<span id="umstufung-kollektivvertrag-hotel-und-gastgewerbe-ab-01052025" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit 01.05.2025 kommt es zu einer Neugestaltung der Umstufung im Kollektivvertrag Hotel- und Gastgewerbe (Arbeiter und Angestellte). Um Ihnen die Umstufung zu erleichtern, wurde der Umstufungsdialog im Bereich Kollektivvertrag der Dienstnehmerabrechnung entsprechend erweitert.
 
@@ -25,7 +24,6 @@ Kann der Nachweis durch den/die Arbeiter/in erbracht werden, ist wie folgt vorzu
     - Dienstjahre beim selben Arbeitgeber sind im Rahmen der Lohn- und Gehaltserhöhung gemäß Punkt XVI des Kollektivvertrags vollständig zu berücksichtigen.
     - Extern erworbene Branchenerfahrung wird nicht als Dienstzeit im Betrieb angerechnet.
 
-<span id="beispiel-fur-die-umstufung-von-lohngruppe-5-in-lohngruppe-4" class="legacy-anchor" aria-hidden="true"></span>
 ### Beispiel für die Umstufung von Lohngruppe 5 in Lohngruppe 4
 
 **Ausgangsdaten April 2025**
@@ -110,7 +108,6 @@ Der Ablauf entspricht dem der Umstufung von Lohngruppe 5.
 
 ![Image](img/image493.png){width="500"}
 
-<span id="beispiel-umstufung-lohngruppe-3-alt-in-lohngruppe-3-ubergangsregelung" class="legacy-anchor" aria-hidden="true"></span>
 ## Beispiel Umstufung Lohngruppe 3 alt in Lohngruppe 3 Übergangsregelung
 
 Für die Umstufung von Lohngruppe X alt in Lohngruppe X **Übergangsregelung** (für Arbeitnehmer mit mindestens 20 Jahren Dienstzeit zum 30.04.2025) kann derzeit kein automatisierter Vorschlag im Umstufungsdialog bereitgestellt werden. Die Anpassung muss **manuell** erfolgen.

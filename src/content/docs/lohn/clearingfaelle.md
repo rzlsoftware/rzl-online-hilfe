@@ -3,7 +3,6 @@ title: SV-Clearing Rückfragen verstehen und Fehler beheben
 program: LOHN
 ---
 
-<span id="sv-clearing-ruckfragen-verstehen-und-fehler-beheben" class="legacy-anchor" aria-hidden="true"></span>
 
 Die nachfolgende Übersicht basiert auf dem von der Österreichischen Gesundheitskasse (ÖGK) zur Verfügung gestellten Informationsblatt SV-Clearing – Rückfragen verstehen und Fehler beheben (Stand: 28.04.2026) und listet sämtliche Clearing-Codes mit Erklärung und Lösungsmöglichkeiten auf.
 

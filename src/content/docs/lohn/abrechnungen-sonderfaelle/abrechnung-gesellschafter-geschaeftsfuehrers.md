@@ -3,7 +3,6 @@ title: Abrechnung eines Gesellschafter-Geschäftsführers
 program: LOHN
 ---
 
-<span id="abrechnung-eines-gesellschafter-geschaftsfuhrers" class="legacy-anchor" aria-hidden="true"></span>
 
 Ein Gesellschafter-Geschäftsführer zahlt in der Regel keine Sozialversicherung an die ÖGK, sondern an die SVS (Sozialversicherung der Selbständigen). Ebenso zahlt er keine Lohnsteuer, sondern unterliegt der Einkommenssteuerpflicht. Trotzdem müssen für den Geschäftsführer die Lohnnebenkosten, wie DB, DZ und Kommunalsteuer abgeführt werden. Daher ist der Geschäftsführer auch in der Lohnverrechnung.
 

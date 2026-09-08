@@ -3,13 +3,11 @@ title: Allgemeines
 program: Board
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
 Im RZL BOARD finden Sie die Stammdatenverwaltung, die Belegverarbeitung, den Menüpunkt Portale (Finanz-
 Online Übermittlungen, WiEReG), Funktionen des Kanzleiinformationssystems (Serienversand) und den RZL
 PDF-Manager Premium.
 
-<span id="oberflache" class="legacy-anchor" aria-hidden="true"></span>
 ## Oberfläche
 
 ![](<img/image2.png>)
@@ -94,7 +92,6 @@ Im rechten oberen Bereich finden Sie den Menüpunkt Einstellungen.
 
 ![](<img/Einstellungen%20Notification%20Center.png>)
 
-<span id="auf-standardlayout-zurucksetzen" class="legacy-anchor" aria-hidden="true"></span>
 ### Auf Standardlayout zurücksetzen
 
 Über diese Funktion werden alle Ansichten auf das Standardlayout von RZL
@@ -132,7 +129,6 @@ Im rechten oberen Bereich finden Sie den Menüpunkt Hilfe.
 
 ![](<img/image8.png>)
 
-<span id="handbucher" class="legacy-anchor" aria-hidden="true"></span>
 ### Handbücher
 
 Sie können sich hier unter anderem das Board Handbuch aufrufen.
@@ -172,7 +168,6 @@ TeamViewer starten.
 Über diesen Menüpunkt können Sie – nach vorheriger Absprache – an einem
 vom RZL Support initiierten TeamViewer-Meeting teilnehmen.
 
-<span id="rzl-software-youtube-channel" class="legacy-anchor" aria-hidden="true"></span>
 ### RZL Software – YouTube Channel
 
 Sie werden auf unseren YouTube Channel weitergeleitet.

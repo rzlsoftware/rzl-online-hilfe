@@ -3,7 +3,6 @@ title: Dokumente bereitstellen
 program: Klientenportal
 ---
 
-<span id="dokumente-bereitstellen" class="legacy-anchor" aria-hidden="true"></span>
 
 Das RZL Basismodul inkludiert einen sicheren und schnellen Austausch von Dokumenten und Nachrichten zwischen Wirtschaftstreuhänder, Klienten und Dienstnehmern.
 

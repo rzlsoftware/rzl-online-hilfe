@@ -3,7 +3,6 @@ title: Urlaub
 program: LOHN
 ---
 
-<span id="urlaub" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image126.png>)
 

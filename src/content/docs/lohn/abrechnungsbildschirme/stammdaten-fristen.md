@@ -3,7 +3,6 @@ title: Stammdaten Fristen
 program: LOHN
 ---
 
-<span id="stammdaten-fristen" class="legacy-anchor" aria-hidden="true"></span>
 
 In diesem Bildschirm können Anmerkungen mit Fristen hinterlegt und Abrechnungstexte eingetragen werden sowie weitere Stammdaten wie *Rundung*, *Aliquotierung*, *Arbeitsbewilligung* und die Zuordnung zum *Buchungskreis*. In diesen Bildschirmen können auch die beiden Übertrittsvarianten für den Umstieg von Abfertigung alt auf Abfertigung neu (Voll- und Teilübertritt) abgerechnet werden.
 
@@ -27,7 +26,6 @@ Diese Eingabe ist maßgeblich für den Buchungsbeleg. Eingaben von Kreis 0 bis *
 
 Vgl. [Auswahlkriterien](/lohn/auswahlkriterien/)
 
-<span id="keine-auszahlung-zahltag-abrechnung" class="legacy-anchor" aria-hidden="true"></span>
 ## Keine Auszahlung – Zahltag Abrechnung
 
 Grundsätzlich werden für den Andruck des monatlichen Zahltages am Jahreslohnkonto des Dienstnehmers die Eintragungen im Registerblatt *Bank, Überweisung* der Klienstenstammdaten herangezogen. Hier können abweichende Eintragungen vorgenommen werden.
@@ -44,7 +42,6 @@ Vgl. [Lohnformelzuordnung](/lohn/lohnformeln/verwaltung-der-lohnformeln-innerhal
 
 Falls für ausländische Dienstnehmer eine Arbeitsbewilligung notwendig ist, kann hier das Ende der Arbeitsbewilligung eingegeben werden. Ein Ablauf der Arbeitsbewilligung wird in der Liste der Dienstnehmer durch ein **!** (Rufzeichen) angezeigt. Weiters wird das Ablaufen der Arbeitsbewilligung in der Dienstnehmerliste mit Fristen vermerkt.
 
-<span id="begunstigte-behinderte-gem-2-1-beinstg" class="legacy-anchor" aria-hidden="true"></span>
 ## Begünstigte Behinderte gem. § 2 (1) BEinstG
 
 Wird dieses Auswahlfeld aktiviert, dann wird der Dienstnehmer für den jeweils abgerechneten Monat am Betriebsjahreslohnkonto als *begünstigter Behinderter* geführt.

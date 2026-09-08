@@ -3,7 +3,6 @@ title: Umstieg von FIBU Klassik
 program: FIBUNext
 ---
 
-<span id="umstieg-von-fibu-klassik" class="legacy-anchor" aria-hidden="true"></span>
 
 
 In folgender Kurzanleitung möchten wir Ihnen Schritt für Schritt die
@@ -18,7 +17,6 @@ benötigt werden, die es in der FIBU Next noch nicht gibt, sollten noch
 nicht umgestellt werden.
 
 :::
-<span id="ubergabe-des-klienten" class="legacy-anchor" aria-hidden="true"></span>
 ## Übergabe des Klienten
 
 Als ersten Schritt müssen die Stammdaten des Klienten im RZL Board
@@ -171,7 +169,6 @@ Dabei ist es im Gegensatz zur FIBU Klassik nicht mehr notwendig, dass
 bei der ersten Buchung im Buchungsdialog ein ***+*** hinter der
 Belegnummer eingegeben wird.
 
-<span id="jahresubernahme-eb-aktualisierung" class="legacy-anchor" aria-hidden="true"></span>
 ### Jahresübernahme / EB Aktualisierung
 
 Eine Jahresübernahme in ein neues Wirtschaftsjahr erfolgt für FIBU Next

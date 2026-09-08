@@ -3,11 +3,9 @@ title: Austritt
 program: LOHN
 ---
 
-<span id="austritt" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image73.png>)
 
-<span id="austritt_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Austritt
 
 **Austrittsdatum**
@@ -48,7 +46,6 @@ Seit 2020 gibt es das *Kontrollsechstel*. Das [Kontrollsechstel](/lohn/abrechnun
 
 Das *erhöhte Jahres-/ Kontrollsechstel* findet nur bei der Kurzarbeit Anwendung. Fällt ein Dienstnehmer durch die Kurzarbeit unter seinen normalen Verdienst, wird in diesem Monat das erhöhte Jahres-/ Kontrollsechstel automatisch aktiviert. Das erhöhte Jahressechstel wird nur in Verbindung mit dem Kurzarbeit-Bildschirm angezeigt.
 
-<span id="ubermittlung-an-ogk-elda" class="legacy-anchor" aria-hidden="true"></span>
 ## Übermittlung an ÖGK (ELDA)
 
 In diesem Bereich wird angezeigt, welche Daten an die ÖGK im Zuge einer Abmeldung übermittelt werden.
@@ -57,7 +54,6 @@ In diesem Bereich wird angezeigt, welche Daten an die ÖGK im Zuge einer Abmeldu
 
 Bei manchen Austrittsgründen (z. B. Karenzurlaub, Bildungskarenz) muss aus technischen Gründen das Austrittsdatum eingetragen werden, eine Übermittlung findet aber nicht statt (siehe Beispiel oben).
 
-<span id="mutterschutz-karenzurlaub" class="legacy-anchor" aria-hidden="true"></span>
 ## Mutterschutz / Karenzurlaub
 
 Vgl. [Abrechnung Mutterschutz/Karenzurlaub](/lohn/abrechnungen-sonderfaelle/abrechnung-mutterschutz-und-karenzurlaub/)
@@ -78,12 +74,10 @@ Wird hier das *Beginndatum* eingetragen, befüllt sich automatisch *das Bis-Datu
 
 ![Image](<img/image77.png>){width="500"}
 
-<span id="mutterschutzmeldung-gema-3-abs-6-mschg" class="legacy-anchor" aria-hidden="true"></span>
 ## Mutterschutzmeldung gemäß § 3 Abs 6 MSchG
 
 Durch Auswahl des zuständigen *Arbeitsinspektorats* und durch Eingabe des *Arbeitsplatzes / der Tätigkeit* kann im Anschluss an die Abrechnung eine [Mutterschutzmeldung](/lohn/ausdrucke-allgemein/ausdruck-sonderdrucke/) erstellt und ausgedruckt werden.
 
-<span id="truppenubung" class="legacy-anchor" aria-hidden="true"></span>
 ## Truppenübung
 
 ![Image](<img/image78.png>){width="500"}
@@ -108,7 +102,6 @@ Wird nur der Austritt eingetragen, jedoch nicht das Beginn- und Enddatum der Tru
 Würden Sie das Beginn- und Enddatum nicht eintragen, würde keine BV-Bemessung abgerechnet werden.
 
 :::
-<span id="bv-beitragspflicht" class="legacy-anchor" aria-hidden="true"></span>
 ## BV – Beitragspflicht
 
 Grundsätzlich wird das *Ende der Beitragspflicht* vom Programm vorgeschlagen. In Ausnahmefällen kann hier ein vom Austrittsdatum abweichendes Ende der BV-Beitragspflicht eingetragen werden.
@@ -119,7 +112,6 @@ Bis 2018 (vor mBGM) musste bei der Abmeldung das zuletzt bezogene Entgelt angef�
 
 ![Image](<img/image82.png>)
 
-<span id="kundigungsentschadigung" class="legacy-anchor" aria-hidden="true"></span>
 ## Kündigungsentschädigung
 
 Ist eine Kündigungsentschädigung abzurechnen, so ist das Optionsfeld *gezahlt* anzuwählen. Es kann dann der Zeitraum, sowie der Betrag der Kündigungsentschädigung eingegeben werden. Durch die Kündigungsentschädigung verlängert sich die SV-Pflicht. Diese Verlängerung der SV-Pflicht wird vom Programm automatisch vorgenommen, auch wenn damit das Ende des Entgeltsanspruches erst in einem späteren Monat oder auch erst im darauffolgenden Jahr endet. Die in späteren Monaten zu entrichtenden Beiträgen werden vom Programm evident gehalten und in die monatliche Beitragsgrundlagenmeldung der jeweiligen Monate übernommen.
@@ -166,12 +158,10 @@ Wird eine Ersatzleistung abgerechnet, so ist lohnsteuerrechtlich ein monatlicher
 :::
 Wenn während einer Ersatzleistung die SV-Gruppe gewechselt werden muss, kann im Bereich *SV-Wechsel während der UE* die neue Gruppe angewählt werden. Im Feld *SV-Gruppe ab* tragen Sie den Beginn der neuen SV-Gruppe ein.
 
-<span id="unterbrechung-der-beschaftigung" class="legacy-anchor" aria-hidden="true"></span>
 ## Unterbrechung der Beschäftigung
 
 Wurde die Beschäftigung unterbrochen, so ist dieses Auswahlfeld zu aktivieren. Der Zeitraum der Unterbrechung der Beschäftigung wird auf der Arbeitsbescheinigung angedruckt.
 
-<span id="teilzeitbeschaftigung" class="legacy-anchor" aria-hidden="true"></span>
 ## Teilzeitbeschäftigung
 
 Die hier vorgenommenen Eintragungen werden auf der Arbeitsbescheinigung angedruckt.
@@ -184,12 +174,10 @@ Nach dem Abspeichern der Daten erfolgt die Abfrage vom Programm, ob die jeweilig
 
 Die Meldungen können nachträglich auch im Programmteil *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* erstellt werden.
 
-<span id="sonderfalle-abmeldung-krankenstand-richtigstellung-karenz" class="legacy-anchor" aria-hidden="true"></span>
 ## Sonderfälle Abmeldung (Krankenstand / Richtigstellung Karenz)
 
 Wenn es zu einer [Kündigung während des Krankenstandes](/lohn/abrechnungen-sonderfaelle/beendigung-von-dienstverhaeltnissen-im-krankenstand/) kommt, muss das Entgelt bis zum Ende des Krankenentgeltanspruches ausbezahlt werden. Da dies oft über Monate geht, haben Sie hier die Möglichkeit, schon vorab eine Abmeldung zu erzeugen. Durch Eingabe der Austrittsdaten in diesem Bereich kann eine Abmeldung erstellt werden und weiterhin ganz normal abgerechnet werden. Erst im Monat des Ende Entgeltsanspruches tragen Sie im oberen Bereich des Austrittes die Austrittsdaten ein.
 
-<span id="sonderfalle-bei-austritt-prasenzdiensttruppenubung" class="legacy-anchor" aria-hidden="true"></span>
 ## Sonderfälle bei Austritt – Präsenzdienst/Truppenübung
 
 **Präsenzdienst, Zivildienst**

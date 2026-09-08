@@ -3,7 +3,6 @@ title: SQL-Server Berechtigungskonzept
 program: technik
 ---
 
-<span id="sql-server-berechtigungskonzept" class="legacy-anchor" aria-hidden="true"></span>
 
 In dieser Dokumentation werden die Benutzer und Rollen beschrieben, die bei der Installation der RZL Programme auf dem SQL-Server angelegt werden. Diese Einrichtung ist notwendig, um einen reibungslosen Zugriff der Programme auf die Datenbank zu gewährleisten.
 

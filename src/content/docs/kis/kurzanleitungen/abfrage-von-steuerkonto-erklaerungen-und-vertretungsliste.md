@@ -16,7 +16,6 @@ Folgendes ist also für eine funktionierende Abfrage notwendig:
 * Eintragen der Zugangsdaten und Setzen der Option Aktiv im KIS (Verwaltung / FinanzOnline/USP-Zugänge)
 * Setzen der Option Abfrage durchführen in den Klientenstammdaten unter Finanzämter im RZL Board
 
-<span id="was-sind-die-grunde-fur-eine-nicht-funktionierende-abfrage" class="legacy-anchor" aria-hidden="true"></span>
 ### **Was sind die Gründe für eine nicht funktionierende Abfrage?**
 
 1.	Die laut obere Auflistung notwendigen Einstellungen wurden nicht getroffen.
@@ -24,7 +23,6 @@ Folgendes ist also für eine funktionierende Abfrage notwendig:
 3.	Die Zugangsdaten sind nicht aktuell oder der Zugang wurde gesperrt
 4.	Die Option Persönliche DataBox abrufen bei den Mitarbeiter-Zugängen im KIS ist nicht aktiv
 
-<span id="ursachenauswirkungen-und-losungen-fur-eine-nicht-funktionierende-abfrage" class="legacy-anchor" aria-hidden="true"></span>
 ### **Ursachen/Auswirkungen und Lösungen für eine nicht funktionierende Abfrage**
 
 **Zu Punkt 2:** Ist der Benutzer für die Steuerkonto-Abfrage nicht dem Team zugeordnet, wird die Option Abfrage durchführen für jene Klienten, die dem entsprechenden Teilnehmer zugeordnet sind deaktiviert. Die Zuordnung des Benutzers zum Teilnehmer führen Sie im FinanzOnline in der Teamverwaltung durch. Aktivieren Sie nun für all die betroffenen Klienten wieder die Abfrage durchführen Option. Öffnen Sie das KIS unter Kanz-lei/FinanzOnline/Steuerkonten und führen Sie die Aktivierung der Option über FinanzOnline-Abruf konfigurieren durch Auswählen der Klienten durch.

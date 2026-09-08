@@ -3,9 +3,7 @@ title: Buchen von Exporten
 program: FIBUNext
 ---
 
-<span id="buchen-von-exporten" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="buchen-von-exporten_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Buchen von Exporten
 
 

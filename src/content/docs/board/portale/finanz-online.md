@@ -3,7 +3,6 @@ title: FinanzOnline
 program: Board
 ---
 
-<span id="finanzonline" class="legacy-anchor" aria-hidden="true"></span>
 
 Im RZL BOARD ist es möglich aus der RZL FIBU/EA, aus dem RZL
 Steuerklärungsprogramm bzw. aus dem RZL Bilanzprogramm erstellte
@@ -28,7 +27,6 @@ durchzuführen:
 
 2.  Senden der Meldung über FinanzOnline direkt aus dem RZL BOARD.
 
-<span id="erstellen-einer-finanzonline-ubermittlung-aus-der-rzl-fibuea-bzw-rzl-erklbil" class="legacy-anchor" aria-hidden="true"></span>
 ## Erstellen einer FinanzOnline Übermittlung aus der RZL FIBU/EA bzw. RZL ERKL/BIL
 
 Sie können aus der RZL-FIBU/EA über Bearbeiten / RZL BOARD -
@@ -88,7 +86,6 @@ RZL Board durchführen **(1)**.
 Anschließend müssen Sie die Option *Übergabe des ERV-JAb/E-Bilanz an das
 RZL Board* **(1)** auswählen um an das RZL Board zu übergeben.
 
-<span id="finanzonline-ubermittlungen-im-rzl-board" class="legacy-anchor" aria-hidden="true"></span>
 ## FinanzOnline Übermittlungen im RZL Board
 
 ![](<img/image161.png>) 
@@ -254,7 +251,6 @@ Es ist hier die FinanzOnline Teilnehmer ID einzutragen. Falls Sie
 mehrere Teilnehmer IDs verwenden, ist hier der Haupt-Zugang als
 Standard-Teilnehmer zu vermerken.
 
-<span id="zugange" class="legacy-anchor" aria-hidden="true"></span>
 ## Zugänge
 
 Sie wählen hier die im vorigen Schritt eingetragene Teilnehmer ID an und

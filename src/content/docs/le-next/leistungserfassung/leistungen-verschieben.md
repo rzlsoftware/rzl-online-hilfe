@@ -3,7 +3,6 @@ title: Leistungen auf einen anderen Tag kopieren/verschieben
 program: LENext
 ---
 
-<span id="leistungen-auf-einen-anderen-tag-kopierenverschieben" class="legacy-anchor" aria-hidden="true"></span>
 
 Sollen erfasste Leistungen auf einen anderen Tag verschoben oder kopiert werden, so können diese durch das
 Icon *Leistung übertragen* oder mittels Kontextmenü übertragen werden.

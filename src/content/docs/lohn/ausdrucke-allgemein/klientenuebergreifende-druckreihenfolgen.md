@@ -3,7 +3,6 @@ title: Klientenübergreifende Druckreihenfolgen
 program: LOHN
 ---
 
-<span id="klientenubergreifende-druckreihenfolgen" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Programmteil *Klient / Drucken / Druckreihenfolge* besteht die Möglichkeit, Druckreihenfolgen für mehrere oder alle Klienten gemeinsam zu erstellen bzw. zu verwenden.
 

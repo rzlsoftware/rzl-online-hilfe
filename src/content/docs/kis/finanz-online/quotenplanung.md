@@ -3,7 +3,6 @@ title: Quotenplanung
 program: KIS
 ---
 
-<span id="erklarungen-als-abgabefertig-markieren" class="legacy-anchor" aria-hidden="true"></span>
 ## Erklärungen als „abgabefertig“ markieren
 
 Um die Erklärungen als abgabefertig zu markieren, wechseln Sie im RZL
@@ -58,7 +57,6 @@ Infokasten *Protokoll anzeigen* beim einzelnen Quotenfall einsehbar.
 
 ![Protokoll Quotenfall I](<img/image175.png>) ![Protokoll Quotenfall II](<img/image176.png>)
 
-<span id="aufgaben-fur-geplante-quotenfalle-generieren" class="legacy-anchor" aria-hidden="true"></span>
 ### Aufgaben für geplante Quotenfälle generieren
 
 Um eine Aufgabe für einen geplanten Quotenfall zu generieren, wählen Sie

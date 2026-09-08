@@ -20,7 +20,6 @@ rechten unteren Bereich wird – wenn vorhanden – eine Aufgabe mit dem
 jeweiligen Status angezeigt und diese kann durch einen Doppelklick mit
 der Maus aufgerufen werden.
 
-<span id="bescheidvorprufung" class="legacy-anchor" aria-hidden="true"></span>
 ## Bescheidvorprüfung
 
 Für die Bescheidvorprüfung muss innerhalb von FinanzOnline bei Ihrem
@@ -65,7 +64,6 @@ In der Aufgabenbeschreibung ist vermerkt (mit der Benutzerkennzeichnung
 oder nicht. Das Feld Beschreibungen kann in der Aufgabenliste durch
 Anwahl der rechten Maustaste eingeblendet werden.
 
-<span id="databoxliste-sonderfunktionen" class="legacy-anchor" aria-hidden="true"></span>
 ## Databoxliste – Sonderfunktionen
 
 Wenn Sie innerhalb der Liste einen oder mehrere Einträge markieren und
@@ -85,7 +83,6 @@ Zusätzlich können Sie die gesamte Tabelle bzw. ausgewählte Zeilen in die
 Zwischenablage kopieren und sich die Databoxliste im RZL PDF Drucker
 bzw. dem RZL PDF-Manager Premium anzeigen lassen.
 
-<span id="versenden-von-databoxeingangen-mit-hilfe-des-rzl-pdf-druckers-bzw-rzl-pdf-manager-premium" class="legacy-anchor" aria-hidden="true"></span>
 ## Versenden von Databoxeingängen mit Hilfe des RZL PDF-Druckers bzw. RZL PDF-Manager Premium 
 
 ![Versenden von Databox-Eingängen](<img/image146.png>)

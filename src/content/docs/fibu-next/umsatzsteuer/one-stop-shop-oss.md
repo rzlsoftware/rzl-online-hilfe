@@ -3,7 +3,6 @@ title: One-Stop-Shop (OSS)
 program: FIBUNext
 ---
 
-<span id="one-stop-shop-oss" class="legacy-anchor" aria-hidden="true"></span>
 Der One-Stop-Shop (OSS) für die Umsatzsteuer ist ein EU-weites Verfahren, das Unternehmen ermöglicht, ihre Umsatzsteuerpflichtigkeiten für grenzüberschreitende Verkäufe an Endverbraucher zentral in einem einzigen EU-Mitgliedsstaat zu erfüllen. Dadurch müssen sie nicht mehr in jedem einzelnen Bestimmungsland steuerlich registrieren. Der OSS vereinfacht die Deklaration und Zahlung der Umsatzsteuer und fördert den inneneuropäischen Online-Handel.
 
 
@@ -55,7 +54,6 @@ Ist *OSS-Dienstleistungen* aktiviert, muss die gewählte Betriebsstätte eine UI
 
 
 :::
-<span id="buchen-von-oss-umsatzen" class="legacy-anchor" aria-hidden="true"></span>
 ## Buchen von OSS-Umsätzen
 Bei Buchungen auf ein Konto mit EU-OSS-Hinterlegung werden die Daten automatisch für die spätere OSS-Meldung gespeichert.
 Bei Splitbuchungen fließen nur die jeweils relevanten Gegenbuchungen auf Konten mit OSS-Hinterlegung ein.
@@ -64,7 +62,6 @@ Bei Splitbuchungen fließen nur die jeweils relevanten Gegenbuchungen auf Konten
 
 - Ein abweichender USt-Monat bestimmt den Monat der OSS-Meldung
 
-<span id="elektronische-ubermittlung-erstellen" class="legacy-anchor" aria-hidden="true"></span>
 ## Elektronische Übermittlung erstellen
 Die Übermittlung der EU-OSS Meldung erfolgt über die Website von **Finanzonline** mittels Dateiupload.
 Unter **Portale / OSS** befindet sich der Einstiegspunkt zur Meldungserstellung. Über den Button **EU-OSS erstellen** wird ein Dialog zur Generierung der XML-Datei geöffnet.

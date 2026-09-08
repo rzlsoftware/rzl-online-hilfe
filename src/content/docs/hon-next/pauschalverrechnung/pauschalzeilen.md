@@ -3,7 +3,6 @@ title: Pauschalzeilen
 program: HONNext
 ---
 
-<span id="pauschalzeilen" class="legacy-anchor" aria-hidden="true"></span>
 
 Über den Button *Pauschalzeilen* erhalten Sie eine Übersicht aller
 manuell und automatisch generierten Pauschalzeilen.
@@ -46,7 +45,6 @@ ein Klient grundsätzlich pauschal abgerechnet, sollte dies über
 wiederkehrende Pauschalzeilen gelöst werden.
 
 :::
-<span id="pauschalzeile-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ## Pauschalzeile löschen
 
 Sollte ein Klient nicht mehr pauschal abgerechnet werden oder wurde eine

@@ -3,7 +3,6 @@ title: Sicherung
 program: rzladmin
 ---
 
-<span id="sicherung" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Manuelle Sicherung der RZL-Datenbank
 In dieser Rubrik können Sie eine RZL-Datenbanksicherung erstellen und bei
@@ -34,7 +33,6 @@ Unter dem Punkt **Erweiterte Einstellungen** können Sie zudem folgende Optionen
  * **Sicherung ohne Dokumente**  
  Bei dieser Option wird eine Sicherung der Datenbank ohne Dokumente erstellt.
 
-<span id="automatische-sicherung-der-rzl-datenbank-uber-rzl-dienst" class="legacy-anchor" aria-hidden="true"></span>
 ## Automatische Sicherung der RZL-Datenbank über RZL-Dienst
 Unter dem Punkt **Automatische Sicherung über RZL Dienst** können Sicherungen automatisiert erstellt werden.
 

@@ -3,7 +3,6 @@ title: Ganztägiger Zeitausgleich
 program: LENext
 ---
 
-<span id="ganztagiger-zeitausgleich" class="legacy-anchor" aria-hidden="true"></span>
 
 Wird ein ganzer Tag Zeitausgleich konsumiert, so muss dies durch
 Setzen des Hakens *Ganztägiger Zeitausgleich* beim jeweiligen Tag

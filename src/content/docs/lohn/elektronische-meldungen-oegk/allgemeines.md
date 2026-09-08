@@ -3,7 +3,6 @@ title: Allgemeines
 program: LOHN
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Datenübermittlung an die Österreichische Gesundheitskasse erfolgt in zwei Schritten:
 

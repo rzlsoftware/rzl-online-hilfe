@@ -3,9 +3,7 @@ title: Eröffnungsbilanz
 program: FIBUNext
 ---
 
-<span id="eroffnungsbilanz" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="eroffnungsbilanz_1" class="legacy-anchor" aria-hidden="true"></span>
 ### ERÖFFNUNGSBILANZ
 
 
@@ -20,7 +18,6 @@ Sie können diese Option aber auch für einzelne Konten in der FIBU unter *Stamm
 
 
 
-<span id="eb-buchung-bei-jahresubernahme" class="legacy-anchor" aria-hidden="true"></span>
 ### EB-Buchung bei Jahresübernahme
 
 

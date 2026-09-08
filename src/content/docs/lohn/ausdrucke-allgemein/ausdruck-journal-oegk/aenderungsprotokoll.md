@@ -3,7 +3,6 @@ title: Änderungsprotokoll
 program: LOHN
 ---
 
-<span id="anderungsprotokoll" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](img/image232.png){width="500"}
 

@@ -3,7 +3,6 @@ title: Tabellenzeile
 program: Reporting
 ---
 
-<span id="tabellenzeile" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit diesem Menüpunkt kann jede Zeile einer Tabelle bearbeitet werden.
 
@@ -13,7 +12,6 @@ Mit diesem Menüpunkt kann jede Zeile einer Tabelle bearbeitet werden.
 
 Wählen Sie hier den Zeilentyp aus: *Standardzeile*, *Kopfzeile* oder *Fußzeile*.
 
-<span id="zeilenhohe" class="legacy-anchor" aria-hidden="true"></span>
 ## Zeilenhöhe
 
 Definieren Sie hier die Zeilenhöhe.
@@ -28,7 +26,6 @@ Wählen Sie eine Hintergrundfarbe aus.
 
 Sie haben auch die Möglichkeit, den Zeilen über eine Formel eine alternierende Farbe zu zuordnen.
 
-<span id="nachste-zeile" class="legacy-anchor" aria-hidden="true"></span>
 ## Nächste Zeile
 
 Hier können Sie auswählen, ob das *Standardverhalten* einer Tabellenzeile angewendet, die *Zeile zusammengehalten* oder auf einer *neuen Seite* dargestellt werden soll.

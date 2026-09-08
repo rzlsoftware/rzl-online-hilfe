@@ -3,9 +3,7 @@ title: Einrichtung der OP-Verwaltung
 program: FIBUNext
 ---
 
-<span id="einrichtung-der-op-verwaltung" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="einrichtung-der-op-verwaltung_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Einrichtung der OP-Verwaltung
 
 Wenn Sie mit der Offenen Postenverwaltung auf **Personenkonten** arbeiten möchten, können Sie diese im Modul *STAMM* unter *FIBU / Allgemein* im Bereich *Einstellungen* aktivieren.

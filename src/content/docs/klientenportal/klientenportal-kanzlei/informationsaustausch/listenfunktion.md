@@ -3,7 +3,6 @@ title: Allgemeine Listenfunktion
 program: Klientenportal
 ---
 
-<span id="allgemeine-listenfunktion" class="legacy-anchor" aria-hidden="true"></span>
 
 Am Beginn dieses Kapitels 3 *Informationsaustausch* werden die allgemeinen Listenfunktionen anhand des Programmteils *Informationsaustausch / Dokumentenlisten / An Klienten übermittelte Dokumente* erläutert. Diese Funktionen finden sich auch in den Listen des Programmteils *Belegbox*.
 

@@ -3,9 +3,7 @@ title: Sachkonten
 program: FIBUNext
 ---
 
-<span id="sachkonten" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="datenimport-sachkonten" class="legacy-anchor" aria-hidden="true"></span>
 ### Datenimport - Sachkonten
 
 

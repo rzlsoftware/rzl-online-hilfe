@@ -3,7 +3,6 @@ title: Fixe Lohnarten
 program: LOHN
 ---
 
-<span id="fixe-lohnarten" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image145.png>)
 
@@ -11,7 +10,6 @@ program: LOHN
 
 Eingabe des abzurechnenden Honorars.
 
-<span id="diaten" class="legacy-anchor" aria-hidden="true"></span>
 ## Diäten
 
 **Diäten – Eingabe der Tage**
@@ -26,7 +24,6 @@ Werden Diäten stundenweise abgerechnet, so können hier die Anzahl der Stunden 
 
 Wird *Kilometergeld* abgerechnet, so kann hier die Anzahl der Kilometer und im nächsten Eingabefeld der Kilometersatz eingegeben werden. Das Programm ermittelt dann den Betrag automatisch. Wiederum kann der Betrag auch direkt eingetragen werden. Auch das Kilometergeld wird vom Programm SV-frei behandelt.
 
-<span id="bv-bemessung-fur-mutterschutz-und-krankheit" class="legacy-anchor" aria-hidden="true"></span>
 ## BV-Bemessung für Mutterschutz und Krankheit
 
 Seit 1.1.2008 gilt auch für die freien Dienstnehmer die Betriebliche Vorsorgekasse.

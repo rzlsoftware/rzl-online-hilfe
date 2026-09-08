@@ -3,7 +3,6 @@ title: Leistungen löschen
 program: LENext
 ---
 
-<span id="leistungen-loschen" class="legacy-anchor" aria-hidden="true"></span>
 
 Sollen erfasste Leistungen gelöscht werden, so können diese durch das
 Icon *Leistung löschen* **(1)** oder mittels Kontextmenü gelöscht werden.

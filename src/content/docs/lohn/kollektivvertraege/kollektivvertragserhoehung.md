@@ -3,7 +3,6 @@ title: Kollektivvertragserhöhung
 program: LOHN
 ---
 
-<span id="kollektivvertragserhohung" class="legacy-anchor" aria-hidden="true"></span>
 
 **Drei Varianten der Kollektivvertragserhöhung**
 
@@ -13,7 +12,6 @@ Die Kollektivverträge sehen drei verschiedene Varianten der Kollektivvertragser
 - Betragsmäßige Überzahlung beibehalten und falls zusätzlich vereinbart eine prozentuelle Überzahlung beibehalten
 - Ist-Lohn-Erhöhung
 
-<span id="variante-1-betragsmaige-uberzahlung-beibehalten" class="legacy-anchor" aria-hidden="true"></span>
 ## Variante 1: Betragsmäßige Überzahlung beibehalten
 
 Sieht der Kollektivvertrag vor, dass die Überzahlung erhalten bleiben muss, erfolgt in der Abrechnung nun der Hinweis: „Kollektivvertrag: Abw. Einstellung `Überzahlung beibehalten‘ aktivieren.“
@@ -42,7 +40,6 @@ Sie gelangen in die HG-Datenbank. Hier wird die kollektivvertragliche Erhöhung 
 Wird mehr als eine Lohnart mit der Lohnartendefinition „KV-Bezug“ abgerechnet, erscheint immer der KV-Erhöhung-Berechnungsdialog.
 
 :::
-<span id="variante-2-betragsmaige-uberzahlung-beibehalten-falls-zusatzlich-vereinbart-prozentuelle-uberzahlung-beibehalten" class="legacy-anchor" aria-hidden="true"></span>
 ## Variante 2: Betragsmäßige Überzahlung beibehalten, falls zusätzlich vereinbart prozentuelle Überzahlung beibehalten
 
 Sieht der Kollektivvertrag vor, dass die Überzahlung erhalten bleiben muss, erfolgt in der Abrechnung nun der Hinweis: „Kollektivvertrag: Abw. Einstellung `Überzahlung beibehalten‘ aktivieren.“
@@ -73,7 +70,6 @@ Sie gelangen in die HG-Datenbank. Hier wird die kollektivvertragliche Erhöhung 
 
 ![Image](img/image473.png){width="500"}
 
-<span id="variante-3-ist-lohn-erhohung" class="legacy-anchor" aria-hidden="true"></span>
 ## Variante 3: Ist-Lohn-Erhöhung
 
 Sieht der Kollektivvertrag eine Ist-Lohn-Erhöhung vor, erfolgt in der Abrechnung nun der Hinweis: „KV-Erhöhung: {Prozentsatz} %“.
@@ -148,7 +144,6 @@ In diesem Bereich werden die wichtigsten Informationen aus dem hinterlegten Koll
 
     Über diesen Menüpunkt gelangen Sie in die KV-Erhöhungsansicht der HGKV.
 
-<span id="verteilung-der-kv-bezuge" class="legacy-anchor" aria-hidden="true"></span>
 ### Verteilung der KV-Bezüge
 
 In diesem Bereich entscheiden Sie, wie die Lohn-Erhöhung zu erfolgen hat. Es erscheint mit einem gelben Kästchen ein Vorschlag:
@@ -177,7 +172,6 @@ Haben Sie manuell die KV-Erhöhung vorgenommen, erscheint weiterhin der Hinweis,
 
 ![Image](img/image484.png){width="400"}
 
-<span id="kv-erhohungsvarianten-ohne-vorschlagsmoglichkeit" class="legacy-anchor" aria-hidden="true"></span>
 ## KV-Erhöhungsvarianten ohne Vorschlagsmöglichkeit
 
 Es gibt natürlich auch KV-Erhöhungsvarianten, welche so komplex sind, dass wir keinen Vorschlag liefern können. Bei diesen Varianten erfolgt dieser Hinweis:

@@ -3,7 +3,6 @@ title: RZL Klientenportal
 program: LOHN
 ---
 
-<span id="rzl-klientenportal" class="legacy-anchor" aria-hidden="true"></span>
 
 RZL Software bietet die Möglichkeit, ein Internetmodul, das *RZL-Klientenportal* zu nutzen. Diese Schnittstelle zwischen Lohnverrechnungsprogramm und Klienten bietet die Möglichkeit, Daten der Lohnverrechnung, wie Anmeldungen, Abmeldungen, Bezüge, diverse Änderungen via Internet direkt in die Lohnverrechnung zu importieren.
 
@@ -55,12 +54,10 @@ Die Daten werden automatisch beim Öffnen und Schließen des Klienten im Hinterg
 Die Aktualisierung der Daten für das *RZL-Klientenportal* kann im Lohnverrechnungsprogramm direkt über den Programmteil *Bearbeiten / RZL–Klientenportal / Daten aktualisieren* vorgenommen werden.
 
 :::
-<span id="rzl-webdaten-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ## RZL WEBDaten löschen
 
 Wird der Programmteil *Bearbeiten / RZL-Klientenportal / WEBDaten löschen* angewählt, dann werden die Dienstnehmerdaten aus dem RZL-Klientenportal gelöscht.
 
-<span id="ausdrucke-uber-rzl-pdf-drucker-bereitstellen" class="legacy-anchor" aria-hidden="true"></span>
 ## Ausdrucke über RZL PDF-Drucker bereitstellen
 
 Innerhalb des RZL PDF-Druckers können ein oder mehrere Ausdrucke durch Anwahl des Programmteiles *Datei / Exportieren* bzw. *des Export-Symboles* klientenbezogen auf das RZL-Klientenportal hochgeladen werden.
@@ -71,7 +68,6 @@ Im Feld *Exportieren nach* muss der Eintrag *RZL-Klientenportal* angewählt werd
 
 Nach Anwahl der Schaltfläche *Exportieren* werden die Ausdrucke auf das *Klientenportal* hochgeladen.
 
-<span id="ausdrucke-uber-rzl-pdf-manager-bereitstellen" class="legacy-anchor" aria-hidden="true"></span>
 ## Ausdrucke über RZL PDF-Manager bereitstellen
 
 Auch mit dem *RZL PDF-Manager* können ein oder mehrere Ausdrucke durch Anwahl des *Klientenportals* hochgeladen werden.

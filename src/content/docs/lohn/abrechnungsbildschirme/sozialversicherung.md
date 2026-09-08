@@ -3,7 +3,6 @@ title: Sozialversicherung
 program: LOHN
 ---
 
-<span id="sozialversicherung" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image92.png>)
 
@@ -128,12 +127,10 @@ Die Meldung für die Schwerarbeit kann im Programmteil *Stamm / Schwerarbeitsmel
 
 Handelt es sich beim Auftragnehmer um einen umsatzsteuerpflichtigen Unternehmer, so ist dieses Auswahlfeld zu aktivieren. Im nächsten Eingabefeld ist dann der *USt-Prozentsatz* einzugeben. Die USt wird vom Programm automatisch berechnet und zum Entgelt hinzugezählt. Das Programm geht davon aus, dass es sich bei den abgerechneten Beträgen um Nettobeträge, das heißt ohne Umsatzsteuer, handelt. Sie haben auch die Möglichkeit, eine *abweichende UST-Basis* einzutragen.
 
-<span id="service-entgelt-e-card" class="legacy-anchor" aria-hidden="true"></span>
 ## Service – Entgelt (e-card)
 
 Mit der November-Abrechnung wird allen Dienstnehmern in einem aufrechten Dienstverhältnis das E-Card-Service-Entgelt (für das Folgejahr) automatisch abgezogen und über die monatliche Beitragsgrundlagenmeldung November in einer eigenen Verrechnungsgruppe an die ÖGK gemeldet und abgeführt. Liegt ausnahmsweise eine Befreiung vor, ist dieses Feld zu aktivieren.
 
-<span id="fallweise-beschaftigte-dienstnehmer" class="legacy-anchor" aria-hidden="true"></span>
 ## Fallweise beschäftigte Dienstnehmer
 
 Bei fallweise beschäftigten Dienstnehmern sind am Kalenderblatt die Tage der fallweisen Beschäftigung zu markieren (*Strg + Leertaste* oder *Strg + Mausklick*).
@@ -174,7 +171,6 @@ Diese 20 % Regelung sagt aus, dass die allgemeinen Beiträge (Kranken, Pensions-
 Der SV-Freibetrag galt nur bis zum 31.12.2018.
 
 :::
-<span id="alv-ruckverrechnung" class="legacy-anchor" aria-hidden="true"></span>
 ## AlV-Rückverrechnung
 
 In Ausnahmefällen kann die Rückverrechnung der Arbeitslosenversicherung durch Anwahl des Feldes *keine AlV-Rückverrechnung* unterbunden werden.

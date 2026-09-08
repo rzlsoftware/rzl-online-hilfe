@@ -3,7 +3,6 @@ title: Registerblatt „Einstellungen"
 program: PDFManager
 ---
 
-<span id="registerblatt-einstellungen" class="legacy-anchor" aria-hidden="true"></span>
 
 
 ![](<img/image72.png>)

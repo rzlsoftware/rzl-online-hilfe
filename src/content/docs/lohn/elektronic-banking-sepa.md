@@ -3,7 +3,6 @@ title: Electronic Banking SEPA
 program: LOHN
 ---
 
-<span id="electronic-banking-sepa" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Programmteil *Bearbeiten / Elektronic Banking (SEPA)* können Sie Überweisungsdateien für die Abrechnungen der Dienstnehmer, für die Zahlungen an die Behörden (Abgaben) und für die mit dem Exekutionsmodul errechneten Exekutionsbeträge erstellt werden.
 
@@ -55,7 +54,6 @@ Nur in bestimmten Fällen muss hier für die Überweisung ein eigenes Rulebook a
 
 Der Vorgang der elektronischen Überweisung der Abgaben ist weitgehend derselbe, wie bei den Abrechnungen. Das letztmögliche Durchführungsdatum kann durch Anwahl der Option *letztmögliches Datum berechnen* automatisch errechnet werden.
 
-<span id="elektronic-banking-exekutionsbetrage" class="legacy-anchor" aria-hidden="true"></span>
 ## Elektronic Banking Exekutionsbeträge
 
 Im RZLWin-Lohnverrechnungsprogramm können Sie Drittschuldnererklärungen anlegen. Innerhalb der betroffenen Dienstnehmer kann dann eine automatische Exekutionsberechnung vorgenommen werden.
@@ -68,14 +66,12 @@ Nach dem Erstellen der Datei wird vom Programm ein Sperrvermerk gesetzt, damit d
 Das Electronic Banking für Exekutionsbeträge funktioniert nur in Verbindung mit dem Exekutionsmodul.
 
 :::
-<span id="elektronic-banking-sonstige-behorden" class="legacy-anchor" aria-hidden="true"></span>
 ## Elektronic Banking Sonstige Behörden
 
 ![Image](<img/image213.png>){width="500"}
 
 Der Vorgang der elektronischen Überweisung der Sonstigen Behörden ist weitgehend derselbe wie bei den Abrechnungen. Sie können zwischen der Ausgabe *aller Behörden* und einzelner Behörden wählen.
 
-<span id="handisches-erstellen-einer-uberweisung" class="legacy-anchor" aria-hidden="true"></span>
 ## Händisches Erstellen einer Überweisung
 
 Neben dem Zugriff auf Daten der Lohnverrechnung (Bezüge, Abgaben, Exekutionsbeträge) haben Sie die Möglichkeit, Überweisungen auch manuell zu erstellen. Die Vorgehensweise im ersten Registerblatt *Erstellung Überweisungsdatei* ist wie bei Electronic-Banking Abrechnungen Inland beschrieben.
@@ -145,7 +141,6 @@ Wird die Abfrage mit *JA* beantwortet, wird die Datei erstellt und die Überweis
 
 Durch Anwahl der Schaltfläche *Weiter* erfolgt die endgültige Erstellung der Datei und der automatische Ausdruck eines Datenträgerprotokolls.
 
-<span id="ausdruck-begleitzettel-protokoll" class="legacy-anchor" aria-hidden="true"></span>
 ## Ausdruck Begleitzettel / Protokoll
 
 Durch Anwahl von *Bearbeiten / Elektronic Banking (SEPA) / Protokoll/Begleitzettel* wird folgender Programmteil aufgerufen:

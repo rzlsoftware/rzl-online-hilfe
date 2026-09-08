@@ -3,7 +3,6 @@ title: Versenden der ÖGK-Datei
 program: LOHN
 ---
 
-<span id="versenden-der-ogk-datei" class="legacy-anchor" aria-hidden="true"></span>
 
 Die elektronische Übertragung der ÖGK-Datei erfolgt im Menüpunkt *Klient / Elektronische Übermittlung / Elektronische Meldung ÖGK absenden* durch Anwahl der Schaltfläche *Senden*. Die Datenübertragung an die ÖGK erfolgt mittels eines eigenen Programmes der ÖGK (ELDA). Dieses Programm wird vom RZL-Lohnverrechnungsprogramm nur aufgerufen und läuft dann selbständig ab.
 
@@ -41,7 +40,6 @@ Das Feld *ÖGK – Übertragungsmodul* dient der Eingabe des Pfades, damit das R
 Durch Anwahl der Schaltfläche *Standardwerte* werden die Übergabeparameter und der Dateiname automatisch eingetragen. Im Feld *ÖGK-Übertragungsmodul* wird der Standard-Pfad zur eldawin.exe-Datei vorgeschlagen.
 
 :::
-<span id="individuelle-abweichende-ogk-dateien" class="legacy-anchor" aria-hidden="true"></span>
 ## Individuelle (abweichende) ÖGK-Dateien
 
 Beim Arbeiten innerhalb eines Netzwerkes kann jeder Mitarbeiter, der Lohnverrechnungen durchführt, eine eigene *abweichende* ÖGK-Datei verwenden. Diese ÖGK-Datei kann durch Anwahl der Schaltfläche *Dateiname* angelegt werden.

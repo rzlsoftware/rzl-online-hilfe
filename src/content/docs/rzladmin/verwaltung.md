@@ -3,7 +3,6 @@ title: Verwaltung
 program: rzladmin
 ---
 
-<span id="verwaltung" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Wartung](img/Verwaltung_Menuepunkt.png)
 
@@ -226,7 +225,6 @@ Nach Eingabe des Zeitraums und des Lizenzpasswortes können die Daten abgerufen 
 Die Funktion "Anonymisierung" im RZL Admin sorgt dafür, dass Benutzerdaten (Namen), die als Teil eines Fehlerberichts an RZL übermittelt werden, anonymisiert sind. Das dient dem Datenschutz und stellt sicher, dass personenbezogene Daten nicht ohne Weiteres weitergegeben werden.
 Die Anonymisierung schützt die Identität der Mitarbeiter bei Fehlerberichten, kann aber im Bedarfsfall zur Fehleranalyse aufgehoben werden.
 
-<span id="rzl-pdf-drucker-manager-druckertreiber" class="legacy-anchor" aria-hidden="true"></span>
 ## RZL PDF-Drucker / Manager-Druckertreiber
 
 ![Druckertreiber](img/Verwaltung_Druckertreiber.png)

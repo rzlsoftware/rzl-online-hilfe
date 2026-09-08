@@ -3,7 +3,6 @@ title: Kanzleireports
 program: Reporting
 ---
 
-<span id="kanzleireports" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Leistungsumfang des RZL Moduls Reporting erhalten Sie eine Vielzahl von vorgefertigten Reports zur Verfügung gestellt. Diese Musterreports dienen Ihnen auch als Basis zur Weiterverarbeitung und klienten- bzw. kanzleispezifischer Individualisierung.
 
@@ -23,7 +22,6 @@ Neue RZL Musterreports erhalten Sie im Zuge der laufenden Programmaktualisierung
 Bestehende Reports werden durch ein Programmupdate **nicht** aktualisiert. Neue Musterreports werden immer mit einer neuen Reportnummer ausgeliefert. Aktualisierte Musterreports werden immer mit einem neuen Reportnamen ausgeliefert.
 
 :::
-<span id="reports-auf-einen-klienten-uberspielen" class="legacy-anchor" aria-hidden="true"></span>
 ## Reports auf einen Klienten überspielen
 
 Nach der allgemeinen Installation in der *ZMV* kann der Report auf den gewünschten Klienten übertragen werden. Öffnen Sie dazu im jeweiligen Programm den Menüpunkt *Klient / Kanzlei / Reports*. Es öffnet sich nun nachfolgendes Fenster:
@@ -48,7 +46,6 @@ Sind mehrere Dokumente eines Kanzleireports vorhanden, so öffnet sich folgendes
 
 Es besteht nun die Möglichkeit, die gewünschten Reports durch Betätigen der Leertaste, oder durch Anwahl des Rechtecks mit der Maustaste, auf den betreffenden Klienten zu übertragen. Mit Klick auf *Übernehmen* werden die gewünschten Reports auf den Klienten überspielt.
 
-<span id="report-offnen" class="legacy-anchor" aria-hidden="true"></span>
 ## Report öffnen
 
 Das Öffnen eines Reports ist vom jeweiligen Programm abhängig.

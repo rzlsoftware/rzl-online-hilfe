@@ -3,7 +3,6 @@ title: Kostenstellen-Lohnarten
 program: LOHN
 ---
 
-<span id="kostenstellen-lohnarten" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](img/image229.png){width="500"}
 

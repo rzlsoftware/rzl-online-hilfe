@@ -3,7 +3,6 @@ title: Mitarbeiterprämie 2026
 program: LOHN
 ---
 
-<span id="mitarbeiterpramie-2026" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Kalenderjahr 2026 ist es unter bestimmten Formalvoraussetzungen möglich, die **Mitarbeiterprämie** bis zur Höhe von EUR 500,00 pro Arbeitnehmer steuerfrei zu gewähren (§&nbsp;124b Z 478 lit. f EStG).
 
@@ -25,7 +24,6 @@ Begünstigt sind nur zusätzliche Zulagen und Bonuszahlungen, die der Arbeitgebe
 - Die zweite Kaufkraftsicherungsprämie in der Metallindustrie erfüllt diese Vorgabe, da der Kollektivvertrag die Auszahlung im Juli 2026 vorsieht.
 - Die Zahlung der Mitarbeiterprämie muss nach dem Gesetzeswortlaut spätestens im Kalendermonat Dezember 2026 erfolgen. Nach den Erläuterungen zur Regierungsvorlage kann eine Nachzahlung nach § 77 Abs 5 EStG bis zum 15. 2. 2027 mittels Aufrollung als steuerfreie Mitarbeiterprämie 2026 berücksichtigt werden. Das setzt voraus, dass die gewährte Mitarbeiterprämie im Jahr 2026 fällig ist, aber eine rechtzeitige Auszahlung aufgrund besonderer Umstände nicht erfolgen kann. Die Festlegung durch die Sozialpartner und der Abschluss von Betriebsvereinbarungen auf dieser Grundlage müssen daher dennoch in dem sportlich kurzen Zeitraum von rund sechs Monaten ab Gesetzwerdung bewältigt werden.
 
-<span id="begunstigte-hohe" class="legacy-anchor" aria-hidden="true"></span>
 ## Begünstigte Höhe
 
 Die Mitarbeiterprämie 2026 soll für den einzelnen Arbeitnehmer bis **EUR 500** steuerfrei sein. Eine im Kalenderjahr 2026 ebenfalls ausbezahlte Gewinnbeteiligung gemäß § 3 Abs 1 Z 35 EStG ist nur insoweit steuerfrei, als sie gemeinsam mit der Mitarbeiterprämie den Betrag von EUR&nbsp;3.000,00 pro Kalenderjahr nicht übersteigt.
@@ -48,7 +46,6 @@ Die Entscheidung ob im Bereich der Sozialversicherung ein **laufender Bezug** od
 
 Zudem ist zu klären, ob aus der bisherigen Auszahlung von Corona-Prämien, Teuerungsprämien oder Mitarbeiterprämie 2024 und 2025 eine wiederkehrende Zahlung abgeleitet werden kann – oder eben nicht.
 
-<span id="erstmalige-absolut-einmalige-gewahrung-ohne-vereinbarung-einer-wiederkehr" class="legacy-anchor" aria-hidden="true"></span>
 ### Erstmalige, absolut einmalige Gewährung ohne Vereinbarung einer Wiederkehr
 
 Wird keine Wiederkehr vereinbart und handelt es sich um den erstmaligen Bezug der Mitarbeiterprämie, liegt in der Sozialversicherung ein laufender Bezug vor (**SV-Pflichtigkeit = 1**).

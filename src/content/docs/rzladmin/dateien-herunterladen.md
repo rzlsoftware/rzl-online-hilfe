@@ -3,7 +3,6 @@ title: Dateien herunterladen
 program: rzladmin
 ---
 
-<span id="dateien-herunterladen" class="legacy-anchor" aria-hidden="true"></span>
 
 Unter der Rubrik *Dateien herunterladen* können diverse Dateien, Hotfixes und
 maßgeschneiderte Skripte zur Verfügung gestellt werden.

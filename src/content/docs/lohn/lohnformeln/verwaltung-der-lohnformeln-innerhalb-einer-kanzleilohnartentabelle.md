@@ -3,7 +3,6 @@ title: Verwaltung der Lohnformeln innerhalb einer Kanzlei-Lohnarten-Tabelle
 program: LOHN
 ---
 
-<span id="verwaltung-der-lohnformeln-innerhalb-einer-kanzlei-lohnarten-tabelle" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Verwaltung von Lohnformeln ist auch innerhalb von Kanzlei-Lohnartentabellen möglich. Kanzleilohnarten-Tabellen werden im Programmteil *Klient / Kanzlei / Lohnarten, Lohn-Formeln* verwaltet.
 

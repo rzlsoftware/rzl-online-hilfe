@@ -3,7 +3,6 @@ title: Führt der RZL Technik-Support Installationen durch?
 program: technik
 ---
 
-<span id="fuhrt-der-rzl-technik-support-installationen-durch" class="legacy-anchor" aria-hidden="true"></span>
 
 Der RZL Technik-Support vergibt **keine Termine** für die Installation von RZL Programmen. Installationen werden ausschließlich von Ihrem zuständigen Systembetreuer oder einem unserer zertifizierten [Systempartner &#8599;](https://rzlsoftware.at/partner/partner){:target="_blank"} durchgeführt. Eine stets aktuelle Liste aller RZL Systempartner finden Sie auf unserer Webseite.
 

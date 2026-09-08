@@ -3,9 +3,7 @@ title: Sicherungscenter
 program: FIBUNext
 ---
 
-<span id="sicherungscenter" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="sicherungscenter_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Sicherungscenter
 
 Im Board unter *STAMM* finden Sie beim jeweiligen Klienten das *Sicherungscenter*. Über diesen Menüpunkt können Sie vom jeweiligen FIBU Next Klienten Sicherungen erstellen und verwalten.

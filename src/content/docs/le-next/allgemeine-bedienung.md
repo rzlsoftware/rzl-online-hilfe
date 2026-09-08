@@ -3,9 +3,7 @@ title: Allgemeine Bedienung
 program: LENext
 ---
 
-<span id="allgemeine-bedienung" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="offnen-der-leistungserfassung" class="legacy-anchor" aria-hidden="true"></span>
 ## Öffnen der Leistungserfassung
 
 Durch die Anwahl des Menüpunktes *LE* **(1)** gelangen Sie in die

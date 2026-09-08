@@ -3,9 +3,7 @@ title: Synchronisation der Belege mit dem RZL Klientenportal
 program: Belegverarbeitung
 ---
 
-<span id="synchronisation-der-belege-mit-dem-rzl-klientenportal" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="synchronisation-der-belege-mit-dem-rzl-klientenportal_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Synchronisation der Belege mit dem RZL Klientenportal
 
 Das RZL Board bietet mit der Belegsynchronisation die Möglichkeit, digitale Belege automatisch auf das RZL Klientenportal hochzuladen und somit das digitale Belegarchiv am Klientenportal zu befüllen. Somit entfällt der manuelle Upload von Belegen in die Belegbox am Klientenportal.
@@ -22,7 +20,6 @@ tion gegeben sein:
 • Nutzung des RZL Klientenportal (Basis-Modul und Modul Belege)
 
 
-<span id="1-einrichtung-des-web-service-benutzers-fur-die-belegsynchronisation" class="legacy-anchor" aria-hidden="true"></span>
 ### 1. Einrichtung des Web-Service Benutzers für die Belegsynchronisation
 
 

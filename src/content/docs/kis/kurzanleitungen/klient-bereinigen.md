@@ -70,7 +70,6 @@ In den Protokollen wird festgehalten wann, welcher Mitarbeiter eine Bereinigung 
 
 ![Protokoll](<img/Protokoll.png>)
 
-<span id="mit-welcher-rolle-sie-klient-bereinigen-ausfuhren-konnen" class="legacy-anchor" aria-hidden="true"></span>
 ## Mit welcher Rolle Sie "Klient bereinigen" ausführen können
 
 In folgenden Rollen besitzen Sie die Berechtigung zum Ausführen der Klient-bereinigen-Funktion:

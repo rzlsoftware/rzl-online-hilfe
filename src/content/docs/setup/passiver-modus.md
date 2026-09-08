@@ -3,7 +3,6 @@ title: Passiver Modus
 program: setup
 ---
 
-<span id="passiver-modus" class="legacy-anchor" aria-hidden="true"></span>
 
 In bestimmten Szenarien erlaubt das RZL Setup den sogenannten
 passiven Modus. Wenn ein Vorgang (z. B. Installation) auf einem Gerät

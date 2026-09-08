@@ -3,7 +3,6 @@ title: Verwaltung in den Klassik-Programmen
 program: Reporting
 ---
 
-<span id="verwaltung-in-den-klassik-programmen" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Bestehende Reports als Musterreport sichern
 
@@ -47,7 +46,6 @@ Wählen Sie für den Export die Schaltfläche *Exportieren* aus. Sie gelangen in
 
 Öffnen Sie dazu im gewünschten RZL-Klienten das *Report-Öffnen* Dialogfenster und wählen Sie die Schaltfläche *Importieren* aus. Nach Anwahl des RZL-Reports im XML-Format wird der Report mit *Öffnen* in den Klienten importiert.
 
-<span id="report-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ## Report löschen
 
 Im *Report-Öffnen* Dialogfenster können Sie mit der Schaltfläche *Löschen* den aktiv angewählten Report des geöffneten Klienten löschen.
@@ -60,7 +58,6 @@ Im *Report-Öffnen* Dialogfenster können Sie nach Anwahl des gewünschten Repor
 
 Für den Ausdruck eines Reports muss dieser zunächst geöffnet werden. Anschließend stehen Ihnen folgende Druckmöglichkeiten zur Verfügung:
 
-<span id="ausgabe-uber-den-rzl-pdf-drucker-bzw-rzl-pdf-manager-premium" class="legacy-anchor" aria-hidden="true"></span>
 ### Ausgabe über den RZL PDF-Drucker bzw. RZL PDF-Manager Premium
 
 Zur Vorabansicht bzw. für die Sicherung des Reports als PDF-Dokument empfiehlt sich die Ausgabe im RZL PDF-Drucker bzw. RZL PDF-Manager Premium. Wählen Sie dazu den Menüpunkt *Datei / PDF Drucken* oder das PDF-Druckersymbol in der [Werkzeugleiste](/reporting/report-bearbeiten/erste-schritte-kurzuebersicht/).
@@ -75,7 +72,6 @@ Zur Direktausgabe am installierten Drucker stehen Ihnen folgende Möglichkeiten 
 - mit dem Drucker-Symbol in der Werkzeugleiste ![Image](img/image115.png) oder
 - mit der Tastenkombination *STRG + P*.
 
-<span id="sonderoption-drucken-von-dienstnehmer-und-dienstgeberbezogenen-daten" class="legacy-anchor" aria-hidden="true"></span>
 ### Sonderoption: Drucken von dienstnehmer- und dienstgeberbezogenen Daten
 
 Das *RZL Lohnprogramm* bietet Ihnen die Möglichkeit, Reports auf Basis von definierten Dienstgeber- bzw. Dienstnehmerdaten zu drucken.

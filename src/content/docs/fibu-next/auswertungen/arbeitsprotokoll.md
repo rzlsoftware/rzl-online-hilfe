@@ -3,7 +3,6 @@ title: Arbeitsprotokoll
 program: FIBUNext
 ---
 
-<span id="arbeitsprotokoll" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Auswertung Arbeitsprotokoll
 

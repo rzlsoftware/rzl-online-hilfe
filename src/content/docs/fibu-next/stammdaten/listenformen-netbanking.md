@@ -3,9 +3,7 @@ title: Listenformen Netbanking
 program: FIBUNext
 ---
 
-<span id="listenformen-netbanking" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="anlage-bearbeiten-listenform" class="legacy-anchor" aria-hidden="true"></span>
 ### Anlage / Bearbeiten Listenform
 Eine Listenform kann in den allgemeinen Stammdaten der FIBU Next (ohne vorherige Auswahl eines Klienten) im Reiter *Vorlagen* unter *Listenformen / Netbanking* angelegt werden. 
 ![Anlage / Bearbeiten Listenform](img/image7.png)

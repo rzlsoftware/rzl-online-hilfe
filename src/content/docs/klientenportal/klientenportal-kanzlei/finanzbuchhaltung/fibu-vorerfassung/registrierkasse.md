@@ -3,7 +3,6 @@ title: Stammdaten Registrierkasse
 program: Klientenportal
 ---
 
-<span id="stammdaten-registrierkasse" class="legacy-anchor" aria-hidden="true"></span>
 
 Nach Anlage der Kassa/Bankbücher (*Finanzbuchhaltung / Stammdaten Kassa/Bankbuch*; siehe Kapitel 5.2) sind über den Menüpunkt *Finanzbuchhaltung / Stammdaten Registrierkassen* die Einstellungen zu den Registrierkassen durchzuführen.
 

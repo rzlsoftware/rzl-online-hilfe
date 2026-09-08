@@ -3,7 +3,6 @@ title: Dokumentenliste
 program: PDFManager
 ---
 
-<span id="dokumentenliste" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Bereich *Dokumentenliste* (**1**) sehen Sie alle Dokumente, die dem
 RZL PDF-Manager hinzugefügt wurden.

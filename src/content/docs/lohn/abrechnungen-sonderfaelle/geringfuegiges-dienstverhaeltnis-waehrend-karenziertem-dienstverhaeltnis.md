@@ -3,7 +3,6 @@ title: Geringfügiges Dienstverhältnis während karenzierten Dienstverhältniss
 program: LOHN
 ---
 
-<span id="geringfugiges-dienstverhaltnis-wahrend-karenzierten-dienstverhaltnisses" class="legacy-anchor" aria-hidden="true"></span>
 
 Es kommt oft vor, dass ein Dienstnehmer/eine Dienstnehmerin während der Elternkarenz, des Präsenz- oder Zivildienst, etc. eine geringfügige Anstellung beim gleichen Dienstgeber annimmt. Wenn es zu diesem Dienstverhältnis kommt, ist es wichtig, dass Sie einen **Wiedereintritt unter neuer Nummer** durchführen (*Abrechnungen / Sonderfälle / Wiedereintritt unter neuer Nummer*). Mit dieser Wiedereintrittsfunktion werden alle Stammdaten auf die neue Nummer übernommen.
 

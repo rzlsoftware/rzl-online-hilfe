@@ -3,7 +3,6 @@ title: Formatvorlagen
 program: Reporting
 ---
 
-<span id="formatvorlagen" class="legacy-anchor" aria-hidden="true"></span>
 
 Um bei einheitlichen oder wiederkehrenden Formatierungen von Texten nicht immer die gleichen Formatierungsbefehle (wie Schriftart, Größe, Nummerierung, Zahlenformat) eingeben zu müssen, eignet sich das Anlegen einer Formatvorlage. So können beispielsweise Überschriften oder Zahlen durch Markierung des Textes und Zuweisung der Formatvorlage sehr schnell einheitlich angepasst werden.
 
@@ -17,7 +16,6 @@ Nach der Auswahl eines Textes kann die gewünschte Formatvorlage über das Drop-
 
 Die Formatierungseigenschaften werden sofort auf den markierten Text übertragen.
 
-<span id="textformatvorlage-anlegen-oder-andern" class="legacy-anchor" aria-hidden="true"></span>
 ### Textformatvorlage anlegen oder ändern
 
 Im Menüpunkt *Bearbeiten / Textformatvorlage* können neue Vorlagen angelegt bzw. bestehende verändert werden:

@@ -3,9 +3,7 @@ title: Senden an Dienstnehmer
 program: Klientenportal
 ---
 
-<span id="senden-an-dienstnehmer" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="nachrichten-an-dienstnehmer-ubermitteln" class="legacy-anchor" aria-hidden="true"></span>
 ## Nachrichten an Dienstnehmer übermitteln.
 
 Die direkte Nachrichtenübermittlung an einzelne Dienstnehmer über das RZL Klientenportal finden [hier](/klientenportal/klientenportal-kanzlei/informationsaustausch/nachrichten/nachrichtaus-kliport/).
@@ -58,7 +56,6 @@ Nach Anwahl der Schaltfläche *Exportieren* werden die Abrechnungen im RZL Klien
 
 Durch einen Klick auf die Datei öffnet sich die Abrechnung und kann ausgedruckt werden. Durch Anwahl des Download Symbols kann die Datei heruntergeladen werden. Mit Betätigen des Papierkorbs wird das Dokument im RZL Klientenportal gelöscht.
 
-<span id="hochladen-von-dokumenten-fur-den-dienstnehmer" class="legacy-anchor" aria-hidden="true"></span>
 ## Hochladen von Dokumenten für den Dienstnehmer
 
 Neben den monatlichen Abrechnungen können auch beliebige Dokumente für einzelne Dienstnehmer auf das RZL Klientenportal hochgeladen werden. Diese Möglichkeit finden Sie im Programmteil *Informationsaustausch / Dokumente an einen Dienstnehmer* *übermitteln*.

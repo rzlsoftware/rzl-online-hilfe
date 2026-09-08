@@ -3,7 +3,6 @@ title: Kostenstellen
 program: LOHN
 ---
 
-<span id="kostenstellen" class="legacy-anchor" aria-hidden="true"></span>
 
 Durch Anwahl des Menüpunktes *Ausdruck / Ausdruck Journal / ÖGK / Kostenstellen* wird eine aufsteigend nach Kostenstellen gegliederte Zusammenfassung der in den einzelnen Kostenstellen angefallenen Lohn und Lohnnebenkosten je Dienstnehmer gedruckt. Voraussetzung dafür ist jedoch, dass bei der Anlage des Dienstnehmers im Eingabebildschirm [*Kostenstelle/Kostenträger*](/lohn/abrechnungsbildschirme/kostenstellen-kostentraeger/) eine Zuordnung zu den Kostenstellen vorgenommen wurde.
 

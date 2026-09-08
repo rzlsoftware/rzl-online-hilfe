@@ -3,7 +3,6 @@ title: Elektronische Vortsteuererstattung
 program: FIBUNext
 ---
 
-<span id="elektronische-vortsteuererstattung" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Vorsteuererstattung ermöglicht es österreichischen Unternehmen im EU-Ausland bezahlte Umsatzsteuer zurückzufordern, da diese nicht über die österreichische Umsatzsteuervoranmeldung geltend gemacht werden kann. 
 Der Antrag wird über die Finanzonline eingebracht, aber vom jeweiligen ausländischen Finanzamt geprüft und erstattet.
@@ -23,7 +22,6 @@ Auch die darunter befindlichen Optionen müssen bei Zutreffen angehakt werden, d
 
 ![Erstattungaktivieren](image.png)
 
-<span id="aktivierung-nur-fur-vst-erstattung" class="legacy-anchor" aria-hidden="true"></span>
 ### Aktivierung nur für VSt-Erstattung
 ![nurvsterfassung](image-2.png)
 
@@ -98,14 +96,12 @@ Sollte durch keine der vorgegebenen Leistungsarten die betreffende Leistung abge
 -	**Abziehbare VSt.:** abziehbare Vorsteuer
 -	**Text:** Dieses Feld ist nur aktiv, wenn die *Art (10) Sonstiges* ausgewählt wurde.
 
-<span id="erfassen-auerhalb-des-buchens" class="legacy-anchor" aria-hidden="true"></span>
 ### Erfassen außerhalb des Buchens
 
 Wurde bei der Buchung keine Vorsteuererstattung erfasst, kann dies nachträglich über die Funktion *In VSt-Erstattung aufnehmen* unter *Auswertung / Konto oder Journal* erfolgen. Die Funktion steht im Kontextmenü zur Verfügung und wird nur angezeigt, wenn die Vorsteuererstattung im Stamm aktiviert ist.
 
 Beim Aufruf öffnet sich der Erfassungsdialog der Vorsteuererstattung, wobei vorhandene Buchungsdaten automatisch übernommen werden. Für Zeiträume, für die bereits eine Meldung erstellt wurde, ist keine nachträgliche Übernahme mehr möglich. Übernommene Buchungen werden in der Spalte *VSt-Erstattung* mit einem Häkchen gekennzeichnet. Wird die Funktion erneut ausgeführt, öffnet sich die bereits vorhandene Erfassungszeile zur weiteren Bearbeitung.   
 
-<span id="erfassen-wahrend-des-buchens" class="legacy-anchor" aria-hidden="true"></span>
 ### Erfassen während des Buchens
 
 Mit der Eingabe der Buchungszeile können auch schon Daten für die Vorsteuererstattung eingegeben werden. Der Eingabedialog erscheint, wenn

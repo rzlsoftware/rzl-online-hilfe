@@ -3,9 +3,7 @@ title: Salden
 program: FIBUNext
 ---
 
-<span id="salden" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="datenimport-salden-konten" class="legacy-anchor" aria-hidden="true"></span>
 ### Datenimport – Salden \& Konten
 
 

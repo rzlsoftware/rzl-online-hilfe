@@ -3,11 +3,9 @@ title: Ausdruck Überweisungen/Zahlscheine
 program: LOHN
 ---
 
-<span id="ausdruck-uberweisungenzahlscheine" class="legacy-anchor" aria-hidden="true"></span>
 
 Bei Durchführung der Überweisungen der Lohnabrechnungen (*Ausdruck / Überweisungen, Zahlscheine* bzw. Überweisungen mittels SEPA) wird dies beim Dienstnehmer vermerkt. Damit ist sichergestellt, dass eine Überweisung nicht versehentlich zweimal erfolgen kann. Ist es erforderlich, die Überweisung nochmals auszudrucken bzw. die Überweisungsdatei nochmals zu erstellen, muss vorher ein [*Repair*](/lohn/repair/) der Überweisungen durchgeführt werden.
 
-<span id="uberweisungsliste-abrechnungen-inland-ausland-abgaben-exekutionsbetrage-sonstige-behorden" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisungsliste Abrechnungen Inland / Ausland / Abgaben / Exekutionsbeträge / Sonstige Behörden
 
 Die Überweisungsliste wird pro Dienstgeber oder aber auch pro Unterdienstgeber als Auftrag an die Bank des Dienstgebers ausgedruckt. Es ist dazu kein eigenes Formular notwendig. Es werden nur die Überweisungsbeträge angeführt, nicht jedoch die Lohnabgaben.
@@ -22,7 +20,6 @@ Es kann zwischen den in den [*Dienstgeberstammdaten*](/lohn/klientenstammdaten/s
 :::
 Beim Ausdruck der Überweisungslisten wird bei den Abrechnungen automatisch ein Sperrvermerk gesetzt. Ein neuerlicher Ausdruck der *Überweisungsliste Abrechnungen* kann nur nach einem [*Repair*](/lohn/repair/) (*Bearbeiten / Repair / Überweisungen / Überweisung Abrechnung zurücksetzen*) durchgeführt werden.
 
-<span id="uberweisung-abrechnungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisung Abrechnungen
 
 Nach Anwahl des Menüpunktes *Ausdruck / Überweisungen/Zahlscheine / Abrechnungen (Inland)* erscheint folgender Dialog:
@@ -59,7 +56,6 @@ Um die Änderungen wirksam werden zu lassen, ist das Auswahlfeld *Einstellungen 
 
 Wird dieses Auswahlfeld deaktiviert, wird die Erstellung einer Sammelüberweisung unterdrückt.
 
-<span id="uberweisung-abgaben" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisung Abgaben
 
 Die Überweisungen der Lohnabgaben können klientenweise oder pro Unterdienstgeber ausgedruckt werden. Hinsichtlich der verwendeten Formulare gilt das oben angeführte.
@@ -70,7 +66,6 @@ Um den Ausdruck der Überweisungen überhaupt zu ermöglichen, sind die betreffe
 Weiters ist es unbedingt erforderlich im Registerblatt *FA, ÖGK, Überweisung* der Stammdaten des Klienten und UDG im Eingabebereich *Überweisungen* die entsprechenden Behörden zu aktivieren.
 
 :::
-<span id="uberweisung-bv-ubertragungsbetrage" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisung BV-Übertragungsbeträge
 
 Dieser Programmteil ermöglicht den Ausdruck der Überweisung für die Übertragungsbeträge an die jeweilige BV-Kasse bei einem Vollumstieg eines Mitarbeiters ins neue Abfertigungssystem.
@@ -79,14 +74,12 @@ Damit die Erstellung erfolgreich durchgeführt werden kann, muss die BV-Kasse in
 
 Die Übertragungsbeträge werden bei den einzelnen Dienstnehmern im Abrechnungsbildschirm [*Stammdaten Fristen*](/lohn/abrechnungsbildschirme/stammdaten-fristen/) im Bereich *Vollumstieg Abfertigung neu* eingetragen.
 
-<span id="uberweisung-exekutionsbetrage" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisung Exekutionsbeträge
 
 Der Programmteil ermöglicht den Ausdruck der vom Programm errechneten [Exekutionsbeträge](/lohn/exekutionen/exekutionsberechnung/) für die einzelnen Monate. Nach dem Ausdruck wird für den jeweiligen Dienstnehmer und dem jeweiligen Monat ein Sperrvermerk gesetzt, damit der Ausdruck nicht versehentlich noch einmal erfolgt.
 
 Dieser Sperrvermerk kann im Programmteil *Bearbeiten / Repair / Überweisungen / Überweisung Exekutionsbeträge zurücksetzen* wieder gelöscht werden. Nach dem Repair kann der Ausdruck nochmals durchgeführt werden.
 
-<span id="uberweisung-sonstige-behorden" class="legacy-anchor" aria-hidden="true"></span>
 ## Überweisung Sonstige Behörden
 
 Dieser Programmteil ermöglicht den Ausdruck der Überweisung für die Sonstigen Behörden.
@@ -95,7 +88,6 @@ Damit die Erstellung erfolgreich durchgeführt werden kann, muss die [Sonstige B
 
 Die Beträge für die Behörde werden bei den einzelnen Dienstnehmern im Abrechnungsbildschirm [*Freie Lohnarten*](/lohn/abrechnungsbildschirme/freie-lohnarten/) erfasst.
 
-<span id="handisch-erstellen" class="legacy-anchor" aria-hidden="true"></span>
 ## händisch erstellen
 
 Im Programmteil *Ausdruck / Überweisungen / Zahlscheine / händisch erstellen* kann ein Zahlschein manuell erstellt und ausgedruckt werden.

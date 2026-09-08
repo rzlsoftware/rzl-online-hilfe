@@ -3,7 +3,6 @@ title: Mitarbeiter Leistungserfassung
 program: HONNext
 ---
 
-<span id="mitarbeiter-leistungserfassung" class="legacy-anchor" aria-hidden="true"></span>
 
 Unter diesem Punkt können Sie die Art der Arbeitszeiterfassung
 festlegen, sowie wie lange Ihre Mitarbeiter Leistungen
@@ -116,7 +115,6 @@ Ende der Arbeitszeit
 Die Art der Arbeitszeitaufzeichnung kann für einzelne Mitarbeiter abweichend definiert werden (siehe Kapitel [Mitarbeiterstammdaten](/hon-next/stammdaten-mitarbeiter/)).
 
 :::
-<span id="zeituberschneidungen-prufen" class="legacy-anchor" aria-hidden="true"></span>
 ### Zeitüberschneidungen prüfen
 
 Mit der Option *auf Zeitüberschneidungen bei der Tageserfassung hinweisen* erhalten die Mitarbeiter in der Leistungserfassung einen Hinweis, wenn sich Beginn- und Enddatum mehrerer Zeilen überschneiden.
@@ -171,7 +169,6 @@ Leistungserfassung selbst seine Leistungen für die Honorarverrechnung
 freigeben. Solange die Leistungen vom Mitarbeiter nicht freigegeben
 wurden, können Sie diese auch nicht verrechnen.
 
-<span id="programmaktivitaten-zuordnen" class="legacy-anchor" aria-hidden="true"></span>
 ### Programmaktivitäten zuordnen
 
 Innerhalb der Leistungserfassung der einzelnen Mitarbeiter besteht die

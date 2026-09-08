@@ -5,7 +5,6 @@ program: Board
 
 Mit der Programmversion 2.25.6 haben Sie künftig die Möglichkeit Rollen bzw. einzelne Berechtigungen in den jeweiligen Rollen auf Dokumentbereiche einzuschränken. Um diese Funktion nutzen zu können, benötigen Sie zum RZL KIS & Board Basis Programm mindestens das Modul RZL KIS Dokumentenverwaltung (bzw. das Modul RZL Dokumentenverwaltung plus) und essentiell für die Nutzung das [Modul RZL Berechtigungssystem Premium](https://neu.rzlsoftware.at/steuerberater/kanzleiorganisation/rzl-berechtigungssystem-premium).
 
-<span id="rolle-auf-dokumentbereiche-einschranken" class="legacy-anchor" aria-hidden="true"></span>
 ## Rolle auf Dokumentbereiche einschränken
 
 Wollen Sie eine Rolle auf einen oder mehrere Dokumentbereiche einschränken, können Sie das im RZL Board unter *Stamm / Berechtigungen / Rollen* durchführen. Markieren Sie in der Liste die gewünschte Rolle und fügen Sie eine Rolleneinschränkung hinzu.
@@ -32,7 +31,6 @@ Außerdem werden unter *Rolleneinschränkungen* die erlaubten Dokumentbereiche m
 Auf eine Rolle kann nicht ein Dokumentbereich erlaubt und ein anderer wiederum verboten werden. Entweder die Option Erlauben **ODER** Verbieten wird ganzheitlich verwendet.
 
 
-<span id="mitarbeiter-auf-dokumentbereiche-einschranken" class="legacy-anchor" aria-hidden="true"></span>
 ## Mitarbeiter auf Dokumentbereiche einschränken
 
 Sie können Dokumentbereiche auch für einzelne Mitarbeiter unterschiedlich einschränken. Einschränkungen auf Dokumentenbereiche auf Mitarbeiterebene sind entweder unter *Stamm / Berechtigungen / Rollen* oder direkt in den Mitarbeiterstammdaten unter *Berechtigungen / Rollenzuordnungen / Rollenzuordnungen bearbeiten* möglich.
@@ -86,7 +84,6 @@ Lohn- und Gehaltsverrechnung = Einschränkung auf Dokumentbereich auf Mitarbeite
 ![Hinweis Rolleneinschränkung bei vorhandener untersch. MA-Einschränkung](<img/Fehler%20Rolleneinschr%C3%A4nkung%20untersch.%20MA.png>)
 
 
-<span id="auf-dokumentbereiche-ubergreifend-festlegen" class="legacy-anchor" aria-hidden="true"></span>
 ## Auf Dokumentbereiche übergreifend festlegen
 
 Um schnell und einfach mehrere Rollen auf Dokumentbereiche einschränken zu können, gibt es die übergreifende Funktion. Hier werden nur Rollen angezeigt, welche auf Dokumentbereich(e) einschränkbare Funktionen beinhalten.
@@ -102,7 +99,6 @@ Die Spalte *Rolle* lässt sich sortieren und die Optionen können jeweils eingek
 
 ![mehrere Checkboxen markieren](<img/mehrere%20markieren.png>)
 
-<span id="ubersicht-dokumentbereich-einschrankungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Übersicht Dokumentbereich Einschränkungen
 
 Sie haben die Möglichkeit sich eine Übersicht der Rolleneinschränkungen und Einschränkungen auf Mitarbeiterebene pro Dokumentbereich anzeigen zu lassen.
@@ -117,7 +113,6 @@ Sie haben die Möglichkeit sich eine Übersicht der Rolleneinschränkungen und E
 
 ![Einstellungen MA-Stammdaten Sichtbarkeit Lohn](<img/MAStammdaten%20Einstellungen.png>)
 
-<span id="migration-aufgrund-zustandigkeitsbereich-fur-lohn" class="legacy-anchor" aria-hidden="true"></span>
 #### Migration aufgrund Zuständigkeitsbereich für LOHN
 
 In den Mitarbeiterstammdaten ist die Sichtbarkeit Lohn-/Dienstnehmer-Dokumente aufgrund Zuständigkeitsbereich für LOHN hinterlegt. Im Kanzlei-Informations-System wurde im Zuständigkeitsbereich das Programm LOHN aktiviert und außerdem sind die Klienten für den Zuständigkeitsbereich hinterlegt.
@@ -180,7 +175,6 @@ Jegliche Änderungen werden selbstverständlich im Protokoll detailliert erfasst
 
 ![Protokoll Eintrag](<img/Beispiel%20Protokoll.png>)
 
-<span id="sonstige-anderungen" class="legacy-anchor" aria-hidden="true"></span>
 ### Sonstige Änderungen
 
 In den Mitarbeiterstammdaten im RZL Board fällt die Drop-Down Einstellung *Sichtbarkeit Lohn-/Dienstnehmer-Dokumente* komplett weg. Diese Einstellung wird nicht mehr benötigt, da das Sichtbarkeitsrecht für den Dokumentbereich Lohn- und Gehaltsverrechnung über die Rolleneinschränkungen geregelt wird. 

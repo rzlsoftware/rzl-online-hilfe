@@ -3,9 +3,7 @@ title: Verbuchungsregeln zur Verarbeitung von elektronischen Kontoauszügen
 program: FIBUNext
 ---
 
-<span id="verbuchungsregeln-zur-verarbeitung-von-elektronischen-kontoauszugen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="verbuchungsregeln-zur-verarbeitung-von-elektronischen-kontoauszugen_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Verbuchungsregeln zur Verarbeitung von elektronischen Kontoauszügen
 
 

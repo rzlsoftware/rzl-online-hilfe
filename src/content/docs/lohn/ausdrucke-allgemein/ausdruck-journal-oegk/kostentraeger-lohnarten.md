@@ -3,7 +3,6 @@ title: Kostenträger-Lohnarten
 program: LOHN
 ---
 
-<span id="kostentrager-lohnarten" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](img/image230.png){width="500"}
 

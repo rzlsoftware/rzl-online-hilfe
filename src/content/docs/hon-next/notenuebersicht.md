@@ -3,7 +3,6 @@ title: Notenübersicht
 program: HONNext
 ---
 
-<span id="notenubersicht" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Notenübersicht soll Ihnen einen Überblick über Ihre erstellten Noten
 geben. Darin ist ersichtlich, welche Noten finalisiert wurden, welche
@@ -163,7 +162,6 @@ Ausgeben als Duplikat eine Änderung in den Stammdaten (Bsp.
 Adressänderung), wird das Duplikat mit den neuen Stammdaten ausgegeben.
 
 :::
-<span id="sortierung-der-notenubersicht" class="legacy-anchor" aria-hidden="true"></span>
 ## Sortierung der Notenübersicht
 
 Die Noten werden bei der Notenübersicht nach dem Erstellungsdatum
@@ -175,7 +173,6 @@ standardmäßig auf der zuletzt erstellten Note.
 
 Sie können hier eine oder mehrere vorläufige Noten markieren, um diese erneut zu bearbeiten. Werden mehrere Noten markiert, öffnet sich eine Bearbeitungsserie. Das heißt, es öffnen sich die gewählten Noten der Reihe nach – vergleichbar mit der Notenserie bei der Notenerstellung.
 
-<span id="notendatum-andern" class="legacy-anchor" aria-hidden="true"></span>
 ## Notendatum ändern 
 
 Im Ribbon der Notenübersicht stehen Ihnen mehrere Funktionen zur
@@ -193,7 +190,6 @@ können. Es können auch mehrere Noten in einem Schritt geändert werden.
 
 ![](<img/image321.png>)
 
-<span id="anmerkung-andern" class="legacy-anchor" aria-hidden="true"></span>
 ## Anmerkung ändern
 
 Die bei der Honorarnote definierte Anmerkung (Kapitel [Notenerstellung/Einstellungen](/hon-next/notenerstellung/notenerstellung/#einstellungen)) kann über die Schaltfläche *Anmerkung ändern*
@@ -206,7 +202,6 @@ eintragen.
 
 ![](<img/image322.png>)
 
-<span id="note-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ## Note löschen
 
 Noch nicht finalisierte Noten können über den Button *Note löschen*,
@@ -278,7 +273,6 @@ Vorläufige und finalisierte Noten können über den Button *Note drucken*,
 oder über das Kontextmenü mit der rechten Maustaste, am PDF-Manager
 ausgedruckt werden.
 
-<span id="note-zurucksetzen" class="legacy-anchor" aria-hidden="true"></span>
 ## Note zurücksetzen
 
 Falls Noten noch einmal auf einen vorangegangenen Status zurückgesetzt
@@ -379,7 +373,6 @@ Im Aufruf des Notenjournals besteht die Möglichkeit, sich Layouts
 anzulegen (vgl. [Speicherbare Layouts](/hon-next/auswertungen/speicherbare-layouts/)).
 
 :::
-<span id="tatigkeitsnachweis-drucken" class="legacy-anchor" aria-hidden="true"></span>
 ## Tätigkeitsnachweis drucken
 
 In der Notenübersicht können Sie eine/mehrere Noten markieren und über
@@ -429,14 +422,12 @@ Notenübersicht geöffnet werden.
 öffnen und von Note zu Note wechseln. Die Ansicht aktualisiert sich in
 Echtzeit.
 
-<span id="notenruckblick-anzeigen" class="legacy-anchor" aria-hidden="true"></span>
 ## Notenrückblick anzeigen
 
 Über den Button *Notenrückblick anzeigen* können Sie den [Notenrückblick](/hon-next/notenrueckblick/)
 öffnen und von Note zu
 Note wechseln. Die Ansicht aktualisiert sich in Echtzeit.
 
-<span id="notenruckblick-drucken" class="legacy-anchor" aria-hidden="true"></span>
 ## Notenrückblick drucken
 
 Mit *Notenrückblick drucken* können Sie den Notenrückblick der Note ausdrucken - eine Mehrfachselektion ist möglich.

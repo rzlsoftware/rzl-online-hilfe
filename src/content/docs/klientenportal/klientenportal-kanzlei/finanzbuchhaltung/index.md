@@ -3,7 +3,6 @@ title: Finanzbuchhaltung
 program: Klientenportal
 ---
 
-<span id="finanzbuchhaltung" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Fibu Vorerfassung
 

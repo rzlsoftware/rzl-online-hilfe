@@ -3,7 +3,6 @@ title: Arbeitszeitkalender
 program: LENext
 ---
 
-<span id="arbeitszeitkalender" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Allgemeines
 

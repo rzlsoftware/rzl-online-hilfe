@@ -3,9 +3,7 @@ title: Übernahme Salden
 program: FIBUNext
 ---
 
-<span id="ubernahme-salden" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="ubernahme-salden_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Übernahme Salden
 
 

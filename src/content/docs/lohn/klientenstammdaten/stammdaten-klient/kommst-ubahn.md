@@ -3,7 +3,6 @@ title: Kommunalsteuer / U-Bahn
 program: LOHN
 ---
 
-<span id="kommunalsteuer-u-bahn" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image25.png>){width="500"}
 

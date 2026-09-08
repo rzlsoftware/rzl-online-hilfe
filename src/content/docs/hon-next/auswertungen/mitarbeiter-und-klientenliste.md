@@ -57,7 +57,6 @@ Wenn Sie einen Klienten markieren, gelangen Sie mit der Schaltfläche *zu
 den Klientstammdaten* direkt zu den Klientenstammdaten im Board.
 
 :::
-<span id="klientenubergreifendes-andern-von-stammdaten" class="legacy-anchor" aria-hidden="true"></span>
 ### Klientenübergreifendes Ändern von Stammdaten
 
 Über die Klientenliste können Sie für mehrere Klienten auf einmal die

@@ -3,7 +3,6 @@ title: Scheinunternehmerabfrage
 program: FIBUNext
 ---
 
-<span id="scheinunternehmerabfrage" class="legacy-anchor" aria-hidden="true"></span>
 
 Gemäß § 8 Sozialbetrugsbekämpfungsgesetz (SBBG) muss das Bundesministerium für Finanzen verpflichtend eine Liste der rechtskräftig festgestellten Scheinunternehmen zur Verfügung stellen. Um Ihnen während der laufenden Buchführung einen schnellen Zugang zu dieser Liste zu ermöglichen, besteht die Option im RZL-Board und in der RZL-FIBU eine Scheinunternehmerabfrage durchzuführen.
 
@@ -31,7 +30,6 @@ Mit der Schaltfläche *Protokoll Abfragen (2)* erhalten Sie eine Liste mit allen
 
 Das erste Symbol zeigt, dass die Abfrage automatisch über den RZL Dienst durchgeführt wurde und das zweite Symbol zeigt, dass die Abfrage manuell angestoßen wurde.
 
-<span id="prufung-der-scheinunternehmen-in-den-kontostammdaten" class="legacy-anchor" aria-hidden="true"></span>
 ## Prüfung der Scheinunternehmen in den Kontostammdaten
 
 In den Kontostammdaten *(Stammdaten / Konten)* gibt es analog zur Personenliste die Funktion *auf Scheinunternehmen prüfen*. 

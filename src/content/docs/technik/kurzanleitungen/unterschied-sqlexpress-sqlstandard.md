@@ -3,7 +3,6 @@ title: Technische Unterschiede zwischen SQL-Server Express und SQL-Server Standa
 program: technik
 ---
 
-<span id="technische-unterschiede-zwischen-sql-server-express-und-sql-server-standard" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Folgenden werden die technischen Unterschiede zwischen den SQL-Server Editionen **Express** und **Standard** im Zusammenhang mit RZL Programmen aufgelistet. Die Unterschiede treffen auf SQL-Server 2025 zu. 
 

@@ -3,9 +3,7 @@ title: Elektronische Dienstgeberabgabeerklärung
 program: LOHN
 ---
 
-<span id="elektronische-dienstgeberabgabeerklarung" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="erstellung-der-ubermittlungsdatei" class="legacy-anchor" aria-hidden="true"></span>
 ## Erstellung der Übermittlungsdatei
 
 Für die Erstellung der Übermittlungsdatei finden Sie den Menüeintrag unter *Bearbeiten / Elektronische Übermittlung / Elektronische U-Bahn Steuer / Wr. Dienstgeberabgabe-Erklärung erstellen*.
@@ -32,7 +30,6 @@ Neben der xml-Vorschau gibt es im Übermittlungsdialog auch noch das gewohnte Pr
 
 Über die Schaltfläche *Senden* kann sofort in den Übermittlungsdialog zur Dienstgeberabgabe gewechselt werden.
 
-<span id="klientenubergreifende-erstellung-der-dienstgeberabgabe-meldung" class="legacy-anchor" aria-hidden="true"></span>
 ## Klientenübergreifende Erstellung der Dienstgeberabgabe-Meldung
 
 Es gibt die Möglichkeit, eine gemeinsame Datei für sämtliche Kanzleiklienten zu erstellen. Über den Menüpunkt *Klient / Elektronische Übermittlung / Elektronische U-Bahn Steuer / Wr. Dienstgeberabgabe-Erklärung erstellen* können Sie eine gemeinsame Datei für sämtliche Klienten in der Kanzlei erstellen.
@@ -41,7 +38,6 @@ Es gibt die Möglichkeit, eine gemeinsame Datei für sämtliche Kanzleiklienten 
 
 Die restlichen Funktionen entsprechen der Vorgehensweise wie bei der Erstellung der Datei für einen einzigen Klienten.
 
-<span id="ubermittlung-der-datei-an-das-magistrat-der-stadt-wien" class="legacy-anchor" aria-hidden="true"></span>
 ## Übermittlung der Datei an das Magistrat der Stadt Wien
 
 Den Übermittlungsdialog können Sie über den Menüpunkt *Klient / Elektronische Übermittlung / Elektronische U-Bahn Steuer / Wr. Dienstgeberabgabe-Erklärung absenden* finden.

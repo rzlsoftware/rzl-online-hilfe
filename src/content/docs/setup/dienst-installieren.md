@@ -3,7 +3,6 @@ title: RZL Dienst installieren
 program: setup
 ---
 
-<span id="rzl-dienst-installieren" class="legacy-anchor" aria-hidden="true"></span>
 
 Dieses Kapitel richtet sich an System-Administratoren und beschreibt die
 notwendigen Schritte, um den RZL Dienst einzurichten, der für folgende
@@ -105,10 +104,8 @@ stoppen und starten.
 
 ![RZL-Admin - Verwaltung RZL Dienst](img/RZLAdmin_VerwaltungRZLDienst.png)
 
-<span id="zusatzliche-optionale-konfiguration" class="legacy-anchor" aria-hidden="true"></span>
 ## Zusätzliche, optionale Konfiguration
 
-<span id="kis-schnittstelle-fur-scanner-anbindung" class="legacy-anchor" aria-hidden="true"></span>
 ### KIS-Schnittstelle für Scanner-Anbindung
 
 Über die angebundenen Scan-Lösungen der
@@ -124,7 +121,6 @@ beim Update automatisch in einen Servicemitarbeiter migriert und ist
 somit im *RZL Board* bzw. *KIS* **nicht** mehr sichtbar.
 
 :::
-<span id="direkte-anbindung-uber-webservice" class="legacy-anchor" aria-hidden="true"></span>
 ### Direkte Anbindung über Webservice
 
 Standardmäßig können Verbindungen auf den Web Service nur innerhalb des
@@ -138,7 +134,6 @@ Regel oder IP-Beschränkung).
 Falls Scans von einem mobilen Endgerät im Kanzlei-Netzwerk kommen, sollte am
 DHCP-Server eine feste IP für das Gerät eingerichtet werden.
 
-<span id="anbindung-uber-ordneruberwachung" class="legacy-anchor" aria-hidden="true"></span>
 ### Anbindung über Ordnerüberwachung
 
 Damit Dokumente automatisch aus einem Scanordner ins KIS übernommen werden,

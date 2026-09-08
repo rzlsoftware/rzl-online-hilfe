@@ -3,7 +3,6 @@ title: Migration einer Installation mit Datenbank und Dokumentenverwaltung
 program: technik
 ---
 
-<span id="migration-einer-installation-mit-datenbank-und-dokumentenverwaltung" class="legacy-anchor" aria-hidden="true"></span>
 
 :::caution[Hinweis]
 Diese Anleitung ist nur anzuwenden, wenn die RZL Komplettsicherung nicht verwendet werden kann.
@@ -28,7 +27,6 @@ Bevor Sie mit der Migration beginnen, prüfen Sie unbedingt, ob die geplante Umg
 ## Grundinstallation
 Wir setzen auf der neuen Umgebung eine Grundinstallation voraus, in die Daten wiederhergestellt werden. Hier können Sie genau wie bei einer Neuinstallation vorgehen. [Hierzu prüfen Sie bitte die Ersten Schritte zur Installation](/technik/erste-schritte/)
 
-<span id="daten-ermitteln-wiederherstellen" class="legacy-anchor" aria-hidden="true"></span>
 ## Daten ermitteln / wiederherstellen
 Folgende Verzeichnisse und Dateien müssen für die Rekonstruktion der RZL Installation organisiert werden:  
 
@@ -94,6 +92,5 @@ Für die Rekonstruktion rein über die Datenbankdateien werden folgende Dateien 
 Eine Dokumentation, wie Sie die Datenbank auf einer neuen Instanz rekonstruieren, finden Sie hier:   
 [Verschieben einer FILESTREAM-aktivierten Datenbank &#8599;](https://learn.microsoft.com/de-de/sql/relational-databases/blob/move-a-filestream-enabled-database?view=sql-server-ver17)   
 
-<span id="anderung-bei-neuer-domane" class="legacy-anchor" aria-hidden="true"></span>
 ## Änderung bei neuer Domäne
 Hierzu können Sie die Dokumentation [SQL-Server Berechtigungskonzept](/technik/kurzanleitungen/sqlserver-berechtigungskonzept/) anwenden, um entsprechende Änderungen in der Datenbank vorzunehmen.

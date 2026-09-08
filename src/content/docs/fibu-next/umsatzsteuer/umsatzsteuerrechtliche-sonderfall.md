@@ -3,9 +3,7 @@ title: Umsatzsteuerrechtliche Sonderfälle
 program: FIBUNext
 ---
 
-<span id="umsatzsteuerrechtliche-sonderfalle" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="umsatzsteuerrechtliche-sonderfalle_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Umsatzsteuerrechtliche Sonderfälle
 
 ### Innerg. Lieferung neuer Fahrzeuge an Abnehmer ohne UID-Nr.
@@ -29,7 +27,6 @@ program: FIBUNext
 Bei Buchungen in Verbindung mit der Kennziffer *018* der UVA ist zwingend das Formular *U17* bzw. *U17a* auszufüllen und beim zuständigen Finanzamt einzureichen.
 
 :::
-<span id="buchen-von-echt-bzw-unecht-befreiten-umsatzen" class="legacy-anchor" aria-hidden="true"></span>
 ### Buchen von echt bzw. unecht befreiten Umsätzen
 
 
@@ -49,7 +46,6 @@ Bei Buchungen in Verbindung mit der Kennziffer *018* der UVA ist zwingend das Fo
 Bei Buchungen von unecht befreiten Umsätzen gem. §6 UStG (Code *M01\*)* müssen Sie unter *STAMM / FIBU / USt* die betroffene Ziffer eintragen.
 
 :::
-<span id="dreiecksgeschafte" class="legacy-anchor" aria-hidden="true"></span>
 ### Dreiecksgeschäfte
 
 Ein Dreiecksgeschäft liegt vor, wenn mehrere Unternehmer in mehrere verschiedenen Mitgliedstaaten Geschäfte über die gleiche Ware abschließen und diese unmittelbar vom ersten Unternehmer an den letzten Abnehmer gelangt.
@@ -109,7 +105,6 @@ Sie können dazu im Buchungsdialog im Feld *Datum* mit rechter Maustaste oder F1
 
 ![Image](<img/NeuesElement136.png>)
 
-<span id="aufteilung-nichtabzugsfahige-vorsteuer" class="legacy-anchor" aria-hidden="true"></span>
 ### Aufteilung nichtabzugsfähige Vorsteuer
 
 Sie können beim jeweiligen Klienten unter *STAMM / FIBU / Umsatzsteuer* das Häkchen für *Aufteilung nichtabzugsfähige Vorsteuer* setzen und den Prozentsatz des Vorsteuer-Abzugs eintragen.

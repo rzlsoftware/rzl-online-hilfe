@@ -3,7 +3,6 @@ title: Auswahlkriterien
 program: LOHN
 ---
 
-<span id="auswahlkriterien" class="legacy-anchor" aria-hidden="true"></span>
 
 Der Programmteil *Stamm / Auswahlkriterien* bietet die Möglichkeit, Auswahlkriterien anzulegen und bestimmten Dienstnehmern zuzuordnen.
 

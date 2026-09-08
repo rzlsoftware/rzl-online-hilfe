@@ -3,7 +3,6 @@ title: Erstellung ÖGK-Datei (2)
 program: LOHN
 ---
 
-<span id="erstellung-ogk-datei-2" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image183.png>){width="600"}
 

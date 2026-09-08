@@ -3,7 +3,6 @@ title: Wiederherstellen
 program: rzladmin
 ---
 
-<span id="wiederherstellen" class="legacy-anchor" aria-hidden="true"></span>
 
 In diesen Bereich haben Sie die Möglichkeit, eine zuvor erstellte Sicherung
 wiederherzustellen.

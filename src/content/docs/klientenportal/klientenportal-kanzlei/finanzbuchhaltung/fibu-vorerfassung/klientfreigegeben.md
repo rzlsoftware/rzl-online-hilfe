@@ -3,7 +3,6 @@ title: Vom Klienten freigegebene Daten
 program: Klientenportal
 ---
 
-<span id="vom-klienten-freigegebene-daten" class="legacy-anchor" aria-hidden="true"></span>
 
 Sie haben im Kanzleibereich des RZL Klientenportal im Programmteil *Finanzbuchhaltung / Vom Klienten freigegebene Daten* eine Übersicht über die Daten des Klienten.
 
@@ -32,7 +31,6 @@ Durch den Saldo der Buchungen wird die Differenz zwischen Anfangssaldo und Endsa
 
 Nach Anwahl der Schaltfläche *Drucken* können Sie den gewünschten Drucker auswählen und die Ansicht ausdrucken.
 
-<span id="folgende-buchungen-wurden-vom-klienten-fur-die-verarbeitung-freigegeben" class="legacy-anchor" aria-hidden="true"></span>
 ## Folgende Buchungen wurden vom Klienten für die Verarbeitung freigegeben 
 
 Hier erhalten Sie eine Ansicht jener Buchungen, die der Klient im Klientenbereich erfasst und bereits freigegen hat. Durch Anwahl des Papierkorb-Symbols kann eine Vorerfassung gelöscht werden.
@@ -43,7 +41,6 @@ Gelöschte Vorerfassungen werden in den Bereich *Folgende freigegebenen Buchunge
 
 Dieser Bereich zeigt jene Buchungen an, die im Moment in die Buchhaltung/EA-Rechnung übernommen werden (Programmteil in Fibu/EA: *Bearbeiten / Klientenportal / Buchungen importieren*).
 
-<span id="folgende-buchungen-wurden-bereits-ubernommen" class="legacy-anchor" aria-hidden="true"></span>
 ## Folgende Buchungen wurden bereits übernommen 
 
 In diesem Bereich sehen Sie die Buchungen, die bereits in die Fibu/EA-Rechnung übernommen worden sind. Hier können Sie - für die Darstellung der Ansicht - im Bereich *Erfassungszeitraum auswählen* -- verschiedene Filter setzen. Der Standardfilter ist *die letzten 6 Monate*. Mögliche Filter sind noch: *die letzten 12 Monate*, *die
@@ -51,7 +48,6 @@ letzten 24 Monate* und *alle*.
 
 In Ausnahmefällen kann eine bereits übernommene Vorerfassung durch Anwahl des Pfeilsymbols ganz rechts wieder aktiviert werden. Das bedeutet, dass die Buchungen wieder übernommen werden können.
 
-<span id="folgende-freigegebene-buchungen-wurden-durch-einen-kanzleibenutzer-geloscht" class="legacy-anchor" aria-hidden="true"></span>
 ## Folgende freigegebene Buchungen wurden durch einen Kanzleibenutzer gelöscht
 
 Dieser Bereich zeigt, welche freigegebenen Buchungen durch welchen Kanzleibenutzer gelöscht wurden und zu welchem Zeitpunkt die Löschung erfolgte. Diese Vorerfassungen können durch Anwahl des Pfeil-Symbols ganz rechts wieder aktiviert werden.

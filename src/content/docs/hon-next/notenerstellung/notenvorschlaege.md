@@ -3,7 +3,6 @@ title: Notenvorschläge
 program: HONNext
 ---
 
-<span id="notenvorschlage" class="legacy-anchor" aria-hidden="true"></span>
 
 Damit die Notenerstellung geöffnet wird, wählen Sie den Menüpunkt
 *Honorarnoten – Notenerstellung* aus.

@@ -3,7 +3,6 @@ title: Journal
 program: FIBUNext
 ---
 
-<span id="journal" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Auswertung Journal
 
@@ -21,7 +20,6 @@ Mit den Filter- und Sortierfunktionen in den Spaltenüberschriften können Sie d
 Mit der Spalte *Betrag (Soll/Haben*), welche optional eingeblendet werden kann, können Sie nach Beträgen suchen, ohne eine Einschränkung auf die Soll- oder Haben-Seite. Das heißt, Sie können diese Funktion verwenden, falls Sie nach Beträgen suchen möchten und nicht wissen, ob diese auf der Soll- oder Habenseite gebucht wurden.
 
 :::
-<span id="aufruf-zugehorige-op" class="legacy-anchor" aria-hidden="true"></span>
 ## Aufruf zugehörige OP
 
 Wenn eine Buchung markiert ist, die mit einem Offenen Posten gebucht wurde, kann über das Kontextmenü die Funktion ***Aufruf zugehörige OP*** gestartet werden. 

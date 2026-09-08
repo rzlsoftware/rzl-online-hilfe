@@ -3,7 +3,6 @@ title: Rückverrechnung von Minusstunden
 program: LOHN
 ---
 
-<span id="ruckverrechnung-von-minusstunden" class="legacy-anchor" aria-hidden="true"></span>
 
 Unterschreitet der Arbeitnehmer mit seiner tatsächlichen Arbeitsleistung die vereinbarte Normalarbeitszeit, stellt sich die Frage, ob der Arbeitgeber das auf diese Minderleistung entfallende Entgelt zurückfordern darf. 
 

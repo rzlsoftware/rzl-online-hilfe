@@ -3,7 +3,6 @@ title: Auflistung Musterreports
 program: Reporting
 ---
 
-<span id="auflistung-musterreports" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Bilanz
 

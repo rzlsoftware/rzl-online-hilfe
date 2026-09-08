@@ -3,7 +3,6 @@ title: Bilanz und Finanzbuchhaltung
 program: Reporting
 ---
 
-<span id="bilanz-und-finanzbuchhaltung" class="legacy-anchor" aria-hidden="true"></span>
 
 Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das Reporting im *RZL Bilanz- und Finanzbuchhaltungsprogramm*. Seitens RZL Software werden Ihnen mit dem *Reporting-Modul* auch diverse RZL-Musterreports zur Verfügung gestellt.
 
@@ -17,7 +16,6 @@ Die RZL-Musterreports werden stetig erweitert. Neuerungen werden auch im Zuge de
 :::
 Diese Musterreports können nach erfolgreicher Installation in der *ZMV* auf den gewünschten Klienten überspielt und anschließend individuell angepasst und abgeändert werden.
 
-<span id="liste-der-bilanz-und-finanzbuchhaltungsformeln" class="legacy-anchor" aria-hidden="true"></span>
 ## Liste der Bilanz- und Finanzbuchhaltungsformeln
 
 Die folgenden Formeln sind sowohl in der *RZL Finanzbuchhaltung* als auch im *RZL Bilanzprogramm* anwendbar.
@@ -112,7 +110,6 @@ Die folgenden Formeln sind sowohl in der *RZL Finanzbuchhaltung* als auch im *RZ
 | `Bil().MonatWJ().MonWert`{data-clipboard-text="Bil().MonatWJ().MonWert"}       | Monatswert der ausgewählten Bilanzposition(en) des ausgewählten Wirtschaftsjahres der Gliederung       |
 | `Bil().MonatWJ().Wert`{data-clipboard-text="Bil().MonatWJ().Wert"}             | Kontensaldo bis zum ausgewählten Monat des WJ der Gliederung                                           |
 
-<span id="gewinn-und-verlustrechnung" class="legacy-anchor" aria-hidden="true"></span>
 ### Gewinn- und Verlustrechnung
 
 | **Formel**                                                                                                       | **Beschreibung**                                                                    |
@@ -150,7 +147,6 @@ Die folgenden Formeln sind sowohl in der *RZL Finanzbuchhaltung* als auch im *RZ
 | `GuVKonto().Nummer`{data-clipboard-text="GuVKonto().Nummer"}                                                     | Nummer des GuV-Kontos                                                               |
 | `GuVKonto().Text`{data-clipboard-text="GuVKonto().Text"}                                                         | Bezeichnung des GuV-Kontos                                                          |
 
-<span id="ker-kurzfristige-erfolgsrechnung" class="legacy-anchor" aria-hidden="true"></span>
 ### KER - Kurzfristige Erfolgsrechnung
 
 | **Formel**                                                                       | **Beschreibung**                                                             |
@@ -341,7 +337,6 @@ Die folgenden Formeln sind sowohl in der *RZL Finanzbuchhaltung* als auch im *RZ
 | `KontoArt().Nummer`{data-clipboard-text="KontoArt().Nummer"} | Nummer der Kontoart                              |
 | `KontoArt().Text`{data-clipboard-text="KontoArt().Text"}     | Bezeichnung der Kontoart                         |
 
-<span id="formelliste-fur-die-rzl-bilanz" class="legacy-anchor" aria-hidden="true"></span>
 ## Formelliste für die RZL Bilanz
 
 Die folgenden Formeln können nur im Bilanz-Reporting verwendet werden.
@@ -400,7 +395,6 @@ Die folgenden Formeln können nur im Bilanz-Reporting verwendet werden.
 | `AnlBil().Nummer`{data-clipboard-text="AnlBil().Nummer"}                                                 | Zeigt die Nummer der ausgewählten Gliederung an           |
 | `AnlBil().Text`{data-clipboard-text="AnlBil().Text"}                                                     | Zeigt den Text der ausgewählten Gliederung an             |
 
-<span id="gesellschafter-und-geschaftsfuhrer" class="legacy-anchor" aria-hidden="true"></span>
 ### Gesellschafter und Geschäftsführer
 
 | **Formel**                                                 | **Beschreibung**                                                                 |
@@ -420,7 +414,6 @@ Die folgenden Formeln können nur im Bilanz-Reporting verwendet werden.
 | `Gf().Vorname`{data-clipboard-text="Gf().Vorname"}         | Vorname des Geschäftsführers                                                     |
 | `Gf().Wortlt`{data-clipboard-text="Gf().Wortlt"}           | Firmenname der Komplementär GmbH des dafür zuständigen Geschäftsführers          |
 
-<span id="formelliste-fur-das-mahnwesen-in-der-rzl-finanzbuchhaltung" class="legacy-anchor" aria-hidden="true"></span>
 ## Formelliste für das Mahnwesen in der RZL-Finanzbuchhaltung
 
 Die folgenden Formeln sind für Mahnvorlagen in der *RZL Finanzbuchhaltung* anwendbar.
@@ -465,7 +458,6 @@ RZL bietet Ihnen Mustermahnschreiben in Form eines Reports mit der Nummer *91-RZ
 | `Konto.PLZ`{data-clipboard-text="Konto.PLZ"}                                         | Postleitzahl des Kunden                                                                                                                          |
 | `Konto.SVNr`{data-clipboard-text="Konto.SVNr"}                                       | Sozialversicherungsnummer des Kunden                                                                                                             |
 
-<span id="buchungen-offene-posten" class="legacy-anchor" aria-hidden="true"></span>
 ### Buchungen / Offene Posten
 
 | **Formel**                                                                                   | **Beschreibung**                                         |

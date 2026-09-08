@@ -3,7 +3,6 @@ title: Elektronische Übermittlung der Meldungen
 program: LOHN
 ---
 
-<span id="elektronische-ubermittlung-der-meldungen" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Erstellung der Monatsmeldung und der Urlaubsentgeltsmeldung
 
@@ -59,7 +58,6 @@ Austrittsmeldungen können erstellt bzw. auch durch Anwahl des Eintrages *Storno
 
 Der Versand der Austrittsmeldungen erfolgt im Programmteil *Klient / Elektronische Meldung / BUAK Austrittsmeldung absenden*.
 
-<span id="ubermittlung-der-buak-austrittsmeldung" class="legacy-anchor" aria-hidden="true"></span>
 ## Übermittlung der BUAK-Austrittsmeldung
 
 Über *Klient / Elektronische Übermittlung / BUAK Austrittsmeldung* *absenden* werden Sie über Ihren Browser auf die Login-Seite des BUAK-Portals weitergeleitet. Nach dem Login finden Sie über das *Steuerberatungsportal* oder *Firmenportal* und anschließende *Meldungseingabe* die Option *Direktdaten* und letztlich den Punkt *Meldung Austritt*.
@@ -70,7 +68,6 @@ Der Versand der Austrittsmeldungen erfolgt im Programmteil *Klient / Elektronisc
 
 Die betroffene Datei können Sie hier auswählen und mit der Tastenkombination *Strg + V* einfügen und anschließend prüfen und speichern lassen.
 
-<span id="import-buak-ruckmeldung" class="legacy-anchor" aria-hidden="true"></span>
 ## Import BUAK-Rückmeldung
     
 Im Programmteil *Bearbeiten / Elektronische Übermittlung / Elektronische Monatsmeldung BUAK-Rückdatei importieren* können die XML-Dateien, die die BUAK zum Download zur Verfügung stellt, importiert werden.
@@ -85,7 +82,6 @@ Im Abrechnungsbildschirm *BUAK* werden im Bereich *Urlaubsentgelt-Verrechnung (n
 Über *Bearbeiten / Elektronische Übermittlung / Elektronische Urlaubsentgeltsmeldung BUAK-Rückdatei importieren* können Sie die Rückdatei zur Urlaubsverrechnung übernehmen.
 
 :::
-<span id="herunterladen-der-buak-ruckmeldung-im-buak-portal" class="legacy-anchor" aria-hidden="true"></span>
 ## Herunterladen der BUAK-Rückmeldung im BUAK-Portal
 
 Loggen Sie sich im BUAK-Portal ein. Wählen Sie den Punkt Portal an und gehen Sie dann auf Meldungseingabe.

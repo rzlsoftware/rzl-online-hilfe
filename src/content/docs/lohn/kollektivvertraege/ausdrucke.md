@@ -3,7 +3,6 @@ title: Ausdrucke
 program: LOHN
 ---
 
-<span id="ausdrucke" class="legacy-anchor" aria-hidden="true"></span>
 
 **KV-Einstufungen**
 

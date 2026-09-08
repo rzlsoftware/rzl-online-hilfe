@@ -3,7 +3,6 @@ title: Installation RZL Kanzlei-Informations-System (KIS)/Board (FIBU Next, HON 
 program: setup
 ---
 
-<span id="installation-rzl-kanzlei-informations-system-kisboard-fibu-next-hon-next" class="legacy-anchor" aria-hidden="true"></span>
 
 Diese Beschreibung ist für *Techniker & Systemadministratoren* gedacht. Sie
 enthält Anleitungen für die Installation des Datenbank-Servers und der
@@ -46,7 +45,6 @@ beschrieben vor.
     2.  *Bei einer Neuinstallation:* Fahren Sie mit dem ZMV-Assistenten fort
         und lassen Sie die ZMV-Datenbank automatisch anlegen.
 
-<span id="zmv-daten-in-die-datenbank-ubernehmen" class="legacy-anchor" aria-hidden="true"></span>
 ## ZMV-Daten in die Datenbank übernehmen
 
 Im Falle einer Neuinstallation können Sie diesen Punkt überspringen.
@@ -167,7 +165,6 @@ Dienste und IFilter.
 3.  Bestätigen Sie mit *Weiter* und *Installieren*.
     Falls erforderlich, starten Sie den Server neu.
 
-<span id="schritt-2-fur-microsoft-server-201620192022" class="legacy-anchor" aria-hidden="true"></span>
 ### Schritt 2 für Microsoft Server 2016/2019/2022:
 
 Falls *Microsoft Office Filter* für Office-Dateien nicht aktiv sind:
@@ -178,7 +175,6 @@ Falls *Microsoft Office Filter* für Office-Dateien nicht aktiv sind:
 2.  Installieren Sie das *Service Pack 2* für das Filter Pack (64-bit):  
     [KB2687447](https://www.microsoft.com/de-de/download/details.aspx?id=39668)
 
-<span id="installation-abschlieen" class="legacy-anchor" aria-hidden="true"></span>
 ## Installation abschließen
 
 1.  *Ein klassisches RZL Programm starten* (z. B.: Finanzbuchhaltung, Lohnverrechnung, ...).
@@ -192,10 +188,8 @@ Falls *Microsoft Office Filter* für Office-Dateien nicht aktiv sind:
 
 
 
-<span id="zusatzliche-konfigurationen-optional" class="legacy-anchor" aria-hidden="true"></span>
 ## Zusätzliche Konfigurationen (optional)
 
-<span id="weitere-benutzer-berechtigen-ein-rzl-update-durchzufuhren" class="legacy-anchor" aria-hidden="true"></span>
 ### Weitere Benutzer berechtigen, ein RZL Update durchzuführen
 
 Um ein Update auf eine neue Programmversion durchzuführen,

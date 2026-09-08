@@ -197,7 +197,6 @@ ist, wird dieses Symbol angezeigt. Die bestehende Regel der
 verwendeten Schablone kann bearbeitet werden. Die verwendete Schablone
 wird in einem eigenen Feld angezeigt.
 
-<span id="anlegenbearbeiten-der-erkennungsregel-zb-fehlende-fremdbelegnummer" class="legacy-anchor" aria-hidden="true"></span>
 #### Anlegen/Bearbeiten der Erkennungsregel – z.B. fehlende Fremdbelegnummer
 
 ![](img/image46.png){width="350"}   
@@ -341,7 +340,6 @@ Die Möglichkeit des Formates unterscheidet sich pro Feld, in dem Sie
 eine Erkennungsregel erstellen (z.B. Ziffernfolge, Text einzeilig, Text
 mehrzeilig, benutzerdefiniert bei der Belegnummer).
 
-<span id="regeln-fur-steuerzeilen-gegenbuchungen-anlegen" class="legacy-anchor" aria-hidden="true"></span>
 ### Regeln für Steuerzeilen (Gegenbuchungen) anlegen
 
 Im Bereich der Steuerzeilen können Sie ebenfalls Regeln anlegen, um

@@ -3,7 +3,6 @@ title: Notenrückblick
 program: HONNext
 ---
 
-<span id="notenruckblick" class="legacy-anchor" aria-hidden="true"></span>
 
 Ein Notenrückblick soll Ihnen die bereits verrechneten Noten beim
 Klienten zum Nachsehen aufzeigen. Sie erhalten einen Überblick über alle

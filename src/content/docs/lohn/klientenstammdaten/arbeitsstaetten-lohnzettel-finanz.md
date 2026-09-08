@@ -3,7 +3,6 @@ title: Arbeitsstätten – Lohnzettel Finanz
 program: LOHN
 ---
 
-<span id="arbeitsstatten-lohnzettel-finanz" class="legacy-anchor" aria-hidden="true"></span>
 
 Auf den Lohnzetteln Finanz muss die letzte Arbeitsstättenadresse des Arbeitnehmers angegeben werden, welcher er entweder am 31.12. oder an einem früheren Austrittstag zugehörig war. Baustellen und mobile Verkaufsstellen gelten dabei nicht als Arbeitsstätte.
 

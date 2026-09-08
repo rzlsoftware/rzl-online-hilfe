@@ -3,9 +3,7 @@ title: Belege nachträglich zuordnen oder entfernen
 program: Belegverarbeitung
 ---
 
-<span id="belege-nachtraglich-zuordnen-oder-entfernen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="belege-im-bereich-ungebuchte-belege-nachtraglich-einer-buchung-zuordnen" class="legacy-anchor" aria-hidden="true"></span>
 ## Belege im Bereich *Ungebuchte Belege* nachträglich einer Buchung zuordnen
 
 Wenn Sie die Buchungen in der FIBU bereits durchgeführt haben und den
@@ -42,7 +40,6 @@ Detail* im Registerblatt *DMS*.
     gebucht markiert und kann somit nicht einer anderen Buchung
     zugeordnet werden.
 
-<span id="belege-im-bereich-gebuchte-belege-nachtraglich-entfernen-und-einen-neuen-beleg-zuordnen" class="legacy-anchor" aria-hidden="true"></span>
 ## Belege im Bereich *gebuchte Belege* nachträglich entfernen und einen neuen Beleg zuordnen
 
 Wenn Sie die Buchungen mit Belegen in der FIBU bereits durchgeführt haben und den Beleg im Nachhinein von der Buchung entfernen möchten gehen Sie bitte folgendermaßen vor:   

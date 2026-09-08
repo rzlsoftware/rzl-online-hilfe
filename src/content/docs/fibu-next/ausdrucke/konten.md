@@ -3,7 +3,6 @@ title: Konten
 program: FIBUNext
 ---
 
-<span id="konten" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Ausdruck Konten
 

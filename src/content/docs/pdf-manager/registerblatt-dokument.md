@@ -3,7 +3,6 @@ title: Registerblatt „Dokument“
 program: PDFManager
 ---
 
-<span id="registerblatt-dokument" class="legacy-anchor" aria-hidden="true"></span>
 
 Im folgenden Abschnitt werden die Symbole und Einstellungen in der
 Registerblatt *Dokument* erläutert.
@@ -11,13 +10,11 @@ Registerblatt *Dokument* erläutert.
 
 ![](<img/image27.png>)
 
-<span id="dokument-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ## Dokument hinzufügen
 
 Mit der Schaltfläche *Dokument hinzufügen* (STRG + H) können Sie externe
 Dateien (Dokumente und Bilder) zum RZL PDF-Manager hinzufügen.
 
-<span id="verzeichnis-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ## Verzeichnis hinzufügen
 
 Mit der Schaltfläche *Verzeichnis hinzufügen* können Sie „alle“
@@ -34,7 +31,6 @@ Diese Schaltfläche können Sie erst anklicken, wenn
 Sie mindestens ein Dokument markiert haben.
 
 :::
-<span id="dokumente-zusammenfuhren" class="legacy-anchor" aria-hidden="true"></span>
 ## Dokumente zusammenführen
 
 Sie haben die Möglichkeit, bestehende Dokumente im RZL PDF-Manager zu
@@ -54,7 +50,6 @@ Anschließend wird Ihnen ein neues zusammengefügtes Dokument erstellt,
 welches Sie weiterbearbeiten (Wasserzeichen, Hintergrund,
 Dokumentenschutz, …) können.
 
-<span id="zusammengefuhrte-dokumente-wieder-trennen" class="legacy-anchor" aria-hidden="true"></span>
 ## Zusammengeführte Dokumente wieder trennen
 
 Um ein zusammengeführtes Dokument wieder zu trennen, markieren Sie das
@@ -75,7 +70,6 @@ zuvor getätigten Veränderungen rückgängig gemacht und Sie können diese
 mit anderen Einstellungen vornehmen. (Bsp.:
 Wasserzeichen/Inhaltsverzeichnis verändern)
 
-<span id="dateigroe-aktualisieren" class="legacy-anchor" aria-hidden="true"></span>
 ## Dateigröße aktualisieren
 
 Beim Zusammenführen von Dokumenten vergrößert sich die Dateigröße. Mit

@@ -18,9 +18,7 @@ Eine Bereinigung der Klientengruppen bringt mehrere Vorteile:
 
 **Kurz gesagt: Weniger Klientengruppen – mehr Klarheit und weniger Pflegeaufwand.**
 
-<span id="funktionen-die-sie-beim-bereinigen-unterstutzen" class="legacy-anchor" aria-hidden="true"></span>
 ## Funktionen, die Sie beim Bereinigen unterstützen
-<span id="duplikate-zusammenfuhren" class="legacy-anchor" aria-hidden="true"></span>
 ### Duplikate zusammenführen
 Diese Funktion erkennt Klientengruppen, die dieselben Klienten enthalten, und fasst sie automatisch zu einer einzigen Klientengruppe zusammen. Bestehende Verwendungen werden dabei automatisch auf die zusammengeführte Klientengruppe umgestellt.
 

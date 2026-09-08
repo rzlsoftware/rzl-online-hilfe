@@ -3,13 +3,11 @@ title: Selbstbemessungsabgaben melden
 program: LOHN
 ---
 
-<span id="selbstbemessungsabgaben-melden" class="legacy-anchor" aria-hidden="true"></span>
 
 Seit dem 01.02.2016 werden von den Banken die eingescannten Zahlungsanweisungen nicht mehr an die Finanzämter weitergeleitet. Dies bedeutet, dass keine Möglichkeit mehr besteht, über ausgedruckte SEPA-Zahlungsanweisungen die Meldung der Selbstbemessungsabgaben zu erledigen.
 
 Folgende Alternativen stehen dafür zur Verfügung.
 
-<span id="erstellung-einer-sepa-finanzamts-uberweisungsdatei" class="legacy-anchor" aria-hidden="true"></span>
 ## Erstellung einer SEPA-Finanzamts-Überweisungsdatei
 
 Wie schon bisher kann über die Funktion *Bearbeiten / Electronic Banking (SEPA)/Abgaben* eine Überweisungsdatei erstellt werden.

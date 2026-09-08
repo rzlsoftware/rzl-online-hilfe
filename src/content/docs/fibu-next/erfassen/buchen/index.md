@@ -3,7 +3,6 @@ title: Buchen
 program: FIBUNext
 ---
 
-<span id="buchen" class="legacy-anchor" aria-hidden="true"></span>
 
 
 

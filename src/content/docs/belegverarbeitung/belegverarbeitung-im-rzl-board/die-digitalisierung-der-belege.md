@@ -3,7 +3,6 @@ title: Die Digitalisierung der Belege
 program: Belegverarbeitung
 ---
 
-<span id="die-digitalisierung-der-belege" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Scanordner vor der erstmaligen Nutzung einrichten
 

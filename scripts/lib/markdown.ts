@@ -11,7 +11,6 @@ export interface PreparedMarkdown {
   title: string;
   anchorMap: Map<string, string>;
   headingCount: number;
-  aliasCount: number;
   warnings: string[];
 }
 
@@ -151,10 +150,6 @@ function firstSubstantiveLine(lines: string[]): number {
   return -1;
 }
 
-function escapeAttribute(value: string): string {
-  return value.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
-}
-
 export function prepareMarkdown(
   body: string,
   existingTitle: unknown,
@@ -202,15 +197,6 @@ export function prepareMarkdown(
 
   const headingsByLine = new Map(headings.map((heading) => [heading.lineIndex, heading]));
   const output: string[] = [];
-  let aliasCount = 0;
-
-  const removedTitleAlias = structuralH1 && structuralH1.legacyId !== structuralH1.targetId
-    ? structuralH1.legacyId
-    : undefined;
-  if (removedTitleAlias) {
-    output.push(`<span id="${escapeAttribute(removedTitleAlias)}" class="legacy-anchor" aria-hidden="true"></span>`);
-    aliasCount += 1;
-  }
 
   lines.forEach((line, lineIndex) => {
     const heading = headingsByLine.get(lineIndex);
@@ -220,10 +206,6 @@ export function prepareMarkdown(
     }
     if (heading.removed) return;
 
-    if (heading.legacyId !== heading.targetId) {
-      output.push(`${heading.markerPrefix}<span id="${escapeAttribute(heading.legacyId)}" class="legacy-anchor" aria-hidden="true"></span>`);
-      aliasCount += 1;
-    }
     if (heading.depth === 1) {
       output.push(`${heading.markerPrefix}## ${heading.rawText}`);
     } else {
@@ -236,7 +218,6 @@ export function prepareMarkdown(
     title: title || fallbackTitle,
     anchorMap,
     headingCount: headings.length,
-    aliasCount,
     warnings,
   };
 }

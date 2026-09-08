@@ -3,7 +3,6 @@ title: Allgemeines
 program: HONNext
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
 In der Honorarverrechnung stehen Ihnen Auswertungen wie
 Mitarbeiterstatistik und Klientenstatistik sowie eine allgemeine

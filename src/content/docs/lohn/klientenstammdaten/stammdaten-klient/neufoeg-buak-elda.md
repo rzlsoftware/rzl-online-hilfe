@@ -3,9 +3,7 @@ title: Neufög, BUAK, ELDA
 program: LOHN
 ---
 
-<span id="neufog-buak-elda" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="neugrundungsforderungsgesetz-neufog" class="legacy-anchor" aria-hidden="true"></span>
 ## Neugründungsförderungsgesetz (NeuFöG)
 
 Unterliegt der Klient dem Neugründungsförderungsgesetz muss das Feld *Neugründungs­Förderungsgesetz (NeuFöG)* aktiviert und im Feld *Datum der Neugründung* das Datum eingetragen werden.
@@ -34,7 +32,6 @@ Wenn innerhalb der Liste ein Dienstnehmer markiert wird, wird durch Anwahl der r
 
 Dienstnehmer können – in Ausnahmefällen – durch Anwahl der *Entf-Taste* aus der Liste herausgelöscht werden. Zeilen können nur eingefügt werden, wenn noch nicht drei Dienstnehmer in der Liste eingetragen sind. Die *F5-Taste* (Aktualisieren) stellt die vom Programm erstellte Liste – falls Dienstnehmer gelöscht worden sind – wieder her.
 
-<span id="buak-bauarbeiter-urlaubs-abfertigungskasse" class="legacy-anchor" aria-hidden="true"></span>
 ## BUAK – Bauarbeiter-Urlaubs- & Abfertigungskasse
 
 vgl. [Bauarbeiter- Urlaubs- und Abfertigungskasse](/lohn/bauarbeiter-urlaubs-und-abfertigungskasse/abrechnungsbildschirm-bauarbeiter-urlaubs-und-abfertigungskasse/)
@@ -51,7 +48,6 @@ Diese Option ermöglicht die Eintragung einer externen Dienstnehmer-Nummer in de
 
 Durch Anhaken des Kästchens *keine DN-Suche* kann bei einer Dienstnehmersuche über alle Klienten, dieser eine Klient ausgeschlossen werden. Das heißt, Dienstnehmer aus diesem Klienten können nicht gesucht werden.
 
-<span id="elda-ruckmeldungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Elda-Rückmeldungen
 
 Wenn das Feld *Meldebestätigungen nicht importieren* aktiviert wird, werden für diesen Klienten keine ELDA-Rückmeldungen gespeichert.

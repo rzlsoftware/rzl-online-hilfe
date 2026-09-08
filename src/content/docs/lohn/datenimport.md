@@ -3,7 +3,6 @@ title: Datenimport
 program: LOHN
 ---
 
-<span id="datenimport" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Allgemeines
 
@@ -123,7 +122,6 @@ Im Registerblatt *Optionen* werden die Eigenschaften der Importdatei festgelegt:
 
 Nach der Festlegung der einzelnen Felder und des Formates der Import-Datei in den jeweiligen Registerblättern, wird durch Anwahl der Schaltfläche *Neu* die erstellte Liste im Ausgangsdialog (siehe oben) in den Bereich *Auswahl Listenform* eingetragen.
 
-<span id="durchfuhrung-des-datenimports" class="legacy-anchor" aria-hidden="true"></span>
 ## Durchführung des Datenimports
 
 Der Datenimport kann für die Abrechnungsarten *lfd. Abrechnung, Korrektur letzte Abrechnung, Wiedereintritt, Neuanlage, Neuanlage Exekution* und *Import Bankdaten* durchgeführt werden.

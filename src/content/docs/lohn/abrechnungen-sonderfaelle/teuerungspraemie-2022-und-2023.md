@@ -3,7 +3,6 @@ title: Teuerungsprämie (2022 und 2023)
 program: LOHN
 ---
 
-<span id="teuerungspramie-2022-und-2023" class="legacy-anchor" aria-hidden="true"></span>
 
 Neben der Mitarbeitergewinnbeteiligung wurde im Zuge des Teuerungsentlastungspakets mit der **Teuerungsprämie** eine weitere Möglichkeit für abgabenfreie Zahlungen an die Mitarbeiter eingeführt.
 

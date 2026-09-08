@@ -3,7 +3,6 @@ title: Personen und Firmen
 program: Board
 ---
 
-<span id="personen-und-firmen" class="legacy-anchor" aria-hidden="true"></span>
 
 Über Personen und Firmen rufen Sie die Liste all Ihrer angelegten
 Personen und Firmen auf. Unter Personen sind natürliche Personen und
@@ -201,7 +200,6 @@ geändert.
 
 ![](<img/image36.png>)
 
-<span id="finanzamter" class="legacy-anchor" aria-hidden="true"></span>
 ### **Finanzämter**
 
 Im Bereich Finanzämter können die Stammdaten der Finanzämter eingetragen
@@ -387,7 +385,6 @@ Unter den Kontakten können betriebsbezogene Kontakte hinterlegt werden
 
 ![](<img/image50.png>)
 
-<span id="person-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### **Person löschen**   
 
 Über *Person löschen* können Sie die Person löschen.
@@ -407,7 +404,6 @@ Zustellvertreter für Erklärungen und/oder Rechnungen.
 
 ![](<img/image51.png>)
 
-<span id="person-drucken-stammdatenausdruck" class="legacy-anchor" aria-hidden="true"></span>
 ### **Person drucken / Stammdatenausdruck**   
 
 Über *Person drucken* **(1)** gelangen Sie zum Druckdialog. Hier können
@@ -479,7 +475,6 @@ Die Bereiche *Tel./E-Mail/Adressen, Verwendung, Finanzämter,
 Bankverbindungen* und *Kontaktpersonen* unterscheiden sich nicht von der
 Ansicht der Personen.
 
-<span id="gesellschafterwirtsch-eigentumer" class="legacy-anchor" aria-hidden="true"></span>
 ### **Gesellschafter**/**wirtsch**. **Eigentümer**   
 Über diesen Bereich werden die Gesellschafter bzw. wirtschaftlichen
 Eigentümer verwaltet. Die Eintragung der Gesellschafter hat derzeit
@@ -544,7 +539,6 @@ im Registerblatt *Firmen II* als gesetzliche Vertreter.
 ![](<img/image60.png>)
 
 
-<span id="uid-nummern-uber-finanz-online-prufen" class="legacy-anchor" aria-hidden="true"></span>
 ## UID-Nummer(n) über Finanz-Online prüfen
 
 **UID Nummern Überprüfung in Personen-/Firmenstammdaten**
@@ -574,7 +568,6 @@ angelegt. Neben der Adresse finden Sie den Merker *UID*. Wenn Sie die
 Maus über diesen Merker bewegen, erscheint Ihnen die jeweilige UID
 Nummer der Adresse.
 
-<span id="uid-prufung-von-mehreren-klienten" class="legacy-anchor" aria-hidden="true"></span>
 ### UID Prüfung von mehreren Klienten
 
 Möchten Sie mehrere UID-Nummern auf einmal überprüfen, so können Sie die
@@ -584,7 +577,6 @@ Firmen Übersicht filtern (mit STRG + A markieren) und anschließend mit
 
 ![](<img/image63.png>)
 
-<span id="personen-firmenstammdaten-risiko-check" class="legacy-anchor" aria-hidden="true"></span>
 ## Personen-/Firmenstammdaten - Risiko-Check
 
 **Erstellen** **einer** **Datei** **für** **den** **Risiko**-**Check**
@@ -724,7 +716,6 @@ Falls ein Klient Verknüpfungen zu Personen aufweist, die als PEP in den
 Personenstammdaten gekennzeichnet wurden, so werden diese in den
 Klientenstammdaten im Bereich Geldwäscheprävention angezeigt.
 
-<span id="einschrankung-der-personenbezogenen-datenverarbeitung-art-18-dsgvo" class="legacy-anchor" aria-hidden="true"></span>
 ## Einschränkung der personenbezogenen Datenverarbeitung (Art. 18 DSGVO)
 
 **Einschränkung der Verarbeitung von Personendaten**

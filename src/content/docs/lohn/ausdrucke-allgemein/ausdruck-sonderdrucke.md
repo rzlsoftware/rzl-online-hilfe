@@ -3,7 +3,6 @@ title: Ausdruck Sonderdrucke
 program: LOHN
 ---
 
-<span id="ausdruck-sonderdrucke" class="legacy-anchor" aria-hidden="true"></span>
 
 Der Ausdruck der Meldungen an die Österreichische Gesundheitskasse erfolgt auf A4 nach dem verbindlichen Druckbildmuster des Hauptverbands der österreichischen Sozialversicherungsträger. Diese Ausdrucke sind jedoch zur Vorlage bei der Österreichischen Gesundheitskasse auf A5 zu kürzen.
 

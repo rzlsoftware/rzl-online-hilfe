@@ -3,7 +3,6 @@ title: Abmeldung Ummeldung
 program: LOHN
 ---
 
-<span id="abmeldung-ummeldung" class="legacy-anchor" aria-hidden="true"></span>
 
 Seit 01.01.2023 muss an die ÖGK bei einer Ummeldung eine Abmeldung und eine Anmeldung zugleich gesendet werden.
 
@@ -56,7 +55,6 @@ Im neuen Klient 99919 führen Sie im März einen Wiedereintritt durch.
 Es wird keine Anmeldung erzeugt, da die Abmeldung Ummeldung zugleich Abmeldung und Anmeldung ist.
 
 :::
-<span id="ummeldung-auf-andere-beitragskontonummer-dienstnehmer-in-prasenz-zivildienst-abfertigung-neu" class="legacy-anchor" aria-hidden="true"></span>
 ## Ummeldung auf andere Beitragskontonummer Dienstnehmer in Präsenz-/Zivildienst (Abfertigung NEU)
 
 Wenn sich ein Dienstnehmer während einer Ummeldung im Zivil- bzw. Präsenzdienst befindet, sollten Sie eine Richtigstellung Abmeldung erstellen. Eine erneute Anmeldung zur BV (Betrieblichen Vorsorgekasse) ist nicht nötig.
@@ -113,7 +111,6 @@ Es wird keine Anmeldung erzeugt.
 :::
 Erst bei Wiederaufnahme der Tätigkeit sollte ein Wiedereintritt des Dienstnehmers erfolgen. Ebenso sollte dann eine Anmeldung erstellt und versendet werden.
 
-<span id="ummeldung-auf-andere-beitragskontonummer-dienstnehmer-unterliegt-der-buak-und-ist-in-prasenzdienst" class="legacy-anchor" aria-hidden="true"></span>
 ## Ummeldung auf andere Beitragskontonummer Dienstnehmer unterliegt der BUAK und ist in Präsenzdienst
 
 Wenn ein Dienstnehmer der BUAK unterliegt, zahlt die BUAK die BV-Beiträge. Somit ist keine Anmeldung zur BV während einer Ummeldung notwendig. Es muss somit eine Abmeldung ohne Referenzwert gesendet werden und der Dienstnehmer nach Rückkehr aus dem Präsenzdienst normal angemeldet werden.
@@ -168,7 +165,6 @@ Die *Fixen Lohnarten* **BV-Bemessung Mutterschutz** sollten sich wieder automati
 Es wird keine Anmeldung erzeugt.
 
 :::
-<span id="in-folgenden-ausnahmefallen-benotigt-die-okg-keinen-referenzwert-bei-der-abmeldung" class="legacy-anchor" aria-hidden="true"></span>
 ## In folgenden Ausnahmefällen benötigt die ÖKG keinen Referenzwert bei der Abmeldung:
 
 - Unbezahlter Urlaub länger als 1 Monat

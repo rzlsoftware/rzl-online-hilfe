@@ -3,9 +3,7 @@ title: Steuerverankerung am Aufwands-/Ertragskonto
 program: FIBUNext
 ---
 
-<span id="steuerverankerung-am-aufwands-ertragskonto" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="steuerverankerung-am-aufwands-ertragskonto_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Steuerverankerung am Aufwands-/Ertragskonto
 
 

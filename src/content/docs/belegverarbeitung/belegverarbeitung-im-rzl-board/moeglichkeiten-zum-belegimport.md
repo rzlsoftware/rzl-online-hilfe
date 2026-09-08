@@ -3,7 +3,6 @@ title: Möglichkeiten zum Belegimport
 program: Belegverarbeitung
 ---
 
-<span id="moglichkeiten-zum-belegimport" class="legacy-anchor" aria-hidden="true"></span>
 
 ## ebInterface
 
@@ -18,7 +17,6 @@ Weitere Details dazu finden Sie Online unter:
 
 ![](img/image26.png)
 
-<span id="extras-beleg-mit-xml-importieren" class="legacy-anchor" aria-hidden="true"></span>
 ## Extras / Beleg mit XML importieren
 
 Über diesen Menüpunkt können Belege, die aus anderen RZL Installation

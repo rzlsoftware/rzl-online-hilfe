@@ -3,7 +3,6 @@ title: ÖGK, BV-Kasse
 program: LOHN
 ---
 
-<span id="ogk-bv-kasse" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image26.png>){width="500"}
 

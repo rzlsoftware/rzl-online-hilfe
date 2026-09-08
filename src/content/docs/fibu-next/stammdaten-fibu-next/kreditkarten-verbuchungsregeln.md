@@ -3,9 +3,7 @@ title: Kreditkarten Verbuchungsregeln
 program: FIBUNext
 ---
 
-<span id="kreditkarten-verbuchungsregeln" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="kreditkarten-verbuchungsregeln_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Kreditkarten Verbuchungsregeln
 
 

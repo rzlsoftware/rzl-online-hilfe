@@ -3,14 +3,12 @@ title: Tagesfreigabe
 program: LENext
 ---
 
-<span id="tagesfreigabe" class="legacy-anchor" aria-hidden="true"></span>
 
 Damit Leistungen in der Honorarverrechnung verrechnet werden können bzw.
 in die Honorarverrechnung übernommen werden, müssen die erfassten
 Leistungen freigegeben werden. Die Freigabemöglichkeiten und die
 Möglichkeit, die Freigabe zurückzusetzen, werden nachfolgend erklärt.
 
-<span id="freigabemoglichkeiten" class="legacy-anchor" aria-hidden="true"></span>
 ## Freigabemöglichkeiten
 
 Wurde die Leistungserfassung für den jeweiligen Tag abgeschlossen, muss
@@ -53,7 +51,6 @@ Leistungszeilen in der Spalte Status mit diesem Symbol
 
 ![](<img/image51.png>)
 
-<span id="freigabe-zurucksetzen" class="legacy-anchor" aria-hidden="true"></span>
 ## Freigabe zurücksetzen
 
 Wurden Leistungen versehentlich freigegeben oder sollen bereits

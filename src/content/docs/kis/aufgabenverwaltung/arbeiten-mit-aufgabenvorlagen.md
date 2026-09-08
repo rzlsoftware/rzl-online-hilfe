@@ -3,7 +3,6 @@ title: Arbeiten mit Aufgabenvorlagen
 program: KIS
 ---
 
-<span id="arbeiten-mit-aufgabenvorlagen" class="legacy-anchor" aria-hidden="true"></span>
 
 Sie können sich die Anlage von Aufgaben durch die Erstellung von
 Aufgabenvorlagen erleichtern.

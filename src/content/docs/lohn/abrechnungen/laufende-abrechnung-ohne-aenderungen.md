@@ -3,7 +3,6 @@ title: Laufende Abrechnung ohne Änderungen
 program: LOHN
 ---
 
-<span id="laufende-abrechnung-ohne-anderungen" class="legacy-anchor" aria-hidden="true"></span>
 
 Bei der *laufenden Abrechnung ohne Änderungen* werden angewählte Dienstnehmer aufgrund der fixen Vormonatswerte automatisch abgerechnet. Auf dem Bildschirm werden nach erfolgter Durchführung der Abrechnung die Dienstnehmernummern, der Name und der Nettobetrag für alle abgerechneten Dienstnehmer in einer Liste angezeigt.
 

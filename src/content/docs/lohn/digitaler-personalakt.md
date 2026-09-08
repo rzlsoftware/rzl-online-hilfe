@@ -3,7 +3,6 @@ title: Digitaler Personalakt
 program: LOHN
 ---
 
-<span id="digitaler-personalakt" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit dem kostenpflichtigen *RZL Lohn Modul digitaler Personalakt* *für die Lohnverrechnung*, welches in Kombination mit dem *RZL Lohn-Programm*, dem *RZL Board*, dem *RZL KIS* und der *RZL Dokumentenverwaltung plus* verfügbar ist, wollen wir die Digitalisierung auch im Bereich der Lohnverrechnung vorantreiben und Ihnen den einfachen und sicheren Umgang mit den sensiblen Lohndokumenten ermöglichen.
 
@@ -23,7 +22,6 @@ Kontrollieren Sie auch, ob im *RZL BOARD* unter *Stamm / Mitarbeiter* bei dem Be
 
 ## KIS (Kanzleiinformationssystem)
 
-<span id="hinzufugen-von-dokumenten-aus-dem-rzl-lohn-digitaler-personalakt" class="legacy-anchor" aria-hidden="true"></span>
 ### Hinzufügen von Dokumenten aus dem RZL LOHN (digitaler Personalakt)
 
 Je nachdem auf welcher Ebene Sie sich befinden, finden Sie unter *LOHN Allgemein* alle LOHN-spezifischen Dokumente und unter *DN-Dokumente* (Dienstnehmer-Dokumente) alle Dokumente mit Bezug zu einem Dienstnehmer Ihres Klienten. Die Funktionen innerhalb dieser Liste sind mit den Funktionen der *Standard* *Dokumentenliste* identisch.
@@ -42,7 +40,6 @@ Die Einstellung, unter welcher *Kategorie* und mit welchem *Thema* die ELDA-Doku
 
 ![Image](<img/image696.png>){width="500"}
 
-<span id="andere-dokumente-aus-rzl-lohn-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ### Andere Dokumente aus RZL LOHN hinzufügen
 
 Alle anderen Dokumente aus dem *RZL LOHN* können über den *RZL PDF-Manager-Premium* bzw. den *RZL PDF-Drucker* in das *RZL Kanzleiinformationssystem* hinzugefügt werden. Der Dokumentbereich *LOHN- u. Gehaltsverrechnung* wird hier bereits automatisch zur korrekten Zuordnung vorgeschlagen.
@@ -51,7 +48,6 @@ Alle anderen Dokumente aus dem *RZL LOHN* können über den *RZL PDF-Manager-Pre
 
 Wird mittels Druckreihenfolge eine Auswertung in *Einzeldruck* ausgegeben, bekommt diese Auswertung derzeit **keinen** Bezug zu einem einzelnen Dienstnehmer.
 
-<span id="lohn-dokumente-aus-dem-explorer-den-ms-office-programmen-hinzufugen" class="legacy-anchor" aria-hidden="true"></span>
 ### LOHN Dokumente aus dem Explorer / den MS-Office Programmen hinzufügen
 
 Wenn Sie LOHN Dokumente aus dem Explorer bzw. den MS-Office Programmen in den digitalen Personalakt des *RZL Kanzleiinformationssystems* hinzufügen möchten, müssen Sie den vorhandenen Dokumentbereich *Lohn- u. Gehaltsverrechnung* (1) manuell auswählen.
@@ -140,7 +136,6 @@ Mit Hilfe der Option *kein* *ELDA Export ins KIS* erfolgt bei dem betroffenen Lo
 
 ## Klientenportal
 
-<span id="dn-dokumente-aus-dem-rzl-klientenportal-ins-kanzleiinformationssystem-ubermitteln" class="legacy-anchor" aria-hidden="true"></span>
 ### DN-Dokumente aus dem *RZL-Klientenportal* ins *Kanzleiinformationssystem* übermitteln
 
 Innerhalb des Klientenbereiches des Portals können Dokumente dienstnehmerbezogen an die Kanzlei übermittelt werden.

@@ -3,7 +3,6 @@ title: Formel
 program: Reporting
 ---
 
-<span id="formel" class="legacy-anchor" aria-hidden="true"></span>
 
 In diesem Eigenschaftsfenster können Sie die Formel bearbeiten.
 
@@ -47,7 +46,6 @@ Kommt es bei einer Formel zu einer falschen Darstellung aufgrund eines Fehlers, 
 
 Je nach Option kann hier der Wert null, kein Ausweis oder ein Fehlerausweis ausgegeben werden.
 
-<span id="zahlenformatvorlagen-anlegen-oder-andern" class="legacy-anchor" aria-hidden="true"></span>
 ## Zahlenformatvorlagen anlegen oder ändern
 
 Zahlenformatvorlagen erleichtern Ihnen die schnellere Formatierung von Formeln. Durch das einmalige Anlegen einer Formatvorlage kann diese Formatierung mittels Drop-down-Auswahl in der Werkzeugleiste auf einen Formelwert angewendet werden. Markieren Sie die Zahl mit einem Doppelklick und wählen Sie in der Werkzeugleiste das gewünschte Zahlenformat im Drop-down-Menü an.

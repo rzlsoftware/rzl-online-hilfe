@@ -3,7 +3,6 @@ title: Notare bzw. Notariatsanwärter
 program: LOHN
 ---
 
-<span id="notare-bzw-notariatsanwarter" class="legacy-anchor" aria-hidden="true"></span>
 
 Um einen Notar bzw. Notariatsanwärter korrekt abzurechnen, müssen Sie zuerst einen [*Unterdienstgeber*](/lohn/klientenstammdaten/unterdienstgeber/) anlegen.
 

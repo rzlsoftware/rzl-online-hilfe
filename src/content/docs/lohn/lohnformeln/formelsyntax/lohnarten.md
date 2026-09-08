@@ -3,7 +3,6 @@ title: Lohnarten
 program: LOHN
 ---
 
-<span id="lohnarten" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image413.png>){width="500"}
 

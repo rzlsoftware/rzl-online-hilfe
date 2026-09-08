@@ -3,7 +3,6 @@ title: BUAK Schlechtwettermeldung
 program: LOHN
 ---
 
-<span id="buak-schlechtwettermeldung" class="legacy-anchor" aria-hidden="true"></span>
 
 Unter *Stamm / BUAK Schlechtwetterentschädigungen…* haben Sie die Möglichkeit, die BUAK Schlechtwettermeldung zu erstellen.
 
@@ -266,7 +265,6 @@ Durch Anwahl dieses Kästchens werden die Baustellen- und *Dienstnehmerdaten* au
 
 Wenn mehrere Anträge ausgewählt wurden, kann durch Anwahl *Einzeldruck* jede Antragsnummer auf einer eigenen Seite dargestellt werden.
 
-<span id="erstellung-schlechtwettermeldung-fur-buak-portal" class="legacy-anchor" aria-hidden="true"></span>
 ## Erstellung Schlechtwettermeldung für BUAK-Portal
 
 Über *Bearbeiten / Elektronische Meldung BUAK / Elektronische Schlechtwettermeldung BUAK erstellen* können Sie die Meldung für das BUAK-Portal erstellen.
@@ -281,7 +279,6 @@ Sie können nun die erfassten Baustellen vom ausgewählten Monat markieren und m
 
 Im *Registerblatt Protokoll* befinden sich nun die Daten der erstellten Schlechtwettermeldung. Drücken Sie nun auf *zum Senden*. Es öffnet sich das BUAK-Portal.
 
-<span id="import-ruckmeldung-schlechtwettermeldung" class="legacy-anchor" aria-hidden="true"></span>
 ## Import Rückmeldung Schlechtwettermeldung
 
 Speichern Sie die Rückmeldung vom BUAK-Portal in einem Ordner Ihrer Wahl ab.

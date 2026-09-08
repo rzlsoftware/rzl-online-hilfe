@@ -3,7 +3,6 @@ title: Erstellung eines Entsendungsantrages
 program: LOHN
 ---
 
-<span id="erstellung-eines-entsendungsantrages" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Neuanlage eines Entsendungsantrages
 
@@ -39,7 +38,6 @@ Der 2. Teil des Entsendungsantrages enthält neben Informationen zu der Art der 
 
 ![Image](<img/image348.png>){width="700"}
 
-<span id="ubermittlung-des-entsendungsantrages-an-die-ogk" class="legacy-anchor" aria-hidden="true"></span>
 ## Übermittlung des Entsendungsantrages an die ÖGK
 
 Wurden alle Pflichtfelder befüllt und wird anschließend der Dialog über *Speichern* verlassen, wird folgender Hinweis angezeigt.
@@ -54,7 +52,6 @@ Bei Entsendungsanträgen gibt es aus technischen Gründen keine Möglichkeit das
 :::
 Über den Menüpunkt *Bearbeiten / Elektronische Übermittlung / Elektronische Entsendungsanträge erstellen* kann ein bereits erfasster Antrag auch zu einem späteren Zeitpunkt übermittelt werden. In diesem Dialog ist auch die Stornierung eines bereits übermittelten Antrags möglich
 
-<span id="ubernahme-des-entsendeformulars-a1" class="legacy-anchor" aria-hidden="true"></span>
 ## Übernahme des Entsendeformulars A1
 
 Der Entsendungsantrag wird zunächst manuell von den Sachbearbeitern der Sozialversicherungsträger bearbeitet und daraufhin das entsprechende Formular A1 über ELDA retour geschickt. Sie sollten hier vor der Abreise des Dienstnehmers daher einige Tage Bearbeitungszeit einplanen. Der Abruf bzw. Empfang dieser Formulare erfolgt nach den gleichen Prinzipien wie z. B. bei den Krankenstandsbescheinigungen oder den Clearingfällen. Beim ersten Programmstart am Tag bzw. bei jeder Übermittlung wird automatisch abgefragt, ob Entsendebestätigungen vorhanden sind. Über *Bearbeiten / Elektronische Übermittlung / Elektronische Entsendungsanträge …* werden diese Anträge dann im Programm gesammelt.

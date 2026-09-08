@@ -3,9 +3,7 @@ title: Verarbeitung von Kontodaten mittels CSV/TXT-Datei (Netbanking)
 program: FIBUNext
 ---
 
-<span id="verarbeitung-von-kontodaten-mittels-csvtxt-datei-netbanking" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="verarbeitung-von-kontodaten-mittels-csvtxt-datei-netbanking_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Verarbeitung von Kontodaten mittels CSV/TXT-Datei (Netbanking)
 
 Damit eine automatisierte Verarbeitung von Kontoauszügen im Dateiformat .csv oder .txt (Netbanking) möglich ist, ist im Vorfeld die Anlage einer Listenform notwendig (siehe Kapitel [Listenformen Netbanking](/fibu-next/stammdaten/listenformen-netbanking/)).
@@ -124,5 +122,4 @@ Wenn Sie eine neue Verbuchungsregel anlegen oder bei einem Personenkonto einen n
 
 
 :::
-<span id="nahere-informationen-zu-verbuchungsregeln-finden-sie-im-kapitel-verbuchungsregeln" class="legacy-anchor" aria-hidden="true"></span>
 #### Nähere Informationen zu Verbuchungsregeln finden Sie im Kapitel [Verbuchungsregeln](/fibu-next/stammdaten-fibu-next/verbuchungsregeln/).

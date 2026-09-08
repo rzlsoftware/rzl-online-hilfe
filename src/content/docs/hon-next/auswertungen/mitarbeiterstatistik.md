@@ -3,7 +3,6 @@ title: Mitarbeiterstatistik
 program: HONNext
 ---
 
-<span id="mitarbeiterstatistik" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Mitarbeiterstatistik soll Ihnen einen Überblick über die
 verrechneten Leistungen von finalisierten Noten pro Mitarbeiter

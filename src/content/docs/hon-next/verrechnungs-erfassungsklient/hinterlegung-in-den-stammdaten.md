@@ -3,7 +3,6 @@ title: Hinterlegung in den Stammdaten
 program: HONNext
 ---
 
-<span id="hinterlegung-in-den-stammdaten" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Hinterlegung eines abweichenden Verrechnungsklienten in den
 Stammdaten ist nur nötig, wenn der Verrechnungsklient vom

@@ -3,9 +3,7 @@ title: Erhaltene Anzahlungen von Debitoren
 program: FIBUNext
 ---
 
-<span id="erhaltene-anzahlungen-von-debitoren" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="erhaltene-anzahlungen-von-debitoren_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Erhaltene Anzahlungen von Debitoren
 
 

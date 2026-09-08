@@ -3,7 +3,6 @@ title: Allgemeine Textbausteine
 program: HONNext
 ---
 
-<span id="allgemeine-textbausteine" class="legacy-anchor" aria-hidden="true"></span>
 
 Über die allgemeinen Textbausteine haben Sie in HON Next die Möglichkeit,
 vorgefertigte Texte anzulegen und diese im Zuge der Leistungserfassung

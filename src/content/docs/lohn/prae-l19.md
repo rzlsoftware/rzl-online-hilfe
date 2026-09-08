@@ -3,9 +3,7 @@ title: Pauschale Reiseaufwandsentschädigung L19
 program: LOHN
 ---
 
-<span id="pauschale-reiseaufwandsentschadigung-l19" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="grundsatzliches" class="legacy-anchor" aria-hidden="true"></span>
 ## Grundsätzliches
 
 Gemeinnützige Sportvereine können an Sportlerinnen und Sportler, Schiedsrichterinnen und Schiedsrichter sowie Sportbetreuerinnen und Sportbetreuer pauschale Reiseaufwandsentschädigungen steuer- und sozialversicherungsfrei ausbezahlen.
@@ -33,7 +31,6 @@ Die *ZVR-Zahl* ist im Formular L19 ein Pflichtfeld. Sie können die *ZVR-Zahl* i
 
 ![Image](img/image861.png)
 
-<span id="nacherfassung-bereits-ausgezahlter-pauschaler-reiseaufwandsentschadigungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Nacherfassung bereits ausgezahlter pauschaler Reiseaufwandsentschädigungen
 
 Sie haben die Möglichkeit, bereits ausbezahlte pauschale Reiseaufwandsentschädigungen ausschließlich für das L19-Formular nachzuerfassen.
@@ -61,7 +58,6 @@ Sie müssen daher nicht sämtliche Auszahlungen einzeln nacherfassen.
 Bei dieser reinen Stammdatenerfassung ist nur der Bildschirm [*Stammdaten Dienstnehmer*](/lohn/abrechnungsbildschirme/stammdaten-dienstnehmer/) zu befüllen. Alle übrigen Bildschirme können unbeachtet bleiben. Diese Eingabe dient ausschließlich der Erstellung und Übermittlung des L19-Formulars. Es erfolgt **keine** Auszahlung der pauschalen Reiseaufwandsentschädigung.
 
 :::
-<span id="auszahlung-der-pauschalen-reiseaufwandsentschadigung-uber-die-rzl-lohnverrechnung" class="legacy-anchor" aria-hidden="true"></span>
 ## Auszahlung der pauschalen Reiseaufwandsentschädigung über die RZL-Lohnverrechnung
 
 Wenn Sie die pauschale Reiseaufwandsentschädigung über die RZL-Lohnverrechnung ausbezahlen möchten, müssen Sie eine freie Lohnart anlegen.
@@ -76,7 +72,6 @@ Dabei handelt es sich um einen Vorschlag. Für die Anlage freier Lohnarten ist d
 Auch wenn mehrere unterbrochene Zeiträume für die Auszahlung der pauschalen Reiseaufwandsentschädigung vorliegen, wird dennoch nur ein L19 erstellt.
 
 :::
-<span id="auszahlung-eines-gehalts-bzw-lohns-und-einer-pauschalen-reiseaufwandsentschadigung" class="legacy-anchor" aria-hidden="true"></span>
 ## Auszahlung eines Gehalts bzw. Lohns und einer pauschalen Reiseaufwandsentschädigung
 
 Die pauschale Reiseaufwandsentschädigung wird wie im vorherigen Punkt als freie Lohnart angelegt.
@@ -87,7 +82,6 @@ In diesem Fall wird **kein** L19 erstellt. Die pauschale Reiseaufwandsentschädi
 
 Unter *Ausdruck / Lohnzettel* steht eine neue Ausgabemöglichkeit *Reiseaufwandsentsch. Sportler (L19)* zur Verfügung.
 
-<span id="elektronische-ubermittlung-des-l19" class="legacy-anchor" aria-hidden="true"></span>
 ## Elektronische Übermittlung des L19
 
 Die elektronische Übermittlung des L19 können Sie über den Menüpunkt *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung Reiseaufwandsentsch. Sportler (L19)* durchführen.

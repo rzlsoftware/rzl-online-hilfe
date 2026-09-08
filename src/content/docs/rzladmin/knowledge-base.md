@@ -3,7 +3,6 @@ title: Knowledge-Base
 program: rzladmin
 ---
 
-<span id="knowledge-base" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Schaltfläche *Knowledge-Base* ist ein Link zur RZL Software Technik
 Knowledge-Base. Hier finden Sie Dokumentationen, Anleitungen, bekannte

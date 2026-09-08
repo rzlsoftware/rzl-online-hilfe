@@ -3,11 +3,9 @@ title: Erste Schritte (Kurzübersicht)
 program: Reporting
 ---
 
-<span id="erste-schritte-kurzubersicht" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Funktionen des *RZL-Report Designer* sind ähnlich einem Textverarbeitungsprogramm aufgebaut. Der große Vorteil hier ist der sofortige Direktzugriff auf klientenbezogene Informationen. Mit Hilfe von [Formeln](/reporting/formeln/einfuegen-und-bearbeiten-von-formeln/) können Sie einen direkten Bezug zu den benötigten Daten schnell und einfach herstellen. Interne Bearbeitungsnotizen, Anweisungen oder sonstige Informationen können Sie im Report vermerken und anschließend ausblenden. Diese werden somit nicht angedruckt.
 
-<span id="die-arbeitsoberflache-im-report-designer" class="legacy-anchor" aria-hidden="true"></span>
 ## Die Arbeitsoberfläche im Report Designer
 
 Durch Öffnen eines Reports wird der *RZL Report Designer* in einem separaten Dialogfenster gestartet.
@@ -54,7 +52,6 @@ Nachfolgend wird die Arbeitsoberfläche im *Report Designer* beschrieben.
 
 10. Grüne Markierung eines Textes: Anzeige einer Formel mit Direkteingabe. Die gewünschten Daten können hier sofort mittels Doppelklick oder der *F4-Taste* erfasst werden.
 
-<span id="nutzliche-shortcuts-und-symbole" class="legacy-anchor" aria-hidden="true"></span>
 ## Nützliche Shortcuts und Symbole
 
 | Symbol                    | Tastenkombination             | Funktion                                                      |

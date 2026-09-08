@@ -3,9 +3,7 @@ title: Häufig verwendete Steuersätze im Überblick
 program: FIBUNext
 ---
 
-<span id="haufig-verwendete-steuersatze-im-uberblick" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="haufig-verwendete-steuersatze-im-uberblick_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Häufig verwendete Steuersätze im Überblick
 
 

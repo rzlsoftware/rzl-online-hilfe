@@ -3,7 +3,6 @@ title: Frag Hainz! – Ihr KI-Assistent für die RZL Programme
 program: technik
 ---
 
-<span id="frag-hainz-ihr-ki-assistent-fur-die-rzl-programme" class="legacy-anchor" aria-hidden="true"></span>
 
 Frag Hainz! ist der KI-basierte Assistent für alle RZL Programme. Sie starten Frag Hainz direkt über das Symbol 
 ![herz_neuronen](img/herz_neuronen_invertiert.svg#only-light){:width="25px"}
@@ -12,7 +11,6 @@ in den RZL Programmen oder im Web. Der Assistent beantwortet rund um die Uhr Ihr
 
 ---
 
-<span id="tipps-fur-die-optimale-nutzung-von-frag-hainz" class="legacy-anchor" aria-hidden="true"></span>
 ### Tipps für die optimale Nutzung von Frag Hainz!
 
 - **Präzise Fragen stellen**  

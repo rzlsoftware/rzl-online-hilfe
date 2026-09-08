@@ -3,7 +3,6 @@ title: Allgemeine Einstellungen – Stammdaten Absender – DVR-Nummer
 program: LOHN
 ---
 
-<span id="allgemeine-einstellungen-stammdaten-absender-dvr-nummer" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image178.png>){width="600"}
 

@@ -3,7 +3,6 @@ title: Bankverbindung
 program: FIBUNext
 ---
 
-<span id="bankverbindung" class="legacy-anchor" aria-hidden="true"></span>
 
 ### Einstellungen in der Bankverbindung
 In der Bankverbindung steht der zusätzliche Tab **Überweisungen** zur Verfügung. Hier werden die grundlegenden Einstellungen für den Zahlungsverkehr festgelegt.

@@ -3,9 +3,7 @@ title: Personenkonten
 program: FIBUNext
 ---
 
-<span id="personenkonten" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="datenimport-personenkonten" class="legacy-anchor" aria-hidden="true"></span>
 ### Datenimport - Personenkonten
 
 

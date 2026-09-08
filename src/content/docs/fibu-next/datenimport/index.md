@@ -3,7 +3,6 @@ title: Datenimport
 program: FIBUNext
 ---
 
-<span id="datenimport" class="legacy-anchor" aria-hidden="true"></span>
 
 
 Im Menüpunkt *Datenimport/-export / Datenimport / RZL-Format* können Sie über eine fixe RZL Schnittstelle Sach- und Personenkonten, Salden/Konten, Buchungen, OPs und Journalzeilen aus Fremdprogrammen übernehmen.

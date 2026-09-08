@@ -3,7 +3,6 @@ title: Allgemeine Bedienung
 program: FIBUNext
 ---
 
-<span id="allgemeine-bedienung" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Bedienung im Board
 

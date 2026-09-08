@@ -3,7 +3,6 @@ title: Erstellung einer AUVA-Unfallmeldung
 program: LOHN
 ---
 
-<span id="erstellung-einer-auva-unfallmeldung" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Neuanlage einer Unfallmeldung
 
@@ -46,7 +45,6 @@ Die beiden markierten Felder müssen leer sein.
 
 
 :::
-<span id="ubermittlung-der-unfallmeldung-an-die-ogk" class="legacy-anchor" aria-hidden="true"></span>
 ## Übermittlung der Unfallmeldung an die ÖGK
 
 Wurden alle Pflichtfelder befüllt und wird anschließend der Dialog über *Speichern* verlassen, wird folgender Hinweis angezeigt.

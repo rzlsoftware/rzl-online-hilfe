@@ -3,9 +3,7 @@ title: Gebuchte Belege aufrufen
 program: Belegverarbeitung
 ---
 
-<span id="gebuchte-belege-aufrufen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="aufruf-eines-einzelnen-belegs-in-der-rzl-fibu-ea-rechnung" class="legacy-anchor" aria-hidden="true"></span>
 ## Aufruf eines einzelnen Belegs in der RZL Fibu / EA-Rechnung
 
 Über den Kontenaufruf (*Aufruf / Konten)* wird bei jeder Buchung mit

@@ -3,7 +3,6 @@ title: Programmübergreifend
 program: Reporting
 ---
 
-<span id="programmubergreifend" class="legacy-anchor" aria-hidden="true"></span>
 
 Im folgenden Kapitel finden Sie die Auflistung der verfügbaren Formeln für das Reporting in allen RZL Programmen.
 

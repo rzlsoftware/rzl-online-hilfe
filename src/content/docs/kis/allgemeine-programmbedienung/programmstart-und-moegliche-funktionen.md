@@ -56,7 +56,6 @@ werden die Stammdaten des Klienten angezeigt.
 Im Klientenbereich und Mitarbeiterbereich können Einträge nur
 dann gemacht werden, wenn Sie vorher einen Klienten bzw. einen Mitarbeiter öffnen.
 
-<span id="menu" class="legacy-anchor" aria-hidden="true"></span>
 ## Menü
 
 ### Anzeige der Klientendaten
@@ -105,7 +104,6 @@ erstellen und automatisch als Postausgang speichern.
 Die genaue Vorgehensweise ist im Kapitel 13 *Abläufe* im Punkt 13.1 *Briefe
 schreiben* erläutert.
 
-<span id="einstieg-in-finanzonline-kopieren-der-steuernummer" class="legacy-anchor" aria-hidden="true"></span>
 ### Einstieg in FinanzOnline – Kopieren der Steuernummer
 
 Wenn Sie auf die Finanzamt-Steuernummer klicken, wird automatisch die
@@ -139,7 +137,6 @@ angemeldet. Aufgrund der fehlenden Zwei-Faktor-Authentifizierung
 (Handy-Signatur, Bürgerkarte) stehen Ihnen dabei aber nur eingeschränkte
 Funktionen zur Verfügung.
 
-<span id="anruf-des-kunden-ubers-kis" class="legacy-anchor" aria-hidden="true"></span>
 ### Anruf des Kunden übers KIS
 
 Wenn eine Anbindung an eine Telefonanlage existiert und diese
@@ -180,7 +177,6 @@ der Telefonverbindung die Kontaktperson direkt anrufen. Zusätzlich
 öffnet sich automatisch ein Telefonprotokoll, das die Gesprächsdauer
 protokolliert (vgl. Kap. 5.4.1 *RZL Telefon Anbindung*).
 
-<span id="moglichkeiten-der-listengestaltung" class="legacy-anchor" aria-hidden="true"></span>
 ## Möglichkeiten der Listengestaltung
 
 Sie erhalten nachfolgend eine Beschreibung der Funktionen der Listen
@@ -204,7 +200,6 @@ ganz oben dargestellt. Ebenso können Sie die Sortierung nach den
 Texteinträgen (*Zuständig, Thema; Kategorie*) alphabetisch auf- oder
 absteigend ändern.
 
-<span id="bearbeiten-der-listen-spalten-auswahlenspalten-verschieben" class="legacy-anchor" aria-hidden="true"></span>
 ### Bearbeiten der Listen – Spalten auswählen/Spalten verschieben
 
 Sie können selbst festlegen, welche Spalten in den Listen geführt werden
@@ -235,7 +230,6 @@ Zuordnungen, Sonstige Einstellungen*). Sie müssen einen dieser Bereiche
 anwählen und können in der Liste die aufgeschlagen wird, die Felder
 aktivieren und deaktivieren.
 
-<span id="bearbeiten-der-listen-funktionen" class="legacy-anchor" aria-hidden="true"></span>
 ### Bearbeiten der Listen – Funktionen
 
 Wenn sich der Cursor innerhalb der Liste befindet, erhalten Sie durch
@@ -263,7 +257,6 @@ Mit der Funktion *Klienten bei Dokumenten nachtragen* wird bei zu diesem
 Ereignis zugeordneten Dokumenten der bei dem Ereignis hinterlegte Klient
 beim Dokument eingetragen.
 
-<span id="bearbeiten-der-listen-mehrfachauswahl" class="legacy-anchor" aria-hidden="true"></span>
 ### Bearbeiten der Listen – Mehrfachauswahl
 
 Innerhalb der Ereignis- und Dokumentenlisten haben Sie die Möglichkeit
@@ -393,24 +386,20 @@ ausgewählt werden.
 
 ![Filter bearbeiten I](<img/image38.png>)
 
-<span id="und-verknupfung" class="legacy-anchor" aria-hidden="true"></span>
 #### Und – Verknüpfung 
 
 Mit dem logischen Und wird geprüft ob mehrere Bedingungen erfüllt sind.
 
-<span id="oder-verknupfung" class="legacy-anchor" aria-hidden="true"></span>
 #### Oder – Verknüpfung 
 
 Muss nur eine von mehreren Bedingungen erfüllt sein verwendet man die
 Oder Verknüpfung
 
-<span id="nicht-und-verknupfung" class="legacy-anchor" aria-hidden="true"></span>
 #### Nicht Und – Verknüpfung 
 
 Eine oder mehrere Bedingungen, welche durch UND verknüpft sind, sollen
 ausgeschlossen werden.
 
-<span id="nicht-oder-verknupfung" class="legacy-anchor" aria-hidden="true"></span>
 #### Nicht Oder – Verknüpfung 
 
 Eine oder mehrere Bedingungen, welche durch ODER verknüpft sind, sollen
@@ -479,7 +468,6 @@ den gewünschten Klienten entweder mit den Pfeil-Tasten oder der Maus.
 Anschließend können Sie den Klienten entweder durch einen Doppelklick
 mit der Maus öffnen oder Sie drücken die TABULATOR- oder ENTER-Taste.
 
-<span id="suche-nach-namen-match-code" class="legacy-anchor" aria-hidden="true"></span>
 #### Suche nach Namen – Match-Code
 
 Sie können im Suchfeld nicht nur Klientennummern eintragen. Sie können
@@ -517,7 +505,6 @@ Wir sind der Überzeugung, dass die von Ihnen eingegebenen Daten in den
 meisten Fällen richtig und wertvoll sind, deshalb speichert das Programm
 automatisch.
 
-<span id="esc-taste-nicht-speichern" class="legacy-anchor" aria-hidden="true"></span>
 ## ESC-Taste - Nicht speichern
 
 Sie befinden Sie in einem Programmteil wie beispielsweise dem

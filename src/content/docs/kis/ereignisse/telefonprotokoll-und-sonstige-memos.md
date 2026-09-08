@@ -24,7 +24,6 @@ Wenn ein Telefonprotokoll markiert ist, kann über *Detail drucken* im Kontextem
 Sie erhalten das aktuelle Datum und die aktuelle Uhrzeit vorgeschlagen.
 Diese Vorschläge können Sie wenn notwendig ändern.
 
-<span id="gesprachsende" class="legacy-anchor" aria-hidden="true"></span>
 ## Gesprächsende
 
 In diesem Feld besteht die Möglichkeit das Gesprächsende einzutragen.
@@ -46,7 +45,6 @@ Auf/Ab-Tasten und Eingabe-Taste (beim Textblock), ausgewählt werden.
 
 Auch eine [Klientenmehrfachzuordnung](/kis/ereignisse/zuordnung-und-archivierung-von-ereignissen/#zuordnung-von-ereignissen-zu-klienten--klientenmehrfachzuordnung) ist möglich.
 
-<span id="gesprachspartner" class="legacy-anchor" aria-hidden="true"></span>
 ## Gesprächspartner
 
 Als Gesprächspartner erhalten Sie Vorschläge vom Programm (persönliche
@@ -60,7 +58,6 @@ vorge­schlagen. Wenn Sie die Telefonanbindung lizensiert haben und die
 technischen Einstellungen passen, können Sie durch Anwahl der
 Schaltfläche *Telefonnummer* den Gesprächsteilnehmer direkt anrufen.
 
-<span id="zustandig" class="legacy-anchor" aria-hidden="true"></span>
 ## Zuständig
 
 Hier wird der zuständige Mitarbeiter ausgewählt und eingetragen. Das
@@ -154,13 +151,11 @@ Um ein neues Memo zu erfassen, klicken Sie bitte auf die Schaltfläche
 
 ![Erfassung eines Memos](<img/image108.png>)
 
-<span id="datum_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Datum
 
 Sie erhalten das aktuelle Datum und die aktuelle Uhrzeit vorgeschlagen.
 Diese Vorschläge können Sie wenn notwendig ändern.
 
-<span id="klient_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Klient
 
 Ein einzelner Klient kann durch Klick auf die Klientennummer oder den
@@ -171,37 +166,31 @@ Auf/Ab-Tasten und Eingabe-Taste (beim Textblock), ausgewählt werden.
 
 Auch eine [Klientenmehrfachzuordnung](/kis/ereignisse/zuordnung-und-archivierung-von-ereignissen/#zuordnung-von-ereignissen-zu-klienten--klientenmehrfachzuordnung) ist möglich.
 
-<span id="zustandig_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Zuständig
 
 Hier wird der zuständige Mitarbeiter ausgewählt und eingetragen. Das
 Programm schlägt den aktuellen Benutzer des KIS vor.
 
-<span id="betreff_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Betreff
 
 Hier kann ein Betreff – der den Inhalt kurz beschreibt – eintragen
 werden.
 
-<span id="inhalt_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Inhalt
 
 Im Feld *Inhalt* beschreiben Sie den Gegenstand des Memos mit freiem
 Text genauer.
 
-<span id="kategorie_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Kategorie
 
 In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](/kis/erste-schritte/anlage-von-themen-und-kategorien/) aus. Die Kategorie ist ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
 innerhalb der Memos bzw. Ereignisse.
 
-<span id="thema_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Thema
 
 Im Bereich [*Thema*](/kis/erste-schritte/anlage-von-themen-und-kategorien/) wählen Sie zwischen den in der Verwaltung angelegten Themen aus. Wie die Kategorie ist das Thema  ebenfalls ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
 innerhalb der Memos bzw. Ereignisse.
 
-<span id="aktenvermerk_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Aktenvermerk
 
 Dieses Feld können Sie verwenden, um zu dokumentieren, dass ein
@@ -210,7 +199,6 @@ Aktenvermerk über dieses Memo angelegt wurde oder anzulegen ist.
 Das Feld Aktenvermerk kann auch verwendet werden, um die Wichtigkeit des
 Memos hervorzuheben.
 
-<span id="zeitraum_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Zeitraum
 
 In diesem Feld kann ein Zeitraum eingetragen werden. Unten sind einige
@@ -226,7 +214,6 @@ Möglichkeiten der Eingabe angeführt.
 | MMMMJJ      | 01-04/2020              | von Monat bis Monat im Jahr     |
 | MMJJMMJJ    | 01/2019-05/2020         | von Monat, Jahr bis Monat, Jahr |
 
-<span id="dokumentenzuordnung_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Dokumentenzuordnung 
 
 Um ein bereits im KIS existierendes Dokument zuordnen zu können, klicken Sie zunächst auf die Schaltfläche *Keine Dokumente zugeordnet*. Sie klicken zunächst auf die Schaltfläche *Keine Dokumente zugeordnet*.

@@ -3,7 +3,6 @@ title: Finanzämter, Gemeinden, ÖGK, BV-Kassen, Gerichte
 program: LOHN
 ---
 
-<span id="finanzamter-gemeinden-ogk-bv-kassen-gerichte" class="legacy-anchor" aria-hidden="true"></span>
 
 Wurden die *Behördendateien* in der *ZMV* im Menüpunkt *Allgemeine Dateien / Installieren* installiert, stehen sowohl sämtliche Finanzämter, Gesundheitskassen, Gemeinden, BV-Kassen und Gerichte Österreichs, laut der offiziellen Liste, zur Verfügung. Bei den einzelnen Behörden müssen nur mehr die jeweiligen Bankverbindungen ergänzt werden.
 
@@ -45,14 +44,12 @@ Seit dem Jahr 2003 muss sich jeder Dienstgeber für eine BV-Kasse entscheiden be
 
 Im Registerblatt *Gerichte* werden die Gerichte, die für die Abrechnung von Exekutionen bzw. für den Ausdruck der Drittschuldnererklärung notwendig sind, eingetragen.
 
-<span id="sonstige-behorden" class="legacy-anchor" aria-hidden="true"></span>
 ## Sonstige Behörden
 
 Im Registerblatt *Sonstige* können Behörden oder Abgabenstellen hinterlegt werden. Ebenso gibt es die Möglichkeit einen Zahlungstermin (monatlich, vierteljährlich, halbjährlich, jährlich) auszuwählen.
 
 ![Image](<img/image244.png>){width="500"}
 
-<span id="anlage-der-versicherungsanstalten-fur-die-eisenbahnen-fur-den-bergbau-die-offentlichen-bediensteten-und-des-notariats" class="legacy-anchor" aria-hidden="true"></span>
 ## Anlage der Versicherungsanstalten für die Eisenbahnen, für den Bergbau, die öffentlichen Bediensteten und des Notariats
 
 Die Versicherungsanstalten für die Eisenbahn, dem Bergbau, die öffentlichen Bediensteten und des Notariats müssen in den Stammdaten der Behörden angelegt werden. Wichtig dabei ist, die Vergabe der **laufenden Nummer** für das jeweilige Bundesland, wie nachfolgend beschrieben:
@@ -80,7 +77,6 @@ In diesem Dialog können über die Schaltfläche *Erweitert* alle vorhandenen al
 
 Im Menüpunkt *Klient / Finanzämter/Gemeinden/ÖGK/BV-Kassen/Gerichte* besteht die Mög­lichkeit, die Behördendaten auszudrucken.
 
-<span id="behorden-vergroern-verkleinern" class="legacy-anchor" aria-hidden="true"></span>
 ## Behörden vergrößern / verkleinern
 
 Im Programmteil *Klient / Finanzämter/Gemeinden/ÖGK/BV-Kassen/Gerichte / Vergrößern / Verkleinern* kann das Mengengerüst der Behördendateien entsprechend bearbeitet werden.

@@ -3,7 +3,6 @@ title: Tageserfassung im HON
 program: HONNext
 ---
 
-<span id="tageserfassung-im-hon" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit dem Button *Tag bearbeiten* (**4**) in der Ansicht des
 Arbeitszeitkalenders, haben Sie die Möglichkeit, einzelne Erfassungstage

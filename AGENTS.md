@@ -46,7 +46,6 @@ Recreate the Python env with `python3 -m venv .venv && .venv/bin/pip install -r 
 
 - Never set `smartypants: true` in `astro.config.ts` — it runs before our remark plugins and curls the quotes that `remark-mkdocs-attributes.ts` matches, silently killing ~2200 legacy `{:width="…"}` annotations.
 - Never change `trailingSlash` in `staticwebapp.config.json` from `auto` to `always` — Azure would then redirect `/_astro/*.js` and `/pagefind/*` file requests, breaking Pagefind's relative imports (`astro.config.ts`'s own `trailingSlash: 'always'` is a different, correct setting).
-- Never delete `<span class="legacy-anchor">` markers when editing a page — they preserve MkDocs heading slugs for old deep links.
 - Never restore print/PDF styles in the Astro theme — deliberately dropped, see `plan.md §7.6`.
 
 ## Content
@@ -82,6 +81,7 @@ Recreate the Python env with `python3 -m venv .venv && .venv/bin/pip install -r 
 
 - Only ~139 of 1970 legacy 301s fit Azure's 20 KB `staticwebapp.config.json` limit; the rest are served by a client-side script inlined in `src/content/docs/404.md`'s `head:` frontmatter that fetches `/legacy-redirects.json`.
 - Deleting that 404 script silently kills most legacy URLs.
+- `scripts/migrate-content.ts` rewrites `#anchor` fragments in internal Markdown links from the old MkDocs heading slug to the new Starlight one; it does not emit any DOM marker for the old slug, so external links/bookmarks using it land on the right page but not the right in-page position.
 
 ## Styling
 

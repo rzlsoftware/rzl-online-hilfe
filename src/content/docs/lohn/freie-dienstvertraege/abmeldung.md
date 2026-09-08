@@ -3,7 +3,6 @@ title: Abmeldung
 program: LOHN
 ---
 
-<span id="abmeldung" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image142.png>)
 
@@ -43,7 +42,6 @@ Das Abmeldedatum ist der letzte Tag des Kalendermonats, in dem die Tätigkeit be
 
 Das Datum Ende BV-Beitragspflicht wird vom Programm automatisch ermittelt.
 
-<span id="mutterschutz-karenzurlaub" class="legacy-anchor" aria-hidden="true"></span>
 ## Mutterschutz / Karenzurlaub
 
 Hier können die Daten der Geburt und des Mutterschutzes erfasst werden.
@@ -52,7 +50,6 @@ Hier können die Daten der Geburt und des Mutterschutzes erfasst werden.
 
 Durch die Eingabe des Zeitraums für den Papamonat werden alle relevanten Austrittsdaten im oberen Bereich automatisch erfasst.
 
-<span id="mutterschutzmeldung-gema-3-abs-6-mschg" class="legacy-anchor" aria-hidden="true"></span>
 ## Mutterschutzmeldung gemäß § 3 Abs 6 MSchG
 
 Wählen Sie das entsprechende *Arbeitsinspektorat* aus und geben Sie eine kurze Beschreibung des *Arbeitsplatzes* bzw. der *Tätigkeit* ein. Nach erfolgreicher Eingabe der Daten kann über *Ausdruck / Sonderdrucke / Mutterschutzmeldung an das Arbeitsinspektorat* die Mutterschutzmeldung ausgedruckt werden.

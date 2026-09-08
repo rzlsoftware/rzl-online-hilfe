@@ -3,7 +3,6 @@ title: Gebuchte Belege manuell in die Belegbox des Klienten hochladen
 program: Belegverarbeitung
 ---
 
-<span id="gebuchte-belege-manuell-in-die-belegbox-des-klienten-hochladen" class="legacy-anchor" aria-hidden="true"></span>
 
 Als Alternative zur automatischen Belegsynchronisation gibt es auch die
 Möglichkeit, die Belege manuell in die Belegbox des Klientenportals

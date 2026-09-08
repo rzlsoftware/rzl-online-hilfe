@@ -3,7 +3,6 @@ title: Überstundenauszahlungen erfassen
 program: HONNext
 ---
 
-<span id="uberstundenauszahlungen-erfassen" class="legacy-anchor" aria-hidden="true"></span>
 
 Das Honorarverrechnungsprogramm bietet Ihnen die Möglichkeit, über den
 Button **Überstundenauszahlungen erfassen**, welcher sich im Menüpunkt

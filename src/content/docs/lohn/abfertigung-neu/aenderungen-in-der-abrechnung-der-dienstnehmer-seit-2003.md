@@ -3,7 +3,6 @@ title: Änderungen in der Abrechnung der Dienstnehmer seit 2003
 program: LOHN
 ---
 
-<span id="anderungen-in-der-abrechnung-der-dienstnehmer-seit-2003" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Neueintritt eines Dienstnehmers seit 01.01.2003
 
@@ -29,7 +28,6 @@ Das Ende der BV-Beitragspflicht wird vom Programm anhand des Austrittsdatums aut
 
 Der Vorschlag anhand des Austrittsdatums kann in Ausnahmefällen abgeändert werden.
 
-<span id="bv-beitragsleistungen-wahrend-entgeltfreier-zeitraume" class="legacy-anchor" aria-hidden="true"></span>
 ## BV-Beitragsleistungen während entgeltfreier Zeiträume
 
 Bei Ableistung von Präsenz- und Zivildienst sind vom Dienstgeber auf Basis des Kinderbetreuungsgeldes die BV-Beiträge weiterhin an die BV-Kasse abzuführen. Im Falle des Wochengeldbezuges ist die Bemessungsgrundlage, das für den Kalendermonat vor dem Eintritt des Versicherungsfalles gebührende Entgelt, maßgeblich. Beim Bezug von Krankengeld gelten verschiedene je nach Tatbestand abgestufte Bemessungsgrundlagen.
@@ -44,7 +42,6 @@ Beim Bezug von Krankengeld ist die Eintragung und Aliquotierung manuell vorzuneh
 
 Für Zeiten des Kinderbetreuungsgeldbezugs, der Bildungskarenz und der Hospizkarenz werden die Abfertigungsbeiträge vom Familienlastenausgleichsfonds gezahlt. Den Arbeit­geber trifft für diese Zeiten keine Beitragspflicht.
 
-<span id="sonderfall-buak-bauarbeiter-urlaubs-und-abfertigungskasse" class="legacy-anchor" aria-hidden="true"></span>
 ## Sonderfall BUAK (Bauarbeiter- Urlaubs- und Abfertigungskasse)
 
 Werden Mitarbeiter, die zwangsweise der BUAK unterliegen seit 01.01.2003 im Programm neu angelegt, dann sind im Abrechnungsbildschirm [*Bauarbeiter- Urlaubs- und Abfertigungskasse (BUAK)*](/lohn/abrechnungsbildschirme/bauarbeiter-urlaubs-und-abfertigungskasse/) Eintragungen vorzunehmen.

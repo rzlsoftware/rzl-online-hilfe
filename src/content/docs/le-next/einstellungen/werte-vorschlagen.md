@@ -3,7 +3,6 @@ title: Werte vorschlagen
 program: LENext
 ---
 
-<span id="werte-vorschlagen" class="legacy-anchor" aria-hidden="true"></span>
 
 **Tätigkeit vorschlagen:** Die Tätigkeit der vorherigen Zeile wird in
 der nächsten Eingabezeile vorgeschlagen.

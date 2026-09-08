@@ -3,7 +3,6 @@ title: Dienstverhinderung
 program: LOHN
 ---
 
-<span id="dienstverhinderung" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Stammdaten Sonstige Dienstverhinderungen
 

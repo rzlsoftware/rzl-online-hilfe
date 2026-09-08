@@ -3,7 +3,6 @@ title: Ausdruck Lohnzettel
 program: LOHN
 ---
 
-<span id="ausdruck-lohnzettel" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Programmteil *Ausdruck / Ausdruck Lohnzettel* stehen folgende Möglichkeiten des Ausdrucks zur Verfügung:
 

@@ -37,7 +37,6 @@ festgelegt. Das bedeutet,
 wenn für einzelne Anbringen unterschiedliche Zuständigkeiten vorhanden
 sind, sind unterschiedliche Aufgabevorlagen notwendig.
 
-<span id="aufgabevorlage-fur-zu-erledigende-aufgaben" class="legacy-anchor" aria-hidden="true"></span>
 #### Aufgabevorlage für zu erledigende Aufgaben
 
 Innerhalb der Anbringen zu den Protokollen können Sie in der (letzten)

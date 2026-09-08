@@ -3,7 +3,6 @@ title: Statistik Manager
 program: HONNext
 ---
 
-<span id="statistik-manager" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Statistik Manager Umsatz
 
@@ -280,7 +279,6 @@ Sollte die erstellte Statistik immer wieder aufrufbar sein, können Sie
 über *Layout Speichern* oder über *Layout Speichern unter* (7) die
 Statistik abspeichern (vgl. [Speicherbare Layouts](/hon-next/auswertungen/speicherbare-layouts/)).
 
-<span id="prozentspalten-einfugen" class="legacy-anchor" aria-hidden="true"></span>
 ### Prozentspalten einfügen
 
 Mit den Optionen *Prozent von einfügen* können Sie automatisch eine
@@ -359,7 +357,6 @@ Leistungsstatistiken zur Verfügung.
 Der Statistik Manger Leistungen ist in der Bedienung ident wie der [Statistik Manager Umsatz](/hon-next/auswertungen/statistik-manager/#statistik-manager-umsatz). Nur können hier alle erfassten
 Leistungen ausgewertet werden, offen sowie verrechnet.
 
-<span id="bedeutung-der-felder_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Bedeutung der Felder
 
 **Mitarbeiter Nr.** Hier können Sie nach der Mitarbeiternummer gliedern.

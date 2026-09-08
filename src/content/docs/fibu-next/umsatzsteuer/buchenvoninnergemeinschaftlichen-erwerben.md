@@ -3,9 +3,7 @@ title: Buchen von innergemeinschaftlichen Erwerben
 program: FIBUNext
 ---
 
-<span id="buchen-von-innergemeinschaftlichen-erwerben" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="buchen-von-innergemeinschaftlichen-erwerben_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Buchen von innergemeinschaftlichen Erwerben
 
 

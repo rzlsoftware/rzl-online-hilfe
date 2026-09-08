@@ -3,7 +3,6 @@ title: Sonderfälle
 program: LOHN
 ---
 
-<span id="sonderfalle" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Sonderzahlung
 
@@ -37,7 +36,6 @@ In diesem Menüpunkt erfassen Sie die Stunden für die Kurzarbeitsbeihilfe - auc
 
 ![Image](<img/image41.png>){width="600"}
 
-<span id="erfassung-telearbeitstage" class="legacy-anchor" aria-hidden="true"></span>
 ## Erfassung – Telearbeitstage
 
 Damit die Telearbeitstage für die vorangegangen Monate erfasst werden können, haben Sie hier die Möglichkeit, die Tage zu erfassen. Dabei verändert sich an der Abrechnung des Dienstnehmers nichts. Wenn Sie eine Pauschale abrechnen möchten, müssen Sie dies über eine Aufrollung durchführen.

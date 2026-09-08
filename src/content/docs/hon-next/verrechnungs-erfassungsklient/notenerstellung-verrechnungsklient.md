@@ -3,7 +3,6 @@ title: Notenerstellung Verrechnungsklient
 program: HONNext
 ---
 
-<span id="notenerstellung-verrechnungsklient" class="legacy-anchor" aria-hidden="true"></span>
 
 ### Notenvorschlag
 
@@ -34,7 +33,6 @@ Erfassungsklienten (**2**) einschränken.
 
 ![](<img/image121.png>)
 
-<span id="zuabschlage-verrechnungsklient" class="legacy-anchor" aria-hidden="true"></span>
 ### Zu/Abschläge Verrechnungsklient
 
 Wenn Sie nun die Honorarnote erstellen und Zu/Abschläge generieren, werden

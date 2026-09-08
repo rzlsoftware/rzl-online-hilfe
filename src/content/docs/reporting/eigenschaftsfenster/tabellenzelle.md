@@ -3,7 +3,6 @@ title: Tabellenzelle
 program: Reporting
 ---
 
-<span id="tabellenzelle" class="legacy-anchor" aria-hidden="true"></span>
 
 Mit diesem Eigenschaftsfenster kann jede Zelle einer Tabelle bearbeitet werden.
 

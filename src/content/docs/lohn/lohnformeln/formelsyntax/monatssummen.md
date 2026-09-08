@@ -3,7 +3,6 @@ title: Monatssummen
 program: LOHN
 ---
 
-<span id="monatssummen" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image414.png>){width="500"}
 

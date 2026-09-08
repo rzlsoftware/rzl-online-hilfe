@@ -3,7 +3,6 @@ title: Wiederkehrende Akonten
 program: HONNext
 ---
 
-<span id="wiederkehrende-akonten" class="legacy-anchor" aria-hidden="true"></span>
 
 Wiederkehrende Akonten werden benötigt, wenn ein Klient z.B. monatlich
 Akonten leistet. Es werden hier die benötigen Akontozeilen vom Programm
@@ -78,7 +77,6 @@ Die regelmäßig generierten Akontozeilen finden Sie über
 *Akonto/Anzahlungen / Akontozahlungen*.
 
 :::
-<span id="wiederkehrende-akontozeilen-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ## Wiederkehrende Akontozeilen löschen
 
 Sollte eine Wiederkehrende Akontozeile gelöscht werden, können Sie dies

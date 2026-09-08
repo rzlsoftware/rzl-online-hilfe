@@ -3,7 +3,6 @@ title: Allgemeines
 program: HONNext
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
 Bei der Anzahlungsrechnung handelt es sich um eine Rechnung, welche der Rechnungssteller für eine zukünftig zu erbringende Leistung erstellt. Das bedeutet, dass noch keine erbrachte Leistung existiert. Anzahlungsrechnungen werden auch Vorauszahlungsrechnungen genannt und in der Regel vor allem bei der Durchführung von größeren Projekten gestellt.
 

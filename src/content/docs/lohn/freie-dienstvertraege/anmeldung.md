@@ -3,7 +3,6 @@ title: Anmeldung
 program: LOHN
 ---
 
-<span id="anmeldung" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image141.png>)
 
@@ -59,14 +58,12 @@ In dieses Eingabefeld können andere getroffene Vereinbarungen (bis zu 28 Zeiche
 
 Kurzangabe zur Art der vereinbarten Zahlungsmodalität (z. B. Tage, Quartal, Lieferzeitpunkt, Vertragsende).
 
-<span id="beschaftigungsbonus" class="legacy-anchor" aria-hidden="true"></span>
 ## Beschäftigungsbonus
 
 Die hier verwalteten Daten werden für den Ausdruck der Liste der Arbeitsverhältnisse ab 01.07.2017 für den Beschäftigungsbonus verwendet. Der Ausdruck kann innerhalb der Sonderdrucke angewählt werden.
 
 Im Programmteil *Ausdruck / Sonderdrucke* können Sie auch die Liste mit den Referenzwerten für den Beschäftigungsbonus und die voraussichtliche Zuschusshöhe ausdrucken.
 
-<span id="besondere-verhaltnisse" class="legacy-anchor" aria-hidden="true"></span>
 ## Besondere Verhältnisse
 
 Hier kann der Verwandtschaftsgrad zum Dienstgeber angeführt werden.

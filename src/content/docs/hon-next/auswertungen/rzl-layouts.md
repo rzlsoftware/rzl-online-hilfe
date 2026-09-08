@@ -3,7 +3,6 @@ title: RZL Layouts
 program: HONNext
 ---
 
-<span id="rzl-layouts" class="legacy-anchor" aria-hidden="true"></span>
 
 Im *Statistik Manager Umsatz* sowie im *Statistik Manager Leistungen*
 stehen Ihnen vorgefertigte RZL Layouts zur Verfügung. RZL Layouts können

@@ -3,9 +3,7 @@ title: Kontaktdaten
 program: FIBUNext
 ---
 
-<span id="kontaktdaten" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="kontaktdaten_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Kontaktdaten
 
 

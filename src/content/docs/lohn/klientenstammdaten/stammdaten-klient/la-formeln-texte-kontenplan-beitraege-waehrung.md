@@ -3,7 +3,6 @@ title: Lohnarten, Formeln, Texte, Kontenplan, Beiträge, Währung
 program: LOHN
 ---
 
-<span id="lohnarten-formeln-texte-kontenplan-beitrage-wahrung" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image27.png>){width="500"}
 
@@ -37,7 +36,6 @@ In diesem Feld können Sie den Höchstbetrag für einen Gewerkschaftsbeitrag der
 
 In diesem Feld können Sie die maximale Betriebsratsumlage eingeben, die ebenfalls für alle Dienstnehmer des Dienstgebers gilt. Die Eingabe hier ist nur notwendig, wenn im Abrechnungsbildschirm [*Abzüge*](/lohn/abrechnungsbildschirme/abzuege/) im Feld *Betriebsratsumlage* ein Prozentsatz eingegeben wird. Zusätzlich besteht die Möglichkeit, den Betrag zu runden.
 
-<span id="arbeitskrafteuberlasser" class="legacy-anchor" aria-hidden="true"></span>
 ## Arbeitskräfteüberlasser
 
 Wenn Sie einen Arbeitskräfteüberlasser abrechnen möchten, muss hier ein Häkchen gesetzt werden, um den Beitrag für den Sozial- und Weiterbildungsfonds abzuführen. Die Abgabe wird somit bei den einzelnen Dienstnehmern im Abrechnungsbildschirm [*Sozialversicherung*](/lohn/abrechnungsbildschirme/sozialversicherung/) automatisch aktiviert.

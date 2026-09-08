@@ -3,7 +3,6 @@ title: Exekutionsberechnung
 program: LOHN
 ---
 
-<span id="exekutionsberechnung" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Exekution wird in einem eigenen Abrechnungsbildschirm durchgeführt. Bevor die Exekution automatisch berechnet wird, sind die freien Lohnarten bezüglich der Pflichtigkeiten für die Exekutionsberechnung zu bearbeiten.
 

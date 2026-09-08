@@ -80,7 +80,6 @@ eingetragen und in die Dokumentenverwaltung übernommen.
 
 Viele Felder können automatisch aus der Word-Vorlage übernommen werden, wenn diese in den [erweiterten Eigenschaften der Vorlage](/kis/office-integration/word-vorlagen/#eigenschaften-f%C3%BCr-kis-dokumentenimport-vorausw%C3%A4hlen) gespeichert sind.
 
-<span id="offnen-eines-bereits-im-kis-gespeicherten-dokuments" class="legacy-anchor" aria-hidden="true"></span>
 ## Öffnen eines bereits im KIS gespeicherten Dokuments
 
 Wenn Sie ein Word Dokument das bereits im KIS gespeichert ist erneut

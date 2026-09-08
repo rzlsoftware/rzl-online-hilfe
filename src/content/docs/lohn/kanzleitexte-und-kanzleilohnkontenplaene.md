@@ -3,7 +3,6 @@ title: Kanzleitexte und Kanzleilohnkontenpläne
 program: LOHN
 ---
 
-<span id="kanzleitexte-und-kanzleilohnkontenplane" class="legacy-anchor" aria-hidden="true"></span>
 
 Das RZLWin-Lohnprogramm bietet Ihnen die Möglichkeit, Standardtexte für den Abrechnungsbildschirm *[Austritt](/lohn/abrechnungsbildschirme/austritt/), Dienstzettel-Texte* und *Abrechnungs-Texte* sowohl klientenbezogen zu erstellen und zu verwalten als auch für alle Klienten als Kanzleitexte zur Verfügung zu stellen.
 
@@ -63,7 +62,6 @@ Die Funktion der klientenbezogenen Dienstzetteltexte ist dieselbe, wie jene der 
 
 Insgesamt 20 Abrechnungstexte mit einer Länge von bis zu 30 Zeichen können im Programmteil *Stamm / Abrechnungs-Texte* klientenbezogen eingetragen werden. In den *Klientenstammdaten* im Registerblatt [*Abrechnungs-Texte*](/lohn/klientenstammdaten/stammdaten-klient/abrechnungstexte-buchungskreistexte/) können wiederum jeweils zwei Abrechnungs-Texte für den Andruck auf den Abrechnungen der Dienstnehmer des jeweiligen Klienten ausgewählt werden.
 
-<span id="kanzlei-lohnkontenplane" class="legacy-anchor" aria-hidden="true"></span>
 ## Kanzlei-Lohnkontenpläne
 
 Im Programmteil *Klient / Kanzlei / Lohn-Kontenpläne* können für die fixen Lohnarten, die angelegten freien Lohnarten und für die Lohnarten der Werkverträge Kontonummern hinterlegt werden. Lediglich die Verbindlichkeitskonten der Behörden werden in den Stammdaten des Klienten (*Stamm / Klient*) eingetragen.

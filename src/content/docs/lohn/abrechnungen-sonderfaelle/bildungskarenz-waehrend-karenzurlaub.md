@@ -3,7 +3,6 @@ title: Bildungskarenz während Karenzurlaub
 program: LOHN
 ---
 
-<span id="bildungskarenz-wahrend-karenzurlaub" class="legacy-anchor" aria-hidden="true"></span>
 
 Wurde während des Karenzurlaubes Bildungskarenz vereinbart, muss die Dienstnehmerin **am Tag vor Beginn** der Bildungskarenz abgemeldet werden.
 

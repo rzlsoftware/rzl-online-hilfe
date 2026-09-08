@@ -3,7 +3,6 @@ title: Installation
 program: setup
 ---
 
-<span id="installation" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Wichtige allgemeine Informationen
 
@@ -126,7 +125,6 @@ dem Daten-Repository aus.
     sich der Status auf *Gültig* (![](img/GruenerHaken_Gueltig.png)), und Sie können die
     Installation mit *Aktion durchführen* beginnen.
 
-<span id="expertenmodus-zb-fur-netzwerkinstallation" class="legacy-anchor" aria-hidden="true"></span>
 ## Expertenmodus (z.B. für Netzwerkinstallation)
 
 Der *Expertenmodus* kann für komplexere Installationsvarianten verwendet
@@ -254,7 +252,6 @@ und wählen die Option *Expertenmodus*.
         Nach erfolgreicher Installation können Sie das Installationsfenster
         schließen.
 
-<span id="neue-schuler-installation-fur-zuhause" class="legacy-anchor" aria-hidden="true"></span>
 ## Neue Schüler-Installation für Zuhause
 
 Der Installationsmodus *Neue Schüler-Installation für Zuhause*

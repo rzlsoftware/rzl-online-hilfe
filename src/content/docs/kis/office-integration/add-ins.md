@@ -36,7 +36,6 @@ Outlook Add-In eingerichtet haben, haben Sie neben dem Standardregister
 
 ![Outlook Add In](<img/image295.png>)
 
-<span id="postausgang-gesendete-objekte" class="legacy-anchor" aria-hidden="true"></span>
 ### Postausgang – Gesendete Objekte
 
 Wenn Sie im Outlook eine E-Mail öffnen, das im Ordner *Gesendete Objekte* gespeichert ist, wird im Register *RZL* die Möglichkeit
@@ -51,7 +50,6 @@ Register *RZL* die Möglichkeit, die E-Mail *Als Posteingang zur RZL Korresponde
 
 ![Outlook Add In - Posteingang](<img/image297.png>)
 
-<span id="geloschte-objekte" class="legacy-anchor" aria-hidden="true"></span>
 ### Gelöschte Objekte
 
 Wenn Sie E-Mails im Ordner *Gelöschte Objekte* aufrufen, haben Sie beide
@@ -67,7 +65,6 @@ sofort ersichtlich ist, ob eine E-Mail bereits ins KIS übernommen wurde.
 
 ![Outlook Kategorie](<img/image299.png>)
 
-<span id="nachtragliche-ubernahme" class="legacy-anchor" aria-hidden="true"></span>
 ### Nachträgliche Übernahme
 
 Bereits übernommene E-Mails ohne Zuweisung können Sie übernehmen, in dem

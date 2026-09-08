@@ -3,7 +3,6 @@ title: Registerblatt „Seitenbearbeitung“
 program: PDFManager
 ---
 
-<span id="registerblatt-seitenbearbeitung" class="legacy-anchor" aria-hidden="true"></span>
 
 In Menüpunkt *Seitenbearbeitung* haben Sie die Möglichkeit einzelne
 Seiten eines Dokuments zu drehen, löschen, vertauschen oder einen
@@ -12,7 +11,6 @@ Hintergrund zu setzen.
 
 ![](<img/image74.png>)
 
-<span id="seiten-drehen-undoder-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ## Seiten drehen und/oder löschen
 
 Hier können Sie Seiten des Dokuments um 90° nach links oder rechts, bzw.

@@ -3,12 +3,9 @@ title: Retourdatenverarbeitung mittels CAMT-Dateien
 program: FIBUNext
 ---
 
-<span id="retourdatenverarbeitung-mittels-camt-dateien" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="retourdatenverarbeitung-mittels-camt-dateien_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Retourdatenverarbeitung mittels CAMT-Dateien
 
-<span id="kontoauszuge-hereinspielen" class="legacy-anchor" aria-hidden="true"></span>
 ### Kontoauszüge hereinspielen
 
 
@@ -49,7 +46,6 @@ Werden Kontoauszüge aus dieser Ansicht gelöscht, so gelangen sie automatisch w
 
 
 :::
-<span id="kontoauszuge-verbuchen" class="legacy-anchor" aria-hidden="true"></span>
 ### Kontoauszüge verbuchen
 
 
@@ -151,5 +147,4 @@ Wenn Sie eine neue Verbuchungsregel anlegen oder bei einem Personenkonto einen n
 
 
 :::
-<span id="nahere-informationen-zu-verbuchungsregeln-finden-sie-im-kapitel-verbuchungsregeln" class="legacy-anchor" aria-hidden="true"></span>
 #### Nähere Informationen zu Verbuchungsregeln finden Sie im Kapitel [Verbuchungsregeln](/fibu-next/stammdaten-fibu-next/verbuchungsregeln/).

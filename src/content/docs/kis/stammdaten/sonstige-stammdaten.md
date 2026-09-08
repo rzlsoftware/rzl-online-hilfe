@@ -27,7 +27,6 @@ im Feld Bezeichnung eine neue Aktivität ein.
 
 ![Anlage sonstige Stammdaten](<img/image278.png>)
 
-<span id="bearbeitenloschen-der-sonstigen-stammdaten" class="legacy-anchor" aria-hidden="true"></span>
 ## Bearbeiten/Löschen der sonstigen Stammdaten
 
 Einträge, die bereits gespeichert sind, können Sie löschen, in dem Sie
@@ -49,7 +48,6 @@ Dokumentenverwaltung ersetzen, sondern ergänzt in bestimmten Fällen die Inform
 Ereignis. Mit dem Ablageort kann bei dem elektronisch abgelegten
 Dokument vermerkt werden, wo dieses physisch abgelegt wurde.
 
-<span id="aktivitat" class="legacy-anchor" aria-hidden="true"></span>
 ## Aktivität
 
 Der Begriff Aktivität bezieht sich auf die konkreten detaillierten
@@ -193,7 +191,6 @@ gekennzeichnet und folgender Hinweis erscheint:
 
 ![Kennzeichnung Pfichtfelder](<img/image289.png>)
 
-<span id="finanzonline-teilnehmerzugangezuweisungen" class="legacy-anchor" aria-hidden="true"></span>
 ## FinanzOnline Teilnehmer/Zugänge/Zuweisungen
 
 Die Anlage wird [hier](/kis/finanz-online/anlage-eines-web-service-benutzers/) beschrieben.
@@ -243,7 +240,6 @@ als Filter für den Klientenbereich verwendet werden. Die
 Vertretungsliste kann allerdings täglich mit Hilfe des
 FinanzOnline-Moduls heruntergeladen werden.
 
-<span id="zustandigkeitsbereich" class="legacy-anchor" aria-hidden="true"></span>
 ## Zuständigkeitsbereich
 
 Die Zuordnung der Zuständigkeiten im KIS erfolgt am besten über die

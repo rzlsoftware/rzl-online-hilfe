@@ -3,7 +3,6 @@ title: Anzahl Zeilen
 program: FIBUNext
 ---
 
-<span id="anzahl-zeilen" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Auswertung Anzahl Zeilen
 

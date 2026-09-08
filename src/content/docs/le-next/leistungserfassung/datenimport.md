@@ -3,7 +3,6 @@ title: Datenimport Leistungen und Arbeitszeiten
 program: LENext
 ---
 
-<span id="datenimport-leistungen-und-arbeitszeiten" class="legacy-anchor" aria-hidden="true"></span>
 
 Jeder Mitarbeiter hat in seiner Leistungserfassung die Möglichkeit
 Leistungen und Arbeitszeiten zu importieren. Den Importdialog öffnen Sie
@@ -356,7 +355,6 @@ Wurde für diesen Tag bereits eine Arbeitszeit eingetragen, ist ein
 Import der Arbeitszeiten nicht mehr möglich.
 
 :::
-<span id="protokolle-datenubernahme" class="legacy-anchor" aria-hidden="true"></span>
 ## Protokolle Datenübernahme
 
 Über den Menüpunkt *Datenübernahme / Protokolle* können Sie sich die

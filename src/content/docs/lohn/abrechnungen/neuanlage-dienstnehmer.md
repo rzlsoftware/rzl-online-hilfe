@@ -3,7 +3,6 @@ title: Neuanlage Dienstnehmer
 program: LOHN
 ---
 
-<span id="neuanlage-dienstnehmer" class="legacy-anchor" aria-hidden="true"></span>
 
 Neu eingetretene Dienstnehmer oder Dienstnehmer bei einem Start mit der RZL Lohnverrechnung können über den Menüpunkt *Abrechnung / Neuanlage Dienstnehmer* angelegt werden.
 

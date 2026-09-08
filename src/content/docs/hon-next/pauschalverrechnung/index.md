@@ -3,7 +3,6 @@ title: Allgemeines
 program: HONNext
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Honorarverrechnung bietet die Möglichkeit, Klienten auch pauschal
 abzurechnen.

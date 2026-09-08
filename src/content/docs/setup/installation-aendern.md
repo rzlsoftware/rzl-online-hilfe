@@ -3,7 +3,6 @@ title: Installation ändern/hinzufügen/entfernen
 program: setup
 ---
 
-<span id="installation-andernhinzufugenentfernen" class="legacy-anchor" aria-hidden="true"></span>
 
 Bei dieser Funktion können Sie Programme hinzufügen (z. B. bei
 Nachbestellung von RZL-Programmen) oder entfernen.

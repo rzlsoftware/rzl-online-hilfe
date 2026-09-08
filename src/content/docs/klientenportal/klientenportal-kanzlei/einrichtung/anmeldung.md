@@ -3,7 +3,6 @@ title: Erstmalige Anmeldung am RZL Klientenportal
 program: Klientenportal
 ---
 
-<span id="erstmalige-anmeldung-am-rzl-klientenportal" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Zugang zum RZL Klientenportal
 

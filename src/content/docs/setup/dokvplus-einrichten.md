@@ -3,7 +3,6 @@ title: Dokumentenverwaltung Plus einrichten
 program: setup
 ---
 
-<span id="dokumentenverwaltung-plus-einrichten" class="legacy-anchor" aria-hidden="true"></span>
 
 Damit Sie die kosten- und lizenzpflichtige Dokumentenverwaltung Plus
 aktivieren können, müssen der RZL Dienst installiert (siehe
@@ -182,7 +181,6 @@ einen gebuchten/ungebuchten Beleg oder ein nicht versendetes Dokument handelt.
 
 - **Man kann es unverändert belassen.**
 
-<span id="geoffnete-dokumente" class="legacy-anchor" aria-hidden="true"></span>
 ## Geöffnete Dokumente
 
 ![Dokumentenverwaltung Plus - Geöffnete Dokumente](img/DokVPlus_GeoeffneteDokumente.png)

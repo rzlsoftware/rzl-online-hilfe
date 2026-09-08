@@ -3,7 +3,6 @@ title: Jubiläumsgeldrückstellung
 program: LOHN
 ---
 
-<span id="jubilaumsgeldruckstellung" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Rückstellung der Jubiläumsgelder für Dienstnehmerjubiläen wird im Menüpunkt *Ausdruck / Rückstellungen / Jubiläumsgeldrückstellungen* erstellt und ausgedruckt.
 
@@ -69,7 +68,6 @@ Durch dieses Feld wird bestimmt, wie viel von der Sonderzahlungshöchstbemessung
 Wurden in den Eingabefeldern *Pension, Basis* oder *Lohnnebenkosten* abweichende Eintragungen vorgenommen, so wird durch Anwahl der *F2-Taste* der ursprünglich eingetragene bzw. vom Programm errechnete Wert eingetragen.
 
 :::
-<span id="aufruf-berechnungsblatt-jubilaumsgeldruckstellung" class="legacy-anchor" aria-hidden="true"></span>
 ## Aufruf Berechnungsblatt Jubiläumsgeldrückstellung
 
 Durch Markierung des Dienstnehmers und rechter Maustaste auf diesen Dienstnehmer öffnen Sie das Kontextmenü. Wählen Sie hier Berechnung-Info (STRG + F2-Taste) aus. Es öffnet sich ein neues Fenster mit der detaillierten Berechnung der Rückstellung für diesen ausgewählten Dienstnehmer.

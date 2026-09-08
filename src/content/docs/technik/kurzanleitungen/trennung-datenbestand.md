@@ -3,7 +3,6 @@ title: Trennung eines RZL Datenbestandes
 program: technik
 ---
 
-<span id="trennung-eines-rzl-datenbestandes" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Trennung eines RZL Datenbestandes in zwei oder mehrere Datenbestände erfolgt in zwei Schritten:
 
@@ -29,10 +28,8 @@ Wenden Sie sich hierzu an unseren RZL Vertrieb, damit Ihnen eine temporäre Lize
 :::
 Für die Wiederherstellung der Komplettsicherung in einer zweiten Installation gehen Sie wie im [Setup-Handbuch Daten wiederherstellen](/setup/daten-wiederherstellen/) beschrieben vor.
 
-<span id="2-klienten-daten-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### 2. Klienten > Daten löschen
 
-<span id="21-klienten-loschen" class="legacy-anchor" aria-hidden="true"></span>
 #### 2.1. Klienten löschen
 
 Das Löschen der Klienten erfolgt in zwei Schritten:
@@ -50,7 +47,6 @@ Je mehr Klienten Sie gleichzeitig bereinigen/löschen (möglich durch Mehrfachau
 - In der nachfolgenden Maske wählen Sie den Bereich der Klienten aus, den Sie löschen möchten.
 - Markieren Sie alle Optionen und klicken Sie auf **Bereinigen**.
 
-<span id="b-klienten-in-zmv-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ##### b) Klienten in ZMV löschen
 
 - Öffnen Sie die ZMV und wählen Sie im Menü **Klient**, dann **Löschen**.
@@ -64,14 +60,12 @@ Je mehr Klienten Sie gleichzeitig bereinigen/löschen (möglich durch Mehrfachau
 Sollten Klienten mit Passwörtern geschützt sein, müssen Sie diese beim Löschen der Klienten eingeben.
 
 :::
-<span id="22-mitarbeiter-loschen" class="legacy-anchor" aria-hidden="true"></span>
 #### 2.2. Mitarbeiter löschen
 
 - Öffnen Sie das RZL Board-Modul **STAMM**.
 - In der Mitarbeiterliste wählen Sie den jeweiligen Mitarbeiter aus.
 - Links oben befindet sich die Schaltfläche **Mitarbeiter löschen**.
 
-<span id="zugehorige-person-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ##### Zugehörige Person löschen
 
 - Unter **Personen und Firmen** können Sie die jeweilige Person öffnen und löschen.

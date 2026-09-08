@@ -3,7 +3,6 @@ title: Beispiel SOLL-Versteuerer - Wiederkehrende Anzahlung T20
 program: HONNext
 ---
 
-<span id="beispiel-soll-versteuerer-wiederkehrende-anzahlung-t20" class="legacy-anchor" aria-hidden="true"></span>
 
 Ausgangssituation:   
 Die Kanzleibuchhaltung wird nach der Soll-Versteuerung gebucht und in den Stammdaten in der FIBU ist die *Teilrechnungsverbuchung* sowie die Verbuchung der *Schlussrechnung in voller Höhe* aktiviert.

@@ -3,7 +3,6 @@ title: Allgemeine Informationen zu den Ausdrucken
 program: LOHN
 ---
 
-<span id="allgemeine-informationen-zu-den-ausdrucken" class="legacy-anchor" aria-hidden="true"></span>
 
 Bevor Sie mit einem Ausdruck beginnen, stellen Sie sicher, dass der Drucker korrekt installiert ist (z. B. über eine Testseite), angeschlossen und  eingeschaltet wurde.
 

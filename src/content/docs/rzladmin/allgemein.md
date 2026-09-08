@@ -3,7 +3,6 @@ title: Allgemein
 program: rzladmin
 ---
 
-<span id="allgemein" class="legacy-anchor" aria-hidden="true"></span>
 
 Der RZL Admin wurde zur Verwaltung von Informationen und Prozessen der
 RZL-Programme entwickelt. In den folgenden Kapiteln werden die einzelnen

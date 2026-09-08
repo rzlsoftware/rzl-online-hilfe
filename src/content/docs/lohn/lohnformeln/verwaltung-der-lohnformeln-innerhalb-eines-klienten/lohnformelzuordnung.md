@@ -3,7 +3,6 @@ title: Lohnformelzuordnungen
 program: LOHN
 ---
 
-<span id="lohnformelzuordnungen" class="legacy-anchor" aria-hidden="true"></span>
 
 Um die angelegten Lohnformeln automatisiert in bestimmten Monaten innerhalb der Abrechnung verwenden zu können, müssen die Lohnformeln einer (oder auch mehrerer) Tabelle(n) zugeordnet werden. In dieser Tabelle werden die Lohnformeln den Lohnarten (Fixe Lohnarten, Freie Lohnarten) zugeordnet. Die Zuordnung erfolgt im Programmteil *Stamm / Lohn-Formelzuordnungen*. Erfolgt keine Zuordnung der angelegten Lohnformeln, kann auf diese dennoch innerhalb der Lohnarten durch Anwahl der *F2-Taste* zugegriffen werden.
 
@@ -51,7 +50,6 @@ Es wird somit in unserem Beispiel in der Lohnart *Sonderzahlung* im Monat Juni u
 
 Mit dem Button *Tabelle duplizieren* haben Sie die Möglichkeit, eine bereits bestehende Lohnformelzuordnungstabelle zu duplizieren.
 
-<span id="anderung-bestehender-lohnformelzuordnungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Änderung bestehender Lohnformelzuordnungen
 
 ![Image](img/image411.png){width="500"}
@@ -150,7 +148,6 @@ Wird grundsätzlich im Juni die Sonderzahlung ausgezahlt und der Dienstnehmer tr
 
 Wurde bereits im November die noch fehlende Sonderzahlung ausgezahlt, muss manuell im Dezember die Lohn-formel deaktiviert werden. Die Lohnformel kann über einen rechten Mausklick *Formel deaktivieren* deaktiviert werden. Vergessen Sie nicht den Betrag auf null zu setzen.
 
-<span id="anderung-des-austrittsdatums" class="legacy-anchor" aria-hidden="true"></span>
 ### Änderung des Austrittsdatums
 
 Wird das Austrittsdatum geändert oder entfernt, erscheint folgender Hinweis:
@@ -159,7 +156,6 @@ Wird das Austrittsdatum geändert oder entfernt, erscheint folgender Hinweis:
 
 Falls nötig führen Sie eine manuelle Anpassung durch.
 
-<span id="beispiele-fur-die-abrechnung-von-sonderzahlungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Beispiele für die Abrechnung von Sonderzahlungen
 
 ### Auszahlung Urlaubszuschuss und Weihnachtsremuneration
@@ -172,12 +168,10 @@ Falls nötig führen Sie eine manuelle Anpassung durch.
 Es werden für die normale Abrechnung der Sonderzahlung **immer zwei Lohnarten** benötigt. Nur so kann die Aufrollung der Sonderzahlung korrekt erfolgen.
 
 :::
-<span id="auszahlung-des-urlaubszuschusses-und-der-weihnachtsremuneration-uber-eine-gemeinsame-lohnart" class="legacy-anchor" aria-hidden="true"></span>
 ### Auszahlung des Urlaubszuschusses und der Weihnachtsremuneration über eine gemeinsame Lohnart
 
 Nur ohne Sonderzahlungsaufrollautomatik möglich. Hierfür wird bei *Formel SZ jährlich, Formel SZ halbjährlich* oder *Formel SZ quartalsweise* **keines** dieser Felder aktiviert.
 
-<span id="auszahlung-einer-halbjahrlichen-sonderzahlung" class="legacy-anchor" aria-hidden="true"></span>
 ### Auszahlung einer halbjährlichen Sonderzahlung
 
 Soll eine Sonderzahlung für das erste oder zweite Halbjahr ausgezahlt werden, wählen Sie *Formel SZ halbjährlich* aus.

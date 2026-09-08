@@ -3,11 +3,9 @@ title: Kommunalsteuer
 program: LOHN
 ---
 
-<span id="kommunalsteuer" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image143.png>)
 
-<span id="kommunalsteuer_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Kommunalsteuer
 
 Diese Felder dienen zur Verteilung der Kommunalsteuer auf insgesamt 10 Gemeinden. Ein­gabe der Gemeindenummer laut den angelegten Gemeindestammdaten. Hat der Dienstgeber in einer Gemeinde nur eine Betriebsstätte, so braucht hier keine Nummer eingegeben zu werden, es wird automatisch die Gemeinde laut Dienstgeberstammdaten angesprochen.

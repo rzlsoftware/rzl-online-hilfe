@@ -3,7 +3,6 @@ title: Anzahl Belege anzeigen
 program: Belegverarbeitung
 ---
 
-<span id="anzahl-belege-anzeigen" class="legacy-anchor" aria-hidden="true"></span>
 
 ![](img/image55.png)
 

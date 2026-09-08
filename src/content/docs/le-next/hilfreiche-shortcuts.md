@@ -3,7 +3,6 @@ title: Hilfreiche Shortcuts
 program: LENext
 ---
 
-<span id="hilfreiche-shortcuts" class="legacy-anchor" aria-hidden="true"></span>
 
 <table>
 <colgroup>

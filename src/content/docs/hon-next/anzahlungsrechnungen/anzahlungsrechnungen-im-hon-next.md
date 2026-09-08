@@ -3,7 +3,6 @@ title: Anzahlungsrechnungen im HON Next
 program: HONNext
 ---
 
-<span id="anzahlungsrechnungen-im-hon-next" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Einstellungen
 Möchte man über HON Next Anzahlungsnoten erstellen, muss zuerst im HON Next über *Einstellungen / Grundeinstellungen* die Option *Anzahlungsnoten* (1) aktiviert werden. Zusätzlich sind in den Grundeinstellungen die *Anzahlungskonten* (2) zu hinterlegen.

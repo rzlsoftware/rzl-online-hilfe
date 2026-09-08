@@ -3,7 +3,6 @@ title: Formel suchen
 program: Reporting
 ---
 
-<span id="formel-suchen" class="legacy-anchor" aria-hidden="true"></span>
 
 Zur Eingabe hilft Ihnen im Formeleingabebereich eine automatische Suche und Schnellanzeige. Geben Sie dazu einzelne Wörter der Formel ein. Das Programm schlägt Ihnen sofort die möglichen Formeln mittels des Ergänzungsfensters vor:
 

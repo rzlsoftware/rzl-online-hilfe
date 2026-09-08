@@ -3,7 +3,6 @@ title: Bildungskarenz im Anschluss an Unbezahlten Urlaub, Zivil-, Präsenzdienst
 program: LOHN
 ---
 
-<span id="bildungskarenz-im-anschluss-an-unbezahlten-urlaub-zivil-prasenzdienst-oder-truppenubung" class="legacy-anchor" aria-hidden="true"></span>
 
 Wird im Anschluss an einen unbezahlten Urlaub, den Zivil- oder Präsenzdienstes oder eine Truppenübung eine Bildungskarenz begonnen, erwartet die ÖGK eine **Abmeldung**.
 

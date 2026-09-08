@@ -3,9 +3,7 @@ title: Betrag
 program: FIBUNext
 ---
 
-<span id="betrag" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="betrag_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Betrag
 
 

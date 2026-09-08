@@ -3,7 +3,6 @@ title: USt-Verprobung
 program: FIBUNext
 ---
 
-<span id="ust-verprobung" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Auswertung USt-Verprobung
 

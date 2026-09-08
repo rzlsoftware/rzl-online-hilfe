@@ -3,7 +3,6 @@ title: Abrechnung Zukunftssicherung ab 2026
 program: LOHN
 ---
 
-<span id="abrechnung-zukunftssicherung-ab-2026" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Abrechnung der Zukunftssicherung kann steuerfrei und sozialversicherungspflichtig, steuerfrei und sozialversicherungsfrei, aber auch steuerpflichtig und sozialversicherungs­pflichtig sein. Die unten angeführte Beschreibung bezieht sich auf die möglichen Abrechnungsvarianten. Die Zuordnungen zur richtigen Abrechnungsvariante müssen vom Anwender selbst vorgenommen werden.
 

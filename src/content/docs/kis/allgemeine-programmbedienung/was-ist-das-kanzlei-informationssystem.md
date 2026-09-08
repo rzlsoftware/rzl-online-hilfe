@@ -3,7 +3,6 @@ title: Was ist das Kanzlei-Informations-System
 program: KIS
 ---
 
-<span id="was-ist-das-kanzlei-informations-system" class="legacy-anchor" aria-hidden="true"></span>
 
 Das RZL Kanzlei-Informations-System unterstützt die Organisation einer Wirtschafts­treuhand-Kanzlei. Das Programm bietet die Möglichkeit, die Kommunikation mit den Klienten strukturiert abzuspeichern.
 

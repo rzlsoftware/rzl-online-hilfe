@@ -3,7 +3,6 @@ title: Offene Leistungen
 program: HONNext
 ---
 
-<span id="offene-leistungen" class="legacy-anchor" aria-hidden="true"></span>
 
 Sie können sich auch die Leistungen, die hinter der Nettosumme stecken,
 über den Button *Offene Leistungen anzeigen* **(5)** in einem eigenen

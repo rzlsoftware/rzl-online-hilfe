@@ -3,7 +3,6 @@ title: Personalakt aktivieren
 program: setup
 ---
 
-<span id="personalakt-aktivieren" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Aktivierung des Personalakts erfolgt benutzerfreundlich über die
 Web-Oberfläche des RZL Dienstes. Gehen Sie dabei wie folgt vor:

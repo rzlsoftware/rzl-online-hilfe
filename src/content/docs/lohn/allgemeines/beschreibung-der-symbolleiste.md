@@ -3,7 +3,6 @@ title: Beschreibung der Symbolleiste
 program: LOHN
 ---
 
-<span id="beschreibung-der-symbolleiste" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image7.png>)
 

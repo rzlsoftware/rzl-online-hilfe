@@ -3,7 +3,6 @@ title: Kollektivvertrag
 program: LOHN
 ---
 
-<span id="kollektivvertrag" class="legacy-anchor" aria-hidden="true"></span>
 
 Dieser Abrechnungsbildschirm bietet im ersten Bereich die Verknüpfung mit der HGKV-Datenbank (Kollektivvertragsdatenbank). Im zweiten Bereich können Kollektivvertragsdaten manuell eingetragen werden. Die manuelle Eintragung ist nur möglich, wenn der Bereich *HGKV-DB* nicht aktiviert ist.
 
@@ -137,7 +136,6 @@ Auf die hier angezeigten Werte kann im Rahmen der automatischen Berechnung mit [
 
 Durch die Umstellung von KV-Handel Angestellte ALT auf KV-Handel Angestellte NEU kann es zu einem *Reformbetrag 1* kommen. Diesen Betrag können Sie hier eintragen bzw. wird dieser vom Programm bei der Umstellung automatisch befüllt.
 
-<span id="jubilaumsgelder" class="legacy-anchor" aria-hidden="true"></span>
 ## Jubiläumsgelder
 
 Wenn im Kollektivvertrag ein eindeutiges Jubiläumsgeld hinterlegt ist, dann werden hier die Felder automatisch befüllt. Wenn es keine eindeutigen Daten zum Jubiläumsgeld gibt, müssen die Felder von Ihnen befüllt werden.
@@ -170,7 +168,6 @@ Im Bereich der Überzahlung kann pro Kollektivvertrag festgelegt werden, ob Übe
 
 Soll die Überzahlung nicht betraglich, sondern prozentuell beibehalten werden, ist das Feld *Prozentuelle Überzahlung beibehalten* zu aktivieren.
 
-<span id="abweichende-einstellungen-fur-einzelne-dienstnehmer" class="legacy-anchor" aria-hidden="true"></span>
 ## Abweichende Einstellungen für einzelne Dienstnehmer
 
 Innerhalb des Abrechnungsbildschirms *Kollektivvertrag* können beim Dienstnehmer im Bereich *abw. Einstellungen für diesen Dienstnehmer* abweichende Eingaben eingetragen werden.

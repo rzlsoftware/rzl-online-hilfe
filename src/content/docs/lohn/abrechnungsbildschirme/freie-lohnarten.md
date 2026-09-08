@@ -3,7 +3,6 @@ title: Freie Lohnarten
 program: LOHN
 ---
 
-<span id="freie-lohnarten" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Eingabebildschirm der frei definierbaren Lohnarten können zusätzliche Lohnarten angewählt und abgerechnet werden. Für die Anlage von freien Lohnarten siehe [Lohnarten anlegen / ändern](/lohn/freie-lohnarten/lohnarten-anlegen-bzw-aendern/).
 

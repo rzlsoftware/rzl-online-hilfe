@@ -3,7 +3,6 @@ title: Nachrichtenliste
 program: Klientenportal
 ---
 
-<span id="nachrichtenliste" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Gesendete Nachrichten
 
@@ -26,7 +25,6 @@ Gibt es in der geöffneten Nachricht dazugehörige frühere Nachrichten, können
 
 Beinhaltet die Nachricht einen Anhang kann dieser über den *Menüpunkt Anhänge herunterladen* geöffnet und gespeichert werden.
 
-<span id="nachrichten-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ### Nachrichten löschen 
 
 Wählen Sie dazu die gewünschte Nachricht in der letzten Spalte durch Setzen des Häkchens an. Mit *Nachricht löschen* werden die markierten Nachrichten nicht nur in der Kanzleisachbearbeiter-Ansicht, sondern auch bei den betroffenen Klienten gelöscht.

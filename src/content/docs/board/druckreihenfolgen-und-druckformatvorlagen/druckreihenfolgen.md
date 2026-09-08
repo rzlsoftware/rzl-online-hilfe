@@ -16,7 +16,6 @@ Die verfügbaren Aktionen finden Sie im Ribbon: Im Bereich Druckreihenfolgen kö
 Nutzen Sie die Funktion *Anlegen* im Bereich Druckformatvorlagen. Geben Sie einen aussagekräftigen Namen ein. Mit den Optionen *Allgemein* und *Persönlich* legen Sie die Verfügbarkeit fest. Über die Auswahl **Druckformatvorlage** bestimmen Sie das Layout der Ausdrucke. Mit *Standard Druckformatvorlage* verwenden gilt die in Ihrer Kanzlei hinterlegte Standardvorlage.
 
 
-<span id="ausdrucke-hinzufugen-und-ordnen" class="legacy-anchor" aria-hidden="true"></span>
 ### Ausdrucke hinzufügen und ordnen
 
 In der Spalte *Verfügbare Ausdrucke* finden Sie alle druckbaren Funktionen, nach Programm gruppiert (FIBU Next, HON Next) und darunter nach Kategorien wie Konten, Saldenlisten, OP-Liste oder KER. Über das Suchfeld *Verfügbare Ausdrucke durchsuchen* können Sie einen Ausdruck per Namen suchen.
@@ -41,7 +40,6 @@ Sie können nur jene Klienten zuordnen, für welche Sie entsprechende Berechtigu
 :::
 Speichern Sie Ihre Eingaben abschließend über **Speichern**. Die Druckreihenfolge steht somit in der Übersicht zur Verfügung.
 
-<span id="eine-druckreihenfolge-ausfuhren" class="legacy-anchor" aria-hidden="true"></span>
 ## Eine Druckreihenfolge ausführen
 
 Markieren Sie in der Liste die gewünschte Druckreihenfolge und wählen Sie im Ribbon *Ausführen*.
@@ -61,7 +59,6 @@ Der Zeitraum muss im Bereich *Zeitraum* voreingestellt werden. Der Zeitraum kann
 :::
 Mit **Ausführen** erfolgt der Ausdruck laut Definition in der Druckreihenfolge.
 
-<span id="status-der-ausfuhrung" class="legacy-anchor" aria-hidden="true"></span>
 ## Status der Ausführung
 
 Ein Fortschrittsbalken zeigt den aktuellen Gesamtfortschritt an. Je Klient wird separat angezeigt, ob die Ausdrucke für diesen gerade aktiv, wartend, abgeschlossen, abgeschlossen mit Fehlern oder fehlgeschlagen sind. Das wird außerdem  mit folgenden Symbolen gekennzeichnet:
@@ -73,7 +70,6 @@ Ein Fortschrittsbalken zeigt den aktuellen Gesamtfortschritt an. Je Klient wird 
 
 Wird ![abgeschlossen mit I](<img/I-Symbol.png>) oder ![Fehler](<img/fehlerhaft.png>) angezeigt, heißt das nicht, dass der Status für den gesamten Druck gilt. Sie können mittels Aufklapp-Symbol ![aufklappen](<img/aufklappen.png>) neben dem Status je Klient die Druckreihenfolge für den betroffenen Klienten öffnen und so prüfen, welcher Ausdruck zu einem Fehler geführt hat. Zusätzlich wird der genaue Fehlertext angezeigt.
 
-<span id="ubersprungene-ausdrucke" class="legacy-anchor" aria-hidden="true"></span>
 ## übersprungene Ausdrucke
 Übersprungene Ausdrucke sind im Massenlauf der Normalfall und kein Grund zur Sorge. Ein Ausdruck wird übersprungen, wenn z.B. keine Daten vorliegen.
 

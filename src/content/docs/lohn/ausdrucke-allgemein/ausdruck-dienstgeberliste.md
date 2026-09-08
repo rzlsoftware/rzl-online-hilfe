@@ -3,7 +3,6 @@ title: Ausdruck Dienstgeberliste
 program: LOHN
 ---
 
-<span id="ausdruck-dienstgeberliste" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Anwahl des Programmteiles *Klient / Drucken / Sammelauswertungen / Dienstgeber-Liste* ermöglicht den Ausdruck einer Dienstgeberliste nach verschiedenen Kriterien (FA, Gemeinde, ÖGK) mit verschiedenen Informationen (Beitragskontonummer, FA-Steuernummer, ÖGK und Gemeinde-Kontonummer).
 

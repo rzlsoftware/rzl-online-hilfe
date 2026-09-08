@@ -3,7 +3,6 @@ title: Allgemeines
 program: LENext
 ---
 
-<span id="allgemeines" class="legacy-anchor" aria-hidden="true"></span>
 
 Jeder Benutzer kann für sich selbst einstellen, ob er Vorschlagswerte
 für die Spalten Tätigkeit, Klient, Projektzeitraum und Beginn in einer

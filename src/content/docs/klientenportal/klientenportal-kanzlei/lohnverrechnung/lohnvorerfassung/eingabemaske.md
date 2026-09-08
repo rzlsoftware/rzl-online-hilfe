@@ -3,7 +3,6 @@ title: Eingabemasken für Klienten konfigurieren
 program: Klientenportal
 ---
 
-<span id="eingabemasken-fur-klienten-konfigurieren" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Klientenbereich des Portals können die Benutzer Daten für die Lohnverrechnung vorerfassen und der Lohnverrechnung zur Verfügung stellen. Die Felder (Lohnarten, Überstunden, Homeoffice-Tage, usw.) werden im Kanzleibereich festgelegt.
 
@@ -23,7 +22,6 @@ Wählen Sie das Menü *Lohnverrechnung / Eingabemasken verwalten* aus.
 
 Sie können hier für *Eintritte*, *Austritte* und *Laufende Änderungen* Eingabemasken bearbeiten bzw. neue Eingabemasken erstellen. Drei Vorschläge „Maximal", „Minimal" und „Standard" stehen im RZL Klientenportal bereits zur Verfügung. Diese Vorschläge können jederzeit abgeändert und angepasst werden.
 
-<span id="bestehende-eingabemaske-andern" class="legacy-anchor" aria-hidden="true"></span>
 ### Bestehende Eingabemaske ändern 
 
 Wählen Sie dazu im jeweiligen Set die gewünschte Maske durch Anwahl der Maskenbezeichnung aus. Sie gelangen anschließend in den Bearbeitungsdialog.
@@ -64,7 +62,6 @@ Einzelne Datenfelder können als *Pflichtfelder* (**6**) oder als *Nur lesbar* (
 
 Die gewünschten Eingabemasken werden in den Klientenstammdaten in den Berechtigungen der Benutzer mit der Option *Lohn Vorerfassung* zugeteilt. [siehe Klientenbenutzer](/klientenportal/klientenportal-kanzlei/stammdaten/klient-stammdaten/klientenbenutzer/)
 
-<span id="eingabemasken-fur-die-tabellenerfassung-laufende-anderungen" class="legacy-anchor" aria-hidden="true"></span>
 ## Eingabemasken für die Tabellenerfassung laufende Änderungen
 
 Im Klientenbereich besteht die Möglichkeit laufende Änderungen nur für bestimmte Lohnarten (Fixe Lohnarten, freie Lohnarten, Über- und Mehrstunden, Abzüge, Lohnsteuertage) in Tabellenform zu erfassen.

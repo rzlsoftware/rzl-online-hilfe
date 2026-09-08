@@ -3,7 +3,6 @@ title: Belege mit XML-Belegdatenimport aus Fremdsystem übernehmen
 program: Belegverarbeitung
 ---
 
-<span id="belege-mit-xml-belegdatenimport-aus-fremdsystem-ubernehmen" class="legacy-anchor" aria-hidden="true"></span>
 
 ## RZL XML Belegdatenimport Schnittstelle
 
@@ -14,7 +13,6 @@ Aus dem Fremdsystem muss zusätzlich zur Belegdatei eine XML Datei mit den Beleg
 
 Folgende Möglichkeiten gibt es, diese Belege mit Belegdaten in die RZL Belegverarbeitung zu übernehmen:
 
-<span id="1-ubernahme-uber-einen-scannordner" class="legacy-anchor" aria-hidden="true"></span>
 ### 1. Übernahme über einen Scannordner
 
 
@@ -40,7 +38,6 @@ Bei Bedarf können die Daten jederzeit ergänzt oder auch verändert werden. Bei
 Abschließend können Sie die Belege wie gewohnt über *Alle übernehmen* oder *Auswahl übernehmen* in die RZL Belegverarbeitung übernehmen und im der RZL FIBU/EA-Programm buchen.
 
 
-<span id="2-ubernahme-mittels-importfunktion" class="legacy-anchor" aria-hidden="true"></span>
 ### 2. Übernahme mittels Importfunktion
 
 

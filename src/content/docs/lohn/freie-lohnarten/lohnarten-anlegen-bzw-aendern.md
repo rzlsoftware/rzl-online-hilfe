@@ -3,7 +3,6 @@ title: Lohnarten anlegen / ändern
 program: LOHN
 ---
 
-<span id="lohnarten-anlegen-andern" class="legacy-anchor" aria-hidden="true"></span>
 
 Werden individuelle Lohnarten angelegt, so liegt die Verantwortung hinsichtlich der Definition der SV-Pflichtigkeit, LSt-Pflichtigkeit, DB-Pflichtigkeit und KommSt-Pflichtigkeit ausschließlich beim Anwender. Eine falsch definierte Lohnart kann eine falsche Berechnung der Sozialversicherung, Lohnsteuer, DB und Kommunalsteuer bewirken. Die entsprechenden Einstellungen sind daher gewissenhaft vorzunehmen.
 

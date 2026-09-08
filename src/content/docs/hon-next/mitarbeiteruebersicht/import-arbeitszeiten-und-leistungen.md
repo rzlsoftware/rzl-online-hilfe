@@ -3,7 +3,6 @@ title: Import Arbeitszeiten und Leistungen
 program: HONNext
 ---
 
-<span id="import-arbeitszeiten-und-leistungen" class="legacy-anchor" aria-hidden="true"></span>
 
 In der Honorarverrechnung besteht über *Leistungserfassung /
 Mitarbeiterübersicht* die Möglichkeit, die Leistungen und Arbeitszeiten

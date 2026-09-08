@@ -3,9 +3,7 @@ title: Kontostammdaten
 program: FIBUNext
 ---
 
-<span id="kontostammdaten" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="kontostammdaten_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Kontostammdaten
 
 

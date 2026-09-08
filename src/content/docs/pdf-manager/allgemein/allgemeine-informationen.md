@@ -3,7 +3,6 @@ title: Allgemeine Informationen
 program: PDFManager
 ---
 
-<span id="allgemeine-informationen" class="legacy-anchor" aria-hidden="true"></span>
 
 Im folgenden Abschnitt finden Sie alle relevanten Informationen zum
 RZL PDF-Manager, welcher das Nachfolgeprodukt des RZL

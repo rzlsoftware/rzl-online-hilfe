@@ -3,7 +3,6 @@ title: Umstellung KV-Handel Angestellte
 program: LOHN
 ---
 
-<span id="umstellung-kv-handel-angestellte" class="legacy-anchor" aria-hidden="true"></span>
 
 Seit der Anpassung im Jahr 2017 sieht der Kollektivvertrag für Angestellte und Lehrlinge im Handel ein neues Gehaltssystem vor. Die Umstellung auf dieses neue Gehaltssystem muss spätestens bis 01.01.2022 erfolgen. Das RZL-*Lohnverrechnungsmodul* *HGKV-Datenbanken* wurde um einige Felder bzw. Optionen erweitert. Die Ermittlung des korrekten Bezuges in der neuen Beschäftigungsgruppe, die Ermittlung des nächsten Vorrückungsstichtages und die Administration des Reformbetrages 1 sollten dadurch wesentlich erleichtert werden.
 
@@ -37,7 +36,6 @@ Dabei ist die Stufe zu wählen, die im Vergleich zum kollektivvertraglichen Mind
 
 **Mit den folgenden Beispielen möchten wir die Vorgehensweise noch genauer darlegen:**
 
-<span id="beispiel-1-einstufung-ohne-uberzahlung" class="legacy-anchor" aria-hidden="true"></span>
 ## Beispiel 1 - Einstufung ohne Überzahlung
 
 Angestellter BG 2, 7. Berufsjahr EUR 1.700,00 = KV Mindestgehalt ALT
@@ -52,7 +50,6 @@ Bei einem ursprünglichen KV bzw. Istlohn von EUR 1.700,00 landet der Dienstnehm
 
 **Vordienstzeiten bleiben im Falle des Umstieges auf das neue Gehaltssystem jedenfalls ohne Berücksichtigung**. Beim Ersteintritt in den Kollektivvertrag können jedoch Vordienstzeiten im Ausmaß von bis zu 7 Jahren angerechnet werden.
 
-<span id="beispiel-2-einstufung-mit-uberzahlung" class="legacy-anchor" aria-hidden="true"></span>
 ## Beispiel 2 - Einstufung mit Überzahlung
 
 Angestellter BG 4, 12. Berufsjahr EUR 2.757,00 = KV Mindestgehalt ALT
@@ -75,7 +72,6 @@ Im Zuge des Umstieges darf eine **bestehende Überzahlung gekürzt** werden. Bei
 
 Die Gehaltsstufen erstrecken sich im neuen Gehaltsschema über eine Dauer von 3 Jahren. Dabei bleibt der **individuelle Vorrückungsstichtag des Dienstnehmers** stets erhalten.
 
-<span id="beispiel-3-vorruckungsstichtag" class="legacy-anchor" aria-hidden="true"></span>
 ## Beispiel 3 - Vorrückungsstichtag
 
 Eintrittsdatum: 1. April 2011, BG 2
@@ -96,7 +92,6 @@ Die so bestimmte abweichende Einstiegsstufe lässt, im Gegensatz zur bisherigen 
 
 Liegt das kollektivvertragliche Mindestgehalt nach dem neuen Gehaltsschema UNTER dem kollektivvertraglichen Mindestgehalt des alten KV, ist der sogenannte Reformbetrag 1 zu bilden.
 
-<span id="beispiel-4-einstufung-reformbetrag-und-uberzahlung" class="legacy-anchor" aria-hidden="true"></span>
 ## Beispiel 4 - Einstufung, Reformbetrag und Überzahlung
 
 Angestellter BG 3, 18. Berufsjahr EUR 2.459,00 = KV Mindestgehalt ALT
@@ -154,7 +149,6 @@ Vergleich des KV-Mindestgehalt BG E, Stufe 4 (EUR 2.550,00) mit der Tabelle von 
 
 Hierbei sei darauf hingewiesen, dass sich die Bezeichnung der Stufe hier ein wenig unterscheidet, die vorgeschlagene Stufe jedenfalls korrekt ist. Die 2. Stufe des KV wird in der Tabelle der HGKV-Datenbank als Stufe 4 bezeichnet, um die erstmalige Vorrückung leichter erkennbar zu machen.
 
-<span id="ruckreihung-ruckstufung-innerhalb-des-gehaltsschemas-neu" class="legacy-anchor" aria-hidden="true"></span>
 ## Rückreihung / Rückstufung innerhalb des Gehaltsschemas NEU
 
 Wenn ein Dienstnehmer bestimmte Tätigkeiten nicht mehr ausübt, ist auch die Rückreihung in eine niedrigere Gruppe denkbar. Auch hier gibt es einen genau bestimmten Weg, wie der korrekte KV-Mindestbezug zu ermitteln ist.

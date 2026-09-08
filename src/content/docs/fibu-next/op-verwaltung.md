@@ -3,7 +3,6 @@ title: OP Verwaltung
 program: FIBUNext
 ---
 
-<span id="op-verwaltung" class="legacy-anchor" aria-hidden="true"></span>
 
 Die Verwaltung offener Posten ist sowohl auf Personenkonten, als auch auf Bestandskonten möglich. Dabei kann entschieden werden, ob Debitoren, Kreditoren, oder Sachkonten oder alle gemeinsam verwaltet werden sollen.
 
@@ -39,7 +38,6 @@ Die Eröffnungsbilanz kann auch unabhängig von der Offenen Postenverwaltung fü
 
 Die OP Verwaltung kann auch wieder deaktiviert werden (unter *Stamm / FIBU / Allgemein*).
 
-<span id="op-zuteilung-wahrend-des-buchens" class="legacy-anchor" aria-hidden="true"></span>
 ### OP Zuteilung während des Buchens
 
 Weitere Informationen zur Zuteilung von offenen Posten während des Buchens finden Sie im Kapitel [Offene Posten Zuteilung](/fibu-next/erfassen/buchen/offene-posten-zuteilung/).

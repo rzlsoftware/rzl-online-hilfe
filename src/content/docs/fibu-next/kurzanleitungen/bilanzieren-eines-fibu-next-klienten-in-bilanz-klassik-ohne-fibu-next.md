@@ -3,7 +3,6 @@ title: Bilanzieren eines FIBU Next Klienten ohne FIBU Next
 program: FIBUNext
 ---
 
-<span id="bilanzieren-eines-fibu-next-klienten-ohne-fibu-next" class="legacy-anchor" aria-hidden="true"></span>
 
 
 
@@ -15,7 +14,6 @@ Im ersten Kapitel dieser Kurzanleitung finden Sie die notwendigen
 Schritte für Sie als Steuerberater. Im folgenden Kapitel  finden Sie schließlich
 die Anleitung für den Klienten, welcher Ihnen die Buchhaltung zusendet.
 
-<span id="notwendige-schritte-fur-den-steuerberaterbilanzierer" class="legacy-anchor" aria-hidden="true"></span>
 ## Notwendige Schritte für den Steuerberater/Bilanzierer
 
 ### Einspielen der Daten
@@ -34,7 +32,6 @@ wiederherstellen. ***(3)***
 
 ![image](img/image2.png)
 
-<span id="automatische-ubernahme-in-bilanz" class="legacy-anchor" aria-hidden="true"></span>
 ### Automatische Übernahme in Bilanz
 
 Nachdem Sie die Sicherung aus der FIBU Next hereingespielt haben, können
@@ -47,7 +44,6 @@ ist der Menüpunkt *Übernahme von FIBU Next* zu wählen.
 Damit haben Sie alle Salden, wie gewohnt, in der Bilanz und können zu
 Bilanzieren beginnen.
 
-<span id="ubergabe-der-umbuchungen-nach-abschluss-des-bilanzierens" class="legacy-anchor" aria-hidden="true"></span>
 ### Übergabe der Umbuchungen nach Abschluss des Bilanzierens
 
 Nachdem Sie die Bilanz des Klienten abgeschlossen haben, können Sie im
@@ -87,7 +83,6 @@ Eine Sicherung aus der FIBU Next besteht, im Gegensatz zur FIBU Klassik,
 aus nur einer Datei.
 
 :::
-<span id="notwendige-schritte-fur-den-klientenbuchhalter" class="legacy-anchor" aria-hidden="true"></span>
 ## Notwendige Schritte für den Klienten/Buchhalter
 
 ### Erstellen einer Sicherung der Buchhaltung
@@ -131,7 +126,6 @@ wiederherzustellen ***(3)***.
 
 ![image](img/image2.png)
 
-<span id="ubernahme-der-umbuchung-in-die-eroffnungsbilanz-des-folgejahres" class="legacy-anchor" aria-hidden="true"></span>
 ### Übernahme der Umbuchung in die Eröffnungsbilanz des Folgejahres
 
 Die Eröffnungsbilanzwerte werden im Zuge des automatischen Abgleichs
@@ -150,10 +144,8 @@ die EB automatisch gebucht bzw. aktualisiert werden kann.
 
 ![image](img/image6.png)
 
-<span id="spezialfalle-bei-umstellung-von-fibu-klassik-auf-fibu-next" class="legacy-anchor" aria-hidden="true"></span>
 ### Spezialfälle bei Umstellung von FIBU Klassik auf FIBU Next
 
-<span id="das-bilanzjahr-wurde-vollstandig-in-der-fibu-klassik-gebucht-und-in-die-fibu-next-ubergeben-das-folgejahr-wurde-bereits-in-der-fibu-next-angelegt-und-dort-bebucht" class="legacy-anchor" aria-hidden="true"></span>
 #### Das Bilanzjahr wurde vollständig in der FIBU Klassik gebucht und in die FIBU Next übergeben. Das Folgejahr wurde bereits in der FIBU Next angelegt und dort bebucht.
 
 In diesem Fall ist im Folgejahr das unter *Stamm / FIBU / Allgemein* das
@@ -163,7 +155,6 @@ Bestandskonten) die EB-Werte automatisch gebucht und aktualisiert.
 
 ![image](img/image7.png){width="500"}
 
-<span id="sowohl-das-bilanzjahr-als-auch-das-folgejahr-wurden-aus-der-fibu-klassik-ubernommen" class="legacy-anchor" aria-hidden="true"></span>
 #### Sowohl das Bilanzjahr als auch das Folgejahr wurden aus der FIBU Klassik übernommen. 
 
 Wurde auch das Folgejahr aus der FIBU Klassik übernommen (dabei spielt
@@ -189,7 +180,6 @@ Konten ist in diesem Fall nicht mehr möglich, da es ansonsten zu
 Differenzen kommen könnte.
 
 :::
-<span id="das-bilanzjahr-befindet-sich-noch-in-der-fibu-klassik-das-folgejahr-wurde-in-die-fibu-next-ubernommen" class="legacy-anchor" aria-hidden="true"></span>
 #### Das Bilanzjahr befindet sich noch in der FIBU Klassik, das Folgejahr wurde in die FIBU Next übernommen.
 
 In diesem Fall empfehlen wir, die FIBU des Bilanzjahres ebenfalls in die

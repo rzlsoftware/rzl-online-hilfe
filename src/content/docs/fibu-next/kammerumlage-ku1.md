@@ -3,7 +3,6 @@ title: Kammerumlage (KU1)
 program: FIBUNext
 ---
 
-<span id="kammerumlage-ku1" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Allgemeine Hinweise zur Berechnung der Kammerumlage
 

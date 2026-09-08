@@ -3,7 +3,6 @@ title: Anlegen der BV-Kassen
 program: LOHN
 ---
 
-<span id="anlegen-der-bv-kassen" class="legacy-anchor" aria-hidden="true"></span>
 
 Bis zum Ende des Jahres 2002 mussten sich die Dienstgeber für eine BV-Kasse entscheiden, da auf jeder Anmeldung seit 2003 auch die BV-Kasse angeführt werden muss.
 

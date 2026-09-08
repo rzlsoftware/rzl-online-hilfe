@@ -10,7 +10,6 @@ Unter Status der Quotenerfüllung können Sie die aktuellen Quoten pro Finanzamt
 Zusätzlich steht darunter eingerückt eine separate Ansicht der Feststellungserklärungen zur Verfügung.
 Durch Betätigung des Buttons *Status der Quotenerfüllung und quotenrelevante Erklärungen abfragen* wird das Verzeichnis der vertretenen Quotenfälle abgerufen und verzögert in die Databox gestellt. Somit gelangen diese Informationen direkt von FinanzOnline zu RZL.
 
-<span id="quotenfalle" class="legacy-anchor" aria-hidden="true"></span>
 ## Quotenfälle
 
 Durch einen Doppelklick auf das jeweilige Finanzamt werden

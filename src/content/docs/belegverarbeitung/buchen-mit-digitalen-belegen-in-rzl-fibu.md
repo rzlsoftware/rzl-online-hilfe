@@ -3,7 +3,6 @@ title: Buchen mit digitalen Belegen in RZL FIBU
 program: Belegverarbeitung
 ---
 
-<span id="buchen-mit-digitalen-belegen-in-rzl-fibu" class="legacy-anchor" aria-hidden="true"></span>
 
 ## Allgemein
 
@@ -25,7 +24,6 @@ verknüpft.
 
 ## Buchen mit digitalen Belegen
 
-<span id="aktualisierungsoptionen-fur-personenkonten" class="legacy-anchor" aria-hidden="true"></span>
 ### Aktualisierungsoptionen für Personenkonten
 
 Für den Buchungsvorschlag bei Eingangs- und Ausgangsrechnungen ist die
@@ -153,7 +151,6 @@ finalisiert.
 
 
 :::
-<span id="normales-buchen-mit-belegverarbeitung-buchungsvorschlage-einzeln" class="legacy-anchor" aria-hidden="true"></span>
 ### "Normales Buchen“ mit Belegverarbeitung - Buchungsvorschläge einzeln
 
 Innerhalb des *normalen Buchens (Buchen oder Stapelbuchen)* können Sie
@@ -334,7 +331,6 @@ Vorteile Variante 2 (Belegverarbeitung aus DMS-System):
     Steuerzeilen vorhanden, werden diese nur bei dieser Buchungsvariante
     verwendet um eine Splitbuchung vorzuschlagen.
 
-<span id="buchen-von-belegen-mit-fremdwahrung" class="legacy-anchor" aria-hidden="true"></span>
 ### Buchen von Belegen mit Fremdwährung
 
 Bei einer Belegdatenerkennung werden, wenn ein 3-stelliger Währungscode

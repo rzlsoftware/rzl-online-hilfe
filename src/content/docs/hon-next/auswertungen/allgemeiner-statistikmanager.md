@@ -3,7 +3,6 @@ title: Allgemeiner Statistik Manager
 program: HONNext
 ---
 
-<span id="allgemeiner-statistik-manager" class="legacy-anchor" aria-hidden="true"></span>
 
 Im HON Next steht Ihnen im Reiter *Auswertungen* der Allgemeine Statistik Manager zur Verfügung. Mit dieser Auswertung können Sie sämtliche Erfassungszeilen der Honorarverrechnung analysieren.
 

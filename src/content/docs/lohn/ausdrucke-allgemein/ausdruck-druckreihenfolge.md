@@ -3,7 +3,6 @@ title: Ausdruck Druckreihenfolge
 program: LOHN
 ---
 
-<span id="ausdruck-druckreihenfolge" class="legacy-anchor" aria-hidden="true"></span>
 
 Im Programmteil *Ausdruck / Druckreihenfolge* kann eine Liste mit den benötigten Ausdrucken erstellt werden (z. B. Abrechnungen, Lohnjournal, Auszahlungsjournal). Diese erstellte Liste braucht dann nur noch angewählt werden und die gewünschten Ausdrucke erfolgen in der festgelegten Reihenfolge.
 
@@ -27,7 +26,6 @@ Durch Anwahl der Schaltfläche *Drucken* wird die ausgewählte Druckreihenfolge 
 Die definierten Druckoptionen werden pro Zuordnung (Allgemein, Arbeitsplatz oder Persönlich) und nicht pro einzelner Druckreihenfolge gespeichert.
 
 :::
-<span id="erstellung-aufbau-der-druckreihenfolge" class="legacy-anchor" aria-hidden="true"></span>
 ## Erstellung / Aufbau der Druckreihenfolge
 
 Die Auswahl der zu exportierenden Daten erfolgt im Bereich *Druckreihenfolge*. Im Bereich *Zuordnung* wird die Verfügbarkeit der Druckreihenfolge angezeigt.

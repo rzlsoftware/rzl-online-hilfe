@@ -3,7 +3,6 @@ title: Dienstgeber–Gesamtkosten
 program: LOHN
 ---
 
-<span id="dienstgebergesamtkosten" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](img/image231.png){width="500"}
 

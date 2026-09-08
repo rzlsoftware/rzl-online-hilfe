@@ -3,7 +3,6 @@ title: Auszahlungsjournal
 program: LOHN
 ---
 
-<span id="auszahlungsjournal" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](img/image235.png){width="500"}
 

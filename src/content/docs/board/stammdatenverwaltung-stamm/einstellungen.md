@@ -3,7 +3,6 @@ title: Einstellungen
 program: Board
 ---
 
-<span id="einstellungen" class="legacy-anchor" aria-hidden="true"></span>
 
 Im STAMM finden Sie neben der Personen-/Klientenverwaltung auch einen
 Bereich für Einstellungen. Sie können hier Einstellungen für die

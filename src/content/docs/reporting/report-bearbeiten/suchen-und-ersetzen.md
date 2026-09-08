@@ -3,7 +3,6 @@ title: Suchen und Ersetzen
 program: Reporting
 ---
 
-<span id="suchen-und-ersetzen" class="legacy-anchor" aria-hidden="true"></span>
 
 Wenn Sie in einem umfangreicheren Report nach bestimmten Textstellen suchen, hilft Ihnen die Suchen-/Ersetzen-Funktion. Der gefundene Text kann sofort durch einen anderen Text ersetzt werden.
 
@@ -19,7 +18,6 @@ Es öffnet sich nachfolgendes Fenster im rechten Bereich des *Report Designers*.
 
 ![Image](img/image54.png)
 
-<span id="gro-kleinschreibung-beachten" class="legacy-anchor" aria-hidden="true"></span>
 ## Groß-/Kleinschreibung beachten
 
 Groß- und Kleinschreibung wird bei der Suche beachtet.

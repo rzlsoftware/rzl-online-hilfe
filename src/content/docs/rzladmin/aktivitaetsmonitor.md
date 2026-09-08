@@ -3,7 +3,6 @@ title: Aktivitätsmonitor
 program: rzladmin
 ---
 
-<span id="aktivitatsmonitor" class="legacy-anchor" aria-hidden="true"></span>
 
 Im "SQL Server Aktivitätsmonitor" erhalten Sie einen Überblick über alle Prozesse,
 die mit den RZL-Programmen und zugehörigen SQL-Server in Verbindung stehen.

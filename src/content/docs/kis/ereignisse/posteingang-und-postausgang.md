@@ -43,7 +43,6 @@ diese [durch Einscannen in das RZL Kanzlei-Informationssystem](/kis/arbeitsablae
 Im Bereich Korrespondenz-Typ können Sie zwischen den Einträgen *Belege, Brief, E-Mail, Fax, Klientenportal, Klientenunterlagen, Paket, Serienbrief, Serien-E-Mail* und *Übermittlung* wählen. Die Auswahl des
 Korrespondenztyps hat Auswirkung auf die zur Verfügung stehenden Felder.
 
-<span id="uberbringungsart" class="legacy-anchor" aria-hidden="true"></span>
 ### Überbringungsart
 
 Wenn Sie als Korrespondenz-Typ *Brief* eingestellt haben, können Sie
@@ -73,7 +72,6 @@ Stammdaten vorge­schlagen.
 Durch Anwahl des kleinen Symbols neben dem Bereich *Absender* können die
 beim Klienten gespeicherten Adressen aufgerufen und ausgewählt werden.
 
-<span id="zustandig" class="legacy-anchor" aria-hidden="true"></span>
 ### Zuständig
 
 Hier können Sie den Mitarbeiter, der für den Posteingang zuständig ist,
@@ -151,7 +149,6 @@ Klicken Sie [hier](/kis/arbeitsablaeufe/brief-bzw-dokument/), um zu erfahren, wi
 
 
 :::
-<span id="laufende-nummer_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Laufende Nummer
 
 Die Nummernvergabe erfolgt automatisch nach dem Speichern des neuen
@@ -163,7 +160,6 @@ werden.
 Das Ausgangsdatum wird vorgeschlagen (Tagesdatum). Die aktuelle Uhrzeit
 wird ebenfalls vorgeschlagen.
 
-<span id="briefdatum_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Briefdatum
 
 Wenn Sie als Korrespondenz-Typ einen Brief speichern,
@@ -171,7 +167,6 @@ können Sie abweichend zum Ausgangsdatum das Datum des Dokuments
 zusätzlich abspeichern. Die Eintragung Eingangsdatum ist gleich
 Briefdatum ist natürlich genauso möglich.
 
-<span id="korrespondenz-typ_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Korrespondenz-Typ
 
 Im Bereich Korrespondenz-Typ können Sie zwischen den Einträgen *Belege,*
@@ -179,7 +174,6 @@ Im Bereich Korrespondenz-Typ können Sie zwischen den Einträgen *Belege,*
 Serienbrief, Serien-E-Mail* und *Übermittlung* wählen. Die Auswahl des
 Korrespondenztyps hat Auswirkung auf die zur Verfügung stehenden Felder.
 
-<span id="uberbringungsart_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Überbringungsart
 
 Wenn Sie als Korrespondenz-Typ *Brief* eingestellt haben, können Sie
@@ -189,7 +183,6 @@ hier zwischen den Einträgen *Post/Paketdienst*, *Elektronisch* und
 Beim Korrespondenz-Typ *Paket* kann zwischen *Post/Paketdienst* und
 *Persönlich* bei persönlicher Überbringung ausgewählt werden.
 
-<span id="klient_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Klient
 
 Ein einzelner Klient kann durch Klick auf die Klientennummer oder den
@@ -200,7 +193,6 @@ Auf/Ab-Tasten und Eingabe-Taste (beim Textblock), ausgewählt werden.
 
 Auch eine [Klientenmehrfachzuordnung](/kis/ereignisse/zuordnung-und-archivierung-von-ereignissen/#zuordnung-von-ereignissen-zu-klienten--klientenmehrfachzuordnung) ist möglich.
 
-<span id="empfanger" class="legacy-anchor" aria-hidden="true"></span>
 ### Empfänger
 
 Als Empfänger wird der eingetragene Klient mit den gespeicherten
@@ -212,39 +204,33 @@ Durch Anwahl des kleinen Symbols neben dem Bereich *Empfänger* können
 die beim Klienten gespeicherten Adressen aufgerufen und ausgewählt
 werden.
 
-<span id="zustandig_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Zuständig
 
 Hier können Sie den Mitarbeiter, der für den Postausgang zuständig ist,
 eintragen. Vom Programm wird der Mitarbeiter der den Postausgang aktuell
 bearbeitet vorgeschlagen.
 
-<span id="kategorie_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Kategorie
 
 In diesem Bereich wählen Sie zwischen den in der Verwaltung angelegten [Kategorien](/kis/erste-schritte/anlage-von-themen-und-kategorien/) aus. Die Kategorie ist ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
 innerhalb der Postausgänge bzw. Ereignisse.
 
-<span id="thema_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Thema
 
 Im Bereich [*Thema*](/kis/erste-schritte/anlage-von-themen-und-kategorien/) wählen Sie zwischen den in der Verwaltung angelegten Themen aus. Wie die Kategorie ist das Thema  ebenfalls ein wichtiger Eintrag für die strukturierte Ablage und für die Suche
 innerhalb der Postausgänge bzw. Ereignisse.
 
-<span id="betreff_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Betreff
 
 Hier kann ein Betreff der den Postausgang kurz beschreibt eintragen
 werden. Wird ein E-Mail automatisch übernommen wird der Betreff
 automatisch übernommen und kann nicht geändert werden.
 
-<span id="inhalt_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Inhalt
 
 Im Bereich *Inhalt* erhalten Sie die Möglichkeit, den Postausgang mit
 freiem Text näher zu erläutern.
 
-<span id="versandgebuhr" class="legacy-anchor" aria-hidden="true"></span>
 ### Versandgebühr
 
 Die Eintragung der Versandgebühr ermöglicht Ihnen einen Kostennachweis
@@ -254,19 +240,16 @@ für jeden einzelnen Postausgang.
 
 In diesem Feld tragen Sie die Brief- oder Paketnummer ein.
 
-<span id="versendetuberreicht" class="legacy-anchor" aria-hidden="true"></span>
 ### Versendet/Überreicht
 
 Mit dem Aktivieren dieses Feldes können Sie dokumentieren ob der
 Postausgang bereits Ihren Machtbereich verlassen hat.
 
-<span id="ablageort_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Ablageort
 
 Hier können Sie zwischen den – in der Verwaltung angelegten – [Ablageorten](/kis/stammdaten/sonstige-stammdaten/#ablageort) auswählen oder einen händischen
 Eintrag machen.
 
-<span id="zeitraum_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Zeitraum
 
 In diesem Feld kann ein Zeitraum eingetragen werden. Unten sind einige
@@ -282,7 +265,6 @@ Möglichkeiten der Eingabe angeführt.
 | MMMMJJ      | 01-04/2020              | von Monat bis Monat im Jahr     |
 | MMJJMMJJ    | 01/2019-05/2020         | von Monat, Jahr bis Monat, Jahr |
 
-<span id="dokumentenzuordnungaufgabenzuordnung_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Dokumentenzuordnung/Aufgabenzuordnung
 
 Im rechten unteren Bereich Ihres Postausgangs werden bereits bestehende

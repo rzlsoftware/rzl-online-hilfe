@@ -3,7 +3,6 @@ title: Erneute Jahresübernahme
 program: LOHN
 ---
 
-<span id="erneute-jahresubernahme" class="legacy-anchor" aria-hidden="true"></span>
 
 Bei einer erneuten Jahresübernahme haben Sie die Möglichkeit, die Urlaubs-, Krankenstands- und Zeitausgleichskartei nochmals zu übernehmen.
 

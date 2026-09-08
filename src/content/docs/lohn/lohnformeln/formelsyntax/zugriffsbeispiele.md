@@ -3,7 +3,6 @@ title: Zugriffsbeispiele
 program: LOHN
 ---
 
-<span id="zugriffsbeispiele" class="legacy-anchor" aria-hidden="true"></span>
 
 | **Monatszugriff**                                                                 |
 | --------------------------------------------------------------------------------- |

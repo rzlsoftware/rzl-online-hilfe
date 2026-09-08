@@ -3,9 +3,7 @@ title: Elektronische Kommunalsteuererklärung
 program: LOHN
 ---
 
-<span id="elektronische-kommunalsteuererklarung" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="erstellung-der-elektronischen-kommunalsteuer-jahreserklarung" class="legacy-anchor" aria-hidden="true"></span>
 ## Erstellung der elektronischen Kommunalsteuer-Jahreserklärung
 
 Die Erstellung der Kommunalsteuer-Jahreserklärung kann entweder im Programmteil *Bearbeiten / Elektronische Übermittlung / Elektronische Kommunalsteuer-Jahreserklärung 20XX erstellen* für jeden Klienten einzeln durchgeführt werden.
@@ -16,7 +14,6 @@ Im Programmteil *Klient / Elektronische Übermittlung / Elektronische Kommunalst
 
 Bevor die Kommunalsteuer-Jahreserklärung erstellt wird, sollten im Registerblatt *Überprüfung* vorab die Daten kontrolliert werden. Nach erfolgter Prüfung kann im Registerblatt *Erstellung KommSt-Erklärung-Datei* durch Anwahl der Schaltfläche *Erstellen* die Datei generiert werden. Im Registerblatt *Protokoll* kann der Inhalt der Datei angesehen und auch ausgedruckt werden.
 
-<span id="versenden-der-kommunalsteuer-jahreserklarung" class="legacy-anchor" aria-hidden="true"></span>
 ## Versenden der Kommunalsteuer-Jahreserklärung
 
 Das Versenden der Erklärung erfolgt im Programmteil *Klient / Elektronische Übermittlung / Elektronische Kommunalsteuer-Jahreserklärung absenden*.
@@ -29,7 +26,6 @@ Durch Anwahl der Schaltfläche *Senden* wird automatisch die Homepage von Finanz
 
 Zuerst muss die Schaltfläche *Datei auswählen* angeklickt werden. Im Feld *Dateiname* kann erst dann mit der Tastenkombination *Strg – V* die Datei automatisch eingefügt werden. Über die Schaltflächen *Öffnen* und *Datei senden* können Sie die Datei dann endgültig absenden.
 
-<span id="erstellung-einer-kommunalsteuer-schlieungserklarung" class="legacy-anchor" aria-hidden="true"></span>
 ## Erstellung einer Kommunalsteuer-Schließungserklärung
 
 Damit eine Kommunalsteuer-Schließungserklärung erstellt werden kann, ist zunächst in den Stammdaten des Klienten im [Registerblatt *KommSt, U-Bahn-Abgabe*](/lohn/klientenstammdaten/stammdaten-klient/kommst-ubahn/) im Feld *Datum der Schließung* das Schließungsdatum des Betriebes einzutragen.
@@ -40,7 +36,6 @@ Nachfolgend wird der Programmteil *Bearbeiten / Elektronische Übermittlung / El
 
 Abweichend von der Erstellung der Kommunalsteuer-Jahreserklärungen ist der Monat der Betriebsschließung einzutragen und die Schaltfläche *Erstellen* anzuwählen. Die sonstigen Funktionen dieses Programmteiles und das Versenden der Erklärung funktionieren wie bereits oben beschrieben.
 
-<span id="meldung-mittels-board-ubermitteln" class="legacy-anchor" aria-hidden="true"></span>
 ## Meldung mittels BOARD übermitteln
 
 Jene Kunden, die das *RZL BOARD* verwenden, können die Meldungen an FinanzOnline mit Hilfe des im *RZL BOARD* hinterlegten Webservice-Zugangs durchführen. Die Eingabe der FinanzOnline Zugangsdaten auf der FinanzOnline Homepage entfällt auch bei diesen Übermittlungen.

@@ -3,9 +3,7 @@ title: Ausdruck Jahresauswertungen
 program: LOHN
 ---
 
-<span id="ausdruck-jahresauswertungen" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="beitragsgrundlagennachweis-moglich-bis-2002" class="legacy-anchor" aria-hidden="true"></span>
 ## Beitragsgrundlagennachweis (möglich bis 2002)
 
 Der Beitragsgrundlagennachweis kann durch Anwahl des Menüpunktes *Ausdruck / Jahresauswertungen / Beitragsgrundlagennachweis* am Jahresende ausgedruckt werden. Er beinhaltet alle Dienstnehmer des gewünschten Klienten bzw. Unterdienstgebers, deren Stammdaten bis zum Jahresende nicht gelöscht wurden. Auch Ein- und Austritte während des Jahres werden mit dem richtigen Zeitraum ausgedruckt. Bei einem Wiedereintritt wird die Gesamtsumme für das Kalenderjahr getrennt nach den einzelnen Abrechnungszeiträumen ausgedruckt. Der Ausdruck kann wahlweise mit oder ohne Trennung der Arbeiter und Angestellten durchgeführt werden. Weiters erfolgt eine Trennung in vollversicherte Dienstnehmer und geringfügig Beschäftigte Dienstnehmer.
@@ -74,7 +72,6 @@ Die Aktivierung des Feldes *Sachbezug als DG-Kosten* bewirkt, dass der Sachbezug
 
 Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrechnungsbildschirm *Fixe Lohnarten* im Bereich [*BUAK*](/lohn/abrechnungsbildschirme/fixe-lohnarten/) eingetragenen Lohnarten inklusive der Rückverrechnungsbeträge am Buchungsbeleg dargestellt werden. Wird dieses Feld nicht aktiviert, wird nur die Verbindlichkeit an die ÖGK gekürzt. Eine Aktivierung dieses Feldes ist nicht zwingend notwendig.
 
-<span id="jahres-kostentrager" class="legacy-anchor" aria-hidden="true"></span>
 ## Jahres-Kostenträger
 
 In diesem Programmteil wird eine Jahresauswertung der einzelnen Kostenträger ausgedruckt.
@@ -103,7 +100,6 @@ Wenn im Brutto die Aufwandsentschädigungen nicht enthalten sein sollen, wählen
 
 Über die Option *Aufteilung nach Kostenstellen* können Sie die Kostenstellen als übergeordnete Ebene in dem Ausdruck darstellen.
 
-<span id="jahres-kostentrager-lohnarten" class="legacy-anchor" aria-hidden="true"></span>
 ## Jahres-Kostenträger-Lohnarten
 
 In der Liste der Jahres-Kostenträger-Lohnarten werden je Kostenträger die angefallenen Lohnarten sowie die Lohnnebenkosten angeführt.
@@ -128,12 +124,10 @@ Die Aktivierung des Feldes *Detail BUAK* hat zur Folge, dass sämtliche im Abrec
 
 In dieser Liste können Sie sich die gesamten Dienstgeberkosten des Jahres pro Dienstnehmer ausgeben. Sie haben die Möglichkeit, die *Nebenbeträge einzeln* zu *drucken*. Ebenso kann der *Sachbezug als DG-Kosten* ausgewiesen werden. Bei einem abweichenden Wirtschaftsjahr kann ein *abweichender Zeitraum* eingegeben werden.
 
-<span id="u-bahn-abgabe-jahreserklarung-u-bahn-abgabe-formular" class="legacy-anchor" aria-hidden="true"></span>
 ## U-Bahn-Abgabe-Jahreserklärung / U-Bahn-Abgabe- Formular
 
 Der Menüpunkt *Ausdruck / Jahresauswertungen / U-Bahn-Abgabe-Jahreserklärung* ermöglicht den Ausdruck der Jahreserklärung für die U-Bahn-Abgabe.
 
-<span id="kommunalsteuer-jahreserklarung" class="legacy-anchor" aria-hidden="true"></span>
 ## Kommunalsteuer-Jahreserklärung
 
 Es kann pro Klienten bzw. Unterdienstgeber eine Kommunalsteuer-Jahreserklärung für alle Gemeinden des Klienten bzw. des Unterdienstgebers ausgedruckt werden.
@@ -164,12 +158,10 @@ Wird das Auswahlfeld *Ausgabe in ASCII-Datei* angewählt, dann kann das Betriebs
 
 Auf dieser Aufstellung werden alle Dienstnehmer pro Monat mit der jeweiligen SV-Bemessung ausgewiesen. Durch Anwahl *Trennung geringfügig und vollversichert* werden die SV-Bemessungsgrundlagen getrennt nach geringfügigen und vollversicherten Dienstnehmern ausgewiesen. 
 
-<span id="aufstellung-geringfugig-beschaftigte" class="legacy-anchor" aria-hidden="true"></span>
 ## Aufstellung geringfügig Beschäftigte
 
 Dieser Programmteil ermöglicht den Ausdruck einer Aufstellung der geringfügig Beschäftigten eines Klienten bzw. eines Unterdienstgebers für 12 Monate.
 
-<span id="aufstellung-bv-beitrage" class="legacy-anchor" aria-hidden="true"></span>
 ## Aufstellung BV-Beiträge
 
 Auf dieser Aufstellung werden alle Dienstnehmer pro Monat mit den jeweiligen BV-Beiträgen ausgewiesen. Durch Anwahl *Trennung geringfügig und vollversichert* werden die BV-Beiträge getrennt nach geringfügigen und vollversicherten Dienstnehmern ausgewiesen.

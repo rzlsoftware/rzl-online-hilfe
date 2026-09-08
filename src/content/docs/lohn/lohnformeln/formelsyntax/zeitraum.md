@@ -3,7 +3,6 @@ title: Zeitraum
 program: LOHN
 ---
 
-<span id="zeitraum" class="legacy-anchor" aria-hidden="true"></span>
 
 ![Image](<img/image415.png>){width="500"}
 

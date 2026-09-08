@@ -3,7 +3,6 @@ title: Notenerstellung
 program: HONNext
 ---
 
-<span id="notenerstellung" class="legacy-anchor" aria-hidden="true"></span>
 
 Diese Vorgehensweise, die hier beschrieben wird, können Sie durchführen,
 wenn Sie die Möglichkeit *Note erstellen ohne automatische Erstellung*
@@ -160,7 +159,6 @@ anzeigen/verbergen.
 
 ![](<img/image189.png>)
 
-<span id="andern-der-erfassungszeilen-wahrend-der-notenerstellung" class="legacy-anchor" aria-hidden="true"></span>
 ## Ändern der Erfassungszeilen während der Notenerstellung
 
 In manchen Fällen kann es nötig sein, die Erfassungszeile aus der
@@ -395,7 +393,6 @@ Gesamtbetrag nur mit der Tätigkeit Finanzbuchhaltung angedruckt.
 In grauer Schriftfarbe werden die Notenzeilen dargestellt, die auf der
 Note nicht gedruckt werden.
 
-<span id="text-andern" class="legacy-anchor" aria-hidden="true"></span>
 ## Text ändern
 
 Der Text der Verrechnungsgruppe und der Tätigkeit kann ganz einfach
@@ -431,7 +428,6 @@ Ansicht in der Note:![](<img/image207.png>)
 
 Weitere Beispiele hierzu finden Sie im Handbuch Leistungserfassung.
 
-<span id="notenzeile-einfugen" class="legacy-anchor" aria-hidden="true"></span>
 ## Notenzeile einfügen
 
 Sollte eine zusätzliche Notenzeile eingefügt werden, so ist dies
@@ -477,7 +473,6 @@ Während der Notenerstellung haben Sie die Möglichkeit eine Akonto- bzw. eine A
 Im Zuge der Notenerstellung können nur Anzahlungen eingefügt werden, welche wie Akonten behandelt werden (Abzug). Möchten Sie eine Anzahlungsrechnung erstellen, muss dies über den eigenen Menüpunkt *Akonto/Anzahlungen / Anzahlungen* erfolgen.
 
 :::
-<span id="zu-abschlage" class="legacy-anchor" aria-hidden="true"></span>
 ## Zu-/Abschläge 
 
 Zu- und Abschläge werden automatisch, je nachdem welche Einstellungen
@@ -716,7 +711,6 @@ der Sie sich gerade befinden in die Zwischenablage kopiert wird. Sie
 können diese dann mittels Tastenkombination Strg+V beispielsweise ins
 Excel einfügen.
 
-<span id="note-beim-speichern-schlieen-finalisieren" class="legacy-anchor" aria-hidden="true"></span>
 ## Note beim Speichern & schließen finalisieren
 
 Sie können die Note sofort beim Speichern & schließen endgültig
@@ -728,7 +722,6 @@ Sie aktivieren können.
 
 ![](<img/image233.png>) 
 
-<span id="tatigkeitsruckblick" class="legacy-anchor" aria-hidden="true"></span>
 ## Tätigkeitsrückblick
 
 Im Zuge der Notenerstellung haben Sie die Möglichkeit sich die letzten
@@ -748,7 +741,6 @@ Projektzeitraum und Betrag.
 Indem Sie durch Linksklick eine Zeile auswählen, wird der Betrag in die
 aktuelle Note übernommen.
 
-<span id="notenruckblick" class="legacy-anchor" aria-hidden="true"></span>
 ## Notenrückblick
 
 Ein Notenrückblick soll Ihnen die bereits verrechneten Noten beim

@@ -3,7 +3,6 @@ title: Automatische Rabatte/Aufschläge
 program: HONNext
 ---
 
-<span id="automatische-rabatteaufschlage" class="legacy-anchor" aria-hidden="true"></span>
 
 Über den Menüpunkt *Honorarnoten / Automatische Rabatte/Aufschläge*
 haben Sie die Möglichkeit, Rabatte und/oder Aufschläge, die automatisch
@@ -25,7 +24,6 @@ Minus-Vorzeichen einzutragen. Soll für einen Klienten zukünftig kein
 automatischer Rabatt/Aufschlag generiert werden, kann die Option *Aktiv*
 deaktiviert werden.
 
-<span id="automatischen-rabattaufschlag-loschen" class="legacy-anchor" aria-hidden="true"></span>
 ## Automatischen Rabatt/Aufschlag löschen
 
 Markieren Sie den Rabatt/Aufschlag, der gelöscht werden soll, und wählen

@@ -3,9 +3,7 @@ title: KER Jahresübersicht
 program: FIBUNext
 ---
 
-<span id="ker-jahresubersicht" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="ausdruck-ker-jahresubersicht" class="legacy-anchor" aria-hidden="true"></span>
 ## Ausdruck KER Jahresübersicht
 
 

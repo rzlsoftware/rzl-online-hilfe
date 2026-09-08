@@ -3,9 +3,7 @@ title: Installation übertragen/verschieben
 program: setup
 ---
 
-<span id="installation-ubertragenverschieben" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="komplette-ubertragung" class="legacy-anchor" aria-hidden="true"></span>
 ## Komplette Übertragung
 
 ### RZL Daten sichern
@@ -26,7 +24,6 @@ Stellen Sie die gesicherten Daten wie in Kapitel
 [*RZL Daten wiederherstellen*](/setup/daten-wiederherstellen/) beschrieben in der neuen
 Umgebung wieder her.
 
-<span id="zurucklegen-der-lizenz-bei-der-alten-installation" class="legacy-anchor" aria-hidden="true"></span>
 ### Zurücklegen der Lizenz bei der alten Installation
 
 Sie werden beim Sichern der Daten aufgefordert, die Lizenz zurückzulegen.
@@ -42,7 +39,6 @@ die Datenbank (falls vorhanden) bereinigen.
 
 ---
 
-<span id="ubertragung-einzelner-komponenten" class="legacy-anchor" aria-hidden="true"></span>
 ## Übertragung einzelner Komponenten
 
 ### Datenrepository

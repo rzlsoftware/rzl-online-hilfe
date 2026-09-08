@@ -3,9 +3,7 @@ title: Buchen mit USt nach Vereinnahmung / VSt nach Verausgabung
 program: FIBUNext
 ---
 
-<span id="buchen-mit-ust-nach-vereinnahmung-vst-nach-verausgabung" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="buchen-mit-umsatzsteuer-nach-vereinnahmung-vorsteuer-nach-verausgabung" class="legacy-anchor" aria-hidden="true"></span>
 ## Buchen mit Umsatzsteuer nach Vereinnahmung / Vorsteuer nach Verausgabung
 
 
@@ -74,11 +72,9 @@ Die Grundeinstellungen bzgl. Umsatzsteuer nach Vereinnahmung/Vorsteuer nach Vera
 
 
 :::
-<span id="sonderfalle" class="legacy-anchor" aria-hidden="true"></span>
 ### Sonderfälle
 
 
-<span id="es-werden-unterschiedliche-steuersatze-mit-einer-zahlung-ausgeglichen" class="legacy-anchor" aria-hidden="true"></span>
 #### Es werden unterschiedliche Steuersätze mit einer Zahlung ausgeglichen
 
 
@@ -101,7 +97,6 @@ Buchungen mit A20/A10/… sind in der Ist-Versteuerung nicht möglich, da die Ve
 
 
 :::
-<span id="die-rechnung-muss-im-nachhinein-geandert-werden" class="legacy-anchor" aria-hidden="true"></span>
 #### Die Rechnung muss im Nachhinein geändert werden
 
 

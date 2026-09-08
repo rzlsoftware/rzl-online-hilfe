@@ -3,9 +3,7 @@ title: Buchen mit Umsatzsteuer
 program: FIBUNext
 ---
 
-<span id="buchen-mit-umsatzsteuer" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="buchen-mit-umsatzsteuer_1" class="legacy-anchor" aria-hidden="true"></span>
 ## Buchen mit Umsatzsteuer
 
 

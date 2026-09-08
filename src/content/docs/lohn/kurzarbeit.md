@@ -3,7 +3,6 @@ title: Kurzarbeit
 program: LOHN
 ---
 
-<span id="kurzarbeit" class="legacy-anchor" aria-hidden="true"></span>
 
 ## AMS-KUA-Projekte
 
@@ -58,7 +57,6 @@ Die Kurzarbeit wird deaktiviert. D. h. alle Kurzarbeitsdaten werden gelöscht. 
 
 Seit Juli 2020 gibt es die Möglichkeit einer Kurzarbeitsabrechnung im RZL-Lohn-Programm. Diese Option wurde anhand des Leitfadens des BMAFJ eingebaut.
 
-<span id="kurzarbeit-projektdaten" class="legacy-anchor" aria-hidden="true"></span>
 ### Kurzarbeit - Projektdaten
 
 ![Image](<img/image668.png>){width="500"}
@@ -91,7 +89,6 @@ Hier wird die *Normalarbeitszeit lt. KV* aufgrund der Erfassung unter *Stamm / A
 
 Die Wochenstunden werden aus dem *Eintrittsbildschirm* mit der *F2-Taste* übernommen. Die Wochenstunden sind für die Berechnung der Kurzarbeitsbeihilfe und für den Monatsteiler ausschlaggebend.
 
-<span id="bruttoentgelt-fur-kurzarbeitsbeihilfe" class="legacy-anchor" aria-hidden="true"></span>
 ### Bruttoentgelt für Kurzarbeitsbeihilfe
 
 ![Image](<img/image671.png>){width="500"}
@@ -159,7 +156,6 @@ Hier wird vom Programm die letzte SV-Bemessung vor dem Kurzarbeitsbeginn vorgesc
 
 Hier wird vom Programm die letzte SV-Bemessung vor dem Kurzarbeitsbeginn vorgeschlagen. Dieser Wert kann von Ihnen jederzeit abgeändert werden.
 
-<span id="bruttoentgelt-fur-kurzarbeitsunterstutzung" class="legacy-anchor" aria-hidden="true"></span>
 ### Bruttoentgelt für Kurzarbeitsunterstützung
 
 ![Image](<img/image675.png>){width="500"}
@@ -207,7 +203,6 @@ In Fällen wo im AMS Tool eine höhere Kurzarbeitsunterstützung angezeigt wird,
 
 Hier geben Sie den Betrag des abweichenden Mindestbruttos ein.
 
-<span id="kurzarbeitsunterstutzung-stunden" class="legacy-anchor" aria-hidden="true"></span>
 ### Kurzarbeitsunterstützung – Stunden
 
 ![Image](<img/image676.png>){width="500"}
@@ -252,7 +247,6 @@ Hier müssen Sie die Bemessung für den Urlaub bzw. den Zeitausgleich eingeben. 
 
 Der Wert des Urlaubes bzw. des Zeitausgleiches wird aus den eingegebenen Urlaubs- bzw. Zeitausgleichsstunden und der Bemessungsgrundlage für den Urlaub berechnet (ausgenommen in Verbindung mit der BUAK). Sie können natürlich einen abweichenden Wert eintragen.
 
-<span id="kurzarbeitsunterstutzung" class="legacy-anchor" aria-hidden="true"></span>
 ### Kurzarbeitsunterstützung
 
 ![Image](<img/image677.png>){width="500"}
@@ -309,7 +303,6 @@ Die Option *Aufteilung nach KUA-Tagen* steht nur in aliquoten Kurzarbeitsmonaten
 
 In den Übergangsmonaten zwischen Erstantrag und Verlängerung können Sie zudem eine Lohnart explizit dem Mindestbrutto aus dem Erstantrag oder dem Mindestbrutto aus der Verlängerungszeit zuweisen.
 
-<span id="kurzarbeitsbeihilfe-stunden" class="legacy-anchor" aria-hidden="true"></span>
 ### Kurzarbeitsbeihilfe – Stunden
 
 ![Image](<img/image679.png>){width="500"}
@@ -375,7 +368,6 @@ Geben Sie hier manuell die Ausfallstunden für die Qualifizierungsunterstützung
 
 Differenz aus *errechnete Ausfallstunden* und *geleistete Überstunden*. Diese Ausfallstunden werden ab der Phase 6 auf der Abrechnung angedruckt.
 
-<span id="datenimport-datenexport-kurzarbeitsdaten" class="legacy-anchor" aria-hidden="true"></span>
 ## Datenimport / Datenexport Kurzarbeitsdaten
 
 Es ist möglich, gewisse Kurzarbeitswerte aus RZL-externen Zeiterfassungssystemen über eine CSV-Schnittstelle zu importieren und somit automatisch in die Abrechnung mitaufzunehmen. Um den Klienten die Erfassung der Grunddaten zu erleichtern, können Sie auf Basis der Abrechnungsmaske zunächst eine leere Musterdatei exportieren und dem Klienten vorlegen.

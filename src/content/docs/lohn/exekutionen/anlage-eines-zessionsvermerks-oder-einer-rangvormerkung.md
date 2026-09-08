@@ -3,7 +3,6 @@ title: Anlage eines Zessionsvermerks oder einer Rangvormerkung
 program: LOHN
 ---
 
-<span id="anlage-eines-zessionsvermerks-oder-einer-rangvormerkung" class="legacy-anchor" aria-hidden="true"></span>
 
 Geben Sie unter *Stamm / Exekutionen* eine ganz normale Exekution ein. Sie werden nicht alle Felder wie gewohnt befüllen können, da Sie nicht alle Informationen haben. Geben Sie alles ein, was Ihnen zur Verfügung steht.
 

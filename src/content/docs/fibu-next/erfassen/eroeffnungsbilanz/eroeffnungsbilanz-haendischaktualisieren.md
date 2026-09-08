@@ -3,9 +3,7 @@ title: Eröffnungsbilanz händisch aktualisieren
 program: FIBUNext
 ---
 
-<span id="eroffnungsbilanz-handisch-aktualisieren" class="legacy-anchor" aria-hidden="true"></span>
 
-<span id="eroffnungsbilanz-handisch-aktualisieren_1" class="legacy-anchor" aria-hidden="true"></span>
 ### Eröffnungsbilanz händisch aktualisieren
 
 
@@ -29,7 +27,6 @@ Sobald einmal die Option *EB-Stapel für alle Konten aktualisieren* gewählt wur
 
 
 :::
-<span id="handische-eb-buchung" class="legacy-anchor" aria-hidden="true"></span>
 ### Händische EB Buchung
 
 

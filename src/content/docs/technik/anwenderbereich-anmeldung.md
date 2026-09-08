@@ -3,7 +3,6 @@ title: Anmeldung im Anwenderbereich nicht möglich
 program: technik
 ---
 
-<span id="anmeldung-im-anwenderbereich-nicht-moglich" class="legacy-anchor" aria-hidden="true"></span>
 
 Sollten Sie sich nicht mehr im Anwenderbereich anmelden können, stehen Ihnen mehrere Möglichkeiten zur Verfügung, um wieder Zugriff auf wichtige Komponenten wie Setupdateien, Serverkonfigurator und Treiber zu erhalten:
 
