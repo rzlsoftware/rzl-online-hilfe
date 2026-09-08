@@ -4,10 +4,11 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-        "editorconfig.editorconfig",
+        		"editorconfig.editorconfig",
 				"yzhang.markdown-all-in-one",
 				"astro-build.astro-vscode",
-				"dbaeumer.vscode-eslint"
+				"dbaeumer.vscode-eslint",
+				"openai.chatgpt"
 			],
 			"settings": {
 				"[markdown]": {
