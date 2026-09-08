@@ -90,6 +90,8 @@
  */
 .sl-markdown-content img.icon-inline {
 	display: inline-block;
+	/* Hidden theme variants still trigger Starlight's sibling spacing. */
+	margin-top: 0;
 	vertical-align: middle;
 }
 
