@@ -24,6 +24,31 @@ test('converts image mode and width attributes', () => {
   assert.equal(image.data?.hProperties?.style, 'width:1000px;');
 });
 
+test('marks small width images as inline icons, but not larger ones', () => {
+  const tree: Root = {
+    type: 'root',
+    children: [{
+      type: 'paragraph',
+      children: [
+        { type: 'image', url: 'img/icon.svg', alt: 'Icon' },
+        { type: 'text', value: '{:width="25px"} Text ' },
+        { type: 'image', url: 'img/screenshot.png', alt: 'Screenshot' },
+        { type: 'text', value: '{:width="1000px"}' },
+      ],
+    }],
+  };
+  remarkMkDocsAttributes()(tree);
+  const paragraph = tree.children[0];
+  assert.equal(paragraph?.type, 'paragraph');
+  if (paragraph?.type !== 'paragraph') return;
+
+  const images = paragraph.children.filter((child) => child.type === 'image');
+  assert.equal(images.length, 2);
+  const [icon, screenshot] = images;
+  assert.deepEqual(icon?.data?.hProperties?.className, ['icon-inline']);
+  assert.equal(screenshot?.data?.hProperties?.className, undefined);
+});
+
 test('converts link target and inline-code clipboard attributes', () => {
   const tree: Root = {
     type: 'root',

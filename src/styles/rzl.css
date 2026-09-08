@@ -81,6 +81,19 @@
 }
 
 /*
+ * Small inline icons (legacy MkDocs `{:width="…"}` images below
+ * `INLINE_ICON_MAX_WIDTH_PX` in `remark-mkdocs-attributes.ts`, e.g. the heart
+ * icon in `technik/erste-schritte.md`). Starlight's markdown-content styles
+ * set every image to `display: block`, which is right for screenshots but
+ * stacks these icons on their own line instead of letting them sit inline
+ * with the sentence around them.
+ */
+.sl-markdown-content img.icon-inline {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+/*
  * Search hit highlighting.
  *
  * When a page is opened from a search result, the matching terms are wrapped

@@ -97,11 +97,21 @@ function consumeAttribute(parent: CompatibleParent, index: number, name: string)
   return match[1];
 }
 
+// Threshold below which a `{:width="…"}` image is treated as an inline icon
+// (e.g. the heart icon in `technik/erste-schritte.md`) rather than a
+// screenshot. Starlight's markdown-content styles set every image to
+// `display: block`, which is right for screenshots but breaks icons out of
+// the sentence they're meant to sit in — `.icon-inline` (added to
+// `rzl.css`) puts those back inline.
+const INLINE_ICON_MAX_WIDTH_PX = 48;
+
 function applyWidth(image: Image, width: string): void {
   const properties = propertiesFor(image);
+  const pixels = /^(\d+)px?$/.exec(width);
   const normalized = /^\d+$/.test(width) ? `${width}px` : width;
   const existingStyle = typeof properties.style === 'string' ? properties.style.trim() : '';
   properties.style = `${existingStyle}${existingStyle && !existingStyle.endsWith(';') ? ';' : ''}width:${normalized};`;
+  if (pixels && Number(pixels[1]) <= INLINE_ICON_MAX_WIDTH_PX) addClass(image, 'icon-inline');
 }
 
 function applyExternalTarget(link: Link): void {
