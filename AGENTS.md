@@ -27,6 +27,8 @@ pnpm migrate:content  # re-generate src/content/docs from docs/ — see hazard b
 
 Recreate the Python env with `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`.
 
+- Verify dev-container image tags against the registry before changing them; the image release prefix is independent of the Node version, and `javascript-node:1-24` does not exist.
+
 ## `pnpm migrate:content` hazard
 
 - It starts by `rm -rf src/content/docs` (`scripts/migrate-content.ts:232`), so everything under it must be regenerable — it currently is, with two exceptions.
