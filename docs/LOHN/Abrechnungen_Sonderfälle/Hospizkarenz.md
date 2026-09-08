@@ -2,7 +2,7 @@
 
 Bei einer Hospizkarenz erfolgt keine normale Abmeldung des Dienstnehmers bzw. der Dienstnehmerin bei der ÖGK. Stattdessen wird für den Zeitraum der Hospizkarenz eine eigene Anmeldung erstellt. Nach Ende der Hospizkarenz erfolgt die entsprechende Abmeldung.
 
-Aus diesem Grund darf im Austrittsbildschirm kein regulärer Austritt erfasst werden. Die erforderlichen Daten werden ausschließlich im Bereich ***Hospizkarenz*** eingetragen.
+Aus diesem Grund darf im *Austrittsbildschirm* kein regulärer Austritt erfasst werden. Die erforderlichen Daten werden ausschließlich im Bereich ***Hospizkarenz*** eingetragen.
 
 ## Welche Fälle zählen zur Hospizkarenz?
 
@@ -16,7 +16,7 @@ Dazu zählen
 
 ## Abrechnungsbeispiel: Pflegekarenz gegen Entfall des Entgelts
 
-Dieses Beispiel gilt auch für die **Familienhospizkarenz gegen Entfall des Entgelts** sowie für das P**flegekarenzgeld während einer Freistellung wegen Kinderrehabilitation**.
+Dieses Beispiel gilt auch für die **Familienhospizkarenz gegen Entfall des Entgelts** sowie für das **Pflegekarenzgeld während einer Freistellung wegen Kinderrehabilitation**.
 
 ### Fallbeispiel
 
@@ -32,8 +32,6 @@ Tragen Sie im *Austrittsbildschirm* im Bereich [*Hospizkarenz*](../Abrechnungsbi
 
 !!! warning "Hinweis"
     Die Felder *Entgelt vor der Hospizkarenz* und *Entgelt während der Hospizkarenz* müssen nur bei einer **Teilzeit** befüllt werden. Bei einer Karenz sind diese Felder ausgegraut und müssen nicht befüllt werden.
-
-Dadurch dass nicht oben der Austritt normal erfasst wird, müssen Sie manuell den Lohn/Gehalt kürzen.
 
 Da kein regulärer Austritt erfasst wird, erfolgt **keine** automatische Kürzung des Lohns bzw. Gehalts. Der Bezug muss daher manuell angepasst werden.
 
@@ -57,7 +55,7 @@ Bestätigen Sie diese Abfrage mit **Ja**. Dadurch wird die Anmeldung erstellt un
 ![Image](img/image640.png)
 
 !!! warning "Hinweis"
-    Für die Hospizkarenz ist keine Betriebliche Vorsorge abzuführen.
+    Für die Hospizkarenz ist **keine** Betriebliche Vorsorge abzuführen.
 
 #### Abrechnung September und Oktober
 
@@ -82,7 +80,7 @@ Beim Speichern der Abrechnung erscheint die Abfrage, ob *die Familienhospiz-Abme
 Bestätigen Sie diese Abfrage mit **Ja**. Dadurch wird die Abmeldung erstellt und muss anschließend nur noch versendet werden.
 
 !!! warning "Hinweis"
-    Beginnt die Hospizkarenz genau am **1. eines Monats**, wird die Anmeldung erst im Folgemonat ausgegeben. In diesem Fall müssen Sie den Folgemonat vorab abrechnen, damit die Anmeldung zur Hospizkarenz erstellt wird.
+    Wird eine Hospizkarenz, die am **1. eines Monats** beginnt, bereits im Vormonat vor Beginn der Hospizkarenz erfasst, wird die Anmeldung zu diesem Zeitpunkt noch nicht erstellt. Damit die Anmeldung zur Hospizkarenz ausgegeben wird, müssen Sie den Monat abrechnen, in dem die Hospizkarenz beginnt.
 
 ## Abrechnungsbeispiel: Zwei Pflegekarenzen in einem Monat
 
@@ -247,7 +245,7 @@ Im Dezember erscheint im Beispiel beim Speichern der Abrechnung zusätzlich die 
 Bestätigen Sie diese ebenfalls mit **Ja**. Die Abmeldung wird erstellt und muss anschließend nur noch versendet werden.
 
 !!! warning "Hinweis"
-    Erhält der Dienstnehmer bzw. die Dienstnehmerin während der Pflegeteilzeit ein Entgelt **über der Geringfügigkeitsgrenze**, ist laut diesem Ablauf **keine** Meldung an die ÖGK erforderlich. Der Lohn bzw. das Gehalt wird lediglich entsprechend der vereinbarten Arbeitszeit während der Pflegeteilzeit reduziert.
+    Liegt das Entgelt während der Pflegeteilzeit **über** der Geringfügigkeitsgrenze, ist **keine** gesonderte Familienhospiz-/Pflegekarenz-Anmeldung bzw. -Abmeldung erforderlich. Die Abrechnung und die monatliche Beitragsgrundlagenmeldung erfolgen weiterhin mit dem entsprechend reduzierten Entgelt.
 
 !!! warning "Bitte beachten"
     Die während der Pflegeteilzeit vereinbarte wöchentliche Normalarbeitszeit darf **zehn Stunden nicht unterschreiten**.
