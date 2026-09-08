@@ -7,7 +7,7 @@ program: technik
 ![Icon Technik](img/Icon_TECHNIK.svg#only-light){:width="1000px"}
 ![Icon Technik Darkmode](img/Icon_TECHNIK_negativ.svg#only-dark){:width="1000px"}
 <span id="herzlich-hilfreich-installation-und-wartung-der-rzl-programme" class="legacy-anchor" aria-hidden="true"></span>
-### ▼ Herzlich hilfreich - Installation und Wartung der RZL Programme ▼ { data-toc-label="Herzlich hilfreich - Installation und Wartung der RZL Programme" }
+### Herzlich hilfreich - Installation und Wartung der RZL Programme
 
 Hier finden Sie einen übersichtlichen Leitfaden zur Vorbereitung, Installation, Wartung und Optimierung der RZL Programme. Sie erhalten Zugriff auf Kurzanleitungen und Knowledge-Base-Artikel. Außerdem beantworten wir Ihre wichtigsten Fragen rund um die Installation von RZL.
 
