@@ -1,22 +1,61 @@
-# Lohnarten anlegen / ändern
+# Freie Lohnart anlegen und bearbeiten
 
-Werden individuelle Lohnarten angelegt, so liegt die Verantwortung hinsichtlich der Definition der SV-Pflichtigkeit, LSt-Pflichtigkeit, DB-Pflichtigkeit und KommSt-Pflichtigkeit ausschließlich beim Anwender. Eine falsch definierte Lohnart kann eine falsche Berechnung der Sozialversicherung, Lohnsteuer, DB und Kommunalsteuer bewirken. Die entsprechenden Einstellungen sind daher gewissenhaft vorzunehmen.
+Freie Lohnarten können individuell angelegt und an den jeweiligen Abrechnungsfall angepasst werden.
 
-!!! warning "Hinweis"
-    Sobald die freie Lohnart in der Abrechnung verwendet wurde, darf diese nicht mehr geändert werden. In diesem Fall müssen Sie die Lohnart mit den richtigen Pflichtigkeiten unter einer neuen Nummer anlegen.
-    Lediglich hinsichtlich der Zuordnung der Lohnart in den Eingabefeldern „Bemessung Sonderzahlung“ bis „Bemessung Urlaubsrückstellung Sonderzahlung“ kann eine spätere Korrektur erfolgen. Ein [Repair der Bemessungsgrundlagen](../Repair.md) ist nachfolgend notwendig.
+Je nach gewählter Verwaltung erfolgt die Anlage:
+
+- klientenbezogen unter *Stamm / Lohnarten*
+- kanzleibezogen unter *Klient / Kanzlei / Lohnarten, Lohnformeln, Sonstige Dienstverhinderungen*
+
+Informationen zur Auswahl der geeigneten Verwaltungsart finden Sie unter [Freie Lohnarten – Überblick und Verwaltung](../Freie%20Lohnarten/Verwaltung%20der%20freien%20Lohnarten%20(kanzlei-%20oder%20klientenbezogen).md).
+
+## Vor der Anlage beachten
+
+Bei der Anlage einer freien Lohnart müssen unter anderem die sozialversicherungs-, lohnsteuer-, DB- und kommunalsteuerrechtlichen Einstellungen korrekt festgelegt werden.
+
+!!! warning "Achtung"
+    Prüfen Sie die Pflichtigkeiten einer freien Lohnart sorgfältig. Falsche Einstellungen können zu einer fehlerhaften Berechnung von Sozialversicherung, Lohnsteuer, DB oder Kommunalsteuer führen.
+
+**Bereits verwendete Lohnarten**
+
+Wurde eine freie Lohnart bereits in einer Abrechnung verwendet, darf sie grundsätzlich **nicht** mehr geändert werden.
+
+Sind andere Pflichtigkeiten erforderlich, legen Sie eine **neue freie Lohnart mit einer neuen Nummer** an.
+
+Eine Ausnahme besteht bei bestimmten Zuordnungen zu Bemessungsgrundlagen. Werden diese nachträglich korrigiert, ist anschließend gegebenenfalls ein **[Repair](../Repair.md) der Bemessungsgrundlagen** erforderlich.
+
+## Freie Lohnart anlegen
+
+**Vorgehensweise**
+
+1. Öffnen Sie die Verwaltung der freien Lohnarten.
+2. Legen Sie eine neue Lohnart an.
+3. Vergeben Sie eine *Nummer* und eine aussagekräftige *Bezeichnung*.
+4. Legen Sie fest, um welche Art von Lohnart es sich handelt.
+5. Erfassen Sie die erforderlichen Pflichtigkeiten und weiteren Einstellungen.
+6. Kontrollieren Sie die Angaben in den Registerkarten *LA (1), LA (2)* und gegebenenfalls *LA (3*).
+7. *Speichern* Sie die Lohnart.
+
+!!! info "Tipp"
+    Prüfen Sie insbesondere bei neu angelegten Lohnarten vor der ersten produktiven Verwendung, ob die Pflichtigkeiten und Bemessungsgrundlagen dem gewünschten Abrechnungsfall entsprechen.
+
+## Registerkarte LA (1) – Grundeinstellungen und Pflichtigkeiten
+
+In der Registerkarte **LA (1)** werden die grundlegenden Eigenschaften der freien Lohnart sowie die wesentlichen abgabenrechtlichen Einstellungen festgelegt.
 
 ![Image](<img/image146.png>){width="500"}
 
-## LA (1)
+### Grunddaten
 
 **Nummer**
 
-Es können die Nummern von 1 bis 999 verwendet werden.
+Vergeben Sie eine eindeutige Nummer für die freie Lohnart (1 bis 999).
 
 **Bezeichnung**
 
-Eingabe der Bezeichnung der Lohnart mit bis zu **35** Stellen. Mit diesem Text wird die Lohnart auch auf der Abrechnung ausgedruckt.
+Geben Sie eine aussagekräftige Bezeichnung für die Lohnart ein (maximal 35 Zeichen). Die Bezeichnung wird auch bei der Verwendung der Lohnart in der Abrechnung angezeigt bzw. ausgegeben.
+
+### Art der Lohnart
 
 **Bezug und­ Sachbezug**
 
@@ -34,7 +73,9 @@ Wird dieses Feld aktiviert, kann eine Lohnart angelegt werden, die ausschließli
 
 **Überstunden**
 
-Wenn das Feld *Überstunden* ausgewählt wird, stehen nur mehr bestimmte Pflichtigkeiten zur Auswahl. Im Registerblatt *LA (3)* stehen mehrere Optionen für die Überstundenabrechnung zur Verfügung (siehe Beschreibung unten *LA (3)*).
+Wenn das Feld *Überstunden* ausgewählt wird, stehen nur mehr bestimmte Pflichtigkeiten zur Auswahl. Im Registerblatt *LA (3)* stehen mehrere Optionen für die Überstundenabrechnung zur Verfügung (siehe Beschreibung unten [*LA (3)*](#registerkarte-la-3-uberstunden-und-sonstige-behorden)).
+
+### Abrechnungsverhalten
 
 **Lohnart wiederkehrend**
 
@@ -56,7 +97,7 @@ Lohnarten können nach Einheiten abgerechnet werden. Es ist dann im nächsten Ei
 
 Wird die Lohnart nach Einheiten abgerechnet, so ist hier die Bezeichnung der verwendeten Einheit mit bis zu 8 Zeichen einzugeben (z. B. Stunden, Tage, km usw.). Dieser Text wird auf der Lohnabrechnung angedruckt.
 
-**Aufwandsentschädigung**
+### Aufwandsentschädigung
 
 Handelt es sich bei der Lohnart um eine Aufwandsentschädigung, so ist dieses Feld zu aktivieren. Dazu muss die Pflichtigkeit in der Sozialversicherung, LSt, DB und KommSt entsprechend definiert werden:
 
@@ -69,7 +110,11 @@ Handelt es sich bei der Lohnart um eine Aufwandsentschädigung, so ist dieses Fe
 !!! warning "Hinweis"
     Die Aufwandsentschädigung wird immer im unteren Teil der Lohnabrechnung angedruckt und **nicht** beim Bruttolohn.
 
-**SV-Pflichtigkeit**
+### Pflichtigkeiten
+
+Die Pflichtigkeiten bestimmen, wie die freie Lohnart bei der Berechnung der gesetzlichen Abgaben behandelt wird.
+
+#### SV-Pflichtigkeit
 
 Festlegung der Sozialversicherungspflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
 
@@ -93,7 +138,7 @@ Für die SV-Pflichtigkeiten von 1 bis 6 und 8 bis 9 besteht durch Anwahl der *F2
 
 ![Image](<img/image147.png>)
 
-**LSt-Pflichtigkeit**
+#### LSt-Pflichtigkeit
 
 Festlegung der Lohnsteuerpflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
 
@@ -142,7 +187,7 @@ Festlegung der Lohnsteuerpflichtigkeit der Lohnart durch Auswahl aus der vorgege
 |        45         | steuerfrei gem. § 3 Abs. 1 Z 16d EStG - Zuschüsse zu Carsharing                                                                                                                                                                                                                         |
 |        46         | steuerfrei gem. § 3 Abs. 1 Z 17 b EStG - Essensgutscheine                                                                                                                                                                                                                               |
 
-**DB-Pflichtigkeit**
+#### DB-Pflichtigkeit
 
 Festlegung der DB-Pflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
 
@@ -154,7 +199,7 @@ Festlegung der DB-Pflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen L
 |        3         | nur Erhöhung der DB-Bemessungsgrundlagen |
 |        4         | Erhöhung gemäß ATZ 2017                  |
 
-**KommSt-Pflichtigkeit**
+#### KommSt-Pflichtigkeit
 
 Festlegung der Kommunalsteuerpflichtigkeit der Lohnart durch Auswahl aus der vorgegebenen Liste:
 
@@ -166,7 +211,12 @@ Festlegung der Kommunalsteuerpflichtigkeit der Lohnart durch Auswahl aus der vor
 | 3                    | nur Erhöhung der KommSt-Bemessungsgrundlagen |
 | 4                    | Erhöhung gemäß ATZ 2017                      |
 
-## LA (2)
+!!! warning "Hinweis"
+    Die Kombination der Pflichtigkeiten muss fachlich zum jeweiligen Abrechnungsfall passen. Übernehmen Sie Einstellungen nicht ungeprüft von einer anderen Lohnart.
+
+## Registerkarte LA (2) – Bemessungsgrundlagen und weitere Zuordnungen
+
+In der Registerkarte **LA (2)** werden zusätzliche Zuordnungen und Bemessungsgrundlagen der freien Lohnart festgelegt.
 
 ![Image](<img/image148.png>)
 
@@ -251,15 +301,17 @@ Damit die Mitarbeiterrabatte korrekt berechnet werden können, wählen Sie hier 
 
 Handelt es sich bei der freien Lohnart um Teilentgelt, aktivieren Sie dieses Feld.
 
-## LA (3)
+## Registerkarte LA (3) – Überstunden und sonstige Behörden
+
+Die Registerkarte **LA (3)** ist insbesondere für freie Lohnarten relevant, die in LA (1) als Überstundenlohnart gekennzeichnet wurden.
 
 ![Image](<img/image149.png>)
 
-**Überweisung an Sonstige Behörden**
+### Überweisung an Sonstige Behörden
 
 Wenn Sie bei einer freien Abzugslohnart eine Sonstige Behörde in der Abrechnung hinterlegen möchten, muss hier das Häkchen gesetzt werden. Es kann eine *Sonstige Behörde* nur bei einer freien Lohnart mit Lohnartendefinition „*Abzug*“ oder „*Werbungskosten*“ hinterlegt werden.
 
-**Überstunden als freie Lohnarten**
+### Überstunden als freie Lohnarten
 
 Wenn im Registerblatt LA (1) die Option *Überstunde* ausgewählt wurde, sind nur mehr bestimmte Pflichtigkeiten auswählbar. Die Pflichtigkeiten sind vor allem im Bereich der Lohnsteuer interessant.
 

@@ -1,29 +1,112 @@
-# Verwaltung der freien Lohnarten (kanzlei- oder klientenbezogen)
+# Freie Lohnarten – Überblick und Verwaltung
 
-Die freien Lohnarten werden entweder klientenbezogen im Programmteil *Stamm / Lohnarten* oder als Kanzleilohnarten-Tabelle im Programmteil *Klient / Kanzlei / Lohnarten* verwaltet.
+Im RZL Lohnprogramm wird zwischen **fixen Lohnarten** und **freien Lohnarten** unterschieden.
 
-Eine Kanzleilohnartentabelle muss in den Stammdaten des Klienten verankert werden, damit auf die in der Tabelle angelegten Lohnarten zugegriffen werden kann. Kanzleilohnarten-Tabellen können für mehrere Klienten gleichzeitig verwendet werden.
+| Lohnart         | Beschreibung                                                                                            |
+| :-------------- | :------------------------------------------------------------------------------------------------------ |
+| Fixe Lohnarten  | Sind vom RZL Lohnprogramm vorgegeben und können in diesem Bereich nicht angelegt oder verwaltet werden. |
+| Freie Lohnarten | Können individuell angelegt, bearbeitet und verwaltet werden.                                           |
 
-## Übernahme einer Klienten-Lohnarten-Tabelle als Kanzleilohnarten-Tabelle
+!!! warning "Hinweis"
+    In diesem Kapitel wird ausschließlich die Verwaltung der **freien Lohnarten** beschrieben.
 
-Der Programmteil *Klient / Kanzlei / Lohnarten von Klient übernehmen* bietet die Möglichkeit, beim Klienten verwaltete Lohnarten als Kanzleilohnarten-Tabelle anzulegen.
+## Wo werden freie Lohnarten verwaltet?
+
+Freie Lohnarten können entweder **klientenbezogen** oder **kanzleibezogen** verwaltet werden.
+
+| Verwaltung      | Verwendung                                                                                                                        | Programmaufruf                                                            |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
+| Klientenbezogen | Die freien Lohnarten gelten für einen einzelnen Klienten.                                                                         | *Stamm / Lohnarten*                                                       |
+| Kanzleibezogen  | Die freien Lohnarten werden zentral in einer Kanzleilohnartentabelle verwaltet und können von mehreren Klienten verwendet werden. | *Klient / Kanzlei / Lohnarten, Lohnformeln, Sonstige Dienstverhinderunge* |
+
+### Klientenbezogene Verwaltung
+
+Verwenden Sie die klientenbezogene Verwaltung, wenn eine freie Lohnart ausschließlich für einen bestimmten Klienten benötigt wird.
+
+Die Verwaltung erfolgt unter: *Stamm / Lohnarten*
+
+Die dort angelegten freien Lohnarten stehen für den jeweiligen Klienten zur Verfügung.
+
+### Kanzleibezogene Verwaltung
+
+Sollen einheitliche freie Lohnarten für mehrere Klienten verwendet werden, können diese zentral in einer Kanzleilohnartentabelle verwaltet werden.
+
+Die Verwaltung erfolgt unter: *Klient / Kanzlei / Lohnarten, Lohnformeln, Sonstige Dienstverhinderungen*
+
+Eine Kanzleilohnartentabelle kann mehreren Klienten zugeordnet werden.
+
+!!! info "Tipp"
+    Damit die freien Lohnarten einer Kanzleilohnartentabelle bei einem Klienten verwendet werden können, muss die entsprechende Kanzleilohnartentabelle in den Stammdaten des Klienten hinterlegt sein.
+
+!!! warning "Hinweis"
+    Ein Wechsel zwischen klientenbezogenen freien Lohnarten und einer Kanzleilohnartentabelle ist **nicht** während des laufenden Jahres möglich. Der Wechsel kann im Zuge der [Jahresübernahme](../Jahresuebernahme.md) vorgenommen werden.
+
+## Klienten-Lohnarten als Kanzleilohnartentabelle übernehmen
+
+Bestehende freie Lohnarten eines Klienten können als Grundlage für eine neue Kanzleilohnartentabelle verwendet werden.
+
+Rufen Sie dazu folgenden Programmteil auf: *Klient / Kanzlei / Lohnarten von Klient übernehmen*
 
 ![Image](<img/image169.png>){width="600"}
 
-Zunächst ist die Klientennummer jenes Klienten einzutragen, dessen Lohnarten als Kanzleilohnarten-Tabelle angelegt werden sollen. Der ausgewählte Klient wird mit seinem Namen und dem Kalenderjahr angezeigt. Außerdem werden die absolut verwendeten Lohn­arten, die Auslastung in Prozent und das maximal mögliche Mengengerüst angezeigt (max. 200 Lohnarten sind möglich).
+**Anzeige nach Auswahl des Klienten**
 
-Im unteren Bereich des Bildschirmes ist für die Tabelle eine *Nummer* und eine *Bezeichnung* zu vergeben. Durch Anwahl der Schaltfläche *Übernehmen* werden die Lohnarten des Klienten als Kanzlei-Lohnarten-Tabelle angelegt.
+Nach Eingabe der Klientennummer werden der **Klientenname** und das **Kalenderjahr** angezeigt.
 
-## Übernahme von Kanzleilohnarten auf einen Klienten
+Zusätzlich sehen Sie:
 
-Durch Anwahl des Programmteils *Stamm / Lohnarten von Kanzlei-Tabelle übernehmen* besteht die Möglichkeit, Kanzleilohnarten-Tabellen auf einen Klienten zu überspielen.
+- die Anzahl der verwendeten Lohnarten,
+- die Auslastung in Prozent und
+- das maximal mögliche Mengengerüst.
+
+Es können maximal **200 Lohnarten** verwaltet werden.
+
+**Vorgehensweise**
+
+1. Geben Sie die *Klientennummer* des Klienten ein, dessen freie Lohnarten übernommen werden sollen.
+2. Kontrollieren Sie den angezeigten Klienten und das Kalenderjahr.
+3. Vergeben Sie eine *Nummer* für die neue Kanzleilohnartentabelle.
+4. Geben Sie eine aussagekräftige Bezeichnung für die Tabelle ein.
+5. Wählen Sie *Übernehmen*.
+
+Die freien Lohnarten des ausgewählten Klienten werden daraufhin als Kanzleilohnartentabelle angelegt.
+
+!!! info "Tipp"
+    Verwenden Sie für die Bezeichnung der Kanzleilohnartentabelle einen Namen, aus dem der vorgesehene Einsatzbereich klar hervorgeht.
+
+## Kanzleilohnarten auf einen Klienten übernehmen
+
+Freie Lohnarten einer Kanzleilohnartentabelle können auch auf einen einzelnen Klienten übernommen werden.
+
+Rufen Sie dazu folgenden Programmteil auf: *Stamm / Lohnarten von Kanzlei-Tabelle übernehmen*
+
+**Vorgehensweise**
+
+1. Geben Sie im Feld *Kanzlei-Lohnartentabelle* die gewünschte Tabellennummer ein.
+2. Kontrollieren Sie die ausgewählte Tabelle.
+3. Wählen Sie *Übernehmen*.
+
+Die freien Lohnarten der Kanzleilohnartentabelle werden auf den Klienten übernommen.
 
 ![Image](<img/image170.png>){width="600"}
 
-Im Feld Kanzlei-Lohnartentabelle ist die Nummer der Tabelle einzutragen und wird durch Anwahl der Schaltfläche *Übernehmen* auf den Klienten überspielt.
+!!! warning "Hinweis"
+    Ein Wechsel von klientenbezogenen Lohnarten auf eine Kanzleilohnartentabelle oder umgekehrt ist nur im Zuge der [**Jahresübernahme**](../Jahresuebernahme.md) möglich.
+
+## Kanzleilohnartentabelle duplizieren
+
+Kanzleilohnartentabellen können über den Menüpunkt *Klient / Kanzlei / Lohnarten duplizieren* kopiert werden.
+
+Gehen Sie dabei wie folgt vor:
+
+1. Geben Sie die Nummer der Kanzleilohnartentabelle ein, die dupliziert werden soll.
+2. Wählen Sie im Bereich *Neue Kanzlei-Lohnarten* eine noch freie Nummer für die neue Kanzleilohnartentabelle aus.
+3. Tragen Sie unter *Neue Bezeichnung* eine passende Bezeichnung für die neue Kanzleilohnartentabelle ein.
+
+![Image](img/image171.png)
 
 !!! warning "Hinweis"
-    Ein Wechsel von klientenbezogenen Lohnarten auf eine Kanzleilohnarten-Tabelle oder umgekehrt ist nur im Zuge einer [Jahresübernahme](../Jahresuebernahme.md) möglich.
+    Eine Auswahl einzelner Lohnarten ist beim Duplizieren **nicht** möglich. Es werden immer alle freien Lohnarten in die neue Kanzleilohnartentabelle übernommen.
 
 ## Musterlohnartentabelle
 

@@ -77,65 +77,65 @@ Sie haben jetzt die Möglichkeit, entweder den *KV-Bezug zu übernehmen* oder *K
 
 ![Image](img/image476.png){width="400"}
 
-**Bereich KV-Bezug**
+### Bereich KV-Bezug
 
 Im Bereich *KV-Bezug* haben Sie die Möglichkeit, eine abweichende Aufteilung der vorgeschlagenen KV-Erhöhungsbeträge vorzunehmen. In diesem Bereich werden alle Lohnarten mit der Definition „KV-Bezug“ dargestellt.
 
-- **Aufteilung vom Lohnprogramm**
+**Aufteilung vom Lohnprogramm**
   
-    ![Image](img/image477.png){width="400"}
+![Image](img/image477.png){width="400"}
 
-    Es wird die KV-Erhöhung bei beiden Lohnarten vorgenommen.
+Es wird die KV-Erhöhung bei beiden Lohnarten vorgenommen.
 
-- **Manuelle Aufteilung der Erhöhung**
+**Manuelle Aufteilung der Erhöhung**
   
-    Wenn Sie jedoch eine Lohnart (Vorarbeiterzulage) nicht erhöhen möchten, sondern nur zum Beispiel das *Lohn/Gehalt*, dann geben Sie bei der Lohnart wieder den ursprünglichen Betrag (EUR 300,00) ein, somit wird die gesamte Erhöhung auf die Lohnart Lohn/Gehalt verteilt.
+Wenn Sie jedoch eine Lohnart (Vorarbeiterzulage) nicht erhöhen möchten, sondern nur zum Beispiel das *Lohn/Gehalt*, dann geben Sie bei der Lohnart wieder den ursprünglichen Betrag (EUR 300,00) ein, somit wird die gesamte Erhöhung auf die Lohnart Lohn/Gehalt verteilt.
 
-    ![Image](img/image478.png){width="400"}
+![Image](img/image478.png){width="400"}
 
-    Die Summe aus den Lohnarten ergibt immer die unten dargestellte *Ist-Lohn-Erhöhung* (EUR 3.478,20).
+Die Summe aus den Lohnarten ergibt immer die unten dargestellte *Ist-Lohn-Erhöhung* (EUR 3.478,20).
   
-    Mit dem Button **Vormonat** können die Werte auf jene Eingabe vom Vormonat zurückgesetzt werden.
+Mit dem Button **Vormonat** können die Werte auf jene Eingabe vom Vormonat zurückgesetzt werden.
   
-    Bei der abweichenden Eingabe der Beträge haben Sie die Möglichkeit, den Wert auf vier Arten zurück zu setzen:
+Bei der abweichenden Eingabe der Beträge haben Sie die Möglichkeit, den Wert auf vier Arten zurück zu setzen:
 
-    - *auf KV-Mindestbezug setzen*
+- *auf KV-Mindestbezug setzen*
     
-        Der Wert wird auf den Mindestbezug laut Kollektivvertrag zurückgesetzt.
+    Der Wert wird auf den Mindestbezug laut Kollektivvertrag zurückgesetzt.
 
-    - *Ist-Lohn-Erhöhung durchführen*
+- *Ist-Lohn-Erhöhung durchführen*
   
-         Es wird der Betrag mit dem Ist-Lohnprozentsatz erhöht.
+    Es wird der Betrag mit dem Ist-Lohnprozentsatz erhöht.
 
-    - *auf alten Wert setzen*
+- *auf alten Wert setzen*
 
-         Der Betrag wird auf den vorherigen Wert zurückgesetzt.
+    Der Betrag wird auf den vorherigen Wert zurückgesetzt.
 
-    - *auf Vormonats-Wert setzen*
+- *auf Vormonats-Wert setzen*
   
-         Der Betrag wird auf jenen vom Vormonat zurückgesetzt.
+    Der Betrag wird auf jenen vom Vormonat zurückgesetzt.
 
 ### KV-Daten
 
 In diesem Bereich werden die wichtigsten Informationen aus dem hinterlegten Kollektivvertrag dargestellt.
 
-- **Vereinbarte Arbeitszeit**
+**Vereinbarte Arbeitszeit**
   
-    Es wird immer die Normalarbeitszeit (NAZ) laut KV angeführt. Wenn der Dienstnehmer Vollzeit arbeitet, wird Vollzeit angegeben. Falls der Dienstnehmer Teilzeit arbeitet, wird Teilzeit und das Stundenausmaß angeführt:
+Es wird immer die Normalarbeitszeit (NAZ) laut KV angeführt. Wenn der Dienstnehmer Vollzeit arbeitet, wird Vollzeit angegeben. Falls der Dienstnehmer Teilzeit arbeitet, wird Teilzeit und das Stundenausmaß angeführt:
 
-    ![Image](img/image479.png){width="400"}
+![Image](img/image479.png){width="400"}
 
-- **KV-Mindestbezug**
+**KV-Mindestbezug**
 
-    Es wird der KV-Mindestbezug lt. Kollektivvertrag angeführt.
+Es wird der KV-Mindestbezug lt. Kollektivvertrag angeführt.
 
-- **Ist-Lohn-Erhöhung**
+**Ist-Lohn-Erhöhung**
 
-    Hier sehen Sie die prozentuelle Erhöhung. Falls es eine maximale bzw. minimale Erhöhung gibt, wird auch diese dargestellt.
+Hier sehen Sie die prozentuelle Erhöhung. Falls es eine maximale bzw. minimale Erhöhung gibt, wird auch diese dargestellt.
 
-- **HGKV…**
+**HGKV…**
 
-    Über diesen Menüpunkt gelangen Sie in die KV-Erhöhungsansicht der HGKV.
+Über diesen Menüpunkt gelangen Sie in die KV-Erhöhungsansicht der HGKV.
 
 ### Verteilung der KV-Bezüge
 

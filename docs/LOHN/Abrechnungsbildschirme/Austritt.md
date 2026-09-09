@@ -72,7 +72,7 @@ Wird hier das *Beginndatum* eingetragen, befüllt sich automatisch *das Bis-Datu
 
 ## Mutterschutzmeldung gemäß § 3 Abs 6 MSchG
 
-Durch Auswahl des zuständigen *Arbeitsinspektorats* und durch Eingabe des *Arbeitsplatzes / der Tätigkeit* kann im Anschluss an die Abrechnung eine [Mutterschutzmeldung](../Ausdrucke_allgemein/Ausdruck_Sonderdrucke.md) erstellt und ausgedruckt werden.
+Durch Auswahl des zuständigen *Arbeitsinspektorats* und durch Eingabe des *Arbeitsplatzes / der Tätigkeit* kann im Anschluss an die Abrechnung eine [Mutterschutzmeldung](../Ausdrucke/Ausdruck_Sonderdrucke.md) erstellt und ausgedruckt werden.
 
 ## Truppenübung
 
@@ -163,6 +163,8 @@ Mit Hilfe dieses Programmteils können, wenn Mitarbeiter die Familienhospizkaren
 Nach dem Abspeichern der Daten erfolgt die Abfrage vom Programm, ob die jeweilige Meldung in die ÖGK-Datei erstellt werden soll.
 
 Die Meldungen können nachträglich auch im Programmteil *Bearbeiten / Elektronische Übermittlung / Elektronische Meldung ÖGK erstellen* erstellt werden.
+
+Weitere Informationen zur Handhabung der Hospizkarenz finden Sie [hier](../Abrechnungen_Sonderfälle/Hospizkarenz.md).
 
 ## Sonderfälle Abmeldung (Krankenstand / Richtigstellung Karenz)
 

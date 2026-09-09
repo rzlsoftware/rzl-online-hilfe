@@ -28,6 +28,9 @@ Wurden ausnahmsweise auch während des Jahres L16/E18 erstellt, verhindert diese
 
 Wenn bestimmte Bagatellgrenzen nicht überschritten werden (EUR 900,00 / Jahr bzw. EUR 450,00 / Monat), wird keine Meldung erstellt. Durch Anwahl dieses Felds werden die Bagatellgrenzen nicht berücksichtigt.
 
+!!! info "Tipp"
+    Beim Formular E18 handelt es sich um die Mitteilung gem. **E109a**.
+
 ## Gesundheitsregistermeldung
 
 Seit 01.01.2018 müssen Neueintritte von Dienstnehmern im Gesundheits- und Pflegebereich, im medizinisch-technischen Bereich an die Arbeiterkammer gemeldet werden. Wird ein neuer Dienstnehmer als dem Bereich zugehörig gekennzeichnet, kann über diesen Menüpunkt die entsprechende Meldung erstellt werden.

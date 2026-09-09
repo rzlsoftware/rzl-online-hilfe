@@ -15,7 +15,7 @@ nav:
     - Elektronic_Banking_SEPA.md
     - Electronic_Banking_EBICS.md
     - Aufruf.md
-    - Ausdrucke_allgemein
+    - Ausdrucke
     - Repair.md
     - Finanzaemter_Gemeinden_OEGK_BV-Kassen_Gerichte.md
     - Verwaltung.md
@@ -24,19 +24,18 @@ nav:
     - Datenexport.md
     - Datenimport.md
     - Datenexport_Buchungsbeleg.md
-    - Abfertigung_Neu
+    - Abfertigung_neu.md
     - Exekutionen
-    - Elektronische_Kommunalsteuererklaerung.md
-    - Elektronische_Dienstgebererklaerung.md
-    - Erstellung_und_Ausdruck_eines_EFZ-Antrages.md
-    - Erstellung_eines_Entsendungsantrages.md
+    - Kommunalsteuererklaerung.md
+    - Dienstgebererklaerung.md
+    - EFZ-Antrag.md
+    - Entsendungsantrag.md
     - AUVA_Unfallmeldung.md
-    - Erstellung_der_Berufskrankheitenmeldung.md
+    - Schwerarbeitsmeldung.md
     - RZL_Klientenportal.md
     - Lohnformeln
     - Ausgabe_Jahreslohnkonto_fuer_GPLB.md
     - Kollektivverträge
-    - Auswahlkriterien.md
     - Bauarbeiter_Urlaubs-und_Abfertigungskasse
     - Selbstbemessungsabgaben_melden.md
     - Reports.md

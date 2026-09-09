@@ -20,7 +20,7 @@ Diese Eingabe ist maßgeblich für den Buchungsbeleg. Eingaben von Kreis 0 bis *
 
 ## Auswahlkriterium
 
-Vgl. [Auswahlkriterien](../Auswahlkriterien.md)
+Vgl. [Auswahlkriterien](../Klientenstammdaten/Auswahlkriterien.md)
 
 ## Keine Auszahlung – Zahltag Abrechnung
 
@@ -71,10 +71,10 @@ Im Bereich *Abrechnungstexte* ist es möglich, Abrechnungstexte zeitlich begrenz
 
 Ein Vollumstieg auf Abfertigung neu ist unbefristet möglich.
 
-Vgl. [Abfertigung Neu](../Abfertigung_Neu/Bestehende_Dienstverhaeltnisse_Umstiegsmoeglichkeiten.md)
+Vgl. [Abfertigung Neu](../Abfertigung_neu.md/#vollumstieg-abfertigung-neu)
 
 ## Teilumstieg Abfertigung neu
 
 Bei Abrechnung eines Teilumstiegs ist das Datum des Übertritts (Einfrierungszeitpunkt) einzutragen, damit die BV-Beiträge über das Programm abgeführt werden können. Weiters ist der Einfrierungsanspruch in Monaten (Abfertigungsanspruch zum Zeitpunkt des Übertritts ins neue System) für die Rückstellungsberechnung einzutragen.
 
-Vgl. [Abfertigung Neu](../Abfertigung_Neu/Bestehende_Dienstverhaeltnisse_Umstiegsmoeglichkeiten.md)
+Vgl. [Abfertigung Neu](../Abfertigung_neu.md/#teilumstieg-abfertigung-neu)
