@@ -4,6 +4,8 @@
 !**/
 !/*.mjs
 !/astro.config.ts
+!/playwright.config.ts
+!/e2e/**/*.ts
 !/package.json
 !/tsconfig.json
 !/scripts/**/*.ts

@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "packageManager": "pnpm@11.22.0",
+  "packageManager": "pnpm@12.3.4",
   "engines": {
-    "node": ">=24.19.0 <25"
+    "node": ">=26.8.1 <27"
   },
   "scripts": {
     "predev": "pnpm migrate:nav",
@@ -19,31 +19,35 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "test": "tsx --test scripts/**/*.test.ts",
+    "test:e2e": "playwright test",
     "migrate:content": "tsx scripts/migrate-content.ts",
     "migrate:nav": "tsx scripts/migrate-nav-from-pages.ts",
     "migrate:redirects": "tsx scripts/build-redirect-map.ts",
     "validate:urls": "tsx scripts/validate-urls.ts"
   },
   "dependencies": {
-    "@astrojs/markdown-remark": "7.2.4",
-    "@astrojs/mdx": "^7.0.8",
-    "@astrojs/starlight": "0.41.7",
-    "astro": "7.2.4",
+    "@astrojs/markdown-remark": "7.3.1",
+    "@astrojs/mdx": "8.0.1",
+    "@astrojs/starlight": "0.42.0",
+    "astro": "7.3.2",
     "github-slugger": "2.0.0",
-    "sharp": "0.35.3"
+    "sharp": "0.35.4"
   },
   "devDependencies": {
     "@astrojs/check": "0.9.10",
     "@eslint/js": "10.0.1",
+    "@playwright/test": "1.63.0",
     "@types/mdast": "4.0.4",
-    "@types/node": "24.13.3",
+    "@types/node": "26.5.0",
     "eslint": "10.10.0",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-astro": "3.1.0",
     "globals": "17.12.0",
+    "mdast-util-directive": "3.1.0",
+    "mdast-util-to-hast": "13.2.1",
     "prettier": "3.9.6",
     "prettier-plugin-astro": "1.0.0",
-    "tsx": "4.23.12",
+    "tsx": "4.23.13",
     "typescript": "6.0.3",
     "typescript-eslint": "8.70.0",
     "unist-util-visit": "5.1.0",

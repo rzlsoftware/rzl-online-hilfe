@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/javascript-node:5-24-bookworm",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:5-26-bookworm",
   "postCreateCommand": "bash .devcontainer/setup.sh",
   "customizations": {
     "vscode": {

@@ -1,4 +1,7 @@
 import type { Data, Image, InlineCode, Link, Root, RootContent, Text } from 'mdast';
+import type { TextDirective } from 'mdast-util-directive';
+// Load the hProperties augmentation explicitly, not through Starlight's internals.
+import type {} from 'mdast-util-to-hast';
 
 type Properties = Record<string, unknown>;
 type CompatibleNode = RootContent & { data?: Data & { hProperties?: Properties } };
@@ -15,9 +18,7 @@ type CompatibleParent = CompatibleNode & { children: RootContent[] };
 // `consumeAttribute` below handles both this split shape and the plain
 // single-text-node shape (used directly by unit tests / any pipeline without
 // remark-directive active).
-type DirectiveNode = RootContent & { type: 'textDirective'; name: string };
-
-function isDirectiveNode(node: RootContent | undefined): node is DirectiveNode {
+function isDirectiveNode(node: RootContent | undefined): node is TextDirective {
   return Boolean(node) && node!.type === 'textDirective';
 }
 

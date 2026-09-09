@@ -12,6 +12,8 @@ export default defineConfig(
     'dist/**',
     'site/**',
     'output/**',
+    'playwright-report/**',
+    'test-results/**',
     'docs/**',
     'src/content/docs/**',
     'public/**',
@@ -34,7 +36,7 @@ export default defineConfig(
     },
   },
   {
-    files: ['*.{mjs,ts}', 'scripts/**/*.ts'],
+    files: ['*.{mjs,ts}', 'scripts/**/*.ts', 'e2e/**/*.ts'],
     languageOptions: { globals: globals.node },
   },
   {
