@@ -3,13 +3,12 @@
  * so the matching text can be highlighted there.
  *
  * Pagefind can do this itself via its `highlightParam` option, but that option
- * has to be handed to the Pagefind backend, and the only way in is Starlight's
- * `pagefind` config — whose Zod schema doesn't include `highlightParam` and so
- * strips it. Setting it later at runtime is racy: `pagefind.js` only *stores*
- * the options until the first search creates the instance (`initial_options =
- * new_options`, a whole-object replacement), so calling it too early is
- * overwritten by the search UI and calling it too late would clobber the
- * `excerptLength`/`ranking` the UI configured.
+ * has to be handed to the Pagefind backend. Starlight's `pagefind` config
+ * schema doesn't include `highlightParam` and strips it. Before backend
+ * initialization, runtime options replace the whole stored options object,
+ * so a separate call can overwrite or be overwritten by the search UI.
+ * Options merge after initialization, but coordinating with Starlight's
+ * private UI lifecycle would add another dependency on upstream internals.
  *
  * Rewriting the rendered result links instead is deterministic and has the
  * added benefit of working for every way of following a result — normal click,
