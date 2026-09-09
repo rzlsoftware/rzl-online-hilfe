@@ -1,17 +1,21 @@
 {
-	"image": "mcr.microsoft.com/devcontainers/python:3",
-	"postCreateCommand": "bash .devcontainer/setup.sh",
-	"customizations": {
-		"vscode": {
-			"extensions": [
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:5-26-bookworm",
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "customizations": {
+    "vscode": {
+      "extensions": [
         "editorconfig.editorconfig",
-				"yzhang.markdown-all-in-one"
-			],
-			"settings": {
-				"[markdown]": {
-					"editor.formatOnSave": true
-				}
-			}
-		}
-	}
+        "yzhang.markdown-all-in-one",
+        "astro-build.astro-vscode",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "openai.chatgpt"
+      ],
+      "settings": {
+        "[markdown]": {
+          "editor.formatOnSave": true
+        }
+      }
+    }
+  }
 }

@@ -1,5 +1,12 @@
 {
-    "[markdown]": {
-        "editor.formatOnSave": true
-    }
+  "eslint.validate": ["javascript", "typescript", "astro"],
+  "prettier.requireConfig": true,
+  "prettier.documentSelectors": ["**/*.astro"],
+  "[javascript][typescript][astro][css][json][jsonc][yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[markdown]": {
+    "editor.formatOnSave": true
+  }
 }

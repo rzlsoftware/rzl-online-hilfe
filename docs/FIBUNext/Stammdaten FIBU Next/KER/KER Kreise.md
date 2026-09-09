@@ -10,6 +10,6 @@ Zur Anlage der KER-Kreise ist der Menüpunkt *Stammdaten / KER Kreise* anzuwähl
 
 Nach Eingabe einer fortlaufenden Nummer (KER-Kreis Nr. 0 kann **nicht** angelegt werden) und einer Bezeichnung wird der KER-Kreis mit *Speichern* angelegt. 
 
-![alt text](image-1.png)
+![Anlegen von KER-Kreisen](image-1.png)
 
 Per Drag and Drop können Sie die Konten dem KER-Kreis zuordnen.

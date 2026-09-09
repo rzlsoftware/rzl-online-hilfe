@@ -1,0 +1,15 @@
+nav:
+  - index.md
+  - kanzleireports.md
+  - Report_bearbeiten: report-bearbeiten
+  - ansichten.md
+  - Eigenschaftsfenster: eigenschaftsfenster
+  - einfuegen.md
+  - Formeln: formeln
+  - tabelle.md
+  - kontextmenue.md
+  - verwaltung.md
+  - verwaltung-fibu-next.md
+  - auflistung-musterreports.md
+  - Formelsammlungen: formelsammlungen
+  - ...

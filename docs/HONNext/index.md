@@ -1,7 +1,8 @@
 ---
 title: HON Next Handbuch
+description: Anleitungen und Referenzen für HON Next, die Honorarabrechnung von RZL.
 ---
 
 
- ![alt text](img/HON Next.svg#only-light)
- ![alt text](img/HON Next DM.svg#only-dark)     
+ ![HON Next Handbuch Deckblatt](img/HON Next.svg#only-light)
+ ![HON Next Handbuch Deckblatt](img/HON Next DM.svg#only-dark)     

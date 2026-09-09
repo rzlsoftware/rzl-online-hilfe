@@ -1,0 +1,55 @@
+nav:
+  - LOHN Handbuch: index.md
+  - Allgemeines: allgemeines
+  - Klientenstammdaten: klientenstammdaten
+  - Abrechnungen: abrechnungen
+  - vorerfassung.md
+  - Abrechnungsbildschirme: abrechnungsbildschirme
+  - Freie_Dienstverträge: freie-dienstvertraege
+  - Freie Lohnarten: freie-lohnarten
+  - sachbezuege.md
+  - kanzleitexte-und-kanzleilohnkontenplaene.md
+  - Elektronische_Meldungen_ÖGK: elektronische-meldungen-oegk
+  - elektronic-banking-sepa.md
+  - electronic-banking-ebics.md
+  - aufruf.md
+  - Ausdrucke_allgemein: ausdrucke-allgemein
+  - repair.md
+  - finanzaemter-gemeinden-oegk-bv-kassen-gerichte.md
+  - verwaltung.md
+  - Jahresübernahme: jahresuebernahme
+  - Rückstellungen: rueckstellungen
+  - datenexport.md
+  - datenimport.md
+  - datenexport-buchungsbeleg.md
+  - Abfertigung_Neu: abfertigung-neu
+  - Exekutionen: exekutionen
+  - elektronische-kommunalsteuererklaerung.md
+  - elektronische-dienstgebererklaerung.md
+  - erstellung-und-ausdruck-eines-efz-antrages.md
+  - erstellung-eines-entsendungsantrages.md
+  - erstellung-einer-auva-unfallmeldung.md
+  - erstellung-der-berufskrankheitenmeldung.md
+  - rzl-klientenportal.md
+  - Lohnformeln: lohnformeln
+  - ausgabe-jahreslohnkonto-fuer-gplb.md
+  - Kollektivverträge: kollektivvertraege
+  - auswahlkriterien.md
+  - Bauarbeiter_Urlaubs-und_Abfertigungskasse: bauarbeiter-urlaubs-und-abfertigungskasse
+  - selbstbemessungsabgaben-melden.md
+  - reports.md
+  - Abrechnungen_Sonderfälle: abrechnungen-sonderfaelle
+  - abrechnung-von-vergleichszahlungen-und-nachzahlungen.md
+  - abrechnung-einer-insolvenz.md
+  - kurzarbeit.md
+  - digitaler-personalakt.md
+  - webeku-webservice.md
+  - freiwilligenpauschale.md
+  - prae-l19.md
+  - efz-berechnungsautomatik.md
+  - elda-webservice.md
+  - Kurzanleitungen: kurzanleitungen
+  - schnittstellenbeschreibung.md
+  - fragen.md
+  - clearingfaelle.md
+  - ...

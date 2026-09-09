@@ -53,14 +53,14 @@ Falls keine RZL Daten vorhanden sind, kann dieser Punkt
 3.  Wählen Sie *ZMV-Datei gesichert* und starten Sie
     die Übernahme mit *Durchführen*.
 
-    ![alt text](img/ZMV_DatenuebernahmeSQLServer.png)
+    ![ZMV Daten in die Datenbank übernehmen](img/ZMV_DatenuebernahmeSQLServer.png)
 
 ## Sicherung der RZL Datenbank erstellen
 
 Starten Sie den *RZL-Admin* und wählen Sie
 *Datensicherung erstellen*.
 
-![alt text](img/RZLAdmin_SicherungRZLDatenbank.png)
+![Sicherung der RZL Datenbank erstellen](img/RZLAdmin_SicherungRZLDatenbank.png)
 
 !!! warning "Hinweis"
     Beachten Sie bitte die Erfolgs- oder Fehlermeldung nach der
@@ -76,7 +76,7 @@ soll als *RZL Administrator* im *KIS* hinterlegt werden.
 1.  Starten Sie das *RZL Board* über das *Startmenü*.
 2.  Klicken Sie auf *Neuer Mitarbeiter*.
 
-    ![alt text](img/STAMM_NeuenMitarbeiterAnlegen.png)
+    ![Mitarbeiter anlegen](img/STAMM_NeuenMitarbeiterAnlegen.png)
 
 3.  Wählen Sie eine freie Nummer für den neuen Mitarbeiter.
 4.  Falls die Person noch nicht existiert, kann sie über
@@ -84,7 +84,7 @@ soll als *RZL Administrator* im *KIS* hinterlegt werden.
 5.  Tragen Sie das *Eintritts- und Austrittsdatum* ein.
 6.  Geben Sie den *Benutzernamen* für die Windows-Zuordnung ein.
 
-    ![alt text](img/STAMM_BenutzerAusADAuswaehlen.png)
+    ![Mitarbeiter anlegen (Teil 2)](img/STAMM_BenutzerAusADAuswaehlen.png)
 
 7.  Klicken Sie auf *Speichern*.
 8.  Hinterlegen Sie im *KIS* die *Mitarbeiterrechte* und

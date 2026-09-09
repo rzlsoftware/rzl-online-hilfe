@@ -1,0 +1,14 @@
+nav:
+  - Board: board
+  - FIBU Next: fibu-next
+  - Belegverarbeitung: belegverarbeitung
+  - LOHN: lohn
+  - KIS: kis
+  - Klientenportal: klientenportal
+  - HON Next: hon-next
+  - LE Next: le-next
+  - PDF Manager: pdf-manager
+  - Reporting: reporting
+  - Setup: setup
+  - RZL Admin: rzladmin
+  - Technik: technik

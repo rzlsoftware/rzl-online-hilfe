@@ -1,10 +1,11 @@
 ---
 title: PDF Manager Handbuch
+description: Anleitungen und Referenzen für den RZL PDF Manager – PDFs erzeugen, verwalten und archivieren.
 ---
 
 
- ![alt text](img/PDF Manager Premium.svg#only-light)
- ![alt text](img/PDF Manager Premium DM.svg#only-dark)     
+ ![PDF Manager Handbuch Deckblatt](img/PDF Manager Premium.svg#only-light)
+ ![PDF Manager Handbuch Deckblatt](img/PDF Manager Premium DM.svg#only-dark)     
 
 
 

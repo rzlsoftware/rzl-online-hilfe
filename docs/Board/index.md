@@ -1,7 +1,8 @@
 ---
 title: Board Handbuch
+description: Anleitungen und Referenzen für RZL Board, die Kennzahlen und Auswertungen für die Kanzleisteuerung.
 ---
 
 
- ![alt text](img/Board.svg#only-light)
- ![alt text](img/Board DM.svg#only-dark)     
+ ![Board Handbuch Deckblatt](img/Board.svg#only-light)
+ ![Board Handbuch Deckblatt](img/Board DM.svg#only-dark)     

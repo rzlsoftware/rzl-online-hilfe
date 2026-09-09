@@ -1,7 +1,8 @@
 ---
 title: Leistungserfassung Next Handbuch
+description: Anleitungen und Referenzen für Leistungserfassung Next, die Zeit- und Leistungserfassung von RZL.
 ---
 
 
- ![alt text](img/Leistungserfassung Next.svg#only-light)
- ![alt text](img/Leistungserfassung Next DM.svg#only-dark)    
+ ![Leistungserfassung Next Handbuch Deckblatt](img/Leistungserfassung Next.svg#only-light)
+ ![Leistungserfassung Next Handbuch Deckblatt](img/Leistungserfassung Next DM.svg#only-dark)    

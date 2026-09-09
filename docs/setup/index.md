@@ -1,6 +1,7 @@
 ---
 title: Setup Handbuch
+description: Anleitungen zur Installation und Einrichtung der RZL-Programme.
 ---
 
- ![alt text](img/Deckblatt_LM.svg#only-light)
- ![alt text](img/Deckblatt_DM.svg#only-dark)
+ ![Setup Handbuch Deckblatt](img/Deckblatt_LM.svg#only-light)
+ ![Setup Handbuch Deckblatt](img/Deckblatt_DM.svg#only-dark)

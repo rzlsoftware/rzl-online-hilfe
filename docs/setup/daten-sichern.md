@@ -11,8 +11,8 @@ Für eine Komplettsicherung führen Sie folgende Schritte aus:
 
 **1.**  Öffnen Sie das Programm **RZL Admin**.
 
- ![alt text](img/RZLAdmin_Oeffnen.png#only-light)
- ![alt text](img/RZLAdmin_Oeffnen DM.png#only-dark)
+ ![Öffnen Sie das Programm RZL Admin](img/RZLAdmin_Oeffnen.png#only-light)
+ ![Öffnen Sie das Programm RZL Admin](img/RZLAdmin_Oeffnen DM.png#only-dark)
 
 **2.**  Wählen Sie den Menüpunkt **RZL Daten Sichern/Wiederherstellen**.
 

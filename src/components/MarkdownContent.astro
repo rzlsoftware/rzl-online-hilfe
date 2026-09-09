@@ -1,0 +1,38 @@
+---
+/**
+ * Wraps Starlight's default `MarkdownContent` to emit native Pagefind filter
+ * metadata for the current page's program.
+ *
+ * Pagefind only collects `data-pagefind-filter` from elements inside the
+ * indexed body (Starlight sets `data-pagefind-body` on `<main>`, and
+ * `MarkdownContent` is rendered inside it for both hero and non-hero pages),
+ * so this is the natural place to hang the filter on.
+ *
+ * The `program:<id>` syntax sets an explicit filter value, so the element's
+ * (empty) text content is irrelevant to the index. The id comes straight from
+ * each page's `program` frontmatter, which is also the id used for the options
+ * in `src/nav/programs.generated.ts` — keeping the indexed filter values and
+ * the filter dropdown in sync by construction.
+ *
+ * Emitting this lets the search filter use Pagefind's own index-level
+ * filtering instead of hiding already-rendered results client-side, which
+ * previously produced wrong result counts and a "load more" button that
+ * paged through results the filter had removed.
+ *
+ * The script below highlights the search terms when the page was opened from
+ * a search result (see `./search/highlightMatches.ts`).
+ */
+import Default from '@astrojs/starlight/components/MarkdownContent.astro';
+
+const program = Astro.locals.starlightRoute.entry.data.program;
+---
+
+{program && <span data-pagefind-filter={`program:${program}`} />}
+<Default {...Astro.props}>
+	<slot />
+</Default>
+<script>
+	import { initSearchHighlight } from './search/highlightMatches.ts';
+
+	initSearchHighlight();
+</script>

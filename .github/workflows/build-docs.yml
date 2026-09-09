@@ -1,4 +1,3 @@
-
 name: Build Docs
 
 on:
@@ -7,26 +6,58 @@ on:
       - main
     paths:
       - .github/workflows/build-docs.yml
-      - docs/**
-      - overrides/**
-      - mkdocs.yml
-      - requirements.txt
-    
+      - .devcontainer/devcontainer.json
+      - .devcontainer/setup.sh
+      - .nvmrc
+      - e2e/**
+      - playwright.config.ts
+      - migration-report.json
+      - staticwebapp.config.json
+      - .vscode/**
+      - .editorconfig
+      - .prettierignore
+      - eslint.config.mjs
+      - prettier.config.mjs
+      - pnpm-workspace.yaml
+      - src/**
+      - public/**
+      - astro.config.ts
+      - package.json
+      - pnpm-lock.yaml
+      - scripts/**
+      - tsconfig.json
+
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
       - main
     paths:
       - .github/workflows/build-docs.yml
-      - docs/**
-      - overrides/**
-      - mkdocs.yml
-      - requirements.txt
+      - .devcontainer/devcontainer.json
+      - .devcontainer/setup.sh
+      - .nvmrc
+      - e2e/**
+      - playwright.config.ts
+      - migration-report.json
+      - staticwebapp.config.json
+      - .vscode/**
+      - .editorconfig
+      - .prettierignore
+      - eslint.config.mjs
+      - prettier.config.mjs
+      - pnpm-workspace.yaml
+      - src/**
+      - public/**
+      - astro.config.ts
+      - package.json
+      - pnpm-lock.yaml
+      - scripts/**
+      - tsconfig.json
 
 permissions:
   contents: read
-  pull-requests: write  
-      
+  pull-requests: write
+
 jobs:
   build:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
@@ -35,12 +66,42 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - name: Install MkDocs
-        run: pip3 install -r requirements.txt
+      - name: Setup Node
+        uses: actions/setup-node@v7
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Enable Corepack
+        run: |
+          npm install --global corepack@0.36.0
+          corepack enable pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Lint
+        run: pnpm lint
+
+      - name: Check formatting
+        run: pnpm format:check
+
+      - name: Check
+        run: pnpm check
 
       - name: Build Docs
-        run: |
-          mkdocs --color build --strict --clean -d dist
+        run: pnpm build
+
+      - name: Unit tests
+        run: pnpm test
+
+      - name: Validate URLs
+        run: pnpm validate:urls
+
+      - name: Install browser
+        run: pnpm exec playwright install --with-deps chromium
+
+      - name: Browser tests
+        run: pnpm test:e2e
 
       - name: Deploy
         id: builddeploy
@@ -48,21 +109,21 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_JOLLY_HILL_044738003 }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          action: "upload"
-          app_location: "/dist"
-          api_location: ""
-          config_file_location: "/"
-          output_location: "/"
+          action: 'upload'
+          app_location: '/dist'
+          api_location: ''
+          config_file_location: '/'
+          output_location: '/'
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
     runs-on: ubuntu-latest
     name: Close Pull Request Job
-    
+
     steps:
       - name: Close Pull Request
         id: closepullrequest
         uses: Azure/static-web-apps-deploy@v1
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_JOLLY_HILL_044738003 }}
-          action: "close"
+          action: 'close'

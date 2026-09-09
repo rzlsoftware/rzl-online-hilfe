@@ -1,0 +1,28 @@
+---
+/**
+ * Wraps Starlight's default `Search` component to add a program filter
+ * `<select>` above the Pagefind results, matching the legacy MkDocs Material
+ * program filter (`overrides/partials/search.html` + `docs/scripts/search-filter.js`).
+ *
+ * Options come from `src/nav/programs.generated.ts` (top-level nav titles).
+ * Filtering is done by Pagefind itself: each page is indexed with a `program`
+ * filter (see `./MarkdownContent.astro`) and `./search/programFilter.ts`
+ * mirrors this dropdown onto Pagefind's own filter controls.
+ *
+ * `./search/searchResultLinks.ts` additionally tags the result links with the
+ * current search terms so the target page can highlight them.
+ */
+import Search from '@astrojs/starlight/components/Search.astro';
+import { programs } from '../nav/programs.generated.ts';
+import '../styles/search-filter.css';
+---
+
+<Search {...Astro.props} />
+<script type="application/json" id="program-filter-options" is:inline set:html={JSON.stringify(programs)}></script>
+<script>
+	import { initProgramFilter } from './search/programFilter.ts';
+	import { initSearchResultLinks } from './search/searchResultLinks.ts';
+
+	initProgramFilter();
+	initSearchResultLinks();
+</script>

@@ -50,7 +50,7 @@ Ist die automatische Verbuchung aktiviert, müssen zusätzlich folgende Angaben 
 ### Auswahl Kreditoren
 Das ist ein zusätzlicher Filter, der die von der FIBU Bankverbindung ausgewählten Kreditoren genauer filtern lässt.
 
-![alt text](image-14.png)
+![Auswahl Kreditoren](image-14.png)
 
 ## Überweisungslauf
 
@@ -67,7 +67,7 @@ Fällige OPs (inklusive Skonto) werden standardmäßig mit einem Haken markiert.
 ### Bearbeitung pro OP
 Skonto, Teilzahlungen, Zahlungsreferenz oder Verwendungszweck können direkt angepasst werden. Wenn ein Überweisungsbetrag manuell eingegeben wird, werden Skontofelder geleert.
 
-![alt text](image-6.png)
+![Bearbeitung pro OP](image-6.png)
 
 ## Überweisungsdatei erstellen
 Über die Schaltfläche **Erstellen** wird die Überweisungsdatei erzeugt - entweder als Datei oder direkt im EBICS-Modul. Für jeden OP, der vollständig übermittelt wurde, wird das Feld **Überweisung erstellt am** gesetzt.
@@ -77,7 +77,7 @@ Dabei wird das Häkchen **Überweisungen als Sammellastschrift vom Konto abbuche
 ## Automatisches Verbuchen
 Beim **automatischen Verbuchen** wird pro Zahlungslauf ein Stapel mit einer Splitbuchung erstellt. Die Gesamtsumme der Überweisungen wird als **Splitsammelbuchung** auf das ZV-Zwischenkonto gebucht, während die Gegenbuchungen pro OP auf den jeweiligen Kreditoren erfolgen - inklusive OP-Ausgleich.
 
-![alt text](image-7.png)
+![Automatisches Verbuchen](image-7.png)
 
 Wird bei einem OP Skonto gewährt und enthält der OP eine Rechnung mit abweichender Vorsteuer, öffnet sich ein **OP-Dialog zur Skontoaufteilung**. Bei mehreren betroffenen OPs erscheint der Dialog entsprechend mehrfach hintereinander.
 

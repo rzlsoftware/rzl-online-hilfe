@@ -1,0 +1,33 @@
+# Only hand-authored application code and selected project configuration.
+# Keep directories traversable so the file allowlist below can take effect.
+**/*
+!**/
+!/*.mjs
+!/astro.config.ts
+!/playwright.config.ts
+!/e2e/**/*.ts
+!/package.json
+!/tsconfig.json
+!/scripts/**/*.ts
+!/src/**/*.ts
+!/src/**/*.js
+!/src/**/*.astro
+!/src/styles/*.css
+!/src/content/i18n/*.json
+!/.vscode/*.json
+!/.devcontainer/devcontainer.json
+!/.github/workflows/*.yml
+!/.github/workflows/*.yaml
+
+# These must remain untouched, even when passed explicitly or formatted in an editor.
+node_modules/
+.astro/
+dist/
+docs/
+src/content/docs/
+public/
+**/*.generated.*
+migration-report.json
+redirects.generated.json
+staticwebapp.config.json
+pnpm-lock.yaml

@@ -1,6 +1,7 @@
 ---
 title: RZL Admin Handbuch
+description: Anleitungen und Referenzen für RZL Admin – Installation, Sicherung, Wiederherstellung und Verwaltung Ihrer RZL-Programme.
 ---
 
- ![alt text](img/Deckblatt_LM.svg#only-light)
- ![alt text](img/Deckblatt_DM.svg#only-dark)
+ ![RZL Admin Handbuch Deckblatt](img/Deckblatt_LM.svg#only-light)
+ ![RZL Admin Handbuch Deckblatt](img/Deckblatt_DM.svg#only-dark)

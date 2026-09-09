@@ -1,5 +1,6 @@
 ---
 title: LOHN Handbuch
+description: Anleitungen und Referenzen für RZL LOHN, die Personalverrechnung.
 ---
 
 ![Image](img/Lohn%20DM.svg#only-dark)
