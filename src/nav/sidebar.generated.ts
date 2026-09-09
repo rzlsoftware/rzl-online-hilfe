@@ -1509,7 +1509,6 @@ export const sidebar = [
 ] satisfies NonNullable<StarlightUserConfig['sidebar']>;
 
 export const hiddenPages = [
-  "404.md",
   "datenschutz.md",
   "impressum.md",
   "technik/anwenderbereich-anmeldung.md",

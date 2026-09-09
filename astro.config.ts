@@ -26,6 +26,7 @@ export default defineConfig({
     starlight({
       title: 'RZL Online Hilfe',
       description: 'Die RZL Online Hilfe',
+      disable404Route: true,
       locales: {
         root: {
           label: 'Deutsch',

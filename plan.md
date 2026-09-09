@@ -455,7 +455,7 @@ Also fixed alongside it:
 
 ### 7.4 404
 
-**Status:** ✅ Implemented (`012036f`); redirect coverage gap fixed during Phase 4 QA — `src/content/docs/404.md`, formal German copy, `template: splash`. **Found during Phase 4 QA:** `scripts/build-redirect-map.ts` only inlines the ~139 shortest legacy redirects into `staticwebapp.config.json` (Azure's 20 KB route-config limit); the remaining ~1,831 of 1,970 legacy paths were written to `public/legacy-redirects.json` as a "client fallback map" but nothing actually read that file — those URLs silently 404'd. Fixed by adding an inline `<script>` (frontmatter `head`) to `404.md` that looks up the current path (raw, decoded, and trailing-slash variants) in `/legacy-redirects.json` and does `location.replace()` on a match. Also fixed a pre-existing `scripts/validate-urls.ts` false-positive (404.md isn't in `migration-report.json` and builds to `dist/404.html`, not a directory route) so `pnpm validate:urls` passes cleanly and now genuinely proves all 1,970 redirect rules are reachable, not just the inlined subset.
+**Status:** Implemented in `src/pages/404.astro` using Starlight's public `StarlightPage` component, formal German copy, and `template: splash`. `disable404Route: true` disables Starlight's injected route, and no `404.md` entry exists in the docs collection, avoiding duplicate `/404` generation. The page lives outside the generated content tree and builds to `dist/404.html`. Its inline `head` script looks up the current path (raw, decoded, and trailing-slash variants) in `/legacy-redirects.json` and calls `location.replace()` on a match, covering the legacy paths that do not fit in Azure's 20 KB route configuration. `scripts/validate-urls.ts` checks the complete redirect artifact and separately checks that `dist/404.html` exists.
 - **Formal German** copy (e.g. page not found, link home, hint to use search) — not the playful “Ups :D” tone unless brand revisits later
 - SWA `responseOverrides` rewrite unchanged in spirit
 
@@ -551,7 +551,7 @@ Replace pip/mkdocs steps with:
 - [x] Finish `migrate-content.ts`, `migrate-nav-from-pages.ts`, `build-redirect-map.ts`, `validate-urls.ts`
 - [x] Remark/rehype plugins stable (`remark-mkdocs-attributes.ts`)
 - [x] Migration report + CI grep gates (`!!!` free, etc.) — `migration-report.json` written, only minor title-derivation warnings remain
-- [x] Component overrides: Header/Hainz (`src/components/HainzLink.astro`), Search+filter (`src/components/ProgramSearch.astro`), 404 (`src/content/docs/404.md`) — Footer not yet customized (using Starlight default; revisit if legal-links/copyright parity needed)
+- [x] Component overrides: Header/Hainz (`src/components/HainzLink.astro`), Search+filter (`src/components/ProgramSearch.astro`), plus custom 404 route (`src/pages/404.astro`); Footer not yet customized (using Starlight default; revisit if legal-links/copyright parity needed)
 
 **Exit:** scripts run clean on full `docs/` copy in branch. ✅ Achieved.
 
@@ -573,7 +573,7 @@ Replace pip/mkdocs steps with:
 - [ ] **Per-program contacts** click-through and written sign-off — contacts not yet named
 - [ ] Accessibility smoke (keyboard search filter, contrast) — search filter uses a native `<select>` with `aria-label`; full manual pass still open
 - [ ] Performance smoke (LCP on home, search open)
-- [x] Redirect spot-check: old spaced URLs → new slugs — found and fixed a real gap: only ~139/1970 legacy redirects were inlined into `staticwebapp.config.json` (Azure size limit); the rest relied on an unused `public/legacy-redirects.json` fallback map. Added a client-side lookup script to `404.md` (see §7.4) so all 1,970 legacy paths now resolve; `pnpm validate:urls` passes and confirms full coverage.
+- [x] Redirect spot-check: old spaced URLs to new slugs; only ~139/1970 legacy redirects fit in `staticwebapp.config.json` (Azure size limit), and the client-side lookup script in `src/pages/404.astro` consumes `public/legacy-redirects.json` for the remainder (see §7.4).
 
 **Phase 4 engineering smoke pass (this session):** `pnpm check`, `pnpm build` (734 pages), `pnpm test` (12/12), and `pnpm validate:urls` all clean. Spot-checked: home/impressum/datenschutz titles, all 13 top-level program indexes (technik intentionally has no index page, matching legacy `docs/technik/.pages`), admonition conversion counts (284 caution / 204 note / 1 tip asides, zero unconverted `!!!`), `{:width=...}` attr_list rendering (`style="width:1000px;"` confirmed in built HTML), light/dark image CSS rules present, Hainz header link (`https://hainz.rzlsoftware.at`), no `pdf.css` remnants anywhere in source or `dist/`, and the program filter `<select>` (native element, `aria-label="Programm"`, "Alle Programme" default option, all 13 programs, `localStorage` persistence). Still open: named per-program UAT contacts, full manual click-through (search results, mobile nav, keyboard-only pass), and performance/LCP measurement — these need human/editorial involvement rather than being purely engineering-verifiable.
 
