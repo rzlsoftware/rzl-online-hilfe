@@ -7,13 +7,15 @@ import remarkMkDocsAttributes from '../../src/plugins/remark-mkdocs-attributes.t
 test('converts image mode and width attributes', () => {
   const tree: Root = {
     type: 'root',
-    children: [{
-      type: 'paragraph',
-      children: [
-        { type: 'image', url: 'img/logo.svg#only-dark', alt: 'Logo' },
-        { type: 'text', value: '{:width="1000px"}' },
-      ],
-    }],
+    children: [
+      {
+        type: 'paragraph',
+        children: [
+          { type: 'image', url: 'img/logo.svg#only-dark', alt: 'Logo' },
+          { type: 'text', value: '{:width="1000px"}' },
+        ],
+      },
+    ],
   };
   remarkMkDocsAttributes()(tree);
   const image = tree.children[0]?.type === 'paragraph' ? tree.children[0].children[0] : undefined;
@@ -27,15 +29,17 @@ test('converts image mode and width attributes', () => {
 test('marks small width images as inline icons, but not larger ones', () => {
   const tree: Root = {
     type: 'root',
-    children: [{
-      type: 'paragraph',
-      children: [
-        { type: 'image', url: 'img/icon.svg', alt: 'Icon' },
-        { type: 'text', value: '{:width="25px"} Text ' },
-        { type: 'image', url: 'img/screenshot.png', alt: 'Screenshot' },
-        { type: 'text', value: '{:width="1000px"}' },
-      ],
-    }],
+    children: [
+      {
+        type: 'paragraph',
+        children: [
+          { type: 'image', url: 'img/icon.svg', alt: 'Icon' },
+          { type: 'text', value: '{:width="25px"} Text ' },
+          { type: 'image', url: 'img/screenshot.png', alt: 'Screenshot' },
+          { type: 'text', value: '{:width="1000px"}' },
+        ],
+      },
+    ],
   };
   remarkMkDocsAttributes()(tree);
   const paragraph = tree.children[0];
@@ -52,15 +56,17 @@ test('marks small width images as inline icons, but not larger ones', () => {
 test('converts link target and inline-code clipboard attributes', () => {
   const tree: Root = {
     type: 'root',
-    children: [{
-      type: 'paragraph',
-      children: [
-        { type: 'link', url: 'https://example.com', children: [{ type: 'text', value: 'Extern' }] },
-        { type: 'text', value: '{:target="_blank"} und ' },
-        { type: 'inlineCode', value: 'Formel()' },
-        { type: 'text', value: '{data-clipboard-text="Formel()"}' },
-      ],
-    }],
+    children: [
+      {
+        type: 'paragraph',
+        children: [
+          { type: 'link', url: 'https://example.com', children: [{ type: 'text', value: 'Extern' }] },
+          { type: 'text', value: '{:target="_blank"} und ' },
+          { type: 'inlineCode', value: 'Formel()' },
+          { type: 'text', value: '{data-clipboard-text="Formel()"}' },
+        ],
+      },
+    ],
   };
   remarkMkDocsAttributes()(tree);
   const paragraph = tree.children[0];
@@ -80,19 +86,21 @@ test('converts width/target attributes split by remark-directive into Text("{") 
   // dependency (see remark-mkdocs-attributes.ts for the full explanation).
   const tree: Root = {
     type: 'root',
-    children: [{
-      type: 'paragraph',
-      children: [
-        { type: 'image', url: 'img/logo.svg#only-light', alt: 'Logo' },
-        { type: 'text', value: '{' },
-        { type: 'textDirective', name: 'width', attributes: {}, children: [] },
-        { type: 'text', value: '="1000px"}\n' },
-        { type: 'link', url: 'https://example.com', children: [{ type: 'text', value: 'Extern' }] },
-        { type: 'text', value: '{' },
-        { type: 'textDirective', name: 'target', attributes: {}, children: [] },
-        { type: 'text', value: '="_blank"}' },
-      ],
-    }],
+    children: [
+      {
+        type: 'paragraph',
+        children: [
+          { type: 'image', url: 'img/logo.svg#only-light', alt: 'Logo' },
+          { type: 'text', value: '{' },
+          { type: 'textDirective', name: 'width', attributes: {}, children: [] },
+          { type: 'text', value: '="1000px"}\n' },
+          { type: 'link', url: 'https://example.com', children: [{ type: 'text', value: 'Extern' }] },
+          { type: 'text', value: '{' },
+          { type: 'textDirective', name: 'target', attributes: {}, children: [] },
+          { type: 'text', value: '="_blank"}' },
+        ],
+      },
+    ],
   };
   remarkMkDocsAttributes()(tree);
   const paragraph = tree.children[0];

@@ -18,7 +18,7 @@ import '../styles/search-filter.css';
 ---
 
 <Search {...Astro.props} />
-<script type="application/json" id="program-filter-options" is:inline set:html={JSON.stringify(programs)} />
+<script type="application/json" id="program-filter-options" is:inline set:html={JSON.stringify(programs)}></script>
 <script>
 	import { initProgramFilter } from './search/programFilter.ts';
 	import { initSearchResultLinks } from './search/searchResultLinks.ts';

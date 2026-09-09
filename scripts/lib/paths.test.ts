@@ -1,12 +1,7 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 
-import {
-  encodedRoute,
-  routeFromMarkdownPath,
-  slugifySegment,
-  targetPathForSource,
-} from './paths.ts';
+import { encodedRoute, routeFromMarkdownPath, slugifySegment, targetPathForSource } from './paths.ts';
 
 test('slugifySegment transliterates German characters', () => {
   assert.equal(slugifySegment('Änderung ÖGK Straße'), 'aenderung-oegk-strasse');

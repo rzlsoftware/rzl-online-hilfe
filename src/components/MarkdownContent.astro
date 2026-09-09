@@ -28,7 +28,9 @@ const program = Astro.locals.starlightRoute.entry.data.program;
 ---
 
 {program && <span data-pagefind-filter={`program:${program}`} />}
-<Default {...Astro.props}><slot /></Default>
+<Default {...Astro.props}>
+	<slot />
+</Default>
 <script>
 	import { initSearchHighlight } from './search/highlightMatches.ts';
 

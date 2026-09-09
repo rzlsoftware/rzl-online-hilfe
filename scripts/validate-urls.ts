@@ -31,7 +31,7 @@ async function walkMarkdown(root: string, relativeDirectory = ''): Promise<strin
   const files: string[] = [];
   for (const entry of entries) {
     const relativePath = toPosixPath(path.join(relativeDirectory, entry.name));
-    if (entry.isDirectory()) files.push(...await walkMarkdown(root, relativePath));
+    if (entry.isDirectory()) files.push(...(await walkMarkdown(root, relativePath)));
     else if (entry.isFile() && /\.mdx?$/i.test(entry.name)) files.push(relativePath);
   }
   return files;
@@ -99,25 +99,33 @@ async function main(): Promise<void> {
 
   const configPath = path.join(ROOT, 'staticwebapp.config.json');
   const configSize = (await stat(configPath)).size;
-  if (configSize > 20 * 1024) errors.push(`staticwebapp.config.json exceeds Azure's 20 KB limit (${configSize} bytes).`);
+  if (configSize > 20 * 1024)
+    errors.push(`staticwebapp.config.json exceeds Azure's 20 KB limit (${configSize} bytes).`);
 
   const distInfo = await stat(path.join(ROOT, 'dist')).catch(() => undefined);
   if (distInfo?.isDirectory()) {
     for (const route of routes.keys()) {
       const output = route === '/' ? 'index.html' : `${route.slice(1)}index.html`;
-      if (!await stat(path.join(ROOT, 'dist', output)).catch(() => undefined)) {
+      if (!(await stat(path.join(ROOT, 'dist', output)).catch(() => undefined))) {
         errors.push(`Built route is missing: ${route}`);
       }
     }
-    if (!await stat(path.join(ROOT, 'dist', '404.html')).catch(() => undefined)) {
+    if (!(await stat(path.join(ROOT, 'dist', '404.html')).catch(() => undefined))) {
       errors.push('Built route is missing: /404 (404.html)');
     }
   }
 
   if (errors.length > 0) {
-    throw new Error(`URL validation failed with ${errors.length} error(s):\n${errors.slice(0, 100).map((error) => `- ${error}`).join('\n')}${errors.length > 100 ? `\n- ... ${errors.length - 100} more` : ''}`);
+    throw new Error(
+      `URL validation failed with ${errors.length} error(s):\n${errors
+        .slice(0, 100)
+        .map((error) => `- ${error}`)
+        .join('\n')}${errors.length > 100 ? `\n- ... ${errors.length - 100} more` : ''}`,
+    );
   }
-  console.log(`Validated ${markdownFiles.length} pages, ${routes.size} canonical routes, and ${redirects.redirects.length} redirect rules.`);
+  console.log(
+    `Validated ${markdownFiles.length} pages, ${routes.size} canonical routes, and ${redirects.redirects.length} redirect rules.`,
+  );
 }
 
 await main();

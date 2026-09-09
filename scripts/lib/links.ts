@@ -52,7 +52,12 @@ function rewriteHash(sourceMarkdown: string, hash: string, context: LinkRewriteC
   return hash;
 }
 
-function resolveAbsoluteRoute(pathname: string, hash: string, query: string, context: LinkRewriteContext): string | undefined {
+function resolveAbsoluteRoute(
+  pathname: string,
+  hash: string,
+  query: string,
+  context: LinkRewriteContext,
+): string | undefined {
   const sourceMarkdown = context.legacyRoutes.get(normalizeRoute(pathname));
   if (!sourceMarkdown) return undefined;
   const route = context.markdownRoutes.get(sourceMarkdown);
@@ -123,7 +128,7 @@ function rewriteLine(line: string, context: LinkRewriteContext): { line: string;
     while (/\s/.test(output[contentStart] ?? '')) contentStart += 1;
 
     let destinationStart = contentStart;
-    let destinationEnd = contentStart;
+    let destinationEnd: number;
     let outerEnd = -1;
 
     if (output[contentStart] === '<') {

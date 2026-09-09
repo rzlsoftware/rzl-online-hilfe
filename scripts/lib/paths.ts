@@ -26,9 +26,7 @@ export function slugifySegment(value: string): string {
   const wordSeparated = value
     .replace(/([A-Z]{2,})([A-Z][a-z]{2,})/g, '$1-$2')
     .replace(/([a-z0-9])([A-Z][a-z]{2,})/g, '$1-$2');
-  const transliterated = [...wordSeparated]
-    .map((character) => GERMAN_TRANSLITERATION[character] ?? character)
-    .join('');
+  const transliterated = [...wordSeparated].map((character) => GERMAN_TRANSLITERATION[character] ?? character).join('');
   const slug = transliterated
     .normalize('NFKD')
     .replace(/[\u0300-\u036f]/g, '')

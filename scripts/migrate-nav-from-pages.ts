@@ -65,7 +65,7 @@ async function walkMarkdown(root: string, relativeDirectory = ''): Promise<strin
   const files: string[] = [];
   for (const entry of entries) {
     const relativePath = toPosixPath(path.join(relativeDirectory, entry.name));
-    if (entry.isDirectory()) files.push(...await walkMarkdown(root, relativePath));
+    if (entry.isDirectory()) files.push(...(await walkMarkdown(root, relativePath)));
     else if (entry.isFile() && /\.md$/i.test(entry.name)) files.push(relativePath);
   }
   return files;
@@ -88,7 +88,7 @@ function parseNav(source: string, pagesPath: string): NavReference[] {
 
 function humanize(value: string): string {
   const words = value.replace(/\.md$/i, '').split(/[-_]+/).filter(Boolean);
-  return words.map((word, index) => index === 0 ? `${word[0]?.toUpperCase() ?? ''}${word.slice(1)}` : word).join(' ');
+  return words.map((word, index) => (index === 0 ? `${word[0]?.toUpperCase() ?? ''}${word.slice(1)}` : word)).join(' ');
 }
 
 function slugFor(markdownPath: string): string {
@@ -171,7 +171,7 @@ async function buildDirectoryItems(
       const nestedItems = await buildDirectoryItems(contentRoot, relative, usedPages);
       if (nestedItems.length === 0) throw new Error(`Navigation group is empty: ${relative}`);
       items.push({
-        label: item.label ?? await directoryLabel(contentRoot, relative),
+        label: item.label ?? (await directoryLabel(contentRoot, relative)),
         items: nestedItems,
         // Collapsed by default; Starlight still auto-opens whichever group
         // contains the currently active page (see SidebarSublist.astro:
@@ -192,7 +192,7 @@ function moduleHeader(): string {
 
 async function main(): Promise<void> {
   const options = parseOptions(process.argv.slice(2));
-  if (!await exists(options.contentRoot)) throw new Error(`Content root does not exist: ${options.contentRoot}`);
+  if (!(await exists(options.contentRoot))) throw new Error(`Content root does not exist: ${options.contentRoot}`);
 
   const usedPages = new Map<string, number>();
   const sidebar = await buildDirectoryItems(options.contentRoot, '', usedPages);
@@ -216,7 +216,7 @@ async function main(): Promise<void> {
     const id = typeof data.program === 'string' ? data.program : directory;
     programs.push({
       id,
-      label: item.label ?? await directoryLabel(options.contentRoot, directory),
+      label: item.label ?? (await directoryLabel(options.contentRoot, directory)),
       route: routeFromMarkdownPath(firstPage),
     });
   }

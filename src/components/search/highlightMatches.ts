@@ -121,9 +121,7 @@ function showClearControl(marks: ArrayLike<Element>, terms: readonly string[]): 
   // Name only the terms that actually matched — a query can carry terms that
   // matched the page's metadata or a different section, and claiming to have
   // highlighted them would be misleading.
-  const matched = new Set(
-    Array.from(marks, (mark) => normaliseTerm(mark.textContent ?? '')).filter(Boolean)
-  );
+  const matched = new Set(Array.from(marks, (mark) => normaliseTerm(mark.textContent ?? '')).filter(Boolean));
   const named = terms.filter((term) => matched.has(normaliseTerm(term)));
   const quoted = (named.length > 0 ? named : terms).map((term) => `„${term}“`).join(', ');
 
@@ -166,9 +164,7 @@ async function highlight(): Promise<void> {
   }
 
   try {
-    const { default: PagefindHighlight } = await import(
-      /* @vite-ignore */ `${pagefindBase}pagefind-highlight.js`
-    );
+    const { default: PagefindHighlight } = await import(/* @vite-ignore */ `${pagefindBase}pagefind-highlight.js`);
 
     setHighlightParams(terms);
     new PagefindHighlight({

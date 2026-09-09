@@ -40,9 +40,8 @@ export function parseFrontmatter(markdown: string): ParsedFrontmatter {
   if (!match) return { data: {}, body: normalized };
 
   const parsed = parse(match[1] ?? '') as unknown;
-  const data = parsed && typeof parsed === 'object' && !Array.isArray(parsed)
-    ? (parsed as Record<string, unknown>)
-    : {};
+  const data =
+    parsed && typeof parsed === 'object' && !Array.isArray(parsed) ? (parsed as Record<string, unknown>) : {};
   return { data, body: normalized.slice(match[0].length) };
 }
 
@@ -71,7 +70,7 @@ export function plainHeadingText(value: string): string {
     .replace(/<[^>]+>/g, '')
     .replace(/`([^`]*)`/g, '$1')
     .replace(/[*_~]/g, '')
-    .replace(/\\([\\`*{}\[\]()#+.!_-])/g, '$1')
+    .replace(/\\([\\`*{}[\]()#+.!_-])/g, '$1')
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -115,7 +114,7 @@ function collectHeadings(lines: string[]): Heading[] {
     if (!match && !malformed) return;
 
     const markerPrefix = match?.[1] ?? malformed?.[1] ?? '';
-    const depth = match ? match[2]?.length ?? 1 : 1;
+    const depth = match ? (match[2]?.length ?? 1) : 1;
     const rawText = (match?.[3] ?? malformed?.[2] ?? '').trim();
     const plainText = plainHeadingText(rawText);
     headings.push({
@@ -160,17 +159,11 @@ export function prepareMarkdown(
   const headings = collectHeadings(lines);
   const h1Headings = headings.filter((heading) => heading.depth === 1);
   const firstContent = firstSubstantiveLine(lines);
-  const structuralH1 = h1Headings.length === 1 && h1Headings[0]?.lineIndex === firstContent
-    ? h1Headings[0]
-    : undefined;
+  const structuralH1 = h1Headings.length === 1 && h1Headings[0]?.lineIndex === firstContent ? h1Headings[0] : undefined;
   const warnings: string[] = [];
 
-  const frontmatterTitle = typeof existingTitle === 'string' && existingTitle.trim()
-    ? existingTitle.trim()
-    : undefined;
-  const title = plainHeadingText(
-    frontmatterTitle ?? structuralH1?.rawText ?? navigationTitle ?? fallbackTitle,
-  );
+  const frontmatterTitle = typeof existingTitle === 'string' && existingTitle.trim() ? existingTitle.trim() : undefined;
+  const title = plainHeadingText(frontmatterTitle ?? structuralH1?.rawText ?? navigationTitle ?? fallbackTitle);
 
   if (!frontmatterTitle && !structuralH1 && !navigationTitle) {
     warnings.push(`Title derived from file name: ${fallbackTitle}`);
@@ -181,7 +174,11 @@ export function prepareMarkdown(
   if (h1Headings.length === 1 && !structuralH1) {
     warnings.push('Demoted a body H1 that was not the page title.');
   }
-  if (frontmatterTitle && structuralH1 && plainHeadingText(structuralH1.rawText) !== plainHeadingText(frontmatterTitle)) {
+  if (
+    frontmatterTitle &&
+    structuralH1 &&
+    plainHeadingText(structuralH1.rawText) !== plainHeadingText(frontmatterTitle)
+  ) {
     warnings.push(`Frontmatter title differs from removed body H1: "${structuralH1.rawText}".`);
   }
 
@@ -278,13 +275,9 @@ export function convertMkDocsAdmonitions(markdown: string): AdmonitionResult {
     }
 
     const contentLines = lines.slice(index + 1, end);
-    const nonBlankIndents = contentLines
-      .filter((candidate) => candidate.trim())
-      .map(indentationLength);
-    const contentIndent = nonBlankIndents.length > 0
-      ? Math.min(...nonBlankIndents)
-      : baseLength + 4;
-    const dedented = contentLines.map((candidate) => candidate.trim() ? stripIndent(candidate, contentIndent) : '');
+    const nonBlankIndents = contentLines.filter((candidate) => candidate.trim()).map(indentationLength);
+    const contentIndent = nonBlankIndents.length > 0 ? Math.min(...nonBlankIndents) : baseLength + 4;
+    const dedented = contentLines.map((candidate) => (candidate.trim() ? stripIndent(candidate, contentIndent) : ''));
     const nested = convertMkDocsAdmonitions(dedented.join('\n'));
     converted += 1 + nested.converted;
     const nestedLines = nested.markdown.split('\n').map((candidate) => `${baseIndent}${candidate}`);

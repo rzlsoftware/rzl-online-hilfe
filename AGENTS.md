@@ -17,6 +17,10 @@ RZL Online Hilfe — a German documentation site, currently mid-migration from M
 pnpm dev            # predev regenerates nav, then astro dev
 pnpm build          # prebuild regenerates nav + redirects, then astro build
 pnpm check          # astro check — CI gate
+pnpm lint           # ESLint recommended JS/TS/Astro rules — CI gate
+pnpm lint:fix       # apply ESLint fixes
+pnpm format:check   # Prettier formatting — CI gate
+pnpm format         # format allowlisted hand-authored code/configuration
 pnpm test           # tsx --test scripts/**/*.test.ts — NOT run in CI
 pnpm migrate:content  # re-generate src/content/docs from docs/ — see hazard below
 
@@ -28,10 +32,11 @@ pnpm migrate:content  # re-generate src/content/docs from docs/ — see hazard b
 Recreate the Python env with `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`.
 
 - Verify dev-container image tags against the registry before changing them; the image release prefix is independent of the Node version, and `javascript-node:1-24` does not exist.
+- ESLint scope is configured in `eslint.config.mjs`; Prettier uses the allowlist in `.prettierignore`, excluding both documentation trees and generated artifacts even for explicit file arguments.
 
 ## `pnpm migrate:content` hazard
 
-- It starts by `rm -rf src/content/docs` (`scripts/migrate-content.ts:232`), so everything under it must be regenerable — it currently is, with two exceptions.
+- It starts by removing `src/content/docs` (`scripts/migrate-content.ts`), so everything under it must be regenerable — it currently is, with two exceptions.
 - **`src/content/docs/404.md` is hand-authored and is NOT produced by the migration**; it holds the inlined client-side legacy-redirect fallback, so restore it with `git checkout -- src/content/docs/404.md` after every run.
 - **`src/content/docs/index.mdx` is hand-authored and is NOT produced by the migration**; it's the homepage's section `CardGrid`/`LinkCard` (needs MDX; every other page stays plain `.md`). After every run: `git checkout -- src/content/docs/index.mdx` and delete the plain `index.md` the migration regenerates from `docs/index.md` in its place (both can't coexist — same route).
 - Verify a run against a throwaway target first: `pnpm exec tsx scripts/migrate-content.ts --target=/tmp/migtest --report=/tmp/migreport.json`.
@@ -75,7 +80,7 @@ Recreate the Python env with `python3 -m venv .venv && .venv/bin/pip install -r 
 
 ## Markdown plugin — `src/plugins/remark-mkdocs-attributes.ts`
 
-- Starlight's `remark-directive` tokenises `{:width="…"}` into three sibling nodes, so every attribute handler must cope with both the split and the plain single-text shape — tests only cover the plain one, so a refactor can pass tests and break in production.
+- Starlight's `remark-directive` tokenises `{:width="…"}` into three sibling nodes, so every attribute handler must cope with both the split and the plain single-text shape covered in `scripts/plugins/remark-mkdocs-attributes.test.ts`.
 - `#only-light`/`#only-dark` image suffixes are stripped here and hidden by `.img-light`/`.img-dark` rules in `src/styles/rzl.css`; these hiding rules must outrank `.icon-inline` so the inactive variant stays hidden.
 - Tests live in `scripts/plugins/remark-mkdocs-attributes.test.ts`, away from the source, so `pnpm test`'s glob finds them.
 
@@ -92,7 +97,7 @@ Recreate the Python env with `python3 -m venv .venv && .venv/bin/pip install -r 
 
 ## CI
 
-- `.github/workflows/build-docs.yml` runs only `pnpm check` and `pnpm build`; `pnpm test` and `pnpm validate:urls` are manual.
+- `.github/workflows/build-docs.yml` runs `pnpm lint`, `pnpm format:check`, `pnpm check`, and `pnpm build`; `pnpm test` and `pnpm validate:urls` are manual.
 - Its `paths:` filter does not include `staticwebapp.config.json` or `migration-report.json`, so a change touching only those never deploys.
 
 ## Commits & PRs

@@ -72,7 +72,7 @@ async function walkFiles(root: string, relativeDirectory = ''): Promise<string[]
   const files: string[] = [];
   for (const entry of entries) {
     const relativePath = toPosixPath(path.join(relativeDirectory, entry.name));
-    if (entry.isDirectory()) files.push(...await walkFiles(root, relativePath));
+    if (entry.isDirectory()) files.push(...(await walkFiles(root, relativePath)));
     else if (entry.isFile()) files.push(relativePath);
   }
   return files;
@@ -112,11 +112,7 @@ async function navigationTitles(
   return titles;
 }
 
-function transformPagesYaml(
-  source: string,
-  sourcePath: string,
-  sourceToTarget: Map<string, string>,
-): string {
+function transformPagesYaml(source: string, sourcePath: string, sourceToTarget: Map<string, string>): string {
   const parsed = parse(source) as { nav?: unknown[] } | undefined;
   const sourceDirectory = path.posix.dirname(sourcePath);
   const targetPagesPath = sourceToTarget.get(sourcePath);
@@ -144,10 +140,10 @@ function transformPagesYaml(
       const transformed = transformReference(item);
       if (item !== '...') {
         const resolved = sourceReference(sourceDirectory, item);
-        const isDirectory = !sourceToTarget.has(resolved) && (
-          sourceToTarget.has(`${resolved}/index.md`) ||
-          [...sourceToTarget.keys()].some((sourceFile) => sourceFile.startsWith(`${resolved}/`))
-        );
+        const isDirectory =
+          !sourceToTarget.has(resolved) &&
+          (sourceToTarget.has(`${resolved}/index.md`) ||
+            [...sourceToTarget.keys()].some((sourceFile) => sourceFile.startsWith(`${resolved}/`)));
         if (isDirectory && transformed !== item) return { [item]: transformed };
       }
       return transformed;
@@ -173,7 +169,9 @@ async function main(): Promise<void> {
   const sourceInfo = await stat(options.sourceRoot).catch(() => undefined);
   if (!sourceInfo?.isDirectory()) throw new Error(`Source directory does not exist: ${options.sourceRoot}`);
 
-  const allSourceFiles = (await walkFiles(options.sourceRoot)).filter(shouldMigrate).sort((a, b) => a.localeCompare(b, 'de'));
+  const allSourceFiles = (await walkFiles(options.sourceRoot))
+    .filter(shouldMigrate)
+    .sort((a, b) => a.localeCompare(b, 'de'));
   const sourceToTarget = new Map<string, string>();
   const targetToSource = new Map<string, string>();
   for (const sourcePath of allSourceFiles) {
@@ -217,7 +215,14 @@ async function main(): Promise<void> {
     );
     const targetPath = sourceToTarget.get(sourcePath);
     if (!targetPath) throw new Error(`Missing target mapping for ${sourcePath}.`);
-    stagedPages.push({ sourcePath, targetPath, frontmatter: parsed.data, prepared, admonitions: admonitions.converted, original });
+    stagedPages.push({
+      sourcePath,
+      targetPath,
+      frontmatter: parsed.data,
+      prepared,
+      admonitions: admonitions.converted,
+      original,
+    });
     anchors.set(sourcePath, prepared.anchorMap);
     admonitionCount += admonitions.converted;
     headingCount += prepared.headingCount;
@@ -246,11 +251,12 @@ async function main(): Promise<void> {
     warnings.push(...pageWarnings.map((warning) => `${page.sourcePath}: ${warning}`));
     rewrittenLinks += rewritten.rewritten;
 
-    const program = typeof page.frontmatter.program === 'string'
-      ? page.frontmatter.program
-      : page.frontmatter.program === false
-        ? undefined
-        : programFromSourcePath(page.sourcePath);
+    const program =
+      typeof page.frontmatter.program === 'string'
+        ? page.frontmatter.program
+        : page.frontmatter.program === false
+          ? undefined
+          : programFromSourcePath(page.sourcePath);
     const hide = Array.isArray(page.frontmatter.hide) ? page.frontmatter.hide : [];
     const frontmatter: Record<string, unknown> = { title: page.prepared.title };
     if (typeof page.frontmatter.description === 'string') frontmatter.description = page.frontmatter.description;
@@ -295,7 +301,7 @@ async function main(): Promise<void> {
   }
 
   const remainingAdmonitions = stagedPages.reduce(
-    (total, page) => total + (convertMkDocsAdmonitions(page.prepared.body).converted),
+    (total, page) => total + convertMkDocsAdmonitions(page.prepared.body).converted,
     0,
   );
   const report = {
@@ -320,7 +326,9 @@ async function main(): Promise<void> {
   };
   await writeFile(options.reportPath, `${JSON.stringify(report, null, 2)}\n`, 'utf8');
 
-  console.log(`Migrated ${markdownFiles.length} Markdown pages, ${pagesFiles.length} .pages files, and ${assetFiles.length} assets.`);
+  console.log(
+    `Migrated ${markdownFiles.length} Markdown pages, ${pagesFiles.length} .pages files, and ${assetFiles.length} assets.`,
+  );
   console.log(`Converted ${admonitionCount} admonitions and rewrote ${rewrittenLinks} links.`);
   console.log(`Recorded ${report.warnings.length} review warnings in ${path.relative(ROOT, options.reportPath)}.`);
 }

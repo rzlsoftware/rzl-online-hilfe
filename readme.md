@@ -29,15 +29,23 @@ Die Navigation (Reihenfolge, Struktur) wird weiterhin über `.pages`-Dateien dir
 pnpm install       # Abhängigkeiten installieren
 pnpm dev           # lokale Live-Preview (http://localhost:4321)
 pnpm check         # TypeScript-/Astro-Diagnose (muss vor einem PR fehlerfrei sein)
+pnpm lint          # ESLint-Prüfung für JavaScript, TypeScript und Astro
+pnpm lint:fix      # automatisch behebbare ESLint-Probleme korrigieren
+pnpm format:check  # Formatierung mit Prettier prüfen
+pnpm format        # Code und ausgewählte Konfigurationsdateien formatieren
 pnpm build         # Produktions-Build nach dist/
 pnpm preview       # gebauten Output lokal ansehen
 ```
 
 `pnpm dev` und `pnpm build` generieren die Navigation automatisch aus den `.pages`-Dateien; ein manueller Zwischenschritt ist nicht nötig.
 
+ESLint verwendet empfohlene JavaScript-, TypeScript- und Astro-Regeln; Prettier übernimmt die Formatierung mit dem offiziellen Astro-Plugin. Die Prüfungen ergänzen `pnpm check`, ersetzen es aber nicht.
+
+Die Formatierung ist über `.prettierignore` auf handgeschriebenen Code und ausgewählte Konfigurationsdateien begrenzt. `docs/`, `src/content/docs/`, generierte Navigation und Redirect-Artefakte bleiben unverändert. Markdown, MDX und `.pages` werden nicht formatiert. VS Code empfiehlt die ESLint- und Prettier-Erweiterungen; im DevContainer sind beide vorinstalliert.
+
 ## Toolchain
 
 - Paketmanager: **pnpm** (Version über `packageManager` in `package.json` gepinnt)
 - Node.js: LTS-Version, gepinnt in `.nvmrc`
-- CI: GitHub Actions führt `pnpm check` und `pnpm build` aus und deployt `dist/` auf Azure Static Web Apps
+- CI: GitHub Actions führt `pnpm lint`, `pnpm format:check`, `pnpm check` und `pnpm build` aus und deployt `dist/` auf Azure Static Web Apps
 </content>

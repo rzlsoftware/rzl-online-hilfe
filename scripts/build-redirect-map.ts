@@ -115,14 +115,20 @@ async function main(): Promise<void> {
   const clientMap = Object.fromEntries(allRules.map(({ route, redirect }) => [route, redirect]));
 
   await mkdir(path.join(ROOT, 'public'), { recursive: true });
-  await writeFile(path.join(ROOT, 'redirects.generated.json'), `${JSON.stringify(completeArtifact, null, 2)}\n`, 'utf8');
+  await writeFile(
+    path.join(ROOT, 'redirects.generated.json'),
+    `${JSON.stringify(completeArtifact, null, 2)}\n`,
+    'utf8',
+  );
   await writeFile(path.join(ROOT, 'public/legacy-redirects.json'), `${JSON.stringify(clientMap)}\n`, 'utf8');
   await writeFile(path.join(ROOT, 'staticwebapp.config.json'), configurationJson, 'utf8');
 
   console.log(`Generated ${allRules.length} complete redirect rules.`);
   console.log(`Placed ${deployable.length} exact 301 rules in the ${configurationSize}-byte Azure configuration.`);
   if (deployable.length < allRules.length) {
-    console.log(`${allRules.length - deployable.length} rules remain in the full edge-import artifact and client fallback map.`);
+    console.log(
+      `${allRules.length - deployable.length} rules remain in the full edge-import artifact and client fallback map.`,
+    );
   }
 }
 

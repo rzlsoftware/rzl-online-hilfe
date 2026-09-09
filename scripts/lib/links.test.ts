@@ -16,9 +16,7 @@ function context(): LinkRewriteContext {
       ['Bereich/Start Seite.md', '/bereich/start-seite/'],
       ['Bereich/Andere Seite.md', '/bereich/andere-seite/'],
     ]),
-    legacyRoutes: new Map([
-      ['/Bereich/Andere Seite/', 'Bereich/Andere Seite.md'],
-    ]),
+    legacyRoutes: new Map([['/Bereich/Andere Seite/', 'Bereich/Andere Seite.md']]),
     anchors: new Map([
       ['Bereich/Start Seite.md', new Map([['uberblick', 'überblick']])],
       ['Bereich/Andere Seite.md', new Map([['anderung', 'änderung']])],

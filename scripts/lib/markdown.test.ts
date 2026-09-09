@@ -1,12 +1,7 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 
-import {
-  convertMkDocsAdmonitions,
-  parseFrontmatter,
-  prepareMarkdown,
-  serializeFrontmatter,
-} from './markdown.ts';
+import { convertMkDocsAdmonitions, parseFrontmatter, prepareMarkdown, serializeFrontmatter } from './markdown.ts';
 
 test('frontmatter parsing only consumes the opening YAML block', () => {
   const parsed = parseFrontmatter('---\nhide:\n  - footer\n---\n# Titel\n\n---\nText');
@@ -39,7 +34,7 @@ test('admonition conversion handles nesting and custom titles', () => {
   ].join('\n');
   const result = convertMkDocsAdmonitions(source);
   assert.equal(result.converted, 2);
-  assert.match(result.markdown, /   :::caution\[Achtung\]/);
-  assert.match(result.markdown, /   :::note\[Info\]/);
+  assert.match(result.markdown, / {3}:::caution\[Achtung\]/);
+  assert.match(result.markdown, / {3}:::note\[Info\]/);
   assert.doesNotMatch(result.markdown, /!!!/);
 });

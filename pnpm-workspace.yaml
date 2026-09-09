@@ -5,3 +5,4 @@ minimumReleaseAgeExclude:
   - '@astrojs/markdown-satteri@0.3.7'
   - astro@7.2.4
   - '@astrojs/markdown-remark@7.2.4'
+  - prettier-plugin-astro@1.0.0

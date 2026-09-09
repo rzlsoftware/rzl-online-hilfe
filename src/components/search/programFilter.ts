@@ -32,6 +32,14 @@ interface QueryCounts {
   total: number;
 }
 
+// Only the generated Pagefind module's API used for the filter counts.
+interface PagefindApi {
+  search(term: string): Promise<{
+    filters: Record<string, Record<string, number>>;
+    results: unknown[];
+  }>;
+}
+
 const STORAGE_KEY = 'program-filter';
 const FILTER_KEY = 'program';
 const SEARCH_ROOT_ID = 'starlight__search';
@@ -42,13 +50,13 @@ const COUNT_DEBOUNCE_MS = 350;
 
 const pagefindBundleBase = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/pagefind/`;
 
-let pagefindPromise: Promise<any> | undefined;
+let pagefindPromise: Promise<PagefindApi> | undefined;
 /**
  * Resolves the same module instance the Pagefind UI itself imports (identical
  * specifier => ES module cache hit), so this reuses the already-loaded index
  * rather than initialising a second copy.
  */
-function loadPagefind(): Promise<any> {
+function loadPagefind(): Promise<PagefindApi> {
   pagefindPromise ??= import(/* @vite-ignore */ `${pagefindBundleBase}pagefind.js`);
   return pagefindPromise;
 }
@@ -147,25 +155,24 @@ function setup(): void {
     }
   };
 
-  const currentTerm = (): string =>
-    searchRoot.querySelector<HTMLInputElement>(INPUT_SELECTOR)?.value.trim() ?? '';
+  const currentTerm = (): string => searchRoot.querySelector<HTMLInputElement>(INPUT_SELECTOR)?.value.trim() ?? '';
 
   const render = (): void => {
     const selected = select.value;
 
     for (const option of Array.from(select.options)) {
-      const baseLabel = option.value === '' ? 'Alle Programme' : labels.get(option.value) ?? option.value;
+      const baseLabel = option.value === '' ? 'Alle Programme' : (labels.get(option.value) ?? option.value);
       if (!counts) {
         option.textContent = baseLabel;
         continue;
       }
-      const count = option.value === '' ? counts.total : counts.perProgram[option.value] ?? 0;
+      const count = option.value === '' ? counts.total : (counts.perProgram[option.value] ?? 0);
       option.textContent = `${baseLabel} (${count})`;
     }
 
     // Only explain the situation the filter can't otherwise make obvious:
     // the selected program has no hits while other programs do.
-    const matching = selected && counts ? counts.perProgram[selected] ?? 0 : 0;
+    const matching = selected && counts ? (counts.perProgram[selected] ?? 0) : 0;
     if (selected && counts && matching === 0 && counts.total > 0) {
       const label = labels.get(selected) ?? selected;
       hint.textContent = `Keine Treffer im Programm „${label}“ – ${counts.total} Treffer in allen Programmen.`;
@@ -192,7 +199,7 @@ function setup(): void {
       const result = await pagefind.search(term);
       if (token !== countsToken) return;
       counts = {
-        perProgram: (result?.filters?.[FILTER_KEY] as Record<string, number>) ?? {},
+        perProgram: result?.filters?.[FILTER_KEY] ?? {},
         total: result?.results?.length ?? 0,
       };
     } catch (error) {

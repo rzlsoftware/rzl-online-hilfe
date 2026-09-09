@@ -69,20 +69,20 @@ function consumeFollowingText(parent: CompatibleParent, index: number, pattern: 
  * Returns the captured value, or `undefined` if no annotation was found.
  */
 function consumeAttribute(parent: CompatibleParent, index: number, name: string): string | undefined {
-  const direct = consumeFollowingText(
-    parent,
-    index,
-    new RegExp(`^\\s*\\{(?::)?\\s*${name}="([^"]+)"\\s*\\}`),
-  );
+  const direct = consumeFollowingText(parent, index, new RegExp(`^\\s*\\{(?::)?\\s*${name}="([^"]+)"\\s*\\}`));
   if (direct) return direct[1];
 
   const openBrace = parent.children[index + 1];
   const directive = parent.children[index + 2];
   const rest = parent.children[index + 3];
   if (
-    !openBrace || openBrace.type !== 'text' || (openBrace as Text).value.trim() !== '{' ||
-    !isDirectiveNode(directive) || directive.name !== name ||
-    !rest || rest.type !== 'text'
+    !openBrace ||
+    openBrace.type !== 'text' ||
+    (openBrace as Text).value.trim() !== '{' ||
+    !isDirectiveNode(directive) ||
+    directive.name !== name ||
+    !rest ||
+    rest.type !== 'text'
   ) {
     return undefined;
   }
@@ -153,7 +153,11 @@ function processParent(parent: Root | CompatibleParent): void {
       const target = consumeAttribute(parent as CompatibleParent, index, 'target');
       if (target === '_blank') applyExternalTarget(child as Link);
     } else if (child.type === 'inlineCode') {
-      const match = consumeFollowingText(parent as CompatibleParent, index, /^\s*\{\s*data-clipboard-text="([^"]*)"\s*\}/);
+      const match = consumeFollowingText(
+        parent as CompatibleParent,
+        index,
+        /^\s*\{\s*data-clipboard-text="([^"]*)"\s*\}/,
+      );
       if (match?.[1] !== undefined) applyClipboard(child as InlineCode, match[1]);
     }
   }
